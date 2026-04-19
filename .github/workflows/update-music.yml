@@ -1,0 +1,53 @@
+name: Mise à jour quotidienne de la discographie
+
+on:
+  schedule:
+    # Exécution tous les jours à 2h du matin (UTC)
+    - cron: '0 2 * * *'
+  # Permet aussi un déclenchement manuel depuis l'interface GitHub
+  workflow_dispatch:
+  # Se déclenche aussi quand artists.txt est modifié
+  push:
+    paths:
+      - 'artists.txt'
+
+jobs:
+  update-music-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout du code
+      uses: actions/checkout@v4
+      
+    - name: Configuration Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Installation des dépendances
+      run: |
+        python -m pip install --upgrade pip
+        
+    - name: Exécution du script de mise à jour
+      run: |
+        python update_music.py
+        
+    - name: Vérification des données générées
+      run: |
+        if [ -f "data/discography.json" ]; then
+          echo "✅ Fichier discography.json généré avec succès"
+          ls -la data/
+        else
+          echo "❌ Erreur: discography.json non généré"
+          exit 1
+        fi
+        
+    - name: Commit et push des modifications
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/discography.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Mise à jour automatique de la discographie [skip ci]"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

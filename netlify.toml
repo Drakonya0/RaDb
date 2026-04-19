@@ -1,0 +1,18 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/api/*"
+  to = "/404.html"
+  status = 200
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "max-age=3600"
+
+[[headers]]
+  for = "/data/discography.json"
+  [headers.values]
+    Cache-Control = "max-age=7200"
+    Content-Type = "application/json"
