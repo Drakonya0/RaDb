@@ -1,0 +1,33 @@
+name: Mise à jour hebdomadaire
+
+on:
+  schedule:
+    - cron: '0 1 * * 5'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'artists.txt'
+
+jobs:
+  update-music-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Run auto update
+      run: python auto_update.py
+    
+    - name: Commit and push
+      run: |
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git add data/
+        git commit -m "🔄 Mise à jour - $(date +'%Y-%m-%d')" || exit 0
+        git push
