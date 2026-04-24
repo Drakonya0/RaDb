@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nouveautés · Ma Discothèque</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #ffffff;
+            color: #1d1d1f;
+            line-height: 1.5;
+        }
+        .container { max-width: 900px; margin: 0 auto; padding: 2rem; }
+        h1 { font-size: 2rem; font-weight: 600; margin-bottom: 0.5rem; }
+        .subtitle { color: #86868b; margin-bottom: 2rem; }
+        .filters { display: flex; gap: 0.5rem; margin-bottom: 2rem; flex-wrap: wrap; }
+        .filter-btn {
+            background: #f5f5f7;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 30px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            transition: all 0.2s;
+        }
+        .filter-btn.active { background: #007aff; color: white; }
+        .release-card {
+            background: #f5f5f7;
+            border-radius: 12px;
+            padding: 1rem;
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            transition: all 0.2s;
+        }
+        .release-card:hover { background: #ececee; transform: translateX(4px); }
+        .release-icon { font-size: 1.8rem; width: 50px; text-align: center; }
+        .release-title { font-weight: 600; margin-bottom: 0.25rem; }
+        .release-artist { font-size: 0.8rem; color: #86868b; }
+        .release-date { font-size: 0.7rem; color: #007aff; }
+        .loading, .empty { text-align: center; padding: 3rem; color: #86868b; }
+        .month-header {
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #007aff;
+            margin: 1rem 0 0.5rem;
+        }
+        footer { text-align: center; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #e9e9ef; font-size: 0.7rem; color: #86868b; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔥 Nouveautés</h1>
+        <p class="subtitle">toutes les sorties récentes de ta collection</p>
+        
+        <div class="filters">
+            <button class="filter-btn active" data-filter="all">Tous</button>
+            <button class="filter-btn" data-filter="album">📀 Albums</button>
+            <button class="filter-btn" data-filter="single">🎵 Singles</button>
+            <button class="filter-btn" data-filter="ep">💿 EPs</button>
+        </div>
+        
+        <div id="releases-container">
+            <div class="loading">chargement...</div>
+        </div>
+        
+        <footer>
+            <p>📱 notifications ntfy · mise à jour automatique chaque semaine</p>
+        </footer>
+    </div>
+
+    <script>
+        let allReleases = [];
+        let currentFilter = 'all';
+        
+        async function loadReleases() {
+            try {
+                const response = await fetch('data/releases_history.json');
+                allReleases = await response.json();
+                displayReleases(allReleases);
+            } catch (error) {
+                document.getElementById('releases-container').innerHTML = '<div class="empty">aucune donnée disponible</div>';
+            }
+        }
+        
+        function displayReleases(releases) {
+            let filtered = currentFilter === 'all' ? releases : releases.filter(r => r.type === currentFilter);
+            
+            if (filtered.length === 0) {
+                document.getElementById('releases-container').innerHTML = '<div class="empty">aucune sortie trouvée</div>';
+                return;
+            }
+            
+            // Grouper par mois
+            const grouped = {};
+            filtered.forEach(r => {
+                const date = new Date(r.date);
+                const monthYear = `${date.toLocaleString('fr', { month: 'long' })} ${date.getFullYear()}`;
+                if (!grouped[monthYear]) grouped[monthYear] = [];
+                grouped[monthYear].push(r);
+            });
+            
+            let html = '';
+            for (const [month, items] of Object.entries(grouped)) {
+                html += `<div class="month-header">${month.toUpperCase()}</div>`;
+                html += items.map(r => `
+                    <div class="release-card">
+                        <div class="release-icon">${r.type === 'album' ? '📀' : r.type === 'single' ? '🎵' : '💿'}</div>
+                        <div style="flex:1">
+                            <div class="release-title">${escapeHtml(r.title)}</div>
+                            <div class="release-artist">${escapeHtml(r.artist)}</div>
+                        </div>
+                        <div class="release-date">${new Date(r.date).toLocaleDateString('fr-FR')}</div>
+                    </div>
+                `).join('');
+            }
+            
+            document.getElementById('releases-container').innerHTML = html;
+        }
+        
+        function setupFilters() {
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentFilter = btn.dataset.filter;
+                    displayReleases(allReleases);
+                });
+            });
+        }
+        
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        loadReleases();
+        setupFilters();
+    </script>
+</body>
+</html>
