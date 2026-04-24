@@ -8,7 +8,7 @@ import shutil
 from pathlib import Path
 from datetime import datetime
 
-print("🔄 MISE À JOUR AUTOMATIQUE")
+print("🔄 MISE À JOUR AUTOMATIQUE - COMPLÈTE")
 print("=" * 50)
 
 # Configuration ntfy.sh
@@ -124,7 +124,7 @@ def load_previous_state():
     if state_file.exists():
         with open(state_file, 'r', encoding='utf-8') as f:
             return json.load(f)
-    return {}
+    return []
 
 def save_current_state(state):
     with open('data/previous_state.json', 'w', encoding='utf-8') as f:
@@ -133,8 +133,11 @@ def save_current_state(state):
 def detect_new_releases(old_data, new_data):
     new_releases = []
     
+    # Convertir old_data en dict pour recherche plus rapide
+    old_dict = {a.get('name'): a for a in old_data if a.get('name')}
+    
     for new_artist in new_data:
-        old_artist = next((a for a in old_data if a.get('name') == new_artist.get('name')), {})
+        old_artist = old_dict.get(new_artist.get('name'), {})
         
         for album in new_artist.get('albums', []):
             if album['name'] not in [o.get('name') for o in old_artist.get('albums', [])]:
@@ -173,19 +176,21 @@ Path('data/artists').mkdir(parents=True, exist_ok=True)
 
 # Charger état précédent
 old_state = load_previous_state()
+print(f"📊 Ancien état : {len(old_state)} artistes")
 
 # Lire les artistes
 with open('artists.txt', 'r', encoding='utf-8') as f:
     artists = [l.strip() for l in f if l.strip() and not l.startswith('#')]
 
-print(f"\n📋 {len(artists)} artistes à traiter\n")
+print(f"📋 {len(artists)} artistes à traiter\n")
 
 all_artist_data = []
 success = 0
 errors = 0
 
-for i, artist_name in enumerate(artists[:50], 1):  # LIMITÉ À 50 POUR TEST
-    print(f"[{i}/{min(50, len(artists))}] 🎤 {artist_name[:40]}")
+# PAS DE LIMITE - TOUS LES ARTISTES
+for i, artist_name in enumerate(artists, 1):
+    print(f"[{i}/{len(artists)}] 🎤 {artist_name[:40]}")
     
     data = get_artist_data(artist_name)
     if data:
@@ -194,16 +199,19 @@ for i, artist_name in enumerate(artists[:50], 1):  # LIMITÉ À 50 POUR TEST
         with open(f'data/artists/{safe_name}.json', 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
         all_artist_data.append(data)
-        print(f"   ✅ {len(data['albums'])} albums, {len(data['singles'])} singles")
+        print(f"   ✅ {len(data['albums'])} albums, {len(data['singles'])} singles, {len(data['eps'])} EPs")
         success += 1
     else:
         print(f"   ❌ Non trouvé")
         errors += 1
     
-    time.sleep(0.5)
+    time.sleep(0.3)
 
 # Détecter les nouveautés
+print("\n🔍 Détection des nouveautés...")
 new_releases = detect_new_releases(old_state, all_artist_data)
+
+print(f"🆕 {len(new_releases)} nouvelles sorties détectées")
 
 # Envoyer notification
 if new_releases:
@@ -222,11 +230,20 @@ for json_file in Path('data/artists').glob('*.json'):
     try:
         with open(json_file, 'r', encoding='utf-8') as f:
             artist = json.load(f)
+            # Compter les sorties par année
+            last_release = ""
+            all_releases = artist.get('albums', []) + artist.get('singles', []) + artist.get('eps', [])
+            if all_releases:
+                dates = [r.get('release_date', '') for r in all_releases if r.get('release_date')]
+                if dates:
+                    last_release = max(dates)
+            
             index.append({
                 'name': artist['name'],
                 'albums': len(artist.get('albums', [])),
                 'singles': len(artist.get('singles', [])),
-                'eps': len(artist.get('eps', []))
+                'eps': len(artist.get('eps', [])),
+                'last_release': last_release[:4] if last_release else ''
             })
     except:
         pass
@@ -237,12 +254,53 @@ with open('data/index.json', 'w', encoding='utf-8') as f:
 
 print(f"   ✅ Index créé: {len(index)} artistes")
 
+# Créer l'historique des sorties
+print("📜 Création de l'historique des sorties...")
+all_releases = []
+for artist in all_artist_data:
+    for album in artist.get('albums', []):
+        if album.get('release_date'):
+            all_releases.append({
+                'type': 'album',
+                'artist': artist['name'],
+                'title': album['name'],
+                'date': album['release_date'],
+                'cover': album.get('cover', '')
+            })
+    for single in artist.get('singles', []):
+        if single.get('release_date'):
+            all_releases.append({
+                'type': 'single',
+                'artist': artist['name'],
+                'title': single['name'],
+                'date': single['release_date'],
+                'cover': single.get('cover', '')
+            })
+    for ep in artist.get('eps', []):
+        if ep.get('release_date'):
+            all_releases.append({
+                'type': 'ep',
+                'artist': artist['name'],
+                'title': ep['name'],
+                'date': ep['release_date'],
+                'cover': ep.get('cover', '')
+            })
+
+# Trier par date (plus récent en premier)
+all_releases.sort(key=lambda x: x['date'], reverse=True)
+
+with open('data/releases_history.json', 'w', encoding='utf-8') as f:
+    json.dump(all_releases[:1000], f, ensure_ascii=False, indent=2)
+
+print(f"   ✅ {len(all_releases)} sorties enregistrées")
+
 # Sauvegarder l'état
 save_current_state(all_artist_data)
 
 print("\n" + "=" * 50)
 print(f"✅ MISE À JOUR TERMINÉE !")
-print(f"   📊 Succès: {success}/{min(50, len(artists))}")
+print(f"   📊 Succès: {success}/{len(artists)}")
 print(f"   ⚠️  Erreurs: {errors}")
 print(f"   🆕 Nouveautés: {len(new_releases)}")
+print(f"   📜 Historique: {len(all_releases)} sorties")
 print("=" * 50)
