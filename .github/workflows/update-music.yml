@@ -1,10 +1,8 @@
-name: Mise à jour quotidienne de la discographie
+name: Mise à jour hebdomadaire
 
 on:
   schedule:
-    # Exécution tous les jours à 2h du matin (UTC)
-    - cron: '0 2 * * *'
-  # Permet aussi un déclenchement manuel depuis l'interface GitHub
+    - cron: '0 1 * * 5'  # Vendredi à 1h
   workflow_dispatch:
   # Se déclenche aussi quand artists.txt est modifié
   push:
