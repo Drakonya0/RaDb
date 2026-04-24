@@ -8,7 +8,7 @@ import shutil
 from pathlib import Path
 from datetime import datetime
 
-print("🔄 MISE À JOUR AVEC NOTIFICATIONS NTFY")
+print("🔄 MISE À JOUR AUTOMATIQUE")
 print("=" * 50)
 
 # Configuration ntfy.sh
@@ -32,7 +32,7 @@ def send_notification(title, message, priority=3):
         urllib.request.urlopen(req, timeout=10)
         print(f"   ✅ Notification: {title}")
     except Exception as e:
-        print(f"   ⚠️ Erreur: {e}")
+        print(f"   ⚠️ Erreur notification: {e}")
 
 def fetch_json(url):
     for attempt in range(3):
@@ -134,10 +134,10 @@ def detect_new_releases(old_data, new_data):
     new_releases = []
     
     for new_artist in new_data:
-        old_artist = old_data.get(new_artist['name'], {})
+        old_artist = next((a for a in old_data if a.get('name') == new_artist.get('name')), {})
         
         for album in new_artist.get('albums', []):
-            if album['name'] not in [o['name'] for o in old_artist.get('albums', [])]:
+            if album['name'] not in [o.get('name') for o in old_artist.get('albums', [])]:
                 new_releases.append({
                     'type': 'album',
                     'artist': new_artist['name'],
@@ -146,7 +146,7 @@ def detect_new_releases(old_data, new_data):
                 })
         
         for single in new_artist.get('singles', []):
-            if single['name'] not in [o['name'] for o in old_artist.get('singles', [])]:
+            if single['name'] not in [o.get('name') for o in old_artist.get('singles', [])]:
                 new_releases.append({
                     'type': 'single',
                     'artist': new_artist['name'],
@@ -155,7 +155,7 @@ def detect_new_releases(old_data, new_data):
                 })
         
         for ep in new_artist.get('eps', []):
-            if ep['name'] not in [o['name'] for o in old_artist.get('eps', [])]:
+            if ep['name'] not in [o.get('name') for o in old_artist.get('eps', [])]:
                 new_releases.append({
                     'type': 'ep',
                     'artist': new_artist['name'],
@@ -166,23 +166,26 @@ def detect_new_releases(old_data, new_data):
     return new_releases
 
 # MAIN
-print("\n📁 Nettoyage...")
+print("\n📁 Nettoyage des anciennes données...")
 if os.path.exists('data/artists'):
     shutil.rmtree('data/artists')
-Path('data/artists').mkdir(parents=True)
+Path('data/artists').mkdir(parents=True, exist_ok=True)
 
+# Charger état précédent
 old_state = load_previous_state()
 
+# Lire les artistes
 with open('artists.txt', 'r', encoding='utf-8') as f:
     artists = [l.strip() for l in f if l.strip() and not l.startswith('#')]
 
-print(f"\n📋 {len(artists)} artistes\n")
+print(f"\n📋 {len(artists)} artistes à traiter\n")
 
 all_artist_data = []
 success = 0
+errors = 0
 
-for i, artist_name in enumerate(artists, 1):
-    print(f"[{i}/{len(artists)}] 🎤 {artist_name[:40]}")
+for i, artist_name in enumerate(artists[:50], 1):  # LIMITÉ À 50 POUR TEST
+    print(f"[{i}/{min(50, len(artists))}] 🎤 {artist_name[:40]}")
     
     data = get_artist_data(artist_name)
     if data:
@@ -195,12 +198,14 @@ for i, artist_name in enumerate(artists, 1):
         success += 1
     else:
         print(f"   ❌ Non trouvé")
+        errors += 1
     
     time.sleep(0.5)
 
-# Détecter nouveautés
+# Détecter les nouveautés
 new_releases = detect_new_releases(old_state, all_artist_data)
 
+# Envoyer notification
 if new_releases:
     send_notification(
         f"🔥 {len(new_releases)} NOUVEAUTÉS !",
@@ -208,61 +213,36 @@ if new_releases:
         priority=4
     )
 else:
-    send_notification("📭 Aucune nouveauté", "Cette semaine, rien de nouveau", priority=2)
+    send_notification("✅ Mise à jour terminée", f"{success} artistes mis à jour", priority=2)
 
 # Créer l'index
 print("\n📊 Création de l'index...")
 index = []
 for json_file in Path('data/artists').glob('*.json'):
-    with open(json_file, 'r', encoding='utf-8') as f:
-        artist = json.load(f)
-        index.append({
-            'name': artist['name'],
-            'albums': len(artist.get('albums', [])),
-            'singles': len(artist.get('singles', [])),
-            'eps': len(artist.get('eps', []))
-        })
+    try:
+        with open(json_file, 'r', encoding='utf-8') as f:
+            artist = json.load(f)
+            index.append({
+                'name': artist['name'],
+                'albums': len(artist.get('albums', [])),
+                'singles': len(artist.get('singles', [])),
+                'eps': len(artist.get('eps', []))
+            })
+    except:
+        pass
 
 index.sort(key=lambda x: x['name'])
 with open('data/index.json', 'w', encoding='utf-8') as f:
     json.dump(index, f, ensure_ascii=False, indent=2)
 
-# Créer l'historique des sorties
-print("📜 Historique des sorties...")
-all_releases = []
-for artist in all_artist_data:
-    for album in artist.get('albums', []):
-        if album.get('release_date'):
-            all_releases.append({
-                'type': 'album',
-                'artist': artist['name'],
-                'title': album['name'],
-                'date': album['release_date']
-            })
-    for single in artist.get('singles', []):
-        if single.get('release_date'):
-            all_releases.append({
-                'type': 'single',
-                'artist': artist['name'],
-                'title': single['name'],
-                'date': single['release_date']
-            })
-    for ep in artist.get('eps', []):
-        if ep.get('release_date'):
-            all_releases.append({
-                'type': 'ep',
-                'artist': artist['name'],
-                'title': ep['name'],
-                'date': ep['release_date']
-            })
+print(f"   ✅ Index créé: {len(index)} artistes")
 
-all_releases.sort(key=lambda x: x['date'], reverse=True)
-with open('data/releases_history.json', 'w', encoding='utf-8') as f:
-    json.dump(all_releases[:500], f, ensure_ascii=False, indent=2)
-
+# Sauvegarder l'état
 save_current_state(all_artist_data)
 
 print("\n" + "=" * 50)
-print(f"✅ SUCCÈS: {success}/{len(artists)}")
-print(f"🆕 NOUVEAUTÉS: {len(new_releases)}")
+print(f"✅ MISE À JOUR TERMINÉE !")
+print(f"   📊 Succès: {success}/{min(50, len(artists))}")
+print(f"   ⚠️  Erreurs: {errors}")
+print(f"   🆕 Nouveautés: {len(new_releases)}")
 print("=" * 50)
