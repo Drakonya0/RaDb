@@ -15,11 +15,10 @@ print("=" * 50)
 NTFY_TOPIC = "ma-musique"
 NTFY_URL = f"https://ntfy.sh/{NTFY_TOPIC}"
 
-# TON SITE NETLIFY (remplace par ton vrai URL)
-SITE_URL = "https://narvalomusic.netlify.app/"
+# TON SITE (GitHub Pages)
+SITE_URL = "https://drakonya0.github.io/RaDb"
 
 def send_notification(title, message, priority=3, url=""):
-    """Envoie une notification avec lien cliquable"""
     try:
         msg = message.encode('utf-8')
         headers = {
@@ -28,10 +27,8 @@ def send_notification(title, message, priority=3, url=""):
             'Tags': 'musical_note',
             'Content-Type': 'text/plain; charset=utf-8'
         }
-        # Ajouter l'URL si fournie
         if url:
             headers['Click'] = url.encode('utf-8', errors='ignore')
-        
         req = urllib.request.Request(NTFY_URL, data=msg, method='POST', headers=headers)
         urllib.request.urlopen(req, timeout=10)
         print(f"   ✅ Notification: {title}")
@@ -82,13 +79,13 @@ def get_artist_data(artist_name):
     artist = search_artist(artist_name)
     if not artist:
         return None
-    
+
     artist_id = artist['artistId']
     url = f"https://itunes.apple.com/lookup?id={artist_id}&entity=album&limit=200"
     data = fetch_json(url)
-    
+
     albums, singles, eps = [], [], []
-    
+
     if data:
         for r in data.get('results', []):
             if r.get('wrapperType') == 'collection':
@@ -97,7 +94,7 @@ def get_artist_data(artist_name):
                 cover = r.get('artworkUrl100', '').replace('100x100', '600x600')
                 album_id = r.get('collectionId')
                 release_date = r.get('releaseDate', '')[:10]
-                
+
                 album_data = {
                     'name': name,
                     'year': year,
@@ -105,16 +102,16 @@ def get_artist_data(artist_name):
                     'cover': cover,
                     'tracks': get_album_tracklist(album_id)
                 }
-                
+
                 if ' - Single' in r.get('collectionName', ''):
                     singles.append(album_data)
                 elif ' - EP' in r.get('collectionName', ''):
                     eps.append(album_data)
                 else:
                     albums.append(album_data)
-                
+
                 time.sleep(0.2)
-    
+
     return {
         'name': artist['artistName'],
         'id': artist_id,
@@ -137,10 +134,10 @@ def save_current_state(state):
 def detect_new_releases(old_data, new_data):
     new_releases = []
     old_dict = {a.get('name'): a for a in old_data if a.get('name')}
-    
+
     for new_artist in new_data:
         old_artist = old_dict.get(new_artist.get('name'), {})
-        
+
         for album in new_artist.get('albums', []):
             if album['name'] not in [o.get('name') for o in old_artist.get('albums', [])]:
                 new_releases.append({
@@ -149,7 +146,7 @@ def detect_new_releases(old_data, new_data):
                     'title': album['name'],
                     'date': album.get('release_date', '')
                 })
-        
+
         for single in new_artist.get('singles', []):
             if single['name'] not in [o.get('name') for o in old_artist.get('singles', [])]:
                 new_releases.append({
@@ -158,7 +155,7 @@ def detect_new_releases(old_data, new_data):
                     'title': single['name'],
                     'date': single.get('release_date', '')
                 })
-        
+
         for ep in new_artist.get('eps', []):
             if ep['name'] not in [o.get('name') for o in old_artist.get('eps', [])]:
                 new_releases.append({
@@ -167,7 +164,7 @@ def detect_new_releases(old_data, new_data):
                     'title': ep['name'],
                     'date': ep.get('release_date', '')
                 })
-    
+
     return new_releases
 
 # ============ MAIN ============
@@ -191,10 +188,9 @@ all_artist_data = []
 success = 0
 errors = 0
 
-# Scan de TOUS les artistes
 for i, artist_name in enumerate(artists, 1):
     print(f"[{i}/{len(artists)}] 🎤 {artist_name[:40]}")
-    
+
     data = get_artist_data(artist_name)
     if data:
         safe_name = artist_name.replace('/', '_').replace('\\', '_').replace(':', '_')
@@ -207,7 +203,7 @@ for i, artist_name in enumerate(artists, 1):
     else:
         print(f"   ❌ Non trouvé")
         errors += 1
-    
+
     time.sleep(0.3)
 
 # Détecter les nouveautés
@@ -215,11 +211,13 @@ print("\n🔍 Détection des nouveautés...")
 new_releases = detect_new_releases(old_state, all_artist_data)
 print(f"🆕 {len(new_releases)} nouvelles sorties détectées")
 
-# Envoyer notification AVEC LIEN
+# Envoi notification
 if new_releases:
+    album_count = len([r for r in new_releases if r['type'] == 'album'])
+    single_count = len([r for r in new_releases if r['type'] == 'single'])
     send_notification(
         f"🔥 {len(new_releases)} NOUVEAUTÉS !",
-        f"📀 {len([r for r in new_releases if r['type']=='album'])} albums · 🎵 {len([r for r in new_releases if r['type']=='single'])} singles",
+        f"📀 {album_count} albums · 🎵 {single_count} singles",
         priority=4,
         url=f"{SITE_URL}/releases.html"
     )
@@ -255,16 +253,13 @@ print(f"   ✅ Index créé: {len(index)} artistes")
 # === CRÉATION DE L'HISTORIQUE COMPLET ===
 print("\n📜 Mise à jour de l'historique complet...")
 
-# Charger l'ancien historique s'il existe
 history_file = Path('data/releases_history.json')
 all_releases = []
 if history_file.exists():
     with open(history_file, 'r', encoding='utf-8') as f:
         all_releases = json.load(f)
 
-# Créer un set des titres déjà présents pour éviter les doublons
 existing_titles = {(r['artist'], r['title']) for r in all_releases}
-
 new_entries = []
 
 for artist in all_artist_data:
@@ -302,17 +297,13 @@ for artist in all_artist_data:
                     'cover': ep.get('cover', '')
                 })
 
-# Ajouter les nouvelles entrées à l'historique complet
 all_releases.extend(new_entries)
-
-# Trier l'historique complet par date (du plus récent au plus ancien)
 all_releases.sort(key=lambda x: x['date'], reverse=True)
 
-# Sauvegarder l'historique COMPLET (toutes les sorties)
 with open('data/releases_history.json', 'w', encoding='utf-8') as f:
     json.dump(all_releases, f, ensure_ascii=False, indent=2)
 
-# === CRÉER LE FICHIER DES NOUVEAUTÉS DE LA SEMAINE ===
+# === CRÉER LE FICHIER DES NOUVEAUTÉS DE LA SEMAINE (CORRIGÉ) ===
 print("📅 Filtrage des nouveautés de la semaine...")
 
 today = datetime.now()
@@ -320,21 +311,23 @@ week_ago = today - timedelta(days=7)
 
 new_releases_week = []
 for r in all_releases:
+    date_str = r.get('date')
+    if not date_str:
+        continue
     try:
-        r_date = datetime.strptime(r['date'], '%Y-%m-%d')
+        r_date = datetime.strptime(date_str, '%Y-%m-%d')
         if r_date >= week_ago:
             new_releases_week.append(r)
-    except:
+    except Exception:
         pass
 
-# Sauvegarder uniquement les sorties de la semaine
 with open('data/new_releases.json', 'w', encoding='utf-8') as f:
     json.dump(new_releases_week, f, ensure_ascii=False, indent=2)
 
 print(f"   ✅ Historique complet: {len(all_releases)} sorties")
 print(f"   🆕 Cette semaine: {len(new_releases_week)} sorties")
 
-# Sauvegarder l'état
+# Sauvegarde état
 save_current_state(all_artist_data)
 
 print("\n" + "=" * 50)
