@@ -52,14 +52,20 @@
             margin: 1rem 0 0.5rem;
         }
         footer { text-align: center; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #e9e9ef; font-size: 0.7rem; color: #86868b; }
+        nav { margin-bottom: 2rem; }
+        nav a { color: #86868b; text-decoration: none; margin-right: 1rem; font-size: 0.9rem; }
+        nav a:hover { color: #007aff; }
     </style>
 </head>
 <body>
-     <div class="container">
-        <nav style="margin: 1rem 0;">
-            <a href="index.html" style="color: #86868b; text-decoration: none; margin-right: 1rem;">🏠 Accueil</a>
+    <div class="container">
+        <nav>
+            <a href="index.html">🏠 Accueil</a>
+            <a href="releases.html" style="color: #007aff;">🔥 Nouveautés</a>
+        </nav>
+        
         <h1>🔥 Nouveautés</h1>
-        <p class="subtitle">toutes les sorties récentes de ta collection</p>
+        <p class="subtitle">sorties des 7 derniers jours</p>
         
         <div class="filters">
             <button class="filter-btn active" data-filter="all">Tous</button>
@@ -83,11 +89,11 @@
         
         async function loadReleases() {
             try {
-                const response = await fetch('data/releases_history.json');
+                const response = await fetch('data/new_releases.json');
                 allReleases = await response.json();
                 displayReleases(allReleases);
             } catch (error) {
-                document.getElementById('releases-container').innerHTML = '<div class="empty">aucune donnée disponible</div>';
+                document.getElementById('releases-container').innerHTML = '<div class="empty">aucune sortie cette semaine</div>';
             }
         }
         
