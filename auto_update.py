@@ -15,20 +15,24 @@ print("=" * 50)
 NTFY_TOPIC = "ma-musique"
 NTFY_URL = f"https://ntfy.sh/{NTFY_TOPIC}"
 
-def send_notification(title, message, priority=3):
+# TON SITE NETLIFY (remplace par ton vrai URL)
+SITE_URL = "https://narvalomusic.netlify.app/"
+
+def send_notification(title, message, priority=3, url=""):
+    """Envoie une notification avec lien cliquable"""
     try:
         msg = message.encode('utf-8')
-        req = urllib.request.Request(
-            NTFY_URL,
-            data=msg,
-            method='POST',
-            headers={
-                'Title': title.encode('utf-8'),
-                'Priority': str(priority),
-                'Tags': 'musical_note',
-                'Content-Type': 'text/plain; charset=utf-8'
-            }
-        )
+        headers = {
+            'Title': title.encode('utf-8'),
+            'Priority': str(priority),
+            'Tags': 'musical_note',
+            'Content-Type': 'text/plain; charset=utf-8'
+        }
+        # Ajouter l'URL si fournie
+        if url:
+            headers['Click'] = url.encode('utf-8', errors='ignore')
+        
+        req = urllib.request.Request(NTFY_URL, data=msg, method='POST', headers=headers)
         urllib.request.urlopen(req, timeout=10)
         print(f"   ✅ Notification: {title}")
     except Exception as e:
@@ -211,15 +215,21 @@ print("\n🔍 Détection des nouveautés...")
 new_releases = detect_new_releases(old_state, all_artist_data)
 print(f"🆕 {len(new_releases)} nouvelles sorties détectées")
 
-# Envoyer notification
+# Envoyer notification AVEC LIEN
 if new_releases:
     send_notification(
         f"🔥 {len(new_releases)} NOUVEAUTÉS !",
         f"📀 {len([r for r in new_releases if r['type']=='album'])} albums · 🎵 {len([r for r in new_releases if r['type']=='single'])} singles",
-        priority=4
+        priority=4,
+        url=f"{SITE_URL}/releases.html"
     )
 else:
-    send_notification("✅ Mise à jour terminée", f"{success} artistes mis à jour", priority=2)
+    send_notification(
+        "✅ Mise à jour terminée",
+        f"{success} artistes mis à jour",
+        priority=2,
+        url=SITE_URL
+    )
 
 # === CRÉATION DE L'INDEX ===
 print("\n📊 Création de l'index...")
