@@ -443,19 +443,6 @@
   ],
   "singles": [
     {
-      "name": "Passions tristes",
-      "year": "2020",
-      "release_date": "2020-02-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/07/d8/59/07d859ab-f087-2fda-aeef-17f7f7de5cc2/Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Passions tristes",
-          "duration": "4:19"
-        }
-      ]
-    },
-    {
       "name": "Naufragés",
       "year": "2024",
       "release_date": "2024-06-21",
@@ -465,6 +452,19 @@
           "number": 1,
           "name": "Naufragés",
           "duration": "6:39"
+        }
+      ]
+    },
+    {
+      "name": "Passions tristes",
+      "year": "2020",
+      "release_date": "2020-02-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/07/d8/59/07d859ab-f087-2fda-aeef-17f7f7de5cc2/Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Passions tristes",
+          "duration": "4:19"
         }
       ]
     },
@@ -560,19 +560,6 @@
       ]
     },
     {
-      "name": "Histoire d'eau",
-      "year": "2024",
-      "release_date": "2024-04-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/ab/ec/f5abece5-5607-3d24-204a-4209392ead59/Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Histoire d'eau",
-          "duration": "4:18"
-        }
-      ]
-    },
-    {
       "name": "Les monstres",
       "year": "2024",
       "release_date": "2024-09-06",
@@ -582,6 +569,19 @@
           "number": 1,
           "name": "Les monstres",
           "duration": "3:01"
+        }
+      ]
+    },
+    {
+      "name": "Histoire d'eau",
+      "year": "2024",
+      "release_date": "2024-04-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/ab/ec/f5abece5-5607-3d24-204a-4209392ead59/Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Histoire d'eau",
+          "duration": "4:18"
         }
       ]
     },
@@ -660,39 +660,6 @@
       ]
     },
     {
-      "name": "Narcozik #2",
-      "year": "2014",
-      "release_date": "2014-09-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/93/31/95/933195b5-b2df-155e-3707-3aeccdbb6be7/Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Perce neige",
-          "duration": "4:30"
-        },
-        {
-          "number": 2,
-          "name": "A l'arrière des bars",
-          "duration": "4:12"
-        },
-        {
-          "number": 3,
-          "name": "Prenez les escaliers",
-          "duration": "3:54"
-        },
-        {
-          "number": 4,
-          "name": "Le savoir est une arme",
-          "duration": "4:45"
-        },
-        {
-          "number": 5,
-          "name": "Dommages collatéraux",
-          "duration": "4:46"
-        }
-      ]
-    },
-    {
       "name": "Narcozik #1",
       "year": "2013",
       "release_date": "2013-12-18",
@@ -722,6 +689,39 @@
           "number": 5,
           "name": "Mr Tosh",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "Narcozik #2",
+      "year": "2014",
+      "release_date": "2014-09-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/93/31/95/933195b5-b2df-155e-3707-3aeccdbb6be7/Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Perce neige",
+          "duration": "4:30"
+        },
+        {
+          "number": 2,
+          "name": "A l'arrière des bars",
+          "duration": "4:12"
+        },
+        {
+          "number": 3,
+          "name": "Prenez les escaliers",
+          "duration": "3:54"
+        },
+        {
+          "number": 4,
+          "name": "Le savoir est une arme",
+          "duration": "4:45"
+        },
+        {
+          "number": 5,
+          "name": "Dommages collatéraux",
+          "duration": "4:46"
         }
       ]
     }

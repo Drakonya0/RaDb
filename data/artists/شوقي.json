@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Time of Our Lives",
-      "year": "2014",
-      "release_date": "2014-06-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f6/c0/15/f6c015a1-8a2b-9ec7-396b-693f597f0e70/888831211150.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Time of Our Lives",
-          "duration": "3:43"
-        }
-      ]
-    },
-    {
       "name": "ماجك إن دي إير (feat. شوقي)",
       "year": "2014",
       "release_date": "2014-03-17",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "Magic In the Air (feat. Chawki)",
           "duration": "3:51"
+        }
+      ]
+    },
+    {
+      "name": "Time of Our Lives",
+      "year": "2014",
+      "release_date": "2014-06-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f6/c0/15/f6c015a1-8a2b-9ec7-396b-693f597f0e70/888831211150.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Time of Our Lives",
+          "duration": "3:43"
         }
       ]
     },

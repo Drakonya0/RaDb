@@ -172,64 +172,6 @@
       ]
     },
     {
-      "name": "Unorthodox Jukebox",
-      "year": "2012",
-      "release_date": "2012-12-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/63/53/156353b8-d45b-a17d-f553-2d125aeb3cb3/075679957474.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Young Girls",
-          "duration": "3:49"
-        },
-        {
-          "number": 2,
-          "name": "Locked Out of Heaven",
-          "duration": "3:53"
-        },
-        {
-          "number": 3,
-          "name": "Gorilla",
-          "duration": "4:04"
-        },
-        {
-          "number": 4,
-          "name": "Treasure",
-          "duration": "2:56"
-        },
-        {
-          "number": 5,
-          "name": "Moonshine",
-          "duration": "3:48"
-        },
-        {
-          "number": 6,
-          "name": "When I Was Your Man",
-          "duration": "3:33"
-        },
-        {
-          "number": 7,
-          "name": "Natalie",
-          "duration": "3:45"
-        },
-        {
-          "number": 8,
-          "name": "Show Me",
-          "duration": "3:27"
-        },
-        {
-          "number": 9,
-          "name": "Money Make Her Smile",
-          "duration": "3:23"
-        },
-        {
-          "number": 10,
-          "name": "If I Knew",
-          "duration": "2:12"
-        }
-      ]
-    },
-    {
       "name": "Doo-Wops & Hooligans (Deluxe)",
       "year": "2010",
       "release_date": "2010-10-04",
@@ -304,6 +246,64 @@
           "number": 14,
           "name": "The Other Side (feat. Cee Lo Green & B.o.B)",
           "duration": "3:46"
+        }
+      ]
+    },
+    {
+      "name": "Unorthodox Jukebox",
+      "year": "2012",
+      "release_date": "2012-12-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/63/53/156353b8-d45b-a17d-f553-2d125aeb3cb3/075679957474.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Young Girls",
+          "duration": "3:49"
+        },
+        {
+          "number": 2,
+          "name": "Locked Out of Heaven",
+          "duration": "3:53"
+        },
+        {
+          "number": 3,
+          "name": "Gorilla",
+          "duration": "4:04"
+        },
+        {
+          "number": 4,
+          "name": "Treasure",
+          "duration": "2:56"
+        },
+        {
+          "number": 5,
+          "name": "Moonshine",
+          "duration": "3:48"
+        },
+        {
+          "number": 6,
+          "name": "When I Was Your Man",
+          "duration": "3:33"
+        },
+        {
+          "number": 7,
+          "name": "Natalie",
+          "duration": "3:45"
+        },
+        {
+          "number": 8,
+          "name": "Show Me",
+          "duration": "3:27"
+        },
+        {
+          "number": 9,
+          "name": "Money Make Her Smile",
+          "duration": "3:23"
+        },
+        {
+          "number": 10,
+          "name": "If I Knew",
+          "duration": "2:12"
         }
       ]
     },
@@ -666,19 +666,6 @@
   ],
   "singles": [
     {
-      "name": "Finesse (Remix) [feat. Cardi B]",
-      "year": "2018",
-      "release_date": "2018-01-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/56/df/33/56df332a-da4a-d565-f40e-960905ee1a2b/075679878892.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Finesse (Remix) [feat. Cardi B]",
-          "duration": "3:37"
-        }
-      ]
-    },
-    {
       "name": "Die With A Smile",
       "year": "2024",
       "release_date": "2024-08-16",
@@ -699,15 +686,15 @@
       "tracks": []
     },
     {
-      "name": "APT.",
-      "year": "2024",
-      "release_date": "2024-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/600x600bb.jpg",
+      "name": "Finesse (Remix) [feat. Cardi B]",
+      "year": "2018",
+      "release_date": "2018-01-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/56/df/33/56df332a-da4a-d565-f40e-960905ee1a2b/075679878892.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "APT.",
-          "duration": "2:49"
+          "name": "Finesse (Remix) [feat. Cardi B]",
+          "duration": "3:37"
         }
       ]
     },
@@ -721,6 +708,19 @@
           "number": 1,
           "name": "Please Me",
           "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "APT.",
+      "year": "2024",
+      "release_date": "2024-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "APT.",
+          "duration": "2:49"
         }
       ]
     },
@@ -777,19 +777,6 @@
       ]
     },
     {
-      "name": "Leave The Door Open (Live)",
-      "year": "2021",
-      "release_date": "2021-04-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/52/6b/d5526b9a-f979-3c08-6832-00505a3e7207/075679786043.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Leave The Door Open (Live)",
-          "duration": "4:20"
-        }
-      ]
-    },
-    {
       "name": "Fat Juicy & Wet",
       "year": "2025",
       "release_date": "2025-01-24",
@@ -799,6 +786,19 @@
           "number": 1,
           "name": "Fat Juicy & Wet",
           "duration": "2:21"
+        }
+      ]
+    },
+    {
+      "name": "Leave The Door Open (Live)",
+      "year": "2021",
+      "release_date": "2021-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/52/6b/d5526b9a-f979-3c08-6832-00505a3e7207/075679786043.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Leave The Door Open (Live)",
+          "duration": "4:20"
         }
       ]
     },
@@ -951,6 +951,19 @@
       ]
     },
     {
+      "name": "I Just Might (Austin Millz Remix)",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/8e/62/e58e626b-001a-ffcf-8a31-ca8d1be6a3be/075679589095.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Just Might (Austin Millz Remix)",
+          "duration": "3:16"
+        }
+      ]
+    },
+    {
       "name": "Die With A Smile (Sped Up)",
       "year": "2024",
       "release_date": "2024-11-20",
@@ -973,19 +986,6 @@
           "number": 1,
           "name": "Die With A Smile (Instrumental Acoustic)",
           "duration": "4:11"
-        }
-      ]
-    },
-    {
-      "name": "I Just Might (Austin Millz Remix)",
-      "year": "2026",
-      "release_date": "2026-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/8e/62/e58e626b-001a-ffcf-8a31-ca8d1be6a3be/075679589095.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Just Might (Austin Millz Remix)",
-          "duration": "3:16"
         }
       ]
     },
@@ -1068,6 +1068,19 @@
       ]
     },
     {
+      "name": "777",
+      "year": "2021",
+      "release_date": "2021-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/03/07/590307c9-6ec5-8719-4a32-d6c95d18e9ed/075679762047.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "777",
+          "duration": "2:45"
+        }
+      ]
+    },
+    {
       "name": "Just the Way You Are (Remixes)",
       "year": "2010",
       "release_date": "2010-11-02",
@@ -1107,19 +1120,6 @@
           "number": 7,
           "name": "Just the Way You Are (Skrillex BatBoi Remix)",
           "duration": "3:49"
-        }
-      ]
-    },
-    {
-      "name": "777",
-      "year": "2021",
-      "release_date": "2021-11-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/03/07/590307c9-6ec5-8719-4a32-d6c95d18e9ed/075679762047.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "777",
-          "duration": "2:45"
         }
       ]
     },

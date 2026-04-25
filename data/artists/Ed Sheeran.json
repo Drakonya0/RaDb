@@ -496,74 +496,6 @@
       ]
     },
     {
-      "name": "x",
-      "year": "2014",
-      "release_date": "2014-06-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b0/75/ec/b075ec42-a102-cde1-132b-9cddbc0d3496/825646285891.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "One",
-          "duration": "4:12"
-        },
-        {
-          "number": 2,
-          "name": "I'm a Mess",
-          "duration": "4:04"
-        },
-        {
-          "number": 3,
-          "name": "Sing",
-          "duration": "3:55"
-        },
-        {
-          "number": 4,
-          "name": "Don't",
-          "duration": "3:39"
-        },
-        {
-          "number": 5,
-          "name": "Nina",
-          "duration": "3:45"
-        },
-        {
-          "number": 6,
-          "name": "Photograph",
-          "duration": "4:18"
-        },
-        {
-          "number": 7,
-          "name": "Bloodstream",
-          "duration": "5:00"
-        },
-        {
-          "number": 8,
-          "name": "Tenerife Sea",
-          "duration": "4:01"
-        },
-        {
-          "number": 9,
-          "name": "Runaway",
-          "duration": "3:25"
-        },
-        {
-          "number": 10,
-          "name": "The Man",
-          "duration": "4:10"
-        },
-        {
-          "number": 11,
-          "name": "Thinking Out Loud",
-          "duration": "4:41"
-        },
-        {
-          "number": 12,
-          "name": "Afire Love",
-          "duration": "5:14"
-        }
-      ]
-    },
-    {
       "name": "- (Deluxe)",
       "year": "2023",
       "release_date": "2023-05-05",
@@ -663,6 +595,74 @@
           "number": 19,
           "name": "Subtract - Trailer",
           "duration": "0:22"
+        }
+      ]
+    },
+    {
+      "name": "x",
+      "year": "2014",
+      "release_date": "2014-06-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b0/75/ec/b075ec42-a102-cde1-132b-9cddbc0d3496/825646285891.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One",
+          "duration": "4:12"
+        },
+        {
+          "number": 2,
+          "name": "I'm a Mess",
+          "duration": "4:04"
+        },
+        {
+          "number": 3,
+          "name": "Sing",
+          "duration": "3:55"
+        },
+        {
+          "number": 4,
+          "name": "Don't",
+          "duration": "3:39"
+        },
+        {
+          "number": 5,
+          "name": "Nina",
+          "duration": "3:45"
+        },
+        {
+          "number": 6,
+          "name": "Photograph",
+          "duration": "4:18"
+        },
+        {
+          "number": 7,
+          "name": "Bloodstream",
+          "duration": "5:00"
+        },
+        {
+          "number": 8,
+          "name": "Tenerife Sea",
+          "duration": "4:01"
+        },
+        {
+          "number": 9,
+          "name": "Runaway",
+          "duration": "3:25"
+        },
+        {
+          "number": 10,
+          "name": "The Man",
+          "duration": "4:10"
+        },
+        {
+          "number": 11,
+          "name": "Thinking Out Loud",
+          "duration": "4:41"
+        },
+        {
+          "number": 12,
+          "name": "Afire Love",
+          "duration": "5:14"
         }
       ]
     },
@@ -1604,6 +1604,84 @@
       ]
     },
     {
+      "name": "-",
+      "year": "2023",
+      "release_date": "2023-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/6e/54/8b6e5407-e750-00cd-b0c1-2fe46380737c/5054197595363.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Boat",
+          "duration": "3:05"
+        },
+        {
+          "number": 2,
+          "name": "Salt Water",
+          "duration": "3:59"
+        },
+        {
+          "number": 3,
+          "name": "Eyes Closed",
+          "duration": "3:14"
+        },
+        {
+          "number": 4,
+          "name": "Life Goes On",
+          "duration": "3:30"
+        },
+        {
+          "number": 5,
+          "name": "Dusty",
+          "duration": "3:42"
+        },
+        {
+          "number": 6,
+          "name": "End Of Youth",
+          "duration": "3:51"
+        },
+        {
+          "number": 7,
+          "name": "Colourblind",
+          "duration": "3:29"
+        },
+        {
+          "number": 8,
+          "name": "Curtains",
+          "duration": "3:44"
+        },
+        {
+          "number": 9,
+          "name": "Borderline",
+          "duration": "3:57"
+        },
+        {
+          "number": 10,
+          "name": "Spark",
+          "duration": "3:34"
+        },
+        {
+          "number": 11,
+          "name": "Vega",
+          "duration": "2:58"
+        },
+        {
+          "number": 12,
+          "name": "Sycamore",
+          "duration": "2:50"
+        },
+        {
+          "number": 13,
+          "name": "No Strings",
+          "duration": "2:54"
+        },
+        {
+          "number": 14,
+          "name": "The Hills of Aberfeldy",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
       "name": "Play (Deluxe)",
       "year": "2025",
       "release_date": "2025-11-28",
@@ -1747,84 +1825,6 @@
       ]
     },
     {
-      "name": "-",
-      "year": "2023",
-      "release_date": "2023-05-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/6e/54/8b6e5407-e750-00cd-b0c1-2fe46380737c/5054197595363.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Boat",
-          "duration": "3:05"
-        },
-        {
-          "number": 2,
-          "name": "Salt Water",
-          "duration": "3:59"
-        },
-        {
-          "number": 3,
-          "name": "Eyes Closed",
-          "duration": "3:14"
-        },
-        {
-          "number": 4,
-          "name": "Life Goes On",
-          "duration": "3:30"
-        },
-        {
-          "number": 5,
-          "name": "Dusty",
-          "duration": "3:42"
-        },
-        {
-          "number": 6,
-          "name": "End Of Youth",
-          "duration": "3:51"
-        },
-        {
-          "number": 7,
-          "name": "Colourblind",
-          "duration": "3:29"
-        },
-        {
-          "number": 8,
-          "name": "Curtains",
-          "duration": "3:44"
-        },
-        {
-          "number": 9,
-          "name": "Borderline",
-          "duration": "3:57"
-        },
-        {
-          "number": 10,
-          "name": "Spark",
-          "duration": "3:34"
-        },
-        {
-          "number": 11,
-          "name": "Vega",
-          "duration": "2:58"
-        },
-        {
-          "number": 12,
-          "name": "Sycamore",
-          "duration": "2:50"
-        },
-        {
-          "number": 13,
-          "name": "No Strings",
-          "duration": "2:54"
-        },
-        {
-          "number": 14,
-          "name": "The Hills of Aberfeldy",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "Play (Extended Edition)",
       "year": "2025",
       "release_date": "2025-09-12",
@@ -1919,6 +1919,197 @@
           "number": 18,
           "name": "Sapphire (feat. Arijit Singh)",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Autumn Variations",
+      "year": "2023",
+      "release_date": "2023-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a5/48/07/a5480772-8c87-b4f7-7c09-c0c8ca32a90a/5054197787171.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Magical",
+          "duration": "3:14"
+        },
+        {
+          "number": 2,
+          "name": "England",
+          "duration": "3:46"
+        },
+        {
+          "number": 3,
+          "name": "Amazing",
+          "duration": "4:05"
+        },
+        {
+          "number": 4,
+          "name": "Plastic Bag",
+          "duration": "3:49"
+        },
+        {
+          "number": 5,
+          "name": "Blue",
+          "duration": "2:33"
+        },
+        {
+          "number": 6,
+          "name": "American Town",
+          "duration": "3:17"
+        },
+        {
+          "number": 7,
+          "name": "That’s On Me",
+          "duration": "3:47"
+        },
+        {
+          "number": 8,
+          "name": "Page",
+          "duration": "3:51"
+        },
+        {
+          "number": 9,
+          "name": "Midnight",
+          "duration": "2:59"
+        },
+        {
+          "number": 10,
+          "name": "Spring",
+          "duration": "2:58"
+        },
+        {
+          "number": 11,
+          "name": "Punchline",
+          "duration": "3:26"
+        },
+        {
+          "number": 12,
+          "name": "When Will I Be Alright",
+          "duration": "2:55"
+        },
+        {
+          "number": 13,
+          "name": "The Day I Was Born",
+          "duration": "4:12"
+        },
+        {
+          "number": 14,
+          "name": "Head > Heels",
+          "duration": "4:13"
+        }
+      ]
+    },
+    {
+      "name": "x (10th Anniversary Edition)",
+      "year": "2024",
+      "release_date": "2024-06-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/29/0b/34290bc3-31b8-3ba3-0d21-b9182a77fe98/5021732391735.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One",
+          "duration": "4:12"
+        },
+        {
+          "number": 2,
+          "name": "I'm a Mess",
+          "duration": "4:04"
+        },
+        {
+          "number": 3,
+          "name": "Sing",
+          "duration": "3:55"
+        },
+        {
+          "number": 4,
+          "name": "Don't",
+          "duration": "3:39"
+        },
+        {
+          "number": 5,
+          "name": "Nina",
+          "duration": "3:45"
+        },
+        {
+          "number": 6,
+          "name": "Photograph",
+          "duration": "4:18"
+        },
+        {
+          "number": 7,
+          "name": "Bloodstream",
+          "duration": "5:00"
+        },
+        {
+          "number": 8,
+          "name": "Tenerife Sea",
+          "duration": "4:01"
+        },
+        {
+          "number": 9,
+          "name": "Runaway",
+          "duration": "3:25"
+        },
+        {
+          "number": 10,
+          "name": "The Man",
+          "duration": "4:10"
+        },
+        {
+          "number": 11,
+          "name": "Thinking out Loud",
+          "duration": "4:41"
+        },
+        {
+          "number": 12,
+          "name": "Afire Love",
+          "duration": "5:14"
+        },
+        {
+          "number": 13,
+          "name": "Take It Back",
+          "duration": "3:28"
+        },
+        {
+          "number": 14,
+          "name": "Shirtsleeves",
+          "duration": "3:10"
+        },
+        {
+          "number": 15,
+          "name": "Even My Dad Does Sometimes",
+          "duration": "3:48"
+        },
+        {
+          "number": 16,
+          "name": "I See Fire",
+          "duration": "4:59"
+        },
+        {
+          "number": 17,
+          "name": "All of the Stars",
+          "duration": "3:54"
+        },
+        {
+          "number": 18,
+          "name": "English Rose",
+          "duration": "3:04"
+        },
+        {
+          "number": 19,
+          "name": "Touch and Go",
+          "duration": "4:00"
+        },
+        {
+          "number": 20,
+          "name": "New York",
+          "duration": "3:55"
+        },
+        {
+          "number": 21,
+          "name": "Make It Rain",
+          "duration": "6:44"
         }
       ]
     },
@@ -2177,84 +2368,6 @@
           "number": 26,
           "name": "Bad Habits (Live)",
           "duration": "4:47"
-        }
-      ]
-    },
-    {
-      "name": "Autumn Variations",
-      "year": "2023",
-      "release_date": "2023-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a5/48/07/a5480772-8c87-b4f7-7c09-c0c8ca32a90a/5054197787171.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Magical",
-          "duration": "3:14"
-        },
-        {
-          "number": 2,
-          "name": "England",
-          "duration": "3:46"
-        },
-        {
-          "number": 3,
-          "name": "Amazing",
-          "duration": "4:05"
-        },
-        {
-          "number": 4,
-          "name": "Plastic Bag",
-          "duration": "3:49"
-        },
-        {
-          "number": 5,
-          "name": "Blue",
-          "duration": "2:33"
-        },
-        {
-          "number": 6,
-          "name": "American Town",
-          "duration": "3:17"
-        },
-        {
-          "number": 7,
-          "name": "That’s On Me",
-          "duration": "3:47"
-        },
-        {
-          "number": 8,
-          "name": "Page",
-          "duration": "3:51"
-        },
-        {
-          "number": 9,
-          "name": "Midnight",
-          "duration": "2:59"
-        },
-        {
-          "number": 10,
-          "name": "Spring",
-          "duration": "2:58"
-        },
-        {
-          "number": 11,
-          "name": "Punchline",
-          "duration": "3:26"
-        },
-        {
-          "number": 12,
-          "name": "When Will I Be Alright",
-          "duration": "2:55"
-        },
-        {
-          "number": 13,
-          "name": "The Day I Was Born",
-          "duration": "4:12"
-        },
-        {
-          "number": 14,
-          "name": "Head > Heels",
-          "duration": "4:13"
         }
       ]
     },
@@ -2608,119 +2721,6 @@
       ]
     },
     {
-      "name": "x (10th Anniversary Edition)",
-      "year": "2024",
-      "release_date": "2024-06-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/29/0b/34290bc3-31b8-3ba3-0d21-b9182a77fe98/5021732391735.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "One",
-          "duration": "4:12"
-        },
-        {
-          "number": 2,
-          "name": "I'm a Mess",
-          "duration": "4:04"
-        },
-        {
-          "number": 3,
-          "name": "Sing",
-          "duration": "3:55"
-        },
-        {
-          "number": 4,
-          "name": "Don't",
-          "duration": "3:39"
-        },
-        {
-          "number": 5,
-          "name": "Nina",
-          "duration": "3:45"
-        },
-        {
-          "number": 6,
-          "name": "Photograph",
-          "duration": "4:18"
-        },
-        {
-          "number": 7,
-          "name": "Bloodstream",
-          "duration": "5:00"
-        },
-        {
-          "number": 8,
-          "name": "Tenerife Sea",
-          "duration": "4:01"
-        },
-        {
-          "number": 9,
-          "name": "Runaway",
-          "duration": "3:25"
-        },
-        {
-          "number": 10,
-          "name": "The Man",
-          "duration": "4:10"
-        },
-        {
-          "number": 11,
-          "name": "Thinking out Loud",
-          "duration": "4:41"
-        },
-        {
-          "number": 12,
-          "name": "Afire Love",
-          "duration": "5:14"
-        },
-        {
-          "number": 13,
-          "name": "Take It Back",
-          "duration": "3:28"
-        },
-        {
-          "number": 14,
-          "name": "Shirtsleeves",
-          "duration": "3:10"
-        },
-        {
-          "number": 15,
-          "name": "Even My Dad Does Sometimes",
-          "duration": "3:48"
-        },
-        {
-          "number": 16,
-          "name": "I See Fire",
-          "duration": "4:59"
-        },
-        {
-          "number": 17,
-          "name": "All of the Stars",
-          "duration": "3:54"
-        },
-        {
-          "number": 18,
-          "name": "English Rose",
-          "duration": "3:04"
-        },
-        {
-          "number": 19,
-          "name": "Touch and Go",
-          "duration": "4:00"
-        },
-        {
-          "number": 20,
-          "name": "New York",
-          "duration": "3:55"
-        },
-        {
-          "number": 21,
-          "name": "Make It Rain",
-          "duration": "6:44"
-        }
-      ]
-    },
-    {
       "name": "2step (The Remixes)",
       "year": "2022",
       "release_date": "2022-05-26",
@@ -3009,6 +3009,19 @@
       ]
     },
     {
+      "name": "Life Goes On (feat. Luke Combs)",
+      "year": "2023",
+      "release_date": "2023-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/38/36/bf/3836bff2-2eab-bbf7-8b80-ded75ffbaebc/5054197677786.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Life Goes On (feat. Luke Combs)",
+          "duration": "3:30"
+        }
+      ]
+    },
+    {
       "name": "Shape of You (Latin Remix) [feat. Zion & Lennox]",
       "year": "2017",
       "release_date": "2017-03-01",
@@ -3048,19 +3061,6 @@
       ]
     },
     {
-      "name": "Life Goes On (feat. Luke Combs)",
-      "year": "2023",
-      "release_date": "2023-05-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/38/36/bf/3836bff2-2eab-bbf7-8b80-ded75ffbaebc/5054197677786.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Life Goes On (feat. Luke Combs)",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "Azizam",
       "year": "2025",
       "release_date": "2025-04-04",
@@ -3070,6 +3070,19 @@
           "number": 1,
           "name": "Azizam",
           "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "Castle on the Hill (Throttle Remix)",
+      "year": "2017",
+      "release_date": "2017-06-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/fc/55/10fc558c-c4dc-7472-d39f-ce2052273435/190295768027.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Castle on the Hill (Throttle Remix)",
+          "duration": "3:40"
         }
       ]
     },
@@ -3096,6 +3109,19 @@
           "number": 1,
           "name": "I Don't Care (Acoustic)",
           "duration": "3:58"
+        }
+      ]
+    },
+    {
+      "name": "Shape of You (Acoustic)",
+      "year": "2017",
+      "release_date": "2017-02-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/f2/d4/8af2d453-013f-77e9-03db-a56cc5e27fab/190295843199.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shape of You (Acoustic)",
+          "duration": "3:43"
         }
       ]
     },
@@ -3139,32 +3165,6 @@
       ]
     },
     {
-      "name": "Shape of You (Acoustic)",
-      "year": "2017",
-      "release_date": "2017-02-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/f2/d4/8af2d453-013f-77e9-03db-a56cc5e27fab/190295843199.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shape of You (Acoustic)",
-          "duration": "3:43"
-        }
-      ]
-    },
-    {
-      "name": "Shivers (Ofenbach Remix)",
-      "year": "2021",
-      "release_date": "2021-10-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/fa/e2/2afae28b-abd7-6c73-ff1f-c0687608ff5d/190296424137.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shivers (Ofenbach Remix)",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
       "name": "Sigue/Forever My Love",
       "year": "2022",
       "release_date": "2022-03-25",
@@ -3183,6 +3183,19 @@
       ]
     },
     {
+      "name": "Shivers (Ofenbach Remix)",
+      "year": "2021",
+      "release_date": "2021-10-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/fa/e2/2afae28b-abd7-6c73-ff1f-c0687608ff5d/190296424137.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shivers (Ofenbach Remix)",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
       "name": "Castle on the Hill (Acoustic)",
       "year": "2017",
       "release_date": "2017-02-10",
@@ -3192,19 +3205,6 @@
           "number": 1,
           "name": "Castle on the Hill (Acoustic)",
           "duration": "3:46"
-        }
-      ]
-    },
-    {
-      "name": "I Don't Care (Jonas Blue Remix)",
-      "year": "2019",
-      "release_date": "2019-06-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cd/ef/2b/cdef2bbb-f5b1-a1fa-dbc4-1337172e7c0a/190295404604.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Don't Care (Jonas Blue Remix)",
-          "duration": "3:12"
         }
       ]
     },
@@ -3228,6 +3228,19 @@
           "number": 3,
           "name": "Shape of You (Galantis Remix)",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "I Don't Care (Jonas Blue Remix)",
+      "year": "2019",
+      "release_date": "2019-06-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cd/ef/2b/cdef2bbb-f5b1-a1fa-dbc4-1337172e7c0a/190295404604.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Don't Care (Jonas Blue Remix)",
+          "duration": "3:12"
         }
       ]
     },
@@ -3258,6 +3271,19 @@
       ]
     },
     {
+      "name": "A Little More",
+      "year": "2025",
+      "release_date": "2025-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/26/56/952656bd-adc6-0589-ae79-afd6a94bdfbc/5021732887160.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A Little More",
+          "duration": "3:12"
+        }
+      ]
+    },
+    {
       "name": "Galway Girl (Martin Jensen Remix)",
       "year": "2017",
       "release_date": "2017-04-07",
@@ -3267,6 +3293,19 @@
           "number": 1,
           "name": "Galway Girl (Martin Jensen Remix)",
           "duration": "3:16"
+        }
+      ]
+    },
+    {
+      "name": "2step (feat. Lil Baby)",
+      "year": "2022",
+      "release_date": "2022-04-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6e/2f/9b/6e2f9b58-78b1-4c1f-dce7-faee3c15678d/5054197150975.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "2step (feat. Lil Baby)",
+          "duration": "2:43"
         }
       ]
     },
@@ -3297,19 +3336,6 @@
       ]
     },
     {
-      "name": "2step (feat. Lil Baby)",
-      "year": "2022",
-      "release_date": "2022-04-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6e/2f/9b/6e2f9b58-78b1-4c1f-dce7-faee3c15678d/5054197150975.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "2step (feat. Lil Baby)",
-          "duration": "2:43"
-        }
-      ]
-    },
-    {
       "name": "Shivers (feat. Jessi & SUNMI)",
       "year": "2021",
       "release_date": "2021-11-24",
@@ -3332,19 +3358,6 @@
           "number": 1,
           "name": "Don't (Don Diablo Remix)",
           "duration": "4:09"
-        }
-      ]
-    },
-    {
-      "name": "Castle on the Hill (Throttle Remix)",
-      "year": "2017",
-      "release_date": "2017-06-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/10/fc/55/10fc558c-c4dc-7472-d39f-ce2052273435/190295768027.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Castle on the Hill (Throttle Remix)",
-          "duration": "3:40"
         }
       ]
     },
@@ -3640,19 +3653,6 @@
       ]
     },
     {
-      "name": "Azizam (feat. Googoosh) [Persian Version]",
-      "year": "2025",
-      "release_date": "2025-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/81/f0/ee81f0ba-26d4-d485-a03b-e4b1ecd6cf84/5021732778291.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Azizam (feat. Googoosh) [Persian Version]",
-          "duration": "2:42"
-        }
-      ]
-    },
-    {
       "name": "Happier (Acoustic)",
       "year": "2018",
       "release_date": "2018-05-25",
@@ -3701,6 +3701,19 @@
           "number": 1,
           "name": "Beautiful People (feat. Khalid) [Jack Wins Remix]",
           "duration": "2:43"
+        }
+      ]
+    },
+    {
+      "name": "Azizam (feat. Googoosh) [Persian Version]",
+      "year": "2025",
+      "release_date": "2025-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/81/f0/ee81f0ba-26d4-d485-a03b-e4b1ecd6cf84/5021732778291.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Azizam (feat. Googoosh) [Persian Version]",
+          "duration": "2:42"
         }
       ]
     },
@@ -3967,19 +3980,6 @@
       ]
     },
     {
-      "name": "A Little More",
-      "year": "2025",
-      "release_date": "2025-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/26/56/952656bd-adc6-0589-ae79-afd6a94bdfbc/5021732887160.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A Little More",
-          "duration": "3:12"
-        }
-      ]
-    },
-    {
       "name": "Bad Habits (Fumez The Engineer Remix) [feat. Tion Wayne & Central Cee]",
       "year": "2021",
       "release_date": "2021-08-12",
@@ -3989,19 +3989,6 @@
           "number": 1,
           "name": "Bad Habits (Fumez The Engineer Remix) [feat. Tion Wayne & Central Cee]",
           "duration": "3:42"
-        }
-      ]
-    },
-    {
-      "name": "Azizam (Acoustic)",
-      "year": "2025",
-      "release_date": "2025-05-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/ca/a0/9bcaa077-01ce-90e0-d3a4-0332af8642e3/5021732806857.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Azizam (Acoustic)",
-          "duration": "2:40"
         }
       ]
     },
@@ -4028,6 +4015,19 @@
           "number": 1,
           "name": "Cross Me (feat. Chance the Rapper & PnB Rock) [M-22 Remix]",
           "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Azizam (Acoustic)",
+      "year": "2025",
+      "release_date": "2025-05-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/ca/a0/9bcaa077-01ce-90e0-d3a4-0332af8642e3/5021732806857.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Azizam (Acoustic)",
+          "duration": "2:40"
         }
       ]
     },

@@ -189,54 +189,6 @@
       ]
     },
     {
-      "name": "Decades of Covers",
-      "year": "2022",
-      "release_date": "2022-09-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/d1/ec/13d1ecf5-6403-a687-15b4-846ab8fd2f92/197086014202.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dancing Queen",
-          "duration": "3:33"
-        },
-        {
-          "number": 2,
-          "name": "Landslide",
-          "duration": "2:57"
-        },
-        {
-          "number": 3,
-          "name": "Running Up That Hill",
-          "duration": "3:49"
-        },
-        {
-          "number": 4,
-          "name": "Total Eclipse of the Heart",
-          "duration": "3:31"
-        },
-        {
-          "number": 5,
-          "name": "Wonderwall",
-          "duration": "3:20"
-        },
-        {
-          "number": 6,
-          "name": "Livin' la Vida Loca",
-          "duration": "3:26"
-        },
-        {
-          "number": 7,
-          "name": "A Thousand Miles",
-          "duration": "3:58"
-        },
-        {
-          "number": 8,
-          "name": "Numb",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "We Will All Evolve",
       "year": "2010",
       "release_date": "2010-05-04",
@@ -291,6 +243,54 @@
           "number": 10,
           "name": "We Will All Evolve",
           "duration": "4:28"
+        }
+      ]
+    },
+    {
+      "name": "Decades of Covers",
+      "year": "2022",
+      "release_date": "2022-09-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/d1/ec/13d1ecf5-6403-a687-15b4-846ab8fd2f92/197086014202.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dancing Queen",
+          "duration": "3:33"
+        },
+        {
+          "number": 2,
+          "name": "Landslide",
+          "duration": "2:57"
+        },
+        {
+          "number": 3,
+          "name": "Running Up That Hill",
+          "duration": "3:49"
+        },
+        {
+          "number": 4,
+          "name": "Total Eclipse of the Heart",
+          "duration": "3:31"
+        },
+        {
+          "number": 5,
+          "name": "Wonderwall",
+          "duration": "3:20"
+        },
+        {
+          "number": 6,
+          "name": "Livin' la Vida Loca",
+          "duration": "3:26"
+        },
+        {
+          "number": 7,
+          "name": "A Thousand Miles",
+          "duration": "3:58"
+        },
+        {
+          "number": 8,
+          "name": "Numb",
+          "duration": "3:04"
         }
       ]
     },
@@ -1017,19 +1017,6 @@
       ]
     },
     {
-      "name": "The Great Divide",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/f9/76/95f976cd-1a22-a54a-5eb2-ec3fd58c9fd3/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Great Divide",
-          "duration": "4:35"
-        }
-      ]
-    },
-    {
       "name": "Golden (Cover)",
       "year": "2025",
       "release_date": "2025-09-19",
@@ -1044,6 +1031,19 @@
           "number": 2,
           "name": "Your Idol (Cover)",
           "duration": "3:16"
+        }
+      ]
+    },
+    {
+      "name": "The Great Divide",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/f9/76/95f976cd-1a22-a54a-5eb2-ec3fd58c9fd3/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Great Divide",
+          "duration": "4:35"
         }
       ]
     },
@@ -1074,19 +1074,6 @@
       ]
     },
     {
-      "name": "hot girl bummer",
-      "year": "2020",
-      "release_date": "2020-01-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/13/0d/23130da8-380e-7ae2-b86d-a6578a9fce01/5052917032099.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "hot girl bummer",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "That's So True",
       "year": "2025",
       "release_date": "2025-05-16",
@@ -1100,19 +1087,6 @@
       ]
     },
     {
-      "name": "Astronaut In The Ocean",
-      "year": "2021",
-      "release_date": "2021-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/46/83/d6468320-2e53-936a-17e1-b88271067c98/196054469228.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Astronaut In The Ocean",
-          "duration": "2:14"
-        }
-      ]
-    },
-    {
       "name": "Ordinary",
       "year": "2025",
       "release_date": "2025-05-30",
@@ -1122,6 +1096,32 @@
           "number": 1,
           "name": "Ordinary",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "hot girl bummer",
+      "year": "2020",
+      "release_date": "2020-01-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/13/0d/23130da8-380e-7ae2-b86d-a6578a9fce01/5052917032099.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "hot girl bummer",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Astronaut In The Ocean",
+      "year": "2021",
+      "release_date": "2021-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/46/83/d6468320-2e53-936a-17e1-b88271067c98/196054469228.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Astronaut In The Ocean",
+          "duration": "2:14"
         }
       ]
     },
@@ -1152,19 +1152,6 @@
       ]
     },
     {
-      "name": "HUMBLE.",
-      "year": "2017",
-      "release_date": "2017-08-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/60/23/556023a1-3907-5862-8b4b-15e9efdc4d89/5052917025930.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HUMBLE.",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "End of Beginning",
       "year": "2026",
       "release_date": "2026-01-30",
@@ -1178,15 +1165,15 @@
       ]
     },
     {
-      "name": "back to friends",
-      "year": "2025",
-      "release_date": "2025-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/e5/fd/6be5fd9b-60a6-1753-d8b1-279fc1c31114/artwork.jpg/600x600bb.jpg",
+      "name": "HUMBLE.",
+      "year": "2017",
+      "release_date": "2017-08-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/60/23/556023a1-3907-5862-8b4b-15e9efdc4d89/5052917025930.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "back to friends",
-          "duration": "3:02"
+          "name": "HUMBLE.",
+          "duration": "3:15"
         }
       ]
     },
@@ -1200,19 +1187,6 @@
           "number": 1,
           "name": "Scared To Die",
           "duration": "2:57"
-        }
-      ]
-    },
-    {
-      "name": "Bring Me To Life",
-      "year": "2023",
-      "release_date": "2023-11-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/4a/f6/ff4af643-e471-a528-0f6b-06f1283cf161/198090268384.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bring Me To Life",
-          "duration": "3:50"
         }
       ]
     },
@@ -1256,6 +1230,19 @@
       ]
     },
     {
+      "name": "back to friends",
+      "year": "2025",
+      "release_date": "2025-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/e5/fd/6be5fd9b-60a6-1753-d8b1-279fc1c31114/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "back to friends",
+          "duration": "3:02"
+        }
+      ]
+    },
+    {
       "name": "BIRDS OF A FEATHER",
       "year": "2025",
       "release_date": "2025-07-11",
@@ -1295,15 +1282,15 @@
       ]
     },
     {
-      "name": "Who Let the Dogs Out (feat. Baha Men)",
-      "year": "2018",
-      "release_date": "2018-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/8c/0d/9c8c0dbe-d0dd-63d9-d6b6-6e302cb3ecab/5052917029068.jpg/600x600bb.jpg",
+      "name": "Bring Me To Life",
+      "year": "2023",
+      "release_date": "2023-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/4a/f6/ff4af643-e471-a528-0f6b-06f1283cf161/198090268384.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Who Let the Dogs Out (feat. Baha Men)",
-          "duration": "2:30"
+          "name": "Bring Me To Life",
+          "duration": "3:50"
         }
       ]
     },
@@ -1334,20 +1321,15 @@
       ]
     },
     {
-      "name": "OLN Goes 90's",
-      "year": "2022",
-      "release_date": "2022-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/53/b0/e253b042-4cff-7c09-ca98-83650d41105a/197086818923.jpg/600x600bb.jpg",
+      "name": "Who Let the Dogs Out (feat. Baha Men)",
+      "year": "2018",
+      "release_date": "2018-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/8c/0d/9c8c0dbe-d0dd-63d9-d6b6-6e302cb3ecab/5052917029068.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Wonderwall",
-          "duration": "3:20"
-        },
-        {
-          "number": 2,
-          "name": "Livin' la Vida Loca",
-          "duration": "3:26"
+          "name": "Who Let the Dogs Out (feat. Baha Men)",
+          "duration": "2:30"
         }
       ]
     },
@@ -1423,6 +1405,24 @@
           "number": 1,
           "name": "NPC",
           "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "OLN Goes 90's",
+      "year": "2022",
+      "release_date": "2022-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/53/b0/e253b042-4cff-7c09-ca98-83650d41105a/197086818923.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wonderwall",
+          "duration": "3:20"
+        },
+        {
+          "number": 2,
+          "name": "Livin' la Vida Loca",
+          "duration": "3:26"
         }
       ]
     },
@@ -1505,19 +1505,6 @@
       ]
     },
     {
-      "name": "Back To You (feat. Halocene, Adam Christopher, Micki Sobral, Henrique Baptista & Tom Verstappen)",
-      "year": "2018",
-      "release_date": "2018-07-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/30/a8/6830a80f-003a-5408-43d6-d83a20d1985d/5052917028733.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Back To You (feat. Halocene, Adam Christopher, Micki Sobral, Henrique Baptista & Tom Verstappen)",
-          "duration": "3:27"
-        }
-      ]
-    },
-    {
       "name": "Dark Horse (Rock)",
       "year": "2014",
       "release_date": "2014-01-26",
@@ -1540,6 +1527,19 @@
           "number": 1,
           "name": "you broke me first",
           "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "name": "Back To You (feat. Halocene, Adam Christopher, Micki Sobral, Henrique Baptista & Tom Verstappen)",
+      "year": "2018",
+      "release_date": "2018-07-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/30/a8/6830a80f-003a-5408-43d6-d83a20d1985d/5052917028733.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Back To You (feat. Halocene, Adam Christopher, Micki Sobral, Henrique Baptista & Tom Verstappen)",
+          "duration": "3:27"
         }
       ]
     },

@@ -999,32 +999,6 @@
       ]
     },
     {
-      "name": "VYSE",
-      "year": "2024",
-      "release_date": "2024-08-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/24/c3/6b24c315-56b5-bfa3-018a-bb0af242e1ae/198846100883.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "VYSE",
-          "duration": "2:32"
-        }
-      ]
-    },
-    {
-      "name": "wtf?!",
-      "year": "2022",
-      "release_date": "2022-06-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/00/dc/b3/00dcb30e-9405-3aaf-e06e-2c49e7275fae/196925065764.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "wtf?!",
-          "duration": "1:54"
-        }
-      ]
-    },
-    {
       "name": "LIKE YXU WXULD KNXW (AUTUMN TREES)",
       "year": "2022",
       "release_date": "2022-10-07",
@@ -1051,25 +1025,28 @@
       ]
     },
     {
-      "name": "Glitch Krush",
+      "name": "VYSE",
       "year": "2024",
-      "release_date": "2024-02-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/cb/0c/dacb0c1c-3eab-568b-3f63-ca01fc631c49/198391031809.jpg/600x600bb.jpg",
+      "release_date": "2024-08-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/24/c3/6b24c315-56b5-bfa3-018a-bb0af242e1ae/198846100883.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Glitch Krush",
-          "duration": "1:51"
-        },
+          "name": "VYSE",
+          "duration": "2:32"
+        }
+      ]
+    },
+    {
+      "name": "wtf?!",
+      "year": "2022",
+      "release_date": "2022-06-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/00/dc/b3/00dcb30e-9405-3aaf-e06e-2c49e7275fae/196925065764.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 2,
-          "name": "Glitch Krush (Sped Up)",
-          "duration": "1:24"
-        },
-        {
-          "number": 3,
-          "name": "Glitch Krush (Slowed + Reverb)",
-          "duration": "2:20"
+          "number": 1,
+          "name": "wtf?!",
+          "duration": "1:54"
         }
       ]
     },
@@ -1096,6 +1073,29 @@
           "number": 1,
           "name": "Killers From The Northside",
           "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "Glitch Krush",
+      "year": "2024",
+      "release_date": "2024-02-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/cb/0c/dacb0c1c-3eab-568b-3f63-ca01fc631c49/198391031809.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Glitch Krush",
+          "duration": "1:51"
+        },
+        {
+          "number": 2,
+          "name": "Glitch Krush (Sped Up)",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "Glitch Krush (Slowed + Reverb)",
+          "duration": "2:20"
         }
       ]
     },
@@ -1211,42 +1211,6 @@
       ]
     },
     {
-      "name": "Event Horizon",
-      "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/14/76/7e1476b8-fa02-c862-8878-7eff8f2da9eb/199538058482.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Event Horizon",
-          "duration": "1:47"
-        },
-        {
-          "number": 2,
-          "name": "Event Horizon (Slowed)",
-          "duration": "1:56"
-        },
-        {
-          "number": 3,
-          "name": "Event Horizon (Super Slowed)",
-          "duration": "2:06"
-        }
-      ]
-    },
-    {
-      "name": "HEAVEN",
-      "year": "2024",
-      "release_date": "2024-01-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/57/eb/7e57ebae-9186-f8f8-87d7-6bb8416d80c4/197190433630.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HEAVEN",
-          "duration": "1:37"
-        }
-      ]
-    },
-    {
       "name": "Dead on Arrival",
       "year": "2022",
       "release_date": "2022-05-13",
@@ -1309,6 +1273,42 @@
       ]
     },
     {
+      "name": "Event Horizon",
+      "year": "2025",
+      "release_date": "2025-07-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/14/76/7e1476b8-fa02-c862-8878-7eff8f2da9eb/199538058482.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Event Horizon",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "Event Horizon (Slowed)",
+          "duration": "1:56"
+        },
+        {
+          "number": 3,
+          "name": "Event Horizon (Super Slowed)",
+          "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "name": "HEAVEN",
+      "year": "2024",
+      "release_date": "2024-01-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/57/eb/7e57ebae-9186-f8f8-87d7-6bb8416d80c4/197190433630.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HEAVEN",
+          "duration": "1:37"
+        }
+      ]
+    },
+    {
       "name": "One Shot, One Kill",
       "year": "2022",
       "release_date": "2022-07-01",
@@ -1340,19 +1340,6 @@
       ]
     },
     {
-      "name": "BROKEN GAMES (Remix)",
-      "year": "2023",
-      "release_date": "2023-12-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/57/00/c557003d-b875-472d-f0ef-94d6dc47be85/4547366661101.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "BROKEN GAMES (Remix)",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "MISS ME?",
       "year": "2022",
       "release_date": "2022-09-23",
@@ -1362,6 +1349,19 @@
           "number": 1,
           "name": "MISS ME?",
           "duration": "2:13"
+        }
+      ]
+    },
+    {
+      "name": "BROKEN GAMES (Remix)",
+      "year": "2023",
+      "release_date": "2023-12-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/57/00/c557003d-b875-472d-f0ef-94d6dc47be85/4547366661101.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BROKEN GAMES (Remix)",
+          "duration": "3:15"
         }
       ]
     },

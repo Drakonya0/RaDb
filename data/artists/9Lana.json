@@ -3,6 +3,49 @@
   "id": 1721402990,
   "albums": [
     {
+      "name": "DOLL",
+      "year": "2024",
+      "release_date": "2024-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/48/0c/eb480c56-9266-772b-6ff3-1b85453637c6/4547366687583.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Let me battle",
+          "duration": "3:01"
+        },
+        {
+          "number": 2,
+          "name": "Let me battle (Anime Size)",
+          "duration": "1:30"
+        },
+        {
+          "number": 3,
+          "name": "MIGIPOCKET",
+          "duration": "2:42"
+        },
+        {
+          "number": 4,
+          "name": "BALALAIKA",
+          "duration": "3:10"
+        },
+        {
+          "number": 5,
+          "name": "GAME",
+          "duration": "2:50"
+        },
+        {
+          "number": 6,
+          "name": "MANEGOTO",
+          "duration": "3:30"
+        },
+        {
+          "number": 7,
+          "name": "ITTOITEYO",
+          "duration": "3:35"
+        }
+      ]
+    },
+    {
       "name": "Let me battle",
       "year": "2024",
       "release_date": "2024-09-04",
@@ -62,49 +105,6 @@
           "number": 11,
           "name": "propose (Instrumental)",
           "duration": "3:54"
-        }
-      ]
-    },
-    {
-      "name": "DOLL",
-      "year": "2024",
-      "release_date": "2024-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/48/0c/eb480c56-9266-772b-6ff3-1b85453637c6/4547366687583.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Let me battle",
-          "duration": "3:01"
-        },
-        {
-          "number": 2,
-          "name": "Let me battle (Anime Size)",
-          "duration": "1:30"
-        },
-        {
-          "number": 3,
-          "name": "MIGIPOCKET",
-          "duration": "2:42"
-        },
-        {
-          "number": 4,
-          "name": "BALALAIKA",
-          "duration": "3:10"
-        },
-        {
-          "number": 5,
-          "name": "GAME",
-          "duration": "2:50"
-        },
-        {
-          "number": 6,
-          "name": "MANEGOTO",
-          "duration": "3:30"
-        },
-        {
-          "number": 7,
-          "name": "ITTOITEYO",
-          "duration": "3:35"
         }
       ]
     }
@@ -194,19 +194,6 @@
       ]
     },
     {
-      "name": "九尾",
-      "year": "2025",
-      "release_date": "2025-08-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/8f/38/a48f380c-fc28-5533-6e84-d0e77bc0bd8f/4547366768558.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "KYUBI",
-          "duration": "4:01"
-        }
-      ]
-    },
-    {
       "name": "ネオラダイト",
       "year": "2025",
       "release_date": "2025-05-28",
@@ -226,6 +213,19 @@
           "number": 3,
           "name": "NEO-LUDDITE -Anime Size",
           "duration": "1:31"
+        }
+      ]
+    },
+    {
+      "name": "九尾",
+      "year": "2025",
+      "release_date": "2025-08-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/8f/38/a48f380c-fc28-5533-6e84-d0e77bc0bd8f/4547366768558.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "KYUBI",
+          "duration": "4:01"
         }
       ]
     },

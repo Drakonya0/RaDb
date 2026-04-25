@@ -3,49 +3,6 @@
   "id": 1556654795,
   "albums": [
     {
-      "name": "The Desert",
-      "year": "2022",
-      "release_date": "2022-06-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/85/c2/a3/85c2a397-4eb2-5ca9-07a9-70d9774180b5/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cold Dead Hand",
-          "duration": "7:08"
-        },
-        {
-          "number": 2,
-          "name": "Hell",
-          "duration": "7:38"
-        },
-        {
-          "number": 3,
-          "name": "My Love/My Tomb",
-          "duration": "5:37"
-        },
-        {
-          "number": 4,
-          "name": "Cowboy",
-          "duration": "4:43"
-        },
-        {
-          "number": 5,
-          "name": "Pale Dawn",
-          "duration": "6:40"
-        },
-        {
-          "number": 6,
-          "name": "Apache",
-          "duration": "6:24"
-        },
-        {
-          "number": 7,
-          "name": "Suicide Silence",
-          "duration": "4:44"
-        }
-      ]
-    },
-    {
       "name": "The Water",
       "year": "2021",
       "release_date": "2021-05-05",
@@ -85,6 +42,49 @@
           "number": 7,
           "name": "Terlingua",
           "duration": "5:33"
+        }
+      ]
+    },
+    {
+      "name": "The Desert",
+      "year": "2022",
+      "release_date": "2022-06-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/85/c2/a3/85c2a397-4eb2-5ca9-07a9-70d9774180b5/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cold Dead Hand",
+          "duration": "7:08"
+        },
+        {
+          "number": 2,
+          "name": "Hell",
+          "duration": "7:38"
+        },
+        {
+          "number": 3,
+          "name": "My Love/My Tomb",
+          "duration": "5:37"
+        },
+        {
+          "number": 4,
+          "name": "Cowboy",
+          "duration": "4:43"
+        },
+        {
+          "number": 5,
+          "name": "Pale Dawn",
+          "duration": "6:40"
+        },
+        {
+          "number": 6,
+          "name": "Apache",
+          "duration": "6:24"
+        },
+        {
+          "number": 7,
+          "name": "Suicide Silence",
+          "duration": "4:44"
         }
       ]
     },

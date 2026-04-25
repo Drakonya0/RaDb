@@ -76,84 +76,6 @@
       ]
     },
     {
-      "name": "MTV Unplugged In New York (Live Acoustic)",
-      "year": "1994",
-      "release_date": "1994-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/46/24/33/462433f9-ee74-2d60-4538-859826a7bed7/00720642472729.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "About a Girl (Live Acoustic)",
-          "duration": "3:38"
-        },
-        {
-          "number": 2,
-          "name": "Come As You Are (Live Acoustic)",
-          "duration": "4:13"
-        },
-        {
-          "number": 3,
-          "name": "Jesus Doesn't Want Me for a Sunbeam (Live Acoustic)",
-          "duration": "4:37"
-        },
-        {
-          "number": 4,
-          "name": "The Man Who Sold the World (Live Acoustic)",
-          "duration": "4:21"
-        },
-        {
-          "number": 5,
-          "name": "Pennyroyal Tea (Live Acoustic)",
-          "duration": "3:40"
-        },
-        {
-          "number": 6,
-          "name": "Dumb (Live Acoustic)",
-          "duration": "2:52"
-        },
-        {
-          "number": 7,
-          "name": "Polly (Live Acoustic)",
-          "duration": "3:16"
-        },
-        {
-          "number": 8,
-          "name": "On a Plain (Live Acoustic)",
-          "duration": "3:44"
-        },
-        {
-          "number": 9,
-          "name": "Something In the Way (Live Acoustic)",
-          "duration": "4:01"
-        },
-        {
-          "number": 10,
-          "name": "Plateau (Live Acoustic)",
-          "duration": "3:38"
-        },
-        {
-          "number": 11,
-          "name": "Oh, Me (Live Acoustic)",
-          "duration": "3:26"
-        },
-        {
-          "number": 12,
-          "name": "Lake of Fire (Live Acoustic)",
-          "duration": "2:55"
-        },
-        {
-          "number": 13,
-          "name": "All Apologies (Live Acoustic)",
-          "duration": "4:23"
-        },
-        {
-          "number": 14,
-          "name": "Where Did You Sleep Last Night (Live Acoustic)",
-          "duration": "5:06"
-        }
-      ]
-    },
-    {
       "name": "Nirvana",
       "year": "2002",
       "release_date": "2002-10-29",
@@ -232,70 +154,80 @@
       ]
     },
     {
-      "name": "In Utero (20th Anniversary Edition)",
-      "year": "1993",
-      "release_date": "1993-09-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/20/03/e32003a4-99bc-1c70-40ba-001882f35dba/00602537526840.rgb.jpg/600x600bb.jpg",
+      "name": "MTV Unplugged In New York (Live Acoustic)",
+      "year": "1994",
+      "release_date": "1994-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/46/24/33/462433f9-ee74-2d60-4538-859826a7bed7/00720642472729.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Serve the Servants",
-          "duration": "3:37"
-        },
-        {
-          "number": 2,
-          "name": "Scentless Apprentice",
-          "duration": "3:48"
-        },
-        {
-          "number": 3,
-          "name": "Heart-Shaped Box",
-          "duration": "4:41"
-        },
-        {
-          "number": 4,
-          "name": "Rape Me",
-          "duration": "2:50"
-        },
-        {
-          "number": 5,
-          "name": "Frances Farmer Will Have Her Revenge On Seattle",
-          "duration": "4:10"
-        },
-        {
-          "number": 6,
-          "name": "Dumb",
-          "duration": "2:31"
-        },
-        {
-          "number": 7,
-          "name": "Very Ape",
-          "duration": "1:55"
-        },
-        {
-          "number": 8,
-          "name": "Milk It",
-          "duration": "3:54"
-        },
-        {
-          "number": 9,
-          "name": "Pennyroyal Tea",
+          "name": "About a Girl (Live Acoustic)",
           "duration": "3:38"
         },
         {
+          "number": 2,
+          "name": "Come As You Are (Live Acoustic)",
+          "duration": "4:13"
+        },
+        {
+          "number": 3,
+          "name": "Jesus Doesn't Want Me for a Sunbeam (Live Acoustic)",
+          "duration": "4:37"
+        },
+        {
+          "number": 4,
+          "name": "The Man Who Sold the World (Live Acoustic)",
+          "duration": "4:21"
+        },
+        {
+          "number": 5,
+          "name": "Pennyroyal Tea (Live Acoustic)",
+          "duration": "3:40"
+        },
+        {
+          "number": 6,
+          "name": "Dumb (Live Acoustic)",
+          "duration": "2:52"
+        },
+        {
+          "number": 7,
+          "name": "Polly (Live Acoustic)",
+          "duration": "3:16"
+        },
+        {
+          "number": 8,
+          "name": "On a Plain (Live Acoustic)",
+          "duration": "3:44"
+        },
+        {
+          "number": 9,
+          "name": "Something In the Way (Live Acoustic)",
+          "duration": "4:01"
+        },
+        {
           "number": 10,
-          "name": "Radio Friendly Unit Shifter",
-          "duration": "4:51"
+          "name": "Plateau (Live Acoustic)",
+          "duration": "3:38"
         },
         {
           "number": 11,
-          "name": "Tourette's",
-          "duration": "1:35"
+          "name": "Oh, Me (Live Acoustic)",
+          "duration": "3:26"
         },
         {
           "number": 12,
-          "name": "All Apologies",
-          "duration": "3:56"
+          "name": "Lake of Fire (Live Acoustic)",
+          "duration": "2:55"
+        },
+        {
+          "number": 13,
+          "name": "All Apologies (Live Acoustic)",
+          "duration": "4:23"
+        },
+        {
+          "number": 14,
+          "name": "Where Did You Sleep Last Night (Live Acoustic)",
+          "duration": "5:06"
         }
       ]
     },
@@ -429,6 +361,74 @@
           "number": 25,
           "name": "Blew (Live at Pine Street Theatre)",
           "duration": "4:30"
+        }
+      ]
+    },
+    {
+      "name": "In Utero (20th Anniversary Edition)",
+      "year": "1993",
+      "release_date": "1993-09-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/20/03/e32003a4-99bc-1c70-40ba-001882f35dba/00602537526840.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Serve the Servants",
+          "duration": "3:37"
+        },
+        {
+          "number": 2,
+          "name": "Scentless Apprentice",
+          "duration": "3:48"
+        },
+        {
+          "number": 3,
+          "name": "Heart-Shaped Box",
+          "duration": "4:41"
+        },
+        {
+          "number": 4,
+          "name": "Rape Me",
+          "duration": "2:50"
+        },
+        {
+          "number": 5,
+          "name": "Frances Farmer Will Have Her Revenge On Seattle",
+          "duration": "4:10"
+        },
+        {
+          "number": 6,
+          "name": "Dumb",
+          "duration": "2:31"
+        },
+        {
+          "number": 7,
+          "name": "Very Ape",
+          "duration": "1:55"
+        },
+        {
+          "number": 8,
+          "name": "Milk It",
+          "duration": "3:54"
+        },
+        {
+          "number": 9,
+          "name": "Pennyroyal Tea",
+          "duration": "3:38"
+        },
+        {
+          "number": 10,
+          "name": "Radio Friendly Unit Shifter",
+          "duration": "4:51"
+        },
+        {
+          "number": 11,
+          "name": "Tourette's",
+          "duration": "1:35"
+        },
+        {
+          "number": 12,
+          "name": "All Apologies",
+          "duration": "3:56"
         }
       ]
     },
@@ -2061,214 +2061,6 @@
       ]
     },
     {
-      "name": "Nevermind (Deluxe Edition)",
-      "year": "1991",
-      "release_date": "1991-09-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/03/d2/3203d294-c0a0-a016-ddcb-508a093aa0b0/11UMGIM26899.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Smells Like Teen Spirit",
-          "duration": "5:01"
-        },
-        {
-          "number": 1,
-          "name": "In Bloom (Smart Sessions)",
-          "duration": "4:31"
-        },
-        {
-          "number": 2,
-          "name": "In Bloom",
-          "duration": "4:15"
-        },
-        {
-          "number": 2,
-          "name": "Immodium (Breed) [Smart Sessions]",
-          "duration": "3:15"
-        },
-        {
-          "number": 3,
-          "name": "Come As You Are",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Lithium (Smart Sessions)",
-          "duration": "4:31"
-        },
-        {
-          "number": 4,
-          "name": "Breed",
-          "duration": "3:04"
-        },
-        {
-          "number": 4,
-          "name": "Polly (Smart Sessions)",
-          "duration": "2:58"
-        },
-        {
-          "number": 5,
-          "name": "Lithium",
-          "duration": "4:17"
-        },
-        {
-          "number": 5,
-          "name": "Pay To Play (Smart Sessions)",
-          "duration": "3:29"
-        },
-        {
-          "number": 6,
-          "name": "Polly",
-          "duration": "2:57"
-        },
-        {
-          "number": 6,
-          "name": "Here She Comes Now (Smart Sessions)",
-          "duration": "5:01"
-        },
-        {
-          "number": 7,
-          "name": "Territorial Pissings",
-          "duration": "2:22"
-        },
-        {
-          "number": 7,
-          "name": "Dive (Smart Sessions)",
-          "duration": "3:55"
-        },
-        {
-          "number": 8,
-          "name": "Drain You",
-          "duration": "3:43"
-        },
-        {
-          "number": 8,
-          "name": "Sappy (Smart Sessions)",
-          "duration": "3:37"
-        },
-        {
-          "number": 9,
-          "name": "Lounge Act",
-          "duration": "2:36"
-        },
-        {
-          "number": 9,
-          "name": "Smells Like Teen Spirit (Boombox Rehearsals)",
-          "duration": "5:40"
-        },
-        {
-          "number": 10,
-          "name": "Stay Away",
-          "duration": "3:32"
-        },
-        {
-          "number": 10,
-          "name": "Verse Chorus Verse (Boombox Rehearsals)",
-          "duration": "3:14"
-        },
-        {
-          "number": 11,
-          "name": "On a Plain",
-          "duration": "3:16"
-        },
-        {
-          "number": 11,
-          "name": "Territorial Pissings (Boombox Rehearsals)",
-          "duration": "2:12"
-        },
-        {
-          "number": 12,
-          "name": "Something In the Way",
-          "duration": "3:52"
-        },
-        {
-          "number": 12,
-          "name": "Lounge Act (Boombox Rehearsals)",
-          "duration": "2:38"
-        },
-        {
-          "number": 13,
-          "name": "Endless, Nameless",
-          "duration": "6:42"
-        },
-        {
-          "number": 13,
-          "name": "Come As You Are (Boombox Rehearsals)",
-          "duration": "4:12"
-        },
-        {
-          "number": 14,
-          "name": "Even In His Youth (B-Side)",
-          "duration": "3:03"
-        },
-        {
-          "number": 14,
-          "name": "Old Age (Boombox Rehearsals)",
-          "duration": "4:22"
-        },
-        {
-          "number": 15,
-          "name": "Aneurysm",
-          "duration": "4:46"
-        },
-        {
-          "number": 15,
-          "name": "Something In The Way (Boombox Rehearsals)",
-          "duration": "5:31"
-        },
-        {
-          "number": 16,
-          "name": "Curmudgeon",
-          "duration": "2:59"
-        },
-        {
-          "number": 16,
-          "name": "On A Plain (Boombox Rehearsals)",
-          "duration": "3:21"
-        },
-        {
-          "number": 17,
-          "name": "D-7 (Live At The BBC)",
-          "duration": "3:45"
-        },
-        {
-          "number": 17,
-          "name": "Drain You (Live At The BBC)",
-          "duration": "4:04"
-        },
-        {
-          "number": 18,
-          "name": "Been A Son (Live At Paramount Theatre B-Side)",
-          "duration": "2:31"
-        },
-        {
-          "number": 18,
-          "name": "Something In The Way (Live At The BBC)",
-          "duration": "3:21"
-        },
-        {
-          "number": 19,
-          "name": "School (Live At Paramount Theatre/1991)",
-          "duration": "2:33"
-        },
-        {
-          "number": 20,
-          "name": "Drain You (Live At Paramount Theatre B-Side)",
-          "duration": "3:53"
-        },
-        {
-          "number": 21,
-          "name": "Sliver (Live At Del Mar B-Side)",
-          "duration": "2:04"
-        },
-        {
-          "number": 22,
-          "name": "Polly (Live At Del Mar B-Side)",
-          "duration": "2:45"
-        }
-      ]
-    },
-    {
       "name": "With the Lights Out",
       "year": "2004",
       "release_date": "2004-11-23",
@@ -3004,6 +2796,214 @@
           "number": 22,
           "name": "Polly (Live At Del Mar B-Side)",
           "duration": "2:47"
+        }
+      ]
+    },
+    {
+      "name": "Nevermind (Deluxe Edition)",
+      "year": "1991",
+      "release_date": "1991-09-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/03/d2/3203d294-c0a0-a016-ddcb-508a093aa0b0/11UMGIM26899.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Smells Like Teen Spirit",
+          "duration": "5:01"
+        },
+        {
+          "number": 1,
+          "name": "In Bloom (Smart Sessions)",
+          "duration": "4:31"
+        },
+        {
+          "number": 2,
+          "name": "In Bloom",
+          "duration": "4:15"
+        },
+        {
+          "number": 2,
+          "name": "Immodium (Breed) [Smart Sessions]",
+          "duration": "3:15"
+        },
+        {
+          "number": 3,
+          "name": "Come As You Are",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Lithium (Smart Sessions)",
+          "duration": "4:31"
+        },
+        {
+          "number": 4,
+          "name": "Breed",
+          "duration": "3:04"
+        },
+        {
+          "number": 4,
+          "name": "Polly (Smart Sessions)",
+          "duration": "2:58"
+        },
+        {
+          "number": 5,
+          "name": "Lithium",
+          "duration": "4:17"
+        },
+        {
+          "number": 5,
+          "name": "Pay To Play (Smart Sessions)",
+          "duration": "3:29"
+        },
+        {
+          "number": 6,
+          "name": "Polly",
+          "duration": "2:57"
+        },
+        {
+          "number": 6,
+          "name": "Here She Comes Now (Smart Sessions)",
+          "duration": "5:01"
+        },
+        {
+          "number": 7,
+          "name": "Territorial Pissings",
+          "duration": "2:22"
+        },
+        {
+          "number": 7,
+          "name": "Dive (Smart Sessions)",
+          "duration": "3:55"
+        },
+        {
+          "number": 8,
+          "name": "Drain You",
+          "duration": "3:43"
+        },
+        {
+          "number": 8,
+          "name": "Sappy (Smart Sessions)",
+          "duration": "3:37"
+        },
+        {
+          "number": 9,
+          "name": "Lounge Act",
+          "duration": "2:36"
+        },
+        {
+          "number": 9,
+          "name": "Smells Like Teen Spirit (Boombox Rehearsals)",
+          "duration": "5:40"
+        },
+        {
+          "number": 10,
+          "name": "Stay Away",
+          "duration": "3:32"
+        },
+        {
+          "number": 10,
+          "name": "Verse Chorus Verse (Boombox Rehearsals)",
+          "duration": "3:14"
+        },
+        {
+          "number": 11,
+          "name": "On a Plain",
+          "duration": "3:16"
+        },
+        {
+          "number": 11,
+          "name": "Territorial Pissings (Boombox Rehearsals)",
+          "duration": "2:12"
+        },
+        {
+          "number": 12,
+          "name": "Something In the Way",
+          "duration": "3:52"
+        },
+        {
+          "number": 12,
+          "name": "Lounge Act (Boombox Rehearsals)",
+          "duration": "2:38"
+        },
+        {
+          "number": 13,
+          "name": "Endless, Nameless",
+          "duration": "6:42"
+        },
+        {
+          "number": 13,
+          "name": "Come As You Are (Boombox Rehearsals)",
+          "duration": "4:12"
+        },
+        {
+          "number": 14,
+          "name": "Even In His Youth (B-Side)",
+          "duration": "3:03"
+        },
+        {
+          "number": 14,
+          "name": "Old Age (Boombox Rehearsals)",
+          "duration": "4:22"
+        },
+        {
+          "number": 15,
+          "name": "Aneurysm",
+          "duration": "4:46"
+        },
+        {
+          "number": 15,
+          "name": "Something In The Way (Boombox Rehearsals)",
+          "duration": "5:31"
+        },
+        {
+          "number": 16,
+          "name": "Curmudgeon",
+          "duration": "2:59"
+        },
+        {
+          "number": 16,
+          "name": "On A Plain (Boombox Rehearsals)",
+          "duration": "3:21"
+        },
+        {
+          "number": 17,
+          "name": "D-7 (Live At The BBC)",
+          "duration": "3:45"
+        },
+        {
+          "number": 17,
+          "name": "Drain You (Live At The BBC)",
+          "duration": "4:04"
+        },
+        {
+          "number": 18,
+          "name": "Been A Son (Live At Paramount Theatre B-Side)",
+          "duration": "2:31"
+        },
+        {
+          "number": 18,
+          "name": "Something In The Way (Live At The BBC)",
+          "duration": "3:21"
+        },
+        {
+          "number": 19,
+          "name": "School (Live At Paramount Theatre/1991)",
+          "duration": "2:33"
+        },
+        {
+          "number": 20,
+          "name": "Drain You (Live At Paramount Theatre B-Side)",
+          "duration": "3:53"
+        },
+        {
+          "number": 21,
+          "name": "Sliver (Live At Del Mar B-Side)",
+          "duration": "2:04"
+        },
+        {
+          "number": 22,
+          "name": "Polly (Live At Del Mar B-Side)",
+          "duration": "2:45"
         }
       ]
     },

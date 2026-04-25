@@ -197,6 +197,69 @@
       ]
     },
     {
+      "name": "Legends",
+      "year": "2025",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/c3/74/10c3741a-856b-c314-9ec4-0788d062c6ad/846070098604.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Templars",
+          "duration": "4:54"
+        },
+        {
+          "number": 2,
+          "name": "Hordes of Khan",
+          "duration": "3:43"
+        },
+        {
+          "number": 3,
+          "name": "A Tiger Among Dragons",
+          "duration": "4:06"
+        },
+        {
+          "number": 4,
+          "name": "Crossing the Rubicon",
+          "duration": "3:29"
+        },
+        {
+          "number": 5,
+          "name": "I, Emperor",
+          "duration": "4:15"
+        },
+        {
+          "number": 6,
+          "name": "Maid of Steel",
+          "duration": "3:17"
+        },
+        {
+          "number": 7,
+          "name": "Impaler",
+          "duration": "4:44"
+        },
+        {
+          "number": 8,
+          "name": "Lightning at the Gates",
+          "duration": "4:12"
+        },
+        {
+          "number": 9,
+          "name": "The Duelist",
+          "duration": "3:55"
+        },
+        {
+          "number": 10,
+          "name": "The Cycle of Songs",
+          "duration": "5:39"
+        },
+        {
+          "number": 11,
+          "name": "Till Seger",
+          "duration": "3:27"
+        }
+      ]
+    },
+    {
       "name": "Coat of Arms",
       "year": "2010",
       "release_date": "2010-05-21",
@@ -432,69 +495,6 @@
           "number": 17,
           "name": "Swedish National Anthem (Live, at Sweden Rock Festival)",
           "duration": "2:34"
-        }
-      ]
-    },
-    {
-      "name": "Legends",
-      "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/c3/74/10c3741a-856b-c314-9ec4-0788d062c6ad/846070098604.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Templars",
-          "duration": "4:54"
-        },
-        {
-          "number": 2,
-          "name": "Hordes of Khan",
-          "duration": "3:43"
-        },
-        {
-          "number": 3,
-          "name": "A Tiger Among Dragons",
-          "duration": "4:06"
-        },
-        {
-          "number": 4,
-          "name": "Crossing the Rubicon",
-          "duration": "3:29"
-        },
-        {
-          "number": 5,
-          "name": "I, Emperor",
-          "duration": "4:15"
-        },
-        {
-          "number": 6,
-          "name": "Maid of Steel",
-          "duration": "3:17"
-        },
-        {
-          "number": 7,
-          "name": "Impaler",
-          "duration": "4:44"
-        },
-        {
-          "number": 8,
-          "name": "Lightning at the Gates",
-          "duration": "4:12"
-        },
-        {
-          "number": 9,
-          "name": "The Duelist",
-          "duration": "3:55"
-        },
-        {
-          "number": 10,
-          "name": "The Cycle of Songs",
-          "duration": "5:39"
-        },
-        {
-          "number": 11,
-          "name": "Till Seger",
-          "duration": "3:27"
         }
       ]
     },
@@ -2189,19 +2189,6 @@
       ]
     },
     {
-      "name": "Crossing the Rubicon (feat. NOTHING MORE, Jonny Hawkins & Mark Vollelunga)",
-      "year": "2025",
-      "release_date": "2025-09-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/cf/76/6bcf76b0-ae0a-fc08-a3a7-37f5589d7131/846070099700.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Crossing the Rubicon (feat. NOTHING MORE, Jonny Hawkins & Mark Vollelunga)",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
       "name": "Angels Calling (feat. Apocalyptica)",
       "year": "2020",
       "release_date": "2020-01-17",
@@ -2211,6 +2198,19 @@
           "number": 1,
           "name": "Angels Calling (feat. Apocalyptica)",
           "duration": "5:53"
+        }
+      ]
+    },
+    {
+      "name": "Crossing the Rubicon (feat. NOTHING MORE, Jonny Hawkins & Mark Vollelunga)",
+      "year": "2025",
+      "release_date": "2025-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/cf/76/6bcf76b0-ae0a-fc08-a3a7-37f5589d7131/846070099700.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Crossing the Rubicon (feat. NOTHING MORE, Jonny Hawkins & Mark Vollelunga)",
+          "duration": "3:24"
         }
       ]
     },

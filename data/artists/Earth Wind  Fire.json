@@ -265,6 +265,59 @@
       ]
     },
     {
+      "name": "Raise!",
+      "year": "1981",
+      "release_date": "1981-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/f8/29/caf82937-caba-e739-79b1-fe53a673dd53/dj.vikfvxxi.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Let's Groove",
+          "duration": "5:39"
+        },
+        {
+          "number": 2,
+          "name": "Lady Sun",
+          "duration": "3:40"
+        },
+        {
+          "number": 3,
+          "name": "My Love",
+          "duration": "4:39"
+        },
+        {
+          "number": 4,
+          "name": "Evolution Orange",
+          "duration": "4:38"
+        },
+        {
+          "number": 5,
+          "name": "Kalimba Tree",
+          "duration": "0:25"
+        },
+        {
+          "number": 6,
+          "name": "You Are a Winner",
+          "duration": "4:09"
+        },
+        {
+          "number": 7,
+          "name": "I've Had Enough",
+          "duration": "4:37"
+        },
+        {
+          "number": 8,
+          "name": "Wanna Be With You",
+          "duration": "4:40"
+        },
+        {
+          "number": 9,
+          "name": "The Changing Times",
+          "duration": "5:59"
+        }
+      ]
+    },
+    {
       "name": "Faces",
       "year": "1980",
       "release_date": "1980-10-14",
@@ -912,112 +965,6 @@
       ]
     },
     {
-      "name": "Raise!",
-      "year": "1981",
-      "release_date": "1981-11-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ca/f8/29/caf82937-caba-e739-79b1-fe53a673dd53/dj.vikfvxxi.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Let's Groove",
-          "duration": "5:39"
-        },
-        {
-          "number": 2,
-          "name": "Lady Sun",
-          "duration": "3:40"
-        },
-        {
-          "number": 3,
-          "name": "My Love",
-          "duration": "4:39"
-        },
-        {
-          "number": 4,
-          "name": "Evolution Orange",
-          "duration": "4:38"
-        },
-        {
-          "number": 5,
-          "name": "Kalimba Tree",
-          "duration": "0:25"
-        },
-        {
-          "number": 6,
-          "name": "You Are a Winner",
-          "duration": "4:09"
-        },
-        {
-          "number": 7,
-          "name": "I've Had Enough",
-          "duration": "4:37"
-        },
-        {
-          "number": 8,
-          "name": "Wanna Be With You",
-          "duration": "4:40"
-        },
-        {
-          "number": 9,
-          "name": "The Changing Times",
-          "duration": "5:59"
-        }
-      ]
-    },
-    {
-      "name": "Powerlight",
-      "year": "1983",
-      "release_date": "1983-02-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/db/51/5f/db515f72-1998-615c-1c73-edff93313ac5/dj.mvwqjcyf.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fall in Love with Me",
-          "duration": "5:52"
-        },
-        {
-          "number": 2,
-          "name": "Spread Your Love",
-          "duration": "3:51"
-        },
-        {
-          "number": 3,
-          "name": "Side by Side",
-          "duration": "5:56"
-        },
-        {
-          "number": 4,
-          "name": "Straight from the Heart",
-          "duration": "4:41"
-        },
-        {
-          "number": 5,
-          "name": "The Speed of Love",
-          "duration": "3:35"
-        },
-        {
-          "number": 6,
-          "name": "Freedom of Choice",
-          "duration": "4:10"
-        },
-        {
-          "number": 7,
-          "name": "Something Special",
-          "duration": "4:23"
-        },
-        {
-          "number": 8,
-          "name": "Hearts to Heart",
-          "duration": "3:44"
-        },
-        {
-          "number": 9,
-          "name": "Miracles",
-          "duration": "4:57"
-        }
-      ]
-    },
-    {
       "name": "The Essential Earth, Wind & Fire",
       "year": "2002",
       "release_date": "2002-07-23",
@@ -1177,6 +1124,59 @@
           "number": 18,
           "name": "Drum Song",
           "duration": "5:09"
+        }
+      ]
+    },
+    {
+      "name": "Powerlight",
+      "year": "1983",
+      "release_date": "1983-02-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/db/51/5f/db515f72-1998-615c-1c73-edff93313ac5/dj.mvwqjcyf.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fall in Love with Me",
+          "duration": "5:52"
+        },
+        {
+          "number": 2,
+          "name": "Spread Your Love",
+          "duration": "3:51"
+        },
+        {
+          "number": 3,
+          "name": "Side by Side",
+          "duration": "5:56"
+        },
+        {
+          "number": 4,
+          "name": "Straight from the Heart",
+          "duration": "4:41"
+        },
+        {
+          "number": 5,
+          "name": "The Speed of Love",
+          "duration": "3:35"
+        },
+        {
+          "number": 6,
+          "name": "Freedom of Choice",
+          "duration": "4:10"
+        },
+        {
+          "number": 7,
+          "name": "Something Special",
+          "duration": "4:23"
+        },
+        {
+          "number": 8,
+          "name": "Hearts to Heart",
+          "duration": "3:44"
+        },
+        {
+          "number": 9,
+          "name": "Miracles",
+          "duration": "4:57"
         }
       ]
     },
@@ -1539,6 +1539,69 @@
       ]
     },
     {
+      "name": "Last Days and Time (Remastered)",
+      "year": "1972",
+      "release_date": "1972-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e7/6d/4c/e76d4ce8-db48-5dff-706e-63d919edce10/886443461338.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Time Is on Your Side",
+          "duration": "3:40"
+        },
+        {
+          "number": 2,
+          "name": "Interlude, No. 1",
+          "duration": "0:23"
+        },
+        {
+          "number": 3,
+          "name": "They Don't See",
+          "duration": "3:30"
+        },
+        {
+          "number": 4,
+          "name": "Interlude, No. 2",
+          "duration": "0:23"
+        },
+        {
+          "number": 5,
+          "name": "Make It with You",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "Power",
+          "duration": "8:11"
+        },
+        {
+          "number": 7,
+          "name": "Remember the Children",
+          "duration": "4:03"
+        },
+        {
+          "number": 8,
+          "name": "Interlude, No. 3",
+          "duration": "0:52"
+        },
+        {
+          "number": 9,
+          "name": "Where Have All the Flowers Gone",
+          "duration": "4:51"
+        },
+        {
+          "number": 10,
+          "name": "I'd Rather Have You",
+          "duration": "4:39"
+        },
+        {
+          "number": 11,
+          "name": "Mom",
+          "duration": "5:49"
+        }
+      ]
+    },
+    {
       "name": "The Eternal Dance",
       "year": "1992",
       "release_date": "1992-09-08",
@@ -1793,69 +1856,6 @@
           "number": 18,
           "name": "Got to Get You Into My Life",
           "duration": "4:03"
-        }
-      ]
-    },
-    {
-      "name": "Last Days and Time (Remastered)",
-      "year": "1972",
-      "release_date": "1972-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e7/6d/4c/e76d4ce8-db48-5dff-706e-63d919edce10/886443461338.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Time Is on Your Side",
-          "duration": "3:40"
-        },
-        {
-          "number": 2,
-          "name": "Interlude, No. 1",
-          "duration": "0:23"
-        },
-        {
-          "number": 3,
-          "name": "They Don't See",
-          "duration": "3:30"
-        },
-        {
-          "number": 4,
-          "name": "Interlude, No. 2",
-          "duration": "0:23"
-        },
-        {
-          "number": 5,
-          "name": "Make It with You",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "Power",
-          "duration": "8:11"
-        },
-        {
-          "number": 7,
-          "name": "Remember the Children",
-          "duration": "4:03"
-        },
-        {
-          "number": 8,
-          "name": "Interlude, No. 3",
-          "duration": "0:52"
-        },
-        {
-          "number": 9,
-          "name": "Where Have All the Flowers Gone",
-          "duration": "4:51"
-        },
-        {
-          "number": 10,
-          "name": "I'd Rather Have You",
-          "duration": "4:39"
-        },
-        {
-          "number": 11,
-          "name": "Mom",
-          "duration": "5:49"
         }
       ]
     },

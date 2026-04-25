@@ -582,74 +582,6 @@
       ]
     },
     {
-      "name": "Endgame",
-      "year": "2011",
-      "release_date": "2011-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/58/72/cb/5872cb65-1dd8-2178-2891-a779f099a131/00602537898787.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Architects",
-          "duration": "3:42"
-        },
-        {
-          "number": 2,
-          "name": "Help Is On the Way",
-          "duration": "3:57"
-        },
-        {
-          "number": 3,
-          "name": "Make It Stop (September's Children)",
-          "duration": "3:54"
-        },
-        {
-          "number": 4,
-          "name": "Disparity By Design",
-          "duration": "3:48"
-        },
-        {
-          "number": 5,
-          "name": "Satellite",
-          "duration": "3:58"
-        },
-        {
-          "number": 6,
-          "name": "Midnight Hands",
-          "duration": "4:17"
-        },
-        {
-          "number": 7,
-          "name": "Survivor Guilt",
-          "duration": "3:59"
-        },
-        {
-          "number": 8,
-          "name": "Broken Mirrors",
-          "duration": "3:54"
-        },
-        {
-          "number": 9,
-          "name": "Wait For Me",
-          "duration": "3:39"
-        },
-        {
-          "number": 10,
-          "name": "A Gentlemen's Coup",
-          "duration": "3:46"
-        },
-        {
-          "number": 11,
-          "name": "This Is Letting Go",
-          "duration": "3:41"
-        },
-        {
-          "number": 12,
-          "name": "Endgame",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
       "name": "RPM10",
       "year": "2003",
       "release_date": "2003-04-08",
@@ -764,6 +696,74 @@
           "number": 22,
           "name": "Amber Changing (Demo)",
           "duration": "2:53"
+        }
+      ]
+    },
+    {
+      "name": "Endgame",
+      "year": "2011",
+      "release_date": "2011-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/58/72/cb/5872cb65-1dd8-2178-2891-a779f099a131/00602537898787.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Architects",
+          "duration": "3:42"
+        },
+        {
+          "number": 2,
+          "name": "Help Is On the Way",
+          "duration": "3:57"
+        },
+        {
+          "number": 3,
+          "name": "Make It Stop (September's Children)",
+          "duration": "3:54"
+        },
+        {
+          "number": 4,
+          "name": "Disparity By Design",
+          "duration": "3:48"
+        },
+        {
+          "number": 5,
+          "name": "Satellite",
+          "duration": "3:58"
+        },
+        {
+          "number": 6,
+          "name": "Midnight Hands",
+          "duration": "4:17"
+        },
+        {
+          "number": 7,
+          "name": "Survivor Guilt",
+          "duration": "3:59"
+        },
+        {
+          "number": 8,
+          "name": "Broken Mirrors",
+          "duration": "3:54"
+        },
+        {
+          "number": 9,
+          "name": "Wait For Me",
+          "duration": "3:39"
+        },
+        {
+          "number": 10,
+          "name": "A Gentlemen's Coup",
+          "duration": "3:46"
+        },
+        {
+          "number": 11,
+          "name": "This Is Letting Go",
+          "duration": "3:41"
+        },
+        {
+          "number": 12,
+          "name": "Endgame",
+          "duration": "3:24"
         }
       ]
     },
@@ -1331,19 +1331,6 @@
       ]
     },
     {
-      "name": "Nod",
-      "year": "2025",
-      "release_date": "2025-01-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/21/a2/0821a28a-83fb-69a5-552d-70ff0902b3ae/24CRGIM46343.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nod",
-          "duration": "3:02"
-        }
-      ]
-    },
-    {
       "name": "Megaphone",
       "year": "2018",
       "release_date": "2018-06-29",
@@ -1353,6 +1340,19 @@
           "number": 1,
           "name": "Megaphone",
           "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Nod",
+      "year": "2025",
+      "release_date": "2025-01-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/21/a2/0821a28a-83fb-69a5-552d-70ff0902b3ae/24CRGIM46343.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nod",
+          "duration": "3:02"
         }
       ]
     },

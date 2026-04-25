@@ -903,109 +903,6 @@
       ]
     },
     {
-      "name": "Lo Más Romántico De",
-      "year": "2021",
-      "release_date": "2021-01-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/bd/29/0fbd2985-4a0e-037c-3dcf-b0c93860fee9/20UM1IM12854.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Eres Tú (Duet Version)",
-          "duration": "3:22"
-        },
-        {
-          "number": 2,
-          "name": "Amor De Hombre",
-          "duration": "3:33"
-        },
-        {
-          "number": 3,
-          "name": "Desde Que Tú Te Has Ido",
-          "duration": "2:57"
-        },
-        {
-          "number": 4,
-          "name": "Dónde Estás Corazón",
-          "duration": "3:19"
-        },
-        {
-          "number": 5,
-          "name": "Le Llamaban Loca",
-          "duration": "2:53"
-        },
-        {
-          "number": 6,
-          "name": "Tómame O Déjame",
-          "duration": "3:06"
-        },
-        {
-          "number": 7,
-          "name": "El Viajero",
-          "duration": "3:56"
-        },
-        {
-          "number": 8,
-          "name": "El Vendedor",
-          "duration": "3:53"
-        },
-        {
-          "number": 9,
-          "name": "Secretaria",
-          "duration": "3:14"
-        },
-        {
-          "number": 10,
-          "name": "Un Mundo Raro",
-          "duration": "3:46"
-        },
-        {
-          "number": 11,
-          "name": "Cielo Rojo (Duet Version)",
-          "duration": "3:35"
-        },
-        {
-          "number": 12,
-          "name": "Charango",
-          "duration": "3:16"
-        },
-        {
-          "number": 13,
-          "name": "No Volveré",
-          "duration": "3:24"
-        },
-        {
-          "number": 14,
-          "name": "Todavía (Duet Version)",
-          "duration": "3:16"
-        },
-        {
-          "number": 15,
-          "name": "Quién Te Cantará (Sinfónico En Vivo)",
-          "duration": "3:12"
-        },
-        {
-          "number": 16,
-          "name": "Medley Éxitos 70's (Sinfónico En Vivo)",
-          "duration": "9:04"
-        },
-        {
-          "number": 17,
-          "name": "Un Poco De Amor (Sinfónico En Vivo)",
-          "duration": "4:16"
-        },
-        {
-          "number": 18,
-          "name": "Qué Pasará Mañana (Sinfónico En Vivo)",
-          "duration": "3:23"
-        },
-        {
-          "number": 19,
-          "name": "Cuando Te Miro (Sinfónico En Vivo)",
-          "duration": "3:46"
-        }
-      ]
-    },
-    {
       "name": "Infinito - Duets",
       "year": "2022",
       "release_date": "2022-05-20",
@@ -1133,6 +1030,109 @@
           "number": 15,
           "name": "Todavía",
           "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "Lo Más Romántico De",
+      "year": "2021",
+      "release_date": "2021-01-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/bd/29/0fbd2985-4a0e-037c-3dcf-b0c93860fee9/20UM1IM12854.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Eres Tú (Duet Version)",
+          "duration": "3:22"
+        },
+        {
+          "number": 2,
+          "name": "Amor De Hombre",
+          "duration": "3:33"
+        },
+        {
+          "number": 3,
+          "name": "Desde Que Tú Te Has Ido",
+          "duration": "2:57"
+        },
+        {
+          "number": 4,
+          "name": "Dónde Estás Corazón",
+          "duration": "3:19"
+        },
+        {
+          "number": 5,
+          "name": "Le Llamaban Loca",
+          "duration": "2:53"
+        },
+        {
+          "number": 6,
+          "name": "Tómame O Déjame",
+          "duration": "3:06"
+        },
+        {
+          "number": 7,
+          "name": "El Viajero",
+          "duration": "3:56"
+        },
+        {
+          "number": 8,
+          "name": "El Vendedor",
+          "duration": "3:53"
+        },
+        {
+          "number": 9,
+          "name": "Secretaria",
+          "duration": "3:14"
+        },
+        {
+          "number": 10,
+          "name": "Un Mundo Raro",
+          "duration": "3:46"
+        },
+        {
+          "number": 11,
+          "name": "Cielo Rojo (Duet Version)",
+          "duration": "3:35"
+        },
+        {
+          "number": 12,
+          "name": "Charango",
+          "duration": "3:16"
+        },
+        {
+          "number": 13,
+          "name": "No Volveré",
+          "duration": "3:24"
+        },
+        {
+          "number": 14,
+          "name": "Todavía (Duet Version)",
+          "duration": "3:16"
+        },
+        {
+          "number": 15,
+          "name": "Quién Te Cantará (Sinfónico En Vivo)",
+          "duration": "3:12"
+        },
+        {
+          "number": 16,
+          "name": "Medley Éxitos 70's (Sinfónico En Vivo)",
+          "duration": "9:04"
+        },
+        {
+          "number": 17,
+          "name": "Un Poco De Amor (Sinfónico En Vivo)",
+          "duration": "4:16"
+        },
+        {
+          "number": 18,
+          "name": "Qué Pasará Mañana (Sinfónico En Vivo)",
+          "duration": "3:23"
+        },
+        {
+          "number": 19,
+          "name": "Cuando Te Miro (Sinfónico En Vivo)",
+          "duration": "3:46"
         }
       ]
     },

@@ -134,6 +134,54 @@
       ]
     },
     {
+      "name": "Days Before Dreamboy",
+      "year": "2025",
+      "release_date": "2025-03-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/c9/da/4fc9da6a-418d-5af6-7ae2-0ae6faca01d3/196873019833.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HOTBOX",
+          "duration": "3:02"
+        },
+        {
+          "number": 2,
+          "name": "LIGHT AGAIN!",
+          "duration": "2:57"
+        },
+        {
+          "number": 3,
+          "name": "DREAMBOY",
+          "duration": "3:35"
+        },
+        {
+          "number": 4,
+          "name": "BIG DUMMY!",
+          "duration": "2:05"
+        },
+        {
+          "number": 5,
+          "name": "SWISH",
+          "duration": "3:41"
+        },
+        {
+          "number": 6,
+          "name": "RIGHT THERE!",
+          "duration": "3:18"
+        },
+        {
+          "number": 7,
+          "name": "need dat boy",
+          "duration": "2:52"
+        },
+        {
+          "number": 8,
+          "name": "LEAN ON MY BODY",
+          "duration": "3:25"
+        }
+      ]
+    },
+    {
       "name": "MONTERO",
       "year": "2021",
       "release_date": "2021-09-17",
@@ -215,54 +263,6 @@
           "duration": "3:03"
         }
       ]
-    },
-    {
-      "name": "Days Before Dreamboy",
-      "year": "2025",
-      "release_date": "2025-03-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/c9/da/4fc9da6a-418d-5af6-7ae2-0ae6faca01d3/196873019833.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HOTBOX",
-          "duration": "3:02"
-        },
-        {
-          "number": 2,
-          "name": "LIGHT AGAIN!",
-          "duration": "2:57"
-        },
-        {
-          "number": 3,
-          "name": "DREAMBOY",
-          "duration": "3:35"
-        },
-        {
-          "number": 4,
-          "name": "BIG DUMMY!",
-          "duration": "2:05"
-        },
-        {
-          "number": 5,
-          "name": "SWISH",
-          "duration": "3:41"
-        },
-        {
-          "number": 6,
-          "name": "RIGHT THERE!",
-          "duration": "3:18"
-        },
-        {
-          "number": 7,
-          "name": "need dat boy",
-          "duration": "2:52"
-        },
-        {
-          "number": 8,
-          "name": "LEAN ON MY BODY",
-          "duration": "3:25"
-        }
-      ]
     }
   ],
   "singles": [
@@ -309,19 +309,6 @@
       "name": "MONTERO (Call Me By Your Name)",
       "year": "2021",
       "release_date": "2021-03-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/ef/37/8def37cf-f641-1bba-f312-61a9b8d19fbf/886449068029.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTERO (Call Me By Your Name)",
-          "duration": "2:17"
-        }
-      ]
-    },
-    {
-      "name": "MONTERO (Call Me By Your Name)",
-      "year": "2021",
-      "release_date": "2021-03-26",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/fd/e1/67fde1c7-cbd2-2117-a592-dc29fd445b61/886449068012.jpg/600x600bb.jpg",
       "tracks": [
         {
@@ -341,6 +328,19 @@
           "number": 1,
           "name": "Old Town Road (Diplo Remix)",
           "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "MONTERO (Call Me By Your Name)",
+      "year": "2021",
+      "release_date": "2021-03-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/ef/37/8def37cf-f641-1bba-f312-61a9b8d19fbf/886449068029.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTERO (Call Me By Your Name)",
+          "duration": "2:17"
         }
       ]
     },
@@ -384,19 +384,6 @@
       ]
     },
     {
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "year": "2022",
-      "release_date": "2022-09-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/30/4c/3a/304c3ad3-91a8-c075-9708-152c4ea8b786/196589436092.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "INDUSTRY BABY",
       "year": "2021",
       "release_date": "2021-07-23",
@@ -406,6 +393,19 @@
           "number": 1,
           "name": "INDUSTRY BABY",
           "duration": "3:32"
+        }
+      ]
+    },
+    {
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "year": "2022",
+      "release_date": "2022-09-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/30/4c/3a/304c3ad3-91a8-c075-9708-152c4ea8b786/196589436092.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+          "duration": "3:30"
         }
       ]
     },

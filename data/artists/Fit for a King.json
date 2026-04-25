@@ -3,64 +3,6 @@
   "id": 279581764,
   "albums": [
     {
-      "name": "The Hell We Create",
-      "year": "2022",
-      "release_date": "2022-10-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/50/87/fe/5087fea6-1145-e991-acc8-4a0f6276594e/810488028676.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Hell We Create",
-          "duration": "4:14"
-        },
-        {
-          "number": 2,
-          "name": "End (The Other Side)",
-          "duration": "3:50"
-        },
-        {
-          "number": 3,
-          "name": "Falling Through the Sky",
-          "duration": "4:21"
-        },
-        {
-          "number": 4,
-          "name": "Sink Below",
-          "duration": "3:08"
-        },
-        {
-          "number": 5,
-          "name": "Reaper",
-          "duration": "3:19"
-        },
-        {
-          "number": 6,
-          "name": "Times Like This (feat. Jonathan Vigil)",
-          "duration": "4:09"
-        },
-        {
-          "number": 7,
-          "name": "Eyes Roll Back",
-          "duration": "3:29"
-        },
-        {
-          "number": 8,
-          "name": "Fracture",
-          "duration": "3:24"
-        },
-        {
-          "number": 9,
-          "name": "Reaching Out",
-          "duration": "4:21"
-        },
-        {
-          "number": 10,
-          "name": "What You Left Behind",
-          "duration": "4:04"
-        }
-      ]
-    },
-    {
       "name": "Lonely God",
       "year": "2025",
       "release_date": "2025-08-01",
@@ -125,6 +67,64 @@
           "number": 12,
           "name": "Witness The End (feat. Chris Motionless)",
           "duration": "4:08"
+        }
+      ]
+    },
+    {
+      "name": "The Hell We Create",
+      "year": "2022",
+      "release_date": "2022-10-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/50/87/fe/5087fea6-1145-e991-acc8-4a0f6276594e/810488028676.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Hell We Create",
+          "duration": "4:14"
+        },
+        {
+          "number": 2,
+          "name": "End (The Other Side)",
+          "duration": "3:50"
+        },
+        {
+          "number": 3,
+          "name": "Falling Through the Sky",
+          "duration": "4:21"
+        },
+        {
+          "number": 4,
+          "name": "Sink Below",
+          "duration": "3:08"
+        },
+        {
+          "number": 5,
+          "name": "Reaper",
+          "duration": "3:19"
+        },
+        {
+          "number": 6,
+          "name": "Times Like This (feat. Jonathan Vigil)",
+          "duration": "4:09"
+        },
+        {
+          "number": 7,
+          "name": "Eyes Roll Back",
+          "duration": "3:29"
+        },
+        {
+          "number": 8,
+          "name": "Fracture",
+          "duration": "3:24"
+        },
+        {
+          "number": 9,
+          "name": "Reaching Out",
+          "duration": "4:21"
+        },
+        {
+          "number": 10,
+          "name": "What You Left Behind",
+          "duration": "4:04"
         }
       ]
     },
@@ -610,19 +610,6 @@
       ]
     },
     {
-      "name": "When Everything Means Nothing",
-      "year": "2018",
-      "release_date": "2018-08-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/02/12/4c/02124cb9-cf62-1533-bfcc-7441a3d9ff95/810488023350.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "When Everything Means Nothing",
-          "duration": "3:51"
-        }
-      ]
-    },
-    {
       "name": "Carry the Weight (feat. Fit For A King)",
       "year": "2020",
       "release_date": "2020-05-29",
@@ -645,6 +632,19 @@
           "number": 1,
           "name": "Backbreaker (with We Came as Romans) [feat. We Came As Romans]",
           "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "When Everything Means Nothing",
+      "year": "2018",
+      "release_date": "2018-08-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/02/12/4c/02124cb9-cf62-1533-bfcc-7441a3d9ff95/810488023350.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "When Everything Means Nothing",
+          "duration": "3:51"
         }
       ]
     },

@@ -481,42 +481,6 @@
   ],
   "singles": [
     {
-      "name": "One",
-      "year": "2016",
-      "release_date": "2016-12-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/aa/eb/19aaeb07-7799-19b5-c4a0-e20710a1cb3f/859725364559_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Thread the Needle",
-          "duration": "6:36"
-        },
-        {
-          "number": 2,
-          "name": "Fields of Elation",
-          "duration": "4:31"
-        },
-        {
-          "number": 3,
-          "name": "When the Bough Breaks",
-          "duration": "7:35"
-        }
-      ]
-    },
-    {
-      "name": "Jaws",
-      "year": "2018",
-      "release_date": "2018-06-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9c/75/a4/9c75a488-0b7f-2ed2-3795-2bfcceeef410/859726806447_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Jaws",
-          "duration": "5:55"
-        }
-      ]
-    },
-    {
       "name": "Two",
       "year": "2017",
       "release_date": "2017-07-21",
@@ -536,6 +500,42 @@
           "number": 3,
           "name": "Jericho",
           "duration": "5:17"
+        }
+      ]
+    },
+    {
+      "name": "Jaws",
+      "year": "2018",
+      "release_date": "2018-06-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9c/75/a4/9c75a488-0b7f-2ed2-3795-2bfcceeef410/859726806447_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Jaws",
+          "duration": "5:55"
+        }
+      ]
+    },
+    {
+      "name": "One",
+      "year": "2016",
+      "release_date": "2016-12-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/aa/eb/19aaeb07-7799-19b5-c4a0-e20710a1cb3f/859725364559_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Thread the Needle",
+          "duration": "6:36"
+        },
+        {
+          "number": 2,
+          "name": "Fields of Elation",
+          "duration": "4:31"
+        },
+        {
+          "number": 3,
+          "name": "When the Bough Breaks",
+          "duration": "7:35"
         }
       ]
     },

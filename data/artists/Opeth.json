@@ -263,44 +263,6 @@
       ]
     },
     {
-      "name": "Deliverance",
-      "year": "2002",
-      "release_date": "2002-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/3c/9f/d7/3c9fd751-9e46-365f-a350-71a75934b7b0/886445525366.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wreath",
-          "duration": "11:11"
-        },
-        {
-          "number": 2,
-          "name": "Deliverance",
-          "duration": "13:36"
-        },
-        {
-          "number": 3,
-          "name": "A Fair Judgement",
-          "duration": "10:21"
-        },
-        {
-          "number": 4,
-          "name": "For Absent Friends",
-          "duration": "2:17"
-        },
-        {
-          "number": 5,
-          "name": "Master's Apprentices",
-          "duration": "10:30"
-        },
-        {
-          "number": 6,
-          "name": "By the Pain I See in Others",
-          "duration": "13:50"
-        }
-      ]
-    },
-    {
       "name": "Watershed (Special Edition)",
       "year": "2008",
       "release_date": "2008-05-24",
@@ -359,6 +321,44 @@
       ]
     },
     {
+      "name": "Deliverance",
+      "year": "2002",
+      "release_date": "2002-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/3c/9f/d7/3c9fd751-9e46-365f-a350-71a75934b7b0/886445525366.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wreath",
+          "duration": "11:11"
+        },
+        {
+          "number": 2,
+          "name": "Deliverance",
+          "duration": "13:36"
+        },
+        {
+          "number": 3,
+          "name": "A Fair Judgement",
+          "duration": "10:21"
+        },
+        {
+          "number": 4,
+          "name": "For Absent Friends",
+          "duration": "2:17"
+        },
+        {
+          "number": 5,
+          "name": "Master's Apprentices",
+          "duration": "10:30"
+        },
+        {
+          "number": 6,
+          "name": "By the Pain I See in Others",
+          "duration": "13:50"
+        }
+      ]
+    },
+    {
       "name": "Still Life (Remastered)",
       "year": "1999",
       "release_date": "1999-01-01",
@@ -398,6 +398,54 @@
           "number": 7,
           "name": "White Cluster (Remastered)",
           "duration": "10:05"
+        }
+      ]
+    },
+    {
+      "name": "Blackwater Park",
+      "year": "2001",
+      "release_date": "2001-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/7e/c4/7c7ec4f6-29d8-d51b-1e74-49cfb9094b98/828768291221.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Leper Affinity",
+          "duration": "10:23"
+        },
+        {
+          "number": 2,
+          "name": "Bleak",
+          "duration": "9:15"
+        },
+        {
+          "number": 3,
+          "name": "Harvest",
+          "duration": "5:58"
+        },
+        {
+          "number": 4,
+          "name": "The Drapery Falls",
+          "duration": "10:52"
+        },
+        {
+          "number": 5,
+          "name": "Dirge for November",
+          "duration": "7:51"
+        },
+        {
+          "number": 6,
+          "name": "The Funeral Portrait",
+          "duration": "8:42"
+        },
+        {
+          "number": 7,
+          "name": "Patterns In the Ivy",
+          "duration": "1:50"
+        },
+        {
+          "number": 8,
+          "name": "Blackwater Park",
+          "duration": "12:08"
         }
       ]
     },
@@ -504,54 +552,6 @@
           "number": 9,
           "name": "The Leper Affinity (Live)",
           "duration": "9:26"
-        }
-      ]
-    },
-    {
-      "name": "Blackwater Park",
-      "year": "2001",
-      "release_date": "2001-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/7e/c4/7c7ec4f6-29d8-d51b-1e74-49cfb9094b98/828768291221.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Leper Affinity",
-          "duration": "10:23"
-        },
-        {
-          "number": 2,
-          "name": "Bleak",
-          "duration": "9:15"
-        },
-        {
-          "number": 3,
-          "name": "Harvest",
-          "duration": "5:58"
-        },
-        {
-          "number": 4,
-          "name": "The Drapery Falls",
-          "duration": "10:52"
-        },
-        {
-          "number": 5,
-          "name": "Dirge for November",
-          "duration": "7:51"
-        },
-        {
-          "number": 6,
-          "name": "The Funeral Portrait",
-          "duration": "8:42"
-        },
-        {
-          "number": 7,
-          "name": "Patterns In the Ivy",
-          "duration": "1:50"
-        },
-        {
-          "number": 8,
-          "name": "Blackwater Park",
-          "duration": "12:08"
         }
       ]
     },
@@ -1055,59 +1055,6 @@
       ]
     },
     {
-      "name": "My Arms, Your Hearse (Abbey Road Remaster)",
-      "year": "1998",
-      "release_date": "1998-08-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/ae/de/6aaedefb-06b9-20e1-7079-ac6aa0a4db56/5401148002157_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Prologue (Abbey Road Remaster)",
-          "duration": "0:58"
-        },
-        {
-          "number": 2,
-          "name": "April Ethereal (Abbey Road Remaster)",
-          "duration": "8:42"
-        },
-        {
-          "number": 3,
-          "name": "When (Abbey Road Remaster)",
-          "duration": "9:13"
-        },
-        {
-          "number": 4,
-          "name": "Madrigal (Abbey Road Remaster)",
-          "duration": "1:27"
-        },
-        {
-          "number": 5,
-          "name": "The Amen Corner (Abbey Road Remaster)",
-          "duration": "8:45"
-        },
-        {
-          "number": 6,
-          "name": "Demon of the Fall (Abbey Road Remaster)",
-          "duration": "6:10"
-        },
-        {
-          "number": 7,
-          "name": "Credence (Abbey Road Remaster)",
-          "duration": "5:31"
-        },
-        {
-          "number": 8,
-          "name": "Karma (Abbey Road Remaster)",
-          "duration": "7:48"
-        },
-        {
-          "number": 9,
-          "name": "Epilogue (Abbey Road Remaster)",
-          "duration": "3:59"
-        }
-      ]
-    },
-    {
       "name": "Lamentations (Live at Shepherd's Bush Empire, London)",
       "year": "2006",
       "release_date": "2006-01-01",
@@ -1187,6 +1134,59 @@
           "number": 15,
           "name": "A Fair Judgement (Live at Shepherd's Bush Empire, London)",
           "duration": "13:50"
+        }
+      ]
+    },
+    {
+      "name": "My Arms, Your Hearse (Abbey Road Remaster)",
+      "year": "1998",
+      "release_date": "1998-08-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/ae/de/6aaedefb-06b9-20e1-7079-ac6aa0a4db56/5401148002157_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Prologue (Abbey Road Remaster)",
+          "duration": "0:58"
+        },
+        {
+          "number": 2,
+          "name": "April Ethereal (Abbey Road Remaster)",
+          "duration": "8:42"
+        },
+        {
+          "number": 3,
+          "name": "When (Abbey Road Remaster)",
+          "duration": "9:13"
+        },
+        {
+          "number": 4,
+          "name": "Madrigal (Abbey Road Remaster)",
+          "duration": "1:27"
+        },
+        {
+          "number": 5,
+          "name": "The Amen Corner (Abbey Road Remaster)",
+          "duration": "8:45"
+        },
+        {
+          "number": 6,
+          "name": "Demon of the Fall (Abbey Road Remaster)",
+          "duration": "6:10"
+        },
+        {
+          "number": 7,
+          "name": "Credence (Abbey Road Remaster)",
+          "duration": "5:31"
+        },
+        {
+          "number": 8,
+          "name": "Karma (Abbey Road Remaster)",
+          "duration": "7:48"
+        },
+        {
+          "number": 9,
+          "name": "Epilogue (Abbey Road Remaster)",
+          "duration": "3:59"
         }
       ]
     },
@@ -1326,64 +1326,6 @@
           "number": 11,
           "name": "Remember Tomorrow",
           "duration": "4:59"
-        }
-      ]
-    },
-    {
-      "name": "Garden of the Titans (Live at Red Rocks Amphitheatre)",
-      "year": "2018",
-      "release_date": "2018-11-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/9b/01/009b0185-1774-ae72-c8e2-1365c74d4812/727361435639.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sorceress (Live)",
-          "duration": "7:09"
-        },
-        {
-          "number": 2,
-          "name": "Ghost of Perdition (Live)",
-          "duration": "12:08"
-        },
-        {
-          "number": 3,
-          "name": "Demon of the Fall (Live)",
-          "duration": "9:55"
-        },
-        {
-          "number": 4,
-          "name": "The Wilde Flowers (Live)",
-          "duration": "8:42"
-        },
-        {
-          "number": 5,
-          "name": "In My Time of Need (Live)",
-          "duration": "5:44"
-        },
-        {
-          "number": 6,
-          "name": "The Devil's Orchard (Live)",
-          "duration": "7:10"
-        },
-        {
-          "number": 7,
-          "name": "Cusp of Eternity (Live)",
-          "duration": "5:14"
-        },
-        {
-          "number": 8,
-          "name": "Heir Apparent (Live)",
-          "duration": "10:21"
-        },
-        {
-          "number": 9,
-          "name": "Era (Live)",
-          "duration": "7:30"
-        },
-        {
-          "number": 10,
-          "name": "Deliverance (Live)",
-          "duration": "14:13"
         }
       ]
     },
@@ -1550,6 +1492,64 @@
           "number": 11,
           "name": "Remember Tomorrow",
           "duration": "4:59"
+        }
+      ]
+    },
+    {
+      "name": "Garden of the Titans (Live at Red Rocks Amphitheatre)",
+      "year": "2018",
+      "release_date": "2018-11-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/9b/01/009b0185-1774-ae72-c8e2-1365c74d4812/727361435639.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sorceress (Live)",
+          "duration": "7:09"
+        },
+        {
+          "number": 2,
+          "name": "Ghost of Perdition (Live)",
+          "duration": "12:08"
+        },
+        {
+          "number": 3,
+          "name": "Demon of the Fall (Live)",
+          "duration": "9:55"
+        },
+        {
+          "number": 4,
+          "name": "The Wilde Flowers (Live)",
+          "duration": "8:42"
+        },
+        {
+          "number": 5,
+          "name": "In My Time of Need (Live)",
+          "duration": "5:44"
+        },
+        {
+          "number": 6,
+          "name": "The Devil's Orchard (Live)",
+          "duration": "7:10"
+        },
+        {
+          "number": 7,
+          "name": "Cusp of Eternity (Live)",
+          "duration": "5:14"
+        },
+        {
+          "number": 8,
+          "name": "Heir Apparent (Live)",
+          "duration": "10:21"
+        },
+        {
+          "number": 9,
+          "name": "Era (Live)",
+          "duration": "7:30"
+        },
+        {
+          "number": 10,
+          "name": "Deliverance (Live)",
+          "duration": "14:13"
         }
       ]
     },

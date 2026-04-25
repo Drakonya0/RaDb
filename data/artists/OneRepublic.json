@@ -91,79 +91,6 @@
       ]
     },
     {
-      "name": "Dreaming Out Loud",
-      "year": "2007",
-      "release_date": "2007-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/5b/2c/bc5b2c34-a392-3cd2-4077-12d6b8451ba3/07UMGIM16721.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Say (All I Need)",
-          "duration": "3:50"
-        },
-        {
-          "number": 2,
-          "name": "Mercy",
-          "duration": "4:01"
-        },
-        {
-          "number": 3,
-          "name": "Stop and Stare",
-          "duration": "3:44"
-        },
-        {
-          "number": 4,
-          "name": "Apologize",
-          "duration": "3:25"
-        },
-        {
-          "number": 5,
-          "name": "Goodbye, Apathy",
-          "duration": "3:32"
-        },
-        {
-          "number": 6,
-          "name": "All Fall Down",
-          "duration": "4:06"
-        },
-        {
-          "number": 7,
-          "name": "Tyrant",
-          "duration": "5:05"
-        },
-        {
-          "number": 8,
-          "name": "Prodigal",
-          "duration": "3:56"
-        },
-        {
-          "number": 9,
-          "name": "Won't Stop",
-          "duration": "5:05"
-        },
-        {
-          "number": 10,
-          "name": "All We Are",
-          "duration": "4:23"
-        },
-        {
-          "number": 11,
-          "name": "Someone to Save You",
-          "duration": "4:13"
-        },
-        {
-          "number": 12,
-          "name": "Come Home",
-          "duration": "4:29"
-        },
-        {
-          "number": 13,
-          "name": "Apologize (feat. OneRepublic)",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "Native",
       "year": "2014",
       "release_date": "2014-01-01",
@@ -243,6 +170,79 @@
           "number": 15,
           "name": "If I Lose Myself (Alesso vs OneRepublic)",
           "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "Dreaming Out Loud",
+      "year": "2007",
+      "release_date": "2007-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/5b/2c/bc5b2c34-a392-3cd2-4077-12d6b8451ba3/07UMGIM16721.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Say (All I Need)",
+          "duration": "3:50"
+        },
+        {
+          "number": 2,
+          "name": "Mercy",
+          "duration": "4:01"
+        },
+        {
+          "number": 3,
+          "name": "Stop and Stare",
+          "duration": "3:44"
+        },
+        {
+          "number": 4,
+          "name": "Apologize",
+          "duration": "3:25"
+        },
+        {
+          "number": 5,
+          "name": "Goodbye, Apathy",
+          "duration": "3:32"
+        },
+        {
+          "number": 6,
+          "name": "All Fall Down",
+          "duration": "4:06"
+        },
+        {
+          "number": 7,
+          "name": "Tyrant",
+          "duration": "5:05"
+        },
+        {
+          "number": 8,
+          "name": "Prodigal",
+          "duration": "3:56"
+        },
+        {
+          "number": 9,
+          "name": "Won't Stop",
+          "duration": "5:05"
+        },
+        {
+          "number": 10,
+          "name": "All We Are",
+          "duration": "4:23"
+        },
+        {
+          "number": 11,
+          "name": "Someone to Save You",
+          "duration": "4:13"
+        },
+        {
+          "number": 12,
+          "name": "Come Home",
+          "duration": "4:29"
+        },
+        {
+          "number": 13,
+          "name": "Apologize (feat. OneRepublic)",
+          "duration": "3:05"
         }
       ]
     },
@@ -584,6 +584,74 @@
       ]
     },
     {
+      "name": "Native",
+      "year": "2013",
+      "release_date": "2013-03-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/eb/26/cbeb26a5-15fd-a9e7-0eff-5ee97e28e7c7/13UMGIM15044.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Counting Stars",
+          "duration": "4:17"
+        },
+        {
+          "number": 2,
+          "name": "If I Lose Myself",
+          "duration": "4:01"
+        },
+        {
+          "number": 3,
+          "name": "Feel Again",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "What You Wanted",
+          "duration": "4:01"
+        },
+        {
+          "number": 5,
+          "name": "I Lived",
+          "duration": "3:54"
+        },
+        {
+          "number": 6,
+          "name": "Light It Up",
+          "duration": "4:10"
+        },
+        {
+          "number": 7,
+          "name": "Can’t Stop",
+          "duration": "4:09"
+        },
+        {
+          "number": 8,
+          "name": "Au Revoir",
+          "duration": "4:50"
+        },
+        {
+          "number": 9,
+          "name": "Burning Bridges",
+          "duration": "4:17"
+        },
+        {
+          "number": 10,
+          "name": "Something I Need",
+          "duration": "4:01"
+        },
+        {
+          "number": 11,
+          "name": "Preacher",
+          "duration": "4:08"
+        },
+        {
+          "number": 12,
+          "name": "Don't Look Down",
+          "duration": "1:39"
+        }
+      ]
+    },
+    {
       "name": "Oh My My (Deluxe Edition)",
       "year": "2016",
       "release_date": "2016-10-07",
@@ -668,74 +736,6 @@
           "number": 16,
           "name": "Heaven",
           "duration": "4:18"
-        }
-      ]
-    },
-    {
-      "name": "Native",
-      "year": "2013",
-      "release_date": "2013-03-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/eb/26/cbeb26a5-15fd-a9e7-0eff-5ee97e28e7c7/13UMGIM15044.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Counting Stars",
-          "duration": "4:17"
-        },
-        {
-          "number": 2,
-          "name": "If I Lose Myself",
-          "duration": "4:01"
-        },
-        {
-          "number": 3,
-          "name": "Feel Again",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
-          "name": "What You Wanted",
-          "duration": "4:01"
-        },
-        {
-          "number": 5,
-          "name": "I Lived",
-          "duration": "3:54"
-        },
-        {
-          "number": 6,
-          "name": "Light It Up",
-          "duration": "4:10"
-        },
-        {
-          "number": 7,
-          "name": "Can’t Stop",
-          "duration": "4:09"
-        },
-        {
-          "number": 8,
-          "name": "Au Revoir",
-          "duration": "4:50"
-        },
-        {
-          "number": 9,
-          "name": "Burning Bridges",
-          "duration": "4:17"
-        },
-        {
-          "number": 10,
-          "name": "Something I Need",
-          "duration": "4:01"
-        },
-        {
-          "number": 11,
-          "name": "Preacher",
-          "duration": "4:08"
-        },
-        {
-          "number": 12,
-          "name": "Don't Look Down",
-          "duration": "1:39"
         }
       ]
     },
@@ -1885,19 +1885,6 @@
   ],
   "singles": [
     {
-      "name": "Connection",
-      "year": "2018",
-      "release_date": "2018-06-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f3/c5/50/f3c5506f-94cb-4b8a-607e-400639fa05be/00602567763048.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Connection",
-          "duration": "2:28"
-        }
-      ]
-    },
-    {
       "name": "Sunshine",
       "year": "2021",
       "release_date": "2021-11-10",
@@ -1907,6 +1894,19 @@
           "number": 1,
           "name": "Sunshine",
           "duration": "2:43"
+        }
+      ]
+    },
+    {
+      "name": "Connection",
+      "year": "2018",
+      "release_date": "2018-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f3/c5/50/f3c5506f-94cb-4b8a-607e-400639fa05be/00602567763048.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Connection",
+          "duration": "2:28"
         }
       ]
     },
@@ -1962,15 +1962,15 @@
       "tracks": []
     },
     {
-      "name": "Beautiful Colors - from Kaiju No. 8",
+      "name": "Give Me Something (for Arknights Endfield)",
       "year": "2025",
-      "release_date": "2025-07-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/cc/2c/b0cc2c14-a96f-b87c-7ed4-bfda6eaf2e9d/4099964187359.jpg/600x600bb.jpg",
+      "release_date": "2025-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/8d/07/468d0735-ad87-76c9-5ac9-d2c28f1d2950/4099964215267.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Beautiful Colors - from Kaiju No. 8",
-          "duration": "2:37"
+          "name": "Give Me Something (for Arknights Endfield)",
+          "duration": "2:42"
         }
       ]
     },
@@ -1982,15 +1982,15 @@
       "tracks": []
     },
     {
-      "name": "I Lived (Arty Remix)",
-      "year": "2014",
-      "release_date": "2014-09-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/68/c4/37/68c437e3-6ed8-f241-b6df-0b0a50b49c25/00602547031044.rgb.jpg/600x600bb.jpg",
+      "name": "Beautiful Colors - from Kaiju No. 8",
+      "year": "2025",
+      "release_date": "2025-07-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/cc/2c/b0cc2c14-a96f-b87c-7ed4-bfda6eaf2e9d/4099964187359.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "I Lived (Arty Remix)",
-          "duration": "4:27"
+          "name": "Beautiful Colors - from Kaiju No. 8",
+          "duration": "2:37"
         }
       ]
     },
@@ -2015,6 +2015,19 @@
       "tracks": []
     },
     {
+      "name": "I Lived (Arty Remix)",
+      "year": "2014",
+      "release_date": "2014-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/68/c4/37/68c437e3-6ed8-f241-b6df-0b0a50b49c25/00602547031044.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Lived (Arty Remix)",
+          "duration": "4:27"
+        }
+      ]
+    },
+    {
       "name": "Nobody (from Kaiju No. 8)",
       "year": "2024",
       "release_date": "2024-04-12",
@@ -2037,19 +2050,6 @@
           "number": 1,
           "name": "Mirage (for Assassin's Creed Mirage)",
           "duration": "2:13"
-        }
-      ]
-    },
-    {
-      "name": "Give Me Something (for Arknights Endfield)",
-      "year": "2025",
-      "release_date": "2025-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/8d/07/468d0735-ad87-76c9-5ac9-d2c28f1d2950/4099964215267.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Give Me Something (for Arknights Endfield)",
-          "duration": "2:42"
         }
       ]
     },
@@ -2121,19 +2121,6 @@
       ]
     },
     {
-      "name": "Chasing Paradise",
-      "year": "2025",
-      "release_date": "2025-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/a2/c1/f2a2c11b-4c63-41d2-b2bf-51b488b6479c/196872819632.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chasing Paradise",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
       "name": "Wild Life",
       "year": "2020",
       "release_date": "2020-09-25",
@@ -2161,6 +2148,19 @@
           "number": 2,
           "name": "Dear Santa (Piano Version)",
           "duration": "2:54"
+        }
+      ]
+    },
+    {
+      "name": "Chasing Paradise",
+      "year": "2025",
+      "release_date": "2025-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/a2/c1/f2a2c11b-4c63-41d2-b2bf-51b488b6479c/196872819632.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chasing Paradise",
+          "duration": "3:00"
         }
       ]
     },

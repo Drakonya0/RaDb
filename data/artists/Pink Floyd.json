@@ -232,6 +232,39 @@
       ]
     },
     {
+      "name": "Animals",
+      "year": "1977",
+      "release_date": "1977-01-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/03/66/ef036634-5956-38db-ba78-db6200adfdc4/886445635942.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pigs On the Wing, Pt. 1",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "Dogs",
+          "duration": "17:04"
+        },
+        {
+          "number": 3,
+          "name": "Pigs (Three Different Ones)",
+          "duration": "11:26"
+        },
+        {
+          "number": 4,
+          "name": "Sheep",
+          "duration": "10:18"
+        },
+        {
+          "number": 5,
+          "name": "Pigs On the Wing, Pt. 2",
+          "duration": "1:26"
+        }
+      ]
+    },
+    {
       "name": "The Endless River (Deluxe Edition)",
       "year": "2014",
       "release_date": "2014-11-07",
@@ -371,39 +404,6 @@
           "number": 27,
           "name": "Evrika (B)",
           "duration": "0:00"
-        }
-      ]
-    },
-    {
-      "name": "Animals",
-      "year": "1977",
-      "release_date": "1977-01-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/03/66/ef036634-5956-38db-ba78-db6200adfdc4/886445635942.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pigs On the Wing, Pt. 1",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "Dogs",
-          "duration": "17:04"
-        },
-        {
-          "number": 3,
-          "name": "Pigs (Three Different Ones)",
-          "duration": "11:26"
-        },
-        {
-          "number": 4,
-          "name": "Sheep",
-          "duration": "10:18"
-        },
-        {
-          "number": 5,
-          "name": "Pigs On the Wing, Pt. 2",
-          "duration": "1:26"
         }
       ]
     },
@@ -710,79 +710,6 @@
       ]
     },
     {
-      "name": "The Final Cut",
-      "year": "1983",
-      "release_date": "1983-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/b8/05/c3b805c4-4f30-9c37-d61e-a505b29abd56/886445635904.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Post War Dream",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Your Possible Pasts",
-          "duration": "4:23"
-        },
-        {
-          "number": 3,
-          "name": "One of the Few",
-          "duration": "1:14"
-        },
-        {
-          "number": 4,
-          "name": "When the Tigers Broke Free",
-          "duration": "3:17"
-        },
-        {
-          "number": 5,
-          "name": "The Hero's Return",
-          "duration": "2:42"
-        },
-        {
-          "number": 6,
-          "name": "The Gunner's Dream",
-          "duration": "5:18"
-        },
-        {
-          "number": 7,
-          "name": "Paranoid Eyes",
-          "duration": "3:41"
-        },
-        {
-          "number": 8,
-          "name": "Get Your Filthy Hands Off My Desert",
-          "duration": "1:16"
-        },
-        {
-          "number": 9,
-          "name": "The Fletcher Memorial Home",
-          "duration": "4:09"
-        },
-        {
-          "number": 10,
-          "name": "Southampton Dock",
-          "duration": "2:09"
-        },
-        {
-          "number": 11,
-          "name": "The Final Cut",
-          "duration": "4:47"
-        },
-        {
-          "number": 12,
-          "name": "Not Now John",
-          "duration": "4:59"
-        },
-        {
-          "number": 13,
-          "name": "Two Suns In the Sunset",
-          "duration": "5:18"
-        }
-      ]
-    },
-    {
       "name": "A Foot In the Door: The Best of Pink Floyd",
       "year": "2011",
       "release_date": "2011-11-07",
@@ -871,6 +798,137 @@
       ]
     },
     {
+      "name": "The Dark Side of the Moon (50th Anniversary) [Remastered]",
+      "year": "1973",
+      "release_date": "1973-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/86/18/49861852-877b-0992-fa27-58b25fa032b5/196589805232.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Speak to Me",
+          "duration": "1:11"
+        },
+        {
+          "number": 2,
+          "name": "Breathe (In the Air)",
+          "duration": "2:45"
+        },
+        {
+          "number": 3,
+          "name": "On the Run",
+          "duration": "3:33"
+        },
+        {
+          "number": 4,
+          "name": "Time",
+          "duration": "7:05"
+        },
+        {
+          "number": 5,
+          "name": "The Great Gig In the Sky",
+          "duration": "4:43"
+        },
+        {
+          "number": 6,
+          "name": "Money",
+          "duration": "6:22"
+        },
+        {
+          "number": 7,
+          "name": "Us and Them",
+          "duration": "7:50"
+        },
+        {
+          "number": 8,
+          "name": "Any Colour You Like",
+          "duration": "3:25"
+        },
+        {
+          "number": 9,
+          "name": "Brain Damage",
+          "duration": "3:50"
+        },
+        {
+          "number": 10,
+          "name": "Eclipse",
+          "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "name": "The Final Cut",
+      "year": "1983",
+      "release_date": "1983-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/b8/05/c3b805c4-4f30-9c37-d61e-a505b29abd56/886445635904.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Post War Dream",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Your Possible Pasts",
+          "duration": "4:23"
+        },
+        {
+          "number": 3,
+          "name": "One of the Few",
+          "duration": "1:14"
+        },
+        {
+          "number": 4,
+          "name": "When the Tigers Broke Free",
+          "duration": "3:17"
+        },
+        {
+          "number": 5,
+          "name": "The Hero's Return",
+          "duration": "2:42"
+        },
+        {
+          "number": 6,
+          "name": "The Gunner's Dream",
+          "duration": "5:18"
+        },
+        {
+          "number": 7,
+          "name": "Paranoid Eyes",
+          "duration": "3:41"
+        },
+        {
+          "number": 8,
+          "name": "Get Your Filthy Hands Off My Desert",
+          "duration": "1:16"
+        },
+        {
+          "number": 9,
+          "name": "The Fletcher Memorial Home",
+          "duration": "4:09"
+        },
+        {
+          "number": 10,
+          "name": "Southampton Dock",
+          "duration": "2:09"
+        },
+        {
+          "number": 11,
+          "name": "The Final Cut",
+          "duration": "4:47"
+        },
+        {
+          "number": 12,
+          "name": "Not Now John",
+          "duration": "4:59"
+        },
+        {
+          "number": 13,
+          "name": "Two Suns In the Sunset",
+          "duration": "5:18"
+        }
+      ]
+    },
+    {
       "name": "Delicate Sound of Thunder (Live)",
       "year": "1988",
       "release_date": "1988-11-22",
@@ -950,64 +1008,6 @@
           "number": 8,
           "name": "Run Like Hell (Live)",
           "duration": "7:12"
-        }
-      ]
-    },
-    {
-      "name": "The Dark Side of the Moon (50th Anniversary) [Remastered]",
-      "year": "1973",
-      "release_date": "1973-03-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/86/18/49861852-877b-0992-fa27-58b25fa032b5/196589805232.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Speak to Me",
-          "duration": "1:11"
-        },
-        {
-          "number": 2,
-          "name": "Breathe (In the Air)",
-          "duration": "2:45"
-        },
-        {
-          "number": 3,
-          "name": "On the Run",
-          "duration": "3:33"
-        },
-        {
-          "number": 4,
-          "name": "Time",
-          "duration": "7:05"
-        },
-        {
-          "number": 5,
-          "name": "The Great Gig In the Sky",
-          "duration": "4:43"
-        },
-        {
-          "number": 6,
-          "name": "Money",
-          "duration": "6:22"
-        },
-        {
-          "number": 7,
-          "name": "Us and Them",
-          "duration": "7:50"
-        },
-        {
-          "number": 8,
-          "name": "Any Colour You Like",
-          "duration": "3:25"
-        },
-        {
-          "number": 9,
-          "name": "Brain Damage",
-          "duration": "3:50"
-        },
-        {
-          "number": 10,
-          "name": "Eclipse",
-          "duration": "2:06"
         }
       ]
     },
@@ -1103,163 +1103,90 @@
       ]
     },
     {
-      "name": "The Piper at the Gates of Dawn",
-      "year": "1967",
-      "release_date": "1967-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/b4/d3/e7b4d3e0-66d5-0cea-4054-47f3e8bae778/886445635799.jpg/600x600bb.jpg",
+      "name": "Ummagumma",
+      "year": "1969",
+      "release_date": "1969-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/47/c3/9d47c312-947c-c361-173e-cb41ce3748fc/886445635812.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Astronomy Domine",
-          "duration": "4:11"
+          "name": "Astronomy Domine (Live)",
+          "duration": "8:30"
         },
-        {
-          "number": 2,
-          "name": "Lucifer Sam",
-          "duration": "3:07"
-        },
-        {
-          "number": 3,
-          "name": "Matilda Mother",
-          "duration": "3:08"
-        },
-        {
-          "number": 4,
-          "name": "Flaming",
-          "duration": "2:45"
-        },
-        {
-          "number": 5,
-          "name": "Pow R. Toc H.",
-          "duration": "4:26"
-        },
-        {
-          "number": 6,
-          "name": "Take Up Thy Stethoscope and Walk",
-          "duration": "3:05"
-        },
-        {
-          "number": 7,
-          "name": "Interstellar Overdrive",
-          "duration": "9:40"
-        },
-        {
-          "number": 8,
-          "name": "The Gnome",
-          "duration": "2:14"
-        },
-        {
-          "number": 9,
-          "name": "Chapter 24",
-          "duration": "3:42"
-        },
-        {
-          "number": 10,
-          "name": "The Scarecrow",
-          "duration": "2:11"
-        },
-        {
-          "number": 11,
-          "name": "Bike",
-          "duration": "3:22"
-        }
-      ]
-    },
-    {
-      "name": "The Endless River",
-      "year": "2014",
-      "release_date": "2014-11-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/79/d3/d679d317-6dd9-0025-5b05-e7d4cdf8221c/886444851435.jpg/600x600bb.jpg",
-      "tracks": [
         {
           "number": 1,
-          "name": "Side 1, pt. 1: Things Left Unsaid",
-          "duration": "4:26"
+          "name": "Sysyphus, Pt. 1",
+          "duration": "1:07"
         },
         {
           "number": 2,
-          "name": "Side 1, pt. 2: It's What We Do",
-          "duration": "6:16"
+          "name": "Careful with That Axe, Eugene (Live)",
+          "duration": "8:50"
+        },
+        {
+          "number": 2,
+          "name": "Sysyphus, Pt. 2",
+          "duration": "3:30"
         },
         {
           "number": 3,
-          "name": "Side 1, pt. 3: Ebb and Flow",
-          "duration": "1:55"
+          "name": "Set the Controls for the Heart of the Sun (Live)",
+          "duration": "9:26"
+        },
+        {
+          "number": 3,
+          "name": "Sysyphus, Pt. 3",
+          "duration": "1:49"
         },
         {
           "number": 4,
-          "name": "Side 2, pt. 1: Sum",
-          "duration": "4:49"
+          "name": "A Saucerful of Secrets (Live)",
+          "duration": "12:49"
+        },
+        {
+          "number": 4,
+          "name": "Sysyphus, Pt. 4",
+          "duration": "6:59"
         },
         {
           "number": 5,
-          "name": "Side 2, pt. 2: Skins",
-          "duration": "2:35"
+          "name": "Grantchester Meadows",
+          "duration": "7:27"
         },
         {
           "number": 6,
-          "name": "Side 2, pt. 3: Unsung",
-          "duration": "1:08"
+          "name": "Several Species of Small Furry Animals Gathered Together In a Cave and Grooving with a Pict",
+          "duration": "4:58"
         },
         {
           "number": 7,
-          "name": "Side 2, pt. 4: Anisina",
-          "duration": "3:15"
+          "name": "The Narrow Way, Pt. 1",
+          "duration": "3:28"
         },
         {
           "number": 8,
-          "name": "Side 3, pt. 1: The Lost Art of Conversation",
-          "duration": "1:43"
+          "name": "The Narrow Way, Pt. 2",
+          "duration": "2:53"
         },
         {
           "number": 9,
-          "name": "Side 3, pt. 2: On Noodle Street",
-          "duration": "1:42"
+          "name": "The Narrow Way, Pt. 3",
+          "duration": "5:57"
         },
         {
           "number": 10,
-          "name": "Side 3, pt. 3: Night Light",
-          "duration": "1:42"
+          "name": "The Grand Vizier's Garden Party, Pt. 1: Entrance",
+          "duration": "0:59"
         },
         {
           "number": 11,
-          "name": "Side 3, pt. 4: Allons-y (1)",
-          "duration": "1:56"
+          "name": "The Grand Vizier's Garden Party, Pt. 2: Entertainment",
+          "duration": "7:05"
         },
         {
           "number": 12,
-          "name": "Side 3, pt. 5: Autumn '68",
-          "duration": "1:35"
-        },
-        {
-          "number": 13,
-          "name": "Side 3, pt. 6: Allons-y (2)",
-          "duration": "1:31"
-        },
-        {
-          "number": 14,
-          "name": "Side 3, pt. 7: Talkin' Hawkin'",
-          "duration": "3:29"
-        },
-        {
-          "number": 15,
-          "name": "Side 4, pt. 1: Calling",
-          "duration": "3:38"
-        },
-        {
-          "number": 16,
-          "name": "Side 4, pt. 2: Eyes to Pearls",
-          "duration": "1:51"
-        },
-        {
-          "number": 17,
-          "name": "Side 4, pt. 3: Surfacing",
-          "duration": "2:46"
-        },
-        {
-          "number": 18,
-          "name": "Side 4, pt. 4: Louder Than Words",
-          "duration": "6:23"
+          "name": "The Grand Vizier's Garden Party, Pt. 3: Exit",
+          "duration": "0:40"
         }
       ]
     },
@@ -1440,6 +1367,167 @@
       ]
     },
     {
+      "name": "The Piper at the Gates of Dawn",
+      "year": "1967",
+      "release_date": "1967-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/b4/d3/e7b4d3e0-66d5-0cea-4054-47f3e8bae778/886445635799.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Astronomy Domine",
+          "duration": "4:11"
+        },
+        {
+          "number": 2,
+          "name": "Lucifer Sam",
+          "duration": "3:07"
+        },
+        {
+          "number": 3,
+          "name": "Matilda Mother",
+          "duration": "3:08"
+        },
+        {
+          "number": 4,
+          "name": "Flaming",
+          "duration": "2:45"
+        },
+        {
+          "number": 5,
+          "name": "Pow R. Toc H.",
+          "duration": "4:26"
+        },
+        {
+          "number": 6,
+          "name": "Take Up Thy Stethoscope and Walk",
+          "duration": "3:05"
+        },
+        {
+          "number": 7,
+          "name": "Interstellar Overdrive",
+          "duration": "9:40"
+        },
+        {
+          "number": 8,
+          "name": "The Gnome",
+          "duration": "2:14"
+        },
+        {
+          "number": 9,
+          "name": "Chapter 24",
+          "duration": "3:42"
+        },
+        {
+          "number": 10,
+          "name": "The Scarecrow",
+          "duration": "2:11"
+        },
+        {
+          "number": 11,
+          "name": "Bike",
+          "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "The Endless River",
+      "year": "2014",
+      "release_date": "2014-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/79/d3/d679d317-6dd9-0025-5b05-e7d4cdf8221c/886444851435.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Side 1, pt. 1: Things Left Unsaid",
+          "duration": "4:26"
+        },
+        {
+          "number": 2,
+          "name": "Side 1, pt. 2: It's What We Do",
+          "duration": "6:16"
+        },
+        {
+          "number": 3,
+          "name": "Side 1, pt. 3: Ebb and Flow",
+          "duration": "1:55"
+        },
+        {
+          "number": 4,
+          "name": "Side 2, pt. 1: Sum",
+          "duration": "4:49"
+        },
+        {
+          "number": 5,
+          "name": "Side 2, pt. 2: Skins",
+          "duration": "2:35"
+        },
+        {
+          "number": 6,
+          "name": "Side 2, pt. 3: Unsung",
+          "duration": "1:08"
+        },
+        {
+          "number": 7,
+          "name": "Side 2, pt. 4: Anisina",
+          "duration": "3:15"
+        },
+        {
+          "number": 8,
+          "name": "Side 3, pt. 1: The Lost Art of Conversation",
+          "duration": "1:43"
+        },
+        {
+          "number": 9,
+          "name": "Side 3, pt. 2: On Noodle Street",
+          "duration": "1:42"
+        },
+        {
+          "number": 10,
+          "name": "Side 3, pt. 3: Night Light",
+          "duration": "1:42"
+        },
+        {
+          "number": 11,
+          "name": "Side 3, pt. 4: Allons-y (1)",
+          "duration": "1:56"
+        },
+        {
+          "number": 12,
+          "name": "Side 3, pt. 5: Autumn '68",
+          "duration": "1:35"
+        },
+        {
+          "number": 13,
+          "name": "Side 3, pt. 6: Allons-y (2)",
+          "duration": "1:31"
+        },
+        {
+          "number": 14,
+          "name": "Side 3, pt. 7: Talkin' Hawkin'",
+          "duration": "3:29"
+        },
+        {
+          "number": 15,
+          "name": "Side 4, pt. 1: Calling",
+          "duration": "3:38"
+        },
+        {
+          "number": 16,
+          "name": "Side 4, pt. 2: Eyes to Pearls",
+          "duration": "1:51"
+        },
+        {
+          "number": 17,
+          "name": "Side 4, pt. 3: Surfacing",
+          "duration": "2:46"
+        },
+        {
+          "number": 18,
+          "name": "Side 4, pt. 4: Louder Than Words",
+          "duration": "6:23"
+        }
+      ]
+    },
+    {
       "name": "Animals (2018 Remix)",
       "year": "1977",
       "release_date": "1977-01-23",
@@ -1596,6 +1684,348 @@
       ]
     },
     {
+      "name": "More (Original Film Soundtrack)",
+      "year": "1969",
+      "release_date": "1969-06-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/ef/ef/0eefefe4-ea3b-4204-3e80-385190d429c5/886445635805.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cirrus Minor",
+          "duration": "5:17"
+        },
+        {
+          "number": 2,
+          "name": "The Nile Song",
+          "duration": "3:26"
+        },
+        {
+          "number": 3,
+          "name": "Crying Song",
+          "duration": "3:33"
+        },
+        {
+          "number": 4,
+          "name": "Up the Khyber",
+          "duration": "2:12"
+        },
+        {
+          "number": 5,
+          "name": "Green Is the Colour",
+          "duration": "2:58"
+        },
+        {
+          "number": 6,
+          "name": "Cymbaline",
+          "duration": "4:50"
+        },
+        {
+          "number": 7,
+          "name": "Party Sequence",
+          "duration": "1:08"
+        },
+        {
+          "number": 8,
+          "name": "Main Theme",
+          "duration": "5:26"
+        },
+        {
+          "number": 9,
+          "name": "Ibiza Bar",
+          "duration": "3:19"
+        },
+        {
+          "number": 10,
+          "name": "More Blues",
+          "duration": "2:12"
+        },
+        {
+          "number": 11,
+          "name": "Quicksilver",
+          "duration": "7:13"
+        },
+        {
+          "number": 12,
+          "name": "A Spanish Piece",
+          "duration": "1:05"
+        },
+        {
+          "number": 13,
+          "name": "Dramatic Theme",
+          "duration": "2:16"
+        }
+      ]
+    },
+    {
+      "name": "Relics",
+      "year": "1971",
+      "release_date": "1971-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/de/fb/bbdefb83-44b0-177f-0525-197c27576aca/886445613902.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Arnold Layne",
+          "duration": "2:56"
+        },
+        {
+          "number": 2,
+          "name": "Interstellar Overdrive",
+          "duration": "9:42"
+        },
+        {
+          "number": 3,
+          "name": "See Emily Play",
+          "duration": "2:53"
+        },
+        {
+          "number": 4,
+          "name": "Remember a Day",
+          "duration": "4:29"
+        },
+        {
+          "number": 5,
+          "name": "Paintbox",
+          "duration": "3:33"
+        },
+        {
+          "number": 6,
+          "name": "Julia Dream",
+          "duration": "2:36"
+        },
+        {
+          "number": 7,
+          "name": "Careful with That Axe, Eugene",
+          "duration": "5:44"
+        },
+        {
+          "number": 8,
+          "name": "Cirrus Minor",
+          "duration": "5:18"
+        },
+        {
+          "number": 9,
+          "name": "The Nile Song",
+          "duration": "3:25"
+        },
+        {
+          "number": 10,
+          "name": "Biding My Time",
+          "duration": "5:18"
+        },
+        {
+          "number": 11,
+          "name": "Bike",
+          "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "The Early Years, 1967-1972: Cre/ation",
+      "year": "2016",
+      "release_date": "2016-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/1c/22/531c22e3-2b5c-dae7-82e5-f45abc570d03/886446020358.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Arnold Layne (Single)",
+          "duration": "2:56"
+        },
+        {
+          "number": 1,
+          "name": "On the Highway (From the \"Zabriskie Point\" Soundtrack Recordings)",
+          "duration": "1:16"
+        },
+        {
+          "number": 2,
+          "name": "See Emily Play (Single)",
+          "duration": "2:54"
+        },
+        {
+          "number": 2,
+          "name": "Auto Scene, Version 2 (From the \"Zabriskie Point\" Soundtrack Recordings)",
+          "duration": "1:14"
+        },
+        {
+          "number": 3,
+          "name": "Matilda Mother (2010 Mix)",
+          "duration": "3:59"
+        },
+        {
+          "number": 3,
+          "name": "The Riot Scene (From the \"Zabriskie Point\" Soundtrack Recordings)",
+          "duration": "1:39"
+        },
+        {
+          "number": 4,
+          "name": "Jugband Blues (2010 Mix)",
+          "duration": "3:01"
+        },
+        {
+          "number": 4,
+          "name": "Looking at Map (From the \"Zabriskie Point\" Soundtrack Recordings)",
+          "duration": "1:55"
+        },
+        {
+          "number": 5,
+          "name": "Paint Box (Single B-Side)",
+          "duration": "3:46"
+        },
+        {
+          "number": 5,
+          "name": "Take Off (From the \"Zabriskie Point\" Soundtrack Recordings)",
+          "duration": "1:19"
+        },
+        {
+          "number": 6,
+          "name": "Flaming (Live BBC Radio Session, 25 September 1967)",
+          "duration": "2:42"
+        },
+        {
+          "number": 6,
+          "name": "Embryo (Alternate Version) [Live BBC Radio Session, 16 July 1970]",
+          "duration": "10:13"
+        },
+        {
+          "number": 7,
+          "name": "In the Beechwoods (2010 Mix)",
+          "duration": "4:42"
+        },
+        {
+          "number": 7,
+          "name": "Atom Heart Mother (Live In Montreux, 21 November 1970 (Band Only))",
+          "duration": "17:56"
+        },
+        {
+          "number": 8,
+          "name": "Point Me at the Sky (Single)",
+          "duration": "3:37"
+        },
+        {
+          "number": 8,
+          "name": "Nothing, Pt. 14 (Echoes Work In Progress)",
+          "duration": "7:05"
+        },
+        {
+          "number": 9,
+          "name": "Careful with That Axe, Eugene (Single B-Side Version)",
+          "duration": "5:47"
+        },
+        {
+          "number": 9,
+          "name": "Childhood's End (2016 Remix)",
+          "duration": "4:33"
+        },
+        {
+          "number": 10,
+          "name": "Embryo (From \"Picnic,\" Harvest Records Sampler)",
+          "duration": "4:46"
+        },
+        {
+          "number": 10,
+          "name": "Free Four (2016 Remix)",
+          "duration": "4:16"
+        },
+        {
+          "number": 11,
+          "name": "Ummagumma Radio Ad (Capitol US)",
+          "duration": "0:22"
+        },
+        {
+          "number": 11,
+          "name": "Stay (2016 Remix)",
+          "duration": "4:08"
+        },
+        {
+          "number": 12,
+          "name": "Grantchester Meadows (Live BBC Radio Session, 12 May 1969)",
+          "duration": "3:46"
+        },
+        {
+          "number": 13,
+          "name": "Cymbaline (Live BBC Radio Session, 12 May 1969)",
+          "duration": "3:39"
+        },
+        {
+          "number": 14,
+          "name": "Interstellar Overdrive (Live at the Paradiso, Amsterdam, 9 August 1969)",
+          "duration": "4:23"
+        },
+        {
+          "number": 15,
+          "name": "Green Is the Colour (Live BBC Radio Session, 12 May 1969)",
+          "duration": "3:21"
+        },
+        {
+          "number": 16,
+          "name": "Careful with That Axe, Eugene (Live BBC Radio Session, 12 May 1969)",
+          "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "A Momentary Lapse of Reason (2019 Remix)",
+      "year": "1987",
+      "release_date": "1987-09-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/c2/85/9dc285a2-9af0-86e7-fc31-5decd7bcb1c8/886448395850.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Signs of Life (Remix 2019)",
+          "duration": "4:23"
+        },
+        {
+          "number": 2,
+          "name": "Learning to Fly (Remix 2019)",
+          "duration": "4:52"
+        },
+        {
+          "number": 3,
+          "name": "The Dogs of War (Remix 2019)",
+          "duration": "6:04"
+        },
+        {
+          "number": 4,
+          "name": "One Slip (Remix 2019)",
+          "duration": "5:09"
+        },
+        {
+          "number": 5,
+          "name": "On the Turning Away (Remix 2019)",
+          "duration": "5:42"
+        },
+        {
+          "number": 6,
+          "name": "Yet Another Movie (Remix 2019)",
+          "duration": "6:15"
+        },
+        {
+          "number": 7,
+          "name": "Round and Around (Remix 2019)",
+          "duration": "1:12"
+        },
+        {
+          "number": 8,
+          "name": "A New Machine, Pt. 1 (Remix 2019)",
+          "duration": "1:46"
+        },
+        {
+          "number": 9,
+          "name": "Terminal Frost (Remix 2019)",
+          "duration": "6:16"
+        },
+        {
+          "number": 10,
+          "name": "A New Machine, Pt. 2 (Remix 2019)",
+          "duration": "0:39"
+        },
+        {
+          "number": 11,
+          "name": "Sorrow (Remix 2019)",
+          "duration": "8:46"
+        }
+      ]
+    },
+    {
       "name": "Pink Floyd at Pompeii - MCMLXXII (2025 Mix)",
       "year": "2025",
       "release_date": "2025-05-02",
@@ -1655,6 +2085,64 @@
           "number": 8,
           "name": "Echoes - Part 2 (Live at Pompeii - MCMLXXII - 2025 Mix)",
           "duration": "13:23"
+        }
+      ]
+    },
+    {
+      "name": "The Dark Side of the Moon: Live at Wembley 1974 (Remastered)",
+      "year": "2023",
+      "release_date": "2023-03-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/e7/97/73e797f0-5c90-c03d-678f-ffb34d17a414/196589557414.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Speak to Me (Live at the Empire Pool, Wembley, London, 1974)",
+          "duration": "2:45"
+        },
+        {
+          "number": 2,
+          "name": "Breathe (In the Air) [Live at the Empire Pool, Wembley, London, 1974]",
+          "duration": "2:50"
+        },
+        {
+          "number": 3,
+          "name": "On the Run (Live at the Empire Pool, Wembley, London, 1974)",
+          "duration": "5:08"
+        },
+        {
+          "number": 4,
+          "name": "Time (Live at the Empire Pool, Wembley, London, 1974)",
+          "duration": "6:31"
+        },
+        {
+          "number": 5,
+          "name": "The Great Gig In the Sky (Live at the Empire Pool, Wembley, London, 1974)",
+          "duration": "6:50"
+        },
+        {
+          "number": 6,
+          "name": "Money (Live at the Empire Pool, Wembley, London, 1974)",
+          "duration": "8:41"
+        },
+        {
+          "number": 7,
+          "name": "Us and Them (Live at the Empire Pool, Wembley, London, 1974)",
+          "duration": "8:09"
+        },
+        {
+          "number": 8,
+          "name": "Any Colour You Like (Live at the Empire Pool, Wembley, London, 1974)",
+          "duration": "8:10"
+        },
+        {
+          "number": 9,
+          "name": "Brain Damage (Live at the Empire Pool, Wembley, London, 1974)",
+          "duration": "3:43"
+        },
+        {
+          "number": 10,
+          "name": "Eclipse (Live at the Empire Pool, Wembley, London, 1974)",
+          "duration": "2:15"
         }
       ]
     },
@@ -1747,211 +2235,35 @@
       ]
     },
     {
-      "name": "Ummagumma",
-      "year": "1969",
-      "release_date": "1969-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/47/c3/9d47c312-947c-c361-173e-cb41ce3748fc/886445635812.jpg/600x600bb.jpg",
+      "name": "The Early Years, 1971: Reverber/ation",
+      "year": "2017",
+      "release_date": "2017-03-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/63/e9/7b63e91d-1ff1-d23d-10cc-93ada06bff37/886446365718.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Astronomy Domine (Live)",
-          "duration": "8:30"
-        },
-        {
-          "number": 1,
-          "name": "Sysyphus, Pt. 1",
-          "duration": "1:07"
+          "name": "Nothing, Pt. 14 (Echoes Work In Progress)",
+          "duration": "7:01"
         },
         {
           "number": 2,
-          "name": "Careful with That Axe, Eugene (Live)",
-          "duration": "8:50"
-        },
-        {
-          "number": 2,
-          "name": "Sysyphus, Pt. 2",
-          "duration": "3:30"
+          "name": "Fat Old Sun (Live BBC Radio Session, 30 September 1971)",
+          "duration": "15:32"
         },
         {
           "number": 3,
-          "name": "Set the Controls for the Heart of the Sun (Live)",
-          "duration": "9:26"
-        },
-        {
-          "number": 3,
-          "name": "Sysyphus, Pt. 3",
-          "duration": "1:49"
+          "name": "One of These Days (Live BBC Radio Session, 30 September 1971)",
+          "duration": "7:19"
         },
         {
           "number": 4,
-          "name": "A Saucerful of Secrets (Live)",
-          "duration": "12:49"
-        },
-        {
-          "number": 4,
-          "name": "Sysyphus, Pt. 4",
-          "duration": "6:59"
+          "name": "Embryo (Live BBC Radio Session, 30 September 1971)",
+          "duration": "10:43"
         },
         {
           "number": 5,
-          "name": "Grantchester Meadows",
-          "duration": "7:27"
-        },
-        {
-          "number": 6,
-          "name": "Several Species of Small Furry Animals Gathered Together In a Cave and Grooving with a Pict",
-          "duration": "4:58"
-        },
-        {
-          "number": 7,
-          "name": "The Narrow Way, Pt. 1",
-          "duration": "3:28"
-        },
-        {
-          "number": 8,
-          "name": "The Narrow Way, Pt. 2",
-          "duration": "2:53"
-        },
-        {
-          "number": 9,
-          "name": "The Narrow Way, Pt. 3",
-          "duration": "5:57"
-        },
-        {
-          "number": 10,
-          "name": "The Grand Vizier's Garden Party, Pt. 1: Entrance",
-          "duration": "0:59"
-        },
-        {
-          "number": 11,
-          "name": "The Grand Vizier's Garden Party, Pt. 2: Entertainment",
-          "duration": "7:05"
-        },
-        {
-          "number": 12,
-          "name": "The Grand Vizier's Garden Party, Pt. 3: Exit",
-          "duration": "0:40"
-        }
-      ]
-    },
-    {
-      "name": "The Dark Side of the Moon: Live at Wembley 1974 (Remastered)",
-      "year": "2023",
-      "release_date": "2023-03-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/e7/97/73e797f0-5c90-c03d-678f-ffb34d17a414/196589557414.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Speak to Me (Live at the Empire Pool, Wembley, London, 1974)",
-          "duration": "2:45"
-        },
-        {
-          "number": 2,
-          "name": "Breathe (In the Air) [Live at the Empire Pool, Wembley, London, 1974]",
-          "duration": "2:50"
-        },
-        {
-          "number": 3,
-          "name": "On the Run (Live at the Empire Pool, Wembley, London, 1974)",
-          "duration": "5:08"
-        },
-        {
-          "number": 4,
-          "name": "Time (Live at the Empire Pool, Wembley, London, 1974)",
-          "duration": "6:31"
-        },
-        {
-          "number": 5,
-          "name": "The Great Gig In the Sky (Live at the Empire Pool, Wembley, London, 1974)",
-          "duration": "6:50"
-        },
-        {
-          "number": 6,
-          "name": "Money (Live at the Empire Pool, Wembley, London, 1974)",
-          "duration": "8:41"
-        },
-        {
-          "number": 7,
-          "name": "Us and Them (Live at the Empire Pool, Wembley, London, 1974)",
-          "duration": "8:09"
-        },
-        {
-          "number": 8,
-          "name": "Any Colour You Like (Live at the Empire Pool, Wembley, London, 1974)",
-          "duration": "8:10"
-        },
-        {
-          "number": 9,
-          "name": "Brain Damage (Live at the Empire Pool, Wembley, London, 1974)",
-          "duration": "3:43"
-        },
-        {
-          "number": 10,
-          "name": "Eclipse (Live at the Empire Pool, Wembley, London, 1974)",
-          "duration": "2:15"
-        }
-      ]
-    },
-    {
-      "name": "Relics",
-      "year": "1971",
-      "release_date": "1971-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/de/fb/bbdefb83-44b0-177f-0525-197c27576aca/886445613902.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Arnold Layne",
-          "duration": "2:56"
-        },
-        {
-          "number": 2,
-          "name": "Interstellar Overdrive",
-          "duration": "9:42"
-        },
-        {
-          "number": 3,
-          "name": "See Emily Play",
-          "duration": "2:53"
-        },
-        {
-          "number": 4,
-          "name": "Remember a Day",
-          "duration": "4:29"
-        },
-        {
-          "number": 5,
-          "name": "Paintbox",
-          "duration": "3:33"
-        },
-        {
-          "number": 6,
-          "name": "Julia Dream",
-          "duration": "2:36"
-        },
-        {
-          "number": 7,
-          "name": "Careful with That Axe, Eugene",
-          "duration": "5:44"
-        },
-        {
-          "number": 8,
-          "name": "Cirrus Minor",
-          "duration": "5:18"
-        },
-        {
-          "number": 9,
-          "name": "The Nile Song",
-          "duration": "3:25"
-        },
-        {
-          "number": 10,
-          "name": "Biding My Time",
-          "duration": "5:18"
-        },
-        {
-          "number": 11,
-          "name": "Bike",
-          "duration": "3:22"
+          "name": "Echoes (Live BBC Radio Session, 30 September 1971)",
+          "duration": "26:24"
         }
       ]
     },
@@ -1995,117 +2307,6 @@
           "number": 7,
           "name": "Run Like Hell (Live at Knebworth, 1990)",
           "duration": "7:12"
-        }
-      ]
-    },
-    {
-      "name": "A Collection of Great Dance Songs",
-      "year": "1981",
-      "release_date": "1981-11-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/8a/08/7d8a0857-145a-78f1-c491-78b9dd0e7a1f/886445613926.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "One of These Days",
-          "duration": "5:49"
-        },
-        {
-          "number": 2,
-          "name": "Money (Re-Recorded 1981)",
-          "duration": "6:46"
-        },
-        {
-          "number": 3,
-          "name": "Sheep",
-          "duration": "10:18"
-        },
-        {
-          "number": 4,
-          "name": "Shine On You Crazy Diamond, Pts. 1-4 (Remix)",
-          "duration": "10:39"
-        },
-        {
-          "number": 5,
-          "name": "Wish You Were Here",
-          "duration": "5:24"
-        },
-        {
-          "number": 6,
-          "name": "Another Brick In the Wall, Pt. 2 (Remix)",
-          "duration": "3:55"
-        }
-      ]
-    },
-    {
-      "name": "More (Original Film Soundtrack)",
-      "year": "1969",
-      "release_date": "1969-06-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/ef/ef/0eefefe4-ea3b-4204-3e80-385190d429c5/886445635805.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cirrus Minor",
-          "duration": "5:17"
-        },
-        {
-          "number": 2,
-          "name": "The Nile Song",
-          "duration": "3:26"
-        },
-        {
-          "number": 3,
-          "name": "Crying Song",
-          "duration": "3:33"
-        },
-        {
-          "number": 4,
-          "name": "Up the Khyber",
-          "duration": "2:12"
-        },
-        {
-          "number": 5,
-          "name": "Green Is the Colour",
-          "duration": "2:58"
-        },
-        {
-          "number": 6,
-          "name": "Cymbaline",
-          "duration": "4:50"
-        },
-        {
-          "number": 7,
-          "name": "Party Sequence",
-          "duration": "1:08"
-        },
-        {
-          "number": 8,
-          "name": "Main Theme",
-          "duration": "5:26"
-        },
-        {
-          "number": 9,
-          "name": "Ibiza Bar",
-          "duration": "3:19"
-        },
-        {
-          "number": 10,
-          "name": "More Blues",
-          "duration": "2:12"
-        },
-        {
-          "number": 11,
-          "name": "Quicksilver",
-          "duration": "7:13"
-        },
-        {
-          "number": 12,
-          "name": "A Spanish Piece",
-          "duration": "1:05"
-        },
-        {
-          "number": 13,
-          "name": "Dramatic Theme",
-          "duration": "2:16"
         }
       ]
     },
@@ -2268,6 +2469,44 @@
       ]
     },
     {
+      "name": "A Collection of Great Dance Songs",
+      "year": "1981",
+      "release_date": "1981-11-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/8a/08/7d8a0857-145a-78f1-c491-78b9dd0e7a1f/886445613926.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One of These Days",
+          "duration": "5:49"
+        },
+        {
+          "number": 2,
+          "name": "Money (Re-Recorded 1981)",
+          "duration": "6:46"
+        },
+        {
+          "number": 3,
+          "name": "Sheep",
+          "duration": "10:18"
+        },
+        {
+          "number": 4,
+          "name": "Shine On You Crazy Diamond, Pts. 1-4 (Remix)",
+          "duration": "10:39"
+        },
+        {
+          "number": 5,
+          "name": "Wish You Were Here",
+          "duration": "5:24"
+        },
+        {
+          "number": 6,
+          "name": "Another Brick In the Wall, Pt. 2 (Remix)",
+          "duration": "3:55"
+        }
+      ]
+    },
+    {
       "name": "The Later Years, 1987-2019",
       "year": "2019",
       "release_date": "2019-12-13",
@@ -2332,69 +2571,6 @@
           "number": 12,
           "name": "Run Like Hell (Live, Delicate Sound of Thunder) [2019 Remix]",
           "duration": "7:43"
-        }
-      ]
-    },
-    {
-      "name": "A Momentary Lapse of Reason (2019 Remix)",
-      "year": "1987",
-      "release_date": "1987-09-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/c2/85/9dc285a2-9af0-86e7-fc31-5decd7bcb1c8/886448395850.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Signs of Life (Remix 2019)",
-          "duration": "4:23"
-        },
-        {
-          "number": 2,
-          "name": "Learning to Fly (Remix 2019)",
-          "duration": "4:52"
-        },
-        {
-          "number": 3,
-          "name": "The Dogs of War (Remix 2019)",
-          "duration": "6:04"
-        },
-        {
-          "number": 4,
-          "name": "One Slip (Remix 2019)",
-          "duration": "5:09"
-        },
-        {
-          "number": 5,
-          "name": "On the Turning Away (Remix 2019)",
-          "duration": "5:42"
-        },
-        {
-          "number": 6,
-          "name": "Yet Another Movie (Remix 2019)",
-          "duration": "6:15"
-        },
-        {
-          "number": 7,
-          "name": "Round and Around (Remix 2019)",
-          "duration": "1:12"
-        },
-        {
-          "number": 8,
-          "name": "A New Machine, Pt. 1 (Remix 2019)",
-          "duration": "1:46"
-        },
-        {
-          "number": 9,
-          "name": "Terminal Frost (Remix 2019)",
-          "duration": "6:16"
-        },
-        {
-          "number": 10,
-          "name": "A New Machine, Pt. 2 (Remix 2019)",
-          "duration": "0:39"
-        },
-        {
-          "number": 11,
-          "name": "Sorrow (Remix 2019)",
-          "duration": "8:46"
         }
       ]
     },
@@ -2558,149 +2734,6 @@
           "number": 16,
           "name": "Echoes (Live from the Los Angeles Sports Arena, 1975)",
           "duration": "22:26"
-        }
-      ]
-    },
-    {
-      "name": "The Early Years, 1967-1972: Cre/ation",
-      "year": "2016",
-      "release_date": "2016-11-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/1c/22/531c22e3-2b5c-dae7-82e5-f45abc570d03/886446020358.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Arnold Layne (Single)",
-          "duration": "2:56"
-        },
-        {
-          "number": 1,
-          "name": "On the Highway (From the \"Zabriskie Point\" Soundtrack Recordings)",
-          "duration": "1:16"
-        },
-        {
-          "number": 2,
-          "name": "See Emily Play (Single)",
-          "duration": "2:54"
-        },
-        {
-          "number": 2,
-          "name": "Auto Scene, Version 2 (From the \"Zabriskie Point\" Soundtrack Recordings)",
-          "duration": "1:14"
-        },
-        {
-          "number": 3,
-          "name": "Matilda Mother (2010 Mix)",
-          "duration": "3:59"
-        },
-        {
-          "number": 3,
-          "name": "The Riot Scene (From the \"Zabriskie Point\" Soundtrack Recordings)",
-          "duration": "1:39"
-        },
-        {
-          "number": 4,
-          "name": "Jugband Blues (2010 Mix)",
-          "duration": "3:01"
-        },
-        {
-          "number": 4,
-          "name": "Looking at Map (From the \"Zabriskie Point\" Soundtrack Recordings)",
-          "duration": "1:55"
-        },
-        {
-          "number": 5,
-          "name": "Paint Box (Single B-Side)",
-          "duration": "3:46"
-        },
-        {
-          "number": 5,
-          "name": "Take Off (From the \"Zabriskie Point\" Soundtrack Recordings)",
-          "duration": "1:19"
-        },
-        {
-          "number": 6,
-          "name": "Flaming (Live BBC Radio Session, 25 September 1967)",
-          "duration": "2:42"
-        },
-        {
-          "number": 6,
-          "name": "Embryo (Alternate Version) [Live BBC Radio Session, 16 July 1970]",
-          "duration": "10:13"
-        },
-        {
-          "number": 7,
-          "name": "In the Beechwoods (2010 Mix)",
-          "duration": "4:42"
-        },
-        {
-          "number": 7,
-          "name": "Atom Heart Mother (Live In Montreux, 21 November 1970 (Band Only))",
-          "duration": "17:56"
-        },
-        {
-          "number": 8,
-          "name": "Point Me at the Sky (Single)",
-          "duration": "3:37"
-        },
-        {
-          "number": 8,
-          "name": "Nothing, Pt. 14 (Echoes Work In Progress)",
-          "duration": "7:05"
-        },
-        {
-          "number": 9,
-          "name": "Careful with That Axe, Eugene (Single B-Side Version)",
-          "duration": "5:47"
-        },
-        {
-          "number": 9,
-          "name": "Childhood's End (2016 Remix)",
-          "duration": "4:33"
-        },
-        {
-          "number": 10,
-          "name": "Embryo (From \"Picnic,\" Harvest Records Sampler)",
-          "duration": "4:46"
-        },
-        {
-          "number": 10,
-          "name": "Free Four (2016 Remix)",
-          "duration": "4:16"
-        },
-        {
-          "number": 11,
-          "name": "Ummagumma Radio Ad (Capitol US)",
-          "duration": "0:22"
-        },
-        {
-          "number": 11,
-          "name": "Stay (2016 Remix)",
-          "duration": "4:08"
-        },
-        {
-          "number": 12,
-          "name": "Grantchester Meadows (Live BBC Radio Session, 12 May 1969)",
-          "duration": "3:46"
-        },
-        {
-          "number": 13,
-          "name": "Cymbaline (Live BBC Radio Session, 12 May 1969)",
-          "duration": "3:39"
-        },
-        {
-          "number": 14,
-          "name": "Interstellar Overdrive (Live at the Paradiso, Amsterdam, 9 August 1969)",
-          "duration": "4:23"
-        },
-        {
-          "number": 15,
-          "name": "Green Is the Colour (Live BBC Radio Session, 12 May 1969)",
-          "duration": "3:21"
-        },
-        {
-          "number": 16,
-          "name": "Careful with That Axe, Eugene (Live BBC Radio Session, 12 May 1969)",
-          "duration": "3:27"
         }
       ]
     },
@@ -2943,35 +2976,50 @@
       ]
     },
     {
-      "name": "The Early Years, 1971: Reverber/ation",
-      "year": "2017",
-      "release_date": "2017-03-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/63/e9/7b63e91d-1ff1-d23d-10cc-93ada06bff37/886446365718.jpg/600x600bb.jpg",
+      "name": "8-Tracks",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/7f/f1/a57ff1bb-1841-e1c1-833d-6a07458f24bd/196874256909.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Nothing, Pt. 14 (Echoes Work In Progress)",
-          "duration": "7:01"
+          "name": "One of These Days",
+          "duration": "5:38"
         },
         {
           "number": 2,
-          "name": "Fat Old Sun (Live BBC Radio Session, 30 September 1971)",
-          "duration": "15:32"
+          "name": "Wot's...Uh the Deal",
+          "duration": "4:55"
         },
         {
           "number": 3,
-          "name": "One of These Days (Live BBC Radio Session, 30 September 1971)",
-          "duration": "7:19"
+          "name": "Money",
+          "duration": "6:34"
         },
         {
           "number": 4,
-          "name": "Embryo (Live BBC Radio Session, 30 September 1971)",
-          "duration": "10:43"
+          "name": "Another Brick in the Wall, Pt. 2",
+          "duration": "3:54"
         },
         {
           "number": 5,
-          "name": "Echoes (Live BBC Radio Session, 30 September 1971)",
-          "duration": "26:24"
+          "name": "Wish You Were Here",
+          "duration": "5:26"
+        },
+        {
+          "number": 6,
+          "name": "Time",
+          "duration": "6:58"
+        },
+        {
+          "number": 7,
+          "name": "Comfortably Numb",
+          "duration": "6:17"
+        },
+        {
+          "number": 8,
+          "name": "Pigs on the Wing (8-Track Version)",
+          "duration": "3:34"
         }
       ]
     },
@@ -3100,54 +3148,6 @@
           "number": 17,
           "name": "Atom Heart Mother (Early Studio Version)",
           "duration": "19:26"
-        }
-      ]
-    },
-    {
-      "name": "8-Tracks",
-      "year": "2026",
-      "release_date": "2026-06-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/7f/f1/a57ff1bb-1841-e1c1-833d-6a07458f24bd/196874256909.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "One of These Days",
-          "duration": "5:38"
-        },
-        {
-          "number": 2,
-          "name": "Wot's...Uh the Deal",
-          "duration": "4:55"
-        },
-        {
-          "number": 3,
-          "name": "Money",
-          "duration": "6:34"
-        },
-        {
-          "number": 4,
-          "name": "Another Brick in the Wall, Pt. 2",
-          "duration": "3:54"
-        },
-        {
-          "number": 5,
-          "name": "Wish You Were Here",
-          "duration": "5:26"
-        },
-        {
-          "number": 6,
-          "name": "Time",
-          "duration": "6:58"
-        },
-        {
-          "number": 7,
-          "name": "Comfortably Numb",
-          "duration": "6:17"
-        },
-        {
-          "number": 8,
-          "name": "Pigs on the Wing (8-Track Version)",
-          "duration": "3:34"
         }
       ]
     },
@@ -3566,6 +3566,19 @@
       ]
     },
     {
+      "name": "The Doctor (Comfortably Numb) [The Wall Work In Progress, Pt. 2, 1979] [Programme 1] [Remastered Band Demo]",
+      "year": "2020",
+      "release_date": "2020-07-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/fc/ad/47fcad40-091d-a139-800a-9cbabdbc097d/886448498971.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Doctor (Comfortably Numb) [The Wall Work In Progress, Pt. 2, 1979] [Programme 1] [Band Demo]",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
       "name": "Have a Cigar (Alternate Version)",
       "year": "2020",
       "release_date": "2020-05-29",
@@ -3579,6 +3592,19 @@
       ]
     },
     {
+      "name": "Run Like Hell (The Wall Work In Progress, Pt. 2, 1979) [Programme 1] [Remastered Band Demo]",
+      "year": "2020",
+      "release_date": "2020-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/af/21/eaaf2175-00bc-757f-ff1f-1e8dc368540b/886448498438.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Run Like Hell (The Wall Work In Progress, Pt. 2, 1979) [Programme 1] [Band Demo]",
+          "duration": "3:06"
+        }
+      ]
+    },
+    {
       "name": "Money (Early Mix)",
       "year": "2020",
       "release_date": "2020-06-19",
@@ -3588,6 +3614,19 @@
           "number": 1,
           "name": "Money (Early Mix)",
           "duration": "6:19"
+        }
+      ]
+    },
+    {
+      "name": "Keep Talking (Radio Edit)",
+      "year": "1994",
+      "release_date": "1994-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/28/ae/f728ae92-e314-bf70-bcd2-d69d98699bd6/886447789261.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Keep Talking (Radio Edit)",
+          "duration": "4:56"
         }
       ]
     },
@@ -3649,19 +3688,6 @@
       ]
     },
     {
-      "name": "The Doctor (Comfortably Numb) [The Wall Work In Progress, Pt. 2, 1979] [Programme 1] [Remastered Band Demo]",
-      "year": "2020",
-      "release_date": "2020-07-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/fc/ad/47fcad40-091d-a139-800a-9cbabdbc097d/886448498971.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Doctor (Comfortably Numb) [The Wall Work In Progress, Pt. 2, 1979] [Programme 1] [Band Demo]",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "Any Colour You Like (Live at The Empire Pool, Wembley, London, 1974) [Remastered]",
       "year": "2020",
       "release_date": "2020-06-08",
@@ -3675,19 +3701,6 @@
       ]
     },
     {
-      "name": "Run Like Hell (The Wall Work In Progress, Pt. 2, 1979) [Programme 1] [Remastered Band Demo]",
-      "year": "2020",
-      "release_date": "2020-06-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/af/21/eaaf2175-00bc-757f-ff1f-1e8dc368540b/886448498438.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Run Like Hell (The Wall Work In Progress, Pt. 2, 1979) [Programme 1] [Band Demo]",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "Sorrow (Live at Knebworth, 1990) [2019 Mix]",
       "year": "2020",
       "release_date": "2020-07-17",
@@ -3697,19 +3710,6 @@
           "number": 1,
           "name": "Sorrow (Live at Knebworth, 1990) [2019 Mix]",
           "duration": "9:34"
-        }
-      ]
-    },
-    {
-      "name": "Keep Talking (Radio Edit)",
-      "year": "1994",
-      "release_date": "1994-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/28/ae/f728ae92-e314-bf70-bcd2-d69d98699bd6/886447789261.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Keep Talking (Radio Edit)",
-          "duration": "4:56"
         }
       ]
     },

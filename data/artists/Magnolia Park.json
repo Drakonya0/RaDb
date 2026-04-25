@@ -159,69 +159,6 @@
       ]
     },
     {
-      "name": "Baku's Revenge",
-      "year": "2022",
-      "release_date": "2022-11-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3a/5a/54/3a5a5449-5504-a3ca-de6a-f3979675adda/0045778794164.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "?",
-          "duration": "0:27"
-        },
-        {
-          "number": 2,
-          "name": "Feel Something (feat. Derek Sanders)",
-          "duration": "3:00"
-        },
-        {
-          "number": 3,
-          "name": "Misfits (feat. Taylor Acorn)",
-          "duration": "2:58"
-        },
-        {
-          "number": 4,
-          "name": "Radio Reject",
-          "duration": "2:22"
-        },
-        {
-          "number": 5,
-          "name": "!!",
-          "duration": "0:13"
-        },
-        {
-          "number": 6,
-          "name": "Drugs",
-          "duration": "2:39"
-        },
-        {
-          "number": 7,
-          "name": "Paralyzed",
-          "duration": "2:38"
-        },
-        {
-          "number": 8,
-          "name": "Addison Rae",
-          "duration": "3:19"
-        },
-        {
-          "number": 9,
-          "name": "Ghost 2 U",
-          "duration": "2:56"
-        },
-        {
-          "number": 10,
-          "name": "$$$",
-          "duration": "0:30"
-        },
-        {
-          "number": 11,
-          "name": "I Should've Listened to My Friends",
-          "duration": "2:46"
-        }
-      ]
-    },
-    {
       "name": "Halloween Mixtape",
       "year": "2021",
       "release_date": "2021-10-29",
@@ -296,6 +233,69 @@
           "number": 14,
           "name": "Sentry",
           "duration": "4:03"
+        }
+      ]
+    },
+    {
+      "name": "Baku's Revenge",
+      "year": "2022",
+      "release_date": "2022-11-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3a/5a/54/3a5a5449-5504-a3ca-de6a-f3979675adda/0045778794164.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "?",
+          "duration": "0:27"
+        },
+        {
+          "number": 2,
+          "name": "Feel Something (feat. Derek Sanders)",
+          "duration": "3:00"
+        },
+        {
+          "number": 3,
+          "name": "Misfits (feat. Taylor Acorn)",
+          "duration": "2:58"
+        },
+        {
+          "number": 4,
+          "name": "Radio Reject",
+          "duration": "2:22"
+        },
+        {
+          "number": 5,
+          "name": "!!",
+          "duration": "0:13"
+        },
+        {
+          "number": 6,
+          "name": "Drugs",
+          "duration": "2:39"
+        },
+        {
+          "number": 7,
+          "name": "Paralyzed",
+          "duration": "2:38"
+        },
+        {
+          "number": 8,
+          "name": "Addison Rae",
+          "duration": "3:19"
+        },
+        {
+          "number": 9,
+          "name": "Ghost 2 U",
+          "duration": "2:56"
+        },
+        {
+          "number": 10,
+          "name": "$$$",
+          "duration": "0:30"
+        },
+        {
+          "number": 11,
+          "name": "I Should've Listened to My Friends",
+          "duration": "2:46"
         }
       ]
     },

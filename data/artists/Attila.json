@@ -512,6 +512,64 @@
       ]
     },
     {
+      "name": "Villain",
+      "year": "2019",
+      "release_date": "2019-02-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/b8/94/c9b894dd-f0d7-532e-cec9-5c07f9650b6d/1640.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Perdition",
+          "duration": "1:44"
+        },
+        {
+          "number": 2,
+          "name": "Villain",
+          "duration": "2:47"
+        },
+        {
+          "number": 3,
+          "name": "Blackout",
+          "duration": "2:59"
+        },
+        {
+          "number": 4,
+          "name": "New Addiction",
+          "duration": "3:12"
+        },
+        {
+          "number": 5,
+          "name": "Still About It",
+          "duration": "3:17"
+        },
+        {
+          "number": 6,
+          "name": "Toxic",
+          "duration": "2:32"
+        },
+        {
+          "number": 7,
+          "name": "It Is What It Is",
+          "duration": "3:27"
+        },
+        {
+          "number": 8,
+          "name": "Subhuman",
+          "duration": "4:03"
+        },
+        {
+          "number": 9,
+          "name": "Manipulate",
+          "duration": "3:06"
+        },
+        {
+          "number": 10,
+          "name": "Bad Habits",
+          "duration": "3:51"
+        }
+      ]
+    },
+    {
       "name": "CONCRETE THRONE",
       "year": "2026",
       "release_date": "2026-03-20",
@@ -576,64 +634,6 @@
           "number": 12,
           "name": "DOG PACK (feat. Smoke Chapo)",
           "duration": "2:48"
-        }
-      ]
-    },
-    {
-      "name": "Villain",
-      "year": "2019",
-      "release_date": "2019-02-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/b8/94/c9b894dd-f0d7-532e-cec9-5c07f9650b6d/1640.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Perdition",
-          "duration": "1:44"
-        },
-        {
-          "number": 2,
-          "name": "Villain",
-          "duration": "2:47"
-        },
-        {
-          "number": 3,
-          "name": "Blackout",
-          "duration": "2:59"
-        },
-        {
-          "number": 4,
-          "name": "New Addiction",
-          "duration": "3:12"
-        },
-        {
-          "number": 5,
-          "name": "Still About It",
-          "duration": "3:17"
-        },
-        {
-          "number": 6,
-          "name": "Toxic",
-          "duration": "2:32"
-        },
-        {
-          "number": 7,
-          "name": "It Is What It Is",
-          "duration": "3:27"
-        },
-        {
-          "number": 8,
-          "name": "Subhuman",
-          "duration": "4:03"
-        },
-        {
-          "number": 9,
-          "name": "Manipulate",
-          "duration": "3:06"
-        },
-        {
-          "number": 10,
-          "name": "Bad Habits",
-          "duration": "3:51"
         }
       ]
     }
@@ -762,19 +762,6 @@
       ]
     },
     {
-      "name": "Dog Pack (feat. Sn8ke)",
-      "year": "2024",
-      "release_date": "2024-10-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/00/84/680084e2-d729-73f3-5562-5849e3a59943/4139.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dog Pack (feat. Sn8ke)",
-          "duration": "2:46"
-        }
-      ]
-    },
-    {
       "name": "ATL",
       "year": "2026",
       "release_date": "2026-02-06",
@@ -784,6 +771,19 @@
           "number": 1,
           "name": "ATL",
           "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "name": "Dog Pack (feat. Sn8ke)",
+      "year": "2024",
+      "release_date": "2024-10-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/00/84/680084e2-d729-73f3-5562-5849e3a59943/4139.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dog Pack (feat. Sn8ke)",
+          "duration": "2:46"
         }
       ]
     },

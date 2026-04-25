@@ -139,6 +139,54 @@
       ]
     },
     {
+      "name": "Singular Act I",
+      "year": "2018",
+      "release_date": "2018-11-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4f/4f/21/4f4f216a-7bb1-cf55-72a6-a14dc70cf14e/00050087405274.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Almost Love",
+          "duration": "3:32"
+        },
+        {
+          "number": 2,
+          "name": "Paris",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Hold Tight (feat. Uhmeer)",
+          "duration": "2:55"
+        },
+        {
+          "number": 4,
+          "name": "Sue Me",
+          "duration": "2:59"
+        },
+        {
+          "number": 5,
+          "name": "prfct",
+          "duration": "2:46"
+        },
+        {
+          "number": 6,
+          "name": "Bad Time",
+          "duration": "3:04"
+        },
+        {
+          "number": 7,
+          "name": "Mona Lisa",
+          "duration": "2:18"
+        },
+        {
+          "number": 8,
+          "name": "Diamonds Are Forever",
+          "duration": "3:49"
+        }
+      ]
+    },
+    {
       "name": "emails i can’t send fwd:",
       "year": "2023",
       "release_date": "2023-03-17",
@@ -321,54 +369,6 @@
           "number": 17,
           "name": "Bad Reviews",
           "duration": "2:21"
-        }
-      ]
-    },
-    {
-      "name": "Singular Act I",
-      "year": "2018",
-      "release_date": "2018-11-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4f/4f/21/4f4f216a-7bb1-cf55-72a6-a14dc70cf14e/00050087405274.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Almost Love",
-          "duration": "3:32"
-        },
-        {
-          "number": 2,
-          "name": "Paris",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Hold Tight (feat. Uhmeer)",
-          "duration": "2:55"
-        },
-        {
-          "number": 4,
-          "name": "Sue Me",
-          "duration": "2:59"
-        },
-        {
-          "number": 5,
-          "name": "prfct",
-          "duration": "2:46"
-        },
-        {
-          "number": 6,
-          "name": "Bad Time",
-          "duration": "3:04"
-        },
-        {
-          "number": 7,
-          "name": "Mona Lisa",
-          "duration": "2:18"
-        },
-        {
-          "number": 8,
-          "name": "Diamonds Are Forever",
-          "duration": "3:49"
         }
       ]
     },
@@ -562,64 +562,6 @@
       ]
     },
     {
-      "name": "EVOLution",
-      "year": "2016",
-      "release_date": "2016-10-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/f1/5a/19f15a1d-90f6-94a4-bc89-0f11f646f787/00050087351335.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "On Purpose",
-          "duration": "3:58"
-        },
-        {
-          "number": 2,
-          "name": "Feels Like Loneliness",
-          "duration": "3:20"
-        },
-        {
-          "number": 3,
-          "name": "Thumbs",
-          "duration": "3:36"
-        },
-        {
-          "number": 4,
-          "name": "No Words",
-          "duration": "3:32"
-        },
-        {
-          "number": 5,
-          "name": "Run and Hide",
-          "duration": "3:29"
-        },
-        {
-          "number": 6,
-          "name": "Mirage",
-          "duration": "3:25"
-        },
-        {
-          "number": 7,
-          "name": "Don't Want It Back",
-          "duration": "3:01"
-        },
-        {
-          "number": 8,
-          "name": "Shadows",
-          "duration": "2:52"
-        },
-        {
-          "number": 9,
-          "name": "Space",
-          "duration": "3:06"
-        },
-        {
-          "number": 10,
-          "name": "All We Have Is Love",
-          "duration": "3:02"
-        }
-      ]
-    },
-    {
       "name": "Man’s Best Friend (Bonus Track Version)",
       "year": "2025",
       "release_date": "2025-12-24",
@@ -689,6 +631,64 @@
           "number": 13,
           "name": "Such A Funny Way",
           "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "EVOLution",
+      "year": "2016",
+      "release_date": "2016-10-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/f1/5a/19f15a1d-90f6-94a4-bc89-0f11f646f787/00050087351335.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "On Purpose",
+          "duration": "3:58"
+        },
+        {
+          "number": 2,
+          "name": "Feels Like Loneliness",
+          "duration": "3:20"
+        },
+        {
+          "number": 3,
+          "name": "Thumbs",
+          "duration": "3:36"
+        },
+        {
+          "number": 4,
+          "name": "No Words",
+          "duration": "3:32"
+        },
+        {
+          "number": 5,
+          "name": "Run and Hide",
+          "duration": "3:29"
+        },
+        {
+          "number": 6,
+          "name": "Mirage",
+          "duration": "3:25"
+        },
+        {
+          "number": 7,
+          "name": "Don't Want It Back",
+          "duration": "3:01"
+        },
+        {
+          "number": 8,
+          "name": "Shadows",
+          "duration": "2:52"
+        },
+        {
+          "number": 9,
+          "name": "Space",
+          "duration": "3:06"
+        },
+        {
+          "number": 10,
+          "name": "All We Have Is Love",
+          "duration": "3:02"
         }
       ]
     },
@@ -1295,6 +1295,19 @@
       ]
     },
     {
+      "name": "A Nonsense Christmas",
+      "year": "2022",
+      "release_date": "2022-12-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/31/b5/25/31b525da-43ea-164e-3a6a-92dd263e731b/22UM1IM40473.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A Nonsense Christmas",
+          "duration": "2:33"
+        }
+      ]
+    },
+    {
       "name": "Skin",
       "year": "2021",
       "release_date": "2021-01-22",
@@ -1317,6 +1330,19 @@
           "number": 1,
           "name": "Manchild",
           "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "Cupid – Twin Ver. (feat. Sabrina Carpenter)",
+      "year": "2023",
+      "release_date": "2023-08-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/bc/28/e1bc2835-a85a-c42b-e57a-c8e4d936e7ed/5054197783050.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cupid – Twin Ver. (feat. Sabrina Carpenter)",
+          "duration": "2:53"
         }
       ]
     },
@@ -1360,15 +1386,15 @@
       ]
     },
     {
-      "name": "Cupid – Twin Ver. (feat. Sabrina Carpenter)",
-      "year": "2023",
-      "release_date": "2023-08-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/bc/28/e1bc2835-a85a-c42b-e57a-c8e4d936e7ed/5054197783050.jpg/600x600bb.jpg",
+      "name": "Take on the World (Summer Remix) [Music from \"Girl Meets World\"]",
+      "year": "2014",
+      "release_date": "2014-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/47/ed/5f/47ed5f50-3790-4672-2121-49f80adc79e3/00050087309978.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Cupid – Twin Ver. (feat. Sabrina Carpenter)",
-          "duration": "2:53"
+          "name": "Take on the World (Summer Remix) [Music from \"Girl Meets World\"]",
+          "duration": "2:59"
         }
       ]
     },
@@ -1435,19 +1461,6 @@
       ]
     },
     {
-      "name": "A Nonsense Christmas",
-      "year": "2022",
-      "release_date": "2022-12-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/31/b5/25/31b525da-43ea-164e-3a6a-92dd263e731b/22UM1IM40473.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A Nonsense Christmas",
-          "duration": "2:33"
-        }
-      ]
-    },
-    {
       "name": "Skinny Dipping (Acoustic)",
       "year": "2021",
       "release_date": "2021-10-22",
@@ -1474,19 +1487,6 @@
       ]
     },
     {
-      "name": "Thumbs (Acoustic)",
-      "year": "2017",
-      "release_date": "2017-04-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/09/c3/fa/09c3fa34-fc4d-7f52-6f36-8be8c6d5dc47/00050087369514.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Thumbs (Acoustic)",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
       "name": "First Love (feat. Sabrina Carpenter)",
       "year": "2017",
       "release_date": "2017-10-13",
@@ -1496,6 +1496,19 @@
           "number": 1,
           "name": "First Love (feat. Sabrina Carpenter)",
           "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Thumbs (Acoustic)",
+      "year": "2017",
+      "release_date": "2017-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/09/c3/fa/09c3fa34-fc4d-7f52-6f36-8be8c6d5dc47/00050087369514.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Thumbs (Acoustic)",
+          "duration": "3:24"
         }
       ]
     },
@@ -1646,19 +1659,6 @@
           "number": 1,
           "name": "Almost Love (R3HAB Remix)",
           "duration": "2:55"
-        }
-      ]
-    },
-    {
-      "name": "Take on the World (Summer Remix) [Music from \"Girl Meets World\"]",
-      "year": "2014",
-      "release_date": "2014-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/47/ed/5f/47ed5f50-3790-4672-2121-49f80adc79e3/00050087309978.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Take on the World (Summer Remix) [Music from \"Girl Meets World\"]",
-          "duration": "2:59"
         }
       ]
     },
@@ -1823,6 +1823,19 @@
       ]
     },
     {
+      "name": "nobody's son (feat. Sabrina Carpenter) [EDM]",
+      "year": "2025",
+      "release_date": "2025-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/73/d7/f773d7e4-9e5d-d5f0-31fb-5d0f4f631e8a/5584510166289_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "nobody's son (feat. Sabrina Carpenter) [EDM]",
+          "duration": "3:31"
+        }
+      ]
+    },
+    {
       "name": "Nonsense (Sped Up Version)",
       "year": "2022",
       "release_date": "2022-11-14",
@@ -1845,19 +1858,6 @@
           "number": 1,
           "name": "Feather (Sped Up)",
           "duration": "2:33"
-        }
-      ]
-    },
-    {
-      "name": "nobody's son (feat. Sabrina Carpenter) [EDM]",
-      "year": "2025",
-      "release_date": "2025-11-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/73/d7/f773d7e4-9e5d-d5f0-31fb-5d0f4f631e8a/5584510166289_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "nobody's son (feat. Sabrina Carpenter) [EDM]",
-          "duration": "3:31"
         }
       ]
     },

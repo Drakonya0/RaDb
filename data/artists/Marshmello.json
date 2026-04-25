@@ -3,6 +3,79 @@
   "id": 980795202,
   "albums": [
     {
+      "name": "Joytime III",
+      "year": "2019",
+      "release_date": "2019-07-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/94/5c/f2/945cf25f-fd25-2eeb-a100-947248a64560/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Down",
+          "duration": "2:33"
+        },
+        {
+          "number": 2,
+          "name": "Run it Up",
+          "duration": "2:22"
+        },
+        {
+          "number": 3,
+          "name": "Put Yo Hands Up",
+          "duration": "3:16"
+        },
+        {
+          "number": 4,
+          "name": "Let's Get Down",
+          "duration": "2:42"
+        },
+        {
+          "number": 5,
+          "name": "Sad Songs",
+          "duration": "3:15"
+        },
+        {
+          "number": 6,
+          "name": "Set Me Free",
+          "duration": "3:02"
+        },
+        {
+          "number": 7,
+          "name": "Room to Fall",
+          "duration": "3:00"
+        },
+        {
+          "number": 8,
+          "name": "Angklung Life",
+          "duration": "3:09"
+        },
+        {
+          "number": 9,
+          "name": "Earthquake",
+          "duration": "2:28"
+        },
+        {
+          "number": 10,
+          "name": "Falling to Pieces",
+          "duration": "2:46"
+        },
+        {
+          "number": 11,
+          "name": "Here We Go Again",
+          "duration": "3:06"
+        },
+        {
+          "number": 12,
+          "name": "Rescue Me",
+          "duration": "3:57"
+        },
+        {
+          "number": 13,
+          "name": "Proud",
+          "duration": "3:11"
+        }
+      ]
+    },
+    {
       "name": "Joytime",
       "year": "2016",
       "release_date": "2016-01-08",
@@ -110,79 +183,6 @@
           "number": 9,
           "name": "Imagine",
           "duration": "3:51"
-        }
-      ]
-    },
-    {
-      "name": "Joytime III",
-      "year": "2019",
-      "release_date": "2019-07-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/94/5c/f2/945cf25f-fd25-2eeb-a100-947248a64560/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Down",
-          "duration": "2:33"
-        },
-        {
-          "number": 2,
-          "name": "Run it Up",
-          "duration": "2:22"
-        },
-        {
-          "number": 3,
-          "name": "Put Yo Hands Up",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "Let's Get Down",
-          "duration": "2:42"
-        },
-        {
-          "number": 5,
-          "name": "Sad Songs",
-          "duration": "3:15"
-        },
-        {
-          "number": 6,
-          "name": "Set Me Free",
-          "duration": "3:02"
-        },
-        {
-          "number": 7,
-          "name": "Room to Fall",
-          "duration": "3:00"
-        },
-        {
-          "number": 8,
-          "name": "Angklung Life",
-          "duration": "3:09"
-        },
-        {
-          "number": 9,
-          "name": "Earthquake",
-          "duration": "2:28"
-        },
-        {
-          "number": 10,
-          "name": "Falling to Pieces",
-          "duration": "2:46"
-        },
-        {
-          "number": 11,
-          "name": "Here We Go Again",
-          "duration": "3:06"
-        },
-        {
-          "number": 12,
-          "name": "Rescue Me",
-          "duration": "3:57"
-        },
-        {
-          "number": 13,
-          "name": "Proud",
-          "duration": "3:11"
         }
       ]
     },
@@ -663,6 +663,19 @@
       ]
     },
     {
+      "name": "OK Not To Be OK",
+      "year": "2020",
+      "release_date": "2020-09-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e4/a1/89/e4a18982-147e-0490-ddfa-2737c04c8e43/20UMGIM74443.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "OK Not To Be OK",
+          "duration": "2:39"
+        }
+      ]
+    },
+    {
       "name": "Fly (feat. Leah Culver)",
       "year": "2018",
       "release_date": "2018-03-09",
@@ -741,19 +754,6 @@
       ]
     },
     {
-      "name": "Slow Motion",
-      "year": "2025",
-      "release_date": "2025-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/6c/cc/356ccceb-c850-e128-ae98-41850e056ddf/25UMGIM02040.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Slow Motion",
-          "duration": "2:31"
-        }
-      ]
-    },
-    {
       "name": "Spotlight",
       "year": "2018",
       "release_date": "2018-01-12",
@@ -763,19 +763,6 @@
           "number": 1,
           "name": "Spotlight",
           "duration": "2:57"
-        }
-      ]
-    },
-    {
-      "name": "El Merengue",
-      "year": "2023",
-      "release_date": "2023-03-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/96/ab/9596ab7c-86fc-2331-55c2-aad731dc95ec/196589880208.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "El Merengue",
-          "duration": "3:09"
         }
       ]
     },
@@ -793,6 +780,19 @@
       ]
     },
     {
+      "name": "Slow Motion",
+      "year": "2025",
+      "release_date": "2025-01-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/6c/cc/356ccceb-c850-e128-ae98-41850e056ddf/25UMGIM02040.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Slow Motion",
+          "duration": "2:31"
+        }
+      ]
+    },
+    {
       "name": "Be Kind",
       "year": "2020",
       "release_date": "2020-05-01",
@@ -802,6 +802,19 @@
           "number": 1,
           "name": "Be Kind",
           "duration": "2:52"
+        }
+      ]
+    },
+    {
+      "name": "El Merengue",
+      "year": "2023",
+      "release_date": "2023-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/96/ab/9596ab7c-86fc-2331-55c2-aad731dc95ec/196589880208.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "El Merengue",
+          "duration": "3:09"
         }
       ]
     },
@@ -871,6 +884,19 @@
       ]
     },
     {
+      "name": "Let Me Love You (feat. Justin Bieber) [Marshmello Remix]",
+      "year": "2016",
+      "release_date": "2016-12-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/85/a4/a3/85a4a36a-7f1a-f167-3a7d-8cec6543741b/00602557325423.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Let Me Love You (feat. Justin Bieber) [Marshmello Remix]",
+          "duration": "3:00"
+        }
+      ]
+    },
+    {
       "name": "Water",
       "year": "2023",
       "release_date": "2023-11-17",
@@ -880,19 +906,6 @@
           "number": 1,
           "name": "Water",
           "duration": "3:11"
-        }
-      ]
-    },
-    {
-      "name": "OK Not To Be OK",
-      "year": "2020",
-      "release_date": "2020-09-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e4/a1/89/e4a18982-147e-0490-ddfa-2737c04c8e43/20UMGIM74443.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "OK Not To Be OK",
-          "duration": "2:39"
         }
       ]
     },
@@ -962,6 +975,32 @@
       ]
     },
     {
+      "name": "Tongue Tied",
+      "year": "2019",
+      "release_date": "2019-11-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/ab/bb/88abbb98-f3dc-76e5-faab-ec71adb6aeef/00602508495748.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tongue Tied",
+          "duration": "3:06"
+        }
+      ]
+    },
+    {
+      "name": "Conquer",
+      "year": "2024",
+      "release_date": "2024-02-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/4e/ec/ab4eece0-e37d-a728-87a1-de6969d02d1e/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Conquer",
+          "duration": "3:01"
+        }
+      ]
+    },
+    {
       "name": "Twinbow",
       "year": "2017",
       "release_date": "2017-03-17",
@@ -971,6 +1010,19 @@
           "number": 1,
           "name": "Twinbow",
           "duration": "2:46"
+        }
+      ]
+    },
+    {
+      "name": "You Can Cry (feat. James Arthur)",
+      "year": "2018",
+      "release_date": "2018-05-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7f/37/68/7f37686a-6166-051b-5f31-ee90c3382003/886447087626.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You Can Cry (feat. James Arthur)",
+          "duration": "3:14"
         }
       ]
     },
@@ -1001,15 +1053,15 @@
       ]
     },
     {
-      "name": "You Can Cry (feat. James Arthur)",
-      "year": "2018",
-      "release_date": "2018-05-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7f/37/68/7f37686a-6166-051b-5f31-ee90c3382003/886447087626.jpg/600x600bb.jpg",
+      "name": "Light It Up",
+      "year": "2019",
+      "release_date": "2019-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/86/19/f4/8619f49e-1a3f-b9a7-91ee-9036208ea939/19UMGIM01965.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "You Can Cry (feat. James Arthur)",
-          "duration": "3:14"
+          "name": "Light It Up",
+          "duration": "2:17"
         }
       ]
     },
@@ -1023,19 +1075,6 @@
           "number": 1,
           "name": "We Don’t Get Along",
           "duration": "2:29"
-        }
-      ]
-    },
-    {
-      "name": "Light It Up",
-      "year": "2019",
-      "release_date": "2019-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/86/19/f4/8619f49e-1a3f-b9a7-91ee-9036208ea939/19UMGIM01965.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Light It Up",
-          "duration": "2:17"
         }
       ]
     },
@@ -1079,19 +1118,6 @@
       ]
     },
     {
-      "name": "House Party",
-      "year": "2021",
-      "release_date": "2021-06-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9b/07/3c/9b073cac-6470-892e-9bb4-71023ca2c061/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "House Party",
-          "duration": "3:25"
-        }
-      ]
-    },
-    {
       "name": "There X2 (feat. Marshmello)",
       "year": "2018",
       "release_date": "2018-02-02",
@@ -1127,6 +1153,19 @@
           "number": 1,
           "name": "Bye Bye",
           "duration": "1:48"
+        }
+      ]
+    },
+    {
+      "name": "House Party",
+      "year": "2021",
+      "release_date": "2021-06-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9b/07/3c/9b073cac-6470-892e-9bb4-71023ca2c061/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "House Party",
+          "duration": "3:25"
         }
       ]
     },
@@ -1222,15 +1261,15 @@
       ]
     },
     {
-      "name": "Phoenix",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/ac/98/a5ac9830-05e9-a9d3-e854-8242b2678359/1280598.jpg/600x600bb.jpg",
+      "name": "Kissin My Friends",
+      "year": "2025",
+      "release_date": "2025-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/d7/aa/1dd7aa33-23c1-bdf1-4ed4-02472d74b8af/4499.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Phoenix",
-          "duration": "2:24"
+          "name": "Kissin My Friends",
+          "duration": "2:17"
         }
       ]
     },
@@ -1314,6 +1353,19 @@
       "tracks": []
     },
     {
+      "name": "Phoenix",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/ac/98/a5ac9830-05e9-a9d3-e854-8242b2678359/1280598.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Phoenix",
+          "duration": "2:24"
+        }
+      ]
+    },
+    {
       "name": "Light It Up",
       "year": "2019",
       "release_date": "2019-04-25",
@@ -1366,28 +1418,15 @@
       ]
     },
     {
-      "name": "Let Me Love You (feat. Justin Bieber) [Marshmello Remix]",
-      "year": "2016",
-      "release_date": "2016-12-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/85/a4/a3/85a4a36a-7f1a-f167-3a7d-8cec6543741b/00602557325423.rgb.jpg/600x600bb.jpg",
+      "name": "Project Dreams",
+      "year": "2018",
+      "release_date": "2018-12-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/21/7b/77217bb8-e4a2-6c70-2c29-8891bfe6e517/054391946034.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Let Me Love You (feat. Justin Bieber) [Marshmello Remix]",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
-      "name": "Tongue Tied",
-      "year": "2019",
-      "release_date": "2019-11-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/ab/bb/88abbb98-f3dc-76e5-faab-ec71adb6aeef/00602508495748.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tongue Tied",
-          "duration": "3:06"
+          "name": "Project Dreams",
+          "duration": "2:47"
         }
       ]
     },
@@ -1401,19 +1440,6 @@
           "number": 1,
           "name": "Silence (feat. Khalid) [Rude Kid Remix]",
           "duration": "3:32"
-        }
-      ]
-    },
-    {
-      "name": "We Don’t Get Along",
-      "year": "2026",
-      "release_date": "2026-03-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/e8/b1/1de8b1dd-6de5-3e1a-38aa-59108ac55aff/198704875731_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "We Don’t Get Along",
-          "duration": "2:29"
         }
       ]
     },
@@ -1444,19 +1470,6 @@
       ]
     },
     {
-      "name": "Si Ai (Marshmello & Ukay Remix)",
-      "year": "2024",
-      "release_date": "2024-08-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/db/3b/21db3b33-e993-4c0e-aa0d-7e00784cc0b6/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Si Ai (Marshmello & Ukay Remix)",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "You (Acoustic)",
       "year": "2021",
       "release_date": "2021-03-02",
@@ -1466,19 +1479,6 @@
           "number": 1,
           "name": "You (Acoustic)",
           "duration": "2:31"
-        }
-      ]
-    },
-    {
-      "name": "FRIENDS",
-      "year": "2018",
-      "release_date": "2018-02-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/e3/a3/28e3a359-b115-96b5-62d1-9bbac21b6a8c/222.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FRIENDS",
-          "duration": "3:21"
         }
       ]
     },
@@ -1522,6 +1522,19 @@
       ]
     },
     {
+      "name": "We Don’t Get Along",
+      "year": "2026",
+      "release_date": "2026-03-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/e8/b1/1de8b1dd-6de5-3e1a-38aa-59108ac55aff/198704875731_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "We Don’t Get Along",
+          "duration": "2:29"
+        }
+      ]
+    },
+    {
       "name": "Tempo",
       "year": "2023",
       "release_date": "2023-08-17",
@@ -1531,6 +1544,19 @@
           "number": 1,
           "name": "Tempo",
           "duration": "1:47"
+        }
+      ]
+    },
+    {
+      "name": "Si Ai (Marshmello & Ukay Remix)",
+      "year": "2024",
+      "release_date": "2024-08-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/db/3b/21db3b33-e993-4c0e-aa0d-7e00784cc0b6/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Si Ai (Marshmello & Ukay Remix)",
+          "duration": "3:04"
         }
       ]
     },
@@ -1548,25 +1574,15 @@
       ]
     },
     {
-      "name": "Happier (Slowed + Reverb)",
-      "year": "2022",
-      "release_date": "2022-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/40/42/a3404244-60e9-222b-9da1-4dbcb8e5b8d9/cover.jpg/600x600bb.jpg",
+      "name": "FRIENDS",
+      "year": "2018",
+      "release_date": "2018-02-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/e3/a3/28e3a359-b115-96b5-62d1-9bbac21b6a8c/222.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Happier (Slowed + Reverb)",
-          "duration": "4:00"
-        },
-        {
-          "number": 2,
-          "name": "Happier (Sped Up)",
-          "duration": "3:07"
-        },
-        {
-          "number": 3,
-          "name": "Happier",
-          "duration": "3:34"
+          "name": "FRIENDS",
+          "duration": "3:21"
         }
       ]
     },
@@ -1598,19 +1614,6 @@
           "number": 1,
           "name": "Baggin'",
           "duration": "3:17"
-        }
-      ]
-    },
-    {
-      "name": "Conquer",
-      "year": "2024",
-      "release_date": "2024-02-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ab/4e/ec/ab4eece0-e37d-a728-87a1-de6969d02d1e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Conquer",
-          "duration": "3:01"
         }
       ]
     },
@@ -1676,6 +1679,29 @@
           "number": 1,
           "name": "Before U",
           "duration": "2:34"
+        }
+      ]
+    },
+    {
+      "name": "Happier (Slowed + Reverb)",
+      "year": "2022",
+      "release_date": "2022-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/40/42/a3404244-60e9-222b-9da1-4dbcb8e5b8d9/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Happier (Slowed + Reverb)",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "Happier (Sped Up)",
+          "duration": "3:07"
+        },
+        {
+          "number": 3,
+          "name": "Happier",
+          "duration": "3:34"
         }
       ]
     },
@@ -2134,19 +2160,6 @@
       ]
     },
     {
-      "name": "Kissin My Friends",
-      "year": "2025",
-      "release_date": "2025-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/d7/aa/1dd7aa33-23c1-bdf1-4ed4-02472d74b8af/4499.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kissin My Friends",
-          "duration": "2:17"
-        }
-      ]
-    },
-    {
       "name": "El Merengue (HUGEL Remix)",
       "year": "2023",
       "release_date": "2023-05-19",
@@ -2421,19 +2434,6 @@
           "number": 1,
           "name": "Fale Então",
           "duration": "1:56"
-        }
-      ]
-    },
-    {
-      "name": "Project Dreams",
-      "year": "2018",
-      "release_date": "2018-12-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/21/7b/77217bb8-e4a2-6c70-2c29-8891bfe6e517/054391946034.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Project Dreams",
-          "duration": "2:47"
         }
       ]
     },

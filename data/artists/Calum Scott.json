@@ -3,84 +3,6 @@
   "id": 190876590,
   "albums": [
     {
-      "name": "Only Human (Deluxe)",
-      "year": "2018",
-      "release_date": "2018-03-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cd/12/9f/cd129f77-7690-7440-2a25-d9c7f39889d8/17UM1IM44770.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "If Our Love Is Wrong",
-          "duration": "3:23"
-        },
-        {
-          "number": 2,
-          "name": "Give Me Something",
-          "duration": "3:16"
-        },
-        {
-          "number": 3,
-          "name": "Rhythm Inside",
-          "duration": "3:32"
-        },
-        {
-          "number": 4,
-          "name": "You Are the Reason",
-          "duration": "3:24"
-        },
-        {
-          "number": 5,
-          "name": "Come Back Home",
-          "duration": "3:10"
-        },
-        {
-          "number": 6,
-          "name": "Stop Myself (Only Human)",
-          "duration": "3:27"
-        },
-        {
-          "number": 7,
-          "name": "Dancing On My Own",
-          "duration": "4:20"
-        },
-        {
-          "number": 8,
-          "name": "Only You",
-          "duration": "3:45"
-        },
-        {
-          "number": 9,
-          "name": "Won’t Let You Down",
-          "duration": "3:14"
-        },
-        {
-          "number": 10,
-          "name": "What I Miss Most",
-          "duration": "3:51"
-        },
-        {
-          "number": 11,
-          "name": "Hotel Room",
-          "duration": "3:40"
-        },
-        {
-          "number": 12,
-          "name": "Good To You",
-          "duration": "3:50"
-        },
-        {
-          "number": 13,
-          "name": "Not Dark Yet",
-          "duration": "3:35"
-        },
-        {
-          "number": 14,
-          "name": "Dancing On My Own (Tiësto Remix) [feat. Tiësto]",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
       "name": "Only Human (Special Edition)",
       "year": "2018",
       "release_date": "2018-03-09",
@@ -180,6 +102,84 @@
           "number": 19,
           "name": "White Christmas (1 Mic 1 Take / Live from Abbey Road Studios)",
           "duration": "2:20"
+        }
+      ]
+    },
+    {
+      "name": "Only Human (Deluxe)",
+      "year": "2018",
+      "release_date": "2018-03-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/cd/12/9f/cd129f77-7690-7440-2a25-d9c7f39889d8/17UM1IM44770.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "If Our Love Is Wrong",
+          "duration": "3:23"
+        },
+        {
+          "number": 2,
+          "name": "Give Me Something",
+          "duration": "3:16"
+        },
+        {
+          "number": 3,
+          "name": "Rhythm Inside",
+          "duration": "3:32"
+        },
+        {
+          "number": 4,
+          "name": "You Are the Reason",
+          "duration": "3:24"
+        },
+        {
+          "number": 5,
+          "name": "Come Back Home",
+          "duration": "3:10"
+        },
+        {
+          "number": 6,
+          "name": "Stop Myself (Only Human)",
+          "duration": "3:27"
+        },
+        {
+          "number": 7,
+          "name": "Dancing On My Own",
+          "duration": "4:20"
+        },
+        {
+          "number": 8,
+          "name": "Only You",
+          "duration": "3:45"
+        },
+        {
+          "number": 9,
+          "name": "Won’t Let You Down",
+          "duration": "3:14"
+        },
+        {
+          "number": 10,
+          "name": "What I Miss Most",
+          "duration": "3:51"
+        },
+        {
+          "number": 11,
+          "name": "Hotel Room",
+          "duration": "3:40"
+        },
+        {
+          "number": 12,
+          "name": "Good To You",
+          "duration": "3:50"
+        },
+        {
+          "number": 13,
+          "name": "Not Dark Yet",
+          "duration": "3:35"
+        },
+        {
+          "number": 14,
+          "name": "Dancing On My Own (Tiësto Remix) [feat. Tiësto]",
+          "duration": "3:42"
         }
       ]
     },
@@ -381,6 +381,32 @@
       ]
     },
     {
+      "name": "At Your Worst",
+      "year": "2023",
+      "release_date": "2023-08-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9a/4e/84/9a4e84f7-a4dc-a08f-22da-5f90686d4db7/23UMGIM83223.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "At Your Worst",
+          "duration": "2:47"
+        }
+      ]
+    },
+    {
+      "name": "You Are the Reason (Acoustic, 1 Mic 1 Take / Live From Abbey Road Studios)",
+      "year": "2018",
+      "release_date": "2018-02-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7a/d2/e4/7ad2e452-1099-2e76-fffb-41d9f24cb944/00602567463047.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You Are the Reason (Acoustic, 1 Mic 1 Take / Live From Abbey Road Studios)",
+          "duration": "3:48"
+        }
+      ]
+    },
+    {
       "name": "Where Are You Now",
       "year": "2021",
       "release_date": "2021-07-30",
@@ -459,6 +485,19 @@
       ]
     },
     {
+      "name": "You Are the Reason (Duet Version)",
+      "year": "2018",
+      "release_date": "2018-05-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/5e/05/855e05a6-e90e-1301-c2f2-cd21b52f6b9c/00602567741022.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You Are the Reason (Duet Version)",
+          "duration": "3:09"
+        }
+      ]
+    },
+    {
       "name": "Lighthouse",
       "year": "2024",
       "release_date": "2024-01-19",
@@ -485,58 +524,6 @@
       ]
     },
     {
-      "name": "Woke Up in Love (feat. Gryffin & Calum Scott) [Alok Remix]",
-      "year": "2022",
-      "release_date": "2022-11-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/c9/24/09c9245f-9825-455c-d4cc-ad4862293b83/196589663290.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Woke Up in Love (feat. Gryffin & Calum Scott) [Alok Remix]",
-          "duration": "2:46"
-        }
-      ]
-    },
-    {
-      "name": "At Your Worst",
-      "year": "2023",
-      "release_date": "2023-08-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9a/4e/84/9a4e84f7-a4dc-a08f-22da-5f90686d4db7/23UMGIM83223.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "At Your Worst",
-          "duration": "2:47"
-        }
-      ]
-    },
-    {
-      "name": "You Are the Reason (Duet Version)",
-      "year": "2018",
-      "release_date": "2018-05-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/85/5e/05/855e05a6-e90e-1301-c2f2-cd21b52f6b9c/00602567741022.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You Are the Reason (Duet Version)",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
-      "name": "Dancing on My Own (Acoustic)",
-      "year": "2016",
-      "release_date": "2016-06-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a6/3c/8f/a63c8f6b-b0e2-1d5b-5219-2729c58941fc/00602557013658.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dancing on My Own (Acoustic)",
-          "duration": "4:13"
-        }
-      ]
-    },
-    {
       "name": "Rise",
       "year": "2021",
       "release_date": "2021-10-01",
@@ -550,6 +537,19 @@
       ]
     },
     {
+      "name": "Woke Up in Love (feat. Gryffin & Calum Scott) [Alok Remix]",
+      "year": "2022",
+      "release_date": "2022-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/c9/24/09c9245f-9825-455c-d4cc-ad4862293b83/196589663290.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Woke Up in Love (feat. Gryffin & Calum Scott) [Alok Remix]",
+          "duration": "2:46"
+        }
+      ]
+    },
+    {
       "name": "Dancing On My Own (Ben Dooks Remix)",
       "year": "2016",
       "release_date": "2016-09-02",
@@ -559,6 +559,19 @@
           "number": 1,
           "name": "Dancing On My Own (Ben Dooks Remix)",
           "duration": "5:43"
+        }
+      ]
+    },
+    {
+      "name": "Dancing on My Own (Acoustic)",
+      "year": "2016",
+      "release_date": "2016-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a6/3c/8f/a63c8f6b-b0e2-1d5b-5219-2729c58941fc/00602557013658.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dancing on My Own (Acoustic)",
+          "duration": "4:13"
         }
       ]
     },
@@ -628,32 +641,6 @@
       ]
     },
     {
-      "name": "You Are the Reason (Acoustic, 1 Mic 1 Take / Live From Abbey Road Studios)",
-      "year": "2018",
-      "release_date": "2018-02-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7a/d2/e4/7ad2e452-1099-2e76-fffb-41d9f24cb944/00602567463047.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You Are the Reason (Acoustic, 1 Mic 1 Take / Live From Abbey Road Studios)",
-          "duration": "3:48"
-        }
-      ]
-    },
-    {
-      "name": "Stay",
-      "year": "2026",
-      "release_date": "2026-03-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/1f/ae/a31faeae-4b4f-faea-5a06-ea1dfeb94f0f/26UMGIM20403.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stay",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "If You Ever Change Your Mind",
       "year": "2022",
       "release_date": "2022-02-04",
@@ -663,29 +650,6 @@
           "number": 1,
           "name": "If You Ever Change Your Mind",
           "duration": "3:25"
-        }
-      ]
-    },
-    {
-      "name": "Love On Myself (Remixes) [feat. Calum Scott]",
-      "year": "2019",
-      "release_date": "2019-09-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/84/d1/7884d13c-f644-bc8d-01a1-4ebc4ffeab35/19UMGIM77934.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Love On Myself (feat. Calum Scott) [Acoustic Version]",
-          "duration": "3:17"
-        },
-        {
-          "number": 2,
-          "name": "Love On Myself (feat. Calum Scott) [Keanu Silva Remix]",
-          "duration": "2:54"
-        },
-        {
-          "number": 3,
-          "name": "Love On Myself (feat. Calum Scott) [Bobby Flava Remix]",
-          "duration": "4:44"
         }
       ]
     },
@@ -742,28 +706,15 @@
       ]
     },
     {
-      "name": "My World",
-      "year": "2024",
-      "release_date": "2024-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/c8/7c/36c87c72-ebfa-6f87-3fe4-ca501dcf7fc4/24UMGIM57052.rgb.jpg/600x600bb.jpg",
+      "name": "Stay",
+      "year": "2026",
+      "release_date": "2026-03-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/1f/ae/a31faeae-4b4f-faea-5a06-ea1dfeb94f0f/26UMGIM20403.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "My World",
-          "duration": "3:23"
-        }
-      ]
-    },
-    {
-      "name": "You Are the Reason (Tiësto's AFTR:HRS Remix)",
-      "year": "2017",
-      "release_date": "2017-12-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/29/cc/1b29cc5f-926d-e682-0d9e-b6deb0585cfd/00602567338543.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You Are the Reason (Tiësto's AFTR:HRS Remix)",
-          "duration": "3:21"
+          "name": "Stay",
+          "duration": "3:04"
         }
       ]
     },
@@ -786,15 +737,51 @@
       ]
     },
     {
-      "name": "Where Are You Now (Deluxe Mix)",
-      "year": "2021",
-      "release_date": "2021-12-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/df/b9/89dfb993-0c99-d121-789b-0013b9b07be7/886449795659.jpg/600x600bb.jpg",
+      "name": "Love On Myself (Remixes) [feat. Calum Scott]",
+      "year": "2019",
+      "release_date": "2019-09-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/84/d1/7884d13c-f644-bc8d-01a1-4ebc4ffeab35/19UMGIM77934.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Where Are You Now (Deluxe Mix)",
-          "duration": "4:14"
+          "name": "Love On Myself (feat. Calum Scott) [Acoustic Version]",
+          "duration": "3:17"
+        },
+        {
+          "number": 2,
+          "name": "Love On Myself (feat. Calum Scott) [Keanu Silva Remix]",
+          "duration": "2:54"
+        },
+        {
+          "number": 3,
+          "name": "Love On Myself (feat. Calum Scott) [Bobby Flava Remix]",
+          "duration": "4:44"
+        }
+      ]
+    },
+    {
+      "name": "You Are the Reason (Tiësto's AFTR:HRS Remix)",
+      "year": "2017",
+      "release_date": "2017-12-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/29/cc/1b29cc5f-926d-e682-0d9e-b6deb0585cfd/00602567338543.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You Are the Reason (Tiësto's AFTR:HRS Remix)",
+          "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "My World",
+      "year": "2024",
+      "release_date": "2024-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/c8/7c/36c87c72-ebfa-6f87-3fe4-ca501dcf7fc4/24UMGIM57052.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "My World",
+          "duration": "3:23"
         }
       ]
     },
@@ -808,6 +795,19 @@
           "number": 1,
           "name": "One More Try",
           "duration": "5:56"
+        }
+      ]
+    },
+    {
+      "name": "Where Are You Now (Deluxe Mix)",
+      "year": "2021",
+      "release_date": "2021-12-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/df/b9/89dfb993-0c99-d121-789b-0013b9b07be7/886449795659.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Where Are You Now (Deluxe Mix)",
+          "duration": "4:14"
         }
       ]
     },
@@ -887,19 +887,6 @@
       ]
     },
     {
-      "name": "Unsteady (Aitch Version)",
-      "year": "2026",
-      "release_date": "2026-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/44/96/2844962a-6899-3471-50cf-39bd3026a3e3/26UMGIM00736.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Unsteady (Aitch Version)",
-          "duration": "2:53"
-        }
-      ]
-    },
-    {
       "name": "Give Me Love (feat. Calum Scott)",
       "year": "2018",
       "release_date": "2018-02-09",
@@ -922,6 +909,19 @@
           "number": 1,
           "name": "Then There Was You (From \"The Garfield Movie\")",
           "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "Unsteady (Aitch Version)",
+      "year": "2026",
+      "release_date": "2026-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/44/96/2844962a-6899-3471-50cf-39bd3026a3e3/26UMGIM00736.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Unsteady (Aitch Version)",
+          "duration": "2:53"
         }
       ]
     },
