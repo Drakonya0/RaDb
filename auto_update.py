@@ -6,7 +6,7 @@ import time
 import os
 import shutil
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 
 print("🔄 MISE À JOUR AUTOMATIQUE - COMPLÈTE")
 print("=" * 50)
@@ -132,8 +132,6 @@ def save_current_state(state):
 
 def detect_new_releases(old_data, new_data):
     new_releases = []
-    
-    # Convertir old_data en dict pour recherche plus rapide
     old_dict = {a.get('name'): a for a in old_data if a.get('name')}
     
     for new_artist in new_data:
@@ -168,7 +166,8 @@ def detect_new_releases(old_data, new_data):
     
     return new_releases
 
-# MAIN
+# ============ MAIN ============
+
 print("\n📁 Nettoyage des anciennes données...")
 if os.path.exists('data/artists'):
     shutil.rmtree('data/artists')
@@ -188,7 +187,7 @@ all_artist_data = []
 success = 0
 errors = 0
 
-# PAS DE LIMITE - TOUS LES ARTISTES
+# Scan de TOUS les artistes
 for i, artist_name in enumerate(artists, 1):
     print(f"[{i}/{len(artists)}] 🎤 {artist_name[:40]}")
     
@@ -210,7 +209,6 @@ for i, artist_name in enumerate(artists, 1):
 # Détecter les nouveautés
 print("\n🔍 Détection des nouveautés...")
 new_releases = detect_new_releases(old_state, all_artist_data)
-
 print(f"🆕 {len(new_releases)} nouvelles sorties détectées")
 
 # Envoyer notification
@@ -223,27 +221,18 @@ if new_releases:
 else:
     send_notification("✅ Mise à jour terminée", f"{success} artistes mis à jour", priority=2)
 
-# Créer l'index
+# === CRÉATION DE L'INDEX ===
 print("\n📊 Création de l'index...")
 index = []
 for json_file in Path('data/artists').glob('*.json'):
     try:
         with open(json_file, 'r', encoding='utf-8') as f:
             artist = json.load(f)
-            # Compter les sorties par année
-            last_release = ""
-            all_releases = artist.get('albums', []) + artist.get('singles', []) + artist.get('eps', [])
-            if all_releases:
-                dates = [r.get('release_date', '') for r in all_releases if r.get('release_date')]
-                if dates:
-                    last_release = max(dates)
-            
             index.append({
                 'name': artist['name'],
                 'albums': len(artist.get('albums', [])),
                 'singles': len(artist.get('singles', [])),
-                'eps': len(artist.get('eps', [])),
-                'last_release': last_release[:4] if last_release else ''
+                'eps': len(artist.get('eps', []))
             })
     except:
         pass
@@ -251,48 +240,89 @@ for json_file in Path('data/artists').glob('*.json'):
 index.sort(key=lambda x: x['name'])
 with open('data/index.json', 'w', encoding='utf-8') as f:
     json.dump(index, f, ensure_ascii=False, indent=2)
-
 print(f"   ✅ Index créé: {len(index)} artistes")
 
-# Créer l'historique des sorties
-print("📜 Création de l'historique des sorties...")
+# === CRÉATION DE L'HISTORIQUE COMPLET ===
+print("\n📜 Mise à jour de l'historique complet...")
+
+# Charger l'ancien historique s'il existe
+history_file = Path('data/releases_history.json')
 all_releases = []
+if history_file.exists():
+    with open(history_file, 'r', encoding='utf-8') as f:
+        all_releases = json.load(f)
+
+# Créer un set des titres déjà présents pour éviter les doublons
+existing_titles = {(r['artist'], r['title']) for r in all_releases}
+
+new_entries = []
+
 for artist in all_artist_data:
     for album in artist.get('albums', []):
         if album.get('release_date'):
-            all_releases.append({
-                'type': 'album',
-                'artist': artist['name'],
-                'title': album['name'],
-                'date': album['release_date'],
-                'cover': album.get('cover', '')
-            })
+            key = (artist['name'], album['name'])
+            if key not in existing_titles:
+                new_entries.append({
+                    'type': 'album',
+                    'artist': artist['name'],
+                    'title': album['name'],
+                    'date': album['release_date'],
+                    'cover': album.get('cover', '')
+                })
     for single in artist.get('singles', []):
         if single.get('release_date'):
-            all_releases.append({
-                'type': 'single',
-                'artist': artist['name'],
-                'title': single['name'],
-                'date': single['release_date'],
-                'cover': single.get('cover', '')
-            })
+            key = (artist['name'], single['name'])
+            if key not in existing_titles:
+                new_entries.append({
+                    'type': 'single',
+                    'artist': artist['name'],
+                    'title': single['name'],
+                    'date': single['release_date'],
+                    'cover': single.get('cover', '')
+                })
     for ep in artist.get('eps', []):
         if ep.get('release_date'):
-            all_releases.append({
-                'type': 'ep',
-                'artist': artist['name'],
-                'title': ep['name'],
-                'date': ep['release_date'],
-                'cover': ep.get('cover', '')
-            })
+            key = (artist['name'], ep['name'])
+            if key not in existing_titles:
+                new_entries.append({
+                    'type': 'ep',
+                    'artist': artist['name'],
+                    'title': ep['name'],
+                    'date': ep['release_date'],
+                    'cover': ep.get('cover', '')
+                })
 
-# Trier par date (plus récent en premier)
+# Ajouter les nouvelles entrées à l'historique complet
+all_releases.extend(new_entries)
+
+# Trier l'historique complet par date (du plus récent au plus ancien)
 all_releases.sort(key=lambda x: x['date'], reverse=True)
 
+# Sauvegarder l'historique COMPLET (toutes les sorties)
 with open('data/releases_history.json', 'w', encoding='utf-8') as f:
-    json.dump(all_releases[:1000], f, ensure_ascii=False, indent=2)
+    json.dump(all_releases, f, ensure_ascii=False, indent=2)
 
-print(f"   ✅ {len(all_releases)} sorties enregistrées")
+# === CRÉER LE FICHIER DES NOUVEAUTÉS DE LA SEMAINE ===
+print("📅 Filtrage des nouveautés de la semaine...")
+
+today = datetime.now()
+week_ago = today - timedelta(days=7)
+
+new_releases_week = []
+for r in all_releases:
+    try:
+        r_date = datetime.strptime(r['date'], '%Y-%m-%d')
+        if r_date >= week_ago:
+            new_releases_week.append(r)
+    except:
+        pass
+
+# Sauvegarder uniquement les sorties de la semaine
+with open('data/new_releases.json', 'w', encoding='utf-8') as f:
+    json.dump(new_releases_week, f, ensure_ascii=False, indent=2)
+
+print(f"   ✅ Historique complet: {len(all_releases)} sorties")
+print(f"   🆕 Cette semaine: {len(new_releases_week)} sorties")
 
 # Sauvegarder l'état
 save_current_state(all_artist_data)
@@ -301,6 +331,7 @@ print("\n" + "=" * 50)
 print(f"✅ MISE À JOUR TERMINÉE !")
 print(f"   📊 Succès: {success}/{len(artists)}")
 print(f"   ⚠️  Erreurs: {errors}")
-print(f"   🆕 Nouveautés: {len(new_releases)}")
-print(f"   📜 Historique: {len(all_releases)} sorties")
+print(f"   🆕 Nouveautés détectées: {len(new_releases)}")
+print(f"   📜 Historique complet: {len(all_releases)} sorties")
+print(f"   📅 Cette semaine: {len(new_releases_week)} sorties")
 print("=" * 50)
