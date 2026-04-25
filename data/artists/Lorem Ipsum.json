@@ -1,0 +1,80 @@
+{
+  "name": "Lorem Ipsum",
+  "id": 1498350296,
+  "albums": [
+    {
+      "name": "Vivre encore",
+      "year": "2021",
+      "release_date": "2021-01-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/e1/ec/2fe1ec39-41d7-ecdc-f091-48a073b2198a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Damoclès",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Andrée",
+          "duration": "4:55"
+        },
+        {
+          "number": 3,
+          "name": "Anne",
+          "duration": "4:41"
+        },
+        {
+          "number": 4,
+          "name": "Patrick",
+          "duration": "5:39"
+        },
+        {
+          "number": 5,
+          "name": "Bienaimé",
+          "duration": "2:19"
+        },
+        {
+          "number": 6,
+          "name": "Didier",
+          "duration": "3:54"
+        },
+        {
+          "number": 7,
+          "name": "Sergeï",
+          "duration": "3:38"
+        },
+        {
+          "number": 8,
+          "name": "Véro",
+          "duration": "6:28"
+        }
+      ]
+    }
+  ],
+  "singles": [
+    {
+      "name": "Même quand ta main quittera la mienne",
+      "year": "2025",
+      "release_date": "2025-02-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/cf/17/4dcf17d8-4497-0efc-9510-082dab1505f4/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tes yeux clos",
+          "duration": "6:00"
+        },
+        {
+          "number": 2,
+          "name": "Et le mal",
+          "duration": "1:40"
+        },
+        {
+          "number": 3,
+          "name": "Tes jours sans moi",
+          "duration": "5:24"
+        }
+      ]
+    }
+  ],
+  "eps": []
+}
