@@ -460,6 +460,13 @@
       "tracks": []
     },
     {
+      "name": "A Day with Petit Biscuit: SUNSET (DJ Mix)",
+      "year": "2025",
+      "release_date": "2025-08-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/23/50/8e2350e8-1072-41f7-d7c1-63d58683bded/b0d0f7a3-995f-468b-98cf-b7edd1704017.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Movement",
       "year": "2026",
       "release_date": "2026-05-29",
@@ -543,13 +550,6 @@
       ]
     },
     {
-      "name": "A Day with Petit Biscuit: SUNSET (DJ Mix)",
-      "year": "2025",
-      "release_date": "2025-08-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/23/50/8e2350e8-1072-41f7-d7c1-63d58683bded/b0d0f7a3-995f-468b-98cf-b7edd1704017.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Petit Biscuit Presents: Free Fall (DJ Mix)",
       "year": "2021",
       "release_date": "2021-02-26",
@@ -565,6 +565,32 @@
     }
   ],
   "singles": [
+    {
+      "name": "Midnight Sky",
+      "year": "2015",
+      "release_date": "2015-06-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/aa/1d/8aaa1d66-7045-8d86-adda-c645c5a1b90a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Midnight Sky",
+          "duration": "4:38"
+        }
+      ]
+    },
+    {
+      "name": "Alone",
+      "year": "2015",
+      "release_date": "2015-05-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/15/60/551560d0-8abd-c43f-2c36-860b6d239ff1/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Alone",
+          "duration": "4:33"
+        }
+      ]
+    },
     {
       "name": "Night Trouble",
       "year": "2015",
@@ -588,32 +614,6 @@
           "number": 1,
           "name": "You",
           "duration": "3:51"
-        }
-      ]
-    },
-    {
-      "name": "Alone",
-      "year": "2015",
-      "release_date": "2015-05-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/55/15/60/551560d0-8abd-c43f-2c36-860b6d239ff1/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Alone",
-          "duration": "4:33"
-        }
-      ]
-    },
-    {
-      "name": "Midnight Sky",
-      "year": "2015",
-      "release_date": "2015-06-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8a/aa/1d/8aaa1d66-7045-8d86-adda-c645c5a1b90a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Midnight Sky",
-          "duration": "4:38"
         }
       ]
     },
@@ -721,19 +721,6 @@
       "tracks": []
     },
     {
-      "name": "Close Your Eyes",
-      "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/99/11/a6991139-ef7a-f524-ae84-b93b217184a5/196873300542.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Close Your Eyes",
-          "duration": "2:36"
-        }
-      ]
-    },
-    {
       "name": "Waterfall Remixes (feat. Panama)",
       "year": "2017",
       "release_date": "2017-12-15",
@@ -750,19 +737,6 @@
           "number": 1,
           "name": "Drivin Thru the Night",
           "duration": "3:05"
-        }
-      ]
-    },
-    {
-      "name": "Without You",
-      "year": "2024",
-      "release_date": "2024-12-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/3f/ca/0a3fcaa1-7966-25e3-3c70-db93e723ab14/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Without You",
-          "duration": "2:55"
         }
       ]
     },
@@ -784,11 +758,70 @@
       "year": "2019",
       "release_date": "2019-07-26",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c4/9f/44/c49f446b-fb7e-84f9-b9df-a195eb6a0f07/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Close Your Eyes",
+      "year": "2025",
+      "release_date": "2025-07-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/99/11/a6991139-ef7a-f524-ae84-b93b217184a5/196873300542.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "We Were Young (feat. JP Cooper) [DROELOE Remix]",
-          "duration": "3:04"
+          "name": "Close Your Eyes",
+          "duration": "2:36"
+        }
+      ]
+    },
+    {
+      "name": "Drivin Thru the Night  (Jerro Remix)",
+      "year": "2020",
+      "release_date": "2020-12-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c3/e8/f6/c3e8f6e6-0f3e-3d22-bbb9-21b295a38e3c/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Drivin Thru the Night (Jerro Remix)",
+          "duration": "4:01"
+        }
+      ]
+    },
+    {
+      "name": "I Leave Again  (Japanese Wallpaper Remix)",
+      "year": "2020",
+      "release_date": "2020-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/25/b8/7a/25b87a1f-ce65-112a-10c6-eb9e61fe26c8/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Leave Again (Japanese Wallpaper Remix)",
+          "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Without You",
+      "year": "2024",
+      "release_date": "2024-12-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/3f/ca/0a3fcaa1-7966-25e3-3c70-db93e723ab14/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Without You",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Parachute (Big Gigantic Remix)",
+      "year": "2021",
+      "release_date": "2021-02-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cd/cf/6c/cdcf6c13-d68b-246d-b3f0-319cd1c9bd81/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Parachute (Big Gigantic Remix)",
+          "duration": "3:02"
         }
       ]
     },
@@ -820,45 +853,6 @@
           "number": 1,
           "name": "Sunset Lover (Orchestral Version)",
           "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "Drivin Thru the Night  (Jerro Remix)",
-      "year": "2020",
-      "release_date": "2020-12-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c3/e8/f6/c3e8f6e6-0f3e-3d22-bbb9-21b295a38e3c/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Drivin Thru the Night (Jerro Remix)",
-          "duration": "4:01"
-        }
-      ]
-    },
-    {
-      "name": "I Leave Again  (Japanese Wallpaper Remix)",
-      "year": "2020",
-      "release_date": "2020-07-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/25/b8/7a/25b87a1f-ce65-112a-10c6-eb9e61fe26c8/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Leave Again (Japanese Wallpaper Remix)",
-          "duration": "3:27"
-        }
-      ]
-    },
-    {
-      "name": "Parachute (Big Gigantic Remix)",
-      "year": "2021",
-      "release_date": "2021-02-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cd/cf/6c/cdcf6c13-d68b-246d-b3f0-319cd1c9bd81/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Parachute (Big Gigantic Remix)",
-          "duration": "3:02"
         }
       ]
     },
@@ -963,18 +957,7 @@
       "year": "2024",
       "release_date": "2024-04-26",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/8d/a1/f78da1a0-8d27-562b-f8b9-c17ba320495b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Forgot What's Love",
-          "duration": "3:22"
-        },
-        {
-          "number": 2,
-          "name": "I Forgot What's Love (Instrumental)",
-          "duration": "3:22"
-        }
-      ]
+      "tracks": []
     },
     {
       "name": "You Don't Ignore (Trop Tard)",
@@ -1008,7 +991,7 @@
       ]
     },
     {
-      "name": "The Forest (Remixes)",
+      "name": "The Forest Remixes",
       "year": "2024",
       "release_date": "2024-11-14",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/aa/74/01aa7464-8f9d-1a5e-5aba-a8e98746dc28/cover.jpg/600x600bb.jpg",
@@ -1073,18 +1056,7 @@
       "year": "2024",
       "release_date": "2024-02-29",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/0a/06/7e0a06cd-6166-8a7c-8448-195bf2f35346/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bad Episode",
-          "duration": "2:37"
-        },
-        {
-          "number": 2,
-          "name": "Bad Episode (Instrumental)",
-          "duration": "2:35"
-        }
-      ]
+      "tracks": []
     },
     {
       "name": "go!",

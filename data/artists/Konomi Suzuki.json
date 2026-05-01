@@ -540,19 +540,6 @@
       ]
     },
     {
-      "name": "Oneness - 20th Anniversary -",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/c2/46/a8c246d9-74a4-f4e3-99e2-778cf5bb439e/PA00198120_0_226800_jacket.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Oneness - 20th Anniversary -",
-          "duration": "6:22"
-        }
-      ]
-    },
-    {
       "name": "Reweave(English Version)",
       "year": "2024",
       "release_date": "2024-12-02",
@@ -593,6 +580,19 @@
           "number": 2,
           "name": "Kami No Suushiki (TV Size)",
           "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "Oneness - 20th Anniversary -",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/c2/46/a8c246d9-74a4-f4e3-99e2-778cf5bb439e/PA00198120_0_226800_jacket.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Oneness - 20th Anniversary -",
+          "duration": "6:22"
         }
       ]
     },
@@ -809,34 +809,6 @@
   ],
   "eps": [
     {
-      "name": "TVアニメ「蜘蛛ですが、なにか?」後期オープニングテーマ「Bursty Greedy Spider」",
-      "year": "2021",
-      "release_date": "2021-05-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cf/9f/6a/cf9f6a9a-55e3-abe8-bfd1-bfd315090bac/JK_ZMCZ-14787.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bursty Greedy Spider",
-          "duration": "3:40"
-        },
-        {
-          "number": 2,
-          "name": "Crossroads",
-          "duration": "3:50"
-        },
-        {
-          "number": 3,
-          "name": "Bursty Greedy Spider (instrumental)",
-          "duration": "3:40"
-        },
-        {
-          "number": 4,
-          "name": "Crossroads (instrumental)",
-          "duration": "3:51"
-        }
-      ]
-    },
-    {
       "name": "TVアニメ「Re:ゼロから始める異世界生活」2nd seasonオープニングテーマ「Realize」",
       "year": "2020",
       "release_date": "2020-08-26",
@@ -894,6 +866,34 @@
           "number": 5,
           "name": "Delighting (Instrumental)",
           "duration": "4:50"
+        }
+      ]
+    },
+    {
+      "name": "TVアニメ「蜘蛛ですが、なにか?」後期オープニングテーマ「Bursty Greedy Spider」",
+      "year": "2021",
+      "release_date": "2021-05-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cf/9f/6a/cf9f6a9a-55e3-abe8-bfd1-bfd315090bac/JK_ZMCZ-14787.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bursty Greedy Spider",
+          "duration": "3:40"
+        },
+        {
+          "number": 2,
+          "name": "Crossroads",
+          "duration": "3:50"
+        },
+        {
+          "number": 3,
+          "name": "Bursty Greedy Spider (instrumental)",
+          "duration": "3:40"
+        },
+        {
+          "number": 4,
+          "name": "Crossroads (instrumental)",
+          "duration": "3:51"
         }
       ]
     },

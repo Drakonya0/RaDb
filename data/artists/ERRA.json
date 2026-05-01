@@ -3,6 +3,107 @@
   "id": 408917738,
   "albums": [
     {
+      "name": "Impulse",
+      "year": "2011",
+      "release_date": "2011-11-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/76/1b/f7/mzi.wkrfzfab.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "White Noise",
+          "duration": "4:02"
+        },
+        {
+          "number": 2,
+          "name": "Pattern Interrupt",
+          "duration": "3:09"
+        },
+        {
+          "number": 3,
+          "name": "Seven",
+          "duration": "3:17"
+        },
+        {
+          "number": 4,
+          "name": "The Architect",
+          "duration": "3:15"
+        },
+        {
+          "number": 5,
+          "name": "Efflorescent",
+          "duration": "3:58"
+        },
+        {
+          "number": 6,
+          "name": "Vaalbara",
+          "duration": "4:14"
+        },
+        {
+          "number": 7,
+          "name": "Heart",
+          "duration": "3:31"
+        },
+        {
+          "number": 8,
+          "name": "Obscure Words",
+          "duration": "3:04"
+        },
+        {
+          "number": 9,
+          "name": "Invent",
+          "duration": "4:42"
+        },
+        {
+          "number": 10,
+          "name": "Render the Void",
+          "duration": "5:47"
+        }
+      ]
+    },
+    {
+      "name": "Andromeda",
+      "year": "2010",
+      "release_date": "2010-12-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/5e/e2/a8/mzi.igzakzrg.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Omega Children",
+          "duration": "0:42"
+        },
+        {
+          "number": 2,
+          "name": "Machina",
+          "duration": "3:44"
+        },
+        {
+          "number": 3,
+          "name": "Of Rare Reform",
+          "duration": "4:29"
+        },
+        {
+          "number": 4,
+          "name": "Isolation Blue",
+          "duration": "5:42"
+        },
+        {
+          "number": 5,
+          "name": "The Scenic Route",
+          "duration": "3:38"
+        },
+        {
+          "number": 6,
+          "name": "Daughter of Sky",
+          "duration": "0:39"
+        },
+        {
+          "number": 7,
+          "name": "Andromeda",
+          "duration": "6:21"
+        }
+      ]
+    },
+    {
       "name": "Augment",
       "year": "2013",
       "release_date": "2013-10-29",
@@ -72,64 +173,6 @@
           "number": 13,
           "name": "Augment Interview - Teaser",
           "duration": "0:00"
-        }
-      ]
-    },
-    {
-      "name": "Impulse",
-      "year": "2011",
-      "release_date": "2011-11-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/76/1b/f7/mzi.wkrfzfab.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "White Noise",
-          "duration": "4:02"
-        },
-        {
-          "number": 2,
-          "name": "Pattern Interrupt",
-          "duration": "3:09"
-        },
-        {
-          "number": 3,
-          "name": "Seven",
-          "duration": "3:17"
-        },
-        {
-          "number": 4,
-          "name": "The Architect",
-          "duration": "3:15"
-        },
-        {
-          "number": 5,
-          "name": "Efflorescent",
-          "duration": "3:58"
-        },
-        {
-          "number": 6,
-          "name": "Vaalbara",
-          "duration": "4:14"
-        },
-        {
-          "number": 7,
-          "name": "Heart",
-          "duration": "3:31"
-        },
-        {
-          "number": 8,
-          "name": "Obscure Words",
-          "duration": "3:04"
-        },
-        {
-          "number": 9,
-          "name": "Invent",
-          "duration": "4:42"
-        },
-        {
-          "number": 10,
-          "name": "Render the Void",
-          "duration": "5:47"
         }
       ]
     },
@@ -265,49 +308,6 @@
       ]
     },
     {
-      "name": "Andromeda",
-      "year": "2010",
-      "release_date": "2010-12-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/5e/e2/a8/mzi.igzakzrg.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Omega Children",
-          "duration": "0:42"
-        },
-        {
-          "number": 2,
-          "name": "Machina",
-          "duration": "3:44"
-        },
-        {
-          "number": 3,
-          "name": "Of Rare Reform",
-          "duration": "4:29"
-        },
-        {
-          "number": 4,
-          "name": "Isolation Blue",
-          "duration": "5:42"
-        },
-        {
-          "number": 5,
-          "name": "The Scenic Route",
-          "duration": "3:38"
-        },
-        {
-          "number": 6,
-          "name": "Daughter of Sky",
-          "duration": "0:39"
-        },
-        {
-          "number": 7,
-          "name": "Andromeda",
-          "duration": "6:21"
-        }
-      ]
-    },
-    {
       "name": "ERRA",
       "year": "2022",
       "release_date": "2022-03-18",
@@ -411,6 +411,64 @@
       ]
     },
     {
+      "name": "Drift",
+      "year": "2016",
+      "release_date": "2016-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/1a/bc/921abc65-c24a-52dc-c102-fbf7bcd5515e/00817424015721_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Luminesce",
+          "duration": "3:23"
+        },
+        {
+          "number": 2,
+          "name": "Irreversible",
+          "duration": "4:23"
+        },
+        {
+          "number": 3,
+          "name": "Skyline",
+          "duration": "4:43"
+        },
+        {
+          "number": 4,
+          "name": "Hourglass",
+          "duration": "3:54"
+        },
+        {
+          "number": 5,
+          "name": "Orchid",
+          "duration": "4:22"
+        },
+        {
+          "number": 6,
+          "name": "Drift",
+          "duration": "4:33"
+        },
+        {
+          "number": 7,
+          "name": "Sleeper",
+          "duration": "3:18"
+        },
+        {
+          "number": 8,
+          "name": "Continuum",
+          "duration": "4:15"
+        },
+        {
+          "number": 9,
+          "name": "Safehaven",
+          "duration": "6:22"
+        },
+        {
+          "number": 10,
+          "name": "The Hypnotist",
+          "duration": "5:55"
+        }
+      ]
+    },
+    {
       "name": "ERRA",
       "year": "2021",
       "release_date": "2021-03-19",
@@ -475,64 +533,6 @@
           "number": 12,
           "name": "Memory Fiction",
           "duration": "4:07"
-        }
-      ]
-    },
-    {
-      "name": "Drift",
-      "year": "2016",
-      "release_date": "2016-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/1a/bc/921abc65-c24a-52dc-c102-fbf7bcd5515e/00817424015721_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Luminesce",
-          "duration": "3:23"
-        },
-        {
-          "number": 2,
-          "name": "Irreversible",
-          "duration": "4:23"
-        },
-        {
-          "number": 3,
-          "name": "Skyline",
-          "duration": "4:43"
-        },
-        {
-          "number": 4,
-          "name": "Hourglass",
-          "duration": "3:54"
-        },
-        {
-          "number": 5,
-          "name": "Orchid",
-          "duration": "4:22"
-        },
-        {
-          "number": 6,
-          "name": "Drift",
-          "duration": "4:33"
-        },
-        {
-          "number": 7,
-          "name": "Sleeper",
-          "duration": "3:18"
-        },
-        {
-          "number": 8,
-          "name": "Continuum",
-          "duration": "4:15"
-        },
-        {
-          "number": 9,
-          "name": "Safehaven",
-          "duration": "6:22"
-        },
-        {
-          "number": 10,
-          "name": "The Hypnotist",
-          "duration": "5:55"
         }
       ]
     },

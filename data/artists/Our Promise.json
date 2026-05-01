@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "Bitter",
+      "year": "2025",
+      "release_date": "2025-04-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/db/2b/f1db2b80-7c01-5c05-07f1-e63ec8257e7b/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bitter",
+          "duration": "3:11"
+        }
+      ]
+    },
+    {
       "name": "Panic Waves",
       "year": "2023",
       "release_date": "2023-02-17",
@@ -130,19 +143,6 @@
           "number": 1,
           "name": "Static",
           "duration": "3:31"
-        }
-      ]
-    },
-    {
-      "name": "Bitter",
-      "year": "2025",
-      "release_date": "2025-04-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/db/2b/f1db2b80-7c01-5c05-07f1-e63ec8257e7b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bitter",
-          "duration": "3:11"
         }
       ]
     },

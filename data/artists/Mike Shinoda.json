@@ -1252,19 +1252,6 @@
   ],
   "singles": [
     {
-      "name": "In My Head",
-      "year": "2023",
-      "release_date": "2023-03-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/dc/08/e4dc088f-adce-71f3-56a4-5a7a3e986a57/054391532978.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "In My Head",
-          "duration": "2:52"
-        }
-      ]
-    },
-    {
       "name": "Happy Endings (feat. iann dior and UPSAHL)",
       "year": "2021",
       "release_date": "2021-02-19",
@@ -1274,6 +1261,19 @@
           "number": 1,
           "name": "Happy Endings (feat. iann dior and UPSAHL)",
           "duration": "3:32"
+        }
+      ]
+    },
+    {
+      "name": "In My Head",
+      "year": "2023",
+      "release_date": "2023-03-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/dc/08/e4dc088f-adce-71f3-56a4-5a7a3e986a57/054391532978.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In My Head",
+          "duration": "2:52"
         }
       ]
     },
@@ -1407,6 +1407,54 @@
   ],
   "eps": [
     {
+      "name": "THE CRIMSON CHAPTER",
+      "year": "2023",
+      "release_date": "2023-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/47/60/0d476027-d3cf-14b0-245f-1968801b6511/093624847175.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Already Over (Crimson Intro)",
+          "duration": "2:11"
+        },
+        {
+          "number": 2,
+          "name": "Already Over",
+          "duration": "2:40"
+        },
+        {
+          "number": 3,
+          "name": "Already Over (Reorganized Mix)",
+          "duration": "1:52"
+        },
+        {
+          "number": 4,
+          "name": "fine (Finer Mix)",
+          "duration": "3:23"
+        },
+        {
+          "number": 5,
+          "name": "Already Over (Fort Minor Mix) [feat. Dom McLennon]",
+          "duration": "2:43"
+        },
+        {
+          "number": 6,
+          "name": "In My Head",
+          "duration": "2:52"
+        },
+        {
+          "number": 7,
+          "name": "Already Over (Nothing's There Mix)",
+          "duration": "3:07"
+        },
+        {
+          "number": 8,
+          "name": "Already Over (Part 2)",
+          "duration": "2:32"
+        }
+      ]
+    },
+    {
       "name": "Ziggurats",
       "year": "2021",
       "release_date": "2021-12-03",
@@ -1469,54 +1517,6 @@
           "number": 6,
           "name": "In My Head (A Cappella)",
           "duration": "2:52"
-        }
-      ]
-    },
-    {
-      "name": "THE CRIMSON CHAPTER",
-      "year": "2023",
-      "release_date": "2023-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/47/60/0d476027-d3cf-14b0-245f-1968801b6511/093624847175.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Already Over (Crimson Intro)",
-          "duration": "2:11"
-        },
-        {
-          "number": 2,
-          "name": "Already Over",
-          "duration": "2:40"
-        },
-        {
-          "number": 3,
-          "name": "Already Over (Reorganized Mix)",
-          "duration": "1:52"
-        },
-        {
-          "number": 4,
-          "name": "fine (Finer Mix)",
-          "duration": "3:23"
-        },
-        {
-          "number": 5,
-          "name": "Already Over (Fort Minor Mix) [feat. Dom McLennon]",
-          "duration": "2:43"
-        },
-        {
-          "number": 6,
-          "name": "In My Head",
-          "duration": "2:52"
-        },
-        {
-          "number": 7,
-          "name": "Already Over (Nothing's There Mix)",
-          "duration": "3:07"
-        },
-        {
-          "number": 8,
-          "name": "Already Over (Part 2)",
-          "duration": "2:32"
         }
       ]
     },

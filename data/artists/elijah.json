@@ -96,19 +96,6 @@
       ]
     },
     {
-      "name": "guilty",
-      "year": "2024",
-      "release_date": "2024-10-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/82/65/d5826524-d678-ba7b-92e7-3da3b1469be7/10144.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "guilty",
-          "duration": "3:22"
-        }
-      ]
-    },
-    {
       "name": "HUMAN (feat. Matty Mullins)",
       "year": "2023",
       "release_date": "2023-09-14",
@@ -128,6 +115,19 @@
           "number": 3,
           "name": "Easy To Drown",
           "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "guilty",
+      "year": "2024",
+      "release_date": "2024-10-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/82/65/d5826524-d678-ba7b-92e7-3da3b1469be7/10144.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "guilty",
+          "duration": "3:22"
         }
       ]
     },
@@ -159,6 +159,19 @@
           "number": 1,
           "name": "Enemies",
           "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "Make Me Feel",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/d6/46/21d6467b-fe6b-1c67-c996-8d6c57dcfe9e/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Make Me Feel",
+          "duration": "2:44"
         }
       ]
     },
@@ -272,45 +285,9 @@
           "duration": "3:08"
         }
       ]
-    },
-    {
-      "name": "Make Me Feel",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/d6/46/21d6467b-fe6b-1c67-c996-8d6c57dcfe9e/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Make Me Feel",
-          "duration": "2:44"
-        }
-      ]
     }
   ],
   "eps": [
-    {
-      "name": "Famous",
-      "year": "2022",
-      "release_date": "2022-11-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/5e/70/1a5e7024-c9d2-854e-9862-570c420d27de/197077672596_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Famous",
-          "duration": "3:39"
-        },
-        {
-          "number": 2,
-          "name": "Mayday",
-          "duration": "3:09"
-        },
-        {
-          "number": 3,
-          "name": "Stitches",
-          "duration": "3:08"
-        }
-      ]
-    },
     {
       "name": "Virus",
       "year": "2023",
@@ -369,6 +346,29 @@
           "number": 5,
           "name": "Break Me",
           "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "Famous",
+      "year": "2022",
+      "release_date": "2022-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1a/5e/70/1a5e7024-c9d2-854e-9862-570c420d27de/197077672596_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Famous",
+          "duration": "3:39"
+        },
+        {
+          "number": 2,
+          "name": "Mayday",
+          "duration": "3:09"
+        },
+        {
+          "number": 3,
+          "name": "Stitches",
+          "duration": "3:08"
         }
       ]
     }

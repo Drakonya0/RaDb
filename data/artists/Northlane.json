@@ -468,6 +468,64 @@
       ]
     },
     {
+      "name": "Singularity",
+      "year": "2013",
+      "release_date": "2013-03-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/25/1f/34251f33-b799-221e-5d3d-6f8c1cf9aef7/192562281222.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Genesis",
+          "duration": "1:35"
+        },
+        {
+          "number": 2,
+          "name": "Scarab",
+          "duration": "3:06"
+        },
+        {
+          "number": 3,
+          "name": "Windbreaker",
+          "duration": "3:43"
+        },
+        {
+          "number": 4,
+          "name": "Worldeater",
+          "duration": "3:49"
+        },
+        {
+          "number": 5,
+          "name": "Quantum Flux",
+          "duration": "4:03"
+        },
+        {
+          "number": 6,
+          "name": "Dream Awake",
+          "duration": "4:17"
+        },
+        {
+          "number": 7,
+          "name": "The Calling",
+          "duration": "3:12"
+        },
+        {
+          "number": 8,
+          "name": "Masquerade",
+          "duration": "3:32"
+        },
+        {
+          "number": 9,
+          "name": "Singularity",
+          "duration": "3:46"
+        },
+        {
+          "number": 10,
+          "name": "Aspire",
+          "duration": "3:38"
+        }
+      ]
+    },
+    {
       "name": "Mesmer",
       "year": "2017",
       "release_date": "2017-03-24",
@@ -634,64 +692,6 @@
         {
           "number": 20,
           "name": "Aspire (Instrumental)",
-          "duration": "3:38"
-        }
-      ]
-    },
-    {
-      "name": "Singularity",
-      "year": "2013",
-      "release_date": "2013-03-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/25/1f/34251f33-b799-221e-5d3d-6f8c1cf9aef7/192562281222.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Genesis",
-          "duration": "1:35"
-        },
-        {
-          "number": 2,
-          "name": "Scarab",
-          "duration": "3:06"
-        },
-        {
-          "number": 3,
-          "name": "Windbreaker",
-          "duration": "3:43"
-        },
-        {
-          "number": 4,
-          "name": "Worldeater",
-          "duration": "3:49"
-        },
-        {
-          "number": 5,
-          "name": "Quantum Flux",
-          "duration": "4:03"
-        },
-        {
-          "number": 6,
-          "name": "Dream Awake",
-          "duration": "4:17"
-        },
-        {
-          "number": 7,
-          "name": "The Calling",
-          "duration": "3:12"
-        },
-        {
-          "number": 8,
-          "name": "Masquerade",
-          "duration": "3:32"
-        },
-        {
-          "number": 9,
-          "name": "Singularity",
-          "duration": "3:46"
-        },
-        {
-          "number": 10,
-          "name": "Aspire",
           "duration": "3:38"
         }
       ]
@@ -1279,6 +1279,19 @@
     }
   ],
   "singles": [
+    {
+      "name": "Evian",
+      "year": "2026",
+      "release_date": "2026-04-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/d4/37/c9d437ea-5f18-ee2a-cb12-9f064158600c/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Evian",
+          "duration": "5:02"
+        }
+      ]
+    },
     {
       "name": "Clockwork",
       "year": "2021",

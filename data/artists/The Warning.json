@@ -149,79 +149,6 @@
       ]
     },
     {
-      "name": "XXI Century Blood",
-      "year": "2017",
-      "release_date": "2017-04-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/ce/0a/0cce0a0c-eab7-2d15-8e8c-d7b128e19271/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "XXI Century Blood",
-          "duration": "3:57"
-        },
-        {
-          "number": 2,
-          "name": "Shattered Heart",
-          "duration": "4:09"
-        },
-        {
-          "number": 3,
-          "name": "Survive",
-          "duration": "5:08"
-        },
-        {
-          "number": 4,
-          "name": "Wildfire",
-          "duration": "3:32"
-        },
-        {
-          "number": 5,
-          "name": "Black Holes (Don't Hold On)",
-          "duration": "5:01"
-        },
-        {
-          "number": 6,
-          "name": "Our Mistakes",
-          "duration": "4:14"
-        },
-        {
-          "number": 7,
-          "name": "When I'm Alone",
-          "duration": "3:29"
-        },
-        {
-          "number": 8,
-          "name": "Runaway",
-          "duration": "3:58"
-        },
-        {
-          "number": 9,
-          "name": "Unmendable",
-          "duration": "3:35"
-        },
-        {
-          "number": 10,
-          "name": "Copper Bullets",
-          "duration": "3:41"
-        },
-        {
-          "number": 11,
-          "name": "Show Me the Light",
-          "duration": "4:28"
-        },
-        {
-          "number": 12,
-          "name": "Exterminated (Live Session)",
-          "duration": "3:24"
-        },
-        {
-          "number": 13,
-          "name": "River's Soul (Live Session)",
-          "duration": "4:14"
-        }
-      ]
-    },
-    {
       "name": "Queen of the Murder Scene",
       "year": "2018",
       "release_date": "2018-11-25",
@@ -291,6 +218,79 @@
           "number": 13,
           "name": "The End (Stars Always Seem to Fade)",
           "duration": "3:53"
+        }
+      ]
+    },
+    {
+      "name": "XXI Century Blood",
+      "year": "2017",
+      "release_date": "2017-04-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/ce/0a/0cce0a0c-eab7-2d15-8e8c-d7b128e19271/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "XXI Century Blood",
+          "duration": "3:57"
+        },
+        {
+          "number": 2,
+          "name": "Shattered Heart",
+          "duration": "4:09"
+        },
+        {
+          "number": 3,
+          "name": "Survive",
+          "duration": "5:08"
+        },
+        {
+          "number": 4,
+          "name": "Wildfire",
+          "duration": "3:32"
+        },
+        {
+          "number": 5,
+          "name": "Black Holes (Don't Hold On)",
+          "duration": "5:01"
+        },
+        {
+          "number": 6,
+          "name": "Our Mistakes",
+          "duration": "4:14"
+        },
+        {
+          "number": 7,
+          "name": "When I'm Alone",
+          "duration": "3:29"
+        },
+        {
+          "number": 8,
+          "name": "Runaway",
+          "duration": "3:58"
+        },
+        {
+          "number": 9,
+          "name": "Unmendable",
+          "duration": "3:35"
+        },
+        {
+          "number": 10,
+          "name": "Copper Bullets",
+          "duration": "3:41"
+        },
+        {
+          "number": 11,
+          "name": "Show Me the Light",
+          "duration": "4:28"
+        },
+        {
+          "number": 12,
+          "name": "Exterminated (Live Session)",
+          "duration": "3:24"
+        },
+        {
+          "number": 13,
+          "name": "River's Soul (Live Session)",
+          "duration": "4:14"
         }
       ]
     },
@@ -498,6 +498,19 @@
   ],
   "singles": [
     {
+      "name": "Narcisista",
+      "year": "2019",
+      "release_date": "2019-06-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/a4/35/b1a43502-0578-cdef-27de-606361709a2d/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Narcisista",
+          "duration": "4:11"
+        }
+      ]
+    },
+    {
       "name": "Kerosene",
       "year": "2026",
       "release_date": "2026-03-06",
@@ -524,19 +537,6 @@
       ]
     },
     {
-      "name": "HURT (feat. The Warning)",
-      "year": "2024",
-      "release_date": "2024-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/c5/06/a2c506b5-2567-b256-2781-f61e192e76a4/5401148007954_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HURT (feat. The Warning)",
-          "duration": "3:33"
-        }
-      ]
-    },
-    {
       "name": "Love To Be Loved",
       "year": "2026",
       "release_date": "2026-02-06",
@@ -550,15 +550,28 @@
       ]
     },
     {
-      "name": "Narcisista",
-      "year": "2019",
-      "release_date": "2019-06-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/a4/35/b1a43502-0578-cdef-27de-606361709a2d/artwork.jpg/600x600bb.jpg",
+      "name": "SHOW THEM",
+      "year": "2024",
+      "release_date": "2024-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/c0/2c/dac02c03-8347-fe88-4219-c044c7c64ff9/PCSP_05957_A.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Narcisista",
-          "duration": "4:11"
+          "name": "Show Them",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "HURT (feat. The Warning)",
+      "year": "2024",
+      "release_date": "2024-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/c5/06/a2c506b5-2567-b256-2781-f61e192e76a4/5401148007954_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HURT (feat. The Warning)",
+          "duration": "3:33"
         }
       ]
     },
@@ -572,19 +585,6 @@
           "number": 1,
           "name": "MORE",
           "duration": "3:07"
-        }
-      ]
-    },
-    {
-      "name": "CHOKE",
-      "year": "2022",
-      "release_date": "2022-08-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/83/fc/57/83fc5792-0d04-0e6a-4fe9-d7a651a47146/22UMGIM89409.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CHOKE",
-          "duration": "2:40"
         }
       ]
     },
@@ -615,19 +615,6 @@
       ]
     },
     {
-      "name": "SHOW THEM",
-      "year": "2024",
-      "release_date": "2024-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/c0/2c/dac02c03-8347-fe88-4219-c044c7c64ff9/PCSP_05957_A.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Show Them",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "S!CK",
       "year": "2024",
       "release_date": "2024-02-02",
@@ -641,19 +628,6 @@
       ]
     },
     {
-      "name": "Tu Corazón (Your Heart) [feat. The Warning]",
-      "year": "2026",
-      "release_date": "2026-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/de/7e/28de7e92-6329-999c-f40d-05f611e5ba6b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tu Corazón (Your Heart) [feat. The Warning]",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
       "name": "EVOLVE",
       "year": "2021",
       "release_date": "2021-07-23",
@@ -663,6 +637,32 @@
           "number": 1,
           "name": "EVOLVE",
           "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "CHOKE",
+      "year": "2022",
+      "release_date": "2022-08-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/83/fc/57/83fc5792-0d04-0e6a-4fe9-d7a651a47146/22UMGIM89409.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CHOKE",
+          "duration": "2:40"
+        }
+      ]
+    },
+    {
+      "name": "Tu Corazón (Your Heart) [feat. The Warning]",
+      "year": "2026",
+      "release_date": "2026-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/de/7e/28de7e92-6329-999c-f40d-05f611e5ba6b/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tu Corazón (Your Heart) [feat. The Warning]",
+          "duration": "3:00"
         }
       ]
     },

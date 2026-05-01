@@ -553,6 +553,62 @@
   ],
   "eps": [
     {
+      "name": "MONTAGEM TOMADA",
+      "year": "2025",
+      "release_date": "2025-03-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/d8/5b/c2d85ba5-a611-c70c-34e0-fc323d949d52/15356.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM TOMADA",
+          "duration": "1:11"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM TOMADA (Slowed)",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM TOMADA (Super Slowed)",
+          "duration": "1:35"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM TOMADA (Ultra Slowed)",
+          "duration": "1:46"
+        }
+      ]
+    },
+    {
+      "name": "Montagem Xonada",
+      "year": "2025",
+      "release_date": "2025-07-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/a4/8a/39a48ae5-d88f-4320-674d-c807dbcde98c/682106112247.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem Xonada",
+          "duration": "1:15"
+        },
+        {
+          "number": 2,
+          "name": "Montagem Xonada (Slowed)",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "Montagem Xonada (Sped Up)",
+          "duration": "1:07"
+        },
+        {
+          "number": 4,
+          "name": "Montagem Xonada (Super Slowed)",
+          "duration": "1:34"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM LADRÃO",
       "year": "2025",
       "release_date": "2025-02-05",
@@ -581,34 +637,6 @@
         {
           "number": 5,
           "name": "MONTAGEM LADRÃO (Ultra Slowed)",
-          "duration": "1:34"
-        }
-      ]
-    },
-    {
-      "name": "Montagem Xonada",
-      "year": "2025",
-      "release_date": "2025-07-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/a4/8a/39a48ae5-d88f-4320-674d-c807dbcde98c/682106112247.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Xonada",
-          "duration": "1:15"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Xonada (Slowed)",
-          "duration": "1:24"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Xonada (Sped Up)",
-          "duration": "1:07"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Xonada (Super Slowed)",
           "duration": "1:34"
         }
       ]
@@ -671,34 +699,6 @@
           "number": 5,
           "name": "MONTAGEM BAILÃO (feat. Mc Jhey) [Ultra Slowed]",
           "duration": "2:26"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM TOMADA",
-      "year": "2025",
-      "release_date": "2025-03-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/d8/5b/c2d85ba5-a611-c70c-34e0-fc323d949d52/15356.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM TOMADA",
-          "duration": "1:11"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM TOMADA (Slowed)",
-          "duration": "1:24"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM TOMADA (Super Slowed)",
-          "duration": "1:35"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM TOMADA (Ultra Slowed)",
-          "duration": "1:46"
         }
       ]
     },
@@ -2081,6 +2081,39 @@
           "number": 5,
           "name": "Montagem Gorilla (Ultra Slowed)",
           "duration": "1:44"
+        }
+      ]
+    },
+    {
+      "name": "KATO",
+      "year": "2025",
+      "release_date": "2025-01-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/a0/ab/57a0abeb-b613-1888-f592-a05a8321cd3f/0197342926348.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "KATO",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "KATO (Sped Up)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "KATO (Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 4,
+          "name": "KATO (Super Slowed)",
+          "duration": "2:14"
+        },
+        {
+          "number": 5,
+          "name": "KATO (Ultra Slowed)",
+          "duration": "2:31"
         }
       ]
     },

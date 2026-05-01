@@ -182,64 +182,6 @@
       ]
     },
     {
-      "name": "Broken",
-      "year": "2018",
-      "release_date": "2018-11-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/42/c0/bb/42c0bb59-d49d-ca53-5192-457ea8289a2d/4050538439489.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Old Me",
-          "duration": "3:09"
-        },
-        {
-          "number": 2,
-          "name": "Watch Out",
-          "duration": "2:43"
-        },
-        {
-          "number": 3,
-          "name": "Sell My Soul",
-          "duration": "3:24"
-        },
-        {
-          "number": 4,
-          "name": "Who I Am",
-          "duration": "2:57"
-        },
-        {
-          "number": 5,
-          "name": "Heavy Is the Weight (feat. Andy Mineo)",
-          "duration": "3:28"
-        },
-        {
-          "number": 6,
-          "name": "Over It",
-          "duration": "2:36"
-        },
-        {
-          "number": 7,
-          "name": "Fool",
-          "duration": "3:11"
-        },
-        {
-          "number": 8,
-          "name": "Mark My Words",
-          "duration": "2:40"
-        },
-        {
-          "number": 9,
-          "name": "You & Me",
-          "duration": "4:14"
-        },
-        {
-          "number": 10,
-          "name": "Live Another Day",
-          "duration": "3:10"
-        }
-      ]
-    },
-    {
       "name": "Challenger",
       "year": "2012",
       "release_date": "2012-06-25",
@@ -299,6 +241,64 @@
           "number": 11,
           "name": "Vessels",
           "duration": "2:46"
+        }
+      ]
+    },
+    {
+      "name": "Broken",
+      "year": "2018",
+      "release_date": "2018-11-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/42/c0/bb/42c0bb59-d49d-ca53-5192-457ea8289a2d/4050538439489.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Old Me",
+          "duration": "3:09"
+        },
+        {
+          "number": 2,
+          "name": "Watch Out",
+          "duration": "2:43"
+        },
+        {
+          "number": 3,
+          "name": "Sell My Soul",
+          "duration": "3:24"
+        },
+        {
+          "number": 4,
+          "name": "Who I Am",
+          "duration": "2:57"
+        },
+        {
+          "number": 5,
+          "name": "Heavy Is the Weight (feat. Andy Mineo)",
+          "duration": "3:28"
+        },
+        {
+          "number": 6,
+          "name": "Over It",
+          "duration": "2:36"
+        },
+        {
+          "number": 7,
+          "name": "Fool",
+          "duration": "3:11"
+        },
+        {
+          "number": 8,
+          "name": "Mark My Words",
+          "duration": "2:40"
+        },
+        {
+          "number": 9,
+          "name": "You & Me",
+          "duration": "4:14"
+        },
+        {
+          "number": 10,
+          "name": "Live Another Day",
+          "duration": "3:10"
         }
       ]
     },
@@ -668,29 +668,6 @@
       ]
     },
     {
-      "name": "Shapeshifter",
-      "year": "2024",
-      "release_date": "2024-11-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/4a/71/964a7180-b86e-a456-57dd-b27b749765bb/4099964137989.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shapeshifter",
-          "duration": "3:05"
-        },
-        {
-          "number": 2,
-          "name": "Shapeshifter (Instrumental)",
-          "duration": "3:05"
-        },
-        {
-          "number": 3,
-          "name": "Shapeshifter (Acappella)",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "Hell Is Empty",
       "year": "2024",
       "release_date": "2024-10-09",
@@ -792,6 +769,29 @@
           "number": 3,
           "name": "Overdose (feat. Blindside) [Acappella]",
           "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "Shapeshifter",
+      "year": "2024",
+      "release_date": "2024-11-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/4a/71/964a7180-b86e-a456-57dd-b27b749765bb/4099964137989.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shapeshifter",
+          "duration": "3:05"
+        },
+        {
+          "number": 2,
+          "name": "Shapeshifter (Instrumental)",
+          "duration": "3:05"
+        },
+        {
+          "number": 3,
+          "name": "Shapeshifter (Acappella)",
+          "duration": "3:05"
         }
       ]
     },

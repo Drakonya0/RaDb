@@ -1,1092 +1,152 @@
 {
-  "name": "Orion",
-  "id": 28445995,
-  "albums": [
-    {
-      "name": "Le Survivant",
-      "year": "2017",
-      "release_date": "2017-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ed/bc/9b/edbc9bb4-3eee-60c7-9a08-9beda44f642f/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Big bang",
-          "duration": "8:38"
-        },
-        {
-          "number": 2,
-          "name": "Cumulostratus",
-          "duration": "4:17"
-        },
-        {
-          "number": 3,
-          "name": "Peur du vide",
-          "duration": "6:32"
-        },
-        {
-          "number": 4,
-          "name": "Les Ravageurs",
-          "duration": "3:38"
-        },
-        {
-          "number": 5,
-          "name": "mère nature",
-          "duration": "3:47"
-        },
-        {
-          "number": 6,
-          "name": "La Planète des fous",
-          "duration": "4:28"
-        },
-        {
-          "number": 7,
-          "name": "Le dernier arbre",
-          "duration": "6:30"
-        },
-        {
-          "number": 8,
-          "name": "Le Survivant",
-          "duration": "7:35"
-        }
-      ]
-    },
-    {
-      "name": "La Face Visible",
-      "year": "2015",
-      "release_date": "2015-10-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c2/7c/e5/c27ce5d6-066e-ae7c-2524-29b8e31ed861/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La face visible",
-          "duration": "9:34"
-        },
-        {
-          "number": 2,
-          "name": "Quelque part en 1989",
-          "duration": "6:39"
-        },
-        {
-          "number": 3,
-          "name": "La dernière danse in Berlin",
-          "duration": "3:37"
-        },
-        {
-          "number": 4,
-          "name": "De l'autre côté du rideau de fer",
-          "duration": "5:15"
-        },
-        {
-          "number": 5,
-          "name": "Puis un jour on m'a dit",
-          "duration": "6:57"
-        },
-        {
-          "number": 6,
-          "name": "Résistance...",
-          "duration": "3:57"
-        },
-        {
-          "number": 7,
-          "name": "Stèle blanche",
-          "duration": "3:28"
-        },
-        {
-          "number": 8,
-          "name": "Le singe de la vie",
-          "duration": "5:12"
-        }
-      ]
-    },
-    {
-      "name": "Best Of (1975-2020)",
-      "year": "2020",
-      "release_date": "2020-09-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5e/e8/49/5ee84921-521c-3c1c-57a8-5fded13bacc7/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Virtual Human",
-          "duration": "5:24"
-        },
-        {
-          "number": 2,
-          "name": "Big Bang",
-          "duration": "8:38"
-        },
-        {
-          "number": 3,
-          "name": "Cumulostratus",
-          "duration": "4:17"
-        },
-        {
-          "number": 4,
-          "name": "T.O.W.U.",
-          "duration": "3:48"
-        },
-        {
-          "number": 5,
-          "name": "Quelque Part En 1989",
-          "duration": "6:39"
-        },
-        {
-          "number": 6,
-          "name": "La Face Visible",
-          "duration": "9:34"
-        },
-        {
-          "number": 7,
-          "name": "Run for Life",
-          "duration": "5:54"
-        },
-        {
-          "number": 8,
-          "name": "La Nature vit",
-          "duration": "7:14"
-        },
-        {
-          "number": 9,
-          "name": "Obscurité sans Rose",
-          "duration": "5:54"
-        },
-        {
-          "number": 10,
-          "name": "Noiro Evil",
-          "duration": "2:41"
-        },
-        {
-          "number": 11,
-          "name": "Attila",
-          "duration": "3:05"
-        },
-        {
-          "number": 12,
-          "name": "Shagreen",
-          "duration": "7:01"
-        }
-      ]
-    },
-    {
-      "name": "2.0 Virtual Human",
-      "year": "2019",
-      "release_date": "2019-09-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cc/cb/85/cccb8551-684d-43e2-f3d6-116bec4d182c/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Virtual Human",
-          "duration": "5:24"
-        },
-        {
-          "number": 2,
-          "name": "T.O.W.U.",
-          "duration": "3:48"
-        },
-        {
-          "number": 3,
-          "name": "Run for Life",
-          "duration": "5:54"
-        },
-        {
-          "number": 4,
-          "name": "Le Nuage",
-          "duration": "4:31"
-        },
-        {
-          "number": 5,
-          "name": "Silicon Cirkus",
-          "duration": "6:00"
-        },
-        {
-          "number": 6,
-          "name": "Silicium",
-          "duration": "7:44"
-        },
-        {
-          "number": 7,
-          "name": "Shagreen",
-          "duration": "7:01"
-        }
-      ]
-    },
-    {
-      "name": "La Nature Vit, L'homme Lui Critique...",
-      "year": "1979",
-      "release_date": "1979-01-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/95/47/58/9547585a-6736-b8e1-e00b-ad4ca66cd7a6/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Le Monde Invivable",
-          "duration": "7:07"
-        },
-        {
-          "number": 2,
-          "name": "Le Singe De La Vie",
-          "duration": "3:40"
-        },
-        {
-          "number": 3,
-          "name": "La Nature Vit",
-          "duration": "7:14"
-        },
-        {
-          "number": 4,
-          "name": "Le Rapace",
-          "duration": "6:15"
-        },
-        {
-          "number": 5,
-          "name": "Obscurite Sans Rose",
-          "duration": "5:54"
-        },
-        {
-          "number": 6,
-          "name": "Pi (3-14)",
-          "duration": "3:03"
-        },
-        {
-          "number": 7,
-          "name": "Le Chevalier",
-          "duration": "5:19"
-        },
-        {
-          "number": 8,
-          "name": "Folie",
-          "duration": "3:22"
-        },
-        {
-          "number": 9,
-          "name": "Il Faut Aimer Ou Mourir",
-          "duration": "3:16"
-        }
-      ]
-    },
-    {
-      "name": "Nuestra Guerra",
-      "year": "2017",
-      "release_date": "2017-03-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/45/57/534557ad-1c8d-0aad-e2d1-9731a1abfde9/8447352891832.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro",
-          "duration": "0:38"
-        },
-        {
-          "number": 2,
-          "name": "Nuestra guerra",
-          "duration": "5:02"
-        },
-        {
-          "number": 3,
-          "name": "Igual a todo",
-          "duration": "7:06"
-        },
-        {
-          "number": 4,
-          "name": "Instinto animal",
-          "duration": "6:55"
-        },
-        {
-          "number": 5,
-          "name": "Esquizofrenia",
-          "duration": "2:59"
-        },
-        {
-          "number": 6,
-          "name": "De la evolución a la involución",
-          "duration": "7:16"
-        },
-        {
-          "number": 7,
-          "name": "Una vez estuve aquí",
-          "duration": "5:32"
-        },
-        {
-          "number": 8,
-          "name": "Tunnel of shadows",
-          "duration": "10:53"
-        }
-      ]
-    },
-    {
-      "name": "Antes dos 25",
-      "year": "2026",
-      "release_date": "2026-02-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/16/6a/31166ae1-336f-d510-7499-0e2e99a687d6/8447721108585.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Eco no Silêncio”",
-          "duration": "3:53"
-        },
-        {
-          "number": 2,
-          "name": "Cego",
-          "duration": "3:54"
-        },
-        {
-          "number": 3,
-          "name": "Jovem de Mas",
-          "duration": "3:19"
-        },
-        {
-          "number": 4,
-          "name": "Primeiro Amor",
-          "duration": "3:49"
-        },
-        {
-          "number": 5,
-          "name": "Mãe Inês",
-          "duration": "3:37"
-        },
-        {
-          "number": 6,
-          "name": "Bonus Track",
-          "duration": "3:29"
-        },
-        {
-          "number": 7,
-          "name": "Invisível",
-          "duration": "3:51"
-        },
-        {
-          "number": 8,
-          "name": "Escolhida",
-          "duration": "4:08"
-        },
-        {
-          "number": 9,
-          "name": "Cypher",
-          "duration": "2:14"
-        }
-      ]
-    }
-  ],
+  "name": "orion",
+  "id": 1826607992,
+  "albums": [],
   "singles": [
     {
-      "name": "Rêveur",
+      "name": "feel the rhythm",
       "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/ca/44/2fca4497-60f0-435f-688e-97bcda8a99f5/414.jpg/600x600bb.jpg",
+      "release_date": "2026-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/f2/ab/d5f2abf5-63c4-9774-33ff-bb5f47805176/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Rêveur",
-          "duration": "4:06"
+          "name": "feel the rhythm",
+          "duration": "3:28"
         }
       ]
     },
     {
-      "name": "Cambodia",
-      "year": "2024",
-      "release_date": "2024-03-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/ba/e1/73bae125-64c2-c22c-b61e-338b2e2b98c1/325.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cambodia",
-          "duration": "3:41"
-        }
-      ]
-    },
-    {
-      "name": "Миры бесконечности",
-      "year": "2024",
-      "release_date": "2024-08-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/29/3e/67293e4a-3aa7-84ed-5085-69f4a3a21bfc/2_001_O_R_I_O_N-Miry_beskonechnosti.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Миры бесконечности",
-          "duration": "5:43"
-        }
-      ]
-    },
-    {
-      "name": "Сны о тебе",
-      "year": "2025",
-      "release_date": "2025-12-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/f2/7a/77f27a70-98a1-0c18-7ebd-747cccfc79df/2_001_O_R_I_O_N-Sny_o_tebe.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Сны о тебе",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
-      "name": "Я буду ждать тебя всегда",
+      "name": "run to you",
       "year": "2026",
-      "release_date": "2026-01-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/d5/7c/a2d57cd7-b173-e94e-a9f8-fb54f10b485e/2_001_O_R_I_O_N-YA_budu_zhdat_tebya_vsegda.jpg/600x600bb.jpg",
+      "release_date": "2026-02-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/78/b4/7278b4fb-1c9c-4585-2e52-efd28bd341d6/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Я буду ждать тебя всегда",
-          "duration": "3:33"
+          "name": "run to you",
+          "duration": "4:36"
         }
       ]
     },
     {
-      "name": "Afterglow",
-      "year": "2026",
-      "release_date": "2026-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/fd/df/b2fddf1a-8164-3338-1b49-0934dcb6bc6b/2645516.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Afterglow",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
-      "name": "Свет в твоём окне",
+      "name": "kick back",
       "year": "2025",
-      "release_date": "2025-07-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/c2/70/c7c2706f-8123-9758-c53d-b0b418180a62/2_001_O_R_I_O_N-Svet_v_tvoyom_okne.jpg/600x600bb.jpg",
+      "release_date": "2025-11-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/a9/99/afa99920-8816-e89a-76ef-bd356568ab3b/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Свет в твоём окне",
-          "duration": "3:25"
+          "name": "kick back",
+          "duration": "3:23"
         }
       ]
     },
     {
-      "name": "Past Life",
-      "year": "2026",
-      "release_date": "2026-03-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/c7/95/83c7951d-d5a9-ce7e-aea3-91de3f01a52a/1008153.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Past Life",
-          "duration": "3:48"
-        }
-      ]
-    },
-    {
-      "name": "Не мы выбираем путь, а путь выбирает нас",
+      "name": "lose control",
       "year": "2025",
-      "release_date": "2025-01-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/6c/6f/066c6f61-5fdd-423f-204d-bb3122cb799b/2_001_O_R_I_O_N-Ne_my_vybiraem_put_a_put_vybiraet_nas.jpg/600x600bb.jpg",
+      "release_date": "2025-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/0f/ed/ce0fed1c-4719-4d54-fa90-799e4698c032/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Не мы выбираем путь, а путь выбирает нас",
-          "duration": "7:35"
+          "name": "lose control",
+          "duration": "3:01"
         }
       ]
     },
     {
-      "name": "Sacred Frequencies - 1 Hz (Delta)",
-      "year": "2024",
-      "release_date": "2024-06-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/c7/74/76c774ae-53a7-ee84-2e37-81cd05b12341/1801.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sacred Frequencies - 1 Hz (Delta)",
-          "duration": "2:25"
-        }
-      ]
-    },
-    {
-      "name": "Criticam (Remix)",
+      "name": "safe place",
       "year": "2025",
-      "release_date": "2025-06-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/d6/fc/3ad6fc5c-ddc7-b039-27d4-9f9b5b78f742/8447536087938.jpg/600x600bb.jpg",
+      "release_date": "2025-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/b0/e0/b8b0e042-4d8f-a9f5-f716-b6e441175ea9/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Criticam (Remix)",
-          "duration": "2:43"
+          "name": "safe place",
+          "duration": "3:26"
         }
       ]
     },
     {
-      "name": "Всегда с тобой",
+      "name": "what i need",
       "year": "2025",
-      "release_date": "2025-06-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/0f/7a/120f7a8c-83ae-a8be-2cc0-716e9624afc0/2_001_O_R_I_O_N-Vsegda_s_toboy.jpg/600x600bb.jpg",
+      "release_date": "2025-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a3/89/eea389aa-4281-934a-d2e6-33fe10add813/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Всегда с тобой",
-          "duration": "3:38"
+          "name": "what i need",
+          "duration": "3:13"
         }
       ]
     },
     {
-      "name": "Ветер забытых эпох",
-      "year": "2024",
-      "release_date": "2024-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/08/e4/a108e42f-c0c6-8e44-af64-8a888cbe4573/2_001_O_R_I_O_N-Veter_zabytykh_epokh.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ветер забытых эпох",
-          "duration": "4:16"
-        }
-      ]
-    },
-    {
-      "name": "Natural Flow",
-      "year": "2024",
-      "release_date": "2024-06-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/f1/38/f6f13826-c7f4-323e-0e16-c2f917ee5372/1838.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Natural Flow - 3 Hz (Delta)",
-          "duration": "2:25"
-        },
-        {
-          "number": 2,
-          "name": "Silver Skies - 2,5 (Delta)",
-          "duration": "2:30"
-        },
-        {
-          "number": 3,
-          "name": "Violet Waves - 4 Hz (Delta)",
-          "duration": "2:32"
-        }
-      ]
-    },
-    {
-      "name": "Venus & Mars (feat. Orion)",
+      "name": "Balla",
       "year": "2025",
-      "release_date": "2025-10-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/e1/ca/f3e1ca6a-be6b-8055-830c-ed0da9273b62/B723056437.jpg/600x600bb.jpg",
+      "release_date": "2025-08-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/70/37/3070371c-5e67-d4db-36fc-9af844f6bc69/199506539982_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Venus & Mars (feat. Orion)",
-          "duration": "3:31"
+          "name": "Balla",
+          "duration": "2:42"
         }
       ]
     },
     {
-      "name": "I Want You So Bad",
-      "year": "2020",
-      "release_date": "2020-02-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/26/86/9a2686d3-6c68-4d1c-b7f5-72d6673be8e6/99.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Want You So Bad",
-          "duration": "4:08"
-        },
-        {
-          "number": 2,
-          "name": "I Want You So Bad (Extended Club Mix)",
-          "duration": "5:58"
-        },
-        {
-          "number": 3,
-          "name": "I Want You So Bad (Instrumental)",
-          "duration": "4:07"
-        }
-      ]
-    },
-    {
-      "name": "Higher",
-      "year": "2020",
-      "release_date": "2020-10-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/19/a8/bd19a8b7-830b-290b-ae11-2bf036fe85e3/222.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Higher",
-          "duration": "4:03"
-        },
-        {
-          "number": 2,
-          "name": "Higher (Drumapella)",
-          "duration": "3:47"
-        },
-        {
-          "number": 3,
-          "name": "Higher (Instrumental)",
-          "duration": "4:03"
-        }
-      ]
-    },
-    {
-      "name": "Homenagem",
+      "name": "life",
       "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/df/56/dcdf5601-6e68-571c-58e9-31e5350aa783/131493.jpg/600x600bb.jpg",
+      "release_date": "2025-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/e6/40/cae64084-435c-dbc5-9026-e5c491fac3fb/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Homenagem",
-          "duration": "2:34"
+          "name": "life",
+          "duration": "3:52"
         }
       ]
     },
     {
-      "name": "Vrijen met jou (feat. Orion)",
+      "name": "it's some kinda magic",
       "year": "2025",
-      "release_date": "2025-12-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/a1/51/5ea151bb-7db2-e420-d229-c47793f5f1ad/B723060977.jpg/600x600bb.jpg",
+      "release_date": "2025-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/61/ce/fa61ce12-fc98-ce0e-033b-ffcc135a1582/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Vrijen met jou (feat. Orion)",
-          "duration": "3:17"
-        }
-      ]
-    },
-    {
-      "name": "Время стирает грани",
-      "year": "2024",
-      "release_date": "2024-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/0c/9e/1f0c9e82-31e8-c44c-616e-19787c67d396/2_001_O_R_I_O_N-Vremya_stiraet_grani.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Время стирает грани",
-          "duration": "4:20"
-        }
-      ]
-    },
-    {
-      "name": "Estrela (Versão)",
-      "year": "2025",
-      "release_date": "2025-03-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/8f/94/aa8f94e5-4b80-61cc-4f9c-66c8b8ee8a74/8447352708031.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Estrela (Versão)",
-          "duration": "2:48"
-        }
-      ]
-    },
-    {
-      "name": "Hari Raya (feat. Hams Mahadir)",
-      "year": "2025",
-      "release_date": "2025-03-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/97/28/a89728f5-4c43-ec06-4597-5b3559b7bcb4/8447352743902.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hari Raya (feat. Hams Mahadir)",
-          "duration": "3:48"
-        }
-      ]
-    },
-    {
-      "name": "domestic disturbance",
-      "year": "2025",
-      "release_date": "2025-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/29/e9/5c29e9b0-1640-bffe-bc17-83dc63d9a8bf/5063752006442_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "two percent milk",
-          "duration": "2:36"
-        },
-        {
-          "number": 2,
-          "name": "psilocybin",
-          "duration": "2:34"
-        }
-      ]
-    },
-    {
-      "name": "DARK VS ORION (feat. DARK & ORION) [FREESTYLE]",
-      "year": "2023",
-      "release_date": "2023-08-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/8f/70/838f70f6-013c-f70b-3d44-bebed6fdd6e7/8447098216432.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DARK VS ORION (feat. Dark & Orion) [FREESTYLE]",
-          "duration": "3:56"
-        },
-        {
-          "number": 2,
-          "name": "DARK VS ORION II (feat. Dark & Orion)",
-          "duration": "3:46"
-        },
-        {
-          "number": 3,
-          "name": "DARK VS ORION FINAL (feat. Dark & Orion) [FREESTYLE]",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
-      "name": "Falsos (feat. Anderson) [Remix]",
-      "year": "2025",
-      "release_date": "2025-03-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/f4/8d/d8f48d39-2223-1509-bd5a-1d2b24a96724/8447352712694.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Falsos (feat. Anderson) [Remix]",
-          "duration": "2:41"
-        }
-      ]
-    },
-    {
-      "name": "The Clone",
-      "year": "2023",
-      "release_date": "2023-09-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/4f/13/d84f1349-b670-af5a-fe57-2c54884ffb12/309.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Clone",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
-      "name": "Echo der Nacht",
-      "year": "2025",
-      "release_date": "2025-12-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/60/e7/7960e753-eb99-20f8-1ce7-df08411ff87d/7297.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Echo der Nacht",
-          "duration": "2:57"
-        }
-      ]
-    },
-    {
-      "name": "Дым чужих костров",
-      "year": "2025",
-      "release_date": "2025-03-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/d6/c4/f7d6c410-6724-ec09-6960-fc524223bc11/2_001_O_R_I_O_N-Dym_chuzhikh_kostrov.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Дым чужих костров",
-          "duration": "4:43"
-        }
-      ]
-    },
-    {
-      "name": "MOVIMENTO",
-      "year": "2026",
-      "release_date": "2026-03-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/57/3f/5a573f19-c184-9d16-e46f-1b9587611560/26795.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MOVIMENTO",
-          "duration": "1:55"
-        }
-      ]
-    },
-    {
-      "name": "PEDE TAPA",
-      "year": "2025",
-      "release_date": "2025-12-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/8b/ae/938bae00-33ec-bf84-2fa6-85ef64b59a0a/148930.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PEDE TAPA",
-          "duration": "2:12"
-        }
-      ]
-    },
-    {
-      "name": "Pulse Of The Night",
-      "year": "2025",
-      "release_date": "2025-02-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/d2/76/31d276b8-8387-8d34-c0d4-6dba8eeebbff/372.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pulse Of The Night",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
-      "name": "Time For Crime",
-      "year": "2019",
-      "release_date": "2019-05-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/d9/ff/cbd9ff06-3632-b900-f9cc-40daa62abe9a/27.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Time For Crime",
-          "duration": "3:21"
-        },
-        {
-          "number": 2,
-          "name": "Time For Crime (Instrumental)",
-          "duration": "3:21"
+          "name": "it's some kinda magic",
+          "duration": "3:26"
         }
       ]
     }
   ],
   "eps": [
     {
-      "name": "MONTAGEM PIRAMIDE",
+      "name": "karma",
       "year": "2026",
-      "release_date": "2026-03-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/50/4d/54504df7-1b44-9ad0-ab14-e4007060e134/25762.jpg/600x600bb.jpg",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/d1/aa/8ad1aae3-ebcb-eb6b-300a-4fd08dd2989f/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "MONTAGEM PIRAMIDE",
-          "duration": "1:04"
+          "name": "tranquility",
+          "duration": "4:07"
         },
         {
           "number": 2,
-          "name": "MONTAGEM PIRAMIDE (Slowed)",
-          "duration": "1:12"
+          "name": "halcyon",
+          "duration": "4:53"
         },
         {
           "number": 3,
-          "name": "MONTAGEM PIRAMIDE (Ultra Slowed)",
-          "duration": "1:21"
+          "name": "alone",
+          "duration": "4:05"
         },
         {
           "number": 4,
-          "name": "MONTAGEM PIRAMIDE (Sped Up)",
-          "duration": "0:57"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM DEMORAR",
-      "year": "2026",
-      "release_date": "2026-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/37/6b/0a376b88-139f-5f57-f1b6-c14125af6a04/25623.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM DEMORAR",
-          "duration": "1:16"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM DEMORAR (Slowed)",
-          "duration": "1:25"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM DEMORAR (Super Slowed)",
-          "duration": "1:30"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM DEMORAR (Ultra Slowed)",
-          "duration": "1:36"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM DEMORAR (Sped up)",
-          "duration": "1:09"
-        }
-      ]
-    },
-    {
-      "name": "CRAZY FEEL FUNK",
-      "year": "2026",
-      "release_date": "2026-03-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/cd/04/a2cd0432-9d6f-041a-6a8b-070090af4242/26711.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CRAZY FEEL FUNK",
-          "duration": "1:32"
-        },
-        {
-          "number": 2,
-          "name": "CRAZY FEEL FUNK (Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 3,
-          "name": "CRAZY FEEL FUNK (Ultra Slowed)",
-          "duration": "1:56"
-        },
-        {
-          "number": 4,
-          "name": "CRAZY FEEL FUNK (Sped Up)",
-          "duration": "1:22"
-        }
-      ]
-    },
-    {
-      "name": "LUNAR",
-      "year": "2026",
-      "release_date": "2026-03-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/cf/9b/f6cf9b1c-8dd0-e29d-e480-545b353fc92c/25720.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LUNAR",
-          "duration": "1:34"
-        },
-        {
-          "number": 2,
-          "name": "LUNAR (Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 3,
-          "name": "LUNAR (Ultra Slowed)",
-          "duration": "1:58"
-        },
-        {
-          "number": 4,
-          "name": "LUNAR (Sped Up)",
-          "duration": "1:23"
-        }
-      ]
-    },
-    {
-      "name": "VAI SEM FREIO",
-      "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/9a/7c/fd9a7c11-ffc6-368f-c383-bf62ceec8dd6/27942.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "VAI SEM FREIO",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "VAI SEM FREIO (Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 3,
-          "name": "VAI SEM FREIO (Super Slowed)",
-          "duration": "2:00"
-        },
-        {
-          "number": 4,
-          "name": "VAI SEM FREIO (Sped Up)",
-          "duration": "1:31"
-        }
-      ]
-    },
-    {
-      "name": "DANCAR",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/a5/e1/20a5e187-cba2-8435-6896-c812a6c64b81/25033.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DANCAR",
-          "duration": "1:48"
-        },
-        {
-          "number": 2,
-          "name": "DANCAR (Slowed)",
-          "duration": "2:01"
-        },
-        {
-          "number": 3,
-          "name": "DANCAR (Ultra Slowed)",
-          "duration": "2:16"
-        },
-        {
-          "number": 4,
-          "name": "DANCAR (Sped Up)",
-          "duration": "1:36"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM XERECA",
-      "year": "2026",
-      "release_date": "2026-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/bf/7c/cfbf7c8f-2967-b1b1-5faa-17cfa2845c78/25577.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM XERECA",
-          "duration": "1:18"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM XERECA (Slowed)",
-          "duration": "1:28"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM XERECA (Ultra Slowed)",
-          "duration": "1:38"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM XERECA (Sped Up)",
-          "duration": "1:09"
-        }
-      ]
-    },
-    {
-      "name": "CORAZON",
-      "year": "2026",
-      "release_date": "2026-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/18/b6/4b18b66f-a1ff-1b39-8952-38a7445b8d33/26754.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CORAZON",
-          "duration": "1:42"
-        },
-        {
-          "number": 2,
-          "name": "CORAZON (Slowed)",
-          "duration": "1:55"
-        },
-        {
-          "number": 3,
-          "name": "CORAZON (Ultra Slowed)",
-          "duration": "2:09"
-        },
-        {
-          "number": 4,
-          "name": "CORAZON (Sped Up)",
-          "duration": "1:31"
-        }
-      ]
-    },
-    {
-      "name": "untitled (late)",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/b6/27/b8b627ea-c1fc-95e7-c278-555ca25d706f/26081.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "untitled (late)",
-          "duration": "2:25"
-        },
-        {
-          "number": 2,
-          "name": "untitled (late) [Slowed]",
-          "duration": "2:42"
-        },
-        {
-          "number": 3,
-          "name": "untitled (late) [Super Slowed]",
-          "duration": "3:13"
-        },
-        {
-          "number": 4,
-          "name": "untitled (late) [Sped up]",
-          "duration": "2:17"
+          "name": "daydream",
+          "duration": "3:52"
         }
       ]
     }

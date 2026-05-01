@@ -3,109 +3,6 @@
   "id": 1052456,
   "albums": [
     {
-      "name": "Devils Night",
-      "year": "2001",
-      "release_date": "2001-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/7f/88/a77f8841-e047-feaa-b530-fdf6a6bb9408/00606949089726.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Another Public Service Announcement",
-          "duration": "0:48"
-        },
-        {
-          "number": 2,
-          "name": "Shit Can Happen",
-          "duration": "4:51"
-        },
-        {
-          "number": 3,
-          "name": "Pistol Pistol",
-          "duration": "5:22"
-        },
-        {
-          "number": 4,
-          "name": "Bizzare (Skit)",
-          "duration": "1:11"
-        },
-        {
-          "number": 5,
-          "name": "Nasty Mind (feat. Truth Hurts)",
-          "duration": "4:43"
-        },
-        {
-          "number": 6,
-          "name": "It Ain't Nothin' But Music",
-          "duration": "5:11"
-        },
-        {
-          "number": 7,
-          "name": "American Psycho",
-          "duration": "4:36"
-        },
-        {
-          "number": 8,
-          "name": "That's How (Skit)",
-          "duration": "0:37"
-        },
-        {
-          "number": 9,
-          "name": "That's How",
-          "duration": "4:48"
-        },
-        {
-          "number": 10,
-          "name": "Purple Pills",
-          "duration": "5:04"
-        },
-        {
-          "number": 11,
-          "name": "Fight Music",
-          "duration": "4:21"
-        },
-        {
-          "number": 12,
-          "name": "Instigator",
-          "duration": "4:56"
-        },
-        {
-          "number": 13,
-          "name": "Pimp Like Me",
-          "duration": "5:56"
-        },
-        {
-          "number": 14,
-          "name": "Blow My Buzz",
-          "duration": "5:09"
-        },
-        {
-          "number": 15,
-          "name": "Obie Trice (Skit)",
-          "duration": "1:06"
-        },
-        {
-          "number": 16,
-          "name": "Devil's Night",
-          "duration": "4:19"
-        },
-        {
-          "number": 17,
-          "name": "Steve Berman",
-          "duration": "0:49"
-        },
-        {
-          "number": 18,
-          "name": "Revelation",
-          "duration": "5:48"
-        },
-        {
-          "number": 19,
-          "name": "Girls",
-          "duration": "5:34"
-        }
-      ]
-    },
-    {
       "name": "D12 World",
       "year": "2004",
       "release_date": "2004-01-01",
@@ -215,6 +112,109 @@
           "number": 21,
           "name": "Keep Talkin'",
           "duration": "4:28"
+        }
+      ]
+    },
+    {
+      "name": "Devils Night",
+      "year": "2001",
+      "release_date": "2001-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/7f/88/a77f8841-e047-feaa-b530-fdf6a6bb9408/00606949089726.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Another Public Service Announcement",
+          "duration": "0:48"
+        },
+        {
+          "number": 2,
+          "name": "Shit Can Happen",
+          "duration": "4:51"
+        },
+        {
+          "number": 3,
+          "name": "Pistol Pistol",
+          "duration": "5:22"
+        },
+        {
+          "number": 4,
+          "name": "Bizzare (Skit)",
+          "duration": "1:11"
+        },
+        {
+          "number": 5,
+          "name": "Nasty Mind (feat. Truth Hurts)",
+          "duration": "4:43"
+        },
+        {
+          "number": 6,
+          "name": "It Ain't Nothin' But Music",
+          "duration": "5:11"
+        },
+        {
+          "number": 7,
+          "name": "American Psycho",
+          "duration": "4:36"
+        },
+        {
+          "number": 8,
+          "name": "That's How (Skit)",
+          "duration": "0:37"
+        },
+        {
+          "number": 9,
+          "name": "That's How",
+          "duration": "4:48"
+        },
+        {
+          "number": 10,
+          "name": "Purple Pills",
+          "duration": "5:04"
+        },
+        {
+          "number": 11,
+          "name": "Fight Music",
+          "duration": "4:21"
+        },
+        {
+          "number": 12,
+          "name": "Instigator",
+          "duration": "4:56"
+        },
+        {
+          "number": 13,
+          "name": "Pimp Like Me",
+          "duration": "5:56"
+        },
+        {
+          "number": 14,
+          "name": "Blow My Buzz",
+          "duration": "5:09"
+        },
+        {
+          "number": 15,
+          "name": "Obie Trice (Skit)",
+          "duration": "1:06"
+        },
+        {
+          "number": 16,
+          "name": "Devil's Night",
+          "duration": "4:19"
+        },
+        {
+          "number": 17,
+          "name": "Steve Berman",
+          "duration": "0:49"
+        },
+        {
+          "number": 18,
+          "name": "Revelation",
+          "duration": "5:48"
+        },
+        {
+          "number": 19,
+          "name": "Girls",
+          "duration": "5:34"
         }
       ]
     },
@@ -784,108 +784,7 @@
       "year": "2022",
       "release_date": "2022-06-03",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/9b/7a/dc9b7a62-e0ba-def2-bd9e-e35a00940767/657467389584.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Uzi (Intro)",
-          "duration": "2:42"
-        },
-        {
-          "number": 2,
-          "name": "Hecker (feat. Kool Keith)",
-          "duration": "3:22"
-        },
-        {
-          "number": 3,
-          "name": "Gauge",
-          "duration": "3:38"
-        },
-        {
-          "number": 4,
-          "name": "Desert E (feat. Dope Dod)",
-          "duration": "3:03"
-        },
-        {
-          "number": 5,
-          "name": "MG3 (feat. Skyrahand Kain Cole)",
-          "duration": "2:52"
-        },
-        {
-          "number": 6,
-          "name": "XM307 (Night Shift)",
-          "duration": "3:05"
-        },
-        {
-          "number": 7,
-          "name": "FN",
-          "duration": "3:15"
-        },
-        {
-          "number": 8,
-          "name": "Skit",
-          "duration": "0:07"
-        },
-        {
-          "number": 9,
-          "name": "9MM",
-          "duration": "2:39"
-        },
-        {
-          "number": 10,
-          "name": "25 (feat. Nems & Young Zee)",
-          "duration": "2:55"
-        },
-        {
-          "number": 11,
-          "name": "Smith & Wesson (feat. Dango for Laine, Ty Farris & Seven The General)",
-          "duration": "3:53"
-        },
-        {
-          "number": 12,
-          "name": "As50",
-          "duration": "2:48"
-        },
-        {
-          "number": 13,
-          "name": "Dillinger",
-          "duration": "2:24"
-        },
-        {
-          "number": 14,
-          "name": "Saw Off (feat. Guilty Simpson & Mvcknyce)",
-          "duration": "3:47"
-        },
-        {
-          "number": 15,
-          "name": "45",
-          "duration": "3:19"
-        },
-        {
-          "number": 16,
-          "name": "Glock College Bitch",
-          "duration": "3:21"
-        },
-        {
-          "number": 17,
-          "name": "Coney Island (Skit)",
-          "duration": "1:18"
-        },
-        {
-          "number": 18,
-          "name": "Detroit (feat. DJ Lenn Swann)",
-          "duration": "2:14"
-        },
-        {
-          "number": 19,
-          "name": "Rusty 38 (feat. Big T)",
-          "duration": "3:05"
-        },
-        {
-          "number": 20,
-          "name": "Outro",
-          "duration": "1:38"
-        }
-      ]
+      "tracks": []
     }
   ],
   "singles": [
@@ -899,6 +798,32 @@
           "number": 1,
           "name": "I Made It (feat. Trick Trick)",
           "duration": "5:21"
+        }
+      ]
+    },
+    {
+      "name": "Tear It Down (feat. Xzibit & B-Real)",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/61/25/c5612578-3a11-a346-49e9-c98e81988ed3/823375085874_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tear It Down (feat. Xzibit & B-Real)",
+          "duration": "4:35"
+        }
+      ]
+    },
+    {
+      "name": "My Band",
+      "year": "2004",
+      "release_date": "2004-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e5/99/32/e599321f-99dc-034f-bdad-48547e528448/00075021014312.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "My Band",
+          "duration": "4:59"
         }
       ]
     },
@@ -917,32 +842,6 @@
           "number": 2,
           "name": "Purple Pills (Instrumental)",
           "duration": "5:09"
-        }
-      ]
-    },
-    {
-      "name": "My Band",
-      "year": "2004",
-      "release_date": "2004-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e5/99/32/e599321f-99dc-034f-bdad-48547e528448/00075021014312.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "My Band",
-          "duration": "4:59"
-        }
-      ]
-    },
-    {
-      "name": "Tear It Down (feat. Xzibit & B-Real)",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/61/25/c5612578-3a11-a346-49e9-c98e81988ed3/823375085874_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tear It Down (feat. Xzibit & B-Real)",
-          "duration": "4:35"
         }
       ]
     },
@@ -1003,13 +902,7 @@
       "year": "2020",
       "release_date": "2020-01-31",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f7/ba/f6/f7baf612-20ec-03ac-8f66-f1edaedc501d/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dangerous (feat. Bizarre, D12 & Madman1)",
-          "duration": "3:00"
-        }
-      ]
+      "tracks": []
     },
     {
       "name": "Black and White (Remix) [feat. D12]",
@@ -1042,13 +935,7 @@
       "year": "2023",
       "release_date": "2023-08-25",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/12/fc/cb12fc59-b76b-7a6f-fbe9-f71b62b7f09d/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Breathe (feat. D12)",
-          "duration": "3:02"
-        }
-      ]
+      "tracks": []
     },
     {
       "name": "The Message (feat. Yukmouth, D12 & Mrk Sx)",

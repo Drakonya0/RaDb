@@ -71,49 +71,6 @@
       ]
     },
     {
-      "name": "Midnight Journey",
-      "year": "2024",
-      "release_date": "2024-08-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/b2/91/1ab29184-fe03-ea13-2966-66a4615cd371/1963622337796_cover.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Northern Lights",
-          "duration": "2:31"
-        },
-        {
-          "number": 2,
-          "name": "Stardome",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Silence Is Speaking",
-          "duration": "2:31"
-        },
-        {
-          "number": 4,
-          "name": "Night River",
-          "duration": "2:34"
-        },
-        {
-          "number": 5,
-          "name": "Shimmering",
-          "duration": "2:45"
-        },
-        {
-          "number": 6,
-          "name": "Milkyway",
-          "duration": "3:05"
-        },
-        {
-          "number": 7,
-          "name": "Long Way Home",
-          "duration": "2:46"
-        }
-      ]
-    },
-    {
       "name": "Dreamscape",
       "year": "2020",
       "release_date": "2020-12-12",
@@ -168,6 +125,49 @@
           "number": 10,
           "name": "Meet You",
           "duration": "2:30"
+        }
+      ]
+    },
+    {
+      "name": "Midnight Journey",
+      "year": "2024",
+      "release_date": "2024-08-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/b2/91/1ab29184-fe03-ea13-2966-66a4615cd371/1963622337796_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Northern Lights",
+          "duration": "2:31"
+        },
+        {
+          "number": 2,
+          "name": "Stardome",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Silence Is Speaking",
+          "duration": "2:31"
+        },
+        {
+          "number": 4,
+          "name": "Night River",
+          "duration": "2:34"
+        },
+        {
+          "number": 5,
+          "name": "Shimmering",
+          "duration": "2:45"
+        },
+        {
+          "number": 6,
+          "name": "Milkyway",
+          "duration": "3:05"
+        },
+        {
+          "number": 7,
+          "name": "Long Way Home",
+          "duration": "2:46"
         }
       ]
     },
@@ -497,19 +497,6 @@
       ]
     },
     {
-      "name": "Voices",
-      "year": "2023",
-      "release_date": "2023-11-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/9a/b1/399ab170-29e8-23a7-f2ff-ae40da56bc88/1963621607913_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Voices",
-          "duration": "1:46"
-        }
-      ]
-    },
-    {
       "name": "Rain Inside",
       "year": "2022",
       "release_date": "2022-12-02",
@@ -584,34 +571,6 @@
           "number": 1,
           "name": "Wistful",
           "duration": "2:37"
-        }
-      ]
-    },
-    {
-      "name": "wasted",
-      "year": "2025",
-      "release_date": "2025-01-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/1a/4d/061a4d7d-2235-e0f8-43e5-567af995dc13/1963622707018_cover.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "wasted nights",
-          "duration": "1:42"
-        },
-        {
-          "number": 1,
-          "name": "wasted nights (Slowed + Reverb)",
-          "duration": "2:17"
-        },
-        {
-          "number": 2,
-          "name": "wasted time",
-          "duration": "1:56"
-        },
-        {
-          "number": 2,
-          "name": "wasted time (Slowed + Reverb)",
-          "duration": "2:34"
         }
       ]
     },
@@ -744,6 +703,19 @@
           "number": 1,
           "name": "this feeling (Slowed + Reverb)",
           "duration": "1:54"
+        }
+      ]
+    },
+    {
+      "name": "Voices",
+      "year": "2023",
+      "release_date": "2023-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/9a/b1/399ab170-29e8-23a7-f2ff-ae40da56bc88/1963621607913_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Voices",
+          "duration": "1:46"
         }
       ]
     },
@@ -905,6 +877,34 @@
           "number": 1,
           "name": "Anguish",
           "duration": "1:41"
+        }
+      ]
+    },
+    {
+      "name": "wasted",
+      "year": "2025",
+      "release_date": "2025-01-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/1a/4d/061a4d7d-2235-e0f8-43e5-567af995dc13/1963622707018_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "wasted nights",
+          "duration": "1:42"
+        },
+        {
+          "number": 1,
+          "name": "wasted nights (Slowed + Reverb)",
+          "duration": "2:17"
+        },
+        {
+          "number": 2,
+          "name": "wasted time",
+          "duration": "1:56"
+        },
+        {
+          "number": 2,
+          "name": "wasted time (Slowed + Reverb)",
+          "duration": "2:34"
         }
       ]
     },

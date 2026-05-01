@@ -156,29 +156,6 @@
       ]
     },
     {
-      "name": "Viva La Revolution",
-      "year": "1982",
-      "release_date": "1982-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a2/f5/74/a2f57474-0a8b-ae0b-149d-49a0bda412d2/mzi.urljmeme.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Viva La Revolution",
-          "duration": "3:48"
-        },
-        {
-          "number": 2,
-          "name": "Steamroller (My Baby Got Run Over By a)",
-          "duration": "1:54"
-        },
-        {
-          "number": 3,
-          "name": "Numbers",
-          "duration": "2:21"
-        }
-      ]
-    },
-    {
       "name": "Smart Alex",
       "year": "1985",
       "release_date": "1985-01-01",
@@ -283,6 +260,29 @@
           "number": 20,
           "name": "Falling In Love Again",
           "duration": "6:08"
+        }
+      ]
+    },
+    {
+      "name": "Viva La Revolution",
+      "year": "1982",
+      "release_date": "1982-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a2/f5/74/a2f57474-0a8b-ae0b-149d-49a0bda412d2/mzi.urljmeme.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Viva La Revolution",
+          "duration": "3:48"
+        },
+        {
+          "number": 2,
+          "name": "Steamroller (My Baby Got Run Over By a)",
+          "duration": "1:54"
+        },
+        {
+          "number": 3,
+          "name": "Numbers",
+          "duration": "2:21"
         }
       ]
     },
@@ -1189,89 +1189,6 @@
       ]
     },
     {
-      "name": "Total Adicts",
-      "year": "1994",
-      "release_date": "1994-10-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6f/da/04/6fda041b-3344-7ebf-b16d-def3891109eb/5013929080706.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "4 3 2 1",
-          "duration": "2:22"
-        },
-        {
-          "number": 2,
-          "name": "Angel",
-          "duration": "2:57"
-        },
-        {
-          "number": 3,
-          "name": "California",
-          "duration": "3:30"
-        },
-        {
-          "number": 4,
-          "name": "Chinese Takeaway",
-          "duration": "2:44"
-        },
-        {
-          "number": 5,
-          "name": "F**k It Up",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "How Sad",
-          "duration": "2:20"
-        },
-        {
-          "number": 7,
-          "name": "I Wanna Be Sedated",
-          "duration": "3:20"
-        },
-        {
-          "number": 8,
-          "name": "Joker in the Pack",
-          "duration": "3:03"
-        },
-        {
-          "number": 9,
-          "name": "Love Sucks",
-          "duration": "1:35"
-        },
-        {
-          "number": 10,
-          "name": "Ode to Joy",
-          "duration": "1:41"
-        },
-        {
-          "number": 11,
-          "name": "Rossini",
-          "duration": "2:54"
-        },
-        {
-          "number": 12,
-          "name": "Smart Alex",
-          "duration": "2:27"
-        },
-        {
-          "number": 13,
-          "name": "Steamroller (Manhatten Club Version)",
-          "duration": "2:36"
-        },
-        {
-          "number": 14,
-          "name": "Troubadour",
-          "duration": "3:51"
-        },
-        {
-          "number": 15,
-          "name": "Viva La Revolution (Manhatten Club Version)",
-          "duration": "3:14"
-        }
-      ]
-    },
-    {
       "name": "Smart Alex",
       "year": "1985",
       "release_date": "1985-10-01",
@@ -1376,6 +1293,89 @@
           "number": 20,
           "name": "Falling in Love Again (12\" Mix)",
           "duration": "6:07"
+        }
+      ]
+    },
+    {
+      "name": "Total Adicts",
+      "year": "1994",
+      "release_date": "1994-10-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6f/da/04/6fda041b-3344-7ebf-b16d-def3891109eb/5013929080706.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "4 3 2 1",
+          "duration": "2:22"
+        },
+        {
+          "number": 2,
+          "name": "Angel",
+          "duration": "2:57"
+        },
+        {
+          "number": 3,
+          "name": "California",
+          "duration": "3:30"
+        },
+        {
+          "number": 4,
+          "name": "Chinese Takeaway",
+          "duration": "2:44"
+        },
+        {
+          "number": 5,
+          "name": "F**k It Up",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "How Sad",
+          "duration": "2:20"
+        },
+        {
+          "number": 7,
+          "name": "I Wanna Be Sedated",
+          "duration": "3:20"
+        },
+        {
+          "number": 8,
+          "name": "Joker in the Pack",
+          "duration": "3:03"
+        },
+        {
+          "number": 9,
+          "name": "Love Sucks",
+          "duration": "1:35"
+        },
+        {
+          "number": 10,
+          "name": "Ode to Joy",
+          "duration": "1:41"
+        },
+        {
+          "number": 11,
+          "name": "Rossini",
+          "duration": "2:54"
+        },
+        {
+          "number": 12,
+          "name": "Smart Alex",
+          "duration": "2:27"
+        },
+        {
+          "number": 13,
+          "name": "Steamroller (Manhatten Club Version)",
+          "duration": "2:36"
+        },
+        {
+          "number": 14,
+          "name": "Troubadour",
+          "duration": "3:51"
+        },
+        {
+          "number": 15,
+          "name": "Viva La Revolution (Manhatten Club Version)",
+          "duration": "3:14"
         }
       ]
     },

@@ -3,6 +3,59 @@
   "id": 1598304436,
   "albums": [
     {
+      "name": "Legacy",
+      "year": "2023",
+      "release_date": "2023-05-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/87/31/44/87314442-5cca-a3d0-4b17-cc9d77a55031/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hiob",
+          "duration": "5:10"
+        },
+        {
+          "number": 2,
+          "name": "Written on Tombstones",
+          "duration": "4:28"
+        },
+        {
+          "number": 3,
+          "name": "Amos the Prophet",
+          "duration": "4:25"
+        },
+        {
+          "number": 4,
+          "name": "The Canon of Nil",
+          "duration": "5:45"
+        },
+        {
+          "number": 5,
+          "name": "Redemption, Pt. I",
+          "duration": "0:59"
+        },
+        {
+          "number": 6,
+          "name": "Redemption, Pt. II",
+          "duration": "4:01"
+        },
+        {
+          "number": 7,
+          "name": "Thousand Years of Sand",
+          "duration": "4:50"
+        },
+        {
+          "number": 8,
+          "name": "Babylon",
+          "duration": "4:12"
+        },
+        {
+          "number": 9,
+          "name": "The Last Act",
+          "duration": "7:30"
+        }
+      ]
+    },
+    {
       "name": "Impious",
       "year": "2022",
       "release_date": "2022-03-04",
@@ -47,6 +100,44 @@
           "number": 8,
           "name": "The Ascension",
           "duration": "6:12"
+        }
+      ]
+    },
+    {
+      "name": "The Last Supper",
+      "year": "2018",
+      "release_date": "2018-01-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/4a/27/d84a2798-9a37-7adb-ab41-0b50b515eb84/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Serve Me",
+          "duration": "2:06"
+        },
+        {
+          "number": 2,
+          "name": "Preperation",
+          "duration": "8:03"
+        },
+        {
+          "number": 3,
+          "name": "Starter",
+          "duration": "7:55"
+        },
+        {
+          "number": 4,
+          "name": "Main Course",
+          "duration": "7:49"
+        },
+        {
+          "number": 5,
+          "name": "Dessert",
+          "duration": "9:44"
+        },
+        {
+          "number": 6,
+          "name": "Finnished",
+          "duration": "0:12"
         }
       ]
     },
@@ -143,97 +234,6 @@
           "number": 5,
           "name": "Godless",
           "duration": "6:35"
-        }
-      ]
-    },
-    {
-      "name": "Legacy",
-      "year": "2023",
-      "release_date": "2023-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/87/31/44/87314442-5cca-a3d0-4b17-cc9d77a55031/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hiob",
-          "duration": "5:10"
-        },
-        {
-          "number": 2,
-          "name": "Written on Tombstones",
-          "duration": "4:28"
-        },
-        {
-          "number": 3,
-          "name": "Amos the Prophet",
-          "duration": "4:25"
-        },
-        {
-          "number": 4,
-          "name": "The Canon of Nil",
-          "duration": "5:45"
-        },
-        {
-          "number": 5,
-          "name": "Redemption, Pt. I",
-          "duration": "0:59"
-        },
-        {
-          "number": 6,
-          "name": "Redemption, Pt. II",
-          "duration": "4:01"
-        },
-        {
-          "number": 7,
-          "name": "Thousand Years of Sand",
-          "duration": "4:50"
-        },
-        {
-          "number": 8,
-          "name": "Babylon",
-          "duration": "4:12"
-        },
-        {
-          "number": 9,
-          "name": "The Last Act",
-          "duration": "7:30"
-        }
-      ]
-    },
-    {
-      "name": "The Last Supper",
-      "year": "2018",
-      "release_date": "2018-01-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/4a/27/d84a2798-9a37-7adb-ab41-0b50b515eb84/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Serve Me",
-          "duration": "2:06"
-        },
-        {
-          "number": 2,
-          "name": "Preperation",
-          "duration": "8:03"
-        },
-        {
-          "number": 3,
-          "name": "Starter",
-          "duration": "7:55"
-        },
-        {
-          "number": 4,
-          "name": "Main Course",
-          "duration": "7:49"
-        },
-        {
-          "number": 5,
-          "name": "Dessert",
-          "duration": "9:44"
-        },
-        {
-          "number": 6,
-          "name": "Finnished",
-          "duration": "0:12"
         }
       ]
     }

@@ -4,45 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Look At Me Habibi",
-      "year": "2023",
-      "release_date": "2023-01-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/af/b5/ee/afb5ee52-767a-26d7-6af5-f8f98e0e3a90/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Look At Me Habibi",
-          "duration": "1:40"
-        }
-      ]
-    },
-    {
-      "name": "Fendi",
-      "year": "2021",
-      "release_date": "2021-01-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/27/59/8c27597d-1231-bf60-903d-259bbba2db23/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fendi",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
-      "name": "Fendi",
-      "year": "2020",
-      "release_date": "2020-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/bb/2d/5abb2d9d-a512-9d6b-10f4-ab52bf4c2a81/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fendi",
-          "duration": "2:08"
-        }
-      ]
-    },
-    {
       "name": "Fendi 2",
       "year": "2025",
       "release_date": "2025-10-10",
@@ -67,6 +28,45 @@
           "number": 4,
           "name": "Fendi 2 (Speedup)",
           "duration": "1:24"
+        }
+      ]
+    },
+    {
+      "name": "Look At Me Habibi",
+      "year": "2023",
+      "release_date": "2023-01-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/af/b5/ee/afb5ee52-767a-26d7-6af5-f8f98e0e3a90/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Look At Me Habibi",
+          "duration": "1:40"
+        }
+      ]
+    },
+    {
+      "name": "Fendi",
+      "year": "2020",
+      "release_date": "2020-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5a/bb/2d/5abb2d9d-a512-9d6b-10f4-ab52bf4c2a81/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fendi",
+          "duration": "2:08"
+        }
+      ]
+    },
+    {
+      "name": "Fendi",
+      "year": "2021",
+      "release_date": "2021-01-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8c/27/59/8c27597d-1231-bf60-903d-259bbba2db23/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fendi",
+          "duration": "2:20"
         }
       ]
     },

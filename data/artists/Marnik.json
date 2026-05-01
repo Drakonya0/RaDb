@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Bazaar (Official Sunburn Goa 2015 Anthem)",
-      "year": "2015",
-      "release_date": "2015-12-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/ad/62/52/ad6252fa-9429-07f8-0a5a-1173870f3447/8712944493016.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bazaar (Official Sunburn Goa 2015 Anthem)",
-          "duration": "2:52"
-        }
-      ]
-    },
-    {
       "name": "Up & Down",
       "year": "2019",
       "release_date": "2019-04-12",
@@ -30,41 +17,15 @@
       ]
     },
     {
-      "name": "Bella Ciao",
-      "year": "2018",
-      "release_date": "2018-06-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/c1/1f/7cc11f37-eb3e-ffee-7125-b42e4db07991/0617465967955.jpg/600x600bb.jpg",
+      "name": "Bazaar (Official Sunburn Goa 2015 Anthem)",
+      "year": "2015",
+      "release_date": "2015-12-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/ad/62/52/ad6252fa-9429-07f8-0a5a-1173870f3447/8712944493016.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Bella Ciao",
+          "name": "Bazaar (Official Sunburn Goa 2015 Anthem)",
           "duration": "2:52"
-        }
-      ]
-    },
-    {
-      "name": "Boyz In Paris",
-      "year": "2023",
-      "release_date": "2023-07-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/cf/bc/03cfbc37-f3ab-a212-e362-138ec05b194d/196871305136.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Boyz In Paris",
-          "duration": "2:31"
-        }
-      ]
-    },
-    {
-      "name": "YEAH",
-      "year": "2025",
-      "release_date": "2025-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/e1/dd/4fe1dda1-4209-c429-53ea-172c1d41f101/199066812808.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "YEAH",
-          "duration": "2:21"
         }
       ]
     },
@@ -126,6 +87,19 @@
       ]
     },
     {
+      "name": "Boyz In Paris",
+      "year": "2023",
+      "release_date": "2023-07-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/cf/bc/03cfbc37-f3ab-a212-e362-138ec05b194d/196871305136.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Boyz In Paris",
+          "duration": "2:31"
+        }
+      ]
+    },
+    {
       "name": "Mandala (feat. Mitika) [Sunburn 2016 Anthem]",
       "year": "2017",
       "release_date": "2017-01-06",
@@ -179,6 +153,32 @@
           "number": 1,
           "name": "Hocus Pocus",
           "duration": "4:02"
+        }
+      ]
+    },
+    {
+      "name": "Bella Ciao",
+      "year": "2018",
+      "release_date": "2018-06-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/c1/1f/7cc11f37-eb3e-ffee-7125-b42e4db07991/0617465967955.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bella Ciao",
+          "duration": "2:52"
+        }
+      ]
+    },
+    {
+      "name": "YEAH",
+      "year": "2025",
+      "release_date": "2025-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/e1/dd/4fe1dda1-4209-c429-53ea-172c1d41f101/199066812808.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "YEAH",
+          "duration": "2:21"
         }
       ]
     },

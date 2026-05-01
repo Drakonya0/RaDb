@@ -3,64 +3,6 @@
   "id": 657725369,
   "albums": [
     {
-      "name": "Pariah",
-      "year": "2016",
-      "release_date": "2016-09-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8e/b6/2a/8eb62ab1-b8c5-526c-5841-d9eb95454040/190394808532.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Birth",
-          "duration": "1:28"
-        },
-        {
-          "number": 2,
-          "name": "Back and Forth",
-          "duration": "3:22"
-        },
-        {
-          "number": 3,
-          "name": "Fame (feat. Ryan Kirby)",
-          "duration": "3:57"
-        },
-        {
-          "number": 4,
-          "name": "Deadman",
-          "duration": "5:13"
-        },
-        {
-          "number": 5,
-          "name": "Soul Without a Home",
-          "duration": "4:06"
-        },
-        {
-          "number": 6,
-          "name": "The Sounds",
-          "duration": "2:55"
-        },
-        {
-          "number": 7,
-          "name": "Demons",
-          "duration": "4:09"
-        },
-        {
-          "number": 8,
-          "name": "Meaningless",
-          "duration": "3:56"
-        },
-        {
-          "number": 9,
-          "name": "Dark",
-          "duration": "3:49"
-        },
-        {
-          "number": 10,
-          "name": "Go for Broke",
-          "duration": "4:11"
-        }
-      ]
-    },
-    {
       "name": "The Deep",
       "year": "2022",
       "release_date": "2022-04-08",
@@ -115,6 +57,64 @@
           "number": 10,
           "name": "Let Go",
           "duration": "7:05"
+        }
+      ]
+    },
+    {
+      "name": "Pariah",
+      "year": "2016",
+      "release_date": "2016-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8e/b6/2a/8eb62ab1-b8c5-526c-5841-d9eb95454040/190394808532.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Birth",
+          "duration": "1:28"
+        },
+        {
+          "number": 2,
+          "name": "Back and Forth",
+          "duration": "3:22"
+        },
+        {
+          "number": 3,
+          "name": "Fame (feat. Ryan Kirby)",
+          "duration": "3:57"
+        },
+        {
+          "number": 4,
+          "name": "Deadman",
+          "duration": "5:13"
+        },
+        {
+          "number": 5,
+          "name": "Soul Without a Home",
+          "duration": "4:06"
+        },
+        {
+          "number": 6,
+          "name": "The Sounds",
+          "duration": "2:55"
+        },
+        {
+          "number": 7,
+          "name": "Demons",
+          "duration": "4:09"
+        },
+        {
+          "number": 8,
+          "name": "Meaningless",
+          "duration": "3:56"
+        },
+        {
+          "number": 9,
+          "name": "Dark",
+          "duration": "3:49"
+        },
+        {
+          "number": 10,
+          "name": "Go for Broke",
+          "duration": "4:11"
         }
       ]
     }

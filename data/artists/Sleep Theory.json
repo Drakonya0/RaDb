@@ -86,58 +86,6 @@
       ]
     },
     {
-      "name": "Another Way",
-      "year": "2023",
-      "release_date": "2023-01-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/32/c9/9632c92e-9fdb-ddf7-ad78-c4fae9022973/197544115663.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Another Way",
-          "duration": "3:37"
-        }
-      ]
-    },
-    {
-      "name": "Numb (Reimagined)",
-      "year": "2023",
-      "release_date": "2023-04-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/ff/f6/99fff6df-1ae0-23ef-c835-74e7eb46a79d/197744344870.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Numb (Reimagined)",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "Numb",
-      "year": "2023",
-      "release_date": "2023-03-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/c3/b8/b8c3b85d-b3c7-f511-3da2-42f0a012fa3e/197714057335.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Numb",
-          "duration": "3:35"
-        }
-      ]
-    },
-    {
-      "name": "Paralyzed",
-      "year": "2024",
-      "release_date": "2024-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/51/7c/b9517cc1-fe72-e594-43cb-2335da4c7064/0045778808304.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Paralyzed",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
       "name": "Fallout (Reimagined)",
       "year": "2024",
       "release_date": "2024-02-08",
@@ -160,6 +108,58 @@
           "number": 1,
           "name": "Another Way (Reimagined)",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Numb (Reimagined)",
+      "year": "2023",
+      "release_date": "2023-04-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/ff/f6/99fff6df-1ae0-23ef-c835-74e7eb46a79d/197744344870.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Numb (Reimagined)",
+          "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "Another Way",
+      "year": "2023",
+      "release_date": "2023-01-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/32/c9/9632c92e-9fdb-ddf7-ad78-c4fae9022973/197544115663.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Another Way",
+          "duration": "3:37"
+        }
+      ]
+    },
+    {
+      "name": "Paralyzed",
+      "year": "2024",
+      "release_date": "2024-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/51/7c/b9517cc1-fe72-e594-43cb-2335da4c7064/0045778808304.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Paralyzed",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "Numb",
+      "year": "2023",
+      "release_date": "2023-03-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/c3/b8/b8c3b85d-b3c7-f511-3da2-42f0a012fa3e/197714057335.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Numb",
+          "duration": "3:35"
         }
       ]
     }

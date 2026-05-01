@@ -1,283 +1,627 @@
 {
-  "name": "Baby Said",
-  "id": 1712345759,
+  "name": "Måneskin",
+  "id": 1312874741,
   "albums": [
     {
-      "name": "BS",
-      "year": "2025",
-      "release_date": "2025-03-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/b6/62/37b6622a-c948-9bea-0331-c33b3ae2c76a/199066564943.jpg/600x600bb.jpg",
+      "name": "Chosen",
+      "year": "2017",
+      "release_date": "2017-12-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Sweet Talk",
-          "duration": "3:01"
+          "name": "Chosen",
+          "duration": "2:42"
         },
         {
           "number": 2,
-          "name": "Mean Girlz",
-          "duration": "2:06"
-        },
-        {
-          "number": 3,
-          "name": "123",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "Burn",
-          "duration": "3:42"
-        },
-        {
-          "number": 5,
-          "name": "Hate Me",
-          "duration": "2:07"
-        },
-        {
-          "number": 6,
-          "name": "Dead To Me",
+          "name": "Recovery",
           "duration": "2:55"
         },
         {
+          "number": 3,
+          "name": "Vengo dalla luna",
+          "duration": "3:04"
+        },
+        {
+          "number": 4,
+          "name": "Beggin'",
+          "duration": "3:31"
+        },
+        {
+          "number": 5,
+          "name": "Let's Get It Started",
+          "duration": "2:26"
+        },
+        {
+          "number": 6,
+          "name": "Somebody Told Me",
+          "duration": "2:41"
+        },
+        {
           "number": 7,
-          "name": "Take Everything",
-          "duration": "3:07"
+          "name": "You Need Me, I Don't Need You",
+          "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "RUSH!",
+      "year": "2023",
+      "release_date": "2023-01-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/54/58/fc/5458fcb2-df7c-40d4-580b-305b9baad56a/196589243300.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "OWN MY MIND",
+          "duration": "3:11"
+        },
+        {
+          "number": 2,
+          "name": "GOSSIP (feat. Tom Morello)",
+          "duration": "2:48"
+        },
+        {
+          "number": 3,
+          "name": "TIMEZONE",
+          "duration": "2:59"
+        },
+        {
+          "number": 4,
+          "name": "BLA BLA BLA",
+          "duration": "3:04"
+        },
+        {
+          "number": 5,
+          "name": "BABY SAID",
+          "duration": "2:44"
+        },
+        {
+          "number": 6,
+          "name": "GASOLINE",
+          "duration": "3:41"
+        },
+        {
+          "number": 7,
+          "name": "FEEL",
+          "duration": "2:47"
+        },
+        {
+          "number": 8,
+          "name": "DON'T WANNA SLEEP",
+          "duration": "2:36"
+        },
+        {
+          "number": 9,
+          "name": "KOOL KIDS",
+          "duration": "2:43"
+        },
+        {
+          "number": 10,
+          "name": "IF NOT FOR YOU",
+          "duration": "3:14"
+        },
+        {
+          "number": 11,
+          "name": "READ YOUR DIARY",
+          "duration": "2:30"
+        },
+        {
+          "number": 12,
+          "name": "MARK CHAPMAN",
+          "duration": "3:40"
+        },
+        {
+          "number": 13,
+          "name": "LA FINE",
+          "duration": "3:20"
+        },
+        {
+          "number": 14,
+          "name": "IL DONO DELLA VITA",
+          "duration": "3:44"
+        },
+        {
+          "number": 15,
+          "name": "MAMMAMIA",
+          "duration": "3:06"
+        },
+        {
+          "number": 16,
+          "name": "SUPERMODEL",
+          "duration": "2:28"
+        },
+        {
+          "number": 17,
+          "name": "THE LONELIEST",
+          "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Teatro d'Ira - Vol. I",
+      "year": "2021",
+      "release_date": "2021-03-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/1a/72/4b1a7220-bee2-8664-7153-adffa8d3df1e/886449063819.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ZITTI E BUONI",
+          "duration": "3:14"
+        },
+        {
+          "number": 2,
+          "name": "CORALINE",
+          "duration": "5:00"
+        },
+        {
+          "number": 3,
+          "name": "LIVIDI SUI GOMITI",
+          "duration": "2:45"
+        },
+        {
+          "number": 4,
+          "name": "I WANNA BE YOUR SLAVE",
+          "duration": "2:53"
+        },
+        {
+          "number": 5,
+          "name": "IN NOME DEL PADRE",
+          "duration": "3:39"
+        },
+        {
+          "number": 6,
+          "name": "FOR YOUR LOVE",
+          "duration": "3:50"
+        },
+        {
+          "number": 7,
+          "name": "LA PAURA DEL BUIO",
+          "duration": "3:29"
+        },
+        {
+          "number": 8,
+          "name": "VENT'ANNI",
+          "duration": "4:13"
+        }
+      ]
+    },
+    {
+      "name": "Il ballo della vita",
+      "year": "2018",
+      "release_date": "2018-10-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/56/3f/23/563f230d-4672-ce4a-7722-1d20425cefe5/886447116159.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "New Song",
+          "duration": "3:33"
+        },
+        {
+          "number": 2,
+          "name": "Torna a casa",
+          "duration": "3:50"
+        },
+        {
+          "number": 3,
+          "name": "L'altra dimensione",
+          "duration": "2:06"
+        },
+        {
+          "number": 4,
+          "name": "Sh*t Blvd",
+          "duration": "3:22"
+        },
+        {
+          "number": 5,
+          "name": "Fear for Nobody",
+          "duration": "2:30"
+        },
+        {
+          "number": 6,
+          "name": "Le parole lontane",
+          "duration": "3:24"
+        },
+        {
+          "number": 7,
+          "name": "Immortale (feat. Vegas Jones)",
+          "duration": "2:31"
+        },
+        {
+          "number": 8,
+          "name": "Lasciami stare",
+          "duration": "2:49"
+        },
+        {
+          "number": 9,
+          "name": "Are You Ready?",
+          "duration": "2:33"
+        },
+        {
+          "number": 10,
+          "name": "Close to the Top",
+          "duration": "2:18"
+        },
+        {
+          "number": 11,
+          "name": "Niente da dire",
+          "duration": "2:36"
+        },
+        {
+          "number": 12,
+          "name": "Morirò da re",
+          "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "RUSH! (ARE U COMING?)",
+      "year": "2023",
+      "release_date": "2023-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/15/2f/bc152fe9-c3dc-9321-d284-c08d0be7ae4f/196871505987.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HONEY (ARE U COMING?)",
+          "duration": "2:47"
+        },
+        {
+          "number": 2,
+          "name": "VALENTINE",
+          "duration": "3:36"
+        },
+        {
+          "number": 3,
+          "name": "OFF MY FACE",
+          "duration": "2:29"
+        },
+        {
+          "number": 4,
+          "name": "THE DRIVER",
+          "duration": "3:08"
+        },
+        {
+          "number": 5,
+          "name": "TRASTEVERE",
+          "duration": "3:02"
+        },
+        {
+          "number": 6,
+          "name": "OWN MY MIND",
+          "duration": "3:11"
+        },
+        {
+          "number": 7,
+          "name": "GOSSIP (feat. Tom Morello)",
+          "duration": "2:48"
+        },
+        {
+          "number": 8,
+          "name": "TIMEZONE",
+          "duration": "2:59"
+        },
+        {
+          "number": 9,
+          "name": "BLA BLA BLA",
+          "duration": "3:04"
+        },
+        {
+          "number": 10,
+          "name": "BABY SAID",
+          "duration": "2:44"
+        },
+        {
+          "number": 11,
+          "name": "GASOLINE",
+          "duration": "3:41"
+        },
+        {
+          "number": 12,
+          "name": "FEEL",
+          "duration": "2:47"
+        },
+        {
+          "number": 13,
+          "name": "DON'T WANNA SLEEP",
+          "duration": "2:36"
+        },
+        {
+          "number": 14,
+          "name": "KOOL KIDS",
+          "duration": "2:43"
+        },
+        {
+          "number": 15,
+          "name": "IF NOT FOR YOU",
+          "duration": "3:14"
+        },
+        {
+          "number": 16,
+          "name": "READ YOUR DIARY",
+          "duration": "2:30"
+        },
+        {
+          "number": 17,
+          "name": "MARK CHAPMAN",
+          "duration": "3:40"
+        },
+        {
+          "number": 18,
+          "name": "LA FINE",
+          "duration": "3:20"
+        },
+        {
+          "number": 19,
+          "name": "IL DONO DELLA VITA",
+          "duration": "3:44"
+        },
+        {
+          "number": 20,
+          "name": "MAMMAMIA",
+          "duration": "3:06"
+        },
+        {
+          "number": 21,
+          "name": "SUPERMODEL",
+          "duration": "2:28"
+        },
+        {
+          "number": 22,
+          "name": "THE LONELIEST",
+          "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "RUSH!",
+      "year": "2023",
+      "release_date": "2023-01-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/05/45/56/05455684-1284-f596-7ef1-29cb01f4b3a4/196871349536.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HONEY (ARE U COMING?)",
+          "duration": "2:47"
+        },
+        {
+          "number": 2,
+          "name": "OWN MY MIND",
+          "duration": "3:11"
+        },
+        {
+          "number": 3,
+          "name": "GOSSIP (feat. Tom Morello)",
+          "duration": "2:48"
+        },
+        {
+          "number": 4,
+          "name": "TIMEZONE",
+          "duration": "2:59"
+        },
+        {
+          "number": 5,
+          "name": "BLA BLA BLA",
+          "duration": "3:04"
+        },
+        {
+          "number": 6,
+          "name": "BABY SAID",
+          "duration": "2:44"
+        },
+        {
+          "number": 7,
+          "name": "GASOLINE",
+          "duration": "3:41"
+        },
+        {
+          "number": 8,
+          "name": "FEEL",
+          "duration": "2:47"
+        },
+        {
+          "number": 9,
+          "name": "DON'T WANNA SLEEP",
+          "duration": "2:36"
+        },
+        {
+          "number": 10,
+          "name": "KOOL KIDS",
+          "duration": "2:43"
+        },
+        {
+          "number": 11,
+          "name": "IF NOT FOR YOU",
+          "duration": "3:14"
+        },
+        {
+          "number": 12,
+          "name": "READ YOUR DIARY",
+          "duration": "2:30"
+        },
+        {
+          "number": 13,
+          "name": "MARK CHAPMAN",
+          "duration": "3:40"
+        },
+        {
+          "number": 14,
+          "name": "LA FINE",
+          "duration": "3:20"
+        },
+        {
+          "number": 15,
+          "name": "IL DONO DELLA VITA",
+          "duration": "3:44"
+        },
+        {
+          "number": 16,
+          "name": "MAMMAMIA",
+          "duration": "3:06"
+        },
+        {
+          "number": 17,
+          "name": "SUPERMODEL",
+          "duration": "2:28"
+        },
+        {
+          "number": 18,
+          "name": "THE LONELIEST",
+          "duration": "4:07"
         }
       ]
     }
   ],
   "singles": [
     {
-      "name": "You Killed It",
-      "year": "2024",
-      "release_date": "2024-02-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4a/ba/36/4aba367f-a87d-1c79-87dd-506d1108f424/197190850291.jpg/600x600bb.jpg",
+      "name": "SUPERMODEL",
+      "year": "2022",
+      "release_date": "2022-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/bb/58/53/bb5853b1-529a-7a30-e0d8-91b57ee47cff/196589138170.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "You Killed It",
-          "duration": "1:59"
-        },
-        {
-          "number": 2,
-          "name": "Fight",
-          "duration": "2:04"
+          "name": "SUPERMODEL",
+          "duration": "2:28"
         }
       ]
     },
     {
-      "name": "Fight",
+      "name": "MAMMAMIA",
+      "year": "2021",
+      "release_date": "2021-10-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/ae/36/15ae36f3-7cd2-2f8b-3c96-9895c1ffa460/886449576623.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MAMMAMIA",
+          "duration": "3:06"
+        }
+      ]
+    },
+    {
+      "name": "I WANNA BE YOUR SLAVE",
+      "year": "2021",
+      "release_date": "2021-08-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e6/2d/aa/e62daa08-ff91-0d57-d579-0d3b7b855c90/886449473526.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I WANNA BE YOUR SLAVE",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "HONEY (ARE U COMING?)",
       "year": "2023",
-      "release_date": "2023-11-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ed/89/79/ed897996-7518-0ba2-cdaa-d2c5026dd110/197190178807.jpg/600x600bb.jpg",
+      "release_date": "2023-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/85/f9/0485f96c-ccbc-068b-901b-9ae34b574007/196871323666.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Fight",
-          "duration": "2:04"
+          "name": "HONEY (ARE U COMING?)",
+          "duration": "2:47"
         }
       ]
     },
     {
-      "name": "123",
-      "year": "2024",
-      "release_date": "2024-12-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/75/c9/0575c9b4-4295-737d-5b0e-174d974daad5/199066080375.jpg/600x600bb.jpg",
+      "name": "THE LONELIEST",
+      "year": "2022",
+      "release_date": "2022-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/02/9e/06/029e0667-367e-f60c-fee3-05588ae95834/196589461865.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "123",
-          "duration": "3:16"
-        },
-        {
-          "number": 2,
-          "name": "Sweet Talk",
-          "duration": "3:01"
-        },
-        {
-          "number": 3,
-          "name": "Hate Me",
-          "duration": "2:07"
+          "name": "THE LONELIEST",
+          "duration": "4:07"
         }
       ]
     },
     {
-      "name": "Hate Me",
-      "year": "2024",
-      "release_date": "2024-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/85/12/268512ca-536c-8c31-ec0c-a589e1980cc6/198846518183.jpg/600x600bb.jpg",
+      "name": "ZITTI E BUONI",
+      "year": "2021",
+      "release_date": "2021-03-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/29/30/70/2930708d-dda6-f5e8-1b15-a04dcc25f8c4/886449114047.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Hate Me",
-          "duration": "2:07"
+          "name": "ZITTI E BUONI",
+          "duration": "3:12"
         }
       ]
     },
     {
-      "name": "Sweet Talk",
-      "year": "2024",
-      "release_date": "2024-11-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/3b/8e/fe3b8e96-4f3c-ab0d-85e2-ab9cbe0d14b6/198846745602.jpg/600x600bb.jpg",
+      "name": "Torna a casa",
+      "year": "2018",
+      "release_date": "2018-09-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e9/1a/75/e91a75f6-8508-618a-1319-a8e951b5c082/886447318348.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Sweet Talk",
-          "duration": "3:01"
-        },
-        {
-          "number": 2,
-          "name": "Hate Me",
-          "duration": "2:07"
+          "name": "Torna a casa",
+          "duration": "3:50"
         }
       ]
     },
     {
-      "name": "Mouth Shut",
-      "year": "2024",
-      "release_date": "2024-05-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/d1/bf/d5d1bfe9-adc3-ec43-e310-c1a04aa3da97/198391851520.jpg/600x600bb.jpg",
+      "name": "ZITTI E BUONI (Eurovision Version)",
+      "year": "2021",
+      "release_date": "2021-03-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/76/14/5e761416-1c55-1b56-e8c3-177fb475bef2/886449160334.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Mouth Shut",
-          "duration": "2:15"
-        },
-        {
-          "number": 2,
-          "name": "You Killed It",
-          "duration": "1:59"
-        },
-        {
-          "number": 3,
-          "name": "Fight",
-          "duration": "2:04"
+          "name": "ZITTI E BUONI (Eurovision Version)",
+          "duration": "3:03"
         }
       ]
+    },
+    {
+      "name": "Morirò da re",
+      "year": "2018",
+      "release_date": "2018-03-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/bc/1a/39bc1abc-6784-3dd8-9815-26c671455aeb/886447022849.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Morirò da re",
+          "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "Chosen",
+      "year": "2017",
+      "release_date": "2017-11-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/39/69/06/396906f8-6426-efeb-96fb-d9621ba0d574/886446863023.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chosen",
+          "duration": "2:40"
+        }
+      ]
+    },
+    {
+      "name": "VENT'ANNI",
+      "year": "2020",
+      "release_date": "2020-10-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9c/41/4a/9c414ae2-d113-534e-21d7-1d2860662b12/886448821342.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "VENT'ANNI",
+          "duration": "4:13"
+        }
+      ]
+    },
+    {
+      "name": "Beggin' (Live)",
+      "year": "2021",
+      "release_date": "2021-02-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8d/b9/d6/8db9d6f0-9794-d420-dac4-2b07f7164df3/886449597321.jpg/600x600bb.jpg",
+      "tracks": []
     }
   ],
-  "eps": [
-    {
-      "name": "Dead To me",
-      "year": "2025",
-      "release_date": "2025-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/7e/2f/5d7e2f12-996c-37c4-c90f-e69b6e5d7e2a/199066320600.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dead To Me",
-          "duration": "2:55"
-        },
-        {
-          "number": 2,
-          "name": "Mean Girlz",
-          "duration": "2:06"
-        },
-        {
-          "number": 3,
-          "name": "123",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "Sweet Talk",
-          "duration": "3:01"
-        },
-        {
-          "number": 5,
-          "name": "Hate Me",
-          "duration": "2:07"
-        }
-      ]
-    },
-    {
-      "name": "Mean Girlz",
-      "year": "2025",
-      "release_date": "2025-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/dc/e5/3bdce5a9-1099-f45b-9bbe-bfa40838dc6e/199066026717.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mean Girlz",
-          "duration": "2:06"
-        },
-        {
-          "number": 2,
-          "name": "123",
-          "duration": "3:16"
-        },
-        {
-          "number": 3,
-          "name": "Sweet Talk",
-          "duration": "3:01"
-        },
-        {
-          "number": 4,
-          "name": "Hate Me",
-          "duration": "2:07"
-        }
-      ]
-    },
-    {
-      "name": "Take Everything",
-      "year": "2025",
-      "release_date": "2025-02-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/7f/37/287f3702-699a-dc5e-0cf7-899006d01306/199066532782.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Take Everything",
-          "duration": "3:07"
-        },
-        {
-          "number": 2,
-          "name": "Dead To Me",
-          "duration": "2:55"
-        },
-        {
-          "number": 3,
-          "name": "123",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "Sweet Talk",
-          "duration": "3:01"
-        },
-        {
-          "number": 5,
-          "name": "Hate Me",
-          "duration": "2:07"
-        }
-      ]
-    },
-    {
-      "name": "WHO GIVES A ROCK",
-      "year": "2024",
-      "release_date": "2024-06-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/63/81/996381cc-9d4d-a064-e888-b17d7eb60112/198588010617.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Panic Attack",
-          "duration": "3:11"
-        },
-        {
-          "number": 2,
-          "name": "Mouth Shut",
-          "duration": "2:15"
-        },
-        {
-          "number": 3,
-          "name": "You Killed It",
-          "duration": "1:59"
-        },
-        {
-          "number": 4,
-          "name": "Fight",
-          "duration": "2:04"
-        }
-      ]
-    }
-  ]
+  "eps": []
 }

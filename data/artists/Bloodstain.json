@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "Something Sinister",
+      "year": "2026",
+      "release_date": "2026-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/0e/6f/7e0e6f95-22d2-cb40-7698-f4cf4ab3fae2/820200581884.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Something Sinister",
+          "duration": "4:13"
+        }
+      ]
+    },
+    {
       "name": "Banner of Supremacy",
       "year": "2025",
       "release_date": "2025-05-23",
@@ -26,19 +39,6 @@
           "number": 1,
           "name": "Lies Bleeding Through",
           "duration": "6:01"
-        }
-      ]
-    },
-    {
-      "name": "Something Sinister",
-      "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/0e/6f/7e0e6f95-22d2-cb40-7698-f4cf4ab3fae2/820200581884.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Something Sinister",
-          "duration": "4:13"
         }
       ]
     },

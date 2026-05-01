@@ -69,39 +69,6 @@
       ]
     },
     {
-      "name": "Innate Passage",
-      "year": "2022",
-      "release_date": "2022-11-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/26/f9/6b/26f96b50-222d-b970-df9e-8c70f9142e37/4046661754520.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Catastasis",
-          "duration": "10:50"
-        },
-        {
-          "number": 2,
-          "name": "Endless Return",
-          "duration": "9:54"
-        },
-        {
-          "number": 3,
-          "name": "Coalescence",
-          "duration": "9:47"
-        },
-        {
-          "number": 4,
-          "name": "Merged in Dreams – Ne Plus Ultra",
-          "duration": "14:43"
-        },
-        {
-          "number": 5,
-          "name": "The Purpose",
-          "duration": "8:37"
-        }
-      ]
-    },
-    {
       "name": "Reflections of a Floating World",
       "year": "2017",
       "release_date": "2017-06-02",
@@ -136,6 +103,39 @@
           "number": 6,
           "name": "Thousand Hands",
           "duration": "9:36"
+        }
+      ]
+    },
+    {
+      "name": "Innate Passage",
+      "year": "2022",
+      "release_date": "2022-11-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/26/f9/6b/26f96b50-222d-b970-df9e-8c70f9142e37/4046661754520.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Catastasis",
+          "duration": "10:50"
+        },
+        {
+          "number": 2,
+          "name": "Endless Return",
+          "duration": "9:54"
+        },
+        {
+          "number": 3,
+          "name": "Coalescence",
+          "duration": "9:47"
+        },
+        {
+          "number": 4,
+          "name": "Merged in Dreams – Ne Plus Ultra",
+          "duration": "14:43"
+        },
+        {
+          "number": 5,
+          "name": "The Purpose",
+          "duration": "8:37"
         }
       ]
     },
@@ -229,6 +229,44 @@
       ]
     },
     {
+      "name": "Through Zero",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/31/1b/84311b34-73c0-7a8e-3386-2a0a10a6c25a/760137208594.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sigil to Ruin",
+          "duration": "10:33"
+        },
+        {
+          "number": 2,
+          "name": "Capture / Release",
+          "duration": "8:47"
+        },
+        {
+          "number": 3,
+          "name": "Through Zero",
+          "duration": "9:06"
+        },
+        {
+          "number": 4,
+          "name": "Strata",
+          "duration": "10:48"
+        },
+        {
+          "number": 5,
+          "name": "Sight Unseen",
+          "duration": "8:50"
+        },
+        {
+          "number": 6,
+          "name": "Blighted Age",
+          "duration": "5:48"
+        }
+      ]
+    },
+    {
       "name": "Dead Roots Stirring (Remastered)",
       "year": "2011",
       "release_date": "2011-09-06",
@@ -311,44 +349,6 @@
           "number": 9,
           "name": "Soul Incarnate (2006 Demo)",
           "duration": "4:28"
-        }
-      ]
-    },
-    {
-      "name": "Through Zero",
-      "year": "2026",
-      "release_date": "2026-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/31/1b/84311b34-73c0-7a8e-3386-2a0a10a6c25a/760137208594.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sigil to Ruin",
-          "duration": "10:33"
-        },
-        {
-          "number": 2,
-          "name": "Capture / Release",
-          "duration": "8:47"
-        },
-        {
-          "number": 3,
-          "name": "Through Zero",
-          "duration": "9:06"
-        },
-        {
-          "number": 4,
-          "name": "Strata",
-          "duration": "10:48"
-        },
-        {
-          "number": 5,
-          "name": "Sight Unseen",
-          "duration": "8:50"
-        },
-        {
-          "number": 6,
-          "name": "Blighted Age",
-          "duration": "5:48"
         }
       ]
     },
@@ -525,24 +525,6 @@
   ],
   "eps": [
     {
-      "name": "Spires Burn / Release",
-      "year": "2012",
-      "release_date": "2012-08-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/57/c0/82/57c0821a-5742-0137-dbdc-40f76c7c42e6/Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Spires Burn",
-          "duration": "10:30"
-        },
-        {
-          "number": 2,
-          "name": "Release",
-          "duration": "11:59"
-        }
-      ]
-    },
-    {
       "name": "Liminality / Dream State Return",
       "year": "2025",
       "release_date": "2025-09-22",
@@ -557,6 +539,24 @@
           "number": 2,
           "name": "Dream State Return",
           "duration": "5:29"
+        }
+      ]
+    },
+    {
+      "name": "Spires Burn / Release",
+      "year": "2012",
+      "release_date": "2012-08-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/57/c0/82/57c0821a-5742-0137-dbdc-40f76c7c42e6/Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Spires Burn",
+          "duration": "10:30"
+        },
+        {
+          "number": 2,
+          "name": "Release",
+          "duration": "11:59"
         }
       ]
     },

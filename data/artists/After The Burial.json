@@ -56,6 +56,54 @@
       ]
     },
     {
+      "name": "Rareform",
+      "year": "2009",
+      "release_date": "2009-09-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/da/61/76da615b-48a8-beeb-2693-55e150d9153b/00817424012065_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Berzerker",
+          "duration": "5:40"
+        },
+        {
+          "number": 2,
+          "name": "Drifts",
+          "duration": "4:09"
+        },
+        {
+          "number": 3,
+          "name": "Cursing Akhenaten",
+          "duration": "4:03"
+        },
+        {
+          "number": 4,
+          "name": "Rareform",
+          "duration": "3:03"
+        },
+        {
+          "number": 5,
+          "name": "Aspiration",
+          "duration": "4:40"
+        },
+        {
+          "number": 6,
+          "name": "The Fractal Effect",
+          "duration": "3:50"
+        },
+        {
+          "number": 7,
+          "name": "Ometh",
+          "duration": "4:15"
+        },
+        {
+          "number": 8,
+          "name": "A Vicious Reforming Of Features",
+          "duration": "5:51"
+        }
+      ]
+    },
+    {
       "name": "Evergreen",
       "year": "2019",
       "release_date": "2019-04-19",
@@ -215,54 +263,6 @@
       ]
     },
     {
-      "name": "Rareform",
-      "year": "2009",
-      "release_date": "2009-09-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/da/61/76da615b-48a8-beeb-2693-55e150d9153b/00817424012065_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Berzerker",
-          "duration": "5:40"
-        },
-        {
-          "number": 2,
-          "name": "Drifts",
-          "duration": "4:09"
-        },
-        {
-          "number": 3,
-          "name": "Cursing Akhenaten",
-          "duration": "4:03"
-        },
-        {
-          "number": 4,
-          "name": "Rareform",
-          "duration": "3:03"
-        },
-        {
-          "number": 5,
-          "name": "Aspiration",
-          "duration": "4:40"
-        },
-        {
-          "number": 6,
-          "name": "The Fractal Effect",
-          "duration": "3:50"
-        },
-        {
-          "number": 7,
-          "name": "Ometh",
-          "duration": "4:15"
-        },
-        {
-          "number": 8,
-          "name": "A Vicious Reforming Of Features",
-          "duration": "5:51"
-        }
-      ]
-    },
-    {
       "name": "In Dreams",
       "year": "2010",
       "release_date": "2010-11-23",
@@ -414,19 +414,6 @@
   ],
   "singles": [
     {
-      "name": "Hum From The Hollow",
-      "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/cd/7e/11cd7e33-e05f-7bf0-ec19-d000f2f4ed64/198704578144_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hum From The Hollow",
-          "duration": "3:51"
-        }
-      ]
-    },
-    {
       "name": "bad luck",
       "year": "2025",
       "release_date": "2025-09-10",
@@ -440,15 +427,15 @@
       ]
     },
     {
-      "name": "Lost In The Static",
-      "year": "2015",
-      "release_date": "2015-11-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/18/39/5b1839a8-5a70-95c0-185d-ebca7a2f3df8/00817424015509_Cover.jpg/600x600bb.jpg",
+      "name": "Hum From The Hollow",
+      "year": "2025",
+      "release_date": "2025-07-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/cd/7e/11cd7e33-e05f-7bf0-ec19-d000f2f4ed64/198704578144_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Lost In The Static",
-          "duration": "4:33"
+          "name": "Hum From The Hollow",
+          "duration": "3:51"
         }
       ]
     },
@@ -467,6 +454,19 @@
           "number": 2,
           "name": "Death Keeps Us From Living",
           "duration": "4:30"
+        }
+      ]
+    },
+    {
+      "name": "Lost In The Static",
+      "year": "2015",
+      "release_date": "2015-11-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/18/39/5b1839a8-5a70-95c0-185d-ebca7a2f3df8/00817424015509_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lost In The Static",
+          "duration": "4:33"
         }
       ]
     },

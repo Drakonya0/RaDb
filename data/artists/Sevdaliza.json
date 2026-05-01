@@ -3,79 +3,6 @@
   "id": 571173217,
   "albums": [
     {
-      "name": "HEROINA",
-      "year": "2025",
-      "release_date": "2025-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/11/29/94112927-c92a-611d-337f-0d1951ec7738/270.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro",
-          "duration": "1:18"
-        },
-        {
-          "number": 2,
-          "name": "On My Own",
-          "duration": "2:36"
-        },
-        {
-          "number": 3,
-          "name": "Heroina",
-          "duration": "2:23"
-        },
-        {
-          "number": 4,
-          "name": "Alibi",
-          "duration": "2:41"
-        },
-        {
-          "number": 5,
-          "name": "Ride or Die, Pt. 2",
-          "duration": "2:38"
-        },
-        {
-          "number": 6,
-          "name": "Messiah",
-          "duration": "2:56"
-        },
-        {
-          "number": 7,
-          "name": "No Me Cansare",
-          "duration": "2:42"
-        },
-        {
-          "number": 8,
-          "name": "Stripper",
-          "duration": "2:46"
-        },
-        {
-          "number": 9,
-          "name": "Maria Magdalena",
-          "duration": "2:36"
-        },
-        {
-          "number": 10,
-          "name": "Oxytocina",
-          "duration": "2:46"
-        },
-        {
-          "number": 11,
-          "name": "Strong Because You Are",
-          "duration": "2:40"
-        },
-        {
-          "number": 12,
-          "name": "Postergirl",
-          "duration": "2:48"
-        },
-        {
-          "number": 13,
-          "name": "Angel",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "Shabrang",
       "year": "2020",
       "release_date": "2020-08-28",
@@ -155,6 +82,79 @@
           "number": 15,
           "name": "Comet",
           "duration": "4:30"
+        }
+      ]
+    },
+    {
+      "name": "HEROINA",
+      "year": "2025",
+      "release_date": "2025-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/11/29/94112927-c92a-611d-337f-0d1951ec7738/270.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro",
+          "duration": "1:18"
+        },
+        {
+          "number": 2,
+          "name": "On My Own",
+          "duration": "2:36"
+        },
+        {
+          "number": 3,
+          "name": "Heroina",
+          "duration": "2:23"
+        },
+        {
+          "number": 4,
+          "name": "Alibi",
+          "duration": "2:41"
+        },
+        {
+          "number": 5,
+          "name": "Ride or Die, Pt. 2",
+          "duration": "2:38"
+        },
+        {
+          "number": 6,
+          "name": "Messiah",
+          "duration": "2:56"
+        },
+        {
+          "number": 7,
+          "name": "No Me Cansare",
+          "duration": "2:42"
+        },
+        {
+          "number": 8,
+          "name": "Stripper",
+          "duration": "2:46"
+        },
+        {
+          "number": 9,
+          "name": "Maria Magdalena",
+          "duration": "2:36"
+        },
+        {
+          "number": 10,
+          "name": "Oxytocina",
+          "duration": "2:46"
+        },
+        {
+          "number": 11,
+          "name": "Strong Because You Are",
+          "duration": "2:40"
+        },
+        {
+          "number": 12,
+          "name": "Postergirl",
+          "duration": "2:48"
+        },
+        {
+          "number": 13,
+          "name": "Angel",
+          "duration": "3:06"
         }
       ]
     },
@@ -252,6 +252,49 @@
       ]
     },
     {
+      "name": "The Calling",
+      "year": "2018",
+      "release_date": "2018-03-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/f4/d3/b5f4d3f1-ff12-0f04-bff8-214713bedda1/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Soul Syncable",
+          "duration": "3:25"
+        },
+        {
+          "number": 2,
+          "name": "5d",
+          "duration": "3:19"
+        },
+        {
+          "number": 3,
+          "name": "Soothsayer",
+          "duration": "5:16"
+        },
+        {
+          "number": 4,
+          "name": "Energ1",
+          "duration": "4:06"
+        },
+        {
+          "number": 5,
+          "name": "Human Nature",
+          "duration": "5:00"
+        },
+        {
+          "number": 6,
+          "name": "Voodoov",
+          "duration": "4:06"
+        },
+        {
+          "number": 7,
+          "name": "Observer",
+          "duration": "4:05"
+        }
+      ]
+    },
+    {
       "name": "Shabrang",
       "year": "2020",
       "release_date": "2020-09-10",
@@ -333,62 +376,24 @@
           "duration": "4:30"
         }
       ]
-    },
-    {
-      "name": "The Calling",
-      "year": "2018",
-      "release_date": "2018-03-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/f4/d3/b5f4d3f1-ff12-0f04-bff8-214713bedda1/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Soul Syncable",
-          "duration": "3:25"
-        },
-        {
-          "number": 2,
-          "name": "5d",
-          "duration": "3:19"
-        },
-        {
-          "number": 3,
-          "name": "Soothsayer",
-          "duration": "5:16"
-        },
-        {
-          "number": 4,
-          "name": "Energ1",
-          "duration": "4:06"
-        },
-        {
-          "number": 5,
-          "name": "Human Nature",
-          "duration": "5:00"
-        },
-        {
-          "number": 6,
-          "name": "Voodoov",
-          "duration": "4:06"
-        },
-        {
-          "number": 7,
-          "name": "Observer",
-          "duration": "4:05"
-        }
-      ]
     }
   ],
   "singles": [
     {
-      "name": "No Me Cansare",
+      "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
       "year": "2024",
-      "release_date": "2024-10-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/bb/34/f1bb3487-074d-fcf7-3fda-0abf9ed87947/93.jpg/600x600bb.jpg",
+      "release_date": "2024-04-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/73/f7/e373f7db-c439-e620-9daa-d81eeb429fb6/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "No Me Cansare",
-          "duration": "2:42"
+          "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
+          "duration": "2:38"
+        },
+        {
+          "number": 2,
+          "name": "Ride Or Die (feat. Villano Antillano)",
+          "duration": "3:04"
         }
       ]
     },
@@ -406,20 +411,28 @@
       ]
     },
     {
-      "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
-      "year": "2024",
-      "release_date": "2024-04-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/73/f7/e373f7db-c439-e620-9daa-d81eeb429fb6/cover.jpg/600x600bb.jpg",
+      "name": "Stripper",
+      "year": "2025",
+      "release_date": "2025-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/fb/02/54fb02f2-4593-f5fb-835f-7ff17f8b12d3/663918527719.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
-          "duration": "2:38"
-        },
+          "name": "Stripper",
+          "duration": "2:46"
+        }
+      ]
+    },
+    {
+      "name": "No Me Cansare",
+      "year": "2024",
+      "release_date": "2024-10-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/bb/34/f1bb3487-074d-fcf7-3fda-0abf9ed87947/93.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 2,
-          "name": "Ride Or Die (feat. Villano Antillano)",
-          "duration": "3:04"
+          "number": 1,
+          "name": "No Me Cansare",
+          "duration": "2:42"
         }
       ]
     },
@@ -517,19 +530,6 @@
       ]
     },
     {
-      "name": "Rich Man (feat. Sevdaliza)",
-      "year": "2025",
-      "release_date": "2025-09-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/2c/44/c42c4451-99bb-0065-043c-5320e470ad1a/888735953552_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rich Man (feat. Sevdaliza)",
-          "duration": "3:17"
-        }
-      ]
-    },
-    {
       "name": "Good Torture",
       "year": "2024",
       "release_date": "2024-02-23",
@@ -552,19 +552,6 @@
           "number": 1,
           "name": "Woman Life Freedom",
           "duration": "4:12"
-        }
-      ]
-    },
-    {
-      "name": "Stripper",
-      "year": "2025",
-      "release_date": "2025-10-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/fb/02/54fb02f2-4593-f5fb-835f-7ff17f8b12d3/663918527719.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stripper",
-          "duration": "2:46"
         }
       ]
     },
@@ -604,6 +591,19 @@
           "number": 1,
           "name": "The Great Hope Design",
           "duration": "5:20"
+        }
+      ]
+    },
+    {
+      "name": "Rich Man (feat. Sevdaliza)",
+      "year": "2025",
+      "release_date": "2025-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/2c/44/c42c4451-99bb-0065-043c-5320e470ad1a/888735953552_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rich Man (feat. Sevdaliza)",
+          "duration": "3:17"
         }
       ]
     },
@@ -867,6 +867,34 @@
   ],
   "eps": [
     {
+      "name": "The Suspended Kid",
+      "year": "2015",
+      "release_date": "2015-01-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/73/bb/6c73bb8c-3d14-23b3-d554-58c19f0500fe/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "That Other Girl",
+          "duration": "3:02"
+        },
+        {
+          "number": 2,
+          "name": "Sirens of the Caspian",
+          "duration": "3:35"
+        },
+        {
+          "number": 3,
+          "name": "Clear Air",
+          "duration": "4:05"
+        },
+        {
+          "number": 4,
+          "name": "Backseat Love",
+          "duration": "3:40"
+        }
+      ]
+    },
+    {
       "name": "Raving Dahlia",
       "year": "2022",
       "release_date": "2022-02-25",
@@ -901,34 +929,6 @@
           "number": 6,
           "name": "Oh My God (Sleepnet X Sevdaliza Remix)",
           "duration": "4:56"
-        }
-      ]
-    },
-    {
-      "name": "The Suspended Kid",
-      "year": "2015",
-      "release_date": "2015-01-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/73/bb/6c73bb8c-3d14-23b3-d554-58c19f0500fe/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "That Other Girl",
-          "duration": "3:02"
-        },
-        {
-          "number": 2,
-          "name": "Sirens of the Caspian",
-          "duration": "3:35"
-        },
-        {
-          "number": 3,
-          "name": "Clear Air",
-          "duration": "4:05"
-        },
-        {
-          "number": 4,
-          "name": "Backseat Love",
-          "duration": "3:40"
         }
       ]
     },

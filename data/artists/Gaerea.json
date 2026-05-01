@@ -56,54 +56,6 @@
       ]
     },
     {
-      "name": "Mirage",
-      "year": "2022",
-      "release_date": "2022-09-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/63/b2/ac63b2a8-003a-6265-d832-bdb2ac6bd17a/822603166903.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Memoir",
-          "duration": "8:17"
-        },
-        {
-          "number": 2,
-          "name": "Salve",
-          "duration": "5:25"
-        },
-        {
-          "number": 3,
-          "name": "Deluge",
-          "duration": "6:31"
-        },
-        {
-          "number": 4,
-          "name": "Arson",
-          "duration": "8:54"
-        },
-        {
-          "number": 5,
-          "name": "Ebb",
-          "duration": "5:31"
-        },
-        {
-          "number": 6,
-          "name": "Mirage",
-          "duration": "6:37"
-        },
-        {
-          "number": 7,
-          "name": "Mantle",
-          "duration": "5:16"
-        },
-        {
-          "number": 8,
-          "name": "Laude",
-          "duration": "6:27"
-        }
-      ]
-    },
-    {
       "name": "Coma",
       "year": "2024",
       "release_date": "2024-10-25",
@@ -158,6 +110,54 @@
           "number": 10,
           "name": "Kingdom of Thorns",
           "duration": "4:45"
+        }
+      ]
+    },
+    {
+      "name": "Mirage",
+      "year": "2022",
+      "release_date": "2022-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/63/b2/ac63b2a8-003a-6265-d832-bdb2ac6bd17a/822603166903.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Memoir",
+          "duration": "8:17"
+        },
+        {
+          "number": 2,
+          "name": "Salve",
+          "duration": "5:25"
+        },
+        {
+          "number": 3,
+          "name": "Deluge",
+          "duration": "6:31"
+        },
+        {
+          "number": 4,
+          "name": "Arson",
+          "duration": "8:54"
+        },
+        {
+          "number": 5,
+          "name": "Ebb",
+          "duration": "5:31"
+        },
+        {
+          "number": 6,
+          "name": "Mirage",
+          "duration": "6:37"
+        },
+        {
+          "number": 7,
+          "name": "Mantle",
+          "duration": "5:16"
+        },
+        {
+          "number": 8,
+          "name": "Laude",
+          "duration": "6:27"
         }
       ]
     },
@@ -283,19 +283,6 @@
   ],
   "singles": [
     {
-      "name": "Submerged",
-      "year": "2025",
-      "release_date": "2025-08-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/0f/df/a80fdf4d-49be-40b7-f62b-69128d2d611d/196873447254.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Submerged",
-          "duration": "5:08"
-        }
-      ]
-    },
-    {
       "name": "Dormant (Bonus track)",
       "year": "2023",
       "release_date": "2023-09-28",
@@ -305,6 +292,19 @@
           "number": 1,
           "name": "Dormant (Bonus track)",
           "duration": "7:46"
+        }
+      ]
+    },
+    {
+      "name": "Submerged",
+      "year": "2025",
+      "release_date": "2025-08-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/0f/df/a80fdf4d-49be-40b7-f62b-69128d2d611d/196873447254.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Submerged",
+          "duration": "5:08"
         }
       ]
     },

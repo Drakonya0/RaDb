@@ -3,64 +3,6 @@
   "id": 516407444,
   "albums": [
     {
-      "name": "Destination",
-      "year": "2025",
-      "release_date": "2025-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/8f/e5/758fe593-27a5-f3aa-9529-5fb92d470b36/4550713016172_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fire Rainbow (Destination Version)",
-          "duration": "3:48"
-        },
-        {
-          "number": 2,
-          "name": "Requiem",
-          "duration": "3:40"
-        },
-        {
-          "number": 3,
-          "name": "Dreamchaser (feat. NORMUNDY & BVNE)",
-          "duration": "4:39"
-        },
-        {
-          "number": 4,
-          "name": "Lemuria",
-          "duration": "4:07"
-        },
-        {
-          "number": 5,
-          "name": "Shapeless Heart (feat. Vandans)",
-          "duration": "3:40"
-        },
-        {
-          "number": 6,
-          "name": "Alchemist",
-          "duration": "3:31"
-        },
-        {
-          "number": 7,
-          "name": "Breathtaking (feat. Dead Days)",
-          "duration": "4:50"
-        },
-        {
-          "number": 8,
-          "name": "Curtain Call",
-          "duration": "4:43"
-        },
-        {
-          "number": 9,
-          "name": "Picture Perfect (Destination Version)",
-          "duration": "3:26"
-        },
-        {
-          "number": 10,
-          "name": "Destination (feat. Convictions)",
-          "duration": "3:52"
-        }
-      ]
-    },
-    {
       "name": "A Decade of Sailors (Live At Cyclone)",
       "year": "2023",
       "release_date": "2023-03-10",
@@ -200,6 +142,64 @@
           "number": 27,
           "name": "Iolite (Live At Cyclone, Tokyo, 2022)",
           "duration": "5:03"
+        }
+      ]
+    },
+    {
+      "name": "Destination",
+      "year": "2025",
+      "release_date": "2025-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/8f/e5/758fe593-27a5-f3aa-9529-5fb92d470b36/4550713016172_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fire Rainbow (Destination Version)",
+          "duration": "3:48"
+        },
+        {
+          "number": 2,
+          "name": "Requiem",
+          "duration": "3:40"
+        },
+        {
+          "number": 3,
+          "name": "Dreamchaser (feat. NORMUNDY & BVNE)",
+          "duration": "4:39"
+        },
+        {
+          "number": 4,
+          "name": "Lemuria",
+          "duration": "4:07"
+        },
+        {
+          "number": 5,
+          "name": "Shapeless Heart (feat. Vandans)",
+          "duration": "3:40"
+        },
+        {
+          "number": 6,
+          "name": "Alchemist",
+          "duration": "3:31"
+        },
+        {
+          "number": 7,
+          "name": "Breathtaking (feat. Dead Days)",
+          "duration": "4:50"
+        },
+        {
+          "number": 8,
+          "name": "Curtain Call",
+          "duration": "4:43"
+        },
+        {
+          "number": 9,
+          "name": "Picture Perfect (Destination Version)",
+          "duration": "3:26"
+        },
+        {
+          "number": 10,
+          "name": "Destination (feat. Convictions)",
+          "duration": "3:52"
         }
       ]
     },

@@ -344,6 +344,29 @@
   ],
   "singles": [
     {
+      "name": "Funked Up",
+      "year": "2024",
+      "release_date": "2024-01-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/31/e0/e831e0af-c657-7108-7871-4450afd97ad5/617513959116_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Funked Up",
+          "duration": "1:43"
+        },
+        {
+          "number": 2,
+          "name": "Funked Up (Sped Up)",
+          "duration": "1:33"
+        },
+        {
+          "number": 3,
+          "name": "Funked Up (Slowed)",
+          "duration": "1:55"
+        }
+      ]
+    },
+    {
       "name": "Baixo",
       "year": "2023",
       "release_date": "2023-09-19",
@@ -376,29 +399,6 @@
           "number": 3,
           "name": "BAIXO (sped up)",
           "duration": "1:33"
-        }
-      ]
-    },
-    {
-      "name": "Funked Up",
-      "year": "2024",
-      "release_date": "2024-01-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/31/e0/e831e0af-c657-7108-7871-4450afd97ad5/617513959116_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Funked Up",
-          "duration": "1:43"
-        },
-        {
-          "number": 2,
-          "name": "Funked Up (Sped Up)",
-          "duration": "1:33"
-        },
-        {
-          "number": 3,
-          "name": "Funked Up (Slowed)",
-          "duration": "1:55"
         }
       ]
     },

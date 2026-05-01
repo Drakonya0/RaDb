@@ -3,6 +3,59 @@
   "id": 263435943,
   "albums": [
     {
+      "name": "I Never Learn",
+      "year": "2014",
+      "release_date": "2014-05-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/3a/6a/573a6aba-a32a-bd2b-1bf8-7f5cb04095d1/825646306053.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Never Learn",
+          "duration": "3:04"
+        },
+        {
+          "number": 2,
+          "name": "No Rest For the Wicked",
+          "duration": "3:42"
+        },
+        {
+          "number": 3,
+          "name": "Just Like a Dream",
+          "duration": "4:08"
+        },
+        {
+          "number": 4,
+          "name": "Silverline",
+          "duration": "3:52"
+        },
+        {
+          "number": 5,
+          "name": "Gunshot",
+          "duration": "3:24"
+        },
+        {
+          "number": 6,
+          "name": "Love Me Like I'm Not Made of Stone",
+          "duration": "3:47"
+        },
+        {
+          "number": 7,
+          "name": "Never Gonna Love Again",
+          "duration": "4:00"
+        },
+        {
+          "number": 8,
+          "name": "Heart of Steel",
+          "duration": "3:54"
+        },
+        {
+          "number": 9,
+          "name": "Sleeping Alone",
+          "duration": "2:59"
+        }
+      ]
+    },
+    {
       "name": "Wounded Rhymes (Deluxe Version)",
       "year": "2010",
       "release_date": "2010-02-28",
@@ -227,117 +280,6 @@
       ]
     },
     {
-      "name": "Wounded Rhymes",
-      "year": "2011",
-      "release_date": "2011-02-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/7e/80/d67e80da-9be9-61cd-8d34-b41cc4a3cbf0/mzi.svybrxhw.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Youth Knows No Pain",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "I Follow Rivers",
-          "duration": "3:48"
-        },
-        {
-          "number": 3,
-          "name": "Love Out of Lust",
-          "duration": "4:43"
-        },
-        {
-          "number": 4,
-          "name": "Unrequited Love",
-          "duration": "3:11"
-        },
-        {
-          "number": 5,
-          "name": "Get Some",
-          "duration": "3:22"
-        },
-        {
-          "number": 6,
-          "name": "Rich Kids Blues",
-          "duration": "3:01"
-        },
-        {
-          "number": 7,
-          "name": "Sadness Is a Blessing",
-          "duration": "4:00"
-        },
-        {
-          "number": 8,
-          "name": "I Know Places",
-          "duration": "6:26"
-        },
-        {
-          "number": 9,
-          "name": "Jerome",
-          "duration": "4:22"
-        },
-        {
-          "number": 10,
-          "name": "Silent My Song",
-          "duration": "5:24"
-        }
-      ]
-    },
-    {
-      "name": "I Never Learn",
-      "year": "2014",
-      "release_date": "2014-05-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/3a/6a/573a6aba-a32a-bd2b-1bf8-7f5cb04095d1/825646306053.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Never Learn",
-          "duration": "3:04"
-        },
-        {
-          "number": 2,
-          "name": "No Rest For the Wicked",
-          "duration": "3:42"
-        },
-        {
-          "number": 3,
-          "name": "Just Like a Dream",
-          "duration": "4:08"
-        },
-        {
-          "number": 4,
-          "name": "Silverline",
-          "duration": "3:52"
-        },
-        {
-          "number": 5,
-          "name": "Gunshot",
-          "duration": "3:24"
-        },
-        {
-          "number": 6,
-          "name": "Love Me Like I'm Not Made of Stone",
-          "duration": "3:47"
-        },
-        {
-          "number": 7,
-          "name": "Never Gonna Love Again",
-          "duration": "4:00"
-        },
-        {
-          "number": 8,
-          "name": "Heart of Steel",
-          "duration": "3:54"
-        },
-        {
-          "number": 9,
-          "name": "Sleeping Alone",
-          "duration": "2:59"
-        }
-      ]
-    },
-    {
       "name": "Youth Novels",
       "year": "2008",
       "release_date": "2008-01-30",
@@ -407,6 +349,64 @@
           "number": 14,
           "name": "Window Blues",
           "duration": "3:59"
+        }
+      ]
+    },
+    {
+      "name": "Wounded Rhymes",
+      "year": "2011",
+      "release_date": "2011-02-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/7e/80/d67e80da-9be9-61cd-8d34-b41cc4a3cbf0/mzi.svybrxhw.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Youth Knows No Pain",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "I Follow Rivers",
+          "duration": "3:48"
+        },
+        {
+          "number": 3,
+          "name": "Love Out of Lust",
+          "duration": "4:43"
+        },
+        {
+          "number": 4,
+          "name": "Unrequited Love",
+          "duration": "3:11"
+        },
+        {
+          "number": 5,
+          "name": "Get Some",
+          "duration": "3:22"
+        },
+        {
+          "number": 6,
+          "name": "Rich Kids Blues",
+          "duration": "3:01"
+        },
+        {
+          "number": 7,
+          "name": "Sadness Is a Blessing",
+          "duration": "4:00"
+        },
+        {
+          "number": 8,
+          "name": "I Know Places",
+          "duration": "6:26"
+        },
+        {
+          "number": 9,
+          "name": "Jerome",
+          "duration": "4:22"
+        },
+        {
+          "number": 10,
+          "name": "Silent My Song",
+          "duration": "5:24"
         }
       ]
     },
@@ -1105,24 +1105,6 @@
       ]
     },
     {
-      "name": "Possibility",
-      "year": "2022",
-      "release_date": "2022-12-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/13/49/81/1349816d-34a2-3fe5-ddc6-215d829b3be8/5054197461569.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Possibility",
-          "duration": "5:06"
-        },
-        {
-          "number": 2,
-          "name": "Possibility (Slowed Down)",
-          "duration": "6:23"
-        }
-      ]
-    },
-    {
       "name": "Never Gonna Love Again",
       "year": "2015",
       "release_date": "2015-05-04",
@@ -1141,25 +1123,15 @@
       ]
     },
     {
-      "name": "Covers",
-      "year": "2025",
-      "release_date": "2025-06-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/4a/b4/6f4ab464-84b4-3d84-637a-10ee73abeb6a/5400863190002_cover.jpg/600x600bb.jpg",
+      "name": "Little Bit (feat. Autoerotique) [Remix]",
+      "year": "2022",
+      "release_date": "2022-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f0/25/b0/f025b066-44c9-d2d4-b5ef-444c9a4be1b3/5054197332524.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Stand By Me",
-          "duration": "3:24"
-        },
-        {
-          "number": 2,
-          "name": "Into My Arms",
-          "duration": "4:35"
-        },
-        {
-          "number": 3,
-          "name": "Love Hurts",
-          "duration": "2:07"
+          "name": "Little Bit (feat. Autoerotique) [Remix]",
+          "duration": "3:54"
         }
       ]
     },
@@ -1173,6 +1145,24 @@
           "number": 1,
           "name": "Time in a Bottle",
           "duration": "2:22"
+        }
+      ]
+    },
+    {
+      "name": "Possibility",
+      "year": "2022",
+      "release_date": "2022-12-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/13/49/81/1349816d-34a2-3fe5-ddc6-215d829b3be8/5054197461569.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Possibility",
+          "duration": "5:06"
+        },
+        {
+          "number": 2,
+          "name": "Possibility (Slowed Down)",
+          "duration": "6:23"
         }
       ]
     },
@@ -1225,6 +1215,29 @@
           "number": 1,
           "name": "two nights part ii",
           "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "Covers",
+      "year": "2025",
+      "release_date": "2025-06-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/4a/b4/6f4ab464-84b4-3d84-637a-10ee73abeb6a/5400863190002_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stand By Me",
+          "duration": "3:24"
+        },
+        {
+          "number": 2,
+          "name": "Into My Arms",
+          "duration": "4:35"
+        },
+        {
+          "number": 3,
+          "name": "Love Hurts",
+          "duration": "2:07"
         }
       ]
     },
@@ -1303,19 +1316,6 @@
           "number": 1,
           "name": "sex money feelings die REMIX (feat. Lil Baby & SNOWSA)",
           "duration": "2:42"
-        }
-      ]
-    },
-    {
-      "name": "Little Bit (feat. Autoerotique) [Remix]",
-      "year": "2022",
-      "release_date": "2022-09-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f0/25/b0/f025b066-44c9-d2d4-b5ef-444c9a4be1b3/5054197332524.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Little Bit (feat. Autoerotique) [Remix]",
-          "duration": "3:54"
         }
       ]
     },
@@ -1452,44 +1452,6 @@
   ],
   "eps": [
     {
-      "name": "still sad still sexy",
-      "year": "2019",
-      "release_date": "2019-07-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9a/c8/f5/9ac8f519-2577-74d7-6eec-0b2890e28f68/886447778036.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "sex money feelings die (REMIX) [feat. Lil Baby & SNOWSA]",
-          "duration": "2:42"
-        },
-        {
-          "number": 2,
-          "name": "Two Nights Part ii",
-          "duration": "3:31"
-        },
-        {
-          "number": 3,
-          "name": "Baby Doves",
-          "duration": "2:55"
-        },
-        {
-          "number": 4,
-          "name": "Neon",
-          "duration": "3:25"
-        },
-        {
-          "number": 5,
-          "name": "So Sad So Sexy (alt version)",
-          "duration": "4:01"
-        },
-        {
-          "number": 6,
-          "name": "Deep End (alt version)",
-          "duration": "5:33"
-        }
-      ]
-    },
-    {
       "name": "iTunes Festival: London 2008",
       "year": "2008",
       "release_date": "2008-06-02",
@@ -1552,6 +1514,44 @@
           "number": 4,
           "name": "Paris Blue",
           "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "still sad still sexy",
+      "year": "2019",
+      "release_date": "2019-07-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9a/c8/f5/9ac8f519-2577-74d7-6eec-0b2890e28f68/886447778036.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "sex money feelings die (REMIX) [feat. Lil Baby & SNOWSA]",
+          "duration": "2:42"
+        },
+        {
+          "number": 2,
+          "name": "Two Nights Part ii",
+          "duration": "3:31"
+        },
+        {
+          "number": 3,
+          "name": "Baby Doves",
+          "duration": "2:55"
+        },
+        {
+          "number": 4,
+          "name": "Neon",
+          "duration": "3:25"
+        },
+        {
+          "number": 5,
+          "name": "So Sad So Sexy (alt version)",
+          "duration": "4:01"
+        },
+        {
+          "number": 6,
+          "name": "Deep End (alt version)",
+          "duration": "5:33"
         }
       ]
     },

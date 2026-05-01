@@ -3,64 +3,6 @@
   "id": 132793877,
   "albums": [
     {
-      "name": "L'autre",
-      "year": "1991",
-      "release_date": "1991-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/1a/07/761a0784-0627-5f39-0afc-abf9a4e33172/06UMGIM40671.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Agnus Dei",
-          "duration": "5:46"
-        },
-        {
-          "number": 2,
-          "name": "Désenchantée",
-          "duration": "5:22"
-        },
-        {
-          "number": 3,
-          "name": "L'autre",
-          "duration": "5:20"
-        },
-        {
-          "number": 4,
-          "name": "Je t'aime mélancolie (remix)",
-          "duration": "5:31"
-        },
-        {
-          "number": 5,
-          "name": "Psychiatric",
-          "duration": "6:05"
-        },
-        {
-          "number": 6,
-          "name": "Regrets",
-          "duration": "5:13"
-        },
-        {
-          "number": 7,
-          "name": "Pas de doute",
-          "duration": "5:14"
-        },
-        {
-          "number": 8,
-          "name": "Il n'y a pas d'ailleurs",
-          "duration": "5:43"
-        },
-        {
-          "number": 9,
-          "name": "Beyond My Control",
-          "duration": "5:24"
-        },
-        {
-          "number": 10,
-          "name": "Nous souviendrons-nous ?",
-          "duration": "5:11"
-        }
-      ]
-    },
-    {
       "name": "L'Emprise",
       "year": "2022",
       "release_date": "2022-11-25",
@@ -135,6 +77,64 @@
           "number": 14,
           "name": "Invisibles (Version piano voix)",
           "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "L'autre",
+      "year": "1991",
+      "release_date": "1991-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/76/1a/07/761a0784-0627-5f39-0afc-abf9a4e33172/06UMGIM40671.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Agnus Dei",
+          "duration": "5:46"
+        },
+        {
+          "number": 2,
+          "name": "Désenchantée",
+          "duration": "5:22"
+        },
+        {
+          "number": 3,
+          "name": "L'autre",
+          "duration": "5:20"
+        },
+        {
+          "number": 4,
+          "name": "Je t'aime mélancolie (remix)",
+          "duration": "5:31"
+        },
+        {
+          "number": 5,
+          "name": "Psychiatric",
+          "duration": "6:05"
+        },
+        {
+          "number": 6,
+          "name": "Regrets",
+          "duration": "5:13"
+        },
+        {
+          "number": 7,
+          "name": "Pas de doute",
+          "duration": "5:14"
+        },
+        {
+          "number": 8,
+          "name": "Il n'y a pas d'ailleurs",
+          "duration": "5:43"
+        },
+        {
+          "number": 9,
+          "name": "Beyond My Control",
+          "duration": "5:24"
+        },
+        {
+          "number": 10,
+          "name": "Nous souviendrons-nous ?",
+          "duration": "5:11"
         }
       ]
     },

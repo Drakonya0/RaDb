@@ -1,7 +1,66 @@
 {
   "name": "Hensonn",
   "id": 1276080366,
-  "albums": [],
+  "albums": [
+    {
+      "name": "PPPHNK",
+      "year": "2026",
+      "release_date": "2026-04-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/1a/f1/ef1af1de-0746-25b4-e8ed-830b1beb5e6c/820200516084.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "b@r@b@n_k!ll@_808.exe",
+          "duration": "2:43"
+        },
+        {
+          "number": 2,
+          "name": "m@n!f3st_m0d3.exe",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "0ch!_r3d_3y3$.sys",
+          "duration": "1:45"
+        },
+        {
+          "number": 4,
+          "name": "d3j@vy_l00p_404.dll",
+          "duration": "1:41"
+        },
+        {
+          "number": 5,
+          "name": "dymu_$m0k3.tmp",
+          "duration": "2:16"
+        },
+        {
+          "number": 6,
+          "name": "2000_vh$.iso",
+          "duration": "1:26"
+        },
+        {
+          "number": 7,
+          "name": "r@nd3vy_n!ght.dat",
+          "duration": "1:25"
+        },
+        {
+          "number": 8,
+          "name": "m!r@g_h3@t.exe",
+          "duration": "1:47"
+        },
+        {
+          "number": 9,
+          "name": "n@_g0ry_3ch0.sys",
+          "duration": "1:15"
+        },
+        {
+          "number": 10,
+          "name": "t@m_y_t0p0l!_b0unc3.jar",
+          "duration": "1:20"
+        }
+      ]
+    }
+  ],
   "singles": [
     {
       "name": "Sahara",
@@ -30,19 +89,6 @@
       ]
     },
     {
-      "name": "Japan",
-      "year": "2022",
-      "release_date": "2022-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/48/73/39487328-b88e-4847-49f9-6f4ed6934ca4/196626573575.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Japan",
-          "duration": "2:14"
-        }
-      ]
-    },
-    {
       "name": "Flare",
       "year": "2022",
       "release_date": "2022-11-11",
@@ -52,6 +98,19 @@
           "number": 1,
           "name": "Flare",
           "duration": "2:31"
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "year": "2022",
+      "release_date": "2022-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/48/73/39487328-b88e-4847-49f9-6f4ed6934ca4/196626573575.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Japan",
+          "duration": "2:14"
         }
       ]
     },

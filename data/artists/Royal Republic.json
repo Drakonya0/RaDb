@@ -3,6 +3,69 @@
   "id": 280037194,
   "albums": [
     {
+      "name": "Lovecop",
+      "year": "2024",
+      "release_date": "2024-06-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/a1/de/4ba1def7-5be9-e598-1b30-44547fdeb626/4262428350464.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro My House",
+          "duration": "0:25"
+        },
+        {
+          "number": 2,
+          "name": "My House",
+          "duration": "3:15"
+        },
+        {
+          "number": 3,
+          "name": "Lovecop",
+          "duration": "4:09"
+        },
+        {
+          "number": 4,
+          "name": "Wow! Wow! Wow!",
+          "duration": "3:40"
+        },
+        {
+          "number": 5,
+          "name": "Freakshow",
+          "duration": "3:57"
+        },
+        {
+          "number": 6,
+          "name": "Lazerlove",
+          "duration": "4:18"
+        },
+        {
+          "number": 7,
+          "name": "Boots",
+          "duration": "2:38"
+        },
+        {
+          "number": 8,
+          "name": "Love Somebody",
+          "duration": "2:34"
+        },
+        {
+          "number": 9,
+          "name": "Ain't Got Time",
+          "duration": "2:41"
+        },
+        {
+          "number": 10,
+          "name": "Electra",
+          "duration": "4:15"
+        },
+        {
+          "number": 11,
+          "name": "Sha - La - La - Lady",
+          "duration": "3:18"
+        }
+      ]
+    },
+    {
       "name": "Weekend Man",
       "year": "2016",
       "release_date": "2016-02-26",
@@ -155,69 +218,6 @@
           "number": 13,
           "name": "Oioioi",
           "duration": "4:46"
-        }
-      ]
-    },
-    {
-      "name": "Lovecop",
-      "year": "2024",
-      "release_date": "2024-06-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/a1/de/4ba1def7-5be9-e598-1b30-44547fdeb626/4262428350464.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro My House",
-          "duration": "0:25"
-        },
-        {
-          "number": 2,
-          "name": "My House",
-          "duration": "3:15"
-        },
-        {
-          "number": 3,
-          "name": "Lovecop",
-          "duration": "4:09"
-        },
-        {
-          "number": 4,
-          "name": "Wow! Wow! Wow!",
-          "duration": "3:40"
-        },
-        {
-          "number": 5,
-          "name": "Freakshow",
-          "duration": "3:57"
-        },
-        {
-          "number": 6,
-          "name": "Lazerlove",
-          "duration": "4:18"
-        },
-        {
-          "number": 7,
-          "name": "Boots",
-          "duration": "2:38"
-        },
-        {
-          "number": 8,
-          "name": "Love Somebody",
-          "duration": "2:34"
-        },
-        {
-          "number": 9,
-          "name": "Ain't Got Time",
-          "duration": "2:41"
-        },
-        {
-          "number": 10,
-          "name": "Electra",
-          "duration": "4:15"
-        },
-        {
-          "number": 11,
-          "name": "Sha - La - La - Lady",
-          "duration": "3:18"
         }
       ]
     },
@@ -663,6 +663,34 @@
       ]
     },
     {
+      "name": "The Blastbeaters",
+      "year": "2025",
+      "release_date": "2025-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/f2/d1/4ef2d1c6-4723-f11f-38b7-5179220dbf88/4262428352000.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Venus",
+          "duration": "3:08"
+        },
+        {
+          "number": 2,
+          "name": "I'm so Excited",
+          "duration": "3:00"
+        },
+        {
+          "number": 3,
+          "name": "Stayin' Alive",
+          "duration": "3:29"
+        },
+        {
+          "number": 4,
+          "name": "Go West",
+          "duration": "3:38"
+        }
+      ]
+    },
+    {
       "name": "Live at L'olympia",
       "year": "2023",
       "release_date": "2023-06-30",
@@ -692,34 +720,6 @@
           "number": 5,
           "name": "Are You Gonna Go My Way (Live at L'olympia)",
           "duration": "4:23"
-        }
-      ]
-    },
-    {
-      "name": "The Blastbeaters",
-      "year": "2025",
-      "release_date": "2025-11-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/f2/d1/4ef2d1c6-4723-f11f-38b7-5179220dbf88/4262428352000.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Venus",
-          "duration": "3:08"
-        },
-        {
-          "number": 2,
-          "name": "I'm so Excited",
-          "duration": "3:00"
-        },
-        {
-          "number": 3,
-          "name": "Stayin' Alive",
-          "duration": "3:29"
-        },
-        {
-          "number": 4,
-          "name": "Go West",
-          "duration": "3:38"
         }
       ]
     }

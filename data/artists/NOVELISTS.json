@@ -3,6 +3,142 @@
   "id": 216107954,
   "albums": [
     {
+      "name": "CODA",
+      "year": "2025",
+      "release_date": "2025-05-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/4c/37/ab4c3781-de5c-d3c0-dc3f-9590e854824f/199066050781.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Say My Name",
+          "duration": "4:08"
+        },
+        {
+          "number": 2,
+          "name": "Coda",
+          "duration": "4:09"
+        },
+        {
+          "number": 3,
+          "name": "All For Nothing",
+          "duration": "4:08"
+        },
+        {
+          "number": 4,
+          "name": "Maldición de la Bruja",
+          "duration": "3:00"
+        },
+        {
+          "number": 5,
+          "name": "In Heaven",
+          "duration": "4:24"
+        },
+        {
+          "number": 6,
+          "name": "Adam and Eve",
+          "duration": "4:21"
+        },
+        {
+          "number": 7,
+          "name": "Sleepless Nights",
+          "duration": "5:10"
+        },
+        {
+          "number": 8,
+          "name": "78 rue...",
+          "duration": "2:39"
+        },
+        {
+          "number": 9,
+          "name": "CRC",
+          "duration": "2:30"
+        },
+        {
+          "number": 10,
+          "name": "K.O.",
+          "duration": "4:30"
+        }
+      ]
+    },
+    {
+      "name": "Souvenirs",
+      "year": "2015",
+      "release_date": "2015-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6c/c1/c7/6cc1c737-5152-9ce2-600b-66814e1777cd/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Inanimate",
+          "duration": "2:01"
+        },
+        {
+          "number": 2,
+          "name": "Earth Grazer",
+          "duration": "3:27"
+        },
+        {
+          "number": 3,
+          "name": "Gravity",
+          "duration": "4:52"
+        },
+        {
+          "number": 4,
+          "name": "Antares",
+          "duration": "4:44"
+        },
+        {
+          "number": 5,
+          "name": "Ouroboros",
+          "duration": "4:34"
+        },
+        {
+          "number": 6,
+          "name": "Black Lights",
+          "duration": "1:23"
+        },
+        {
+          "number": 7,
+          "name": "Voyager",
+          "duration": "4:32"
+        },
+        {
+          "number": 8,
+          "name": "Muchos Touché",
+          "duration": "2:38"
+        },
+        {
+          "number": 9,
+          "name": "Echoes",
+          "duration": "4:29"
+        },
+        {
+          "number": 10,
+          "name": "5:12 Am",
+          "duration": "4:16"
+        },
+        {
+          "number": 11,
+          "name": "The Lichtenberg Figure",
+          "duration": "5:33"
+        },
+        {
+          "number": 12,
+          "name": "Souvenirs",
+          "duration": "6:24"
+        },
+        {
+          "number": 13,
+          "name": "Twenty Years",
+          "duration": "5:18"
+        },
+        {
+          "number": 14,
+          "name": "Heartfelt",
+          "duration": "7:16"
+        }
+      ]
+    },
+    {
       "name": "Noir",
       "year": "2017",
       "release_date": "2017-09-08",
@@ -67,64 +203,6 @@
           "number": 12,
           "name": "Heal the Wound",
           "duration": "5:37"
-        }
-      ]
-    },
-    {
-      "name": "CODA",
-      "year": "2025",
-      "release_date": "2025-05-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/4c/37/ab4c3781-de5c-d3c0-dc3f-9590e854824f/199066050781.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Say My Name",
-          "duration": "4:08"
-        },
-        {
-          "number": 2,
-          "name": "Coda",
-          "duration": "4:09"
-        },
-        {
-          "number": 3,
-          "name": "All For Nothing",
-          "duration": "4:08"
-        },
-        {
-          "number": 4,
-          "name": "Maldición de la Bruja",
-          "duration": "3:00"
-        },
-        {
-          "number": 5,
-          "name": "In Heaven",
-          "duration": "4:24"
-        },
-        {
-          "number": 6,
-          "name": "Adam and Eve",
-          "duration": "4:21"
-        },
-        {
-          "number": 7,
-          "name": "Sleepless Nights",
-          "duration": "5:10"
-        },
-        {
-          "number": 8,
-          "name": "78 rue...",
-          "duration": "2:39"
-        },
-        {
-          "number": 9,
-          "name": "CRC",
-          "duration": "2:30"
-        },
-        {
-          "number": 10,
-          "name": "K.O.",
-          "duration": "4:30"
         }
       ]
     },
@@ -246,84 +324,6 @@
           "number": 12,
           "name": "Lost Cause",
           "duration": "4:50"
-        }
-      ]
-    },
-    {
-      "name": "Souvenirs",
-      "year": "2015",
-      "release_date": "2015-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6c/c1/c7/6cc1c737-5152-9ce2-600b-66814e1777cd/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Inanimate",
-          "duration": "2:01"
-        },
-        {
-          "number": 2,
-          "name": "Earth Grazer",
-          "duration": "3:27"
-        },
-        {
-          "number": 3,
-          "name": "Gravity",
-          "duration": "4:52"
-        },
-        {
-          "number": 4,
-          "name": "Antares",
-          "duration": "4:44"
-        },
-        {
-          "number": 5,
-          "name": "Ouroboros",
-          "duration": "4:34"
-        },
-        {
-          "number": 6,
-          "name": "Black Lights",
-          "duration": "1:23"
-        },
-        {
-          "number": 7,
-          "name": "Voyager",
-          "duration": "4:32"
-        },
-        {
-          "number": 8,
-          "name": "Muchos Touché",
-          "duration": "2:38"
-        },
-        {
-          "number": 9,
-          "name": "Echoes",
-          "duration": "4:29"
-        },
-        {
-          "number": 10,
-          "name": "5:12 Am",
-          "duration": "4:16"
-        },
-        {
-          "number": 11,
-          "name": "The Lichtenberg Figure",
-          "duration": "5:33"
-        },
-        {
-          "number": 12,
-          "name": "Souvenirs",
-          "duration": "6:24"
-        },
-        {
-          "number": 13,
-          "name": "Twenty Years",
-          "duration": "5:18"
-        },
-        {
-          "number": 14,
-          "name": "Heartfelt",
-          "duration": "7:16"
         }
       ]
     },

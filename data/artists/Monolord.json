@@ -112,39 +112,6 @@
       ]
     },
     {
-      "name": "Your Time to Shine",
-      "year": "2021",
-      "release_date": "2021-10-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/65/1a/c3651af3-c1ac-e08f-e1cc-ef806e928723/781676445714.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Weary",
-          "duration": "4:58"
-        },
-        {
-          "number": 2,
-          "name": "To Each Their Own",
-          "duration": "7:28"
-        },
-        {
-          "number": 3,
-          "name": "I'll Be Damned",
-          "duration": "6:53"
-        },
-        {
-          "number": 4,
-          "name": "Your Time to Shine",
-          "duration": "10:25"
-        },
-        {
-          "number": 5,
-          "name": "The Siren of Yersinia",
-          "duration": "9:11"
-        }
-      ]
-    },
-    {
       "name": "No Comfort",
       "year": "2019",
       "release_date": "2019-09-20",
@@ -179,6 +146,39 @@
           "number": 6,
           "name": "No Comfort",
           "duration": "10:54"
+        }
+      ]
+    },
+    {
+      "name": "Your Time to Shine",
+      "year": "2021",
+      "release_date": "2021-10-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/65/1a/c3651af3-c1ac-e08f-e1cc-ef806e928723/781676445714.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Weary",
+          "duration": "4:58"
+        },
+        {
+          "number": 2,
+          "name": "To Each Their Own",
+          "duration": "7:28"
+        },
+        {
+          "number": 3,
+          "name": "I'll Be Damned",
+          "duration": "6:53"
+        },
+        {
+          "number": 4,
+          "name": "Your Time to Shine",
+          "duration": "10:25"
+        },
+        {
+          "number": 5,
+          "name": "The Siren of Yersinia",
+          "duration": "9:11"
         }
       ]
     },
@@ -304,24 +304,6 @@
   ],
   "singles": [
     {
-      "name": "It's All The Same",
-      "year": "2023",
-      "release_date": "2023-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/cf/c8/ddcfc859-2727-2d46-fa6f-e39255cec8d5/781676499519.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Glaive (It's All The Same)",
-          "duration": "6:02"
-        },
-        {
-          "number": 2,
-          "name": "The Only Road",
-          "duration": "6:40"
-        }
-      ]
-    },
-    {
       "name": "Lord of Suffering",
       "year": "2016",
       "release_date": "2016-08-05",
@@ -336,6 +318,24 @@
           "number": 2,
           "name": "Die in Haze",
           "duration": "5:25"
+        }
+      ]
+    },
+    {
+      "name": "It's All The Same",
+      "year": "2023",
+      "release_date": "2023-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/cf/c8/ddcfc859-2727-2d46-fa6f-e39255cec8d5/781676499519.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Glaive (It's All The Same)",
+          "duration": "6:02"
+        },
+        {
+          "number": 2,
+          "name": "The Only Road",
+          "duration": "6:40"
         }
       ]
     },

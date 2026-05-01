@@ -227,6 +227,19 @@
       ]
     },
     {
+      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Daft Punk Remix]",
+      "year": "2013",
+      "release_date": "2013-07-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ba/58/0c/ba580cb1-a7e2-4771-e1a9-244f32ba15a4/886444079006.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Daft Punk Remix]",
+          "duration": "10:32"
+        }
+      ]
+    },
+    {
       "name": "Homework",
       "year": "1997",
       "release_date": "1997-01-20",
@@ -536,19 +549,6 @@
       ]
     },
     {
-      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Daft Punk Remix]",
-      "year": "2013",
-      "release_date": "2013-07-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ba/58/0c/ba580cb1-a7e2-4771-e1a9-244f32ba15a4/886444079006.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Daft Punk Remix]",
-          "duration": "10:32"
-        }
-      ]
-    },
-    {
       "name": "TRON: Legacy (Original Motion Picture Soundtrack)",
       "year": "2010",
       "release_date": "2010-12-03",
@@ -673,89 +673,6 @@
           "number": 24,
           "name": "Outlands, Pt. II",
           "duration": "2:53"
-        }
-      ]
-    },
-    {
-      "name": "Musique, Vol. 1 (1993-2005)",
-      "year": "2006",
-      "release_date": "2006-04-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/ba/04/2e/ba042ef2-6682-3ad0-7070-2eaad226477b/dj.frtlfdqh.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Musique",
-          "duration": "6:53"
-        },
-        {
-          "number": 2,
-          "name": "Da Funk",
-          "duration": "5:28"
-        },
-        {
-          "number": 3,
-          "name": "Around the World (Radio Edit)",
-          "duration": "4:01"
-        },
-        {
-          "number": 4,
-          "name": "Revolution 909",
-          "duration": "5:35"
-        },
-        {
-          "number": 5,
-          "name": "Alive",
-          "duration": "5:16"
-        },
-        {
-          "number": 6,
-          "name": "Rollin' & Scratchin'",
-          "duration": "7:28"
-        },
-        {
-          "number": 7,
-          "name": "One More Time (Short Radio Edit)",
-          "duration": "3:55"
-        },
-        {
-          "number": 8,
-          "name": "Harder Better Faster Stronger",
-          "duration": "3:46"
-        },
-        {
-          "number": 9,
-          "name": "Something About Us",
-          "duration": "3:52"
-        },
-        {
-          "number": 10,
-          "name": "Robot Rock",
-          "duration": "4:47"
-        },
-        {
-          "number": 11,
-          "name": "Technologic (Radio Edit)",
-          "duration": "2:46"
-        },
-        {
-          "number": 12,
-          "name": "Human After All",
-          "duration": "5:19"
-        },
-        {
-          "number": 13,
-          "name": "Mothership Reconnection (feat. Parliament & Funkadelic) [Daft Punk Remix]",
-          "duration": "4:00"
-        },
-        {
-          "number": 14,
-          "name": "Chord Memory (Daft Punk Remix)",
-          "duration": "6:55"
-        },
-        {
-          "number": 15,
-          "name": "Digital Love",
-          "duration": "5:01"
         }
       ]
     },
@@ -974,6 +891,89 @@
       ]
     },
     {
+      "name": "Musique, Vol. 1 (1993-2005)",
+      "year": "2006",
+      "release_date": "2006-04-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/ba/04/2e/ba042ef2-6682-3ad0-7070-2eaad226477b/dj.frtlfdqh.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Musique",
+          "duration": "6:53"
+        },
+        {
+          "number": 2,
+          "name": "Da Funk",
+          "duration": "5:28"
+        },
+        {
+          "number": 3,
+          "name": "Around the World (Radio Edit)",
+          "duration": "4:01"
+        },
+        {
+          "number": 4,
+          "name": "Revolution 909",
+          "duration": "5:35"
+        },
+        {
+          "number": 5,
+          "name": "Alive",
+          "duration": "5:16"
+        },
+        {
+          "number": 6,
+          "name": "Rollin' & Scratchin'",
+          "duration": "7:28"
+        },
+        {
+          "number": 7,
+          "name": "One More Time (Short Radio Edit)",
+          "duration": "3:55"
+        },
+        {
+          "number": 8,
+          "name": "Harder Better Faster Stronger",
+          "duration": "3:46"
+        },
+        {
+          "number": 9,
+          "name": "Something About Us",
+          "duration": "3:52"
+        },
+        {
+          "number": 10,
+          "name": "Robot Rock",
+          "duration": "4:47"
+        },
+        {
+          "number": 11,
+          "name": "Technologic (Radio Edit)",
+          "duration": "2:46"
+        },
+        {
+          "number": 12,
+          "name": "Human After All",
+          "duration": "5:19"
+        },
+        {
+          "number": 13,
+          "name": "Mothership Reconnection (feat. Parliament & Funkadelic) [Daft Punk Remix]",
+          "duration": "4:00"
+        },
+        {
+          "number": 14,
+          "name": "Chord Memory (Daft Punk Remix)",
+          "duration": "6:55"
+        },
+        {
+          "number": 15,
+          "name": "Digital Love",
+          "duration": "5:01"
+        }
+      ]
+    },
+    {
       "name": "Homework (25th Anniversary Edition)",
       "year": "1997",
       "release_date": "1997-01-20",
@@ -1137,84 +1137,6 @@
       ]
     },
     {
-      "name": "Daft Club",
-      "year": "2003",
-      "release_date": "2003-11-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/ac/e1/07/ace10786-a064-0ed0-17ff-ba0cebecefe9/dj.mpdjtkyu.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ouverture",
-          "duration": "2:40"
-        },
-        {
-          "number": 2,
-          "name": "Aerodynamic (Daft Punk Remix)",
-          "duration": "6:10"
-        },
-        {
-          "number": 3,
-          "name": "Harder Better Faster Stronger (The Neptunes Remix)",
-          "duration": "5:12"
-        },
-        {
-          "number": 4,
-          "name": "Face To Face (Cosmo VItelli Remix)",
-          "duration": "4:54"
-        },
-        {
-          "number": 5,
-          "name": "Phoenix (Basement Jaxx Remix)",
-          "duration": "7:53"
-        },
-        {
-          "number": 6,
-          "name": "Digital Love (Boris Dlugosch Remix)",
-          "duration": "7:30"
-        },
-        {
-          "number": 7,
-          "name": "Harder Better Faster Stronger (Jess and Crabbe Mix)",
-          "duration": "6:01"
-        },
-        {
-          "number": 8,
-          "name": "Face To Face (Demon Remix)",
-          "duration": "6:59"
-        },
-        {
-          "number": 9,
-          "name": "Crescendolls (Laidback Remix)",
-          "duration": "5:25"
-        },
-        {
-          "number": 10,
-          "name": "Aerodynamic (Slum Village Remix)",
-          "duration": "3:37"
-        },
-        {
-          "number": 11,
-          "name": "Too Long (Gonzales Version)",
-          "duration": "3:13"
-        },
-        {
-          "number": 12,
-          "name": "Aerodynamite",
-          "duration": "7:48"
-        },
-        {
-          "number": 13,
-          "name": "One More Time (Romanthony's Unplugged)",
-          "duration": "3:40"
-        },
-        {
-          "number": 14,
-          "name": "Something About Us (Love Theme From Interstella 5555)",
-          "duration": "2:14"
-        }
-      ]
-    },
-    {
       "name": "Human After All (Remixes)",
       "year": "2006",
       "release_date": "2006-03-29",
@@ -1294,6 +1216,84 @@
           "number": 15,
           "name": "Technologic (Knight Club Remix)",
           "duration": "5:28"
+        }
+      ]
+    },
+    {
+      "name": "Daft Club",
+      "year": "2003",
+      "release_date": "2003-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/ac/e1/07/ace10786-a064-0ed0-17ff-ba0cebecefe9/dj.mpdjtkyu.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ouverture",
+          "duration": "2:40"
+        },
+        {
+          "number": 2,
+          "name": "Aerodynamic (Daft Punk Remix)",
+          "duration": "6:10"
+        },
+        {
+          "number": 3,
+          "name": "Harder Better Faster Stronger (The Neptunes Remix)",
+          "duration": "5:12"
+        },
+        {
+          "number": 4,
+          "name": "Face To Face (Cosmo VItelli Remix)",
+          "duration": "4:54"
+        },
+        {
+          "number": 5,
+          "name": "Phoenix (Basement Jaxx Remix)",
+          "duration": "7:53"
+        },
+        {
+          "number": 6,
+          "name": "Digital Love (Boris Dlugosch Remix)",
+          "duration": "7:30"
+        },
+        {
+          "number": 7,
+          "name": "Harder Better Faster Stronger (Jess and Crabbe Mix)",
+          "duration": "6:01"
+        },
+        {
+          "number": 8,
+          "name": "Face To Face (Demon Remix)",
+          "duration": "6:59"
+        },
+        {
+          "number": 9,
+          "name": "Crescendolls (Laidback Remix)",
+          "duration": "5:25"
+        },
+        {
+          "number": 10,
+          "name": "Aerodynamic (Slum Village Remix)",
+          "duration": "3:37"
+        },
+        {
+          "number": 11,
+          "name": "Too Long (Gonzales Version)",
+          "duration": "3:13"
+        },
+        {
+          "number": 12,
+          "name": "Aerodynamite",
+          "duration": "7:48"
+        },
+        {
+          "number": 13,
+          "name": "One More Time (Romanthony's Unplugged)",
+          "duration": "3:40"
+        },
+        {
+          "number": 14,
+          "name": "Something About Us (Love Theme From Interstella 5555)",
+          "duration": "2:14"
         }
       ]
     },
@@ -1479,6 +1479,29 @@
       ]
     },
     {
+      "name": "Digital Love",
+      "year": "2001",
+      "release_date": "2001-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/3c/80/443c8004-d2b7-df55-83b6-ad2c723963e9/724389769951.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Digital Love",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "Digital Love",
+          "duration": "5:01"
+        },
+        {
+          "number": 3,
+          "name": "Digital Dub",
+          "duration": "4:59"
+        }
+      ]
+    },
+    {
       "name": "Harder Better Faster Stronger (Alive 2007)",
       "year": "2007",
       "release_date": "2007-12-17",
@@ -1506,6 +1529,24 @@
           "number": 1,
           "name": "Robot Rock",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Veridis Quo",
+      "year": "2001",
+      "release_date": "2001-03-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/64/d1/0564d158-e772-c007-68b8-f496bf8e9247/5034644330297.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Veridis Quo (Edit)",
+          "duration": "2:44"
+        },
+        {
+          "number": 2,
+          "name": "Veridis Quo",
+          "duration": "5:45"
         }
       ]
     },
@@ -1546,42 +1587,6 @@
       ]
     },
     {
-      "name": "Digital Love",
-      "year": "2001",
-      "release_date": "2001-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/3c/80/443c8004-d2b7-df55-83b6-ad2c723963e9/724389769951.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Digital Love",
-          "duration": "4:00"
-        },
-        {
-          "number": 2,
-          "name": "Digital Love",
-          "duration": "5:01"
-        },
-        {
-          "number": 3,
-          "name": "Digital Dub",
-          "duration": "4:59"
-        }
-      ]
-    },
-    {
-      "name": "Starboy (feat. Daft Punk) [Kygo Remix]",
-      "year": "2016",
-      "release_date": "2016-11-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/52/b6/be52b6f7-7311-076b-32ba-7aafaba355e5/16UMGIM79313.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Starboy (feat. Daft Punk) [Kygo Remix]",
-          "duration": "4:04"
-        }
-      ]
-    },
-    {
       "name": "Aerodynamic",
       "year": "2001",
       "release_date": "2001-03-26",
@@ -1596,6 +1601,19 @@
           "number": 2,
           "name": "Aerodynamite",
           "duration": "7:48"
+        }
+      ]
+    },
+    {
+      "name": "Starboy (feat. Daft Punk) [Kygo Remix]",
+      "year": "2016",
+      "release_date": "2016-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/be/52/b6/be52b6f7-7311-076b-32ba-7aafaba355e5/16UMGIM79313.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Starboy (feat. Daft Punk) [Kygo Remix]",
+          "duration": "4:04"
         }
       ]
     },
@@ -1640,24 +1658,6 @@
           "number": 1,
           "name": "Technologic (Radio Edit)",
           "duration": "2:46"
-        }
-      ]
-    },
-    {
-      "name": "Veridis Quo",
-      "year": "2001",
-      "release_date": "2001-03-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/64/d1/0564d158-e772-c007-68b8-f496bf8e9247/5034644330297.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Veridis Quo (Edit)",
-          "duration": "2:44"
-        },
-        {
-          "number": 2,
-          "name": "Veridis Quo",
-          "duration": "5:45"
         }
       ]
     },

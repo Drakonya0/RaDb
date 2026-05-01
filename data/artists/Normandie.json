@@ -3,132 +3,6 @@
   "id": 333956462,
   "albums": [
     {
-      "name": "Inguz",
-      "year": "2016",
-      "release_date": "2016-03-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bd/54/b1/bd54b1a2-61e3-c0e8-3166-3ae2291a7b61/857854005558.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fight",
-          "duration": "4:04"
-        },
-        {
-          "number": 2,
-          "name": "Awakening",
-          "duration": "3:11"
-        },
-        {
-          "number": 3,
-          "name": "Collide",
-          "duration": "3:34"
-        },
-        {
-          "number": 4,
-          "name": "Believe",
-          "duration": "3:37"
-        },
-        {
-          "number": 5,
-          "name": "Loop Hole",
-          "duration": "3:35"
-        },
-        {
-          "number": 6,
-          "name": "The Deep Cold",
-          "duration": "3:19"
-        },
-        {
-          "number": 7,
-          "name": "Calling",
-          "duration": "2:57"
-        },
-        {
-          "number": 8,
-          "name": "Starting New",
-          "duration": "3:20"
-        },
-        {
-          "number": 9,
-          "name": "The Storm",
-          "duration": "3:24"
-        },
-        {
-          "number": 10,
-          "name": "Epilogue",
-          "duration": "3:45"
-        }
-      ]
-    },
-    {
-      "name": "White Flag",
-      "year": "2018",
-      "release_date": "2018-10-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/50/fd/5650fdd1-bc66-7d8b-af43-c0dfdbaec13e/192562795217.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ecstasy",
-          "duration": "2:58"
-        },
-        {
-          "number": 2,
-          "name": "White Flag",
-          "duration": "3:45"
-        },
-        {
-          "number": 3,
-          "name": "Enough",
-          "duration": "3:33"
-        },
-        {
-          "number": 4,
-          "name": "Dead",
-          "duration": "3:56"
-        },
-        {
-          "number": 5,
-          "name": "(Don't) Need You",
-          "duration": "4:00"
-        },
-        {
-          "number": 6,
-          "name": "The Bell",
-          "duration": "3:37"
-        },
-        {
-          "number": 7,
-          "name": "Moth",
-          "duration": "3:38"
-        },
-        {
-          "number": 8,
-          "name": "Maniacs",
-          "duration": "3:40"
-        },
-        {
-          "number": 9,
-          "name": "Summer",
-          "duration": "1:18"
-        },
-        {
-          "number": 10,
-          "name": "Keep F*****g It Up",
-          "duration": "3:13"
-        },
-        {
-          "number": 11,
-          "name": "Fever",
-          "duration": "3:21"
-        },
-        {
-          "number": 12,
-          "name": "Heaven",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
       "name": "Dark & Beautiful Secrets",
       "year": "2021",
       "release_date": "2021-02-19",
@@ -246,6 +120,132 @@
           "number": 11,
           "name": "Glue",
           "duration": "2:53"
+        }
+      ]
+    },
+    {
+      "name": "White Flag",
+      "year": "2018",
+      "release_date": "2018-10-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/50/fd/5650fdd1-bc66-7d8b-af43-c0dfdbaec13e/192562795217.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ecstasy",
+          "duration": "2:58"
+        },
+        {
+          "number": 2,
+          "name": "White Flag",
+          "duration": "3:45"
+        },
+        {
+          "number": 3,
+          "name": "Enough",
+          "duration": "3:33"
+        },
+        {
+          "number": 4,
+          "name": "Dead",
+          "duration": "3:56"
+        },
+        {
+          "number": 5,
+          "name": "(Don't) Need You",
+          "duration": "4:00"
+        },
+        {
+          "number": 6,
+          "name": "The Bell",
+          "duration": "3:37"
+        },
+        {
+          "number": 7,
+          "name": "Moth",
+          "duration": "3:38"
+        },
+        {
+          "number": 8,
+          "name": "Maniacs",
+          "duration": "3:40"
+        },
+        {
+          "number": 9,
+          "name": "Summer",
+          "duration": "1:18"
+        },
+        {
+          "number": 10,
+          "name": "Keep F*****g It Up",
+          "duration": "3:13"
+        },
+        {
+          "number": 11,
+          "name": "Fever",
+          "duration": "3:21"
+        },
+        {
+          "number": 12,
+          "name": "Heaven",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Inguz",
+      "year": "2016",
+      "release_date": "2016-03-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bd/54/b1/bd54b1a2-61e3-c0e8-3166-3ae2291a7b61/857854005558.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fight",
+          "duration": "4:04"
+        },
+        {
+          "number": 2,
+          "name": "Awakening",
+          "duration": "3:11"
+        },
+        {
+          "number": 3,
+          "name": "Collide",
+          "duration": "3:34"
+        },
+        {
+          "number": 4,
+          "name": "Believe",
+          "duration": "3:37"
+        },
+        {
+          "number": 5,
+          "name": "Loop Hole",
+          "duration": "3:35"
+        },
+        {
+          "number": 6,
+          "name": "The Deep Cold",
+          "duration": "3:19"
+        },
+        {
+          "number": 7,
+          "name": "Calling",
+          "duration": "2:57"
+        },
+        {
+          "number": 8,
+          "name": "Starting New",
+          "duration": "3:20"
+        },
+        {
+          "number": 9,
+          "name": "The Storm",
+          "duration": "3:24"
+        },
+        {
+          "number": 10,
+          "name": "Epilogue",
+          "duration": "3:45"
         }
       ]
     },
@@ -441,19 +441,6 @@
       ]
     },
     {
-      "name": "Sorry",
-      "year": "2024",
-      "release_date": "2024-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/41/1e/19411eba-c226-7336-5301-6f386118fae0/197189401039.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sorry",
-          "duration": "3:01"
-        }
-      ]
-    },
-    {
       "name": "Hourglass (feat. Dani Winter-Bates)",
       "year": "2023",
       "release_date": "2023-10-01",
@@ -624,6 +611,19 @@
           "number": 1,
           "name": "Butterflies",
           "duration": "2:52"
+        }
+      ]
+    },
+    {
+      "name": "Sorry",
+      "year": "2024",
+      "release_date": "2024-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/41/1e/19411eba-c226-7336-5301-6f386118fae0/197189401039.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sorry",
+          "duration": "3:01"
         }
       ]
     },
@@ -799,6 +799,34 @@
   ],
   "eps": [
     {
+      "name": "Normandie",
+      "year": "2013",
+      "release_date": "2013-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/6f/20/5d/6f205d29-ebee-98ff-b178-4e0a76bd9bde/0885014281122.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Violence",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "Revolution",
+          "duration": "3:36"
+        },
+        {
+          "number": 3,
+          "name": "Neverending",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Everlasting",
+          "duration": "3:58"
+        }
+      ]
+    },
+    {
       "name": "SIDE EFFECTS PT.1",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -828,34 +856,6 @@
           "number": 5,
           "name": "Mayday",
           "duration": "3:10"
-        }
-      ]
-    },
-    {
-      "name": "Normandie",
-      "year": "2013",
-      "release_date": "2013-09-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/6f/20/5d/6f205d29-ebee-98ff-b178-4e0a76bd9bde/0885014281122.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Violence",
-          "duration": "4:00"
-        },
-        {
-          "number": 2,
-          "name": "Revolution",
-          "duration": "3:36"
-        },
-        {
-          "number": 3,
-          "name": "Neverending",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "Everlasting",
-          "duration": "3:58"
         }
       ]
     }

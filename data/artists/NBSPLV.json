@@ -3,6 +3,74 @@
   "id": 1085279676,
   "albums": [
     {
+      "name": "Black Tape",
+      "year": "2017",
+      "release_date": "2017-11-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0f/aa/37/0faa372e-7ec7-afd4-aef2-58349f4aa348/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Redox",
+          "duration": "3:11"
+        },
+        {
+          "number": 2,
+          "name": "Melancholy",
+          "duration": "2:59"
+        },
+        {
+          "number": 3,
+          "name": "Soda",
+          "duration": "3:00"
+        },
+        {
+          "number": 4,
+          "name": "Imprint",
+          "duration": "3:18"
+        },
+        {
+          "number": 5,
+          "name": "Mirrors",
+          "duration": "2:49"
+        },
+        {
+          "number": 6,
+          "name": "Alone",
+          "duration": "3:16"
+        },
+        {
+          "number": 7,
+          "name": "Waiting So Long",
+          "duration": "3:18"
+        },
+        {
+          "number": 8,
+          "name": "Invisible",
+          "duration": "3:05"
+        },
+        {
+          "number": 9,
+          "name": "No Stars Tonight",
+          "duration": "3:00"
+        },
+        {
+          "number": 10,
+          "name": "Untouched",
+          "duration": "3:07"
+        },
+        {
+          "number": 11,
+          "name": "Nothing to Hide",
+          "duration": "3:01"
+        },
+        {
+          "number": 12,
+          "name": "Shadows",
+          "duration": "3:06"
+        }
+      ]
+    },
+    {
       "name": "Jade Tape",
       "year": "2018",
       "release_date": "2018-01-02",
@@ -87,74 +155,6 @@
           "number": 16,
           "name": "Island",
           "duration": "3:16"
-        }
-      ]
-    },
-    {
-      "name": "Black Tape",
-      "year": "2017",
-      "release_date": "2017-11-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0f/aa/37/0faa372e-7ec7-afd4-aef2-58349f4aa348/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Redox",
-          "duration": "3:11"
-        },
-        {
-          "number": 2,
-          "name": "Melancholy",
-          "duration": "2:59"
-        },
-        {
-          "number": 3,
-          "name": "Soda",
-          "duration": "3:00"
-        },
-        {
-          "number": 4,
-          "name": "Imprint",
-          "duration": "3:18"
-        },
-        {
-          "number": 5,
-          "name": "Mirrors",
-          "duration": "2:49"
-        },
-        {
-          "number": 6,
-          "name": "Alone",
-          "duration": "3:16"
-        },
-        {
-          "number": 7,
-          "name": "Waiting So Long",
-          "duration": "3:18"
-        },
-        {
-          "number": 8,
-          "name": "Invisible",
-          "duration": "3:05"
-        },
-        {
-          "number": 9,
-          "name": "No Stars Tonight",
-          "duration": "3:00"
-        },
-        {
-          "number": 10,
-          "name": "Untouched",
-          "duration": "3:07"
-        },
-        {
-          "number": 11,
-          "name": "Nothing to Hide",
-          "duration": "3:01"
-        },
-        {
-          "number": 12,
-          "name": "Shadows",
-          "duration": "3:06"
         }
       ]
     },
@@ -420,6 +420,64 @@
       ]
     },
     {
+      "name": "Prism Horizon",
+      "year": "2025",
+      "release_date": "2025-03-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/19/b1/6019b18a-318d-a246-8c3c-97d7dc4acabf/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Integrity",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Main Parameter",
+          "duration": "3:25"
+        },
+        {
+          "number": 3,
+          "name": "Hesitate",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "Prism Horizon",
+          "duration": "3:09"
+        },
+        {
+          "number": 5,
+          "name": "Component",
+          "duration": "3:16"
+        },
+        {
+          "number": 6,
+          "name": "Accolade",
+          "duration": "3:17"
+        },
+        {
+          "number": 7,
+          "name": "Skeptical",
+          "duration": "2:34"
+        },
+        {
+          "number": 8,
+          "name": "Characters",
+          "duration": "3:29"
+        },
+        {
+          "number": 9,
+          "name": "Invent Suggest",
+          "duration": "2:58"
+        },
+        {
+          "number": 10,
+          "name": "Reconsider",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
       "name": "Perfect Decision",
       "year": "2026",
       "release_date": "2026-02-18",
@@ -479,64 +537,6 @@
           "number": 11,
           "name": "Controlled Thoughts",
           "duration": "2:32"
-        }
-      ]
-    },
-    {
-      "name": "Prism Horizon",
-      "year": "2025",
-      "release_date": "2025-03-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/19/b1/6019b18a-318d-a246-8c3c-97d7dc4acabf/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Integrity",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Main Parameter",
-          "duration": "3:25"
-        },
-        {
-          "number": 3,
-          "name": "Hesitate",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
-          "name": "Prism Horizon",
-          "duration": "3:09"
-        },
-        {
-          "number": 5,
-          "name": "Component",
-          "duration": "3:16"
-        },
-        {
-          "number": 6,
-          "name": "Accolade",
-          "duration": "3:17"
-        },
-        {
-          "number": 7,
-          "name": "Skeptical",
-          "duration": "2:34"
-        },
-        {
-          "number": 8,
-          "name": "Characters",
-          "duration": "3:29"
-        },
-        {
-          "number": 9,
-          "name": "Invent Suggest",
-          "duration": "2:58"
-        },
-        {
-          "number": 10,
-          "name": "Reconsider",
-          "duration": "2:55"
         }
       ]
     },
@@ -1644,6 +1644,19 @@
       ]
     },
     {
+      "name": "Attain",
+      "year": "2026",
+      "release_date": "2026-04-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/77/43/80774375-f0c7-3da1-09d6-c8e70720de78/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Attain",
+          "duration": "3:16"
+        }
+      ]
+    },
+    {
       "name": "Sweet Oranges",
       "year": "2021",
       "release_date": "2021-09-03",
@@ -2708,6 +2721,19 @@
           "number": 1,
           "name": "Hunter",
           "duration": "2:44"
+        }
+      ]
+    },
+    {
+      "name": "Afterglow",
+      "year": "2018",
+      "release_date": "2018-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/53/6d/7c536d58-c82e-54eb-a718-ff0ca8d3a647/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Afterglow",
+          "duration": "3:08"
         }
       ]
     },

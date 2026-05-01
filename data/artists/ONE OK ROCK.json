@@ -237,6 +237,69 @@
       ]
     },
     {
+      "name": "DETOX",
+      "year": "2025",
+      "release_date": "2025-02-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/8a/76/908a76be-039a-4f8b-922c-c6228109f3ea/075679630285.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NASTY",
+          "duration": "3:23"
+        },
+        {
+          "number": 2,
+          "name": "Dystopia",
+          "duration": "3:09"
+        },
+        {
+          "number": 3,
+          "name": "Tropical Therapy",
+          "duration": "3:28"
+        },
+        {
+          "number": 4,
+          "name": "Delusion:All",
+          "duration": "3:04"
+        },
+        {
+          "number": 5,
+          "name": "Party’s Over",
+          "duration": "2:58"
+        },
+        {
+          "number": 6,
+          "name": "Puppets Can't Control  You",
+          "duration": "3:14"
+        },
+        {
+          "number": 7,
+          "name": "Tiny Pieces",
+          "duration": "3:34"
+        },
+        {
+          "number": 8,
+          "name": "This Can’t Be Us",
+          "duration": "4:17"
+        },
+        {
+          "number": 9,
+          "name": "+Matter",
+          "duration": "3:52"
+        },
+        {
+          "number": 10,
+          "name": "C.U.R.I.O.S.I.T.Y. (feat. CHICO CARLITO and Paledusk)",
+          "duration": "3:08"
+        },
+        {
+          "number": 11,
+          "name": "The Pilot </3",
+          "duration": "3:51"
+        }
+      ]
+    },
+    {
       "name": "Eye of the Storm",
       "year": "2019",
       "release_date": "2019-02-13",
@@ -306,69 +369,6 @@
           "number": 13,
           "name": "The Last Time",
           "duration": "2:50"
-        }
-      ]
-    },
-    {
-      "name": "DETOX",
-      "year": "2025",
-      "release_date": "2025-02-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/8a/76/908a76be-039a-4f8b-922c-c6228109f3ea/075679630285.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NASTY",
-          "duration": "3:23"
-        },
-        {
-          "number": 2,
-          "name": "Dystopia",
-          "duration": "3:09"
-        },
-        {
-          "number": 3,
-          "name": "Tropical Therapy",
-          "duration": "3:28"
-        },
-        {
-          "number": 4,
-          "name": "Delusion:All",
-          "duration": "3:04"
-        },
-        {
-          "number": 5,
-          "name": "Party’s Over",
-          "duration": "2:58"
-        },
-        {
-          "number": 6,
-          "name": "Puppets Can't Control  You",
-          "duration": "3:14"
-        },
-        {
-          "number": 7,
-          "name": "Tiny Pieces",
-          "duration": "3:34"
-        },
-        {
-          "number": 8,
-          "name": "This Can’t Be Us",
-          "duration": "4:17"
-        },
-        {
-          "number": 9,
-          "name": "+Matter",
-          "duration": "3:52"
-        },
-        {
-          "number": 10,
-          "name": "C.U.R.I.O.S.I.T.Y. (feat. CHICO CARLITO and Paledusk)",
-          "duration": "3:08"
-        },
-        {
-          "number": 11,
-          "name": "The Pilot </3",
-          "duration": "3:51"
         }
       ]
     },
@@ -449,19 +449,6 @@
   ],
   "singles": [
     {
-      "name": "Make It Out Alive",
-      "year": "2023",
-      "release_date": "2023-08-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/21/36/3721362a-e5e7-266a-3e56-d03c271f2b0b/075679674906.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Make It Out Alive",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "Save Yourself (Japanese Version)",
       "year": "2022",
       "release_date": "2022-06-24",
@@ -471,19 +458,6 @@
           "number": 1,
           "name": "Save Yourself (Japanese Version)",
           "duration": "3:17"
-        }
-      ]
-    },
-    {
-      "name": "Vandalize",
-      "year": "2022",
-      "release_date": "2022-09-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f0/d0/15/f0d015fb-c406-50db-a2d2-166184ac7497/075679728456.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Vandalize",
-          "duration": "3:14"
         }
       ]
     },
@@ -501,15 +475,28 @@
       ]
     },
     {
-      "name": "Broken Heart of Gold (Acoustic)",
-      "year": "2021",
-      "release_date": "2021-07-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/da/9f/c6/da9fc6c6-19c4-237a-832c-d23997a25b40/075679777256.jpg/600x600bb.jpg",
+      "name": "Make It Out Alive",
+      "year": "2023",
+      "release_date": "2023-08-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/21/36/3721362a-e5e7-266a-3e56-d03c271f2b0b/075679674906.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Broken Heart of Gold (Acoustic)",
-          "duration": "3:39"
+          "name": "Make It Out Alive",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Vandalize",
+      "year": "2022",
+      "release_date": "2022-09-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f0/d0/15/f0d015fb-c406-50db-a2d2-166184ac7497/075679728456.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Vandalize",
+          "duration": "3:14"
         }
       ]
     },
@@ -523,6 +510,19 @@
           "number": 1,
           "name": "Renegades (Acoustic)",
           "duration": "4:06"
+        }
+      ]
+    },
+    {
+      "name": "Broken Heart of Gold (Acoustic)",
+      "year": "2021",
+      "release_date": "2021-07-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/da/9f/c6/da9fc6c6-19c4-237a-832c-d23997a25b40/075679777256.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Broken Heart of Gold (Acoustic)",
+          "duration": "3:39"
         }
       ]
     },
@@ -629,5 +629,44 @@
       "tracks": []
     }
   ],
-  "eps": []
+  "eps": [
+    {
+      "name": "Live from DETOX JAPAN TOUR 2025",
+      "year": "2026",
+      "release_date": "2026-04-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/8d/a8/558da8b7-f3ac-4cd3-b75f-27fbd8a7e9d9/075679582942.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Make It Out Alive (DETOX JAPAN TOUR 2025)",
+          "duration": "4:45"
+        },
+        {
+          "number": 2,
+          "name": "NASTY (DETOX JAPAN TOUR 2025)",
+          "duration": "3:33"
+        },
+        {
+          "number": 3,
+          "name": "Party’s Over (DETOX JAPAN TOUR 2025)",
+          "duration": "4:03"
+        },
+        {
+          "number": 4,
+          "name": "Renegades (DETOX JAPAN TOUR 2025)",
+          "duration": "5:37"
+        },
+        {
+          "number": 5,
+          "name": "Delusion:All (DETOX JAPAN TOUR 2025)",
+          "duration": "3:39"
+        },
+        {
+          "number": 6,
+          "name": "The Pilot </3 (DETOX JAPAN TOUR 2025)",
+          "duration": "7:44"
+        }
+      ]
+    }
+  ]
 }

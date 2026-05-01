@@ -532,79 +532,6 @@
       ]
     },
     {
-      "name": "MINUIT UNE",
-      "year": "2025",
-      "release_date": "2025-05-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/d4/fb/8cd4fb83-8468-5ae0-ec24-75be4e3c815d/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Quelle époque",
-          "duration": "2:35"
-        },
-        {
-          "number": 2,
-          "name": "L'amour ça se donne",
-          "duration": "2:46"
-        },
-        {
-          "number": 3,
-          "name": "Décharge Mentale",
-          "duration": "2:05"
-        },
-        {
-          "number": 4,
-          "name": "Comme je veux",
-          "duration": "2:52"
-        },
-        {
-          "number": 5,
-          "name": "Triste",
-          "duration": "3:09"
-        },
-        {
-          "number": 6,
-          "name": "Pourquoi tu restes",
-          "duration": "2:47"
-        },
-        {
-          "number": 7,
-          "name": "Météore",
-          "duration": "2:46"
-        },
-        {
-          "number": 8,
-          "name": "Mima",
-          "duration": "2:45"
-        },
-        {
-          "number": 9,
-          "name": "Personne",
-          "duration": "2:26"
-        },
-        {
-          "number": 10,
-          "name": "Sous l'eau",
-          "duration": "3:35"
-        },
-        {
-          "number": 11,
-          "name": "La norme",
-          "duration": "3:53"
-        },
-        {
-          "number": 12,
-          "name": "Mauvais rôle",
-          "duration": "2:19"
-        },
-        {
-          "number": 13,
-          "name": "Le sas",
-          "duration": "2:52"
-        }
-      ]
-    },
-    {
       "name": "Un jour d'été",
       "year": "2004",
       "release_date": "2004-11-29",
@@ -674,6 +601,79 @@
           "number": 13,
           "name": "Ne retiens pas tes larmes (Piano/Voix)",
           "duration": "3:53"
+        }
+      ]
+    },
+    {
+      "name": "MINUIT UNE",
+      "year": "2025",
+      "release_date": "2025-05-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/d4/fb/8cd4fb83-8468-5ae0-ec24-75be4e3c815d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Quelle époque",
+          "duration": "2:35"
+        },
+        {
+          "number": 2,
+          "name": "L'amour ça se donne",
+          "duration": "2:46"
+        },
+        {
+          "number": 3,
+          "name": "Décharge Mentale",
+          "duration": "2:05"
+        },
+        {
+          "number": 4,
+          "name": "Comme je veux",
+          "duration": "2:52"
+        },
+        {
+          "number": 5,
+          "name": "Triste",
+          "duration": "3:09"
+        },
+        {
+          "number": 6,
+          "name": "Pourquoi tu restes",
+          "duration": "2:47"
+        },
+        {
+          "number": 7,
+          "name": "Météore",
+          "duration": "2:46"
+        },
+        {
+          "number": 8,
+          "name": "Mima",
+          "duration": "2:45"
+        },
+        {
+          "number": 9,
+          "name": "Personne",
+          "duration": "2:26"
+        },
+        {
+          "number": 10,
+          "name": "Sous l'eau",
+          "duration": "3:35"
+        },
+        {
+          "number": 11,
+          "name": "La norme",
+          "duration": "3:53"
+        },
+        {
+          "number": 12,
+          "name": "Mauvais rôle",
+          "duration": "2:19"
+        },
+        {
+          "number": 13,
+          "name": "Le sas",
+          "duration": "2:52"
         }
       ]
     },
@@ -901,19 +901,6 @@
       ]
     },
     {
-      "name": "Triste",
-      "year": "2025",
-      "release_date": "2025-02-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f9/85/41f98522-4b96-2476-3706-4d45e1248512/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Triste",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
       "name": "Quelle époque",
       "year": "2026",
       "release_date": "2026-04-20",
@@ -923,6 +910,19 @@
           "number": 1,
           "name": "Quelle époque",
           "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Triste",
+      "year": "2025",
+      "release_date": "2025-02-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f9/85/41f98522-4b96-2476-3706-4d45e1248512/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Triste",
+          "duration": "3:09"
         }
       ]
     },

@@ -3,6 +3,19 @@
   "id": 81425137,
   "albums": [
     {
+      "name": "Weightless (10 Hour Version)",
+      "year": "2017",
+      "release_date": "2017-11-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/63/80/f76380c0-49fc-7849-a2e4-2833657bdb1b/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Weightless (10 Hour Version)",
+          "duration": "607:32"
+        }
+      ]
+    },
+    {
       "name": "Weightless (Ambient Transmission, Vol. 2)",
       "year": "2014",
       "release_date": "2014-09-22",
@@ -41,15 +54,45 @@
       ]
     },
     {
-      "name": "Weightless (10 Hour Version)",
-      "year": "2017",
-      "release_date": "2017-11-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f7/63/80/f76380c0-49fc-7849-a2e4-2833657bdb1b/cover.jpg/600x600bb.jpg",
+      "name": "A Lost Connection",
+      "year": "2010",
+      "release_date": "2010-07-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/22/18/c9/mzi.ctfnizvq.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Weightless (10 Hour Version)",
-          "duration": "607:32"
+          "name": "Interiors",
+          "duration": "6:23"
+        },
+        {
+          "number": 2,
+          "name": "Endless Winter",
+          "duration": "7:23"
+        },
+        {
+          "number": 3,
+          "name": "Debris",
+          "duration": "4:50"
+        },
+        {
+          "number": 4,
+          "name": "Hinterland",
+          "duration": "5:53"
+        },
+        {
+          "number": 5,
+          "name": "Stationary",
+          "duration": "8:29"
+        },
+        {
+          "number": 6,
+          "name": "We Travel",
+          "duration": "7:01"
+        },
+        {
+          "number": 7,
+          "name": "Transient",
+          "duration": "5:09"
         }
       ]
     },
@@ -88,49 +131,6 @@
           "number": 6,
           "name": "A Shower of Sparks",
           "duration": "7:44"
-        }
-      ]
-    },
-    {
-      "name": "Distance",
-      "year": "2006",
-      "release_date": "2006-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/9f/24/16/mzi.mqrqtfwp.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sleepless",
-          "duration": "5:41"
-        },
-        {
-          "number": 2,
-          "name": "These European Cities",
-          "duration": "7:12"
-        },
-        {
-          "number": 3,
-          "name": "Through Glass",
-          "duration": "5:54"
-        },
-        {
-          "number": 4,
-          "name": "Buildings and People",
-          "duration": "4:59"
-        },
-        {
-          "number": 5,
-          "name": "Suburb27",
-          "duration": "5:24"
-        },
-        {
-          "number": 6,
-          "name": "Inter",
-          "duration": "5:54"
-        },
-        {
-          "number": 7,
-          "name": "A Temporary Life",
-          "duration": "5:04"
         }
       ]
     },
@@ -174,6 +174,49 @@
           "number": 7,
           "name": "Broken Colours",
           "duration": "6:24"
+        }
+      ]
+    },
+    {
+      "name": "Distance",
+      "year": "2006",
+      "release_date": "2006-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/9f/24/16/mzi.mqrqtfwp.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sleepless",
+          "duration": "5:41"
+        },
+        {
+          "number": 2,
+          "name": "These European Cities",
+          "duration": "7:12"
+        },
+        {
+          "number": 3,
+          "name": "Through Glass",
+          "duration": "5:54"
+        },
+        {
+          "number": 4,
+          "name": "Buildings and People",
+          "duration": "4:59"
+        },
+        {
+          "number": 5,
+          "name": "Suburb27",
+          "duration": "5:24"
+        },
+        {
+          "number": 6,
+          "name": "Inter",
+          "duration": "5:54"
+        },
+        {
+          "number": 7,
+          "name": "A Temporary Life",
+          "duration": "5:04"
         }
       ]
     },
@@ -231,45 +274,78 @@
       ]
     },
     {
-      "name": "A Lost Connection",
-      "year": "2010",
-      "release_date": "2010-07-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/22/18/c9/mzi.ctfnizvq.jpg/600x600bb.jpg",
+      "name": "Ghost Stations",
+      "year": "2016",
+      "release_date": "2016-08-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0e/27/47/0e27478b-cfbf-d1c5-924c-afe4e149a3f5/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Interiors",
-          "duration": "6:23"
+          "name": "Sleeper",
+          "duration": "10:00"
         },
         {
           "number": 2,
-          "name": "Endless Winter",
-          "duration": "7:23"
+          "name": "Remnants / Shadow Scheme",
+          "duration": "12:00"
         },
         {
           "number": 3,
-          "name": "Debris",
-          "duration": "4:50"
+          "name": "Abandoned / In Silence",
+          "duration": "14:21"
         },
         {
           "number": 4,
-          "name": "Hinterland",
-          "duration": "5:53"
+          "name": "Riser",
+          "duration": "10:06"
+        }
+      ]
+    },
+    {
+      "name": "Under Wires and Searchlights",
+      "year": "2003",
+      "release_date": "2003-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/d5/6e/35/mzi.pywvkdmb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Glace Bay (part one)",
+          "duration": "1:14"
+        },
+        {
+          "number": 2,
+          "name": "Border Crossing",
+          "duration": "6:34"
+        },
+        {
+          "number": 3,
+          "name": "Northern Stations",
+          "duration": "3:09"
+        },
+        {
+          "number": 4,
+          "name": "The Contact",
+          "duration": "3:31"
         },
         {
           "number": 5,
-          "name": "Stationary",
-          "duration": "8:29"
+          "name": "The Curer Bell Version",
+          "duration": "5:02"
         },
         {
           "number": 6,
-          "name": "We Travel",
-          "duration": "7:01"
+          "name": "In Shadows (parts one and two)",
+          "duration": "8:04"
         },
         {
           "number": 7,
-          "name": "Transient",
-          "duration": "5:09"
+          "name": "Under Wires and Searchlights",
+          "duration": "9:36"
+        },
+        {
+          "number": 8,
+          "name": "Glace Bay (part two)",
+          "duration": "2:21"
         }
       ]
     },
@@ -376,82 +452,6 @@
           "number": 7,
           "name": "Temperature Drop",
           "duration": "5:38"
-        }
-      ]
-    },
-    {
-      "name": "Ghost Stations",
-      "year": "2016",
-      "release_date": "2016-08-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0e/27/47/0e27478b-cfbf-d1c5-924c-afe4e149a3f5/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sleeper",
-          "duration": "10:00"
-        },
-        {
-          "number": 2,
-          "name": "Remnants / Shadow Scheme",
-          "duration": "12:00"
-        },
-        {
-          "number": 3,
-          "name": "Abandoned / In Silence",
-          "duration": "14:21"
-        },
-        {
-          "number": 4,
-          "name": "Riser",
-          "duration": "10:06"
-        }
-      ]
-    },
-    {
-      "name": "Under Wires and Searchlights",
-      "year": "2003",
-      "release_date": "2003-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/d5/6e/35/mzi.pywvkdmb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Glace Bay (part one)",
-          "duration": "1:14"
-        },
-        {
-          "number": 2,
-          "name": "Border Crossing",
-          "duration": "6:34"
-        },
-        {
-          "number": 3,
-          "name": "Northern Stations",
-          "duration": "3:09"
-        },
-        {
-          "number": 4,
-          "name": "The Contact",
-          "duration": "3:31"
-        },
-        {
-          "number": 5,
-          "name": "The Curer Bell Version",
-          "duration": "5:02"
-        },
-        {
-          "number": 6,
-          "name": "In Shadows (parts one and two)",
-          "duration": "8:04"
-        },
-        {
-          "number": 7,
-          "name": "Under Wires and Searchlights",
-          "duration": "9:36"
-        },
-        {
-          "number": 8,
-          "name": "Glace Bay (part two)",
-          "duration": "2:21"
         }
       ]
     },

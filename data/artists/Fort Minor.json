@@ -593,19 +593,6 @@
   ],
   "singles": [
     {
-      "name": "Welcome",
-      "year": "2015",
-      "release_date": "2015-06-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/d1/1a/6dd11a43-c1f7-c6bf-c4b0-36e026f357bc/054391967398.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Welcome",
-          "duration": "3:33"
-        }
-      ]
-    },
-    {
       "name": "Where'd You Go",
       "year": "2006",
       "release_date": "2006-03-27",
@@ -620,6 +607,19 @@
           "number": 2,
           "name": "Where'd You Go",
           "duration": "0:00"
+        }
+      ]
+    },
+    {
+      "name": "Welcome",
+      "year": "2015",
+      "release_date": "2015-06-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/d1/1a/6dd11a43-c1f7-c6bf-c4b0-36e026f357bc/054391967398.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Welcome",
+          "duration": "3:33"
         }
       ]
     },

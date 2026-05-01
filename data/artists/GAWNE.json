@@ -3,6 +3,99 @@
   "id": 273338316,
   "albums": [
     {
+      "name": "Ghosts",
+      "year": "2022",
+      "release_date": "2022-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e2/50/d1/e250d1a8-a313-0b77-e7aa-1a89daec87ec/ebfd5b90-4432-4fae-823b-0a3eb5e74365.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ghosts",
+          "duration": "2:01"
+        },
+        {
+          "number": 2,
+          "name": "Miami",
+          "duration": "2:29"
+        },
+        {
+          "number": 3,
+          "name": "Scars",
+          "duration": "3:24"
+        },
+        {
+          "number": 4,
+          "name": "Drowning",
+          "duration": "2:40"
+        },
+        {
+          "number": 5,
+          "name": "Till the End",
+          "duration": "2:46"
+        },
+        {
+          "number": 6,
+          "name": "Bad Dreams",
+          "duration": "2:21"
+        },
+        {
+          "number": 7,
+          "name": "Lies",
+          "duration": "2:55"
+        },
+        {
+          "number": 8,
+          "name": "Bully",
+          "duration": "2:24"
+        },
+        {
+          "number": 9,
+          "name": "Ghost Town",
+          "duration": "2:33"
+        },
+        {
+          "number": 10,
+          "name": "Hollow",
+          "duration": "3:00"
+        },
+        {
+          "number": 11,
+          "name": "The Last of Us",
+          "duration": "2:39"
+        },
+        {
+          "number": 12,
+          "name": "Leave Me Alone (feat. Liv)",
+          "duration": "2:58"
+        },
+        {
+          "number": 13,
+          "name": "Dark Knight",
+          "duration": "2:41"
+        },
+        {
+          "number": 14,
+          "name": "Die For You",
+          "duration": "2:15"
+        },
+        {
+          "number": 15,
+          "name": "Bad Santa",
+          "duration": "2:54"
+        },
+        {
+          "number": 16,
+          "name": "Lost (feat. Liv)",
+          "duration": "3:02"
+        },
+        {
+          "number": 17,
+          "name": "When I'm Gone",
+          "duration": "1:22"
+        }
+      ]
+    },
+    {
       "name": "Eternal",
       "year": "2020",
       "release_date": "2020-11-09",
@@ -413,99 +506,6 @@
       ]
     },
     {
-      "name": "Ghosts",
-      "year": "2022",
-      "release_date": "2022-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e2/50/d1/e250d1a8-a313-0b77-e7aa-1a89daec87ec/ebfd5b90-4432-4fae-823b-0a3eb5e74365.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ghosts",
-          "duration": "2:01"
-        },
-        {
-          "number": 2,
-          "name": "Miami",
-          "duration": "2:29"
-        },
-        {
-          "number": 3,
-          "name": "Scars",
-          "duration": "3:24"
-        },
-        {
-          "number": 4,
-          "name": "Drowning",
-          "duration": "2:40"
-        },
-        {
-          "number": 5,
-          "name": "Till the End",
-          "duration": "2:46"
-        },
-        {
-          "number": 6,
-          "name": "Bad Dreams",
-          "duration": "2:21"
-        },
-        {
-          "number": 7,
-          "name": "Lies",
-          "duration": "2:55"
-        },
-        {
-          "number": 8,
-          "name": "Bully",
-          "duration": "2:24"
-        },
-        {
-          "number": 9,
-          "name": "Ghost Town",
-          "duration": "2:33"
-        },
-        {
-          "number": 10,
-          "name": "Hollow",
-          "duration": "3:00"
-        },
-        {
-          "number": 11,
-          "name": "The Last of Us",
-          "duration": "2:39"
-        },
-        {
-          "number": 12,
-          "name": "Leave Me Alone (feat. Liv)",
-          "duration": "2:58"
-        },
-        {
-          "number": 13,
-          "name": "Dark Knight",
-          "duration": "2:41"
-        },
-        {
-          "number": 14,
-          "name": "Die For You",
-          "duration": "2:15"
-        },
-        {
-          "number": 15,
-          "name": "Bad Santa",
-          "duration": "2:54"
-        },
-        {
-          "number": 16,
-          "name": "Lost (feat. Liv)",
-          "duration": "3:02"
-        },
-        {
-          "number": 17,
-          "name": "When I'm Gone",
-          "duration": "1:22"
-        }
-      ]
-    },
-    {
       "name": "Gawne Mad",
       "year": "2018",
       "release_date": "2018-05-22",
@@ -775,6 +775,19 @@
   ],
   "singles": [
     {
+      "name": "Take Me Home",
+      "year": "2024",
+      "release_date": "2024-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/08/24/4108246c-4302-3075-cbea-e0c93e3d7f95/7300342711422.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Take Me Home",
+          "duration": "3:08"
+        }
+      ]
+    },
+    {
       "name": "Chopper",
       "year": "2024",
       "release_date": "2024-03-29",
@@ -797,19 +810,6 @@
           "number": 1,
           "name": "This Is War",
           "duration": "3:38"
-        }
-      ]
-    },
-    {
-      "name": "Take Me Home",
-      "year": "2024",
-      "release_date": "2024-11-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/08/24/4108246c-4302-3075-cbea-e0c93e3d7f95/7300342711422.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Take Me Home",
-          "duration": "3:08"
         }
       ]
     },

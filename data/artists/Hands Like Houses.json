@@ -61,6 +61,94 @@
       ]
     },
     {
+      "name": "ATMOSPHERICS",
+      "year": "2025",
+      "release_date": "2025-02-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/a5/b87ba51c-070f-0108-1360-48738f03d31d/198846820422.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Heaven",
+          "duration": "3:47"
+        },
+        {
+          "number": 1,
+          "name": "24 Hours",
+          "duration": "3:08"
+        },
+        {
+          "number": 1,
+          "name": "The Devil of Decisions",
+          "duration": "3:31"
+        },
+        {
+          "number": 1,
+          "name": "Fatally Fractured",
+          "duration": "3:28"
+        },
+        {
+          "number": 2,
+          "name": "Better Before (feat. Aaron Gillespie)",
+          "duration": "3:39"
+        },
+        {
+          "number": 2,
+          "name": "Hollow",
+          "duration": "3:31"
+        },
+        {
+          "number": 2,
+          "name": "Hurts Like Hell",
+          "duration": "3:41"
+        },
+        {
+          "number": 2,
+          "name": "ICU",
+          "duration": "3:37"
+        },
+        {
+          "number": 3,
+          "name": "BLOODRUSH (feat. Emmy Mack)",
+          "duration": "3:32"
+        },
+        {
+          "number": 3,
+          "name": "Panic",
+          "duration": "3:16"
+        },
+        {
+          "number": 3,
+          "name": "Obey",
+          "duration": "3:04"
+        },
+        {
+          "number": 3,
+          "name": "Parasite",
+          "duration": "3:02"
+        },
+        {
+          "number": 4,
+          "name": "Paradise (feat. Matthew Wright)",
+          "duration": "3:38"
+        },
+        {
+          "number": 4,
+          "name": "Wildfire",
+          "duration": "3:20"
+        },
+        {
+          "number": 4,
+          "name": "Chemicals",
+          "duration": "3:11"
+        },
+        {
+          "number": 4,
+          "name": "The End",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
       "name": "Ground Dweller",
       "year": "2012",
       "release_date": "2012-03-13",
@@ -183,94 +271,6 @@
           "number": 11,
           "name": "A Fire On a Hill",
           "duration": "4:59"
-        }
-      ]
-    },
-    {
-      "name": "ATMOSPHERICS",
-      "year": "2025",
-      "release_date": "2025-02-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/7b/a5/b87ba51c-070f-0108-1360-48738f03d31d/198846820422.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Heaven",
-          "duration": "3:47"
-        },
-        {
-          "number": 1,
-          "name": "24 Hours",
-          "duration": "3:08"
-        },
-        {
-          "number": 1,
-          "name": "The Devil of Decisions",
-          "duration": "3:31"
-        },
-        {
-          "number": 1,
-          "name": "Fatally Fractured",
-          "duration": "3:28"
-        },
-        {
-          "number": 2,
-          "name": "Better Before (feat. Aaron Gillespie)",
-          "duration": "3:39"
-        },
-        {
-          "number": 2,
-          "name": "Hollow",
-          "duration": "3:31"
-        },
-        {
-          "number": 2,
-          "name": "Hurts Like Hell",
-          "duration": "3:41"
-        },
-        {
-          "number": 2,
-          "name": "ICU",
-          "duration": "3:37"
-        },
-        {
-          "number": 3,
-          "name": "BLOODRUSH (feat. Emmy Mack)",
-          "duration": "3:32"
-        },
-        {
-          "number": 3,
-          "name": "Panic",
-          "duration": "3:16"
-        },
-        {
-          "number": 3,
-          "name": "Obey",
-          "duration": "3:04"
-        },
-        {
-          "number": 3,
-          "name": "Parasite",
-          "duration": "3:02"
-        },
-        {
-          "number": 4,
-          "name": "Paradise (feat. Matthew Wright)",
-          "duration": "3:38"
-        },
-        {
-          "number": 4,
-          "name": "Wildfire",
-          "duration": "3:20"
-        },
-        {
-          "number": 4,
-          "name": "Chemicals",
-          "duration": "3:11"
-        },
-        {
-          "number": 4,
-          "name": "The End",
-          "duration": "3:46"
         }
       ]
     },
@@ -453,19 +453,6 @@
   ],
   "singles": [
     {
-      "name": "Drift",
-      "year": "2017",
-      "release_date": "2017-06-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/62/b9/a0/62b9a07c-8971-d503-9225-20711b6ae5eb/790692241163.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Drift",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
       "name": "Headrush",
       "year": "2020",
       "release_date": "2020-03-10",
@@ -475,6 +462,19 @@
           "number": 1,
           "name": "Headrush",
           "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Drift",
+      "year": "2017",
+      "release_date": "2017-06-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/62/b9/a0/62b9a07c-8971-d503-9225-20711b6ae5eb/790692241163.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Drift",
+          "duration": "3:42"
         }
       ]
     },
@@ -505,19 +505,6 @@
       ]
     },
     {
-      "name": "DEAD",
-      "year": "2026",
-      "release_date": "2026-04-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/41/b5/e541b513-1633-6d23-2033-f0611aca9880/820200721778.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DEAD",
-          "duration": "3:17"
-        }
-      ]
-    },
-    {
       "name": "Shimmer (triple j Like A Version)",
       "year": "2020",
       "release_date": "2020-10-09",
@@ -527,6 +514,32 @@
           "number": 1,
           "name": "Shimmer (triple j Like A Version)",
           "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "Wicked Game",
+      "year": "2026",
+      "release_date": "2026-01-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/0a/f5/410af5b2-3fb8-d100-894b-33613270cd26/820200061836.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wicked Game",
+          "duration": "3:06"
+        }
+      ]
+    },
+    {
+      "name": "DEAD",
+      "year": "2026",
+      "release_date": "2026-04-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/41/b5/e541b513-1633-6d23-2033-f0611aca9880/820200721778.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DEAD",
+          "duration": "3:17"
         }
       ]
     },
@@ -553,19 +566,6 @@
           "number": 1,
           "name": "Flowers",
           "duration": "2:54"
-        }
-      ]
-    },
-    {
-      "name": "Wicked Game",
-      "year": "2026",
-      "release_date": "2026-01-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/0a/f5/410af5b2-3fb8-d100-894b-33613270cd26/820200061836.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wicked Game",
-          "duration": "3:06"
         }
       ]
     },
@@ -741,6 +741,44 @@
       ]
     },
     {
+      "name": "Lótus",
+      "year": "2026",
+      "release_date": "2026-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/91/b1/9691b170-3671-7650-cdcf-e0ed28306d16/820200692818.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lótus",
+          "duration": "2:41"
+        },
+        {
+          "number": 2,
+          "name": "Flowers",
+          "duration": "2:54"
+        },
+        {
+          "number": 3,
+          "name": "Love & Affection",
+          "duration": "3:03"
+        },
+        {
+          "number": 4,
+          "name": "DEAD (feat. Dream On Dreamer)",
+          "duration": "3:17"
+        },
+        {
+          "number": 5,
+          "name": "Warning Signs (feat. Dream On Dreamer)",
+          "duration": "4:14"
+        },
+        {
+          "number": 6,
+          "name": "Wicked Game",
+          "duration": "3:06"
+        }
+      ]
+    },
+    {
       "name": "Reimagine",
       "year": "2014",
       "release_date": "2014-09-12",
@@ -798,44 +836,6 @@
           "number": 4,
           "name": "The End",
           "duration": "3:46"
-        }
-      ]
-    },
-    {
-      "name": "Lótus",
-      "year": "2026",
-      "release_date": "2026-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/91/b1/9691b170-3671-7650-cdcf-e0ed28306d16/820200692818.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lótus",
-          "duration": "2:41"
-        },
-        {
-          "number": 2,
-          "name": "Flowers",
-          "duration": "2:54"
-        },
-        {
-          "number": 3,
-          "name": "Love & Affection",
-          "duration": "3:03"
-        },
-        {
-          "number": 4,
-          "name": "DEAD (feat. Dream On Dreamer)",
-          "duration": "3:17"
-        },
-        {
-          "number": 5,
-          "name": "Warning Signs (feat. Dream On Dreamer)",
-          "duration": "4:14"
-        },
-        {
-          "number": 6,
-          "name": "Wicked Game",
-          "duration": "3:06"
         }
       ]
     }

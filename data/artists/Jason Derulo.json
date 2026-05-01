@@ -3,64 +3,6 @@
   "id": 259118085,
   "albums": [
     {
-      "name": "Jason Derulo",
-      "year": "2010",
-      "release_date": "2010-02-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2a/e1/fc/2ae1fc34-a98d-20bf-33ed-71e321773b0a/dj.lykipmdm.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Whatcha Say",
-          "duration": "3:41"
-        },
-        {
-          "number": 2,
-          "name": "Ridin' Solo",
-          "duration": "3:35"
-        },
-        {
-          "number": 3,
-          "name": "In My Head",
-          "duration": "3:18"
-        },
-        {
-          "number": 4,
-          "name": "The Sky's the Limit",
-          "duration": "3:42"
-        },
-        {
-          "number": 5,
-          "name": "What If",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "Love Hangover",
-          "duration": "3:19"
-        },
-        {
-          "number": 7,
-          "name": "Encore",
-          "duration": "3:43"
-        },
-        {
-          "number": 8,
-          "name": "Fallen",
-          "duration": "3:15"
-        },
-        {
-          "number": 9,
-          "name": "Blind",
-          "duration": "3:35"
-        },
-        {
-          "number": 10,
-          "name": "Queen of Hearts",
-          "duration": "2:57"
-        }
-      ]
-    },
-    {
       "name": "Talk Dirty",
       "year": "2014",
       "release_date": "2014-04-15",
@@ -124,65 +66,138 @@
       ]
     },
     {
-      "name": "Everything Is 4",
-      "year": "2015",
-      "release_date": "2015-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/27/0b/f9270b80-9a2f-f7cc-a4e2-2f77372ede3c/093624927594.jpg/600x600bb.jpg",
+      "name": "Jason Derulo",
+      "year": "2010",
+      "release_date": "2010-02-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2a/e1/fc/2ae1fc34-a98d-20bf-33ed-71e321773b0a/dj.lykipmdm.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Want to Want Me",
-          "duration": "3:27"
+          "name": "Whatcha Say",
+          "duration": "3:41"
         },
         {
           "number": 2,
-          "name": "Cheyenne",
+          "name": "Ridin' Solo",
           "duration": "3:35"
         },
         {
           "number": 3,
-          "name": "Get Ugly",
-          "duration": "3:20"
+          "name": "In My Head",
+          "duration": "3:18"
         },
         {
           "number": 4,
-          "name": "Pull-Up",
-          "duration": "3:06"
+          "name": "The Sky's the Limit",
+          "duration": "3:42"
         },
         {
           "number": 5,
-          "name": "Love Like That (feat. K. Michelle)",
-          "duration": "3:59"
-        },
-        {
-          "number": 6,
-          "name": "Painkiller (feat. Meghan Trainor)",
+          "name": "What If",
           "duration": "3:23"
         },
         {
+          "number": 6,
+          "name": "Love Hangover",
+          "duration": "3:19"
+        },
+        {
           "number": 7,
-          "name": "Broke (feat. Stevie Wonder & Keith Urban)",
-          "duration": "3:06"
+          "name": "Encore",
+          "duration": "3:43"
         },
         {
           "number": 8,
-          "name": "Try Me (feat. Jennifer Lopez & Matoma)",
-          "duration": "3:20"
+          "name": "Fallen",
+          "duration": "3:15"
         },
         {
           "number": 9,
-          "name": "Love Me Down",
-          "duration": "2:45"
+          "name": "Blind",
+          "duration": "3:35"
         },
         {
           "number": 10,
-          "name": "Trade Hearts (feat. Julia Michaels)",
-          "duration": "3:30"
+          "name": "Queen of Hearts",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "Jason Derulo (Deluxe Version)",
+      "year": "2010",
+      "release_date": "2010-02-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/a6/62/ff/a662ffc8-bd94-c317-8001-66dba4aeecfe/dj.cszggftt.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Whatcha Say",
+          "duration": "3:41"
+        },
+        {
+          "number": 2,
+          "name": "Ridin' Solo",
+          "duration": "3:35"
+        },
+        {
+          "number": 3,
+          "name": "In My Head",
+          "duration": "3:18"
+        },
+        {
+          "number": 4,
+          "name": "The Sky's the Limit",
+          "duration": "3:42"
+        },
+        {
+          "number": 5,
+          "name": "What If",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "Love Hangover",
+          "duration": "3:19"
+        },
+        {
+          "number": 7,
+          "name": "Encore",
+          "duration": "3:43"
+        },
+        {
+          "number": 8,
+          "name": "Fallen",
+          "duration": "3:15"
+        },
+        {
+          "number": 9,
+          "name": "Blind",
+          "duration": "3:35"
+        },
+        {
+          "number": 10,
+          "name": "Queen of Hearts",
+          "duration": "2:57"
         },
         {
           "number": 11,
-          "name": "X2CU",
-          "duration": "5:13"
+          "name": "Whatcha Say (Acoustic Version)",
+          "duration": "3:42"
+        },
+        {
+          "number": 12,
+          "name": "In My Head (Rhythm Remix)",
+          "duration": "3:18"
+        },
+        {
+          "number": 13,
+          "name": "Whatcha Say",
+          "duration": "3:42"
+        },
+        {
+          "number": 14,
+          "name": "In My Head",
+          "duration": "3:31"
         }
       ]
     },
@@ -251,6 +266,69 @@
           "number": 12,
           "name": "Kiss the Sky",
           "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "Everything Is 4",
+      "year": "2015",
+      "release_date": "2015-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/27/0b/f9270b80-9a2f-f7cc-a4e2-2f77372ede3c/093624927594.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Want to Want Me",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Cheyenne",
+          "duration": "3:35"
+        },
+        {
+          "number": 3,
+          "name": "Get Ugly",
+          "duration": "3:20"
+        },
+        {
+          "number": 4,
+          "name": "Pull-Up",
+          "duration": "3:06"
+        },
+        {
+          "number": 5,
+          "name": "Love Like That (feat. K. Michelle)",
+          "duration": "3:59"
+        },
+        {
+          "number": 6,
+          "name": "Painkiller (feat. Meghan Trainor)",
+          "duration": "3:23"
+        },
+        {
+          "number": 7,
+          "name": "Broke (feat. Stevie Wonder & Keith Urban)",
+          "duration": "3:06"
+        },
+        {
+          "number": 8,
+          "name": "Try Me (feat. Jennifer Lopez & Matoma)",
+          "duration": "3:20"
+        },
+        {
+          "number": 9,
+          "name": "Love Me Down",
+          "duration": "2:45"
+        },
+        {
+          "number": 10,
+          "name": "Trade Hearts (feat. Julia Michaels)",
+          "duration": "3:30"
+        },
+        {
+          "number": 11,
+          "name": "X2CU",
+          "duration": "5:13"
         }
       ]
     },
@@ -382,84 +460,6 @@
           "number": 11,
           "name": "Marry Me",
           "duration": "3:45"
-        }
-      ]
-    },
-    {
-      "name": "Jason Derulo (Deluxe Version)",
-      "year": "2010",
-      "release_date": "2010-02-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/a6/62/ff/a662ffc8-bd94-c317-8001-66dba4aeecfe/dj.cszggftt.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Whatcha Say",
-          "duration": "3:41"
-        },
-        {
-          "number": 2,
-          "name": "Ridin' Solo",
-          "duration": "3:35"
-        },
-        {
-          "number": 3,
-          "name": "In My Head",
-          "duration": "3:18"
-        },
-        {
-          "number": 4,
-          "name": "The Sky's the Limit",
-          "duration": "3:42"
-        },
-        {
-          "number": 5,
-          "name": "What If",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "Love Hangover",
-          "duration": "3:19"
-        },
-        {
-          "number": 7,
-          "name": "Encore",
-          "duration": "3:43"
-        },
-        {
-          "number": 8,
-          "name": "Fallen",
-          "duration": "3:15"
-        },
-        {
-          "number": 9,
-          "name": "Blind",
-          "duration": "3:35"
-        },
-        {
-          "number": 10,
-          "name": "Queen of Hearts",
-          "duration": "2:57"
-        },
-        {
-          "number": 11,
-          "name": "Whatcha Say (Acoustic Version)",
-          "duration": "3:42"
-        },
-        {
-          "number": 12,
-          "name": "In My Head (Rhythm Remix)",
-          "duration": "3:18"
-        },
-        {
-          "number": 13,
-          "name": "Whatcha Say",
-          "duration": "3:42"
-        },
-        {
-          "number": 14,
-          "name": "In My Head",
-          "duration": "3:31"
         }
       ]
     },
@@ -683,6 +683,74 @@
       ]
     },
     {
+      "name": "Reloaded",
+      "year": "2011",
+      "release_date": "2011-12-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/df/66/29/mzi.oauhdttv.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Don't Wanna Go Home (7th Heaven Radio Edit)",
+          "duration": "4:04"
+        },
+        {
+          "number": 2,
+          "name": "Ridin' Solo (Ian Nieman Club Mix)",
+          "duration": "6:58"
+        },
+        {
+          "number": 3,
+          "name": "It Girl (7th Heaven Club Mix)",
+          "duration": "6:24"
+        },
+        {
+          "number": 4,
+          "name": "What If (Mig & Rizzo Pop Mix)",
+          "duration": "3:07"
+        },
+        {
+          "number": 5,
+          "name": "Fight for You (MYNC Edit)",
+          "duration": "3:25"
+        },
+        {
+          "number": 6,
+          "name": "Whatcha Say (Wawa Remix Radio)",
+          "duration": "3:25"
+        },
+        {
+          "number": 7,
+          "name": "It Girl (R.A.W. Club Mix)",
+          "duration": "6:52"
+        },
+        {
+          "number": 8,
+          "name": "The Sky's the Limit (Ayo Remix)",
+          "duration": "3:25"
+        },
+        {
+          "number": 9,
+          "name": "In My Head (Wideboys Club Mix)",
+          "duration": "5:21"
+        },
+        {
+          "number": 10,
+          "name": "Don't Wanna Go Home (Club Junkies Club Mix)",
+          "duration": "7:07"
+        },
+        {
+          "number": 11,
+          "name": "What If (Jason Nevins Radio Mix)",
+          "duration": "4:07"
+        },
+        {
+          "number": 12,
+          "name": "Whatcha Say (Klubjumpers Remix Radio)",
+          "duration": "4:02"
+        }
+      ]
+    },
+    {
       "name": "Nu King",
       "year": "2024",
       "release_date": "2024-02-16",
@@ -822,74 +890,6 @@
           "number": 27,
           "name": "Acapulco",
           "duration": "2:19"
-        }
-      ]
-    },
-    {
-      "name": "Reloaded",
-      "year": "2011",
-      "release_date": "2011-12-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/df/66/29/mzi.oauhdttv.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Don't Wanna Go Home (7th Heaven Radio Edit)",
-          "duration": "4:04"
-        },
-        {
-          "number": 2,
-          "name": "Ridin' Solo (Ian Nieman Club Mix)",
-          "duration": "6:58"
-        },
-        {
-          "number": 3,
-          "name": "It Girl (7th Heaven Club Mix)",
-          "duration": "6:24"
-        },
-        {
-          "number": 4,
-          "name": "What If (Mig & Rizzo Pop Mix)",
-          "duration": "3:07"
-        },
-        {
-          "number": 5,
-          "name": "Fight for You (MYNC Edit)",
-          "duration": "3:25"
-        },
-        {
-          "number": 6,
-          "name": "Whatcha Say (Wawa Remix Radio)",
-          "duration": "3:25"
-        },
-        {
-          "number": 7,
-          "name": "It Girl (R.A.W. Club Mix)",
-          "duration": "6:52"
-        },
-        {
-          "number": 8,
-          "name": "The Sky's the Limit (Ayo Remix)",
-          "duration": "3:25"
-        },
-        {
-          "number": 9,
-          "name": "In My Head (Wideboys Club Mix)",
-          "duration": "5:21"
-        },
-        {
-          "number": 10,
-          "name": "Don't Wanna Go Home (Club Junkies Club Mix)",
-          "duration": "7:07"
-        },
-        {
-          "number": 11,
-          "name": "What If (Jason Nevins Radio Mix)",
-          "duration": "4:07"
-        },
-        {
-          "number": 12,
-          "name": "Whatcha Say (Klubjumpers Remix Radio)",
-          "duration": "4:02"
         }
       ]
     },
@@ -1339,19 +1339,6 @@
   ],
   "singles": [
     {
-      "name": "Hello Friday (feat. Jason Derulo)",
-      "year": "2016",
-      "release_date": "2016-02-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f9/e2/1c/f9e21c53-3c44-7b78-62d1-dee3b240a02e/075679912886.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hello Friday (feat. Jason Derulo)",
-          "duration": "3:21"
-        }
-      ]
-    },
-    {
       "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
       "year": "2017",
       "release_date": "2017-02-24",
@@ -1361,6 +1348,32 @@
           "number": 1,
           "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
           "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "Savage Love (Laxed - Siren Beat)",
+      "year": "2020",
+      "release_date": "2020-06-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/91/0a/1a910a77-abae-e390-5eb1-6965476f667b/886448561804.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Savage Love (Laxed - Siren Beat)",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Take You Dancing",
+      "year": "2020",
+      "release_date": "2020-07-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/4c/bf/f04cbf6a-cee0-04f8-cf03-032b63cc0377/075679808004.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Take You Dancing",
+          "duration": "3:10"
         }
       ]
     },
@@ -1378,6 +1391,19 @@
       ]
     },
     {
+      "name": "Hello Friday (feat. Jason Derulo)",
+      "year": "2016",
+      "release_date": "2016-02-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f9/e2/1c/f9e21c53-3c44-7b78-62d1-dee3b240a02e/075679912886.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hello Friday (feat. Jason Derulo)",
+          "duration": "3:21"
+        }
+      ]
+    },
+    {
       "name": "Savage Love (Laxed - Siren Beat)",
       "year": "2020",
       "release_date": "2020-06-11",
@@ -1391,15 +1417,15 @@
       ]
     },
     {
-      "name": "Goodbye (feat. Nicki Minaj & Willy William)",
-      "year": "2018",
-      "release_date": "2018-08-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d1/03/1e/d1031eed-f893-16b1-c5f1-7c5c7d93e497/054391948335.jpg/600x600bb.jpg",
+      "name": "Jalebi Baby",
+      "year": "2021",
+      "release_date": "2021-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9c/38/ad/9c38ada4-0688-b9c6-9673-ee9b3ab5ce0a/21UMGIM41755.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Goodbye (feat. Nicki Minaj & Willy William)",
-          "duration": "3:15"
+          "name": "Jalebi Baby",
+          "duration": "2:49"
         }
       ]
     },
@@ -1430,32 +1456,6 @@
       ]
     },
     {
-      "name": "Savage Love (Laxed - Siren Beat)",
-      "year": "2020",
-      "release_date": "2020-06-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/91/0a/1a910a77-abae-e390-5eb1-6965476f667b/886448561804.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Savage Love (Laxed - Siren Beat)",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
-      "name": "Hands On Me (feat. Meghan Trainor)",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/c6/17/19c61720-9043-4fc9-d716-8a68ee18ef7f/075679670328.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hands On Me (feat. Meghan Trainor)",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
       "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
       "year": "2017",
       "release_date": "2017-02-24",
@@ -1465,32 +1465,6 @@
           "number": 1,
           "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
           "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "Mamacita (feat. Farruko)",
-      "year": "2019",
-      "release_date": "2019-07-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/bc/f3/d0bcf3eb-ab8d-94d4-7eab-3bb0d332fe02/054391944061.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mamacita (feat. Farruko)",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
-      "name": "Colors",
-      "year": "2018",
-      "release_date": "2018-03-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/54/55/58/545558cd-d917-fb57-a8bc-ef64e914b832/054391951854.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Colors",
-          "duration": "3:07"
         }
       ]
     },
@@ -1508,54 +1482,54 @@
       ]
     },
     {
-      "name": "Acapulco",
-      "year": "2021",
-      "release_date": "2021-09-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/b5/8e/54b58e6d-21c7-3d22-8e82-1276fa8f5ef5/075679777607.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Acapulco",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
-      "name": "Jalebi Baby",
-      "year": "2021",
-      "release_date": "2021-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9c/38/ad/9c38ada4-0688-b9c6-9673-ee9b3ab5ce0a/21UMGIM41755.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Jalebi Baby",
-          "duration": "2:49"
-        }
-      ]
-    },
-    {
-      "name": "Take You Dancing",
-      "year": "2020",
-      "release_date": "2020-07-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/4c/bf/f04cbf6a-cee0-04f8-cf03-032b63cc0377/075679808004.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Take You Dancing",
-          "duration": "3:10"
-        }
-      ]
-    },
-    {
-      "name": "Make Up (feat. Ava Max)",
+      "name": "Goodbye (feat. Nicki Minaj & Willy William)",
       "year": "2018",
-      "release_date": "2018-10-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2e/b1/b6/2eb1b62b-841b-65c8-0581-c82869c5b118/075679862983.jpg/600x600bb.jpg",
+      "release_date": "2018-08-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d1/03/1e/d1031eed-f893-16b1-c5f1-7c5c7d93e497/054391948335.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Make Up (feat. Ava Max)",
-          "duration": "2:40"
+          "name": "Goodbye (feat. Nicki Minaj & Willy William)",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Hands On Me (feat. Meghan Trainor)",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/c6/17/19c61720-9043-4fc9-d716-8a68ee18ef7f/075679670328.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hands On Me (feat. Meghan Trainor)",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Colors",
+      "year": "2018",
+      "release_date": "2018-03-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/54/55/58/545558cd-d917-fb57-a8bc-ef64e914b832/054391951854.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Colors",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "Mamacita (feat. Farruko)",
+      "year": "2019",
+      "release_date": "2019-07-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/bc/f3/d0bcf3eb-ab8d-94d4-7eab-3bb0d332fe02/054391944061.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mamacita (feat. Farruko)",
+          "duration": "3:24"
         }
       ]
     },
@@ -1569,6 +1543,19 @@
           "number": 1,
           "name": "Talk Dirty (feat. 2 Chainz) [En Español]",
           "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "Acapulco",
+      "year": "2021",
+      "release_date": "2021-09-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/b5/8e/54b58e6d-21c7-3d22-8e82-1276fa8f5ef5/075679777607.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Acapulco",
+          "duration": "2:19"
         }
       ]
     },
@@ -1625,19 +1612,6 @@
       ]
     },
     {
-      "name": "This Is How We Roll (Remix) [feat. Jason Derulo & Luke Bryan]",
-      "year": "2014",
-      "release_date": "2014-06-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/24/8f/be248f41-405f-0ffc-7a77-2fd014583c11/00602537917198.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "This Is How We Roll (Remix) [feat. Jason Derulo & Luke Bryan] [feat. Jason Derulo & Luke Bryan]",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
       "name": "Talk Dirty (feat. 2 Chainz) [TJR Remix]",
       "year": "2014",
       "release_date": "2014-05-02",
@@ -1647,6 +1621,19 @@
           "number": 1,
           "name": "Talk Dirty (feat. 2 Chainz) [TJR Remix]",
           "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Spicy Margarita (feat. Maria Becerra)",
+      "year": "2024",
+      "release_date": "2024-05-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/80/cb/ab80cbf6-6f5a-01a7-b9cd-ae6fb0bfba8e/075679647993.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Spicy Margarita (feat. Maria Becerra)",
+          "duration": "2:34"
         }
       ]
     },
@@ -1664,19 +1651,6 @@
       ]
     },
     {
-      "name": "From the Islands (kompa pasión)",
-      "year": "2024",
-      "release_date": "2024-05-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/ae/88/f8ae88eb-1ed2-9c74-ed04-a5293b875d8e/196872107203.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "From the Islands (kompa pasión)",
-          "duration": "2:48"
-        }
-      ]
-    },
-    {
       "name": "Chingalinga (feat. Jason Derulo)",
       "year": "2015",
       "release_date": "2015-04-06",
@@ -1686,6 +1660,19 @@
           "number": 1,
           "name": "Chingalinga (feat. Jason Derulo)",
           "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "Make Up (feat. Ava Max)",
+      "year": "2018",
+      "release_date": "2018-10-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2e/b1/b6/2eb1b62b-841b-65c8-0581-c82869c5b118/075679862983.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Make Up (feat. Ava Max)",
+          "duration": "2:40"
         }
       ]
     },
@@ -1703,6 +1690,19 @@
       ]
     },
     {
+      "name": "This Is How We Roll (Remix) [feat. Jason Derulo & Luke Bryan]",
+      "year": "2014",
+      "release_date": "2014-06-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/24/8f/be248f41-405f-0ffc-7a77-2fd014583c11/00602537917198.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "This Is How We Roll (Remix) [feat. Jason Derulo & Luke Bryan] [feat. Jason Derulo & Luke Bryan]",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
       "name": "Colors",
       "year": "2018",
       "release_date": "2018-04-13",
@@ -1712,19 +1712,6 @@
           "number": 1,
           "name": "Colors",
           "duration": "3:19"
-        }
-      ]
-    },
-    {
-      "name": "C**o",
-      "year": "2020",
-      "release_date": "2020-07-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5d/f4/d2/5df4d262-7bc0-adc6-0d8f-271069024b58/190295186777.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "C**o",
-          "duration": "1:51"
         }
       ]
     },
@@ -1755,6 +1742,19 @@
       ]
     },
     {
+      "name": "C**o",
+      "year": "2020",
+      "release_date": "2020-07-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5d/f4/d2/5df4d262-7bc0-adc6-0d8f-271069024b58/190295186777.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "C**o",
+          "duration": "1:51"
+        }
+      ]
+    },
+    {
       "name": "Talk Dirty (feat. 2 Chainz) [En Español]",
       "year": "2014",
       "release_date": "2014-03-11",
@@ -1764,32 +1764,6 @@
           "number": 1,
           "name": "Talk Dirty (feat. 2 Chainz) [En Español]",
           "duration": "2:57"
-        }
-      ]
-    },
-    {
-      "name": "When Love Sucks (feat. Dido)",
-      "year": "2023",
-      "release_date": "2023-05-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/a6/62/16a662b1-cfd3-21fd-57ba-58d84b46d4d4/075679682314.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "When Love Sucks (feat. Dido)",
-          "duration": "2:49"
-        }
-      ]
-    },
-    {
-      "name": "Tonight (D.I.Y.A) [Pitbull Remix] [feat. Joel Corry]",
-      "year": "2024",
-      "release_date": "2024-08-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/b0/94/35b094c2-81b8-1494-fd05-8821d7241830/24UMGIM84920.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tonight (D.I.Y.A) [feat. Joel Corry] [Pitbull Remix]",
-          "duration": "2:32"
         }
       ]
     },
@@ -1836,6 +1810,19 @@
           "number": 5,
           "name": "Spicy Margarita (Instrumental)",
           "duration": "2:34"
+        }
+      ]
+    },
+    {
+      "name": "From the Islands (kompa pasión)",
+      "year": "2024",
+      "release_date": "2024-05-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/ae/88/f8ae88eb-1ed2-9c74-ed04-a5293b875d8e/196872107203.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "From the Islands (kompa pasión)",
+          "duration": "2:48"
         }
       ]
     },
@@ -1897,19 +1884,6 @@
       ]
     },
     {
-      "name": "Snake",
-      "year": "2025",
-      "release_date": "2025-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/29/7a/60297af7-89c8-b5b9-46ce-f162cc335da8/5021732606747.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Snake",
-          "duration": "1:53"
-        }
-      ]
-    },
-    {
       "name": "Too Hot",
       "year": "2019",
       "release_date": "2019-08-27",
@@ -1936,6 +1910,19 @@
       ]
     },
     {
+      "name": "When Love Sucks (feat. Dido)",
+      "year": "2023",
+      "release_date": "2023-05-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/a6/62/16a662b1-cfd3-21fd-57ba-58d84b46d4d4/075679682314.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "When Love Sucks (feat. Dido)",
+          "duration": "2:49"
+        }
+      ]
+    },
+    {
       "name": "Glad U Came",
       "year": "2023",
       "release_date": "2023-04-27",
@@ -1949,15 +1936,15 @@
       ]
     },
     {
-      "name": "Spicy Margarita (feat. Maria Becerra)",
+      "name": "Tonight (D.I.Y.A) [Pitbull Remix] [feat. Joel Corry]",
       "year": "2024",
-      "release_date": "2024-05-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/80/cb/ab80cbf6-6f5a-01a7-b9cd-ae6fb0bfba8e/075679647993.jpg/600x600bb.jpg",
+      "release_date": "2024-08-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/b0/94/35b094c2-81b8-1494-fd05-8821d7241830/24UMGIM84920.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Spicy Margarita (feat. Maria Becerra)",
-          "duration": "2:34"
+          "name": "Tonight (D.I.Y.A) [feat. Joel Corry] [Pitbull Remix]",
+          "duration": "2:32"
         }
       ]
     },
@@ -2101,6 +2088,19 @@
           "number": 1,
           "name": "Closer To Christmas",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "Snake",
+      "year": "2025",
+      "release_date": "2025-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/29/7a/60297af7-89c8-b5b9-46ce-f162cc335da8/5021732606747.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Snake",
+          "duration": "1:53"
         }
       ]
     },
@@ -2517,37 +2517,6 @@
       ]
     },
     {
-      "name": "You Can Do Anything (MTG DA SIA)",
-      "year": "2025",
-      "release_date": "2025-01-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/ea/b1/a0eab1d9-4531-09d8-9844-fcbed8e40f52/24UM1IM32476.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You Can Do Anything (MTG DA SIA)",
-          "duration": "2:01"
-        },
-        {
-          "number": 2,
-          "name": "You Can Do Anything (MTG DA SIA) [Sped Up]",
-          "duration": "1:55"
-        }
-      ]
-    },
-    {
-      "name": "Whatcha Say (Sped Up)",
-      "year": "2023",
-      "release_date": "2023-01-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ab/7f/7d/ab7f7d05-5dc5-8066-dbdb-1f7fcdd85add/081227827267.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Whatcha Say (Sped Up)",
-          "duration": "3:02"
-        }
-      ]
-    },
-    {
       "name": "You DJ, I'll Drive",
       "year": "2025",
       "release_date": "2025-06-20",
@@ -2570,6 +2539,24 @@
           "number": 1,
           "name": "Miracle",
           "duration": "4:15"
+        }
+      ]
+    },
+    {
+      "name": "You Can Do Anything (MTG DA SIA)",
+      "year": "2025",
+      "release_date": "2025-01-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/ea/b1/a0eab1d9-4531-09d8-9844-fcbed8e40f52/24UM1IM32476.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You Can Do Anything (MTG DA SIA)",
+          "duration": "2:01"
+        },
+        {
+          "number": 2,
+          "name": "You Can Do Anything (MTG DA SIA) [Sped Up]",
+          "duration": "1:55"
         }
       ]
     },
@@ -2639,19 +2626,6 @@
       ]
     },
     {
-      "name": "Sexy For Me (Remix)",
-      "year": "2026",
-      "release_date": "2026-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/d3/11/2fd3111a-15ab-3a81-25ac-cfef7f061479/663918950401.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sexy For Me (Remix)",
-          "duration": "2:23"
-        }
-      ]
-    },
-    {
       "name": "Animal (R3HAB VIP Remix)",
       "year": "2024",
       "release_date": "2024-06-07",
@@ -2687,6 +2661,19 @@
           "number": 1,
           "name": "Glad U Came (Zen Freeman & Fred Falke Remix)",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Whatcha Say (Sped Up)",
+      "year": "2023",
+      "release_date": "2023-01-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ab/7f/7d/ab7f7d05-5dc5-8066-dbdb-1f7fcdd85add/081227827267.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Whatcha Say (Sped Up)",
+          "duration": "3:02"
         }
       ]
     },
@@ -2856,6 +2843,19 @@
           "number": 1,
           "name": "Love Not War (The Tampa Beat) [Acoustic]",
           "duration": "3:11"
+        }
+      ]
+    },
+    {
+      "name": "Sexy For Me (Remix)",
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/d3/11/2fd3111a-15ab-3a81-25ac-cfef7f061479/663918950401.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sexy For Me (Remix)",
+          "duration": "2:23"
         }
       ]
     },
@@ -3043,6 +3043,13 @@
       "year": "2023",
       "release_date": "2023-11-24",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/c2/0f/d8c20f25-5795-f403-19df-b7ed7a3ebfa6/5054197915949.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Ta Ta Ta (with Jason Derulo)",
+      "year": "2023",
+      "release_date": "2023-04-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/3f/b8/dc3fb827-d4ea-5eb0-08c5-a98454da4127/26UMGIM44394.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -3288,6 +3295,34 @@
   ],
   "eps": [
     {
+      "name": "Test Drive (feat. Jason Derulo)",
+      "year": "2011",
+      "release_date": "2011-11-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/a0/25/ce/mzi.clyvtvnu.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Test Drive (feat. Jason Derulo) [7th Heaven Mix]",
+          "duration": "3:37"
+        },
+        {
+          "number": 2,
+          "name": "Test Drive (feat. Jason Derulo) [Main Mix]",
+          "duration": "3:20"
+        },
+        {
+          "number": 3,
+          "name": "Test Drive (feat. Jason Derulo) [Funkystepz Mix]",
+          "duration": "4:10"
+        },
+        {
+          "number": 4,
+          "name": "Test Drive (feat. Jason Derulo) [Static Revenger Dub]",
+          "duration": "5:37"
+        }
+      ]
+    },
+    {
       "name": "Jason Derulo (Special Edition)",
       "year": "2011",
       "release_date": "2011-07-01",
@@ -3322,34 +3357,6 @@
           "number": 6,
           "name": "The Sky's the Limit (Wideboys Club Mix)",
           "duration": "7:01"
-        }
-      ]
-    },
-    {
-      "name": "Test Drive (feat. Jason Derulo)",
-      "year": "2011",
-      "release_date": "2011-11-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/a0/25/ce/mzi.clyvtvnu.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Test Drive (feat. Jason Derulo) [7th Heaven Mix]",
-          "duration": "3:37"
-        },
-        {
-          "number": 2,
-          "name": "Test Drive (feat. Jason Derulo) [Main Mix]",
-          "duration": "3:20"
-        },
-        {
-          "number": 3,
-          "name": "Test Drive (feat. Jason Derulo) [Funkystepz Mix]",
-          "duration": "4:10"
-        },
-        {
-          "number": 4,
-          "name": "Test Drive (feat. Jason Derulo) [Static Revenger Dub]",
-          "duration": "5:37"
         }
       ]
     },

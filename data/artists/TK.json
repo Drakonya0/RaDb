@@ -1497,13 +1497,6 @@
       "tracks": []
     },
     {
-      "name": "Choco Choco",
-      "year": "2026",
-      "release_date": "2026-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/db/ca/acdbca07-cade-658a-1ca9-ec8400a81503/26UMGIM39879.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Carbo (feat. Enima)",
       "year": "2022",
       "release_date": "2022-07-15",
@@ -1528,6 +1521,13 @@
           "duration": "2:49"
         }
       ]
+    },
+    {
+      "name": "Choco Choco",
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/db/ca/acdbca07-cade-658a-1ca9-ec8400a81503/26UMGIM39879.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Atoutou",
@@ -1602,19 +1602,6 @@
       ]
     },
     {
-      "name": "On vas s'oublier",
-      "year": "2026",
-      "release_date": "2026-04-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/c1/46/73c146af-1969-bd5d-70b5-02d53849d26f/859736252685_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "On vas s'oublier",
-          "duration": "2:22"
-        }
-      ]
-    },
-    {
       "name": "je pense plus à toi wsh",
       "year": "2023",
       "release_date": "2023-07-26",
@@ -1624,6 +1611,19 @@
           "number": 1,
           "name": "je pense plus à toi wsh",
           "duration": "1:57"
+        }
+      ]
+    },
+    {
+      "name": "On vas s'oublier",
+      "year": "2026",
+      "release_date": "2026-04-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/c1/46/73c146af-1969-bd5d-70b5-02d53849d26f/859736252685_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "On vas s'oublier",
+          "duration": "2:22"
         }
       ]
     },

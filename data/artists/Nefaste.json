@@ -91,112 +91,6 @@
       ]
     },
     {
-      "name": "Premier Pas",
-      "year": "2015",
-      "release_date": "2015-07-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/4f/53/ca4f5394-32d0-763a-68c3-873847452f7b/3614597092071_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Le Syndrome",
-          "duration": "3:56"
-        },
-        {
-          "number": 2,
-          "name": "Vie Morose",
-          "duration": "3:01"
-        },
-        {
-          "number": 3,
-          "name": "On Traine",
-          "duration": "2:51"
-        },
-        {
-          "number": 4,
-          "name": "Comme D'hab",
-          "duration": "3:00"
-        },
-        {
-          "number": 5,
-          "name": "La Routine",
-          "duration": "3:54"
-        },
-        {
-          "number": 6,
-          "name": "Ça M'inspire (feat. Lyo, Tragik & Lekma)",
-          "duration": "4:25"
-        },
-        {
-          "number": 7,
-          "name": "Poignée De Punchlines",
-          "duration": "2:50"
-        },
-        {
-          "number": 8,
-          "name": "Toits De Paris (feat. SAMS)",
-          "duration": "3:00"
-        },
-        {
-          "number": 9,
-          "name": "Gueule De Bois (feat. Lyo & Me'lan)",
-          "duration": "3:22"
-        },
-        {
-          "number": 10,
-          "name": "A cœur Ouvert",
-          "duration": "3:41"
-        },
-        {
-          "number": 11,
-          "name": "Pour Les Miens",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
-      "name": "Ashes Made of Light",
-      "year": "2026",
-      "release_date": "2026-02-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/81/cf/6b81cffd-986d-9616-71e5-d9fb1e2ffcb2/5063941518305_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hollow Pulse",
-          "duration": "4:15"
-        },
-        {
-          "number": 2,
-          "name": "Midnight Magic",
-          "duration": "5:49"
-        },
-        {
-          "number": 3,
-          "name": "Throat Full of Words",
-          "duration": "4:46"
-        },
-        {
-          "number": 4,
-          "name": "Sinners",
-          "duration": "3:47"
-        },
-        {
-          "number": 5,
-          "name": "Crystal Veins",
-          "duration": "4:52"
-        },
-        {
-          "number": 6,
-          "name": "Colder Fall in the 6ix",
-          "duration": "5:09"
-        },
-        {
-          "number": 7,
-          "name": "Mirrors in the Smoke",
-          "duration": "4:59"
-        }
-      ]
-    },
-    {
       "name": "Partir Loin",
       "year": "2019",
       "release_date": "2019-04-26",
@@ -278,9 +172,236 @@
           "duration": "2:53"
         }
       ]
+    },
+    {
+      "name": "Premier Pas",
+      "year": "2015",
+      "release_date": "2015-07-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/4f/53/ca4f5394-32d0-763a-68c3-873847452f7b/3614597092071_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Le Syndrome",
+          "duration": "3:56"
+        },
+        {
+          "number": 2,
+          "name": "Vie Morose",
+          "duration": "3:01"
+        },
+        {
+          "number": 3,
+          "name": "On Traine",
+          "duration": "2:51"
+        },
+        {
+          "number": 4,
+          "name": "Comme D'hab",
+          "duration": "3:00"
+        },
+        {
+          "number": 5,
+          "name": "La Routine",
+          "duration": "3:54"
+        },
+        {
+          "number": 6,
+          "name": "Ça M'inspire (feat. Lyo, Tragik & Lekma)",
+          "duration": "4:25"
+        },
+        {
+          "number": 7,
+          "name": "Poignée De Punchlines",
+          "duration": "2:50"
+        },
+        {
+          "number": 8,
+          "name": "Toits De Paris (feat. SAMS)",
+          "duration": "3:00"
+        },
+        {
+          "number": 9,
+          "name": "Gueule De Bois (feat. Lyo & Me'lan)",
+          "duration": "3:22"
+        },
+        {
+          "number": 10,
+          "name": "A cœur Ouvert",
+          "duration": "3:41"
+        },
+        {
+          "number": 11,
+          "name": "Pour Les Miens",
+          "duration": "2:19"
+        }
+      ]
+    },
+    {
+      "name": "Ashes Made of Light",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/82/89/0982898f-e592-b191-51ba-d2ba61a14f08/1062992.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hollow Pulse",
+          "duration": "4:15"
+        },
+        {
+          "number": 2,
+          "name": "Throat Full of Words",
+          "duration": "4:46"
+        },
+        {
+          "number": 3,
+          "name": "Midnight Magic",
+          "duration": "5:49"
+        },
+        {
+          "number": 4,
+          "name": "Sinners",
+          "duration": "3:47"
+        },
+        {
+          "number": 5,
+          "name": "Colder Fall in the 6ix",
+          "duration": "5:09"
+        },
+        {
+          "number": 6,
+          "name": "Crystal Veins",
+          "duration": "4:52"
+        },
+        {
+          "number": 7,
+          "name": "Mirrors in the Smoke",
+          "duration": "4:59"
+        }
+      ]
+    },
+    {
+      "name": "Ashes Made of Light",
+      "year": "2026",
+      "release_date": "2026-02-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/81/cf/6b81cffd-986d-9616-71e5-d9fb1e2ffcb2/5063941518305_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hollow Pulse",
+          "duration": "4:15"
+        },
+        {
+          "number": 2,
+          "name": "Midnight Magic",
+          "duration": "5:49"
+        },
+        {
+          "number": 3,
+          "name": "Throat Full of Words",
+          "duration": "4:46"
+        },
+        {
+          "number": 4,
+          "name": "Sinners",
+          "duration": "3:47"
+        },
+        {
+          "number": 5,
+          "name": "Crystal Veins",
+          "duration": "4:52"
+        },
+        {
+          "number": 6,
+          "name": "Colder Fall in the 6ix",
+          "duration": "5:09"
+        },
+        {
+          "number": 7,
+          "name": "Mirrors in the Smoke",
+          "duration": "4:59"
+        }
+      ]
     }
   ],
   "singles": [
+    {
+      "name": "Puzzle (feat. Melan, Nefaste & Raw Saïtama)",
+      "year": "2020",
+      "release_date": "2020-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/41/eb/86/41eb86cf-5c2b-5dde-502c-d84c3faf3b00/3664216028516.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Puzzle (feat. Melan, Nefaste & Raw Saïtama)",
+          "duration": "4:14"
+        }
+      ]
+    },
+    {
+      "name": "Honey Moon",
+      "year": "2024",
+      "release_date": "2024-02-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/a0/cf/aaa0cff8-a2f9-84a9-f82d-4abd9d8ca926/5063413613682.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Honey Moon",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "Comme ça",
+      "year": "2024",
+      "release_date": "2024-04-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/b2/72/6fb27286-fc72-74db-5c44-fff097452174/5063483240252_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Comme ça",
+          "duration": "1:52"
+        }
+      ]
+    },
+    {
+      "name": "Fractures",
+      "year": "2024",
+      "release_date": "2024-09-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/a7/66/15a766c9-418b-40ae-594a-5c0b8683e969/5063549626488_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fractures",
+          "duration": "2:17"
+        }
+      ]
+    },
+    {
+      "name": "Au Loin",
+      "year": "2019",
+      "release_date": "2019-02-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/7a/11/8e7a1135-deac-a486-d062-6666d8a68a44/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Au Loin",
+          "duration": "2:27"
+        }
+      ]
+    },
+    {
+      "name": "Fractures",
+      "year": "2024",
+      "release_date": "2024-09-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/db/d9/f8dbd97b-6b82-b666-95b6-62f4ca132af3/5063549626488.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fractures",
+          "duration": "2:17"
+        }
+      ]
+    },
     {
       "name": "Tu le sais",
       "year": "2022",
@@ -321,19 +442,6 @@
       ]
     },
     {
-      "name": "Puzzle (feat. Melan, Nefaste & Raw Saïtama)",
-      "year": "2020",
-      "release_date": "2020-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/41/eb/86/41eb86cf-5c2b-5dde-502c-d84c3faf3b00/3664216028516.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Puzzle (feat. Melan, Nefaste & Raw Saïtama)",
-          "duration": "4:14"
-        }
-      ]
-    },
-    {
       "name": "Anxiolytique",
       "year": "2022",
       "release_date": "2022-03-09",
@@ -356,6 +464,19 @@
           "number": 1,
           "name": "Ratures",
           "duration": "2:17"
+        }
+      ]
+    },
+    {
+      "name": "Le bruit des glaçons (feat. Nefaste, Kenyon & Itam)",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/90/0b/3a900bc1-6816-5db6-1df5-7df09a2122bd/192518807773.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Le bruit des glaçons (feat. Nefaste, Kenyon & Itam)",
+          "duration": "3:15"
         }
       ]
     },
@@ -386,19 +507,6 @@
       ]
     },
     {
-      "name": "Comme ça",
-      "year": "2024",
-      "release_date": "2024-04-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/b2/72/6fb27286-fc72-74db-5c44-fff097452174/5063483240252_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Comme ça",
-          "duration": "1:52"
-        }
-      ]
-    },
-    {
       "name": "Tempête",
       "year": "2020",
       "release_date": "2020-05-08",
@@ -408,19 +516,6 @@
           "number": 1,
           "name": "Tempête",
           "duration": "2:21"
-        }
-      ]
-    },
-    {
-      "name": "Fractures",
-      "year": "2024",
-      "release_date": "2024-09-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/a7/66/15a766c9-418b-40ae-594a-5c0b8683e969/5063549626488_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fractures",
-          "duration": "2:17"
         }
       ]
     },
@@ -447,19 +542,6 @@
           "number": 1,
           "name": "Roberto Carlos",
           "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "Au Loin",
-      "year": "2019",
-      "release_date": "2019-02-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/7a/11/8e7a1135-deac-a486-d062-6666d8a68a44/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Au Loin",
-          "duration": "2:27"
         }
       ]
     },

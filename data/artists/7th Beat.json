@@ -164,109 +164,6 @@
       ]
     },
     {
-      "name": "Plastic Hearts (Apple Music Backyard Sessions Edition)",
-      "year": "2020",
-      "release_date": "2020-11-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/87/c2/c487c2b6-021f-18a1-d618-b179ffb3f917/886448903437.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "WTF Do I Know",
-          "duration": "2:51"
-        },
-        {
-          "number": 2,
-          "name": "Plastic Hearts",
-          "duration": "3:25"
-        },
-        {
-          "number": 3,
-          "name": "Angels Like You",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "Prisoner (feat. Dua Lipa)",
-          "duration": "2:49"
-        },
-        {
-          "number": 5,
-          "name": "Gimme What I Want",
-          "duration": "2:31"
-        },
-        {
-          "number": 6,
-          "name": "Night Crawling (feat. Billy Idol)",
-          "duration": "3:09"
-        },
-        {
-          "number": 7,
-          "name": "Midnight Sky",
-          "duration": "3:43"
-        },
-        {
-          "number": 8,
-          "name": "High",
-          "duration": "3:16"
-        },
-        {
-          "number": 9,
-          "name": "Hate Me",
-          "duration": "2:37"
-        },
-        {
-          "number": 10,
-          "name": "Bad Karma (feat. Joan Jett)",
-          "duration": "3:08"
-        },
-        {
-          "number": 11,
-          "name": "Never Be Me",
-          "duration": "3:35"
-        },
-        {
-          "number": 12,
-          "name": "Golden G String",
-          "duration": "3:55"
-        },
-        {
-          "number": 13,
-          "name": "Edge of Midnight (Midnight Sky Remix) [feat. Stevie Nicks]",
-          "duration": "3:40"
-        },
-        {
-          "number": 14,
-          "name": "Heart Of Glass (Live from the iHeart Festival)",
-          "duration": "3:33"
-        },
-        {
-          "number": 15,
-          "name": "Zombie (Live from the NIVA Save Our Stages Festival)",
-          "duration": "4:50"
-        },
-        {
-          "number": 16,
-          "name": "High",
-          "duration": "3:18"
-        },
-        {
-          "number": 17,
-          "name": "Plastic Hearts",
-          "duration": "3:22"
-        },
-        {
-          "number": 18,
-          "name": "Golden G String",
-          "duration": "3:53"
-        },
-        {
-          "number": 19,
-          "name": "Angels Like You",
-          "duration": "3:17"
-        }
-      ]
-    },
-    {
       "name": "Something Beautiful",
       "year": "2025",
       "release_date": "2025-05-30",
@@ -424,6 +321,109 @@
           "number": 16,
           "name": "Hands in the Air (feat. Ludacris)",
           "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "Plastic Hearts (Apple Music Backyard Sessions Edition)",
+      "year": "2020",
+      "release_date": "2020-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/87/c2/c487c2b6-021f-18a1-d618-b179ffb3f917/886448903437.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "WTF Do I Know",
+          "duration": "2:51"
+        },
+        {
+          "number": 2,
+          "name": "Plastic Hearts",
+          "duration": "3:25"
+        },
+        {
+          "number": 3,
+          "name": "Angels Like You",
+          "duration": "3:16"
+        },
+        {
+          "number": 4,
+          "name": "Prisoner (feat. Dua Lipa)",
+          "duration": "2:49"
+        },
+        {
+          "number": 5,
+          "name": "Gimme What I Want",
+          "duration": "2:31"
+        },
+        {
+          "number": 6,
+          "name": "Night Crawling (feat. Billy Idol)",
+          "duration": "3:09"
+        },
+        {
+          "number": 7,
+          "name": "Midnight Sky",
+          "duration": "3:43"
+        },
+        {
+          "number": 8,
+          "name": "High",
+          "duration": "3:16"
+        },
+        {
+          "number": 9,
+          "name": "Hate Me",
+          "duration": "2:37"
+        },
+        {
+          "number": 10,
+          "name": "Bad Karma (feat. Joan Jett)",
+          "duration": "3:08"
+        },
+        {
+          "number": 11,
+          "name": "Never Be Me",
+          "duration": "3:35"
+        },
+        {
+          "number": 12,
+          "name": "Golden G String",
+          "duration": "3:55"
+        },
+        {
+          "number": 13,
+          "name": "Edge of Midnight (Midnight Sky Remix) [feat. Stevie Nicks]",
+          "duration": "3:40"
+        },
+        {
+          "number": 14,
+          "name": "Heart Of Glass (Live from the iHeart Festival)",
+          "duration": "3:33"
+        },
+        {
+          "number": 15,
+          "name": "Zombie (Live from the NIVA Save Our Stages Festival)",
+          "duration": "4:50"
+        },
+        {
+          "number": 16,
+          "name": "High",
+          "duration": "3:18"
+        },
+        {
+          "number": 17,
+          "name": "Plastic Hearts",
+          "duration": "3:22"
+        },
+        {
+          "number": 18,
+          "name": "Golden G String",
+          "duration": "3:53"
+        },
+        {
+          "number": 19,
+          "name": "Angels Like You",
+          "duration": "3:17"
         }
       ]
     },
@@ -635,6 +635,162 @@
           "number": 13,
           "name": "Flowers (Demo)",
           "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "Can't Be Tamed",
+      "year": "2010",
+      "release_date": "2010-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/49/f7/df/49f7df1f-46cd-8b08-ae33-c8d63415e3fc/00050087167752.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Liberty Walk",
+          "duration": "4:06"
+        },
+        {
+          "number": 2,
+          "name": "Who Owns My Heart",
+          "duration": "3:34"
+        },
+        {
+          "number": 3,
+          "name": "Can't Be Tamed",
+          "duration": "2:48"
+        },
+        {
+          "number": 4,
+          "name": "Every Rose Has Its Thorn",
+          "duration": "3:48"
+        },
+        {
+          "number": 5,
+          "name": "Two More Lonely People",
+          "duration": "3:09"
+        },
+        {
+          "number": 6,
+          "name": "Forgiveness and Love",
+          "duration": "3:28"
+        },
+        {
+          "number": 7,
+          "name": "Permanent December",
+          "duration": "3:37"
+        },
+        {
+          "number": 8,
+          "name": "Stay",
+          "duration": "4:21"
+        },
+        {
+          "number": 9,
+          "name": "Scars",
+          "duration": "3:42"
+        },
+        {
+          "number": 10,
+          "name": "Take Me Along",
+          "duration": "4:09"
+        },
+        {
+          "number": 11,
+          "name": "Robot",
+          "duration": "3:43"
+        },
+        {
+          "number": 12,
+          "name": "My Heart Beats for Love",
+          "duration": "3:43"
+        },
+        {
+          "number": 13,
+          "name": "Can't Be Tamed (Rockangeles Remix) [feat. Lil Jon]",
+          "duration": "4:00"
+        }
+      ]
+    },
+    {
+      "name": "Something Beautiful (Deluxe)",
+      "year": "2025",
+      "release_date": "2025-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/eb/3f/84eb3f10-ee96-708a-b5ed-1e3ffea86012/196873478166.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Prelude",
+          "duration": "2:35"
+        },
+        {
+          "number": 2,
+          "name": "Something Beautiful",
+          "duration": "4:31"
+        },
+        {
+          "number": 3,
+          "name": "End of the World",
+          "duration": "4:10"
+        },
+        {
+          "number": 4,
+          "name": "More to Lose",
+          "duration": "4:35"
+        },
+        {
+          "number": 5,
+          "name": "Interlude 1",
+          "duration": "1:14"
+        },
+        {
+          "number": 6,
+          "name": "Easy Lover",
+          "duration": "3:06"
+        },
+        {
+          "number": 7,
+          "name": "Interlude 2",
+          "duration": "1:30"
+        },
+        {
+          "number": 8,
+          "name": "Golden Burning Sun",
+          "duration": "4:54"
+        },
+        {
+          "number": 9,
+          "name": "Walk of Fame (feat. Brittany Howard)",
+          "duration": "6:00"
+        },
+        {
+          "number": 10,
+          "name": "Pretend You're God",
+          "duration": "4:39"
+        },
+        {
+          "number": 11,
+          "name": "Every Girl You've Ever Loved (feat. Naomi Campbell)",
+          "duration": "5:18"
+        },
+        {
+          "number": 12,
+          "name": "Reborn",
+          "duration": "5:42"
+        },
+        {
+          "number": 13,
+          "name": "Give Me Love",
+          "duration": "3:51"
+        },
+        {
+          "number": 14,
+          "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
+          "duration": "3:49"
+        },
+        {
+          "number": 15,
+          "name": "Lockdown (feat. David Byrne)",
+          "duration": "13:31"
         }
       ]
     },
@@ -853,6 +1009,49 @@
       ]
     },
     {
+      "name": "SHE IS COMING",
+      "year": "2019",
+      "release_date": "2019-05-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/99/93/de999397-fb27-4b7a-1fb9-1a9f804a417e/196871119405.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mother's Daughter",
+          "duration": "3:39"
+        },
+        {
+          "number": 2,
+          "name": "Unholy",
+          "duration": "2:10"
+        },
+        {
+          "number": 3,
+          "name": "D.R.E.A.M. (feat. Ghostface Killah)",
+          "duration": "2:48"
+        },
+        {
+          "number": 4,
+          "name": "Cattitude (feat. RuPaul)",
+          "duration": "3:09"
+        },
+        {
+          "number": 5,
+          "name": "Party Up The Street",
+          "duration": "3:37"
+        },
+        {
+          "number": 6,
+          "name": "The Most",
+          "duration": "3:41"
+        },
+        {
+          "number": 7,
+          "name": "Slide Away",
+          "duration": "3:53"
+        }
+      ]
+    },
+    {
       "name": "Miley Cyrus & Her Dead Petz",
       "year": "2015",
       "release_date": "2015-08-30",
@@ -976,162 +1175,6 @@
       ]
     },
     {
-      "name": "Something Beautiful (Deluxe)",
-      "year": "2025",
-      "release_date": "2025-09-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/eb/3f/84eb3f10-ee96-708a-b5ed-1e3ffea86012/196873478166.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Prelude",
-          "duration": "2:35"
-        },
-        {
-          "number": 2,
-          "name": "Something Beautiful",
-          "duration": "4:31"
-        },
-        {
-          "number": 3,
-          "name": "End of the World",
-          "duration": "4:10"
-        },
-        {
-          "number": 4,
-          "name": "More to Lose",
-          "duration": "4:35"
-        },
-        {
-          "number": 5,
-          "name": "Interlude 1",
-          "duration": "1:14"
-        },
-        {
-          "number": 6,
-          "name": "Easy Lover",
-          "duration": "3:06"
-        },
-        {
-          "number": 7,
-          "name": "Interlude 2",
-          "duration": "1:30"
-        },
-        {
-          "number": 8,
-          "name": "Golden Burning Sun",
-          "duration": "4:54"
-        },
-        {
-          "number": 9,
-          "name": "Walk of Fame (feat. Brittany Howard)",
-          "duration": "6:00"
-        },
-        {
-          "number": 10,
-          "name": "Pretend You're God",
-          "duration": "4:39"
-        },
-        {
-          "number": 11,
-          "name": "Every Girl You've Ever Loved (feat. Naomi Campbell)",
-          "duration": "5:18"
-        },
-        {
-          "number": 12,
-          "name": "Reborn",
-          "duration": "5:42"
-        },
-        {
-          "number": 13,
-          "name": "Give Me Love",
-          "duration": "3:51"
-        },
-        {
-          "number": 14,
-          "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
-          "duration": "3:49"
-        },
-        {
-          "number": 15,
-          "name": "Lockdown (feat. David Byrne)",
-          "duration": "13:31"
-        }
-      ]
-    },
-    {
-      "name": "Can't Be Tamed",
-      "year": "2010",
-      "release_date": "2010-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/49/f7/df/49f7df1f-46cd-8b08-ae33-c8d63415e3fc/00050087167752.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Liberty Walk",
-          "duration": "4:06"
-        },
-        {
-          "number": 2,
-          "name": "Who Owns My Heart",
-          "duration": "3:34"
-        },
-        {
-          "number": 3,
-          "name": "Can't Be Tamed",
-          "duration": "2:48"
-        },
-        {
-          "number": 4,
-          "name": "Every Rose Has Its Thorn",
-          "duration": "3:48"
-        },
-        {
-          "number": 5,
-          "name": "Two More Lonely People",
-          "duration": "3:09"
-        },
-        {
-          "number": 6,
-          "name": "Forgiveness and Love",
-          "duration": "3:28"
-        },
-        {
-          "number": 7,
-          "name": "Permanent December",
-          "duration": "3:37"
-        },
-        {
-          "number": 8,
-          "name": "Stay",
-          "duration": "4:21"
-        },
-        {
-          "number": 9,
-          "name": "Scars",
-          "duration": "3:42"
-        },
-        {
-          "number": 10,
-          "name": "Take Me Along",
-          "duration": "4:09"
-        },
-        {
-          "number": 11,
-          "name": "Robot",
-          "duration": "3:43"
-        },
-        {
-          "number": 12,
-          "name": "My Heart Beats for Love",
-          "duration": "3:43"
-        },
-        {
-          "number": 13,
-          "name": "Can't Be Tamed (Rockangeles Remix) [feat. Lil Jon]",
-          "duration": "4:00"
-        }
-      ]
-    },
-    {
       "name": "Meet Miley Cyrus",
       "year": "2007",
       "release_date": "2007-06-26",
@@ -1186,49 +1229,6 @@
           "number": 10,
           "name": "I Miss You",
           "duration": "3:58"
-        }
-      ]
-    },
-    {
-      "name": "SHE IS COMING",
-      "year": "2019",
-      "release_date": "2019-05-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/99/93/de999397-fb27-4b7a-1fb9-1a9f804a417e/196871119405.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mother's Daughter",
-          "duration": "3:39"
-        },
-        {
-          "number": 2,
-          "name": "Unholy",
-          "duration": "2:10"
-        },
-        {
-          "number": 3,
-          "name": "D.R.E.A.M. (feat. Ghostface Killah)",
-          "duration": "2:48"
-        },
-        {
-          "number": 4,
-          "name": "Cattitude (feat. RuPaul)",
-          "duration": "3:09"
-        },
-        {
-          "number": 5,
-          "name": "Party Up The Street",
-          "duration": "3:37"
-        },
-        {
-          "number": 6,
-          "name": "The Most",
-          "duration": "3:41"
-        },
-        {
-          "number": 7,
-          "name": "Slide Away",
-          "duration": "3:53"
         }
       ]
     },
@@ -1291,6 +1291,19 @@
       ]
     },
     {
+      "name": "Real and True (feat. Mr Hudson)",
+      "year": "2013",
+      "release_date": "2013-11-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/3f/16/a7/3f16a770-bd28-db91-cfca-6b4ff191663d/dj.rgzdvttc.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Real and True (feat. Mr Hudson)",
+          "duration": "4:07"
+        }
+      ]
+    },
+    {
       "name": "Light of a Clear Blue Morning (feat. Lainey Wilson, Miley Cyrus, Queen Latifah & Reba McEntire)",
       "year": "2026",
       "release_date": "2026-01-16",
@@ -1313,58 +1326,6 @@
           "number": 1,
           "name": "WITHOUT YOU (Miley Cyrus Remix)",
           "duration": "2:41"
-        }
-      ]
-    },
-    {
-      "name": "Heart of Glass (Live from the iHeart Music Festival)",
-      "year": "2020",
-      "release_date": "2020-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/36/6b/90/366b90a2-8ae4-d5e2-478f-b0dc2d627b0b/886448804147.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Heart of Glass (Live from the iHeart Music Festival)",
-          "duration": "3:33"
-        }
-      ]
-    },
-    {
-      "name": "Real and True (feat. Mr Hudson)",
-      "year": "2013",
-      "release_date": "2013-11-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/3f/16/a7/3f16a770-bd28-db91-cfca-6b4ff191663d/dj.rgzdvttc.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Real and True (feat. Mr Hudson)",
-          "duration": "4:07"
-        }
-      ]
-    },
-    {
-      "name": "Adore You (Remix)",
-      "year": "2014",
-      "release_date": "2014-03-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/11/52/82/11528298-9afa-a21a-0398-d0b9b5360c58/886444470865.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Adore You (Remix)",
-          "duration": "3:35"
-        }
-      ]
-    },
-    {
-      "name": "Used To Be Young",
-      "year": "2023",
-      "release_date": "2023-08-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/b2/9a/dbb29a5c-b5b6-5acd-4e28-0c85744a2605/196871387910.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Used To Be Young",
-          "duration": "3:11"
         }
       ]
     },
@@ -1395,15 +1356,15 @@
       ]
     },
     {
-      "name": "Happy Xmas (War Is Over) [feat. Sean Ono Lennon]",
-      "year": "2018",
-      "release_date": "2018-12-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/c9/31/98c931fa-b62e-5c08-cb14-d463a7e9095d/886447490624.jpg/600x600bb.jpg",
+      "name": "Heart of Glass (Live from the iHeart Music Festival)",
+      "year": "2020",
+      "release_date": "2020-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/36/6b/90/366b90a2-8ae4-d5e2-478f-b0dc2d627b0b/886448804147.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Happy Xmas (War Is Over) [feat. Sean Ono Lennon]",
-          "duration": "3:40"
+          "name": "Heart of Glass (Live from the iHeart Music Festival)",
+          "duration": "3:33"
         }
       ]
     },
@@ -1421,28 +1382,28 @@
       ]
     },
     {
-      "name": "Dream As One (from Avatar: Fire and Ash)",
-      "year": "2025",
-      "release_date": "2025-11-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/88/ad/2e88ad02-9852-54b6-190b-ee291f32b570/196873785127.jpg/600x600bb.jpg",
+      "name": "Used To Be Young",
+      "year": "2023",
+      "release_date": "2023-08-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/b2/9a/dbb29a5c-b5b6-5acd-4e28-0c85744a2605/196871387910.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Dream As One (from Avatar: Fire and Ash)",
-          "duration": "3:19"
+          "name": "Used To Be Young",
+          "duration": "3:11"
         }
       ]
     },
     {
-      "name": "Nothing Else Matters (feat. WATT, Elton John, Yo-Yo Ma, Robert Trujillo & Chad Smith)",
-      "year": "2021",
-      "release_date": "2021-06-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/26/5c/76265ce7-86da-0925-f7ce-687bcb7b1d8d/810083960074.png/600x600bb.jpg",
+      "name": "Adore You (Remix)",
+      "year": "2014",
+      "release_date": "2014-03-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/11/52/82/11528298-9afa-a21a-0398-d0b9b5360c58/886444470865.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Nothing Else Matters (feat. WATT, Elton John, Yo-Yo Ma, Robert Trujillo & Chad Smith)",
-          "duration": "6:35"
+          "name": "Adore You (Remix)",
+          "duration": "3:35"
         }
       ]
     },
@@ -1460,19 +1421,6 @@
       ]
     },
     {
-      "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Don Diablo Remix]",
-      "year": "2019",
-      "release_date": "2019-01-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/2d/a2/6b2da292-0cde-c33c-b56b-e3d15ab83cd8/886447521540.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Don Diablo Remix]",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
       "name": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -1486,28 +1434,54 @@
       ]
     },
     {
-      "name": "Just Stand Up! (feat. Mariah, Beyoncé, Mary J. Blige, Rihanna, Fergie, Sheryl Crow, Melissa Etheridge, Natasha Bedingfield, Miley Cyrus, Leona Lewis, Carrie Underwood, Keyshia Cole, LeAnn Rimes, Ashanti & Ciara)",
-      "year": "2008",
-      "release_date": "2008-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/15/ff/7e/15ff7efc-a03e-4f0a-d80e-03afe5a3a481/08UMGIM18742.rgb.jpg/600x600bb.jpg",
+      "name": "I Got So High That I Saw Jesus (Live Recording) [feat. Miley Cyrus]",
+      "year": "2020",
+      "release_date": "2020-10-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/31/b1/0831b140-8c73-004f-f4e0-bd0c9266bb77/886448853886.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Just Stand Up! (feat. Mariah, Beyoncé, Mary J. Blige, Rihanna, Fergie, Sheryl Crow, Melissa Etheridge, Natasha Bedingfield, Miley Cyrus, Leona Lewis, Carrie Underwood, Keyshia Cole, LeAnn Rimes, Ashanti & Ciara)",
-          "duration": "3:34"
+          "name": "I Got So High That I Saw Jesus (Live Recording) [feat. Miley Cyrus]",
+          "duration": "3:33"
         }
       ]
     },
     {
-      "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
-      "year": "2025",
-      "release_date": "2025-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/3d/1c/9f3d1ced-1add-530e-0677-e8192e15474a/196873616100.jpg/600x600bb.jpg",
+      "name": "Happy Xmas (War Is Over) [feat. Sean Ono Lennon]",
+      "year": "2018",
+      "release_date": "2018-12-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/c9/31/98c931fa-b62e-5c08-cb14-d463a7e9095d/886447490624.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
-          "duration": "3:49"
+          "name": "Happy Xmas (War Is Over) [feat. Sean Ono Lennon]",
+          "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "name": "Dream As One (from Avatar: Fire and Ash)",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/88/ad/2e88ad02-9852-54b6-190b-ee291f32b570/196873785127.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dream As One (from Avatar: Fire and Ash)",
+          "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "Psycho Killer",
+      "year": "2024",
+      "release_date": "2024-05-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/da/18/9dda1833-bf92-a686-b207-e213be4ba246/45708.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Psycho Killer",
+          "duration": "3:44"
         }
       ]
     },
@@ -1525,15 +1499,80 @@
       ]
     },
     {
-      "name": "WITHOUT YOU (Miley Cyrus Remix)",
-      "year": "2021",
-      "release_date": "2021-04-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9b/2e/fb/9b2efbdc-5694-88b1-1fcb-26d9072dd864/886449216581.jpg/600x600bb.jpg",
+      "name": "7 Things",
+      "year": "2008",
+      "release_date": "2008-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ae/60/1b/ae601b08-9bc8-df2a-b2f3-70e58f3dd424/00050087124519.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "WITHOUT YOU (Miley Cyrus Remix)",
-          "duration": "2:41"
+          "name": "7 Things",
+          "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Else Matters (feat. WATT, Elton John, Yo-Yo Ma, Robert Trujillo & Chad Smith)",
+      "year": "2021",
+      "release_date": "2021-06-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/26/5c/76265ce7-86da-0925-f7ce-687bcb7b1d8d/810083960074.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nothing Else Matters (feat. WATT, Elton John, Yo-Yo Ma, Robert Trujillo & Chad Smith)",
+          "duration": "6:35"
+        }
+      ]
+    },
+    {
+      "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
+      "year": "2021",
+      "release_date": "2021-02-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/c2/df/62c2df7c-7777-e61f-14d7-60684c7fe4a1/886449066063.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Don Diablo Remix]",
+      "year": "2019",
+      "release_date": "2019-01-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/2d/a2/6b2da292-0cde-c33c-b56b-e3d15ab83cd8/886447521540.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Don Diablo Remix]",
+          "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "Just Stand Up! (feat. Mariah, Beyoncé, Mary J. Blige, Rihanna, Fergie, Sheryl Crow, Melissa Etheridge, Natasha Bedingfield, Miley Cyrus, Leona Lewis, Carrie Underwood, Keyshia Cole, LeAnn Rimes, Ashanti & Ciara)",
+      "year": "2008",
+      "release_date": "2008-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/15/ff/7e/15ff7efc-a03e-4f0a-d80e-03afe5a3a481/08UMGIM18742.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Just Stand Up! (feat. Mariah, Beyoncé, Mary J. Blige, Rihanna, Fergie, Sheryl Crow, Melissa Etheridge, Natasha Bedingfield, Miley Cyrus, Leona Lewis, Carrie Underwood, Keyshia Cole, LeAnn Rimes, Ashanti & Ciara)",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "Doctor (Work It Out)",
+      "year": "2024",
+      "release_date": "2024-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/e1/02/f7e10272-64c2-fde5-71d1-caf0deca5834/196871790994.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Doctor (Work It Out)",
+          "duration": "3:02"
         }
       ]
     },
@@ -1551,6 +1590,45 @@
       ]
     },
     {
+      "name": "WITHOUT YOU (Miley Cyrus Remix)",
+      "year": "2021",
+      "release_date": "2021-04-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9b/2e/fb/9b2efbdc-5694-88b1-1fcb-26d9072dd864/886449216581.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "WITHOUT YOU (Miley Cyrus Remix)",
+          "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
+      "year": "2025",
+      "release_date": "2025-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/3d/1c/9f3d1ced-1add-530e-0677-e8192e15474a/196873616100.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
+          "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Breaks Like a Heart (Acoustic Version) [feat. Miley Cyrus]",
+      "year": "2019",
+      "release_date": "2019-01-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/35/6e/2c356e3d-3972-a421-3133-de44f6130890/886447501368.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Acoustic Version]",
+          "duration": "3:40"
+        }
+      ]
+    },
+    {
       "name": "Teardrop (feat. Miley Cyrus)",
       "year": "2016",
       "release_date": "2016-07-19",
@@ -1560,6 +1638,32 @@
           "number": 1,
           "name": "Teardrop (feat. Miley Cyrus)",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "II MOST WANTED",
+      "year": "2024",
+      "release_date": "2024-03-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/be/09/56be09e5-f3ca-5f85-e2a2-524aa3e1c91b/196872074345.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "II MOST WANTED",
+          "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Martin Solveig Remix]",
+      "year": "2019",
+      "release_date": "2019-01-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ff/3c/39/ff3c3903-7481-0fcc-9d13-e037b5883c78/886447516607.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Martin Solveig Remix]",
+          "duration": "4:12"
         }
       ]
     },
@@ -1582,97 +1686,6 @@
       ]
     },
     {
-      "name": "Doctor (Work It Out)",
-      "year": "2024",
-      "release_date": "2024-03-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/e1/02/f7e10272-64c2-fde5-71d1-caf0deca5834/196871790994.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Doctor (Work It Out)",
-          "duration": "3:02"
-        }
-      ]
-    },
-    {
-      "name": "Nothing Breaks Like a Heart (Acoustic Version) [feat. Miley Cyrus]",
-      "year": "2019",
-      "release_date": "2019-01-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/35/6e/2c356e3d-3972-a421-3133-de44f6130890/886447501368.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Acoustic Version]",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
-      "name": "I Got So High That I Saw Jesus (Live Recording) [feat. Miley Cyrus]",
-      "year": "2020",
-      "release_date": "2020-10-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/08/31/b1/0831b140-8c73-004f-f4e0-bd0c9266bb77/886448853886.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Got So High That I Saw Jesus (Live Recording) [feat. Miley Cyrus]",
-          "duration": "3:33"
-        }
-      ]
-    },
-    {
-      "name": "II MOST WANTED",
-      "year": "2024",
-      "release_date": "2024-03-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/be/09/56be09e5-f3ca-5f85-e2a2-524aa3e1c91b/196872074345.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "II MOST WANTED",
-          "duration": "3:28"
-        }
-      ]
-    },
-    {
-      "name": "23 (feat. Miley Cyrus, Wiz Khalifa & Juicy J)",
-      "year": "2013",
-      "release_date": "2013-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/89/af/6a/89af6a51-259d-5c33-5d60-559269be6c4b/00602537564620.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "23 (feat. Miley Cyrus, Wiz Khalifa & Juicy J)",
-          "duration": "4:12"
-        }
-      ]
-    },
-    {
-      "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Martin Solveig Remix]",
-      "year": "2019",
-      "release_date": "2019-01-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ff/3c/39/ff3c3903-7481-0fcc-9d13-e037b5883c78/886447516607.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Martin Solveig Remix]",
-          "duration": "4:12"
-        }
-      ]
-    },
-    {
-      "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
-      "year": "2021",
-      "release_date": "2021-02-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/c2/df/62c2df7c-7777-e61f-14d7-60684c7fe4a1/886449066063.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
-          "duration": "3:46"
-        }
-      ]
-    },
-    {
       "name": "Nothing Breaks Like a Heart (Dimitri from Paris Remix) [feat. Miley Cyrus]",
       "year": "2018",
       "release_date": "2018-12-28",
@@ -1686,79 +1699,15 @@
       ]
     },
     {
-      "name": "7 Things",
-      "year": "2008",
-      "release_date": "2008-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ae/60/1b/ae601b08-9bc8-df2a-b2f3-70e58f3dd424/00050087124519.rgb.jpg/600x600bb.jpg",
+      "name": "23 (feat. Miley Cyrus, Wiz Khalifa & Juicy J)",
+      "year": "2013",
+      "release_date": "2013-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/89/af/6a/89af6a51-259d-5c33-5d60-559269be6c4b/00602537564620.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "7 Things",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "Nothing Breaks Like A Heart (feat. Miley Cyrus)",
-      "year": "2019",
-      "release_date": "2019-11-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9c/6c/7a/9c6c7a9c-6f7b-180e-29ea-e80f714a9d6d/196589417299.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
-          "duration": "3:36"
-        },
-        {
-          "number": 2,
-          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Boston Bun Remix]",
-          "duration": "3:40"
-        },
-        {
-          "number": 3,
-          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Dimitri from Paris Remix]",
-          "duration": "3:32"
-        },
-        {
-          "number": 4,
-          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Acoustic Version]",
-          "duration": "3:41"
-        },
-        {
-          "number": 5,
-          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Martin Solveig Remix]",
+          "name": "23 (feat. Miley Cyrus, Wiz Khalifa & Juicy J)",
           "duration": "4:12"
-        },
-        {
-          "number": 6,
-          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Don Diablo Remix]",
-          "duration": "3:37"
-        }
-      ]
-    },
-    {
-      "name": "Psycho Killer",
-      "year": "2024",
-      "release_date": "2024-05-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/da/18/9dda1833-bf92-a686-b207-e213be4ba246/45708.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Psycho Killer",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
-      "name": "Maybe It's",
-      "year": "2025",
-      "release_date": "2025-10-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/a3/c4/17a3c44d-fabe-3004-35b3-12fac303f287/196873495163.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Maybe It's",
-          "duration": "1:06"
         }
       ]
     },
@@ -1812,6 +1761,44 @@
       ]
     },
     {
+      "name": "Nothing Breaks Like A Heart (feat. Miley Cyrus)",
+      "year": "2019",
+      "release_date": "2019-11-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9c/6c/7a/9c6c7a9c-6f7b-180e-29ea-e80f714a9d6d/196589417299.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
+          "duration": "3:36"
+        },
+        {
+          "number": 2,
+          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Boston Bun Remix]",
+          "duration": "3:40"
+        },
+        {
+          "number": 3,
+          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Dimitri from Paris Remix]",
+          "duration": "3:32"
+        },
+        {
+          "number": 4,
+          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Acoustic Version]",
+          "duration": "3:41"
+        },
+        {
+          "number": 5,
+          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Martin Solveig Remix]",
+          "duration": "4:12"
+        },
+        {
+          "number": 6,
+          "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Don Diablo Remix]",
+          "duration": "3:37"
+        }
+      ]
+    },
+    {
       "name": "Wrecking Ball (The Voice Performance)",
       "year": "2017",
       "release_date": "2017-12-18",
@@ -1821,6 +1808,19 @@
           "number": 1,
           "name": "Wrecking Ball (The Voice Performance)",
           "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "Maybe It's",
+      "year": "2025",
+      "release_date": "2025-10-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/a3/c4/17a3c44d-fabe-3004-35b3-12fac303f287/196873495163.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Maybe It's",
+          "duration": "1:06"
         }
       ]
     },
@@ -1909,39 +1909,6 @@
       ]
     },
     {
-      "name": "Something Beautiful (Edits)",
-      "year": "2025",
-      "release_date": "2025-08-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/a0/15/6fa015d1-7fdc-2022-6f7e-ea909553dbaf/196873466521.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "End of the World (Edit)",
-          "duration": "3:49"
-        },
-        {
-          "number": 2,
-          "name": "More to Lose (Edit)",
-          "duration": "3:56"
-        },
-        {
-          "number": 3,
-          "name": "Walk of Fame (feat. Brittany Howard) [Edit]",
-          "duration": "3:37"
-        },
-        {
-          "number": 4,
-          "name": "Every Girl You've Ever Loved (feat. Naomi Campbell) [Edit]",
-          "duration": "3:41"
-        },
-        {
-          "number": 5,
-          "name": "Reborn (Edit)",
-          "duration": "3:58"
-        }
-      ]
-    },
-    {
       "name": "Malibu (The Remixes)",
       "year": "2017",
       "release_date": "2017-05-11",
@@ -2014,6 +1981,39 @@
           "number": 6,
           "name": "Younger Now (Syn Cole Remix)",
           "duration": "3:23"
+        }
+      ]
+    },
+    {
+      "name": "Something Beautiful (Edits)",
+      "year": "2025",
+      "release_date": "2025-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/a0/15/6fa015d1-7fdc-2022-6f7e-ea909553dbaf/196873466521.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "End of the World (Edit)",
+          "duration": "3:49"
+        },
+        {
+          "number": 2,
+          "name": "More to Lose (Edit)",
+          "duration": "3:56"
+        },
+        {
+          "number": 3,
+          "name": "Walk of Fame (feat. Brittany Howard) [Edit]",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "Every Girl You've Ever Loved (feat. Naomi Campbell) [Edit]",
+          "duration": "3:41"
+        },
+        {
+          "number": 5,
+          "name": "Reborn (Edit)",
+          "duration": "3:58"
         }
       ]
     }

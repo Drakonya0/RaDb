@@ -126,95 +126,85 @@
       ]
     },
     {
-      "name": "Les Marquises (Brel)",
-      "year": "1977",
-      "release_date": "1977-11-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a4/9f/32/a49f3271-ae26-dbb5-e356-ff4e06647ac6/00602567778264.rgb.jpg/600x600bb.jpg",
+      "name": "Enregistrement public à l'Olympia 1961",
+      "year": "1961",
+      "release_date": "1961-10-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/41/d8/bb/41d8bb1b-d3dc-5af3-cff9-f6f5dfab95de/00602537487523.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Jaurès",
-          "duration": "3:40"
+          "name": "Les prénoms de Paris (Live Olympia 61)",
+          "duration": "2:31"
         },
         {
           "number": 2,
-          "name": "La ville s'endormait",
-          "duration": "4:40"
+          "name": "Les bourgeois (Live Olympia 61)",
+          "duration": "2:33"
         },
         {
           "number": 3,
-          "name": "Vieillir",
-          "duration": "3:46"
+          "name": "Les paumes du petit matin (Live Olympia 61)",
+          "duration": "3:54"
         },
         {
           "number": 4,
-          "name": "Le bon Dieu",
-          "duration": "4:48"
+          "name": "Les flamandes (Live Olympia 61)",
+          "duration": "2:36"
         },
         {
           "number": 5,
-          "name": "Les F...",
-          "duration": "3:32"
+          "name": "La statue (Live Olympia 61)",
+          "duration": "2:46"
         },
         {
           "number": 6,
-          "name": "Orly",
-          "duration": "4:21"
+          "name": "Zangra (Live Olympia 61)",
+          "duration": "3:06"
         },
         {
           "number": 7,
-          "name": "Les remparts de Varsovie",
-          "duration": "4:08"
+          "name": "Marieke (Live Olympia 61)",
+          "duration": "2:50"
         },
         {
           "number": 8,
-          "name": "Voir un ami pleurer",
-          "duration": "3:57"
+          "name": "Les biches (Live Olympia 61)",
+          "duration": "3:39"
         },
         {
           "number": 9,
-          "name": "Knokke-le-Zoute tango",
-          "duration": "5:13"
+          "name": "Madeleine (Live Olympia 61)",
+          "duration": "2:46"
         },
         {
           "number": 10,
-          "name": "Jojo",
-          "duration": "3:15"
+          "name": "Les singes (Live Olympia 61)",
+          "duration": "3:02"
         },
         {
           "number": 11,
-          "name": "Le lion",
-          "duration": "3:29"
+          "name": "L'ivrogne (Live Olympia 61)",
+          "duration": "4:05"
         },
         {
           "number": 12,
-          "name": "Les marquises",
-          "duration": "3:56"
+          "name": "La valse a mille temps (Live Olympia 61)",
+          "duration": "3:47"
         },
         {
           "number": 13,
-          "name": "Sans exigences",
-          "duration": "3:11"
+          "name": "Ne me quitte pas (Live Olympia 61)",
+          "duration": "3:56"
         },
         {
           "number": 14,
-          "name": "Avec élégance",
-          "duration": "3:00"
+          "name": "Le moribond (Live Olympia 61)",
+          "duration": "2:50"
         },
         {
           "number": 15,
-          "name": "Mai 40",
-          "duration": "3:42"
-        },
-        {
-          "number": 16,
-          "name": "L'amour est mort",
-          "duration": "4:06"
-        },
-        {
-          "number": 17,
-          "name": "La cathédrale",
-          "duration": "4:46"
+          "name": "Quand on n'a que l'amour (Live Olympia 61)",
+          "duration": "3:45"
         }
       ]
     },
@@ -653,6 +643,99 @@
       ]
     },
     {
+      "name": "Les Marquises (Brel)",
+      "year": "1977",
+      "release_date": "1977-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a4/9f/32/a49f3271-ae26-dbb5-e356-ff4e06647ac6/00602567778264.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Jaurès",
+          "duration": "3:40"
+        },
+        {
+          "number": 2,
+          "name": "La ville s'endormait",
+          "duration": "4:40"
+        },
+        {
+          "number": 3,
+          "name": "Vieillir",
+          "duration": "3:46"
+        },
+        {
+          "number": 4,
+          "name": "Le bon Dieu",
+          "duration": "4:48"
+        },
+        {
+          "number": 5,
+          "name": "Les F...",
+          "duration": "3:32"
+        },
+        {
+          "number": 6,
+          "name": "Orly",
+          "duration": "4:21"
+        },
+        {
+          "number": 7,
+          "name": "Les remparts de Varsovie",
+          "duration": "4:08"
+        },
+        {
+          "number": 8,
+          "name": "Voir un ami pleurer",
+          "duration": "3:57"
+        },
+        {
+          "number": 9,
+          "name": "Knokke-le-Zoute tango",
+          "duration": "5:13"
+        },
+        {
+          "number": 10,
+          "name": "Jojo",
+          "duration": "3:15"
+        },
+        {
+          "number": 11,
+          "name": "Le lion",
+          "duration": "3:29"
+        },
+        {
+          "number": 12,
+          "name": "Les marquises",
+          "duration": "3:56"
+        },
+        {
+          "number": 13,
+          "name": "Sans exigences",
+          "duration": "3:11"
+        },
+        {
+          "number": 14,
+          "name": "Avec élégance",
+          "duration": "3:00"
+        },
+        {
+          "number": 15,
+          "name": "Mai 40",
+          "duration": "3:42"
+        },
+        {
+          "number": 16,
+          "name": "L'amour est mort",
+          "duration": "4:06"
+        },
+        {
+          "number": 17,
+          "name": "La cathédrale",
+          "duration": "4:46"
+        }
+      ]
+    },
+    {
       "name": "Les 100 plus belles chansons de Jacques Brel",
       "year": "2006",
       "release_date": "2006-01-01",
@@ -1038,89 +1121,6 @@
           "number": 13,
           "name": "La mort",
           "duration": "9:44"
-        }
-      ]
-    },
-    {
-      "name": "Enregistrement public à l'Olympia 1961",
-      "year": "1961",
-      "release_date": "1961-10-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/41/d8/bb/41d8bb1b-d3dc-5af3-cff9-f6f5dfab95de/00602537487523.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Les prénoms de Paris (Live Olympia 61)",
-          "duration": "2:31"
-        },
-        {
-          "number": 2,
-          "name": "Les bourgeois (Live Olympia 61)",
-          "duration": "2:33"
-        },
-        {
-          "number": 3,
-          "name": "Les paumes du petit matin (Live Olympia 61)",
-          "duration": "3:54"
-        },
-        {
-          "number": 4,
-          "name": "Les flamandes (Live Olympia 61)",
-          "duration": "2:36"
-        },
-        {
-          "number": 5,
-          "name": "La statue (Live Olympia 61)",
-          "duration": "2:46"
-        },
-        {
-          "number": 6,
-          "name": "Zangra (Live Olympia 61)",
-          "duration": "3:06"
-        },
-        {
-          "number": 7,
-          "name": "Marieke (Live Olympia 61)",
-          "duration": "2:50"
-        },
-        {
-          "number": 8,
-          "name": "Les biches (Live Olympia 61)",
-          "duration": "3:39"
-        },
-        {
-          "number": 9,
-          "name": "Madeleine (Live Olympia 61)",
-          "duration": "2:46"
-        },
-        {
-          "number": 10,
-          "name": "Les singes (Live Olympia 61)",
-          "duration": "3:02"
-        },
-        {
-          "number": 11,
-          "name": "L'ivrogne (Live Olympia 61)",
-          "duration": "4:05"
-        },
-        {
-          "number": 12,
-          "name": "La valse a mille temps (Live Olympia 61)",
-          "duration": "3:47"
-        },
-        {
-          "number": 13,
-          "name": "Ne me quitte pas (Live Olympia 61)",
-          "duration": "3:56"
-        },
-        {
-          "number": 14,
-          "name": "Le moribond (Live Olympia 61)",
-          "duration": "2:50"
-        },
-        {
-          "number": 15,
-          "name": "Quand on n'a que l'amour (Live Olympia 61)",
-          "duration": "3:45"
         }
       ]
     },

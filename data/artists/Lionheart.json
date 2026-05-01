@@ -3,6 +3,64 @@
   "id": 19436069,
   "albums": [
     {
+      "name": "Valley of Death II",
+      "year": "2026",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/2c/a8/4c2ca80c-3f09-950d-4779-ad4072d6ffe7/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bulletproof",
+          "duration": "2:28"
+        },
+        {
+          "number": 2,
+          "name": "Chewing Through the Leash (feat. Matt Honeycutt & Kublai Khan TX)",
+          "duration": "2:49"
+        },
+        {
+          "number": 3,
+          "name": "Ice Cold",
+          "duration": "2:50"
+        },
+        {
+          "number": 4,
+          "name": "Valley of Death II",
+          "duration": "2:46"
+        },
+        {
+          "number": 5,
+          "name": "No Peace",
+          "duration": "2:51"
+        },
+        {
+          "number": 6,
+          "name": "Roll Call",
+          "duration": "1:27"
+        },
+        {
+          "number": 7,
+          "name": "Salt the Earth",
+          "duration": "2:35"
+        },
+        {
+          "number": 8,
+          "name": "Release the Dogs",
+          "duration": "1:19"
+        },
+        {
+          "number": 9,
+          "name": "In Love with the Pain",
+          "duration": "2:23"
+        },
+        {
+          "number": 10,
+          "name": "Death Grip",
+          "duration": "1:45"
+        }
+      ]
+    },
+    {
       "name": "Welcome to the West Coast",
       "year": "2014",
       "release_date": "2014-01-14",
@@ -109,64 +167,6 @@
       ]
     },
     {
-      "name": "Valley of Death II",
-      "year": "2026",
-      "release_date": "2026-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/2c/a8/4c2ca80c-3f09-950d-4779-ad4072d6ffe7/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bulletproof",
-          "duration": "2:28"
-        },
-        {
-          "number": 2,
-          "name": "Chewing Through the Leash (feat. Matt Honeycutt & Kublai Khan TX)",
-          "duration": "2:49"
-        },
-        {
-          "number": 3,
-          "name": "Ice Cold",
-          "duration": "2:50"
-        },
-        {
-          "number": 4,
-          "name": "Valley of Death II",
-          "duration": "2:46"
-        },
-        {
-          "number": 5,
-          "name": "No Peace",
-          "duration": "2:51"
-        },
-        {
-          "number": 6,
-          "name": "Roll Call",
-          "duration": "1:27"
-        },
-        {
-          "number": 7,
-          "name": "Salt the Earth",
-          "duration": "2:35"
-        },
-        {
-          "number": 8,
-          "name": "Release the Dogs",
-          "duration": "1:19"
-        },
-        {
-          "number": 9,
-          "name": "In Love with the Pain",
-          "duration": "2:23"
-        },
-        {
-          "number": 10,
-          "name": "Death Grip",
-          "duration": "1:45"
-        }
-      ]
-    },
-    {
       "name": "Welcome to the West Coast II",
       "year": "2017",
       "release_date": "2017-11-10",
@@ -221,59 +221,6 @@
           "number": 10,
           "name": "LHHC '17",
           "duration": "3:11"
-        }
-      ]
-    },
-    {
-      "name": "Valley of Death",
-      "year": "2019",
-      "release_date": "2019-11-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b6/22/fc/b622fccd-d675-09e6-614b-f8a17a82bebc/195081108674.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Valley of Death",
-          "duration": "1:40"
-        },
-        {
-          "number": 2,
-          "name": "Burn",
-          "duration": "2:47"
-        },
-        {
-          "number": 3,
-          "name": "For the Record",
-          "duration": "2:14"
-        },
-        {
-          "number": 4,
-          "name": "Rock Bottom (feat. Jesse Barnett)",
-          "duration": "2:52"
-        },
-        {
-          "number": 5,
-          "name": "When I Get Out",
-          "duration": "2:13"
-        },
-        {
-          "number": 6,
-          "name": "Born Feet First",
-          "duration": "2:48"
-        },
-        {
-          "number": 7,
-          "name": "Stories from the Gutter",
-          "duration": "2:13"
-        },
-        {
-          "number": 8,
-          "name": "Before I Wake (feat. Mr. Jet Black)",
-          "duration": "2:46"
-        },
-        {
-          "number": 9,
-          "name": "In My Skin",
-          "duration": "2:34"
         }
       ]
     },
@@ -337,6 +284,59 @@
           "number": 11,
           "name": "EXIT WOUNDS (feat. Alex)",
           "duration": "2:58"
+        }
+      ]
+    },
+    {
+      "name": "Valley of Death",
+      "year": "2019",
+      "release_date": "2019-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b6/22/fc/b622fccd-d675-09e6-614b-f8a17a82bebc/195081108674.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Valley of Death",
+          "duration": "1:40"
+        },
+        {
+          "number": 2,
+          "name": "Burn",
+          "duration": "2:47"
+        },
+        {
+          "number": 3,
+          "name": "For the Record",
+          "duration": "2:14"
+        },
+        {
+          "number": 4,
+          "name": "Rock Bottom (feat. Jesse Barnett)",
+          "duration": "2:52"
+        },
+        {
+          "number": 5,
+          "name": "When I Get Out",
+          "duration": "2:13"
+        },
+        {
+          "number": 6,
+          "name": "Born Feet First",
+          "duration": "2:48"
+        },
+        {
+          "number": 7,
+          "name": "Stories from the Gutter",
+          "duration": "2:13"
+        },
+        {
+          "number": 8,
+          "name": "Before I Wake (feat. Mr. Jet Black)",
+          "duration": "2:46"
+        },
+        {
+          "number": 9,
+          "name": "In My Skin",
+          "duration": "2:34"
         }
       ]
     },
@@ -580,6 +580,69 @@
       ]
     },
     {
+      "name": "Welcome to the West Coast III",
+      "year": "2022",
+      "release_date": "2022-12-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/f4/bf/f7f4bf42-46f6-c1a7-f280-a7833348f2da/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Trilogy Intro",
+          "duration": "1:27"
+        },
+        {
+          "number": 2,
+          "name": "DEATH COMES IN 3'S (feat. Hatebreed & Jasta)",
+          "duration": "3:13"
+        },
+        {
+          "number": 3,
+          "name": "Hell On Earth",
+          "duration": "3:00"
+        },
+        {
+          "number": 4,
+          "name": "LIVE BY the GUN (feat. Body Count & ICE-T)",
+          "duration": "3:33"
+        },
+        {
+          "number": 5,
+          "name": "Cold Water Farewell",
+          "duration": "1:40"
+        },
+        {
+          "number": 6,
+          "name": "STORIES FROM the GUTTER PT. II (feat. E-Town Concrete)",
+          "duration": "3:06"
+        },
+        {
+          "number": 7,
+          "name": "New Money  Old Pain",
+          "duration": "2:29"
+        },
+        {
+          "number": 8,
+          "name": "DEATHBED CONFESSION (feat. Jasta & Hatebreed)",
+          "duration": "2:28"
+        },
+        {
+          "number": 9,
+          "name": "AT WAR WITH the GODS (feat. Desmadre)",
+          "duration": "2:27"
+        },
+        {
+          "number": 10,
+          "name": "Bonnie & Clyde '05",
+          "duration": "2:08"
+        },
+        {
+          "number": 11,
+          "name": "EXIT WOUNDS (feat. Malevolence)",
+          "duration": "2:58"
+        }
+      ]
+    },
+    {
       "name": "Live at Summer Breeze",
       "year": "2020",
       "release_date": "2020-11-06",
@@ -653,6 +716,49 @@
       ]
     },
     {
+      "name": "Ice Cold",
+      "year": "2025",
+      "release_date": "2025-12-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/1a/4e/e11a4e3c-af67-f98a-4689-c71e134c5128/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ice Cold",
+          "duration": "2:50"
+        },
+        {
+          "number": 2,
+          "name": "No Peace",
+          "duration": "2:51"
+        },
+        {
+          "number": 3,
+          "name": "Salt the Earth",
+          "duration": "2:35"
+        },
+        {
+          "number": 4,
+          "name": "Valley of Death II",
+          "duration": "2:46"
+        },
+        {
+          "number": 5,
+          "name": "Death Grip",
+          "duration": "1:45"
+        },
+        {
+          "number": 6,
+          "name": "Roll Call",
+          "duration": "1:27"
+        },
+        {
+          "number": 7,
+          "name": "Bulletproof",
+          "duration": "2:28"
+        }
+      ]
+    },
+    {
       "name": "Valley of Death",
       "year": "2019",
       "release_date": "2019-11-15",
@@ -702,112 +808,6 @@
           "number": 9,
           "name": "In My Skin",
           "duration": "2:34"
-        }
-      ]
-    },
-    {
-      "name": "Ice Cold",
-      "year": "2025",
-      "release_date": "2025-12-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/1a/4e/e11a4e3c-af67-f98a-4689-c71e134c5128/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ice Cold",
-          "duration": "2:50"
-        },
-        {
-          "number": 2,
-          "name": "No Peace",
-          "duration": "2:51"
-        },
-        {
-          "number": 3,
-          "name": "Salt the Earth",
-          "duration": "2:35"
-        },
-        {
-          "number": 4,
-          "name": "Valley of Death II",
-          "duration": "2:46"
-        },
-        {
-          "number": 5,
-          "name": "Death Grip",
-          "duration": "1:45"
-        },
-        {
-          "number": 6,
-          "name": "Roll Call",
-          "duration": "1:27"
-        },
-        {
-          "number": 7,
-          "name": "Bulletproof",
-          "duration": "2:28"
-        }
-      ]
-    },
-    {
-      "name": "Welcome to the West Coast III",
-      "year": "2022",
-      "release_date": "2022-12-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/f4/bf/f7f4bf42-46f6-c1a7-f280-a7833348f2da/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Trilogy Intro",
-          "duration": "1:27"
-        },
-        {
-          "number": 2,
-          "name": "DEATH COMES IN 3'S (feat. Hatebreed & Jasta)",
-          "duration": "3:13"
-        },
-        {
-          "number": 3,
-          "name": "Hell On Earth",
-          "duration": "3:00"
-        },
-        {
-          "number": 4,
-          "name": "LIVE BY the GUN (feat. Body Count & ICE-T)",
-          "duration": "3:33"
-        },
-        {
-          "number": 5,
-          "name": "Cold Water Farewell",
-          "duration": "1:40"
-        },
-        {
-          "number": 6,
-          "name": "STORIES FROM the GUTTER PT. II (feat. E-Town Concrete)",
-          "duration": "3:06"
-        },
-        {
-          "number": 7,
-          "name": "New Money  Old Pain",
-          "duration": "2:29"
-        },
-        {
-          "number": 8,
-          "name": "DEATHBED CONFESSION (feat. Jasta & Hatebreed)",
-          "duration": "2:28"
-        },
-        {
-          "number": 9,
-          "name": "AT WAR WITH the GODS (feat. Desmadre)",
-          "duration": "2:27"
-        },
-        {
-          "number": 10,
-          "name": "Bonnie & Clyde '05",
-          "duration": "2:08"
-        },
-        {
-          "number": 11,
-          "name": "EXIT WOUNDS (feat. Malevolence)",
-          "duration": "2:58"
         }
       ]
     },

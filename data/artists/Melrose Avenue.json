@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Reflections",
-      "year": "2025",
-      "release_date": "2025-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/ad/da/c2adda10-30d7-ba38-da4a-cbadc616ba4f/2404.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Reflections",
-          "duration": "3:32"
-        }
-      ]
-    },
-    {
       "name": "Black Heart",
       "year": "2025",
       "release_date": "2025-07-31",
@@ -43,6 +30,32 @@
       ]
     },
     {
+      "name": "Reflections",
+      "year": "2025",
+      "release_date": "2025-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/ad/da/c2adda10-30d7-ba38-da4a-cbadc616ba4f/2404.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Reflections",
+          "duration": "3:32"
+        }
+      ]
+    },
+    {
+      "name": "Deep End",
+      "year": "2023",
+      "release_date": "2023-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/75/ae/c875aeee-246f-523a-6bac-7215e9238f84/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Deep End",
+          "duration": "3:11"
+        }
+      ]
+    },
+    {
       "name": "Body Bag",
       "year": "2025",
       "release_date": "2025-03-06",
@@ -65,6 +78,32 @@
           "number": 1,
           "name": "Photograph",
           "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "Suffering",
+      "year": "2023",
+      "release_date": "2023-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/90/eb/a490eb7e-ffdc-82d9-379e-fd4420987ef4/2261.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Suffering",
+          "duration": "4:01"
+        }
+      ]
+    },
+    {
+      "name": "Taste",
+      "year": "2026",
+      "release_date": "2026-02-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3b/f8/5c3bf8b2-0a20-3710-2c21-6b0679c3a03c/3301.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Taste",
+          "duration": "3:12"
         }
       ]
     },
@@ -108,28 +147,15 @@
       ]
     },
     {
-      "name": "Suffering",
-      "year": "2023",
-      "release_date": "2023-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/90/eb/a490eb7e-ffdc-82d9-379e-fd4420987ef4/2261.jpg/600x600bb.jpg",
+      "name": "This Is The End",
+      "year": "2025",
+      "release_date": "2025-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/10/a3/9810a3f1-e39c-8fc9-3175-2f8b27d7e86c/3240.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Suffering",
-          "duration": "4:01"
-        }
-      ]
-    },
-    {
-      "name": "Taste",
-      "year": "2026",
-      "release_date": "2026-02-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3b/f8/5c3bf8b2-0a20-3710-2c21-6b0679c3a03c/3301.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Taste",
-          "duration": "3:12"
+          "name": "This Is The End",
+          "duration": "3:28"
         }
       ]
     },
@@ -147,32 +173,6 @@
       ]
     },
     {
-      "name": "Deep End",
-      "year": "2023",
-      "release_date": "2023-11-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/75/ae/c875aeee-246f-523a-6bac-7215e9238f84/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Deep End",
-          "duration": "3:11"
-        }
-      ]
-    },
-    {
-      "name": "This Is The End",
-      "year": "2025",
-      "release_date": "2025-11-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/10/a3/9810a3f1-e39c-8fc9-3175-2f8b27d7e86c/3240.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "This Is The End",
-          "duration": "3:28"
-        }
-      ]
-    },
-    {
       "name": "Bad Guy",
       "year": "2026",
       "release_date": "2026-04-09",
@@ -182,19 +182,6 @@
           "number": 1,
           "name": "Bad Guy",
           "duration": "3:47"
-        }
-      ]
-    },
-    {
-      "name": "All I Want for Christmas Is You",
-      "year": "2022",
-      "release_date": "2022-12-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/90/9f/d3/909fd3ff-098b-d4fd-8bcb-4cdb8ec533e2/859768655928_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "All I Want for Christmas Is You",
-          "duration": "3:07"
         }
       ]
     },
@@ -221,6 +208,19 @@
           "number": 1,
           "name": "24Seven (feat. Melrose Avenue)",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "All I Want for Christmas Is You",
+      "year": "2022",
+      "release_date": "2022-12-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/90/9f/d3/909fd3ff-098b-d4fd-8bcb-4cdb8ec533e2/859768655928_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "All I Want for Christmas Is You",
+          "duration": "3:07"
         }
       ]
     },

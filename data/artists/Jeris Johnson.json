@@ -227,6 +227,24 @@
   ],
   "singles": [
     {
+      "name": "When the Darkness Comes",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/30/59/2f3059ed-07be-517a-f6ee-00d68f2eb920/617513791235_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "When the Darkness Comes",
+          "duration": "3:12"
+        },
+        {
+          "number": 2,
+          "name": "Take Me Away",
+          "duration": "3:11"
+        }
+      ]
+    },
+    {
       "name": "Last Resort (Reloaded)",
       "year": "2021",
       "release_date": "2021-01-27",
@@ -253,19 +271,6 @@
       ]
     },
     {
-      "name": "Battling My Demons",
-      "year": "2024",
-      "release_date": "2024-01-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/69/ad/6b69ad51-5820-3e64-fa6c-ce7de1f91419/617513966138_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Battling My Demons",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "Can You Feel My Heart (Remix)",
       "year": "2021",
       "release_date": "2021-03-05",
@@ -279,42 +284,6 @@
       ]
     },
     {
-      "name": "Hell Yeah Brother",
-      "year": "2026",
-      "release_date": "2026-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/20/9b/f8209bfa-b10b-4663-e6b0-4da2466ebaf8/656465468710_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hell Yeah Brother",
-          "duration": "3:08"
-        },
-        {
-          "number": 2,
-          "name": "Porn in the U.S.A.",
-          "duration": "4:11"
-        }
-      ]
-    },
-    {
-      "name": "When the Darkness Comes",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/30/59/2f3059ed-07be-517a-f6ee-00d68f2eb920/617513791235_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "When the Darkness Comes",
-          "duration": "3:12"
-        },
-        {
-          "number": 2,
-          "name": "Take Me Away",
-          "duration": "3:11"
-        }
-      ]
-    },
-    {
       "name": "Kryptonite (Reloaded)",
       "year": "2022",
       "release_date": "2022-10-28",
@@ -324,6 +293,19 @@
           "number": 1,
           "name": "Kryptonite (Reloaded)",
           "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "Battling My Demons",
+      "year": "2024",
+      "release_date": "2024-01-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/69/ad/6b69ad51-5820-3e64-fa6c-ce7de1f91419/617513966138_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Battling My Demons",
+          "duration": "3:15"
         }
       ]
     },
@@ -350,6 +332,24 @@
           "number": 1,
           "name": "One Night",
           "duration": "2:43"
+        }
+      ]
+    },
+    {
+      "name": "Hell Yeah Brother",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/20/9b/f8209bfa-b10b-4663-e6b0-4da2466ebaf8/656465468710_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hell Yeah Brother",
+          "duration": "3:08"
+        },
+        {
+          "number": 2,
+          "name": "Porn in the U.S.A.",
+          "duration": "4:11"
         }
       ]
     },
@@ -648,6 +648,29 @@
           "number": 1,
           "name": "FRIDAY (Reloaded)",
           "duration": "1:40"
+        }
+      ]
+    },
+    {
+      "name": "All My Friends",
+      "year": "2026",
+      "release_date": "2026-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/16/c9/e816c961-afb0-dd3f-b246-971779995d92/823375134794_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "All My Friends",
+          "duration": "3:08"
+        },
+        {
+          "number": 2,
+          "name": "1x1",
+          "duration": "3:56"
+        },
+        {
+          "number": 3,
+          "name": "SAVIOR",
+          "duration": "3:06"
         }
       ]
     }

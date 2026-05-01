@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "In the Name of the Father",
+      "year": "2025",
+      "release_date": "2025-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/b3/a1/85b3a1b5-7db1-c44d-7427-ab7c1905cc96/5034644616919.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In the Name of the Father",
+          "duration": "3:47"
+        }
+      ]
+    },
+    {
       "name": "Angel Wings",
       "year": "2026",
       "release_date": "2026-02-18",
@@ -43,15 +56,15 @@
       ]
     },
     {
-      "name": "In the Name of the Father",
+      "name": "RAGE",
       "year": "2025",
-      "release_date": "2025-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/b3/a1/85b3a1b5-7db1-c44d-7427-ab7c1905cc96/5034644616919.jpg/600x600bb.jpg",
+      "release_date": "2025-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/79/90/c97990c9-2071-3aab-a07c-7585098e26ce/5034644806792.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "In the Name of the Father",
-          "duration": "3:47"
+          "name": "RAGE",
+          "duration": "4:08"
         }
       ]
     },
@@ -65,19 +78,6 @@
           "number": 1,
           "name": "Destroy Me",
           "duration": "2:42"
-        }
-      ]
-    },
-    {
-      "name": "RAGE",
-      "year": "2025",
-      "release_date": "2025-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/79/90/c97990c9-2071-3aab-a07c-7585098e26ce/5034644806792.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "RAGE",
-          "duration": "4:08"
         }
       ]
     }

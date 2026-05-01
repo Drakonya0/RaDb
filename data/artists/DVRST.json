@@ -3,59 +3,6 @@
   "id": 1514110458,
   "albums": [
     {
-      "name": "Words Are Not Needed",
-      "year": "2021",
-      "release_date": "2021-03-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/28/ff/a6/28ffa611-c338-b73e-76c2-65968e5c78d1/5059647478715.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Arcade Madness",
-          "duration": "3:18"
-        },
-        {
-          "number": 2,
-          "name": "Die with a Smile on Your Face",
-          "duration": "3:37"
-        },
-        {
-          "number": 3,
-          "name": "Walking on Mars",
-          "duration": "3:46"
-        },
-        {
-          "number": 4,
-          "name": "Eclipse",
-          "duration": "3:55"
-        },
-        {
-          "number": 5,
-          "name": "Fall",
-          "duration": "2:32"
-        },
-        {
-          "number": 6,
-          "name": "Elysium",
-          "duration": "2:09"
-        },
-        {
-          "number": 7,
-          "name": "Life Is Short",
-          "duration": "2:20"
-        },
-        {
-          "number": 8,
-          "name": "Other Planet",
-          "duration": "1:51"
-        },
-        {
-          "number": 9,
-          "name": "Always Alone",
-          "duration": "3:35"
-        }
-      ]
-    },
-    {
       "name": "Echoes of Childhood II",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -110,6 +57,59 @@
           "number": 10,
           "name": "Missing Antidxte",
           "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "name": "Words Are Not Needed",
+      "year": "2021",
+      "release_date": "2021-03-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/28/ff/a6/28ffa611-c338-b73e-76c2-65968e5c78d1/5059647478715.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Arcade Madness",
+          "duration": "3:18"
+        },
+        {
+          "number": 2,
+          "name": "Die with a Smile on Your Face",
+          "duration": "3:37"
+        },
+        {
+          "number": 3,
+          "name": "Walking on Mars",
+          "duration": "3:46"
+        },
+        {
+          "number": 4,
+          "name": "Eclipse",
+          "duration": "3:55"
+        },
+        {
+          "number": 5,
+          "name": "Fall",
+          "duration": "2:32"
+        },
+        {
+          "number": 6,
+          "name": "Elysium",
+          "duration": "2:09"
+        },
+        {
+          "number": 7,
+          "name": "Life Is Short",
+          "duration": "2:20"
+        },
+        {
+          "number": 8,
+          "name": "Other Planet",
+          "duration": "1:51"
+        },
+        {
+          "number": 9,
+          "name": "Always Alone",
+          "duration": "3:35"
         }
       ]
     },

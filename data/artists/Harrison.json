@@ -1,2203 +1,622 @@
 {
-  "name": "George Harrison",
-  "id": 255233,
+  "name": "Harrison",
+  "id": 492433,
   "albums": [
     {
-      "name": "The Concert for Bangladesh (Live)",
-      "year": "1971",
-      "release_date": "1971-12-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/29/e5/76/mzi.ynedotvu.tif/600x600bb.jpg",
+      "name": "Checkpoint Titanium",
+      "year": "2016",
+      "release_date": "2016-09-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/7a/74/e1/7a74e1b2-e300-9bd2-5a9e-77ff38cc61c2/060270176034.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Introduction by George Harrison & Ravi Shankar (Live)",
-          "duration": "5:18"
-        },
-        {
-          "number": 1,
-          "name": "Jumpin' Jack Flash / Young Blood (Live)",
-          "duration": "9:26"
+          "name": "Intro",
+          "duration": "1:01"
         },
         {
           "number": 2,
-          "name": "Bangla Dhun (Live)",
-          "duration": "16:39"
-        },
-        {
-          "number": 2,
-          "name": "Here Comes the Sun (Live)",
-          "duration": "2:58"
-        },
-        {
-          "number": 3,
-          "name": "Wah-Wah (Live)",
-          "duration": "3:29"
-        },
-        {
-          "number": 3,
-          "name": "A Hard Rain's A-Gonna Fall (Live)",
-          "duration": "5:44"
-        },
-        {
-          "number": 4,
-          "name": "My Sweet Lord (Live)",
-          "duration": "4:35"
-        },
-        {
-          "number": 4,
-          "name": "It Takes a Lot to Laugh, It Takes a Train to Cry (Live)",
-          "duration": "3:07"
-        },
-        {
-          "number": 5,
-          "name": "Awaiting On You All (Live)",
-          "duration": "3:00"
-        },
-        {
-          "number": 5,
-          "name": "Blowin' In the Wind (Live)",
-          "duration": "4:06"
-        },
-        {
-          "number": 6,
-          "name": "That's the Way God Planned It (Live)",
-          "duration": "4:20"
-        },
-        {
-          "number": 6,
-          "name": "Mr. Tambourine Man (Live)",
-          "duration": "4:44"
-        },
-        {
-          "number": 7,
-          "name": "It Don't Come Easy (Live)",
-          "duration": "3:00"
-        },
-        {
-          "number": 7,
-          "name": "Just Like a Woman (Live)",
-          "duration": "4:48"
-        },
-        {
-          "number": 8,
-          "name": "Beware of Darkness (feat. Leon Russell) [Live]",
-          "duration": "3:35"
-        },
-        {
-          "number": 8,
-          "name": "Something (Live)",
-          "duration": "3:42"
-        },
-        {
-          "number": 9,
-          "name": "Band Introduction (Live)",
-          "duration": "2:38"
-        },
-        {
-          "number": 9,
-          "name": "Bangla Desh (Live)",
-          "duration": "5:01"
-        },
-        {
-          "number": 10,
-          "name": "While My Guitar Gently Weeps (Live)",
-          "duration": "4:53"
-        },
-        {
-          "number": 10,
-          "name": "Love Minus Zero / No Limit (Live)",
-          "duration": "4:18"
-        },
-        {
-          "number": 11,
-          "name": "Bangla Desh",
-          "duration": "4:00"
-        }
-      ]
-    },
-    {
-      "name": "Blue Suede Shoes: A Rockabilly Session (Live)",
-      "year": "1986",
-      "release_date": "1986-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/72/ef/06/mzi.kxmmqhlt.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Boppin' the Blues (Live)",
-          "duration": "2:57"
-        },
-        {
-          "number": 2,
-          "name": "Put Your Cat Clothes On (Live)",
-          "duration": "3:31"
-        },
-        {
-          "number": 3,
-          "name": "Honey Don't (Live)",
-          "duration": "4:06"
-        },
-        {
-          "number": 4,
-          "name": "Matchbox (Live)",
-          "duration": "3:21"
-        },
-        {
-          "number": 5,
-          "name": "Mean Woman Blues (Live)",
-          "duration": "3:10"
-        },
-        {
-          "number": 6,
-          "name": "Turn Around (Live)",
-          "duration": "3:17"
-        },
-        {
-          "number": 7,
-          "name": "Going to Jackson (Live)",
-          "duration": "3:04"
-        },
-        {
-          "number": 8,
-          "name": "What Kind of Girl (Live)",
-          "duration": "2:46"
-        },
-        {
-          "number": 9,
-          "name": "Everybody's Trying to Be My Baby (Live)",
-          "duration": "2:43"
-        },
-        {
-          "number": 10,
-          "name": "Your True Love (Live)",
-          "duration": "4:18"
-        },
-        {
-          "number": 11,
-          "name": "The World Is Waiting for the Sunrise (Live)",
-          "duration": "2:17"
-        },
-        {
-          "number": 12,
-          "name": "That's Alright Mama / Blue Moon of Kentucky / Night Train to Memphis / Amen (Live)",
-          "duration": "5:21"
-        },
-        {
-          "number": 13,
-          "name": "Glad All Over (Live)",
-          "duration": "2:35"
-        },
-        {
-          "number": 14,
-          "name": "Whole Lotta Shakin' Goin' On (Live)",
-          "duration": "2:30"
-        },
-        {
-          "number": 15,
-          "name": "Gone Gone Gone (Live)",
-          "duration": "2:38"
-        },
-        {
-          "number": 16,
-          "name": "Blue Suede Shoes (Live)",
-          "duration": "3:11"
-        },
-        {
-          "number": 17,
-          "name": "Blue Suede Shoes (Encore) [Live]",
-          "duration": "2:54"
-        },
-        {
-          "number": 18,
-          "name": "Gone Gone Gone (Encore) [Live]",
-          "duration": "0:56"
-        }
-      ]
-    },
-    {
-      "name": "All Things Must Pass (50th Anniversary)",
-      "year": "1970",
-      "release_date": "1970-11-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c9/24/7c/c9247c5b-f111-b90b-f92b-0464a41d2fc3/4050538893908.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I'd Have You Anytime (2020 Mix)",
-          "duration": "2:58"
-        },
-        {
-          "number": 1,
-          "name": "Beware of Darkness (2020 Mix)",
-          "duration": "3:51"
-        },
-        {
-          "number": 2,
-          "name": "My Sweet Lord (2020 Mix)",
-          "duration": "4:41"
-        },
-        {
-          "number": 2,
-          "name": "Apple Scruffs (2020 Mix)",
-          "duration": "3:06"
-        },
-        {
-          "number": 3,
-          "name": "Wah-Wah (2020 Mix)",
-          "duration": "5:37"
-        },
-        {
-          "number": 3,
-          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "duration": "3:48"
-        },
-        {
-          "number": 4,
-          "name": "Isn't It a Pity (Version 1) [2020 Mix]",
-          "duration": "7:10"
-        },
-        {
-          "number": 4,
-          "name": "Awaiting on You All (2020 Mix)",
-          "duration": "2:48"
-        },
-        {
-          "number": 5,
-          "name": "What Is Life (2020 Mix)",
-          "duration": "4:24"
-        },
-        {
-          "number": 5,
-          "name": "All Things Must Pass (2020 Mix)",
-          "duration": "3:46"
-        },
-        {
-          "number": 6,
-          "name": "If Not for You (2020 Mix)",
-          "duration": "3:30"
-        },
-        {
-          "number": 6,
-          "name": "I Dig Love (2020 Mix)",
-          "duration": "4:57"
-        },
-        {
-          "number": 7,
-          "name": "Behind That Locked Door (2020 Mix)",
-          "duration": "3:06"
-        },
-        {
-          "number": 7,
-          "name": "Art of Dying (2020 Mix)",
-          "duration": "3:38"
-        },
-        {
-          "number": 8,
-          "name": "Let It Down (2020 Mix)",
-          "duration": "4:58"
-        },
-        {
-          "number": 8,
-          "name": "Isn't It a Pity (Version 2) [2020 Mix]",
-          "duration": "4:48"
-        },
-        {
-          "number": 9,
-          "name": "Run of the Mill (2020 Mix)",
-          "duration": "2:52"
-        },
-        {
-          "number": 9,
-          "name": "Hear Me Lord (2020 Mix)",
-          "duration": "5:49"
-        },
-        {
-          "number": 10,
-          "name": "Out of the Blue (2020 Remaster)",
-          "duration": "11:15"
-        },
-        {
-          "number": 11,
-          "name": "It's Johnny's Birthday (2020 Remaster)",
-          "duration": "0:49"
-        },
-        {
-          "number": 12,
-          "name": "Plug Me In (2020 Remaster)",
-          "duration": "3:19"
-        },
-        {
-          "number": 13,
-          "name": "I Remember Jeep (2020 Remaster)",
-          "duration": "8:08"
-        },
-        {
-          "number": 14,
-          "name": "Thanks for the Pepperoni (2020 Remaster)",
-          "duration": "5:32"
-        }
-      ]
-    },
-    {
-      "name": "Let It Roll - Songs of George Harrison",
-      "year": "2009",
-      "release_date": "2009-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3e/bf/55/3ebf5520-d2f8-7915-1470-8c0c74f749dc/0602435008790.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Got My Mind Set on You (2009 Remaster)",
-          "duration": "3:52"
-        },
-        {
-          "number": 2,
-          "name": "Give Me Love (Give Me Peace on Earth) [2009 Remaster]",
+          "name": "Vertigo (Feat. a l l i e)",
           "duration": "3:35"
         },
         {
           "number": 3,
-          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2009 Remaster]",
-          "duration": "3:48"
+          "name": "It's Okay, I Promise (feat. Clairmont The Second)",
+          "duration": "3:57"
         },
         {
           "number": 4,
-          "name": "My Sweet Lord (2009 Remaster)",
-          "duration": "4:40"
+          "name": "Right Hook",
+          "duration": "3:15"
         },
         {
           "number": 5,
-          "name": "While My Guitar Gently Weeps (Live from Madison Square Garden, New York, U.S.A, 1971 / 2009 Remaster)",
-          "duration": "4:46"
+          "name": "So Far from Home (feat. Young Guv)",
+          "duration": "3:14"
         },
         {
           "number": 6,
-          "name": "All Things Must Pass (2009 Remaster)",
-          "duration": "3:46"
+          "name": "Lotus",
+          "duration": "3:03"
         },
         {
           "number": 7,
-          "name": "Any Road (2009 Remaster)",
-          "duration": "3:52"
+          "name": "Social Stimulus (feat. Seamus Hamilton)",
+          "duration": "3:14"
         },
         {
           "number": 8,
-          "name": "This Is Love (2009 Remaster)",
-          "duration": "3:47"
+          "name": "You and I",
+          "duration": "2:26"
         },
         {
           "number": 9,
-          "name": "All Those Years Ago (2009 Remaster)",
-          "duration": "3:46"
+          "name": "Vanilla (feat. Ryan Hemsworth)",
+          "duration": "2:22"
         },
         {
           "number": 10,
-          "name": "Marwa Blues (2009 Remaster)",
-          "duration": "3:41"
+          "name": "Checkpoint Titanium",
+          "duration": "2:44"
+        }
+      ]
+    },
+    {
+      "name": "Birds, Bees, The Clouds & the Trees",
+      "year": "2023",
+      "release_date": "2023-04-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/1d/b7/b21db775-103d-81d7-839d-e92017413c7d/634164914134.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Daydreamin",
+          "duration": "1:07"
+        },
+        {
+          "number": 2,
+          "name": "Cowboys",
+          "duration": "1:44"
+        },
+        {
+          "number": 3,
+          "name": "Outta This World",
+          "duration": "2:45"
+        },
+        {
+          "number": 4,
+          "name": "Overhead",
+          "duration": "2:09"
+        },
+        {
+          "number": 5,
+          "name": "Like When We Were Kids",
+          "duration": "2:00"
+        },
+        {
+          "number": 6,
+          "name": "Bump (feat. MED & Guilty Simpson)",
+          "duration": "2:03"
+        },
+        {
+          "number": 7,
+          "name": "Honey Harbor (Bill's Song)",
+          "duration": "0:44"
+        },
+        {
+          "number": 8,
+          "name": "Music Box",
+          "duration": "1:54"
+        },
+        {
+          "number": 9,
+          "name": "Around You",
+          "duration": "1:51"
+        },
+        {
+          "number": 10,
+          "name": "Float",
+          "duration": "2:25"
         },
         {
           "number": 11,
-          "name": "What Is Life (2009 Remaster)",
-          "duration": "4:24"
+          "name": "2016",
+          "duration": "2:02"
         },
         {
           "number": 12,
-          "name": "Rising Sun (2009 Remaster)",
-          "duration": "5:27"
+          "name": "Inthecoupe",
+          "duration": "2:12"
         },
         {
           "number": 13,
-          "name": "When We Was Fab (2009 Remaster)",
-          "duration": "3:51"
+          "name": "7Pm",
+          "duration": "1:31"
         },
         {
           "number": 14,
-          "name": "Something (Live from Madison Square Garden, New York, U.S.A, 1971 / 2009 Remaster)",
-          "duration": "3:10"
+          "name": "Blue Sky (feat. Nanna.B)",
+          "duration": "2:33"
         },
         {
           "number": 15,
-          "name": "Blow Away (2009 Remaster)",
-          "duration": "3:59"
+          "name": "A View from the Sky",
+          "duration": "1:25"
         },
         {
           "number": 16,
-          "name": "Cheer Down (2009 Remaster)",
-          "duration": "4:06"
-        },
-        {
-          "number": 17,
-          "name": "Here Comes the Sun (Live from Madison Square Garden, New York, U.S.A, 1971 / 2009 Remaster)",
-          "duration": "2:54"
-        },
-        {
-          "number": 18,
-          "name": "I Don't Want to Do It (2009 Remaster)",
-          "duration": "2:54"
-        },
-        {
-          "number": 19,
-          "name": "Isn't It a Pity (2009 Remaster)",
-          "duration": "7:07"
-        },
-        {
-          "number": 20,
-          "name": "Isn't It a Pity (Demo Version)",
-          "duration": "2:58"
-        }
-      ]
-    },
-    {
-      "name": "All Things Must Pass (2014 Remaster)",
-      "year": "1970",
-      "release_date": "1970-11-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/32/2a/f4/322af42a-41fd-f52f-e1ee-dc7502bd4bba/0602547025340.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I'd Have You Anytime (2014 Remaster)",
-          "duration": "2:57"
-        },
-        {
-          "number": 1,
-          "name": "Beware of Darkness (2014 Remaster)",
-          "duration": "3:51"
-        },
-        {
-          "number": 2,
-          "name": "My Sweet Lord (2014 Remaster)",
-          "duration": "4:41"
-        },
-        {
-          "number": 2,
-          "name": "Apple Scruffs (2014 Remaster)",
-          "duration": "3:06"
-        },
-        {
-          "number": 3,
-          "name": "Wah-Wah (2014 Remaster)",
-          "duration": "5:37"
-        },
-        {
-          "number": 3,
-          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2014 Remaster]",
-          "duration": "3:48"
-        },
-        {
-          "number": 4,
-          "name": "Isn't It a Pity (2014 Remaster)",
-          "duration": "7:10"
-        },
-        {
-          "number": 4,
-          "name": "Awaiting on You All (2014 Remaster)",
-          "duration": "2:48"
-        },
-        {
-          "number": 5,
-          "name": "What Is Life (2014 Remaster)",
-          "duration": "4:24"
-        },
-        {
-          "number": 5,
-          "name": "All Things Must Pass (2014 Remaster)",
-          "duration": "3:46"
-        },
-        {
-          "number": 6,
-          "name": "If Not for You (2014 Remaster)",
-          "duration": "3:30"
-        },
-        {
-          "number": 6,
-          "name": "I Dig Love (2014 Remaster)",
-          "duration": "4:57"
-        },
-        {
-          "number": 7,
-          "name": "Behind That Locked Door (2014 Remaster)",
-          "duration": "3:06"
-        },
-        {
-          "number": 7,
-          "name": "Art of Dying (2014 Remaster)",
-          "duration": "3:38"
-        },
-        {
-          "number": 8,
-          "name": "Let It Down (2014 Remaster)",
-          "duration": "4:58"
-        },
-        {
-          "number": 8,
-          "name": "Isn't It a Pity ((Version Two) [2014 Remaster])",
-          "duration": "4:48"
-        },
-        {
-          "number": 9,
-          "name": "Run of the Mill (2014 Remaster)",
-          "duration": "2:51"
-        },
-        {
-          "number": 9,
-          "name": "Hear Me Lord (2014 Remaster)",
-          "duration": "5:49"
-        },
-        {
-          "number": 10,
-          "name": "I Live for You (2014 Remaster)",
-          "duration": "3:37"
-        },
-        {
-          "number": 10,
-          "name": "It's Johnny's Birthday (2014 Remaster)",
+          "name": "Runthatback",
           "duration": "0:49"
-        },
-        {
-          "number": 11,
-          "name": "Beware of Darkness ((1st Version Recorded at Abbey Road) [2014 Remaster])",
-          "duration": "3:22"
-        },
-        {
-          "number": 11,
-          "name": "Plug Me In (2014 Remaster)",
-          "duration": "3:19"
-        },
-        {
-          "number": 12,
-          "name": "Let It Down ((Original Guitar and Vocal) [2014 Remaster])",
-          "duration": "3:55"
-        },
-        {
-          "number": 12,
-          "name": "I Remember Jeep (2014 Remaster)",
-          "duration": "8:08"
-        },
-        {
-          "number": 13,
-          "name": "What Is Life ((Backing Track) [2014 Remaster])",
-          "duration": "4:27"
-        },
-        {
-          "number": 13,
-          "name": "Thanks for the Pepperoni (2014 Remaster)",
-          "duration": "5:32"
-        },
-        {
-          "number": 14,
-          "name": "My Sweet Lord (2000) [2014 Remaster]",
-          "duration": "4:55"
-        },
-        {
-          "number": 14,
-          "name": "Out of the Blue (2014 Remaster)",
-          "duration": "11:13"
         }
       ]
     },
     {
-      "name": "Cloud Nine",
-      "year": "1987",
-      "release_date": "1987-11-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5a/2d/e1/5a2de106-fc53-fa45-d56a-5f876eb6b8db/5099951336257.jpg/600x600bb.jpg",
+      "name": "Apricity",
+      "year": "2018",
+      "release_date": "2018-10-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/8a/7a/4e8a7aa8-a760-f39b-32e6-df1b267f9492/634164975036.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Cloud Nine (2004 Remaster)",
-          "duration": "3:16"
+          "name": "Celica Supra",
+          "duration": "2:47"
         },
         {
           "number": 2,
-          "name": "That's What It Takes (2004 Remaster)",
-          "duration": "4:01"
+          "name": "Atmosphere (feat. Daniela Andrade)",
+          "duration": "2:55"
         },
         {
           "number": 3,
-          "name": "Fish on the Sand (2004 Remaster)",
+          "name": "Wavestation",
+          "duration": "3:44"
+        },
+        {
+          "number": 4,
+          "name": "Midnight Snack (feat. iaamSaam & Matty Tavares)",
           "duration": "3:24"
         },
         {
-          "number": 4,
-          "name": "Just for Today (2004 Remaster)",
-          "duration": "4:06"
-        },
-        {
           "number": 5,
-          "name": "This Is Love (2004 Remaster)",
-          "duration": "3:49"
+          "name": "In the Dark (Interlude)",
+          "duration": "1:33"
         },
         {
           "number": 6,
-          "name": "When We Was Fab (2004 Remaster)",
-          "duration": "3:59"
+          "name": "Next Blue",
+          "duration": "3:08"
         },
         {
           "number": 7,
-          "name": "Devil's Radio (2004 Remaster)",
-          "duration": "3:53"
+          "name": "Your Girl (feat. Ralph)",
+          "duration": "3:02"
         },
         {
           "number": 8,
-          "name": "Someplace Else (2004 Remaster)",
-          "duration": "3:52"
-        },
-        {
-          "number": 9,
-          "name": "Wreck of the Hesperus (2004 Remaster)",
-          "duration": "3:33"
-        },
-        {
-          "number": 10,
-          "name": "Breath Away from Heaven (2004 Remaster)",
-          "duration": "3:35"
-        },
-        {
-          "number": 11,
-          "name": "Got My Mind Set on You (2004 Remaster)",
-          "duration": "3:54"
-        },
-        {
-          "number": 12,
-          "name": "Shanghai Surprise (2004 Remaster)",
-          "duration": "5:09"
-        },
-        {
-          "number": 13,
-          "name": "Zig Zag (2004 Remaster)",
-          "duration": "2:46"
-        },
-        {
-          "number": 14,
-          "name": "Got My Mind Set on You (Extended Version)",
-          "duration": "5:17"
-        }
-      ]
-    },
-    {
-      "name": "Brainwashed",
-      "year": "2002",
-      "release_date": "2002-11-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/12/78/8d/12788d0a-6a3c-6f68-706c-25d8bf64a505/0724354196959.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Any Road",
-          "duration": "3:51"
-        },
-        {
-          "number": 2,
-          "name": "P2 Vatican Blues (Last Saturday Night)",
+          "name": "Mustang (feat. Talvi)",
           "duration": "2:38"
         },
         {
-          "number": 3,
-          "name": "Pisces Fish",
-          "duration": "4:52"
-        },
-        {
-          "number": 4,
-          "name": "Looking for My Life",
-          "duration": "3:49"
-        },
-        {
-          "number": 5,
-          "name": "Rising Sun",
-          "duration": "5:27"
-        },
-        {
-          "number": 6,
-          "name": "Marwa Blues",
-          "duration": "3:41"
-        },
-        {
-          "number": 7,
-          "name": "Stuck Inside a Cloud",
-          "duration": "4:04"
-        },
-        {
-          "number": 8,
-          "name": "Run So Far",
-          "duration": "4:05"
-        },
-        {
           "number": 9,
-          "name": "Never Get Over You",
-          "duration": "3:25"
+          "name": "Believe In Love (feat. Aaron Tiem)",
+          "duration": "4:21"
         },
         {
           "number": 10,
-          "name": "Between the Devil and the Deep Blue Sea",
-          "duration": "2:34"
+          "name": "Better (feat. Daniela Andrade)",
+          "duration": "3:44"
         },
         {
           "number": 11,
-          "name": "Rocking Chair in Hawaii",
-          "duration": "3:07"
-        },
-        {
-          "number": 12,
-          "name": "Brainwashed",
-          "duration": "6:07"
+          "name": "Pocket Dial",
+          "duration": "2:28"
         }
       ]
     },
     {
-      "name": "Living in the Material World (50th Anniversary)",
-      "year": "1973",
-      "release_date": "1973-05-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/05/6d/c4056dd8-a54b-aa4d-f8c8-67d7183f4e3e/4099964126266.jpg/600x600bb.jpg",
+      "name": "Quiet Miles",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/21/b2/f721b2fa-5839-4c16-3505-31c83b86bc51/30270.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Give Me Love (Give Me Peace on Earth) [2024 Mix]",
-          "duration": "3:36"
-        },
-        {
-          "number": 1,
-          "name": "Give Me Love (Give Me Peace on Earth) [Take 18]",
-          "duration": "3:37"
+          "name": "Intro",
+          "duration": "0:49"
         },
         {
           "number": 2,
-          "name": "Sue Me, Sue You Blues (2024 Mix)",
-          "duration": "4:45"
-        },
-        {
-          "number": 2,
-          "name": "Sue Me, Sue You Blues (Take 5)",
-          "duration": "4:22"
+          "name": "Blueberry",
+          "duration": "2:33"
         },
         {
           "number": 3,
-          "name": "The Light That Has Lighted the World (2024 Mix)",
-          "duration": "3:30"
-        },
-        {
-          "number": 3,
-          "name": "The Light That Has Lighted the World (Take 13)",
-          "duration": "3:53"
+          "name": "\"You hate Jazz?\"",
+          "duration": "2:40"
         },
         {
           "number": 4,
-          "name": "Don't Let Me Wait Too Long (2024 Mix)",
-          "duration": "2:56"
-        },
-        {
-          "number": 4,
-          "name": "Don't Let Me Wait Too Long (Take 49)",
-          "duration": "2:56"
+          "name": "Quiet Miles",
+          "duration": "2:28"
         },
         {
           "number": 5,
-          "name": "Who Can See It (2024 Mix)",
-          "duration": "3:51"
-        },
-        {
-          "number": 5,
-          "name": "Who Can See It (Take 93)",
-          "duration": "4:00"
+          "name": "Feels Like Yesterday",
+          "duration": "2:09"
         },
         {
           "number": 6,
-          "name": "Living in the Material World (2024 Mix)",
-          "duration": "5:30"
-        },
-        {
-          "number": 6,
-          "name": "Living in the Material World (Take 31)",
-          "duration": "5:28"
+          "name": "Southwood",
+          "duration": "1:38"
         },
         {
           "number": 7,
-          "name": "The Lord Loves the One (That Loves the Lord) [2024 Mix]",
-          "duration": "4:34"
-        },
-        {
-          "number": 7,
-          "name": "The Lord Loves the One (That Loves the Lord) [Take 3]",
-          "duration": "4:30"
+          "name": "All About Us",
+          "duration": "2:38"
         },
         {
           "number": 8,
-          "name": "Be Here Now (2024 Mix)",
-          "duration": "4:09"
-        },
-        {
-          "number": 8,
-          "name": "Be Here Now (Take 8)",
-          "duration": "4:15"
-        },
-        {
-          "number": 9,
-          "name": "Try Some Buy Some (2024 Mix)",
-          "duration": "4:07"
-        },
-        {
-          "number": 9,
-          "name": "Try Some Buy Some (Alternative Version)",
-          "duration": "4:27"
-        },
-        {
-          "number": 10,
-          "name": "The Day the World Gets 'Round (2024 Mix)",
-          "duration": "2:52"
-        },
-        {
-          "number": 10,
-          "name": "The Day the World Gets 'Round (Take 22)",
-          "duration": "5:06"
-        },
-        {
-          "number": 11,
-          "name": "That Is All (2024 Mix)",
-          "duration": "3:42"
-        },
-        {
-          "number": 11,
-          "name": "That Is All (Take 24)",
-          "duration": "3:44"
-        },
-        {
-          "number": 12,
-          "name": "Miss O'Dell (2024 Mix)",
+          "name": "Erin",
           "duration": "2:30"
-        },
+        }
+      ]
+    }
+  ],
+  "singles": [
+    {
+      "name": "\"You hate Jazz?\"",
+      "year": "2025",
+      "release_date": "2025-06-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/d3/34/07d33473-ad3e-2cad-6756-579af13eb478/27972.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 13,
-          "name": "Sunshine Life For Me (Sail Away Raymond)",
-          "duration": "2:48"
+          "number": 1,
+          "name": "\"You hate Jazz?\"",
+          "duration": "2:40"
         }
       ]
     },
     {
-      "name": "Living in the Material World",
-      "year": "1973",
-      "release_date": "1973-05-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a9/42/f0/a942f039-b1bd-14d2-a946-5065e042cffe/0602547025357.jpg/600x600bb.jpg",
+      "name": "All About Us",
+      "year": "2025",
+      "release_date": "2025-10-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/90/8c/d8908ceb-c164-e6d6-2a53-b661fe7c57a4/29588.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Give Me Love (Give Me Peace on Earth)",
-          "duration": "3:35"
+          "name": "All About Us",
+          "duration": "2:38"
+        }
+      ]
+    },
+    {
+      "name": "Southwood",
+      "year": "2025",
+      "release_date": "2025-01-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/ea/cd/82eacd06-908b-9bfd-bf57-1e344a9babc8/26273.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Southwood",
+          "duration": "1:38"
+        }
+      ]
+    },
+    {
+      "name": "Atmosphere (feat. Daniela Andrade)",
+      "year": "2018",
+      "release_date": "2018-07-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/e0/cd/1ce0cd9d-5b12-60f3-7cf1-200b9c75f450/634164975920.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Atmosphere (feat. Daniela Andrade)",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Selfish High Heels",
+      "year": "2017",
+      "release_date": "2017-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/55/e4/d0/55e4d058-b65d-4642-6d13-c1f49be30653/859724239568_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Selfish High Heels",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
+      "name": "Float / A View from the Sky",
+      "year": "2023",
+      "release_date": "2023-02-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a4/6b/96/a46b96aa-3c8c-a055-c9a1-b8a9e4203b8f/634164914226.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Float",
+          "duration": "2:25"
         },
         {
           "number": 2,
-          "name": "Sue Me, Sue You Blues (2014 Remaster)",
-          "duration": "4:46"
-        },
+          "name": "A View from the Sky",
+          "duration": "1:25"
+        }
+      ]
+    },
+    {
+      "name": "Beige",
+      "year": "2019",
+      "release_date": "2019-10-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/c1/9a/1bc19abc-8ef8-d065-6321-2ca9d1e1a3f4/886448053422.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 3,
-          "name": "The Light That Has Lighted the World (2014 Remaster)",
-          "duration": "3:30"
-        },
+          "number": 1,
+          "name": "Beige",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Vanilla (feat. Ryan Hemsworth)",
+      "year": "2016",
+      "release_date": "2016-04-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/87/0d/6f/870d6f43-3ec9-761b-aea5-1dc6f610b51c/060270171428.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 4,
-          "name": "Don't Let Me Wait Too Long (2014 Remaster)",
-          "duration": "2:56"
-        },
+          "number": 1,
+          "name": "Vanilla (feat. Ryan Hemsworth)",
+          "duration": "2:22"
+        }
+      ]
+    },
+    {
+      "name": "Feels Like Yesterday",
+      "year": "2024",
+      "release_date": "2024-08-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/d6/12/a3d612cd-da38-1741-041c-ad8e2aaff2fd/24793.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 5,
-          "name": "Who Can See It (2014 Remaster)",
-          "duration": "3:51"
-        },
+          "number": 1,
+          "name": "Feels Like Yesterday",
+          "duration": "2:09"
+        }
+      ]
+    },
+    {
+      "name": "Around You",
+      "year": "2020",
+      "release_date": "2020-12-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/f5/38/83f53804-9684-77cc-bb1e-26e43e98af2c/634164967024.png/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 6,
-          "name": "Living in the Material World (2014 Remaster)",
-          "duration": "5:30"
-        },
+          "number": 1,
+          "name": "Around You",
+          "duration": "1:51"
+        }
+      ]
+    },
+    {
+      "name": "Mission 2 Mars (feat. Harrison & Merival)",
+      "year": "2018",
+      "release_date": "2018-10-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7a/c7/a7/7ac7a7f3-9b79-50dd-f416-81452454e4b8/dj.zyjrqazw.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 7,
-          "name": "The Lord Loves the One (That Loves the Lord)",
-          "duration": "4:34"
-        },
+          "number": 1,
+          "name": "Mission 2 Mars (feat. Harrison & Merival)",
+          "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Celica Supra",
+      "year": "2018",
+      "release_date": "2018-06-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/e7/1e/a1e71e5c-9565-bac5-b15c-5f81b7403651/634164975722.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 8,
-          "name": "Be Here Now (2014 Remaster)",
-          "duration": "4:09"
-        },
+          "number": 1,
+          "name": "Celica Supra",
+          "duration": "2:47"
+        }
+      ]
+    },
+    {
+      "name": "Blue Sky",
+      "year": "2023",
+      "release_date": "2023-04-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/df/f9/04dff962-25af-4d2d-45ed-bf49ad4037fd/634164926427.png/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 9,
-          "name": "Try Some Buy Some (2014 Remaster)",
-          "duration": "4:07"
-        },
+          "number": 1,
+          "name": "Blue Sky",
+          "duration": "2:33"
+        }
+      ]
+    },
+    {
+      "name": "So Far From Home",
+      "year": "2016",
+      "release_date": "2016-06-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/87/74/c3/8774c370-8f1e-d499-cba4-348381e7f105/060270177123.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 10,
-          "name": "The Day the World Gets 'Round (2014 Remaster)",
-          "duration": "2:52"
-        },
+          "number": 1,
+          "name": "So Far From Home (feat. Young Guv)",
+          "duration": "3:14"
+        }
+      ]
+    },
+    {
+      "name": "Khadijah",
+      "year": "2022",
+      "release_date": "2022-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/88/d1/7888d1ac-7ac0-4954-b92f-d20257cc67e2/735910134339_cover.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 11,
-          "name": "That Is All (2014 Remaster)",
-          "duration": "3:44"
-        },
+          "number": 1,
+          "name": "Khadijah",
+          "duration": "3:14"
+        }
+      ]
+    },
+    {
+      "name": "Sorry",
+      "year": "2015",
+      "release_date": "2015-09-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/fd/11/30/fd1130e5-c2e0-d7a6-9add-8eb025214080/060270166325.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 12,
-          "name": "Deep Blue (2014 Remaster)",
-          "duration": "3:45"
-        },
+          "number": 1,
+          "name": "Sorry",
+          "duration": "2:00"
+        }
+      ]
+    },
+    {
+      "name": "By Myself (with Harrison)",
+      "year": "2021",
+      "release_date": "2021-02-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/74/f9/60/74f96079-df31-400d-8ba6-a4bffdc8ecef/5056167148715_1.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 13,
-          "name": "Miss O'Dell (2014 Remaster)",
-          "duration": "2:31"
-        },
+          "number": 1,
+          "name": "By Myself (with Harrison)",
+          "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Off My Mind",
+      "year": "2024",
+      "release_date": "2024-07-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/0d/8b/3f0d8b54-a58d-ea06-cba3-850746a09fca/198588368497.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 14,
-          "name": "Bangla Desh (2014 Remaster)",
+          "number": 1,
+          "name": "Off My Mind",
+          "duration": "2:34"
+        }
+      ]
+    },
+    {
+      "name": "HOR1ZON Test Track",
+      "year": "2026",
+      "release_date": "2026-04-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/47/da/6247dad7-7f4e-0f6c-3c28-7366ffdd9b69/2728518.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HOR1ZON Test Track",
+          "duration": "2:15"
+        }
+      ]
+    },
+    {
+      "name": "Like When We Were Kids",
+      "year": "2021",
+      "release_date": "2021-11-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/79/af/8c/79af8c09-e99a-bce2-813d-fdeeaebf81c8/634164903428.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Like When We Were Kids",
+          "duration": "2:00"
+        }
+      ]
+    },
+    {
+      "name": "Come Alive",
+      "year": "2025",
+      "release_date": "2025-03-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/f9/d9/42f9d9bd-ab4d-9ff2-364d-243ca479eb8e/26722.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Come Alive",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Outta This World",
+      "year": "2022",
+      "release_date": "2022-03-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/27/7c/f2277c7b-15f1-5594-4ec7-2170b62da5fe/634164905828.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Outta This World",
+          "duration": "2:45"
+        }
+      ]
+    },
+    {
+      "name": "It's Okay, I Promise",
+      "year": "2016",
+      "release_date": "2016-03-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/e0/f7/4b/e0f74b42-52b5-cf40-b576-2de46e91e8eb/060270177024.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "It's Okay, I Promise (feat. Clairmont the Second)",
           "duration": "3:57"
         }
       ]
     },
     {
-      "name": "Dark Horse",
-      "year": "1974",
-      "release_date": "1974-12-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/a6/f8/48a6f83b-e46a-e402-cad7-90d2ae5339a4/0602547025258.jpg/600x600bb.jpg",
+      "name": "Bump / Inthecoupe",
+      "year": "2023",
+      "release_date": "2023-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d1/a1/c3/d1a1c377-e2b1-30ae-2126-8dfeb94e279a/634164915322.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Hari's on Tour (Express)",
-          "duration": "4:42"
+          "name": "Bump",
+          "duration": "2:03"
         },
         {
           "number": 2,
-          "name": "Simply Shady",
-          "duration": "4:37"
-        },
-        {
-          "number": 3,
-          "name": "So Sad",
-          "duration": "4:59"
-        },
-        {
-          "number": 4,
-          "name": "Bye Bye Love",
-          "duration": "4:06"
-        },
-        {
-          "number": 5,
-          "name": "Māya Love",
-          "duration": "4:22"
-        },
-        {
-          "number": 6,
-          "name": "Ding Dong, Ding Dong",
-          "duration": "3:40"
-        },
-        {
-          "number": 7,
-          "name": "Dark Horse",
-          "duration": "3:53"
-        },
-        {
-          "number": 8,
-          "name": "Far East Man",
-          "duration": "5:51"
-        },
-        {
-          "number": 9,
-          "name": "It Is 'He' (Jai Sri Krishna)",
-          "duration": "4:52"
-        },
-        {
-          "number": 10,
-          "name": "I Don't Care Anymore",
-          "duration": "2:44"
-        },
-        {
-          "number": 11,
-          "name": "Dark Horse (Early Take) [Bonus Track]",
-          "duration": "4:25"
-        }
-      ]
-    },
-    {
-      "name": "George Harrison",
-      "year": "1979",
-      "release_date": "1979-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/97/b6/ae/97b6ae86-c8b5-6e18-01a6-40665f562aad/5099951336455.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Love Comes to Everyone (2004 Remaster)",
-          "duration": "4:36"
-        },
-        {
-          "number": 2,
-          "name": "Not Guilty (2004 Remaster)",
-          "duration": "3:34"
-        },
-        {
-          "number": 3,
-          "name": "Here Comes the Moon (2004 Remaster)",
-          "duration": "4:50"
-        },
-        {
-          "number": 4,
-          "name": "Soft-Hearted Hana (2004 Remaster)",
-          "duration": "4:03"
-        },
-        {
-          "number": 5,
-          "name": "Blow Away (2004 Remaster)",
-          "duration": "4:00"
-        },
-        {
-          "number": 6,
-          "name": "Faster (2004 Remaster)",
-          "duration": "4:47"
-        },
-        {
-          "number": 7,
-          "name": "Dark Sweet Lady (2004 Remaster)",
-          "duration": "3:22"
-        },
-        {
-          "number": 8,
-          "name": "Your Love Is Forever (2004 Remaster)",
-          "duration": "3:48"
-        },
-        {
-          "number": 9,
-          "name": "Soft Touch (2004 Remaster)",
-          "duration": "3:59"
-        },
-        {
-          "number": 10,
-          "name": "If You Believe (2004 Remaster)",
-          "duration": "2:57"
-        },
-        {
-          "number": 11,
-          "name": "Here Comes the Moon (Demo Version) [2004 Mix]",
-          "duration": "3:39"
-        },
-        {
-          "number": 12,
-          "name": "Blow Away (Demo)",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "Somewhere in England",
-      "year": "1981",
-      "release_date": "1981-06-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8f/0d/5d/8f0d5d55-6ec1-16db-13d1-8ced11ac3ea0/5099951336752.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blood from a Clone (2004 Remaster)",
-          "duration": "4:04"
-        },
-        {
-          "number": 2,
-          "name": "Unconsciousness Rules (2004 Remaster)",
-          "duration": "3:37"
-        },
-        {
-          "number": 3,
-          "name": "Life Itself (2004 Remaster)",
-          "duration": "4:26"
-        },
-        {
-          "number": 4,
-          "name": "All Those Years Ago (2004 Remaster)",
-          "duration": "3:47"
-        },
-        {
-          "number": 5,
-          "name": "Baltimore Oriole (2004 Remaster)",
-          "duration": "3:59"
-        },
-        {
-          "number": 6,
-          "name": "Teardrops (2004 Remaster)",
-          "duration": "4:09"
-        },
-        {
-          "number": 7,
-          "name": "That Which I Have Lost (2004 Remaster)",
-          "duration": "3:46"
-        },
-        {
-          "number": 8,
-          "name": "Writing's on the Wall (2004 Remaster)",
-          "duration": "4:01"
-        },
-        {
-          "number": 9,
-          "name": "Hong Kong Blues (2004 Remaster)",
-          "duration": "2:56"
-        },
-        {
-          "number": 10,
-          "name": "Save the World (2004 Remaster)",
-          "duration": "5:00"
-        },
-        {
-          "number": 11,
-          "name": "Save the World (Demo Version) [2004 Remaster]",
-          "duration": "4:32"
-        },
-        {
-          "number": 12,
-          "name": "Flying Hour",
-          "duration": "4:34"
-        }
-      ]
-    },
-    {
-      "name": "Early Takes, Vol. 1",
-      "year": "2011",
-      "release_date": "2011-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/54/1f/e5/541fe593-55b7-b504-44d1-66d15bb2bf41/4050538893427.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "My Sweet Lord (Demo)",
-          "duration": "3:33"
-        },
-        {
-          "number": 2,
-          "name": "Run of the Mill (Demo)",
-          "duration": "1:56"
-        },
-        {
-          "number": 3,
-          "name": "I'd Have You Any Time (Early Take)",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
-          "name": "Mama You've Been on My Mind (Demo)",
-          "duration": "3:05"
-        },
-        {
-          "number": 5,
-          "name": "Let It Be Me (Demo)",
-          "duration": "2:56"
-        },
-        {
-          "number": 6,
-          "name": "Woman Don't You Cry for Me (Early Take)",
-          "duration": "2:44"
-        },
-        {
-          "number": 7,
-          "name": "Awaiting on You All (Early Take)",
-          "duration": "2:40"
-        },
-        {
-          "number": 8,
-          "name": "Behind That Locked Door (Demo)",
-          "duration": "3:29"
-        },
-        {
-          "number": 9,
-          "name": "All Things Must Pass (Demo)",
-          "duration": "4:39"
-        },
-        {
-          "number": 10,
-          "name": "The Light That Has Lighted the World (Demo)",
-          "duration": "2:22"
-        }
-      ]
-    },
-    {
-      "name": "Wonderwall Music",
-      "year": "1968",
-      "release_date": "1968-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/ec/77/14ec77a7-ea06-9882-a116-e62984d30cda/0602547025234.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Microbes (2014 Remaster)",
-          "duration": "3:44"
-        },
-        {
-          "number": 2,
-          "name": "Red Lady Too (2014 Remaster)",
-          "duration": "1:56"
-        },
-        {
-          "number": 3,
-          "name": "Tabla and Pakavaj (2014 Remaster)",
-          "duration": "1:04"
-        },
-        {
-          "number": 4,
-          "name": "In the Park (2014 Remaster)",
-          "duration": "4:10"
-        },
-        {
-          "number": 5,
-          "name": "Drilling a Home (2014 Remaster)",
-          "duration": "3:07"
-        },
-        {
-          "number": 6,
-          "name": "Guru Vandana (2014 Remaster)",
-          "duration": "1:08"
-        },
-        {
-          "number": 7,
-          "name": "Greasy Legs (2014 Remaster)",
-          "duration": "1:27"
-        },
-        {
-          "number": 8,
-          "name": "Ski-Ing (2014 Remaster)",
-          "duration": "1:49"
-        },
-        {
-          "number": 9,
-          "name": "Gat Kirwani (2014 Remaster)",
-          "duration": "1:15"
-        },
-        {
-          "number": 10,
-          "name": "Dream Scene (2014 Remaster)",
-          "duration": "5:27"
-        },
-        {
-          "number": 11,
-          "name": "Party Seacombe (2014 Remaster)",
-          "duration": "4:34"
-        },
-        {
-          "number": 12,
-          "name": "Love Scene (2014 Remaster)",
-          "duration": "4:16"
-        },
-        {
-          "number": 13,
-          "name": "Crying (2014 Remaster)",
-          "duration": "1:17"
-        },
-        {
-          "number": 14,
-          "name": "Cowboy Music (2014 Remaster)",
-          "duration": "1:29"
-        },
-        {
-          "number": 15,
-          "name": "Fantasy Sequins (2014 Remaster)",
-          "duration": "1:49"
-        },
-        {
-          "number": 16,
-          "name": "On the Bed (2014 Remaster)",
-          "duration": "2:22"
-        },
-        {
-          "number": 17,
-          "name": "Glass Box (2014 Remaster)",
-          "duration": "1:07"
-        },
-        {
-          "number": 18,
-          "name": "Wonderwall to Be Here (2014 Remaster)",
-          "duration": "1:27"
-        },
-        {
-          "number": 19,
-          "name": "Singing Om (2014 Remaster)",
-          "duration": "1:57"
-        },
-        {
-          "number": 20,
-          "name": "In the First Place (2014 Remaster)",
-          "duration": "3:16"
-        },
-        {
-          "number": 21,
-          "name": "Almost Shankara (2014 Remaster)",
-          "duration": "5:00"
-        },
-        {
-          "number": 22,
-          "name": "The Inner Light (Alternative Take) [Instrumental]",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
-      "name": "Live in Japan",
-      "year": "1992",
-      "release_date": "1992-07-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ad/02/f8/ad02f875-95e1-a856-7f9e-9f2c7238fdf1/0724359466552.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Want to Tell You (Live in Japan, 1991)",
-          "duration": "4:33"
-        },
-        {
-          "number": 1,
-          "name": "Cloud Nine (Live in Japan, 1991)",
-          "duration": "4:22"
-        },
-        {
-          "number": 2,
-          "name": "Old Brown Shoe (Live in Japan, 1991)",
-          "duration": "3:50"
-        },
-        {
-          "number": 2,
-          "name": "Here Comes the Sun (Live in Japan, 1991)",
-          "duration": "3:31"
-        },
-        {
-          "number": 3,
-          "name": "Taxman (Live in Japan, 1991)",
-          "duration": "4:15"
-        },
-        {
-          "number": 3,
-          "name": "My Sweet Lord (Live in Japan, 1991)",
-          "duration": "5:41"
-        },
-        {
-          "number": 4,
-          "name": "Give Me Love (Give Me Peace on Earth) [Live in Japan, 1991]",
-          "duration": "3:37"
-        },
-        {
-          "number": 4,
-          "name": "All Those Years Ago (Live in Japan, 1991)",
-          "duration": "4:26"
-        },
-        {
-          "number": 5,
-          "name": "If I Needed Someone (Live in Japan, 1991)",
-          "duration": "3:50"
-        },
-        {
-          "number": 5,
-          "name": "Cheer Down (Live in Japan, 1991)",
-          "duration": "3:53"
-        },
-        {
-          "number": 6,
-          "name": "Something (Live in Japan, 1991)",
-          "duration": "5:21"
-        },
-        {
-          "number": 6,
-          "name": "Devil's Radio (Live in Japan, 1991)",
-          "duration": "4:24"
-        },
-        {
-          "number": 7,
-          "name": "What Is Life (Live in Japan, 1991)",
-          "duration": "4:47"
-        },
-        {
-          "number": 7,
-          "name": "Isn't It a Pity (Live in Japan, 1991)",
-          "duration": "6:32"
-        },
-        {
-          "number": 8,
-          "name": "Dark Horse (Live in Japan, 1991)",
-          "duration": "4:20"
-        },
-        {
-          "number": 8,
-          "name": "While My Guitar Gently Weeps (Live in Japan, 1991)",
-          "duration": "7:08"
-        },
-        {
-          "number": 9,
-          "name": "Piggies (Live in Japan, 1991)",
-          "duration": "2:56"
-        },
-        {
-          "number": 9,
-          "name": "Roll Over Beethoven (Live in Japan, 1991)",
-          "duration": "4:45"
-        },
-        {
-          "number": 10,
-          "name": "Got My Mind Set on You (Live in Japan, 1991)",
-          "duration": "4:56"
-        }
-      ]
-    },
-    {
-      "name": "Gone Troppo",
-      "year": "1982",
-      "release_date": "1982-11-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/02/0c/91/020c9176-7f1a-6843-0eab-05bbb90a8e2c/0724359423654.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wake Up My Love (2004 Remaster)",
-          "duration": "3:36"
-        },
-        {
-          "number": 2,
-          "name": "That's the Way It Goes (2004 Remaster)",
-          "duration": "3:37"
-        },
-        {
-          "number": 3,
-          "name": "I Really Love You (2004 Remaster)",
-          "duration": "2:57"
-        },
-        {
-          "number": 4,
-          "name": "Greece (2004 Remaster)",
-          "duration": "4:02"
-        },
-        {
-          "number": 5,
-          "name": "Gone Troppo (2004 Remaster)",
-          "duration": "4:27"
-        },
-        {
-          "number": 6,
-          "name": "Mystical One (2004 Remaster)",
-          "duration": "3:45"
-        },
-        {
-          "number": 7,
-          "name": "Unknown Delight (2004 Remaster)",
-          "duration": "4:18"
-        },
-        {
-          "number": 8,
-          "name": "Baby Don't Run Away (2004 Remaster)",
-          "duration": "4:04"
-        },
-        {
-          "number": 9,
-          "name": "Dream Away (2004 Remaster)",
-          "duration": "4:31"
-        },
-        {
-          "number": 10,
-          "name": "Circles (2004 Remaster)",
-          "duration": "3:47"
-        },
-        {
-          "number": 11,
-          "name": "Mystical One (Demo Version)",
-          "duration": "6:01"
-        }
-      ]
-    },
-    {
-      "name": "Thirty Three & 1/3 (2004 Remaster) [Bonus Track]",
-      "year": "1976",
-      "release_date": "1976-11-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/61/e2/c4/61e2c4cf-e8c4-05d7-1f78-39c4c66d6c84/5099951336653.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Woman Don't You Cry for Me (2004 Remaster)",
-          "duration": "3:20"
-        },
-        {
-          "number": 2,
-          "name": "Dear One (2004 Remaster)",
-          "duration": "5:07"
-        },
-        {
-          "number": 3,
-          "name": "Beautiful Girl (2004 Remaster)",
-          "duration": "3:42"
-        },
-        {
-          "number": 4,
-          "name": "This Song (2004 Remaster)",
-          "duration": "4:14"
-        },
-        {
-          "number": 5,
-          "name": "See Yourself (2004 Remaster)",
-          "duration": "2:51"
-        },
-        {
-          "number": 6,
-          "name": "It's What You Value (2004 Remaster)",
-          "duration": "5:08"
-        },
-        {
-          "number": 7,
-          "name": "True Love (2004 Remaster)",
-          "duration": "2:44"
-        },
-        {
-          "number": 8,
-          "name": "Pure Smokey (2004 Remaster)",
-          "duration": "3:55"
-        },
-        {
-          "number": 9,
-          "name": "Crackerbox Palace (2004 Remaster)",
-          "duration": "3:58"
-        },
-        {
-          "number": 10,
-          "name": "Learning How to Love You (2004 Remaster)",
-          "duration": "4:14"
-        },
-        {
-          "number": 11,
-          "name": "Tears of the World (2004 Remaster)",
-          "duration": "4:03"
-        },
-        {
-          "number": 12,
-          "name": "Learning How to Love You (Early Mix)",
-          "duration": "4:13"
-        }
-      ]
-    },
-    {
-      "name": "All Things Must Pass (50th Anniversary) [Super Deluxe]",
-      "year": "1970",
-      "release_date": "1970-11-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a5/0d/cd/a50dcdc5-d19a-d5f0-8f98-ce83e4d32dee/4050538896701.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I'd Have You Anytime (2020 Mix)",
-          "duration": "2:58"
-        },
-        {
-          "number": 1,
-          "name": "Beware of Darkness (2020 Mix)",
-          "duration": "3:51"
-        },
-        {
-          "number": 1,
-          "name": "All Things Must Pass (Day 1 Demo) [Take 1]",
-          "duration": "4:38"
-        },
-        {
-          "number": 1,
-          "name": "Run of the Mill (Day 2 Demo) [Take 1]",
-          "duration": "1:53"
-        },
-        {
-          "number": 2,
-          "name": "My Sweet Lord (2020 Mix)",
-          "duration": "4:41"
-        },
-        {
-          "number": 2,
-          "name": "Apple Scruffs (2020 Mix)",
-          "duration": "3:06"
-        },
-        {
-          "number": 2,
-          "name": "Behind That Locked Door (Day 1 Demo) [Take 2]",
-          "duration": "2:54"
-        },
-        {
-          "number": 2,
-          "name": "Art of Dying (Day 2 Demo) [Take 1]",
-          "duration": "3:03"
-        },
-        {
-          "number": 3,
-          "name": "Wah-Wah (2020 Mix)",
-          "duration": "5:37"
-        },
-        {
-          "number": 3,
-          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [2020 Mix]",
-          "duration": "3:48"
-        },
-        {
-          "number": 3,
-          "name": "I Live for You (Day 1 Demo) [Take 1]",
-          "duration": "3:25"
-        },
-        {
-          "number": 3,
-          "name": "Everybody/Nobody (Day 2 Demo) [Take 1]",
-          "duration": "2:19"
-        },
-        {
-          "number": 4,
-          "name": "Isn't It a Pity (Version 1) [2020 Mix]",
-          "duration": "7:10"
-        },
-        {
-          "number": 4,
-          "name": "Awaiting on You All (2020 Mix)",
-          "duration": "2:48"
-        },
-        {
-          "number": 4,
-          "name": "Apple Scruffs (Day 1 Demo) [Take 1]",
-          "duration": "2:47"
-        },
-        {
-          "number": 4,
-          "name": "Wah-Wah (Day 2 Demo) [Take 1]",
-          "duration": "4:23"
-        },
-        {
-          "number": 5,
-          "name": "What Is Life (2020 Mix)",
-          "duration": "4:24"
-        },
-        {
-          "number": 5,
-          "name": "All Things Must Pass (2020 Mix)",
-          "duration": "3:46"
-        },
-        {
-          "number": 5,
-          "name": "What Is Life (Day 1 Demo) [Take 3]",
-          "duration": "4:45"
-        },
-        {
-          "number": 5,
-          "name": "Window Window (Day 2 Demo) [Take 1]",
-          "duration": "1:53"
-        },
-        {
-          "number": 6,
-          "name": "If Not for You (2020 Mix)",
-          "duration": "3:30"
-        },
-        {
-          "number": 6,
-          "name": "I Dig Love (2020 Mix)",
-          "duration": "4:57"
-        },
-        {
-          "number": 6,
-          "name": "Awaiting on You All (Day 1 Demo) [Take 1]",
-          "duration": "2:29"
-        },
-        {
-          "number": 6,
-          "name": "Beautiful Girl (Day 2 Demo) [Take 1]",
-          "duration": "2:38"
-        },
-        {
-          "number": 7,
-          "name": "Behind That Locked Door (2020 Mix)",
-          "duration": "3:06"
-        },
-        {
-          "number": 7,
-          "name": "Art of Dying (2020 Mix)",
-          "duration": "3:38"
-        },
-        {
-          "number": 7,
-          "name": "Isn't It a Pity (Day 1 Demo) [Take 2]",
-          "duration": "3:18"
-        },
-        {
-          "number": 7,
-          "name": "Beware of Darkness (Day 2 Demo) [Take 1]",
-          "duration": "3:19"
-        },
-        {
-          "number": 8,
-          "name": "Let It Down (2020 Mix)",
-          "duration": "4:58"
-        },
-        {
-          "number": 8,
-          "name": "Isn't It a Pity (Version 2) [2020 Mix]",
-          "duration": "4:48"
-        },
-        {
-          "number": 8,
-          "name": "I'd Have You Anytime (Day 1 Demo) [Take 1]",
-          "duration": "2:10"
-        },
-        {
-          "number": 8,
-          "name": "Let It Down (Day 2 Demo) [Take 1]",
-          "duration": "3:56"
-        },
-        {
-          "number": 9,
-          "name": "Run of the Mill (2020 Mix)",
-          "duration": "2:52"
-        },
-        {
-          "number": 9,
-          "name": "Hear Me Lord (2020 Mix)",
-          "duration": "5:49"
-        },
-        {
-          "number": 9,
-          "name": "I Dig Love (Day 1 Demo) [Take 1]",
-          "duration": "3:34"
-        },
-        {
-          "number": 9,
-          "name": "Tell Me What Has Happened to You (Day 2 Demo) [Take 1]",
-          "duration": "2:56"
-        },
-        {
-          "number": 10,
-          "name": "Out of the Blue (2020 Remaster)",
-          "duration": "11:15"
-        },
-        {
-          "number": 10,
-          "name": "Going Down to Golders Green (Day 1 Demo) [Take 1]",
-          "duration": "2:23"
-        },
-        {
-          "number": 10,
-          "name": "Hear Me Lord (Day 2 Demo) [Take 1]",
-          "duration": "4:57"
-        },
-        {
-          "number": 11,
-          "name": "It's Johnny's Birthday (2020 Remaster)",
-          "duration": "0:49"
-        },
-        {
-          "number": 11,
-          "name": "Dehra Dun (Day 1 Demo) [Take 2]",
-          "duration": "3:39"
-        },
-        {
-          "number": 11,
-          "name": "Nowhere to Go (Day 2 Demo) [Take 1]",
-          "duration": "2:43"
-        },
-        {
-          "number": 12,
-          "name": "Plug Me In (2020 Remaster)",
-          "duration": "3:19"
-        },
-        {
-          "number": 12,
-          "name": "Om Hare Om (Gopala Krishna) [Day 1 Demo] [Take 1]",
-          "duration": "5:12"
-        },
-        {
-          "number": 12,
-          "name": "Cosmic Empire (Day 2 Demo) [Take 1]",
-          "duration": "2:11"
-        },
-        {
-          "number": 13,
-          "name": "I Remember Jeep (2020 Remaster)",
-          "duration": "8:08"
-        },
-        {
-          "number": 13,
-          "name": "Ballad of Sir Frankie Crisp (Let It Roll) [Day 1 Demo] [Take 2]",
-          "duration": "3:40"
-        },
-        {
-          "number": 14,
-          "name": "Thanks for the Pepperoni (2020 Remaster)",
-          "duration": "5:32"
-        },
-        {
-          "number": 14,
-          "name": "My Sweet Lord (Day 1 Demo) [Take 1]",
-          "duration": "3:21"
-        },
-        {
-          "number": 15,
-          "name": "Sour Milk Sea (Day 1 Demo) [Take 1]",
-          "duration": "2:27"
-        }
-      ]
-    },
-    {
-      "name": "Extra Texture",
-      "year": "1975",
-      "release_date": "1975-09-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5c/1e/64/5c1e64f6-9e67-f26f-759d-8bcdb230a5cf/0602547025265.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You (2014 Remaster)",
-          "duration": "3:43"
-        },
-        {
-          "number": 2,
-          "name": "The Answer's at the End (2014 Remaster)",
-          "duration": "5:33"
-        },
-        {
-          "number": 3,
-          "name": "This Guitar (Can't Keep from Crying)",
-          "duration": "4:13"
-        },
-        {
-          "number": 4,
-          "name": "Ooh Baby (You Know That I Love You)",
-          "duration": "4:00"
-        },
-        {
-          "number": 5,
-          "name": "World of Stone (2014 Remaster)",
-          "duration": "4:44"
-        },
-        {
-          "number": 6,
-          "name": "A Bit More of You (2014 Remaster)",
-          "duration": "0:45"
-        },
-        {
-          "number": 7,
-          "name": "Can't Stop Thinking About You (2014 Remaster)",
-          "duration": "4:32"
-        },
-        {
-          "number": 8,
-          "name": "Tired of Midnight Blue (2014 Remaster)",
-          "duration": "4:52"
-        },
-        {
-          "number": 9,
-          "name": "Grey Cloudy Lies (2014 Remaster)",
-          "duration": "3:42"
-        },
-        {
-          "number": 10,
-          "name": "His Name Is Legs (Ladies and Gentleman)",
-          "duration": "5:50"
-        },
-        {
-          "number": 11,
-          "name": "This Guitar (Can't Keep from Crying) [Platinum Weird Version]",
-          "duration": "3:55"
-        }
-      ]
-    },
-    {
-      "name": "The Smith Tapes: George Harrison",
-      "year": "2014",
-      "release_date": "2014-04-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/46/1d/64/461d6449-b98e-81f1-991e-af243966f578/859712528513_cover.tif/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Smith Tapes: George Harrison",
-          "duration": "37:06"
-        }
-      ]
-    },
-    {
-      "name": "Electronic Sound",
-      "year": "1969",
-      "release_date": "1969-05-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ac/70/37/ac703735-9ef7-9ec6-923e-11ac9b5bf9c3/0602547025241.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Under the Mersey Wall (2014 Remaster)",
-          "duration": "18:44"
-        },
-        {
-          "number": 2,
-          "name": "No Time Or Space (2014 Remaster)",
-          "duration": "25:07"
-        }
-      ]
-    },
-    {
-      "name": "The Apple Years 1968-75",
-      "year": "2014",
-      "release_date": "2014-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ca/b1/35/cab13536-6ab2-78e2-512e-2935617f5bdf/0602537999606.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Microbes (2014 Remaster)",
-          "duration": "3:44"
-        },
-        {
-          "number": 1,
-          "name": "Under the Mersey Wall (2014 Remaster)",
-          "duration": "18:44"
-        },
-        {
-          "number": 1,
-          "name": "Hari's on Tour (Express) [2014 Remaster]",
-          "duration": "4:42"
-        },
-        {
-          "number": 1,
-          "name": "You (2014 Remaster)",
-          "duration": "3:43"
-        },
-        {
-          "number": 1,
-          "name": "I'd Have You Anytime (2014 Remaster)",
-          "duration": "2:57"
-        },
-        {
-          "number": 2,
-          "name": "Red Lady Too (2014 Remaster)",
-          "duration": "1:56"
-        },
-        {
-          "number": 2,
-          "name": "No Time Or Space (2014 Remaster)",
-          "duration": "25:07"
-        },
-        {
-          "number": 2,
-          "name": "Simply Shady (2014 Remaster)",
-          "duration": "4:37"
-        },
-        {
-          "number": 2,
-          "name": "The Answer's at the End (2014 Remaster)",
-          "duration": "5:33"
-        },
-        {
-          "number": 2,
-          "name": "My Sweet Lord (2014 Remaster)",
-          "duration": "4:41"
-        },
-        {
-          "number": 3,
-          "name": "Tabla and Pakavaj (2014 Remaster)",
-          "duration": "1:04"
-        },
-        {
-          "number": 3,
-          "name": "So Sad (2014 Remaster)",
-          "duration": "4:59"
-        },
-        {
-          "number": 3,
-          "name": "This Guitar (Can't Keep from Crying) [2014 Remaster]",
-          "duration": "4:13"
-        },
-        {
-          "number": 3,
-          "name": "Wah-Wah (2014 Remaster)",
-          "duration": "5:37"
-        },
-        {
-          "number": 4,
-          "name": "In the Park (2014 Remaster)",
-          "duration": "4:10"
-        },
-        {
-          "number": 4,
-          "name": "Bye Bye Love (2014 Remaster)",
-          "duration": "4:06"
-        },
-        {
-          "number": 4,
-          "name": "Ooh Baby (You Know That I Love You) [2014 Remaster]",
-          "duration": "4:00"
-        },
-        {
-          "number": 4,
-          "name": "Isn't It a Pity (2014 Remaster)",
-          "duration": "7:10"
-        },
-        {
-          "number": 5,
-          "name": "Drilling a Home (2014 Remaster)",
-          "duration": "3:07"
-        },
-        {
-          "number": 5,
-          "name": "Maya Love (2014 Remaster)",
-          "duration": "4:22"
-        },
-        {
-          "number": 5,
-          "name": "World of Stone (2014 Remaster)",
-          "duration": "4:44"
-        },
-        {
-          "number": 6,
-          "name": "Guru Vandana (2014 Remaster)",
-          "duration": "1:08"
-        },
-        {
-          "number": 6,
-          "name": "Ding Dong, Ding Dong (2014 Mix)",
-          "duration": "3:40"
-        },
-        {
-          "number": 6,
-          "name": "A Bit More of You (2014 Remaster)",
-          "duration": "0:45"
-        },
-        {
-          "number": 7,
-          "name": "Greasy Legs (2014 Remaster)",
-          "duration": "1:27"
-        },
-        {
-          "number": 7,
-          "name": "Dark Horse (2014 Remaster)",
-          "duration": "3:53"
-        },
-        {
-          "number": 7,
-          "name": "Can't Stop Thinking About You (2014 Remaster)",
-          "duration": "4:32"
-        },
-        {
-          "number": 8,
-          "name": "Ski-Ing (2014 Remaster)",
-          "duration": "1:49"
-        },
-        {
-          "number": 8,
-          "name": "Far East Man (2014 Remaster)",
-          "duration": "5:51"
-        },
-        {
-          "number": 8,
-          "name": "Tired of Midnight Blue (2014 Remaster)",
-          "duration": "4:52"
-        },
-        {
-          "number": 9,
-          "name": "Gat Kirwani (2014 Remaster)",
-          "duration": "1:15"
-        },
-        {
-          "number": 9,
-          "name": "It Is 'He' (Jai Sri Krishna) [2014 Remaster]",
-          "duration": "4:52"
-        },
-        {
-          "number": 9,
-          "name": "Grey Cloudy Lies (2014 Remaster)",
-          "duration": "3:42"
-        },
-        {
-          "number": 10,
-          "name": "Dream Scene (2014 Remaster)",
-          "duration": "5:27"
-        },
-        {
-          "number": 10,
-          "name": "I Don't Care Anymore (2014 Remaster)",
-          "duration": "2:44"
-        },
-        {
-          "number": 10,
-          "name": "His Name Is Legs (Ladies and Gentleman) [2014 Remaster]",
-          "duration": "5:50"
-        },
-        {
-          "number": 11,
-          "name": "Party Seacombe (2014 Remaster)",
-          "duration": "4:34"
-        },
-        {
-          "number": 11,
-          "name": "Dark Horse ((Early Take) [2014 Mix])",
-          "duration": "4:25"
-        },
-        {
-          "number": 11,
-          "name": "This Guitar (Can't Keep from Crying) [Platinum Weird Version] [2014 Remaster]",
-          "duration": "3:55"
-        },
-        {
-          "number": 12,
-          "name": "Love Scene (2014 Remaster)",
-          "duration": "4:16"
-        },
-        {
-          "number": 13,
-          "name": "Crying (2014 Remaster)",
-          "duration": "1:17"
-        },
-        {
-          "number": 14,
-          "name": "Cowboy Music (2014 Remaster)",
-          "duration": "1:29"
-        },
-        {
-          "number": 15,
-          "name": "Fantasy Sequins (2014 Remaster)",
-          "duration": "1:49"
-        },
-        {
-          "number": 16,
-          "name": "On the Bed (2014 Remaster)",
-          "duration": "2:22"
-        },
-        {
-          "number": 17,
-          "name": "Glass Box (2014 Remaster)",
-          "duration": "1:07"
-        },
-        {
-          "number": 18,
-          "name": "Wonderwall to Be Here (2014 Remaster)",
-          "duration": "1:27"
-        },
-        {
-          "number": 19,
-          "name": "Singing Om (2014 Remaster)",
-          "duration": "1:57"
-        },
-        {
-          "number": 20,
-          "name": "In the First Place (2014 Remaster)",
-          "duration": "3:16"
-        },
-        {
-          "number": 21,
-          "name": "Almost Shankara (2014 Remaster)",
-          "duration": "5:00"
-        },
-        {
-          "number": 22,
-          "name": "The Inner Light ((Alternative Take) [Instrumental])",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
-      "name": "The Concert for Bangladesh",
-      "year": "1971",
-      "release_date": "1971-12-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/b9/0b/51b90be2-8946-9b1c-c5ed-92a4c144b371/4099964110791.jpg/600x600bb.jpg",
-      "tracks": []
-    }
-  ],
-  "singles": [
-    {
-      "name": "Punchdrunk (feat. George Harrison)",
-      "year": "2020",
-      "release_date": "2020-10-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/94/ec/7c/94ec7cc8-4bb5-4d02-7ead-0c3a28e348f4/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Punchdrunk (feat. George Harrison)",
-          "duration": "5:32"
-        }
-      ]
-    },
-    {
-      "name": "All Things Must Pass (2020 Mix)",
-      "year": "2020",
-      "release_date": "2020-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/bc/3f/09/bc3f096b-eaa9-1fc3-65c2-eaca987a42d0/0602435455181.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "All Things Must Pass (2020 Mix)",
-          "duration": "3:46"
+          "name": "Inthecoupe",
+          "duration": "2:12"
         }
       ]
     }
   ],
-  "eps": []
+  "eps": [
+    {
+      "name": "Colors",
+      "year": "2015",
+      "release_date": "2015-04-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/bb/cf/4c/bbcf4cd2-cc44-0b8a-a4ce-80643ff3b495/060270159525.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "How Can It Be (feat. Maddee)",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "Ashe Maree",
+          "duration": "2:03"
+        },
+        {
+          "number": 3,
+          "name": "She's Strong (feat. Maddee)",
+          "duration": "4:42"
+        },
+        {
+          "number": 4,
+          "name": "You're Light (feat. Maddee)",
+          "duration": "4:12"
+        },
+        {
+          "number": 5,
+          "name": "Collage",
+          "duration": "3:42"
+        }
+      ]
+    }
+  ]
 }

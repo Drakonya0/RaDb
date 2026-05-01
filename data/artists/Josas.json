@@ -54,13 +54,6 @@
       "tracks": []
     },
     {
-      "name": "Morena",
-      "year": "2026",
-      "release_date": "2026-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/2b/99/592b99fd-0bd2-7303-b990-a5b5dedf1ad7/25UM2IM07956.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "E.T",
       "year": "2023",
       "release_date": "2023-05-26",
@@ -72,6 +65,13 @@
           "duration": "2:51"
         }
       ]
+    },
+    {
+      "name": "Morena",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/2b/99/592b99fd-0bd2-7303-b990-a5b5dedf1ad7/25UM2IM07956.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Ainsi font",
@@ -345,19 +345,6 @@
       "tracks": []
     },
     {
-      "name": "Giboulée",
-      "year": "2023",
-      "release_date": "2023-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/8f/17/f48f1783-7fc4-a958-dd0c-b802ce4d5be7/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Giboulée",
-          "duration": "2:50"
-        }
-      ]
-    },
-    {
       "name": "Emilio",
       "year": "2026",
       "release_date": "2026-01-12",
@@ -370,6 +357,19 @@
       "release_date": "2024-11-29",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/b9/c6/96b9c605-344d-7963-6e3d-f72733d50aa5/24UM1IM30448.rgb.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "Giboulée",
+      "year": "2023",
+      "release_date": "2023-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f4/8f/17/f48f1783-7fc4-a958-dd0c-b802ce4d5be7/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Giboulée",
+          "duration": "2:50"
+        }
+      ]
     }
   ],
   "eps": []
