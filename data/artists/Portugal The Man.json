@@ -3,6 +3,64 @@
   "id": 167649475,
   "albums": [
     {
+      "name": "In the Mountain In the Cloud",
+      "year": "2011",
+      "release_date": "2011-06-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/32/67/a0/3267a060-798b-9336-4435-675124623352/mzi.moiwzgzs.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "So American",
+          "duration": "3:35"
+        },
+        {
+          "number": 2,
+          "name": "Floating (Time Isn't Working My Side)",
+          "duration": "3:36"
+        },
+        {
+          "number": 4,
+          "name": "Senseless",
+          "duration": "3:25"
+        },
+        {
+          "number": 5,
+          "name": "Head Is a Flame (Cool With It)",
+          "duration": "3:32"
+        },
+        {
+          "number": 6,
+          "name": "You Carried Us (Share With Me the Sun)",
+          "duration": "4:07"
+        },
+        {
+          "number": 7,
+          "name": "Everything You See (Kids Count Hallelujahs)",
+          "duration": "4:14"
+        },
+        {
+          "number": 8,
+          "name": "All Your Light (Times Like These)",
+          "duration": "4:26"
+        },
+        {
+          "number": 9,
+          "name": "Once Was One",
+          "duration": "4:22"
+        },
+        {
+          "number": 10,
+          "name": "Share With Me the Sun",
+          "duration": "2:44"
+        },
+        {
+          "number": 11,
+          "name": "Sleep Forever",
+          "duration": "6:20"
+        }
+      ]
+    },
+    {
       "name": "Woodstock",
       "year": "2017",
       "release_date": "2017-06-16",
@@ -125,64 +183,6 @@
           "number": 12,
           "name": "Smile",
           "duration": "4:49"
-        }
-      ]
-    },
-    {
-      "name": "In the Mountain In the Cloud",
-      "year": "2011",
-      "release_date": "2011-06-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/32/67/a0/3267a060-798b-9336-4435-675124623352/mzi.moiwzgzs.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "So American",
-          "duration": "3:35"
-        },
-        {
-          "number": 2,
-          "name": "Floating (Time Isn't Working My Side)",
-          "duration": "3:36"
-        },
-        {
-          "number": 4,
-          "name": "Senseless",
-          "duration": "3:25"
-        },
-        {
-          "number": 5,
-          "name": "Head Is a Flame (Cool With It)",
-          "duration": "3:32"
-        },
-        {
-          "number": 6,
-          "name": "You Carried Us (Share With Me the Sun)",
-          "duration": "4:07"
-        },
-        {
-          "number": 7,
-          "name": "Everything You See (Kids Count Hallelujahs)",
-          "duration": "4:14"
-        },
-        {
-          "number": 8,
-          "name": "All Your Light (Times Like These)",
-          "duration": "4:26"
-        },
-        {
-          "number": 9,
-          "name": "Once Was One",
-          "duration": "4:22"
-        },
-        {
-          "number": 10,
-          "name": "Share With Me the Sun",
-          "duration": "2:44"
-        },
-        {
-          "number": 11,
-          "name": "Sleep Forever",
-          "duration": "6:20"
         }
       ]
     },
@@ -1098,6 +1098,24 @@
   ],
   "singles": [
     {
+      "name": "Steal My Sunshine / Novocaine For The Soul (feat. Cherry Glazerr & Sir Chloe)",
+      "year": "2021",
+      "release_date": "2021-09-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/0e/16/330e1640-4c31-eccb-c184-772afc684b24/075679768797.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Steal My Sunshine (feat. Cherry Glazerr)",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "Novocaine For The Soul (feat. Sir Chloe)",
+          "duration": "2:40"
+        }
+      ]
+    },
+    {
       "name": "Glide",
       "year": "2025",
       "release_date": "2025-03-28",
@@ -1124,42 +1142,6 @@
       ]
     },
     {
-      "name": "Purple Yellow Red and Blue",
-      "year": "2013",
-      "release_date": "2013-09-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/78/06/9a/78069a15-6d7b-42e1-3776-4f19bb4a53d0/075679948502.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Purple Yellow Red and Blue",
-          "duration": "4:09"
-        },
-        {
-          "number": 2,
-          "name": "Purple Yellow Red and Blue (Passion Pit Remix)",
-          "duration": "5:34"
-        }
-      ]
-    },
-    {
-      "name": "Steal My Sunshine / Novocaine For The Soul (feat. Cherry Glazerr & Sir Chloe)",
-      "year": "2021",
-      "release_date": "2021-09-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/0e/16/330e1640-4c31-eccb-c184-772afc684b24/075679768797.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Steal My Sunshine (feat. Cherry Glazerr)",
-          "duration": "4:00"
-        },
-        {
-          "number": 2,
-          "name": "Novocaine For The Soul (feat. Sir Chloe)",
-          "duration": "2:40"
-        }
-      ]
-    },
-    {
       "name": "Who’s Gonna Stop Me (feat. \"Weird Al\" Yankovic)",
       "year": "2020",
       "release_date": "2020-10-12",
@@ -1169,63 +1151,6 @@
           "number": 1,
           "name": "Who’s Gonna Stop Me (feat. \"Weird Al\" Yankovic)",
           "duration": "3:52"
-        }
-      ]
-    },
-    {
-      "name": "Phoenix",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/ac/98/a5ac9830-05e9-a9d3-e854-8242b2678359/1280598.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Phoenix",
-          "duration": "2:24"
-        }
-      ]
-    },
-    {
-      "name": "Live in the Moment (Tycho Remixes)",
-      "year": "2018",
-      "release_date": "2018-02-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/83/8a/88/838a888a-e1b8-4c6c-9c73-b73219edae3c/075679877154.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Live In the Moment (Tycho Sunrise Remix)",
-          "duration": "3:43"
-        },
-        {
-          "number": 2,
-          "name": "Live In the Moment (Tycho Sunset Remix)",
-          "duration": "3:28"
-        }
-      ]
-    },
-    {
-      "name": "Call Me (feat. Portugal. The Man)",
-      "year": "2019",
-      "release_date": "2019-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b5/d6/08/b5d608c5-ab58-cdc1-ac78-4ee3b34c4525/656605039244.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Call Me (feat. Portugal. The Man)",
-          "duration": "2:59"
-        }
-      ]
-    },
-    {
-      "name": "Wind of Change (feat. Portugal. The Man & Brandon Boyd)",
-      "year": "2022",
-      "release_date": "2022-01-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/17/ec/f017ec73-6565-2f72-fc7e-ac8959423461/846070006401.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wind of Change (feat. Portugal. The Man & Brandon Boyd)",
-          "duration": "5:09"
         }
       ]
     },
@@ -1261,6 +1186,81 @@
       ]
     },
     {
+      "name": "Purple Yellow Red and Blue",
+      "year": "2013",
+      "release_date": "2013-09-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/78/06/9a/78069a15-6d7b-42e1-3776-4f19bb4a53d0/075679948502.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Purple Yellow Red and Blue",
+          "duration": "4:09"
+        },
+        {
+          "number": 2,
+          "name": "Purple Yellow Red and Blue (Passion Pit Remix)",
+          "duration": "5:34"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/ac/98/a5ac9830-05e9-a9d3-e854-8242b2678359/1280598.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Phoenix",
+          "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "Live in the Moment (Tycho Remixes)",
+      "year": "2018",
+      "release_date": "2018-02-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/83/8a/88/838a888a-e1b8-4c6c-9c73-b73219edae3c/075679877154.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Live In the Moment (Tycho Sunrise Remix)",
+          "duration": "3:43"
+        },
+        {
+          "number": 2,
+          "name": "Live In the Moment (Tycho Sunset Remix)",
+          "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "Wind of Change (feat. Portugal. The Man & Brandon Boyd)",
+      "year": "2022",
+      "release_date": "2022-01-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/17/ec/f017ec73-6565-2f72-fc7e-ac8959423461/846070006401.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wind of Change (feat. Portugal. The Man & Brandon Boyd)",
+          "duration": "5:09"
+        }
+      ]
+    },
+    {
+      "name": "Call Me (feat. Portugal. The Man)",
+      "year": "2019",
+      "release_date": "2019-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b5/d6/08/b5d608c5-ab58-cdc1-ac78-4ee3b34c4525/656605039244.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Call Me (feat. Portugal. The Man)",
+          "duration": "2:59"
+        }
+      ]
+    },
+    {
       "name": "We Can Hide Out (Mozambo Remix)",
       "year": "2020",
       "release_date": "2020-04-03",
@@ -1270,19 +1270,6 @@
           "number": 1,
           "name": "We Can Hide Out (Mozambo Remix)",
           "duration": "3:02"
-        }
-      ]
-    },
-    {
-      "name": "Money",
-      "year": "2025",
-      "release_date": "2025-12-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/1b/a6/a41ba677-4c81-291e-9a4c-3bf35a15123e/25SYMIM24144.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Money",
-          "duration": "3:32"
         }
       ]
     },
@@ -1374,6 +1361,19 @@
           "number": 1,
           "name": "Dummy (Chrome Sparks Remix)",
           "duration": "3:46"
+        }
+      ]
+    },
+    {
+      "name": "Money",
+      "year": "2025",
+      "release_date": "2025-12-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/1b/a6/a41ba677-4c81-291e-9a4c-3bf35a15123e/25SYMIM24144.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Money",
+          "duration": "3:32"
         }
       ]
     },
@@ -1792,39 +1792,6 @@
       ]
     },
     {
-      "name": "Tidal Wave (Remixes)",
-      "year": "2018",
-      "release_date": "2018-11-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/42/ba/5c42ba7e-06ae-07ac-5696-094427a225c0/075679859365.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tidal Wave (Ookay Remix)",
-          "duration": "3:57"
-        },
-        {
-          "number": 2,
-          "name": "Tidal Wave (Lucius Remix)",
-          "duration": "3:57"
-        },
-        {
-          "number": 3,
-          "name": "Tidal Wave (Mansionair Remix)",
-          "duration": "3:42"
-        },
-        {
-          "number": 4,
-          "name": "Tidal Wave (Sir Sly Remix)",
-          "duration": "4:23"
-        },
-        {
-          "number": 5,
-          "name": "Tidal Wave (Le Sauvage Remix)",
-          "duration": "3:47"
-        }
-      ]
-    },
-    {
       "name": "uLu Selects Vol #2",
       "year": "2025",
       "release_date": "2025-06-06",
@@ -1877,6 +1844,39 @@
           "number": 4,
           "name": "How the Leopard Got Its Spots (Blakebeatz Remix)",
           "duration": "5:18"
+        }
+      ]
+    },
+    {
+      "name": "Tidal Wave (Remixes)",
+      "year": "2018",
+      "release_date": "2018-11-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5c/42/ba/5c42ba7e-06ae-07ac-5696-094427a225c0/075679859365.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tidal Wave (Ookay Remix)",
+          "duration": "3:57"
+        },
+        {
+          "number": 2,
+          "name": "Tidal Wave (Lucius Remix)",
+          "duration": "3:57"
+        },
+        {
+          "number": 3,
+          "name": "Tidal Wave (Mansionair Remix)",
+          "duration": "3:42"
+        },
+        {
+          "number": 4,
+          "name": "Tidal Wave (Sir Sly Remix)",
+          "duration": "4:23"
+        },
+        {
+          "number": 5,
+          "name": "Tidal Wave (Le Sauvage Remix)",
+          "duration": "3:47"
         }
       ]
     },

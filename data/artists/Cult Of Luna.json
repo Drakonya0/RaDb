@@ -3,6 +3,59 @@
   "id": 42407392,
   "albums": [
     {
+      "name": "The Long Road North",
+      "year": "2022",
+      "release_date": "2022-02-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b4/4e/23/b44e23f2-3f53-2c38-8e22-56d4fac1be29/Cult_of_Luna_-_The_Long_Road_North.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cold Burn",
+          "duration": "9:41"
+        },
+        {
+          "number": 2,
+          "name": "The Silver Arc",
+          "duration": "7:37"
+        },
+        {
+          "number": 3,
+          "name": "Beyond I (feat. Mariam Wallentin)",
+          "duration": "3:07"
+        },
+        {
+          "number": 4,
+          "name": "An Offering to the Wild (feat. Colin Stetson)",
+          "duration": "12:43"
+        },
+        {
+          "number": 5,
+          "name": "Into the Night",
+          "duration": "6:58"
+        },
+        {
+          "number": 6,
+          "name": "Full Moon",
+          "duration": "3:06"
+        },
+        {
+          "number": 7,
+          "name": "The Long Road North",
+          "duration": "10:04"
+        },
+        {
+          "number": 8,
+          "name": "Blood Upon Stone",
+          "duration": "11:39"
+        },
+        {
+          "number": 9,
+          "name": "Beyond II (feat. Colin Stetson)",
+          "duration": "4:06"
+        }
+      ]
+    },
+    {
       "name": "Salvation",
       "year": "2004",
       "release_date": "2004-10-04",
@@ -258,59 +311,6 @@
       ]
     },
     {
-      "name": "The Long Road North",
-      "year": "2022",
-      "release_date": "2022-02-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b4/4e/23/b44e23f2-3f53-2c38-8e22-56d4fac1be29/Cult_of_Luna_-_The_Long_Road_North.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cold Burn",
-          "duration": "9:41"
-        },
-        {
-          "number": 2,
-          "name": "The Silver Arc",
-          "duration": "7:37"
-        },
-        {
-          "number": 3,
-          "name": "Beyond I (feat. Mariam Wallentin)",
-          "duration": "3:07"
-        },
-        {
-          "number": 4,
-          "name": "An Offering to the Wild (feat. Colin Stetson)",
-          "duration": "12:43"
-        },
-        {
-          "number": 5,
-          "name": "Into the Night",
-          "duration": "6:58"
-        },
-        {
-          "number": 6,
-          "name": "Full Moon",
-          "duration": "3:06"
-        },
-        {
-          "number": 7,
-          "name": "The Long Road North",
-          "duration": "10:04"
-        },
-        {
-          "number": 8,
-          "name": "Blood Upon Stone",
-          "duration": "11:39"
-        },
-        {
-          "number": 9,
-          "name": "Beyond II (feat. Colin Stetson)",
-          "duration": "4:06"
-        }
-      ]
-    },
-    {
       "name": "The Raging River",
       "year": "2021",
       "release_date": "2021-02-05",
@@ -450,39 +450,6 @@
       ]
     },
     {
-      "name": "Mariner",
-      "year": "2016",
-      "release_date": "2016-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/e2/b9/c9e2b972-2c53-c616-c580-de087cd9bad7/7072805003763_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A Greater Call",
-          "duration": "8:19"
-        },
-        {
-          "number": 2,
-          "name": "Chevron",
-          "duration": "8:53"
-        },
-        {
-          "number": 3,
-          "name": "The Wreck of S.S. Needle",
-          "duration": "9:33"
-        },
-        {
-          "number": 4,
-          "name": "Approaching Transition",
-          "duration": "12:59"
-        },
-        {
-          "number": 5,
-          "name": "Cygnus",
-          "duration": "14:50"
-        }
-      ]
-    },
-    {
       "name": "Vertikal I & II",
       "year": "2023",
       "release_date": "2023-01-25",
@@ -557,6 +524,39 @@
           "number": 14,
           "name": "Vicarious Redemption (Justin K. Broadrick Remix)",
           "duration": "9:38"
+        }
+      ]
+    },
+    {
+      "name": "Mariner",
+      "year": "2016",
+      "release_date": "2016-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/e2/b9/c9e2b972-2c53-c616-c580-de087cd9bad7/7072805003763_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A Greater Call",
+          "duration": "8:19"
+        },
+        {
+          "number": 2,
+          "name": "Chevron",
+          "duration": "8:53"
+        },
+        {
+          "number": 3,
+          "name": "The Wreck of S.S. Needle",
+          "duration": "9:33"
+        },
+        {
+          "number": 4,
+          "name": "Approaching Transition",
+          "duration": "12:59"
+        },
+        {
+          "number": 5,
+          "name": "Cygnus",
+          "duration": "14:50"
         }
       ]
     },

@@ -4,29 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Stellaris Funk",
-      "year": "2024",
-      "release_date": "2024-08-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/74/ce/6974ced0-4c54-983d-2fee-6b4cd4787b1a/198588936047.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stellaris Funk",
-          "duration": "1:45"
-        },
-        {
-          "number": 2,
-          "name": "Stellaris Funk (Slowed)",
-          "duration": "2:10"
-        },
-        {
-          "number": 3,
-          "name": "Stellaris Funk (Sped Up)",
-          "duration": "1:35"
-        }
-      ]
-    },
-    {
       "name": "Slide On Deez Pelotas",
       "year": "2024",
       "release_date": "2024-09-13",
@@ -49,42 +26,6 @@
           "number": 1,
           "name": "Old Times",
           "duration": "1:20"
-        }
-      ]
-    },
-    {
-      "name": "EXTINCTION (feat. Zurvyy)",
-      "year": "2023",
-      "release_date": "2023-04-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/ed/29/b9ed29bc-d0e8-16cd-c3a7-3c378ff0c728/103014.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "EXTINCTION (feat. Zurvyy)",
-          "duration": "2:04"
-        }
-      ]
-    },
-    {
-      "name": "SWEET DREAMS FUNK",
-      "year": "2024",
-      "release_date": "2024-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/23/79/742379b5-33f1-dacc-b730-456fde5a407d/7316477440601.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SWEET DREAMS FUNK",
-          "duration": "1:39"
-        },
-        {
-          "number": 2,
-          "name": "SWEET DREAMS FUNK (Slowed)",
-          "duration": "1:57"
-        },
-        {
-          "number": 3,
-          "name": "SWEET DREAMS FUNK (Sped Up)",
-          "duration": "1:29"
         }
       ]
     },
@@ -121,6 +62,29 @@
           "number": 1,
           "name": "DANCA DE LINHA!",
           "duration": "1:21"
+        }
+      ]
+    },
+    {
+      "name": "CHEGA PRONTA",
+      "year": "2025",
+      "release_date": "2025-08-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/43/40/4f4340fe-a8ab-b618-55e4-8971b7461b72/2154826.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CHEGA PRONTA",
+          "duration": "2:02"
+        },
+        {
+          "number": 2,
+          "name": "CHEGA PRONTA (Slowed)",
+          "duration": "2:17"
+        },
+        {
+          "number": 3,
+          "name": "CHEGA PRONTA (Super Slowed)",
+          "duration": "2:34"
         }
       ]
     },
@@ -190,19 +154,6 @@
       ]
     },
     {
-      "name": "CALL ME!",
-      "year": "2024",
-      "release_date": "2024-10-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/8a/0c/348a0c60-3511-43b8-d684-9c93ff3ba37c/1963622471483_cover.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CALL ME!",
-          "duration": "1:25"
-        }
-      ]
-    },
-    {
       "name": "Lxst in Th3 Dxrk",
       "year": "2022",
       "release_date": "2022-08-20",
@@ -227,34 +178,530 @@
           "duration": "1:47"
         }
       ]
+    },
+    {
+      "name": "Stellaris Funk",
+      "year": "2024",
+      "release_date": "2024-08-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/74/ce/6974ced0-4c54-983d-2fee-6b4cd4787b1a/198588936047.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stellaris Funk",
+          "duration": "1:45"
+        },
+        {
+          "number": 2,
+          "name": "Stellaris Funk (Slowed)",
+          "duration": "2:10"
+        },
+        {
+          "number": 3,
+          "name": "Stellaris Funk (Sped Up)",
+          "duration": "1:35"
+        }
+      ]
+    },
+    {
+      "name": "EXTINCTION (feat. Zurvyy)",
+      "year": "2023",
+      "release_date": "2023-04-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/ed/29/b9ed29bc-d0e8-16cd-c3a7-3c378ff0c728/103014.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "EXTINCTION (feat. Zurvyy)",
+          "duration": "2:04"
+        }
+      ]
+    },
+    {
+      "name": "SWEET DREAMS FUNK",
+      "year": "2024",
+      "release_date": "2024-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/23/79/742379b5-33f1-dacc-b730-456fde5a407d/7316477440601.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SWEET DREAMS FUNK",
+          "duration": "1:39"
+        },
+        {
+          "number": 2,
+          "name": "SWEET DREAMS FUNK (Slowed)",
+          "duration": "1:57"
+        },
+        {
+          "number": 3,
+          "name": "SWEET DREAMS FUNK (Sped Up)",
+          "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "CALL ME!",
+      "year": "2024",
+      "release_date": "2024-10-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/8a/0c/348a0c60-3511-43b8-d684-9c93ff3ba37c/1963622471483_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CALL ME!",
+          "duration": "1:25"
+        }
+      ]
     }
   ],
   "eps": [
     {
-      "name": "Energia Cósmica",
-      "year": "2024",
-      "release_date": "2024-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/72/bd/2772bde5-e239-1a79-168c-5ddd080661c0/198846638706.jpg/600x600bb.jpg",
+      "name": "MONTAGEM NOITE INSANA",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/a0/77/75a07728-67f7-6f1e-e2cf-85e34659d86f/1963624569249_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Energia Cósmica",
-          "duration": "2:14"
+          "name": "MONTAGEM NOITE INSANA",
+          "duration": "2:11"
         },
         {
           "number": 2,
-          "name": "Energia Cósmica (Slowed)",
-          "duration": "2:31"
+          "name": "MONTAGEM NOITE INSANA (SLOWED)",
+          "duration": "1:22"
         },
         {
           "number": 3,
-          "name": "Energia Cósmica (Super Slowed)",
-          "duration": "2:49"
+          "name": "MONTAGEM NOITE INSANA (SUPER SLOWED",
+          "duration": "1:32"
         },
         {
           "number": 4,
-          "name": "Energia Cósmica (Sped Up)",
+          "name": "MONTAGEM NOITE INSANA (ULTRA SLOWED)",
+          "duration": "1:44"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM NOITE INSANA (EXTREMELY SLOWED)",
+          "duration": "1:56"
+        },
+        {
+          "number": 6,
+          "name": "MONTAGEM NOITE INSANA (SPED UP)",
+          "duration": "1:05"
+        }
+      ]
+    },
+    {
+      "name": "PASSA NÃO PASSA",
+      "year": "2025",
+      "release_date": "2025-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/7e/00/ea7e0020-68a3-e84a-1d45-86a938463cce/70750.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PASSA NÃO PASSA",
+          "duration": "1:18"
+        },
+        {
+          "number": 2,
+          "name": "PASSA NÃO PASSA (Slowed)",
+          "duration": "1:23"
+        },
+        {
+          "number": 3,
+          "name": "PASSA NÃO PASSA (Super Slowed)",
+          "duration": "1:28"
+        },
+        {
+          "number": 4,
+          "name": "PASSA NÃO PASSA (Ultra Slowed)",
+          "duration": "1:33"
+        },
+        {
+          "number": 5,
+          "name": "PASSA NÃO PASSA (Sped Up)",
+          "duration": "1:14"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM ZENTINO",
+      "year": "2025",
+      "release_date": "2025-08-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/2b/eb/662beb28-32f3-f241-0bca-7f6b74ea492d/1043384.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM ZENTINO",
+          "duration": "1:35"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM ZENTINO (Slowed)",
+          "duration": "1:47"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM ZENTINO (Super Slowed)",
           "duration": "2:00"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM ZENTINO (Ultra Slowed)",
+          "duration": "2:15"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM ZENTINO (Sped Up)",
+          "duration": "1:25"
+        }
+      ]
+    },
+    {
+      "name": "PASSA NÃO PASSA",
+      "year": "2025",
+      "release_date": "2025-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/90/17/539017e2-a9b1-b52e-cbca-c4118a7126a4/1045485.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PASSA NÃO PASSA",
+          "duration": "1:18"
+        },
+        {
+          "number": 2,
+          "name": "PASSA NÃO PASSA (Slowed)",
+          "duration": "1:23"
+        },
+        {
+          "number": 3,
+          "name": "PASSA NÃO PASSA (Super Slowed)",
+          "duration": "1:28"
+        },
+        {
+          "number": 4,
+          "name": "PASSA NÃO PASSA (Ultra Slowed)",
+          "duration": "1:33"
+        },
+        {
+          "number": 5,
+          "name": "PASSA NÃO PASSA (Sped Up)",
+          "duration": "1:14"
+        }
+      ]
+    },
+    {
+      "name": "TR1AD",
+      "year": "2025",
+      "release_date": "2025-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/8d/df/d28ddf6a-b8b6-7a85-8e26-a94b3527fbdd/89554.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TR1AD",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "TR1AD (Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 3,
+          "name": "TR1AD (Super Slowed)",
+          "duration": "2:15"
+        },
+        {
+          "number": 4,
+          "name": "TR1AD (Ultra Slowed)",
+          "duration": "2:32"
+        },
+        {
+          "number": 5,
+          "name": "TR1AD (Sped Up)",
+          "duration": "1:35"
+        }
+      ]
+    },
+    {
+      "name": "Montagem Radiant",
+      "year": "2025",
+      "release_date": "2025-02-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/e4/0f/87e40f50-21c5-1fa7-d617-63bdf3749324/663918058299.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem Radiant",
+          "duration": "1:36"
+        },
+        {
+          "number": 2,
+          "name": "Montagem Radiant (Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "Montagem Radiant (Super Slowed)",
+          "duration": "1:47"
+        },
+        {
+          "number": 4,
+          "name": "Montagem Radiant (Ultra Slowed)",
+          "duration": "1:54"
+        },
+        {
+          "number": 5,
+          "name": "Montagem Radiant (Hyper Slowed)",
+          "duration": "2:08"
+        },
+        {
+          "number": 6,
+          "name": "Montagem Radiant (Sped Up)",
+          "duration": "1:30"
+        }
+      ]
+    },
+    {
+      "name": "FICA LOUCA",
+      "year": "2025",
+      "release_date": "2025-07-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/48/06/ef480645-876b-45fd-ee45-041f7137833a/2196496.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FICA LOUCA",
+          "duration": "1:14"
+        },
+        {
+          "number": 2,
+          "name": "FICA LOUCA (Slowed)",
+          "duration": "1:23"
+        },
+        {
+          "number": 3,
+          "name": "FICA LOUCA (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "FICA LOUCA (Sped Up)",
+          "duration": "1:06"
+        }
+      ]
+    },
+    {
+      "name": "Bubbletekk",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/d8/fa/b3d8fa07-6799-1137-fa6a-3cb3f1dd6986/8721026070847_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bubblegum Bitch",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "Bubblegum Bitch (Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 3,
+          "name": "Bubblegum Bitch (Super Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 4,
+          "name": "Bubblegum Bitch (Ultra Slowed)",
+          "duration": "1:58"
+        },
+        {
+          "number": 5,
+          "name": "Bubblegum Bitch (Sped Up)",
+          "duration": "1:14"
+        }
+      ]
+    },
+    {
+      "name": "Montagem Pesar",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/85/7d/58857de2-314c-8c3e-99f9-67b7dc6f5cb1/038557305323.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem Pesar",
+          "duration": "2:10"
+        },
+        {
+          "number": 2,
+          "name": "Montagem Pesar (Slowed)",
+          "duration": "2:38"
+        },
+        {
+          "number": 3,
+          "name": "Montagem Pesar (Ultra Slowed)",
+          "duration": "2:50"
+        },
+        {
+          "number": 4,
+          "name": "Montagem Pesar (Sped Up)",
+          "duration": "1:57"
+        }
+      ]
+    },
+    {
+      "name": "TRABALHO",
+      "year": "2025",
+      "release_date": "2025-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/53/8f/cf538f0b-e13a-95f2-3098-42fa0571035d/132797.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TRABALHO",
+          "duration": "1:14"
+        },
+        {
+          "number": 2,
+          "name": "TRABALHO (Slowed)",
+          "duration": "1:23"
+        },
+        {
+          "number": 3,
+          "name": "TRABALHO (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "TRABALHO (Ultra Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 5,
+          "name": "TRABALHO (Sped Up)",
+          "duration": "1:06"
+        }
+      ]
+    },
+    {
+      "name": "smeric",
+      "year": "2024",
+      "release_date": "2024-12-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/1f/f3/541ff326-6386-b57e-e200-81aeaaf85917/1963622773518_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "smeric",
+          "duration": "1:09"
+        },
+        {
+          "number": 2,
+          "name": "smeric - slowed",
+          "duration": "1:17"
+        },
+        {
+          "number": 3,
+          "name": "smeric - sped up",
+          "duration": "1:01"
+        },
+        {
+          "number": 4,
+          "name": "smeric - super slowed",
+          "duration": "1:26"
+        }
+      ]
+    },
+    {
+      "name": "Montagem Hyperion",
+      "year": "2025",
+      "release_date": "2025-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/ef/72/b0ef728e-96ea-b8aa-12af-05fcf2230695/038557587323.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem Hyperion",
+          "duration": "1:17"
+        },
+        {
+          "number": 2,
+          "name": "Montagem Hyperion (Slowed)",
+          "duration": "1:29"
+        },
+        {
+          "number": 3,
+          "name": "Montagem Hyperion (Super Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 4,
+          "name": "Montagem Hyperion (Ultra Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 5,
+          "name": "Montagem Hyperion (Sped Up)",
+          "duration": "1:10"
+        }
+      ]
+    },
+    {
+      "name": "Tr1ad",
+      "year": "2025",
+      "release_date": "2025-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/e9/a4/53e9a4c8-a441-2f3c-7de2-e973facbdc37/4262558470674.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tr1ad",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "Tr1ad (Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 3,
+          "name": "Tr1ad (Super Slowed)",
+          "duration": "2:15"
+        },
+        {
+          "number": 4,
+          "name": "Tr1ad (Ultra Slowed)",
+          "duration": "2:32"
+        },
+        {
+          "number": 5,
+          "name": "Tr1ad (Sped Up)",
+          "duration": "1:35"
+        }
+      ]
+    },
+    {
+      "name": "Fica Louca",
+      "year": "2025",
+      "release_date": "2025-07-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/42/3b/da423b3b-afa6-15fe-810c-0731034be4fd/682106318137.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fica Louca",
+          "duration": "1:14"
+        },
+        {
+          "number": 2,
+          "name": "Fica Louca (Slowed)",
+          "duration": "1:23"
+        },
+        {
+          "number": 3,
+          "name": "Fica Louca (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "Fica Louca (Sped Up)",
+          "duration": "1:06"
         }
       ]
     },
@@ -283,6 +730,34 @@
           "number": 4,
           "name": "MINHA MAE (Sped Up)",
           "duration": "1:14"
+        }
+      ]
+    },
+    {
+      "name": "Energia Cósmica",
+      "year": "2024",
+      "release_date": "2024-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/72/bd/2772bde5-e239-1a79-168c-5ddd080661c0/198846638706.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Energia Cósmica",
+          "duration": "2:14"
+        },
+        {
+          "number": 2,
+          "name": "Energia Cósmica (Slowed)",
+          "duration": "2:31"
+        },
+        {
+          "number": 3,
+          "name": "Energia Cósmica (Super Slowed)",
+          "duration": "2:49"
+        },
+        {
+          "number": 4,
+          "name": "Energia Cósmica (Sped Up)",
+          "duration": "2:00"
         }
       ]
     },
@@ -343,67 +818,6 @@
       ]
     },
     {
-      "name": "PASSA NÃO PASSA",
-      "year": "2025",
-      "release_date": "2025-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/7e/00/ea7e0020-68a3-e84a-1d45-86a938463cce/70750.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PASSA NÃO PASSA",
-          "duration": "1:18"
-        },
-        {
-          "number": 2,
-          "name": "PASSA NÃO PASSA (Slowed)",
-          "duration": "1:23"
-        },
-        {
-          "number": 3,
-          "name": "PASSA NÃO PASSA (Super Slowed)",
-          "duration": "1:28"
-        },
-        {
-          "number": 4,
-          "name": "PASSA NÃO PASSA (Ultra Slowed)",
-          "duration": "1:33"
-        },
-        {
-          "number": 5,
-          "name": "PASSA NÃO PASSA (Sped Up)",
-          "duration": "1:14"
-        }
-      ]
-    },
-    {
-      "name": "powerfull404.mp3",
-      "year": "2025",
-      "release_date": "2025-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/8e/e0/008ee0f9-8603-bc72-3a5c-c0ce6b99ff74/199350512025.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "powerfull404.mp3",
-          "duration": "1:37"
-        },
-        {
-          "number": 2,
-          "name": "powerfull404.mp3 (Slowed)",
-          "duration": "1:48"
-        },
-        {
-          "number": 3,
-          "name": "powerfull404.mp3 (Super Slowed)",
-          "duration": "2:02"
-        },
-        {
-          "number": 4,
-          "name": "powerfull404.mp3 (Ultra Slowed)",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM DREAMCORE",
       "year": "2026",
       "release_date": "2026-03-13",
@@ -433,6 +847,34 @@
           "number": 5,
           "name": "MONTAGEM DREAMCORE (SPED UP)",
           "duration": "1:26"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM PESAR",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/3c/1b/303c1bf7-d879-f396-6cee-0cacac83391d/2122321.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM PESAR",
+          "duration": "2:10"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM PESAR (Slowed)",
+          "duration": "2:38"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM PESAR (Ultra Slowed)",
+          "duration": "2:50"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM PESAR (Sped Up)",
+          "duration": "1:57"
         }
       ]
     },
@@ -597,44 +1039,6 @@
       ]
     },
     {
-      "name": "Montagem Radiant",
-      "year": "2025",
-      "release_date": "2025-02-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/e4/0f/87e40f50-21c5-1fa7-d617-63bdf3749324/663918058299.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Radiant",
-          "duration": "1:36"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Radiant (Slowed)",
-          "duration": "1:41"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Radiant (Super Slowed)",
-          "duration": "1:47"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Radiant (Ultra Slowed)",
-          "duration": "1:54"
-        },
-        {
-          "number": 5,
-          "name": "Montagem Radiant (Hyper Slowed)",
-          "duration": "2:08"
-        },
-        {
-          "number": 6,
-          "name": "Montagem Radiant (Sped Up)",
-          "duration": "1:30"
-        }
-      ]
-    },
-    {
       "name": "I Kissed A Girl (Hardtekk)",
       "year": "2026",
       "release_date": "2026-01-16",
@@ -697,67 +1101,6 @@
           "number": 5,
           "name": "Childishly Eyes Funk (Sped Up)",
           "duration": "0:47"
-        }
-      ]
-    },
-    {
-      "name": "Bubbletekk",
-      "year": "2026",
-      "release_date": "2026-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/d8/fa/b3d8fa07-6799-1137-fa6a-3cb3f1dd6986/8721026070847_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bubblegum Bitch",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "Bubblegum Bitch (Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 3,
-          "name": "Bubblegum Bitch (Super Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 4,
-          "name": "Bubblegum Bitch (Ultra Slowed)",
-          "duration": "1:58"
-        },
-        {
-          "number": 5,
-          "name": "Bubblegum Bitch (Sped Up)",
-          "duration": "1:14"
-        }
-      ]
-    },
-    {
-      "name": "Montagem Pesar",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/85/7d/58857de2-314c-8c3e-99f9-67b7dc6f5cb1/038557305323.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Pesar",
-          "duration": "2:10"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Pesar (Slowed)",
-          "duration": "2:38"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Pesar (Ultra Slowed)",
-          "duration": "2:50"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Pesar (Sped Up)",
-          "duration": "1:57"
         }
       ]
     },
@@ -828,6 +1171,67 @@
       ]
     },
     {
+      "name": "MONTAGEM HYPERION",
+      "year": "2025",
+      "release_date": "2025-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/38/ab/0638abc5-5d63-b26d-ccb2-cb14819cfbc4/1043453.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM HYPERION",
+          "duration": "1:17"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM HYPERION (Slowed)",
+          "duration": "1:29"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM HYPERION (Super Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM HYPERION (Ultra Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM HYPERION (Sped Up)",
+          "duration": "1:10"
+        }
+      ]
+    },
+    {
+      "name": "obscura_99",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/dc/aa/37dcaa74-0b26-42a0-6016-d071bbb0a31c/467545.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "obscura_99",
+          "duration": "1:36"
+        },
+        {
+          "number": 2,
+          "name": "obscura_99 (Slowed)",
+          "duration": "1:47"
+        },
+        {
+          "number": 3,
+          "name": "obscura_99 (Super Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 4,
+          "name": "obscura_99 (Ultra Slowed)",
+          "duration": "2:15"
+        }
+      ]
+    },
+    {
       "name": "BALKANICCADO FUNK",
       "year": "2025",
       "release_date": "2025-03-21",
@@ -861,63 +1265,35 @@
       ]
     },
     {
-      "name": "smeric",
-      "year": "2024",
-      "release_date": "2024-12-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/1f/f3/541ff326-6386-b57e-e200-81aeaaf85917/1963622773518_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "smeric",
-          "duration": "1:09"
-        },
-        {
-          "number": 2,
-          "name": "smeric - slowed",
-          "duration": "1:17"
-        },
-        {
-          "number": 3,
-          "name": "smeric - sped up",
-          "duration": "1:01"
-        },
-        {
-          "number": 4,
-          "name": "smeric - super slowed",
-          "duration": "1:26"
-        }
-      ]
-    },
-    {
-      "name": "Montagem Hyperion",
+      "name": "GHK-CU",
       "year": "2025",
-      "release_date": "2025-08-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/ef/72/b0ef728e-96ea-b8aa-12af-05fcf2230695/038557587323.png/600x600bb.jpg",
+      "release_date": "2025-12-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/14/7f/0c147f73-9a39-fe5e-20b4-0f022e7d51ab/2714795.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Montagem Hyperion",
-          "duration": "1:17"
+          "name": "GHK-CU",
+          "duration": "1:56"
         },
         {
           "number": 2,
-          "name": "Montagem Hyperion (Slowed)",
-          "duration": "1:29"
+          "name": "GHK-CU (Slowed)",
+          "duration": "2:11"
         },
         {
           "number": 3,
-          "name": "Montagem Hyperion (Super Slowed)",
-          "duration": "1:41"
+          "name": "GHK-CU (Super Slowed)",
+          "duration": "2:27"
         },
         {
           "number": 4,
-          "name": "Montagem Hyperion (Ultra Slowed)",
-          "duration": "1:49"
+          "name": "GHK-CU (Slowed to Perfection)",
+          "duration": "2:45"
         },
         {
           "number": 5,
-          "name": "Montagem Hyperion (Sped Up)",
-          "duration": "1:10"
+          "name": "GHK-CU (Sped Up)",
+          "duration": "1:44"
         }
       ]
     },
@@ -1016,63 +1392,35 @@
       ]
     },
     {
-      "name": "Tr1ad",
+      "name": "CHILDISHLY EYES FUNK",
       "year": "2025",
-      "release_date": "2025-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/e9/a4/53e9a4c8-a441-2f3c-7de2-e973facbdc37/4262558470674.png/600x600bb.jpg",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/4f/55/174f55df-8e74-2a71-fa6e-f2b9b61f2d3e/86291.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Tr1ad",
-          "duration": "1:47"
+          "name": "CHILDISHLY EYES FUNK",
+          "duration": "0:51"
         },
         {
           "number": 2,
-          "name": "Tr1ad (Slowed)",
-          "duration": "2:00"
+          "name": "CHILDISHLY EYES FUNK (Slowed)",
+          "duration": "0:55"
         },
         {
           "number": 3,
-          "name": "Tr1ad (Super Slowed)",
-          "duration": "2:15"
+          "name": "CHILDISHLY EYES FUNK (Super Slowed)",
+          "duration": "1:07"
         },
         {
           "number": 4,
-          "name": "Tr1ad (Ultra Slowed)",
-          "duration": "2:32"
+          "name": "CHILDISHLY EYES FUNK (Ultra Slowed)",
+          "duration": "1:15"
         },
         {
           "number": 5,
-          "name": "Tr1ad (Sped Up)",
-          "duration": "1:35"
-        }
-      ]
-    },
-    {
-      "name": "Fica Louca",
-      "year": "2025",
-      "release_date": "2025-07-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/42/3b/da423b3b-afa6-15fe-810c-0731034be4fd/682106318137.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fica Louca",
-          "duration": "1:14"
-        },
-        {
-          "number": 2,
-          "name": "Fica Louca (Slowed)",
-          "duration": "1:23"
-        },
-        {
-          "number": 3,
-          "name": "Fica Louca (Super Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "Fica Louca (Sped Up)",
-          "duration": "1:06"
+          "name": "CHILDISHLY EYES FUNK (Sped Up)",
+          "duration": "0:47"
         }
       ]
     },

@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Black Heart",
-      "year": "2025",
-      "release_date": "2025-07-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0e/9e/3d0e9e8d-7038-c0f3-a4b0-15de9de38b9e/3114.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Black Heart",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
       "name": "Enemy",
       "year": "2022",
       "release_date": "2022-10-21",
@@ -56,6 +43,19 @@
       ]
     },
     {
+      "name": "Black Heart",
+      "year": "2025",
+      "release_date": "2025-07-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0e/9e/3d0e9e8d-7038-c0f3-a4b0-15de9de38b9e/3114.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Black Heart",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
       "name": "Body Bag",
       "year": "2025",
       "release_date": "2025-03-06",
@@ -69,32 +69,6 @@
       ]
     },
     {
-      "name": "Photograph",
-      "year": "2022",
-      "release_date": "2022-08-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c0/f3/3c/c0f33cb4-2b19-0491-6539-25458e2a7380/61774.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Photograph",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
-      "name": "Suffering",
-      "year": "2023",
-      "release_date": "2023-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/90/eb/a490eb7e-ffdc-82d9-379e-fd4420987ef4/2261.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Suffering",
-          "duration": "4:01"
-        }
-      ]
-    },
-    {
       "name": "Taste",
       "year": "2026",
       "release_date": "2026-02-05",
@@ -104,6 +78,19 @@
           "number": 1,
           "name": "Taste",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "Photograph",
+      "year": "2022",
+      "release_date": "2022-08-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c0/f3/3c/c0f33cb4-2b19-0491-6539-25458e2a7380/61774.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Photograph",
+          "duration": "3:24"
         }
       ]
     },
@@ -147,6 +134,32 @@
       ]
     },
     {
+      "name": "Suffering",
+      "year": "2023",
+      "release_date": "2023-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/90/eb/a490eb7e-ffdc-82d9-379e-fd4420987ef4/2261.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Suffering",
+          "duration": "4:01"
+        }
+      ]
+    },
+    {
+      "name": "Bad Guy",
+      "year": "2026",
+      "release_date": "2026-04-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/aa/e0/2daae0e4-43fa-2570-da7f-f283f8578862/3352.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bad Guy",
+          "duration": "3:47"
+        }
+      ]
+    },
+    {
       "name": "This Is The End",
       "year": "2025",
       "release_date": "2025-11-12",
@@ -173,19 +186,6 @@
       ]
     },
     {
-      "name": "Bad Guy",
-      "year": "2026",
-      "release_date": "2026-04-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/aa/e0/2daae0e4-43fa-2570-da7f-f283f8578862/3352.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bad Guy",
-          "duration": "3:47"
-        }
-      ]
-    },
-    {
       "name": "Fool and The Beggar (Acoustic)",
       "year": "2024",
       "release_date": "2024-11-15",
@@ -199,19 +199,6 @@
       ]
     },
     {
-      "name": "24Seven (feat. Melrose Avenue)",
-      "year": "2025",
-      "release_date": "2025-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/8d/32/6e8d325e-8d39-69a9-f1ed-f5fc3b4a2b41/2421.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "24Seven (feat. Melrose Avenue)",
-          "duration": "2:55"
-        }
-      ]
-    },
-    {
       "name": "All I Want for Christmas Is You",
       "year": "2022",
       "release_date": "2022-12-16",
@@ -221,6 +208,19 @@
           "number": 1,
           "name": "All I Want for Christmas Is You",
           "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "24Seven (feat. Melrose Avenue)",
+      "year": "2025",
+      "release_date": "2025-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/8d/32/6e8d325e-8d39-69a9-f1ed-f5fc3b4a2b41/2421.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "24Seven (feat. Melrose Avenue)",
+          "duration": "2:55"
         }
       ]
     },

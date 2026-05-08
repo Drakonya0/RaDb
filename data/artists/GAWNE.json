@@ -3,99 +3,6 @@
   "id": 273338316,
   "albums": [
     {
-      "name": "Ghosts",
-      "year": "2022",
-      "release_date": "2022-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e2/50/d1/e250d1a8-a313-0b77-e7aa-1a89daec87ec/ebfd5b90-4432-4fae-823b-0a3eb5e74365.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ghosts",
-          "duration": "2:01"
-        },
-        {
-          "number": 2,
-          "name": "Miami",
-          "duration": "2:29"
-        },
-        {
-          "number": 3,
-          "name": "Scars",
-          "duration": "3:24"
-        },
-        {
-          "number": 4,
-          "name": "Drowning",
-          "duration": "2:40"
-        },
-        {
-          "number": 5,
-          "name": "Till the End",
-          "duration": "2:46"
-        },
-        {
-          "number": 6,
-          "name": "Bad Dreams",
-          "duration": "2:21"
-        },
-        {
-          "number": 7,
-          "name": "Lies",
-          "duration": "2:55"
-        },
-        {
-          "number": 8,
-          "name": "Bully",
-          "duration": "2:24"
-        },
-        {
-          "number": 9,
-          "name": "Ghost Town",
-          "duration": "2:33"
-        },
-        {
-          "number": 10,
-          "name": "Hollow",
-          "duration": "3:00"
-        },
-        {
-          "number": 11,
-          "name": "The Last of Us",
-          "duration": "2:39"
-        },
-        {
-          "number": 12,
-          "name": "Leave Me Alone (feat. Liv)",
-          "duration": "2:58"
-        },
-        {
-          "number": 13,
-          "name": "Dark Knight",
-          "duration": "2:41"
-        },
-        {
-          "number": 14,
-          "name": "Die For You",
-          "duration": "2:15"
-        },
-        {
-          "number": 15,
-          "name": "Bad Santa",
-          "duration": "2:54"
-        },
-        {
-          "number": 16,
-          "name": "Lost (feat. Liv)",
-          "duration": "3:02"
-        },
-        {
-          "number": 17,
-          "name": "When I'm Gone",
-          "duration": "1:22"
-        }
-      ]
-    },
-    {
       "name": "Eternal",
       "year": "2020",
       "release_date": "2020-11-09",
@@ -283,6 +190,99 @@
           "number": 16,
           "name": "Rise (Solo Version)",
           "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Ghosts",
+      "year": "2022",
+      "release_date": "2022-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e2/50/d1/e250d1a8-a313-0b77-e7aa-1a89daec87ec/ebfd5b90-4432-4fae-823b-0a3eb5e74365.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ghosts",
+          "duration": "2:01"
+        },
+        {
+          "number": 2,
+          "name": "Miami",
+          "duration": "2:29"
+        },
+        {
+          "number": 3,
+          "name": "Scars",
+          "duration": "3:24"
+        },
+        {
+          "number": 4,
+          "name": "Drowning",
+          "duration": "2:40"
+        },
+        {
+          "number": 5,
+          "name": "Till the End",
+          "duration": "2:46"
+        },
+        {
+          "number": 6,
+          "name": "Bad Dreams",
+          "duration": "2:21"
+        },
+        {
+          "number": 7,
+          "name": "Lies",
+          "duration": "2:55"
+        },
+        {
+          "number": 8,
+          "name": "Bully",
+          "duration": "2:24"
+        },
+        {
+          "number": 9,
+          "name": "Ghost Town",
+          "duration": "2:33"
+        },
+        {
+          "number": 10,
+          "name": "Hollow",
+          "duration": "3:00"
+        },
+        {
+          "number": 11,
+          "name": "The Last of Us",
+          "duration": "2:39"
+        },
+        {
+          "number": 12,
+          "name": "Leave Me Alone (feat. Liv)",
+          "duration": "2:58"
+        },
+        {
+          "number": 13,
+          "name": "Dark Knight",
+          "duration": "2:41"
+        },
+        {
+          "number": 14,
+          "name": "Die For You",
+          "duration": "2:15"
+        },
+        {
+          "number": 15,
+          "name": "Bad Santa",
+          "duration": "2:54"
+        },
+        {
+          "number": 16,
+          "name": "Lost (feat. Liv)",
+          "duration": "3:02"
+        },
+        {
+          "number": 17,
+          "name": "When I'm Gone",
+          "duration": "1:22"
         }
       ]
     },
@@ -775,6 +775,19 @@
   ],
   "singles": [
     {
+      "name": "This Is War",
+      "year": "2021",
+      "release_date": "2021-11-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/aa/b0/88aab0cf-52e7-c06d-0f01-1944ea515794/190296474514_atlustechgawne.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "This Is War",
+          "duration": "3:38"
+        }
+      ]
+    },
+    {
       "name": "Take Me Home",
       "year": "2024",
       "release_date": "2024-11-15",
@@ -788,28 +801,15 @@
       ]
     },
     {
-      "name": "Chopper",
+      "name": "God Damn",
       "year": "2024",
-      "release_date": "2024-03-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/20/b1/9020b1b7-b7bb-b4ad-4bbe-e0bbe6d7c847/7300340463125.jpg/600x600bb.jpg",
+      "release_date": "2024-03-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/70/32/ea/7032eaa3-f1c1-d6a6-c943-d34f426c6b6a/7300340223132.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Chopper",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "This Is War",
-      "year": "2021",
-      "release_date": "2021-11-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/88/aa/b0/88aab0cf-52e7-c06d-0f01-1944ea515794/190296474514_atlustechgawne.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "This Is War",
-          "duration": "3:38"
+          "name": "God Damn",
+          "duration": "3:55"
         }
       ]
     },
@@ -866,6 +866,32 @@
       ]
     },
     {
+      "name": "Outlaw",
+      "year": "2022",
+      "release_date": "2022-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2d/88/8d/2d888df2-0ae9-1a50-5923-8a405ccbac73/c7d9722e-9cdf-4319-afaf-7c19e85a4a97.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Outlaw",
+          "duration": "2:53"
+        }
+      ]
+    },
+    {
+      "name": "Chopper",
+      "year": "2024",
+      "release_date": "2024-03-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/20/b1/9020b1b7-b7bb-b4ad-4bbe-e0bbe6d7c847/7300340463125.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chopper",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
       "name": "In My Bones",
       "year": "2020",
       "release_date": "2020-05-29",
@@ -901,19 +927,6 @@
           "number": 1,
           "name": "Death to Mumble Rap (feat. Mac Lethal, Crypt & Futuristic)",
           "duration": "4:57"
-        }
-      ]
-    },
-    {
-      "name": "God Damn",
-      "year": "2024",
-      "release_date": "2024-03-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/70/32/ea/7032eaa3-f1c1-d6a6-c943-d34f426c6b6a/7300340223132.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "God Damn",
-          "duration": "3:55"
         }
       ]
     },
@@ -1666,19 +1679,6 @@
       ]
     },
     {
-      "name": "Outlaw",
-      "year": "2022",
-      "release_date": "2022-11-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2d/88/8d/2d888df2-0ae9-1a50-5923-8a405ccbac73/c7d9722e-9cdf-4319-afaf-7c19e85a4a97.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Outlaw",
-          "duration": "2:53"
-        }
-      ]
-    },
-    {
       "name": "Leave Me Alone (feat. Liv)",
       "year": "2022",
       "release_date": "2022-04-28",
@@ -1744,19 +1744,6 @@
       ]
     },
     {
-      "name": "Goodbye",
-      "year": "2020",
-      "release_date": "2020-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/05/3d/04/053d04e3-536f-c334-16b0-a028cd9b1538/b82daed2-2e1a-4c0e-a22c-86873c833c65.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Goodbye",
-          "duration": "1:50"
-        }
-      ]
-    },
-    {
       "name": "My Oh My",
       "year": "2024",
       "release_date": "2024-07-26",
@@ -1766,6 +1753,19 @@
           "number": 1,
           "name": "My Oh My",
           "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "Goodbye",
+      "year": "2020",
+      "release_date": "2020-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/05/3d/04/053d04e3-536f-c334-16b0-a028cd9b1538/b82daed2-2e1a-4c0e-a22c-86873c833c65.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Goodbye",
+          "duration": "1:50"
         }
       ]
     },
@@ -1861,19 +1861,6 @@
       ]
     },
     {
-      "name": "Tms",
-      "year": "2021",
-      "release_date": "2021-02-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/03/37/63033706-b2e0-e9c1-b8c9-d6ee5f6ec189/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tms",
-          "duration": "2:37"
-        }
-      ]
-    },
-    {
       "name": "Lord of the Rings (feat. 100 Kufis)",
       "year": "2020",
       "release_date": "2020-10-16",
@@ -1883,6 +1870,19 @@
           "number": 1,
           "name": "Lord of the Rings (feat. 100 Kufis)",
           "duration": "4:03"
+        }
+      ]
+    },
+    {
+      "name": "Tms",
+      "year": "2021",
+      "release_date": "2021-02-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/03/37/63033706-b2e0-e9c1-b8c9-d6ee5f6ec189/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tms",
+          "duration": "2:37"
         }
       ]
     },
@@ -2056,19 +2056,6 @@
       ]
     },
     {
-      "name": "Hello",
-      "year": "2020",
-      "release_date": "2020-03-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b0/35/6b/b0356b61-2cc6-09a1-e7f5-ab7081dd8bcc/9971ba88-658f-4880-aa95-fd74f98fa0e6.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hello",
-          "duration": "2:26"
-        }
-      ]
-    },
-    {
       "name": "World War 3",
       "year": "2020",
       "release_date": "2020-04-17",
@@ -2078,6 +2065,19 @@
           "number": 1,
           "name": "World War 3",
           "duration": "5:55"
+        }
+      ]
+    },
+    {
+      "name": "Hello",
+      "year": "2020",
+      "release_date": "2020-03-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b0/35/6b/b0356b61-2cc6-09a1-e7f5-ab7081dd8bcc/9971ba88-658f-4880-aa95-fd74f98fa0e6.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hello",
+          "duration": "2:26"
         }
       ]
     },
@@ -2234,6 +2234,19 @@
           "number": 1,
           "name": "Don't Lie (feat. GAWNE & 100 Kufis)",
           "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "name": "Overdose",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/01/7c/61017c09-f97d-1dab-245c-e317acd0bae2/823375119135_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Overdose",
+          "duration": "2:35"
         }
       ]
     },
@@ -2433,19 +2446,6 @@
       ]
     },
     {
-      "name": "Beast (feat. GAWNE & Jgriff)",
-      "year": "2021",
-      "release_date": "2021-10-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/f5/84/1cf58482-fac3-a171-e984-091806616668/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Beast (feat. GAWNE & Jgriff)",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
       "name": "End Game",
       "year": "2019",
       "release_date": "2019-08-31",
@@ -2455,6 +2455,19 @@
           "number": 1,
           "name": "End Game",
           "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Beast (feat. GAWNE & Jgriff)",
+      "year": "2021",
+      "release_date": "2021-10-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1c/f5/84/1cf58482-fac3-a171-e984-091806616668/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Beast (feat. GAWNE & Jgriff)",
+          "duration": "3:36"
         }
       ]
     },
@@ -2498,19 +2511,6 @@
       ]
     },
     {
-      "name": "Till the End",
-      "year": "2021",
-      "release_date": "2021-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4f/1b/b5/4f1bb52d-b9b9-c325-d842-9d656f2a72a8/71edacba-0d52-41e6-96f1-aac7a1bc42c3.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Till the End",
-          "duration": "2:46"
-        }
-      ]
-    },
-    {
       "name": "Rescue Me",
       "year": "2023",
       "release_date": "2023-02-03",
@@ -2520,6 +2520,19 @@
           "number": 1,
           "name": "Rescue Me",
           "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "Till the End",
+      "year": "2021",
+      "release_date": "2021-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4f/1b/b5/4f1bb52d-b9b9-c325-d842-9d656f2a72a8/71edacba-0d52-41e6-96f1-aac7a1bc42c3.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Till the End",
+          "duration": "2:46"
         }
       ]
     },

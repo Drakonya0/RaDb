@@ -3,59 +3,6 @@
   "id": 403656812,
   "albums": [
     {
-      "name": "Glory To My King",
-      "year": "2010",
-      "release_date": "2010-12-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/7e/e1/9e/7ee19e10-e536-4c6a-67a3-df601cf47e6b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "See My Commands",
-          "duration": "3:56"
-        },
-        {
-          "number": 2,
-          "name": "Best For me",
-          "duration": "4:11"
-        },
-        {
-          "number": 3,
-          "name": "Glory To My King",
-          "duration": "4:08"
-        },
-        {
-          "number": 4,
-          "name": "Never Look Back",
-          "duration": "3:58"
-        },
-        {
-          "number": 5,
-          "name": "The Final Day",
-          "duration": "5:41"
-        },
-        {
-          "number": 6,
-          "name": "Proud To Wear the Holy Cross",
-          "duration": "6:18"
-        },
-        {
-          "number": 7,
-          "name": "Golden Flames",
-          "duration": "4:47"
-        },
-        {
-          "number": 8,
-          "name": "God's Grand Hotel",
-          "duration": "4:24"
-        },
-        {
-          "number": 9,
-          "name": "My Creation",
-          "duration": "0:46"
-        }
-      ]
-    },
-    {
       "name": "Man With a Mission",
       "year": "2011",
       "release_date": "2011-10-28",
@@ -120,6 +67,59 @@
           "number": 12,
           "name": "The End of the World (Bonus track)",
           "duration": "6:49"
+        }
+      ]
+    },
+    {
+      "name": "Glory To My King",
+      "year": "2010",
+      "release_date": "2010-12-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/7e/e1/9e/7ee19e10-e536-4c6a-67a3-df601cf47e6b/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "See My Commands",
+          "duration": "3:56"
+        },
+        {
+          "number": 2,
+          "name": "Best For me",
+          "duration": "4:11"
+        },
+        {
+          "number": 3,
+          "name": "Glory To My King",
+          "duration": "4:08"
+        },
+        {
+          "number": 4,
+          "name": "Never Look Back",
+          "duration": "3:58"
+        },
+        {
+          "number": 5,
+          "name": "The Final Day",
+          "duration": "5:41"
+        },
+        {
+          "number": 6,
+          "name": "Proud To Wear the Holy Cross",
+          "duration": "6:18"
+        },
+        {
+          "number": 7,
+          "name": "Golden Flames",
+          "duration": "4:47"
+        },
+        {
+          "number": 8,
+          "name": "God's Grand Hotel",
+          "duration": "4:24"
+        },
+        {
+          "number": 9,
+          "name": "My Creation",
+          "duration": "0:46"
         }
       ]
     },

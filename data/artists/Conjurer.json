@@ -3,6 +3,34 @@
   "id": 1313801006,
   "albums": [
     {
+      "name": "Curse These Metal Hands",
+      "year": "2019",
+      "release_date": "2019-08-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3c/ce/29/3cce2918-28ef-5ec7-650d-edce251d7d0d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "High Spirits",
+          "duration": "9:12"
+        },
+        {
+          "number": 2,
+          "name": "The Pall",
+          "duration": "8:52"
+        },
+        {
+          "number": 3,
+          "name": "Endeavour",
+          "duration": "2:21"
+        },
+        {
+          "number": 4,
+          "name": "Sunday",
+          "duration": "10:16"
+        }
+      ]
+    },
+    {
       "name": "Páthos",
       "year": "2022",
       "release_date": "2022-07-01",
@@ -90,34 +118,6 @@
           "number": 7,
           "name": "Hadal",
           "duration": "8:08"
-        }
-      ]
-    },
-    {
-      "name": "Curse These Metal Hands",
-      "year": "2019",
-      "release_date": "2019-08-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3c/ce/29/3cce2918-28ef-5ec7-650d-edce251d7d0d/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "High Spirits",
-          "duration": "9:12"
-        },
-        {
-          "number": 2,
-          "name": "The Pall",
-          "duration": "8:52"
-        },
-        {
-          "number": 3,
-          "name": "Endeavour",
-          "duration": "2:21"
-        },
-        {
-          "number": 4,
-          "name": "Sunday",
-          "duration": "10:16"
         }
       ]
     },

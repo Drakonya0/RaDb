@@ -4,29 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "BAIXO LIMPO",
-      "year": "2026",
-      "release_date": "2026-03-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/47/ad/8a47ad31-0ab9-7177-4c3c-890752172d41/5907983161610.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "BAIXO LIMPO",
-          "duration": "0:53"
-        },
-        {
-          "number": 2,
-          "name": "BAIXO LIMPO (Slowed)",
-          "duration": "1:00"
-        },
-        {
-          "number": 3,
-          "name": "BAIXO LIMPO (Sped Up)",
-          "duration": "0:48"
-        }
-      ]
-    },
-    {
       "name": "hipnosis...",
       "year": "2025",
       "release_date": "2025-07-29",
@@ -46,29 +23,6 @@
           "number": 3,
           "name": "hipnosis... (Sped Up)",
           "duration": "2:01"
-        }
-      ]
-    },
-    {
-      "name": "delayed...",
-      "year": "2025",
-      "release_date": "2025-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/9a/a9/be9aa9ec-e3f8-0ca3-ef4a-720fac9b8d7a/5905271689839.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "delayed...",
-          "duration": "1:32"
-        },
-        {
-          "number": 2,
-          "name": "delayed... (Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 3,
-          "name": "delayed... (Super Slowed)",
-          "duration": "1:50"
         }
       ]
     },
@@ -140,9 +94,182 @@
           "duration": "1:44"
         }
       ]
+    },
+    {
+      "name": "BAIXO LIMPO",
+      "year": "2026",
+      "release_date": "2026-03-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/47/ad/8a47ad31-0ab9-7177-4c3c-890752172d41/5907983161610.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BAIXO LIMPO",
+          "duration": "0:53"
+        },
+        {
+          "number": 2,
+          "name": "BAIXO LIMPO (Slowed)",
+          "duration": "1:00"
+        },
+        {
+          "number": 3,
+          "name": "BAIXO LIMPO (Sped Up)",
+          "duration": "0:48"
+        }
+      ]
+    },
+    {
+      "name": "delayed...",
+      "year": "2025",
+      "release_date": "2025-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/9a/a9/be9aa9ec-e3f8-0ca3-ef4a-720fac9b8d7a/5905271689839.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "delayed...",
+          "duration": "1:32"
+        },
+        {
+          "number": 2,
+          "name": "delayed... (Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 3,
+          "name": "delayed... (Super Slowed)",
+          "duration": "1:50"
+        }
+      ]
     }
   ],
   "eps": [
+    {
+      "name": "SELO REAL",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/6b/6e/226b6e9b-879f-222c-d7c3-6f59dc52d0d6/1376682.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SELO REAL",
+          "duration": "1:06"
+        },
+        {
+          "number": 2,
+          "name": "SELO REAL (Slowed)",
+          "duration": "1:10"
+        },
+        {
+          "number": 3,
+          "name": "SELO REAL (Super Slowed)",
+          "duration": "1:14"
+        },
+        {
+          "number": 4,
+          "name": "SELO REAL (Ultra Slowed)",
+          "duration": "1:23"
+        },
+        {
+          "number": 5,
+          "name": "SELO REAL (Sped Up)",
+          "duration": "1:03"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM LOSER",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/3b/90/893b90fc-8284-bb40-89f7-352b0165d748/820200877154.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM LOSER",
+          "duration": "1:17"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM LOSER (Slowed)",
+          "duration": "1:26"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM LOSER (Sped Up)",
+          "duration": "1:08"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM LOSER (Super Slowed)",
+          "duration": "1:37"
+        }
+      ]
+    },
+    {
+      "name": "Melancolia de Arrepio",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/43/1e/ed431e6e-89b5-ce7c-66a9-298a8bb87f7b/4633.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Melancolia de Arrepio",
+          "duration": "1:31"
+        },
+        {
+          "number": 2,
+          "name": "Melancolia de Arrepio (Sped Up)",
+          "duration": "1:26"
+        },
+        {
+          "number": 3,
+          "name": "Melancolia de Arrepio (Slowed)",
+          "duration": "1:36"
+        },
+        {
+          "number": 4,
+          "name": "Melancolia de Arrepio (Super Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 5,
+          "name": "Melancolia de Arrepio (Ultra Slowed)",
+          "duration": "1:48"
+        },
+        {
+          "number": 6,
+          "name": "Melancolia de Arrepio (Instrumental)",
+          "duration": "1:31"
+        }
+      ]
+    },
+    {
+      "name": "HORSE FUNK",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/cf/f5/03cff5ec-acbd-ef07-bc6f-7852c24bc144/2664657.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HORSE FUNK",
+          "duration": "1:01"
+        },
+        {
+          "number": 2,
+          "name": "HORSE FUNK (Slowed)",
+          "duration": "1:08"
+        },
+        {
+          "number": 3,
+          "name": "HORSE FUNK (Super Slowed)",
+          "duration": "1:17"
+        },
+        {
+          "number": 4,
+          "name": "HORSE FUNK (Ultra Slowed)",
+          "duration": "1:26"
+        }
+      ]
+    },
     {
       "name": "CANDENTE",
       "year": "2026",
@@ -200,30 +327,30 @@
       ]
     },
     {
-      "name": "MONTAGEM LOSER",
+      "name": "HORSE FUNK",
       "year": "2026",
-      "release_date": "2026-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/3b/90/893b90fc-8284-bb40-89f7-352b0165d748/820200877154.jpg/600x600bb.jpg",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/e2/23/42e22391-7b3f-ff86-c1c3-7f3277bfee4a/2664657.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "MONTAGEM LOSER",
-          "duration": "1:17"
+          "name": "HORSE FUNK",
+          "duration": "1:01"
         },
         {
           "number": 2,
-          "name": "MONTAGEM LOSER (Slowed)",
-          "duration": "1:26"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM LOSER (Sped Up)",
+          "name": "HORSE FUNK (Slowed)",
           "duration": "1:08"
         },
         {
+          "number": 3,
+          "name": "HORSE FUNK (Super Slowed)",
+          "duration": "1:17"
+        },
+        {
           "number": 4,
-          "name": "MONTAGEM LOSER (Super Slowed)",
-          "duration": "1:37"
+          "name": "HORSE FUNK (Ultra Slowed)",
+          "duration": "1:26"
         }
       ]
     },
@@ -257,44 +384,6 @@
           "number": 5,
           "name": "AURA IMPERIAL (Sped Up)",
           "duration": "0:59"
-        }
-      ]
-    },
-    {
-      "name": "Melancolia de Arrepio",
-      "year": "2026",
-      "release_date": "2026-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/43/1e/ed431e6e-89b5-ce7c-66a9-298a8bb87f7b/4633.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Melancolia de Arrepio",
-          "duration": "1:31"
-        },
-        {
-          "number": 2,
-          "name": "Melancolia de Arrepio (Sped Up)",
-          "duration": "1:26"
-        },
-        {
-          "number": 3,
-          "name": "Melancolia de Arrepio (Slowed)",
-          "duration": "1:36"
-        },
-        {
-          "number": 4,
-          "name": "Melancolia de Arrepio (Super Slowed)",
-          "duration": "1:42"
-        },
-        {
-          "number": 5,
-          "name": "Melancolia de Arrepio (Ultra Slowed)",
-          "duration": "1:48"
-        },
-        {
-          "number": 6,
-          "name": "Melancolia de Arrepio (Instrumental)",
-          "duration": "1:31"
         }
       ]
     },
@@ -356,34 +445,6 @@
           "number": 5,
           "name": "HALLOWEEN MYSTERY FUNK (Sped Up)",
           "duration": "1:16"
-        }
-      ]
-    },
-    {
-      "name": "HORSE FUNK",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/cf/f5/03cff5ec-acbd-ef07-bc6f-7852c24bc144/2664657.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HORSE FUNK",
-          "duration": "1:01"
-        },
-        {
-          "number": 2,
-          "name": "HORSE FUNK (Slowed)",
-          "duration": "1:08"
-        },
-        {
-          "number": 3,
-          "name": "HORSE FUNK (Super Slowed)",
-          "duration": "1:17"
-        },
-        {
-          "number": 4,
-          "name": "HORSE FUNK (Ultra Slowed)",
-          "duration": "1:26"
         }
       ]
     },

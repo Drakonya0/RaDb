@@ -227,69 +227,6 @@
       ]
     },
     {
-      "name": "Le Vrai Hip Hop (nouvelle édition)",
-      "year": "1997",
-      "release_date": "1997-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/bd/38/69/mzi.nwztmnhv.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rap Contact",
-          "duration": "4:37"
-        },
-        {
-          "number": 2,
-          "name": "Pas L'temps De Jouer",
-          "duration": "4:14"
-        },
-        {
-          "number": 3,
-          "name": "Le Hip-Hop, Mon Royaume",
-          "duration": "3:53"
-        },
-        {
-          "number": 4,
-          "name": "Mike Branché",
-          "duration": "4:26"
-        },
-        {
-          "number": 5,
-          "name": "Nouvel Impact",
-          "duration": "3:22"
-        },
-        {
-          "number": 6,
-          "name": "Les Jeunes De Nos Quartiers",
-          "duration": "4:16"
-        },
-        {
-          "number": 7,
-          "name": "Je Ne Pense Qu'à Toi",
-          "duration": "4:31"
-        },
-        {
-          "number": 8,
-          "name": "Là D'où L'on Vient",
-          "duration": "3:57"
-        },
-        {
-          "number": 9,
-          "name": "A Tous Ceux...",
-          "duration": "3:56"
-        },
-        {
-          "number": 10,
-          "name": "Paris La Nuit",
-          "duration": "4:39"
-        },
-        {
-          "number": 11,
-          "name": "Worldwide (feat. Shyheim)",
-          "duration": "3:37"
-        }
-      ]
-    },
-    {
       "name": "Bogotá Paris (Version française)",
       "year": "2015",
       "release_date": "2015-09-04",
@@ -366,6 +303,69 @@
           "number": 13,
           "name": "Asalto",
           "duration": "4:46"
+        }
+      ]
+    },
+    {
+      "name": "Le Vrai Hip Hop (nouvelle édition)",
+      "year": "1997",
+      "release_date": "1997-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/bd/38/69/mzi.nwztmnhv.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rap Contact",
+          "duration": "4:37"
+        },
+        {
+          "number": 2,
+          "name": "Pas L'temps De Jouer",
+          "duration": "4:14"
+        },
+        {
+          "number": 3,
+          "name": "Le Hip-Hop, Mon Royaume",
+          "duration": "3:53"
+        },
+        {
+          "number": 4,
+          "name": "Mike Branché",
+          "duration": "4:26"
+        },
+        {
+          "number": 5,
+          "name": "Nouvel Impact",
+          "duration": "3:22"
+        },
+        {
+          "number": 6,
+          "name": "Les Jeunes De Nos Quartiers",
+          "duration": "4:16"
+        },
+        {
+          "number": 7,
+          "name": "Je Ne Pense Qu'à Toi",
+          "duration": "4:31"
+        },
+        {
+          "number": 8,
+          "name": "Là D'où L'on Vient",
+          "duration": "3:57"
+        },
+        {
+          "number": 9,
+          "name": "A Tous Ceux...",
+          "duration": "3:56"
+        },
+        {
+          "number": 10,
+          "name": "Paris La Nuit",
+          "duration": "4:39"
+        },
+        {
+          "number": 11,
+          "name": "Worldwide (feat. Shyheim)",
+          "duration": "3:37"
         }
       ]
     },
@@ -541,6 +541,13 @@
       ]
     },
     {
+      "name": "Elevación",
+      "year": "2001",
+      "release_date": "2001-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/4e/64/d04e6462-997a-4ad3-1ba0-c597aeaf3f21/22UMGIM34701.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Amour Suprême",
       "year": "2003",
       "release_date": "2003-01-01",
@@ -617,13 +624,6 @@
           "duration": "5:01"
         }
       ]
-    },
-    {
-      "name": "Elevación",
-      "year": "2001",
-      "release_date": "2001-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/4e/64/d04e6462-997a-4ad3-1ba0-c597aeaf3f21/22UMGIM34701.rgb.jpg/600x600bb.jpg",
-      "tracks": []
     }
   ],
   "singles": [
@@ -917,6 +917,19 @@
           "number": 1,
           "name": "INTEMPORALITÉ",
           "duration": "1:52"
+        }
+      ]
+    },
+    {
+      "name": "I.A",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/87/ee/a687eedc-2470-d744-4e3b-f476fc4ec99d/5400863210960_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I.A",
+          "duration": "3:33"
         }
       ]
     },

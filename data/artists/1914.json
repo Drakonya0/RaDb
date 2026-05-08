@@ -3,60 +3,65 @@
   "id": 1076835062,
   "albums": [
     {
-      "name": "Viribus Unitis",
-      "year": "2025",
-      "release_date": "2025-11-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/6a/35/db6a3579-712e-2de8-b269-e5b2cff9489f/810185193820.jpg/600x600bb.jpg",
+      "name": "The Blind Leading the Blind",
+      "year": "2018",
+      "release_date": "2018-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/9c/29/a59c2913-55a5-eae0-6858-13efeb731b79/840588122547.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "War In (The Beginning of the Fall)",
-          "duration": "1:30"
+          "name": "War In",
+          "duration": "1:14"
         },
         {
           "number": 2,
-          "name": "1914 (The Siege of Przemyśl)",
-          "duration": "4:48"
-        },
-        {
-          "number": 3,
-          "name": "1915 (Easter Battle for the Zwinin Ridge)",
-          "duration": "9:14"
-        },
-        {
-          "number": 4,
-          "name": "1916 (The Südtirol Offensive)",
-          "duration": "6:11"
-        },
-        {
-          "number": 5,
-          "name": "1917 (The Isonzo Front)",
-          "duration": "6:34"
-        },
-        {
-          "number": 6,
-          "name": "1918 Pt 1: WIA (Wounded in Action)",
+          "name": "Arrival. The Meuse-Argonne",
           "duration": "6:20"
         },
         {
+          "number": 3,
+          "name": "A7v Mephisto",
+          "duration": "8:13"
+        },
+        {
+          "number": 4,
+          "name": "High Wood. 75 Acres of Hell",
+          "duration": "5:27"
+        },
+        {
+          "number": 5,
+          "name": "Beat the Bastards",
+          "duration": "5:02"
+        },
+        {
+          "number": 6,
+          "name": "Hanging on the Barbed Wire",
+          "duration": "2:28"
+        },
+        {
           "number": 7,
-          "name": "1918 Pt 2: POW (Prisoner of War) (feat. Christopher Scott)",
-          "duration": "6:13"
+          "name": "Passchenhell",
+          "duration": "7:01"
         },
         {
           "number": 8,
-          "name": "1918 Pt 3: ADE (A duty to escape) (feat. Aaron Stainthorpe)",
-          "duration": "5:50"
+          "name": "C'est Mon Dernier Pigeon",
+          "duration": "5:22"
         },
         {
           "number": 9,
-          "name": "1919 (The Home Where I Died) (feat. Jerome Reuter)",
-          "duration": "7:07"
+          "name": "Stoßtrupp",
+          "duration": "6:13"
         },
         {
           "number": 10,
-          "name": "War Out (The End?)",
-          "duration": "3:11"
+          "name": "The Hundred Days Offensive",
+          "duration": "10:01"
+        },
+        {
+          "number": 11,
+          "name": "War Out",
+          "duration": "1:55"
         }
       ]
     },
@@ -124,65 +129,60 @@
       ]
     },
     {
-      "name": "The Blind Leading the Blind",
-      "year": "2018",
-      "release_date": "2018-11-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/9c/29/a59c2913-55a5-eae0-6858-13efeb731b79/840588122547.jpg/600x600bb.jpg",
+      "name": "Viribus Unitis",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/6a/35/db6a3579-712e-2de8-b269-e5b2cff9489f/810185193820.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "War In",
-          "duration": "1:14"
+          "name": "War In (The Beginning of the Fall)",
+          "duration": "1:30"
         },
         {
           "number": 2,
-          "name": "Arrival. The Meuse-Argonne",
-          "duration": "6:20"
+          "name": "1914 (The Siege of Przemyśl)",
+          "duration": "4:48"
         },
         {
           "number": 3,
-          "name": "A7v Mephisto",
-          "duration": "8:13"
+          "name": "1915 (Easter Battle for the Zwinin Ridge)",
+          "duration": "9:14"
         },
         {
           "number": 4,
-          "name": "High Wood. 75 Acres of Hell",
-          "duration": "5:27"
+          "name": "1916 (The Südtirol Offensive)",
+          "duration": "6:11"
         },
         {
           "number": 5,
-          "name": "Beat the Bastards",
-          "duration": "5:02"
+          "name": "1917 (The Isonzo Front)",
+          "duration": "6:34"
         },
         {
           "number": 6,
-          "name": "Hanging on the Barbed Wire",
-          "duration": "2:28"
+          "name": "1918 Pt 1: WIA (Wounded in Action)",
+          "duration": "6:20"
         },
         {
           "number": 7,
-          "name": "Passchenhell",
-          "duration": "7:01"
-        },
-        {
-          "number": 8,
-          "name": "C'est Mon Dernier Pigeon",
-          "duration": "5:22"
-        },
-        {
-          "number": 9,
-          "name": "Stoßtrupp",
+          "name": "1918 Pt 2: POW (Prisoner of War) (feat. Christopher Scott)",
           "duration": "6:13"
         },
         {
-          "number": 10,
-          "name": "The Hundred Days Offensive",
-          "duration": "10:01"
+          "number": 8,
+          "name": "1918 Pt 3: ADE (A duty to escape) (feat. Aaron Stainthorpe)",
+          "duration": "5:50"
         },
         {
-          "number": 11,
-          "name": "War Out",
-          "duration": "1:55"
+          "number": 9,
+          "name": "1919 (The Home Where I Died) (feat. Jerome Reuter)",
+          "duration": "7:07"
+        },
+        {
+          "number": 10,
+          "name": "War Out (The End?)",
+          "duration": "3:11"
         }
       ]
     },

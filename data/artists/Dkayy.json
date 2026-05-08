@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "Treinamento De Força 2.0",
+      "year": "2024",
+      "release_date": "2024-04-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/33/70/6a3370e2-a628-c72d-e64a-10443691b92d/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Treinamento De Força 2.0",
+          "duration": "2:00"
+        }
+      ]
+    },
+    {
       "name": "BURNOUT",
       "year": "2025",
       "release_date": "2025-05-02",
@@ -23,19 +36,6 @@
           "number": 3,
           "name": "BURNOUT (Super Slowed)",
           "duration": "2:19"
-        }
-      ]
-    },
-    {
-      "name": "Treinamento De Força 2.0",
-      "year": "2024",
-      "release_date": "2024-04-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/33/70/6a3370e2-a628-c72d-e64a-10443691b92d/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Treinamento De Força 2.0",
-          "duration": "2:00"
         }
       ]
     },
@@ -257,6 +257,19 @@
           "number": 3,
           "name": "GET TROLLED! (SPED UP)",
           "duration": "1:30"
+        }
+      ]
+    },
+    {
+      "name": "GLOOM FUNK",
+      "year": "2026",
+      "release_date": "2026-01-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/38/f8/7f38f85f-d76e-363f-f6b5-4d0c23f49add/124494.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "GLOOM FUNK",
+          "duration": "1:24"
         }
       ]
     },
@@ -566,6 +579,34 @@
       ]
     },
     {
+      "name": "SENTAR?",
+      "year": "2025",
+      "release_date": "2025-02-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/c6/3e/a4c63ed3-3c40-5d3c-ad5c-8e06ab36c8c2/5424.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SENTAR?",
+          "duration": "1:15"
+        },
+        {
+          "number": 2,
+          "name": "SENTAR? (Slowed)",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "SENTAR? (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "SENTAR? (Sped Up)",
+          "duration": "1:07"
+        }
+      ]
+    },
+    {
       "name": "FAREWELL",
       "year": "2025",
       "release_date": "2025-08-15",
@@ -599,34 +640,6 @@
       ]
     },
     {
-      "name": "SENTAR?",
-      "year": "2025",
-      "release_date": "2025-02-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/c6/3e/a4c63ed3-3c40-5d3c-ad5c-8e06ab36c8c2/5424.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SENTAR?",
-          "duration": "1:15"
-        },
-        {
-          "number": 2,
-          "name": "SENTAR? (Slowed)",
-          "duration": "1:24"
-        },
-        {
-          "number": 3,
-          "name": "SENTAR? (Super Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "SENTAR? (Sped Up)",
-          "duration": "1:07"
-        }
-      ]
-    },
-    {
       "name": "NAOMI!",
       "year": "2024",
       "release_date": "2024-06-03",
@@ -651,6 +664,34 @@
           "number": 4,
           "name": "NAOMI! (SPED UP)",
           "duration": "1:48"
+        }
+      ]
+    },
+    {
+      "name": "SENTAR?",
+      "year": "2025",
+      "release_date": "2025-02-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/f8/69/c9f869d8-2b7f-ea73-d7d5-3cc50682a5bf/5424.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SENTAR?",
+          "duration": "1:15"
+        },
+        {
+          "number": 2,
+          "name": "SENTAR? (Slowed)",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "SENTAR? (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "SENTAR? (Sped Up)",
+          "duration": "1:07"
         }
       ]
     },

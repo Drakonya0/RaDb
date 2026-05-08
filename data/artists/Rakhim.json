@@ -45,6 +45,19 @@
       ]
     },
     {
+      "name": "Не бойся",
+      "year": "2025",
+      "release_date": "2025-06-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/39/f0/c339f0d3-ea02-5888-1e3a-9441fe061d1e/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Не бойся",
+          "duration": "2:02"
+        }
+      ]
+    },
+    {
       "name": "Fendi",
       "year": "2020",
       "release_date": "2020-07-17",
@@ -80,19 +93,6 @@
           "number": 1,
           "name": "Уйдешь",
           "duration": "2:45"
-        }
-      ]
-    },
-    {
-      "name": "Не бойся",
-      "year": "2025",
-      "release_date": "2025-06-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/39/f0/c339f0d3-ea02-5888-1e3a-9441fe061d1e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Не бойся",
-          "duration": "2:02"
         }
       ]
     },
@@ -628,34 +628,6 @@
   ],
   "eps": [
     {
-      "name": "back",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/67/09/4a67093f-759c-e400-4623-3156710a8d53/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "back",
-          "duration": "1:53"
-        },
-        {
-          "number": 2,
-          "name": "back (Speed Up)",
-          "duration": "1:50"
-        },
-        {
-          "number": 3,
-          "name": "back (Slow)",
-          "duration": "2:00"
-        },
-        {
-          "number": 4,
-          "name": "back (Super Slow)",
-          "duration": "2:04"
-        }
-      ]
-    },
-    {
       "name": "habibi",
       "year": "2026",
       "release_date": "2026-02-27",
@@ -690,6 +662,34 @@
           "number": 6,
           "name": "habibi (Super Slowed Reverb)",
           "duration": "1:40"
+        }
+      ]
+    },
+    {
+      "name": "back",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/67/09/4a67093f-759c-e400-4623-3156710a8d53/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "back",
+          "duration": "1:53"
+        },
+        {
+          "number": 2,
+          "name": "back (Speed Up)",
+          "duration": "1:50"
+        },
+        {
+          "number": 3,
+          "name": "back (Slow)",
+          "duration": "2:00"
+        },
+        {
+          "number": 4,
+          "name": "back (Super Slow)",
+          "duration": "2:04"
         }
       ]
     }

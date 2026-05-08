@@ -76,6 +76,84 @@
       ]
     },
     {
+      "name": "Nirvana",
+      "year": "2002",
+      "release_date": "2002-10-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/58/c2/7b58c21a-2b51-2bb2-e59a-9bb9b96ad8c3/00602567924166.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You Know You're Right",
+          "duration": "3:37"
+        },
+        {
+          "number": 2,
+          "name": "About a Girl",
+          "duration": "2:46"
+        },
+        {
+          "number": 3,
+          "name": "Been a Son (Blew EP Version)",
+          "duration": "2:20"
+        },
+        {
+          "number": 4,
+          "name": "Sliver",
+          "duration": "2:11"
+        },
+        {
+          "number": 5,
+          "name": "Smells Like Teen Spirit",
+          "duration": "5:01"
+        },
+        {
+          "number": 6,
+          "name": "Come As You Are",
+          "duration": "3:39"
+        },
+        {
+          "number": 7,
+          "name": "Lithium",
+          "duration": "4:15"
+        },
+        {
+          "number": 8,
+          "name": "In Bloom (Nevermind Version)",
+          "duration": "4:13"
+        },
+        {
+          "number": 9,
+          "name": "Heart-Shaped Box",
+          "duration": "4:39"
+        },
+        {
+          "number": 10,
+          "name": "Pennyroyal Tea (Scott Litt Remix)",
+          "duration": "3:35"
+        },
+        {
+          "number": 11,
+          "name": "Rape Me",
+          "duration": "2:49"
+        },
+        {
+          "number": 12,
+          "name": "Dumb",
+          "duration": "2:29"
+        },
+        {
+          "number": 13,
+          "name": "All Apologies (Live Acoustic)",
+          "duration": "3:45"
+        },
+        {
+          "number": 14,
+          "name": "The Man Who Sold the World (Live Acoustic)",
+          "duration": "3:47"
+        }
+      ]
+    },
+    {
       "name": "MTV Unplugged In New York (Live Acoustic)",
       "year": "1994",
       "release_date": "1994-11-01",
@@ -283,84 +361,6 @@
           "number": 25,
           "name": "Blew (Live at Pine Street Theatre)",
           "duration": "4:30"
-        }
-      ]
-    },
-    {
-      "name": "Nirvana",
-      "year": "2002",
-      "release_date": "2002-10-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/58/c2/7b58c21a-2b51-2bb2-e59a-9bb9b96ad8c3/00602567924166.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You Know You're Right",
-          "duration": "3:37"
-        },
-        {
-          "number": 2,
-          "name": "About a Girl",
-          "duration": "2:46"
-        },
-        {
-          "number": 3,
-          "name": "Been a Son (Blew EP Version)",
-          "duration": "2:20"
-        },
-        {
-          "number": 4,
-          "name": "Sliver",
-          "duration": "2:11"
-        },
-        {
-          "number": 5,
-          "name": "Smells Like Teen Spirit",
-          "duration": "5:01"
-        },
-        {
-          "number": 6,
-          "name": "Come As You Are",
-          "duration": "3:39"
-        },
-        {
-          "number": 7,
-          "name": "Lithium",
-          "duration": "4:15"
-        },
-        {
-          "number": 8,
-          "name": "In Bloom (Nevermind Version)",
-          "duration": "4:13"
-        },
-        {
-          "number": 9,
-          "name": "Heart-Shaped Box",
-          "duration": "4:39"
-        },
-        {
-          "number": 10,
-          "name": "Pennyroyal Tea (Scott Litt Remix)",
-          "duration": "3:35"
-        },
-        {
-          "number": 11,
-          "name": "Rape Me",
-          "duration": "2:49"
-        },
-        {
-          "number": 12,
-          "name": "Dumb",
-          "duration": "2:29"
-        },
-        {
-          "number": 13,
-          "name": "All Apologies (Live Acoustic)",
-          "duration": "3:45"
-        },
-        {
-          "number": 14,
-          "name": "The Man Who Sold the World (Live Acoustic)",
-          "duration": "3:47"
         }
       ]
     },
@@ -649,6 +649,821 @@
       ]
     },
     {
+      "name": "MTV Unplugged In New York (Live Acoustic) [25th Anniversary Edition]",
+      "year": "1994",
+      "release_date": "1994-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/04/3c/fc/043cfc5c-9553-af0c-c9f5-fe4d9e0ac079/20UM1IM17743.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "About a Girl (Live Acoustic)",
+          "duration": "3:38"
+        },
+        {
+          "number": 2,
+          "name": "Come As You Are (Live Acoustic)",
+          "duration": "4:13"
+        },
+        {
+          "number": 3,
+          "name": "Jesus Doesn't Want Me for a Sunbeam (Live Acoustic)",
+          "duration": "4:37"
+        },
+        {
+          "number": 4,
+          "name": "The Man Who Sold the World (Live Acoustic)",
+          "duration": "4:20"
+        },
+        {
+          "number": 5,
+          "name": "Pennyroyal Tea (Live Acoustic)",
+          "duration": "3:39"
+        },
+        {
+          "number": 6,
+          "name": "Dumb (Live Acoustic)",
+          "duration": "2:54"
+        },
+        {
+          "number": 7,
+          "name": "Polly (Live Acoustic)",
+          "duration": "3:15"
+        },
+        {
+          "number": 8,
+          "name": "On a Plain (Live Acoustic)",
+          "duration": "3:45"
+        },
+        {
+          "number": 9,
+          "name": "Something In the Way (Live Acoustic)",
+          "duration": "4:01"
+        },
+        {
+          "number": 10,
+          "name": "Plateau (Live Acoustic)",
+          "duration": "3:37"
+        },
+        {
+          "number": 11,
+          "name": "Oh Me (Live Acoustic)",
+          "duration": "3:25"
+        },
+        {
+          "number": 12,
+          "name": "Lake of Fire (Live Acoustic)",
+          "duration": "2:56"
+        },
+        {
+          "number": 13,
+          "name": "All Apologies (Live Acoustic)",
+          "duration": "4:22"
+        },
+        {
+          "number": 14,
+          "name": "Where Did You Sleep Last Night (Live Acoustic)",
+          "duration": "5:06"
+        },
+        {
+          "number": 15,
+          "name": "Come As You Are (Rehearsal)",
+          "duration": "4:45"
+        },
+        {
+          "number": 16,
+          "name": "Polly (Rehearsal)",
+          "duration": "4:04"
+        },
+        {
+          "number": 17,
+          "name": "Plateau (Rehearsal)",
+          "duration": "4:40"
+        },
+        {
+          "number": 18,
+          "name": "Pennyroyal Tea (Rehearsal)",
+          "duration": "4:30"
+        },
+        {
+          "number": 19,
+          "name": "The Man Who Sold the World (Rehearsal)",
+          "duration": "4:39"
+        }
+      ]
+    },
+    {
+      "name": "Live at the Paramount",
+      "year": "2019",
+      "release_date": "2019-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4f/f6/1c/4ff61ccc-09ac-b3cd-7fb6-9d347d44676d/00602577329524.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Jesus Doesn't Want Me for a Sunbeam (Live at The Paramount, 1991)",
+          "duration": "3:29"
+        },
+        {
+          "number": 2,
+          "name": "Aneurysm (Live at The Paramount, 1991)",
+          "duration": "4:49"
+        },
+        {
+          "number": 3,
+          "name": "Drain You (Live at The Paramount, 1991)",
+          "duration": "3:46"
+        },
+        {
+          "number": 4,
+          "name": "School (Live at The Paramount, 1991)",
+          "duration": "2:51"
+        },
+        {
+          "number": 5,
+          "name": "Floyd the Barber (Live at The Paramount, 1991)",
+          "duration": "2:27"
+        },
+        {
+          "number": 6,
+          "name": "Smells Like Teen Spirit (Live at The Paramount, 1991)",
+          "duration": "4:45"
+        },
+        {
+          "number": 7,
+          "name": "About a Girl (Live at The Paramount, 1991)",
+          "duration": "3:13"
+        },
+        {
+          "number": 8,
+          "name": "Polly (Live at The Paramount, 1991)",
+          "duration": "3:03"
+        },
+        {
+          "number": 9,
+          "name": "Breed (Live at The Paramount, 1991)",
+          "duration": "3:10"
+        },
+        {
+          "number": 10,
+          "name": "Sliver (Live at The Paramount, 1991)",
+          "duration": "2:11"
+        },
+        {
+          "number": 11,
+          "name": "Love Buzz (Live at The Paramount, 1991)",
+          "duration": "3:34"
+        },
+        {
+          "number": 12,
+          "name": "Lithium (Live at The Paramount, 1991)",
+          "duration": "4:38"
+        },
+        {
+          "number": 13,
+          "name": "Been a Son (Live at The Paramount, 1991)",
+          "duration": "2:15"
+        },
+        {
+          "number": 14,
+          "name": "Negative Creep (Live at The Paramount, 1991)",
+          "duration": "2:43"
+        },
+        {
+          "number": 15,
+          "name": "On a Plain (Live at The Paramount, 1991)",
+          "duration": "3:04"
+        },
+        {
+          "number": 16,
+          "name": "Blew (Live at The Paramount, 1991)",
+          "duration": "4:09"
+        },
+        {
+          "number": 17,
+          "name": "Rape Me (Live at The Paramount, 1991)",
+          "duration": "2:59"
+        },
+        {
+          "number": 18,
+          "name": "Territorial Pissings (Live at The Paramount, 1991)",
+          "duration": "2:55"
+        },
+        {
+          "number": 19,
+          "name": "Endless, Nameless (Live at The Paramount, 1991)",
+          "duration": "6:24"
+        }
+      ]
+    },
+    {
+      "name": "Nevermind (30th Anniversary Super Deluxe)",
+      "year": "1991",
+      "release_date": "1991-09-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/53/5d/5c535d31-9c80-c752-3ea3-887615eb7d51/21UM1IM09416.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Smells Like Teen Spirit (Remastered)",
+          "duration": "5:00"
+        },
+        {
+          "number": 1,
+          "name": "Drain You (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "4:06"
+        },
+        {
+          "number": 1,
+          "name": "Drain You (Live In Del Mar, California, 1991)",
+          "duration": "3:59"
+        },
+        {
+          "number": 1,
+          "name": "Aneurysm (Live In Melbourne, Australia For Triple J, 1992)",
+          "duration": "4:59"
+        },
+        {
+          "number": 2,
+          "name": "In Bloom (Remastered)",
+          "duration": "4:14"
+        },
+        {
+          "number": 2,
+          "name": "Aneurysm (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "4:19"
+        },
+        {
+          "number": 2,
+          "name": "Aneurysm (Live In Del Mar, California, 1991)",
+          "duration": "4:22"
+        },
+        {
+          "number": 2,
+          "name": "Drain You (Live In Melbourne, Australia For Triple J, 1992)",
+          "duration": "3:46"
+        },
+        {
+          "number": 3,
+          "name": "Come As You Are (Remastered)",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "School (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "2:43"
+        },
+        {
+          "number": 3,
+          "name": "School (Live In Del Mar, California, 1991)",
+          "duration": "2:30"
+        },
+        {
+          "number": 3,
+          "name": "School (Live In Melbourne, Australia For Triple J, 1992)",
+          "duration": "2:46"
+        },
+        {
+          "number": 4,
+          "name": "Breed (Remastered)",
+          "duration": "3:03"
+        },
+        {
+          "number": 4,
+          "name": "Floyd The Barber (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "2:58"
+        },
+        {
+          "number": 4,
+          "name": "Floyd The Barber (Live In Del Mar, California, 1991)",
+          "duration": "2:29"
+        },
+        {
+          "number": 4,
+          "name": "Sliver (Live In Melbourne, Australia For Triple J, 1992)",
+          "duration": "2:04"
+        },
+        {
+          "number": 5,
+          "name": "Lithium (Remastered)",
+          "duration": "4:16"
+        },
+        {
+          "number": 5,
+          "name": "Smells Like Teen Spirit (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "4:49"
+        },
+        {
+          "number": 5,
+          "name": "Smells Like Teen Spirit (Live In Del Mar, California, 1991)",
+          "duration": "4:49"
+        },
+        {
+          "number": 5,
+          "name": "About A Girl (Live In Melbourne, Australia For Triple J, 1992)",
+          "duration": "2:54"
+        },
+        {
+          "number": 6,
+          "name": "Polly (Remastered)",
+          "duration": "2:54"
+        },
+        {
+          "number": 6,
+          "name": "About A Girl (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "2:46"
+        },
+        {
+          "number": 6,
+          "name": "About A Girl (Live In Del Mar, California, 1991)",
+          "duration": "2:57"
+        },
+        {
+          "number": 6,
+          "name": "Come As You Are (Live In Melbourne, Australia For Triple J, 1992)",
+          "duration": "3:36"
+        },
+        {
+          "number": 7,
+          "name": "Territorial Pissings (Remastered)",
+          "duration": "2:23"
+        },
+        {
+          "number": 7,
+          "name": "Polly (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "2:49"
+        },
+        {
+          "number": 7,
+          "name": "Polly (Live In Del Mar, California, 1991)",
+          "duration": "2:49"
+        },
+        {
+          "number": 7,
+          "name": "Lithium (Live In Melbourne, Australia For Triple J, 1992)",
+          "duration": "4:47"
+        },
+        {
+          "number": 8,
+          "name": "Drain You (Remastered)",
+          "duration": "3:43"
+        },
+        {
+          "number": 8,
+          "name": "Lithium (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "4:13"
+        },
+        {
+          "number": 8,
+          "name": "Sliver (Live In Del Mar, California, 1991)",
+          "duration": "1:56"
+        },
+        {
+          "number": 8,
+          "name": "Breed (Live In Melbourne, Australia For Triple J, 1992)",
+          "duration": "3:11"
+        },
+        {
+          "number": 9,
+          "name": "Lounge Act (Remastered)",
+          "duration": "2:36"
+        },
+        {
+          "number": 9,
+          "name": "Sliver (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "2:13"
+        },
+        {
+          "number": 9,
+          "name": "Breed (Live In Del Mar, California, 1991)",
+          "duration": "3:10"
+        },
+        {
+          "number": 10,
+          "name": "Stay Away (Remastered)",
+          "duration": "3:31"
+        },
+        {
+          "number": 10,
+          "name": "Breed (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "3:39"
+        },
+        {
+          "number": 10,
+          "name": "Come As You Are (Live In Del Mar, California, 1991)",
+          "duration": "3:35"
+        },
+        {
+          "number": 11,
+          "name": "On A Plain (Remastered)",
+          "duration": "3:14"
+        },
+        {
+          "number": 11,
+          "name": "Come As You Are (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "5:31"
+        },
+        {
+          "number": 11,
+          "name": "Lithium (Live In Del Mar, California, 1991)",
+          "duration": "4:38"
+        },
+        {
+          "number": 12,
+          "name": "Something In The Way (Remastered)",
+          "duration": "3:52"
+        },
+        {
+          "number": 12,
+          "name": "Been A Son (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "2:05"
+        },
+        {
+          "number": 12,
+          "name": "Territorial Pissings (Live In Del Mar, California, 1991)",
+          "duration": "4:13"
+        },
+        {
+          "number": 13,
+          "name": "Endless, Nameless (Remastered)",
+          "duration": "6:43"
+        },
+        {
+          "number": 13,
+          "name": "Negative Creep (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "2:39"
+        },
+        {
+          "number": 14,
+          "name": "On A Plain (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "3:07"
+        },
+        {
+          "number": 15,
+          "name": "Blew (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "3:33"
+        },
+        {
+          "number": 16,
+          "name": "Love Buzz (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "3:27"
+        },
+        {
+          "number": 17,
+          "name": "Territorial Pissings (Live In Amsterdam, Netherlands, 1991)",
+          "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "From the Muddy Banks of the Wishkah (Live)",
+      "year": "1996",
+      "release_date": "1996-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/9b/05/3c9b0528-e8f5-eb09-dad0-4cabfdd3afaa/00720642510520.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro (Live At London Astoria, UK, December 3, 1989)",
+          "duration": "0:52"
+        },
+        {
+          "number": 2,
+          "name": "School (Live In Amsterdam At Paradiso, November 25, 1991)",
+          "duration": "2:40"
+        },
+        {
+          "number": 3,
+          "name": "Drain You (Live At Del Mar Fairgrounds, CA., December 28, 1991)",
+          "duration": "3:34"
+        },
+        {
+          "number": 4,
+          "name": "Aneurysm (Live At Del Mar Fairgrounds, CA., December 28, 1991)",
+          "duration": "4:31"
+        },
+        {
+          "number": 5,
+          "name": "Smells Like Teen Spirit (Live At Del Mar Fairgrounds, CA., December 28, 1991)",
+          "duration": "4:47"
+        },
+        {
+          "number": 6,
+          "name": "Been a Son (Live In Amsterdam At Paradiso, November 25, 1991)",
+          "duration": "2:07"
+        },
+        {
+          "number": 7,
+          "name": "Lithium (Live In Amsterdam At Paradiso, November 25, 1991)",
+          "duration": "4:10"
+        },
+        {
+          "number": 8,
+          "name": "Sliver (Live In Springfield, MA., November 10, 1993)",
+          "duration": "1:55"
+        },
+        {
+          "number": 9,
+          "name": "Spank Thru (Live In Rome, Italy, November 19, 1991)",
+          "duration": "3:10"
+        },
+        {
+          "number": 10,
+          "name": "Scentless Apprentice (Live In Seattle, WA., December 13, 1993)",
+          "duration": "3:31"
+        },
+        {
+          "number": 11,
+          "name": "Heart-Shaped Box (Live In Los Angeles, CA, December 30, 1993)",
+          "duration": "4:41"
+        },
+        {
+          "number": 12,
+          "name": "Milk It (Live In Seattle, WA., January 5, 1994)",
+          "duration": "3:45"
+        },
+        {
+          "number": 13,
+          "name": "Negative Creep (Live In Seattle, WA., October 31, 1991)",
+          "duration": "2:43"
+        },
+        {
+          "number": 14,
+          "name": "Polly (Live At London Astoria, UK, December 3, 1989)",
+          "duration": "2:30"
+        },
+        {
+          "number": 15,
+          "name": "Breed (Live At London Astoria, UK, December 3, 1989)",
+          "duration": "3:28"
+        },
+        {
+          "number": 16,
+          "name": "Tourette's (Live At Reading Festival, UK, August 30, 1992)",
+          "duration": "1:55"
+        },
+        {
+          "number": 17,
+          "name": "Blew (Live In Amsterdam At Paradiso, November 25, 1991)",
+          "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "In Utero (20th Anniversary Super Deluxe Edition)",
+      "year": "1993",
+      "release_date": "1993-09-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/7d/95/b87d95e5-3d3e-9dc8-90a5-6532d57f8674/00602537511648.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Serve the Servants",
+          "duration": "3:37"
+        },
+        {
+          "number": 1,
+          "name": "Serve the Servants (2013 Mix)",
+          "duration": "3:38"
+        },
+        {
+          "number": 1,
+          "name": "Radio Friendly Unit Shifter (Live & Loud)",
+          "duration": "4:30"
+        },
+        {
+          "number": 2,
+          "name": "Scentless Apprentice",
+          "duration": "3:48"
+        },
+        {
+          "number": 2,
+          "name": "Scentless Apprentice (2013 Mix)",
+          "duration": "3:49"
+        },
+        {
+          "number": 2,
+          "name": "Drain You (Live & Loud)",
+          "duration": "3:42"
+        },
+        {
+          "number": 3,
+          "name": "Heart-Shaped Box",
+          "duration": "4:41"
+        },
+        {
+          "number": 3,
+          "name": "Heart-Shaped Box (2013 Mix)",
+          "duration": "4:38"
+        },
+        {
+          "number": 3,
+          "name": "Breed (Live & Loud)",
+          "duration": "3:13"
+        },
+        {
+          "number": 4,
+          "name": "Rape Me",
+          "duration": "2:50"
+        },
+        {
+          "number": 4,
+          "name": "Rape Me (2013 Mix)",
+          "duration": "2:49"
+        },
+        {
+          "number": 4,
+          "name": "Serve the Servants (Live & Loud)",
+          "duration": "3:23"
+        },
+        {
+          "number": 5,
+          "name": "Frances Farmer Will Have Her Revenge On Seattle",
+          "duration": "4:10"
+        },
+        {
+          "number": 5,
+          "name": "Frances Farmer Will Have Her Revenge On Seattle (2013 Mix)",
+          "duration": "4:11"
+        },
+        {
+          "number": 5,
+          "name": "Rape Me (Live & Loud)",
+          "duration": "2:39"
+        },
+        {
+          "number": 6,
+          "name": "Dumb",
+          "duration": "2:31"
+        },
+        {
+          "number": 6,
+          "name": "Dumb (2013 Mix)",
+          "duration": "2:32"
+        },
+        {
+          "number": 6,
+          "name": "Sliver (Live & Loud)",
+          "duration": "2:05"
+        },
+        {
+          "number": 7,
+          "name": "Very Ape",
+          "duration": "1:55"
+        },
+        {
+          "number": 7,
+          "name": "Very Ape (2013 Mix)",
+          "duration": "1:57"
+        },
+        {
+          "number": 7,
+          "name": "Pennyroyal Tea (Live & Loud)",
+          "duration": "3:41"
+        },
+        {
+          "number": 8,
+          "name": "Milk It",
+          "duration": "3:54"
+        },
+        {
+          "number": 8,
+          "name": "Milk It (2013 Mix)",
+          "duration": "3:56"
+        },
+        {
+          "number": 9,
+          "name": "Pennyroyal Tea",
+          "duration": "3:38"
+        },
+        {
+          "number": 9,
+          "name": "Pennyroyal Tea (2013 Mix)",
+          "duration": "3:32"
+        },
+        {
+          "number": 10,
+          "name": "Radio Friendly Unit Shifter",
+          "duration": "4:51"
+        },
+        {
+          "number": 10,
+          "name": "Radio Friendly Unit Shifter (2013 Mix)",
+          "duration": "4:52"
+        },
+        {
+          "number": 11,
+          "name": "Tourette's",
+          "duration": "1:35"
+        },
+        {
+          "number": 11,
+          "name": "Tourette's (2013 Mix)",
+          "duration": "1:36"
+        },
+        {
+          "number": 12,
+          "name": "All Apologies",
+          "duration": "3:56"
+        },
+        {
+          "number": 12,
+          "name": "All Apologies (2013 Mix)",
+          "duration": "3:56"
+        },
+        {
+          "number": 13,
+          "name": "Gallons of Rubbing Alcohol Flow Through the Strip",
+          "duration": "7:34"
+        },
+        {
+          "number": 13,
+          "name": "Scentless Apprentice (Demo)",
+          "duration": "3:52"
+        },
+        {
+          "number": 14,
+          "name": "Marigold (B-Side)",
+          "duration": "2:34"
+        },
+        {
+          "number": 14,
+          "name": "Frances Farmer Will Have Her Revenge On Seattle (Instrumental Demo)",
+          "duration": "4:32"
+        },
+        {
+          "number": 15,
+          "name": "Moist Vagina (2013 Mix)",
+          "duration": "3:33"
+        },
+        {
+          "number": 15,
+          "name": "Dumb (Instrumental Demo)",
+          "duration": "2:38"
+        },
+        {
+          "number": 16,
+          "name": "Sappy (2013 Mix)",
+          "duration": "3:26"
+        },
+        {
+          "number": 16,
+          "name": "Very Ape (Instrumental Demo)",
+          "duration": "2:20"
+        },
+        {
+          "number": 17,
+          "name": "I Hate Myself and Want to Die (2013 Mix)",
+          "duration": "2:59"
+        },
+        {
+          "number": 17,
+          "name": "Pennyroyal Tea (Instrumental Demo)",
+          "duration": "3:31"
+        },
+        {
+          "number": 18,
+          "name": "Pennyroyal Tea (Scott Litt Mix)",
+          "duration": "3:35"
+        },
+        {
+          "number": 18,
+          "name": "Radio Friendly Unit Shifter (Instrumental Demo)",
+          "duration": "2:39"
+        },
+        {
+          "number": 19,
+          "name": "Heart-Shaped Box (Original Steve Albini 1993 Mix)",
+          "duration": "4:41"
+        },
+        {
+          "number": 19,
+          "name": "Tourette's (Instrumental Demo)",
+          "duration": "2:14"
+        },
+        {
+          "number": 20,
+          "name": "All Apologies (Original Steve Albini 1993 Mix)",
+          "duration": "3:52"
+        },
+        {
+          "number": 20,
+          "name": "Marigold (Demo)",
+          "duration": "3:25"
+        },
+        {
+          "number": 21,
+          "name": "All Apologies (Demo)",
+          "duration": "4:24"
+        },
+        {
+          "number": 22,
+          "name": "Forgotten Tune (Instrumental Demo)",
+          "duration": "2:04"
+        },
+        {
+          "number": 23,
+          "name": "Jam (Demo)",
+          "duration": "5:34"
+        }
+      ]
+    },
+    {
       "name": "Live at Reading",
       "year": "2009",
       "release_date": "2009-11-03",
@@ -777,301 +1592,260 @@
       ]
     },
     {
-      "name": "Live at the Paramount",
-      "year": "2019",
-      "release_date": "2019-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4f/f6/1c/4ff61ccc-09ac-b3cd-7fb6-9d347d44676d/00602577329524.rgb.jpg/600x600bb.jpg",
+      "name": "Nevermind (Super Deluxe Edition)",
+      "year": "1991",
+      "release_date": "1991-09-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fc/f9/6e/fcf96ec5-8505-ef9e-0c06-c4fdbb1ed73b/00602527829463.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Jesus Doesn't Want Me for a Sunbeam (Live at The Paramount, 1991)",
-          "duration": "3:29"
+          "name": "Smells Like Teen Spirit",
+          "duration": "5:01"
         },
-        {
-          "number": 2,
-          "name": "Aneurysm (Live at The Paramount, 1991)",
-          "duration": "4:49"
-        },
-        {
-          "number": 3,
-          "name": "Drain You (Live at The Paramount, 1991)",
-          "duration": "3:46"
-        },
-        {
-          "number": 4,
-          "name": "School (Live at The Paramount, 1991)",
-          "duration": "2:51"
-        },
-        {
-          "number": 5,
-          "name": "Floyd the Barber (Live at The Paramount, 1991)",
-          "duration": "2:27"
-        },
-        {
-          "number": 6,
-          "name": "Smells Like Teen Spirit (Live at The Paramount, 1991)",
-          "duration": "4:45"
-        },
-        {
-          "number": 7,
-          "name": "About a Girl (Live at The Paramount, 1991)",
-          "duration": "3:13"
-        },
-        {
-          "number": 8,
-          "name": "Polly (Live at The Paramount, 1991)",
-          "duration": "3:03"
-        },
-        {
-          "number": 9,
-          "name": "Breed (Live at The Paramount, 1991)",
-          "duration": "3:10"
-        },
-        {
-          "number": 10,
-          "name": "Sliver (Live at The Paramount, 1991)",
-          "duration": "2:11"
-        },
-        {
-          "number": 11,
-          "name": "Love Buzz (Live at The Paramount, 1991)",
-          "duration": "3:34"
-        },
-        {
-          "number": 12,
-          "name": "Lithium (Live at The Paramount, 1991)",
-          "duration": "4:38"
-        },
-        {
-          "number": 13,
-          "name": "Been a Son (Live at The Paramount, 1991)",
-          "duration": "2:15"
-        },
-        {
-          "number": 14,
-          "name": "Negative Creep (Live at The Paramount, 1991)",
-          "duration": "2:43"
-        },
-        {
-          "number": 15,
-          "name": "On a Plain (Live at The Paramount, 1991)",
-          "duration": "3:04"
-        },
-        {
-          "number": 16,
-          "name": "Blew (Live at The Paramount, 1991)",
-          "duration": "4:09"
-        },
-        {
-          "number": 17,
-          "name": "Rape Me (Live at The Paramount, 1991)",
-          "duration": "2:59"
-        },
-        {
-          "number": 18,
-          "name": "Territorial Pissings (Live at The Paramount, 1991)",
-          "duration": "2:55"
-        },
-        {
-          "number": 19,
-          "name": "Endless, Nameless (Live at The Paramount, 1991)",
-          "duration": "6:24"
-        }
-      ]
-    },
-    {
-      "name": "MTV Unplugged In New York (Live Acoustic) [25th Anniversary Edition]",
-      "year": "1994",
-      "release_date": "1994-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/04/3c/fc/043cfc5c-9553-af0c-c9f5-fe4d9e0ac079/20UM1IM17743.rgb.jpg/600x600bb.jpg",
-      "tracks": [
         {
           "number": 1,
-          "name": "About a Girl (Live Acoustic)",
-          "duration": "3:38"
-        },
-        {
-          "number": 2,
-          "name": "Come As You Are (Live Acoustic)",
-          "duration": "4:13"
-        },
-        {
-          "number": 3,
-          "name": "Jesus Doesn't Want Me for a Sunbeam (Live Acoustic)",
-          "duration": "4:37"
-        },
-        {
-          "number": 4,
-          "name": "The Man Who Sold the World (Live Acoustic)",
-          "duration": "4:20"
-        },
-        {
-          "number": 5,
-          "name": "Pennyroyal Tea (Live Acoustic)",
-          "duration": "3:39"
-        },
-        {
-          "number": 6,
-          "name": "Dumb (Live Acoustic)",
-          "duration": "2:54"
-        },
-        {
-          "number": 7,
-          "name": "Polly (Live Acoustic)",
-          "duration": "3:15"
-        },
-        {
-          "number": 8,
-          "name": "On a Plain (Live Acoustic)",
-          "duration": "3:45"
-        },
-        {
-          "number": 9,
-          "name": "Something In the Way (Live Acoustic)",
-          "duration": "4:01"
-        },
-        {
-          "number": 10,
-          "name": "Plateau (Live Acoustic)",
-          "duration": "3:37"
-        },
-        {
-          "number": 11,
-          "name": "Oh Me (Live Acoustic)",
-          "duration": "3:25"
-        },
-        {
-          "number": 12,
-          "name": "Lake of Fire (Live Acoustic)",
-          "duration": "2:56"
-        },
-        {
-          "number": 13,
-          "name": "All Apologies (Live Acoustic)",
-          "duration": "4:22"
-        },
-        {
-          "number": 14,
-          "name": "Where Did You Sleep Last Night (Live Acoustic)",
-          "duration": "5:06"
-        },
-        {
-          "number": 15,
-          "name": "Come As You Are (Rehearsal)",
-          "duration": "4:45"
-        },
-        {
-          "number": 16,
-          "name": "Polly (Rehearsal)",
-          "duration": "4:04"
-        },
-        {
-          "number": 17,
-          "name": "Plateau (Rehearsal)",
-          "duration": "4:40"
-        },
-        {
-          "number": 18,
-          "name": "Pennyroyal Tea (Rehearsal)",
+          "name": "In Bloom (Smart Sessions)",
           "duration": "4:30"
         },
         {
-          "number": 19,
-          "name": "The Man Who Sold the World (Rehearsal)",
-          "duration": "4:39"
-        }
-      ]
-    },
-    {
-      "name": "From the Muddy Banks of the Wishkah (Live)",
-      "year": "1996",
-      "release_date": "1996-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/9b/05/3c9b0528-e8f5-eb09-dad0-4cabfdd3afaa/00720642510520.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
           "number": 1,
-          "name": "Intro (Live At London Astoria, UK, December 3, 1989)",
-          "duration": "0:52"
+          "name": "Smells Like Teen Spirit (Devonshire Mix)",
+          "duration": "5:02"
         },
         {
           "number": 2,
-          "name": "School (Live In Amsterdam At Paradiso, November 25, 1991)",
-          "duration": "2:40"
+          "name": "In Bloom",
+          "duration": "4:15"
+        },
+        {
+          "number": 2,
+          "name": "Immodium (Breed) [Smart Sessions]",
+          "duration": "3:13"
+        },
+        {
+          "number": 2,
+          "name": "In Bloom (Devonshire Mix)",
+          "duration": "4:14"
         },
         {
           "number": 3,
-          "name": "Drain You (Live At Del Mar Fairgrounds, CA., December 28, 1991)",
-          "duration": "3:34"
+          "name": "Come As You Are",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Lithium (Smart Sessions)",
+          "duration": "4:30"
+        },
+        {
+          "number": 3,
+          "name": "Come As You Are (Devonshire Mix)",
+          "duration": "3:40"
         },
         {
           "number": 4,
-          "name": "Aneurysm (Live At Del Mar Fairgrounds, CA., December 28, 1991)",
-          "duration": "4:31"
+          "name": "Breed",
+          "duration": "3:04"
+        },
+        {
+          "number": 4,
+          "name": "Polly (Smart Sessions)",
+          "duration": "2:58"
+        },
+        {
+          "number": 4,
+          "name": "Breed (Devonshire Mix)",
+          "duration": "3:03"
         },
         {
           "number": 5,
-          "name": "Smells Like Teen Spirit (Live At Del Mar Fairgrounds, CA., December 28, 1991)",
-          "duration": "4:47"
+          "name": "Lithium",
+          "duration": "4:17"
         },
         {
-          "number": 6,
-          "name": "Been a Son (Live In Amsterdam At Paradiso, November 25, 1991)",
-          "duration": "2:07"
-        },
-        {
-          "number": 7,
-          "name": "Lithium (Live In Amsterdam At Paradiso, November 25, 1991)",
-          "duration": "4:10"
-        },
-        {
-          "number": 8,
-          "name": "Sliver (Live In Springfield, MA., November 10, 1993)",
-          "duration": "1:55"
-        },
-        {
-          "number": 9,
-          "name": "Spank Thru (Live In Rome, Italy, November 19, 1991)",
-          "duration": "3:10"
-        },
-        {
-          "number": 10,
-          "name": "Scentless Apprentice (Live In Seattle, WA., December 13, 1993)",
-          "duration": "3:31"
-        },
-        {
-          "number": 11,
-          "name": "Heart-Shaped Box (Live In Los Angeles, CA, December 30, 1993)",
-          "duration": "4:41"
-        },
-        {
-          "number": 12,
-          "name": "Milk It (Live In Seattle, WA., January 5, 1994)",
-          "duration": "3:45"
-        },
-        {
-          "number": 13,
-          "name": "Negative Creep (Live In Seattle, WA., October 31, 1991)",
-          "duration": "2:43"
-        },
-        {
-          "number": 14,
-          "name": "Polly (Live At London Astoria, UK, December 3, 1989)",
-          "duration": "2:30"
-        },
-        {
-          "number": 15,
-          "name": "Breed (Live At London Astoria, UK, December 3, 1989)",
+          "number": 5,
+          "name": "Pay to Play (Smart Sessions)",
           "duration": "3:28"
         },
         {
+          "number": 5,
+          "name": "Lithium (Devonshire Mix)",
+          "duration": "4:18"
+        },
+        {
+          "number": 6,
+          "name": "Polly",
+          "duration": "2:53"
+        },
+        {
+          "number": 6,
+          "name": "Here She Comes Now (Smart Sessions)",
+          "duration": "4:59"
+        },
+        {
+          "number": 6,
+          "name": "Territorial Pissings (Devonshire Mix)",
+          "duration": "2:13"
+        },
+        {
+          "number": 7,
+          "name": "Territorial Pissings",
+          "duration": "2:22"
+        },
+        {
+          "number": 7,
+          "name": "Dive (Smart Sessions)",
+          "duration": "3:54"
+        },
+        {
+          "number": 7,
+          "name": "Drain You (Devonshire Mix)",
+          "duration": "3:41"
+        },
+        {
+          "number": 8,
+          "name": "Drain You",
+          "duration": "3:43"
+        },
+        {
+          "number": 8,
+          "name": "Sappy (Smart Sessions)",
+          "duration": "3:34"
+        },
+        {
+          "number": 8,
+          "name": "Lounge Act (Devonshire Mix)",
+          "duration": "2:36"
+        },
+        {
+          "number": 9,
+          "name": "Lounge Act",
+          "duration": "2:36"
+        },
+        {
+          "number": 9,
+          "name": "Smells Like Teen Spirit (Boombox Rehearsals)",
+          "duration": "5:39"
+        },
+        {
+          "number": 9,
+          "name": "Stay Away (Devonshire Mix)",
+          "duration": "3:27"
+        },
+        {
+          "number": 10,
+          "name": "Stay Away",
+          "duration": "3:31"
+        },
+        {
+          "number": 10,
+          "name": "Verse Chorus Verse (Boombox Rehearsals)",
+          "duration": "3:12"
+        },
+        {
+          "number": 10,
+          "name": "On a Plain (Devonshire Mix)",
+          "duration": "3:25"
+        },
+        {
+          "number": 11,
+          "name": "On a Plain",
+          "duration": "3:14"
+        },
+        {
+          "number": 11,
+          "name": "Territorial Pissings (Boombox Rehearsals)",
+          "duration": "2:10"
+        },
+        {
+          "number": 12,
+          "name": "Something In the Way",
+          "duration": "3:52"
+        },
+        {
+          "number": 12,
+          "name": "Lounge Act (Boombox Rehearsals)",
+          "duration": "2:36"
+        },
+        {
+          "number": 13,
+          "name": "Endless, Nameless",
+          "duration": "6:43"
+        },
+        {
+          "number": 13,
+          "name": "Come As You Are (Boombox Rehearsals)",
+          "duration": "4:11"
+        },
+        {
+          "number": 14,
+          "name": "Even In His Youth (B-Side)",
+          "duration": "3:02"
+        },
+        {
+          "number": 14,
+          "name": "Old Age (Boombox Rehearsals)",
+          "duration": "4:21"
+        },
+        {
+          "number": 15,
+          "name": "Aneurysm (B-Side)",
+          "duration": "4:45"
+        },
+        {
+          "number": 15,
+          "name": "Something In the Way (Boombox Rehearsals)",
+          "duration": "5:30"
+        },
+        {
           "number": 16,
-          "name": "Tourette's (Live At Reading Festival, UK, August 30, 1992)",
-          "duration": "1:55"
+          "name": "Curmudgeon (B-Side)",
+          "duration": "2:57"
+        },
+        {
+          "number": 16,
+          "name": "On a Plain (Boombox Rehearsals)",
+          "duration": "3:20"
         },
         {
           "number": 17,
-          "name": "Blew (Live In Amsterdam At Paradiso, November 25, 1991)",
-          "duration": "3:36"
+          "name": "D-7 (Live At the BBC)",
+          "duration": "3:44"
+        },
+        {
+          "number": 17,
+          "name": "Drain You (Live At the BBC)",
+          "duration": "4:02"
+        },
+        {
+          "number": 18,
+          "name": "Been a Son (Live At Paramount Theatre B-Side)",
+          "duration": "2:30"
+        },
+        {
+          "number": 18,
+          "name": "Something In the Way (Live At the BBC)",
+          "duration": "3:23"
+        },
+        {
+          "number": 19,
+          "name": "School (Live At Paramount Theatre B-Side)",
+          "duration": "2:33"
+        },
+        {
+          "number": 20,
+          "name": "Drain You (Live At Paramount Theatre B-Side)",
+          "duration": "3:52"
+        },
+        {
+          "number": 21,
+          "name": "Sliver (Live At Del Mar B-Side)",
+          "duration": "2:03"
+        },
+        {
+          "number": 22,
+          "name": "Polly (Live At Del Mar B-Side)",
+          "duration": "2:47"
         }
       ]
     },
@@ -1427,6 +2201,229 @@
       ]
     },
     {
+      "name": "In Utero (20th Anniversary Deluxe Edition)",
+      "year": "1993",
+      "release_date": "1993-09-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6f/63/01/6f630193-1d6d-e265-e7d1-311763fa13ff/00602537528646.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Serve the Servants",
+          "duration": "3:37"
+        },
+        {
+          "number": 1,
+          "name": "Serve the Servants (2013 Mix)",
+          "duration": "3:38"
+        },
+        {
+          "number": 2,
+          "name": "Scentless Apprentice",
+          "duration": "3:48"
+        },
+        {
+          "number": 2,
+          "name": "Scentless Apprentice (2013 Mix)",
+          "duration": "3:49"
+        },
+        {
+          "number": 3,
+          "name": "Heart-Shaped Box",
+          "duration": "4:41"
+        },
+        {
+          "number": 3,
+          "name": "Heart-Shaped Box (2013 Mix)",
+          "duration": "4:38"
+        },
+        {
+          "number": 4,
+          "name": "Rape Me",
+          "duration": "2:50"
+        },
+        {
+          "number": 4,
+          "name": "Rape Me (2013 Mix)",
+          "duration": "2:49"
+        },
+        {
+          "number": 5,
+          "name": "Frances Farmer Will Have Her Revenge On Seattle",
+          "duration": "4:10"
+        },
+        {
+          "number": 5,
+          "name": "Frances Farmer Will Have Her Revenge On Seattle (2013 Mix)",
+          "duration": "4:11"
+        },
+        {
+          "number": 6,
+          "name": "Dumb",
+          "duration": "2:31"
+        },
+        {
+          "number": 6,
+          "name": "Dumb (2013 Mix)",
+          "duration": "2:32"
+        },
+        {
+          "number": 7,
+          "name": "Very Ape",
+          "duration": "1:55"
+        },
+        {
+          "number": 7,
+          "name": "Very Ape (2013 Mix)",
+          "duration": "1:57"
+        },
+        {
+          "number": 8,
+          "name": "Milk It",
+          "duration": "3:54"
+        },
+        {
+          "number": 8,
+          "name": "Milk It (2013 Mix)",
+          "duration": "3:56"
+        },
+        {
+          "number": 9,
+          "name": "Pennyroyal Tea",
+          "duration": "3:38"
+        },
+        {
+          "number": 9,
+          "name": "Pennyroyal Tea (2013 Mix)",
+          "duration": "3:32"
+        },
+        {
+          "number": 10,
+          "name": "Radio Friendly Unit Shifter",
+          "duration": "4:51"
+        },
+        {
+          "number": 10,
+          "name": "Radio Friendly Unit Shifter (2013 Mix)",
+          "duration": "4:52"
+        },
+        {
+          "number": 11,
+          "name": "Tourette's",
+          "duration": "1:35"
+        },
+        {
+          "number": 11,
+          "name": "Tourette's (2013 Mix)",
+          "duration": "1:36"
+        },
+        {
+          "number": 12,
+          "name": "All Apologies",
+          "duration": "3:56"
+        },
+        {
+          "number": 12,
+          "name": "All Apologies (2013 Mix)",
+          "duration": "3:56"
+        },
+        {
+          "number": 13,
+          "name": "Gallons of Rubbing Alcohol Flow Through the Strip",
+          "duration": "7:34"
+        },
+        {
+          "number": 13,
+          "name": "Scentless Apprentice (Demo)",
+          "duration": "3:52"
+        },
+        {
+          "number": 14,
+          "name": "Marigold (B-Side)",
+          "duration": "2:34"
+        },
+        {
+          "number": 14,
+          "name": "Frances Farmer Will Have Her Revenge On Seattle (Instrumental Demo)",
+          "duration": "4:32"
+        },
+        {
+          "number": 15,
+          "name": "Moist Vagina (2013 Mix)",
+          "duration": "3:33"
+        },
+        {
+          "number": 15,
+          "name": "Dumb (Instrumental Demo)",
+          "duration": "2:38"
+        },
+        {
+          "number": 16,
+          "name": "Sappy (2013 Mix)",
+          "duration": "3:26"
+        },
+        {
+          "number": 16,
+          "name": "Very Ape (Instrumental Demo)",
+          "duration": "2:20"
+        },
+        {
+          "number": 17,
+          "name": "I Hate Myself and Want to Die (2013 Mix)",
+          "duration": "2:59"
+        },
+        {
+          "number": 17,
+          "name": "Pennyroyal Tea (Instrumental Demo)",
+          "duration": "3:31"
+        },
+        {
+          "number": 18,
+          "name": "Pennyroyal Tea (Scott Litt Mix)",
+          "duration": "3:35"
+        },
+        {
+          "number": 18,
+          "name": "Radio Friendly Unit Shifter (Instrumental Demo)",
+          "duration": "2:39"
+        },
+        {
+          "number": 19,
+          "name": "Heart-Shaped Box (Steve Albini 1993 Mix)",
+          "duration": "4:41"
+        },
+        {
+          "number": 19,
+          "name": "Tourette's (Instrumental Demo)",
+          "duration": "2:14"
+        },
+        {
+          "number": 20,
+          "name": "All Apologies (Steve Albini 1993 Mix)",
+          "duration": "3:52"
+        },
+        {
+          "number": 20,
+          "name": "Marigold (Demo)",
+          "duration": "3:25"
+        },
+        {
+          "number": 21,
+          "name": "All Apologies (Demo)",
+          "duration": "4:24"
+        },
+        {
+          "number": 22,
+          "name": "Forgotten Tune (Instrumental Demo)",
+          "duration": "2:04"
+        },
+        {
+          "number": 23,
+          "name": "Jam (Demo)",
+          "duration": "5:34"
+        }
+      ]
+    },
+    {
       "name": "Nevermind (Deluxe)",
       "year": "1991",
       "release_date": "1991-09-24",
@@ -1694,1003 +2691,6 @@
           "number": 22,
           "name": "All Apologies (Solo Acoustic Demo)",
           "duration": "3:33"
-        }
-      ]
-    },
-    {
-      "name": "Nevermind (30th Anniversary Super Deluxe)",
-      "year": "1991",
-      "release_date": "1991-09-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/53/5d/5c535d31-9c80-c752-3ea3-887615eb7d51/21UM1IM09416.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Smells Like Teen Spirit (Remastered)",
-          "duration": "5:00"
-        },
-        {
-          "number": 1,
-          "name": "Drain You (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "4:06"
-        },
-        {
-          "number": 1,
-          "name": "Drain You (Live In Del Mar, California, 1991)",
-          "duration": "3:59"
-        },
-        {
-          "number": 1,
-          "name": "Aneurysm (Live In Melbourne, Australia For Triple J, 1992)",
-          "duration": "4:59"
-        },
-        {
-          "number": 2,
-          "name": "In Bloom (Remastered)",
-          "duration": "4:14"
-        },
-        {
-          "number": 2,
-          "name": "Aneurysm (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "4:19"
-        },
-        {
-          "number": 2,
-          "name": "Aneurysm (Live In Del Mar, California, 1991)",
-          "duration": "4:22"
-        },
-        {
-          "number": 2,
-          "name": "Drain You (Live In Melbourne, Australia For Triple J, 1992)",
-          "duration": "3:46"
-        },
-        {
-          "number": 3,
-          "name": "Come As You Are (Remastered)",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "School (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "2:43"
-        },
-        {
-          "number": 3,
-          "name": "School (Live In Del Mar, California, 1991)",
-          "duration": "2:30"
-        },
-        {
-          "number": 3,
-          "name": "School (Live In Melbourne, Australia For Triple J, 1992)",
-          "duration": "2:46"
-        },
-        {
-          "number": 4,
-          "name": "Breed (Remastered)",
-          "duration": "3:03"
-        },
-        {
-          "number": 4,
-          "name": "Floyd The Barber (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "2:58"
-        },
-        {
-          "number": 4,
-          "name": "Floyd The Barber (Live In Del Mar, California, 1991)",
-          "duration": "2:29"
-        },
-        {
-          "number": 4,
-          "name": "Sliver (Live In Melbourne, Australia For Triple J, 1992)",
-          "duration": "2:04"
-        },
-        {
-          "number": 5,
-          "name": "Lithium (Remastered)",
-          "duration": "4:16"
-        },
-        {
-          "number": 5,
-          "name": "Smells Like Teen Spirit (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "4:49"
-        },
-        {
-          "number": 5,
-          "name": "Smells Like Teen Spirit (Live In Del Mar, California, 1991)",
-          "duration": "4:49"
-        },
-        {
-          "number": 5,
-          "name": "About A Girl (Live In Melbourne, Australia For Triple J, 1992)",
-          "duration": "2:54"
-        },
-        {
-          "number": 6,
-          "name": "Polly (Remastered)",
-          "duration": "2:54"
-        },
-        {
-          "number": 6,
-          "name": "About A Girl (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "2:46"
-        },
-        {
-          "number": 6,
-          "name": "About A Girl (Live In Del Mar, California, 1991)",
-          "duration": "2:57"
-        },
-        {
-          "number": 6,
-          "name": "Come As You Are (Live In Melbourne, Australia For Triple J, 1992)",
-          "duration": "3:36"
-        },
-        {
-          "number": 7,
-          "name": "Territorial Pissings (Remastered)",
-          "duration": "2:23"
-        },
-        {
-          "number": 7,
-          "name": "Polly (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "2:49"
-        },
-        {
-          "number": 7,
-          "name": "Polly (Live In Del Mar, California, 1991)",
-          "duration": "2:49"
-        },
-        {
-          "number": 7,
-          "name": "Lithium (Live In Melbourne, Australia For Triple J, 1992)",
-          "duration": "4:47"
-        },
-        {
-          "number": 8,
-          "name": "Drain You (Remastered)",
-          "duration": "3:43"
-        },
-        {
-          "number": 8,
-          "name": "Lithium (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "4:13"
-        },
-        {
-          "number": 8,
-          "name": "Sliver (Live In Del Mar, California, 1991)",
-          "duration": "1:56"
-        },
-        {
-          "number": 8,
-          "name": "Breed (Live In Melbourne, Australia For Triple J, 1992)",
-          "duration": "3:11"
-        },
-        {
-          "number": 9,
-          "name": "Lounge Act (Remastered)",
-          "duration": "2:36"
-        },
-        {
-          "number": 9,
-          "name": "Sliver (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "2:13"
-        },
-        {
-          "number": 9,
-          "name": "Breed (Live In Del Mar, California, 1991)",
-          "duration": "3:10"
-        },
-        {
-          "number": 10,
-          "name": "Stay Away (Remastered)",
-          "duration": "3:31"
-        },
-        {
-          "number": 10,
-          "name": "Breed (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "3:39"
-        },
-        {
-          "number": 10,
-          "name": "Come As You Are (Live In Del Mar, California, 1991)",
-          "duration": "3:35"
-        },
-        {
-          "number": 11,
-          "name": "On A Plain (Remastered)",
-          "duration": "3:14"
-        },
-        {
-          "number": 11,
-          "name": "Come As You Are (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "5:31"
-        },
-        {
-          "number": 11,
-          "name": "Lithium (Live In Del Mar, California, 1991)",
-          "duration": "4:38"
-        },
-        {
-          "number": 12,
-          "name": "Something In The Way (Remastered)",
-          "duration": "3:52"
-        },
-        {
-          "number": 12,
-          "name": "Been A Son (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "2:05"
-        },
-        {
-          "number": 12,
-          "name": "Territorial Pissings (Live In Del Mar, California, 1991)",
-          "duration": "4:13"
-        },
-        {
-          "number": 13,
-          "name": "Endless, Nameless (Remastered)",
-          "duration": "6:43"
-        },
-        {
-          "number": 13,
-          "name": "Negative Creep (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "2:39"
-        },
-        {
-          "number": 14,
-          "name": "On A Plain (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "3:07"
-        },
-        {
-          "number": 15,
-          "name": "Blew (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "3:33"
-        },
-        {
-          "number": 16,
-          "name": "Love Buzz (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "3:27"
-        },
-        {
-          "number": 17,
-          "name": "Territorial Pissings (Live In Amsterdam, Netherlands, 1991)",
-          "duration": "4:07"
-        }
-      ]
-    },
-    {
-      "name": "In Utero (20th Anniversary Super Deluxe Edition)",
-      "year": "1993",
-      "release_date": "1993-09-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b8/7d/95/b87d95e5-3d3e-9dc8-90a5-6532d57f8674/00602537511648.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Serve the Servants",
-          "duration": "3:37"
-        },
-        {
-          "number": 1,
-          "name": "Serve the Servants (2013 Mix)",
-          "duration": "3:38"
-        },
-        {
-          "number": 1,
-          "name": "Radio Friendly Unit Shifter (Live & Loud)",
-          "duration": "4:30"
-        },
-        {
-          "number": 2,
-          "name": "Scentless Apprentice",
-          "duration": "3:48"
-        },
-        {
-          "number": 2,
-          "name": "Scentless Apprentice (2013 Mix)",
-          "duration": "3:49"
-        },
-        {
-          "number": 2,
-          "name": "Drain You (Live & Loud)",
-          "duration": "3:42"
-        },
-        {
-          "number": 3,
-          "name": "Heart-Shaped Box",
-          "duration": "4:41"
-        },
-        {
-          "number": 3,
-          "name": "Heart-Shaped Box (2013 Mix)",
-          "duration": "4:38"
-        },
-        {
-          "number": 3,
-          "name": "Breed (Live & Loud)",
-          "duration": "3:13"
-        },
-        {
-          "number": 4,
-          "name": "Rape Me",
-          "duration": "2:50"
-        },
-        {
-          "number": 4,
-          "name": "Rape Me (2013 Mix)",
-          "duration": "2:49"
-        },
-        {
-          "number": 4,
-          "name": "Serve the Servants (Live & Loud)",
-          "duration": "3:23"
-        },
-        {
-          "number": 5,
-          "name": "Frances Farmer Will Have Her Revenge On Seattle",
-          "duration": "4:10"
-        },
-        {
-          "number": 5,
-          "name": "Frances Farmer Will Have Her Revenge On Seattle (2013 Mix)",
-          "duration": "4:11"
-        },
-        {
-          "number": 5,
-          "name": "Rape Me (Live & Loud)",
-          "duration": "2:39"
-        },
-        {
-          "number": 6,
-          "name": "Dumb",
-          "duration": "2:31"
-        },
-        {
-          "number": 6,
-          "name": "Dumb (2013 Mix)",
-          "duration": "2:32"
-        },
-        {
-          "number": 6,
-          "name": "Sliver (Live & Loud)",
-          "duration": "2:05"
-        },
-        {
-          "number": 7,
-          "name": "Very Ape",
-          "duration": "1:55"
-        },
-        {
-          "number": 7,
-          "name": "Very Ape (2013 Mix)",
-          "duration": "1:57"
-        },
-        {
-          "number": 7,
-          "name": "Pennyroyal Tea (Live & Loud)",
-          "duration": "3:41"
-        },
-        {
-          "number": 8,
-          "name": "Milk It",
-          "duration": "3:54"
-        },
-        {
-          "number": 8,
-          "name": "Milk It (2013 Mix)",
-          "duration": "3:56"
-        },
-        {
-          "number": 9,
-          "name": "Pennyroyal Tea",
-          "duration": "3:38"
-        },
-        {
-          "number": 9,
-          "name": "Pennyroyal Tea (2013 Mix)",
-          "duration": "3:32"
-        },
-        {
-          "number": 10,
-          "name": "Radio Friendly Unit Shifter",
-          "duration": "4:51"
-        },
-        {
-          "number": 10,
-          "name": "Radio Friendly Unit Shifter (2013 Mix)",
-          "duration": "4:52"
-        },
-        {
-          "number": 11,
-          "name": "Tourette's",
-          "duration": "1:35"
-        },
-        {
-          "number": 11,
-          "name": "Tourette's (2013 Mix)",
-          "duration": "1:36"
-        },
-        {
-          "number": 12,
-          "name": "All Apologies",
-          "duration": "3:56"
-        },
-        {
-          "number": 12,
-          "name": "All Apologies (2013 Mix)",
-          "duration": "3:56"
-        },
-        {
-          "number": 13,
-          "name": "Gallons of Rubbing Alcohol Flow Through the Strip",
-          "duration": "7:34"
-        },
-        {
-          "number": 13,
-          "name": "Scentless Apprentice (Demo)",
-          "duration": "3:52"
-        },
-        {
-          "number": 14,
-          "name": "Marigold (B-Side)",
-          "duration": "2:34"
-        },
-        {
-          "number": 14,
-          "name": "Frances Farmer Will Have Her Revenge On Seattle (Instrumental Demo)",
-          "duration": "4:32"
-        },
-        {
-          "number": 15,
-          "name": "Moist Vagina (2013 Mix)",
-          "duration": "3:33"
-        },
-        {
-          "number": 15,
-          "name": "Dumb (Instrumental Demo)",
-          "duration": "2:38"
-        },
-        {
-          "number": 16,
-          "name": "Sappy (2013 Mix)",
-          "duration": "3:26"
-        },
-        {
-          "number": 16,
-          "name": "Very Ape (Instrumental Demo)",
-          "duration": "2:20"
-        },
-        {
-          "number": 17,
-          "name": "I Hate Myself and Want to Die (2013 Mix)",
-          "duration": "2:59"
-        },
-        {
-          "number": 17,
-          "name": "Pennyroyal Tea (Instrumental Demo)",
-          "duration": "3:31"
-        },
-        {
-          "number": 18,
-          "name": "Pennyroyal Tea (Scott Litt Mix)",
-          "duration": "3:35"
-        },
-        {
-          "number": 18,
-          "name": "Radio Friendly Unit Shifter (Instrumental Demo)",
-          "duration": "2:39"
-        },
-        {
-          "number": 19,
-          "name": "Heart-Shaped Box (Original Steve Albini 1993 Mix)",
-          "duration": "4:41"
-        },
-        {
-          "number": 19,
-          "name": "Tourette's (Instrumental Demo)",
-          "duration": "2:14"
-        },
-        {
-          "number": 20,
-          "name": "All Apologies (Original Steve Albini 1993 Mix)",
-          "duration": "3:52"
-        },
-        {
-          "number": 20,
-          "name": "Marigold (Demo)",
-          "duration": "3:25"
-        },
-        {
-          "number": 21,
-          "name": "All Apologies (Demo)",
-          "duration": "4:24"
-        },
-        {
-          "number": 22,
-          "name": "Forgotten Tune (Instrumental Demo)",
-          "duration": "2:04"
-        },
-        {
-          "number": 23,
-          "name": "Jam (Demo)",
-          "duration": "5:34"
-        }
-      ]
-    },
-    {
-      "name": "In Utero (20th Anniversary Deluxe Edition)",
-      "year": "1993",
-      "release_date": "1993-09-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6f/63/01/6f630193-1d6d-e265-e7d1-311763fa13ff/00602537528646.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Serve the Servants",
-          "duration": "3:37"
-        },
-        {
-          "number": 1,
-          "name": "Serve the Servants (2013 Mix)",
-          "duration": "3:38"
-        },
-        {
-          "number": 2,
-          "name": "Scentless Apprentice",
-          "duration": "3:48"
-        },
-        {
-          "number": 2,
-          "name": "Scentless Apprentice (2013 Mix)",
-          "duration": "3:49"
-        },
-        {
-          "number": 3,
-          "name": "Heart-Shaped Box",
-          "duration": "4:41"
-        },
-        {
-          "number": 3,
-          "name": "Heart-Shaped Box (2013 Mix)",
-          "duration": "4:38"
-        },
-        {
-          "number": 4,
-          "name": "Rape Me",
-          "duration": "2:50"
-        },
-        {
-          "number": 4,
-          "name": "Rape Me (2013 Mix)",
-          "duration": "2:49"
-        },
-        {
-          "number": 5,
-          "name": "Frances Farmer Will Have Her Revenge On Seattle",
-          "duration": "4:10"
-        },
-        {
-          "number": 5,
-          "name": "Frances Farmer Will Have Her Revenge On Seattle (2013 Mix)",
-          "duration": "4:11"
-        },
-        {
-          "number": 6,
-          "name": "Dumb",
-          "duration": "2:31"
-        },
-        {
-          "number": 6,
-          "name": "Dumb (2013 Mix)",
-          "duration": "2:32"
-        },
-        {
-          "number": 7,
-          "name": "Very Ape",
-          "duration": "1:55"
-        },
-        {
-          "number": 7,
-          "name": "Very Ape (2013 Mix)",
-          "duration": "1:57"
-        },
-        {
-          "number": 8,
-          "name": "Milk It",
-          "duration": "3:54"
-        },
-        {
-          "number": 8,
-          "name": "Milk It (2013 Mix)",
-          "duration": "3:56"
-        },
-        {
-          "number": 9,
-          "name": "Pennyroyal Tea",
-          "duration": "3:38"
-        },
-        {
-          "number": 9,
-          "name": "Pennyroyal Tea (2013 Mix)",
-          "duration": "3:32"
-        },
-        {
-          "number": 10,
-          "name": "Radio Friendly Unit Shifter",
-          "duration": "4:51"
-        },
-        {
-          "number": 10,
-          "name": "Radio Friendly Unit Shifter (2013 Mix)",
-          "duration": "4:52"
-        },
-        {
-          "number": 11,
-          "name": "Tourette's",
-          "duration": "1:35"
-        },
-        {
-          "number": 11,
-          "name": "Tourette's (2013 Mix)",
-          "duration": "1:36"
-        },
-        {
-          "number": 12,
-          "name": "All Apologies",
-          "duration": "3:56"
-        },
-        {
-          "number": 12,
-          "name": "All Apologies (2013 Mix)",
-          "duration": "3:56"
-        },
-        {
-          "number": 13,
-          "name": "Gallons of Rubbing Alcohol Flow Through the Strip",
-          "duration": "7:34"
-        },
-        {
-          "number": 13,
-          "name": "Scentless Apprentice (Demo)",
-          "duration": "3:52"
-        },
-        {
-          "number": 14,
-          "name": "Marigold (B-Side)",
-          "duration": "2:34"
-        },
-        {
-          "number": 14,
-          "name": "Frances Farmer Will Have Her Revenge On Seattle (Instrumental Demo)",
-          "duration": "4:32"
-        },
-        {
-          "number": 15,
-          "name": "Moist Vagina (2013 Mix)",
-          "duration": "3:33"
-        },
-        {
-          "number": 15,
-          "name": "Dumb (Instrumental Demo)",
-          "duration": "2:38"
-        },
-        {
-          "number": 16,
-          "name": "Sappy (2013 Mix)",
-          "duration": "3:26"
-        },
-        {
-          "number": 16,
-          "name": "Very Ape (Instrumental Demo)",
-          "duration": "2:20"
-        },
-        {
-          "number": 17,
-          "name": "I Hate Myself and Want to Die (2013 Mix)",
-          "duration": "2:59"
-        },
-        {
-          "number": 17,
-          "name": "Pennyroyal Tea (Instrumental Demo)",
-          "duration": "3:31"
-        },
-        {
-          "number": 18,
-          "name": "Pennyroyal Tea (Scott Litt Mix)",
-          "duration": "3:35"
-        },
-        {
-          "number": 18,
-          "name": "Radio Friendly Unit Shifter (Instrumental Demo)",
-          "duration": "2:39"
-        },
-        {
-          "number": 19,
-          "name": "Heart-Shaped Box (Steve Albini 1993 Mix)",
-          "duration": "4:41"
-        },
-        {
-          "number": 19,
-          "name": "Tourette's (Instrumental Demo)",
-          "duration": "2:14"
-        },
-        {
-          "number": 20,
-          "name": "All Apologies (Steve Albini 1993 Mix)",
-          "duration": "3:52"
-        },
-        {
-          "number": 20,
-          "name": "Marigold (Demo)",
-          "duration": "3:25"
-        },
-        {
-          "number": 21,
-          "name": "All Apologies (Demo)",
-          "duration": "4:24"
-        },
-        {
-          "number": 22,
-          "name": "Forgotten Tune (Instrumental Demo)",
-          "duration": "2:04"
-        },
-        {
-          "number": 23,
-          "name": "Jam (Demo)",
-          "duration": "5:34"
-        }
-      ]
-    },
-    {
-      "name": "Nevermind (Super Deluxe Edition)",
-      "year": "1991",
-      "release_date": "1991-09-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fc/f9/6e/fcf96ec5-8505-ef9e-0c06-c4fdbb1ed73b/00602527829463.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Smells Like Teen Spirit",
-          "duration": "5:01"
-        },
-        {
-          "number": 1,
-          "name": "In Bloom (Smart Sessions)",
-          "duration": "4:30"
-        },
-        {
-          "number": 1,
-          "name": "Smells Like Teen Spirit (Devonshire Mix)",
-          "duration": "5:02"
-        },
-        {
-          "number": 2,
-          "name": "In Bloom",
-          "duration": "4:15"
-        },
-        {
-          "number": 2,
-          "name": "Immodium (Breed) [Smart Sessions]",
-          "duration": "3:13"
-        },
-        {
-          "number": 2,
-          "name": "In Bloom (Devonshire Mix)",
-          "duration": "4:14"
-        },
-        {
-          "number": 3,
-          "name": "Come As You Are",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Lithium (Smart Sessions)",
-          "duration": "4:30"
-        },
-        {
-          "number": 3,
-          "name": "Come As You Are (Devonshire Mix)",
-          "duration": "3:40"
-        },
-        {
-          "number": 4,
-          "name": "Breed",
-          "duration": "3:04"
-        },
-        {
-          "number": 4,
-          "name": "Polly (Smart Sessions)",
-          "duration": "2:58"
-        },
-        {
-          "number": 4,
-          "name": "Breed (Devonshire Mix)",
-          "duration": "3:03"
-        },
-        {
-          "number": 5,
-          "name": "Lithium",
-          "duration": "4:17"
-        },
-        {
-          "number": 5,
-          "name": "Pay to Play (Smart Sessions)",
-          "duration": "3:28"
-        },
-        {
-          "number": 5,
-          "name": "Lithium (Devonshire Mix)",
-          "duration": "4:18"
-        },
-        {
-          "number": 6,
-          "name": "Polly",
-          "duration": "2:53"
-        },
-        {
-          "number": 6,
-          "name": "Here She Comes Now (Smart Sessions)",
-          "duration": "4:59"
-        },
-        {
-          "number": 6,
-          "name": "Territorial Pissings (Devonshire Mix)",
-          "duration": "2:13"
-        },
-        {
-          "number": 7,
-          "name": "Territorial Pissings",
-          "duration": "2:22"
-        },
-        {
-          "number": 7,
-          "name": "Dive (Smart Sessions)",
-          "duration": "3:54"
-        },
-        {
-          "number": 7,
-          "name": "Drain You (Devonshire Mix)",
-          "duration": "3:41"
-        },
-        {
-          "number": 8,
-          "name": "Drain You",
-          "duration": "3:43"
-        },
-        {
-          "number": 8,
-          "name": "Sappy (Smart Sessions)",
-          "duration": "3:34"
-        },
-        {
-          "number": 8,
-          "name": "Lounge Act (Devonshire Mix)",
-          "duration": "2:36"
-        },
-        {
-          "number": 9,
-          "name": "Lounge Act",
-          "duration": "2:36"
-        },
-        {
-          "number": 9,
-          "name": "Smells Like Teen Spirit (Boombox Rehearsals)",
-          "duration": "5:39"
-        },
-        {
-          "number": 9,
-          "name": "Stay Away (Devonshire Mix)",
-          "duration": "3:27"
-        },
-        {
-          "number": 10,
-          "name": "Stay Away",
-          "duration": "3:31"
-        },
-        {
-          "number": 10,
-          "name": "Verse Chorus Verse (Boombox Rehearsals)",
-          "duration": "3:12"
-        },
-        {
-          "number": 10,
-          "name": "On a Plain (Devonshire Mix)",
-          "duration": "3:25"
-        },
-        {
-          "number": 11,
-          "name": "On a Plain",
-          "duration": "3:14"
-        },
-        {
-          "number": 11,
-          "name": "Territorial Pissings (Boombox Rehearsals)",
-          "duration": "2:10"
-        },
-        {
-          "number": 12,
-          "name": "Something In the Way",
-          "duration": "3:52"
-        },
-        {
-          "number": 12,
-          "name": "Lounge Act (Boombox Rehearsals)",
-          "duration": "2:36"
-        },
-        {
-          "number": 13,
-          "name": "Endless, Nameless",
-          "duration": "6:43"
-        },
-        {
-          "number": 13,
-          "name": "Come As You Are (Boombox Rehearsals)",
-          "duration": "4:11"
-        },
-        {
-          "number": 14,
-          "name": "Even In His Youth (B-Side)",
-          "duration": "3:02"
-        },
-        {
-          "number": 14,
-          "name": "Old Age (Boombox Rehearsals)",
-          "duration": "4:21"
-        },
-        {
-          "number": 15,
-          "name": "Aneurysm (B-Side)",
-          "duration": "4:45"
-        },
-        {
-          "number": 15,
-          "name": "Something In the Way (Boombox Rehearsals)",
-          "duration": "5:30"
-        },
-        {
-          "number": 16,
-          "name": "Curmudgeon (B-Side)",
-          "duration": "2:57"
-        },
-        {
-          "number": 16,
-          "name": "On a Plain (Boombox Rehearsals)",
-          "duration": "3:20"
-        },
-        {
-          "number": 17,
-          "name": "D-7 (Live At the BBC)",
-          "duration": "3:44"
-        },
-        {
-          "number": 17,
-          "name": "Drain You (Live At the BBC)",
-          "duration": "4:02"
-        },
-        {
-          "number": 18,
-          "name": "Been a Son (Live At Paramount Theatre B-Side)",
-          "duration": "2:30"
-        },
-        {
-          "number": 18,
-          "name": "Something In the Way (Live At the BBC)",
-          "duration": "3:23"
-        },
-        {
-          "number": 19,
-          "name": "School (Live At Paramount Theatre B-Side)",
-          "duration": "2:33"
-        },
-        {
-          "number": 20,
-          "name": "Drain You (Live At Paramount Theatre B-Side)",
-          "duration": "3:52"
-        },
-        {
-          "number": 21,
-          "name": "Sliver (Live At Del Mar B-Side)",
-          "duration": "2:03"
-        },
-        {
-          "number": 22,
-          "name": "Polly (Live At Del Mar B-Side)",
-          "duration": "2:47"
         }
       ]
     },

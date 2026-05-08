@@ -3,6 +3,49 @@
   "id": 19436069,
   "albums": [
     {
+      "name": "Welcome to the West Coast",
+      "year": "2014",
+      "release_date": "2014-01-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/cc/4d/63/cc4d6315-0009-3c56-6283-1ed2536bf0ff/665776165553.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Truth",
+          "duration": "1:35"
+        },
+        {
+          "number": 2,
+          "name": "Rat",
+          "duration": "1:53"
+        },
+        {
+          "number": 3,
+          "name": "Rest in Power",
+          "duration": "2:03"
+        },
+        {
+          "number": 4,
+          "name": "Lhhc",
+          "duration": "3:09"
+        },
+        {
+          "number": 5,
+          "name": "I Am Forever",
+          "duration": "2:25"
+        },
+        {
+          "number": 6,
+          "name": "Hail Mary",
+          "duration": "2:15"
+        },
+        {
+          "number": 7,
+          "name": "Wasteland",
+          "duration": "2:11"
+        }
+      ]
+    },
+    {
       "name": "Valley of Death II",
       "year": "2026",
       "release_date": "2026-01-09",
@@ -57,49 +100,6 @@
           "number": 10,
           "name": "Death Grip",
           "duration": "1:45"
-        }
-      ]
-    },
-    {
-      "name": "Welcome to the West Coast",
-      "year": "2014",
-      "release_date": "2014-01-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/cc/4d/63/cc4d6315-0009-3c56-6283-1ed2536bf0ff/665776165553.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Truth",
-          "duration": "1:35"
-        },
-        {
-          "number": 2,
-          "name": "Rat",
-          "duration": "1:53"
-        },
-        {
-          "number": 3,
-          "name": "Rest in Power",
-          "duration": "2:03"
-        },
-        {
-          "number": 4,
-          "name": "Lhhc",
-          "duration": "3:09"
-        },
-        {
-          "number": 5,
-          "name": "I Am Forever",
-          "duration": "2:25"
-        },
-        {
-          "number": 6,
-          "name": "Hail Mary",
-          "duration": "2:15"
-        },
-        {
-          "number": 7,
-          "name": "Wasteland",
-          "duration": "2:11"
         }
       ]
     },
@@ -580,69 +580,6 @@
       ]
     },
     {
-      "name": "Welcome to the West Coast III",
-      "year": "2022",
-      "release_date": "2022-12-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/f4/bf/f7f4bf42-46f6-c1a7-f280-a7833348f2da/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Trilogy Intro",
-          "duration": "1:27"
-        },
-        {
-          "number": 2,
-          "name": "DEATH COMES IN 3'S (feat. Hatebreed & Jasta)",
-          "duration": "3:13"
-        },
-        {
-          "number": 3,
-          "name": "Hell On Earth",
-          "duration": "3:00"
-        },
-        {
-          "number": 4,
-          "name": "LIVE BY the GUN (feat. Body Count & ICE-T)",
-          "duration": "3:33"
-        },
-        {
-          "number": 5,
-          "name": "Cold Water Farewell",
-          "duration": "1:40"
-        },
-        {
-          "number": 6,
-          "name": "STORIES FROM the GUTTER PT. II (feat. E-Town Concrete)",
-          "duration": "3:06"
-        },
-        {
-          "number": 7,
-          "name": "New Money  Old Pain",
-          "duration": "2:29"
-        },
-        {
-          "number": 8,
-          "name": "DEATHBED CONFESSION (feat. Jasta & Hatebreed)",
-          "duration": "2:28"
-        },
-        {
-          "number": 9,
-          "name": "AT WAR WITH the GODS (feat. Desmadre)",
-          "duration": "2:27"
-        },
-        {
-          "number": 10,
-          "name": "Bonnie & Clyde '05",
-          "duration": "2:08"
-        },
-        {
-          "number": 11,
-          "name": "EXIT WOUNDS (feat. Malevolence)",
-          "duration": "2:58"
-        }
-      ]
-    },
-    {
       "name": "Live at Summer Breeze",
       "year": "2020",
       "release_date": "2020-11-06",
@@ -712,6 +649,69 @@
           "number": 13,
           "name": "Going Back to the Bay (Live)",
           "duration": "1:37"
+        }
+      ]
+    },
+    {
+      "name": "Welcome to the West Coast III",
+      "year": "2022",
+      "release_date": "2022-12-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f7/f4/bf/f7f4bf42-46f6-c1a7-f280-a7833348f2da/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Trilogy Intro",
+          "duration": "1:27"
+        },
+        {
+          "number": 2,
+          "name": "DEATH COMES IN 3'S (feat. Hatebreed & Jasta)",
+          "duration": "3:13"
+        },
+        {
+          "number": 3,
+          "name": "Hell On Earth",
+          "duration": "3:00"
+        },
+        {
+          "number": 4,
+          "name": "LIVE BY the GUN (feat. Body Count & ICE-T)",
+          "duration": "3:33"
+        },
+        {
+          "number": 5,
+          "name": "Cold Water Farewell",
+          "duration": "1:40"
+        },
+        {
+          "number": 6,
+          "name": "STORIES FROM the GUTTER PT. II (feat. E-Town Concrete)",
+          "duration": "3:06"
+        },
+        {
+          "number": 7,
+          "name": "New Money  Old Pain",
+          "duration": "2:29"
+        },
+        {
+          "number": 8,
+          "name": "DEATHBED CONFESSION (feat. Jasta & Hatebreed)",
+          "duration": "2:28"
+        },
+        {
+          "number": 9,
+          "name": "AT WAR WITH the GODS (feat. Desmadre)",
+          "duration": "2:27"
+        },
+        {
+          "number": 10,
+          "name": "Bonnie & Clyde '05",
+          "duration": "2:08"
+        },
+        {
+          "number": 11,
+          "name": "EXIT WOUNDS (feat. Malevolence)",
+          "duration": "2:58"
         }
       ]
     },

@@ -3,64 +3,6 @@
   "id": 1270999141,
   "albums": [
     {
-      "name": "End It (Audiotree Live)",
-      "year": "2023",
-      "release_date": "2023-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/e1/ac/81e1ac2f-eeed-2709-3151-6d723357d288/8721056086214.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bchc (Audiotree Live)",
-          "duration": "0:51"
-        },
-        {
-          "number": 2,
-          "name": "New Wage Slavery (Audiotree Live)",
-          "duration": "1:27"
-        },
-        {
-          "number": 3,
-          "name": "21 (Audiotree Live)",
-          "duration": "0:33"
-        },
-        {
-          "number": 4,
-          "name": "Intro (Audiotree Live)",
-          "duration": "0:38"
-        },
-        {
-          "number": 5,
-          "name": "Hardhead (Audiotree Live)",
-          "duration": "0:46"
-        },
-        {
-          "number": 6,
-          "name": "Htf (Audiotree Live)",
-          "duration": "0:54"
-        },
-        {
-          "number": 7,
-          "name": "Lifer (Audiotree Live)",
-          "duration": "1:21"
-        },
-        {
-          "number": 8,
-          "name": "One Way Track (Audiotree Live)",
-          "duration": "2:17"
-        },
-        {
-          "number": 9,
-          "name": "Hatekeeper (Audiotree Live)",
-          "duration": "1:03"
-        },
-        {
-          "number": 10,
-          "name": "The Comeback (Audiotree Live)",
-          "duration": "2:46"
-        }
-      ]
-    },
-    {
       "name": "Wrong Side of Heaven",
       "year": "2025",
       "release_date": "2025-08-29",
@@ -142,6 +84,64 @@
           "duration": "2:35"
         }
       ]
+    },
+    {
+      "name": "End It (Audiotree Live)",
+      "year": "2023",
+      "release_date": "2023-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/e1/ac/81e1ac2f-eeed-2709-3151-6d723357d288/8721056086214.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bchc (Audiotree Live)",
+          "duration": "0:51"
+        },
+        {
+          "number": 2,
+          "name": "New Wage Slavery (Audiotree Live)",
+          "duration": "1:27"
+        },
+        {
+          "number": 3,
+          "name": "21 (Audiotree Live)",
+          "duration": "0:33"
+        },
+        {
+          "number": 4,
+          "name": "Intro (Audiotree Live)",
+          "duration": "0:38"
+        },
+        {
+          "number": 5,
+          "name": "Hardhead (Audiotree Live)",
+          "duration": "0:46"
+        },
+        {
+          "number": 6,
+          "name": "Htf (Audiotree Live)",
+          "duration": "0:54"
+        },
+        {
+          "number": 7,
+          "name": "Lifer (Audiotree Live)",
+          "duration": "1:21"
+        },
+        {
+          "number": 8,
+          "name": "One Way Track (Audiotree Live)",
+          "duration": "2:17"
+        },
+        {
+          "number": 9,
+          "name": "Hatekeeper (Audiotree Live)",
+          "duration": "1:03"
+        },
+        {
+          "number": 10,
+          "name": "The Comeback (Audiotree Live)",
+          "duration": "2:46"
+        }
+      ]
     }
   ],
   "singles": [
@@ -200,40 +200,30 @@
   ],
   "eps": [
     {
-      "name": "Unpleasant Living",
-      "year": "2022",
-      "release_date": "2022-07-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/3e/a3/bb3ea3a0-5840-9c71-d4fd-998a718a7f2c/63723.jpg/600x600bb.jpg",
+      "name": "One Way Track",
+      "year": "2020",
+      "release_date": "2020-01-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/d1/f8/e2d1f89a-44ac-d30e-7e12-93321b9ed616/63539.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "B.C.H.C.",
-          "duration": "0:58"
+          "name": "Hardhead",
+          "duration": "0:49"
         },
         {
           "number": 2,
-          "name": "New Wage Slavery",
-          "duration": "1:23"
+          "name": "H.T.F.",
+          "duration": "0:52"
         },
         {
           "number": 3,
-          "name": "L'appel Du Vide",
-          "duration": "1:13"
+          "name": "Lifer",
+          "duration": "1:32"
         },
         {
           "number": 4,
-          "name": "21",
-          "duration": "0:40"
-        },
-        {
-          "number": 5,
-          "name": "Hatekeeper",
-          "duration": "1:01"
-        },
-        {
-          "number": 6,
-          "name": "The Comeback",
-          "duration": "2:40"
+          "name": "One Way Track",
+          "duration": "2:15"
         }
       ]
     },
@@ -271,30 +261,40 @@
       ]
     },
     {
-      "name": "One Way Track",
-      "year": "2020",
-      "release_date": "2020-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/d1/f8/e2d1f89a-44ac-d30e-7e12-93321b9ed616/63539.jpg/600x600bb.jpg",
+      "name": "Unpleasant Living",
+      "year": "2022",
+      "release_date": "2022-07-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/3e/a3/bb3ea3a0-5840-9c71-d4fd-998a718a7f2c/63723.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Hardhead",
-          "duration": "0:49"
+          "name": "B.C.H.C.",
+          "duration": "0:58"
         },
         {
           "number": 2,
-          "name": "H.T.F.",
-          "duration": "0:52"
+          "name": "New Wage Slavery",
+          "duration": "1:23"
         },
         {
           "number": 3,
-          "name": "Lifer",
-          "duration": "1:32"
+          "name": "L'appel Du Vide",
+          "duration": "1:13"
         },
         {
           "number": 4,
-          "name": "One Way Track",
-          "duration": "2:15"
+          "name": "21",
+          "duration": "0:40"
+        },
+        {
+          "number": 5,
+          "name": "Hatekeeper",
+          "duration": "1:01"
+        },
+        {
+          "number": 6,
+          "name": "The Comeback",
+          "duration": "2:40"
         }
       ]
     }

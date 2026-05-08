@@ -222,99 +222,6 @@
       ]
     },
     {
-      "name": "96 Months",
-      "year": "2024",
-      "release_date": "2024-08-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/ad/26/96ad26cb-b361-c810-0655-ce66df16b9d2/196872350296.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Free",
-          "duration": "3:32"
-        },
-        {
-          "number": 2,
-          "name": "How Deep Is Your Love",
-          "duration": "3:32"
-        },
-        {
-          "number": 3,
-          "name": "This Is What You Came For",
-          "duration": "3:41"
-        },
-        {
-          "number": 4,
-          "name": "My Way",
-          "duration": "3:39"
-        },
-        {
-          "number": 5,
-          "name": "One Kiss",
-          "duration": "3:34"
-        },
-        {
-          "number": 6,
-          "name": "Promises",
-          "duration": "3:33"
-        },
-        {
-          "number": 7,
-          "name": "Giant",
-          "duration": "3:49"
-        },
-        {
-          "number": 8,
-          "name": "I'm Not Alone (2019 Edit)",
-          "duration": "3:21"
-        },
-        {
-          "number": 9,
-          "name": "Miracle",
-          "duration": "3:06"
-        },
-        {
-          "number": 10,
-          "name": "Desire",
-          "duration": "2:59"
-        },
-        {
-          "number": 11,
-          "name": "Hypnagogic (I Can't Wait) [edit]",
-          "duration": "3:13"
-        },
-        {
-          "number": 12,
-          "name": "Lovers In A Past Life",
-          "duration": "2:40"
-        },
-        {
-          "number": 13,
-          "name": "Nuh Ready Nuh Ready (feat. PARTYNEXTDOOR)",
-          "duration": "3:04"
-        },
-        {
-          "number": 14,
-          "name": "Body Moving",
-          "duration": "2:34"
-        },
-        {
-          "number": 15,
-          "name": "Live Without Your Love",
-          "duration": "3:25"
-        },
-        {
-          "number": 16,
-          "name": "Lonely (feat. Sananda Maitreya)",
-          "duration": "2:50"
-        },
-        {
-          "number": 17,
-          "name": "By Your Side (feat. Tom Grennan)",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
       "name": "Funk Wav Bounces, Vol. 2",
       "year": "2022",
       "release_date": "2022-08-05",
@@ -476,24 +383,6 @@
       ]
     },
     {
-      "name": "Normani x Calvin Harris",
-      "year": "2018",
-      "release_date": "2018-10-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e3/6a/7f/e36a7feb-468a-d7d0-4431-97bc75f6455e/886447381151.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Checklist (feat. Wizkid)",
-          "duration": "2:49"
-        },
-        {
-          "number": 2,
-          "name": "Slow Down",
-          "duration": "3:25"
-        }
-      ]
-    },
-    {
       "name": "18 Months",
       "year": "2012",
       "release_date": "2012-10-26",
@@ -573,6 +462,117 @@
           "number": 15,
           "name": "Thinking About You (feat. Ayah Marar)",
           "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Normani x Calvin Harris",
+      "year": "2018",
+      "release_date": "2018-10-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e3/6a/7f/e36a7feb-468a-d7d0-4431-97bc75f6455e/886447381151.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Checklist (feat. Wizkid)",
+          "duration": "2:49"
+        },
+        {
+          "number": 2,
+          "name": "Slow Down",
+          "duration": "3:25"
+        }
+      ]
+    },
+    {
+      "name": "96 Months",
+      "year": "2024",
+      "release_date": "2024-08-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/ad/26/96ad26cb-b361-c810-0655-ce66df16b9d2/196872350296.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Free",
+          "duration": "3:32"
+        },
+        {
+          "number": 2,
+          "name": "How Deep Is Your Love",
+          "duration": "3:32"
+        },
+        {
+          "number": 3,
+          "name": "This Is What You Came For",
+          "duration": "3:41"
+        },
+        {
+          "number": 4,
+          "name": "My Way",
+          "duration": "3:39"
+        },
+        {
+          "number": 5,
+          "name": "One Kiss",
+          "duration": "3:34"
+        },
+        {
+          "number": 6,
+          "name": "Promises",
+          "duration": "3:33"
+        },
+        {
+          "number": 7,
+          "name": "Giant",
+          "duration": "3:49"
+        },
+        {
+          "number": 8,
+          "name": "I'm Not Alone (2019 Edit)",
+          "duration": "3:21"
+        },
+        {
+          "number": 9,
+          "name": "Miracle",
+          "duration": "3:06"
+        },
+        {
+          "number": 10,
+          "name": "Desire",
+          "duration": "2:59"
+        },
+        {
+          "number": 11,
+          "name": "Hypnagogic (I Can't Wait) [edit]",
+          "duration": "3:13"
+        },
+        {
+          "number": 12,
+          "name": "Lovers In A Past Life",
+          "duration": "2:40"
+        },
+        {
+          "number": 13,
+          "name": "Nuh Ready Nuh Ready (feat. PARTYNEXTDOOR)",
+          "duration": "3:04"
+        },
+        {
+          "number": 14,
+          "name": "Body Moving",
+          "duration": "2:34"
+        },
+        {
+          "number": 15,
+          "name": "Live Without Your Love",
+          "duration": "3:25"
+        },
+        {
+          "number": 16,
+          "name": "Lonely (feat. Sananda Maitreya)",
+          "duration": "2:50"
+        },
+        {
+          "number": 17,
+          "name": "By Your Side (feat. Tom Grennan)",
+          "duration": "3:09"
         }
       ]
     },
@@ -703,6 +703,99 @@
       ]
     },
     {
+      "name": "96 Months",
+      "year": "2024",
+      "release_date": "2024-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/89/49/af894922-cf13-9a8d-95ce-59ba0b1f971c/196872370911.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Free",
+          "duration": "3:32"
+        },
+        {
+          "number": 2,
+          "name": "How Deep Is Your Love",
+          "duration": "3:32"
+        },
+        {
+          "number": 3,
+          "name": "This Is What You Came For",
+          "duration": "3:41"
+        },
+        {
+          "number": 4,
+          "name": "My Way",
+          "duration": "3:39"
+        },
+        {
+          "number": 5,
+          "name": "One Kiss",
+          "duration": "3:34"
+        },
+        {
+          "number": 6,
+          "name": "Promises",
+          "duration": "3:33"
+        },
+        {
+          "number": 7,
+          "name": "Giant",
+          "duration": "3:49"
+        },
+        {
+          "number": 8,
+          "name": "I'm Not Alone (2019 Edit)",
+          "duration": "3:21"
+        },
+        {
+          "number": 9,
+          "name": "Miracle",
+          "duration": "3:06"
+        },
+        {
+          "number": 10,
+          "name": "Desire",
+          "duration": "2:59"
+        },
+        {
+          "number": 11,
+          "name": "Hypnagogic (I Can't Wait) [edit]",
+          "duration": "3:13"
+        },
+        {
+          "number": 12,
+          "name": "Lovers In A Past Life",
+          "duration": "2:40"
+        },
+        {
+          "number": 13,
+          "name": "Nuh Ready Nuh Ready (feat. PARTYNEXTDOOR)",
+          "duration": "3:04"
+        },
+        {
+          "number": 14,
+          "name": "Body Moving",
+          "duration": "2:34"
+        },
+        {
+          "number": 15,
+          "name": "Live Without Your Love",
+          "duration": "3:25"
+        },
+        {
+          "number": 16,
+          "name": "Lonely (feat. Sananda Maitreya)",
+          "duration": "2:50"
+        },
+        {
+          "number": 17,
+          "name": "By Your Side (feat. Tom Grennan)",
+          "duration": "3:09"
+        }
+      ]
+    },
+    {
       "name": "Promises (Remixes)",
       "year": "2018",
       "release_date": "2018-10-19",
@@ -752,6 +845,94 @@
           "number": 9,
           "name": "Promises (Extended Mix)",
           "duration": "8:27"
+        }
+      ]
+    },
+    {
+      "name": "Ready For The Weekend",
+      "year": "2009",
+      "release_date": "2009-08-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/6c/5f/226c5f3c-8b49-d722-57b0-cf2e6eb59ed0/0617465221651.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Rain",
+          "duration": "4:36"
+        },
+        {
+          "number": 2,
+          "name": "Ready for the Weekend",
+          "duration": "3:37"
+        },
+        {
+          "number": 3,
+          "name": "Stars Come Out",
+          "duration": "4:28"
+        },
+        {
+          "number": 4,
+          "name": "You Used to Hold Me",
+          "duration": "3:51"
+        },
+        {
+          "number": 5,
+          "name": "Blue",
+          "duration": "3:41"
+        },
+        {
+          "number": 6,
+          "name": "I'm Not Alone (Radio Edit)",
+          "duration": "3:31"
+        },
+        {
+          "number": 7,
+          "name": "Flashback",
+          "duration": "3:49"
+        },
+        {
+          "number": 8,
+          "name": "Worst Day",
+          "duration": "3:46"
+        },
+        {
+          "number": 9,
+          "name": "Relax",
+          "duration": "3:49"
+        },
+        {
+          "number": 10,
+          "name": "Limits",
+          "duration": "3:42"
+        },
+        {
+          "number": 11,
+          "name": "Burns Night",
+          "duration": "2:20"
+        },
+        {
+          "number": 12,
+          "name": "Yeah Yeah Yeah La La La",
+          "duration": "3:17"
+        },
+        {
+          "number": 13,
+          "name": "Dance Wiv Me (feat. Calvin Harris & Chrome)",
+          "duration": "4:24"
+        },
+        {
+          "number": 14,
+          "name": "5iliconeator",
+          "duration": "3:29"
+        },
+        {
+          "number": 15,
+          "name": "Greatest Fear",
+          "duration": "6:20"
+        },
+        {
+          "number": 16,
+          "name": "I'm Not Alone (Deadmau5 Mix)",
+          "duration": "8:15"
         }
       ]
     },
@@ -886,187 +1067,6 @@
           "number": 7,
           "name": "Feel So Close (Instrumental)",
           "duration": "3:29"
-        }
-      ]
-    },
-    {
-      "name": "96 Months",
-      "year": "2024",
-      "release_date": "2024-08-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/89/49/af894922-cf13-9a8d-95ce-59ba0b1f971c/196872370911.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Free",
-          "duration": "3:32"
-        },
-        {
-          "number": 2,
-          "name": "How Deep Is Your Love",
-          "duration": "3:32"
-        },
-        {
-          "number": 3,
-          "name": "This Is What You Came For",
-          "duration": "3:41"
-        },
-        {
-          "number": 4,
-          "name": "My Way",
-          "duration": "3:39"
-        },
-        {
-          "number": 5,
-          "name": "One Kiss",
-          "duration": "3:34"
-        },
-        {
-          "number": 6,
-          "name": "Promises",
-          "duration": "3:33"
-        },
-        {
-          "number": 7,
-          "name": "Giant",
-          "duration": "3:49"
-        },
-        {
-          "number": 8,
-          "name": "I'm Not Alone (2019 Edit)",
-          "duration": "3:21"
-        },
-        {
-          "number": 9,
-          "name": "Miracle",
-          "duration": "3:06"
-        },
-        {
-          "number": 10,
-          "name": "Desire",
-          "duration": "2:59"
-        },
-        {
-          "number": 11,
-          "name": "Hypnagogic (I Can't Wait) [edit]",
-          "duration": "3:13"
-        },
-        {
-          "number": 12,
-          "name": "Lovers In A Past Life",
-          "duration": "2:40"
-        },
-        {
-          "number": 13,
-          "name": "Nuh Ready Nuh Ready (feat. PARTYNEXTDOOR)",
-          "duration": "3:04"
-        },
-        {
-          "number": 14,
-          "name": "Body Moving",
-          "duration": "2:34"
-        },
-        {
-          "number": 15,
-          "name": "Live Without Your Love",
-          "duration": "3:25"
-        },
-        {
-          "number": 16,
-          "name": "Lonely (feat. Sananda Maitreya)",
-          "duration": "2:50"
-        },
-        {
-          "number": 17,
-          "name": "By Your Side (feat. Tom Grennan)",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
-      "name": "Ready For The Weekend",
-      "year": "2009",
-      "release_date": "2009-08-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/6c/5f/226c5f3c-8b49-d722-57b0-cf2e6eb59ed0/0617465221651.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Rain",
-          "duration": "4:36"
-        },
-        {
-          "number": 2,
-          "name": "Ready for the Weekend",
-          "duration": "3:37"
-        },
-        {
-          "number": 3,
-          "name": "Stars Come Out",
-          "duration": "4:28"
-        },
-        {
-          "number": 4,
-          "name": "You Used to Hold Me",
-          "duration": "3:51"
-        },
-        {
-          "number": 5,
-          "name": "Blue",
-          "duration": "3:41"
-        },
-        {
-          "number": 6,
-          "name": "I'm Not Alone (Radio Edit)",
-          "duration": "3:31"
-        },
-        {
-          "number": 7,
-          "name": "Flashback",
-          "duration": "3:49"
-        },
-        {
-          "number": 8,
-          "name": "Worst Day",
-          "duration": "3:46"
-        },
-        {
-          "number": 9,
-          "name": "Relax",
-          "duration": "3:49"
-        },
-        {
-          "number": 10,
-          "name": "Limits",
-          "duration": "3:42"
-        },
-        {
-          "number": 11,
-          "name": "Burns Night",
-          "duration": "2:20"
-        },
-        {
-          "number": 12,
-          "name": "Yeah Yeah Yeah La La La",
-          "duration": "3:17"
-        },
-        {
-          "number": 13,
-          "name": "Dance Wiv Me (feat. Calvin Harris & Chrome)",
-          "duration": "4:24"
-        },
-        {
-          "number": 14,
-          "name": "5iliconeator",
-          "duration": "3:29"
-        },
-        {
-          "number": 15,
-          "name": "Greatest Fear",
-          "duration": "6:20"
-        },
-        {
-          "number": 16,
-          "name": "I'm Not Alone (Deadmau5 Mix)",
-          "duration": "8:15"
         }
       ]
     },
@@ -1639,6 +1639,19 @@
       ]
     },
     {
+      "name": "My Way",
+      "year": "2016",
+      "release_date": "2016-09-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/28/e9/a628e979-feae-2271-fae9-d48214bce75a/886446102962.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "My Way",
+          "duration": "3:39"
+        }
+      ]
+    },
+    {
       "name": "One Kiss",
       "year": "2018",
       "release_date": "2018-04-06",
@@ -1648,6 +1661,19 @@
           "number": 1,
           "name": "One Kiss",
           "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "Promises",
+      "year": "2018",
+      "release_date": "2018-08-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/95/94/14/9594147f-63c4-92ba-bfd5-74e8199aba51/886447242926.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Promises",
+          "duration": "3:33"
         }
       ]
     },
@@ -1665,28 +1691,46 @@
       ]
     },
     {
-      "name": "My Way",
-      "year": "2016",
-      "release_date": "2016-09-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/28/e9/a628e979-feae-2271-fae9-d48214bce75a/886446102962.jpg/600x600bb.jpg",
+      "name": "Under Control (feat. Hurts)",
+      "year": "2013",
+      "release_date": "2013-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/9a/52/5b9a52f0-ae0f-9236-8cf7-b5c1531cc179/886444257138.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "My Way",
-          "duration": "3:39"
+          "name": "Under Control (feat. Hurts)",
+          "duration": "3:04"
         }
       ]
     },
     {
-      "name": "Promises",
-      "year": "2018",
-      "release_date": "2018-08-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/95/94/14/9594147f-63c4-92ba-bfd5-74e8199aba51/886447242926.jpg/600x600bb.jpg",
+      "name": "I Need Your Love (feat. Ellie Goulding) [Remixes]",
+      "year": "2013",
+      "release_date": "2013-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/eb/6e/bb/eb6ebba2-2ae1-4684-ff2f-ffe425e96a26/dj.dgiuyuff.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Promises",
-          "duration": "3:33"
+          "name": "I Need Your Love (feat. Ellie Goulding) [Nicky Romero Remix]",
+          "duration": "5:44"
+        },
+        {
+          "number": 2,
+          "name": "I Need Your Love (feat. Ellie Goulding) [Jacob Plant Remix]",
+          "duration": "4:50"
+        }
+      ]
+    },
+    {
+      "name": "Miracle",
+      "year": "2023",
+      "release_date": "2023-03-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/3b/3c/663b3cbf-4fdc-3806-e6e4-8a61c8a84ec0/196589934475.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Miracle",
+          "duration": "3:06"
         }
       ]
     },
@@ -1713,63 +1757,6 @@
           "number": 1,
           "name": "Giant",
           "duration": "3:49"
-        }
-      ]
-    },
-    {
-      "name": "Under Control (feat. Hurts)",
-      "year": "2013",
-      "release_date": "2013-10-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/9a/52/5b9a52f0-ae0f-9236-8cf7-b5c1531cc179/886444257138.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Under Control (feat. Hurts)",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "Miracle",
-      "year": "2023",
-      "release_date": "2023-03-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/3b/3c/663b3cbf-4fdc-3806-e6e4-8a61c8a84ec0/196589934475.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Miracle",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
-      "name": "I Need Your Love (feat. Ellie Goulding) [Remixes]",
-      "year": "2013",
-      "release_date": "2013-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/eb/6e/bb/eb6ebba2-2ae1-4684-ff2f-ffe425e96a26/dj.dgiuyuff.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Need Your Love (feat. Ellie Goulding) [Nicky Romero Remix]",
-          "duration": "5:44"
-        },
-        {
-          "number": 2,
-          "name": "I Need Your Love (feat. Ellie Goulding) [Jacob Plant Remix]",
-          "duration": "4:50"
-        }
-      ]
-    },
-    {
-      "name": "I Found You / Nilda's Story",
-      "year": "2019",
-      "release_date": "2019-01-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e7/43/94/e7439476-08fd-a9d9-aa6e-7569eaeb0a9d/00602577384387.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Found You / Nilda's Story",
-          "duration": "3:11"
         }
       ]
     },
@@ -1836,14 +1823,14 @@
       ]
     },
     {
-      "name": "Blessings",
+      "name": "Ocean",
       "year": "2025",
-      "release_date": "2025-05-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/6d/db/806ddb68-79b2-bacd-8441-eba07b192e59/196873126555.jpg/600x600bb.jpg",
+      "release_date": "2025-09-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/1c/b5/131cb57c-5556-5b84-12f0-c2aafc5641d3/196873535401.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Blessings",
+          "name": "Ocean",
           "duration": "3:39"
         }
       ]
@@ -1875,41 +1862,28 @@
       ]
     },
     {
-      "name": "Desire",
-      "year": "2023",
-      "release_date": "2023-07-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/43/52/d2435238-84c2-1264-4e43-928dc5c1b720/196871283625.jpg/600x600bb.jpg",
+      "name": "I Found You / Nilda's Story",
+      "year": "2019",
+      "release_date": "2019-01-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e7/43/94/e7439476-08fd-a9d9-aa6e-7569eaeb0a9d/00602577384387.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Desire",
-          "duration": "2:59"
+          "name": "I Found You / Nilda's Story",
+          "duration": "3:11"
         }
       ]
     },
     {
-      "name": "Ocean",
-      "year": "2025",
-      "release_date": "2025-09-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/1c/b5/131cb57c-5556-5b84-12f0-c2aafc5641d3/196873535401.jpg/600x600bb.jpg",
+      "name": "Free",
+      "year": "2024",
+      "release_date": "2024-07-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/58/b2/d458b28f-8a7c-9ad7-4626-c8728f9f6905/196872301731.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Ocean",
-          "duration": "3:39"
-        }
-      ]
-    },
-    {
-      "name": "Release The Pressure",
-      "year": "2026",
-      "release_date": "2026-02-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/f1/4e/b8f14ed9-35eb-de4a-63db-ffb9e226406b/196874023884.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Release The Pressure",
-          "duration": "3:23"
+          "name": "Free",
+          "duration": "3:32"
         }
       ]
     },
@@ -1953,6 +1927,45 @@
       ]
     },
     {
+      "name": "Release The Pressure",
+      "year": "2026",
+      "release_date": "2026-02-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/f1/4e/b8f14ed9-35eb-de4a-63db-ffb9e226406b/196874023884.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Release The Pressure",
+          "duration": "3:23"
+        }
+      ]
+    },
+    {
+      "name": "Blessings",
+      "year": "2025",
+      "release_date": "2025-05-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/6d/db/806ddb68-79b2-bacd-8441-eba07b192e59/196873126555.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blessings",
+          "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "Desire",
+      "year": "2023",
+      "release_date": "2023-07-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/43/52/d2435238-84c2-1264-4e43-928dc5c1b720/196871283625.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Desire",
+          "duration": "2:59"
+        }
+      ]
+    },
+    {
       "name": "My Way (Tiësto Remix)",
       "year": "2016",
       "release_date": "2016-11-04",
@@ -1962,19 +1975,6 @@
           "number": 1,
           "name": "My Way (Tiësto Remix)",
           "duration": "3:42"
-        }
-      ]
-    },
-    {
-      "name": "Sweet Nothing (2025 Edit) [feat. Florence Welch]",
-      "year": "2025",
-      "release_date": "2025-08-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/9b/a6/a19ba6ca-8177-1a59-3f3c-35574cf6e8f1/196873518626.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sweet Nothing (feat. Florence Welch) [2025 Edit]",
-          "duration": "3:22"
         }
       ]
     },
@@ -2036,19 +2036,6 @@
       ]
     },
     {
-      "name": "Free",
-      "year": "2024",
-      "release_date": "2024-07-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/58/b2/d458b28f-8a7c-9ad7-4626-c8728f9f6905/196872301731.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Free",
-          "duration": "3:32"
-        }
-      ]
-    },
-    {
       "name": "Pray to God (feat. HAIM) [Remixes]",
       "year": "2015",
       "release_date": "2015-09-25",
@@ -2068,19 +2055,6 @@
           "number": 3,
           "name": "Pray to God (feat. HAIM) [Calvin Harris vs Mike Pickering Hacienda Extended Remix]",
           "duration": "7:33"
-        }
-      ]
-    },
-    {
-      "name": "Release The Pressure (VIP Mix)",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/75/ed/c775ed00-23c0-9f1c-e90c-ebdc9d258fcc/196874134450.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Release The Pressure (VIP Mix)",
-          "duration": "2:51"
         }
       ]
     },
@@ -2107,6 +2081,19 @@
           "number": 1,
           "name": "Live Without Your Love",
           "duration": "3:25"
+        }
+      ]
+    },
+    {
+      "name": "Release The Pressure (VIP Mix)",
+      "year": "2026",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/75/ed/c775ed00-23c0-9f1c-e90c-ebdc9d258fcc/196874134450.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Release The Pressure (VIP Mix)",
+          "duration": "2:51"
         }
       ]
     },
@@ -2173,41 +2160,28 @@
       ]
     },
     {
-      "name": "Body Moving",
-      "year": "2023",
-      "release_date": "2023-11-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/b1/39/2cb139e3-cea6-d36a-a6e5-da200d3525c1/196871603706.jpg/600x600bb.jpg",
+      "name": "Blessings (THEMBA Remix)",
+      "year": "2025",
+      "release_date": "2025-07-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/70/03/637003b2-6d81-e4c3-9bc4-1a1ef7d68de2/196873381237.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Body Moving",
-          "duration": "2:34"
+          "name": "Blessings (THEMBA Remix)",
+          "duration": "3:27"
         }
       ]
     },
     {
-      "name": "Blessings (Cassian Remix)",
+      "name": "Sweet Nothing (2025 Edit) [feat. Florence Welch]",
       "year": "2025",
-      "release_date": "2025-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/54/ac/6154ac55-165a-533c-50b1-802b06c2d5e2/196873387284.jpg/600x600bb.jpg",
+      "release_date": "2025-08-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/9b/a6/a19ba6ca-8177-1a59-3f3c-35574cf6e8f1/196873518626.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Blessings (Cassian Remix)",
-          "duration": "4:08"
-        }
-      ]
-    },
-    {
-      "name": "Blessings (Extended Mix)",
-      "year": "2025",
-      "release_date": "2025-05-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/1b/32/6a1b329e-b143-c598-0d26-a7d7037e9272/196873126586.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blessings (Extended Mix)",
-          "duration": "5:30"
+          "name": "Sweet Nothing (feat. Florence Welch) [2025 Edit]",
+          "duration": "3:22"
         }
       ]
     },
@@ -2221,6 +2195,19 @@
           "number": 1,
           "name": "Desire (Extended)",
           "duration": "4:32"
+        }
+      ]
+    },
+    {
+      "name": "Body Moving",
+      "year": "2023",
+      "release_date": "2023-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/b1/39/2cb139e3-cea6-d36a-a6e5-da200d3525c1/196871603706.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Body Moving",
+          "duration": "2:34"
         }
       ]
     },
@@ -2290,6 +2277,19 @@
       ]
     },
     {
+      "name": "Blessings (Extended Mix)",
+      "year": "2025",
+      "release_date": "2025-05-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/1b/32/6a1b329e-b143-c598-0d26-a7d7037e9272/196873126586.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blessings (Extended Mix)",
+          "duration": "5:30"
+        }
+      ]
+    },
+    {
       "name": "SMOKE THE PAIN AWAY",
       "year": "2025",
       "release_date": "2025-03-14",
@@ -2299,6 +2299,19 @@
           "number": 1,
           "name": "SMOKE THE PAIN AWAY",
           "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "Giant (Riva Starr Tribe Vibe Remix)",
+      "year": "2024",
+      "release_date": "2024-09-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/dc/6a/f3dc6adc-800d-34b9-ad6b-fe0bcd72c898/196872436235.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Giant (Riva Starr Tribe Vibe Remix)",
+          "duration": "3:10"
         }
       ]
     },
@@ -2516,19 +2529,6 @@
       ]
     },
     {
-      "name": "Free (Nicky Romero Remix)",
-      "year": "2024",
-      "release_date": "2024-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/15/1a/aa151a11-9c47-c0d4-f201-740892c1b838/196872484359.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Free (Nicky Romero Remix)",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
       "name": "Miracle (Hardwell Remix)",
       "year": "2023",
       "release_date": "2023-04-14",
@@ -2643,6 +2643,19 @@
       ]
     },
     {
+      "name": "Blessings (Cassian Remix)",
+      "year": "2025",
+      "release_date": "2025-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/54/ac/6154ac55-165a-533c-50b1-802b06c2d5e2/196873387284.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blessings (Cassian Remix)",
+          "duration": "4:08"
+        }
+      ]
+    },
+    {
       "name": "Blessings (KETTAMA Remix)",
       "year": "2025",
       "release_date": "2025-07-11",
@@ -2683,19 +2696,6 @@
           "number": 2,
           "name": "Body Moving",
           "duration": "2:34"
-        }
-      ]
-    },
-    {
-      "name": "Release The Pressure (Rebūke Remix)",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/15/78/1f157874-87e9-b14f-4c8c-b0dbbf7261fa/196874240137.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Release The Pressure (Rebūke Remix)",
-          "duration": "2:50"
         }
       ]
     },
@@ -2826,6 +2826,19 @@
           "number": 1,
           "name": "Hype (Flosstradamus Remix)",
           "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Free (Nicky Romero Remix)",
+      "year": "2024",
+      "release_date": "2024-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/15/1a/aa151a11-9c47-c0d4-f201-740892c1b838/196872484359.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Free (Nicky Romero Remix)",
+          "duration": "3:44"
         }
       ]
     },
@@ -3021,19 +3034,6 @@
       ]
     },
     {
-      "name": "Blessings (THEMBA Remix)",
-      "year": "2025",
-      "release_date": "2025-07-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/70/03/637003b2-6d81-e4c3-9bc4-1a1ef7d68de2/196873381237.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blessings (THEMBA Remix)",
-          "duration": "3:27"
-        }
-      ]
-    },
-    {
       "name": "Blessings (Morgan Seatree Remix)",
       "year": "2025",
       "release_date": "2025-06-27",
@@ -3082,19 +3082,6 @@
           "number": 1,
           "name": "I'm Not Alone (Oliver Heldens & Centre Court Remix)",
           "duration": "2:56"
-        }
-      ]
-    },
-    {
-      "name": "Giant (Riva Starr Tribe Vibe Remix)",
-      "year": "2024",
-      "release_date": "2024-09-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/dc/6a/f3dc6adc-800d-34b9-ad6b-fe0bcd72c898/196872436235.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Giant (Riva Starr Tribe Vibe Remix)",
-          "duration": "3:10"
         }
       ]
     },
@@ -3225,6 +3212,19 @@
           "number": 1,
           "name": "Desire (Hannah Laing Remix)",
           "duration": "3:08"
+        }
+      ]
+    },
+    {
+      "name": "Release The Pressure (Rebūke Remix)",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/15/78/1f157874-87e9-b14f-4c8c-b0dbbf7261fa/196874240137.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Release The Pressure (Rebūke Remix)",
+          "duration": "2:50"
         }
       ]
     },
@@ -3470,34 +3470,6 @@
   ],
   "eps": [
     {
-      "name": "How Deep Is Your Love (Remixes)",
-      "year": "2015",
-      "release_date": "2015-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/14/ec/0a14ecf0-e123-f439-723f-d72f38a6d2f9/886445437676.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "How Deep Is Your Love (Extended Mix)",
-          "duration": "5:56"
-        },
-        {
-          "number": 2,
-          "name": "How Deep Is Your Love (Calvin Harris & R3hab Remix)",
-          "duration": "4:18"
-        },
-        {
-          "number": 3,
-          "name": "How Deep Is Your Love (Chris Lake Remix)",
-          "duration": "5:08"
-        },
-        {
-          "number": 4,
-          "name": "How Deep Is Your Love (Disciples & Unorthodox Remix)",
-          "duration": "6:04"
-        }
-      ]
-    },
-    {
       "name": "Sweet Nothing (feat. Florence Welch) [Remixes]",
       "year": "2012",
       "release_date": "2012-12-11",
@@ -3527,34 +3499,6 @@
           "number": 5,
           "name": "Sweet Nothing (feat. Florence Welch) [Qulinez Remix]",
           "duration": "6:12"
-        }
-      ]
-    },
-    {
-      "name": "Summer (Remixes)",
-      "year": "2014",
-      "release_date": "2014-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/bc/aa/27bcaa0a-dd57-58a5-7d16-7b48a618e439/886444678520.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Summer (Extended Mix)",
-          "duration": "4:56"
-        },
-        {
-          "number": 2,
-          "name": "Summer (Diplo & Grandtheft Remix)",
-          "duration": "4:27"
-        },
-        {
-          "number": 3,
-          "name": "Summer (R3hab & Ummet Ozcan Remix)",
-          "duration": "4:40"
-        },
-        {
-          "number": 4,
-          "name": "Summer (Twoloud Remix)",
-          "duration": "5:22"
         }
       ]
     },
@@ -3597,30 +3541,58 @@
       ]
     },
     {
-      "name": "Moving",
-      "year": "2020",
-      "release_date": "2020-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3d/9d/06/3d9d062b-7c33-1f3f-2880-a6b16dcfbb8f/886448368618.jpg/600x600bb.jpg",
+      "name": "Summer (Remixes)",
+      "year": "2014",
+      "release_date": "2014-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/bc/aa/27bcaa0a-dd57-58a5-7d16-7b48a618e439/886444678520.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Moving [edit]",
-          "duration": "3:13"
+          "name": "Summer (Extended Mix)",
+          "duration": "4:56"
         },
         {
           "number": 2,
-          "name": "Don't You Want Me [edit]",
-          "duration": "3:29"
+          "name": "Summer (Diplo & Grandtheft Remix)",
+          "duration": "4:27"
         },
         {
           "number": 3,
-          "name": "Moving",
-          "duration": "5:52"
+          "name": "Summer (R3hab & Ummet Ozcan Remix)",
+          "duration": "4:40"
         },
         {
           "number": 4,
-          "name": "Don't You Want Me",
-          "duration": "5:26"
+          "name": "Summer (Twoloud Remix)",
+          "duration": "5:22"
+        }
+      ]
+    },
+    {
+      "name": "How Deep Is Your Love (Remixes)",
+      "year": "2015",
+      "release_date": "2015-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/14/ec/0a14ecf0-e123-f439-723f-d72f38a6d2f9/886445437676.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "How Deep Is Your Love (Extended Mix)",
+          "duration": "5:56"
+        },
+        {
+          "number": 2,
+          "name": "How Deep Is Your Love (Calvin Harris & R3hab Remix)",
+          "duration": "4:18"
+        },
+        {
+          "number": 3,
+          "name": "How Deep Is Your Love (Chris Lake Remix)",
+          "duration": "5:08"
+        },
+        {
+          "number": 4,
+          "name": "How Deep Is Your Love (Disciples & Unorthodox Remix)",
+          "duration": "6:04"
         }
       ]
     },
@@ -3824,6 +3796,34 @@
           "number": 4,
           "name": "CP-1",
           "duration": "5:56"
+        }
+      ]
+    },
+    {
+      "name": "Moving",
+      "year": "2020",
+      "release_date": "2020-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3d/9d/06/3d9d062b-7c33-1f3f-2880-a6b16dcfbb8f/886448368618.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Moving [edit]",
+          "duration": "3:13"
+        },
+        {
+          "number": 2,
+          "name": "Don't You Want Me [edit]",
+          "duration": "3:29"
+        },
+        {
+          "number": 3,
+          "name": "Moving",
+          "duration": "5:52"
+        },
+        {
+          "number": 4,
+          "name": "Don't You Want Me",
+          "duration": "5:26"
         }
       ]
     },
@@ -4087,39 +4087,6 @@
       ]
     },
     {
-      "name": "Ocean (Remixes)",
-      "year": "2025",
-      "release_date": "2025-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/b0/71/b2b0718e-8ac3-5aed-1890-fc545b06df7b/196873762234.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ocean (Mike Williams Remix)",
-          "duration": "3:06"
-        },
-        {
-          "number": 2,
-          "name": "Ocean (Olly James Remix)",
-          "duration": "3:48"
-        },
-        {
-          "number": 3,
-          "name": "Ocean (Yotto Remix)",
-          "duration": "3:26"
-        },
-        {
-          "number": 4,
-          "name": "Ocean (SLVR Remix)",
-          "duration": "2:49"
-        },
-        {
-          "number": 5,
-          "name": "Ocean (.EXA Remix)",
-          "duration": "4:02"
-        }
-      ]
-    },
-    {
       "name": "I'm Not Alone 2019",
       "year": "2019",
       "release_date": "2019-04-05",
@@ -4200,6 +4167,39 @@
           "number": 4,
           "name": "Colours (Seamus Haji Big Love Dub)",
           "duration": "7:20"
+        }
+      ]
+    },
+    {
+      "name": "Ocean (Remixes)",
+      "year": "2025",
+      "release_date": "2025-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/b0/71/b2b0718e-8ac3-5aed-1890-fc545b06df7b/196873762234.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ocean (Mike Williams Remix)",
+          "duration": "3:06"
+        },
+        {
+          "number": 2,
+          "name": "Ocean (Olly James Remix)",
+          "duration": "3:48"
+        },
+        {
+          "number": 3,
+          "name": "Ocean (Yotto Remix)",
+          "duration": "3:26"
+        },
+        {
+          "number": 4,
+          "name": "Ocean (SLVR Remix)",
+          "duration": "2:49"
+        },
+        {
+          "number": 5,
+          "name": "Ocean (.EXA Remix)",
+          "duration": "4:02"
         }
       ]
     },

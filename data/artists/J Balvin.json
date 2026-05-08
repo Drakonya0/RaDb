@@ -51,64 +51,6 @@
       ]
     },
     {
-      "name": "Colores",
-      "year": "2020",
-      "release_date": "2020-03-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ae/b3/66/aeb36667-f9b2-c455-c3fc-a53bbd5ec4c1/20UMGIM10542.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Amarillo",
-          "duration": "2:37"
-        },
-        {
-          "number": 2,
-          "name": "Azul",
-          "duration": "3:25"
-        },
-        {
-          "number": 3,
-          "name": "Rojo",
-          "duration": "2:30"
-        },
-        {
-          "number": 4,
-          "name": "Rosa",
-          "duration": "3:09"
-        },
-        {
-          "number": 5,
-          "name": "Morado",
-          "duration": "3:20"
-        },
-        {
-          "number": 6,
-          "name": "Verde",
-          "duration": "2:22"
-        },
-        {
-          "number": 7,
-          "name": "Negro",
-          "duration": "3:02"
-        },
-        {
-          "number": 8,
-          "name": "Gris",
-          "duration": "2:56"
-        },
-        {
-          "number": 9,
-          "name": "Arcoíris",
-          "duration": "3:06"
-        },
-        {
-          "number": 10,
-          "name": "Blanco",
-          "duration": "2:25"
-        }
-      ]
-    },
-    {
       "name": "Vibras",
       "year": "2018",
       "release_date": "2018-05-25",
@@ -183,6 +125,64 @@
           "number": 14,
           "name": "Machika",
           "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Colores",
+      "year": "2020",
+      "release_date": "2020-03-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ae/b3/66/aeb36667-f9b2-c455-c3fc-a53bbd5ec4c1/20UMGIM10542.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Amarillo",
+          "duration": "2:37"
+        },
+        {
+          "number": 2,
+          "name": "Azul",
+          "duration": "3:25"
+        },
+        {
+          "number": 3,
+          "name": "Rojo",
+          "duration": "2:30"
+        },
+        {
+          "number": 4,
+          "name": "Rosa",
+          "duration": "3:09"
+        },
+        {
+          "number": 5,
+          "name": "Morado",
+          "duration": "3:20"
+        },
+        {
+          "number": 6,
+          "name": "Verde",
+          "duration": "2:22"
+        },
+        {
+          "number": 7,
+          "name": "Negro",
+          "duration": "3:02"
+        },
+        {
+          "number": 8,
+          "name": "Gris",
+          "duration": "2:56"
+        },
+        {
+          "number": 9,
+          "name": "Arcoíris",
+          "duration": "3:06"
+        },
+        {
+          "number": 10,
+          "name": "Blanco",
+          "duration": "2:25"
         }
       ]
     },
@@ -315,6 +315,89 @@
       ]
     },
     {
+      "name": "La Familia",
+      "year": "2013",
+      "release_date": "2013-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b4/1e/01/b41e0185-01ad-57c3-9a59-b5779ebb5fd2/13UAEIM00023.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sola",
+          "duration": "3:46"
+        },
+        {
+          "number": 2,
+          "name": "La Venganza",
+          "duration": "3:26"
+        },
+        {
+          "number": 3,
+          "name": "Déjate Llevar",
+          "duration": "3:10"
+        },
+        {
+          "number": 4,
+          "name": "Mil Fantasías",
+          "duration": "3:41"
+        },
+        {
+          "number": 5,
+          "name": "6 AM (feat. Farruko)",
+          "duration": "4:03"
+        },
+        {
+          "number": 6,
+          "name": "Lose Control (feat. Vein)",
+          "duration": "4:53"
+        },
+        {
+          "number": 7,
+          "name": "Eras Así",
+          "duration": "3:46"
+        },
+        {
+          "number": 8,
+          "name": "What a Creation",
+          "duration": "2:28"
+        },
+        {
+          "number": 9,
+          "name": "Desnúdate",
+          "duration": "3:42"
+        },
+        {
+          "number": 10,
+          "name": "Imaginándote",
+          "duration": "3:35"
+        },
+        {
+          "number": 11,
+          "name": "Bajo la Luna",
+          "duration": "3:35"
+        },
+        {
+          "number": 12,
+          "name": "Live In Stereo (feat. Motiff)",
+          "duration": "3:30"
+        },
+        {
+          "number": 13,
+          "name": "Porque Tu",
+          "duration": "2:54"
+        },
+        {
+          "number": 14,
+          "name": "Tranquila",
+          "duration": "3:19"
+        },
+        {
+          "number": 15,
+          "name": "Yo Te Lo Dije",
+          "duration": "3:39"
+        }
+      ]
+    },
+    {
       "name": "Energía",
       "year": "2016",
       "release_date": "2016-06-24",
@@ -398,85 +481,70 @@
       ]
     },
     {
-      "name": "La Familia",
-      "year": "2013",
-      "release_date": "2013-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b4/1e/01/b41e0185-01ad-57c3-9a59-b5779ebb5fd2/13UAEIM00023.rgb.jpg/600x600bb.jpg",
+      "name": "Mixteip",
+      "year": "2025",
+      "release_date": "2025-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/59/00/975900e5-7019-4424-5500-27f7f23a1b07/25UM1IM07273.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Sola",
-          "duration": "3:46"
+          "name": "Bruz Wein",
+          "duration": "2:43"
         },
         {
           "number": 2,
-          "name": "La Venganza",
-          "duration": "3:26"
+          "name": "Zun Zun",
+          "duration": "3:16"
         },
         {
           "number": 3,
-          "name": "Déjate Llevar",
-          "duration": "3:10"
+          "name": "Uuu",
+          "duration": "1:50"
         },
         {
           "number": 4,
-          "name": "Mil Fantasías",
-          "duration": "3:41"
+          "name": "PQBL",
+          "duration": "2:26"
         },
         {
           "number": 5,
-          "name": "6 AM (feat. Farruko)",
-          "duration": "4:03"
+          "name": "⁠No Te Olvido",
+          "duration": "2:20"
         },
         {
           "number": 6,
-          "name": "Lose Control (feat. Vein)",
-          "duration": "4:53"
+          "name": "Misterio",
+          "duration": "3:48"
         },
         {
           "number": 7,
-          "name": "Eras Así",
-          "duration": "3:46"
+          "name": "St. Tropez",
+          "duration": "2:18"
         },
         {
           "number": 8,
-          "name": "What a Creation",
-          "duration": "2:28"
-        },
-        {
-          "number": 9,
-          "name": "Desnúdate",
-          "duration": "3:42"
-        },
-        {
-          "number": 10,
-          "name": "Imaginándote",
-          "duration": "3:35"
-        },
-        {
-          "number": 11,
-          "name": "Bajo la Luna",
-          "duration": "3:35"
-        },
-        {
-          "number": 12,
-          "name": "Live In Stereo (feat. Motiff)",
-          "duration": "3:30"
-        },
-        {
-          "number": 13,
-          "name": "Porque Tu",
-          "duration": "2:54"
-        },
-        {
-          "number": 14,
-          "name": "Tranquila",
+          "name": "KLK",
           "duration": "3:19"
         },
         {
-          "number": 15,
-          "name": "Yo Te Lo Dije",
-          "duration": "3:39"
+          "number": 9,
+          "name": "Rio",
+          "duration": "3:08"
+        },
+        {
+          "number": 10,
+          "name": "Dónde Está Jose?",
+          "duration": "0:58"
+        },
+        {
+          "number": 11,
+          "name": "Noventa",
+          "duration": "2:26"
+        },
+        {
+          "number": 12,
+          "name": "Si Te Vas",
+          "duration": "3:18"
         }
       ]
     },
@@ -746,6 +814,64 @@
           "number": 21,
           "name": "La Venganza (Vein Remix)",
           "duration": "2:40"
+        }
+      ]
+    },
+    {
+      "name": "OMERTA",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/45/67/0745672c-89f7-57f5-5218-f4066dbc927d/26UMGIM24423.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Una A La Vez",
+          "duration": "2:32"
+        },
+        {
+          "number": 2,
+          "name": "Dalmation",
+          "duration": "3:36"
+        },
+        {
+          "number": 3,
+          "name": "Melo",
+          "duration": "2:24"
+        },
+        {
+          "number": 4,
+          "name": "GWA",
+          "duration": "3:56"
+        },
+        {
+          "number": 5,
+          "name": "Medetown",
+          "duration": "3:01"
+        },
+        {
+          "number": 6,
+          "name": "Bengalí",
+          "duration": "3:31"
+        },
+        {
+          "number": 7,
+          "name": "Pal Agua",
+          "duration": "3:26"
+        },
+        {
+          "number": 8,
+          "name": "Viernes",
+          "duration": "3:40"
+        },
+        {
+          "number": 9,
+          "name": "Tonto",
+          "duration": "2:20"
+        },
+        {
+          "number": 10,
+          "name": "Omerta",
+          "duration": "3:06"
         }
       ]
     },
@@ -1176,132 +1302,6 @@
       ]
     },
     {
-      "name": "OMERTA",
-      "year": "2026",
-      "release_date": "2026-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/b3/c6/97b3c65a-17fc-5001-673e-dfd59c35022a/26UMGIM24423.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Una A La Vez",
-          "duration": "2:32"
-        },
-        {
-          "number": 2,
-          "name": "Dalmation",
-          "duration": "3:36"
-        },
-        {
-          "number": 3,
-          "name": "Melo",
-          "duration": "2:24"
-        },
-        {
-          "number": 4,
-          "name": "GWA",
-          "duration": "3:56"
-        },
-        {
-          "number": 5,
-          "name": "Medetown",
-          "duration": "3:01"
-        },
-        {
-          "number": 6,
-          "name": "Bengalí",
-          "duration": "3:31"
-        },
-        {
-          "number": 7,
-          "name": "Pal Agua",
-          "duration": "3:26"
-        },
-        {
-          "number": 8,
-          "name": "Viernes",
-          "duration": "3:40"
-        },
-        {
-          "number": 9,
-          "name": "Tonto",
-          "duration": "2:20"
-        },
-        {
-          "number": 10,
-          "name": "Omerta",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
-      "name": "Mixteip",
-      "year": "2025",
-      "release_date": "2025-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/59/00/975900e5-7019-4424-5500-27f7f23a1b07/25UM1IM07273.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bruz Wein",
-          "duration": "2:43"
-        },
-        {
-          "number": 2,
-          "name": "Zun Zun",
-          "duration": "3:16"
-        },
-        {
-          "number": 3,
-          "name": "Uuu",
-          "duration": "1:50"
-        },
-        {
-          "number": 4,
-          "name": "PQBL",
-          "duration": "2:26"
-        },
-        {
-          "number": 5,
-          "name": "⁠No Te Olvido",
-          "duration": "2:20"
-        },
-        {
-          "number": 6,
-          "name": "Misterio",
-          "duration": "3:48"
-        },
-        {
-          "number": 7,
-          "name": "St. Tropez",
-          "duration": "2:18"
-        },
-        {
-          "number": 8,
-          "name": "KLK",
-          "duration": "3:19"
-        },
-        {
-          "number": 9,
-          "name": "Rio",
-          "duration": "3:08"
-        },
-        {
-          "number": 10,
-          "name": "Dónde Está Jose?",
-          "duration": "0:58"
-        },
-        {
-          "number": 11,
-          "name": "Noventa",
-          "duration": "2:26"
-        },
-        {
-          "number": 12,
-          "name": "Si Te Vas",
-          "duration": "3:18"
-        }
-      ]
-    },
-    {
       "name": "Contra La Pared (Remixes)",
       "year": "2019",
       "release_date": "2019-06-17",
@@ -1583,6 +1583,45 @@
   ],
   "singles": [
     {
+      "name": "China (feat. J Balvin & Ozuna)",
+      "year": "2019",
+      "release_date": "2019-07-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/a2/e6/75a2e657-0373-2667-cfbb-ee2247f4dff8/194491110918.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "China (feat. J Balvin & Ozuna)",
+          "duration": "5:01"
+        }
+      ]
+    },
+    {
+      "name": "Baila Baila Baila (feat. Farruko, Anuel AA) [Remix]",
+      "year": "2019",
+      "release_date": "2019-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/16/71/df/1671df3a-2260-253f-7207-9c3dbddf53c1/193483775180.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Baila Baila Baila (feat. Daddy Yankee, J Balvin, Farruko & Anuel AA) [Remix]",
+          "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "Mi Gente (feat. Beyoncé)",
+      "year": "2017",
+      "release_date": "2017-09-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f4/57/d4/f457d4db-5866-42ba-d38e-c0a51cbd8ed7/00602567071143.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mi Gente (feat. Beyoncé)",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
       "name": "Sensualidad (feat. Mambo Kingz & DJ Luian)",
       "year": "2017",
       "release_date": "2017-11-03",
@@ -1622,28 +1661,33 @@
       ]
     },
     {
-      "name": "Baila Baila Baila (feat. Farruko, Anuel AA) [Remix]",
-      "year": "2019",
-      "release_date": "2019-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/16/71/df/1671df3a-2260-253f-7207-9c3dbddf53c1/193483775180.jpg/600x600bb.jpg",
+      "name": "Poblado (Remix) [feat. Crissin, Totoy El Frio & Natan & Shander]",
+      "year": "2021",
+      "release_date": "2021-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/52/36/83523674-d974-9baa-9f5d-66fbed5b5184/21UMGIM56246.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Baila Baila Baila (feat. Daddy Yankee, J Balvin, Farruko & Anuel AA) [Remix]",
-          "duration": "3:55"
+          "name": "Poblado (feat. Crissin, Totoy El Frio & Natan & Shander) [Remix]",
+          "duration": "6:32"
         }
       ]
     },
     {
-      "name": "China (feat. J Balvin & Ozuna)",
-      "year": "2019",
-      "release_date": "2019-07-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/a2/e6/75a2e657-0373-2667-cfbb-ee2247f4dff8/194491110918.jpg/600x600bb.jpg",
+      "name": "Sigue/Forever My Love",
+      "year": "2022",
+      "release_date": "2022-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/87/2b/df/872bdf7c-193a-44fa-e254-5946a73f9d8c/22UMGIM29244.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "China (feat. J Balvin & Ozuna)",
-          "duration": "5:01"
+          "name": "Sigue",
+          "duration": "2:39"
+        },
+        {
+          "number": 2,
+          "name": "Forever My Love",
+          "duration": "3:10"
         }
       ]
     },
@@ -1657,6 +1701,89 @@
           "number": 1,
           "name": "I Like It (Dillon Francis Remix)",
           "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "Bonita",
+      "year": "2017",
+      "release_date": "2017-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/26/7d/42/267d4276-25d3-d577-cbec-2c814546dc5f/17UM1IM02506.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bonita",
+          "duration": "4:25"
+        }
+      ]
+    },
+    {
+      "name": "I Can't Get Enough",
+      "year": "2019",
+      "release_date": "2019-02-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/7a/a6/3c7aa662-5068-b267-d2cc-bb4a72d9499d/19UMGIM15670.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Can't Get Enough",
+          "duration": "2:38"
+        }
+      ]
+    },
+    {
+      "name": "Con Altura (feat. El Guincho)",
+      "year": "2019",
+      "release_date": "2019-03-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/72/d5/8272d5ad-49b7-f80a-59ec-0160215d2b86/886447616925.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Con Altura (feat. El Guincho)",
+          "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "X (Remix) [feat. Maluma & Ozuna]",
+      "year": "2018",
+      "release_date": "2018-06-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/f2/4f/ecf24fc5-d4fb-eaca-ee7c-3780bf35c050/886447182741.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "X (feat. Maluma & Ozuna) [Remix]",
+          "duration": "3:56"
+        }
+      ]
+    },
+    {
+      "name": "Downtown",
+      "year": "2017",
+      "release_date": "2017-11-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/73/79/dd7379d2-881e-1115-1259-00f1f17a9122/190296928536.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Downtown",
+          "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "I Adore You (feat. Topic, Arash & Daecolm)",
+      "year": "2024",
+      "release_date": "2024-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/b1/f6/31b1f62c-d510-72b1-e5e3-c76899ecb32c/24UM1IM17396.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Adore You (feat. Topic, Arash & Daecolm)",
+          "duration": "3:00"
+        },
+        {
+          "number": 2,
+          "name": "I Adore You (feat. Daecolm)",
+          "duration": "3:34"
         }
       ]
     },
@@ -1687,102 +1814,6 @@
       ]
     },
     {
-      "name": "Sorry (Latino Remix) [feat. J Balvin]",
-      "year": "2015",
-      "release_date": "2015-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/97/56/1d97569e-42d7-9a84-8fa5-7517e6e8a425/15UMGIM67938.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sorry (Latino Remix) [feat. J Balvin]",
-          "duration": "3:39"
-        }
-      ]
-    },
-    {
-      "name": "AM Remix",
-      "year": "2021",
-      "release_date": "2021-06-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/34/9e/7c349e67-f967-951d-52c4-54e003f50d40/196292004861.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "AM Remix",
-          "duration": "4:21"
-        }
-      ]
-    },
-    {
-      "name": "Sigue/Forever My Love",
-      "year": "2022",
-      "release_date": "2022-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/87/2b/df/872bdf7c-193a-44fa-e254-5946a73f9d8c/22UMGIM29244.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sigue",
-          "duration": "2:39"
-        },
-        {
-          "number": 2,
-          "name": "Forever My Love",
-          "duration": "3:10"
-        }
-      ]
-    },
-    {
-      "name": "Con Altura (feat. El Guincho)",
-      "year": "2019",
-      "release_date": "2019-03-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/72/d5/8272d5ad-49b7-f80a-59ec-0160215d2b86/886447616925.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Con Altura (feat. El Guincho)",
-          "duration": "2:41"
-        }
-      ]
-    },
-    {
-      "name": "Downtown",
-      "year": "2017",
-      "release_date": "2017-11-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dd/73/79/dd7379d2-881e-1115-1259-00f1f17a9122/190296928536.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Downtown",
-          "duration": "3:13"
-        }
-      ]
-    },
-    {
-      "name": "I Can't Get Enough",
-      "year": "2019",
-      "release_date": "2019-02-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/7a/a6/3c7aa662-5068-b267-d2cc-bb4a72d9499d/19UMGIM15670.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Can't Get Enough",
-          "duration": "2:38"
-        }
-      ]
-    },
-    {
-      "name": "X (Remix) [feat. Maluma & Ozuna]",
-      "year": "2018",
-      "release_date": "2018-06-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/f2/4f/ecf24fc5-d4fb-eaca-ee7c-3780bf35c050/886447182741.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "X (feat. Maluma & Ozuna) [Remix]",
-          "duration": "3:56"
-        }
-      ]
-    },
-    {
       "name": "In Da Getto",
       "year": "2021",
       "release_date": "2021-07-02",
@@ -1809,6 +1840,19 @@
       ]
     },
     {
+      "name": "COOK",
+      "year": "2026",
+      "release_date": "2026-02-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/55/d7/5155d704-97c3-d281-0f2f-d90bc1bc5b77/26UMGIM12346.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "COOK",
+          "duration": "2:50"
+        }
+      ]
+    },
+    {
       "name": "Relación (Remix) [feat. ROSALÍA & Farruko]",
       "year": "2020",
       "release_date": "2020-09-04",
@@ -1822,15 +1866,15 @@
       ]
     },
     {
-      "name": "COOK",
-      "year": "2026",
-      "release_date": "2026-02-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/55/d7/5155d704-97c3-d281-0f2f-d90bc1bc5b77/26UMGIM12346.rgb.jpg/600x600bb.jpg",
+      "name": "COLMILLO (feat. Jowell & Randy)",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/4a/9a/754a9a49-dc66-8278-3e34-d24da18058de/196922669149_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "COOK",
-          "duration": "2:50"
+          "name": "COLMILLO (feat. Jowell & Randy)",
+          "duration": "4:25"
         }
       ]
     },
@@ -1861,19 +1905,6 @@
       ]
     },
     {
-      "name": "Mi Gente (Hugel Remix)",
-      "year": "2017",
-      "release_date": "2017-11-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ef/fe/6e/effe6efd-83a2-59f6-15c7-78f9c5f36f5d/00602567178514.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mi Gente (Hugel Remix)",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "Ponle",
       "year": "2018",
       "release_date": "2018-09-08",
@@ -1887,15 +1918,15 @@
       ]
     },
     {
-      "name": "Mi Gente (feat. Beyoncé)",
-      "year": "2017",
-      "release_date": "2017-09-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f4/57/d4/f457d4db-5866-42ba-d38e-c0a51cbd8ed7/00602567071143.rgb.jpg/600x600bb.jpg",
+      "name": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
+      "year": "2024",
+      "release_date": "2024-11-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/82/73/b7827305-3461-1b38-b5d2-ab4e391806ca/24UM1IM22490.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Mi Gente (feat. Beyoncé)",
-          "duration": "3:29"
+          "name": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
+          "duration": "4:58"
         }
       ]
     },
@@ -1913,15 +1944,28 @@
       ]
     },
     {
-      "name": "Poblado (Remix) [feat. Crissin, Totoy El Frio & Natan & Shander]",
-      "year": "2021",
-      "release_date": "2021-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/52/36/83523674-d974-9baa-9f5d-66fbed5b5184/21UMGIM56246.rgb.jpg/600x600bb.jpg",
+      "name": "Sorry (Latino Remix) [feat. J Balvin]",
+      "year": "2015",
+      "release_date": "2015-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/97/56/1d97569e-42d7-9a84-8fa5-7517e6e8a425/15UMGIM67938.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Poblado (feat. Crissin, Totoy El Frio & Natan & Shander) [Remix]",
-          "duration": "6:32"
+          "name": "Sorry (Latino Remix) [feat. J Balvin]",
+          "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "AM Remix",
+      "year": "2021",
+      "release_date": "2021-06-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/34/9e/7c349e67-f967-951d-52c4-54e003f50d40/196292004861.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "AM Remix",
+          "duration": "4:21"
         }
       ]
     },
@@ -2024,45 +2068,6 @@
       ]
     },
     {
-      "name": "No Me Conoce (Remix)",
-      "year": "2019",
-      "release_date": "2019-05-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/59/e6/4c59e65d-96d3-a37d-5b4b-e85f8fe66ee5/22UM1IM17501.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "No Me Conoce (Remix)",
-          "duration": "5:07"
-        }
-      ]
-    },
-    {
-      "name": "Dientes",
-      "year": "2023",
-      "release_date": "2023-09-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/41/42/b6414209-dfda-5951-9aa1-5242a983f379/23UMGIM60754.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dientes",
-          "duration": "2:46"
-        }
-      ]
-    },
-    {
-      "name": "Wherever I May Roam (feat. Metallica)",
-      "year": "2021",
-      "release_date": "2021-07-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/d1/e4/54d1e417-0e00-5a57-4730-86bda1679f16/810083960173.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wherever I May Roam (feat. Metallica)",
-          "duration": "2:38"
-        }
-      ]
-    },
-    {
       "name": "PORFA (Remix)",
       "year": "2020",
       "release_date": "2020-06-26",
@@ -2120,19 +2125,6 @@
       "release_date": "2019-06-14",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4f/7a/38/4f7a384c-e73e-2411-a30d-cadb48fce87a/19UMGIM46782.rgb.jpg/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
-      "year": "2024",
-      "release_date": "2024-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/1b/31/7a1b31a1-a977-aa85-0c4b-d5c3b440cc41/24UM1IM22491.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
-          "duration": "4:58"
-        }
-      ]
     },
     {
       "name": "Bum Bum Tam Tam",
@@ -2200,6 +2192,19 @@
       ]
     },
     {
+      "name": "Tonto",
+      "year": "2026",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/2c/e4/212ce45f-19d4-4121-0563-03c479a90f13/26UMGIM17424.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tonto",
+          "duration": "2:20"
+        }
+      ]
+    },
+    {
       "name": "Tu Veneno",
       "year": "2021",
       "release_date": "2021-03-19",
@@ -2226,19 +2231,6 @@
       ]
     },
     {
-      "name": "LOCATION",
-      "year": "2021",
-      "release_date": "2021-02-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/02/90/a6029065-1d8d-8dd2-979d-5a3ed0e10080/21UMGIM02279.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LOCATION",
-          "duration": "4:24"
-        }
-      ]
-    },
-    {
       "name": "Positivo",
       "year": "2018",
       "release_date": "2018-04-30",
@@ -2252,19 +2244,6 @@
       ]
     },
     {
-      "name": "Bonita",
-      "year": "2017",
-      "release_date": "2017-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/26/7d/42/267d4276-25d3-d577-cbec-2c814546dc5f/17UM1IM02506.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bonita",
-          "duration": "4:25"
-        }
-      ]
-    },
-    {
       "name": "Qué Más Pues?",
       "year": "2021",
       "release_date": "2021-05-28",
@@ -2274,6 +2253,19 @@
           "number": 1,
           "name": "Qué Más Pues?",
           "duration": "3:37"
+        }
+      ]
+    },
+    {
+      "name": "LET'S GO",
+      "year": "2023",
+      "release_date": "2023-10-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/fb/b1/d0fbb131-0a98-8594-373f-59aed178fdaf/196871144582.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LET'S GO",
+          "duration": "3:16"
         }
       ]
     },
@@ -2304,6 +2296,19 @@
       ]
     },
     {
+      "name": "Dientes",
+      "year": "2023",
+      "release_date": "2023-09-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/41/42/b6414209-dfda-5951-9aa1-5242a983f379/23UMGIM60754.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dientes",
+          "duration": "2:46"
+        }
+      ]
+    },
+    {
       "name": "Sólo Tú (Remix) [feat. Nicky Jam & J Balvin]",
       "year": "2014",
       "release_date": "2014-07-03",
@@ -2317,15 +2322,15 @@
       ]
     },
     {
-      "name": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
-      "year": "2024",
-      "release_date": "2024-11-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/82/73/b7827305-3461-1b38-b5d2-ab4e391806ca/24UM1IM22490.rgb.jpg/600x600bb.jpg",
+      "name": "Medusa",
+      "year": "2020",
+      "release_date": "2020-02-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2c/3f/de/2c3fde6e-b699-504d-3d37-274ef666ce10/22UM1IM04067.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
-          "duration": "4:58"
+          "name": "Medusa",
+          "duration": "5:04"
         }
       ]
     },
@@ -2343,20 +2348,28 @@
       ]
     },
     {
-      "name": "I Adore You (feat. Topic, Arash & Daecolm)",
-      "year": "2024",
-      "release_date": "2024-11-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/b1/f6/31b1f62c-d510-72b1-e5e3-c76899ecb32c/24UM1IM17396.rgb.jpg/600x600bb.jpg",
+      "name": "Mi Gente (Hugel Remix)",
+      "year": "2017",
+      "release_date": "2017-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ef/fe/6e/effe6efd-83a2-59f6-15c7-78f9c5f36f5d/00602567178514.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "I Adore You (feat. Topic, Arash & Daecolm)",
-          "duration": "3:00"
-        },
+          "name": "Mi Gente (Hugel Remix)",
+          "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "LOCATION",
+      "year": "2021",
+      "release_date": "2021-02-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/02/90/a6029065-1d8d-8dd2-979d-5a3ed0e10080/21UMGIM02279.rgb.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 2,
-          "name": "I Adore You (feat. Daecolm)",
-          "duration": "3:34"
+          "number": 1,
+          "name": "LOCATION",
+          "duration": "4:24"
         }
       ]
     },
@@ -2491,6 +2504,19 @@
       ]
     },
     {
+      "name": "No Me Conoce (Remix)",
+      "year": "2019",
+      "release_date": "2019-05-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/59/e6/4c59e65d-96d3-a37d-5b4b-e85f8fe66ee5/22UM1IM17501.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "No Me Conoce (Remix)",
+          "duration": "5:07"
+        }
+      ]
+    },
+    {
       "name": "Unforgettable (Latin Remix) [feat. Swae Lee]",
       "year": "2017",
       "release_date": "2017-08-02",
@@ -2513,6 +2539,19 @@
           "number": 1,
           "name": "TATA (feat. Bobby Shmurda) [Remix]",
           "duration": "4:24"
+        }
+      ]
+    },
+    {
+      "name": "Wherever I May Roam (feat. Metallica)",
+      "year": "2021",
+      "release_date": "2021-07-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/d1/e4/54d1e417-0e00-5a57-4730-86bda1679f16/810083960173.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wherever I May Roam (feat. Metallica)",
+          "duration": "2:38"
         }
       ]
     },
@@ -2565,6 +2604,19 @@
           "number": 1,
           "name": "Ma' G",
           "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "JUMP (Coca-Cola Anthem for the FIFA World Cup 26™) [feat. Steve Vai & Travis Barker]",
+      "year": "2026",
+      "release_date": "2026-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/3b/34/bf3b349c-1808-f812-d5b2-1c33b381e2ec/26UMGIM19847.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Jump (feat. Steve Vai & Travis Barker) [Coca-Cola Anthem for the FIFA World Cup 26™]",
+          "duration": "3:28"
         }
       ]
     },
@@ -2678,15 +2730,15 @@
       ]
     },
     {
-      "name": "Tonto",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/2c/e4/212ce45f-19d4-4121-0563-03c479a90f13/26UMGIM17424.rgb.jpg/600x600bb.jpg",
+      "name": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
+      "year": "2024",
+      "release_date": "2024-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/1b/31/7a1b31a1-a977-aa85-0c4b-d5c3b440cc41/24UM1IM22491.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Tonto",
-          "duration": "2:20"
+          "name": "+57 (feat. Ovy On the Drums, J Balvin, Maluma, Ryan Castro & Blessd)",
+          "duration": "4:58"
         }
       ]
     },
@@ -2704,19 +2756,6 @@
       ]
     },
     {
-      "name": "COLMILLO (feat. Jowell & Randy)",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/75/4a/9a/754a9a49-dc66-8278-3e34-d24da18058de/196922669149_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "COLMILLO (feat. Jowell & Randy)",
-          "duration": "4:25"
-        }
-      ]
-    },
-    {
       "name": "Love Is the Name (feat. J Balvin)",
       "year": "2016",
       "release_date": "2016-04-08",
@@ -2726,19 +2765,6 @@
           "number": 1,
           "name": "Love Is the Name (feat. J Balvin)",
           "duration": "3:52"
-        }
-      ]
-    },
-    {
-      "name": "LET'S GO",
-      "year": "2023",
-      "release_date": "2023-10-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/fb/b1/d0fbb131-0a98-8594-373f-59aed178fdaf/196871144582.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LET'S GO",
-          "duration": "3:16"
         }
       ]
     },
@@ -2926,19 +2952,6 @@
           "number": 1,
           "name": "Billetes Azules",
           "duration": "3:09"
-        }
-      ]
-    },
-    {
-      "name": "Medusa",
-      "year": "2020",
-      "release_date": "2020-02-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2c/3f/de/2c3fde6e-b699-504d-3d37-274ef666ce10/22UM1IM04067.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Medusa",
-          "duration": "5:04"
         }
       ]
     },
@@ -3218,6 +3231,19 @@
       ]
     },
     {
+      "name": "Ten Cuidado (Pokémon 25 Version)",
+      "year": "2021",
+      "release_date": "2021-10-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4f/8d/66/4f8d669a-b981-639a-564c-619c97b2320a/21UMGIM66999.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ten Cuidado (Pokémon 25 Version)",
+          "duration": "2:37"
+        }
+      ]
+    },
+    {
       "name": "Que Locura",
       "year": "2021",
       "release_date": "2021-08-13",
@@ -3284,19 +3310,6 @@
           "number": 1,
           "name": "Toretto",
           "duration": "2:30"
-        }
-      ]
-    },
-    {
-      "name": "Ten Cuidado (Pokémon 25 Version)",
-      "year": "2021",
-      "release_date": "2021-10-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4f/8d/66/4f8d669a-b981-639a-564c-619c97b2320a/21UMGIM66999.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ten Cuidado (Pokémon 25 Version)",
-          "duration": "2:37"
         }
       ]
     },
@@ -3509,19 +3522,6 @@
           "number": 1,
           "name": "Si Te Vas",
           "duration": "3:18"
-        }
-      ]
-    },
-    {
-      "name": "JUMP (Coca-Cola Anthem for the FIFA World Cup 26™) [feat. Steve Vai & Travis Barker]",
-      "year": "2026",
-      "release_date": "2026-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/3b/34/bf3b349c-1808-f812-d5b2-1c33b381e2ec/26UMGIM19847.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Jump (feat. Steve Vai & Travis Barker) [Coca-Cola Anthem for the FIFA World Cup 26™]",
-          "duration": "3:28"
         }
       ]
     },

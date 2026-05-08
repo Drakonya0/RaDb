@@ -3,64 +3,6 @@
   "id": 657725369,
   "albums": [
     {
-      "name": "The Deep",
-      "year": "2022",
-      "release_date": "2022-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/95/d2/ac/95d2acc7-0002-513e-d4f8-29853ca3b2b4/794558904568.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Beggar",
-          "duration": "4:10"
-        },
-        {
-          "number": 2,
-          "name": "Mr. Creeps",
-          "duration": "3:07"
-        },
-        {
-          "number": 3,
-          "name": "Mad",
-          "duration": "3:28"
-        },
-        {
-          "number": 4,
-          "name": "Secret",
-          "duration": "3:40"
-        },
-        {
-          "number": 5,
-          "name": "Ghosts",
-          "duration": "4:45"
-        },
-        {
-          "number": 6,
-          "name": "Silent Prey",
-          "duration": "4:42"
-        },
-        {
-          "number": 7,
-          "name": "Bury My Flame",
-          "duration": "3:40"
-        },
-        {
-          "number": 8,
-          "name": "Liar",
-          "duration": "4:07"
-        },
-        {
-          "number": 9,
-          "name": "I Can't Bend",
-          "duration": "3:46"
-        },
-        {
-          "number": 10,
-          "name": "Let Go",
-          "duration": "7:05"
-        }
-      ]
-    },
-    {
       "name": "Pariah",
       "year": "2016",
       "release_date": "2016-09-23",
@@ -117,9 +59,80 @@
           "duration": "4:11"
         }
       ]
+    },
+    {
+      "name": "The Deep",
+      "year": "2022",
+      "release_date": "2022-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/95/d2/ac/95d2acc7-0002-513e-d4f8-29853ca3b2b4/794558904568.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Beggar",
+          "duration": "4:10"
+        },
+        {
+          "number": 2,
+          "name": "Mr. Creeps",
+          "duration": "3:07"
+        },
+        {
+          "number": 3,
+          "name": "Mad",
+          "duration": "3:28"
+        },
+        {
+          "number": 4,
+          "name": "Secret",
+          "duration": "3:40"
+        },
+        {
+          "number": 5,
+          "name": "Ghosts",
+          "duration": "4:45"
+        },
+        {
+          "number": 6,
+          "name": "Silent Prey",
+          "duration": "4:42"
+        },
+        {
+          "number": 7,
+          "name": "Bury My Flame",
+          "duration": "3:40"
+        },
+        {
+          "number": 8,
+          "name": "Liar",
+          "duration": "4:07"
+        },
+        {
+          "number": 9,
+          "name": "I Can't Bend",
+          "duration": "3:46"
+        },
+        {
+          "number": 10,
+          "name": "Let Go",
+          "duration": "7:05"
+        }
+      ]
     }
   ],
   "singles": [
+    {
+      "name": "Lost Times",
+      "year": "2013",
+      "release_date": "2013-08-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/9a/08/b1/9a08b1ff-59d4-2b0b-d90d-b0dc170ba9f6/888174185002.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lost Times",
+          "duration": "5:36"
+        }
+      ]
+    },
     {
       "name": "Resolution",
       "year": "2013",
@@ -134,15 +147,15 @@
       ]
     },
     {
-      "name": "Lost Times",
-      "year": "2013",
-      "release_date": "2013-08-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/9a/08/b1/9a08b1ff-59d4-2b0b-d90d-b0dc170ba9f6/888174185002.jpg/600x600bb.jpg",
+      "name": "Bottom Feeder",
+      "year": "2026",
+      "release_date": "2026-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/ae/4c/7dae4c1f-81b0-994e-fe72-86eb0b4c5d2f/199900757418.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Lost Times",
-          "duration": "5:36"
+          "name": "Bottom Feeder",
+          "duration": "4:03"
         }
       ]
     },
@@ -270,19 +283,6 @@
           "number": 1,
           "name": "The Creature",
           "duration": "3:39"
-        }
-      ]
-    },
-    {
-      "name": "Bottom Feeder",
-      "year": "2026",
-      "release_date": "2026-03-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/ae/4c/7dae4c1f-81b0-994e-fe72-86eb0b4c5d2f/199900757418.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bottom Feeder",
-          "duration": "4:03"
         }
       ]
     },

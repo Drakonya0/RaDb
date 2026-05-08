@@ -392,19 +392,6 @@
       ]
     },
     {
-      "name": "ANYWAY",
-      "year": "2023",
-      "release_date": "2023-04-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/05/c1/8505c117-2f96-97c8-c5bc-ade32854e93b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ANYWAY",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
       "name": "KRUSHY DANCE",
       "year": "2024",
       "release_date": "2024-02-09",
@@ -414,6 +401,19 @@
           "number": 1,
           "name": "KRUSHY DANCE",
           "duration": "1:44"
+        }
+      ]
+    },
+    {
+      "name": "ANYWAY",
+      "year": "2023",
+      "release_date": "2023-04-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/05/c1/8505c117-2f96-97c8-c5bc-ade32854e93b/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ANYWAY",
+          "duration": "2:20"
         }
       ]
     },
@@ -658,39 +658,6 @@
       ]
     },
     {
-      "name": "LUNAR FUNK",
-      "year": "2025",
-      "release_date": "2025-02-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/26/bc/7a26bc4a-3b0a-1a71-be14-196a684934df/197342962643_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LUNAR FUNK",
-          "duration": "1:34"
-        },
-        {
-          "number": 2,
-          "name": "LUNAR FUNK (Sped Up)",
-          "duration": "1:23"
-        },
-        {
-          "number": 3,
-          "name": "LUNAR FUNK (Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 4,
-          "name": "LUNAR FUNK (Super Slowed)",
-          "duration": "1:58"
-        },
-        {
-          "number": 5,
-          "name": "LUNAR FUNK (Ultra Slowed)",
-          "duration": "2:13"
-        }
-      ]
-    },
-    {
       "name": "BAILAO FUNK!",
       "year": "2026",
       "release_date": "2026-01-09",
@@ -786,6 +753,39 @@
           "number": 5,
           "name": "MONTAGEM MUERVE (Sped Up)",
           "duration": "1:09"
+        }
+      ]
+    },
+    {
+      "name": "VAI DESCE",
+      "year": "2026",
+      "release_date": "2026-02-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/3c/17/3e3c1779-006f-bacb-e6a8-6513753dcc17/2972953.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "VAI DESCE",
+          "duration": "1:30"
+        },
+        {
+          "number": 2,
+          "name": "VAI DESCE (Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "VAI DESCE (Super Slowed)",
+          "duration": "1:53"
+        },
+        {
+          "number": 4,
+          "name": "VAI DESCE (Ultra Slowed)",
+          "duration": "2:07"
+        },
+        {
+          "number": 5,
+          "name": "VAI DESCE (Sped Up)",
+          "duration": "1:20"
         }
       ]
     },
@@ -1082,39 +1082,6 @@
       ]
     },
     {
-      "name": "LUCHA HORA",
-      "year": "2025",
-      "release_date": "2025-06-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/79/a8/5e79a823-d377-fac2-398d-daf6061e3427/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LUCHA HORA",
-          "duration": "1:47"
-        },
-        {
-          "number": 2,
-          "name": "LUCHA HORA (Slowed)",
-          "duration": "2:00"
-        },
-        {
-          "number": 3,
-          "name": "LUCHA HORA (Super Slowed)",
-          "duration": "2:14"
-        },
-        {
-          "number": 4,
-          "name": "LUCHA HORA (Ultra Slowed)",
-          "duration": "2:31"
-        },
-        {
-          "number": 5,
-          "name": "LUCHA HORA (Sped Up)",
-          "duration": "1:35"
-        }
-      ]
-    },
-    {
       "name": "SIN PERMISO",
       "year": "2025",
       "release_date": "2025-05-16",
@@ -1186,6 +1153,39 @@
       ]
     },
     {
+      "name": "LUCHA HORA",
+      "year": "2025",
+      "release_date": "2025-06-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/79/a8/5e79a823-d377-fac2-398d-daf6061e3427/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LUCHA HORA",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "LUCHA HORA (Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 3,
+          "name": "LUCHA HORA (Super Slowed)",
+          "duration": "2:14"
+        },
+        {
+          "number": 4,
+          "name": "LUCHA HORA (Ultra Slowed)",
+          "duration": "2:31"
+        },
+        {
+          "number": 5,
+          "name": "LUCHA HORA (Sped Up)",
+          "duration": "1:35"
+        }
+      ]
+    },
+    {
       "name": "GHOSTY!",
       "year": "2025",
       "release_date": "2025-01-03",
@@ -1210,6 +1210,34 @@
           "number": 4,
           "name": "GHOSTY! (Ultra Slowed)",
           "duration": "2:12"
+        }
+      ]
+    },
+    {
+      "name": "SCROLX",
+      "year": "2024",
+      "release_date": "2024-08-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/68/22/e86822ba-cc80-d147-7002-ee561a1c1c6d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SCROLX",
+          "duration": "1:06"
+        },
+        {
+          "number": 2,
+          "name": "SCROLX (Slowed)",
+          "duration": "1:17"
+        },
+        {
+          "number": 3,
+          "name": "SCROLX (Super Slowed)",
+          "duration": "1:32"
+        },
+        {
+          "number": 4,
+          "name": "SCROLX (Sped Up)",
+          "duration": "0:55"
         }
       ]
     },
@@ -1243,34 +1271,6 @@
           "number": 5,
           "name": "KAIFUSHA FUNK (Sped Up)",
           "duration": "1:33"
-        }
-      ]
-    },
-    {
-      "name": "SCROLX",
-      "year": "2024",
-      "release_date": "2024-08-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/68/22/e86822ba-cc80-d147-7002-ee561a1c1c6d/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SCROLX",
-          "duration": "1:06"
-        },
-        {
-          "number": 2,
-          "name": "SCROLX (Slowed)",
-          "duration": "1:17"
-        },
-        {
-          "number": 3,
-          "name": "SCROLX (Super Slowed)",
-          "duration": "1:32"
-        },
-        {
-          "number": 4,
-          "name": "SCROLX (Sped Up)",
-          "duration": "0:55"
         }
       ]
     },
@@ -1346,35 +1346,30 @@
       ]
     },
     {
-      "name": "FORMA",
-      "year": "2024",
-      "release_date": "2024-11-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/9d/a0/249da00a-7d16-40b3-7559-c47752f85198/cover.jpg/600x600bb.jpg",
+      "name": "FOLLOW FUNK",
+      "year": "2025",
+      "release_date": "2025-04-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/88/86/028886db-4a35-b168-ccc1-027a42767bb4/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "FORMA",
-          "duration": "1:30"
+          "name": "FOLLOW FUNK",
+          "duration": "1:50"
         },
         {
           "number": 2,
-          "name": "FORMA (Slowed)",
-          "duration": "1:47"
+          "name": "FOLLOW FUNK (Slowed)",
+          "duration": "2:04"
         },
         {
           "number": 3,
-          "name": "FORMA (Super Slowed)",
-          "duration": "2:00"
+          "name": "FOLLOW FUNK (Super Slowed)",
+          "duration": "2:19"
         },
         {
           "number": 4,
-          "name": "FORMA (Sped Up)",
-          "duration": "1:20"
-        },
-        {
-          "number": 5,
-          "name": "FORMA (Super Sped Up)",
-          "duration": "1:11"
+          "name": "FOLLOW FUNK (Sped Up)",
+          "duration": "1:44"
         }
       ]
     },
@@ -1412,30 +1407,35 @@
       ]
     },
     {
-      "name": "FOLLOW FUNK",
-      "year": "2025",
-      "release_date": "2025-04-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/88/86/028886db-4a35-b168-ccc1-027a42767bb4/cover.jpg/600x600bb.jpg",
+      "name": "FORMA",
+      "year": "2024",
+      "release_date": "2024-11-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/9d/a0/249da00a-7d16-40b3-7559-c47752f85198/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "FOLLOW FUNK",
-          "duration": "1:50"
+          "name": "FORMA",
+          "duration": "1:30"
         },
         {
           "number": 2,
-          "name": "FOLLOW FUNK (Slowed)",
-          "duration": "2:04"
+          "name": "FORMA (Slowed)",
+          "duration": "1:47"
         },
         {
           "number": 3,
-          "name": "FOLLOW FUNK (Super Slowed)",
-          "duration": "2:19"
+          "name": "FORMA (Super Slowed)",
+          "duration": "2:00"
         },
         {
           "number": 4,
-          "name": "FOLLOW FUNK (Sped Up)",
-          "duration": "1:44"
+          "name": "FORMA (Sped Up)",
+          "duration": "1:20"
+        },
+        {
+          "number": 5,
+          "name": "FORMA (Super Sped Up)",
+          "duration": "1:11"
         }
       ]
     },
@@ -1506,34 +1506,6 @@
       ]
     },
     {
-      "name": "ACABU SO",
-      "year": "2025",
-      "release_date": "2025-03-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/03/a7/e003a79b-c724-4f98-67ad-b42e7f87d745/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ACABU SO",
-          "duration": "1:16"
-        },
-        {
-          "number": 2,
-          "name": "ACABU SO (Slowed)",
-          "duration": "1:25"
-        },
-        {
-          "number": 3,
-          "name": "ACABU SO (Super Slowed)",
-          "duration": "1:36"
-        },
-        {
-          "number": 4,
-          "name": "ACABU SO (Sped Up)",
-          "duration": "1:08"
-        }
-      ]
-    },
-    {
       "name": "LUNAR FUNK",
       "year": "2025",
       "release_date": "2025-02-07",
@@ -1567,6 +1539,34 @@
       ]
     },
     {
+      "name": "ACABU SO",
+      "year": "2025",
+      "release_date": "2025-03-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/03/a7/e003a79b-c724-4f98-67ad-b42e7f87d745/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ACABU SO",
+          "duration": "1:16"
+        },
+        {
+          "number": 2,
+          "name": "ACABU SO (Slowed)",
+          "duration": "1:25"
+        },
+        {
+          "number": 3,
+          "name": "ACABU SO (Super Slowed)",
+          "duration": "1:36"
+        },
+        {
+          "number": 4,
+          "name": "ACABU SO (Sped Up)",
+          "duration": "1:08"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM CAVALEIRO",
       "year": "2025",
       "release_date": "2025-09-12",
@@ -1596,6 +1596,39 @@
           "number": 5,
           "name": "MONTAGEM CAVALEIRO (Sped Up)",
           "duration": "1:13"
+        }
+      ]
+    },
+    {
+      "name": "DICES TU",
+      "year": "2025",
+      "release_date": "2025-07-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/22/8c/cb228c0b-7e52-fbab-16ef-c286f88e4ffb/60933.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DICES TU",
+          "duration": "1:32"
+        },
+        {
+          "number": 2,
+          "name": "DICES TU (Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 3,
+          "name": "DICES TU (Super Slowed)",
+          "duration": "1:55"
+        },
+        {
+          "number": 4,
+          "name": "DICES TU (Ultra Slowed)",
+          "duration": "2:10"
+        },
+        {
+          "number": 5,
+          "name": "DICES TU (Sped Up)",
+          "duration": "1:21"
         }
       ]
     },
@@ -1661,35 +1694,35 @@
       ]
     },
     {
-      "name": "HROM",
-      "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/cb/70/00cb70e9-7325-928f-a400-b7e3eead0f02/cover.jpg/600x600bb.jpg",
+      "name": "MONTAGEM DE VAGAR",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/46/b1/e146b129-d826-1446-0a7c-321202330f00/2972889.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "HROM",
-          "duration": "1:11"
+          "name": "MONTAGEM DE VAGAR",
+          "duration": "1:22"
         },
         {
           "number": 2,
-          "name": "HROM (Slowed)",
-          "duration": "1:19"
+          "name": "MONTAGEM DE VAGAR (Slowed)",
+          "duration": "1:32"
         },
         {
           "number": 3,
-          "name": "HROM (Super Slowed)",
-          "duration": "1:29"
+          "name": "MONTAGEM DE VAGAR (Super Slowed)",
+          "duration": "1:43"
         },
         {
           "number": 4,
-          "name": "HROM (Ultra Slowed)",
-          "duration": "1:40"
+          "name": "MONTAGEM DE VAGAR (Ultra Slowed)",
+          "duration": "1:55"
         },
         {
           "number": 5,
-          "name": "HROM (Sped Up)",
-          "duration": "1:03"
+          "name": "MONTAGEM DE VAGAR (Sped Up)",
+          "duration": "1:13"
         }
       ]
     },
@@ -1723,6 +1756,39 @@
           "number": 5,
           "name": "GABU GABU! 2.0 (Sped Up)",
           "duration": "1:38"
+        }
+      ]
+    },
+    {
+      "name": "HROM",
+      "year": "2025",
+      "release_date": "2025-07-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/cb/70/00cb70e9-7325-928f-a400-b7e3eead0f02/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HROM",
+          "duration": "1:11"
+        },
+        {
+          "number": 2,
+          "name": "HROM (Slowed)",
+          "duration": "1:19"
+        },
+        {
+          "number": 3,
+          "name": "HROM (Super Slowed)",
+          "duration": "1:29"
+        },
+        {
+          "number": 4,
+          "name": "HROM (Ultra Slowed)",
+          "duration": "1:40"
+        },
+        {
+          "number": 5,
+          "name": "HROM (Sped Up)",
+          "duration": "1:03"
         }
       ]
     },
@@ -1793,39 +1859,6 @@
       ]
     },
     {
-      "name": "CANTA LA (Remixes)",
-      "year": "2025",
-      "release_date": "2025-05-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e8/65/cbe8651b-c0aa-bf40-f341-e38688c26116/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CANTA LA",
-          "duration": "1:36"
-        },
-        {
-          "number": 2,
-          "name": "CANTA LA (Slowed Remix)",
-          "duration": "1:48"
-        },
-        {
-          "number": 3,
-          "name": "CANTA LA (Super Slowed Remix)",
-          "duration": "2:01"
-        },
-        {
-          "number": 4,
-          "name": "CANTA LA (Ultra Slowed Remix)",
-          "duration": "2:16"
-        },
-        {
-          "number": 5,
-          "name": "CANTA LA (Sped Up Remix)",
-          "duration": "1:25"
-        }
-      ]
-    },
-    {
       "name": "Nuclear",
       "year": "2025",
       "release_date": "2025-02-28",
@@ -1855,6 +1888,39 @@
           "number": 5,
           "name": "Nuclear (Sped Up)",
           "duration": "1:38"
+        }
+      ]
+    },
+    {
+      "name": "CANTA LA (Remixes)",
+      "year": "2025",
+      "release_date": "2025-05-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/e8/65/cbe8651b-c0aa-bf40-f341-e38688c26116/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CANTA LA",
+          "duration": "1:36"
+        },
+        {
+          "number": 2,
+          "name": "CANTA LA (Slowed Remix)",
+          "duration": "1:48"
+        },
+        {
+          "number": 3,
+          "name": "CANTA LA (Super Slowed Remix)",
+          "duration": "2:01"
+        },
+        {
+          "number": 4,
+          "name": "CANTA LA (Ultra Slowed Remix)",
+          "duration": "2:16"
+        },
+        {
+          "number": 5,
+          "name": "CANTA LA (Sped Up Remix)",
+          "duration": "1:25"
         }
       ]
     },
@@ -1991,39 +2057,6 @@
       ]
     },
     {
-      "name": "MONTAGEM DE VAGAR",
-      "year": "2026",
-      "release_date": "2026-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/6f/da/c46fda98-7d94-bd03-f67f-8812c6ab0b5e/322166.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM DE VAGAR",
-          "duration": "1:22"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM DE VAGAR (Slowed)",
-          "duration": "1:32"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM DE VAGAR (Super Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM DE VAGAR (Ultra Slowed)",
-          "duration": "1:55"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM DE VAGAR (Sped Up)",
-          "duration": "1:13"
-        }
-      ]
-    },
-    {
       "name": "DEIXA MEMORA",
       "year": "2026",
       "release_date": "2026-02-20",
@@ -2053,6 +2086,39 @@
           "number": 5,
           "name": "DEIXA MEMORA (Sped Up)",
           "duration": "1:31"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM DE VAGAR",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/6f/da/c46fda98-7d94-bd03-f67f-8812c6ab0b5e/322166.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM DE VAGAR",
+          "duration": "1:22"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM DE VAGAR (Slowed)",
+          "duration": "1:32"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM DE VAGAR (Super Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM DE VAGAR (Ultra Slowed)",
+          "duration": "1:55"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM DE VAGAR (Sped Up)",
+          "duration": "1:13"
         }
       ]
     },
@@ -2378,6 +2444,39 @@
           "number": 4,
           "name": "X-EBOLA (Super Slowed)",
           "duration": "1:41"
+        }
+      ]
+    },
+    {
+      "name": "DEIXA MEMORA",
+      "year": "2026",
+      "release_date": "2026-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/16/9f/f7169fc4-f492-2641-1a8b-14e19f7a8e3c/1376766.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DEIXA MEMORA",
+          "duration": "1:43"
+        },
+        {
+          "number": 2,
+          "name": "DEIXA MEMORA (Slowed)",
+          "duration": "1:55"
+        },
+        {
+          "number": 3,
+          "name": "DEIXA MEMORA (Super Slowed)",
+          "duration": "2:09"
+        },
+        {
+          "number": 4,
+          "name": "DEIXA MEMORA (Ultra Slowed)",
+          "duration": "2:25"
+        },
+        {
+          "number": 5,
+          "name": "DEIXA MEMORA (Sped Up)",
+          "duration": "1:31"
         }
       ]
     },
@@ -2989,6 +3088,39 @@
       ]
     },
     {
+      "name": "MONTAGEM SOBA",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/46/9b/ab469ba7-dfcf-2e19-223d-693ab83ff1d3/1580575.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM SOBA",
+          "duration": "1:06"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM SOBA (Slowed)",
+          "duration": "1:14"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM SOBA (Super Slowed)",
+          "duration": "1:23"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM SOBA (Ultra Slowed)",
+          "duration": "1:33"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM SOBA (Mega Slowed)",
+          "duration": "1:45"
+        }
+      ]
+    },
+    {
       "name": "DESTINY FUNK",
       "year": "2025",
       "release_date": "2025-02-17",
@@ -3088,6 +3220,39 @@
       ]
     },
     {
+      "name": "NO FEAR FUNK",
+      "year": "2026",
+      "release_date": "2026-04-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/14/c8/a614c833-c983-6803-f10a-1fbeb21c3bd4/2681653.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NO FEAR FUNK",
+          "duration": "1:03"
+        },
+        {
+          "number": 2,
+          "name": "NO FEAR FUNK (Slowed)",
+          "duration": "1:11"
+        },
+        {
+          "number": 3,
+          "name": "NO FEAR FUNK (Super Slowed)",
+          "duration": "1:20"
+        },
+        {
+          "number": 4,
+          "name": "NO FEAR FUNK (Ultra Slowed)",
+          "duration": "1:30"
+        },
+        {
+          "number": 5,
+          "name": "NO FEAR FUNK (Mega Slowed)",
+          "duration": "1:41"
+        }
+      ]
+    },
+    {
       "name": "EMBERS",
       "year": "2025",
       "release_date": "2025-11-07",
@@ -3145,6 +3310,39 @@
           "number": 5,
           "name": "MONSTRO CRETINO FUNK (Sped Up)",
           "duration": "1:10"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM DEMÔNIO",
+      "year": "2025",
+      "release_date": "2025-11-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/ad/83/ecad8347-82a9-3513-0c81-92e50d12150d/286996.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM DEMÔNIO",
+          "duration": "1:13"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM DEMÔNIO (Slowed)",
+          "duration": "1:22"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM DEMÔNIO (Super Slowed)",
+          "duration": "1:32"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM DEMÔNIO (Ultra Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM DEMÔNIO (Sped Up)",
+          "duration": "1:05"
         }
       ]
     },

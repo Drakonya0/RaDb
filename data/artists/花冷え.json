@@ -121,6 +121,19 @@
   ],
   "singles": [
     {
+      "name": "ICONIC",
+      "year": "2026",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/2f/56/3f2f5612-cb99-f18b-d6ea-fdc2b2a0b500/4547366795622.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ICONIC",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
       "name": "LOVE乱舞",
       "year": "2022",
       "release_date": "2022-04-13",
@@ -130,32 +143,6 @@
           "number": 1,
           "name": "LOVE乱舞",
           "duration": "3:49"
-        }
-      ]
-    },
-    {
-      "name": "おいしいサバイバー",
-      "year": "2025",
-      "release_date": "2025-01-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/7e/9a/247e9a8b-30c7-6d50-b469-452cb4bb2124/4547366729016.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tasty Survivor",
-          "duration": "2:58"
-        }
-      ]
-    },
-    {
-      "name": "FUHAI (feat. hanabie)",
-      "year": "2024",
-      "release_date": "2024-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/75/27/21752795-3dfc-643a-4ab7-a1dbfc924e87/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FUHAI (feat. hanabie)",
-          "duration": "3:13"
         }
       ]
     },
@@ -173,19 +160,6 @@
       ]
     },
     {
-      "name": "かるガルEveryday!!",
-      "year": "2025",
-      "release_date": "2025-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/2d/54/a42d5463-0e2c-51d4-12ab-d5a3e7c3a100/4547366761382.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Karu Garu Everyday!!",
-          "duration": "2:42"
-        }
-      ]
-    },
-    {
       "name": "Spicy Queen",
       "year": "2025",
       "release_date": "2025-05-28",
@@ -195,6 +169,19 @@
           "number": 1,
           "name": "Spicy Queen",
           "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "おいしいサバイバー",
+      "year": "2025",
+      "release_date": "2025-01-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/7e/9a/247e9a8b-30c7-6d50-b469-452cb4bb2124/4547366729016.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tasty Survivor",
+          "duration": "2:58"
         }
       ]
     },
@@ -238,37 +225,6 @@
       ]
     },
     {
-      "name": "ICONIC",
-      "year": "2026",
-      "release_date": "2026-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/2f/56/3f2f5612-cb99-f18b-d6ea-fdc2b2a0b500/4547366795622.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ICONIC",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
-      "name": "おいしいサバイバー",
-      "year": "2025",
-      "release_date": "2025-03-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/33/86/bf3386cb-f054-9ac5-5ae1-38b2f450089f/4547366737196.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tasty Survivor",
-          "duration": "2:58"
-        },
-        {
-          "number": 2,
-          "name": "OTAKU Lovely Legend - WAZGOGG Remix",
-          "duration": "3:52"
-        }
-      ]
-    },
-    {
       "name": "Believer - cover",
       "year": "2023",
       "release_date": "2023-10-06",
@@ -295,6 +251,19 @@
       ]
     },
     {
+      "name": "かるガルEveryday!!",
+      "year": "2025",
+      "release_date": "2025-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/2d/54/a42d5463-0e2c-51d4-12ab-d5a3e7c3a100/4547366761382.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Karu Garu Everyday!!",
+          "duration": "2:42"
+        }
+      ]
+    },
+    {
       "name": "TOUSOU",
       "year": "2023",
       "release_date": "2023-06-17",
@@ -317,6 +286,37 @@
           "number": 1,
           "name": "L.C.G",
           "duration": "3:56"
+        }
+      ]
+    },
+    {
+      "name": "FUHAI (feat. hanabie)",
+      "year": "2024",
+      "release_date": "2024-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/75/27/21752795-3dfc-643a-4ab7-a1dbfc924e87/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FUHAI (feat. hanabie)",
+          "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "おいしいサバイバー",
+      "year": "2025",
+      "release_date": "2025-03-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/33/86/bf3386cb-f054-9ac5-5ae1-38b2f450089f/4547366737196.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tasty Survivor",
+          "duration": "2:58"
+        },
+        {
+          "number": 2,
+          "name": "OTAKU Lovely Legend - WAZGOGG Remix",
+          "duration": "3:52"
         }
       ]
     }

@@ -48,15 +48,15 @@
   ],
   "singles": [
     {
-      "name": "Say So",
+      "name": "The Dirt",
       "year": "2026",
-      "release_date": "2026-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/88/16/77881699-2f5c-71af-0937-808bec521e1f/26CRGIM54365.rgb.jpg/600x600bb.jpg",
+      "release_date": "2026-01-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/f9/da/a6f9da44-ff66-df26-c056-32c0e292ef74/25CRGIM52953.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Say So",
-          "duration": "3:03"
+          "name": "The Dirt",
+          "duration": "3:39"
         }
       ]
     },
@@ -113,6 +113,19 @@
       ]
     },
     {
+      "name": "Say So",
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/88/16/77881699-2f5c-71af-0937-808bec521e1f/26CRGIM54365.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Say So",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
       "name": "Say This Sober",
       "year": "2023",
       "release_date": "2023-05-17",
@@ -158,19 +171,6 @@
           "number": 2,
           "name": "Made For Love",
           "duration": "3:34"
-        }
-      ]
-    },
-    {
-      "name": "The Dirt",
-      "year": "2026",
-      "release_date": "2026-01-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/f9/da/a6f9da44-ff66-df26-c056-32c0e292ef74/25CRGIM52953.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Dirt",
-          "duration": "3:39"
         }
       ]
     },
@@ -415,6 +415,39 @@
   ],
   "eps": [
     {
+      "name": "All That I Have Left",
+      "year": "2024",
+      "release_date": "2024-05-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/35/c5/db35c5f5-34d3-ca3d-20a7-53cdac879ad7/198500551556.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Drag Me Out",
+          "duration": "3:21"
+        },
+        {
+          "number": 2,
+          "name": "Say This Sober",
+          "duration": "3:22"
+        },
+        {
+          "number": 3,
+          "name": "Smiling out of Habit",
+          "duration": "3:30"
+        },
+        {
+          "number": 4,
+          "name": "Bitter",
+          "duration": "3:23"
+        },
+        {
+          "number": 5,
+          "name": "Before You Go",
+          "duration": "3:32"
+        }
+      ]
+    },
+    {
       "name": "New Normal",
       "year": "2020",
       "release_date": "2020-04-17",
@@ -449,39 +482,6 @@
           "number": 6,
           "name": "Shallow (feat. Gabe Reasoner)",
           "duration": "3:43"
-        }
-      ]
-    },
-    {
-      "name": "All That I Have Left",
-      "year": "2024",
-      "release_date": "2024-05-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/35/c5/db35c5f5-34d3-ca3d-20a7-53cdac879ad7/198500551556.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Drag Me Out",
-          "duration": "3:21"
-        },
-        {
-          "number": 2,
-          "name": "Say This Sober",
-          "duration": "3:22"
-        },
-        {
-          "number": 3,
-          "name": "Smiling out of Habit",
-          "duration": "3:30"
-        },
-        {
-          "number": 4,
-          "name": "Bitter",
-          "duration": "3:23"
-        },
-        {
-          "number": 5,
-          "name": "Before You Go",
-          "duration": "3:32"
         }
       ]
     },

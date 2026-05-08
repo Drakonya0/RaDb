@@ -134,75 +134,90 @@
       ]
     },
     {
-      "name": "Era",
-      "year": "2018",
-      "release_date": "2018-04-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/df/f6/fb/dff6fb6f-165a-4819-da13-29b1b0631b77/886446936253.jpg/600x600bb.jpg",
+      "name": "Uprising",
+      "year": "2013",
+      "release_date": "2013-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/0e/31/5e/0e315ebe-8519-315a-f940-e1c5f5f3f8fc/886443878334.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Clarity",
-          "duration": "4:31"
+          "name": "III",
+          "duration": "1:06"
         },
         {
           "number": 2,
-          "name": "Crown of Misery",
-          "duration": "3:29"
+          "name": "Colony",
+          "duration": "4:26"
         },
         {
           "number": 3,
-          "name": "Cast Down",
-          "duration": "4:02"
-        },
-        {
-          "number": 4,
-          "name": "Afterlife",
-          "duration": "4:28"
-        },
-        {
-          "number": 5,
-          "name": "Shiver",
-          "duration": "5:09"
-        },
-        {
-          "number": 6,
-          "name": "Bed of Snakes",
-          "duration": "4:15"
-        },
-        {
-          "number": 7,
-          "name": "I am Oblivion, Pt. II",
-          "duration": "3:58"
-        },
-        {
-          "number": 8,
-          "name": "Alone in the Sun",
-          "duration": "4:16"
-        },
-        {
-          "number": 9,
-          "name": "Gatekeeper",
-          "duration": "3:38"
-        },
-        {
-          "number": 10,
-          "name": "Ruina",
-          "duration": "4:06"
-        },
-        {
-          "number": 11,
-          "name": "Alive",
+          "name": "It Lives in Me",
           "duration": "4:45"
         },
         {
+          "number": 4,
+          "name": "Nothing, No one, Nowhere",
+          "duration": "3:43"
+        },
+        {
+          "number": 5,
+          "name": "Escape Yourself",
+          "duration": "4:09"
+        },
+        {
+          "number": 6,
+          "name": "Strive",
+          "duration": "4:54"
+        },
+        {
+          "number": 7,
+          "name": "I Am Oblivion",
+          "duration": "4:31"
+        },
+        {
+          "number": 8,
+          "name": "Speechless",
+          "duration": "1:34"
+        },
+        {
+          "number": 9,
+          "name": "Our Divide",
+          "duration": "4:32"
+        },
+        {
+          "number": 10,
+          "name": "Uprising",
+          "duration": "4:32"
+        },
+        {
+          "number": 11,
+          "name": "The War Around Us",
+          "duration": "3:42"
+        },
+        {
           "number": 12,
-          "name": "State Decay",
-          "duration": "4:39"
+          "name": "Leech",
+          "duration": "4:10"
         },
         {
           "number": 13,
-          "name": "Drag you to the Ground",
-          "duration": "3:48"
+          "name": "Devotion",
+          "duration": "4:39"
+        },
+        {
+          "number": 14,
+          "name": "See You in Hell",
+          "duration": "4:04"
+        },
+        {
+          "number": 15,
+          "name": "Blood Brothers (Papa Roach Cover)",
+          "duration": "4:09"
+        },
+        {
+          "number": 16,
+          "name": "Let's Play God",
+          "duration": "5:18"
         }
       ]
     },
@@ -290,90 +305,75 @@
       ]
     },
     {
-      "name": "Uprising",
-      "year": "2013",
-      "release_date": "2013-04-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/0e/31/5e/0e315ebe-8519-315a-f940-e1c5f5f3f8fc/886443878334.jpg/600x600bb.jpg",
+      "name": "Era",
+      "year": "2018",
+      "release_date": "2018-04-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/df/f6/fb/dff6fb6f-165a-4819-da13-29b1b0631b77/886446936253.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "III",
-          "duration": "1:06"
-        },
-        {
-          "number": 2,
-          "name": "Colony",
-          "duration": "4:26"
-        },
-        {
-          "number": 3,
-          "name": "It Lives in Me",
-          "duration": "4:45"
-        },
-        {
-          "number": 4,
-          "name": "Nothing, No one, Nowhere",
-          "duration": "3:43"
-        },
-        {
-          "number": 5,
-          "name": "Escape Yourself",
-          "duration": "4:09"
-        },
-        {
-          "number": 6,
-          "name": "Strive",
-          "duration": "4:54"
-        },
-        {
-          "number": 7,
-          "name": "I Am Oblivion",
+          "name": "Clarity",
           "duration": "4:31"
         },
         {
+          "number": 2,
+          "name": "Crown of Misery",
+          "duration": "3:29"
+        },
+        {
+          "number": 3,
+          "name": "Cast Down",
+          "duration": "4:02"
+        },
+        {
+          "number": 4,
+          "name": "Afterlife",
+          "duration": "4:28"
+        },
+        {
+          "number": 5,
+          "name": "Shiver",
+          "duration": "5:09"
+        },
+        {
+          "number": 6,
+          "name": "Bed of Snakes",
+          "duration": "4:15"
+        },
+        {
+          "number": 7,
+          "name": "I am Oblivion, Pt. II",
+          "duration": "3:58"
+        },
+        {
           "number": 8,
-          "name": "Speechless",
-          "duration": "1:34"
+          "name": "Alone in the Sun",
+          "duration": "4:16"
         },
         {
           "number": 9,
-          "name": "Our Divide",
-          "duration": "4:32"
+          "name": "Gatekeeper",
+          "duration": "3:38"
         },
         {
           "number": 10,
-          "name": "Uprising",
-          "duration": "4:32"
+          "name": "Ruina",
+          "duration": "4:06"
         },
         {
           "number": 11,
-          "name": "The War Around Us",
-          "duration": "3:42"
+          "name": "Alive",
+          "duration": "4:45"
         },
         {
           "number": 12,
-          "name": "Leech",
-          "duration": "4:10"
-        },
-        {
-          "number": 13,
-          "name": "Devotion",
+          "name": "State Decay",
           "duration": "4:39"
         },
         {
-          "number": 14,
-          "name": "See You in Hell",
-          "duration": "4:04"
-        },
-        {
-          "number": 15,
-          "name": "Blood Brothers (Papa Roach Cover)",
-          "duration": "4:09"
-        },
-        {
-          "number": 16,
-          "name": "Let's Play God",
-          "duration": "5:18"
+          "number": 13,
+          "name": "Drag you to the Ground",
+          "duration": "3:48"
         }
       ]
     },

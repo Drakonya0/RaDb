@@ -380,6 +380,32 @@
   ],
   "singles": [
     {
+      "name": "Alibi",
+      "year": "2024",
+      "release_date": "2024-06-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/78/35/c9783504-7a20-6197-3f32-ad36f6200bc1/87.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Alibi",
+          "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
+      "year": "2024",
+      "release_date": "2024-05-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/d4/8d/ddd48d17-9ea1-e8d4-6d1e-6c751aa02176/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
+          "duration": "2:38"
+        }
+      ]
+    },
+    {
       "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
       "year": "2024",
       "release_date": "2024-04-18",
@@ -394,32 +420,6 @@
           "number": 2,
           "name": "Ride Or Die (feat. Villano Antillano)",
           "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "Alibi",
-      "year": "2024",
-      "release_date": "2024-06-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/78/35/c9783504-7a20-6197-3f32-ad36f6200bc1/87.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Alibi",
-          "duration": "2:41"
-        }
-      ]
-    },
-    {
-      "name": "Stripper",
-      "year": "2025",
-      "release_date": "2025-10-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/fb/02/54fb02f2-4593-f5fb-835f-7ff17f8b12d3/663918527719.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stripper",
-          "duration": "2:46"
         }
       ]
     },
@@ -446,6 +446,19 @@
           "number": 1,
           "name": "Nothing Lasts Forever",
           "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "Stripper",
+      "year": "2025",
+      "release_date": "2025-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/fb/02/54fb02f2-4593-f5fb-835f-7ff17f8b12d3/663918527719.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stripper",
+          "duration": "2:46"
         }
       ]
     },
@@ -500,19 +513,6 @@
           "number": 1,
           "name": "Alibi (Tiësto Remix)",
           "duration": "2:58"
-        }
-      ]
-    },
-    {
-      "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
-      "year": "2024",
-      "release_date": "2024-05-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/d4/8d/ddd48d17-9ea1-e8d4-6d1e-6c751aa02176/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
-          "duration": "2:38"
         }
       ]
     },
@@ -867,34 +867,6 @@
   ],
   "eps": [
     {
-      "name": "The Suspended Kid",
-      "year": "2015",
-      "release_date": "2015-01-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/73/bb/6c73bb8c-3d14-23b3-d554-58c19f0500fe/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "That Other Girl",
-          "duration": "3:02"
-        },
-        {
-          "number": 2,
-          "name": "Sirens of the Caspian",
-          "duration": "3:35"
-        },
-        {
-          "number": 3,
-          "name": "Clear Air",
-          "duration": "4:05"
-        },
-        {
-          "number": 4,
-          "name": "Backseat Love",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
       "name": "Raving Dahlia",
       "year": "2022",
       "release_date": "2022-02-25",
@@ -929,6 +901,34 @@
           "number": 6,
           "name": "Oh My God (Sleepnet X Sevdaliza Remix)",
           "duration": "4:56"
+        }
+      ]
+    },
+    {
+      "name": "The Suspended Kid",
+      "year": "2015",
+      "release_date": "2015-01-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/73/bb/6c73bb8c-3d14-23b3-d554-58c19f0500fe/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "That Other Girl",
+          "duration": "3:02"
+        },
+        {
+          "number": 2,
+          "name": "Sirens of the Caspian",
+          "duration": "3:35"
+        },
+        {
+          "number": 3,
+          "name": "Clear Air",
+          "duration": "4:05"
+        },
+        {
+          "number": 4,
+          "name": "Backseat Love",
+          "duration": "3:40"
         }
       ]
     },

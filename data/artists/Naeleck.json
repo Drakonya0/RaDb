@@ -89,15 +89,20 @@
   ],
   "singles": [
     {
-      "name": "Dies Irae",
-      "year": "2024",
-      "release_date": "2024-12-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/c2/62/69c26244-7def-e3d1-4086-42699523af50/11143.jpg/600x600bb.jpg",
+      "name": "Creep",
+      "year": "2022",
+      "release_date": "2022-06-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/5a/c8/bf5ac886-55da-7811-8cfa-74ccebe352c3/3701421568731.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Dies Irae",
-          "duration": "2:37"
+          "name": "Creep",
+          "duration": "3:23"
+        },
+        {
+          "number": 2,
+          "name": "Creep (Club Edit)",
+          "duration": "3:52"
         }
       ]
     },
@@ -116,24 +121,6 @@
           "number": 2,
           "name": "Creep (BYOR Extended Remix)",
           "duration": "3:32"
-        }
-      ]
-    },
-    {
-      "name": "Creep",
-      "year": "2022",
-      "release_date": "2022-06-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/5a/c8/bf5ac886-55da-7811-8cfa-74ccebe352c3/3701421568731.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Creep",
-          "duration": "3:23"
-        },
-        {
-          "number": 2,
-          "name": "Creep (Club Edit)",
-          "duration": "3:52"
         }
       ]
     },
@@ -157,6 +144,19 @@
           "number": 3,
           "name": "Heroes",
           "duration": "4:46"
+        }
+      ]
+    },
+    {
+      "name": "Dies Irae",
+      "year": "2024",
+      "release_date": "2024-12-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/c2/62/69c26244-7def-e3d1-4086-42699523af50/11143.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dies Irae",
+          "duration": "2:37"
         }
       ]
     },

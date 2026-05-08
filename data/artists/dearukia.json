@@ -4,6 +4,24 @@
   "albums": [],
   "singles": [
     {
+      "name": "CORAZON",
+      "year": "2025",
+      "release_date": "2025-08-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/b2/fa/37b2fa1e-87b9-1524-9bf0-0844718bdb8f/199538597424.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CORAZON",
+          "duration": "2:00"
+        },
+        {
+          "number": 2,
+          "name": "CORAZON (SLOWED)",
+          "duration": "2:22"
+        }
+      ]
+    },
+    {
       "name": "1-0 JOGO PRO TADEU",
       "year": "2026",
       "release_date": "2026-02-12",
@@ -49,24 +67,6 @@
           "number": 3,
           "name": "out of order (super slowed)",
           "duration": "2:00"
-        }
-      ]
-    },
-    {
-      "name": "CORAZON",
-      "year": "2025",
-      "release_date": "2025-08-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/b2/fa/37b2fa1e-87b9-1524-9bf0-0844718bdb8f/199538597424.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CORAZON",
-          "duration": "2:00"
-        },
-        {
-          "number": 2,
-          "name": "CORAZON (SLOWED)",
-          "duration": "2:22"
         }
       ]
     },
@@ -153,6 +153,597 @@
           "number": 6,
           "name": "Ela Me Odeia (Spedup)",
           "duration": "1:28"
+        }
+      ]
+    },
+    {
+      "name": "STAY FOR THE NIGHT",
+      "year": "2025",
+      "release_date": "2025-07-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/10/15/6c10156b-3c68-42a3-82ca-326750507b08/1045539.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "STAY FOR THE NIGHT",
+          "duration": "2:04"
+        },
+        {
+          "number": 2,
+          "name": "STAY FOR THE NIGHT (Slowed)",
+          "duration": "2:18"
+        },
+        {
+          "number": 3,
+          "name": "STAY FOR THE NIGHT (Super Slowed)",
+          "duration": "2:33"
+        },
+        {
+          "number": 4,
+          "name": "STAY FOR THE NIGHT (Ultra Slowed)",
+          "duration": "2:51"
+        },
+        {
+          "number": 5,
+          "name": "STAY FOR THE NIGHT (Edit Version)",
+          "duration": "3:10"
+        },
+        {
+          "number": 6,
+          "name": "STAY FOR THE NIGHT (Sped Up)",
+          "duration": "1:53"
+        }
+      ]
+    },
+    {
+      "name": "MUNCHAUSEN FUNK",
+      "year": "2025",
+      "release_date": "2025-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/84/2e/51842ea9-420a-2107-4f43-c1a56e4f08ab/199538918960.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MUNCHAUSEN FUNK",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "MUNCHAUSEN FUNK (Slowed)",
+          "duration": "1:59"
+        },
+        {
+          "number": 3,
+          "name": "MUNCHAUSEN FUNK (SuperSlowed)",
+          "duration": "2:12"
+        },
+        {
+          "number": 4,
+          "name": "MUNCHAUSEN FUNK (UltraSlowed)",
+          "duration": "2:27"
+        },
+        {
+          "number": 5,
+          "name": "MUNCHAUSEN FUNK (Spedup)",
+          "duration": "1:37"
+        },
+        {
+          "number": 6,
+          "name": "MUNCHAUSEN FUNK (TiktokVersion)",
+          "duration": "2:43"
+        }
+      ]
+    },
+    {
+      "name": "TOMALO",
+      "year": "2025",
+      "release_date": "2025-06-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/90/4b/fd904b07-7031-f10c-6ca4-1918fe6a8f06/1963623440563_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TOMALO",
+          "duration": "2:09"
+        },
+        {
+          "number": 2,
+          "name": "TOMALO - Sped Up",
+          "duration": "1:55"
+        },
+        {
+          "number": 3,
+          "name": "TOMALO - Slowed",
+          "duration": "2:25"
+        },
+        {
+          "number": 4,
+          "name": "TOMALO - Super Slowed",
+          "duration": "2:43"
+        }
+      ]
+    },
+    {
+      "name": "To Aqui",
+      "year": "2025",
+      "release_date": "2025-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/c6/87/36c68742-4148-44c2-8224-54e4520ff733/1043363.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "To Aqui",
+          "duration": "1:17"
+        },
+        {
+          "number": 2,
+          "name": "To Aqui (Slowed)",
+          "duration": "1:31"
+        },
+        {
+          "number": 3,
+          "name": "To Aqui (Super Slowed)",
+          "duration": "1:40"
+        },
+        {
+          "number": 4,
+          "name": "To Aqui (Sped Up)",
+          "duration": "1:12"
+        }
+      ]
+    },
+    {
+      "name": "SEPARA",
+      "year": "2025",
+      "release_date": "2025-11-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/51/56/575156ba-6212-fdf0-675f-aa23fc3b19b4/73073.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SEPARA",
+          "duration": "1:08"
+        },
+        {
+          "number": 2,
+          "name": "SEPARA (Slowed)",
+          "duration": "1:21"
+        },
+        {
+          "number": 3,
+          "name": "SEPARA (Super Slowed)",
+          "duration": "1:31"
+        },
+        {
+          "number": 4,
+          "name": "SEPARA (Ultra Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 5,
+          "name": "SEPARA (Sped Up)",
+          "duration": "1:04"
+        }
+      ]
+    },
+    {
+      "name": "TEST & RECOGNIZE FUNK",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/e7/7d/27e77de3-f4e4-a76b-7cde-e18209e3229b/199806983430.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TEST & RECOGNIZE FUNK",
+          "duration": "2:11"
+        },
+        {
+          "number": 2,
+          "name": "TEST & RECOGNIZE FUNK (SLOWED)",
+          "duration": "2:25"
+        },
+        {
+          "number": 3,
+          "name": "TEST & RECOGNIZE FUNK (SUPER SLOWED)",
+          "duration": "2:42"
+        },
+        {
+          "number": 4,
+          "name": "TEST & RECOGNIZE FUNK (ULTRA SLOWED)",
+          "duration": "3:00"
+        },
+        {
+          "number": 5,
+          "name": "TEST & RECOGNIZE FUNK (SPED UP)",
+          "duration": "1:59"
+        },
+        {
+          "number": 6,
+          "name": "TEST & RECOGNIZE FUNK (TIKTOK VERSION)",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "STAY FOR THE NIGHT",
+      "year": "2025",
+      "release_date": "2025-07-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/96/22/6e962211-e468-35f4-6f68-a73310a7dc08/61093.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "STAY FOR THE NIGHT",
+          "duration": "2:04"
+        },
+        {
+          "number": 2,
+          "name": "STAY FOR THE NIGHT (Slowed)",
+          "duration": "2:18"
+        },
+        {
+          "number": 3,
+          "name": "STAY FOR THE NIGHT (Super Slowed)",
+          "duration": "2:33"
+        },
+        {
+          "number": 4,
+          "name": "STAY FOR THE NIGHT (Ultra Slowed)",
+          "duration": "2:51"
+        },
+        {
+          "number": 5,
+          "name": "STAY FOR THE NIGHT (Edit Version)",
+          "duration": "3:10"
+        },
+        {
+          "number": 6,
+          "name": "STAY FOR THE NIGHT (Sped Up)",
+          "duration": "1:53"
+        }
+      ]
+    },
+    {
+      "name": "Ascensão Oca",
+      "year": "2025",
+      "release_date": "2025-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/56/c2/3956c268-3c2d-5c4e-0ac6-d372a5c50685/199806279328.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ascensão Oca",
+          "duration": "1:14"
+        },
+        {
+          "number": 2,
+          "name": "Ascensão Oca (Slowed)",
+          "duration": "1:22"
+        },
+        {
+          "number": 3,
+          "name": "Ascensão Oca (SuperSlowed)",
+          "duration": "1:31"
+        },
+        {
+          "number": 4,
+          "name": "Ascensão Oca (UltraSlowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 5,
+          "name": "Ascensão Oca (TiktokVersion)",
+          "duration": "1:53"
+        },
+        {
+          "number": 6,
+          "name": "Ascensão Oca (spedup)",
+          "duration": "1:07"
+        }
+      ]
+    },
+    {
+      "name": "TOO CLOSE TO ME",
+      "year": "2025",
+      "release_date": "2025-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/95/fb/a895fb9f-2d6a-c1df-168d-59c429e32da5/199538850987.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TOO CLOSE TO ME",
+          "duration": "2:05"
+        },
+        {
+          "number": 2,
+          "name": "TOO CLOSE TO ME (slowed)",
+          "duration": "2:12"
+        },
+        {
+          "number": 3,
+          "name": "TOO CLOSE TO ME (super slowed)",
+          "duration": "2:28"
+        },
+        {
+          "number": 4,
+          "name": "TOO CLOSE TO ME (sped up)",
+          "duration": "1:57"
+        }
+      ]
+    },
+    {
+      "name": "Tiene En Altura",
+      "year": "2025",
+      "release_date": "2025-07-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/1b/7a/a11b7a36-1201-e5d2-3aed-77c2f62b0b1e/038557234289.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tiene En Altura",
+          "duration": "1:35"
+        },
+        {
+          "number": 2,
+          "name": "Tiene En Altura (Slowed)",
+          "duration": "1:46"
+        },
+        {
+          "number": 3,
+          "name": "Tiene En Altura (Super Slowed)",
+          "duration": "1:53"
+        },
+        {
+          "number": 4,
+          "name": "Tiene En Altura (Sped Up)",
+          "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "SET ME FREE",
+      "year": "2026",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/a8/9e/43a89e38-cf02-aa40-9b86-b6269b574ee7/199806892862.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SET ME FREE",
+          "duration": "1:18"
+        },
+        {
+          "number": 2,
+          "name": "SET ME FREE (Slowed)",
+          "duration": "1:27"
+        },
+        {
+          "number": 3,
+          "name": "SET ME FREE (SuperSlowed)",
+          "duration": "1:36"
+        },
+        {
+          "number": 4,
+          "name": "SET ME FREE (UltraSlowed)",
+          "duration": "1:47"
+        },
+        {
+          "number": 5,
+          "name": "SET ME FREE (TiktokVersion)",
+          "duration": "1:59"
+        },
+        {
+          "number": 6,
+          "name": "SET ME FREE (spedup)",
+          "duration": "1:11"
+        }
+      ]
+    },
+    {
+      "name": "Stay for the Night",
+      "year": "2025",
+      "release_date": "2025-07-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/22/6f/22226fcb-2d72-13f2-28f3-6fabf24d7ea4/682106291331.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stay for the Night",
+          "duration": "2:04"
+        },
+        {
+          "number": 2,
+          "name": "Stay for the Night (Slowed)",
+          "duration": "2:18"
+        },
+        {
+          "number": 3,
+          "name": "Stay for the Night (Super Slowed)",
+          "duration": "2:33"
+        },
+        {
+          "number": 4,
+          "name": "Stay for the Night (Ultra Slowed)",
+          "duration": "2:51"
+        },
+        {
+          "number": 5,
+          "name": "Stay for the Night (Edit Version)",
+          "duration": "3:10"
+        },
+        {
+          "number": 6,
+          "name": "Stay for the Night (Sped Up)",
+          "duration": "1:53"
+        }
+      ]
+    },
+    {
+      "name": "HIPNOTIZE ME",
+      "year": "2025",
+      "release_date": "2025-05-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ac/e7/11ace727-3221-2dd3-eb86-b8ca77d7508e/1043360.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HIPNOTIZE ME",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "HIPNOTIZE ME (Slowed)",
+          "duration": "1:33"
+        },
+        {
+          "number": 3,
+          "name": "HIPNOTIZE ME (Super Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 4,
+          "name": "HIPNOTIZE ME (Ultra Slowed)",
+          "duration": "1:55"
+        },
+        {
+          "number": 5,
+          "name": "HIPNOTIZE ME (Edit Version)",
+          "duration": "2:08"
+        },
+        {
+          "number": 6,
+          "name": "HIPNOTIZE ME (Sped Up)",
+          "duration": "1:16"
+        }
+      ]
+    },
+    {
+      "name": "Te Importa",
+      "year": "2025",
+      "release_date": "2025-10-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/c4/42/61c44218-a419-9402-7c3d-47d3bb7d9328/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Te Importa",
+          "duration": "1:17"
+        },
+        {
+          "number": 2,
+          "name": "Te Importa (Slowed)",
+          "duration": "1:27"
+        },
+        {
+          "number": 3,
+          "name": "Te Importa (Super Slowed)",
+          "duration": "1:37"
+        },
+        {
+          "number": 4,
+          "name": "Te Importa (Ultra Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 5,
+          "name": "Te Importa (Sped Up)",
+          "duration": "1:09"
+        }
+      ]
+    },
+    {
+      "name": "Ande Livre",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/95/90/8a95903a-7381-0d02-d4f5-ea2f1fb5a8cc/199806427644.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ande Livre",
+          "duration": "1:14"
+        },
+        {
+          "number": 2,
+          "name": "Ande Livre (Slowed)",
+          "duration": "1:22"
+        },
+        {
+          "number": 3,
+          "name": "Ande Livre (Super Slowed)",
+          "duration": "1:31"
+        },
+        {
+          "number": 4,
+          "name": "Ande Livre (Ultra Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 5,
+          "name": "Ande Livre (TikTok Version)",
+          "duration": "1:53"
+        },
+        {
+          "number": 6,
+          "name": "Ande Livre (Sped Up)",
+          "duration": "1:06"
+        }
+      ]
+    },
+    {
+      "name": "PARAÍSO PERDIDO FUNK (feat. dearukia)",
+      "year": "2025",
+      "release_date": "2025-06-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/33/43/e53343fe-5f2e-2bc4-2358-16e753b4f647/199350965098.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PARAÍSO PERDIDO FUNK (feat. dearukia)",
+          "duration": "1:36"
+        },
+        {
+          "number": 2,
+          "name": "PARAÍSO PERDIDO FUNK (feat. dearukia) [Slowed]",
+          "duration": "1:43"
+        },
+        {
+          "number": 3,
+          "name": "PARAÍSO PERDIDO FUNK (feat. dearukia) [Super Slowed]",
+          "duration": "1:51"
+        },
+        {
+          "number": 4,
+          "name": "PARAÍSO PERDIDO FUNK (feat. dearukia) [Tiktok Version]",
+          "duration": "2:17"
+        },
+        {
+          "number": 5,
+          "name": "PARAÍSO PERDIDO FUNK (feat. dearukia) [Sped Up]",
+          "duration": "1:24"
+        },
+        {
+          "number": 6,
+          "name": "PARAÍSO PERDIDO FUNK (feat. dearukia) [Ultra Slowed]",
+          "duration": "2:03"
+        }
+      ]
+    },
+    {
+      "name": "Dream BBQ Funk",
+      "year": "2026",
+      "release_date": "2026-04-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/ef/38/7def3860-9e9e-178e-42c9-53fd18d5ced2/820200945396.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dream BBQ Funk",
+          "duration": "1:58"
+        },
+        {
+          "number": 2,
+          "name": "Dream BBQ Funk (Slowed)",
+          "duration": "2:21"
+        },
+        {
+          "number": 3,
+          "name": "Dream BBQ Funk (Super Slowed)",
+          "duration": "2:57"
+        },
+        {
+          "number": 4,
+          "name": "Dream BBQ Funk (Ultra Slowed)",
+          "duration": "3:56"
+        },
+        {
+          "number": 5,
+          "name": "Dream BBQ Funk (Sped up)",
+          "duration": "1:41"
         }
       ]
     },
@@ -375,68 +966,40 @@
       ]
     },
     {
-      "name": "MUNCHAUSEN FUNK",
+      "name": "LA TACA",
       "year": "2025",
-      "release_date": "2025-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/84/2e/51842ea9-420a-2107-4f43-c1a56e4f08ab/199538918960.jpg/600x600bb.jpg",
+      "release_date": "2025-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/92/d4/f592d417-157f-19dc-2b6a-3d82ed7707dd/1045564.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "MUNCHAUSEN FUNK",
-          "duration": "1:47"
+          "name": "LA TACA",
+          "duration": "1:46"
         },
         {
           "number": 2,
-          "name": "MUNCHAUSEN FUNK (Slowed)",
-          "duration": "1:59"
+          "name": "LA TACA (Slowed)",
+          "duration": "1:58"
         },
         {
           "number": 3,
-          "name": "MUNCHAUSEN FUNK (SuperSlowed)",
-          "duration": "2:12"
+          "name": "LA TACA (Super Slowed)",
+          "duration": "2:11"
         },
         {
           "number": 4,
-          "name": "MUNCHAUSEN FUNK (UltraSlowed)",
-          "duration": "2:27"
-        },
-        {
-          "number": 5,
-          "name": "MUNCHAUSEN FUNK (Spedup)",
-          "duration": "1:37"
-        },
-        {
-          "number": 6,
-          "name": "MUNCHAUSEN FUNK (TiktokVersion)",
-          "duration": "2:43"
-        }
-      ]
-    },
-    {
-      "name": "TOMALO",
-      "year": "2025",
-      "release_date": "2025-06-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/90/4b/fd904b07-7031-f10c-6ca4-1918fe6a8f06/1963623440563_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TOMALO",
-          "duration": "2:09"
-        },
-        {
-          "number": 2,
-          "name": "TOMALO - Sped Up",
-          "duration": "1:55"
-        },
-        {
-          "number": 3,
-          "name": "TOMALO - Slowed",
+          "name": "LA TACA (Ultra Slowed)",
           "duration": "2:25"
         },
         {
-          "number": 4,
-          "name": "TOMALO - Super Slowed",
-          "duration": "2:43"
+          "number": 5,
+          "name": "LA TACA (Edit Version)",
+          "duration": "2:42"
+        },
+        {
+          "number": 6,
+          "name": "LA TACA (Sped Up)",
+          "duration": "1:36"
         }
       ]
     },
@@ -546,6 +1109,44 @@
           "number": 5,
           "name": "Risa (Ultra Slowed)",
           "duration": "2:58"
+        }
+      ]
+    },
+    {
+      "name": "ELA ME ODEIA",
+      "year": "2025",
+      "release_date": "2025-08-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/ec/66/b1ec6643-34a6-9752-8de4-800eb74b9b76/282748.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ELA ME ODEIA",
+          "duration": "1:37"
+        },
+        {
+          "number": 2,
+          "name": "ELA ME ODEIA (Slowed)",
+          "duration": "1:48"
+        },
+        {
+          "number": 3,
+          "name": "ELA ME ODEIA (Super Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 4,
+          "name": "ELA ME ODEIA (Ultra Slowed)",
+          "duration": "2:14"
+        },
+        {
+          "number": 5,
+          "name": "ELA ME ODEIA (Decayed)",
+          "duration": "2:29"
+        },
+        {
+          "number": 6,
+          "name": "ELA ME ODEIA (Spedup)",
+          "duration": "1:28"
         }
       ]
     },
@@ -664,40 +1265,40 @@
       ]
     },
     {
-      "name": "TEST & RECOGNIZE FUNK",
-      "year": "2026",
-      "release_date": "2026-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/e7/7d/27e77de3-f4e4-a76b-7cde-e18209e3229b/199806983430.jpg/600x600bb.jpg",
+      "name": "MELODIA DAÉDRICO",
+      "year": "2025",
+      "release_date": "2025-08-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/9e/f7/df9ef74c-8452-8406-0add-a17ab0b9a2ff/287448.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "TEST & RECOGNIZE FUNK",
-          "duration": "2:11"
+          "name": "MELODIA DAÉDRICO",
+          "duration": "1:37"
         },
         {
           "number": 2,
-          "name": "TEST & RECOGNIZE FUNK (SLOWED)",
-          "duration": "2:25"
+          "name": "MELODIA DAÉDRICO (Slowed)",
+          "duration": "1:48"
         },
         {
           "number": 3,
-          "name": "TEST & RECOGNIZE FUNK (SUPER SLOWED)",
-          "duration": "2:42"
+          "name": "MELODIA DAÉDRICO (Super Slowed)",
+          "duration": "2:00"
         },
         {
           "number": 4,
-          "name": "TEST & RECOGNIZE FUNK (ULTRA SLOWED)",
-          "duration": "3:00"
+          "name": "MELODIA DAÉDRICO (Ultra Slowed)",
+          "duration": "2:14"
         },
         {
           "number": 5,
-          "name": "TEST & RECOGNIZE FUNK (SPED UP)",
-          "duration": "1:59"
+          "name": "MELODIA DAÉDRICO (Decayed)",
+          "duration": "2:28"
         },
         {
           "number": 6,
-          "name": "TEST & RECOGNIZE FUNK (TIKTOK VERSION)",
-          "duration": "3:20"
+          "name": "MELODIA DAÉDRICO (SpedUp)",
+          "duration": "1:28"
         }
       ]
     },
@@ -736,44 +1337,6 @@
           "number": 6,
           "name": "BACK ON BLACK (TIKTOK VERSION)",
           "duration": "2:19"
-        }
-      ]
-    },
-    {
-      "name": "STAY FOR THE NIGHT",
-      "year": "2025",
-      "release_date": "2025-07-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/96/22/6e962211-e468-35f4-6f68-a73310a7dc08/61093.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "STAY FOR THE NIGHT",
-          "duration": "2:04"
-        },
-        {
-          "number": 2,
-          "name": "STAY FOR THE NIGHT (Slowed)",
-          "duration": "2:18"
-        },
-        {
-          "number": 3,
-          "name": "STAY FOR THE NIGHT (Super Slowed)",
-          "duration": "2:33"
-        },
-        {
-          "number": 4,
-          "name": "STAY FOR THE NIGHT (Ultra Slowed)",
-          "duration": "2:51"
-        },
-        {
-          "number": 5,
-          "name": "STAY FOR THE NIGHT (Edit Version)",
-          "duration": "3:10"
-        },
-        {
-          "number": 6,
-          "name": "STAY FOR THE NIGHT (Sped Up)",
-          "duration": "1:53"
         }
       ]
     },
@@ -854,172 +1417,68 @@
       ]
     },
     {
-      "name": "Ascensão Oca",
+      "name": "Dark Red (Funk)",
       "year": "2025",
-      "release_date": "2025-11-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/56/c2/3956c268-3c2d-5c4e-0ac6-d372a5c50685/199806279328.jpg/600x600bb.jpg",
+      "release_date": "2025-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/50/51/6950511d-a6a8-4f60-e20b-ba06d162251a/1106470.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Ascensão Oca",
-          "duration": "1:14"
+          "name": "Dark Red (Funk)",
+          "duration": "1:44"
         },
         {
           "number": 2,
-          "name": "Ascensão Oca (Slowed)",
-          "duration": "1:22"
+          "name": "Dark Red (Funk Slowed)",
+          "duration": "1:57"
         },
         {
           "number": 3,
-          "name": "Ascensão Oca (SuperSlowed)",
-          "duration": "1:31"
+          "name": "Dark Red (Funk Super Slowed)",
+          "duration": "2:14"
         },
         {
           "number": 4,
-          "name": "Ascensão Oca (UltraSlowed)",
-          "duration": "1:42"
+          "name": "Dark Red (Funk Ultra Slowed)",
+          "duration": "2:44"
         },
         {
           "number": 5,
-          "name": "Ascensão Oca (TiktokVersion)",
-          "duration": "1:53"
-        },
-        {
-          "number": 6,
-          "name": "Ascensão Oca (spedup)",
-          "duration": "1:07"
+          "name": "Dark Red (Funk Nightcore)",
+          "duration": "1:37"
         }
       ]
     },
     {
-      "name": "TOO CLOSE TO ME",
+      "name": "DARK OASIS",
       "year": "2025",
-      "release_date": "2025-09-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/95/fb/a895fb9f-2d6a-c1df-168d-59c429e32da5/199538850987.jpg/600x600bb.jpg",
+      "release_date": "2025-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/78/89/6078897b-7a85-b4a4-a8c5-cb26b5580a50/288870.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "TOO CLOSE TO ME",
-          "duration": "2:05"
+          "name": "DARK OASIS",
+          "duration": "1:45"
         },
         {
           "number": 2,
-          "name": "TOO CLOSE TO ME (slowed)",
-          "duration": "2:12"
+          "name": "DARK OASIS (Slowed)",
+          "duration": "2:03"
         },
         {
           "number": 3,
-          "name": "TOO CLOSE TO ME (super slowed)",
-          "duration": "2:28"
+          "name": "DARK OASIS (Super Slowed)",
+          "duration": "2:16"
         },
         {
           "number": 4,
-          "name": "TOO CLOSE TO ME (sped up)",
-          "duration": "1:57"
-        }
-      ]
-    },
-    {
-      "name": "Tiene En Altura",
-      "year": "2025",
-      "release_date": "2025-07-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/1b/7a/a11b7a36-1201-e5d2-3aed-77c2f62b0b1e/038557234289.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tiene En Altura",
-          "duration": "1:35"
-        },
-        {
-          "number": 2,
-          "name": "Tiene En Altura (Slowed)",
-          "duration": "1:46"
-        },
-        {
-          "number": 3,
-          "name": "Tiene En Altura (Super Slowed)",
-          "duration": "1:53"
-        },
-        {
-          "number": 4,
-          "name": "Tiene En Altura (Sped Up)",
-          "duration": "1:29"
-        }
-      ]
-    },
-    {
-      "name": "Stay for the Night",
-      "year": "2025",
-      "release_date": "2025-07-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/22/6f/22226fcb-2d72-13f2-28f3-6fabf24d7ea4/682106291331.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stay for the Night",
-          "duration": "2:04"
-        },
-        {
-          "number": 2,
-          "name": "Stay for the Night (Slowed)",
-          "duration": "2:18"
-        },
-        {
-          "number": 3,
-          "name": "Stay for the Night (Super Slowed)",
+          "name": "DARK OASIS (Ultra Slowed + Reverb)",
           "duration": "2:33"
         },
         {
-          "number": 4,
-          "name": "Stay for the Night (Ultra Slowed)",
-          "duration": "2:51"
-        },
-        {
           "number": 5,
-          "name": "Stay for the Night (Edit Version)",
-          "duration": "3:10"
-        },
-        {
-          "number": 6,
-          "name": "Stay for the Night (Sped Up)",
-          "duration": "1:53"
-        }
-      ]
-    },
-    {
-      "name": "SET ME FREE",
-      "year": "2026",
-      "release_date": "2026-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/a8/9e/43a89e38-cf02-aa40-9b86-b6269b574ee7/199806892862.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SET ME FREE",
-          "duration": "1:18"
-        },
-        {
-          "number": 2,
-          "name": "SET ME FREE (Slowed)",
-          "duration": "1:27"
-        },
-        {
-          "number": 3,
-          "name": "SET ME FREE (SuperSlowed)",
-          "duration": "1:36"
-        },
-        {
-          "number": 4,
-          "name": "SET ME FREE (UltraSlowed)",
-          "duration": "1:47"
-        },
-        {
-          "number": 5,
-          "name": "SET ME FREE (TiktokVersion)",
-          "duration": "1:59"
-        },
-        {
-          "number": 6,
-          "name": "SET ME FREE (spedup)",
-          "duration": "1:11"
+          "name": "DARK OASIS (Decayed)",
+          "duration": "2:49"
         }
       ]
     },
@@ -1100,77 +1559,6 @@
       ]
     },
     {
-      "name": "Te Importa",
-      "year": "2025",
-      "release_date": "2025-10-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/c4/42/61c44218-a419-9402-7c3d-47d3bb7d9328/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Te Importa",
-          "duration": "1:17"
-        },
-        {
-          "number": 2,
-          "name": "Te Importa (Slowed)",
-          "duration": "1:27"
-        },
-        {
-          "number": 3,
-          "name": "Te Importa (Super Slowed)",
-          "duration": "1:37"
-        },
-        {
-          "number": 4,
-          "name": "Te Importa (Ultra Slowed)",
-          "duration": "1:49"
-        },
-        {
-          "number": 5,
-          "name": "Te Importa (Sped Up)",
-          "duration": "1:09"
-        }
-      ]
-    },
-    {
-      "name": "Ande Livre",
-      "year": "2025",
-      "release_date": "2025-11-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/95/90/8a95903a-7381-0d02-d4f5-ea2f1fb5a8cc/199806427644.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ande Livre",
-          "duration": "1:14"
-        },
-        {
-          "number": 2,
-          "name": "Ande Livre (Slowed)",
-          "duration": "1:22"
-        },
-        {
-          "number": 3,
-          "name": "Ande Livre (Super Slowed)",
-          "duration": "1:31"
-        },
-        {
-          "number": 4,
-          "name": "Ande Livre (Ultra Slowed)",
-          "duration": "1:41"
-        },
-        {
-          "number": 5,
-          "name": "Ande Livre (TikTok Version)",
-          "duration": "1:53"
-        },
-        {
-          "number": 6,
-          "name": "Ande Livre (Sped Up)",
-          "duration": "1:06"
-        }
-      ]
-    },
-    {
       "name": "LA TACA",
       "year": "2025",
       "release_date": "2025-06-25",
@@ -1209,44 +1597,6 @@
       ]
     },
     {
-      "name": "PARAÍSO PERDIDO FUNK (feat. dearukia)",
-      "year": "2025",
-      "release_date": "2025-06-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/33/43/e53343fe-5f2e-2bc4-2358-16e753b4f647/199350965098.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PARAÍSO PERDIDO FUNK (feat. dearukia)",
-          "duration": "1:36"
-        },
-        {
-          "number": 2,
-          "name": "PARAÍSO PERDIDO FUNK (feat. dearukia) [Slowed]",
-          "duration": "1:43"
-        },
-        {
-          "number": 3,
-          "name": "PARAÍSO PERDIDO FUNK (feat. dearukia) [Super Slowed]",
-          "duration": "1:51"
-        },
-        {
-          "number": 4,
-          "name": "PARAÍSO PERDIDO FUNK (feat. dearukia) [Tiktok Version]",
-          "duration": "2:17"
-        },
-        {
-          "number": 5,
-          "name": "PARAÍSO PERDIDO FUNK (feat. dearukia) [Sped Up]",
-          "duration": "1:24"
-        },
-        {
-          "number": 6,
-          "name": "PARAÍSO PERDIDO FUNK (feat. dearukia) [Ultra Slowed]",
-          "duration": "2:03"
-        }
-      ]
-    },
-    {
       "name": "To Aqui",
       "year": "2025",
       "release_date": "2025-08-13",
@@ -1271,39 +1621,6 @@
           "number": 4,
           "name": "To Aqui (Sped Up)",
           "duration": "1:12"
-        }
-      ]
-    },
-    {
-      "name": "Dream BBQ Funk",
-      "year": "2026",
-      "release_date": "2026-04-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/ef/38/7def3860-9e9e-178e-42c9-53fd18d5ced2/820200945396.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dream BBQ Funk",
-          "duration": "1:58"
-        },
-        {
-          "number": 2,
-          "name": "Dream BBQ Funk (Slowed)",
-          "duration": "2:21"
-        },
-        {
-          "number": 3,
-          "name": "Dream BBQ Funk (Super Slowed)",
-          "duration": "2:57"
-        },
-        {
-          "number": 4,
-          "name": "Dream BBQ Funk (Ultra Slowed)",
-          "duration": "3:56"
-        },
-        {
-          "number": 5,
-          "name": "Dream BBQ Funk (Sped up)",
-          "duration": "1:41"
         }
       ]
     },

@@ -174,64 +174,6 @@
       ]
     },
     {
-      "name": "Melanchronica",
-      "year": "2025",
-      "release_date": "2025-06-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/d4/6e/f9d46e76-71db-27c3-2396-8b791f9fe4c1/199350273025.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Out of Sight",
-          "duration": "3:38"
-        },
-        {
-          "number": 2,
-          "name": "Norbit",
-          "duration": "3:14"
-        },
-        {
-          "number": 3,
-          "name": "Four Walls",
-          "duration": "3:56"
-        },
-        {
-          "number": 4,
-          "name": "Everyday Ppl",
-          "duration": "4:19"
-        },
-        {
-          "number": 5,
-          "name": "San Junipero",
-          "duration": "4:11"
-        },
-        {
-          "number": 6,
-          "name": "Roxane’s Interlude",
-          "duration": "4:19"
-        },
-        {
-          "number": 7,
-          "name": "Comfort Levels",
-          "duration": "2:38"
-        },
-        {
-          "number": 8,
-          "name": "Mine",
-          "duration": "2:43"
-        },
-        {
-          "number": 9,
-          "name": "Erewhon",
-          "duration": "3:33"
-        },
-        {
-          "number": 10,
-          "name": "Sometimes",
-          "duration": "7:09"
-        }
-      ]
-    },
-    {
       "name": "Too High to Riot",
       "year": "2016",
       "release_date": "2016-01-16",
@@ -369,6 +311,64 @@
           "number": 13,
           "name": "Lit (feat. J Cole & K-Quick) [Bonus Track]",
           "duration": "4:38"
+        }
+      ]
+    },
+    {
+      "name": "Melanchronica",
+      "year": "2025",
+      "release_date": "2025-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/d4/6e/f9d46e76-71db-27c3-2396-8b791f9fe4c1/199350273025.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Out of Sight",
+          "duration": "3:38"
+        },
+        {
+          "number": 2,
+          "name": "Norbit",
+          "duration": "3:14"
+        },
+        {
+          "number": 3,
+          "name": "Four Walls",
+          "duration": "3:56"
+        },
+        {
+          "number": 4,
+          "name": "Everyday Ppl",
+          "duration": "4:19"
+        },
+        {
+          "number": 5,
+          "name": "San Junipero",
+          "duration": "4:11"
+        },
+        {
+          "number": 6,
+          "name": "Roxane’s Interlude",
+          "duration": "4:19"
+        },
+        {
+          "number": 7,
+          "name": "Comfort Levels",
+          "duration": "2:38"
+        },
+        {
+          "number": 8,
+          "name": "Mine",
+          "duration": "2:43"
+        },
+        {
+          "number": 9,
+          "name": "Erewhon",
+          "duration": "3:33"
+        },
+        {
+          "number": 10,
+          "name": "Sometimes",
+          "duration": "7:09"
         }
       ]
     },
@@ -984,19 +984,6 @@
       ]
     },
     {
-      "name": "Risk",
-      "year": "2019",
-      "release_date": "2019-11-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/72/b6/7672b624-eb24-3154-f1f7-1a93fd98da52/112179.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Risk",
-          "duration": "3:58"
-        }
-      ]
-    },
-    {
       "name": "Everyday Ppl",
       "year": "2025",
       "release_date": "2025-04-15",
@@ -1051,6 +1038,19 @@
       "release_date": "2019-08-22",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/5b/75/795b7540-5cf9-d678-f6ee-6a61da232582/18UMGIM03181.rgb.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "Risk",
+      "year": "2019",
+      "release_date": "2019-11-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/72/b6/7672b624-eb24-3154-f1f7-1a93fd98da52/112179.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Risk",
+          "duration": "3:58"
+        }
+      ]
     },
     {
       "name": "Ho Chi Minh",

@@ -3,74 +3,6 @@
   "id": 6250710,
   "albums": [
     {
-      "name": "Amantes Sunt Amentes",
-      "year": "2006",
-      "release_date": "2006-10-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/57/14/4357146e-b930-031e-7937-ea56023ecf70/amantes_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La estrategia perdida",
-          "duration": "3:20"
-        },
-        {
-          "number": 2,
-          "name": "So violento so macabro",
-          "duration": "3:21"
-        },
-        {
-          "number": 3,
-          "name": "El infame estar y no estar",
-          "duration": "3:43"
-        },
-        {
-          "number": 4,
-          "name": "Estoy más solo que ayer pero menos que mañana",
-          "duration": "3:01"
-        },
-        {
-          "number": 5,
-          "name": "Narcisista por excelencia",
-          "duration": "3:47"
-        },
-        {
-          "number": 6,
-          "name": "Procedimientos para llegar a un común acuerdo",
-          "duration": "3:14"
-        },
-        {
-          "number": 7,
-          "name": "Tripulación, armar toboganes",
-          "duration": "3:55"
-        },
-        {
-          "number": 8,
-          "name": "Pathetica",
-          "duration": "4:22"
-        },
-        {
-          "number": 9,
-          "name": "Los malaventurados no lloran",
-          "duration": "3:27"
-        },
-        {
-          "number": 10,
-          "name": "Tus palabras punzocortantes",
-          "duration": "3:15"
-        },
-        {
-          "number": 11,
-          "name": "Atractivo encontramos en lo más repugnante",
-          "duration": "3:27"
-        },
-        {
-          "number": 12,
-          "name": "¡Ah pero cómo vendo cassettes!",
-          "duration": "1:44"
-        }
-      ]
-    },
-    {
       "name": "Para Ti Con Desprecio",
       "year": "2005",
       "release_date": "2005-05-11",
@@ -150,6 +82,74 @@
           "number": 15,
           "name": "Por Que Todavía Podemos Decir \"Una Vez Más\"",
           "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Amantes Sunt Amentes",
+      "year": "2006",
+      "release_date": "2006-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/57/14/4357146e-b930-031e-7937-ea56023ecf70/amantes_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La estrategia perdida",
+          "duration": "3:20"
+        },
+        {
+          "number": 2,
+          "name": "So violento so macabro",
+          "duration": "3:21"
+        },
+        {
+          "number": 3,
+          "name": "El infame estar y no estar",
+          "duration": "3:43"
+        },
+        {
+          "number": 4,
+          "name": "Estoy más solo que ayer pero menos que mañana",
+          "duration": "3:01"
+        },
+        {
+          "number": 5,
+          "name": "Narcisista por excelencia",
+          "duration": "3:47"
+        },
+        {
+          "number": 6,
+          "name": "Procedimientos para llegar a un común acuerdo",
+          "duration": "3:14"
+        },
+        {
+          "number": 7,
+          "name": "Tripulación, armar toboganes",
+          "duration": "3:55"
+        },
+        {
+          "number": 8,
+          "name": "Pathetica",
+          "duration": "4:22"
+        },
+        {
+          "number": 9,
+          "name": "Los malaventurados no lloran",
+          "duration": "3:27"
+        },
+        {
+          "number": 10,
+          "name": "Tus palabras punzocortantes",
+          "duration": "3:15"
+        },
+        {
+          "number": 11,
+          "name": "Atractivo encontramos en lo más repugnante",
+          "duration": "3:27"
+        },
+        {
+          "number": 12,
+          "name": "¡Ah pero cómo vendo cassettes!",
+          "duration": "1:44"
         }
       ]
     },
@@ -656,6 +656,13 @@
       "tracks": []
     },
     {
+      "name": "The Decca/Philips Singles",
+      "year": "2023",
+      "release_date": "2023-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/23/99/072399ab-517f-4ef9-81cc-2eb40b5c2db2/23UMGIM36150.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Bonanza",
       "year": "2012",
       "release_date": "2012-06-26",
@@ -729,14 +736,6 @@
       ]
     }
   ],
-  "singles": [
-    {
-      "name": "Ponto G",
-      "year": "2026",
-      "release_date": "2026-04-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/e3/12/40e3122a-3d2a-a615-215f-716fc4821e4d/26UMGIM36359.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    }
-  ],
+  "singles": [],
   "eps": []
 }

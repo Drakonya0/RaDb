@@ -3,6 +3,62 @@
   "id": 146055657,
   "albums": [
     {
+      "name": "Two Hunters",
+      "year": "2007",
+      "release_date": "2007-09-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7a/72/85/7a728599-7400-56c9-f02f-c77688f71164/884977375688.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dia Artio",
+          "duration": "5:58"
+        },
+        {
+          "number": 2,
+          "name": "Vastness and Sorrow",
+          "duration": "12:12"
+        },
+        {
+          "number": 3,
+          "name": "Cleansing",
+          "duration": "9:55"
+        },
+        {
+          "number": 4,
+          "name": "I Will Lay Down My Bones Among the Rocks and Stones",
+          "duration": "18:16"
+        }
+      ]
+    },
+    {
+      "name": "Black Cascade",
+      "year": "2009",
+      "release_date": "2009-03-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/38/d4/c6/38d4c67e-928f-2aee-95f1-611afd3b51a4/884977096781.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wanderer Above the Sea of Fog",
+          "duration": "10:33"
+        },
+        {
+          "number": 2,
+          "name": "Ahrimanic Trance",
+          "duration": "14:05"
+        },
+        {
+          "number": 3,
+          "name": "Ex Cathedra",
+          "duration": "10:58"
+        },
+        {
+          "number": 4,
+          "name": "Crystal Ammunition",
+          "duration": "14:20"
+        }
+      ]
+    },
+    {
       "name": "Celestial Lineage",
       "year": "2011",
       "release_date": "2011-09-13",
@@ -75,62 +131,6 @@
           "number": 5,
           "name": "Fires Roar in the Palace of the Moon",
           "duration": "11:29"
-        }
-      ]
-    },
-    {
-      "name": "Two Hunters",
-      "year": "2007",
-      "release_date": "2007-09-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7a/72/85/7a728599-7400-56c9-f02f-c77688f71164/884977375688.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dia Artio",
-          "duration": "5:58"
-        },
-        {
-          "number": 2,
-          "name": "Vastness and Sorrow",
-          "duration": "12:12"
-        },
-        {
-          "number": 3,
-          "name": "Cleansing",
-          "duration": "9:55"
-        },
-        {
-          "number": 4,
-          "name": "I Will Lay Down My Bones Among the Rocks and Stones",
-          "duration": "18:16"
-        }
-      ]
-    },
-    {
-      "name": "Black Cascade",
-      "year": "2009",
-      "release_date": "2009-03-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/38/d4/c6/38d4c67e-928f-2aee-95f1-611afd3b51a4/884977096781.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wanderer Above the Sea of Fog",
-          "duration": "10:33"
-        },
-        {
-          "number": 2,
-          "name": "Ahrimanic Trance",
-          "duration": "14:05"
-        },
-        {
-          "number": 3,
-          "name": "Ex Cathedra",
-          "duration": "10:58"
-        },
-        {
-          "number": 4,
-          "name": "Crystal Ammunition",
-          "duration": "14:20"
         }
       ]
     },

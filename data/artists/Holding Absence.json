@@ -414,19 +414,6 @@
       ]
     },
     {
-      "name": "Death by a Thousand Cuts (feat. Lucas Woodland)",
-      "year": "2024",
-      "release_date": "2024-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/af/45/08af45d3-57e0-c391-f84a-bf6ddec35087/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Death by a Thousand Cuts (feat. Lucas Woodland)",
-          "duration": "5:21"
-        }
-      ]
-    },
-    {
       "name": "White Hot / Saint Cecilia",
       "year": "2017",
       "release_date": "2017-12-04",
@@ -441,6 +428,19 @@
           "number": 2,
           "name": "Saint Cecilia",
           "duration": "4:49"
+        }
+      ]
+    },
+    {
+      "name": "Death by a Thousand Cuts (feat. Lucas Woodland)",
+      "year": "2024",
+      "release_date": "2024-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/af/45/08af45d3-57e0-c391-f84a-bf6ddec35087/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Death by a Thousand Cuts (feat. Lucas Woodland)",
+          "duration": "5:21"
         }
       ]
     },
@@ -537,34 +537,6 @@
   ],
   "eps": [
     {
-      "name": "This Is as One",
-      "year": "2018",
-      "release_date": "2018-02-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c0/c0/4e/c0c04ebe-7491-c89b-d125-17bf1d8bff5a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "White Hot",
-          "duration": "3:30"
-        },
-        {
-          "number": 2,
-          "name": "Servant and Master",
-          "duration": "4:06"
-        },
-        {
-          "number": 3,
-          "name": "Saint Cecilia",
-          "duration": "4:49"
-        },
-        {
-          "number": 4,
-          "name": "Everything",
-          "duration": "4:15"
-        }
-      ]
-    },
-    {
       "name": "The Lost & The Longing",
       "year": "2022",
       "release_date": "2022-08-15",
@@ -589,6 +561,34 @@
           "number": 4,
           "name": "Coffin",
           "duration": "3:51"
+        }
+      ]
+    },
+    {
+      "name": "This Is as One",
+      "year": "2018",
+      "release_date": "2018-02-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c0/c0/4e/c0c04ebe-7491-c89b-d125-17bf1d8bff5a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "White Hot",
+          "duration": "3:30"
+        },
+        {
+          "number": 2,
+          "name": "Servant and Master",
+          "duration": "4:06"
+        },
+        {
+          "number": 3,
+          "name": "Saint Cecilia",
+          "duration": "4:49"
+        },
+        {
+          "number": 4,
+          "name": "Everything",
+          "duration": "4:15"
         }
       ]
     }

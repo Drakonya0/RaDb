@@ -167,29 +167,6 @@
       ]
     },
     {
-      "name": "PARADISE!",
-      "year": "2024",
-      "release_date": "2024-05-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/e6/cc/c8e6cc5d-a3b7-bb49-cc19-5619ce8f9906/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PARADISE!",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "PARADISE! (Slowed)",
-          "duration": "1:41"
-        },
-        {
-          "number": 3,
-          "name": "PARADISE! (Sped Up)",
-          "duration": "1:15"
-        }
-      ]
-    },
-    {
       "name": "Lunarium Slide",
       "year": "2024",
       "release_date": "2024-11-08",
@@ -209,6 +186,29 @@
           "number": 3,
           "name": "Lunarium Slide (Sped Up)",
           "duration": "1:10"
+        }
+      ]
+    },
+    {
+      "name": "PARADISE!",
+      "year": "2024",
+      "release_date": "2024-05-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/e6/cc/c8e6cc5d-a3b7-bb49-cc19-5619ce8f9906/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PARADISE!",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "PARADISE! (Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "PARADISE! (Sped Up)",
+          "duration": "1:15"
         }
       ]
     },
@@ -1203,39 +1203,6 @@
       ]
     },
     {
-      "name": "MONTAGEM ESTRELA TWINKO (ALT VERSION)",
-      "year": "2026",
-      "release_date": "2026-04-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/31/01/7c31011c-f11e-668a-4d3f-2f6e64d29b0d/820200878274.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Estrela Twinko (Alt Version)",
-          "duration": "2:03"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Estrela Twinko (Alt Version) [Slowed]",
-          "duration": "2:26"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Estrela Twinko (Alt Version) [Sped Up]",
-          "duration": "1:56"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Estrela Twinko (Alt Version) [Super Slowed]",
-          "duration": "2:44"
-        },
-        {
-          "number": 5,
-          "name": "Montagem Estrela Twinko (Alt Version) [Ultra Slowed]",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "Vaputa Ria",
       "year": "2024",
       "release_date": "2024-12-06",
@@ -1269,30 +1236,35 @@
       ]
     },
     {
-      "name": "CONTRA",
-      "year": "2024",
-      "release_date": "2024-06-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/23/03/d723032b-278f-abcd-39b0-4d51a0df769c/198588500941.jpg/600x600bb.jpg",
+      "name": "MONTAGEM ESTRELA TWINKO (ALT VERSION)",
+      "year": "2026",
+      "release_date": "2026-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/31/01/7c31011c-f11e-668a-4d3f-2f6e64d29b0d/820200878274.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "CONTRA",
-          "duration": "1:23"
+          "name": "Montagem Estrela Twinko (Alt Version)",
+          "duration": "2:03"
         },
         {
           "number": 2,
-          "name": "CONTRA (SLOWED)",
-          "duration": "1:39"
+          "name": "Montagem Estrela Twinko (Alt Version) [Slowed]",
+          "duration": "2:26"
         },
         {
           "number": 3,
-          "name": "CONTRA (SPED UP)",
-          "duration": "1:13"
+          "name": "Montagem Estrela Twinko (Alt Version) [Sped Up]",
+          "duration": "1:56"
         },
         {
           "number": 4,
-          "name": "CONTRA (SUPER SLOWED)",
-          "duration": "1:46"
+          "name": "Montagem Estrela Twinko (Alt Version) [Super Slowed]",
+          "duration": "2:44"
+        },
+        {
+          "number": 5,
+          "name": "Montagem Estrela Twinko (Alt Version) [Ultra Slowed]",
+          "duration": "3:05"
         }
       ]
     },
@@ -1321,6 +1293,34 @@
           "number": 4,
           "name": "Optic (Sped Up)",
           "duration": "1:03"
+        }
+      ]
+    },
+    {
+      "name": "CONTRA",
+      "year": "2024",
+      "release_date": "2024-06-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/23/03/d723032b-278f-abcd-39b0-4d51a0df769c/198588500941.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CONTRA",
+          "duration": "1:23"
+        },
+        {
+          "number": 2,
+          "name": "CONTRA (SLOWED)",
+          "duration": "1:39"
+        },
+        {
+          "number": 3,
+          "name": "CONTRA (SPED UP)",
+          "duration": "1:13"
+        },
+        {
+          "number": 4,
+          "name": "CONTRA (SUPER SLOWED)",
+          "duration": "1:46"
         }
       ]
     },
@@ -1775,6 +1775,34 @@
       ]
     },
     {
+      "name": "Montagem Erva",
+      "year": "2025",
+      "release_date": "2025-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/72/23/94722362-4ab0-472f-af7d-e6435de14466/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem Erva",
+          "duration": "2:20"
+        },
+        {
+          "number": 2,
+          "name": "Montagem Erva (Slowed)",
+          "duration": "2:46"
+        },
+        {
+          "number": 3,
+          "name": "Montagem Erva (Super Slowed)",
+          "duration": "3:07"
+        },
+        {
+          "number": 4,
+          "name": "Montagem Erva (Sped Up)",
+          "duration": "2:04"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM MASSACRE",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -1804,34 +1832,6 @@
           "number": 5,
           "name": "MONTAGEM MASSACRE (Ultra Slowed)",
           "duration": "2:00"
-        }
-      ]
-    },
-    {
-      "name": "Montagem Erva",
-      "year": "2025",
-      "release_date": "2025-09-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/72/23/94722362-4ab0-472f-af7d-e6435de14466/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Erva",
-          "duration": "2:20"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Erva (Slowed)",
-          "duration": "2:46"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Erva (Super Slowed)",
-          "duration": "3:07"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Erva (Sped Up)",
-          "duration": "2:04"
         }
       ]
     },
@@ -2047,6 +2047,39 @@
       ]
     },
     {
+      "name": "VOU PASSAR",
+      "year": "2026",
+      "release_date": "2026-02-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/79/29/597929a0-3b1a-1560-02f8-5637356a7bda/3072907.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "VOU PASSAR",
+          "duration": "1:34"
+        },
+        {
+          "number": 2,
+          "name": "VOU PASSAR (Slowed)",
+          "duration": "1:39"
+        },
+        {
+          "number": 3,
+          "name": "VOU PASSAR (Super Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 4,
+          "name": "VOU PASSAR (Ultra Slowed)",
+          "duration": "1:51"
+        },
+        {
+          "number": 5,
+          "name": "VOU PASSAR (Nightcore)",
+          "duration": "1:30"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM NA PRESSAO",
       "year": "2026",
       "release_date": "2026-03-06",
@@ -2236,6 +2269,44 @@
           "number": 5,
           "name": "Montagem Temporada (Sped Up)",
           "duration": "1:48"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM CAIDO",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/6d/3d/a86d3d15-0c77-b9b4-a3dc-fc22a5dc5936/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM CAIDO",
+          "duration": "1:29"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM CAIDO (Slowed)",
+          "duration": "1:40"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM CAIDO (Super Slowed)",
+          "duration": "1:46"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM CAIDO (Ultra Slowed)",
+          "duration": "1:52"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM CAIDO (Sped Up)",
+          "duration": "1:25"
+        },
+        {
+          "number": 6,
+          "name": "MONTAGEM CAIDO (Edit Version)",
+          "duration": "1:34"
         }
       ]
     },

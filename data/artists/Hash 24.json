@@ -232,6 +232,64 @@
       ]
     },
     {
+      "name": "CL 02",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/ac/99/52ac994b-e24b-6e17-a9a2-97f8d75c8973/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Window Fog",
+          "duration": "4:17"
+        },
+        {
+          "number": 2,
+          "name": "Streetlight Memory",
+          "duration": "2:31"
+        },
+        {
+          "number": 3,
+          "name": "Rusted Rhythm",
+          "duration": "3:32"
+        },
+        {
+          "number": 4,
+          "name": "Late Bus Home",
+          "duration": "2:42"
+        },
+        {
+          "number": 5,
+          "name": "Asphalt Haze",
+          "duration": "5:01"
+        },
+        {
+          "number": 6,
+          "name": "Silent Crossing",
+          "duration": "2:17"
+        },
+        {
+          "number": 7,
+          "name": "Cold Coffee Beat",
+          "duration": "3:12"
+        },
+        {
+          "number": 8,
+          "name": "Brick Horizon",
+          "duration": "2:16"
+        },
+        {
+          "number": 9,
+          "name": "Faded Towers",
+          "duration": "4:11"
+        },
+        {
+          "number": 10,
+          "name": "Smoke Between Floors",
+          "duration": "2:29"
+        }
+      ]
+    },
+    {
       "name": "Side Vol.1",
       "year": "2026",
       "release_date": "2026-04-24",
@@ -338,64 +396,6 @@
       ]
     },
     {
-      "name": "0,24",
-      "year": "2022",
-      "release_date": "2022-11-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/c5/c9/10c5c9a7-6f0f-1eef-564e-996daf262499/25UM1IM97136.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro",
-          "duration": "2:20"
-        },
-        {
-          "number": 2,
-          "name": "Comment faire",
-          "duration": "2:38"
-        },
-        {
-          "number": 3,
-          "name": "0,24",
-          "duration": "3:09"
-        },
-        {
-          "number": 4,
-          "name": "Hors de moi",
-          "duration": "2:58"
-        },
-        {
-          "number": 5,
-          "name": "E-19",
-          "duration": "2:39"
-        },
-        {
-          "number": 6,
-          "name": "C'est grave",
-          "duration": "3:25"
-        },
-        {
-          "number": 7,
-          "name": "Grillé",
-          "duration": "3:07"
-        },
-        {
-          "number": 8,
-          "name": "Emoji",
-          "duration": "1:25"
-        },
-        {
-          "number": 9,
-          "name": "Marche ou crève",
-          "duration": "2:48"
-        },
-        {
-          "number": 10,
-          "name": "Outro",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
       "name": "Trafic 2",
       "year": "2025",
       "release_date": "2025-06-27",
@@ -459,6 +459,64 @@
         {
           "number": 12,
           "name": "Gyrophares",
+          "duration": "2:20"
+        }
+      ]
+    },
+    {
+      "name": "0,24",
+      "year": "2022",
+      "release_date": "2022-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/c5/c9/10c5c9a7-6f0f-1eef-564e-996daf262499/25UM1IM97136.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro",
+          "duration": "2:20"
+        },
+        {
+          "number": 2,
+          "name": "Comment faire",
+          "duration": "2:38"
+        },
+        {
+          "number": 3,
+          "name": "0,24",
+          "duration": "3:09"
+        },
+        {
+          "number": 4,
+          "name": "Hors de moi",
+          "duration": "2:58"
+        },
+        {
+          "number": 5,
+          "name": "E-19",
+          "duration": "2:39"
+        },
+        {
+          "number": 6,
+          "name": "C'est grave",
+          "duration": "3:25"
+        },
+        {
+          "number": 7,
+          "name": "Grillé",
+          "duration": "3:07"
+        },
+        {
+          "number": 8,
+          "name": "Emoji",
+          "duration": "1:25"
+        },
+        {
+          "number": 9,
+          "name": "Marche ou crève",
+          "duration": "2:48"
+        },
+        {
+          "number": 10,
+          "name": "Outro",
           "duration": "2:20"
         }
       ]
@@ -638,19 +696,6 @@
       ]
     },
     {
-      "name": "En folie",
-      "year": "2025",
-      "release_date": "2025-06-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/67/37/13673778-da28-4de8-4537-552a3e5fd864/13887.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "En folie",
-          "duration": "2:14"
-        }
-      ]
-    },
-    {
       "name": "Champagne Prototype",
       "year": "2024",
       "release_date": "2024-07-12",
@@ -660,6 +705,19 @@
           "number": 1,
           "name": "Champagne Prototype",
           "duration": "4:03"
+        }
+      ]
+    },
+    {
+      "name": "En folie",
+      "year": "2025",
+      "release_date": "2025-06-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/67/37/13673778-da28-4de8-4537-552a3e5fd864/13887.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "En folie",
+          "duration": "2:14"
         }
       ]
     },
@@ -860,6 +918,19 @@
       ]
     },
     {
+      "name": "DANS LE VIDE (feat. Hash 24)",
+      "year": "2024",
+      "release_date": "2024-05-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/37/f8/cf37f801-3066-e369-ec47-883b534f544a/5063483137293.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DANS LE VIDE (feat. Hash 24)",
+          "duration": "3:01"
+        }
+      ]
+    },
+    {
       "name": "TOURNE EN O",
       "year": "2021",
       "release_date": "2021-09-10",
@@ -912,19 +983,6 @@
       ]
     },
     {
-      "name": "Energie",
-      "year": "2024",
-      "release_date": "2024-10-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/05/6c/d7056c69-ccb3-6f92-b4a2-c762cd937e0e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Energie",
-          "duration": "3:12"
-        }
-      ]
-    },
-    {
       "name": "Loin de toi (feat. Hash 24)",
       "year": "2021",
       "release_date": "2021-04-16",
@@ -934,6 +992,19 @@
           "number": 1,
           "name": "Loin de toi (feat. Hash 24)",
           "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Energie",
+      "year": "2024",
+      "release_date": "2024-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/05/6c/d7056c69-ccb3-6f92-b4a2-c762cd937e0e/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Energie",
+          "duration": "3:12"
         }
       ]
     },

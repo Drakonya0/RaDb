@@ -3,6 +3,49 @@
   "id": 1187358477,
   "albums": [
     {
+      "name": "Stitches To Your Scars",
+      "year": "2019",
+      "release_date": "2019-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/19/7d/4d/197d4d8b-891d-293f-3739-291681c868e3/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Feelings",
+          "duration": "3:47"
+        },
+        {
+          "number": 2,
+          "name": "Someone Else",
+          "duration": "3:02"
+        },
+        {
+          "number": 3,
+          "name": "Don't Go",
+          "duration": "2:48"
+        },
+        {
+          "number": 4,
+          "name": "Nothing Wrong",
+          "duration": "2:44"
+        },
+        {
+          "number": 5,
+          "name": "Holding On",
+          "duration": "2:09"
+        },
+        {
+          "number": 6,
+          "name": "Scars",
+          "duration": "2:46"
+        },
+        {
+          "number": 7,
+          "name": "Reality",
+          "duration": "1:48"
+        }
+      ]
+    },
+    {
       "name": "cry",
       "year": "2024",
       "release_date": "2024-02-23",
@@ -43,49 +86,6 @@
           "number": 1,
           "name": "lies",
           "duration": "2:11"
-        }
-      ]
-    },
-    {
-      "name": "Stitches To Your Scars",
-      "year": "2019",
-      "release_date": "2019-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/19/7d/4d/197d4d8b-891d-293f-3739-291681c868e3/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Feelings",
-          "duration": "3:47"
-        },
-        {
-          "number": 2,
-          "name": "Someone Else",
-          "duration": "3:02"
-        },
-        {
-          "number": 3,
-          "name": "Don't Go",
-          "duration": "2:48"
-        },
-        {
-          "number": 4,
-          "name": "Nothing Wrong",
-          "duration": "2:44"
-        },
-        {
-          "number": 5,
-          "name": "Holding On",
-          "duration": "2:09"
-        },
-        {
-          "number": 6,
-          "name": "Scars",
-          "duration": "2:46"
-        },
-        {
-          "number": 7,
-          "name": "Reality",
-          "duration": "1:48"
         }
       ]
     },
@@ -448,19 +448,6 @@
       ]
     },
     {
-      "name": "the way i was (enjoii remix)",
-      "year": "2024",
-      "release_date": "2024-08-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/36/7d/08367dff-7173-e5fc-b97d-76095fc5cdc8/723277730929.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "the way i was (enjoii remix)",
-          "duration": "2:12"
-        }
-      ]
-    },
-    {
       "name": "Let Me Go",
       "year": "2023",
       "release_date": "2023-05-26",
@@ -470,6 +457,19 @@
           "number": 1,
           "name": "Let Me Go",
           "duration": "2:32"
+        }
+      ]
+    },
+    {
+      "name": "the way i was (enjoii remix)",
+      "year": "2024",
+      "release_date": "2024-08-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/36/7d/08367dff-7173-e5fc-b97d-76095fc5cdc8/723277730929.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "the way i was (enjoii remix)",
+          "duration": "2:12"
         }
       ]
     },

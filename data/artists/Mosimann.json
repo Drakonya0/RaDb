@@ -297,19 +297,6 @@
   ],
   "singles": [
     {
-      "name": "No Diggity",
-      "year": "2022",
-      "release_date": "2022-05-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/55/ef/0b/55ef0b24-c008-3292-a112-db0a00569444/886449955831.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "No Diggity",
-          "duration": "2:34"
-        }
-      ]
-    },
-    {
       "name": "Dracarys",
       "year": "2014",
       "release_date": "2014-04-14",
@@ -368,6 +355,19 @@
           "number": 1,
           "name": "Carol Of The Bells",
           "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "No Diggity",
+      "year": "2022",
+      "release_date": "2022-05-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/55/ef/0b/55ef0b24-c008-3292-a112-db0a00569444/886449955831.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "No Diggity",
+          "duration": "2:34"
         }
       ]
     },
@@ -656,17 +656,17 @@
       ]
     },
     {
-      "name": "Never Let You Go (feat. Joe Cleere) [Chill Remix]",
-      "year": "2017",
-      "release_date": "2017-04-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/a6/6c/09a66c20-784d-0a1e-7eb7-c55c632029a9/190295819408.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Dad Bod",
       "year": "2017",
       "release_date": "2017-09-29",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/21/81/2e/21812e8f-009e-7f61-855c-f64017a18647/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Never Let You Go (feat. Joe Cleere) [Chill Remix]",
+      "year": "2017",
+      "release_date": "2017-04-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/a6/6c/09a66c20-784d-0a1e-7eb7-c55c632029a9/190295819408.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -1022,6 +1022,19 @@
       ]
     },
     {
+      "name": "Halo (3am edit)",
+      "year": "2025",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/8f/74/808f7403-dcd0-e3e8-562b-0e613caeb65d/196873168845.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Halo (3am edit)",
+          "duration": "4:29"
+        }
+      ]
+    },
+    {
       "name": "Don't Talk",
       "year": "2023",
       "release_date": "2023-01-13",
@@ -1036,19 +1049,6 @@
           "number": 2,
           "name": "Don't Talk (Extended Mix)",
           "duration": "3:39"
-        }
-      ]
-    },
-    {
-      "name": "Halo (3am edit)",
-      "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/8f/74/808f7403-dcd0-e3e8-562b-0e613caeb65d/196873168845.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Halo (3am edit)",
-          "duration": "4:29"
         }
       ]
     },
@@ -1392,6 +1392,24 @@
       ]
     },
     {
+      "name": "Traumwerk (TW_APR_26)",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/9b/9a/7d9b9a18-6d58-f5ce-cc79-83043c943088/196874351581.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Zauberer",
+          "duration": "4:26"
+        },
+        {
+          "number": 2,
+          "name": "Die Macht",
+          "duration": "4:08"
+        }
+      ]
+    },
+    {
       "name": "Where Did You Go",
       "year": "2024",
       "release_date": "2024-06-14",
@@ -1479,24 +1497,6 @@
       ]
     },
     {
-      "name": "I Drum U",
-      "year": "2013",
-      "release_date": "2013-02-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/73/2b/b4/732bb4b8-3415-2645-b555-42f9ba1487af/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Drum U",
-          "duration": "5:45"
-        },
-        {
-          "number": 2,
-          "name": "I Drum U (Radio Edit)",
-          "duration": "3:45"
-        }
-      ]
-    },
-    {
       "name": "Shake It",
       "year": "2020",
       "release_date": "2020-03-20",
@@ -1511,6 +1511,24 @@
           "number": 2,
           "name": "Shake It (Extended Mix)",
           "duration": "3:53"
+        }
+      ]
+    },
+    {
+      "name": "I Drum U",
+      "year": "2013",
+      "release_date": "2013-02-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/73/2b/b4/732bb4b8-3415-2645-b555-42f9ba1487af/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Drum U",
+          "duration": "5:45"
+        },
+        {
+          "number": 2,
+          "name": "I Drum U (Radio Edit)",
+          "duration": "3:45"
         }
       ]
     },
@@ -1932,19 +1950,6 @@
       ]
     },
     {
-      "name": "Lust and Fame",
-      "year": "2020",
-      "release_date": "2020-12-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/fb/f4/bbfbf411-b810-b24f-31aa-f81c9ac3fda2/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lust and Fame",
-          "duration": "3:54"
-        }
-      ]
-    },
-    {
       "name": "Traumwerk (TW_FEB_26)",
       "year": "2026",
       "release_date": "2026-02-27",
@@ -1964,6 +1969,19 @@
           "number": 3,
           "name": "Krank",
           "duration": "3:56"
+        }
+      ]
+    },
+    {
+      "name": "Lust and Fame",
+      "year": "2020",
+      "release_date": "2020-12-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/fb/f4/bbfbf411-b810-b24f-31aa-f81c9ac3fda2/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lust and Fame",
+          "duration": "3:54"
         }
       ]
     }

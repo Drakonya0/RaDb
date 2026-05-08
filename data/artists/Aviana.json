@@ -66,64 +66,6 @@
       ]
     },
     {
-      "name": "VOID",
-      "year": "2025",
-      "release_date": "2025-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/5a/37/6d5a37ea-1e56-aac2-7ee9-94ea0b748d4a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ITER INCIPERE",
-          "duration": "2:30"
-        },
-        {
-          "number": 2,
-          "name": "INTO THE VOID",
-          "duration": "3:43"
-        },
-        {
-          "number": 3,
-          "name": "FATHER",
-          "duration": "3:38"
-        },
-        {
-          "number": 4,
-          "name": "HEAVENLY SPARKS",
-          "duration": "3:39"
-        },
-        {
-          "number": 5,
-          "name": "REDROOM",
-          "duration": "3:01"
-        },
-        {
-          "number": 6,
-          "name": "DELIRIUM",
-          "duration": "1:52"
-        },
-        {
-          "number": 7,
-          "name": "IN CONTINUA ITER",
-          "duration": "3:03"
-        },
-        {
-          "number": 8,
-          "name": "STORM ABLAZE",
-          "duration": "3:29"
-        },
-        {
-          "number": 9,
-          "name": "EVERMORE",
-          "duration": "3:41"
-        },
-        {
-          "number": 10,
-          "name": "WORLDS PULSE (feat. Eddie Berg)",
-          "duration": "4:56"
-        }
-      ]
-    },
-    {
       "name": "Polarize",
       "year": "2017",
       "release_date": "2017-01-20",
@@ -178,6 +120,64 @@
           "number": 10,
           "name": "The Remedy",
           "duration": "3:35"
+        }
+      ]
+    },
+    {
+      "name": "VOID",
+      "year": "2025",
+      "release_date": "2025-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/5a/37/6d5a37ea-1e56-aac2-7ee9-94ea0b748d4a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ITER INCIPERE",
+          "duration": "2:30"
+        },
+        {
+          "number": 2,
+          "name": "INTO THE VOID",
+          "duration": "3:43"
+        },
+        {
+          "number": 3,
+          "name": "FATHER",
+          "duration": "3:38"
+        },
+        {
+          "number": 4,
+          "name": "HEAVENLY SPARKS",
+          "duration": "3:39"
+        },
+        {
+          "number": 5,
+          "name": "REDROOM",
+          "duration": "3:01"
+        },
+        {
+          "number": 6,
+          "name": "DELIRIUM",
+          "duration": "1:52"
+        },
+        {
+          "number": 7,
+          "name": "IN CONTINUA ITER",
+          "duration": "3:03"
+        },
+        {
+          "number": 8,
+          "name": "STORM ABLAZE",
+          "duration": "3:29"
+        },
+        {
+          "number": 9,
+          "name": "EVERMORE",
+          "duration": "3:41"
+        },
+        {
+          "number": 10,
+          "name": "WORLDS PULSE (feat. Eddie Berg)",
+          "duration": "4:56"
         }
       ]
     },
@@ -444,19 +444,6 @@
       ]
     },
     {
-      "name": "As Above, so Below",
-      "year": "2023",
-      "release_date": "2023-09-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/49/91/33499160-2bc6-3979-2f91-54c487e1ebf0/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "As Above, so Below",
-          "duration": "4:02"
-        }
-      ]
-    },
-    {
       "name": "Oblivion",
       "year": "2021",
       "release_date": "2021-04-02",
@@ -507,6 +494,19 @@
           "number": 1,
           "name": "Retaliation",
           "duration": "2:30"
+        }
+      ]
+    },
+    {
+      "name": "As Above, so Below",
+      "year": "2023",
+      "release_date": "2023-09-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/49/91/33499160-2bc6-3979-2f91-54c487e1ebf0/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "As Above, so Below",
+          "duration": "4:02"
         }
       ]
     },

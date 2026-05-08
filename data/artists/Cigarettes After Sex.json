@@ -174,37 +174,6 @@
   ],
   "singles": [
     {
-      "name": "Anna Karenina",
-      "year": "2025",
-      "release_date": "2025-10-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/6e/46/936e46ae-faa4-cc68-7db9-fc80a14b2d3f/0720841157748_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Crystal Ship",
-          "duration": "3:00"
-        },
-        {
-          "number": 2,
-          "name": "Anna Karenina",
-          "duration": "5:15"
-        }
-      ]
-    },
-    {
-      "name": "Pistol",
-      "year": "2022",
-      "release_date": "2022-11-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/a0/93/35a093f1-f952-cd9f-b53d-6b91bb15f030/0720841139300_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pistol",
-          "duration": "3:54"
-        }
-      ]
-    },
-    {
       "name": "Crush",
       "year": "2018",
       "release_date": "2018-07-10",
@@ -241,15 +210,20 @@
       ]
     },
     {
-      "name": "You're All I Want",
-      "year": "2020",
-      "release_date": "2020-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cb/5e/5e/cb5e5e91-9ba4-d28c-8330-3acc4bd573c4/720841125006_Cover.jpg/600x600bb.jpg",
+      "name": "Anna Karenina",
+      "year": "2025",
+      "release_date": "2025-10-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/6e/46/936e46ae-faa4-cc68-7db9-fc80a14b2d3f/0720841157748_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "You're All I Want",
-          "duration": "4:24"
+          "name": "The Crystal Ship",
+          "duration": "3:00"
+        },
+        {
+          "number": 2,
+          "name": "Anna Karenina",
+          "duration": "5:15"
         }
       ]
     },
@@ -281,6 +255,58 @@
           "number": 1,
           "name": "Neon Moon",
           "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "Dark Vacay",
+      "year": "2024",
+      "release_date": "2024-04-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/07/f7/3407f791-04a4-0616-dd8a-f1c6fb0f9b1c/0720841149903_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dark Vacay",
+          "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "Pistol",
+      "year": "2022",
+      "release_date": "2022-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/a0/93/35a093f1-f952-cd9f-b53d-6b91bb15f030/0720841139300_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pistol",
+          "duration": "3:54"
+        }
+      ]
+    },
+    {
+      "name": "Tejano Blue",
+      "year": "2024",
+      "release_date": "2024-02-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/e2/c5/2be2c5ff-15ed-a37b-9827-63bc887d8dbd/0720841149804_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tejano Blue",
+          "duration": "3:54"
+        }
+      ]
+    },
+    {
+      "name": "You're All I Want",
+      "year": "2020",
+      "release_date": "2020-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/cb/5e/5e/cb5e5e91-9ba4-d28c-8330-3acc4bd573c4/720841125006_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You're All I Want",
+          "duration": "4:24"
         }
       ]
     },
@@ -337,19 +363,6 @@
       ]
     },
     {
-      "name": "Tejano Blue",
-      "year": "2024",
-      "release_date": "2024-02-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/e2/c5/2be2c5ff-15ed-a37b-9827-63bc887d8dbd/0720841149804_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tejano Blue",
-          "duration": "3:54"
-        }
-      ]
-    },
-    {
       "name": "Baby Blue Movie",
       "year": "2024",
       "release_date": "2024-06-04",
@@ -359,19 +372,6 @@
           "number": 1,
           "name": "Baby Blue Movie",
           "duration": "4:04"
-        }
-      ]
-    },
-    {
-      "name": "Dark Vacay",
-      "year": "2024",
-      "release_date": "2024-04-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/07/f7/3407f791-04a4-0616-dd8a-f1c6fb0f9b1c/0720841149903_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dark Vacay",
-          "duration": "3:33"
         }
       ]
     },

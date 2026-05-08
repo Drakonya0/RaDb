@@ -71,69 +71,6 @@
       ]
     },
     {
-      "name": "The New Flesh",
-      "year": "2026",
-      "release_date": "2026-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/77/a1/4e77a1c7-4e34-d688-3907-b24ed4f3a618/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Beneath The Surface",
-          "duration": "4:12"
-        },
-        {
-          "number": 2,
-          "name": "Erased",
-          "duration": "4:47"
-        },
-        {
-          "number": 3,
-          "name": "All Glory, No Valour",
-          "duration": "3:13"
-        },
-        {
-          "number": 4,
-          "name": "Lacerations",
-          "duration": "4:55"
-        },
-        {
-          "number": 5,
-          "name": "Mirror Mirror",
-          "duration": "3:38"
-        },
-        {
-          "number": 6,
-          "name": "Spared From The Guillotine",
-          "duration": "3:55"
-        },
-        {
-          "number": 7,
-          "name": "Adorn My Throne",
-          "duration": "4:18"
-        },
-        {
-          "number": 8,
-          "name": "The New Flesh",
-          "duration": "4:05"
-        },
-        {
-          "number": 9,
-          "name": "Everywhere At Once",
-          "duration": "5:26"
-        },
-        {
-          "number": 10,
-          "name": "Circle Of Swords",
-          "duration": "3:54"
-        },
-        {
-          "number": 11,
-          "name": "Seeds In The River",
-          "duration": "5:25"
-        }
-      ]
-    },
-    {
       "name": "Edge of the Earth",
       "year": "2011",
       "release_date": "2011-03-11",
@@ -217,60 +154,65 @@
       ]
     },
     {
-      "name": "A Sign of Things to Come",
-      "year": "2023",
-      "release_date": "2023-09-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fc/a2/0c/fca20cb5-bc09-6529-fc60-8d1b9a0166e7/cover.jpg/600x600bb.jpg",
+      "name": "The New Flesh",
+      "year": "2026",
+      "release_date": "2026-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/77/a1/4e77a1c7-4e34-d688-3907-b24ed4f3a618/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Deadwood",
-          "duration": "4:24"
+          "name": "Beneath The Surface",
+          "duration": "4:12"
         },
         {
           "number": 2,
-          "name": "A Sign of Things to Come",
-          "duration": "4:35"
+          "name": "Erased",
+          "duration": "4:47"
         },
         {
           "number": 3,
-          "name": "Pariahs",
-          "duration": "3:47"
+          "name": "All Glory, No Valour",
+          "duration": "3:13"
         },
         {
           "number": 4,
-          "name": "Poison for the Lost",
-          "duration": "4:19"
+          "name": "Lacerations",
+          "duration": "4:55"
         },
         {
           "number": 5,
-          "name": "Descent",
-          "duration": "4:16"
+          "name": "Mirror Mirror",
+          "duration": "3:38"
         },
         {
           "number": 6,
-          "name": "Absent",
+          "name": "Spared From The Guillotine",
           "duration": "3:55"
         },
         {
           "number": 7,
-          "name": "Eye for An Eye",
-          "duration": "4:12"
+          "name": "Adorn My Throne",
+          "duration": "4:18"
         },
         {
           "number": 8,
-          "name": "Judas",
-          "duration": "4:23"
+          "name": "The New Flesh",
+          "duration": "4:05"
         },
         {
           "number": 9,
-          "name": "Thorns",
-          "duration": "4:14"
+          "name": "Everywhere At Once",
+          "duration": "5:26"
         },
         {
           "number": 10,
-          "name": "A Godless Throne",
-          "duration": "5:12"
+          "name": "Circle Of Swords",
+          "duration": "3:54"
+        },
+        {
+          "number": 11,
+          "name": "Seeds In The River",
+          "duration": "5:25"
         }
       ]
     },
@@ -490,6 +432,64 @@
           "number": 11,
           "name": "Enshrined",
           "duration": "19:16"
+        }
+      ]
+    },
+    {
+      "name": "A Sign of Things to Come",
+      "year": "2023",
+      "release_date": "2023-09-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fc/a2/0c/fca20cb5-bc09-6529-fc60-8d1b9a0166e7/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Deadwood",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "A Sign of Things to Come",
+          "duration": "4:35"
+        },
+        {
+          "number": 3,
+          "name": "Pariahs",
+          "duration": "3:47"
+        },
+        {
+          "number": 4,
+          "name": "Poison for the Lost",
+          "duration": "4:19"
+        },
+        {
+          "number": 5,
+          "name": "Descent",
+          "duration": "4:16"
+        },
+        {
+          "number": 6,
+          "name": "Absent",
+          "duration": "3:55"
+        },
+        {
+          "number": 7,
+          "name": "Eye for An Eye",
+          "duration": "4:12"
+        },
+        {
+          "number": 8,
+          "name": "Judas",
+          "duration": "4:23"
+        },
+        {
+          "number": 9,
+          "name": "Thorns",
+          "duration": "4:14"
+        },
+        {
+          "number": 10,
+          "name": "A Godless Throne",
+          "duration": "5:12"
         }
       ]
     },

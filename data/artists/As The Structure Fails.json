@@ -3,6 +3,49 @@
   "id": 1294992805,
   "albums": [
     {
+      "name": "As the Structure Fails",
+      "year": "2018",
+      "release_date": "2018-08-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ce/0e/36/ce0e3608-bbf1-d135-55c0-faf14a49e026/859724805145_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "King of Deception",
+          "duration": "4:52"
+        },
+        {
+          "number": 2,
+          "name": "Undesired",
+          "duration": "4:13"
+        },
+        {
+          "number": 3,
+          "name": "Your Sightless Eyes",
+          "duration": "4:31"
+        },
+        {
+          "number": 4,
+          "name": "Purgatory (feat. Brook Reeves)",
+          "duration": "3:56"
+        },
+        {
+          "number": 5,
+          "name": "E.O.E",
+          "duration": "4:02"
+        },
+        {
+          "number": 6,
+          "name": "The Fix",
+          "duration": "4:04"
+        },
+        {
+          "number": 7,
+          "name": "Scarred With Violence",
+          "duration": "5:17"
+        }
+      ]
+    },
+    {
       "name": "In Vain",
       "year": "2023",
       "release_date": "2023-10-06",
@@ -87,49 +130,6 @@
           "number": 16,
           "name": "In Vain (Instrumental)",
           "duration": "3:29"
-        }
-      ]
-    },
-    {
-      "name": "As the Structure Fails",
-      "year": "2018",
-      "release_date": "2018-08-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ce/0e/36/ce0e3608-bbf1-d135-55c0-faf14a49e026/859724805145_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "King of Deception",
-          "duration": "4:52"
-        },
-        {
-          "number": 2,
-          "name": "Undesired",
-          "duration": "4:13"
-        },
-        {
-          "number": 3,
-          "name": "Your Sightless Eyes",
-          "duration": "4:31"
-        },
-        {
-          "number": 4,
-          "name": "Purgatory (feat. Brook Reeves)",
-          "duration": "3:56"
-        },
-        {
-          "number": 5,
-          "name": "E.O.E",
-          "duration": "4:02"
-        },
-        {
-          "number": 6,
-          "name": "The Fix",
-          "duration": "4:04"
-        },
-        {
-          "number": 7,
-          "name": "Scarred With Violence",
-          "duration": "5:17"
         }
       ]
     },
@@ -224,19 +224,6 @@
   ],
   "singles": [
     {
-      "name": "Heartless",
-      "year": "2022",
-      "release_date": "2022-06-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/84/1c/e4/841ce482-7fb4-95bc-e24b-3bd6daad960a/859762446041_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Heartless",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
       "name": "The Surface",
       "year": "2020",
       "release_date": "2020-01-12",
@@ -264,6 +251,19 @@
           "number": 2,
           "name": "Final Mistake",
           "duration": "3:54"
+        }
+      ]
+    },
+    {
+      "name": "Heartless",
+      "year": "2022",
+      "release_date": "2022-06-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/84/1c/e4/841ce482-7fb4-95bc-e24b-3bd6daad960a/859762446041_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Heartless",
+          "duration": "2:51"
         }
       ]
     },
@@ -382,29 +382,6 @@
       ]
     },
     {
-      "name": "Farewell",
-      "year": "2025",
-      "release_date": "2025-11-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/16/4b/ea164b2e-aa7c-d00f-ebb4-314aa14b3ad3/859721003285_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Farewell",
-          "duration": "4:05"
-        },
-        {
-          "number": 2,
-          "name": "Poison Drip",
-          "duration": "3:27"
-        },
-        {
-          "number": 3,
-          "name": "Say It to Me",
-          "duration": "2:43"
-        }
-      ]
-    },
-    {
       "name": "The Choices We Regret",
       "year": "2025",
       "release_date": "2025-07-18",
@@ -450,6 +427,29 @@
           "number": 1,
           "name": "My Curse",
           "duration": "3:59"
+        }
+      ]
+    },
+    {
+      "name": "Farewell",
+      "year": "2025",
+      "release_date": "2025-11-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/16/4b/ea164b2e-aa7c-d00f-ebb4-314aa14b3ad3/859721003285_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Farewell",
+          "duration": "4:05"
+        },
+        {
+          "number": 2,
+          "name": "Poison Drip",
+          "duration": "3:27"
+        },
+        {
+          "number": 3,
+          "name": "Say It to Me",
+          "duration": "2:43"
         }
       ]
     },

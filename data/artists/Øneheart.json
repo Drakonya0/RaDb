@@ -3,6 +3,64 @@
   "id": 1511525726,
   "albums": [
     {
+      "name": "Dreamscape",
+      "year": "2020",
+      "release_date": "2020-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/35/8a/a9358a8f-ef9b-7e3a-1c13-81d8e9d40474/3616551153378_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dreams Come True",
+          "duration": "1:05"
+        },
+        {
+          "number": 2,
+          "name": "Be Mine",
+          "duration": "2:46"
+        },
+        {
+          "number": 3,
+          "name": "Our Places",
+          "duration": "3:16"
+        },
+        {
+          "number": 4,
+          "name": "Morning Rain",
+          "duration": "2:37"
+        },
+        {
+          "number": 5,
+          "name": "Hurt",
+          "duration": "3:26"
+        },
+        {
+          "number": 6,
+          "name": "Landwalker",
+          "duration": "2:09"
+        },
+        {
+          "number": 7,
+          "name": "Disappearance",
+          "duration": "3:11"
+        },
+        {
+          "number": 8,
+          "name": "I Think I'm Lost",
+          "duration": "1:38"
+        },
+        {
+          "number": 9,
+          "name": "Survive",
+          "duration": "2:56"
+        },
+        {
+          "number": 10,
+          "name": "Meet You",
+          "duration": "2:30"
+        }
+      ]
+    },
+    {
       "name": "Lifeglow",
       "year": "2023",
       "release_date": "2023-11-24",
@@ -67,64 +125,6 @@
           "number": 12,
           "name": "Farewell",
           "duration": "1:53"
-        }
-      ]
-    },
-    {
-      "name": "Dreamscape",
-      "year": "2020",
-      "release_date": "2020-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/35/8a/a9358a8f-ef9b-7e3a-1c13-81d8e9d40474/3616551153378_cover.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dreams Come True",
-          "duration": "1:05"
-        },
-        {
-          "number": 2,
-          "name": "Be Mine",
-          "duration": "2:46"
-        },
-        {
-          "number": 3,
-          "name": "Our Places",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "Morning Rain",
-          "duration": "2:37"
-        },
-        {
-          "number": 5,
-          "name": "Hurt",
-          "duration": "3:26"
-        },
-        {
-          "number": 6,
-          "name": "Landwalker",
-          "duration": "2:09"
-        },
-        {
-          "number": 7,
-          "name": "Disappearance",
-          "duration": "3:11"
-        },
-        {
-          "number": 8,
-          "name": "I Think I'm Lost",
-          "duration": "1:38"
-        },
-        {
-          "number": 9,
-          "name": "Survive",
-          "duration": "2:56"
-        },
-        {
-          "number": 10,
-          "name": "Meet You",
-          "duration": "2:30"
         }
       ]
     },
@@ -707,19 +707,6 @@
       ]
     },
     {
-      "name": "Voices",
-      "year": "2023",
-      "release_date": "2023-11-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/9a/b1/399ab170-29e8-23a7-f2ff-ae40da56bc88/1963621607913_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Voices",
-          "duration": "1:46"
-        }
-      ]
-    },
-    {
       "name": "snowfall (KUTE Remix)",
       "year": "2023",
       "release_date": "2023-04-21",
@@ -781,6 +768,19 @@
           "number": 1,
           "name": "Rescue",
           "duration": "2:16"
+        }
+      ]
+    },
+    {
+      "name": "Voices",
+      "year": "2023",
+      "release_date": "2023-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/39/9a/b1/399ab170-29e8-23a7-f2ff-ae40da56bc88/1963621607913_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Voices",
+          "duration": "1:46"
         }
       ]
     },
@@ -881,34 +881,6 @@
       ]
     },
     {
-      "name": "wasted",
-      "year": "2025",
-      "release_date": "2025-01-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/1a/4d/061a4d7d-2235-e0f8-43e5-567af995dc13/1963622707018_cover.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "wasted nights",
-          "duration": "1:42"
-        },
-        {
-          "number": 1,
-          "name": "wasted nights (Slowed + Reverb)",
-          "duration": "2:17"
-        },
-        {
-          "number": 2,
-          "name": "wasted time",
-          "duration": "1:56"
-        },
-        {
-          "number": 2,
-          "name": "wasted time (Slowed + Reverb)",
-          "duration": "2:34"
-        }
-      ]
-    },
-    {
       "name": "Fairytale",
       "year": "2023",
       "release_date": "2023-08-18",
@@ -944,6 +916,34 @@
           "number": 1,
           "name": "Medusa",
           "duration": "2:38"
+        }
+      ]
+    },
+    {
+      "name": "wasted",
+      "year": "2025",
+      "release_date": "2025-01-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/1a/4d/061a4d7d-2235-e0f8-43e5-567af995dc13/1963622707018_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "wasted nights",
+          "duration": "1:42"
+        },
+        {
+          "number": 1,
+          "name": "wasted nights (Slowed + Reverb)",
+          "duration": "2:17"
+        },
+        {
+          "number": 2,
+          "name": "wasted time",
+          "duration": "1:56"
+        },
+        {
+          "number": 2,
+          "name": "wasted time (Slowed + Reverb)",
+          "duration": "2:34"
         }
       ]
     },
@@ -1751,6 +1751,24 @@
       ]
     },
     {
+      "name": "ballad",
+      "year": "2026",
+      "release_date": "2026-01-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/55/fd/1855fd89-d95c-da27-3d7d-5c70c341f30d/207365.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ballad",
+          "duration": "2:23"
+        },
+        {
+          "number": 2,
+          "name": "see you in my dreams",
+          "duration": "2:00"
+        }
+      ]
+    },
+    {
       "name": "Leaving",
       "year": "2024",
       "release_date": "2024-05-03",
@@ -1829,6 +1847,19 @@
       ]
     },
     {
+      "name": "see you in my dreams",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/5f/75/0d5f753e-ec45-f61d-36f6-bd4fd8ebb0c7/141209.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "see you in my dreams",
+          "duration": "2:00"
+        }
+      ]
+    },
+    {
       "name": "until i found you",
       "year": "2024",
       "release_date": "2024-10-18",
@@ -1868,6 +1899,19 @@
       ]
     },
     {
+      "name": "satellites",
+      "year": "2025",
+      "release_date": "2025-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/0b/ec/f70becd8-421a-9bbf-0fb9-2c4e218d5600/223818.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "satellites",
+          "duration": "2:33"
+        }
+      ]
+    },
+    {
       "name": "while the world explodes",
       "year": "2024",
       "release_date": "2024-07-19",
@@ -1877,6 +1921,19 @@
           "number": 1,
           "name": "while the world explodes",
           "duration": "2:08"
+        }
+      ]
+    },
+    {
+      "name": "medusa",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/d2/61/b0d26128-af43-1b12-940e-799bc1ef4014/294284.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "medusa",
+          "duration": "2:38"
         }
       ]
     },
@@ -2138,9 +2195,65 @@
           "duration": "2:30"
         }
       ]
+    },
+    {
+      "name": "close my eyes",
+      "year": "2026",
+      "release_date": "2026-01-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/36/58/5b3658df-cd85-de61-6ab0-347b5759bdb0/116254.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "close my eyes",
+          "duration": "2:35"
+        },
+        {
+          "number": 2,
+          "name": "ballad",
+          "duration": "2:23"
+        },
+        {
+          "number": 3,
+          "name": "see you in my dreams",
+          "duration": "2:00"
+        }
+      ]
     }
   ],
   "eps": [
+    {
+      "name": "Tales",
+      "year": "2024",
+      "release_date": "2024-03-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/b6/c6/cfb6c641-44f0-99c9-358e-082a7037c2c3/1963621819408_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blossom",
+          "duration": "2:24"
+        },
+        {
+          "number": 2,
+          "name": "Solitude",
+          "duration": "2:00"
+        },
+        {
+          "number": 3,
+          "name": "Afterglow",
+          "duration": "2:09"
+        },
+        {
+          "number": 4,
+          "name": "Escapism",
+          "duration": "2:10"
+        },
+        {
+          "number": 5,
+          "name": "See You Soon",
+          "duration": "2:05"
+        }
+      ]
+    },
     {
       "name": "Broken",
       "year": "2023",
@@ -2176,39 +2289,6 @@
           "number": 6,
           "name": "Insomnia",
           "duration": "2:00"
-        }
-      ]
-    },
-    {
-      "name": "Tales",
-      "year": "2024",
-      "release_date": "2024-03-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/b6/c6/cfb6c641-44f0-99c9-358e-082a7037c2c3/1963621819408_cover.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blossom",
-          "duration": "2:24"
-        },
-        {
-          "number": 2,
-          "name": "Solitude",
-          "duration": "2:00"
-        },
-        {
-          "number": 3,
-          "name": "Afterglow",
-          "duration": "2:09"
-        },
-        {
-          "number": 4,
-          "name": "Escapism",
-          "duration": "2:10"
-        },
-        {
-          "number": 5,
-          "name": "See You Soon",
-          "duration": "2:05"
         }
       ]
     },

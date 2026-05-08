@@ -86,52 +86,6 @@
       ]
     },
     {
-      "name": "PRINCE",
-      "year": "2025",
-      "release_date": "2025-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/ed/39/45ed39d4-1508-b114-4367-ad0cea857272/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PRINCE",
-          "duration": "1:44"
-        },
-        {
-          "number": 2,
-          "name": "PRINCE (SLOWED)",
-          "duration": "2:05"
-        },
-        {
-          "number": 3,
-          "name": "PRINCE (SUPER SLOWED)",
-          "duration": "2:28"
-        }
-      ]
-    },
-    {
-      "name": "AURA of GLORY",
-      "year": "2025",
-      "release_date": "2025-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/34/3e/b2343e3e-f1f7-e5ae-0b24-145a662bb72b/197342954334_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "AURA of GLORY",
-          "duration": "4:00"
-        },
-        {
-          "number": 2,
-          "name": "AURA of GLORY (Slowed)",
-          "duration": "4:30"
-        },
-        {
-          "number": 3,
-          "name": "AURA of GLORY (Super Slowed)",
-          "duration": "5:40"
-        }
-      ]
-    },
-    {
       "name": "GLORY",
       "year": "2024",
       "release_date": "2024-05-24",
@@ -151,6 +105,29 @@
           "number": 3,
           "name": "GLORY (Slowed)",
           "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "name": "PRINCE",
+      "year": "2025",
+      "release_date": "2025-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/ed/39/45ed39d4-1508-b114-4367-ad0cea857272/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PRINCE",
+          "duration": "1:44"
+        },
+        {
+          "number": 2,
+          "name": "PRINCE (SLOWED)",
+          "duration": "2:05"
+        },
+        {
+          "number": 3,
+          "name": "PRINCE (SUPER SLOWED)",
+          "duration": "2:28"
         }
       ]
     },
@@ -424,6 +401,29 @@
       ]
     },
     {
+      "name": "SEM NADA (Remixes)",
+      "year": "2026",
+      "release_date": "2026-01-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/38/5e/ff385e0e-046a-cd53-130d-e1889e002834/118148.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SEM NADA (Ultra Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 2,
+          "name": "SEM NADA (Hyper Slowed)",
+          "duration": "1:56"
+        },
+        {
+          "number": 3,
+          "name": "SEM NADA (Sped Up)",
+          "duration": "1:05"
+        }
+      ]
+    },
+    {
       "name": "LEGACY (Remixes)",
       "year": "2024",
       "release_date": "2024-11-13",
@@ -578,19 +578,6 @@
       ]
     },
     {
-      "name": "Silêncio Eterno",
-      "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/fe/53/6ffe5391-ebc9-de13-055d-95511bb04365/5063287609309.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Silêncio Eterno",
-          "duration": "2:15"
-        }
-      ]
-    },
-    {
       "name": "BACK IT UP",
       "year": "2026",
       "release_date": "2026-03-06",
@@ -610,6 +597,19 @@
           "number": 3,
           "name": "BACK IT UP (Sped Up)",
           "duration": "1:38"
+        }
+      ]
+    },
+    {
+      "name": "Silêncio Eterno",
+      "year": "2025",
+      "release_date": "2025-07-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/fe/53/6ffe5391-ebc9-de13-055d-95511bb04365/5063287609309.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Silêncio Eterno",
+          "duration": "2:15"
         }
       ]
     },
@@ -689,6 +689,29 @@
       ]
     },
     {
+      "name": "BACK IT UP",
+      "year": "2026",
+      "release_date": "2026-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/f4/2d/37f42d47-6831-c650-36e9-fe9d90adce8b/997608.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BACK IT UP",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "BACK IT UP (Slowed)",
+          "duration": "2:01"
+        },
+        {
+          "number": 3,
+          "name": "BACK IT UP (Sped Up)",
+          "duration": "1:38"
+        }
+      ]
+    },
+    {
       "name": "456",
       "year": "2025",
       "release_date": "2025-01-17",
@@ -735,6 +758,19 @@
       ]
     },
     {
+      "name": "God",
+      "year": "2023",
+      "release_date": "2023-01-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/cd/cf/59cdcfca-fabe-ccb8-59b0-01496d5532d8/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "God",
+          "duration": "2:01"
+        }
+      ]
+    },
+    {
       "name": "REDLINE",
       "year": "2025",
       "release_date": "2025-08-01",
@@ -754,19 +790,6 @@
           "number": 3,
           "name": "REDLINE (Slowed)",
           "duration": "2:43"
-        }
-      ]
-    },
-    {
-      "name": "God",
-      "year": "2023",
-      "release_date": "2023-01-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/cd/cf/59cdcfca-fabe-ccb8-59b0-01496d5532d8/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "God",
-          "duration": "2:01"
         }
       ]
     },
@@ -817,25 +840,25 @@
       ]
     },
     {
-      "name": "456",
-      "year": "2025",
-      "release_date": "2025-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/3b/33/bd3b337d-3f26-ea45-d6f4-f79ce4855159/197342929257_cover.jpg/600x600bb.jpg",
+      "name": "ELA MUDA",
+      "year": "2026",
+      "release_date": "2026-02-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/88/57/8b885797-b684-e03f-8bbc-56d963ae6c1a/200606.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "456",
-          "duration": "1:55"
+          "name": "ELA MUDA",
+          "duration": "1:43"
         },
         {
           "number": 2,
-          "name": "456 (Sped Up)",
-          "duration": "1:49"
+          "name": "ELA MUDA (Slowed)",
+          "duration": "1:55"
         },
         {
           "number": 3,
-          "name": "456 (Ultra Slowed)",
-          "duration": "2:50"
+          "name": "ELA MUDA (Super Slowed)",
+          "duration": "2:10"
         }
       ]
     },
@@ -859,6 +882,29 @@
           "number": 3,
           "name": "SPOOK (Slowed)",
           "duration": "1:51"
+        }
+      ]
+    },
+    {
+      "name": "SEM NADA",
+      "year": "2025",
+      "release_date": "2025-10-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/99/6b/dc996b49-0b24-d374-4490-900eff9013d3/91190.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SEM NADA",
+          "duration": "1:13"
+        },
+        {
+          "number": 2,
+          "name": "SEM NADA (Slowed)",
+          "duration": "1:22"
+        },
+        {
+          "number": 3,
+          "name": "SEM NADA (Super Slowed)",
+          "duration": "1:33"
         }
       ]
     },
@@ -1392,19 +1438,6 @@
       ]
     },
     {
-      "name": "Past Memories",
-      "year": "2023",
-      "release_date": "2023-12-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/54/5a/dc545a06-b148-d817-4e03-c48cab055d28/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Past Memories",
-          "duration": "2:46"
-        }
-      ]
-    },
-    {
       "name": "Montagem Egypt",
       "year": "2024",
       "release_date": "2024-04-19",
@@ -1424,6 +1457,19 @@
           "number": 3,
           "name": "Montagem Egypt (Sped Up)",
           "duration": "1:05"
+        }
+      ]
+    },
+    {
+      "name": "Past Memories",
+      "year": "2023",
+      "release_date": "2023-12-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/54/5a/dc545a06-b148-d817-4e03-c48cab055d28/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Past Memories",
+          "duration": "2:46"
         }
       ]
     },
@@ -1944,6 +1990,34 @@
       ]
     },
     {
+      "name": "SOMBRA",
+      "year": "2025",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/7b/60/e47b609f-21ca-0aba-0205-006ee0c8f3ba/71906.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SOMBRA",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "SOMBRA (Slowed)",
+          "duration": "2:01"
+        },
+        {
+          "number": 3,
+          "name": "SOMBRA (Sped Up)",
+          "duration": "1:36"
+        },
+        {
+          "number": 4,
+          "name": "SOMBRA (Instrumental)",
+          "duration": "1:47"
+        }
+      ]
+    },
+    {
       "name": "VIBE",
       "year": "2025",
       "release_date": "2025-06-20",
@@ -1972,6 +2046,39 @@
       ]
     },
     {
+      "name": "WA ARA",
+      "year": "2025",
+      "release_date": "2025-07-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/32/75/7a32756e-0fb5-7608-6182-92401553ecde/65308.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "WA ARA",
+          "duration": "1:39"
+        },
+        {
+          "number": 2,
+          "name": "WA ARA (Slowed)",
+          "duration": "1:46"
+        },
+        {
+          "number": 3,
+          "name": "WA ARA (Super Slowed)",
+          "duration": "1:53"
+        },
+        {
+          "number": 4,
+          "name": "WA ARA (Ultra Slowed)",
+          "duration": "2:08"
+        },
+        {
+          "number": 5,
+          "name": "WA ARA (Sped Up)",
+          "duration": "1:32"
+        }
+      ]
+    },
+    {
       "name": "IF YOU GO AWAY",
       "year": "2026",
       "release_date": "2026-03-13",
@@ -1996,6 +2103,34 @@
           "number": 4,
           "name": "IF YOU GO AWAY (Super Sped Up)",
           "duration": "1:56"
+        }
+      ]
+    },
+    {
+      "name": "BANDIDA",
+      "year": "2025",
+      "release_date": "2025-12-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/aa/d9/16aad920-54e2-cbfb-2620-a95cbb9fac04/107491.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BANDIDA",
+          "duration": "1:21"
+        },
+        {
+          "number": 2,
+          "name": "BANDIDA (Slowed)",
+          "duration": "1:31"
+        },
+        {
+          "number": 3,
+          "name": "BANDIDA (Super Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "BANDIDA (Sped Up)",
+          "duration": "1:12"
         }
       ]
     },
@@ -2145,6 +2280,34 @@
       ]
     },
     {
+      "name": "MONTAGEM EPIC",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/5e/b4/405eb4a7-418e-2393-3294-091a449c90c9/4099964265682.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM EPIC",
+          "duration": "1:46"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM EPIC (Sped Up)",
+          "duration": "1:35"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM EPIC (Slowed)",
+          "duration": "1:59"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM EPIC (Super Slowed)",
+          "duration": "2:14"
+        }
+      ]
+    },
+    {
       "name": "SO CAMINHAR",
       "year": "2025",
       "release_date": "2025-11-07",
@@ -2262,6 +2425,34 @@
       ]
     },
     {
+      "name": "CLASSY",
+      "year": "2025",
+      "release_date": "2025-09-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/16/a9/1e16a9fc-3419-3de6-52bd-aff768ee3540/62469.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CLASSY",
+          "duration": "1:19"
+        },
+        {
+          "number": 2,
+          "name": "CLASSY (Slowed)",
+          "duration": "1:29"
+        },
+        {
+          "number": 3,
+          "name": "CLASSY (Super Slowed)",
+          "duration": "1:39"
+        },
+        {
+          "number": 4,
+          "name": "CLASSY (Sped Up)",
+          "duration": "1:10"
+        }
+      ]
+    },
+    {
       "name": "MAKE PEACE",
       "year": "2025",
       "release_date": "2025-05-16",
@@ -2290,34 +2481,6 @@
       ]
     },
     {
-      "name": "cursed (feat. Ogryzek)",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/f0/2a/02f02a9a-e032-2dcb-2ded-39822f3b57f9/960393.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "cursed (feat. Ogryzek)",
-          "duration": "1:50"
-        },
-        {
-          "number": 2,
-          "name": "cursed (feat. Ogryzek) [sped up]",
-          "duration": "1:39"
-        },
-        {
-          "number": 3,
-          "name": "cursed (feat. Ogryzek) [slowed and reverb]",
-          "duration": "2:03"
-        },
-        {
-          "number": 4,
-          "name": "cursed (feat. Ogryzek) [instrumental]",
-          "duration": "1:44"
-        }
-      ]
-    },
-    {
       "name": "COLD ECHO",
       "year": "2025",
       "release_date": "2025-08-15",
@@ -2342,6 +2505,34 @@
           "number": 4,
           "name": "COLD ECHO (Super Slowed)",
           "duration": "2:03"
+        }
+      ]
+    },
+    {
+      "name": "cursed (feat. Ogryzek)",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/f0/2a/02f02a9a-e032-2dcb-2ded-39822f3b57f9/960393.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "cursed (feat. Ogryzek)",
+          "duration": "1:50"
+        },
+        {
+          "number": 2,
+          "name": "cursed (feat. Ogryzek) [sped up]",
+          "duration": "1:39"
+        },
+        {
+          "number": 3,
+          "name": "cursed (feat. Ogryzek) [slowed and reverb]",
+          "duration": "2:03"
+        },
+        {
+          "number": 4,
+          "name": "cursed (feat. Ogryzek) [instrumental]",
+          "duration": "1:44"
         }
       ]
     },

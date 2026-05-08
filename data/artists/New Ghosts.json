@@ -56,5 +56,39 @@
       ]
     }
   ],
-  "eps": []
+  "eps": [
+    {
+      "name": "The Debris",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/8a/42/aa8a4213-7524-8e3f-3685-5149e4262c2b/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Other Ones",
+          "duration": "3:12"
+        },
+        {
+          "number": 2,
+          "name": "Love Breeds Paranoia",
+          "duration": "3:19"
+        },
+        {
+          "number": 3,
+          "name": "Fallout",
+          "duration": "2:37"
+        },
+        {
+          "number": 4,
+          "name": "Sober",
+          "duration": "3:12"
+        },
+        {
+          "number": 5,
+          "name": "Anymore",
+          "duration": "3:47"
+        }
+      ]
+    }
+  ]
 }

@@ -153,19 +153,6 @@
       ]
     },
     {
-      "name": "one day i'll forget",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/c2/7e/1fc27e15-2240-6e82-7ec8-6d7fed2dddf7/820200143105.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "one day i'll forget",
-          "duration": "2:42"
-        }
-      ]
-    },
-    {
       "name": "Needle Eye",
       "year": "2024",
       "release_date": "2024-08-09",
@@ -288,6 +275,19 @@
       ]
     },
     {
+      "name": "one day i'll forget",
+      "year": "2026",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/c2/7e/1fc27e15-2240-6e82-7ec8-6d7fed2dddf7/820200143105.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "one day i'll forget",
+          "duration": "2:42"
+        }
+      ]
+    },
+    {
       "name": "Euphoria",
       "year": "2022",
       "release_date": "2022-10-21",
@@ -375,35 +375,40 @@
       ]
     },
     {
-      "name": "Neversleep",
+      "name": "Who Sold You This Truth",
       "year": "2025",
-      "release_date": "2025-08-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/2c/35/b52c35bb-e9df-e666-0592-94c8c54ff522/810129812169.jpg/600x600bb.jpg",
+      "release_date": "2025-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/71/72/e871726c-6f4b-c998-05e2-2f78ba0f6093/810129812176.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Neversleep",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Letdown",
-          "duration": "2:48"
-        },
-        {
-          "number": 3,
-          "name": "Misery Loves Company",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
           "name": "Car Crash",
           "duration": "2:31"
         },
         {
-          "number": 5,
+          "number": 2,
           "name": "Needle Eye",
           "duration": "2:49"
+        },
+        {
+          "number": 3,
+          "name": "Letdown",
+          "duration": "2:48"
+        },
+        {
+          "number": 4,
+          "name": "Misery Loves Company",
+          "duration": "3:05"
+        },
+        {
+          "number": 5,
+          "name": "Neversleep",
+          "duration": "2:59"
+        },
+        {
+          "number": 6,
+          "name": "God Complex",
+          "duration": "3:36"
         }
       ]
     },
@@ -446,44 +451,6 @@
       ]
     },
     {
-      "name": "Who Sold You This Truth",
-      "year": "2025",
-      "release_date": "2025-09-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/71/72/e871726c-6f4b-c998-05e2-2f78ba0f6093/810129812176.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Car Crash",
-          "duration": "2:31"
-        },
-        {
-          "number": 2,
-          "name": "Needle Eye",
-          "duration": "2:49"
-        },
-        {
-          "number": 3,
-          "name": "Letdown",
-          "duration": "2:48"
-        },
-        {
-          "number": 4,
-          "name": "Misery Loves Company",
-          "duration": "3:05"
-        },
-        {
-          "number": 5,
-          "name": "Neversleep",
-          "duration": "2:59"
-        },
-        {
-          "number": 6,
-          "name": "God Complex",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
       "name": "Letdown / Misery Loves Company",
       "year": "2025",
       "release_date": "2025-07-11",
@@ -506,6 +473,39 @@
         },
         {
           "number": 4,
+          "name": "Needle Eye",
+          "duration": "2:49"
+        }
+      ]
+    },
+    {
+      "name": "Neversleep",
+      "year": "2025",
+      "release_date": "2025-08-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/2c/35/b52c35bb-e9df-e666-0592-94c8c54ff522/810129812169.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Neversleep",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Letdown",
+          "duration": "2:48"
+        },
+        {
+          "number": 3,
+          "name": "Misery Loves Company",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "Car Crash",
+          "duration": "2:31"
+        },
+        {
+          "number": 5,
           "name": "Needle Eye",
           "duration": "2:49"
         }

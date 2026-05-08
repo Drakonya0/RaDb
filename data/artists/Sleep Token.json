@@ -477,32 +477,67 @@
           "duration": "4:07"
         }
       ]
-    }
-  ],
-  "singles": [
+    },
     {
-      "name": "One",
-      "year": "2016",
-      "release_date": "2016-12-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/aa/eb/19aaeb07-7799-19b5-c4a0-e20710a1cb3f/859725364559_cover.jpg/600x600bb.jpg",
+      "name": "Even In Arcadia (Instrumental)",
+      "year": "2025",
+      "release_date": "2025-03-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/4f/91/c44f9157-665b-c23f-8370-52e564c252b1/196874298466.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Thread the Needle",
-          "duration": "6:36"
+          "name": "Look To Windward (Instrumental)",
+          "duration": "7:46"
         },
         {
           "number": 2,
-          "name": "Fields of Elation",
-          "duration": "4:31"
+          "name": "Emergence (Instrumental)",
+          "duration": "6:26"
         },
         {
           "number": 3,
-          "name": "When the Bough Breaks",
-          "duration": "7:35"
+          "name": "Past Self (Instrumental)",
+          "duration": "3:34"
+        },
+        {
+          "number": 4,
+          "name": "Dangerous (Instrumental)",
+          "duration": "4:11"
+        },
+        {
+          "number": 5,
+          "name": "Caramel (Instrumental)",
+          "duration": "4:50"
+        },
+        {
+          "number": 6,
+          "name": "Even In Arcadia (Instrumental)",
+          "duration": "4:28"
+        },
+        {
+          "number": 7,
+          "name": "Provider (Instrumental)",
+          "duration": "6:05"
+        },
+        {
+          "number": 8,
+          "name": "Damocles (Instrumental)",
+          "duration": "4:24"
+        },
+        {
+          "number": 9,
+          "name": "Gethsemane (Instrumental)",
+          "duration": "6:23"
+        },
+        {
+          "number": 10,
+          "name": "Infinite Baths (Instrumental)",
+          "duration": "8:23"
         }
       ]
-    },
+    }
+  ],
+  "singles": [
     {
       "name": "Two",
       "year": "2017",
@@ -527,6 +562,29 @@
       ]
     },
     {
+      "name": "One",
+      "year": "2016",
+      "release_date": "2016-12-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/aa/eb/19aaeb07-7799-19b5-c4a0-e20710a1cb3f/859725364559_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Thread the Needle",
+          "duration": "6:36"
+        },
+        {
+          "number": 2,
+          "name": "Fields of Elation",
+          "duration": "4:31"
+        },
+        {
+          "number": 3,
+          "name": "When the Bough Breaks",
+          "duration": "7:35"
+        }
+      ]
+    },
+    {
       "name": "Jaws",
       "year": "2018",
       "release_date": "2018-06-04",
@@ -536,6 +594,19 @@
           "number": 1,
           "name": "Jaws",
           "duration": "5:55"
+        }
+      ]
+    },
+    {
+      "name": "The Way That You Were",
+      "year": "2018",
+      "release_date": "2018-10-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/18/a4/7e18a461-f104-6edb-5b2e-0c80414b7c7b/859728818103_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Way That You Were",
+          "duration": "3:03"
         }
       ]
     },
@@ -566,19 +637,6 @@
       ]
     },
     {
-      "name": "The Way That You Were",
-      "year": "2018",
-      "release_date": "2018-10-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/18/a4/7e18a461-f104-6edb-5b2e-0c80414b7c7b/859728818103_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Way That You Were",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
       "name": "The Summoning",
       "year": "2023",
       "release_date": "2023-01-06",
@@ -588,6 +646,71 @@
           "number": 1,
           "name": "The Summoning",
           "duration": "6:35"
+        }
+      ]
+    },
+    {
+      "name": "Granite",
+      "year": "2023",
+      "release_date": "2023-01-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/62/8f/fd/628ffdd7-ab74-0999-da10-e6509677f97a/5401148000887_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Granite",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "Vore",
+      "year": "2023",
+      "release_date": "2023-02-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/a9/1b/55a91bd9-2c8b-6bc9-daf7-9adec23cb097/5401148000924_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Vore",
+          "duration": "5:39"
+        }
+      ]
+    },
+    {
+      "name": "Chokehold",
+      "year": "2023",
+      "release_date": "2023-01-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/9a/27/399a277f-6372-2c16-3173-e11e391e7b6d/5401148000856_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chokehold",
+          "duration": "5:04"
+        }
+      ]
+    },
+    {
+      "name": "Aqua Regia",
+      "year": "2023",
+      "release_date": "2023-01-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/cd/7b/13cd7bcd-6f20-a600-ed07-88cbebb5116c/5401148000900_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Aqua Regia",
+          "duration": "3:56"
+        }
+      ]
+    },
+    {
+      "name": "Dark Signs (feat. Sleep Token)",
+      "year": "2025",
+      "release_date": "2025-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/73/ed/b773edf3-531c-7e45-73f9-ca2e93a829ff/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dark Signs (feat. Sleep Token)",
+          "duration": "3:50"
         }
       ]
     },
@@ -615,45 +738,6 @@
       ]
     },
     {
-      "name": "The Love You Want",
-      "year": "2021",
-      "release_date": "2021-06-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/71/bf/b8/71bfb82d-9276-3ebf-c2aa-74b4ad6dbab7/5400863107062_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Love You Want",
-          "duration": "4:23"
-        }
-      ]
-    },
-    {
-      "name": "Aqua Regia",
-      "year": "2023",
-      "release_date": "2023-01-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/13/cd/7b/13cd7bcd-6f20-a600-ed07-88cbebb5116c/5401148000900_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Aqua Regia",
-          "duration": "3:56"
-        }
-      ]
-    },
-    {
-      "name": "Vore",
-      "year": "2023",
-      "release_date": "2023-02-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/a9/1b/55a91bd9-2c8b-6bc9-daf7-9adec23cb097/5401148000924_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Vore",
-          "duration": "5:39"
-        }
-      ]
-    },
-    {
       "name": "Alkaline",
       "year": "2021",
       "release_date": "2021-06-18",
@@ -667,28 +751,15 @@
       ]
     },
     {
-      "name": "Chokehold",
-      "year": "2023",
-      "release_date": "2023-01-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/9a/27/399a277f-6372-2c16-3173-e11e391e7b6d/5401148000856_cover.jpg/600x600bb.jpg",
+      "name": "The Love You Want",
+      "year": "2021",
+      "release_date": "2021-06-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/71/bf/b8/71bfb82d-9276-3ebf-c2aa-74b4ad6dbab7/5400863107062_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Chokehold",
-          "duration": "5:04"
-        }
-      ]
-    },
-    {
-      "name": "Granite",
-      "year": "2023",
-      "release_date": "2023-01-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/62/8f/fd/628ffdd7-ab74-0999-da10-e6509677f97a/5401148000887_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Granite",
-          "duration": "3:45"
+          "name": "The Love You Want",
+          "duration": "4:23"
         }
       ]
     },
@@ -702,19 +773,6 @@
           "number": 1,
           "name": "Fall For Me",
           "duration": "2:26"
-        }
-      ]
-    },
-    {
-      "name": "Dark Signs (feat. Sleep Token)",
-      "year": "2025",
-      "release_date": "2025-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/73/ed/b773edf3-531c-7e45-73f9-ca2e93a829ff/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dark Signs (feat. Sleep Token)",
-          "duration": "3:50"
         }
       ]
     }

@@ -71,6 +71,74 @@
       ]
     },
     {
+      "name": "Viewfinder Vol. 1: PHOSPHENE",
+      "year": "2019",
+      "release_date": "2019-04-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ee/c4/da/eec4da16-c56a-a1a1-98bf-b98724753dd8/5054526211506_1.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Flares",
+          "duration": "2:24"
+        },
+        {
+          "number": 2,
+          "name": "Viewfinder",
+          "duration": "4:25"
+        },
+        {
+          "number": 3,
+          "name": "Atlantis",
+          "duration": "3:28"
+        },
+        {
+          "number": 4,
+          "name": "Neptune",
+          "duration": "4:36"
+        },
+        {
+          "number": 5,
+          "name": "Phosphene",
+          "duration": "3:15"
+        },
+        {
+          "number": 6,
+          "name": "Pressures",
+          "duration": "2:35"
+        },
+        {
+          "number": 7,
+          "name": "Thinking",
+          "duration": "4:06"
+        },
+        {
+          "number": 8,
+          "name": "Fall",
+          "duration": "3:00"
+        },
+        {
+          "number": 9,
+          "name": "Embark",
+          "duration": "5:25"
+        },
+        {
+          "number": 10,
+          "name": "Nkllt",
+          "duration": "3:01"
+        },
+        {
+          "number": 11,
+          "name": "Explanation",
+          "duration": "3:39"
+        },
+        {
+          "number": 12,
+          "name": "Resolution",
+          "duration": "4:22"
+        }
+      ]
+    },
+    {
       "name": "VF VOL II",
       "year": "2022",
       "release_date": "2022-09-23",
@@ -150,74 +218,6 @@
           "number": 15,
           "name": "NEW WAVE",
           "duration": "3:48"
-        }
-      ]
-    },
-    {
-      "name": "Viewfinder Vol. 1: PHOSPHENE",
-      "year": "2019",
-      "release_date": "2019-04-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ee/c4/da/eec4da16-c56a-a1a1-98bf-b98724753dd8/5054526211506_1.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Flares",
-          "duration": "2:24"
-        },
-        {
-          "number": 2,
-          "name": "Viewfinder",
-          "duration": "4:25"
-        },
-        {
-          "number": 3,
-          "name": "Atlantis",
-          "duration": "3:28"
-        },
-        {
-          "number": 4,
-          "name": "Neptune",
-          "duration": "4:36"
-        },
-        {
-          "number": 5,
-          "name": "Phosphene",
-          "duration": "3:15"
-        },
-        {
-          "number": 6,
-          "name": "Pressures",
-          "duration": "2:35"
-        },
-        {
-          "number": 7,
-          "name": "Thinking",
-          "duration": "4:06"
-        },
-        {
-          "number": 8,
-          "name": "Fall",
-          "duration": "3:00"
-        },
-        {
-          "number": 9,
-          "name": "Embark",
-          "duration": "5:25"
-        },
-        {
-          "number": 10,
-          "name": "Nkllt",
-          "duration": "3:01"
-        },
-        {
-          "number": 11,
-          "name": "Explanation",
-          "duration": "3:39"
-        },
-        {
-          "number": 12,
-          "name": "Resolution",
-          "duration": "4:22"
         }
       ]
     },
@@ -443,34 +443,6 @@
   ],
   "eps": [
     {
-      "name": "IV",
-      "year": "2021",
-      "release_date": "2021-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/95/ab/5b/95ab5bbb-d9a6-bbf0-a35a-4f3a87446e5b/190296739071.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A New Dawn",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Duo",
-          "duration": "2:06"
-        },
-        {
-          "number": 3,
-          "name": "Games",
-          "duration": "3:51"
-        },
-        {
-          "number": 4,
-          "name": "Assumptions",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
       "name": "Escapism",
       "year": "2015",
       "release_date": "2015-11-30",
@@ -533,6 +505,34 @@
           "number": 5,
           "name": "Odyssey",
           "duration": "5:00"
+        }
+      ]
+    },
+    {
+      "name": "IV",
+      "year": "2021",
+      "release_date": "2021-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/95/ab/5b/95ab5bbb-d9a6-bbf0-a35a-4f3a87446e5b/190296739071.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A New Dawn",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Duo",
+          "duration": "2:06"
+        },
+        {
+          "number": 3,
+          "name": "Games",
+          "duration": "3:51"
+        },
+        {
+          "number": 4,
+          "name": "Assumptions",
+          "duration": "3:40"
         }
       ]
     },

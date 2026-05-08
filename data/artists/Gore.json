@@ -1,176 +1,371 @@
 {
-  "name": "Gore.",
-  "id": 1721931247,
-  "albums": [],
-  "singles": [
+  "name": "Gore",
+  "id": 166588391,
+  "albums": [
     {
-      "name": "Babylon",
-      "year": "2024",
-      "release_date": "2024-08-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/c4/a8/ebc4a8d6-6564-d73d-b82b-18663f8b9943/5401148007237_cover.jpg/600x600bb.jpg",
+      "name": "Mean Man's Dream",
+      "year": "1987",
+      "release_date": "1987-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/6d/51/5d/dj.ktwqmyvc.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Babylon",
-          "duration": "3:33"
+          "name": "Mean Man's Dream",
+          "duration": "4:20"
+        },
+        {
+          "number": 2,
+          "name": "Search",
+          "duration": "1:58"
+        },
+        {
+          "number": 3,
+          "name": "Love",
+          "duration": "4:44"
+        },
+        {
+          "number": 4,
+          "name": "Last Steps",
+          "duration": "5:54"
+        },
+        {
+          "number": 5,
+          "name": "Chainsaw",
+          "duration": "3:44"
+        },
+        {
+          "number": 6,
+          "name": "The Bank",
+          "duration": "3:09"
+        },
+        {
+          "number": 7,
+          "name": "Back Home",
+          "duration": "3:41"
+        },
+        {
+          "number": 8,
+          "name": "Loaded",
+          "duration": "4:45"
+        },
+        {
+          "number": 9,
+          "name": "Meat Machine",
+          "duration": "6:10"
+        },
+        {
+          "number": 10,
+          "name": "Out for Sex",
+          "duration": "3:45"
         }
       ]
     },
     {
-      "name": "Sepsis",
-      "year": "2025",
-      "release_date": "2025-06-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/c1/77/17c1770e-afbe-d269-8329-7eee25fccbed/5401148008869_cover.jpg/600x600bb.jpg",
+      "name": "Hart Gore + Mean Mans Dream",
+      "year": "2009",
+      "release_date": "2009-02-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/62/e5/e9/62e5e9a1-d62a-273a-76a1-f44809ab7757/888880802712.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Sepsis",
+          "name": "Extirpation",
+          "duration": "2:25"
+        },
+        {
+          "number": 2,
+          "name": "To The Gallows",
+          "duration": "2:04"
+        },
+        {
+          "number": 3,
+          "name": "After",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Axe of Revenge",
+          "duration": "4:39"
+        },
+        {
+          "number": 5,
+          "name": "Out For Blood",
+          "duration": "3:01"
+        },
+        {
+          "number": 6,
+          "name": "USA Is Calling",
+          "duration": "4:22"
+        },
+        {
+          "number": 7,
+          "name": "Death Is Coming",
+          "duration": "1:49"
+        },
+        {
+          "number": 8,
+          "name": "Fear",
+          "duration": "2:59"
+        },
+        {
+          "number": 9,
+          "name": "In the Eyes of the Sniper",
+          "duration": "1:45"
+        },
+        {
+          "number": 10,
+          "name": "He Knows You Are Alone",
+          "duration": "5:35"
+        },
+        {
+          "number": 11,
+          "name": "Extirpation (Zurich 3-17-87)",
+          "duration": "2:29"
+        },
+        {
+          "number": 12,
+          "name": "To The Gallows (Zurich 3-17-87)",
+          "duration": "1:50"
+        },
+        {
+          "number": 13,
+          "name": "After (Demo)",
+          "duration": "3:29"
+        },
+        {
+          "number": 14,
+          "name": "Axe of Revenge (Ravensburg 10-2-87)",
+          "duration": "5:38"
+        },
+        {
+          "number": 15,
+          "name": "Out For Blood (Ravensburg 10-2-87)",
+          "duration": "2:38"
+        },
+        {
+          "number": 16,
+          "name": "USA Is Calling (Pamplona 8-3-86)",
+          "duration": "5:18"
+        },
+        {
+          "number": 17,
+          "name": "Death Is Coming (Demo)",
+          "duration": "1:56"
+        },
+        {
+          "number": 18,
+          "name": "Fear Pamplona 8-3-86)",
+          "duration": "2:44"
+        },
+        {
+          "number": 19,
+          "name": "In The Eye Of The Storm (Hellevoetsluis 6-13-86)",
+          "duration": "1:57"
+        },
+        {
+          "number": 20,
+          "name": "He Knows You Are Alone (Dordrecht 6-7-86)",
+          "duration": "4:43"
+        },
+        {
+          "number": 21,
+          "name": "Death Has Come (Aachen 6-28-87)",
+          "duration": "2:55"
+        },
+        {
+          "number": 22,
+          "name": "The Hunt (Outtake)",
+          "duration": "4:41"
+        },
+        {
+          "number": 23,
+          "name": "Station To Station (Rehearsal)",
+          "duration": "1:02"
+        }
+      ]
+    },
+    {
+      "name": "Mean Man's Dream",
+      "year": "1987",
+      "release_date": "1987-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/77/15/48/771548db-96f9-1194-ff1d-23192a6bff5a/890436001524.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mean Man's Dream",
+          "duration": "4:18"
+        },
+        {
+          "number": 2,
+          "name": "Search",
+          "duration": "1:56"
+        },
+        {
+          "number": 3,
+          "name": "Love",
+          "duration": "4:42"
+        },
+        {
+          "number": 4,
+          "name": "Last Steps",
+          "duration": "5:52"
+        },
+        {
+          "number": 5,
+          "name": "Chainsaw",
+          "duration": "3:42"
+        },
+        {
+          "number": 6,
+          "name": "The Bank",
+          "duration": "3:07"
+        },
+        {
+          "number": 7,
+          "name": "Back Home",
+          "duration": "3:07"
+        },
+        {
+          "number": 8,
+          "name": "Loaded",
+          "duration": "4:43"
+        },
+        {
+          "number": 9,
+          "name": "Meat Machine",
+          "duration": "6:08"
+        },
+        {
+          "number": 10,
+          "name": "Out for Sex",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "Mean Man's Dream (Live)",
+      "year": "2009",
+      "release_date": "2009-02-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/f4/5f/fd/f45ffd71-5d7a-6505-9e41-2847424b891e/884977048179.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mean Man's Dream (Holland 1-23-87) [Live]",
+          "duration": "4:19"
+        },
+        {
+          "number": 2,
+          "name": "Search (Unitas 9-19-86) [Live]",
+          "duration": "1:48"
+        },
+        {
+          "number": 3,
+          "name": "Love (Belgium 10-10-86) [Live]",
+          "duration": "4:22"
+        },
+        {
+          "number": 4,
+          "name": "Last Steps (Studio Left Over) [Live]",
+          "duration": "3:18"
+        },
+        {
+          "number": 5,
+          "name": "Chainsaw (Spain 7-24-86) [Live]",
+          "duration": "4:10"
+        },
+        {
+          "number": 6,
+          "name": "The Bank (Holland 11/9/86) [Live]",
+          "duration": "3:27"
+        },
+        {
+          "number": 7,
+          "name": "Back Home (Switzerland 3-27-87) [Live]",
           "duration": "3:28"
-        }
-      ]
-    },
-    {
-      "name": "Wrath",
-      "year": "2025",
-      "release_date": "2025-08-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/0c/f5/690cf5f6-93ac-100c-2620-b10d458eb00b/5401148009774_cover.jpg/600x600bb.jpg",
-      "tracks": [
+        },
         {
-          "number": 1,
-          "name": "Wrath",
-          "duration": "4:33"
-        }
-      ]
-    },
-    {
-      "name": "Doomsday",
-      "year": "2024",
-      "release_date": "2024-01-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/37/6e/94376e31-163b-42a8-b439-210e1994d1d3/5401148007275_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Doomsday",
-          "duration": "3:17"
-        }
-      ]
-    },
-    {
-      "name": "Pray",
-      "year": "2023",
-      "release_date": "2023-12-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/8c/94/368c9438-be29-bb23-c575-764420e03907/5401148007268_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pray",
+          "number": 8,
+          "name": "Loaded (Holland 5-16-87) [Live]",
           "duration": "4:07"
-        }
-      ]
-    },
-    {
-      "name": "You Learn ('Mile End Kicks' - Music Inspired by the Motion Picture)",
-      "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/88/24/598824d3-eed3-7af2-43f8-a1cf64df15b6/823375122487_Cover.jpg/600x600bb.jpg",
-      "tracks": [
+        },
         {
-          "number": 1,
-          "name": "You Learn ('Mile End Kicks' - Music Inspired by the Motion Picture)",
-          "duration": "4:00"
+          "number": 9,
+          "name": "Meat Machine (Holland 9-28-86) [Live]",
+          "duration": "6:08"
+        },
+        {
+          "number": 10,
+          "name": "Out for Sex (Studio Left Over) [Live]",
+          "duration": "2:45"
         }
       ]
     }
   ],
-  "eps": [
+  "singles": [
     {
-      "name": "If You Do Not Fear Me...",
+      "name": "Walk (feat. NK Da silent assassin & gore)",
       "year": "2025",
-      "release_date": "2025-10-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/b4/bf/0fb4bfdc-b0a4-21fc-4677-db9ffd2f4997/5401148009798_cover.jpg/600x600bb.jpg",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/f3/45/8af345f0-3d6d-de96-71c7-7db45b071291/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Wrath",
-          "duration": "4:33"
-        },
-        {
-          "number": 2,
-          "name": "Sepsis",
-          "duration": "3:28"
-        },
-        {
-          "number": 3,
-          "name": "Orbiting",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
-          "name": "Like You Meant It",
-          "duration": "4:13"
+          "name": "Walk (feat. NK Da silent assassin & gore)",
+          "duration": "3:52"
         }
       ]
     },
     {
-      "name": "A Bud That Never Blooms",
-      "year": "2024",
-      "release_date": "2024-10-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/fb/a4/b1fba48f-421f-673a-4c4a-715a60b548c1/5401148007466_cover.jpg/600x600bb.jpg",
+      "name": "Destaques (feat. Gore)",
+      "year": "2025",
+      "release_date": "2025-11-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/a9/e6/4aa9e6b6-9d06-4fd3-30d8-aebfab812e20/62218907-2d0a-4fa9-a823-48c93d9ea408.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Pray",
-          "duration": "4:07"
-        },
-        {
-          "number": 2,
-          "name": "Doomsday",
-          "duration": "3:17"
-        },
-        {
-          "number": 3,
-          "name": "Babylon",
-          "duration": "3:33"
-        },
-        {
-          "number": 4,
-          "name": "Angels Like You",
-          "duration": "3:25"
-        },
-        {
-          "number": 5,
-          "name": "Heaven Is Above Me",
-          "duration": "4:33"
+          "name": "Destaques (feat. Gore)",
+          "duration": "3:14"
         }
       ]
     },
     {
-      "name": "Angels Like You",
-      "year": "2024",
-      "release_date": "2024-09-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/4b/3b/3b4b3bc1-4ee0-58ab-a993-646ebdd18a52/5401148007459_cover.jpg/600x600bb.jpg",
+      "name": "Se Eles Tenta (feat. Ramon Damineli)",
+      "year": "2023",
+      "release_date": "2023-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/8a/31/b98a314b-9bb0-909c-99f6-1e2b9c3b0b2a/90974.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Angels Like You",
-          "duration": "3:25"
-        },
+          "name": "Se Eles Tenta (feat. Ramon Damineli)",
+          "duration": "2:30"
+        }
+      ]
+    },
+    {
+      "name": "Esteio City - Gore, Coka da BM e Cariocanubeat",
+      "year": "2022",
+      "release_date": "2022-12-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/98/2b/09/982b099b-af32-5a43-fafb-696ca4206858/74787.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 2,
-          "name": "Babylon",
-          "duration": "3:33"
-        },
+          "number": 1,
+          "name": "Esteio City - Gore, Coka da BM e Cariocanubeat",
+          "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Visão de Favela",
+      "year": "2023",
+      "release_date": "2023-04-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/37/a7/7d/37a77da7-d4ef-3eb4-e76d-5861c1e2faad/99129.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 3,
-          "name": "Doomsday",
-          "duration": "3:17"
-        },
-        {
-          "number": 4,
-          "name": "Pray",
-          "duration": "4:07"
+          "number": 1,
+          "name": "Visão de Favela",
+          "duration": "2:15"
         }
       ]
     }
-  ]
+  ],
+  "eps": []
 }

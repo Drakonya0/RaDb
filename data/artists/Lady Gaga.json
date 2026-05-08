@@ -181,74 +181,6 @@
       ]
     },
     {
-      "name": "Top Gun: Maverick (Music from the Motion Picture)",
-      "year": "2022",
-      "release_date": "2022-05-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e6/14/14/e6141444-6597-4c3a-7ad1-86304528acf4/22UMGIM45569.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Main Titles (You've Been Called Back to Top Gun)",
-          "duration": "2:30"
-        },
-        {
-          "number": 2,
-          "name": "Danger Zone",
-          "duration": "3:35"
-        },
-        {
-          "number": 3,
-          "name": "Darkstar",
-          "duration": "3:01"
-        },
-        {
-          "number": 4,
-          "name": "Great Balls of Fire (Live)",
-          "duration": "1:54"
-        },
-        {
-          "number": 5,
-          "name": "You're Where You Belong / Give 'Em Hell",
-          "duration": "5:46"
-        },
-        {
-          "number": 6,
-          "name": "I Ain't Worried",
-          "duration": "2:28"
-        },
-        {
-          "number": 7,
-          "name": "Dagger One Is Hit / Time to Let Go",
-          "duration": "5:06"
-        },
-        {
-          "number": 8,
-          "name": "Tally Two / What's the Plan / F-14",
-          "duration": "4:34"
-        },
-        {
-          "number": 9,
-          "name": "The Man, the Legend / Touchdown",
-          "duration": "3:54"
-        },
-        {
-          "number": 10,
-          "name": "Penny Returns (Interlude)",
-          "duration": "2:47"
-        },
-        {
-          "number": 11,
-          "name": "Hold My Hand",
-          "duration": "3:45"
-        },
-        {
-          "number": 12,
-          "name": "Top Gun Anthem",
-          "duration": "2:28"
-        }
-      ]
-    },
-    {
       "name": "Chromatica",
       "year": "2020",
       "release_date": "2020-05-29",
@@ -333,6 +265,74 @@
           "number": 16,
           "name": "Babylon",
           "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "Top Gun: Maverick (Music from the Motion Picture)",
+      "year": "2022",
+      "release_date": "2022-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e6/14/14/e6141444-6597-4c3a-7ad1-86304528acf4/22UMGIM45569.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Main Titles (You've Been Called Back to Top Gun)",
+          "duration": "2:30"
+        },
+        {
+          "number": 2,
+          "name": "Danger Zone",
+          "duration": "3:35"
+        },
+        {
+          "number": 3,
+          "name": "Darkstar",
+          "duration": "3:01"
+        },
+        {
+          "number": 4,
+          "name": "Great Balls of Fire (Live)",
+          "duration": "1:54"
+        },
+        {
+          "number": 5,
+          "name": "You're Where You Belong / Give 'Em Hell",
+          "duration": "5:46"
+        },
+        {
+          "number": 6,
+          "name": "I Ain't Worried",
+          "duration": "2:28"
+        },
+        {
+          "number": 7,
+          "name": "Dagger One Is Hit / Time to Let Go",
+          "duration": "5:06"
+        },
+        {
+          "number": 8,
+          "name": "Tally Two / What's the Plan / F-14",
+          "duration": "4:34"
+        },
+        {
+          "number": 9,
+          "name": "The Man, the Legend / Touchdown",
+          "duration": "3:54"
+        },
+        {
+          "number": 10,
+          "name": "Penny Returns (Interlude)",
+          "duration": "2:47"
+        },
+        {
+          "number": 11,
+          "name": "Hold My Hand",
+          "duration": "3:45"
+        },
+        {
+          "number": 12,
+          "name": "Top Gun Anthem",
+          "duration": "2:28"
         }
       ]
     },
@@ -426,6 +426,184 @@
           "number": 17,
           "name": "Abracadabra",
           "duration": "4:29"
+        }
+      ]
+    },
+    {
+      "name": "A Star Is Born Soundtrack",
+      "year": "2018",
+      "release_date": "2018-10-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/cd/fa/ffcdfabe-cf1a-c7b1-0992-c56ad2439481/18UMGIM53753.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro",
+          "duration": "0:20"
+        },
+        {
+          "number": 2,
+          "name": "Black Eyes",
+          "duration": "3:03"
+        },
+        {
+          "number": 3,
+          "name": "Somewhere Over the Rainbow (Dialogue)",
+          "duration": "0:42"
+        },
+        {
+          "number": 4,
+          "name": "Fabulous French (Dialogue)",
+          "duration": "0:19"
+        },
+        {
+          "number": 5,
+          "name": "La Vie en Rose",
+          "duration": "2:59"
+        },
+        {
+          "number": 6,
+          "name": "I'll Wait for You (Dialogue)",
+          "duration": "0:19"
+        },
+        {
+          "number": 7,
+          "name": "Maybe It's Time",
+          "duration": "2:39"
+        },
+        {
+          "number": 8,
+          "name": "Parking Lot (Dialogue)",
+          "duration": "0:31"
+        },
+        {
+          "number": 9,
+          "name": "Out of Time",
+          "duration": "2:52"
+        },
+        {
+          "number": 10,
+          "name": "Alibi",
+          "duration": "3:03"
+        },
+        {
+          "number": 11,
+          "name": "Trust Me",
+          "duration": "0:31"
+        },
+        {
+          "number": 12,
+          "name": "Shallow",
+          "duration": "3:35"
+        },
+        {
+          "number": 13,
+          "name": "First Stop, Arizona (Dialogue)",
+          "duration": "0:10"
+        },
+        {
+          "number": 14,
+          "name": "Music to My Eyes",
+          "duration": "3:19"
+        },
+        {
+          "number": 15,
+          "name": "Diggin' My Grave",
+          "duration": "3:57"
+        },
+        {
+          "number": 16,
+          "name": "I Love You (Dialogue)",
+          "duration": "0:19"
+        },
+        {
+          "number": 17,
+          "name": "Always Remember Us This Way",
+          "duration": "3:30"
+        },
+        {
+          "number": 18,
+          "name": "Unbelievable (Dialogue)",
+          "duration": "0:28"
+        },
+        {
+          "number": 19,
+          "name": "How Do You Hear It? (Dialogue)",
+          "duration": "0:14"
+        },
+        {
+          "number": 20,
+          "name": "Look What I Found",
+          "duration": "2:55"
+        },
+        {
+          "number": 21,
+          "name": "Memphis (Dialogue)",
+          "duration": "0:24"
+        },
+        {
+          "number": 22,
+          "name": "Heal Me",
+          "duration": "3:16"
+        },
+        {
+          "number": 23,
+          "name": "I Don't Know What Love Is",
+          "duration": "2:57"
+        },
+        {
+          "number": 24,
+          "name": "Vows (Dialogue)",
+          "duration": "0:17"
+        },
+        {
+          "number": 25,
+          "name": "Is That Alright?",
+          "duration": "3:11"
+        },
+        {
+          "number": 26,
+          "name": "SNL (Dialogue)",
+          "duration": "0:13"
+        },
+        {
+          "number": 27,
+          "name": "Why Did You Do That?",
+          "duration": "3:04"
+        },
+        {
+          "number": 28,
+          "name": "Hair Body Face",
+          "duration": "3:22"
+        },
+        {
+          "number": 29,
+          "name": "Scene 98",
+          "duration": "0:34"
+        },
+        {
+          "number": 30,
+          "name": "Before I Cry",
+          "duration": "4:18"
+        },
+        {
+          "number": 31,
+          "name": "Too Far Gone",
+          "duration": "1:26"
+        },
+        {
+          "number": 32,
+          "name": "Twelve Notes (Dialogue)",
+          "duration": "1:03"
+        },
+        {
+          "number": 33,
+          "name": "I'll Never Love Again (Film Version)",
+          "duration": "4:41"
+        },
+        {
+          "number": 34,
+          "name": "I'll Never Love Again (Extended Version)",
+          "duration": "5:28"
         }
       ]
     },
@@ -865,6 +1043,84 @@
       ]
     },
     {
+      "name": "Dawn Of Chromatica",
+      "year": "2021",
+      "release_date": "2021-09-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/87/5b/7b875b14-8911-5d6c-2b0d-e515b080a114/21UMGIM87491.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Alice (LSDXOXO Remix)",
+          "duration": "2:40"
+        },
+        {
+          "number": 2,
+          "name": "Stupid Love (COUCOU CHLOE Remix)",
+          "duration": "2:36"
+        },
+        {
+          "number": 3,
+          "name": "Rain On Me (Arca Remix)",
+          "duration": "4:23"
+        },
+        {
+          "number": 4,
+          "name": "Free Woman (Rina Sawayama & Clarence Clarity Remix)",
+          "duration": "3:53"
+        },
+        {
+          "number": 5,
+          "name": "Fun Tonight (Pabllo Vittar Remix)",
+          "duration": "2:20"
+        },
+        {
+          "number": 6,
+          "name": "911 (Charli XCX & A. G. Cook Remix)",
+          "duration": "4:13"
+        },
+        {
+          "number": 7,
+          "name": "Plastic Doll (Ashnikko Remix)",
+          "duration": "2:29"
+        },
+        {
+          "number": 8,
+          "name": "Sour Candy (Shygirl & Mura Masa Remix)",
+          "duration": "3:45"
+        },
+        {
+          "number": 9,
+          "name": "Enigma (Doss Remix)",
+          "duration": "4:29"
+        },
+        {
+          "number": 10,
+          "name": "Replay (Dorian Electra Remix)",
+          "duration": "3:49"
+        },
+        {
+          "number": 11,
+          "name": "Sine From Above (Chester Lockhart, Mood Killer & Lil Texas Remix)",
+          "duration": "4:10"
+        },
+        {
+          "number": 12,
+          "name": "1000 Doves (Planningtorock Remix)",
+          "duration": "5:05"
+        },
+        {
+          "number": 13,
+          "name": "Babylon (Bree Runway & Jimmy Edgar Remix)",
+          "duration": "2:48"
+        },
+        {
+          "number": 14,
+          "name": "Babylon (Haus Labs Version)",
+          "duration": "3:01"
+        }
+      ]
+    },
+    {
       "name": "The Fame Monster",
       "year": "2010",
       "release_date": "2010-01-01",
@@ -914,79 +1170,6 @@
           "number": 9,
           "name": "Bad Romance (Starsmith Remix)",
           "duration": "4:55"
-        }
-      ]
-    },
-    {
-      "name": "Harlequin",
-      "year": "2024",
-      "release_date": "2024-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/a6/ab/97a6abc2-3276-de0f-ef2c-48346b557dcf/24UM1IM03741.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Good Morning",
-          "duration": "2:46"
-        },
-        {
-          "number": 2,
-          "name": "Get Happy (2024)",
-          "duration": "3:11"
-        },
-        {
-          "number": 3,
-          "name": "Oh, When The Saints",
-          "duration": "3:42"
-        },
-        {
-          "number": 4,
-          "name": "World On A String",
-          "duration": "2:37"
-        },
-        {
-          "number": 5,
-          "name": "If My Friends Could See Me Now",
-          "duration": "2:41"
-        },
-        {
-          "number": 6,
-          "name": "That's Entertainment",
-          "duration": "4:09"
-        },
-        {
-          "number": 7,
-          "name": "Smile",
-          "duration": "3:38"
-        },
-        {
-          "number": 8,
-          "name": "The Joker",
-          "duration": "2:54"
-        },
-        {
-          "number": 9,
-          "name": "Folie à Deux",
-          "duration": "2:58"
-        },
-        {
-          "number": 10,
-          "name": "Gonna Build A Mountain",
-          "duration": "2:51"
-        },
-        {
-          "number": 11,
-          "name": "Close To You",
-          "duration": "2:44"
-        },
-        {
-          "number": 12,
-          "name": "Happy Mistake",
-          "duration": "4:05"
-        },
-        {
-          "number": 13,
-          "name": "That's Life",
-          "duration": "3:04"
         }
       ]
     },
@@ -1065,503 +1248,6 @@
           "number": 14,
           "name": "Angel Down (Work Tape)",
           "duration": "2:19"
-        }
-      ]
-    },
-    {
-      "name": "Born This Way",
-      "year": "2011",
-      "release_date": "2011-05-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/00/7f/53007fa9-9b02-1fdb-290a-b0ca791a8c98/11UMGIM12477.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Marry The Night",
-          "duration": "4:24"
-        },
-        {
-          "number": 2,
-          "name": "Born This Way",
-          "duration": "4:20"
-        },
-        {
-          "number": 3,
-          "name": "Government Hooker",
-          "duration": "4:14"
-        },
-        {
-          "number": 4,
-          "name": "Judas",
-          "duration": "4:09"
-        },
-        {
-          "number": 5,
-          "name": "Americano",
-          "duration": "4:06"
-        },
-        {
-          "number": 6,
-          "name": "Hair",
-          "duration": "5:08"
-        },
-        {
-          "number": 7,
-          "name": "Scheiße",
-          "duration": "3:45"
-        },
-        {
-          "number": 8,
-          "name": "Bloody Mary",
-          "duration": "4:04"
-        },
-        {
-          "number": 9,
-          "name": "Bad Kids",
-          "duration": "3:50"
-        },
-        {
-          "number": 10,
-          "name": "Highway Unicorn (Road To Love)",
-          "duration": "4:15"
-        },
-        {
-          "number": 11,
-          "name": "Heavy Metal Lover",
-          "duration": "4:12"
-        },
-        {
-          "number": 12,
-          "name": "Electric Chapel",
-          "duration": "4:12"
-        },
-        {
-          "number": 13,
-          "name": "Yoü And I",
-          "duration": "5:07"
-        },
-        {
-          "number": 14,
-          "name": "The Edge Of Glory",
-          "duration": "5:21"
-        }
-      ]
-    },
-    {
-      "name": "A Star Is Born Soundtrack",
-      "year": "2018",
-      "release_date": "2018-10-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/cd/fa/ffcdfabe-cf1a-c7b1-0992-c56ad2439481/18UMGIM53753.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro",
-          "duration": "0:20"
-        },
-        {
-          "number": 2,
-          "name": "Black Eyes",
-          "duration": "3:03"
-        },
-        {
-          "number": 3,
-          "name": "Somewhere Over the Rainbow (Dialogue)",
-          "duration": "0:42"
-        },
-        {
-          "number": 4,
-          "name": "Fabulous French (Dialogue)",
-          "duration": "0:19"
-        },
-        {
-          "number": 5,
-          "name": "La Vie en Rose",
-          "duration": "2:59"
-        },
-        {
-          "number": 6,
-          "name": "I'll Wait for You (Dialogue)",
-          "duration": "0:19"
-        },
-        {
-          "number": 7,
-          "name": "Maybe It's Time",
-          "duration": "2:39"
-        },
-        {
-          "number": 8,
-          "name": "Parking Lot (Dialogue)",
-          "duration": "0:31"
-        },
-        {
-          "number": 9,
-          "name": "Out of Time",
-          "duration": "2:52"
-        },
-        {
-          "number": 10,
-          "name": "Alibi",
-          "duration": "3:03"
-        },
-        {
-          "number": 11,
-          "name": "Trust Me",
-          "duration": "0:31"
-        },
-        {
-          "number": 12,
-          "name": "Shallow",
-          "duration": "3:35"
-        },
-        {
-          "number": 13,
-          "name": "First Stop, Arizona (Dialogue)",
-          "duration": "0:10"
-        },
-        {
-          "number": 14,
-          "name": "Music to My Eyes",
-          "duration": "3:19"
-        },
-        {
-          "number": 15,
-          "name": "Diggin' My Grave",
-          "duration": "3:57"
-        },
-        {
-          "number": 16,
-          "name": "I Love You (Dialogue)",
-          "duration": "0:19"
-        },
-        {
-          "number": 17,
-          "name": "Always Remember Us This Way",
-          "duration": "3:30"
-        },
-        {
-          "number": 18,
-          "name": "Unbelievable (Dialogue)",
-          "duration": "0:28"
-        },
-        {
-          "number": 19,
-          "name": "How Do You Hear It? (Dialogue)",
-          "duration": "0:14"
-        },
-        {
-          "number": 20,
-          "name": "Look What I Found",
-          "duration": "2:55"
-        },
-        {
-          "number": 21,
-          "name": "Memphis (Dialogue)",
-          "duration": "0:24"
-        },
-        {
-          "number": 22,
-          "name": "Heal Me",
-          "duration": "3:16"
-        },
-        {
-          "number": 23,
-          "name": "I Don't Know What Love Is",
-          "duration": "2:57"
-        },
-        {
-          "number": 24,
-          "name": "Vows (Dialogue)",
-          "duration": "0:17"
-        },
-        {
-          "number": 25,
-          "name": "Is That Alright?",
-          "duration": "3:11"
-        },
-        {
-          "number": 26,
-          "name": "SNL (Dialogue)",
-          "duration": "0:13"
-        },
-        {
-          "number": 27,
-          "name": "Why Did You Do That?",
-          "duration": "3:04"
-        },
-        {
-          "number": 28,
-          "name": "Hair Body Face",
-          "duration": "3:22"
-        },
-        {
-          "number": 29,
-          "name": "Scene 98",
-          "duration": "0:34"
-        },
-        {
-          "number": 30,
-          "name": "Before I Cry",
-          "duration": "4:18"
-        },
-        {
-          "number": 31,
-          "name": "Too Far Gone",
-          "duration": "1:26"
-        },
-        {
-          "number": 32,
-          "name": "Twelve Notes (Dialogue)",
-          "duration": "1:03"
-        },
-        {
-          "number": 33,
-          "name": "I'll Never Love Again (Film Version)",
-          "duration": "4:41"
-        },
-        {
-          "number": 34,
-          "name": "I'll Never Love Again (Extended Version)",
-          "duration": "5:28"
-        }
-      ]
-    },
-    {
-      "name": "MAYHEM",
-      "year": "2025",
-      "release_date": "2025-09-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/43/8b/c5438b81-75e8-3a0a-05ee-4f29ae0b9bb3/25UMGIM07433.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Disease",
-          "duration": "3:49"
-        },
-        {
-          "number": 2,
-          "name": "Abracadabra",
-          "duration": "3:43"
-        },
-        {
-          "number": 3,
-          "name": "Garden Of Eden",
-          "duration": "3:59"
-        },
-        {
-          "number": 4,
-          "name": "Perfect Celebrity",
-          "duration": "3:49"
-        },
-        {
-          "number": 5,
-          "name": "Can’t Stop the High",
-          "duration": "3:31"
-        },
-        {
-          "number": 6,
-          "name": "Vanish Into You",
-          "duration": "4:04"
-        },
-        {
-          "number": 7,
-          "name": "Killah",
-          "duration": "3:30"
-        },
-        {
-          "number": 8,
-          "name": "Zombieboy",
-          "duration": "3:33"
-        },
-        {
-          "number": 9,
-          "name": "The Dead Dance",
-          "duration": "3:48"
-        },
-        {
-          "number": 10,
-          "name": "LoveDrug",
-          "duration": "3:13"
-        },
-        {
-          "number": 11,
-          "name": "How Bad Do U Want Me",
-          "duration": "3:58"
-        },
-        {
-          "number": 12,
-          "name": "Don't Call Tonight",
-          "duration": "3:45"
-        },
-        {
-          "number": 13,
-          "name": "Kill For Love",
-          "duration": "4:06"
-        },
-        {
-          "number": 14,
-          "name": "Shadow Of A Man",
-          "duration": "3:19"
-        },
-        {
-          "number": 15,
-          "name": "The Beast",
-          "duration": "3:54"
-        },
-        {
-          "number": 16,
-          "name": "Blade Of Grass",
-          "duration": "4:17"
-        },
-        {
-          "number": 17,
-          "name": "Die With A Smile",
-          "duration": "4:11"
-        },
-        {
-          "number": 18,
-          "name": "Disease",
-          "duration": "4:21"
-        },
-        {
-          "number": 19,
-          "name": "Die With A Smile",
-          "duration": "4:12"
-        },
-        {
-          "number": 20,
-          "name": "Abracadabra",
-          "duration": "4:29"
-        },
-        {
-          "number": 21,
-          "name": "The Dead Dance",
-          "duration": "4:46"
-        }
-      ]
-    },
-    {
-      "name": "The Fame Monster (Deluxe Edition)",
-      "year": "2009",
-      "release_date": "2009-11-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/98/88/1b9888da-6a1f-bff0-ec03-518f445019f6/19UMGIM73435.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bad Romance",
-          "duration": "4:54"
-        },
-        {
-          "number": 1,
-          "name": "Just Dance (feat. Colby O'Donis)",
-          "duration": "4:02"
-        },
-        {
-          "number": 2,
-          "name": "Alejandro",
-          "duration": "4:34"
-        },
-        {
-          "number": 2,
-          "name": "LoveGame",
-          "duration": "3:36"
-        },
-        {
-          "number": 3,
-          "name": "Monster",
-          "duration": "4:09"
-        },
-        {
-          "number": 3,
-          "name": "Paparazzi",
-          "duration": "3:28"
-        },
-        {
-          "number": 4,
-          "name": "Speechless",
-          "duration": "4:30"
-        },
-        {
-          "number": 4,
-          "name": "Poker Face",
-          "duration": "3:57"
-        },
-        {
-          "number": 5,
-          "name": "Dance In The Dark",
-          "duration": "4:48"
-        },
-        {
-          "number": 5,
-          "name": "Eh, Eh (Nothing Else I Can Say)",
-          "duration": "2:55"
-        },
-        {
-          "number": 6,
-          "name": "Telephone (feat. Beyoncé)",
-          "duration": "3:40"
-        },
-        {
-          "number": 6,
-          "name": "Beautiful, Dirty, Rich",
-          "duration": "2:52"
-        },
-        {
-          "number": 7,
-          "name": "So Happy I Could Die",
-          "duration": "3:54"
-        },
-        {
-          "number": 7,
-          "name": "The Fame",
-          "duration": "3:41"
-        },
-        {
-          "number": 8,
-          "name": "Teeth",
-          "duration": "3:40"
-        },
-        {
-          "number": 8,
-          "name": "Money Honey",
-          "duration": "2:50"
-        },
-        {
-          "number": 9,
-          "name": "Bad Romance (Starsmith Remix)",
-          "duration": "4:55"
-        },
-        {
-          "number": 9,
-          "name": "Starstruck (feat. Space Cowboy & Flo Rida)",
-          "duration": "3:36"
-        },
-        {
-          "number": 10,
-          "name": "Boys Boys Boys",
-          "duration": "3:20"
-        },
-        {
-          "number": 11,
-          "name": "Paper Gangsta",
-          "duration": "4:23"
-        },
-        {
-          "number": 12,
-          "name": "Brown Eyes",
-          "duration": "4:02"
-        },
-        {
-          "number": 13,
-          "name": "I Like It Rough",
-          "duration": "3:22"
-        },
-        {
-          "number": 14,
-          "name": "Summerboy",
-          "duration": "4:13"
-        },
-        {
-          "number": 15,
-          "name": "Disco Heaven",
-          "duration": "3:41"
         }
       ]
     },
@@ -1694,10 +1380,10 @@
       ]
     },
     {
-      "name": "The Fame Monster",
+      "name": "The Fame Monster (Deluxe Edition)",
       "year": "2009",
-      "release_date": "2009-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e9/1a/4e/e91a4eb9-31e7-89fb-3aad-e8172e534bb6/09UMGIM42295.rgb.jpg/600x600bb.jpg",
+      "release_date": "2009-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1b/98/88/1b9888da-6a1f-bff0-ec03-518f445019f6/19UMGIM73435.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
@@ -1705,9 +1391,19 @@
           "duration": "4:54"
         },
         {
+          "number": 1,
+          "name": "Just Dance (feat. Colby O'Donis)",
+          "duration": "4:02"
+        },
+        {
           "number": 2,
           "name": "Alejandro",
           "duration": "4:34"
+        },
+        {
+          "number": 2,
+          "name": "LoveGame",
+          "duration": "3:36"
         },
         {
           "number": 3,
@@ -1715,9 +1411,19 @@
           "duration": "4:09"
         },
         {
+          "number": 3,
+          "name": "Paparazzi",
+          "duration": "3:28"
+        },
+        {
           "number": 4,
           "name": "Speechless",
           "duration": "4:30"
+        },
+        {
+          "number": 4,
+          "name": "Poker Face",
+          "duration": "3:57"
         },
         {
           "number": 5,
@@ -1725,9 +1431,19 @@
           "duration": "4:48"
         },
         {
+          "number": 5,
+          "name": "Eh, Eh (Nothing Else I Can Say)",
+          "duration": "2:55"
+        },
+        {
           "number": 6,
           "name": "Telephone (feat. Beyoncé)",
           "duration": "3:40"
+        },
+        {
+          "number": 6,
+          "name": "Beautiful, Dirty, Rich",
+          "duration": "2:52"
         },
         {
           "number": 7,
@@ -1735,14 +1451,469 @@
           "duration": "3:54"
         },
         {
+          "number": 7,
+          "name": "The Fame",
+          "duration": "3:41"
+        },
+        {
           "number": 8,
           "name": "Teeth",
           "duration": "3:40"
         },
         {
+          "number": 8,
+          "name": "Money Honey",
+          "duration": "2:50"
+        },
+        {
           "number": 9,
           "name": "Bad Romance (Starsmith Remix)",
           "duration": "4:55"
+        },
+        {
+          "number": 9,
+          "name": "Starstruck (feat. Space Cowboy & Flo Rida)",
+          "duration": "3:36"
+        },
+        {
+          "number": 10,
+          "name": "Boys Boys Boys",
+          "duration": "3:20"
+        },
+        {
+          "number": 11,
+          "name": "Paper Gangsta",
+          "duration": "4:23"
+        },
+        {
+          "number": 12,
+          "name": "Brown Eyes",
+          "duration": "4:02"
+        },
+        {
+          "number": 13,
+          "name": "I Like It Rough",
+          "duration": "3:22"
+        },
+        {
+          "number": 14,
+          "name": "Summerboy",
+          "duration": "4:13"
+        },
+        {
+          "number": 15,
+          "name": "Disco Heaven",
+          "duration": "3:41"
+        }
+      ]
+    },
+    {
+      "name": "Harlequin",
+      "year": "2024",
+      "release_date": "2024-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/a6/ab/97a6abc2-3276-de0f-ef2c-48346b557dcf/24UM1IM03741.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Good Morning",
+          "duration": "2:46"
+        },
+        {
+          "number": 2,
+          "name": "Get Happy (2024)",
+          "duration": "3:11"
+        },
+        {
+          "number": 3,
+          "name": "Oh, When The Saints",
+          "duration": "3:42"
+        },
+        {
+          "number": 4,
+          "name": "World On A String",
+          "duration": "2:37"
+        },
+        {
+          "number": 5,
+          "name": "If My Friends Could See Me Now",
+          "duration": "2:41"
+        },
+        {
+          "number": 6,
+          "name": "That's Entertainment",
+          "duration": "4:09"
+        },
+        {
+          "number": 7,
+          "name": "Smile",
+          "duration": "3:38"
+        },
+        {
+          "number": 8,
+          "name": "The Joker",
+          "duration": "2:54"
+        },
+        {
+          "number": 9,
+          "name": "Folie à Deux",
+          "duration": "2:58"
+        },
+        {
+          "number": 10,
+          "name": "Gonna Build A Mountain",
+          "duration": "2:51"
+        },
+        {
+          "number": 11,
+          "name": "Close To You",
+          "duration": "2:44"
+        },
+        {
+          "number": 12,
+          "name": "Happy Mistake",
+          "duration": "4:05"
+        },
+        {
+          "number": 13,
+          "name": "That's Life",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "MAYHEM",
+      "year": "2025",
+      "release_date": "2025-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/43/8b/c5438b81-75e8-3a0a-05ee-4f29ae0b9bb3/25UMGIM07433.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Disease",
+          "duration": "3:49"
+        },
+        {
+          "number": 2,
+          "name": "Abracadabra",
+          "duration": "3:43"
+        },
+        {
+          "number": 3,
+          "name": "Garden Of Eden",
+          "duration": "3:59"
+        },
+        {
+          "number": 4,
+          "name": "Perfect Celebrity",
+          "duration": "3:49"
+        },
+        {
+          "number": 5,
+          "name": "Can’t Stop the High",
+          "duration": "3:31"
+        },
+        {
+          "number": 6,
+          "name": "Vanish Into You",
+          "duration": "4:04"
+        },
+        {
+          "number": 7,
+          "name": "Killah",
+          "duration": "3:30"
+        },
+        {
+          "number": 8,
+          "name": "Zombieboy",
+          "duration": "3:33"
+        },
+        {
+          "number": 9,
+          "name": "The Dead Dance",
+          "duration": "3:48"
+        },
+        {
+          "number": 10,
+          "name": "LoveDrug",
+          "duration": "3:13"
+        },
+        {
+          "number": 11,
+          "name": "How Bad Do U Want Me",
+          "duration": "3:58"
+        },
+        {
+          "number": 12,
+          "name": "Don't Call Tonight",
+          "duration": "3:45"
+        },
+        {
+          "number": 13,
+          "name": "Kill For Love",
+          "duration": "4:06"
+        },
+        {
+          "number": 14,
+          "name": "Shadow Of A Man",
+          "duration": "3:19"
+        },
+        {
+          "number": 15,
+          "name": "The Beast",
+          "duration": "3:54"
+        },
+        {
+          "number": 16,
+          "name": "Blade Of Grass",
+          "duration": "4:17"
+        },
+        {
+          "number": 17,
+          "name": "Die With A Smile",
+          "duration": "4:11"
+        },
+        {
+          "number": 18,
+          "name": "Disease",
+          "duration": "4:21"
+        },
+        {
+          "number": 19,
+          "name": "Die With A Smile",
+          "duration": "4:12"
+        },
+        {
+          "number": 20,
+          "name": "Abracadabra",
+          "duration": "4:29"
+        },
+        {
+          "number": 21,
+          "name": "The Dead Dance",
+          "duration": "4:46"
+        }
+      ]
+    },
+    {
+      "name": "Born This Way",
+      "year": "2011",
+      "release_date": "2011-05-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/00/7f/53007fa9-9b02-1fdb-290a-b0ca791a8c98/11UMGIM12477.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Marry The Night",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "Born This Way",
+          "duration": "4:20"
+        },
+        {
+          "number": 3,
+          "name": "Government Hooker",
+          "duration": "4:14"
+        },
+        {
+          "number": 4,
+          "name": "Judas",
+          "duration": "4:09"
+        },
+        {
+          "number": 5,
+          "name": "Americano",
+          "duration": "4:06"
+        },
+        {
+          "number": 6,
+          "name": "Hair",
+          "duration": "5:08"
+        },
+        {
+          "number": 7,
+          "name": "Scheiße",
+          "duration": "3:45"
+        },
+        {
+          "number": 8,
+          "name": "Bloody Mary",
+          "duration": "4:04"
+        },
+        {
+          "number": 9,
+          "name": "Bad Kids",
+          "duration": "3:50"
+        },
+        {
+          "number": 10,
+          "name": "Highway Unicorn (Road To Love)",
+          "duration": "4:15"
+        },
+        {
+          "number": 11,
+          "name": "Heavy Metal Lover",
+          "duration": "4:12"
+        },
+        {
+          "number": 12,
+          "name": "Electric Chapel",
+          "duration": "4:12"
+        },
+        {
+          "number": 13,
+          "name": "Yoü And I",
+          "duration": "5:07"
+        },
+        {
+          "number": 14,
+          "name": "The Edge Of Glory",
+          "duration": "5:21"
+        }
+      ]
+    },
+    {
+      "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+      "year": "2026",
+      "release_date": "2026-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/74/14/a674143b-9f3c-a148-b29b-b55457849ad1/26UMGIM46877.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shape of a Woman",
+          "duration": "3:29"
+        },
+        {
+          "number": 2,
+          "name": "RUNWAY",
+          "duration": "2:51"
+        },
+        {
+          "number": 3,
+          "name": "Glamorous Life",
+          "duration": "4:11"
+        },
+        {
+          "number": 4,
+          "name": "Material Lover",
+          "duration": "2:58"
+        },
+        {
+          "number": 5,
+          "name": "End Of An Era",
+          "duration": "3:16"
+        },
+        {
+          "number": 6,
+          "name": "Walk of Fame (feat. Brittany Howard) [Edit]",
+          "duration": "3:37"
+        },
+        {
+          "number": 7,
+          "name": "Mr. Eclectic",
+          "duration": "2:35"
+        },
+        {
+          "number": 8,
+          "name": "Nice To Each Other",
+          "duration": "3:29"
+        },
+        {
+          "number": 9,
+          "name": "Saturn",
+          "duration": "3:06"
+        },
+        {
+          "number": 10,
+          "name": "Worth It.",
+          "duration": "4:06"
+        },
+        {
+          "number": 11,
+          "name": "DAYDREAMING",
+          "duration": "3:48"
+        },
+        {
+          "number": 12,
+          "name": "Evergreen Avenue",
+          "duration": "2:42"
+        },
+        {
+          "number": 13,
+          "name": "No One Noticed",
+          "duration": "3:56"
+        },
+        {
+          "number": 14,
+          "name": "RUNWAY",
+          "duration": "2:58"
+        }
+      ]
+    },
+    {
+      "name": "Cheek to Cheek",
+      "year": "2014",
+      "release_date": "2014-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/97/26/81/9726811a-8d19-e619-8011-b5dad37bfa57/00602537972210.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Anything Goes",
+          "duration": "2:03"
+        },
+        {
+          "number": 2,
+          "name": "Cheek to Cheek",
+          "duration": "2:50"
+        },
+        {
+          "number": 3,
+          "name": "Nature Boy",
+          "duration": "4:08"
+        },
+        {
+          "number": 4,
+          "name": "I Can't Give You Anything But Love",
+          "duration": "3:13"
+        },
+        {
+          "number": 5,
+          "name": "I Won't Dance",
+          "duration": "3:56"
+        },
+        {
+          "number": 6,
+          "name": "Firefly",
+          "duration": "1:57"
+        },
+        {
+          "number": 7,
+          "name": "Lush Life",
+          "duration": "4:14"
+        },
+        {
+          "number": 8,
+          "name": "Sophisticated Lady",
+          "duration": "3:49"
+        },
+        {
+          "number": 9,
+          "name": "Let's Face the Music and Dance",
+          "duration": "2:06"
+        },
+        {
+          "number": 10,
+          "name": "But Beautiful",
+          "duration": "4:04"
+        },
+        {
+          "number": 11,
+          "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+          "duration": "2:23"
+        },
+        {
+          "number": 12,
+          "name": "Bang Bang (My Baby Shot Me Down) [Live from Jazz At Lincoln Center] [Bonus Track]",
+          "duration": "3:43"
         }
       ]
     },
@@ -1855,6 +2026,64 @@
       ]
     },
     {
+      "name": "The Remix",
+      "year": "2010",
+      "release_date": "2010-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e0/80/34/e080341a-b442-72cd-1d0f-eb6863e8cb88/10UMGIM11335.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Just Dance (feat. Colby O'Donis) [Richard Vission Remix]",
+          "duration": "6:13"
+        },
+        {
+          "number": 2,
+          "name": "Poker Face (LLG vs. GLG Radio Mix)",
+          "duration": "4:01"
+        },
+        {
+          "number": 3,
+          "name": "LoveGame (feat. Marilyn Manson) [Chew Fu Ghettohouse Fix]",
+          "duration": "5:20"
+        },
+        {
+          "number": 4,
+          "name": "Eh, Eh (Nothing Else I Can Say) [FrankMusik \"Cut Snare Edit\" Remix]",
+          "duration": "3:48"
+        },
+        {
+          "number": 5,
+          "name": "Paparazzi (Stuart Price Remix)",
+          "duration": "3:19"
+        },
+        {
+          "number": 6,
+          "name": "The Fame (Glam As You Remix) [Radio Edit Version]",
+          "duration": "3:56"
+        },
+        {
+          "number": 7,
+          "name": "Bad Romance (Starsmith Remix)",
+          "duration": "4:55"
+        },
+        {
+          "number": 8,
+          "name": "Telephone (feat. Beyoncé) [Passion Pit Remix]",
+          "duration": "5:12"
+        },
+        {
+          "number": 9,
+          "name": "Alejandro (The Sound of Arrows Remix)",
+          "duration": "3:57"
+        },
+        {
+          "number": 10,
+          "name": "Dance In the Dark (Monarchy \"Stylites\" Remix)",
+          "duration": "6:09"
+        }
+      ]
+    },
+    {
       "name": "A Star Is Born Soundtrack (Without Dialogue)",
       "year": "2018",
       "release_date": "2018-10-05",
@@ -1958,409 +2187,6 @@
       ]
     },
     {
-      "name": "Dawn Of Chromatica",
-      "year": "2021",
-      "release_date": "2021-09-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7b/87/5b/7b875b14-8911-5d6c-2b0d-e515b080a114/21UMGIM87491.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Alice (LSDXOXO Remix)",
-          "duration": "2:40"
-        },
-        {
-          "number": 2,
-          "name": "Stupid Love (COUCOU CHLOE Remix)",
-          "duration": "2:36"
-        },
-        {
-          "number": 3,
-          "name": "Rain On Me (Arca Remix)",
-          "duration": "4:23"
-        },
-        {
-          "number": 4,
-          "name": "Free Woman (Rina Sawayama & Clarence Clarity Remix)",
-          "duration": "3:53"
-        },
-        {
-          "number": 5,
-          "name": "Fun Tonight (Pabllo Vittar Remix)",
-          "duration": "2:20"
-        },
-        {
-          "number": 6,
-          "name": "911 (Charli XCX & A. G. Cook Remix)",
-          "duration": "4:13"
-        },
-        {
-          "number": 7,
-          "name": "Plastic Doll (Ashnikko Remix)",
-          "duration": "2:29"
-        },
-        {
-          "number": 8,
-          "name": "Sour Candy (Shygirl & Mura Masa Remix)",
-          "duration": "3:45"
-        },
-        {
-          "number": 9,
-          "name": "Enigma (Doss Remix)",
-          "duration": "4:29"
-        },
-        {
-          "number": 10,
-          "name": "Replay (Dorian Electra Remix)",
-          "duration": "3:49"
-        },
-        {
-          "number": 11,
-          "name": "Sine From Above (Chester Lockhart, Mood Killer & Lil Texas Remix)",
-          "duration": "4:10"
-        },
-        {
-          "number": 12,
-          "name": "1000 Doves (Planningtorock Remix)",
-          "duration": "5:05"
-        },
-        {
-          "number": 13,
-          "name": "Babylon (Bree Runway & Jimmy Edgar Remix)",
-          "duration": "2:48"
-        },
-        {
-          "number": 14,
-          "name": "Babylon (Haus Labs Version)",
-          "duration": "3:01"
-        }
-      ]
-    },
-    {
-      "name": "Born This Way (The Remix)",
-      "year": "2011",
-      "release_date": "2011-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bb/17/d9/bb17d904-316e-cc34-d369-23bd9b9d0ac2/00602527891965.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Born This Way (Zedd Remix)",
-          "duration": "6:30"
-        },
-        {
-          "number": 2,
-          "name": "Judas (Goldfrapp Remix)",
-          "duration": "4:41"
-        },
-        {
-          "number": 3,
-          "name": "The Edge of Glory (Foster The People Remix)",
-          "duration": "6:09"
-        },
-        {
-          "number": 4,
-          "name": "Yoü and I (Wild Beasts Remix)",
-          "duration": "3:50"
-        },
-        {
-          "number": 5,
-          "name": "Marry the Night (The Weeknd & Illangelo Remix)",
-          "duration": "4:03"
-        },
-        {
-          "number": 6,
-          "name": "Black Jesus + Amen Fashion (Michael Woods Remix)",
-          "duration": "6:10"
-        },
-        {
-          "number": 7,
-          "name": "Bloody Mary (The Horrors Remix)",
-          "duration": "5:18"
-        },
-        {
-          "number": 8,
-          "name": "Scheiße (Guena LG Club Remix)",
-          "duration": "5:44"
-        },
-        {
-          "number": 9,
-          "name": "Americano (Gregori Klosman Remix)",
-          "duration": "6:07"
-        },
-        {
-          "number": 10,
-          "name": "Electric Chapel (Two Door Cinema Club Remix)",
-          "duration": "3:59"
-        },
-        {
-          "number": 11,
-          "name": "Yoü and I (Metronomy Remix)",
-          "duration": "4:20"
-        },
-        {
-          "number": 12,
-          "name": "Judas (Hurts Remix)",
-          "duration": "3:57"
-        },
-        {
-          "number": 13,
-          "name": "Born This Way (Twin Shadow Remix)",
-          "duration": "4:05"
-        },
-        {
-          "number": 14,
-          "name": "The Edge of Glory (Sultan & Ned Shepard Remix)",
-          "duration": "6:33"
-        },
-        {
-          "number": 15,
-          "name": "Judas (Royksopp's 30 Pieces Remix)",
-          "duration": "9:18"
-        }
-      ]
-    },
-    {
-      "name": "Cheek to Cheek",
-      "year": "2014",
-      "release_date": "2014-09-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/97/26/81/9726811a-8d19-e619-8011-b5dad37bfa57/00602537972210.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Anything Goes",
-          "duration": "2:03"
-        },
-        {
-          "number": 2,
-          "name": "Cheek to Cheek",
-          "duration": "2:50"
-        },
-        {
-          "number": 3,
-          "name": "Nature Boy",
-          "duration": "4:08"
-        },
-        {
-          "number": 4,
-          "name": "I Can't Give You Anything But Love",
-          "duration": "3:13"
-        },
-        {
-          "number": 5,
-          "name": "I Won't Dance",
-          "duration": "3:56"
-        },
-        {
-          "number": 6,
-          "name": "Firefly",
-          "duration": "1:57"
-        },
-        {
-          "number": 7,
-          "name": "Lush Life",
-          "duration": "4:14"
-        },
-        {
-          "number": 8,
-          "name": "Sophisticated Lady",
-          "duration": "3:49"
-        },
-        {
-          "number": 9,
-          "name": "Let's Face the Music and Dance",
-          "duration": "2:06"
-        },
-        {
-          "number": 10,
-          "name": "But Beautiful",
-          "duration": "4:04"
-        },
-        {
-          "number": 11,
-          "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
-          "duration": "2:23"
-        },
-        {
-          "number": 12,
-          "name": "Bang Bang (My Baby Shot Me Down) [Live from Jazz At Lincoln Center] [Bonus Track]",
-          "duration": "3:43"
-        }
-      ]
-    },
-    {
-      "name": "Born This Way (The Remixes) Pt. 2",
-      "year": "2011",
-      "release_date": "2011-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/05/0f/ac/050fac09-42ab-9c3d-d6a8-14dadb777d38/00602527685960.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Born This Way (Michael Woods Remix)",
-          "duration": "6:24"
-        },
-        {
-          "number": 2,
-          "name": "Born This Way (Dada Life Remix)",
-          "duration": "5:15"
-        },
-        {
-          "number": 3,
-          "name": "Born This Way (Zedd Remix)",
-          "duration": "6:30"
-        },
-        {
-          "number": 4,
-          "name": "Born This Way (Grum Remix)",
-          "duration": "5:48"
-        },
-        {
-          "number": 5,
-          "name": "Born This Way (Bimbo Jones Club Remix)",
-          "duration": "6:46"
-        },
-        {
-          "number": 6,
-          "name": "Born This Way (Twin Shadow Remix)",
-          "duration": "4:05"
-        }
-      ]
-    },
-    {
-      "name": "Love For Sale",
-      "year": "2021",
-      "release_date": "2021-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/83/d1/df/83d1df3a-add0-5160-cfae-7a7787858ca4/21UMGIM68376.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "It's De-Lovely",
-          "duration": "2:53"
-        },
-        {
-          "number": 2,
-          "name": "Night And Day",
-          "duration": "3:42"
-        },
-        {
-          "number": 3,
-          "name": "Love For Sale",
-          "duration": "3:40"
-        },
-        {
-          "number": 4,
-          "name": "Do I Love You",
-          "duration": "4:48"
-        },
-        {
-          "number": 5,
-          "name": "I Concentrate On You",
-          "duration": "3:56"
-        },
-        {
-          "number": 6,
-          "name": "I Get A Kick Out Of You",
-          "duration": "3:33"
-        },
-        {
-          "number": 7,
-          "name": "So In Love",
-          "duration": "4:31"
-        },
-        {
-          "number": 8,
-          "name": "Let's Do It",
-          "duration": "3:36"
-        },
-        {
-          "number": 9,
-          "name": "Just One Of Those Things",
-          "duration": "2:59"
-        },
-        {
-          "number": 10,
-          "name": "Dream Dancing",
-          "duration": "4:16"
-        }
-      ]
-    },
-    {
-      "name": "ARTPOP",
-      "year": "2013",
-      "release_date": "2013-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/7c/89/2e7c89f2-f577-0039-52c7-bc3bb3850094/13UAAIM69753.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Aura",
-          "duration": "3:55"
-        },
-        {
-          "number": 2,
-          "name": "Venus",
-          "duration": "3:53"
-        },
-        {
-          "number": 3,
-          "name": "G.U.Y.",
-          "duration": "3:52"
-        },
-        {
-          "number": 4,
-          "name": "X Dreams",
-          "duration": "3:34"
-        },
-        {
-          "number": 5,
-          "name": "Jewels N' ***** (feat. T.I., Too $hort & Twista)",
-          "duration": "3:48"
-        },
-        {
-          "number": 6,
-          "name": "MANiCURE",
-          "duration": "3:19"
-        },
-        {
-          "number": 7,
-          "name": "ARTPOP",
-          "duration": "4:07"
-        },
-        {
-          "number": 8,
-          "name": "Swine",
-          "duration": "4:28"
-        },
-        {
-          "number": 9,
-          "name": "Donatella",
-          "duration": "4:24"
-        },
-        {
-          "number": 10,
-          "name": "Fashion!",
-          "duration": "3:59"
-        },
-        {
-          "number": 11,
-          "name": "Mary Jane Holland",
-          "duration": "4:37"
-        },
-        {
-          "number": 12,
-          "name": "Dope",
-          "duration": "3:41"
-        },
-        {
-          "number": 13,
-          "name": "Gypsy",
-          "duration": "4:08"
-        },
-        {
-          "number": 14,
-          "name": "Applause",
-          "duration": "3:32"
-        }
-      ]
-    },
-    {
       "name": "Joker: Folie à Deux (Music From The Motion Picture)",
       "year": "2024",
       "release_date": "2024-10-04",
@@ -2449,6 +2275,200 @@
       ]
     },
     {
+      "name": "The Fame Monster",
+      "year": "2009",
+      "release_date": "2009-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e9/1a/4e/e91a4eb9-31e7-89fb-3aad-e8172e534bb6/09UMGIM42295.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bad Romance",
+          "duration": "4:54"
+        },
+        {
+          "number": 2,
+          "name": "Alejandro",
+          "duration": "4:34"
+        },
+        {
+          "number": 3,
+          "name": "Monster",
+          "duration": "4:09"
+        },
+        {
+          "number": 4,
+          "name": "Speechless",
+          "duration": "4:30"
+        },
+        {
+          "number": 5,
+          "name": "Dance In The Dark",
+          "duration": "4:48"
+        },
+        {
+          "number": 6,
+          "name": "Telephone (feat. Beyoncé)",
+          "duration": "3:40"
+        },
+        {
+          "number": 7,
+          "name": "So Happy I Could Die",
+          "duration": "3:54"
+        },
+        {
+          "number": 8,
+          "name": "Teeth",
+          "duration": "3:40"
+        },
+        {
+          "number": 9,
+          "name": "Bad Romance (Starsmith Remix)",
+          "duration": "4:55"
+        }
+      ]
+    },
+    {
+      "name": "Born This Way (The Remix)",
+      "year": "2011",
+      "release_date": "2011-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bb/17/d9/bb17d904-316e-cc34-d369-23bd9b9d0ac2/00602527891965.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Born This Way (Zedd Remix)",
+          "duration": "6:30"
+        },
+        {
+          "number": 2,
+          "name": "Judas (Goldfrapp Remix)",
+          "duration": "4:41"
+        },
+        {
+          "number": 3,
+          "name": "The Edge of Glory (Foster The People Remix)",
+          "duration": "6:09"
+        },
+        {
+          "number": 4,
+          "name": "Yoü and I (Wild Beasts Remix)",
+          "duration": "3:50"
+        },
+        {
+          "number": 5,
+          "name": "Marry the Night (The Weeknd & Illangelo Remix)",
+          "duration": "4:03"
+        },
+        {
+          "number": 6,
+          "name": "Black Jesus + Amen Fashion (Michael Woods Remix)",
+          "duration": "6:10"
+        },
+        {
+          "number": 7,
+          "name": "Bloody Mary (The Horrors Remix)",
+          "duration": "5:18"
+        },
+        {
+          "number": 8,
+          "name": "Scheiße (Guena LG Club Remix)",
+          "duration": "5:44"
+        },
+        {
+          "number": 9,
+          "name": "Americano (Gregori Klosman Remix)",
+          "duration": "6:07"
+        },
+        {
+          "number": 10,
+          "name": "Electric Chapel (Two Door Cinema Club Remix)",
+          "duration": "3:59"
+        },
+        {
+          "number": 11,
+          "name": "Yoü and I (Metronomy Remix)",
+          "duration": "4:20"
+        },
+        {
+          "number": 12,
+          "name": "Judas (Hurts Remix)",
+          "duration": "3:57"
+        },
+        {
+          "number": 13,
+          "name": "Born This Way (Twin Shadow Remix)",
+          "duration": "4:05"
+        },
+        {
+          "number": 14,
+          "name": "The Edge of Glory (Sultan & Ned Shepard Remix)",
+          "duration": "6:33"
+        },
+        {
+          "number": 15,
+          "name": "Judas (Royksopp's 30 Pieces Remix)",
+          "duration": "9:18"
+        }
+      ]
+    },
+    {
+      "name": "Love For Sale",
+      "year": "2021",
+      "release_date": "2021-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/83/d1/df/83d1df3a-add0-5160-cfae-7a7787858ca4/21UMGIM68376.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "It's De-Lovely",
+          "duration": "2:53"
+        },
+        {
+          "number": 2,
+          "name": "Night And Day",
+          "duration": "3:42"
+        },
+        {
+          "number": 3,
+          "name": "Love For Sale",
+          "duration": "3:40"
+        },
+        {
+          "number": 4,
+          "name": "Do I Love You",
+          "duration": "4:48"
+        },
+        {
+          "number": 5,
+          "name": "I Concentrate On You",
+          "duration": "3:56"
+        },
+        {
+          "number": 6,
+          "name": "I Get A Kick Out Of You",
+          "duration": "3:33"
+        },
+        {
+          "number": 7,
+          "name": "So In Love",
+          "duration": "4:31"
+        },
+        {
+          "number": 8,
+          "name": "Let's Do It",
+          "duration": "3:36"
+        },
+        {
+          "number": 9,
+          "name": "Just One Of Those Things",
+          "duration": "2:59"
+        },
+        {
+          "number": 10,
+          "name": "Dream Dancing",
+          "duration": "4:16"
+        }
+      ]
+    },
+    {
       "name": "Joanne",
       "year": "2016",
       "release_date": "2016-10-21",
@@ -2512,123 +2532,118 @@
       ]
     },
     {
-      "name": "The Remix",
-      "year": "2010",
-      "release_date": "2010-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e0/80/34/e080341a-b442-72cd-1d0f-eb6863e8cb88/10UMGIM11335.rgb.jpg/600x600bb.jpg",
+      "name": "ARTPOP",
+      "year": "2013",
+      "release_date": "2013-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/7c/89/2e7c89f2-f577-0039-52c7-bc3bb3850094/13UAAIM69753.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Just Dance (feat. Colby O'Donis) [Richard Vission Remix]",
-          "duration": "6:13"
+          "name": "Aura",
+          "duration": "3:55"
         },
         {
           "number": 2,
-          "name": "Poker Face (LLG vs. GLG Radio Mix)",
-          "duration": "4:01"
+          "name": "Venus",
+          "duration": "3:53"
         },
         {
           "number": 3,
-          "name": "LoveGame (feat. Marilyn Manson) [Chew Fu Ghettohouse Fix]",
-          "duration": "5:20"
+          "name": "G.U.Y.",
+          "duration": "3:52"
         },
         {
           "number": 4,
-          "name": "Eh, Eh (Nothing Else I Can Say) [FrankMusik \"Cut Snare Edit\" Remix]",
-          "duration": "3:48"
+          "name": "X Dreams",
+          "duration": "3:34"
         },
         {
           "number": 5,
-          "name": "Paparazzi (Stuart Price Remix)",
-          "duration": "3:19"
+          "name": "Jewels N' ***** (feat. T.I., Too $hort & Twista)",
+          "duration": "3:48"
         },
         {
           "number": 6,
-          "name": "The Fame (Glam As You Remix) [Radio Edit Version]",
-          "duration": "3:56"
+          "name": "MANiCURE",
+          "duration": "3:19"
         },
         {
           "number": 7,
-          "name": "Bad Romance (Starsmith Remix)",
-          "duration": "4:55"
+          "name": "ARTPOP",
+          "duration": "4:07"
         },
         {
           "number": 8,
-          "name": "Telephone (feat. Beyoncé) [Passion Pit Remix]",
-          "duration": "5:12"
+          "name": "Swine",
+          "duration": "4:28"
         },
         {
           "number": 9,
-          "name": "Alejandro (The Sound of Arrows Remix)",
-          "duration": "3:57"
+          "name": "Donatella",
+          "duration": "4:24"
         },
         {
           "number": 10,
-          "name": "Dance In the Dark (Monarchy \"Stylites\" Remix)",
-          "duration": "6:09"
+          "name": "Fashion!",
+          "duration": "3:59"
+        },
+        {
+          "number": 11,
+          "name": "Mary Jane Holland",
+          "duration": "4:37"
+        },
+        {
+          "number": 12,
+          "name": "Dope",
+          "duration": "3:41"
+        },
+        {
+          "number": 13,
+          "name": "Gypsy",
+          "duration": "4:08"
+        },
+        {
+          "number": 14,
+          "name": "Applause",
+          "duration": "3:32"
         }
       ]
     },
     {
-      "name": "Joanne",
-      "year": "2016",
-      "release_date": "2016-10-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9d/4d/e7/9d4de749-9247-c87c-b200-ea0434c51100/16UMGIM68302.rgb.jpg/600x600bb.jpg",
+      "name": "Born This Way (The Remixes) Pt. 2",
+      "year": "2011",
+      "release_date": "2011-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/05/0f/ac/050fac09-42ab-9c3d-d6a8-14dadb777d38/00602527685960.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Diamond Heart",
-          "duration": "3:30"
+          "name": "Born This Way (Michael Woods Remix)",
+          "duration": "6:24"
         },
         {
           "number": 2,
-          "name": "A-YO",
-          "duration": "3:27"
+          "name": "Born This Way (Dada Life Remix)",
+          "duration": "5:15"
         },
         {
           "number": 3,
-          "name": "Joanne",
-          "duration": "3:16"
+          "name": "Born This Way (Zedd Remix)",
+          "duration": "6:30"
         },
         {
           "number": 4,
-          "name": "John Wayne",
-          "duration": "2:54"
+          "name": "Born This Way (Grum Remix)",
+          "duration": "5:48"
         },
         {
           "number": 5,
-          "name": "Dancin' In Circles",
-          "duration": "3:27"
+          "name": "Born This Way (Bimbo Jones Club Remix)",
+          "duration": "6:46"
         },
         {
           "number": 6,
-          "name": "Perfect Illusion",
-          "duration": "3:02"
-        },
-        {
-          "number": 7,
-          "name": "Million Reasons",
-          "duration": "3:25"
-        },
-        {
-          "number": 8,
-          "name": "Sinner's Prayer",
-          "duration": "3:43"
-        },
-        {
-          "number": 9,
-          "name": "Come To Mama",
-          "duration": "4:14"
-        },
-        {
-          "number": 10,
-          "name": "Hey Girl (feat. Florence Welch)",
-          "duration": "4:15"
-        },
-        {
-          "number": 11,
-          "name": "Angel Down",
-          "duration": "3:49"
+          "name": "Born This Way (Twin Shadow Remix)",
+          "duration": "4:05"
         }
       ]
     },
@@ -2707,6 +2722,69 @@
           "number": 14,
           "name": "Angel Down (Work Tape)",
           "duration": "2:19"
+        }
+      ]
+    },
+    {
+      "name": "Joanne",
+      "year": "2016",
+      "release_date": "2016-10-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9d/4d/e7/9d4de749-9247-c87c-b200-ea0434c51100/16UMGIM68302.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Diamond Heart",
+          "duration": "3:30"
+        },
+        {
+          "number": 2,
+          "name": "A-YO",
+          "duration": "3:27"
+        },
+        {
+          "number": 3,
+          "name": "Joanne",
+          "duration": "3:16"
+        },
+        {
+          "number": 4,
+          "name": "John Wayne",
+          "duration": "2:54"
+        },
+        {
+          "number": 5,
+          "name": "Dancin' In Circles",
+          "duration": "3:27"
+        },
+        {
+          "number": 6,
+          "name": "Perfect Illusion",
+          "duration": "3:02"
+        },
+        {
+          "number": 7,
+          "name": "Million Reasons",
+          "duration": "3:25"
+        },
+        {
+          "number": 8,
+          "name": "Sinner's Prayer",
+          "duration": "3:43"
+        },
+        {
+          "number": 9,
+          "name": "Come To Mama",
+          "duration": "4:14"
+        },
+        {
+          "number": 10,
+          "name": "Hey Girl (feat. Florence Welch)",
+          "duration": "4:15"
+        },
+        {
+          "number": 11,
+          "name": "Angel Down",
+          "duration": "3:49"
         }
       ]
     },
@@ -3184,28 +3262,15 @@
       ]
     },
     {
-      "name": "The Cure",
-      "year": "2017",
-      "release_date": "2017-04-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/f1/86/c4f186ea-1742-5e73-64c7-9179fc4b8566/00602557652536.rgb.jpg/600x600bb.jpg",
+      "name": "Bad Romance",
+      "year": "2009",
+      "release_date": "2009-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4a/f1/23/4af123aa-c30e-db5d-c095-1c140fd37550/09UMGIM39393.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Cure",
-          "duration": "3:31"
-        }
-      ]
-    },
-    {
-      "name": "Disease",
-      "year": "2024",
-      "release_date": "2024-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Disease",
-          "duration": "3:49"
+          "name": "Bad Romance",
+          "duration": "4:54"
         }
       ]
     },
@@ -3236,11 +3301,50 @@
       ]
     },
     {
+      "name": "The Cure",
+      "year": "2017",
+      "release_date": "2017-04-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/f1/86/c4f186ea-1742-5e73-64c7-9179fc4b8566/00602557652536.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Cure",
+          "duration": "3:31"
+        }
+      ]
+    },
+    {
+      "name": "Winter Wonderland",
+      "year": "2014",
+      "release_date": "2014-12-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d1/20/d0/d120d0ca-79f4-5835-2dba-da84d6986b39/00602547179180.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Winter Wonderland",
+          "duration": "2:29"
+        }
+      ]
+    },
+    {
       "name": "Stupid Love",
       "year": "2020",
       "release_date": "2020-02-28",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fc/be/80/fcbe8007-db24-1b9b-6fc3-96a0bf8d06c4/20UMGIM13746.rgb.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "Die With A Smile (Live in Las Vegas)",
+      "year": "2024",
+      "release_date": "2024-10-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/43/66/244366f4-6098-a1f2-a4a1-59f31668de2e/24UM1IM22514.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Die With A Smile (Live in Las Vegas)",
+          "duration": "4:40"
+        }
+      ]
     },
     {
       "name": "Do What U Want (feat. Christina Aguilera)",
@@ -3256,41 +3360,67 @@
       ]
     },
     {
-      "name": "Sweet Sounds Of Heaven",
-      "year": "2023",
-      "release_date": "2023-09-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/72/e4/1472e477-ceba-0e29-ad54-4fb61b5f7e82/23UM1IM11663.rgb.jpg/600x600bb.jpg",
+      "name": "Abracadabra (Gesaffelstein Remix)",
+      "year": "2025",
+      "release_date": "2025-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/96/b4/2996b402-38eb-4c14-9a79-5fe255c14b25/25UMGIM55567.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Sweet Sounds Of Heaven (Edit)",
-          "duration": "5:06"
+          "name": "Abracadabra (Gesaffelstein Remix)",
+          "duration": "3:31"
         }
       ]
     },
     {
-      "name": "Bad Romance",
-      "year": "2009",
-      "release_date": "2009-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4a/f1/23/4af123aa-c30e-db5d-c095-1c140fd37550/09UMGIM39393.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bad Romance",
-          "duration": "4:54"
-        }
-      ]
-    },
-    {
-      "name": "Die With A Smile (Live in Las Vegas)",
+      "name": "Disease",
       "year": "2024",
-      "release_date": "2024-10-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/43/66/244366f4-6098-a1f2-a4a1-59f31668de2e/24UM1IM22514.rgb.jpg/600x600bb.jpg",
+      "release_date": "2024-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/2b/dc/c72bdc7a-7014-e5df-a106-583074c0affa/24UM1IM12462.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Die With A Smile (Live in Las Vegas)",
-          "duration": "4:40"
+          "name": "Disease",
+          "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "Die With A Smile (Instrumental Acoustic)",
+      "year": "2024",
+      "release_date": "2024-11-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/8c/9a/308c9ae1-4c75-b610-b367-1ce06586e691/24UMGIM85348.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Die With A Smile (Instrumental Acoustic)",
+          "duration": "4:11"
+        }
+      ]
+    },
+    {
+      "name": "Til It Happens To You",
+      "year": "2015",
+      "release_date": "2015-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/77/74/4a77744c-da74-0547-8130-a355ef460f3a/00602547585028.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Til It Happens To You",
+          "duration": "4:18"
+        }
+      ]
+    },
+    {
+      "name": "Disease (The Poison Live)",
+      "year": "2024",
+      "release_date": "2024-11-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/83/db/1783db0e-90fe-8a72-2b79-9877bfe31aad/24UM1IM30504.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Disease (The Poison Live)",
+          "duration": "4:51"
         }
       ]
     },
@@ -3309,6 +3439,121 @@
           "number": 2,
           "name": "Rain On Me (Purple Disco Machine Remix)",
           "duration": "6:34"
+        }
+      ]
+    },
+    {
+      "name": "Do What U Want (feat. Christina Aguilera)",
+      "year": "2013",
+      "release_date": "2013-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fd/05/0d/fd050d45-0c4d-2f00-b684-da0b4220bd4e/00602537715749.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Do What U Want (feat. Christina Aguilera)",
+          "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "Sour Candy",
+      "year": "2020",
+      "release_date": "2020-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d5/8f/a0/d58fa00b-461a-2321-cb46-70fbb1cf5058/20UMGIM15390.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "RUNWAY",
+      "year": "2026",
+      "release_date": "2026-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/7d/f5/407df595-1203-41db-9e84-9d303b5d43ca/26UMGIM41541.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "RUNWAY",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Abracadabra",
+      "year": "2025",
+      "release_date": "2025-02-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/64/2c/54642c8f-4c6c-5e55-45ea-475f98cf74b4/25UMGIM06790.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Sweet Sounds Of Heaven",
+      "year": "2023",
+      "release_date": "2023-09-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/14/72/e4/1472e477-ceba-0e29-ad54-4fb61b5f7e82/23UM1IM11663.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sweet Sounds Of Heaven (Edit)",
+          "duration": "5:06"
+        }
+      ]
+    },
+    {
+      "name": "Rain On Me (Ralphi Rosario Remix)",
+      "year": "2020",
+      "release_date": "2020-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1f/a2/fd/1fa2fdd0-28bb-2aaa-2ea1-4a4df5bb3418/20UMGIM54077.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rain On Me (Ralphi Rosario Remix - Edit)",
+          "duration": "3:58"
+        },
+        {
+          "number": 2,
+          "name": "Rain On Me (Ralphi Rosario Remix)",
+          "duration": "7:31"
+        }
+      ]
+    },
+    {
+      "name": "911 (Sofi Tukker Remix)",
+      "year": "2020",
+      "release_date": "2020-12-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ac/28/79/ac287961-0111-32fe-0ed8-192ee93fdbd1/20UM1IM08157.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "911 (Sofi Tukker Remix)",
+          "duration": "3:46"
+        },
+        {
+          "number": 2,
+          "name": "911 (Sofi Tukker Extended Remix)",
+          "duration": "4:17"
+        }
+      ]
+    },
+    {
+      "name": "Christmas Tree (feat. Space Cowboy)",
+      "year": "2009",
+      "release_date": "2009-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f7/da/f7/f7daf76a-60f9-bb79-5a23-1808c7ae93ac/09UMGIM02078.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Christmas Tree (feat. Space Cowboy)",
+          "duration": "2:22"
+        }
+      ]
+    },
+    {
+      "name": "Die With A Smile (Instrumental)",
+      "year": "2024",
+      "release_date": "2024-10-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/f2/dd/fbf2dd11-1b23-1005-0835-a35ba2ce0b32/24UMGIM85348.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Die With A Smile (Instrumental)",
+          "duration": "4:11"
         }
       ]
     },
@@ -3344,86 +3589,15 @@
       ]
     },
     {
-      "name": "911 (Sofi Tukker Remix)",
+      "name": "Stupid Love (Vitaclub Warehouse Mix) [feat. Vitaclub]",
       "year": "2020",
-      "release_date": "2020-12-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ac/28/79/ac287961-0111-32fe-0ed8-192ee93fdbd1/20UM1IM08157.rgb.jpg/600x600bb.jpg",
+      "release_date": "2020-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4f/34/3b/4f343b58-30fd-100e-a95f-7682e61bcd39/20UMGIM24192.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "911 (Sofi Tukker Remix)",
-          "duration": "3:46"
-        },
-        {
-          "number": 2,
-          "name": "911 (Sofi Tukker Extended Remix)",
-          "duration": "4:17"
-        }
-      ]
-    },
-    {
-      "name": "Die With A Smile (Instrumental)",
-      "year": "2024",
-      "release_date": "2024-10-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/f2/dd/fbf2dd11-1b23-1005-0835-a35ba2ce0b32/24UMGIM85348.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Die With A Smile (Instrumental)",
-          "duration": "4:11"
-        }
-      ]
-    },
-    {
-      "name": "Sour Candy",
-      "year": "2020",
-      "release_date": "2020-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d5/8f/a0/d58fa00b-461a-2321-cb46-70fbb1cf5058/20UMGIM15390.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
-      "name": "Abracadabra",
-      "year": "2025",
-      "release_date": "2025-02-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/64/2c/54642c8f-4c6c-5e55-45ea-475f98cf74b4/25UMGIM06790.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
-      "name": "Til It Happens To You",
-      "year": "2015",
-      "release_date": "2015-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/77/74/4a77744c-da74-0547-8130-a355ef460f3a/00602547585028.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Til It Happens To You",
-          "duration": "4:18"
-        }
-      ]
-    },
-    {
-      "name": "RUNWAY",
-      "year": "2026",
-      "release_date": "2026-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/7d/f5/407df595-1203-41db-9e84-9d303b5d43ca/26UMGIM41541.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "RUNWAY",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
-      "name": "Winter Wonderland",
-      "year": "2014",
-      "release_date": "2014-12-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d1/20/d0/d120d0ca-79f4-5835-2dba-da84d6986b39/00602547179180.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Winter Wonderland",
-          "duration": "2:29"
+          "name": "Stupid Love (Vitaclub Warehouse Mix) [feat. Vitaclub]",
+          "duration": "3:40"
         }
       ]
     },
@@ -3446,37 +3620,6 @@
       ]
     },
     {
-      "name": "Rain On Me (Ralphi Rosario Remix)",
-      "year": "2020",
-      "release_date": "2020-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/1f/a2/fd/1fa2fdd0-28bb-2aaa-2ea1-4a4df5bb3418/20UMGIM54077.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rain On Me (Ralphi Rosario Remix - Edit)",
-          "duration": "3:58"
-        },
-        {
-          "number": 2,
-          "name": "Rain On Me (Ralphi Rosario Remix)",
-          "duration": "7:31"
-        }
-      ]
-    },
-    {
-      "name": "Abracadabra (Gesaffelstein Remix)",
-      "year": "2025",
-      "release_date": "2025-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/96/b4/2996b402-38eb-4c14-9a79-5fe255c14b25/25UMGIM55567.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Abracadabra (Gesaffelstein Remix)",
-          "duration": "3:31"
-        }
-      ]
-    },
-    {
       "name": "Die With A Smile (Sped Up)",
       "year": "2024",
       "release_date": "2024-11-20",
@@ -3486,45 +3629,6 @@
           "number": 1,
           "name": "Die With A Smile (Sped Up)",
           "duration": "3:48"
-        }
-      ]
-    },
-    {
-      "name": "Die With A Smile (Instrumental Acoustic)",
-      "year": "2024",
-      "release_date": "2024-11-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/8c/9a/308c9ae1-4c75-b610-b367-1ce06586e691/24UMGIM85348.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Die With A Smile (Instrumental Acoustic)",
-          "duration": "4:11"
-        }
-      ]
-    },
-    {
-      "name": "Stupid Love (Vitaclub Warehouse Mix) [feat. Vitaclub]",
-      "year": "2020",
-      "release_date": "2020-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4f/34/3b/4f343b58-30fd-100e-a95f-7682e61bcd39/20UMGIM24192.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stupid Love (Vitaclub Warehouse Mix) [feat. Vitaclub]",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
-      "name": "911 (WEISS Remix)",
-      "year": "2020",
-      "release_date": "2020-12-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e2/a4/47/e2a447bc-de8b-9ee0-acab-30754087b6eb/20UM1IM08155.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "911 (WEISS Remix)",
-          "duration": "5:43"
         }
       ]
     },
@@ -3568,6 +3672,19 @@
       ]
     },
     {
+      "name": "911 (WEISS Remix)",
+      "year": "2020",
+      "release_date": "2020-12-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e2/a4/47/e2a447bc-de8b-9ee0-acab-30754087b6eb/20UM1IM08155.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "911 (WEISS Remix)",
+          "duration": "5:43"
+        }
+      ]
+    },
+    {
       "name": "3-Way (The Golden Rule) [feat. Justin Timberlake & Lady Gaga]",
       "year": "2011",
       "release_date": "2011-01-01",
@@ -3577,19 +3694,6 @@
           "number": 1,
           "name": "3-Way (The Golden Rule) [feat. Justin Timberlake & Lady Gaga]",
           "duration": "2:51"
-        }
-      ]
-    },
-    {
-      "name": "Disease (The Poison Live)",
-      "year": "2024",
-      "release_date": "2024-11-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/83/db/1783db0e-90fe-8a72-2b79-9877bfe31aad/24UM1IM30504.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Disease (The Poison Live)",
-          "duration": "4:51"
         }
       ]
     },
@@ -3613,19 +3717,6 @@
           "number": 3,
           "name": "Born This Way (DJ White Shadow Remix)",
           "duration": "4:24"
-        }
-      ]
-    },
-    {
-      "name": "Christmas Tree (feat. Space Cowboy)",
-      "year": "2009",
-      "release_date": "2009-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f7/da/f7/f7daf76a-60f9-bb79-5a23-1808c7ae93ac/09UMGIM02078.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Christmas Tree (feat. Space Cowboy)",
-          "duration": "2:22"
         }
       ]
     },
@@ -3688,19 +3779,6 @@
           "number": 1,
           "name": "Million Reasons (KVR Remix)",
           "duration": "3:27"
-        }
-      ]
-    },
-    {
-      "name": "Do What U Want (feat. Christina Aguilera)",
-      "year": "2013",
-      "release_date": "2013-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fd/05/0d/fd050d45-0c4d-2f00-b684-da0b4220bd4e/00602537715749.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Do What U Want (feat. Christina Aguilera)",
-          "duration": "3:36"
         }
       ]
     },
@@ -3810,6 +3888,29 @@
   ],
   "eps": [
     {
+      "name": "Poker Face (Remixes)",
+      "year": "2008",
+      "release_date": "2008-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0c/b8/3d/0cb83d4b-9f39-6d87-f0d8-c299d15b48a2/00602517955097.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Poker Face (Space Cowboy Remix)",
+          "duration": "4:53"
+        },
+        {
+          "number": 2,
+          "name": "Poker Face (Dave Audé Remix)",
+          "duration": "8:12"
+        },
+        {
+          "number": 3,
+          "name": "Poker Face (Jody den Broeder Remix)",
+          "duration": "8:05"
+        }
+      ]
+    },
+    {
       "name": "A Very Gaga Holiday (Live)",
       "year": "2011",
       "release_date": "2011-11-22",
@@ -3838,53 +3939,25 @@
       ]
     },
     {
-      "name": "Just Dance (Remixes, Pt. 2)",
-      "year": "2008",
-      "release_date": "2008-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/87/86/798786cf-1410-5487-aec9-31d444ed92c2/00602517922525.rgb.jpg/600x600bb.jpg",
+      "name": "The Cherrytree Sessions (Live)",
+      "year": "2009",
+      "release_date": "2009-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/47/cb/59/47cb59b3-3848-b235-b038-dd5dc62f66e7/00602517988811.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Just Dance (RedOne Remix)",
-          "duration": "4:18"
+          "name": "Poker Face (Piano & Voice Version) [Live]",
+          "duration": "3:38"
         },
         {
           "number": 2,
-          "name": "Just Dance (feat. Colby O'Donis) [Space Cowboy Remix]",
-          "duration": "5:01"
+          "name": "Just Dance (Stripped Down Version) [Live]",
+          "duration": "2:05"
         },
         {
           "number": 3,
-          "name": "Just Dance (Robots to Mars Mix)",
-          "duration": "4:37"
-        },
-        {
-          "number": 4,
-          "name": "Just Dance (feat. Colby O'Donis) [Tony Arzadon Remix]",
-          "duration": "6:15"
-        }
-      ]
-    },
-    {
-      "name": "Poker Face (Remixes)",
-      "year": "2008",
-      "release_date": "2008-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0c/b8/3d/0cb83d4b-9f39-6d87-f0d8-c299d15b48a2/00602517955097.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Poker Face (Space Cowboy Remix)",
-          "duration": "4:53"
-        },
-        {
-          "number": 2,
-          "name": "Poker Face (Dave Audé Remix)",
-          "duration": "8:12"
-        },
-        {
-          "number": 3,
-          "name": "Poker Face (Jody den Broeder Remix)",
-          "duration": "8:05"
+          "name": "Eh, Eh (Nothing Else I Can Say) [Piano & Human Beat Box Version] {Live}",
+          "duration": "3:03"
         }
       ]
     },
@@ -3913,62 +3986,6 @@
           "number": 4,
           "name": "Just Dance (Trevor Simpson Remix)",
           "duration": "7:21"
-        }
-      ]
-    },
-    {
-      "name": "The Cherrytree Sessions (Live)",
-      "year": "2009",
-      "release_date": "2009-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/47/cb/59/47cb59b3-3848-b235-b038-dd5dc62f66e7/00602517988811.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Poker Face (Piano & Voice Version) [Live]",
-          "duration": "3:38"
-        },
-        {
-          "number": 2,
-          "name": "Just Dance (Stripped Down Version) [Live]",
-          "duration": "2:05"
-        },
-        {
-          "number": 3,
-          "name": "Eh, Eh (Nothing Else I Can Say) [Piano & Human Beat Box Version] {Live}",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
-      "name": "G.U.Y. (Remixes)",
-      "year": "2014",
-      "release_date": "2014-04-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ba/67/b9/ba67b98e-0ffe-5504-84e0-00e6dac695bc/00602537818532.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "G.U.Y. (St. Lucia Remix)",
-          "duration": "5:29"
-        },
-        {
-          "number": 2,
-          "name": "G.U.Y. (Rami Samir Afuni Remix)",
-          "duration": "4:28"
-        },
-        {
-          "number": 3,
-          "name": "G.U.Y. (Wayne G Throwback Anthem)",
-          "duration": "7:53"
-        },
-        {
-          "number": 4,
-          "name": "G.U.Y. (Lovelife Remix)",
-          "duration": "3:15"
-        },
-        {
-          "number": 5,
-          "name": "G.U.Y. (KDrew Remix)",
-          "duration": "4:45"
         }
       ]
     },
@@ -4029,6 +4046,34 @@
       ]
     },
     {
+      "name": "Just Dance (Remixes, Pt. 2)",
+      "year": "2008",
+      "release_date": "2008-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/87/86/798786cf-1410-5487-aec9-31d444ed92c2/00602517922525.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Just Dance (RedOne Remix)",
+          "duration": "4:18"
+        },
+        {
+          "number": 2,
+          "name": "Just Dance (feat. Colby O'Donis) [Space Cowboy Remix]",
+          "duration": "5:01"
+        },
+        {
+          "number": 3,
+          "name": "Just Dance (Robots to Mars Mix)",
+          "duration": "4:37"
+        },
+        {
+          "number": 4,
+          "name": "Just Dance (feat. Colby O'Donis) [Tony Arzadon Remix]",
+          "duration": "6:15"
+        }
+      ]
+    },
+    {
       "name": "LoveGame (The Remixes)",
       "year": "2009",
       "release_date": "2009-01-01",
@@ -4048,6 +4093,39 @@
           "number": 3,
           "name": "LoveGame (Robots to Mars Remix)",
           "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "G.U.Y. (Remixes)",
+      "year": "2014",
+      "release_date": "2014-04-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ba/67/b9/ba67b98e-0ffe-5504-84e0-00e6dac695bc/00602537818532.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "G.U.Y. (St. Lucia Remix)",
+          "duration": "5:29"
+        },
+        {
+          "number": 2,
+          "name": "G.U.Y. (Rami Samir Afuni Remix)",
+          "duration": "4:28"
+        },
+        {
+          "number": 3,
+          "name": "G.U.Y. (Wayne G Throwback Anthem)",
+          "duration": "7:53"
+        },
+        {
+          "number": 4,
+          "name": "G.U.Y. (Lovelife Remix)",
+          "duration": "3:15"
+        },
+        {
+          "number": 5,
+          "name": "G.U.Y. (KDrew Remix)",
+          "duration": "4:45"
         }
       ]
     },

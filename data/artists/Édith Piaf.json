@@ -3,6 +3,104 @@
   "id": 82055,
   "albums": [
     {
+      "name": "The Voice of the Sparrow - The Very Best of Édith Piaf",
+      "year": "1987",
+      "release_date": "1987-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ec/cd/90/eccd90b8-beec-b22c-9e54-8e5f3adb737a/077779663255.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La vie l'amour",
+          "duration": "1:49"
+        },
+        {
+          "number": 2,
+          "name": "La vie en rose",
+          "duration": "3:07"
+        },
+        {
+          "number": 3,
+          "name": "Milord",
+          "duration": "4:30"
+        },
+        {
+          "number": 4,
+          "name": "Comme moi",
+          "duration": "2:58"
+        },
+        {
+          "number": 5,
+          "name": "Le vieux piano",
+          "duration": "3:13"
+        },
+        {
+          "number": 6,
+          "name": "Polichinelle",
+          "duration": "3:03"
+        },
+        {
+          "number": 7,
+          "name": "Toujours aimer",
+          "duration": "3:12"
+        },
+        {
+          "number": 8,
+          "name": "L'effet qu'tu m'fais",
+          "duration": "3:12"
+        },
+        {
+          "number": 9,
+          "name": "Mon Manège À Moi (Live À L'Olympia 1958)",
+          "duration": "3:05"
+        },
+        {
+          "number": 10,
+          "name": "Mon Dieu",
+          "duration": "3:33"
+        },
+        {
+          "number": 11,
+          "name": "Hymne à l'amour",
+          "duration": "3:26"
+        },
+        {
+          "number": 12,
+          "name": "T'es Beau Tu Sais",
+          "duration": "4:05"
+        },
+        {
+          "number": 13,
+          "name": "Bravo pour le clown !",
+          "duration": "3:06"
+        },
+        {
+          "number": 14,
+          "name": "C'est l'amour",
+          "duration": "2:59"
+        },
+        {
+          "number": 15,
+          "name": "Non, Je Ne Regrette Rien",
+          "duration": "2:22"
+        },
+        {
+          "number": 16,
+          "name": "Avant nous",
+          "duration": "2:58"
+        },
+        {
+          "number": 17,
+          "name": "La goualante du pauvre Jean",
+          "duration": "2:02"
+        },
+        {
+          "number": 18,
+          "name": "L'accordéoniste (Live à l'Olympia 56)",
+          "duration": "4:15"
+        }
+      ]
+    },
+    {
       "name": "The Best of Édith Piaf",
       "year": "2008",
       "release_date": "2008-10-13",
@@ -489,104 +587,6 @@
       ]
     },
     {
-      "name": "The Voice of the Sparrow - The Very Best of Édith Piaf",
-      "year": "1987",
-      "release_date": "1987-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ec/cd/90/eccd90b8-beec-b22c-9e54-8e5f3adb737a/077779663255.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La vie l'amour",
-          "duration": "1:49"
-        },
-        {
-          "number": 2,
-          "name": "La vie en rose",
-          "duration": "3:07"
-        },
-        {
-          "number": 3,
-          "name": "Milord",
-          "duration": "4:30"
-        },
-        {
-          "number": 4,
-          "name": "Comme moi",
-          "duration": "2:58"
-        },
-        {
-          "number": 5,
-          "name": "Le vieux piano",
-          "duration": "3:13"
-        },
-        {
-          "number": 6,
-          "name": "Polichinelle",
-          "duration": "3:03"
-        },
-        {
-          "number": 7,
-          "name": "Toujours aimer",
-          "duration": "3:12"
-        },
-        {
-          "number": 8,
-          "name": "L'effet qu'tu m'fais",
-          "duration": "3:12"
-        },
-        {
-          "number": 9,
-          "name": "Mon Manège À Moi (Live À L'Olympia 1958)",
-          "duration": "3:05"
-        },
-        {
-          "number": 10,
-          "name": "Mon Dieu",
-          "duration": "3:33"
-        },
-        {
-          "number": 11,
-          "name": "Hymne à l'amour",
-          "duration": "3:26"
-        },
-        {
-          "number": 12,
-          "name": "T'es Beau Tu Sais",
-          "duration": "4:05"
-        },
-        {
-          "number": 13,
-          "name": "Bravo pour le clown !",
-          "duration": "3:06"
-        },
-        {
-          "number": 14,
-          "name": "C'est l'amour",
-          "duration": "2:59"
-        },
-        {
-          "number": 15,
-          "name": "Non, Je Ne Regrette Rien",
-          "duration": "2:22"
-        },
-        {
-          "number": 16,
-          "name": "Avant nous",
-          "duration": "2:58"
-        },
-        {
-          "number": 17,
-          "name": "La goualante du pauvre Jean",
-          "duration": "2:02"
-        },
-        {
-          "number": 18,
-          "name": "L'accordéoniste (Live à l'Olympia 56)",
-          "duration": "4:15"
-        }
-      ]
-    },
-    {
       "name": "Edith Piaf",
       "year": "2017",
       "release_date": "2017-12-15",
@@ -852,6 +852,74 @@
           "number": 9,
           "name": "Les blouses blanches (Live)",
           "duration": "4:26"
+        }
+      ]
+    },
+    {
+      "name": "Poulenc: La Voix humaine",
+      "year": "1959",
+      "release_date": "1959-10-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/aa/f6/e6/aaf6e6eb-713a-2126-79a0-d63f630f2f21/190295709976.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La voix humaine, FP 171: \"Allô, allô, mais non, madame\"",
+          "duration": "1:41"
+        },
+        {
+          "number": 2,
+          "name": "La voix humaine, FP 171: \"Allô, c'est toi? Oui, très bien\"",
+          "duration": "5:01"
+        },
+        {
+          "number": 3,
+          "name": "La voix humaine, FP 171: \"Souviens-toi du dimanche de Versailles\"",
+          "duration": "2:37"
+        },
+        {
+          "number": 4,
+          "name": "La voix humaine, FP 171: \"Allô! Et comme ça?\"",
+          "duration": "4:30"
+        },
+        {
+          "number": 5,
+          "name": "La voix humaine, FP 171: \"Allô, c'est toi? Mais non, mademoiselle\"",
+          "duration": "1:57"
+        },
+        {
+          "number": 6,
+          "name": "La voix humaine, FP 171: \"Allô! Ah! Chéri, c'est toi?\"",
+          "duration": "8:26"
+        },
+        {
+          "number": 7,
+          "name": "La voix humaine, FP 171: \"C'est inutile, du reste le docteur de Marthe reviendra demain\"",
+          "duration": "3:55"
+        },
+        {
+          "number": 8,
+          "name": "La voix humaine, FP 171: \"Voilà deux jours qu'il ne quitte pas l'antichambre\"",
+          "duration": "3:31"
+        },
+        {
+          "number": 9,
+          "name": "La voix humaine, FP 171: \"Rien, je crois que nous parlons comme d'habitude\"",
+          "duration": "3:32"
+        },
+        {
+          "number": 10,
+          "name": "La voix humaine, FP 171: \"On avait coupé\"",
+          "duration": "4:03"
+        },
+        {
+          "number": 11,
+          "name": "La voix humaine, FP 171: \"Alors, voilà, j'allais dire machinalement\"",
+          "duration": "2:02"
+        },
+        {
+          "number": 12,
+          "name": "Le bel indifférent (Monologue en un acte de Jean Cocteau)",
+          "duration": "27:53"
         }
       ]
     },
@@ -1596,74 +1664,6 @@
           "number": 8,
           "name": "L'accordéoniste (Live à l'Olympia 1956)",
           "duration": "4:17"
-        }
-      ]
-    },
-    {
-      "name": "Poulenc: La Voix humaine",
-      "year": "1959",
-      "release_date": "1959-10-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/aa/f6/e6/aaf6e6eb-713a-2126-79a0-d63f630f2f21/190295709976.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La voix humaine, FP 171: \"Allô, allô, mais non, madame\"",
-          "duration": "1:41"
-        },
-        {
-          "number": 2,
-          "name": "La voix humaine, FP 171: \"Allô, c'est toi? Oui, très bien\"",
-          "duration": "5:01"
-        },
-        {
-          "number": 3,
-          "name": "La voix humaine, FP 171: \"Souviens-toi du dimanche de Versailles\"",
-          "duration": "2:37"
-        },
-        {
-          "number": 4,
-          "name": "La voix humaine, FP 171: \"Allô! Et comme ça?\"",
-          "duration": "4:30"
-        },
-        {
-          "number": 5,
-          "name": "La voix humaine, FP 171: \"Allô, c'est toi? Mais non, mademoiselle\"",
-          "duration": "1:57"
-        },
-        {
-          "number": 6,
-          "name": "La voix humaine, FP 171: \"Allô! Ah! Chéri, c'est toi?\"",
-          "duration": "8:26"
-        },
-        {
-          "number": 7,
-          "name": "La voix humaine, FP 171: \"C'est inutile, du reste le docteur de Marthe reviendra demain\"",
-          "duration": "3:55"
-        },
-        {
-          "number": 8,
-          "name": "La voix humaine, FP 171: \"Voilà deux jours qu'il ne quitte pas l'antichambre\"",
-          "duration": "3:31"
-        },
-        {
-          "number": 9,
-          "name": "La voix humaine, FP 171: \"Rien, je crois que nous parlons comme d'habitude\"",
-          "duration": "3:32"
-        },
-        {
-          "number": 10,
-          "name": "La voix humaine, FP 171: \"On avait coupé\"",
-          "duration": "4:03"
-        },
-        {
-          "number": 11,
-          "name": "La voix humaine, FP 171: \"Alors, voilà, j'allais dire machinalement\"",
-          "duration": "2:02"
-        },
-        {
-          "number": 12,
-          "name": "Le bel indifférent (Monologue en un acte de Jean Cocteau)",
-          "duration": "27:53"
         }
       ]
     },

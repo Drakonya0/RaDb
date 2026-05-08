@@ -3,107 +3,6 @@
   "id": 28430680,
   "albums": [
     {
-      "name": "True North",
-      "year": "2019",
-      "release_date": "2019-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/49/2e/e8492e41-47d0-1c0d-cfed-926622762375/886447823637.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Thunderous",
-          "duration": "8:34"
-        },
-        {
-          "number": 2,
-          "name": "Up North",
-          "duration": "6:29"
-        },
-        {
-          "number": 3,
-          "name": "The Fire that Burns",
-          "duration": "6:33"
-        },
-        {
-          "number": 4,
-          "name": "Lights",
-          "duration": "5:04"
-        },
-        {
-          "number": 5,
-          "name": "Wild Father's Heart",
-          "duration": "5:42"
-        },
-        {
-          "number": 6,
-          "name": "Mount Rapture",
-          "duration": "6:08"
-        },
-        {
-          "number": 7,
-          "name": "Into the White",
-          "duration": "5:57"
-        },
-        {
-          "number": 8,
-          "name": "Tidal",
-          "duration": "9:32"
-        },
-        {
-          "number": 9,
-          "name": "Voices",
-          "duration": "5:07"
-        }
-      ]
-    },
-    {
-      "name": "Winter Thrice",
-      "year": "2016",
-      "release_date": "2016-01-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/87/f7/0a/87f70a98-b409-2008-392c-b4fb6f41f847/886445556698.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Rhymes of the Mountain",
-          "duration": "6:41"
-        },
-        {
-          "number": 2,
-          "name": "Winter Thrice",
-          "duration": "6:13"
-        },
-        {
-          "number": 3,
-          "name": "Cold Runs the River",
-          "duration": "5:51"
-        },
-        {
-          "number": 4,
-          "name": "Panorama",
-          "duration": "5:51"
-        },
-        {
-          "number": 5,
-          "name": "When Chaos Calls",
-          "duration": "7:02"
-        },
-        {
-          "number": 6,
-          "name": "Erodent",
-          "duration": "6:56"
-        },
-        {
-          "number": 7,
-          "name": "Noctilucent",
-          "duration": "3:54"
-        },
-        {
-          "number": 8,
-          "name": "Terminus",
-          "duration": "7:09"
-        }
-      ]
-    },
-    {
       "name": "Borknagar",
       "year": "1996",
       "release_date": "1996-08-03",
@@ -206,6 +105,107 @@
           "number": 8,
           "name": "The Dawn of the End",
           "duration": "5:06"
+        }
+      ]
+    },
+    {
+      "name": "Winter Thrice",
+      "year": "2016",
+      "release_date": "2016-01-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/87/f7/0a/87f70a98-b409-2008-392c-b4fb6f41f847/886445556698.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Rhymes of the Mountain",
+          "duration": "6:41"
+        },
+        {
+          "number": 2,
+          "name": "Winter Thrice",
+          "duration": "6:13"
+        },
+        {
+          "number": 3,
+          "name": "Cold Runs the River",
+          "duration": "5:51"
+        },
+        {
+          "number": 4,
+          "name": "Panorama",
+          "duration": "5:51"
+        },
+        {
+          "number": 5,
+          "name": "When Chaos Calls",
+          "duration": "7:02"
+        },
+        {
+          "number": 6,
+          "name": "Erodent",
+          "duration": "6:56"
+        },
+        {
+          "number": 7,
+          "name": "Noctilucent",
+          "duration": "3:54"
+        },
+        {
+          "number": 8,
+          "name": "Terminus",
+          "duration": "7:09"
+        }
+      ]
+    },
+    {
+      "name": "True North",
+      "year": "2019",
+      "release_date": "2019-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/49/2e/e8492e41-47d0-1c0d-cfed-926622762375/886447823637.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Thunderous",
+          "duration": "8:34"
+        },
+        {
+          "number": 2,
+          "name": "Up North",
+          "duration": "6:29"
+        },
+        {
+          "number": 3,
+          "name": "The Fire that Burns",
+          "duration": "6:33"
+        },
+        {
+          "number": 4,
+          "name": "Lights",
+          "duration": "5:04"
+        },
+        {
+          "number": 5,
+          "name": "Wild Father's Heart",
+          "duration": "5:42"
+        },
+        {
+          "number": 6,
+          "name": "Mount Rapture",
+          "duration": "6:08"
+        },
+        {
+          "number": 7,
+          "name": "Into the White",
+          "duration": "5:57"
+        },
+        {
+          "number": 8,
+          "name": "Tidal",
+          "duration": "9:32"
+        },
+        {
+          "number": 9,
+          "name": "Voices",
+          "duration": "5:07"
         }
       ]
     },

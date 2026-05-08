@@ -3,54 +3,6 @@
   "id": 1328211762,
   "albums": [
     {
-      "name": "Eventide",
-      "year": "2018",
-      "release_date": "2018-11-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/85/55/22/85552233-2ff8-c566-7765-aab148c8da71/193537684895_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hangman",
-          "duration": "4:06"
-        },
-        {
-          "number": 2,
-          "name": "Into Fire",
-          "duration": "3:27"
-        },
-        {
-          "number": 3,
-          "name": "The Halfway Point",
-          "duration": "4:01"
-        },
-        {
-          "number": 4,
-          "name": "Golden Age",
-          "duration": "2:07"
-        },
-        {
-          "number": 5,
-          "name": "E.O.D.",
-          "duration": "4:23"
-        },
-        {
-          "number": 6,
-          "name": "Earthbound",
-          "duration": "2:30"
-        },
-        {
-          "number": 7,
-          "name": "Doomed",
-          "duration": "3:52"
-        },
-        {
-          "number": 8,
-          "name": "Deja Vu",
-          "duration": "4:15"
-        }
-      ]
-    },
-    {
       "name": "Secrets of the Future",
       "year": "2024",
       "release_date": "2024-05-31",
@@ -115,6 +67,54 @@
           "number": 12,
           "name": "Upside Down",
           "duration": "4:21"
+        }
+      ]
+    },
+    {
+      "name": "Eventide",
+      "year": "2018",
+      "release_date": "2018-11-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/85/55/22/85552233-2ff8-c566-7765-aab148c8da71/193537684895_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hangman",
+          "duration": "4:06"
+        },
+        {
+          "number": 2,
+          "name": "Into Fire",
+          "duration": "3:27"
+        },
+        {
+          "number": 3,
+          "name": "The Halfway Point",
+          "duration": "4:01"
+        },
+        {
+          "number": 4,
+          "name": "Golden Age",
+          "duration": "2:07"
+        },
+        {
+          "number": 5,
+          "name": "E.O.D.",
+          "duration": "4:23"
+        },
+        {
+          "number": 6,
+          "name": "Earthbound",
+          "duration": "2:30"
+        },
+        {
+          "number": 7,
+          "name": "Doomed",
+          "duration": "3:52"
+        },
+        {
+          "number": 8,
+          "name": "Deja Vu",
+          "duration": "4:15"
         }
       ]
     },

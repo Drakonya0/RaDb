@@ -3,6 +3,74 @@
   "id": 333956462,
   "albums": [
     {
+      "name": "White Flag",
+      "year": "2018",
+      "release_date": "2018-10-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/50/fd/5650fdd1-bc66-7d8b-af43-c0dfdbaec13e/192562795217.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ecstasy",
+          "duration": "2:58"
+        },
+        {
+          "number": 2,
+          "name": "White Flag",
+          "duration": "3:45"
+        },
+        {
+          "number": 3,
+          "name": "Enough",
+          "duration": "3:33"
+        },
+        {
+          "number": 4,
+          "name": "Dead",
+          "duration": "3:56"
+        },
+        {
+          "number": 5,
+          "name": "(Don't) Need You",
+          "duration": "4:00"
+        },
+        {
+          "number": 6,
+          "name": "The Bell",
+          "duration": "3:37"
+        },
+        {
+          "number": 7,
+          "name": "Moth",
+          "duration": "3:38"
+        },
+        {
+          "number": 8,
+          "name": "Maniacs",
+          "duration": "3:40"
+        },
+        {
+          "number": 9,
+          "name": "Summer",
+          "duration": "1:18"
+        },
+        {
+          "number": 10,
+          "name": "Keep F*****g It Up",
+          "duration": "3:13"
+        },
+        {
+          "number": 11,
+          "name": "Fever",
+          "duration": "3:21"
+        },
+        {
+          "number": 12,
+          "name": "Heaven",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
       "name": "Dark & Beautiful Secrets",
       "year": "2021",
       "release_date": "2021-02-19",
@@ -120,74 +188,6 @@
           "number": 11,
           "name": "Glue",
           "duration": "2:53"
-        }
-      ]
-    },
-    {
-      "name": "White Flag",
-      "year": "2018",
-      "release_date": "2018-10-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/50/fd/5650fdd1-bc66-7d8b-af43-c0dfdbaec13e/192562795217.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ecstasy",
-          "duration": "2:58"
-        },
-        {
-          "number": 2,
-          "name": "White Flag",
-          "duration": "3:45"
-        },
-        {
-          "number": 3,
-          "name": "Enough",
-          "duration": "3:33"
-        },
-        {
-          "number": 4,
-          "name": "Dead",
-          "duration": "3:56"
-        },
-        {
-          "number": 5,
-          "name": "(Don't) Need You",
-          "duration": "4:00"
-        },
-        {
-          "number": 6,
-          "name": "The Bell",
-          "duration": "3:37"
-        },
-        {
-          "number": 7,
-          "name": "Moth",
-          "duration": "3:38"
-        },
-        {
-          "number": 8,
-          "name": "Maniacs",
-          "duration": "3:40"
-        },
-        {
-          "number": 9,
-          "name": "Summer",
-          "duration": "1:18"
-        },
-        {
-          "number": 10,
-          "name": "Keep F*****g It Up",
-          "duration": "3:13"
-        },
-        {
-          "number": 11,
-          "name": "Fever",
-          "duration": "3:21"
-        },
-        {
-          "number": 12,
-          "name": "Heaven",
-          "duration": "3:03"
         }
       ]
     },
@@ -340,29 +340,6 @@
   ],
   "singles": [
     {
-      "name": "Dark & Beautiful Secrets (The Acoustics)",
-      "year": "2021",
-      "release_date": "2021-08-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9c/2c/34/9c2c348e-7634-0c30-ee17-a40acb7eed71/196006980931.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hostage (Acoustic Version)",
-          "duration": "2:33"
-        },
-        {
-          "number": 2,
-          "name": "Babylon (Acoustic Version)",
-          "duration": "2:38"
-        },
-        {
-          "number": 3,
-          "name": "Chemicals (Acoustic Version)",
-          "duration": "2:48"
-        }
-      ]
-    },
-    {
       "name": "Chandelier",
       "year": "2015",
       "release_date": "2015-02-02",
@@ -411,6 +388,29 @@
           "number": 1,
           "name": "Gone",
           "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "Dark & Beautiful Secrets (The Acoustics)",
+      "year": "2021",
+      "release_date": "2021-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9c/2c/34/9c2c348e-7634-0c30-ee17-a40acb7eed71/196006980931.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hostage (Acoustic Version)",
+          "duration": "2:33"
+        },
+        {
+          "number": 2,
+          "name": "Babylon (Acoustic Version)",
+          "duration": "2:38"
+        },
+        {
+          "number": 3,
+          "name": "Chemicals (Acoustic Version)",
+          "duration": "2:48"
         }
       ]
     },

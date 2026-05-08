@@ -3,6 +3,54 @@
   "id": 1556654795,
   "albums": [
     {
+      "name": "God of the Mountain",
+      "year": "2023",
+      "release_date": "2023-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/cd/fb/5dcdfb5c-30ed-7f61-359d-fbb83398c1f3/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dust Cloud",
+          "duration": "4:48"
+        },
+        {
+          "number": 2,
+          "name": "Once",
+          "duration": "5:46"
+        },
+        {
+          "number": 3,
+          "name": "Animal",
+          "duration": "4:25"
+        },
+        {
+          "number": 4,
+          "name": "Foothills",
+          "duration": "5:24"
+        },
+        {
+          "number": 5,
+          "name": "Letters to the Afterlife",
+          "duration": "4:32"
+        },
+        {
+          "number": 6,
+          "name": "Avalanche",
+          "duration": "5:48"
+        },
+        {
+          "number": 7,
+          "name": "Dirt Road",
+          "duration": "6:34"
+        },
+        {
+          "number": 8,
+          "name": "Exonerate",
+          "duration": "5:18"
+        }
+      ]
+    },
+    {
       "name": "The Water",
       "year": "2021",
       "release_date": "2021-05-05",
@@ -85,54 +133,6 @@
           "number": 7,
           "name": "Suicide Silence",
           "duration": "4:44"
-        }
-      ]
-    },
-    {
-      "name": "God of the Mountain",
-      "year": "2023",
-      "release_date": "2023-06-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/cd/fb/5dcdfb5c-30ed-7f61-359d-fbb83398c1f3/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dust Cloud",
-          "duration": "4:48"
-        },
-        {
-          "number": 2,
-          "name": "Once",
-          "duration": "5:46"
-        },
-        {
-          "number": 3,
-          "name": "Animal",
-          "duration": "4:25"
-        },
-        {
-          "number": 4,
-          "name": "Foothills",
-          "duration": "5:24"
-        },
-        {
-          "number": 5,
-          "name": "Letters to the Afterlife",
-          "duration": "4:32"
-        },
-        {
-          "number": 6,
-          "name": "Avalanche",
-          "duration": "5:48"
-        },
-        {
-          "number": 7,
-          "name": "Dirt Road",
-          "duration": "6:34"
-        },
-        {
-          "number": 8,
-          "name": "Exonerate",
-          "duration": "5:18"
         }
       ]
     },

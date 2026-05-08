@@ -139,19 +139,6 @@
       ]
     },
     {
-      "name": "Woe (Stripped)",
-      "year": "2021",
-      "release_date": "2021-02-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2f/02/94/2f02946e-662a-b731-53f9-d26eac99b734/195999418681.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Woe (Stripped)",
-          "duration": "3:11"
-        }
-      ]
-    },
-    {
       "name": "Rebirth",
       "year": "2018",
       "release_date": "2018-08-10",
@@ -210,6 +197,19 @@
           "number": 1,
           "name": "Disconnected",
           "duration": "4:00"
+        }
+      ]
+    },
+    {
+      "name": "Woe (Stripped)",
+      "year": "2021",
+      "release_date": "2021-02-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2f/02/94/2f02946e-662a-b731-53f9-d26eac99b734/195999418681.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Woe (Stripped)",
+          "duration": "3:11"
         }
       ]
     },
@@ -343,44 +343,6 @@
   ],
   "eps": [
     {
-      "name": "Illusions",
-      "year": "2020",
-      "release_date": "2020-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f9/44/3c/f9443cfa-5688-3916-0177-a6a820de357f/195448029062.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Anti-Venom",
-          "duration": "4:23"
-        },
-        {
-          "number": 2,
-          "name": "Self- Help",
-          "duration": "3:50"
-        },
-        {
-          "number": 3,
-          "name": "Twenty-Five",
-          "duration": "3:41"
-        },
-        {
-          "number": 4,
-          "name": "Lost at Sea (Castaway)",
-          "duration": "4:00"
-        },
-        {
-          "number": 5,
-          "name": "There Is a Light",
-          "duration": "3:44"
-        },
-        {
-          "number": 6,
-          "name": "Woe",
-          "duration": "3:51"
-        }
-      ]
-    },
-    {
       "name": "From the Bottom of My Heart",
       "year": "2017",
       "release_date": "2017-08-11",
@@ -419,35 +381,40 @@
       ]
     },
     {
-      "name": "BREAK AWAY",
-      "year": "2026",
-      "release_date": "2026-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/b8/45/f1b84562-18e1-5a78-5a42-d8b847033cce/199502858650_cover.jpg/600x600bb.jpg",
+      "name": "Illusions",
+      "year": "2020",
+      "release_date": "2020-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f9/44/3c/f9443cfa-5688-3916-0177-a6a820de357f/195448029062.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "BREAK AWAY",
-          "duration": "3:40"
+          "name": "Anti-Venom",
+          "duration": "4:23"
         },
         {
           "number": 2,
-          "name": "I KNOW I'LL SURVIVE",
-          "duration": "3:17"
+          "name": "Self- Help",
+          "duration": "3:50"
         },
         {
           "number": 3,
-          "name": "DECADES",
-          "duration": "3:48"
+          "name": "Twenty-Five",
+          "duration": "3:41"
         },
         {
           "number": 4,
-          "name": "SEROTONIN SERENADE (feat. Marcus Vik)",
-          "duration": "3:49"
+          "name": "Lost at Sea (Castaway)",
+          "duration": "4:00"
         },
         {
           "number": 5,
-          "name": "MONSTER",
-          "duration": "3:23"
+          "name": "There Is a Light",
+          "duration": "3:44"
+        },
+        {
+          "number": 6,
+          "name": "Woe",
+          "duration": "3:51"
         }
       ]
     },
@@ -504,6 +471,39 @@
           "number": 4,
           "name": "HOLLOW",
           "duration": "4:06"
+        }
+      ]
+    },
+    {
+      "name": "BREAK AWAY",
+      "year": "2026",
+      "release_date": "2026-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/b8/45/f1b84562-18e1-5a78-5a42-d8b847033cce/199502858650_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BREAK AWAY",
+          "duration": "3:40"
+        },
+        {
+          "number": 2,
+          "name": "I KNOW I'LL SURVIVE",
+          "duration": "3:17"
+        },
+        {
+          "number": 3,
+          "name": "DECADES",
+          "duration": "3:48"
+        },
+        {
+          "number": 4,
+          "name": "SEROTONIN SERENADE (feat. Marcus Vik)",
+          "duration": "3:49"
+        },
+        {
+          "number": 5,
+          "name": "MONSTER",
+          "duration": "3:23"
         }
       ]
     }

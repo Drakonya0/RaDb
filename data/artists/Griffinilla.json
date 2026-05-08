@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Stay Calm (feat. Jeff Burgess)",
-      "year": "2015",
-      "release_date": "2015-03-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/0b/a2/79/0ba279c8-bf55-771f-8263-b2ab066b73c3/889211454600.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stay Calm (feat. Jeff Burgess)",
-          "duration": "3:01"
-        }
-      ]
-    },
-    {
       "name": "Below the Surface",
       "year": "2016",
       "release_date": "2016-10-13",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "Below the Surface",
           "duration": "2:14"
+        }
+      ]
+    },
+    {
+      "name": "Stay Calm (feat. Jeff Burgess)",
+      "year": "2015",
+      "release_date": "2015-03-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/0b/a2/79/0ba279c8-bf55-771f-8263-b2ab066b73c3/889211454600.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stay Calm (feat. Jeff Burgess)",
+          "duration": "3:01"
         }
       ]
     },

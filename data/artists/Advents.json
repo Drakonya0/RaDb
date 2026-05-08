@@ -1,7 +1,66 @@
 {
   "name": "Advents",
   "id": 1582795505,
-  "albums": [],
+  "albums": [
+    {
+      "name": "A Bitter Truth You Can't Undo",
+      "year": "2026",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/2c/d1/192cd1ca-859d-d781-7054-c031deb77dcb/820200888617.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hate Myself",
+          "duration": "2:57"
+        },
+        {
+          "number": 2,
+          "name": "Circadian",
+          "duration": "3:22"
+        },
+        {
+          "number": 3,
+          "name": "Waking Up to the Dark",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "Ghost Habit",
+          "duration": "3:13"
+        },
+        {
+          "number": 5,
+          "name": "Counterfeit Love",
+          "duration": "2:55"
+        },
+        {
+          "number": 6,
+          "name": "Haunted",
+          "duration": "2:41"
+        },
+        {
+          "number": 7,
+          "name": "Synthetic",
+          "duration": "3:05"
+        },
+        {
+          "number": 8,
+          "name": "Never Heaven",
+          "duration": "3:11"
+        },
+        {
+          "number": 9,
+          "name": "Silk",
+          "duration": "3:41"
+        },
+        {
+          "number": 10,
+          "name": "Kingdom Falls",
+          "duration": "3:35"
+        }
+      ]
+    }
+  ],
   "singles": [
     {
       "name": "Liminal",
@@ -26,19 +85,6 @@
           "number": 1,
           "name": "Stigma",
           "duration": "3:47"
-        }
-      ]
-    },
-    {
-      "name": "Hate Myself",
-      "year": "2026",
-      "release_date": "2026-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/f4/75/e9f475b9-56f4-b7ce-f13a-4de4ac12913a/820200582720.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hate Myself",
-          "duration": "2:57"
         }
       ]
     },
@@ -121,6 +167,19 @@
       ]
     },
     {
+      "name": "Hate Myself",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/f4/75/e9f475b9-56f4-b7ce-f13a-4de4ac12913a/820200582720.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hate Myself",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
       "name": "Circadian",
       "year": "2026",
       "release_date": "2026-02-27",
@@ -160,6 +219,19 @@
       ]
     },
     {
+      "name": "Never Heaven",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/40/fa/3240fa7c-b2ea-f334-6111-4bedbae13dde/820200943347.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Never Heaven",
+          "duration": "3:11"
+        }
+      ]
+    },
+    {
       "name": "RED THIRTEEN",
       "year": "2023",
       "release_date": "2023-07-28",
@@ -188,34 +260,6 @@
   ],
   "eps": [
     {
-      "name": "PERSONA MELODIES",
-      "year": "2024",
-      "release_date": "2024-01-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/97/ce/bc97cef2-9f79-cf00-51d2-024f48003e6f/019591653410_ADVENTSPERSONAMELODIES.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "RED THIRTEEN",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "LCD",
-          "duration": "2:44"
-        },
-        {
-          "number": 3,
-          "name": "CHROMA",
-          "duration": "3:52"
-        },
-        {
-          "number": 4,
-          "name": "NEVER GAME OVER",
-          "duration": "2:40"
-        }
-      ]
-    },
-    {
       "name": "Advents",
       "year": "2022",
       "release_date": "2022-09-07",
@@ -240,6 +284,34 @@
           "number": 4,
           "name": "Relentless",
           "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "PERSONA MELODIES",
+      "year": "2024",
+      "release_date": "2024-01-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/97/ce/bc97cef2-9f79-cf00-51d2-024f48003e6f/019591653410_ADVENTSPERSONAMELODIES.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "RED THIRTEEN",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "LCD",
+          "duration": "2:44"
+        },
+        {
+          "number": 3,
+          "name": "CHROMA",
+          "duration": "3:52"
+        },
+        {
+          "number": 4,
+          "name": "NEVER GAME OVER",
+          "duration": "2:40"
         }
       ]
     }

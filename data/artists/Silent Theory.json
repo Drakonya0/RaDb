@@ -129,69 +129,6 @@
       ]
     },
     {
-      "name": "Hunt or Be Hunted",
-      "year": "2021",
-      "release_date": "2021-05-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3a/b3/5a/3ab35a0b-6dfc-a78e-fb43-8d7b347974bb/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ad Venari",
-          "duration": "2:18"
-        },
-        {
-          "number": 2,
-          "name": "The Price",
-          "duration": "3:36"
-        },
-        {
-          "number": 3,
-          "name": "Sticks and Stones",
-          "duration": "3:36"
-        },
-        {
-          "number": 4,
-          "name": "Shaking Cages",
-          "duration": "4:15"
-        },
-        {
-          "number": 5,
-          "name": "Only Time Will Tell",
-          "duration": "4:18"
-        },
-        {
-          "number": 6,
-          "name": "Dig Down Deep",
-          "duration": "3:19"
-        },
-        {
-          "number": 7,
-          "name": "Flicker",
-          "duration": "3:30"
-        },
-        {
-          "number": 8,
-          "name": "Am I Fixed Yet?",
-          "duration": "3:14"
-        },
-        {
-          "number": 9,
-          "name": "Six Feet Under",
-          "duration": "3:06"
-        },
-        {
-          "number": 10,
-          "name": "Before the Storm",
-          "duration": "3:52"
-        },
-        {
-          "number": 11,
-          "name": "Tragic",
-          "duration": "3:47"
-        }
-      ]
-    },
-    {
       "name": "Hunt or Be Hunted (Deluxe Edition)",
       "year": "2022",
       "release_date": "2022-01-18",
@@ -285,6 +222,69 @@
         {
           "number": 18,
           "name": "Tragic (Instrumental Version)",
+          "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "name": "Hunt or Be Hunted",
+      "year": "2021",
+      "release_date": "2021-05-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3a/b3/5a/3ab35a0b-6dfc-a78e-fb43-8d7b347974bb/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ad Venari",
+          "duration": "2:18"
+        },
+        {
+          "number": 2,
+          "name": "The Price",
+          "duration": "3:36"
+        },
+        {
+          "number": 3,
+          "name": "Sticks and Stones",
+          "duration": "3:36"
+        },
+        {
+          "number": 4,
+          "name": "Shaking Cages",
+          "duration": "4:15"
+        },
+        {
+          "number": 5,
+          "name": "Only Time Will Tell",
+          "duration": "4:18"
+        },
+        {
+          "number": 6,
+          "name": "Dig Down Deep",
+          "duration": "3:19"
+        },
+        {
+          "number": 7,
+          "name": "Flicker",
+          "duration": "3:30"
+        },
+        {
+          "number": 8,
+          "name": "Am I Fixed Yet?",
+          "duration": "3:14"
+        },
+        {
+          "number": 9,
+          "name": "Six Feet Under",
+          "duration": "3:06"
+        },
+        {
+          "number": 10,
+          "name": "Before the Storm",
+          "duration": "3:52"
+        },
+        {
+          "number": 11,
+          "name": "Tragic",
           "duration": "3:47"
         }
       ]
@@ -572,15 +572,15 @@
       ]
     },
     {
-      "name": "Sticks and Stones",
-      "year": "2019",
-      "release_date": "2019-08-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/58/2a/da582ac0-7dd1-939a-5634-3f5aa5aa9ba3/0.jpg/600x600bb.jpg",
+      "name": "To The End",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/b8/58/fdb85831-cbdc-276e-67fd-d4fbe53d964d/0.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Sticks and Stones",
-          "duration": "3:36"
+          "name": "To The End",
+          "duration": "3:31"
         }
       ]
     },
@@ -685,6 +685,19 @@
           "number": 1,
           "name": "Eyes Everywhere",
           "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "name": "Sticks and Stones",
+      "year": "2019",
+      "release_date": "2019-08-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/58/2a/da582ac0-7dd1-939a-5634-3f5aa5aa9ba3/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sticks and Stones",
+          "duration": "3:36"
         }
       ]
     },
@@ -882,22 +895,42 @@
           "duration": "3:19"
         }
       ]
-    },
-    {
-      "name": "To The End",
-      "year": "2026",
-      "release_date": "2026-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/b8/58/fdb85831-cbdc-276e-67fd-d4fbe53d964d/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "To The End",
-          "duration": "3:31"
-        }
-      ]
     }
   ],
   "eps": [
+    {
+      "name": "For What It's Worth",
+      "year": "2023",
+      "release_date": "2023-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/39/c0/da39c022-2429-4f23-422f-7594de80d0db/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "For What It's Worth",
+          "duration": "3:26"
+        },
+        {
+          "number": 2,
+          "name": "Just My Luck (feat. Josey Scott)",
+          "duration": "3:13"
+        },
+        {
+          "number": 3,
+          "name": "What Are the Odds",
+          "duration": "3:19"
+        },
+        {
+          "number": 4,
+          "name": "Agony",
+          "duration": "3:20"
+        },
+        {
+          "number": 5,
+          "name": "So Far, so Good",
+          "duration": "3:49"
+        }
+      ]
+    },
     {
       "name": "Theoretically Speaking: The Acoustic Sessions, Vol. 1",
       "year": "2022",
@@ -933,39 +966,6 @@
           "number": 6,
           "name": "Am I Fixed Yet? (Acoustic Version)",
           "duration": "3:12"
-        }
-      ]
-    },
-    {
-      "name": "For What It's Worth",
-      "year": "2023",
-      "release_date": "2023-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/39/c0/da39c022-2429-4f23-422f-7594de80d0db/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "For What It's Worth",
-          "duration": "3:26"
-        },
-        {
-          "number": 2,
-          "name": "Just My Luck (feat. Josey Scott)",
-          "duration": "3:13"
-        },
-        {
-          "number": 3,
-          "name": "What Are the Odds",
-          "duration": "3:19"
-        },
-        {
-          "number": 4,
-          "name": "Agony",
-          "duration": "3:20"
-        },
-        {
-          "number": 5,
-          "name": "So Far, so Good",
-          "duration": "3:49"
         }
       ]
     },

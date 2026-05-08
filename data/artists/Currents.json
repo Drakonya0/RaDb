@@ -441,19 +441,6 @@
   ],
   "singles": [
     {
-      "name": "bad luck",
-      "year": "2025",
-      "release_date": "2025-09-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/9b/c7/089bc780-73f7-d921-e35b-f4132e1952ea/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "bad luck",
-          "duration": "4:12"
-        }
-      ]
-    },
-    {
       "name": "The Death We Seek",
       "year": "2022",
       "release_date": "2022-08-31",
@@ -463,6 +450,19 @@
           "number": 1,
           "name": "The Death We Seek",
           "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "name": "bad luck",
+      "year": "2025",
+      "release_date": "2025-09-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/9b/c7/089bc780-73f7-d921-e35b-f4132e1952ea/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "bad luck",
+          "duration": "4:12"
         }
       ]
     },
@@ -526,39 +526,6 @@
   ],
   "eps": [
     {
-      "name": "All That Follows",
-      "year": "2025",
-      "release_date": "2025-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/9b/7f/3e9b7f81-7935-e86f-7b72-2f59b3e179a9/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "It Only Gets Darker",
-          "duration": "4:31"
-        },
-        {
-          "number": 2,
-          "name": "My Severance",
-          "duration": "3:41"
-        },
-        {
-          "number": 3,
-          "name": "Making Circles",
-          "duration": "4:24"
-        },
-        {
-          "number": 4,
-          "name": "Can't Turn Back",
-          "duration": "3:54"
-        },
-        {
-          "number": 5,
-          "name": "Rise & Fall",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "Victimized",
       "year": "2013",
       "release_date": "2013-01-20",
@@ -588,6 +555,39 @@
           "number": 5,
           "name": "A Confession",
           "duration": "3:25"
+        }
+      ]
+    },
+    {
+      "name": "All That Follows",
+      "year": "2025",
+      "release_date": "2025-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/9b/7f/3e9b7f81-7935-e86f-7b72-2f59b3e179a9/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "It Only Gets Darker",
+          "duration": "4:31"
+        },
+        {
+          "number": 2,
+          "name": "My Severance",
+          "duration": "3:41"
+        },
+        {
+          "number": 3,
+          "name": "Making Circles",
+          "duration": "4:24"
+        },
+        {
+          "number": 4,
+          "name": "Can't Turn Back",
+          "duration": "3:54"
+        },
+        {
+          "number": 5,
+          "name": "Rise & Fall",
+          "duration": "3:29"
         }
       ]
     },

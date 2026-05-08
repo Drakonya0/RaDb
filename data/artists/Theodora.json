@@ -553,19 +553,6 @@
   ],
   "singles": [
     {
-      "name": "SPA",
-      "year": "2026",
-      "release_date": "2026-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/6c/8e/e16c8ef1-50ac-d45a-e6d0-53b2a1cb5905/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SPA",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
       "name": "melodrama",
       "year": "2025",
       "release_date": "2025-09-26",
@@ -575,6 +562,19 @@
           "number": 1,
           "name": "melodrama",
           "duration": "2:56"
+        }
+      ]
+    },
+    {
+      "name": "SPA",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/6c/8e/e16c8ef1-50ac-d45a-e6d0-53b2a1cb5905/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SPA",
+          "duration": "3:03"
         }
       ]
     },
@@ -653,6 +653,24 @@
           "number": 1,
           "name": "How Greedy (feat. Theodora)",
           "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "JTM 1 PEU / MON CASQUE",
+      "year": "2024",
+      "release_date": "2024-06-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/4c/c3/764cc34f-24da-eb90-adaa-9add116cd0ca/24UMGIM64874.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "JTM 1 PEU",
+          "duration": "2:56"
+        },
+        {
+          "number": 2,
+          "name": "MON CASQUE",
+          "duration": "2:52"
         }
       ]
     },

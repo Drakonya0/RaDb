@@ -184,6 +184,24 @@
   ],
   "singles": [
     {
+      "name": "I Don't Care About You / New York",
+      "year": "2020",
+      "release_date": "2020-12-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/fa/69/82fa6952-fb41-3ecf-232f-6b3f02996d11/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Don't Care About You (FEAR)",
+          "duration": "1:55"
+        },
+        {
+          "number": 2,
+          "name": "New York (The Templars)",
+          "duration": "3:25"
+        }
+      ]
+    },
+    {
       "name": "Missing Piece",
       "year": "2020",
       "release_date": "2020-02-07",
@@ -211,24 +229,6 @@
           "number": 2,
           "name": "N.Y.H.C.",
           "duration": "2:11"
-        }
-      ]
-    },
-    {
-      "name": "I Don't Care About You / New York",
-      "year": "2020",
-      "release_date": "2020-12-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/fa/69/82fa6952-fb41-3ecf-232f-6b3f02996d11/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Don't Care About You (FEAR)",
-          "duration": "1:55"
-        },
-        {
-          "number": 2,
-          "name": "New York (The Templars)",
-          "duration": "3:25"
         }
       ]
     },
@@ -292,44 +292,6 @@
   ],
   "eps": [
     {
-      "name": "The Void",
-      "year": "2019",
-      "release_date": "2019-03-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d2/83/22/d2832262-b4ca-e9f9-26dc-3d158505683e/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tigers and Rats",
-          "duration": "3:04"
-        },
-        {
-          "number": 2,
-          "name": "Last Wish",
-          "duration": "2:24"
-        },
-        {
-          "number": 3,
-          "name": "What's Left?",
-          "duration": "1:45"
-        },
-        {
-          "number": 4,
-          "name": "The Devil's Crown",
-          "duration": "2:34"
-        },
-        {
-          "number": 5,
-          "name": "Force My Hand",
-          "duration": "2:16"
-        },
-        {
-          "number": 6,
-          "name": "The Void",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "New York Hardcore Demo",
       "year": "2018",
       "release_date": "2018-01-19",
@@ -364,6 +326,44 @@
           "number": 6,
           "name": "Dissed and Dismissed",
           "duration": "1:42"
+        }
+      ]
+    },
+    {
+      "name": "The Void",
+      "year": "2019",
+      "release_date": "2019-03-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d2/83/22/d2832262-b4ca-e9f9-26dc-3d158505683e/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tigers and Rats",
+          "duration": "3:04"
+        },
+        {
+          "number": 2,
+          "name": "Last Wish",
+          "duration": "2:24"
+        },
+        {
+          "number": 3,
+          "name": "What's Left?",
+          "duration": "1:45"
+        },
+        {
+          "number": 4,
+          "name": "The Devil's Crown",
+          "duration": "2:34"
+        },
+        {
+          "number": 5,
+          "name": "Force My Hand",
+          "duration": "2:16"
+        },
+        {
+          "number": 6,
+          "name": "The Void",
+          "duration": "3:30"
         }
       ]
     }

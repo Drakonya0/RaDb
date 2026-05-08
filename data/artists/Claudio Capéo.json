@@ -83,95 +83,85 @@
       ]
     },
     {
-      "name": "Rose des vents",
-      "year": "2022",
-      "release_date": "2022-11-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/75/ee/c7/75eec754-f7ca-6f76-727e-c2ab08b7a1ed/cover.jpg/600x600bb.jpg",
+      "name": "Nouveau souffle",
+      "year": "2025",
+      "release_date": "2025-11-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/c7/a1/18c7a149-d06f-0b37-7fcb-db3e5dc7b8f5/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Tour de France",
-          "duration": "3:43"
+          "name": "Nouveau souffle",
+          "duration": "1:46"
         },
         {
           "number": 2,
-          "name": "Laisse aller",
-          "duration": "2:32"
-        },
-        {
-          "number": 3,
-          "name": "Les petites gens",
-          "duration": "3:36"
-        },
-        {
-          "number": 4,
-          "name": "Si j'avais su",
-          "duration": "3:02"
-        },
-        {
-          "number": 5,
-          "name": "C'est elle",
-          "duration": "3:26"
-        },
-        {
-          "number": 6,
-          "name": "Chez toi",
-          "duration": "3:18"
-        },
-        {
-          "number": 7,
-          "name": "On voulait",
+          "name": "Madame",
           "duration": "2:52"
         },
         {
+          "number": 3,
+          "name": "Qu'est-ce qu'il me restera ?",
+          "duration": "2:22"
+        },
+        {
+          "number": 4,
+          "name": "Fou de toi",
+          "duration": "3:01"
+        },
+        {
+          "number": 5,
+          "name": "Sperenza",
+          "duration": "2:55"
+        },
+        {
+          "number": 6,
+          "name": "Dis-moi",
+          "duration": "3:00"
+        },
+        {
+          "number": 7,
+          "name": "Vous serez là",
+          "duration": "2:26"
+        },
+        {
           "number": 8,
-          "name": "C'est toi le futur",
-          "duration": "2:42"
+          "name": "L'ombre de moi-même",
+          "duration": "3:22"
         },
         {
           "number": 9,
-          "name": "Rien à perdre",
-          "duration": "2:45"
+          "name": "Rêve",
+          "duration": "2:36"
         },
         {
           "number": 10,
-          "name": "Souris-moi",
-          "duration": "3:28"
+          "name": "Qui a dit ça",
+          "duration": "2:38"
         },
         {
           "number": 11,
-          "name": "J'sais pas mentir",
+          "name": "Le temps",
           "duration": "3:12"
         },
         {
           "number": 12,
-          "name": "Sac à dos",
-          "duration": "2:31"
+          "name": "De l'or",
+          "duration": "2:29"
         },
         {
           "number": 13,
-          "name": "Serre-moi",
-          "duration": "3:35"
+          "name": "Ta quinzaine",
+          "duration": "2:40"
         },
         {
           "number": 14,
-          "name": "L'amour à domicile",
-          "duration": "2:42"
+          "name": "Juste un petit gars",
+          "duration": "2:36"
         },
         {
           "number": 15,
-          "name": "Triste mélodie",
-          "duration": "3:17"
-        },
-        {
-          "number": 16,
-          "name": "Pour un sourire",
-          "duration": "2:57"
-        },
-        {
-          "number": 17,
-          "name": "L'amour après l'orage",
-          "duration": "2:50"
+          "name": "Je suis un accordéon",
+          "duration": "4:18"
         }
       ]
     },
@@ -274,6 +264,99 @@
       ]
     },
     {
+      "name": "Rose des vents",
+      "year": "2022",
+      "release_date": "2022-11-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/75/ee/c7/75eec754-f7ca-6f76-727e-c2ab08b7a1ed/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tour de France",
+          "duration": "3:43"
+        },
+        {
+          "number": 2,
+          "name": "Laisse aller",
+          "duration": "2:32"
+        },
+        {
+          "number": 3,
+          "name": "Les petites gens",
+          "duration": "3:36"
+        },
+        {
+          "number": 4,
+          "name": "Si j'avais su",
+          "duration": "3:02"
+        },
+        {
+          "number": 5,
+          "name": "C'est elle",
+          "duration": "3:26"
+        },
+        {
+          "number": 6,
+          "name": "Chez toi",
+          "duration": "3:18"
+        },
+        {
+          "number": 7,
+          "name": "On voulait",
+          "duration": "2:52"
+        },
+        {
+          "number": 8,
+          "name": "C'est toi le futur",
+          "duration": "2:42"
+        },
+        {
+          "number": 9,
+          "name": "Rien à perdre",
+          "duration": "2:45"
+        },
+        {
+          "number": 10,
+          "name": "Souris-moi",
+          "duration": "3:28"
+        },
+        {
+          "number": 11,
+          "name": "J'sais pas mentir",
+          "duration": "3:12"
+        },
+        {
+          "number": 12,
+          "name": "Sac à dos",
+          "duration": "2:31"
+        },
+        {
+          "number": 13,
+          "name": "Serre-moi",
+          "duration": "3:35"
+        },
+        {
+          "number": 14,
+          "name": "L'amour à domicile",
+          "duration": "2:42"
+        },
+        {
+          "number": 15,
+          "name": "Triste mélodie",
+          "duration": "3:17"
+        },
+        {
+          "number": 16,
+          "name": "Pour un sourire",
+          "duration": "2:57"
+        },
+        {
+          "number": 17,
+          "name": "L'amour après l'orage",
+          "duration": "2:50"
+        }
+      ]
+    },
+    {
       "name": "Penso a te",
       "year": "2020",
       "release_date": "2020-12-04",
@@ -368,89 +451,6 @@
           "number": 18,
           "name": "C'est une chanson",
           "duration": "2:54"
-        }
-      ]
-    },
-    {
-      "name": "Nouveau souffle",
-      "year": "2025",
-      "release_date": "2025-11-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/c7/a1/18c7a149-d06f-0b37-7fcb-db3e5dc7b8f5/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nouveau souffle",
-          "duration": "1:46"
-        },
-        {
-          "number": 2,
-          "name": "Madame",
-          "duration": "2:52"
-        },
-        {
-          "number": 3,
-          "name": "Qu'est-ce qu'il me restera ?",
-          "duration": "2:22"
-        },
-        {
-          "number": 4,
-          "name": "Fou de toi",
-          "duration": "3:01"
-        },
-        {
-          "number": 5,
-          "name": "Sperenza",
-          "duration": "2:55"
-        },
-        {
-          "number": 6,
-          "name": "Dis-moi",
-          "duration": "3:00"
-        },
-        {
-          "number": 7,
-          "name": "Vous serez là",
-          "duration": "2:26"
-        },
-        {
-          "number": 8,
-          "name": "L'ombre de moi-même",
-          "duration": "3:22"
-        },
-        {
-          "number": 9,
-          "name": "Rêve",
-          "duration": "2:36"
-        },
-        {
-          "number": 10,
-          "name": "Qui a dit ça",
-          "duration": "2:38"
-        },
-        {
-          "number": 11,
-          "name": "Le temps",
-          "duration": "3:12"
-        },
-        {
-          "number": 12,
-          "name": "De l'or",
-          "duration": "2:29"
-        },
-        {
-          "number": 13,
-          "name": "Ta quinzaine",
-          "duration": "2:40"
-        },
-        {
-          "number": 14,
-          "name": "Juste un petit gars",
-          "duration": "2:36"
-        },
-        {
-          "number": 15,
-          "name": "Je suis un accordéon",
-          "duration": "4:18"
         }
       ]
     },
