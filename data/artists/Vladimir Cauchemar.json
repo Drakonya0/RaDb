@@ -132,19 +132,6 @@
       ]
     },
     {
-      "name": "ORATORES",
-      "year": "2025",
-      "release_date": "2025-01-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/2a/28/b12a28c3-9efc-efaf-f29e-db81af168380/24UM1IM34433.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ORATORES",
-          "duration": "2:42"
-        }
-      ]
-    },
-    {
       "name": "ORATORES, BELLATORES, LABORATORES",
       "year": "2025",
       "release_date": "2025-01-31",
@@ -182,6 +169,19 @@
           "number": 2,
           "name": "Brrr (feat. Laylow & Rim'K) [Upsilone Remix]",
           "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "ORATORES",
+      "year": "2025",
+      "release_date": "2025-01-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/2a/28/b12a28c3-9efc-efaf-f29e-db81af168380/24UM1IM34433.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ORATORES",
+          "duration": "2:42"
         }
       ]
     },
@@ -428,13 +428,6 @@
       ]
     },
     {
-      "name": "Regarde",
-      "year": "2020",
-      "release_date": "2020-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a1/a3/c8/a1a3c8c8-2aec-92fa-f2f5-541f6bf72694/20UMGIM22655.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "GOD (feat. Shlomo)",
       "year": "2023",
       "release_date": "2023-04-20",
@@ -446,6 +439,13 @@
           "duration": "3:23"
         }
       ]
+    },
+    {
+      "name": "Regarde",
+      "year": "2020",
+      "release_date": "2020-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a1/a3/c8/a1a3c8c8-2aec-92fa-f2f5-541f6bf72694/20UMGIM22655.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "REGULATION RELOADED",
@@ -576,34 +576,6 @@
   ],
   "eps": [
     {
-      "name": "Hedge Fund Trance",
-      "year": "2022",
-      "release_date": "2022-07-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/aa/c5/83/aac58357-8cd2-fef1-9a3a-32ad3e9eae28/859763462811_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hedge Fund Trance (Part 1)",
-          "duration": "4:07"
-        },
-        {
-          "number": 2,
-          "name": "Hedge Fund Trance (Part 2)",
-          "duration": "6:14"
-        },
-        {
-          "number": 3,
-          "name": "Hedge Fund Trance (Vladimir Cauchemar Remix)",
-          "duration": "2:46"
-        },
-        {
-          "number": 4,
-          "name": "Hedge Fund Trance (Acid Arab Remix)",
-          "duration": "5:59"
-        }
-      ]
-    },
-    {
       "name": "Brrr",
       "year": "2021",
       "release_date": "2021-06-04",
@@ -658,6 +630,34 @@
           "number": 10,
           "name": "Elévation",
           "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Hedge Fund Trance",
+      "year": "2022",
+      "release_date": "2022-07-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/aa/c5/83/aac58357-8cd2-fef1-9a3a-32ad3e9eae28/859763462811_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hedge Fund Trance (Part 1)",
+          "duration": "4:07"
+        },
+        {
+          "number": 2,
+          "name": "Hedge Fund Trance (Part 2)",
+          "duration": "6:14"
+        },
+        {
+          "number": 3,
+          "name": "Hedge Fund Trance (Vladimir Cauchemar Remix)",
+          "duration": "2:46"
+        },
+        {
+          "number": 4,
+          "name": "Hedge Fund Trance (Acid Arab Remix)",
+          "duration": "5:59"
         }
       ]
     }

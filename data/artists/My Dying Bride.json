@@ -3,64 +3,6 @@
   "id": 73591048,
   "albums": [
     {
-      "name": "The Angel & The Dark River",
-      "year": "1995",
-      "release_date": "1995-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/12/24/89/12248987-fa49-5e40-7162-fa00252da45d/191018693275.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Cry of Mankind",
-          "duration": "12:13"
-        },
-        {
-          "number": 2,
-          "name": "From Darkest Skies",
-          "duration": "7:47"
-        },
-        {
-          "number": 3,
-          "name": "Black Voyage",
-          "duration": "9:47"
-        },
-        {
-          "number": 4,
-          "name": "A Sea to Suffer In",
-          "duration": "6:30"
-        },
-        {
-          "number": 5,
-          "name": "Two Winters Only",
-          "duration": "9:01"
-        },
-        {
-          "number": 6,
-          "name": "Your Shameful Heaven",
-          "duration": "6:59"
-        },
-        {
-          "number": 7,
-          "name": "The Sexuality of Bereavement",
-          "duration": "8:04"
-        },
-        {
-          "number": 8,
-          "name": "Your River (Live)",
-          "duration": "7:56"
-        },
-        {
-          "number": 9,
-          "name": "A Sea to Suffer In (Live)",
-          "duration": "6:11"
-        },
-        {
-          "number": 10,
-          "name": "The Forever People (Live)",
-          "duration": "4:22"
-        }
-      ]
-    },
-    {
       "name": "A Line of Deathless Kings",
       "year": "2006",
       "release_date": "2006-10-10",
@@ -110,6 +52,64 @@
           "number": 9,
           "name": "The Blood, the Wine, the Roses",
           "duration": "8:23"
+        }
+      ]
+    },
+    {
+      "name": "Turn Loose the Swans",
+      "year": "1993",
+      "release_date": "1993-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/e1/4b/ce/e14bce3c-d4a5-0752-a865-0db0cdb46b52/191018693213.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sear Me MCMXCIII",
+          "duration": "7:23"
+        },
+        {
+          "number": 2,
+          "name": "Your River",
+          "duration": "9:23"
+        },
+        {
+          "number": 3,
+          "name": "The Songless Bird",
+          "duration": "6:59"
+        },
+        {
+          "number": 4,
+          "name": "The Snow in My Hand",
+          "duration": "7:08"
+        },
+        {
+          "number": 5,
+          "name": "The Crown of Sympathy",
+          "duration": "12:13"
+        },
+        {
+          "number": 6,
+          "name": "Turn Loose the Swans",
+          "duration": "10:07"
+        },
+        {
+          "number": 7,
+          "name": "Black God",
+          "duration": "4:51"
+        },
+        {
+          "number": 8,
+          "name": "Le Cerf Malade",
+          "duration": "6:31"
+        },
+        {
+          "number": 9,
+          "name": "Transcending (Into the Exquisite)",
+          "duration": "8:39"
+        },
+        {
+          "number": 10,
+          "name": "Your Shameful Heaven",
+          "duration": "6:59"
         }
       ]
     },
@@ -374,60 +374,60 @@
       ]
     },
     {
-      "name": "Turn Loose the Swans",
-      "year": "1993",
-      "release_date": "1993-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/e1/4b/ce/e14bce3c-d4a5-0752-a865-0db0cdb46b52/191018693213.jpg/600x600bb.jpg",
+      "name": "The Angel & The Dark River",
+      "year": "1995",
+      "release_date": "1995-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/12/24/89/12248987-fa49-5e40-7162-fa00252da45d/191018693275.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Sear Me MCMXCIII",
-          "duration": "7:23"
-        },
-        {
-          "number": 2,
-          "name": "Your River",
-          "duration": "9:23"
-        },
-        {
-          "number": 3,
-          "name": "The Songless Bird",
-          "duration": "6:59"
-        },
-        {
-          "number": 4,
-          "name": "The Snow in My Hand",
-          "duration": "7:08"
-        },
-        {
-          "number": 5,
-          "name": "The Crown of Sympathy",
+          "name": "The Cry of Mankind",
           "duration": "12:13"
         },
         {
+          "number": 2,
+          "name": "From Darkest Skies",
+          "duration": "7:47"
+        },
+        {
+          "number": 3,
+          "name": "Black Voyage",
+          "duration": "9:47"
+        },
+        {
+          "number": 4,
+          "name": "A Sea to Suffer In",
+          "duration": "6:30"
+        },
+        {
+          "number": 5,
+          "name": "Two Winters Only",
+          "duration": "9:01"
+        },
+        {
           "number": 6,
-          "name": "Turn Loose the Swans",
-          "duration": "10:07"
+          "name": "Your Shameful Heaven",
+          "duration": "6:59"
         },
         {
           "number": 7,
-          "name": "Black God",
-          "duration": "4:51"
+          "name": "The Sexuality of Bereavement",
+          "duration": "8:04"
         },
         {
           "number": 8,
-          "name": "Le Cerf Malade",
-          "duration": "6:31"
+          "name": "Your River (Live)",
+          "duration": "7:56"
         },
         {
           "number": 9,
-          "name": "Transcending (Into the Exquisite)",
-          "duration": "8:39"
+          "name": "A Sea to Suffer In (Live)",
+          "duration": "6:11"
         },
         {
           "number": 10,
-          "name": "Your Shameful Heaven",
-          "duration": "6:59"
+          "name": "The Forever People (Live)",
+          "duration": "4:22"
         }
       ]
     },

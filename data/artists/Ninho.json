@@ -240,17 +240,17 @@
       ]
     },
     {
-      "name": "Kim Jong-il (Extrait du projet Game Over Volume 2)",
-      "year": "2019",
-      "release_date": "2019-06-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/da/bf/40/dabf404c-aca4-a5b5-8103-5b21e4fa0ae8/19UMGIM52992.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Entre les murs (feat. Ninho)",
       "year": "2018",
       "release_date": "2018-09-05",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ed/c0/56/edc056b5-e2d0-18cb-5dd4-13be4f349778/190295558284.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Kim Jong-il (Extrait du projet Game Over Volume 2)",
+      "year": "2019",
+      "release_date": "2019-06-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/da/bf/40/dabf404c-aca4-a5b5-8103-5b21e4fa0ae8/19UMGIM52992.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -287,17 +287,17 @@
       ]
     },
     {
-      "name": "Grand bain (feat. Ninho)",
-      "year": "2020",
-      "release_date": "2020-06-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7e/4a/cf/7e4acf24-33b2-d9fb-2aa4-8e0b9edacd87/20UMGIM50362.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Blue",
       "year": "2023",
       "release_date": "2023-08-21",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/ff/7c/b0ff7cfa-ea38-c98e-f803-7892380dad4c/5054197785320.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Grand bain (feat. Ninho)",
+      "year": "2020",
+      "release_date": "2020-06-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7e/4a/cf/7e4acf24-33b2-d9fb-2aa4-8e0b9edacd87/20UMGIM50362.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -327,13 +327,6 @@
       ]
     },
     {
-      "name": "Binks to Binks 8",
-      "year": "2023",
-      "release_date": "2023-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/03/3b/95033b2e-7496-a49f-2074-c091ffc43b0b/5054197752667.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Problèmes du matin",
       "year": "2020",
       "release_date": "2020-10-02",
@@ -341,17 +334,11 @@
       "tracks": []
     },
     {
-      "name": "Comme Avant",
-      "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/07/dd/cb07dd51-5449-d87b-84c0-7a52de38b53b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Comme Avant",
-          "duration": "3:39"
-        }
-      ]
+      "name": "Binks to Binks 8",
+      "year": "2023",
+      "release_date": "2023-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/03/3b/95033b2e-7496-a49f-2074-c091ffc43b0b/5054197752667.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "La Marseillaise (feat. Ninho)",
@@ -363,6 +350,19 @@
           "number": 1,
           "name": "La Marseillaise (feat. Ninho)",
           "duration": "3:17"
+        }
+      ]
+    },
+    {
+      "name": "Comme Avant",
+      "year": "2025",
+      "release_date": "2025-07-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/07/dd/cb07dd51-5449-d87b-84c0-7a52de38b53b/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Comme Avant",
+          "duration": "3:39"
         }
       ]
     },
@@ -545,6 +545,13 @@
       "tracks": []
     },
     {
+      "name": "DICTIONNAIRES",
+      "year": "2026",
+      "release_date": "2026-01-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/d3/69/01d369f8-f18d-3843-b954-b4d8f1aa0c12/5026854277677.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "MAUVAIS PROFIL (feat. Ninho)",
       "year": "2024",
       "release_date": "2024-02-23",
@@ -556,13 +563,6 @@
           "duration": "3:28"
         }
       ]
-    },
-    {
-      "name": "DICTIONNAIRES",
-      "year": "2026",
-      "release_date": "2026-01-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/d3/69/01d369f8-f18d-3843-b954-b4d8f1aa0c12/5026854277677.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "Para",
@@ -630,6 +630,19 @@
       "release_date": "2024-09-05",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/fb/2a/5efb2a6e-bb35-9312-4688-f023707e1219/5021732479365.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "Avion de chasse",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/56/c8/a556c808-a5d3-b438-55ad-6f36e005336a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Avion de chasse",
+          "duration": "2:16"
+        }
+      ]
     },
     {
       "name": "Sens interdit (feat. Ninho)",

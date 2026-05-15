@@ -3,6 +3,64 @@
   "id": 1076835062,
   "albums": [
     {
+      "name": "Viribus Unitis",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/6a/35/db6a3579-712e-2de8-b269-e5b2cff9489f/810185193820.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "War In (The Beginning of the Fall)",
+          "duration": "1:30"
+        },
+        {
+          "number": 2,
+          "name": "1914 (The Siege of Przemyśl)",
+          "duration": "4:48"
+        },
+        {
+          "number": 3,
+          "name": "1915 (Easter Battle for the Zwinin Ridge)",
+          "duration": "9:14"
+        },
+        {
+          "number": 4,
+          "name": "1916 (The Südtirol Offensive)",
+          "duration": "6:11"
+        },
+        {
+          "number": 5,
+          "name": "1917 (The Isonzo Front)",
+          "duration": "6:34"
+        },
+        {
+          "number": 6,
+          "name": "1918 Pt 1: WIA (Wounded in Action)",
+          "duration": "6:20"
+        },
+        {
+          "number": 7,
+          "name": "1918 Pt 2: POW (Prisoner of War) (feat. Christopher Scott)",
+          "duration": "6:13"
+        },
+        {
+          "number": 8,
+          "name": "1918 Pt 3: ADE (A duty to escape) (feat. Aaron Stainthorpe)",
+          "duration": "5:50"
+        },
+        {
+          "number": 9,
+          "name": "1919 (The Home Where I Died) (feat. Jerome Reuter)",
+          "duration": "7:07"
+        },
+        {
+          "number": 10,
+          "name": "War Out (The End?)",
+          "duration": "3:11"
+        }
+      ]
+    },
+    {
       "name": "The Blind Leading the Blind",
       "year": "2018",
       "release_date": "2018-11-11",
@@ -125,64 +183,6 @@
           "number": 11,
           "name": "War Out",
           "duration": "1:40"
-        }
-      ]
-    },
-    {
-      "name": "Viribus Unitis",
-      "year": "2025",
-      "release_date": "2025-11-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/6a/35/db6a3579-712e-2de8-b269-e5b2cff9489f/810185193820.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "War In (The Beginning of the Fall)",
-          "duration": "1:30"
-        },
-        {
-          "number": 2,
-          "name": "1914 (The Siege of Przemyśl)",
-          "duration": "4:48"
-        },
-        {
-          "number": 3,
-          "name": "1915 (Easter Battle for the Zwinin Ridge)",
-          "duration": "9:14"
-        },
-        {
-          "number": 4,
-          "name": "1916 (The Südtirol Offensive)",
-          "duration": "6:11"
-        },
-        {
-          "number": 5,
-          "name": "1917 (The Isonzo Front)",
-          "duration": "6:34"
-        },
-        {
-          "number": 6,
-          "name": "1918 Pt 1: WIA (Wounded in Action)",
-          "duration": "6:20"
-        },
-        {
-          "number": 7,
-          "name": "1918 Pt 2: POW (Prisoner of War) (feat. Christopher Scott)",
-          "duration": "6:13"
-        },
-        {
-          "number": 8,
-          "name": "1918 Pt 3: ADE (A duty to escape) (feat. Aaron Stainthorpe)",
-          "duration": "5:50"
-        },
-        {
-          "number": 9,
-          "name": "1919 (The Home Where I Died) (feat. Jerome Reuter)",
-          "duration": "7:07"
-        },
-        {
-          "number": 10,
-          "name": "War Out (The End?)",
-          "duration": "3:11"
         }
       ]
     },

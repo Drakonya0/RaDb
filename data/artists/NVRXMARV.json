@@ -112,29 +112,6 @@
       ]
     },
     {
-      "name": "Montagem Mogina",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/a5/3c/9ca53ce7-7e1e-0bc1-4c45-5f3f7f16b3bb/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Mogina",
-          "duration": "1:36"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Mogina (Slowed)",
-          "duration": "1:47"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Mogina (Ultra Slowed)",
-          "duration": "2:01"
-        }
-      ]
-    },
-    {
       "name": "NAMASEDA",
       "year": "2025",
       "release_date": "2025-10-17",
@@ -154,6 +131,29 @@
           "number": 3,
           "name": "NAMASEDA (Ultra Slowed)",
           "duration": "2:52"
+        }
+      ]
+    },
+    {
+      "name": "Montagem Mogina",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/a5/3c/9ca53ce7-7e1e-0bc1-4c45-5f3f7f16b3bb/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem Mogina",
+          "duration": "1:36"
+        },
+        {
+          "number": 2,
+          "name": "Montagem Mogina (Slowed)",
+          "duration": "1:47"
+        },
+        {
+          "number": 3,
+          "name": "Montagem Mogina (Ultra Slowed)",
+          "duration": "2:01"
         }
       ]
     },
@@ -285,6 +285,19 @@
           "number": 1,
           "name": "Rainbow",
           "duration": "1:57"
+        }
+      ]
+    },
+    {
+      "name": "Galactico",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/a4/50/dda450cc-dab8-0587-d910-607b192ebdd3/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Galactico",
+          "duration": "2:17"
         }
       ]
     },
@@ -452,6 +465,19 @@
       ]
     },
     {
+      "name": "FOREVER",
+      "year": "2024",
+      "release_date": "2024-12-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/64/10/316410d8-f871-c635-179a-2f13ad927ea2/723277963273.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FOREVER",
+          "duration": "1:54"
+        }
+      ]
+    },
+    {
       "name": "k0shmar.wav",
       "year": "2025",
       "release_date": "2025-03-14",
@@ -466,19 +492,6 @@
           "number": 2,
           "name": "k0shmar.wav (slowed)",
           "duration": "2:59"
-        }
-      ]
-    },
-    {
-      "name": "FOREVER",
-      "year": "2024",
-      "release_date": "2024-12-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/64/10/316410d8-f871-c635-179a-2f13ad927ea2/723277963273.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FOREVER",
-          "duration": "1:54"
         }
       ]
     }
@@ -597,34 +610,6 @@
       ]
     },
     {
-      "name": "LAST KNIGHT!",
-      "year": "2025",
-      "release_date": "2025-02-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/41/5e/b8415ea1-238b-8f56-c43c-d65a1f8bcec5/663918023976.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LAST KNIGHT!",
-          "duration": "2:19"
-        },
-        {
-          "number": 2,
-          "name": "LAST KNIGHT! (slowed)",
-          "duration": "2:30"
-        },
-        {
-          "number": 3,
-          "name": "LAST KNIGHT! (super slowed)",
-          "duration": "2:41"
-        },
-        {
-          "number": 4,
-          "name": "LAST KNIGHT! (sped up)",
-          "duration": "2:13"
-        }
-      ]
-    },
-    {
       "name": "Silent Hill",
       "year": "2024",
       "release_date": "2024-12-27",
@@ -649,6 +634,34 @@
           "number": 4,
           "name": "Silent Hill (sped up)",
           "duration": "2:09"
+        }
+      ]
+    },
+    {
+      "name": "LAST KNIGHT!",
+      "year": "2025",
+      "release_date": "2025-02-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/41/5e/b8415ea1-238b-8f56-c43c-d65a1f8bcec5/663918023976.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LAST KNIGHT!",
+          "duration": "2:19"
+        },
+        {
+          "number": 2,
+          "name": "LAST KNIGHT! (slowed)",
+          "duration": "2:30"
+        },
+        {
+          "number": 3,
+          "name": "LAST KNIGHT! (super slowed)",
+          "duration": "2:41"
+        },
+        {
+          "number": 4,
+          "name": "LAST KNIGHT! (sped up)",
+          "duration": "2:13"
         }
       ]
     },
@@ -1014,34 +1027,6 @@
       ]
     },
     {
-      "name": "X-VOLKSWAGEN",
-      "year": "2025",
-      "release_date": "2025-04-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d1/ab/fad1ab09-69ca-b5cf-d5e9-cbef01854d03/663918122839.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "X-VOLKSWAGEN",
-          "duration": "1:34"
-        },
-        {
-          "number": 2,
-          "name": "X-VOLKSWAGEN (Slowed)",
-          "duration": "1:40"
-        },
-        {
-          "number": 3,
-          "name": "X-VOLKSWAGEN (Super Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 4,
-          "name": "X-VOLKSWAGEN (Sped Up)",
-          "duration": "1:29"
-        }
-      ]
-    },
-    {
       "name": "KNIGHT 2",
       "year": "2025",
       "release_date": "2025-01-17",
@@ -1066,6 +1051,34 @@
           "number": 4,
           "name": "KNIGHT 2 (sped up)",
           "duration": "2:21"
+        }
+      ]
+    },
+    {
+      "name": "X-VOLKSWAGEN",
+      "year": "2025",
+      "release_date": "2025-04-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/d1/ab/fad1ab09-69ca-b5cf-d5e9-cbef01854d03/663918122839.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "X-VOLKSWAGEN",
+          "duration": "1:34"
+        },
+        {
+          "number": 2,
+          "name": "X-VOLKSWAGEN (Slowed)",
+          "duration": "1:40"
+        },
+        {
+          "number": 3,
+          "name": "X-VOLKSWAGEN (Super Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 4,
+          "name": "X-VOLKSWAGEN (Sped Up)",
+          "duration": "1:29"
         }
       ]
     },

@@ -172,64 +172,6 @@
       ]
     },
     {
-      "name": "Unorthodox Jukebox",
-      "year": "2012",
-      "release_date": "2012-12-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/63/53/156353b8-d45b-a17d-f553-2d125aeb3cb3/075679957474.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Young Girls",
-          "duration": "3:49"
-        },
-        {
-          "number": 2,
-          "name": "Locked Out of Heaven",
-          "duration": "3:53"
-        },
-        {
-          "number": 3,
-          "name": "Gorilla",
-          "duration": "4:04"
-        },
-        {
-          "number": 4,
-          "name": "Treasure",
-          "duration": "2:56"
-        },
-        {
-          "number": 5,
-          "name": "Moonshine",
-          "duration": "3:48"
-        },
-        {
-          "number": 6,
-          "name": "When I Was Your Man",
-          "duration": "3:33"
-        },
-        {
-          "number": 7,
-          "name": "Natalie",
-          "duration": "3:45"
-        },
-        {
-          "number": 8,
-          "name": "Show Me",
-          "duration": "3:27"
-        },
-        {
-          "number": 9,
-          "name": "Money Make Her Smile",
-          "duration": "3:23"
-        },
-        {
-          "number": 10,
-          "name": "If I Knew",
-          "duration": "2:12"
-        }
-      ]
-    },
-    {
       "name": "Doo-Wops & Hooligans (Deluxe)",
       "year": "2010",
       "release_date": "2010-10-04",
@@ -304,6 +246,64 @@
           "number": 14,
           "name": "The Other Side (feat. Cee Lo Green & B.o.B)",
           "duration": "3:46"
+        }
+      ]
+    },
+    {
+      "name": "Unorthodox Jukebox",
+      "year": "2012",
+      "release_date": "2012-12-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/63/53/156353b8-d45b-a17d-f553-2d125aeb3cb3/075679957474.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Young Girls",
+          "duration": "3:49"
+        },
+        {
+          "number": 2,
+          "name": "Locked Out of Heaven",
+          "duration": "3:53"
+        },
+        {
+          "number": 3,
+          "name": "Gorilla",
+          "duration": "4:04"
+        },
+        {
+          "number": 4,
+          "name": "Treasure",
+          "duration": "2:56"
+        },
+        {
+          "number": 5,
+          "name": "Moonshine",
+          "duration": "3:48"
+        },
+        {
+          "number": 6,
+          "name": "When I Was Your Man",
+          "duration": "3:33"
+        },
+        {
+          "number": 7,
+          "name": "Natalie",
+          "duration": "3:45"
+        },
+        {
+          "number": 8,
+          "name": "Show Me",
+          "duration": "3:27"
+        },
+        {
+          "number": 9,
+          "name": "Money Make Her Smile",
+          "duration": "3:23"
+        },
+        {
+          "number": 10,
+          "name": "If I Knew",
+          "duration": "2:12"
         }
       ]
     },
@@ -419,6 +419,29 @@
       ]
     },
     {
+      "name": "Just the Way You Are - Deluxe Single",
+      "year": "2010",
+      "release_date": "2010-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/5a/48/e3/mzi.gjjmrpau.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Just the Way You Are",
+          "duration": "3:40"
+        },
+        {
+          "number": 2,
+          "name": "Just the Way You Are (Remix) [feat. Lupe Fiasco] {Bonus Track}",
+          "duration": "3:58"
+        },
+        {
+          "number": 3,
+          "name": "Just the Way You Are (Bonus Track)",
+          "duration": "3:56"
+        }
+      ]
+    },
+    {
       "name": "An Evening With Silk Sonic",
       "year": "2021",
       "release_date": "2021-11-12",
@@ -477,29 +500,6 @@
       ]
     },
     {
-      "name": "Just the Way You Are - Deluxe Single",
-      "year": "2010",
-      "release_date": "2010-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/5a/48/e3/mzi.gjjmrpau.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Just the Way You Are",
-          "duration": "3:40"
-        },
-        {
-          "number": 2,
-          "name": "Just the Way You Are (Remix) [feat. Lupe Fiasco] {Bonus Track}",
-          "duration": "3:58"
-        },
-        {
-          "number": 3,
-          "name": "Just the Way You Are (Bonus Track)",
-          "duration": "3:56"
-        }
-      ]
-    },
-    {
       "name": "Billionaire (feat. Bruno Mars) - Deluxe Single",
       "year": "2010",
       "release_date": "2010-09-21",
@@ -519,6 +519,74 @@
           "number": 3,
           "name": "Billionaire (feat. Bruno Mars)",
           "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "Doo-Wops & Hooligans",
+      "year": "2010",
+      "release_date": "2010-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/25/6d/95/256d95ea-c58c-074d-b6f1-18f5cb4e6b96/075679956293.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Grenade",
+          "duration": "3:42"
+        },
+        {
+          "number": 2,
+          "name": "Just the Way You Are",
+          "duration": "3:40"
+        },
+        {
+          "number": 3,
+          "name": "Our First Time",
+          "duration": "4:03"
+        },
+        {
+          "number": 4,
+          "name": "Runaway Baby",
+          "duration": "2:28"
+        },
+        {
+          "number": 5,
+          "name": "The Lazy Song",
+          "duration": "3:09"
+        },
+        {
+          "number": 6,
+          "name": "Marry You",
+          "duration": "3:50"
+        },
+        {
+          "number": 7,
+          "name": "Talking to the Moon",
+          "duration": "3:37"
+        },
+        {
+          "number": 8,
+          "name": "Liquor Store Blues (feat. Damian \"Jr. Gong\" Marley)",
+          "duration": "3:49"
+        },
+        {
+          "number": 9,
+          "name": "Count on Me",
+          "duration": "3:17"
+        },
+        {
+          "number": 10,
+          "name": "The Other Side (feat. CeeLo Green and B.o.B)",
+          "duration": "3:48"
+        },
+        {
+          "number": 11,
+          "name": "Somewhere in Brooklyn (Bonus Track)",
+          "duration": "3:01"
+        },
+        {
+          "number": 12,
+          "name": "Talking to the Moon (Acoustic Piano) [Bonus Track]",
+          "duration": "3:37"
         }
       ]
     },
@@ -594,74 +662,6 @@
           "duration": "3:58"
         }
       ]
-    },
-    {
-      "name": "Doo-Wops & Hooligans",
-      "year": "2010",
-      "release_date": "2010-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/25/6d/95/256d95ea-c58c-074d-b6f1-18f5cb4e6b96/075679956293.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Grenade",
-          "duration": "3:42"
-        },
-        {
-          "number": 2,
-          "name": "Just the Way You Are",
-          "duration": "3:40"
-        },
-        {
-          "number": 3,
-          "name": "Our First Time",
-          "duration": "4:03"
-        },
-        {
-          "number": 4,
-          "name": "Runaway Baby",
-          "duration": "2:28"
-        },
-        {
-          "number": 5,
-          "name": "The Lazy Song",
-          "duration": "3:09"
-        },
-        {
-          "number": 6,
-          "name": "Marry You",
-          "duration": "3:50"
-        },
-        {
-          "number": 7,
-          "name": "Talking to the Moon",
-          "duration": "3:37"
-        },
-        {
-          "number": 8,
-          "name": "Liquor Store Blues (feat. Damian \"Jr. Gong\" Marley)",
-          "duration": "3:49"
-        },
-        {
-          "number": 9,
-          "name": "Count on Me",
-          "duration": "3:17"
-        },
-        {
-          "number": 10,
-          "name": "The Other Side (feat. CeeLo Green and B.o.B)",
-          "duration": "3:48"
-        },
-        {
-          "number": 11,
-          "name": "Somewhere in Brooklyn (Bonus Track)",
-          "duration": "3:01"
-        },
-        {
-          "number": 12,
-          "name": "Talking to the Moon (Acoustic Piano) [Bonus Track]",
-          "duration": "3:37"
-        }
-      ]
     }
   ],
   "singles": [
@@ -679,6 +679,13 @@
       ]
     },
     {
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "year": "2014",
+      "release_date": "2014-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/96/24/d4/9624d446-3b95-af38-4b8c-d3087e6f962c/886444933049.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Die With A Smile",
       "year": "2024",
       "release_date": "2024-08-16",
@@ -688,26 +695,6 @@
           "number": 1,
           "name": "Die With A Smile",
           "duration": "4:11"
-        }
-      ]
-    },
-    {
-      "name": "Uptown Funk (feat. Bruno Mars)",
-      "year": "2014",
-      "release_date": "2014-11-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/96/24/d4/9624d446-3b95-af38-4b8c-d3087e6f962c/886444933049.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
-      "name": "Please Me",
-      "year": "2019",
-      "release_date": "2019-02-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/4e/ee/d24eeee7-bc09-9e9a-b5aa-0ecf39d47bb9/075679853653.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Please Me",
-          "duration": "3:20"
         }
       ]
     },
@@ -725,32 +712,6 @@
       ]
     },
     {
-      "name": "That's What I Like (Remix) [feat. Gucci Mane]",
-      "year": "2017",
-      "release_date": "2017-04-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/db/cd/50/dbcd5052-e3c5-e928-b725-4b68b3fb882e/075679895257.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "That's What I Like (Remix) [feat. Gucci Mane]",
-          "duration": "3:54"
-        }
-      ]
-    },
-    {
-      "name": "Leave The Door Open (Live)",
-      "year": "2021",
-      "release_date": "2021-04-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/52/6b/d5526b9a-f979-3c08-6832-00505a3e7207/075679786043.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Leave The Door Open (Live)",
-          "duration": "4:20"
-        }
-      ]
-    },
-    {
       "name": "Uptown Funk (feat. Bruno Mars) [Trinidad James Remix]",
       "year": "2015",
       "release_date": "2015-06-29",
@@ -764,15 +725,15 @@
       ]
     },
     {
-      "name": "Die With A Smile (Acoustic)",
-      "year": "2024",
-      "release_date": "2024-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/a8/78/30a87869-f9fb-bf53-e0ba-91ffe8c03f31/24UM1IM23004.rgb.jpg/600x600bb.jpg",
+      "name": "Please Me",
+      "year": "2019",
+      "release_date": "2019-02-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/4e/ee/d24eeee7-bc09-9e9a-b5aa-0ecf39d47bb9/075679853653.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Die With A Smile (Acoustic)",
-          "duration": "4:11"
+          "name": "Please Me",
+          "duration": "3:20"
         }
       ]
     },
@@ -790,15 +751,67 @@
       ]
     },
     {
-      "name": "Fat Juicy & Wet",
-      "year": "2025",
-      "release_date": "2025-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/5f/70/b45f70a8-b4d4-133e-b01b-3be8ff8b899b/075679623485.jpg/600x600bb.jpg",
+      "name": "Die With A Smile (Acoustic)",
+      "year": "2024",
+      "release_date": "2024-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/a8/78/30a87869-f9fb-bf53-e0ba-91ffe8c03f31/24UM1IM23004.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Fat Juicy & Wet",
-          "duration": "2:21"
+          "name": "Die With A Smile (Acoustic)",
+          "duration": "4:11"
+        }
+      ]
+    },
+    {
+      "name": "That's What I Like (Remix) [feat. Gucci Mane]",
+      "year": "2017",
+      "release_date": "2017-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/db/cd/50/dbcd5052-e3c5-e928-b725-4b68b3fb882e/075679895257.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "That's What I Like (Remix) [feat. Gucci Mane]",
+          "duration": "3:54"
+        }
+      ]
+    },
+    {
+      "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
+      "year": "2017",
+      "release_date": "2017-06-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/1b/89/2d/1b892d31-17b2-61bf-a05f-98d6ace004d2/075679891778.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
+          "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Leave The Door Open (Live)",
+      "year": "2021",
+      "release_date": "2021-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/52/6b/d5526b9a-f979-3c08-6832-00505a3e7207/075679786043.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Leave The Door Open (Live)",
+          "duration": "4:20"
+        }
+      ]
+    },
+    {
+      "name": "Gorilla (feat. R Kelly & Pharrell) [G-Mix]",
+      "year": "2013",
+      "release_date": "2013-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/b4/d8/c3/b4d8c3a1-b801-6aab-8787-0f8904cf8770/075679946249.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gorilla (feat. R Kelly & Pharrell) [G-Mix]",
+          "duration": "4:25"
         }
       ]
     },
@@ -816,15 +829,54 @@
       ]
     },
     {
-      "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
-      "year": "2017",
-      "release_date": "2017-06-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/1b/89/2d/1b892d31-17b2-61bf-a05f-98d6ace004d2/075679891778.jpg/600x600bb.jpg",
+      "name": "Please Me",
+      "year": "2019",
+      "release_date": "2019-02-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/81/f8/1b/81f81b47-6068-3fdb-29ae-ae032c519ef7/075679852168.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
-          "duration": "3:48"
+          "name": "Please Me",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "Fat Juicy & Wet",
+      "year": "2025",
+      "release_date": "2025-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/5f/70/b45f70a8-b4d4-133e-b01b-3be8ff8b899b/075679623485.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fat Juicy & Wet",
+          "duration": "2:21"
+        }
+      ]
+    },
+    {
+      "name": "That's What I Like (PARTYNEXTDOOR Remix)",
+      "year": "2017",
+      "release_date": "2017-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music82/v4/25/6b/94/256b94f5-c5c9-a7e4-e2b9-35c33d48cf74/075679895837.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "That's What I Like (PARTYNEXTDOOR Remix)",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "Lo Arriesgo Todo",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/d0/0f/27d00f10-12bf-9ac8-9042-43f0783ede67/075679583659.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lo Arriesgo Todo",
+          "duration": "3:24"
         }
       ]
     },
@@ -845,103 +897,12 @@
       "name": "Gorilla (feat. R Kelly & Pharrell) [G-Mix]",
       "year": "2013",
       "release_date": "2013-11-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/b4/d8/c3/b4d8c3a1-b801-6aab-8787-0f8904cf8770/075679946249.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Gorilla (feat. R Kelly & Pharrell) [G-Mix]",
-          "duration": "4:25"
-        }
-      ]
-    },
-    {
-      "name": "Die With A Smile (Instrumental Acoustic)",
-      "year": "2024",
-      "release_date": "2024-11-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/8c/9a/308c9ae1-4c75-b610-b367-1ce06586e691/24UMGIM85348.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Die With A Smile (Instrumental Acoustic)",
-          "duration": "4:11"
-        }
-      ]
-    },
-    {
-      "name": "Please Me",
-      "year": "2019",
-      "release_date": "2019-02-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/81/f8/1b/81f81b47-6068-3fdb-29ae-ae032c519ef7/075679852168.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Please Me",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
-      "name": "That's What I Like (PARTYNEXTDOOR Remix)",
-      "year": "2017",
-      "release_date": "2017-04-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music82/v4/25/6b/94/256b94f5-c5c9-a7e4-e2b9-35c33d48cf74/075679895837.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "That's What I Like (PARTYNEXTDOOR Remix)",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
-      "name": "I Just Might (Austin Millz Remix)",
-      "year": "2026",
-      "release_date": "2026-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/8e/62/e58e626b-001a-ffcf-8a31-ca8d1be6a3be/075679589095.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Just Might (Austin Millz Remix)",
-          "duration": "3:16"
-        }
-      ]
-    },
-    {
-      "name": "I Just Might",
-      "year": "2026",
-      "release_date": "2026-01-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/14/0e/1c140ef6-b94a-1207-77d8-f0c94075bd8e/075679591296.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Just Might",
-          "duration": "3:32"
-        }
-      ]
-    },
-    {
-      "name": "Gorilla (feat. R Kelly & Pharrell) [G-Mix]",
-      "year": "2013",
-      "release_date": "2013-11-12",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/df/70/19/df701972-ae14-9d6d-19fc-349445e1928a/075679946232.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
           "name": "Gorilla (feat. R Kelly & Pharrell) [G-Mix]",
           "duration": "4:25"
-        }
-      ]
-    },
-    {
-      "name": "Fat Juicy & Wet",
-      "year": "2025",
-      "release_date": "2025-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/2c/0b/932c0b78-5180-bb78-3fe4-4d7e43fe2d42/075679623515.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fat Juicy & Wet",
-          "duration": "2:21"
         }
       ]
     },
@@ -977,6 +938,19 @@
       ]
     },
     {
+      "name": "Die With A Smile (Instrumental Acoustic)",
+      "year": "2024",
+      "release_date": "2024-11-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/8c/9a/308c9ae1-4c75-b610-b367-1ce06586e691/24UMGIM85348.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Die With A Smile (Instrumental Acoustic)",
+          "duration": "4:11"
+        }
+      ]
+    },
+    {
       "name": "That's What I Like (BLVK JVCK Remix)",
       "year": "2017",
       "release_date": "2017-04-21",
@@ -1003,6 +977,32 @@
       ]
     },
     {
+      "name": "I Just Might (Austin Millz Remix)",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/8e/62/e58e626b-001a-ffcf-8a31-ca8d1be6a3be/075679589095.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Just Might (Austin Millz Remix)",
+          "duration": "3:16"
+        }
+      ]
+    },
+    {
+      "name": "I Just Might",
+      "year": "2026",
+      "release_date": "2026-01-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/14/0e/1c140ef6-b94a-1207-77d8-f0c94075bd8e/075679591296.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Just Might",
+          "duration": "3:32"
+        }
+      ]
+    },
+    {
       "name": "Die With A Smile (Sped Up)",
       "year": "2024",
       "release_date": "2024-11-20",
@@ -1012,6 +1012,19 @@
           "number": 1,
           "name": "Die With A Smile (Sped Up)",
           "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Fat Juicy & Wet",
+      "year": "2025",
+      "release_date": "2025-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/2c/0b/932c0b78-5180-bb78-3fe4-4d7e43fe2d42/075679623515.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fat Juicy & Wet",
+          "duration": "2:21"
         }
       ]
     },
@@ -1171,6 +1184,34 @@
   ],
   "eps": [
     {
+      "name": "Uptown Funk (feat. Bruno Mars) [Remixes]",
+      "year": "2015",
+      "release_date": "2015-04-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/5c/eb/9d/5ceb9d47-c80d-a70a-1842-a8ca347bcc8e/886445222081.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Uptown Funk (feat. Bruno Mars)",
+          "duration": "4:29"
+        },
+        {
+          "number": 2,
+          "name": "Uptown Funk (feat. Bruno Mars) [Dave Audé Remix]",
+          "duration": "3:57"
+        },
+        {
+          "number": 3,
+          "name": "Uptown Funk (feat. Bruno Mars) [Wideboys VIP Remix]",
+          "duration": "3:16"
+        },
+        {
+          "number": 4,
+          "name": "Uptown Funk (feat. Bruno Mars) [Will Sparks Remix]",
+          "duration": "4:37"
+        }
+      ]
+    },
+    {
       "name": "The Grenade Sessions",
       "year": "2011",
       "release_date": "2011-02-08",
@@ -1200,34 +1241,6 @@
           "number": 5,
           "name": "Grenade",
           "duration": "3:40"
-        }
-      ]
-    },
-    {
-      "name": "Uptown Funk (feat. Bruno Mars) [Remixes]",
-      "year": "2015",
-      "release_date": "2015-04-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/5c/eb/9d/5ceb9d47-c80d-a70a-1842-a8ca347bcc8e/886445222081.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Uptown Funk (feat. Bruno Mars)",
-          "duration": "4:29"
-        },
-        {
-          "number": 2,
-          "name": "Uptown Funk (feat. Bruno Mars) [Dave Audé Remix]",
-          "duration": "3:57"
-        },
-        {
-          "number": 3,
-          "name": "Uptown Funk (feat. Bruno Mars) [Wideboys VIP Remix]",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "Uptown Funk (feat. Bruno Mars) [Will Sparks Remix]",
-          "duration": "4:37"
         }
       ]
     },

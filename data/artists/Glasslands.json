@@ -147,19 +147,6 @@
       ]
     },
     {
-      "name": "Bottom Feeder",
-      "year": "2026",
-      "release_date": "2026-03-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/ae/4c/7dae4c1f-81b0-994e-fe72-86eb0b4c5d2f/199900757418.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bottom Feeder",
-          "duration": "4:03"
-        }
-      ]
-    },
-    {
       "name": "Demons",
       "year": "2014",
       "release_date": "2014-06-10",
@@ -208,6 +195,19 @@
           "number": 1,
           "name": "Silent Prey",
           "duration": "4:56"
+        }
+      ]
+    },
+    {
+      "name": "Bottom Feeder",
+      "year": "2026",
+      "release_date": "2026-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/ae/4c/7dae4c1f-81b0-994e-fe72-86eb0b4c5d2f/199900757418.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bottom Feeder",
+          "duration": "4:03"
         }
       ]
     },
@@ -296,6 +296,24 @@
           "number": 1,
           "name": "Die Alone",
           "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Blood in the Water",
+      "year": "2026",
+      "release_date": "2026-05-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/7d/58/517d5897-7a68-9b2a-5c3a-c78aea8c4b85/823000267927.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blood in the Water",
+          "duration": "3:25"
+        },
+        {
+          "number": 2,
+          "name": "Bottom Feeder",
+          "duration": "4:03"
         }
       ]
     }

@@ -3,6 +3,44 @@
   "id": 333413205,
   "albums": [
     {
+      "name": "Mestarin kynsi",
+      "year": "2020",
+      "release_date": "2020-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/90/64/00906422-737a-50d0-4ec4-2ffde999ad72/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ilmestys",
+          "duration": "7:14"
+        },
+        {
+          "number": 2,
+          "name": "Tyhjyyden sakramentti",
+          "duration": "9:19"
+        },
+        {
+          "number": 3,
+          "name": "Uusi teknokratia",
+          "duration": "10:20"
+        },
+        {
+          "number": 4,
+          "name": "Oikeamielisten sali",
+          "duration": "8:01"
+        },
+        {
+          "number": 5,
+          "name": "Kuulen ääniä maan alta",
+          "duration": "7:12"
+        },
+        {
+          "number": 6,
+          "name": "Taivaan portti",
+          "duration": "8:06"
+        }
+      ]
+    },
+    {
       "name": "Muuntautuja",
       "year": "2024",
       "release_date": "2024-10-11",
@@ -90,44 +128,6 @@
           "number": 7,
           "name": "Valveavaruus",
           "duration": "10:37"
-        }
-      ]
-    },
-    {
-      "name": "Mestarin kynsi",
-      "year": "2020",
-      "release_date": "2020-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/00/90/64/00906422-737a-50d0-4ec4-2ffde999ad72/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ilmestys",
-          "duration": "7:14"
-        },
-        {
-          "number": 2,
-          "name": "Tyhjyyden sakramentti",
-          "duration": "9:19"
-        },
-        {
-          "number": 3,
-          "name": "Uusi teknokratia",
-          "duration": "10:20"
-        },
-        {
-          "number": 4,
-          "name": "Oikeamielisten sali",
-          "duration": "8:01"
-        },
-        {
-          "number": 5,
-          "name": "Kuulen ääniä maan alta",
-          "duration": "7:12"
-        },
-        {
-          "number": 6,
-          "name": "Taivaan portti",
-          "duration": "8:06"
         }
       ]
     },

@@ -76,49 +76,6 @@
       ]
     },
     {
-      "name": "SEASONS // SUMMER",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/e8/fa/b4e8fa76-a046-5e93-89a7-3c507f09c971/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Challenges",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "Dead End",
-          "duration": "4:30"
-        },
-        {
-          "number": 3,
-          "name": "A Part Of Me",
-          "duration": "3:58"
-        },
-        {
-          "number": 4,
-          "name": "The Hotel",
-          "duration": "0:38"
-        },
-        {
-          "number": 5,
-          "name": "TRIGGERED",
-          "duration": "2:17"
-        },
-        {
-          "number": 6,
-          "name": "Start Again",
-          "duration": "3:41"
-        },
-        {
-          "number": 7,
-          "name": "I'm Sorry",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
       "name": "Mirrors",
       "year": "2021",
       "release_date": "2021-03-12",
@@ -178,6 +135,49 @@
           "number": 11,
           "name": "Dead and Cold (feat. Liron Avital)",
           "duration": "4:52"
+        }
+      ]
+    },
+    {
+      "name": "SEASONS // SUMMER",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/e8/fa/b4e8fa76-a046-5e93-89a7-3c507f09c971/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Challenges",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "Dead End",
+          "duration": "4:30"
+        },
+        {
+          "number": 3,
+          "name": "A Part Of Me",
+          "duration": "3:58"
+        },
+        {
+          "number": 4,
+          "name": "The Hotel",
+          "duration": "0:38"
+        },
+        {
+          "number": 5,
+          "name": "TRIGGERED",
+          "duration": "2:17"
+        },
+        {
+          "number": 6,
+          "name": "Start Again",
+          "duration": "3:41"
+        },
+        {
+          "number": 7,
+          "name": "I'm Sorry",
+          "duration": "3:03"
         }
       ]
     },
@@ -288,29 +288,6 @@
       ]
     },
     {
-      "name": "Scary Monsters and Nice Sprites",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/ab/12/65ab1256-2ce8-5a14-2760-86ebb855ba41/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Scary Monsters and Nice Sprites",
-          "duration": "2:53"
-        },
-        {
-          "number": 2,
-          "name": "Danny Called Me A Cowboy King",
-          "duration": "4:32"
-        },
-        {
-          "number": 3,
-          "name": "The Fall",
-          "duration": "3:45"
-        }
-      ]
-    },
-    {
       "name": "The Fall",
       "year": "2025",
       "release_date": "2025-11-14",
@@ -343,6 +320,29 @@
           "number": 3,
           "name": "SCARLET (Memories Reimagined)",
           "duration": "3:59"
+        }
+      ]
+    },
+    {
+      "name": "Scary Monsters and Nice Sprites",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/ab/12/65ab1256-2ce8-5a14-2760-86ebb855ba41/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Scary Monsters and Nice Sprites",
+          "duration": "2:53"
+        },
+        {
+          "number": 2,
+          "name": "Danny Called Me A Cowboy King",
+          "duration": "4:32"
+        },
+        {
+          "number": 3,
+          "name": "The Fall",
+          "duration": "3:45"
         }
       ]
     },

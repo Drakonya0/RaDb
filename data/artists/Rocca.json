@@ -862,13 +862,6 @@
       ]
     },
     {
-      "name": "Vatos Locos (Version française)",
-      "year": "2014",
-      "release_date": "2014-05-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/58/22/bd/5822bdae-eab2-646e-55c5-0041af83da79/cover.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Boomshit",
       "year": "2025",
       "release_date": "2025-07-15",
@@ -880,6 +873,13 @@
           "duration": "3:23"
         }
       ]
+    },
+    {
+      "name": "Vatos Locos (Version française)",
+      "year": "2014",
+      "release_date": "2014-05-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/58/22/bd/5822bdae-eab2-646e-55c5-0041af83da79/cover.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "LE TEMPS LE DIRA",
@@ -908,19 +908,6 @@
       ]
     },
     {
-      "name": "INTEMPORALITÉ",
-      "year": "2026",
-      "release_date": "2026-02-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/e2/d8/bee2d80e-4e0f-b58a-d1e2-c83a6ffc3021/5400863206369_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "INTEMPORALITÉ",
-          "duration": "1:52"
-        }
-      ]
-    },
-    {
       "name": "I.A",
       "year": "2026",
       "release_date": "2026-05-08",
@@ -930,6 +917,19 @@
           "number": 1,
           "name": "I.A",
           "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "INTEMPORALITÉ",
+      "year": "2026",
+      "release_date": "2026-02-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/e2/d8/bee2d80e-4e0f-b58a-d1e2-c83a6ffc3021/5400863206369_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "INTEMPORALITÉ",
+          "duration": "1:52"
         }
       ]
     },
@@ -960,6 +960,19 @@
       ]
     },
     {
+      "name": "FREE JAZZ",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/c6/25/03c625d7-7328-c2fc-3442-51618a4b0df6/5400863209469_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FREE JAZZ",
+          "duration": "3:01"
+        }
+      ]
+    },
+    {
       "name": "Volume 2",
       "year": "2003",
       "release_date": "2003-10-01",
@@ -974,19 +987,6 @@
           "number": 2,
           "name": "Illegal",
           "duration": "4:04"
-        }
-      ]
-    },
-    {
-      "name": "FREE JAZZ",
-      "year": "2026",
-      "release_date": "2026-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/c6/25/03c625d7-7328-c2fc-3442-51618a4b0df6/5400863209469_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FREE JAZZ",
-          "duration": "3:01"
         }
       ]
     },
@@ -1142,24 +1142,6 @@
       ]
     },
     {
-      "name": "Paranoia",
-      "year": "2021",
-      "release_date": "2021-02-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/c0/6f/45c06f5f-7c70-362f-d194-8ba9ef3fc197/5063549105228_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Paranoia",
-          "duration": "4:27"
-        },
-        {
-          "number": 2,
-          "name": "Paranoia (Extended)",
-          "duration": "6:27"
-        }
-      ]
-    },
-    {
       "name": "General",
       "year": "2012",
       "release_date": "2012-05-01",
@@ -1174,6 +1156,24 @@
           "number": 2,
           "name": "General (Spanish)",
           "duration": "3:53"
+        }
+      ]
+    },
+    {
+      "name": "Paranoia",
+      "year": "2021",
+      "release_date": "2021-02-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/c0/6f/45c06f5f-7c70-362f-d194-8ba9ef3fc197/5063549105228_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Paranoia",
+          "duration": "4:27"
+        },
+        {
+          "number": 2,
+          "name": "Paranoia (Extended)",
+          "duration": "6:27"
         }
       ]
     },

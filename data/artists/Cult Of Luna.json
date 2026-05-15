@@ -3,6 +3,54 @@
   "id": 42407392,
   "albums": [
     {
+      "name": "Salvation",
+      "year": "2004",
+      "release_date": "2004-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/5a/58/02/5a5802c1-cb40-62e3-44e6-849625c272e5/dj.rexgnfck.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Echoes",
+          "duration": "12:30"
+        },
+        {
+          "number": 2,
+          "name": "Vague Illusions",
+          "duration": "10:14"
+        },
+        {
+          "number": 3,
+          "name": "Leave Me Here",
+          "duration": "7:15"
+        },
+        {
+          "number": 4,
+          "name": "Waiting for You",
+          "duration": "10:47"
+        },
+        {
+          "number": 5,
+          "name": "Adrift",
+          "duration": "7:19"
+        },
+        {
+          "number": 6,
+          "name": "White Cell",
+          "duration": "5:40"
+        },
+        {
+          "number": 7,
+          "name": "Crossing Over",
+          "duration": "8:32"
+        },
+        {
+          "number": 8,
+          "name": "Into the Beyond",
+          "duration": "11:26"
+        }
+      ]
+    },
+    {
       "name": "The Long Road North",
       "year": "2022",
       "release_date": "2022-02-11",
@@ -52,54 +100,6 @@
           "number": 9,
           "name": "Beyond II (feat. Colin Stetson)",
           "duration": "4:06"
-        }
-      ]
-    },
-    {
-      "name": "Salvation",
-      "year": "2004",
-      "release_date": "2004-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/5a/58/02/5a5802c1-cb40-62e3-44e6-849625c272e5/dj.rexgnfck.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Echoes",
-          "duration": "12:30"
-        },
-        {
-          "number": 2,
-          "name": "Vague Illusions",
-          "duration": "10:14"
-        },
-        {
-          "number": 3,
-          "name": "Leave Me Here",
-          "duration": "7:15"
-        },
-        {
-          "number": 4,
-          "name": "Waiting for You",
-          "duration": "10:47"
-        },
-        {
-          "number": 5,
-          "name": "Adrift",
-          "duration": "7:19"
-        },
-        {
-          "number": 6,
-          "name": "White Cell",
-          "duration": "5:40"
-        },
-        {
-          "number": 7,
-          "name": "Crossing Over",
-          "duration": "8:32"
-        },
-        {
-          "number": 8,
-          "name": "Into the Beyond",
-          "duration": "11:26"
         }
       ]
     },

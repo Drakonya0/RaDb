@@ -3,59 +3,6 @@
   "id": 2490740,
   "albums": [
     {
-      "name": "Things Have Gotten Worse",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/0f/b6/c60fb644-abc8-739a-2df7-d9a29222c247/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Putrid I: Things Have Gotten Worse",
-          "duration": "2:36"
-        },
-        {
-          "number": 2,
-          "name": "Limb From Limb",
-          "duration": "2:05"
-        },
-        {
-          "number": 3,
-          "name": "Geezer",
-          "duration": "1:42"
-        },
-        {
-          "number": 4,
-          "name": "Forgotten By Death",
-          "duration": "1:19"
-        },
-        {
-          "number": 5,
-          "name": "Putrid II: The Creek",
-          "duration": "2:59"
-        },
-        {
-          "number": 6,
-          "name": "Laymen's Terms",
-          "duration": "2:16"
-        },
-        {
-          "number": 7,
-          "name": "Using My Teeth",
-          "duration": "2:26"
-        },
-        {
-          "number": 8,
-          "name": "They Say Suicide, I Say Goblins",
-          "duration": "1:55"
-        },
-        {
-          "number": 9,
-          "name": "Putrid III: Cadaver County",
-          "duration": "3:34"
-        }
-      ]
-    },
-    {
       "name": "Petrichor",
       "year": "2025",
       "release_date": "2025-02-20",
@@ -110,6 +57,59 @@
           "number": 10,
           "name": "Plastic Empathy",
           "duration": "2:32"
+        }
+      ]
+    },
+    {
+      "name": "Things Have Gotten Worse",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/0f/b6/c60fb644-abc8-739a-2df7-d9a29222c247/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Putrid I: Things Have Gotten Worse",
+          "duration": "2:36"
+        },
+        {
+          "number": 2,
+          "name": "Limb From Limb",
+          "duration": "2:05"
+        },
+        {
+          "number": 3,
+          "name": "Geezer",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "Forgotten By Death",
+          "duration": "1:19"
+        },
+        {
+          "number": 5,
+          "name": "Putrid II: The Creek",
+          "duration": "2:59"
+        },
+        {
+          "number": 6,
+          "name": "Laymen's Terms",
+          "duration": "2:16"
+        },
+        {
+          "number": 7,
+          "name": "Using My Teeth",
+          "duration": "2:26"
+        },
+        {
+          "number": 8,
+          "name": "They Say Suicide, I Say Goblins",
+          "duration": "1:55"
+        },
+        {
+          "number": 9,
+          "name": "Putrid III: Cadaver County",
+          "duration": "3:34"
         }
       ]
     }
@@ -371,6 +371,19 @@
           "number": 1,
           "name": "RIP. (feat. Jackson Rose)",
           "duration": "2:05"
+        }
+      ]
+    },
+    {
+      "name": "Neon Death (feat. Jackson Rose)",
+      "year": "2026",
+      "release_date": "2026-06-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/86/ee/b086ee66-4dc6-3400-21bb-03d75425a1f7/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Neon Death (feat. Jackson Rose)",
+          "duration": "3:43"
         }
       ]
     },

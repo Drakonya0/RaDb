@@ -144,64 +144,6 @@
       ]
     },
     {
-      "name": "THE OTHER ONE",
-      "year": "2023",
-      "release_date": "2023-03-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/cf/de/4ccfdeaf-3c8b-0bb7-ac51-2c1a000cce6e/116517.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "METAL KINGDOM",
-          "duration": "5:51"
-        },
-        {
-          "number": 2,
-          "name": "Divine Attack - Shingeki -",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Mirror Mirror",
-          "duration": "3:50"
-        },
-        {
-          "number": 4,
-          "name": "MAYA",
-          "duration": "3:23"
-        },
-        {
-          "number": 5,
-          "name": "Time Wave",
-          "duration": "4:50"
-        },
-        {
-          "number": 6,
-          "name": "Believing",
-          "duration": "3:46"
-        },
-        {
-          "number": 7,
-          "name": "METALIZM",
-          "duration": "3:34"
-        },
-        {
-          "number": 8,
-          "name": "Monochrome",
-          "duration": "3:57"
-        },
-        {
-          "number": 9,
-          "name": "Light and Darkness",
-          "duration": "4:04"
-        },
-        {
-          "number": 10,
-          "name": "THE LEGEND",
-          "duration": "4:18"
-        }
-      ]
-    },
-    {
       "name": "METAL GALAXY",
       "year": "2019",
       "release_date": "2019-10-11",
@@ -344,6 +286,64 @@
           "number": 12,
           "name": "THE ONE (English Version)",
           "duration": "6:29"
+        }
+      ]
+    },
+    {
+      "name": "THE OTHER ONE",
+      "year": "2023",
+      "release_date": "2023-03-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/cf/de/4ccfdeaf-3c8b-0bb7-ac51-2c1a000cce6e/116517.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "METAL KINGDOM",
+          "duration": "5:51"
+        },
+        {
+          "number": 2,
+          "name": "Divine Attack - Shingeki -",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Mirror Mirror",
+          "duration": "3:50"
+        },
+        {
+          "number": 4,
+          "name": "MAYA",
+          "duration": "3:23"
+        },
+        {
+          "number": 5,
+          "name": "Time Wave",
+          "duration": "4:50"
+        },
+        {
+          "number": 6,
+          "name": "Believing",
+          "duration": "3:46"
+        },
+        {
+          "number": 7,
+          "name": "METALIZM",
+          "duration": "3:34"
+        },
+        {
+          "number": 8,
+          "name": "Monochrome",
+          "duration": "3:57"
+        },
+        {
+          "number": 9,
+          "name": "Light and Darkness",
+          "duration": "4:04"
+        },
+        {
+          "number": 10,
+          "name": "THE LEGEND",
+          "duration": "4:18"
         }
       ]
     },
@@ -617,19 +617,6 @@
   ],
   "singles": [
     {
-      "name": "RATATATA",
-      "year": "2024",
-      "release_date": "2024-05-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/c1/69/eec16961-2264-c812-c2b2-f8944e36ba38/196872114690.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "RATATATA",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
       "name": "from me to u",
       "year": "2025",
       "release_date": "2025-04-04",
@@ -643,15 +630,15 @@
       ]
     },
     {
-      "name": "Bekhauf (feat. BABYMETAL)",
+      "name": "RATATATA",
       "year": "2024",
-      "release_date": "2024-12-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/9a/ad/fa9aadc3-75c8-3881-738f-9fa4cd91fc64/24CRGIM46496.rgb.jpg/600x600bb.jpg",
+      "release_date": "2024-05-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/c1/69/eec16961-2264-c812-c2b2-f8944e36ba38/196872114690.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Bekhauf (feat. BABYMETAL)",
-          "duration": "3:48"
+          "name": "RATATATA",
+          "duration": "3:36"
         }
       ]
     },
@@ -665,19 +652,6 @@
           "number": 1,
           "name": "Starlight",
           "duration": "3:37"
-        }
-      ]
-    },
-    {
-      "name": "かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) [feat. BABYMETAL]",
-      "year": "2026",
-      "release_date": "2026-01-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/05/08/fa050837-69b7-c0c2-8a9d-cdb8e6b824f1/4547366794205.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) [feat. BABYMETAL]",
-          "duration": "3:07"
         }
       ]
     },
@@ -708,15 +682,28 @@
       ]
     },
     {
-      "name": "BxMxC",
-      "year": "2020",
-      "release_date": "2020-10-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/c9/2a/3ec92ad5-6f53-1ea4-05f3-20d4e21da23e/116519.jpg/600x600bb.jpg",
+      "name": "Bekhauf (feat. BABYMETAL)",
+      "year": "2024",
+      "release_date": "2024-12-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/9a/ad/fa9aadc3-75c8-3881-738f-9fa4cd91fc64/24CRGIM46496.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "BxMxC",
-          "duration": "3:03"
+          "name": "Bekhauf (feat. BABYMETAL)",
+          "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) [feat. BABYMETAL]",
+      "year": "2026",
+      "release_date": "2026-01-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/05/08/fa050837-69b7-c0c2-8a9d-cdb8e6b824f1/4547366794205.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) [feat. BABYMETAL]",
+          "duration": "3:07"
         }
       ]
     },
@@ -760,41 +747,15 @@
       ]
     },
     {
-      "name": "Song 3",
-      "year": "2025",
-      "release_date": "2025-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/24/ac/2d24ac50-8647-8516-3ec8-2032789d96f9/25UMGIM77348.rgb.jpg/600x600bb.jpg",
+      "name": "THE ONE (Unfinished Version - From THE FIRST TAKE)",
+      "year": "2023",
+      "release_date": "2023-05-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/a1/a0/e1a1a095-cbe2-55db-1157-afeeb37f1e06/116523.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Song 3",
-          "duration": "3:34"
-        }
-      ]
-    },
-    {
-      "name": "from me to u (Major Lazer Remix) [feat. Poppy]",
-      "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/97/69/8e976995-c68f-03dd-ba87-1174d798cca1/26UMGIM41216.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "from me to u (feat. Poppy) [Major Lazer Remix]",
-          "duration": "2:06"
-        }
-      ]
-    },
-    {
-      "name": "Get No Satisfied ! (feat. BABYMETAL)",
-      "year": "2025",
-      "release_date": "2025-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/49/04/2049043e-4245-71c5-bcef-ca236fc848ec/4540774746477.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Get No Satisfied ! (feat. BABYMETAL)",
-          "duration": "3:48"
+          "name": "THE ONE (Unfinished Version - From THE FIRST TAKE)",
+          "duration": "3:41"
         }
       ]
     },
@@ -808,32 +769,6 @@
           "number": 1,
           "name": "Distortion",
           "duration": "3:05"
-        }
-      ]
-    },
-    {
-      "name": "Monochrome (Piano Version - From THE FIRST TAKE)",
-      "year": "2023",
-      "release_date": "2023-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/95/38/1a9538db-6a0a-04b5-5942-de5acb47a9e4/116522.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Monochrome (Piano Version - From THE FIRST TAKE)",
-          "duration": "3:56"
-        }
-      ]
-    },
-    {
-      "name": "THE ONE (Unfinished Version - From THE FIRST TAKE)",
-      "year": "2023",
-      "release_date": "2023-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/a1/a0/e1a1a095-cbe2-55db-1157-afeeb37f1e06/116523.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "THE ONE (Unfinished Version - From THE FIRST TAKE)",
-          "duration": "3:41"
         }
       ]
     },
@@ -864,6 +799,97 @@
       ]
     },
     {
+      "name": "BxMxC",
+      "year": "2020",
+      "release_date": "2020-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/c9/2a/3ec92ad5-6f53-1ea4-05f3-20d4e21da23e/116519.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BxMxC",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Song 3",
+      "year": "2025",
+      "release_date": "2025-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/24/ac/2d24ac50-8647-8516-3ec8-2032789d96f9/25UMGIM77348.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Song 3",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "Get No Satisfied ! (feat. BABYMETAL)",
+      "year": "2025",
+      "release_date": "2025-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/49/04/2049043e-4245-71c5-bcef-ca236fc848ec/4540774746477.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Get No Satisfied ! (feat. BABYMETAL)",
+          "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Monochrome (Piano Version - From THE FIRST TAKE)",
+      "year": "2023",
+      "release_date": "2023-05-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/95/38/1a9538db-6a0a-04b5-5942-de5acb47a9e4/116522.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Monochrome (Piano Version - From THE FIRST TAKE)",
+          "duration": "3:56"
+        }
+      ]
+    },
+    {
+      "name": "Shanti Shanti Shanti",
+      "year": "2019",
+      "release_date": "2019-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/2c/3c/9e2c3c6a-d67b-4f04-3771-3306919c8bf9/120561.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shanti Shanti Shanti",
+          "duration": "3:10"
+        }
+      ]
+    },
+    {
+      "name": "Monochrome",
+      "year": "2022",
+      "release_date": "2022-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/33/f0/e833f0ae-2ac0-24d8-88fa-aae6224831eb/119405.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Monochrome",
+          "duration": "3:57"
+        }
+      ]
+    },
+    {
+      "name": "from me to u (Major Lazer Remix) [feat. Poppy]",
+      "year": "2026",
+      "release_date": "2026-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/97/69/8e976995-c68f-03dd-ba87-1174d798cca1/26UMGIM41216.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "from me to u (feat. Poppy) [Major Lazer Remix]",
+          "duration": "2:06"
+        }
+      ]
+    },
+    {
       "name": "Divine Attack - Shingeki -",
       "year": "2022",
       "release_date": "2022-10-20",
@@ -890,19 +916,6 @@
       ]
     },
     {
-      "name": "Monochrome",
-      "year": "2022",
-      "release_date": "2022-11-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/33/f0/e833f0ae-2ac0-24d8-88fa-aae6224831eb/119405.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Monochrome",
-          "duration": "3:57"
-        }
-      ]
-    },
-    {
       "name": "Starlight",
       "year": "2018",
       "release_date": "2018-10-19",
@@ -912,19 +925,6 @@
           "number": 1,
           "name": "Starlight",
           "duration": "3:37"
-        }
-      ]
-    },
-    {
-      "name": "Shanti Shanti Shanti",
-      "year": "2019",
-      "release_date": "2019-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/2c/3c/9e2c3c6a-d67b-4f04-3771-3306919c8bf9/120561.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shanti Shanti Shanti",
-          "duration": "3:10"
         }
       ]
     },

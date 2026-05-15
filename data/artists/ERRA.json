@@ -66,64 +66,6 @@
       ]
     },
     {
-      "name": "Impulse",
-      "year": "2011",
-      "release_date": "2011-11-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/76/1b/f7/mzi.wkrfzfab.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "White Noise",
-          "duration": "4:02"
-        },
-        {
-          "number": 2,
-          "name": "Pattern Interrupt",
-          "duration": "3:09"
-        },
-        {
-          "number": 3,
-          "name": "Seven",
-          "duration": "3:17"
-        },
-        {
-          "number": 4,
-          "name": "The Architect",
-          "duration": "3:15"
-        },
-        {
-          "number": 5,
-          "name": "Efflorescent",
-          "duration": "3:58"
-        },
-        {
-          "number": 6,
-          "name": "Vaalbara",
-          "duration": "4:14"
-        },
-        {
-          "number": 7,
-          "name": "Heart",
-          "duration": "3:31"
-        },
-        {
-          "number": 8,
-          "name": "Obscure Words",
-          "duration": "3:04"
-        },
-        {
-          "number": 9,
-          "name": "Invent",
-          "duration": "4:42"
-        },
-        {
-          "number": 10,
-          "name": "Render the Void",
-          "duration": "5:47"
-        }
-      ]
-    },
-    {
       "name": "Augment",
       "year": "2013",
       "release_date": "2013-10-29",
@@ -193,6 +135,64 @@
           "number": 13,
           "name": "Augment Interview - Teaser",
           "duration": "0:00"
+        }
+      ]
+    },
+    {
+      "name": "Impulse",
+      "year": "2011",
+      "release_date": "2011-11-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/76/1b/f7/mzi.wkrfzfab.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "White Noise",
+          "duration": "4:02"
+        },
+        {
+          "number": 2,
+          "name": "Pattern Interrupt",
+          "duration": "3:09"
+        },
+        {
+          "number": 3,
+          "name": "Seven",
+          "duration": "3:17"
+        },
+        {
+          "number": 4,
+          "name": "The Architect",
+          "duration": "3:15"
+        },
+        {
+          "number": 5,
+          "name": "Efflorescent",
+          "duration": "3:58"
+        },
+        {
+          "number": 6,
+          "name": "Vaalbara",
+          "duration": "4:14"
+        },
+        {
+          "number": 7,
+          "name": "Heart",
+          "duration": "3:31"
+        },
+        {
+          "number": 8,
+          "name": "Obscure Words",
+          "duration": "3:04"
+        },
+        {
+          "number": 9,
+          "name": "Invent",
+          "duration": "4:42"
+        },
+        {
+          "number": 10,
+          "name": "Render the Void",
+          "duration": "5:47"
         }
       ]
     },
@@ -308,64 +308,6 @@
       ]
     },
     {
-      "name": "Neon",
-      "year": "2018",
-      "release_date": "2018-08-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/f7/24/6af724b8-cc3c-579a-f725-14bf92be9bf7/00817424018821_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Breach",
-          "duration": "4:42"
-        },
-        {
-          "number": 2,
-          "name": "Monolith",
-          "duration": "3:57"
-        },
-        {
-          "number": 3,
-          "name": "Signal Fire",
-          "duration": "4:17"
-        },
-        {
-          "number": 4,
-          "name": "Valhalla",
-          "duration": "4:56"
-        },
-        {
-          "number": 5,
-          "name": "Hyperreality",
-          "duration": "3:58"
-        },
-        {
-          "number": 6,
-          "name": "Ghost of Nothing",
-          "duration": "4:14"
-        },
-        {
-          "number": 7,
-          "name": "Disarray",
-          "duration": "3:50"
-        },
-        {
-          "number": 8,
-          "name": "Expiate",
-          "duration": "3:33"
-        },
-        {
-          "number": 9,
-          "name": "Unify",
-          "duration": "3:53"
-        },
-        {
-          "number": 10,
-          "name": "Ultimata",
-          "duration": "4:56"
-        }
-      ]
-    },
-    {
       "name": "ERRA",
       "year": "2022",
       "release_date": "2022-03-18",
@@ -465,6 +407,64 @@
           "number": 19,
           "name": "Heresy",
           "duration": "4:32"
+        }
+      ]
+    },
+    {
+      "name": "Neon",
+      "year": "2018",
+      "release_date": "2018-08-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/f7/24/6af724b8-cc3c-579a-f725-14bf92be9bf7/00817424018821_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Breach",
+          "duration": "4:42"
+        },
+        {
+          "number": 2,
+          "name": "Monolith",
+          "duration": "3:57"
+        },
+        {
+          "number": 3,
+          "name": "Signal Fire",
+          "duration": "4:17"
+        },
+        {
+          "number": 4,
+          "name": "Valhalla",
+          "duration": "4:56"
+        },
+        {
+          "number": 5,
+          "name": "Hyperreality",
+          "duration": "3:58"
+        },
+        {
+          "number": 6,
+          "name": "Ghost of Nothing",
+          "duration": "4:14"
+        },
+        {
+          "number": 7,
+          "name": "Disarray",
+          "duration": "3:50"
+        },
+        {
+          "number": 8,
+          "name": "Expiate",
+          "duration": "3:33"
+        },
+        {
+          "number": 9,
+          "name": "Unify",
+          "duration": "3:53"
+        },
+        {
+          "number": 10,
+          "name": "Ultimata",
+          "duration": "4:56"
         }
       ]
     },
@@ -691,19 +691,6 @@
       ]
     },
     {
-      "name": "Pull from the Ghost",
-      "year": "2022",
-      "release_date": "2022-07-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/71/45/62714581-a724-a860-85bf-d6ec470dcab6/196925183314.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pull from the Ghost",
-          "duration": "4:11"
-        }
-      ]
-    },
-    {
       "name": "World Unknown",
       "year": "2022",
       "release_date": "2022-12-01",
@@ -713,6 +700,19 @@
           "number": 1,
           "name": "World Unknown",
           "duration": "4:29"
+        }
+      ]
+    },
+    {
+      "name": "Pull from the Ghost",
+      "year": "2022",
+      "release_date": "2022-07-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/71/45/62714581-a724-a860-85bf-d6ec470dcab6/196925183314.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pull from the Ghost",
+          "duration": "4:11"
         }
       ]
     },

@@ -4,6 +4,24 @@
   "albums": [],
   "singles": [
     {
+      "name": "MONTAGEM ELECTRONICA",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/0d/e9/fa0de9cd-f214-d1ce-c7e1-13c99db62f23/3178974.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM ELECTRONICA",
+          "duration": "1:29"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM ELECTRONICA (Slowed)",
+          "duration": "1:47"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM QUERSENTANO! (Versions)",
       "year": "2026",
       "release_date": "2026-05-05",
@@ -329,6 +347,34 @@
       ]
     },
     {
+      "name": "YEBOK FUNK",
+      "year": "2025",
+      "release_date": "2025-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/2e/e6/952ee6ae-5619-21c8-f638-7ecb4a2280da/199806586990.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "YEBOK FUNK",
+          "duration": "2:27"
+        },
+        {
+          "number": 2,
+          "name": "YEBOK FUNK (SPEED)",
+          "duration": "2:12"
+        },
+        {
+          "number": 3,
+          "name": "YEBOK FUNK (SLOWED)",
+          "duration": "2:45"
+        },
+        {
+          "number": 4,
+          "name": "YEBOK FUNK (SUPER SLOWED)",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM ARREPIA",
       "year": "2026",
       "release_date": "2026-04-07",
@@ -358,34 +404,6 @@
           "number": 5,
           "name": "MONTAGEM ARREPIA (ULTRA SLOWED)",
           "duration": "3:13"
-        }
-      ]
-    },
-    {
-      "name": "YEBOK FUNK",
-      "year": "2025",
-      "release_date": "2025-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/2e/e6/952ee6ae-5619-21c8-f638-7ecb4a2280da/199806586990.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "YEBOK FUNK",
-          "duration": "2:27"
-        },
-        {
-          "number": 2,
-          "name": "YEBOK FUNK (SPEED)",
-          "duration": "2:12"
-        },
-        {
-          "number": 3,
-          "name": "YEBOK FUNK (SLOWED)",
-          "duration": "2:45"
-        },
-        {
-          "number": 4,
-          "name": "YEBOK FUNK (SUPER SLOWED)",
-          "duration": "3:07"
         }
       ]
     }

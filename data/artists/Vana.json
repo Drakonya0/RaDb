@@ -1,57 +1,39 @@
 {
   "name": "Vana",
   "id": 1571331866,
-  "albums": [
+  "albums": [],
+  "singles": [
     {
-      "name": "Ask Yourself (Remastered 2025)",
-      "year": "2025",
-      "release_date": "2025-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/85/bd/3b85bd32-19cb-9dc7-2f27-804135cafce2/cover.jpg/600x600bb.jpg",
+      "name": "PLAYBOi",
+      "year": "2024",
+      "release_date": "2024-06-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/b8/c0/adb8c0cd-72a1-6a7a-db40-47d386c036c1/db39c386-2d48-49ee-ae58-6a8339d6d75a.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Ask yourself (Remastered 2025)",
-          "duration": "3:57"
+          "name": "PLAYBOi",
+          "duration": "2:13"
+        }
+      ]
+    },
+    {
+      "name": "In Your Name",
+      "year": "2026",
+      "release_date": "2026-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/e9/73/55e9734c-f1b9-6fe8-d510-ebdb9d3aedbc/823375069652_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In Your Name",
+          "duration": "4:42"
         },
         {
           "number": 2,
-          "name": "Power (Remastered 2025)",
-          "duration": "3:58"
-        },
-        {
-          "number": 3,
-          "name": "Moving inside (Remastered 2025)",
-          "duration": "4:03"
-        },
-        {
-          "number": 4,
-          "name": "From Greece with rage (Remastered 2025)",
-          "duration": "3:42"
-        },
-        {
-          "number": 5,
-          "name": "Solitary bird (Remastered 2025)",
-          "duration": "4:21"
-        },
-        {
-          "number": 6,
-          "name": "Carry on (Remastered 2025)",
-          "duration": "4:37"
-        },
-        {
-          "number": 7,
-          "name": "Mediterranean woman (Remastered 2025)",
-          "duration": "5:28"
-        },
-        {
-          "number": 8,
-          "name": "A you (Remastered 2025)",
-          "duration": "4:47"
+          "name": "Pray",
+          "duration": "3:29"
         }
       ]
-    }
-  ],
-  "singles": [
+    },
     {
       "name": "Beg!",
       "year": "2024",
@@ -62,19 +44,6 @@
           "number": 1,
           "name": "Beg!",
           "duration": "2:42"
-        }
-      ]
-    },
-    {
-      "name": "Pray",
-      "year": "2025",
-      "release_date": "2025-11-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/37/cf/e437cfd1-6f40-b5d3-ac8e-070215200ce3/198704813252_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pray",
-          "duration": "3:29"
         }
       ]
     },
@@ -92,6 +61,19 @@
       ]
     },
     {
+      "name": "Pray",
+      "year": "2025",
+      "release_date": "2025-11-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/37/cf/e437cfd1-6f40-b5d3-ac8e-070215200ce3/198704813252_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pray",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
       "name": "BITE BACK",
       "year": "2025",
       "release_date": "2025-04-18",
@@ -101,19 +83,6 @@
           "number": 1,
           "name": "BITE BACK",
           "duration": "3:45"
-        }
-      ]
-    },
-    {
-      "name": "PLAYBOi",
-      "year": "2024",
-      "release_date": "2024-06-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/b8/c0/adb8c0cd-72a1-6a7a-db40-47d386c036c1/db39c386-2d48-49ee-ae58-6a8339d6d75a.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PLAYBOi",
-          "duration": "2:13"
         }
       ]
     },
@@ -231,24 +200,6 @@
           "number": 1,
           "name": "HARLEQUIN!",
           "duration": "2:59"
-        }
-      ]
-    },
-    {
-      "name": "In Your Name",
-      "year": "2026",
-      "release_date": "2026-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/e9/73/55e9734c-f1b9-6fe8-d510-ebdb9d3aedbc/823375069652_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "In Your Name",
-          "duration": "4:42"
-        },
-        {
-          "number": 2,
-          "name": "Pray",
-          "duration": "3:29"
         }
       ]
     },

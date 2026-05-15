@@ -441,19 +441,6 @@
   ],
   "singles": [
     {
-      "name": "The Death We Seek",
-      "year": "2022",
-      "release_date": "2022-08-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/01/82/26/0182268f-e5a3-e374-d3f2-646ed015b5f8/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Death We Seek",
-          "duration": "4:05"
-        }
-      ]
-    },
-    {
       "name": "bad luck",
       "year": "2025",
       "release_date": "2025-09-10",
@@ -463,6 +450,19 @@
           "number": 1,
           "name": "bad luck",
           "duration": "4:12"
+        }
+      ]
+    },
+    {
+      "name": "The Death We Seek",
+      "year": "2022",
+      "release_date": "2022-08-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/01/82/26/0182268f-e5a3-e374-d3f2-646ed015b5f8/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Death We Seek",
+          "duration": "4:05"
         }
       ]
     },
@@ -526,39 +526,6 @@
   ],
   "eps": [
     {
-      "name": "Victimized",
-      "year": "2013",
-      "release_date": "2013-01-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ad/1a/0c/ad1a0cfe-2928-56d6-2bd6-ccf0d1165247/887516177118.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Victimized",
-          "duration": "3:13"
-        },
-        {
-          "number": 2,
-          "name": "Solace",
-          "duration": "4:33"
-        },
-        {
-          "number": 3,
-          "name": "Hanging By a Thread",
-          "duration": "3:48"
-        },
-        {
-          "number": 4,
-          "name": "My Promise Kept",
-          "duration": "4:11"
-        },
-        {
-          "number": 5,
-          "name": "A Confession",
-          "duration": "3:25"
-        }
-      ]
-    },
-    {
       "name": "All That Follows",
       "year": "2025",
       "release_date": "2025-10-31",
@@ -588,6 +555,39 @@
           "number": 5,
           "name": "Rise & Fall",
           "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Victimized",
+      "year": "2013",
+      "release_date": "2013-01-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ad/1a/0c/ad1a0cfe-2928-56d6-2bd6-ccf0d1165247/887516177118.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Victimized",
+          "duration": "3:13"
+        },
+        {
+          "number": 2,
+          "name": "Solace",
+          "duration": "4:33"
+        },
+        {
+          "number": 3,
+          "name": "Hanging By a Thread",
+          "duration": "3:48"
+        },
+        {
+          "number": 4,
+          "name": "My Promise Kept",
+          "duration": "4:11"
+        },
+        {
+          "number": 5,
+          "name": "A Confession",
+          "duration": "3:25"
         }
       ]
     },

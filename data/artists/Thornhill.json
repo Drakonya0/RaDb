@@ -192,89 +192,6 @@
       ]
     },
     {
-      "name": "Live on Tour!",
-      "year": "2024",
-      "release_date": "2024-06-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/ab/5c/52ab5c4e-910b-9c03-5255-371ac4147420/198391177415.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Arkangel - Live in Seattle, Usa",
-          "duration": "4:11"
-        },
-        {
-          "number": 2,
-          "name": "All the Light We Don't See - Live in Melbourne, Aus",
-          "duration": "1:46"
-        },
-        {
-          "number": 3,
-          "name": "Lily & the Moon - Live in Melbourne, Aus",
-          "duration": "4:08"
-        },
-        {
-          "number": 4,
-          "name": "Casanova - Live in New York, Usa",
-          "duration": "4:34"
-        },
-        {
-          "number": 5,
-          "name": "Coven - Live in Manchester, Uk",
-          "duration": "3:34"
-        },
-        {
-          "number": 6,
-          "name": "Hollywood - Live in Cardiff, Uk",
-          "duration": "5:08"
-        },
-        {
-          "number": 7,
-          "name": "Leather Wings - Live in Chicago, Usa",
-          "duration": "3:27"
-        },
-        {
-          "number": 8,
-          "name": "Obsession - Live in Perth, Aus",
-          "duration": "3:12"
-        },
-        {
-          "number": 9,
-          "name": "Raw - Live in Cincinnati, Usa",
-          "duration": "3:44"
-        },
-        {
-          "number": 10,
-          "name": "The Haze - Live in Melbourne, Aus",
-          "duration": "4:12"
-        },
-        {
-          "number": 11,
-          "name": "Red Summer - Live in Melbourne, Aus",
-          "duration": "4:22"
-        },
-        {
-          "number": 12,
-          "name": "The Hellfire Club - Live in Cologne, De",
-          "duration": "5:02"
-        },
-        {
-          "number": 13,
-          "name": "Views from the Sun - Live in Atlanta, Usa",
-          "duration": "4:04"
-        },
-        {
-          "number": 14,
-          "name": "Viper Room - Live in Newcastle, Uk",
-          "duration": "4:14"
-        },
-        {
-          "number": 15,
-          "name": "Where We Go When We Die - Live in Sydney, Aus",
-          "duration": "4:56"
-        }
-      ]
-    },
-    {
       "name": "BODIES Definitive",
       "year": "2026",
       "release_date": "2026-05-01",
@@ -407,6 +324,89 @@
           "number": 12,
           "name": "For Now (James Mckendrick Remix)",
           "duration": "4:53"
+        }
+      ]
+    },
+    {
+      "name": "Live on Tour!",
+      "year": "2024",
+      "release_date": "2024-06-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/ab/5c/52ab5c4e-910b-9c03-5255-371ac4147420/198391177415.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Arkangel - Live in Seattle, Usa",
+          "duration": "4:11"
+        },
+        {
+          "number": 2,
+          "name": "All the Light We Don't See - Live in Melbourne, Aus",
+          "duration": "1:46"
+        },
+        {
+          "number": 3,
+          "name": "Lily & the Moon - Live in Melbourne, Aus",
+          "duration": "4:08"
+        },
+        {
+          "number": 4,
+          "name": "Casanova - Live in New York, Usa",
+          "duration": "4:34"
+        },
+        {
+          "number": 5,
+          "name": "Coven - Live in Manchester, Uk",
+          "duration": "3:34"
+        },
+        {
+          "number": 6,
+          "name": "Hollywood - Live in Cardiff, Uk",
+          "duration": "5:08"
+        },
+        {
+          "number": 7,
+          "name": "Leather Wings - Live in Chicago, Usa",
+          "duration": "3:27"
+        },
+        {
+          "number": 8,
+          "name": "Obsession - Live in Perth, Aus",
+          "duration": "3:12"
+        },
+        {
+          "number": 9,
+          "name": "Raw - Live in Cincinnati, Usa",
+          "duration": "3:44"
+        },
+        {
+          "number": 10,
+          "name": "The Haze - Live in Melbourne, Aus",
+          "duration": "4:12"
+        },
+        {
+          "number": 11,
+          "name": "Red Summer - Live in Melbourne, Aus",
+          "duration": "4:22"
+        },
+        {
+          "number": 12,
+          "name": "The Hellfire Club - Live in Cologne, De",
+          "duration": "5:02"
+        },
+        {
+          "number": 13,
+          "name": "Views from the Sun - Live in Atlanta, Usa",
+          "duration": "4:04"
+        },
+        {
+          "number": 14,
+          "name": "Viper Room - Live in Newcastle, Uk",
+          "duration": "4:14"
+        },
+        {
+          "number": 15,
+          "name": "Where We Go When We Die - Live in Sydney, Aus",
+          "duration": "4:56"
         }
       ]
     },
@@ -647,39 +647,6 @@
   ],
   "eps": [
     {
-      "name": "13",
-      "year": "2016",
-      "release_date": "2016-08-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/30/8d/4d308de3-1e20-1770-22f7-e506f7ad671a/889326723592.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Days",
-          "duration": "1:19"
-        },
-        {
-          "number": 2,
-          "name": "Outcast",
-          "duration": "3:35"
-        },
-        {
-          "number": 3,
-          "name": "Tunnel Vision",
-          "duration": "2:46"
-        },
-        {
-          "number": 4,
-          "name": "Patterns",
-          "duration": "3:19"
-        },
-        {
-          "number": 5,
-          "name": "Xy",
-          "duration": "3:57"
-        }
-      ]
-    },
-    {
       "name": "Butterfly",
       "year": "2018",
       "release_date": "2018-02-16",
@@ -714,6 +681,39 @@
           "number": 6,
           "name": "Joy",
           "duration": "4:51"
+        }
+      ]
+    },
+    {
+      "name": "13",
+      "year": "2016",
+      "release_date": "2016-08-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/30/8d/4d308de3-1e20-1770-22f7-e506f7ad671a/889326723592.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Days",
+          "duration": "1:19"
+        },
+        {
+          "number": 2,
+          "name": "Outcast",
+          "duration": "3:35"
+        },
+        {
+          "number": 3,
+          "name": "Tunnel Vision",
+          "duration": "2:46"
+        },
+        {
+          "number": 4,
+          "name": "Patterns",
+          "duration": "3:19"
+        },
+        {
+          "number": 5,
+          "name": "Xy",
+          "duration": "3:57"
         }
       ]
     },

@@ -3,6 +3,39 @@
   "id": 20101717,
   "albums": [
     {
+      "name": "Time I",
+      "year": "2012",
+      "release_date": "2012-10-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/e7/46/c1e7465a-5361-7f94-e538-55f42169b96d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "When Time Fades Away",
+          "duration": "4:07"
+        },
+        {
+          "number": 2,
+          "name": "Sons of Winter and Stars",
+          "duration": "13:31"
+        },
+        {
+          "number": 3,
+          "name": "Land of Snow and Sorrow",
+          "duration": "8:21"
+        },
+        {
+          "number": 4,
+          "name": "Darkness and Frost",
+          "duration": "2:23"
+        },
+        {
+          "number": 5,
+          "name": "Time",
+          "duration": "11:44"
+        }
+      ]
+    },
+    {
       "name": "Time II",
       "year": "2024",
       "release_date": "2024-08-30",
@@ -85,39 +118,6 @@
           "number": 8,
           "name": "Sadness and Hate",
           "duration": "10:16"
-        }
-      ]
-    },
-    {
-      "name": "Time I",
-      "year": "2012",
-      "release_date": "2012-10-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c1/e7/46/c1e7465a-5361-7f94-e538-55f42169b96d/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "When Time Fades Away",
-          "duration": "4:07"
-        },
-        {
-          "number": 2,
-          "name": "Sons of Winter and Stars",
-          "duration": "13:31"
-        },
-        {
-          "number": 3,
-          "name": "Land of Snow and Sorrow",
-          "duration": "8:21"
-        },
-        {
-          "number": 4,
-          "name": "Darkness and Frost",
-          "duration": "2:23"
-        },
-        {
-          "number": 5,
-          "name": "Time",
-          "duration": "11:44"
         }
       ]
     },

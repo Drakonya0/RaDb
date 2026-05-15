@@ -3,6 +3,34 @@
   "id": 38124,
   "albums": [
     {
+      "name": "Ambient 1: Music for Airports",
+      "year": "1978",
+      "release_date": "1978-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ee/71/42/ee71425d-6bc9-3df8-c90b-8539f59144ab/00724386649553.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "1/1",
+          "duration": "17:21"
+        },
+        {
+          "number": 2,
+          "name": "2/1",
+          "duration": "8:54"
+        },
+        {
+          "number": 3,
+          "name": "1/2",
+          "duration": "12:07"
+        },
+        {
+          "number": 4,
+          "name": "2/2",
+          "duration": "9:38"
+        }
+      ]
+    },
+    {
       "name": "My Life In the Bush of Ghosts",
       "year": "1981",
       "release_date": "1981-02-01",
@@ -101,34 +129,6 @@
       ]
     },
     {
-      "name": "Ambient 1: Music for Airports",
-      "year": "1978",
-      "release_date": "1978-03-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ee/71/42/ee71425d-6bc9-3df8-c90b-8539f59144ab/00724386649553.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "1/1",
-          "duration": "17:21"
-        },
-        {
-          "number": 2,
-          "name": "2/1",
-          "duration": "8:54"
-        },
-        {
-          "number": 3,
-          "name": "1/2",
-          "duration": "12:07"
-        },
-        {
-          "number": 4,
-          "name": "2/2",
-          "duration": "9:38"
-        }
-      ]
-    },
-    {
       "name": "Apollo: Atmospheres and Soundtracks",
       "year": "1983",
       "release_date": "1983-07-01",
@@ -197,60 +197,60 @@
       ]
     },
     {
-      "name": "Ambient 2: The Plateaux of Mirror",
-      "year": "1980",
-      "release_date": "1980-04-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/34/cb/7734cb44-688f-0a0f-6d09-ed12977f4c5e/00724386649751.rgb.jpg/600x600bb.jpg",
+      "name": "Here Come the Warm Jets",
+      "year": "1974",
+      "release_date": "1974-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/75/1d/1f/751d1fcf-a66e-94f5-4d65-b7f636709235/00724357729352.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "First Light",
-          "duration": "7:06"
+          "name": "Needles In the Camel's Eye (2004 Remaster)",
+          "duration": "3:11"
         },
         {
           "number": 2,
-          "name": "Steal Away",
-          "duration": "1:29"
+          "name": "The Paw Paw Negro Blowtorch (2004 Remaster)",
+          "duration": "3:04"
         },
         {
           "number": 3,
-          "name": "The Plateaux of Mirror",
-          "duration": "4:13"
+          "name": "Baby's On Fire (2004 Remaster)",
+          "duration": "5:19"
         },
         {
           "number": 4,
-          "name": "Above Chiangmai",
-          "duration": "2:55"
+          "name": "Cindy Tells Me (2004 Remaster)",
+          "duration": "3:25"
         },
         {
           "number": 5,
-          "name": "An Arc of Doves",
-          "duration": "6:29"
+          "name": "Driving Me Backwards (2004 Remaster)",
+          "duration": "5:12"
         },
         {
           "number": 6,
-          "name": "Not Yet Remembered",
-          "duration": "3:50"
+          "name": "On Some Faraway Beach (2004 Remaster)",
+          "duration": "4:36"
         },
         {
           "number": 7,
-          "name": "The Chill Air",
-          "duration": "2:13"
+          "name": "Blank Frank (2004 Remaster)",
+          "duration": "3:37"
         },
         {
           "number": 8,
-          "name": "Among Fields of Crystal",
-          "duration": "3:24"
+          "name": "Dead Finks Don't Talk (2004 Remaster)",
+          "duration": "4:19"
         },
         {
           "number": 9,
-          "name": "Wind In Lonely Fences",
-          "duration": "3:58"
+          "name": "Some of Them Are Old (2004 Remaster)",
+          "duration": "5:11"
         },
         {
           "number": 10,
-          "name": "Failing Light",
-          "duration": "4:14"
+          "name": "Here Come the Warm Jets (2004 Remaster)",
+          "duration": "4:04"
         }
       ]
     },
@@ -318,60 +318,343 @@
       ]
     },
     {
-      "name": "Here Come the Warm Jets",
-      "year": "1974",
-      "release_date": "1974-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/75/1d/1f/751d1fcf-a66e-94f5-4d65-b7f636709235/00724357729352.rgb.jpg/600x600bb.jpg",
+      "name": "Ambient 2: The Plateaux of Mirror",
+      "year": "1980",
+      "release_date": "1980-04-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/77/34/cb/7734cb44-688f-0a0f-6d09-ed12977f4c5e/00724386649751.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Needles In the Camel's Eye (2004 Remaster)",
-          "duration": "3:11"
+          "name": "First Light",
+          "duration": "7:06"
         },
         {
           "number": 2,
-          "name": "The Paw Paw Negro Blowtorch (2004 Remaster)",
-          "duration": "3:04"
+          "name": "Steal Away",
+          "duration": "1:29"
         },
         {
           "number": 3,
-          "name": "Baby's On Fire (2004 Remaster)",
-          "duration": "5:19"
+          "name": "The Plateaux of Mirror",
+          "duration": "4:13"
         },
         {
           "number": 4,
-          "name": "Cindy Tells Me (2004 Remaster)",
-          "duration": "3:25"
+          "name": "Above Chiangmai",
+          "duration": "2:55"
         },
         {
           "number": 5,
-          "name": "Driving Me Backwards (2004 Remaster)",
-          "duration": "5:12"
+          "name": "An Arc of Doves",
+          "duration": "6:29"
         },
         {
           "number": 6,
-          "name": "On Some Faraway Beach (2004 Remaster)",
-          "duration": "4:36"
+          "name": "Not Yet Remembered",
+          "duration": "3:50"
         },
         {
           "number": 7,
-          "name": "Blank Frank (2004 Remaster)",
-          "duration": "3:37"
+          "name": "The Chill Air",
+          "duration": "2:13"
         },
         {
           "number": 8,
-          "name": "Dead Finks Don't Talk (2004 Remaster)",
-          "duration": "4:19"
+          "name": "Among Fields of Crystal",
+          "duration": "3:24"
         },
         {
           "number": 9,
-          "name": "Some of Them Are Old (2004 Remaster)",
-          "duration": "5:11"
+          "name": "Wind In Lonely Fences",
+          "duration": "3:58"
         },
         {
           "number": 10,
-          "name": "Here Come the Warm Jets (2004 Remaster)",
-          "duration": "4:04"
+          "name": "Failing Light",
+          "duration": "4:14"
+        }
+      ]
+    },
+    {
+      "name": "Ambient 4: On Land",
+      "year": "1982",
+      "release_date": "1982-04-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/23/14/74/23147421-acac-ef98-74cb-a1d2e13f8638/00724386649959.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lizard Point",
+          "duration": "4:34"
+        },
+        {
+          "number": 2,
+          "name": "The Lost Day",
+          "duration": "9:12"
+        },
+        {
+          "number": 3,
+          "name": "Tal Coat",
+          "duration": "5:27"
+        },
+        {
+          "number": 4,
+          "name": "Shadow",
+          "duration": "3:00"
+        },
+        {
+          "number": 5,
+          "name": "Lantern Marsh",
+          "duration": "5:31"
+        },
+        {
+          "number": 6,
+          "name": "Unfamiliar Wind (Leeks Hills)",
+          "duration": "5:26"
+        },
+        {
+          "number": 7,
+          "name": "A Clearing",
+          "duration": "4:07"
+        },
+        {
+          "number": 8,
+          "name": "Dunwich Beach, Autumn, 1960",
+          "duration": "7:10"
+        }
+      ]
+    },
+    {
+      "name": "The Pearl",
+      "year": "1984",
+      "release_date": "1984-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7d/f7/8a/7df78a98-2a85-9175-828f-8aa997eb1bfe/00094633197657.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Late October",
+          "duration": "4:44"
+        },
+        {
+          "number": 2,
+          "name": "A Stream With Bright Fish",
+          "duration": "3:56"
+        },
+        {
+          "number": 3,
+          "name": "The Silver Ball",
+          "duration": "3:31"
+        },
+        {
+          "number": 4,
+          "name": "Against the Sky",
+          "duration": "4:52"
+        },
+        {
+          "number": 5,
+          "name": "Lost In the Humming Air",
+          "duration": "4:21"
+        },
+        {
+          "number": 6,
+          "name": "Dark Eyed Sister",
+          "duration": "4:42"
+        },
+        {
+          "number": 7,
+          "name": "Their Memories",
+          "duration": "2:57"
+        },
+        {
+          "number": 8,
+          "name": "The Pearl",
+          "duration": "3:14"
+        },
+        {
+          "number": 9,
+          "name": "Foreshadowed",
+          "duration": "3:52"
+        },
+        {
+          "number": 10,
+          "name": "An Echo of Night",
+          "duration": "2:28"
+        },
+        {
+          "number": 11,
+          "name": "Still Return",
+          "duration": "4:12"
+        }
+      ]
+    },
+    {
+      "name": "Before and After Science - Ten Pictures",
+      "year": "1977",
+      "release_date": "1977-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fd/bc/c8/fdbcc830-9664-4b6b-369a-507dfca4b698/00724357729253.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "No One Receiving",
+          "duration": "3:52"
+        },
+        {
+          "number": 2,
+          "name": "Backwater",
+          "duration": "3:43"
+        },
+        {
+          "number": 3,
+          "name": "Kurt's Rejoinder",
+          "duration": "2:55"
+        },
+        {
+          "number": 4,
+          "name": "Energy Fools the Magician",
+          "duration": "2:04"
+        },
+        {
+          "number": 5,
+          "name": "King's Lead Hat",
+          "duration": "3:56"
+        },
+        {
+          "number": 6,
+          "name": "Here He Comes",
+          "duration": "5:38"
+        },
+        {
+          "number": 7,
+          "name": "Julie With...",
+          "duration": "6:19"
+        },
+        {
+          "number": 8,
+          "name": "By This River",
+          "duration": "3:03"
+        },
+        {
+          "number": 9,
+          "name": "Through Hollow Lands (For Harold Budd)",
+          "duration": "3:56"
+        },
+        {
+          "number": 10,
+          "name": "Spider and I",
+          "duration": "4:10"
+        }
+      ]
+    },
+    {
+      "name": "Thursday Afternoon",
+      "year": "1985",
+      "release_date": "1985-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/70/48/0e/70480e7f-b2bb-752d-efbe-aed050f62257/00724356364851.tif/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Thursday Afternoon",
+          "duration": "60:50"
+        }
+      ]
+    },
+    {
+      "name": "Evening Star",
+      "year": "1975",
+      "release_date": "1975-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8e/04/c8/8e04c83f-4e68-c66b-eaea-02fbc1eb0b01/633367883520.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wind on Water",
+          "duration": "5:29"
+        },
+        {
+          "number": 2,
+          "name": "Evening Star",
+          "duration": "7:50"
+        },
+        {
+          "number": 3,
+          "name": "Evensong",
+          "duration": "2:55"
+        },
+        {
+          "number": 4,
+          "name": "Wind on Wind",
+          "duration": "3:13"
+        },
+        {
+          "number": 5,
+          "name": "An Index of Metals I",
+          "duration": "4:15"
+        },
+        {
+          "number": 6,
+          "name": "An Index of Metals II",
+          "duration": "2:32"
+        },
+        {
+          "number": 7,
+          "name": "An Index of Metals III",
+          "duration": "3:51"
+        },
+        {
+          "number": 8,
+          "name": "An Index of Metals IV",
+          "duration": "6:30"
+        },
+        {
+          "number": 9,
+          "name": "An Index of Metals V",
+          "duration": "4:23"
+        },
+        {
+          "number": 10,
+          "name": "An Index of Metals VI",
+          "duration": "7:12"
+        }
+      ]
+    },
+    {
+      "name": "No Pussyfooting",
+      "year": "1973",
+      "release_date": "1973-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c1/b2/df/c1b2df80-0f98-c338-c55c-691bb1101879/633367883629.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Heavenly Music Corporation I",
+          "duration": "6:17"
+        },
+        {
+          "number": 2,
+          "name": "The Heavenly Music Corporation II",
+          "duration": "3:08"
+        },
+        {
+          "number": 3,
+          "name": "The Heavenly Music Corporation III",
+          "duration": "2:21"
+        },
+        {
+          "number": 4,
+          "name": "The Heavenly Music Corporation IV",
+          "duration": "4:53"
+        },
+        {
+          "number": 5,
+          "name": "The Heavenly Music Corporation V",
+          "duration": "4:15"
+        },
+        {
+          "number": 6,
+          "name": "Swastika Girls I",
+          "duration": "7:32"
+        },
+        {
+          "number": 7,
+          "name": "Swastika Girls II",
+          "duration": "11:27"
         }
       ]
     },
@@ -454,73 +737,88 @@
       ]
     },
     {
-      "name": "Thursday Afternoon",
-      "year": "1985",
-      "release_date": "1985-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/70/48/0e/70480e7f-b2bb-752d-efbe-aed050f62257/00724356364851.tif/600x600bb.jpg",
+      "name": "After the Heat",
+      "year": "1978",
+      "release_date": "1978-04-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/0e/32/860e3216-2265-cc16-88ca-e3eeef2b11ae/4050486801246.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Thursday Afternoon",
-          "duration": "60:50"
+          "name": "Oil",
+          "duration": "4:13"
+        },
+        {
+          "number": 2,
+          "name": "Foreign Affairs",
+          "duration": "3:31"
+        },
+        {
+          "number": 3,
+          "name": "Luftschloss",
+          "duration": "3:09"
+        },
+        {
+          "number": 4,
+          "name": "The Shade",
+          "duration": "3:11"
+        },
+        {
+          "number": 5,
+          "name": "Old Land",
+          "duration": "4:13"
+        },
+        {
+          "number": 6,
+          "name": "Base & Apex",
+          "duration": "4:33"
+        },
+        {
+          "number": 7,
+          "name": "Light Arms",
+          "duration": "1:32"
+        },
+        {
+          "number": 8,
+          "name": "Broken Head",
+          "duration": "5:22"
+        },
+        {
+          "number": 9,
+          "name": "The Belldog",
+          "duration": "6:19"
+        },
+        {
+          "number": 10,
+          "name": "Tzima N'arki",
+          "duration": "4:32"
         }
       ]
     },
     {
-      "name": "Before and After Science - Ten Pictures",
-      "year": "1977",
-      "release_date": "1977-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fd/bc/c8/fdbcc830-9664-4b6b-369a-507dfca4b698/00724357729253.rgb.jpg/600x600bb.jpg",
+      "name": "Discreet Music",
+      "year": "1975",
+      "release_date": "1975-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/03/ad/e7/03ade711-b86d-d600-f8a3-9771470e9fee/00724386649355.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "No One Receiving",
-          "duration": "3:52"
+          "name": "Discreet Music",
+          "duration": "31:34"
         },
         {
           "number": 2,
-          "name": "Backwater",
-          "duration": "3:43"
+          "name": "Fullness of Wind",
+          "duration": "9:55"
         },
         {
           "number": 3,
-          "name": "Kurt's Rejoinder",
-          "duration": "2:55"
+          "name": "French Catalogues",
+          "duration": "5:19"
         },
         {
           "number": 4,
-          "name": "Energy Fools the Magician",
-          "duration": "2:04"
-        },
-        {
-          "number": 5,
-          "name": "King's Lead Hat",
-          "duration": "3:56"
-        },
-        {
-          "number": 6,
-          "name": "Here He Comes",
-          "duration": "5:38"
-        },
-        {
-          "number": 7,
-          "name": "Julie With...",
-          "duration": "6:19"
-        },
-        {
-          "number": 8,
-          "name": "By This River",
-          "duration": "3:03"
-        },
-        {
-          "number": 9,
-          "name": "Through Hollow Lands (For Harold Budd)",
-          "duration": "3:56"
-        },
-        {
-          "number": 10,
-          "name": "Spider and I",
-          "duration": "4:10"
+          "name": "Brutal Ardour",
+          "duration": "8:13"
         }
       ]
     },
@@ -583,6 +881,102 @@
       ]
     },
     {
+      "name": "The Equatorial Stars",
+      "year": "2005",
+      "release_date": "2005-04-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/84/13/77/84137777-00b6-0082-ba33-1bc5aaa90bd3/633367883728.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Meissa",
+          "duration": "8:08"
+        },
+        {
+          "number": 2,
+          "name": "Lyra",
+          "duration": "7:45"
+        },
+        {
+          "number": 3,
+          "name": "Tarazed",
+          "duration": "5:03"
+        },
+        {
+          "number": 4,
+          "name": "Lupus",
+          "duration": "5:09"
+        },
+        {
+          "number": 5,
+          "name": "Ankaa",
+          "duration": "7:01"
+        },
+        {
+          "number": 6,
+          "name": "Altair",
+          "duration": "5:11"
+        },
+        {
+          "number": 7,
+          "name": "Terebellum",
+          "duration": "9:40"
+        }
+      ]
+    },
+    {
+      "name": "Cluster & Eno",
+      "year": "1977",
+      "release_date": "1977-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/cf/55/45cf550c-a171-076d-dec0-29c39de4bf77/4050486801055.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ho Renomo",
+          "duration": "5:11"
+        },
+        {
+          "number": 2,
+          "name": "Schöne Hände",
+          "duration": "3:05"
+        },
+        {
+          "number": 3,
+          "name": "Steinsame",
+          "duration": "4:12"
+        },
+        {
+          "number": 4,
+          "name": "Wehrmut",
+          "duration": "5:04"
+        },
+        {
+          "number": 5,
+          "name": "Mit Simaen",
+          "duration": "1:32"
+        },
+        {
+          "number": 6,
+          "name": "Selange",
+          "duration": "3:34"
+        },
+        {
+          "number": 7,
+          "name": "Die Bunge",
+          "duration": "3:47"
+        },
+        {
+          "number": 8,
+          "name": "One",
+          "duration": "6:19"
+        },
+        {
+          "number": 9,
+          "name": "Für Luise",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
       "name": "Wrong Way Up",
       "year": "1990",
       "release_date": "1990-10-05",
@@ -637,6 +1031,104 @@
           "number": 10,
           "name": "The River",
           "duration": "4:24"
+        }
+      ]
+    },
+    {
+      "name": "Mixing Colours",
+      "year": "2020",
+      "release_date": "2020-03-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b6/a0/1b/b6a01b7b-33e8-a05d-0974-12ca6d81f61f/19UMGIM71230.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Spring Frost",
+          "duration": "4:07"
+        },
+        {
+          "number": 2,
+          "name": "Burnt Umber",
+          "duration": "4:15"
+        },
+        {
+          "number": 3,
+          "name": "Celeste",
+          "duration": "4:22"
+        },
+        {
+          "number": 4,
+          "name": "Wintergreen",
+          "duration": "4:10"
+        },
+        {
+          "number": 5,
+          "name": "Obsidian",
+          "duration": "5:06"
+        },
+        {
+          "number": 6,
+          "name": "Blonde",
+          "duration": "4:10"
+        },
+        {
+          "number": 7,
+          "name": "Dark Sienna",
+          "duration": "3:47"
+        },
+        {
+          "number": 8,
+          "name": "Verdigris",
+          "duration": "4:03"
+        },
+        {
+          "number": 9,
+          "name": "Snow",
+          "duration": "4:40"
+        },
+        {
+          "number": 10,
+          "name": "Rose Quartz",
+          "duration": "4:07"
+        },
+        {
+          "number": 11,
+          "name": "Quicksilver",
+          "duration": "5:12"
+        },
+        {
+          "number": 12,
+          "name": "Ultramarine",
+          "duration": "2:27"
+        },
+        {
+          "number": 13,
+          "name": "Iris",
+          "duration": "2:53"
+        },
+        {
+          "number": 14,
+          "name": "Cinnabar",
+          "duration": "3:20"
+        },
+        {
+          "number": 15,
+          "name": "Desert Sand",
+          "duration": "4:50"
+        },
+        {
+          "number": 16,
+          "name": "Deep Saffron",
+          "duration": "4:38"
+        },
+        {
+          "number": 17,
+          "name": "Cerulean Blue",
+          "duration": "4:05"
+        },
+        {
+          "number": 18,
+          "name": "Slow Movement: Sand",
+          "duration": "4:55"
         }
       ]
     },
@@ -764,247 +1256,405 @@
       ]
     },
     {
-      "name": "Evening Star",
-      "year": "1975",
-      "release_date": "1975-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8e/04/c8/8e04c83f-4e68-c66b-eaea-02fbc1eb0b01/633367883520.png/600x600bb.jpg",
+      "name": "FOREVERANDEVERNOMORE",
+      "year": "2022",
+      "release_date": "2022-10-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/88/79/5d/88795d01-7201-83bb-4ef5-447fa6af5438/22UMGIM67461.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Wind on Water",
-          "duration": "5:29"
+          "name": "Who Gives a Thought",
+          "duration": "3:59"
         },
         {
           "number": 2,
-          "name": "Evening Star",
-          "duration": "7:50"
+          "name": "We Let It In",
+          "duration": "3:28"
         },
         {
           "number": 3,
-          "name": "Evensong",
-          "duration": "2:55"
-        },
-        {
-          "number": 4,
-          "name": "Wind on Wind",
-          "duration": "3:13"
-        },
-        {
-          "number": 5,
-          "name": "An Index of Metals I",
-          "duration": "4:15"
-        },
-        {
-          "number": 6,
-          "name": "An Index of Metals II",
-          "duration": "2:32"
-        },
-        {
-          "number": 7,
-          "name": "An Index of Metals III",
-          "duration": "3:51"
-        },
-        {
-          "number": 8,
-          "name": "An Index of Metals IV",
-          "duration": "6:30"
-        },
-        {
-          "number": 9,
-          "name": "An Index of Metals V",
+          "name": "Icarus or Blériot",
           "duration": "4:23"
         },
         {
-          "number": 10,
-          "name": "An Index of Metals VI",
-          "duration": "7:12"
-        }
-      ]
-    },
-    {
-      "name": "The Pearl",
-      "year": "1984",
-      "release_date": "1984-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7d/f7/8a/7df78a98-2a85-9175-828f-8aa997eb1bfe/00094633197657.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Late October",
-          "duration": "4:44"
-        },
-        {
-          "number": 2,
-          "name": "A Stream With Bright Fish",
-          "duration": "3:56"
-        },
-        {
-          "number": 3,
-          "name": "The Silver Ball",
-          "duration": "3:31"
-        },
-        {
           "number": 4,
-          "name": "Against the Sky",
+          "name": "Garden of Stars",
+          "duration": "4:19"
+        },
+        {
+          "number": 5,
+          "name": "Inclusion",
+          "duration": "4:55"
+        },
+        {
+          "number": 6,
+          "name": "There Were Bells",
           "duration": "4:52"
         },
         {
-          "number": 5,
-          "name": "Lost In the Humming Air",
-          "duration": "4:21"
-        },
-        {
-          "number": 6,
-          "name": "Dark Eyed Sister",
-          "duration": "4:42"
-        },
-        {
           "number": 7,
-          "name": "Their Memories",
-          "duration": "2:57"
+          "name": "Sherry",
+          "duration": "3:25"
         },
         {
           "number": 8,
-          "name": "The Pearl",
-          "duration": "3:14"
+          "name": "I’m Hardly Me",
+          "duration": "3:50"
         },
         {
           "number": 9,
-          "name": "Foreshadowed",
-          "duration": "3:52"
+          "name": "These Small Noises",
+          "duration": "3:22"
         },
         {
           "number": 10,
-          "name": "An Echo of Night",
-          "duration": "2:28"
-        },
-        {
-          "number": 11,
-          "name": "Still Return",
-          "duration": "4:12"
+          "name": "Making Gardens Out of Silence",
+          "duration": "8:21"
         }
       ]
     },
     {
-      "name": "Cluster & Eno",
-      "year": "1977",
-      "release_date": "1977-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/cf/55/45cf550c-a171-076d-dec0-29c39de4bf77/4050486801055.jpg/600x600bb.jpg",
+      "name": "Music For Films",
+      "year": "1978",
+      "release_date": "1978-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/36/2f/a3362ffa-732e-b2be-e49c-6b412dfd4498/13UABIM35943.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Ho Renomo",
-          "duration": "5:11"
+          "name": "Aragon (Remastered 2005)",
+          "duration": "1:37"
         },
         {
           "number": 2,
-          "name": "Schöne Hände",
-          "duration": "3:05"
+          "name": "From The Same Hill (Remastered 2005)",
+          "duration": "3:00"
         },
         {
           "number": 3,
-          "name": "Steinsame",
-          "duration": "4:12"
+          "name": "Inland Sea (Remastered 2005)",
+          "duration": "1:24"
         },
         {
           "number": 4,
-          "name": "Wehrmut",
-          "duration": "5:04"
+          "name": "Two Rapid Formations (Remastered 2005)",
+          "duration": "3:23"
         },
         {
           "number": 5,
-          "name": "Mit Simaen",
-          "duration": "1:32"
+          "name": "Slow Water (Remastered 2005)",
+          "duration": "3:16"
         },
         {
           "number": 6,
-          "name": "Selange",
-          "duration": "3:34"
+          "name": "Sparrowfall (1) [Remastered 2005]",
+          "duration": "1:10"
         },
         {
           "number": 7,
-          "name": "Die Bunge",
-          "duration": "3:47"
+          "name": "Sparrowfall (2) [Remastered 2005]",
+          "duration": "1:43"
         },
         {
           "number": 8,
-          "name": "One",
-          "duration": "6:19"
+          "name": "Sparrowfall (3) [Remastered 2005]",
+          "duration": "1:23"
         },
         {
           "number": 9,
-          "name": "Für Luise",
-          "duration": "3:26"
+          "name": "Alternative 3 (Remastered 2005)",
+          "duration": "3:15"
+        },
+        {
+          "number": 10,
+          "name": "Quartz (Remastered 2005)",
+          "duration": "2:02"
+        },
+        {
+          "number": 11,
+          "name": "Events In Dense Fog (Remastered 2005)",
+          "duration": "3:43"
+        },
+        {
+          "number": 12,
+          "name": "There Is Nobody (Remastered 2005)",
+          "duration": "1:43"
+        },
+        {
+          "number": 13,
+          "name": "Patrolling Wire Borders (Remastered 2005)",
+          "duration": "1:42"
+        },
+        {
+          "number": 14,
+          "name": "A Measured Room (Remastered 2005)",
+          "duration": "1:05"
+        },
+        {
+          "number": 15,
+          "name": "Task Force (Remastered 2005)",
+          "duration": "1:22"
+        },
+        {
+          "number": 16,
+          "name": "M386 (Remastered 2005)",
+          "duration": "2:50"
+        },
+        {
+          "number": 17,
+          "name": "Strange Light (Remastered 2005)",
+          "duration": "2:09"
+        },
+        {
+          "number": 18,
+          "name": "Final Sunset (Remastered 2005)",
+          "duration": "4:13"
         }
       ]
     },
     {
-      "name": "No Pussyfooting",
-      "year": "1973",
-      "release_date": "1973-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c1/b2/df/c1b2df80-0f98-c338-c55c-691bb1101879/633367883629.png/600x600bb.jpg",
+      "name": "Secret Life",
+      "year": "2023",
+      "release_date": "2023-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/87/8c/90878c50-d5bc-095b-0b73-8964b2000c91/3663729244796_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Heavenly Music Corporation I",
-          "duration": "6:17"
+          "name": "I Saw You",
+          "duration": "4:25"
         },
         {
           "number": 2,
-          "name": "The Heavenly Music Corporation II",
-          "duration": "3:08"
+          "name": "Secret",
+          "duration": "5:04"
         },
         {
           "number": 3,
-          "name": "The Heavenly Music Corporation III",
-          "duration": "2:21"
+          "name": "Radio",
+          "duration": "4:04"
         },
         {
           "number": 4,
-          "name": "The Heavenly Music Corporation IV",
-          "duration": "4:53"
+          "name": "Follow",
+          "duration": "1:39"
         },
         {
           "number": 5,
-          "name": "The Heavenly Music Corporation V",
-          "duration": "4:15"
+          "name": "Enough",
+          "duration": "5:22"
         },
         {
           "number": 6,
-          "name": "Swastika Girls I",
-          "duration": "7:32"
+          "name": "Pause",
+          "duration": "2:23"
         },
         {
           "number": 7,
-          "name": "Swastika Girls II",
-          "duration": "11:27"
+          "name": "Safety",
+          "duration": "2:43"
+        },
+        {
+          "number": 8,
+          "name": "Cmon",
+          "duration": "5:20"
+        },
+        {
+          "number": 9,
+          "name": "Trying",
+          "duration": "3:41"
+        },
+        {
+          "number": 10,
+          "name": "Chest",
+          "duration": "4:55"
+        },
+        {
+          "number": 11,
+          "name": "Come On Home",
+          "duration": "4:57"
         }
       ]
     },
     {
-      "name": "Discreet Music",
-      "year": "1975",
-      "release_date": "1975-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/03/ad/e7/03ade711-b86d-d600-f8a3-9771470e9fee/00724386649355.rgb.jpg/600x600bb.jpg",
+      "name": "Bloom: Living World",
+      "year": "2025",
+      "release_date": "2025-01-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/fc/9c/8afc9c09-b8e4-bdbc-5ad8-c92e1216dca8/4523132149837.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Discreet Music",
-          "duration": "31:34"
+          "name": "Bloom: Living World",
+          "duration": "62:50"
         },
         {
           "number": 2,
-          "name": "Fullness of Wind",
-          "duration": "9:55"
+          "name": "Bloom: Small World",
+          "duration": "5:34"
+        }
+      ]
+    },
+    {
+      "name": "Beyond Even (1992-2006)",
+      "year": "2006",
+      "release_date": "2006-10-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a8/68/12/a868123f-46aa-4c86-cd6e-458f5870b891/633367883827.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ringing Beat",
+          "duration": "5:14"
+        },
+        {
+          "number": 2,
+          "name": "Gasp",
+          "duration": "2:05"
         },
         {
           "number": 3,
-          "name": "French Catalogues",
-          "duration": "5:19"
+          "name": "Sneering Loop",
+          "duration": "3:11"
         },
         {
           "number": 4,
-          "name": "Brutal Ardour",
-          "duration": "8:13"
+          "name": "Tripoli 2020",
+          "duration": "6:03"
+        },
+        {
+          "number": 5,
+          "name": "Behold the Child",
+          "duration": "2:50"
+        },
+        {
+          "number": 6,
+          "name": "Timean Sparkles",
+          "duration": "2:36"
+        },
+        {
+          "number": 7,
+          "name": "Dirt Loop",
+          "duration": "4:01"
+        },
+        {
+          "number": 8,
+          "name": "The Idea of Decline",
+          "duration": "4:19"
+        },
+        {
+          "number": 9,
+          "name": "Deep Indian Long",
+          "duration": "4:57"
+        },
+        {
+          "number": 10,
+          "name": "Hopeful Timean",
+          "duration": "4:33"
+        },
+        {
+          "number": 11,
+          "name": "Glass Structure",
+          "duration": "3:55"
+        },
+        {
+          "number": 12,
+          "name": "Voices",
+          "duration": "4:52"
+        },
+        {
+          "number": 13,
+          "name": "Cross Crisis in Lust Storm",
+          "duration": "5:20"
+        }
+      ]
+    },
+    {
+      "name": "Brian Eno - Film Music 1976 ~ 2020",
+      "year": "2020",
+      "release_date": "2020-11-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f4/6a/14/f46a14a4-903a-ed91-dd2d-3a3e3ece24c9/20UMGIM60155.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Top Boy (Theme / From \"Top Boy\" - Series 1)",
+          "duration": "2:30"
+        },
+        {
+          "number": 2,
+          "name": "Ship In A Bottle (From \"The Lovely Bones\")",
+          "duration": "2:40"
+        },
+        {
+          "number": 3,
+          "name": "Blood Red (From \"BBC Arena - Francis Bacon\")",
+          "duration": "3:04"
+        },
+        {
+          "number": 4,
+          "name": "Under (From \"Cool World\")",
+          "duration": "5:19"
+        },
+        {
+          "number": 5,
+          "name": "Decline And Fall (From \"O Nome da Morte\")",
+          "duration": "3:32"
+        },
+        {
+          "number": 6,
+          "name": "Prophecy Theme (From \"Dune\")",
+          "duration": "4:24"
+        },
+        {
+          "number": 7,
+          "name": "Reasonable Question (From \"We Are As Gods\")",
+          "duration": "2:44"
+        },
+        {
+          "number": 8,
+          "name": "Late Evening In Jersey (From \"Heat\")",
+          "duration": "4:38"
+        },
+        {
+          "number": 9,
+          "name": "Beach Sequence (From \"Beyond The Clouds\")",
+          "duration": "3:34"
+        },
+        {
+          "number": 10,
+          "name": "You Don't Miss Your Water (From \"Married To The Mob\")",
+          "duration": "3:46"
+        },
+        {
+          "number": 11,
+          "name": "Deep Blue Day (From \"Trainspotting\")",
+          "duration": "3:57"
+        },
+        {
+          "number": 12,
+          "name": "The Sombre (From \"Top Boy\" - Series 2)",
+          "duration": "4:26"
+        },
+        {
+          "number": 13,
+          "name": "Dover Beach (From \"Jubilee\")",
+          "duration": "4:40"
+        },
+        {
+          "number": 14,
+          "name": "Design As Reduction (From \"RAMS\")",
+          "duration": "4:18"
+        },
+        {
+          "number": 15,
+          "name": "Undersea Steps (From \"Hammerheads\")",
+          "duration": "4:07"
+        },
+        {
+          "number": 16,
+          "name": "Final Sunset (From \"Sebastiane\")",
+          "duration": "4:13"
+        },
+        {
+          "number": 17,
+          "name": "An Ending (Ascent) [From \"For All Mankind\"]",
+          "duration": "4:22"
         }
       ]
     },
@@ -1137,543 +1787,6 @@
       ]
     },
     {
-      "name": "Secret Life",
-      "year": "2023",
-      "release_date": "2023-05-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/87/8c/90878c50-d5bc-095b-0b73-8964b2000c91/3663729244796_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Saw You",
-          "duration": "4:25"
-        },
-        {
-          "number": 2,
-          "name": "Secret",
-          "duration": "5:04"
-        },
-        {
-          "number": 3,
-          "name": "Radio",
-          "duration": "4:04"
-        },
-        {
-          "number": 4,
-          "name": "Follow",
-          "duration": "1:39"
-        },
-        {
-          "number": 5,
-          "name": "Enough",
-          "duration": "5:22"
-        },
-        {
-          "number": 6,
-          "name": "Pause",
-          "duration": "2:23"
-        },
-        {
-          "number": 7,
-          "name": "Safety",
-          "duration": "2:43"
-        },
-        {
-          "number": 8,
-          "name": "Cmon",
-          "duration": "5:20"
-        },
-        {
-          "number": 9,
-          "name": "Trying",
-          "duration": "3:41"
-        },
-        {
-          "number": 10,
-          "name": "Chest",
-          "duration": "4:55"
-        },
-        {
-          "number": 11,
-          "name": "Come On Home",
-          "duration": "4:57"
-        }
-      ]
-    },
-    {
-      "name": "Ambient 4: On Land",
-      "year": "1982",
-      "release_date": "1982-04-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/23/14/74/23147421-acac-ef98-74cb-a1d2e13f8638/00724386649959.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lizard Point",
-          "duration": "4:34"
-        },
-        {
-          "number": 2,
-          "name": "The Lost Day",
-          "duration": "9:12"
-        },
-        {
-          "number": 3,
-          "name": "Tal Coat",
-          "duration": "5:27"
-        },
-        {
-          "number": 4,
-          "name": "Shadow",
-          "duration": "3:00"
-        },
-        {
-          "number": 5,
-          "name": "Lantern Marsh",
-          "duration": "5:31"
-        },
-        {
-          "number": 6,
-          "name": "Unfamiliar Wind (Leeks Hills)",
-          "duration": "5:26"
-        },
-        {
-          "number": 7,
-          "name": "A Clearing",
-          "duration": "4:07"
-        },
-        {
-          "number": 8,
-          "name": "Dunwich Beach, Autumn, 1960",
-          "duration": "7:10"
-        }
-      ]
-    },
-    {
-      "name": "Wrong Way Up [Expanded Edition]",
-      "year": "1990",
-      "release_date": "1990-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/90/dd/3590ddf7-55dd-4d63-c103-93cbf342824e/5060384618906.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lay My Love",
-          "duration": "4:44"
-        },
-        {
-          "number": 2,
-          "name": "One Word",
-          "duration": "4:34"
-        },
-        {
-          "number": 3,
-          "name": "In the Backroom",
-          "duration": "4:02"
-        },
-        {
-          "number": 4,
-          "name": "Empty Frame",
-          "duration": "4:26"
-        },
-        {
-          "number": 5,
-          "name": "Cordoba",
-          "duration": "4:22"
-        },
-        {
-          "number": 6,
-          "name": "Spinning Away",
-          "duration": "5:27"
-        },
-        {
-          "number": 7,
-          "name": "Footsteps",
-          "duration": "3:13"
-        },
-        {
-          "number": 8,
-          "name": "Been There Done That",
-          "duration": "2:52"
-        },
-        {
-          "number": 9,
-          "name": "Crime In the Desert",
-          "duration": "3:42"
-        },
-        {
-          "number": 10,
-          "name": "The River",
-          "duration": "4:24"
-        },
-        {
-          "number": 11,
-          "name": "Grandfather's House",
-          "duration": "3:08"
-        },
-        {
-          "number": 12,
-          "name": "Palanquin",
-          "duration": "2:36"
-        }
-      ]
-    },
-    {
-      "name": "Mixing Colours",
-      "year": "2020",
-      "release_date": "2020-03-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b6/a0/1b/b6a01b7b-33e8-a05d-0974-12ca6d81f61f/19UMGIM71230.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Spring Frost",
-          "duration": "4:07"
-        },
-        {
-          "number": 2,
-          "name": "Burnt Umber",
-          "duration": "4:15"
-        },
-        {
-          "number": 3,
-          "name": "Celeste",
-          "duration": "4:22"
-        },
-        {
-          "number": 4,
-          "name": "Wintergreen",
-          "duration": "4:10"
-        },
-        {
-          "number": 5,
-          "name": "Obsidian",
-          "duration": "5:06"
-        },
-        {
-          "number": 6,
-          "name": "Blonde",
-          "duration": "4:10"
-        },
-        {
-          "number": 7,
-          "name": "Dark Sienna",
-          "duration": "3:47"
-        },
-        {
-          "number": 8,
-          "name": "Verdigris",
-          "duration": "4:03"
-        },
-        {
-          "number": 9,
-          "name": "Snow",
-          "duration": "4:40"
-        },
-        {
-          "number": 10,
-          "name": "Rose Quartz",
-          "duration": "4:07"
-        },
-        {
-          "number": 11,
-          "name": "Quicksilver",
-          "duration": "5:12"
-        },
-        {
-          "number": 12,
-          "name": "Ultramarine",
-          "duration": "2:27"
-        },
-        {
-          "number": 13,
-          "name": "Iris",
-          "duration": "2:53"
-        },
-        {
-          "number": 14,
-          "name": "Cinnabar",
-          "duration": "3:20"
-        },
-        {
-          "number": 15,
-          "name": "Desert Sand",
-          "duration": "4:50"
-        },
-        {
-          "number": 16,
-          "name": "Deep Saffron",
-          "duration": "4:38"
-        },
-        {
-          "number": 17,
-          "name": "Cerulean Blue",
-          "duration": "4:05"
-        },
-        {
-          "number": 18,
-          "name": "Slow Movement: Sand",
-          "duration": "4:55"
-        }
-      ]
-    },
-    {
-      "name": "FOREVERANDEVERNOMORE",
-      "year": "2022",
-      "release_date": "2022-10-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/88/79/5d/88795d01-7201-83bb-4ef5-447fa6af5438/22UMGIM67461.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Who Gives a Thought",
-          "duration": "3:59"
-        },
-        {
-          "number": 2,
-          "name": "We Let It In",
-          "duration": "3:28"
-        },
-        {
-          "number": 3,
-          "name": "Icarus or Blériot",
-          "duration": "4:23"
-        },
-        {
-          "number": 4,
-          "name": "Garden of Stars",
-          "duration": "4:19"
-        },
-        {
-          "number": 5,
-          "name": "Inclusion",
-          "duration": "4:55"
-        },
-        {
-          "number": 6,
-          "name": "There Were Bells",
-          "duration": "4:52"
-        },
-        {
-          "number": 7,
-          "name": "Sherry",
-          "duration": "3:25"
-        },
-        {
-          "number": 8,
-          "name": "I’m Hardly Me",
-          "duration": "3:50"
-        },
-        {
-          "number": 9,
-          "name": "These Small Noises",
-          "duration": "3:22"
-        },
-        {
-          "number": 10,
-          "name": "Making Gardens Out of Silence",
-          "duration": "8:21"
-        }
-      ]
-    },
-    {
-      "name": "Neroli (Thinking Music, Pt. IV)",
-      "year": "1993",
-      "release_date": "1993-08-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/61/bf/8761bf60-5f30-a86b-5a95-cb4fde09ecd7/0801061301200.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Neroli (Thinking Music, Pt. IV)",
-          "duration": "57:56"
-        }
-      ]
-    },
-    {
-      "name": "Everything That Happens Will Happen Today (Deluxe)",
-      "year": "2008",
-      "release_date": "2008-12-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ba/d8/d9/bad8d9ce-59fd-f8e4-01f0-40aa2e365be0/859774219879_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Home",
-          "duration": "5:06"
-        },
-        {
-          "number": 2,
-          "name": "My Big Nurse",
-          "duration": "3:21"
-        },
-        {
-          "number": 3,
-          "name": "I Feel My Stuff",
-          "duration": "6:25"
-        },
-        {
-          "number": 4,
-          "name": "Everything That Happens",
-          "duration": "3:46"
-        },
-        {
-          "number": 5,
-          "name": "Life Is Long",
-          "duration": "3:45"
-        },
-        {
-          "number": 6,
-          "name": "The River",
-          "duration": "2:30"
-        },
-        {
-          "number": 7,
-          "name": "Strange Overtones",
-          "duration": "4:17"
-        },
-        {
-          "number": 8,
-          "name": "Wanted for Life",
-          "duration": "5:06"
-        },
-        {
-          "number": 9,
-          "name": "One Fine Day",
-          "duration": "4:55"
-        },
-        {
-          "number": 10,
-          "name": "Poor Boy",
-          "duration": "4:19"
-        },
-        {
-          "number": 11,
-          "name": "The Lighthouse",
-          "duration": "3:46"
-        },
-        {
-          "number": 12,
-          "name": "Never Thought",
-          "duration": "4:08"
-        },
-        {
-          "number": 13,
-          "name": "Walking Along the River",
-          "duration": "4:38"
-        },
-        {
-          "number": 14,
-          "name": "The Eyes",
-          "duration": "3:29"
-        },
-        {
-          "number": 15,
-          "name": "The Painting",
-          "duration": "4:33"
-        }
-      ]
-    },
-    {
-      "name": "Reflection",
-      "year": "2017",
-      "release_date": "2017-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3b/54/10/3b541079-418a-3828-5ab6-cd2d994ba2b8/22UM1IM39044.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Reflection",
-          "duration": "65:24"
-        }
-      ]
-    },
-    {
-      "name": "Brian Eno - Film Music 1976 ~ 2020",
-      "year": "2020",
-      "release_date": "2020-11-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f4/6a/14/f46a14a4-903a-ed91-dd2d-3a3e3ece24c9/20UMGIM60155.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Top Boy (Theme / From \"Top Boy\" - Series 1)",
-          "duration": "2:30"
-        },
-        {
-          "number": 2,
-          "name": "Ship In A Bottle (From \"The Lovely Bones\")",
-          "duration": "2:40"
-        },
-        {
-          "number": 3,
-          "name": "Blood Red (From \"BBC Arena - Francis Bacon\")",
-          "duration": "3:04"
-        },
-        {
-          "number": 4,
-          "name": "Under (From \"Cool World\")",
-          "duration": "5:19"
-        },
-        {
-          "number": 5,
-          "name": "Decline And Fall (From \"O Nome da Morte\")",
-          "duration": "3:32"
-        },
-        {
-          "number": 6,
-          "name": "Prophecy Theme (From \"Dune\")",
-          "duration": "4:24"
-        },
-        {
-          "number": 7,
-          "name": "Reasonable Question (From \"We Are As Gods\")",
-          "duration": "2:44"
-        },
-        {
-          "number": 8,
-          "name": "Late Evening In Jersey (From \"Heat\")",
-          "duration": "4:38"
-        },
-        {
-          "number": 9,
-          "name": "Beach Sequence (From \"Beyond The Clouds\")",
-          "duration": "3:34"
-        },
-        {
-          "number": 10,
-          "name": "You Don't Miss Your Water (From \"Married To The Mob\")",
-          "duration": "3:46"
-        },
-        {
-          "number": 11,
-          "name": "Deep Blue Day (From \"Trainspotting\")",
-          "duration": "3:57"
-        },
-        {
-          "number": 12,
-          "name": "The Sombre (From \"Top Boy\" - Series 2)",
-          "duration": "4:26"
-        },
-        {
-          "number": 13,
-          "name": "Dover Beach (From \"Jubilee\")",
-          "duration": "4:40"
-        },
-        {
-          "number": 14,
-          "name": "Design As Reduction (From \"RAMS\")",
-          "duration": "4:18"
-        },
-        {
-          "number": 15,
-          "name": "Undersea Steps (From \"Hammerheads\")",
-          "duration": "4:07"
-        },
-        {
-          "number": 16,
-          "name": "Final Sunset (From \"Sebastiane\")",
-          "duration": "4:13"
-        },
-        {
-          "number": 17,
-          "name": "An Ending (Ascent) [From \"For All Mankind\"]",
-          "duration": "4:22"
-        }
-      ]
-    },
-    {
       "name": "Luminal",
       "year": "2025",
       "release_date": "2025-06-06",
@@ -1733,64 +1846,6 @@
           "number": 11,
           "name": "What We Are",
           "duration": "4:45"
-        }
-      ]
-    },
-    {
-      "name": "After the Heat",
-      "year": "1978",
-      "release_date": "1978-04-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/0e/32/860e3216-2265-cc16-88ca-e3eeef2b11ae/4050486801246.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Oil",
-          "duration": "4:13"
-        },
-        {
-          "number": 2,
-          "name": "Foreign Affairs",
-          "duration": "3:31"
-        },
-        {
-          "number": 3,
-          "name": "Luftschloss",
-          "duration": "3:09"
-        },
-        {
-          "number": 4,
-          "name": "The Shade",
-          "duration": "3:11"
-        },
-        {
-          "number": 5,
-          "name": "Old Land",
-          "duration": "4:13"
-        },
-        {
-          "number": 6,
-          "name": "Base & Apex",
-          "duration": "4:33"
-        },
-        {
-          "number": 7,
-          "name": "Light Arms",
-          "duration": "1:32"
-        },
-        {
-          "number": 8,
-          "name": "Broken Head",
-          "duration": "5:22"
-        },
-        {
-          "number": 9,
-          "name": "The Belldog",
-          "duration": "6:19"
-        },
-        {
-          "number": 10,
-          "name": "Tzima N'arki",
-          "duration": "4:32"
         }
       ]
     },
@@ -1873,133 +1928,70 @@
       ]
     },
     {
-      "name": "Liminal",
-      "year": "2025",
-      "release_date": "2025-10-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/02/92/1a0292af-eea8-3582-5501-87e910f442da/25UM1IM07236.rgb.jpg/600x600bb.jpg",
+      "name": "Wrong Way Up [Expanded Edition]",
+      "year": "1990",
+      "release_date": "1990-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/90/dd/3590ddf7-55dd-4d63-c103-93cbf342824e/5060384618906.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Part Of Us",
-          "duration": "5:16"
+          "name": "Lay My Love",
+          "duration": "4:44"
         },
         {
           "number": 2,
-          "name": "Ringing Ocean",
-          "duration": "3:30"
+          "name": "One Word",
+          "duration": "4:34"
         },
         {
           "number": 3,
-          "name": "The Last To Know",
-          "duration": "2:37"
+          "name": "In the Backroom",
+          "duration": "4:02"
         },
         {
           "number": 4,
-          "name": "Procession",
-          "duration": "3:20"
+          "name": "Empty Frame",
+          "duration": "4:26"
         },
         {
           "number": 5,
-          "name": "Little Boy",
-          "duration": "4:13"
+          "name": "Cordoba",
+          "duration": "4:22"
         },
         {
           "number": 6,
-          "name": "Flower Women",
-          "duration": "4:20"
+          "name": "Spinning Away",
+          "duration": "5:27"
         },
         {
           "number": 7,
-          "name": "Shallow Form",
-          "duration": "3:19"
+          "name": "Footsteps",
+          "duration": "3:13"
         },
         {
           "number": 8,
-          "name": "Before Life",
-          "duration": "4:23"
+          "name": "Been There Done That",
+          "duration": "2:52"
         },
         {
           "number": 9,
-          "name": "Laundry Room",
-          "duration": "4:36"
+          "name": "Crime In the Desert",
+          "duration": "3:42"
         },
         {
           "number": 10,
-          "name": "Corona",
-          "duration": "3:54"
-        },
-        {
-          "number": 11,
-          "name": "Shudder Like Crows",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
-      "name": "Spinner [Expanded Edition]",
-      "year": "1995",
-      "release_date": "1995-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/0c/b4/5c0cb4b8-0f28-495c-6cbb-db4fce919f42/5060384618937.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Where We Lived",
-          "duration": "3:00"
-        },
-        {
-          "number": 2,
-          "name": "Like Organza",
-          "duration": "2:44"
-        },
-        {
-          "number": 3,
-          "name": "Steam",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "Garden Recalled",
-          "duration": "3:21"
-        },
-        {
-          "number": 5,
-          "name": "Marine Radio",
-          "duration": "5:06"
-        },
-        {
-          "number": 6,
-          "name": "Unusual Balance",
-          "duration": "5:23"
-        },
-        {
-          "number": 7,
-          "name": "Space Diary 1",
-          "duration": "1:51"
-        },
-        {
-          "number": 8,
-          "name": "Spinner",
-          "duration": "2:57"
-        },
-        {
-          "number": 9,
-          "name": "Transmitter and Trumpet",
-          "duration": "8:41"
-        },
-        {
-          "number": 10,
-          "name": "Left Where It Fell",
-          "duration": "20:41"
-        },
-        {
-          "number": 11,
-          "name": "Stravinsky",
+          "name": "The River",
           "duration": "4:24"
         },
         {
+          "number": 11,
+          "name": "Grandfather's House",
+          "duration": "3:08"
+        },
+        {
           "number": 12,
-          "name": "Lockdown",
-          "duration": "4:38"
+          "name": "Palanquin",
+          "duration": "2:36"
         }
       ]
     },
@@ -2190,104 +2182,6 @@
       ]
     },
     {
-      "name": "Music For Films",
-      "year": "1978",
-      "release_date": "1978-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/36/2f/a3362ffa-732e-b2be-e49c-6b412dfd4498/13UABIM35943.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Aragon (Remastered 2005)",
-          "duration": "1:37"
-        },
-        {
-          "number": 2,
-          "name": "From The Same Hill (Remastered 2005)",
-          "duration": "3:00"
-        },
-        {
-          "number": 3,
-          "name": "Inland Sea (Remastered 2005)",
-          "duration": "1:24"
-        },
-        {
-          "number": 4,
-          "name": "Two Rapid Formations (Remastered 2005)",
-          "duration": "3:23"
-        },
-        {
-          "number": 5,
-          "name": "Slow Water (Remastered 2005)",
-          "duration": "3:16"
-        },
-        {
-          "number": 6,
-          "name": "Sparrowfall (1) [Remastered 2005]",
-          "duration": "1:10"
-        },
-        {
-          "number": 7,
-          "name": "Sparrowfall (2) [Remastered 2005]",
-          "duration": "1:43"
-        },
-        {
-          "number": 8,
-          "name": "Sparrowfall (3) [Remastered 2005]",
-          "duration": "1:23"
-        },
-        {
-          "number": 9,
-          "name": "Alternative 3 (Remastered 2005)",
-          "duration": "3:15"
-        },
-        {
-          "number": 10,
-          "name": "Quartz (Remastered 2005)",
-          "duration": "2:02"
-        },
-        {
-          "number": 11,
-          "name": "Events In Dense Fog (Remastered 2005)",
-          "duration": "3:43"
-        },
-        {
-          "number": 12,
-          "name": "There Is Nobody (Remastered 2005)",
-          "duration": "1:43"
-        },
-        {
-          "number": 13,
-          "name": "Patrolling Wire Borders (Remastered 2005)",
-          "duration": "1:42"
-        },
-        {
-          "number": 14,
-          "name": "A Measured Room (Remastered 2005)",
-          "duration": "1:05"
-        },
-        {
-          "number": 15,
-          "name": "Task Force (Remastered 2005)",
-          "duration": "1:22"
-        },
-        {
-          "number": 16,
-          "name": "M386 (Remastered 2005)",
-          "duration": "2:50"
-        },
-        {
-          "number": 17,
-          "name": "Strange Light (Remastered 2005)",
-          "duration": "2:09"
-        },
-        {
-          "number": 18,
-          "name": "Final Sunset (Remastered 2005)",
-          "duration": "4:13"
-        }
-      ]
-    },
-    {
       "name": "AURUM",
       "year": "2025",
       "release_date": "2025-03-20",
@@ -2351,45 +2245,15 @@
       ]
     },
     {
-      "name": "The Equatorial Stars",
-      "year": "2005",
-      "release_date": "2005-04-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/84/13/77/84137777-00b6-0082-ba33-1bc5aaa90bd3/633367883728.png/600x600bb.jpg",
+      "name": "Neroli (Thinking Music, Pt. IV)",
+      "year": "1993",
+      "release_date": "1993-08-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/61/bf/8761bf60-5f30-a86b-5a95-cb4fde09ecd7/0801061301200.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Meissa",
-          "duration": "8:08"
-        },
-        {
-          "number": 2,
-          "name": "Lyra",
-          "duration": "7:45"
-        },
-        {
-          "number": 3,
-          "name": "Tarazed",
-          "duration": "5:03"
-        },
-        {
-          "number": 4,
-          "name": "Lupus",
-          "duration": "5:09"
-        },
-        {
-          "number": 5,
-          "name": "Ankaa",
-          "duration": "7:01"
-        },
-        {
-          "number": 6,
-          "name": "Altair",
-          "duration": "5:11"
-        },
-        {
-          "number": 7,
-          "name": "Terebellum",
-          "duration": "9:40"
+          "name": "Neroli (Thinking Music, Pt. IV)",
+          "duration": "57:56"
         }
       ]
     },
@@ -2438,6 +2302,102 @@
           "number": 8,
           "name": "Big Empty Country: VIII",
           "duration": "8:02"
+        }
+      ]
+    },
+    {
+      "name": "Reflection",
+      "year": "2017",
+      "release_date": "2017-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3b/54/10/3b541079-418a-3828-5ab6-cd2d994ba2b8/22UM1IM39044.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Reflection",
+          "duration": "65:24"
+        }
+      ]
+    },
+    {
+      "name": "Everything That Happens Will Happen Today (Deluxe)",
+      "year": "2008",
+      "release_date": "2008-12-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ba/d8/d9/bad8d9ce-59fd-f8e4-01f0-40aa2e365be0/859774219879_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Home",
+          "duration": "5:06"
+        },
+        {
+          "number": 2,
+          "name": "My Big Nurse",
+          "duration": "3:21"
+        },
+        {
+          "number": 3,
+          "name": "I Feel My Stuff",
+          "duration": "6:25"
+        },
+        {
+          "number": 4,
+          "name": "Everything That Happens",
+          "duration": "3:46"
+        },
+        {
+          "number": 5,
+          "name": "Life Is Long",
+          "duration": "3:45"
+        },
+        {
+          "number": 6,
+          "name": "The River",
+          "duration": "2:30"
+        },
+        {
+          "number": 7,
+          "name": "Strange Overtones",
+          "duration": "4:17"
+        },
+        {
+          "number": 8,
+          "name": "Wanted for Life",
+          "duration": "5:06"
+        },
+        {
+          "number": 9,
+          "name": "One Fine Day",
+          "duration": "4:55"
+        },
+        {
+          "number": 10,
+          "name": "Poor Boy",
+          "duration": "4:19"
+        },
+        {
+          "number": 11,
+          "name": "The Lighthouse",
+          "duration": "3:46"
+        },
+        {
+          "number": 12,
+          "name": "Never Thought",
+          "duration": "4:08"
+        },
+        {
+          "number": 13,
+          "name": "Walking Along the River",
+          "duration": "4:38"
+        },
+        {
+          "number": 14,
+          "name": "The Eyes",
+          "duration": "3:29"
+        },
+        {
+          "number": 15,
+          "name": "The Painting",
+          "duration": "4:33"
         }
       ]
     },
@@ -3131,75 +3091,65 @@
       ]
     },
     {
-      "name": "Beyond Even (1992-2006)",
-      "year": "2006",
-      "release_date": "2006-10-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a8/68/12/a868123f-46aa-4c86-cd6e-458f5870b891/633367883827.png/600x600bb.jpg",
+      "name": "Liminal",
+      "year": "2025",
+      "release_date": "2025-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/02/92/1a0292af-eea8-3582-5501-87e910f442da/25UM1IM07236.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Ringing Beat",
-          "duration": "5:14"
+          "name": "Part Of Us",
+          "duration": "5:16"
         },
         {
           "number": 2,
-          "name": "Gasp",
-          "duration": "2:05"
+          "name": "Ringing Ocean",
+          "duration": "3:30"
         },
         {
           "number": 3,
-          "name": "Sneering Loop",
-          "duration": "3:11"
+          "name": "The Last To Know",
+          "duration": "2:37"
         },
         {
           "number": 4,
-          "name": "Tripoli 2020",
-          "duration": "6:03"
+          "name": "Procession",
+          "duration": "3:20"
         },
         {
           "number": 5,
-          "name": "Behold the Child",
-          "duration": "2:50"
+          "name": "Little Boy",
+          "duration": "4:13"
         },
         {
           "number": 6,
-          "name": "Timean Sparkles",
-          "duration": "2:36"
+          "name": "Flower Women",
+          "duration": "4:20"
         },
         {
           "number": 7,
-          "name": "Dirt Loop",
-          "duration": "4:01"
+          "name": "Shallow Form",
+          "duration": "3:19"
         },
         {
           "number": 8,
-          "name": "The Idea of Decline",
-          "duration": "4:19"
+          "name": "Before Life",
+          "duration": "4:23"
         },
         {
           "number": 9,
-          "name": "Deep Indian Long",
-          "duration": "4:57"
+          "name": "Laundry Room",
+          "duration": "4:36"
         },
         {
           "number": 10,
-          "name": "Hopeful Timean",
-          "duration": "4:33"
+          "name": "Corona",
+          "duration": "3:54"
         },
         {
           "number": 11,
-          "name": "Glass Structure",
-          "duration": "3:55"
-        },
-        {
-          "number": 12,
-          "name": "Voices",
-          "duration": "4:52"
-        },
-        {
-          "number": 13,
-          "name": "Cross Crisis in Lust Storm",
-          "duration": "5:20"
+          "name": "Shudder Like Crows",
+          "duration": "3:30"
         }
       ]
     },
@@ -3297,20 +3247,70 @@
       ]
     },
     {
-      "name": "Bloom: Living World",
-      "year": "2025",
-      "release_date": "2025-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/fc/9c/8afc9c09-b8e4-bdbc-5ad8-c92e1216dca8/4523132149837.jpg/600x600bb.jpg",
+      "name": "Spinner [Expanded Edition]",
+      "year": "1995",
+      "release_date": "1995-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/0c/b4/5c0cb4b8-0f28-495c-6cbb-db4fce919f42/5060384618937.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Bloom: Living World",
-          "duration": "62:50"
+          "name": "Where We Lived",
+          "duration": "3:00"
         },
         {
           "number": 2,
-          "name": "Bloom: Small World",
-          "duration": "5:34"
+          "name": "Like Organza",
+          "duration": "2:44"
+        },
+        {
+          "number": 3,
+          "name": "Steam",
+          "duration": "3:16"
+        },
+        {
+          "number": 4,
+          "name": "Garden Recalled",
+          "duration": "3:21"
+        },
+        {
+          "number": 5,
+          "name": "Marine Radio",
+          "duration": "5:06"
+        },
+        {
+          "number": 6,
+          "name": "Unusual Balance",
+          "duration": "5:23"
+        },
+        {
+          "number": 7,
+          "name": "Space Diary 1",
+          "duration": "1:51"
+        },
+        {
+          "number": 8,
+          "name": "Spinner",
+          "duration": "2:57"
+        },
+        {
+          "number": 9,
+          "name": "Transmitter and Trumpet",
+          "duration": "8:41"
+        },
+        {
+          "number": 10,
+          "name": "Left Where It Fell",
+          "duration": "20:41"
+        },
+        {
+          "number": 11,
+          "name": "Stravinsky",
+          "duration": "4:24"
+        },
+        {
+          "number": 12,
+          "name": "Lockdown",
+          "duration": "4:38"
         }
       ]
     },
@@ -4856,6 +4856,103 @@
   ],
   "eps": [
     {
+      "name": "Making gardens out of silence in the uncanny valley",
+      "year": "2023",
+      "release_date": "2023-02-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/1a/6a/5c1a6aae-0440-af33-bf83-daecdab7b3e1/23UMGIM15320.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Making gardens out of silence in the uncanny valley",
+          "duration": "13:41"
+        }
+      ]
+    },
+    {
+      "name": "The Ritan Bells",
+      "year": "2023",
+      "release_date": "2023-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/41/53/44/41534479-3818-0f9a-ae56-2baa1c728d4d/23UMGIM49997.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Ritan Bells 1",
+          "duration": "3:42"
+        },
+        {
+          "number": 2,
+          "name": "The Ritan Bells 2",
+          "duration": "4:30"
+        },
+        {
+          "number": 3,
+          "name": "The Ritan Bells 3",
+          "duration": "3:59"
+        },
+        {
+          "number": 4,
+          "name": "The Ritan Bells 4",
+          "duration": "4:33"
+        }
+      ]
+    },
+    {
+      "name": "Five Light Paintings",
+      "year": "2023",
+      "release_date": "2023-06-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/a0/5c/1ba05c2b-7291-d25f-6fa3-54a5d2394657/23UMGIM49996.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Five Light Paintings 1",
+          "duration": "3:21"
+        },
+        {
+          "number": 2,
+          "name": "Five Light Paintings 2",
+          "duration": "3:50"
+        },
+        {
+          "number": 3,
+          "name": "Five Light Paintings 3",
+          "duration": "4:41"
+        },
+        {
+          "number": 4,
+          "name": "Five Light Paintings 4",
+          "duration": "4:26"
+        }
+      ]
+    },
+    {
+      "name": "Flower Bells",
+      "year": "2023",
+      "release_date": "2023-07-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/6e/b3/da6eb3eb-de6d-0736-07de-9d47492f8a53/23UMGIM50007.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Flower Bells 1",
+          "duration": "3:35"
+        },
+        {
+          "number": 2,
+          "name": "Flower Bells 2",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Flower Bells 3",
+          "duration": "4:19"
+        },
+        {
+          "number": 4,
+          "name": "Flower Bells 4",
+          "duration": "4:12"
+        }
+      ]
+    },
+    {
       "name": "One More Yard",
       "year": "2018",
       "release_date": "2018-11-02",
@@ -4893,19 +4990,6 @@
           "number": 1,
           "name": "Ascent (An Ending) [Leama and Moor Mix]",
           "duration": "10:25"
-        }
-      ]
-    },
-    {
-      "name": "Making gardens out of silence in the uncanny valley",
-      "year": "2023",
-      "release_date": "2023-02-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5c/1a/6a/5c1a6aae-0440-af33-bf83-daecdab7b3e1/23UMGIM15320.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Making gardens out of silence in the uncanny valley",
-          "duration": "13:41"
         }
       ]
     },
@@ -4971,62 +5055,6 @@
       ]
     },
     {
-      "name": "The Ritan Bells",
-      "year": "2023",
-      "release_date": "2023-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/41/53/44/41534479-3818-0f9a-ae56-2baa1c728d4d/23UMGIM49997.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Ritan Bells 1",
-          "duration": "3:42"
-        },
-        {
-          "number": 2,
-          "name": "The Ritan Bells 2",
-          "duration": "4:30"
-        },
-        {
-          "number": 3,
-          "name": "The Ritan Bells 3",
-          "duration": "3:59"
-        },
-        {
-          "number": 4,
-          "name": "The Ritan Bells 4",
-          "duration": "4:33"
-        }
-      ]
-    },
-    {
-      "name": "Five Light Paintings",
-      "year": "2023",
-      "release_date": "2023-06-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/a0/5c/1ba05c2b-7291-d25f-6fa3-54a5d2394657/23UMGIM49996.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Five Light Paintings 1",
-          "duration": "3:21"
-        },
-        {
-          "number": 2,
-          "name": "Five Light Paintings 2",
-          "duration": "3:50"
-        },
-        {
-          "number": 3,
-          "name": "Five Light Paintings 3",
-          "duration": "4:41"
-        },
-        {
-          "number": 4,
-          "name": "Five Light Paintings 4",
-          "duration": "4:26"
-        }
-      ]
-    },
-    {
       "name": "Eno: Retrace Your Steps",
       "year": "2024",
       "release_date": "2024-06-07",
@@ -5084,34 +5112,6 @@
           "number": 5,
           "name": "2/1 (Remastered 2004)",
           "duration": "8:54"
-        }
-      ]
-    },
-    {
-      "name": "Flower Bells",
-      "year": "2023",
-      "release_date": "2023-07-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/6e/b3/da6eb3eb-de6d-0736-07de-9d47492f8a53/23UMGIM50007.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Flower Bells 1",
-          "duration": "3:35"
-        },
-        {
-          "number": 2,
-          "name": "Flower Bells 2",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Flower Bells 3",
-          "duration": "4:19"
-        },
-        {
-          "number": 4,
-          "name": "Flower Bells 4",
-          "duration": "4:12"
         }
       ]
     },

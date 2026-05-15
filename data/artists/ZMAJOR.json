@@ -43,19 +43,6 @@
       ]
     },
     {
-      "name": "CALAMITY (Slowed & Reverb)",
-      "year": "2023",
-      "release_date": "2023-03-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/b4/2a/7fb42a17-ac6d-e1f1-ff7b-15ef083f7a04/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Calamity (Slowed & Reverb)",
-          "duration": "4:26"
-        }
-      ]
-    },
-    {
       "name": "CALIGINOUS",
       "year": "2024",
       "release_date": "2024-03-01",
@@ -65,6 +52,19 @@
           "number": 1,
           "name": "CALIGINOUS",
           "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "name": "CALAMITY (Slowed & Reverb)",
+      "year": "2023",
+      "release_date": "2023-03-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7f/b4/2a/7fb42a17-ac6d-e1f1-ff7b-15ef083f7a04/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Calamity (Slowed & Reverb)",
+          "duration": "4:26"
         }
       ]
     },
@@ -126,19 +126,6 @@
       ]
     },
     {
-      "name": "Behemoth",
-      "year": "2024",
-      "release_date": "2024-03-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/d4/ec/add4ecee-761e-7404-b82e-cc2c827d6309/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Behemoth",
-          "duration": "3:49"
-        }
-      ]
-    },
-    {
       "name": "BLITZ (Slowed & Reverb)",
       "year": "2022",
       "release_date": "2022-10-22",
@@ -148,6 +135,19 @@
           "number": 1,
           "name": "Blitz (Slowed & Reverb)",
           "duration": "3:51"
+        }
+      ]
+    },
+    {
+      "name": "Behemoth",
+      "year": "2024",
+      "release_date": "2024-03-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/d4/ec/add4ecee-761e-7404-b82e-cc2c827d6309/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Behemoth",
+          "duration": "3:49"
         }
       ]
     },
@@ -351,19 +351,6 @@
       ]
     },
     {
-      "name": "Calamity",
-      "year": "2023",
-      "release_date": "2023-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/a6/78/52a67801-2395-df51-e039-f89dc2aec8bf/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Calamity",
-          "duration": "4:00"
-        }
-      ]
-    },
-    {
       "name": "CALAMITY (LET GO of EVERYTHING) [Alt]",
       "year": "2023",
       "release_date": "2023-03-21",
@@ -373,6 +360,19 @@
           "number": 1,
           "name": "Calamity (Let Go of Everything) [Alt]",
           "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "name": "Calamity",
+      "year": "2023",
+      "release_date": "2023-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/52/a6/78/52a67801-2395-df51-e039-f89dc2aec8bf/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Calamity",
+          "duration": "4:00"
         }
       ]
     },
@@ -793,35 +793,35 @@
   ],
   "eps": [
     {
-      "name": "Dark Red (Funk)",
+      "name": "From The Start (Funk)",
       "year": "2025",
-      "release_date": "2025-10-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/a0/a2/45a0a2e3-2dad-91ea-ed96-0563db05f6a7/233498.jpg/600x600bb.jpg",
+      "release_date": "2025-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/f8/21/2af8214a-328d-e9f6-6fe8-f4c3fd980fac/4148.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Dark Red (Funk)",
-          "duration": "1:44"
+          "name": "From The Start (Funk)",
+          "duration": "1:18"
         },
         {
           "number": 2,
-          "name": "Dark Red (Funk Slowed)",
-          "duration": "1:57"
+          "name": "From The Start (Funk Slowed)",
+          "duration": "1:30"
         },
         {
           "number": 3,
-          "name": "Dark Red (Funk Super Slowed)",
-          "duration": "2:14"
+          "name": "From The Start (Funk Super Slowed)",
+          "duration": "1:44"
         },
         {
           "number": 4,
-          "name": "Dark Red (Funk Ultra Slowed)",
-          "duration": "2:44"
+          "name": "From The Start (Funk Ultra Slowed)",
+          "duration": "2:01"
         },
         {
           "number": 5,
-          "name": "Dark Red (Funk Nightcore)",
-          "duration": "1:37"
+          "name": "From The Start (Funk Nightcore)",
+          "duration": "1:12"
         }
       ]
     },
@@ -855,6 +855,39 @@
           "number": 5,
           "name": "CONFESS YOUR LOVE FUNK (Nightcore)",
           "duration": "1:12"
+        }
+      ]
+    },
+    {
+      "name": "Dark Red (Funk)",
+      "year": "2025",
+      "release_date": "2025-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/a0/a2/45a0a2e3-2dad-91ea-ed96-0563db05f6a7/233498.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dark Red (Funk)",
+          "duration": "1:44"
+        },
+        {
+          "number": 2,
+          "name": "Dark Red (Funk Slowed)",
+          "duration": "1:57"
+        },
+        {
+          "number": 3,
+          "name": "Dark Red (Funk Super Slowed)",
+          "duration": "2:14"
+        },
+        {
+          "number": 4,
+          "name": "Dark Red (Funk Ultra Slowed)",
+          "duration": "2:44"
+        },
+        {
+          "number": 5,
+          "name": "Dark Red (Funk Nightcore)",
+          "duration": "1:37"
         }
       ]
     },
@@ -893,44 +926,6 @@
           "number": 6,
           "name": "ÚLTIMO SUSPIRO (Extreme Slowed) [feat. ZMAJOR]",
           "duration": "1:57"
-        }
-      ]
-    },
-    {
-      "name": "Drakon",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/af/7f/b1af7f60-13c3-72f7-2d83-341d049129bc/199509359877.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Drakon",
-          "duration": "1:41"
-        },
-        {
-          "number": 2,
-          "name": "Drakon (Slowed)",
-          "duration": "1:54"
-        },
-        {
-          "number": 3,
-          "name": "Drakon (Super Slowed)",
-          "duration": "2:01"
-        },
-        {
-          "number": 4,
-          "name": "Drakon (Ultra Slowed)",
-          "duration": "2:15"
-        },
-        {
-          "number": 5,
-          "name": "Drakon (Edit Version)",
-          "duration": "2:32"
-        },
-        {
-          "number": 6,
-          "name": "Drakon (Sped Up)",
-          "duration": "1:30"
         }
       ]
     },
@@ -1582,39 +1577,6 @@
       ]
     },
     {
-      "name": "MUTILATOR",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/d7/88/45d7881a-6010-c345-7f70-cafa7325992b/820233073530.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MUTILATOR",
-          "duration": "1:30"
-        },
-        {
-          "number": 2,
-          "name": "MUTILATOR (SLOWED)",
-          "duration": "1:49"
-        },
-        {
-          "number": 3,
-          "name": "MUTILATOR (SUPER SLOWED)",
-          "duration": "2:01"
-        },
-        {
-          "number": 4,
-          "name": "MUTILATOR (ULTRA SLOWED)",
-          "duration": "2:16"
-        },
-        {
-          "number": 5,
-          "name": "MUTILATOR (NIGHTCORE)",
-          "duration": "1:21"
-        }
-      ]
-    },
-    {
       "name": "PARAÍSO PERDIDO FUNK (feat. dearukia)",
       "year": "2025",
       "release_date": "2025-06-11",
@@ -1653,40 +1615,35 @@
       ]
     },
     {
-      "name": "La Taca",
-      "year": "2025",
-      "release_date": "2025-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/b4/95/e3b49571-08d8-711d-33dd-c97e3b62ff40/682106083271.png/600x600bb.jpg",
+      "name": "MUTILATOR",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/d7/88/45d7881a-6010-c345-7f70-cafa7325992b/820233073530.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "La Taca",
-          "duration": "1:46"
+          "name": "MUTILATOR",
+          "duration": "1:30"
         },
         {
           "number": 2,
-          "name": "La Taca (Slowed)",
-          "duration": "1:58"
+          "name": "MUTILATOR (SLOWED)",
+          "duration": "1:49"
         },
         {
           "number": 3,
-          "name": "La Taca (Super Slowed)",
-          "duration": "2:11"
+          "name": "MUTILATOR (SUPER SLOWED)",
+          "duration": "2:01"
         },
         {
           "number": 4,
-          "name": "La Taca (Ultra Slowed)",
-          "duration": "2:25"
+          "name": "MUTILATOR (ULTRA SLOWED)",
+          "duration": "2:16"
         },
         {
           "number": 5,
-          "name": "La Taca (Edit Version)",
-          "duration": "2:42"
-        },
-        {
-          "number": 6,
-          "name": "La Taca (Sped Up)",
-          "duration": "1:36"
+          "name": "MUTILATOR (NIGHTCORE)",
+          "duration": "1:21"
         }
       ]
     },
@@ -1757,6 +1714,39 @@
       ]
     },
     {
+      "name": "From The Start (Funk)",
+      "year": "2025",
+      "release_date": "2025-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/94/17/d39417d0-93a2-4a19-2cfa-383ac4de69e6/3104704.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "From The Start (Funk)",
+          "duration": "1:18"
+        },
+        {
+          "number": 2,
+          "name": "From The Start (Funk Slowed)",
+          "duration": "1:30"
+        },
+        {
+          "number": 3,
+          "name": "From The Start (Funk Super Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 4,
+          "name": "From The Start (Funk Ultra Slowed)",
+          "duration": "2:01"
+        },
+        {
+          "number": 5,
+          "name": "From The Start (Funk Nightcore)",
+          "duration": "1:12"
+        }
+      ]
+    },
+    {
       "name": "MTG PRISM (ALT VERSION)",
       "year": "2026",
       "release_date": "2026-05-01",
@@ -1791,39 +1781,6 @@
           "number": 6,
           "name": "MTG PRISM (ALT VERSION) [Sped Up]",
           "duration": "1:29"
-        }
-      ]
-    },
-    {
-      "name": "From The Start (Funk)",
-      "year": "2025",
-      "release_date": "2025-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/94/17/d39417d0-93a2-4a19-2cfa-383ac4de69e6/3104704.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "From The Start (Funk)",
-          "duration": "1:18"
-        },
-        {
-          "number": 2,
-          "name": "From The Start (Funk Slowed)",
-          "duration": "1:30"
-        },
-        {
-          "number": 3,
-          "name": "From The Start (Funk Super Slowed)",
-          "duration": "1:44"
-        },
-        {
-          "number": 4,
-          "name": "From The Start (Funk Ultra Slowed)",
-          "duration": "2:01"
-        },
-        {
-          "number": 5,
-          "name": "From The Start (Funk Nightcore)",
-          "duration": "1:12"
         }
       ]
     },
@@ -1899,39 +1856,6 @@
       ]
     },
     {
-      "name": "From The Start (Funk)",
-      "year": "2025",
-      "release_date": "2025-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/f8/21/2af8214a-328d-e9f6-6fe8-f4c3fd980fac/4148.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "From The Start (Funk)",
-          "duration": "1:18"
-        },
-        {
-          "number": 2,
-          "name": "From The Start (Funk Slowed)",
-          "duration": "1:30"
-        },
-        {
-          "number": 3,
-          "name": "From The Start (Funk Super Slowed)",
-          "duration": "1:44"
-        },
-        {
-          "number": 4,
-          "name": "From The Start (Funk Ultra Slowed)",
-          "duration": "2:01"
-        },
-        {
-          "number": 5,
-          "name": "From The Start (Funk Nightcore)",
-          "duration": "1:12"
-        }
-      ]
-    },
-    {
       "name": "Dark Red (Funk)",
       "year": "2025",
       "release_date": "2025-10-09",
@@ -1960,34 +1884,6 @@
         {
           "number": 5,
           "name": "Dark Red (Funk Nightcore)",
-          "duration": "1:37"
-        }
-      ]
-    },
-    {
-      "name": "PHANTASM",
-      "year": "2024",
-      "release_date": "2024-09-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/5f/a0/c55fa04e-994f-e425-e22b-0c6adef34963/198888629670.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PHANTASM",
-          "duration": "1:49"
-        },
-        {
-          "number": 2,
-          "name": "PHANTASM (Slowed)",
-          "duration": "2:10"
-        },
-        {
-          "number": 3,
-          "name": "PHANTASM (Super Slowed)",
-          "duration": "2:26"
-        },
-        {
-          "number": 4,
-          "name": "PHANTASM (Sped-Up)",
           "duration": "1:37"
         }
       ]
@@ -2027,6 +1923,34 @@
           "number": 6,
           "name": "DRAKON (Sped Up)",
           "duration": "1:30"
+        }
+      ]
+    },
+    {
+      "name": "PHANTASM",
+      "year": "2024",
+      "release_date": "2024-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/5f/a0/c55fa04e-994f-e425-e22b-0c6adef34963/198888629670.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PHANTASM",
+          "duration": "1:49"
+        },
+        {
+          "number": 2,
+          "name": "PHANTASM (Slowed)",
+          "duration": "2:10"
+        },
+        {
+          "number": 3,
+          "name": "PHANTASM (Super Slowed)",
+          "duration": "2:26"
+        },
+        {
+          "number": 4,
+          "name": "PHANTASM (Sped-Up)",
+          "duration": "1:37"
         }
       ]
     },

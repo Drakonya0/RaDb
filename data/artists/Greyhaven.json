@@ -3,6 +3,69 @@
   "id": 884412455,
   "albums": [
     {
+      "name": "Keep It Quiet",
+      "year": "2025",
+      "release_date": "2025-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/14/38/cb143864-423c-a1c2-0764-1a7d3a806995/810129812138.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Prelude: Evening Star",
+          "duration": "2:25"
+        },
+        {
+          "number": 2,
+          "name": "Shatter And Burst",
+          "duration": "3:44"
+        },
+        {
+          "number": 3,
+          "name": "Show Me Where You Are",
+          "duration": "3:02"
+        },
+        {
+          "number": 4,
+          "name": "Burn A Miracle",
+          "duration": "4:02"
+        },
+        {
+          "number": 5,
+          "name": "Where The Light Leaves Us",
+          "duration": "3:47"
+        },
+        {
+          "number": 6,
+          "name": "Night In October",
+          "duration": "3:24"
+        },
+        {
+          "number": 7,
+          "name": "Technicolor Blues",
+          "duration": "3:52"
+        },
+        {
+          "number": 8,
+          "name": "Satellite In Love",
+          "duration": "4:02"
+        },
+        {
+          "number": 9,
+          "name": "From The Backseat Of A Moving Car",
+          "duration": "3:55"
+        },
+        {
+          "number": 10,
+          "name": "Diamond To Diamond",
+          "duration": "5:00"
+        },
+        {
+          "number": 11,
+          "name": "Cemetery Sun",
+          "duration": "3:47"
+        }
+      ]
+    },
+    {
       "name": "Empty Black",
       "year": "2018",
       "release_date": "2018-03-16",
@@ -115,69 +178,6 @@
           "number": 10,
           "name": "Ornaments from the Well",
           "duration": "4:08"
-        }
-      ]
-    },
-    {
-      "name": "Keep It Quiet",
-      "year": "2025",
-      "release_date": "2025-10-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/14/38/cb143864-423c-a1c2-0764-1a7d3a806995/810129812138.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Prelude: Evening Star",
-          "duration": "2:25"
-        },
-        {
-          "number": 2,
-          "name": "Shatter And Burst",
-          "duration": "3:44"
-        },
-        {
-          "number": 3,
-          "name": "Show Me Where You Are",
-          "duration": "3:02"
-        },
-        {
-          "number": 4,
-          "name": "Burn A Miracle",
-          "duration": "4:02"
-        },
-        {
-          "number": 5,
-          "name": "Where The Light Leaves Us",
-          "duration": "3:47"
-        },
-        {
-          "number": 6,
-          "name": "Night In October",
-          "duration": "3:24"
-        },
-        {
-          "number": 7,
-          "name": "Technicolor Blues",
-          "duration": "3:52"
-        },
-        {
-          "number": 8,
-          "name": "Satellite In Love",
-          "duration": "4:02"
-        },
-        {
-          "number": 9,
-          "name": "From The Backseat Of A Moving Car",
-          "duration": "3:55"
-        },
-        {
-          "number": 10,
-          "name": "Diamond To Diamond",
-          "duration": "5:00"
-        },
-        {
-          "number": 11,
-          "name": "Cemetery Sun",
-          "duration": "3:47"
         }
       ]
     },

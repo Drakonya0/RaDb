@@ -253,37 +253,6 @@
       ]
     },
     {
-      "name": "When the Darkness Comes",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/30/59/2f3059ed-07be-517a-f6ee-00d68f2eb920/617513791235_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "When the Darkness Comes",
-          "duration": "3:12"
-        },
-        {
-          "number": 2,
-          "name": "Take Me Away",
-          "duration": "3:11"
-        }
-      ]
-    },
-    {
-      "name": "One Night",
-      "year": "2021",
-      "release_date": "2021-04-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/42/b0/a7/42b0a706-b172-64d2-593c-50a6e9fdafc8/810043685221.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "One Night",
-          "duration": "2:43"
-        }
-      ]
-    },
-    {
       "name": "All My Friends",
       "year": "2026",
       "release_date": "2026-05-01",
@@ -307,19 +276,6 @@
       ]
     },
     {
-      "name": "Battling My Demons",
-      "year": "2024",
-      "release_date": "2024-01-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/69/ad/6b69ad51-5820-3e64-fa6c-ce7de1f91419/617513966138_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Battling My Demons",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "Can You Feel My Heart (Remix)",
       "year": "2021",
       "release_date": "2021-03-05",
@@ -329,6 +285,24 @@
           "number": 1,
           "name": "Can You Feel My Heart (Remix)",
           "duration": "3:17"
+        }
+      ]
+    },
+    {
+      "name": "When the Darkness Comes",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/30/59/2f3059ed-07be-517a-f6ee-00d68f2eb920/617513791235_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "When the Darkness Comes",
+          "duration": "3:12"
+        },
+        {
+          "number": 2,
+          "name": "Take Me Away",
+          "duration": "3:11"
         }
       ]
     },
@@ -355,6 +329,32 @@
           "number": 1,
           "name": "damn! (with Chad Kroeger) [Remix]",
           "duration": "2:04"
+        }
+      ]
+    },
+    {
+      "name": "One Night",
+      "year": "2021",
+      "release_date": "2021-04-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/42/b0/a7/42b0a706-b172-64d2-593c-50a6e9fdafc8/810043685221.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One Night",
+          "duration": "2:43"
+        }
+      ]
+    },
+    {
+      "name": "Battling My Demons",
+      "year": "2024",
+      "release_date": "2024-01-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/69/ad/6b69ad51-5820-3e64-fa6c-ce7de1f91419/617513966138_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Battling My Demons",
+          "duration": "3:15"
         }
       ]
     },
@@ -673,6 +673,24 @@
           "duration": "1:40"
         }
       ]
+    },
+    {
+      "name": "BANGDYBANG",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/b8/fe/33b8fe39-56b4-6e15-1c26-afc63afbf241/656465179395_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BANGDYBANG",
+          "duration": "3:18"
+        },
+        {
+          "number": 2,
+          "name": "Hell Yeah Brother",
+          "duration": "3:08"
+        }
+      ]
     }
   ],
   "eps": [
@@ -711,6 +729,34 @@
           "number": 6,
           "name": "damn! (with Chad Kroeger) [Remix]",
           "duration": "2:04"
+        }
+      ]
+    },
+    {
+      "name": "Here's to the Years",
+      "year": "2024",
+      "release_date": "2024-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/69/42/e46942b2-bad6-60ea-52e0-b7db00e56cd4/797885151308_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Here's to the Years",
+          "duration": "2:31"
+        },
+        {
+          "number": 2,
+          "name": "John",
+          "duration": "3:56"
+        },
+        {
+          "number": 3,
+          "name": "Ode to Metal",
+          "duration": "3:57"
+        },
+        {
+          "number": 4,
+          "name": "When the Darkness Comes",
+          "duration": "3:12"
         }
       ]
     },
@@ -777,34 +823,6 @@
           "number": 6,
           "name": "damn! (with Chad Kroeger) [Remix]",
           "duration": "2:04"
-        }
-      ]
-    },
-    {
-      "name": "Here's to the Years",
-      "year": "2024",
-      "release_date": "2024-06-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/69/42/e46942b2-bad6-60ea-52e0-b7db00e56cd4/797885151308_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Here's to the Years",
-          "duration": "2:31"
-        },
-        {
-          "number": 2,
-          "name": "John",
-          "duration": "3:56"
-        },
-        {
-          "number": 3,
-          "name": "Ode to Metal",
-          "duration": "3:57"
-        },
-        {
-          "number": 4,
-          "name": "When the Darkness Comes",
-          "duration": "3:12"
         }
       ]
     }

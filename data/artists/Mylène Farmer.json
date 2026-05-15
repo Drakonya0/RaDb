@@ -3,6 +3,84 @@
   "id": 132793877,
   "albums": [
     {
+      "name": "L'Emprise",
+      "year": "2022",
+      "release_date": "2022-11-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/5b/ac/9f5bac2b-2b6b-5cf5-2082-00442a372319/196589557650.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Invisibles",
+          "duration": "3:35"
+        },
+        {
+          "number": 2,
+          "name": "À tout jamais",
+          "duration": "3:46"
+        },
+        {
+          "number": 3,
+          "name": "Que l'Aube est belle",
+          "duration": "5:08"
+        },
+        {
+          "number": 4,
+          "name": "L'Emprise",
+          "duration": "3:55"
+        },
+        {
+          "number": 5,
+          "name": "Do You Know Who I Am",
+          "duration": "4:03"
+        },
+        {
+          "number": 6,
+          "name": "Rallumer les étoiles",
+          "duration": "4:24"
+        },
+        {
+          "number": 7,
+          "name": "Rayon vert",
+          "duration": "3:45"
+        },
+        {
+          "number": 8,
+          "name": "Ode à l'apesanteur",
+          "duration": "3:32"
+        },
+        {
+          "number": 9,
+          "name": "Que je devienne...",
+          "duration": "4:14"
+        },
+        {
+          "number": 10,
+          "name": "Ne plus renaître",
+          "duration": "6:06"
+        },
+        {
+          "number": 11,
+          "name": "D'un autre part",
+          "duration": "3:12"
+        },
+        {
+          "number": 12,
+          "name": "Bouteille à la mer",
+          "duration": "4:17"
+        },
+        {
+          "number": 13,
+          "name": "Rayon vert (Version piano voix)",
+          "duration": "3:12"
+        },
+        {
+          "number": 14,
+          "name": "Invisibles (Version piano voix)",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
       "name": "Histoires de",
       "year": "2020",
       "release_date": "2020-12-04",
@@ -257,84 +335,6 @@
           "number": 18,
           "name": "Des larmes",
           "duration": "3:48"
-        }
-      ]
-    },
-    {
-      "name": "L'Emprise",
-      "year": "2022",
-      "release_date": "2022-11-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/5b/ac/9f5bac2b-2b6b-5cf5-2082-00442a372319/196589557650.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Invisibles",
-          "duration": "3:35"
-        },
-        {
-          "number": 2,
-          "name": "À tout jamais",
-          "duration": "3:46"
-        },
-        {
-          "number": 3,
-          "name": "Que l'Aube est belle",
-          "duration": "5:08"
-        },
-        {
-          "number": 4,
-          "name": "L'Emprise",
-          "duration": "3:55"
-        },
-        {
-          "number": 5,
-          "name": "Do You Know Who I Am",
-          "duration": "4:03"
-        },
-        {
-          "number": 6,
-          "name": "Rallumer les étoiles",
-          "duration": "4:24"
-        },
-        {
-          "number": 7,
-          "name": "Rayon vert",
-          "duration": "3:45"
-        },
-        {
-          "number": 8,
-          "name": "Ode à l'apesanteur",
-          "duration": "3:32"
-        },
-        {
-          "number": 9,
-          "name": "Que je devienne...",
-          "duration": "4:14"
-        },
-        {
-          "number": 10,
-          "name": "Ne plus renaître",
-          "duration": "6:06"
-        },
-        {
-          "number": 11,
-          "name": "D'un autre part",
-          "duration": "3:12"
-        },
-        {
-          "number": 12,
-          "name": "Bouteille à la mer",
-          "duration": "4:17"
-        },
-        {
-          "number": 13,
-          "name": "Rayon vert (Version piano voix)",
-          "duration": "3:12"
-        },
-        {
-          "number": 14,
-          "name": "Invisibles (Version piano voix)",
-          "duration": "3:34"
         }
       ]
     },
@@ -3819,13 +3819,6 @@
       "tracks": []
     },
     {
-      "name": "Pourvu qu'elles soient douces",
-      "year": "1988",
-      "release_date": "1988-09-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/93/2e/16932e40-be03-abc7-372e-488c82479ee6/00600753819678.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Avant que l'ombre... À Bercy (Radio Edit)",
       "year": "2005",
       "release_date": "2005-04-18",
@@ -3842,6 +3835,13 @@
           "duration": "3:53"
         }
       ]
+    },
+    {
+      "name": "Pourvu qu'elles soient douces",
+      "year": "1988",
+      "release_date": "1988-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/16/93/2e/16932e40-be03-abc7-372e-488c82479ee6/00600753819678.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     }
   ],
   "eps": [

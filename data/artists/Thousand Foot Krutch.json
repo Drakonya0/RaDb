@@ -3,132 +3,6 @@
   "id": 5360702,
   "albums": [
     {
-      "name": "Phenomenon",
-      "year": "2003",
-      "release_date": "2003-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/0f/3e/4e0f3e0d-962a-058a-0880-a223d52fb547/00724358479959.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Phenomenon",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Step to Me",
-          "duration": "3:00"
-        },
-        {
-          "number": 3,
-          "name": "Last Words",
-          "duration": "2:48"
-        },
-        {
-          "number": 4,
-          "name": "This Is a Call",
-          "duration": "3:49"
-        },
-        {
-          "number": 5,
-          "name": "Rawkfist",
-          "duration": "2:40"
-        },
-        {
-          "number": 6,
-          "name": "Faith, Love and Happiness",
-          "duration": "2:54"
-        },
-        {
-          "number": 7,
-          "name": "I Climb",
-          "duration": "3:24"
-        },
-        {
-          "number": 8,
-          "name": "Quicken",
-          "duration": "2:51"
-        },
-        {
-          "number": 9,
-          "name": "New Design",
-          "duration": "3:29"
-        },
-        {
-          "number": 10,
-          "name": "Bounce",
-          "duration": "3:06"
-        },
-        {
-          "number": 11,
-          "name": "Ordinary",
-          "duration": "3:09"
-        },
-        {
-          "number": 12,
-          "name": "Break the Silence",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
-      "name": "Oxygen: Inhale",
-      "year": "2014",
-      "release_date": "2014-08-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/fd/59/1dfd59ce-1c00-91bd-8247-ac1ada410db7/859712980830_cover.tif/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Like a Machine",
-          "duration": "3:43"
-        },
-        {
-          "number": 2,
-          "name": "Untraveled Road",
-          "duration": "3:55"
-        },
-        {
-          "number": 3,
-          "name": "Born This Way",
-          "duration": "3:25"
-        },
-        {
-          "number": 4,
-          "name": "Set Me on Fire",
-          "duration": "3:48"
-        },
-        {
-          "number": 5,
-          "name": "Give It to Me",
-          "duration": "3:39"
-        },
-        {
-          "number": 6,
-          "name": "I See Red",
-          "duration": "4:10"
-        },
-        {
-          "number": 7,
-          "name": "Light Up",
-          "duration": "2:57"
-        },
-        {
-          "number": 8,
-          "name": "In My Room",
-          "duration": "4:39"
-        },
-        {
-          "number": 9,
-          "name": "Oxygen",
-          "duration": "3:51"
-        },
-        {
-          "number": 10,
-          "name": "Glow",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
       "name": "Welcome to the Masquerade",
       "year": "2009",
       "release_date": "2009-01-01",
@@ -285,6 +159,64 @@
       ]
     },
     {
+      "name": "Oxygen: Inhale",
+      "year": "2014",
+      "release_date": "2014-08-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/fd/59/1dfd59ce-1c00-91bd-8247-ac1ada410db7/859712980830_cover.tif/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Like a Machine",
+          "duration": "3:43"
+        },
+        {
+          "number": 2,
+          "name": "Untraveled Road",
+          "duration": "3:55"
+        },
+        {
+          "number": 3,
+          "name": "Born This Way",
+          "duration": "3:25"
+        },
+        {
+          "number": 4,
+          "name": "Set Me on Fire",
+          "duration": "3:48"
+        },
+        {
+          "number": 5,
+          "name": "Give It to Me",
+          "duration": "3:39"
+        },
+        {
+          "number": 6,
+          "name": "I See Red",
+          "duration": "4:10"
+        },
+        {
+          "number": 7,
+          "name": "Light Up",
+          "duration": "2:57"
+        },
+        {
+          "number": 8,
+          "name": "In My Room",
+          "duration": "4:39"
+        },
+        {
+          "number": 9,
+          "name": "Oxygen",
+          "duration": "3:51"
+        },
+        {
+          "number": 10,
+          "name": "Glow",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
       "name": "The Art of Breaking",
       "year": "2005",
       "release_date": "2005-01-01",
@@ -344,6 +276,74 @@
           "number": 11,
           "name": "Breathe You In",
           "duration": "4:19"
+        }
+      ]
+    },
+    {
+      "name": "Phenomenon",
+      "year": "2003",
+      "release_date": "2003-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4e/0f/3e/4e0f3e0d-962a-058a-0880-a223d52fb547/00724358479959.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Phenomenon",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Step to Me",
+          "duration": "3:00"
+        },
+        {
+          "number": 3,
+          "name": "Last Words",
+          "duration": "2:48"
+        },
+        {
+          "number": 4,
+          "name": "This Is a Call",
+          "duration": "3:49"
+        },
+        {
+          "number": 5,
+          "name": "Rawkfist",
+          "duration": "2:40"
+        },
+        {
+          "number": 6,
+          "name": "Faith, Love and Happiness",
+          "duration": "2:54"
+        },
+        {
+          "number": 7,
+          "name": "I Climb",
+          "duration": "3:24"
+        },
+        {
+          "number": 8,
+          "name": "Quicken",
+          "duration": "2:51"
+        },
+        {
+          "number": 9,
+          "name": "New Design",
+          "duration": "3:29"
+        },
+        {
+          "number": 10,
+          "name": "Bounce",
+          "duration": "3:06"
+        },
+        {
+          "number": 11,
+          "name": "Ordinary",
+          "duration": "3:09"
+        },
+        {
+          "number": 12,
+          "name": "Break the Silence",
+          "duration": "3:03"
         }
       ]
     },
@@ -417,6 +417,94 @@
           "number": 13,
           "name": "The Last Song",
           "duration": "3:38"
+        }
+      ]
+    },
+    {
+      "name": "Welcome to the Masquerade (Fan Edition)",
+      "year": "2011",
+      "release_date": "2011-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/14/2d/8c/142d8cb5-384d-cda4-e125-0509fa0918f7/05099908810250.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Invitation",
+          "duration": "0:59"
+        },
+        {
+          "number": 2,
+          "name": "Welcome to the Masquerade",
+          "duration": "3:41"
+        },
+        {
+          "number": 3,
+          "name": "Fire It Up",
+          "duration": "3:07"
+        },
+        {
+          "number": 4,
+          "name": "Bring Me to Life",
+          "duration": "3:36"
+        },
+        {
+          "number": 5,
+          "name": "E for Extinction",
+          "duration": "3:51"
+        },
+        {
+          "number": 6,
+          "name": "Watching Over Me",
+          "duration": "4:18"
+        },
+        {
+          "number": 7,
+          "name": "The Part That Hurts the Most (Is Me)",
+          "duration": "3:59"
+        },
+        {
+          "number": 8,
+          "name": "Scream",
+          "duration": "3:26"
+        },
+        {
+          "number": 9,
+          "name": "Look Away",
+          "duration": "4:01"
+        },
+        {
+          "number": 10,
+          "name": "Forward Motion",
+          "duration": "3:54"
+        },
+        {
+          "number": 11,
+          "name": "Outta Control",
+          "duration": "3:27"
+        },
+        {
+          "number": 12,
+          "name": "Smack Down",
+          "duration": "3:21"
+        },
+        {
+          "number": 13,
+          "name": "Already Home",
+          "duration": "4:30"
+        },
+        {
+          "number": 14,
+          "name": "Shook",
+          "duration": "3:25"
+        },
+        {
+          "number": 15,
+          "name": "Take It Out On Me",
+          "duration": "3:17"
+        },
+        {
+          "number": 16,
+          "name": "Anyone Else",
+          "duration": "3:35"
         }
       ]
     },
@@ -587,90 +675,130 @@
       ]
     },
     {
-      "name": "Welcome to the Masquerade (Fan Edition)",
-      "year": "2011",
-      "release_date": "2011-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/14/2d/8c/142d8cb5-384d-cda4-e125-0509fa0918f7/05099908810250.jpg/600x600bb.jpg",
+      "name": "The Ultimate Collection",
+      "year": "2014",
+      "release_date": "2014-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8f/f1/12/8ff11229-be2f-cb68-4378-21838426c359/00602537969913.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Invitation",
-          "duration": "0:59"
+          "name": "Phenomenon",
+          "duration": "2:59"
         },
         {
-          "number": 2,
-          "name": "Welcome to the Masquerade",
-          "duration": "3:41"
-        },
-        {
-          "number": 3,
+          "number": 1,
           "name": "Fire It Up",
           "duration": "3:07"
         },
         {
+          "number": 2,
+          "name": "Rawkfist",
+          "duration": "3:03"
+        },
+        {
+          "number": 2,
+          "name": "Smack Down",
+          "duration": "3:21"
+        },
+        {
+          "number": 3,
+          "name": "Move",
+          "duration": "3:29"
+        },
+        {
+          "number": 3,
+          "name": "The Flame In All of Us",
+          "duration": "3:22"
+        },
+        {
           "number": 4,
-          "name": "Bring Me to Life",
+          "name": "Bring Me To Life",
           "duration": "3:36"
         },
         {
+          "number": 4,
+          "name": "Falls Apart",
+          "duration": "3:34"
+        },
+        {
           "number": 5,
-          "name": "E for Extinction",
-          "duration": "3:51"
+          "name": "Last Words",
+          "duration": "2:48"
+        },
+        {
+          "number": 5,
+          "name": "What Do We Know",
+          "duration": "3:18"
         },
         {
           "number": 6,
-          "name": "Watching Over Me",
-          "duration": "4:18"
+          "name": "Absolute",
+          "duration": "3:19"
+        },
+        {
+          "number": 6,
+          "name": "Wish You Well",
+          "duration": "3:45"
         },
         {
           "number": 7,
-          "name": "The Part That Hurts the Most (Is Me)",
-          "duration": "3:59"
+          "name": "This Is a Call",
+          "duration": "3:50"
+        },
+        {
+          "number": 7,
+          "name": "Set It Off",
+          "duration": "6:03"
         },
         {
           "number": 8,
-          "name": "Scream",
-          "duration": "3:26"
+          "name": "Welcome To the Masquerade",
+          "duration": "3:41"
+        },
+        {
+          "number": 8,
+          "name": "Outta Control",
+          "duration": "3:28"
         },
         {
           "number": 9,
-          "name": "Look Away",
-          "duration": "4:01"
+          "name": "Already Home",
+          "duration": "4:30"
+        },
+        {
+          "number": 9,
+          "name": "Everyone Like Me",
+          "duration": "3:13"
         },
         {
           "number": 10,
+          "name": "Take It Out On Me",
+          "duration": "3:17"
+        },
+        {
+          "number": 10,
+          "name": "E For Extinction",
+          "duration": "3:50"
+        },
+        {
+          "number": 11,
           "name": "Forward Motion",
           "duration": "3:54"
         },
         {
           "number": 11,
-          "name": "Outta Control",
-          "duration": "3:27"
+          "name": "Breathe You In",
+          "duration": "4:19"
         },
         {
           "number": 12,
-          "name": "Smack Down",
-          "duration": "3:21"
+          "name": "Scream (Live)",
+          "duration": "3:30"
         },
         {
-          "number": 13,
-          "name": "Already Home",
-          "duration": "4:30"
-        },
-        {
-          "number": 14,
-          "name": "Shook",
-          "duration": "3:25"
-        },
-        {
-          "number": 15,
-          "name": "Take It Out On Me",
-          "duration": "3:17"
-        },
-        {
-          "number": 16,
-          "name": "Anyone Else",
-          "duration": "3:35"
+          "number": 12,
+          "name": "Puppet (Live)",
+          "duration": "5:23"
         }
       ]
     },
@@ -1030,134 +1158,6 @@
           "number": 13,
           "name": "Courtesy Call (Trailer Remix)",
           "duration": "3:09"
-        }
-      ]
-    },
-    {
-      "name": "The Ultimate Collection",
-      "year": "2014",
-      "release_date": "2014-11-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8f/f1/12/8ff11229-be2f-cb68-4378-21838426c359/00602537969913.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Phenomenon",
-          "duration": "2:59"
-        },
-        {
-          "number": 1,
-          "name": "Fire It Up",
-          "duration": "3:07"
-        },
-        {
-          "number": 2,
-          "name": "Rawkfist",
-          "duration": "3:03"
-        },
-        {
-          "number": 2,
-          "name": "Smack Down",
-          "duration": "3:21"
-        },
-        {
-          "number": 3,
-          "name": "Move",
-          "duration": "3:29"
-        },
-        {
-          "number": 3,
-          "name": "The Flame In All of Us",
-          "duration": "3:22"
-        },
-        {
-          "number": 4,
-          "name": "Bring Me To Life",
-          "duration": "3:36"
-        },
-        {
-          "number": 4,
-          "name": "Falls Apart",
-          "duration": "3:34"
-        },
-        {
-          "number": 5,
-          "name": "Last Words",
-          "duration": "2:48"
-        },
-        {
-          "number": 5,
-          "name": "What Do We Know",
-          "duration": "3:18"
-        },
-        {
-          "number": 6,
-          "name": "Absolute",
-          "duration": "3:19"
-        },
-        {
-          "number": 6,
-          "name": "Wish You Well",
-          "duration": "3:45"
-        },
-        {
-          "number": 7,
-          "name": "This Is a Call",
-          "duration": "3:50"
-        },
-        {
-          "number": 7,
-          "name": "Set It Off",
-          "duration": "6:03"
-        },
-        {
-          "number": 8,
-          "name": "Welcome To the Masquerade",
-          "duration": "3:41"
-        },
-        {
-          "number": 8,
-          "name": "Outta Control",
-          "duration": "3:28"
-        },
-        {
-          "number": 9,
-          "name": "Already Home",
-          "duration": "4:30"
-        },
-        {
-          "number": 9,
-          "name": "Everyone Like Me",
-          "duration": "3:13"
-        },
-        {
-          "number": 10,
-          "name": "Take It Out On Me",
-          "duration": "3:17"
-        },
-        {
-          "number": 10,
-          "name": "E For Extinction",
-          "duration": "3:50"
-        },
-        {
-          "number": 11,
-          "name": "Forward Motion",
-          "duration": "3:54"
-        },
-        {
-          "number": 11,
-          "name": "Breathe You In",
-          "duration": "4:19"
-        },
-        {
-          "number": 12,
-          "name": "Scream (Live)",
-          "duration": "3:30"
-        },
-        {
-          "number": 12,
-          "name": "Puppet (Live)",
-          "duration": "5:23"
         }
       ]
     },
@@ -1598,6 +1598,24 @@
       ]
     },
     {
+      "name": "Courtesy Call (Reignited)",
+      "year": "2024",
+      "release_date": "2024-07-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/4d/6c/f74d6ceb-4189-6a77-06d2-f11426853d95/5037300079042.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Courtesy Call (Trailer Remix)",
+          "duration": "3:09"
+        },
+        {
+          "number": 2,
+          "name": "Courtesy Call",
+          "duration": "3:56"
+        }
+      ]
+    },
+    {
       "name": "Be Somebody",
       "year": "2024",
       "release_date": "2024-04-26",
@@ -1679,24 +1697,6 @@
           "number": 1,
           "name": "Euphoria",
           "duration": "3:44"
-        }
-      ]
-    },
-    {
-      "name": "Courtesy Call (Reignited)",
-      "year": "2024",
-      "release_date": "2024-07-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/4d/6c/f74d6ceb-4189-6a77-06d2-f11426853d95/5037300079042.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Courtesy Call (Trailer Remix)",
-          "duration": "3:09"
-        },
-        {
-          "number": 2,
-          "name": "Courtesy Call",
-          "duration": "3:56"
         }
       ]
     },

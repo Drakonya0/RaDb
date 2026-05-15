@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Satisfiction",
-      "year": "2023",
-      "release_date": "2023-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ed/fa/ec/edfaecc1-e332-f83a-57c8-74fe3b939518/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Satisfiction",
-          "duration": "3:41"
-        }
-      ]
-    },
-    {
       "name": "Panic Waves",
       "year": "2023",
       "release_date": "2023-02-17",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "Panic Waves",
           "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Satisfiction",
+      "year": "2023",
+      "release_date": "2023-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ed/fa/ec/edfaecc1-e332-f83a-57c8-74fe3b939518/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Satisfiction",
+          "duration": "3:41"
         }
       ]
     },

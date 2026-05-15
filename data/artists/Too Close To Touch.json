@@ -3,6 +3,69 @@
   "id": 919356674,
   "albums": [
     {
+      "name": "Nerve Endings",
+      "year": "2015",
+      "release_date": "2015-03-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/95/e0/cd95e044-ac64-a9ba-4597-a131ded95010/0045778738502.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Someday",
+          "duration": "3:44"
+        },
+        {
+          "number": 2,
+          "name": "Pretty Little Thing",
+          "duration": "3:39"
+        },
+        {
+          "number": 3,
+          "name": "Perfect World",
+          "duration": "3:36"
+        },
+        {
+          "number": 4,
+          "name": "The Deep End",
+          "duration": "3:22"
+        },
+        {
+          "number": 5,
+          "name": "The Chase (feat. Kellin Quinn)",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "Nerve Endings",
+          "duration": "3:42"
+        },
+        {
+          "number": 7,
+          "name": "Restless",
+          "duration": "3:24"
+        },
+        {
+          "number": 8,
+          "name": "Hell to Pay (feat. Telle)",
+          "duration": "4:37"
+        },
+        {
+          "number": 9,
+          "name": "The Air in Me",
+          "duration": "3:41"
+        },
+        {
+          "number": 10,
+          "name": "Sinking so Long",
+          "duration": "4:05"
+        },
+        {
+          "number": 11,
+          "name": "Until I Collapse",
+          "duration": "4:25"
+        }
+      ]
+    },
+    {
       "name": "Haven't Been Myself",
       "year": "2016",
       "release_date": "2016-09-23",
@@ -110,69 +173,6 @@
           "number": 8,
           "name": "They Don’t Even Know",
           "duration": "3:17"
-        }
-      ]
-    },
-    {
-      "name": "Nerve Endings",
-      "year": "2015",
-      "release_date": "2015-03-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/95/e0/cd95e044-ac64-a9ba-4597-a131ded95010/0045778738502.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Someday",
-          "duration": "3:44"
-        },
-        {
-          "number": 2,
-          "name": "Pretty Little Thing",
-          "duration": "3:39"
-        },
-        {
-          "number": 3,
-          "name": "Perfect World",
-          "duration": "3:36"
-        },
-        {
-          "number": 4,
-          "name": "The Deep End",
-          "duration": "3:22"
-        },
-        {
-          "number": 5,
-          "name": "The Chase (feat. Kellin Quinn)",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "Nerve Endings",
-          "duration": "3:42"
-        },
-        {
-          "number": 7,
-          "name": "Restless",
-          "duration": "3:24"
-        },
-        {
-          "number": 8,
-          "name": "Hell to Pay (feat. Telle)",
-          "duration": "4:37"
-        },
-        {
-          "number": 9,
-          "name": "The Air in Me",
-          "duration": "3:41"
-        },
-        {
-          "number": 10,
-          "name": "Sinking so Long",
-          "duration": "4:05"
-        },
-        {
-          "number": 11,
-          "name": "Until I Collapse",
-          "duration": "4:25"
         }
       ]
     }

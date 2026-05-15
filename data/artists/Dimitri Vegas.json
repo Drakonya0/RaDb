@@ -125,19 +125,6 @@
   ],
   "singles": [
     {
-      "name": "Woops (Dimitri Vegas & Junkie Kid Remix)",
-      "year": "2024",
-      "release_date": "2024-10-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/e5/99/21e5992c-a672-fee9-8cf6-a5c141170007/198846361277.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Woops (Dimitri Vegas & Junkie Kid Remix)",
-          "duration": "2:38"
-        }
-      ]
-    },
-    {
       "name": "The Drop (feat. Azteck)",
       "year": "2022",
       "release_date": "2022-06-24",
@@ -151,15 +138,33 @@
       ]
     },
     {
-      "name": "Wakanda (Warriors Remix)",
-      "year": "2018",
-      "release_date": "2018-04-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/d1/d7/b0d1d751-71f5-2b92-307c-a5f57f772881/5060199553270.png/600x600bb.jpg",
+      "name": "Mammoth",
+      "year": "2013",
+      "release_date": "2013-05-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/ca/74/c7ca7434-3cfa-0d57-fdb8-15702fc01f40/199350010774.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Wakanda (Warriors Remix)",
-          "duration": "3:47"
+          "name": "Mammoth (Radio Edit)",
+          "duration": "2:40"
+        },
+        {
+          "number": 2,
+          "name": "Mammoth",
+          "duration": "5:32"
+        }
+      ]
+    },
+    {
+      "name": "Woops (Dimitri Vegas & Junkie Kid Remix)",
+      "year": "2024",
+      "release_date": "2024-10-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/e5/99/21e5992c-a672-fee9-8cf6-a5c141170007/198846361277.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Woops (Dimitri Vegas & Junkie Kid Remix)",
+          "duration": "2:38"
         }
       ]
     },
@@ -217,6 +222,19 @@
           "number": 1,
           "name": "Turn It Up (feat. Wolfpack)",
           "duration": "5:47"
+        }
+      ]
+    },
+    {
+      "name": "Wakanda (Warriors Remix)",
+      "year": "2018",
+      "release_date": "2018-04-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b0/d1/d7/b0d1d751-71f5-2b92-307c-a5f57f772881/5060199553270.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wakanda (Warriors Remix)",
+          "duration": "3:47"
         }
       ]
     },
@@ -414,24 +432,6 @@
           "number": 3,
           "name": "Deeper Love (Yves V Remix)",
           "duration": "7:35"
-        }
-      ]
-    },
-    {
-      "name": "Mammoth",
-      "year": "2013",
-      "release_date": "2013-05-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/ca/74/c7ca7434-3cfa-0d57-fdb8-15702fc01f40/199350010774.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mammoth (Radio Edit)",
-          "duration": "2:40"
-        },
-        {
-          "number": 2,
-          "name": "Mammoth",
-          "duration": "5:32"
         }
       ]
     },
@@ -637,6 +637,24 @@
           "number": 1,
           "name": "Friends (feat. Steve Aoki) [Luca Agnelli Remix]",
           "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "name": "Makina Time (Joel Corry Remix)",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/d5/44/8bd54470-a4e8-ce27-fe3f-3cd1fdfabc91/820233185868.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Makina Time (Joel Corry Remix)",
+          "duration": "2:53"
+        },
+        {
+          "number": 3,
+          "name": "Makina Time",
+          "duration": "2:10"
         }
       ]
     },

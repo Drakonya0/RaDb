@@ -3,6 +3,19 @@
   "id": 1187358477,
   "albums": [
     {
+      "name": "cry",
+      "year": "2024",
+      "release_date": "2024-02-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/c7/60/0ec760de-858b-d95d-c705-b6dd2aebcaa9/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "cry",
+          "duration": "2:11"
+        }
+      ]
+    },
+    {
       "name": "Stitches To Your Scars",
       "year": "2019",
       "release_date": "2019-05-22",
@@ -42,19 +55,6 @@
           "number": 7,
           "name": "Reality",
           "duration": "1:48"
-        }
-      ]
-    },
-    {
-      "name": "cry",
-      "year": "2024",
-      "release_date": "2024-02-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/c7/60/0ec760de-858b-d95d-c705-b6dd2aebcaa9/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "cry",
-          "duration": "2:11"
         }
       ]
     },
@@ -448,19 +448,6 @@
       ]
     },
     {
-      "name": "Let Me Go",
-      "year": "2023",
-      "release_date": "2023-05-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/f3/25/def32540-1afe-293f-22e8-69107f21922d/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Let Me Go",
-          "duration": "2:32"
-        }
-      ]
-    },
-    {
       "name": "the way i was (enjoii remix)",
       "year": "2024",
       "release_date": "2024-08-16",
@@ -470,6 +457,19 @@
           "number": 1,
           "name": "the way i was (enjoii remix)",
           "duration": "2:12"
+        }
+      ]
+    },
+    {
+      "name": "Let Me Go",
+      "year": "2023",
+      "release_date": "2023-05-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/de/f3/25/def32540-1afe-293f-22e8-69107f21922d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Let Me Go",
+          "duration": "2:32"
         }
       ]
     },
@@ -747,19 +747,6 @@
       ]
     },
     {
-      "name": "Drained",
-      "year": "2017",
-      "release_date": "2017-06-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/1c/8d/c11c8dfb-97c1-3e44-2312-9d7f31052653/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Drained",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
       "name": "Headlock",
       "year": "2019",
       "release_date": "2019-08-01",
@@ -769,6 +756,19 @@
           "number": 1,
           "name": "Headlock",
           "duration": "2:22"
+        }
+      ]
+    },
+    {
+      "name": "Drained",
+      "year": "2017",
+      "release_date": "2017-06-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/1c/8d/c11c8dfb-97c1-3e44-2312-9d7f31052653/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Drained",
+          "duration": "2:51"
         }
       ]
     },
@@ -1014,15 +1014,15 @@
       ]
     },
     {
-      "name": "Mahogany",
-      "year": "2018",
-      "release_date": "2018-05-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/49/3d/1e493d5e-6bb4-0f18-8e76-e7a86647800f/cover.jpg/600x600bb.jpg",
+      "name": "drained",
+      "year": "2017",
+      "release_date": "2017-06-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/14/fe/6c/14fe6c6a-9825-78bc-dd28-f237f8a4aed1/053000188070_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Mahogany",
-          "duration": "4:02"
+          "name": "drained",
+          "duration": "2:51"
         }
       ]
     },
@@ -1040,15 +1040,15 @@
       ]
     },
     {
-      "name": "drained",
-      "year": "2017",
-      "release_date": "2017-06-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/14/fe/6c/14fe6c6a-9825-78bc-dd28-f237f8a4aed1/053000188070_cover.jpg/600x600bb.jpg",
+      "name": "Mahogany",
+      "year": "2018",
+      "release_date": "2018-05-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/49/3d/1e493d5e-6bb4-0f18-8e76-e7a86647800f/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "drained",
-          "duration": "2:51"
+          "name": "Mahogany",
+          "duration": "4:02"
         }
       ]
     },
@@ -1079,19 +1079,6 @@
       ]
     },
     {
-      "name": "master",
-      "year": "2024",
-      "release_date": "2024-10-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/33/2d/c7332db8-fd3d-bf56-7e96-deb27b7410f9/723277874715.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "master",
-          "duration": "1:20"
-        }
-      ]
-    },
-    {
       "name": "Toxic",
       "year": "2020",
       "release_date": "2020-11-06",
@@ -1101,6 +1088,19 @@
           "number": 1,
           "name": "Toxic",
           "duration": "2:49"
+        }
+      ]
+    },
+    {
+      "name": "master",
+      "year": "2024",
+      "release_date": "2024-10-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/33/2d/c7332db8-fd3d-bf56-7e96-deb27b7410f9/723277874715.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "master",
+          "duration": "1:20"
         }
       ]
     },

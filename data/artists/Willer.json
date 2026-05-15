@@ -293,6 +293,39 @@
       ]
     },
     {
+      "name": "umbra",
+      "year": "2026",
+      "release_date": "2026-02-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/5e/93/1c5e9389-d657-aae9-fd23-0a6a9a37dbb7/323115.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "umbra",
+          "duration": "1:28"
+        },
+        {
+          "number": 2,
+          "name": "umbra (Sped Up)",
+          "duration": "1:18"
+        },
+        {
+          "number": 3,
+          "name": "umbra (Slowed)",
+          "duration": "1:39"
+        },
+        {
+          "number": 4,
+          "name": "umbra (Super Slowed)",
+          "duration": "1:51"
+        },
+        {
+          "number": 5,
+          "name": "umbra (Ultra Slowed)",
+          "duration": "2:05"
+        }
+      ]
+    },
+    {
       "name": "Funk Liminal",
       "year": "2025",
       "release_date": "2025-11-07",
@@ -317,34 +350,6 @@
           "number": 4,
           "name": "Funk Liminal (Sped Up)",
           "duration": "1:07"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM TOCAR",
-      "year": "2026",
-      "release_date": "2026-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/52/00/e352000b-45f4-4a03-b5df-243f9c5f6790/1963624301252_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM TOCAR",
-          "duration": "1:11"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM TOCAR - SLOWED",
-          "duration": "1:19"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM TOCAR - SUPER SLOWED",
-          "duration": "1:29"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM TOCAR - ULTRA SLOWED",
-          "duration": "1:40"
         }
       ]
     },
@@ -378,6 +383,34 @@
           "number": 5,
           "name": "SOBE SOBE (Ultra Slowed)",
           "duration": "1:33"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM TOCAR",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/52/00/e352000b-45f4-4a03-b5df-243f9c5f6790/1963624301252_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM TOCAR",
+          "duration": "1:11"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM TOCAR - SLOWED",
+          "duration": "1:19"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM TOCAR - SUPER SLOWED",
+          "duration": "1:29"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM TOCAR - ULTRA SLOWED",
+          "duration": "1:40"
         }
       ]
     },
@@ -448,34 +481,6 @@
       ]
     },
     {
-      "name": "Funk do Mignon",
-      "year": "2025",
-      "release_date": "2025-11-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/5f/1d/035f1d22-4766-ac40-3eaa-36366fffdd63/4262558470629.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Funk do Mignon",
-          "duration": "1:37"
-        },
-        {
-          "number": 2,
-          "name": "Funk do Mignon (Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 3,
-          "name": "Funk do Mignon (Ultra Slowed)",
-          "duration": "1:54"
-        },
-        {
-          "number": 4,
-          "name": "Funk do Mignon (Sped Up)",
-          "duration": "1:30"
-        }
-      ]
-    },
-    {
       "name": "VIZON",
       "year": "2026",
       "release_date": "2026-04-10",
@@ -500,6 +505,34 @@
           "number": 4,
           "name": "VIZON (Ultra Slowed)",
           "duration": "2:08"
+        }
+      ]
+    },
+    {
+      "name": "Funk do Mignon",
+      "year": "2025",
+      "release_date": "2025-11-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/5f/1d/035f1d22-4766-ac40-3eaa-36366fffdd63/4262558470629.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Funk do Mignon",
+          "duration": "1:37"
+        },
+        {
+          "number": 2,
+          "name": "Funk do Mignon (Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 3,
+          "name": "Funk do Mignon (Ultra Slowed)",
+          "duration": "1:54"
+        },
+        {
+          "number": 4,
+          "name": "Funk do Mignon (Sped Up)",
+          "duration": "1:30"
         }
       ]
     }

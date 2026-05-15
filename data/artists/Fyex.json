@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "GTR",
+      "year": "2022",
+      "release_date": "2022-10-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/0b/eb/170beb83-60b1-bc6c-1792-a4ac4b195171/735910516296_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "GTR",
+          "duration": "2:10"
+        }
+      ]
+    },
+    {
       "name": "Eternal Rave",
       "year": "2023",
       "release_date": "2023-12-01",
@@ -127,29 +140,6 @@
           "number": 1,
           "name": "Gangsta (feat. Lunis)",
           "duration": "2:30"
-        }
-      ]
-    },
-    {
-      "name": "Shanel",
-      "year": "2025",
-      "release_date": "2025-09-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/9a/9e/1e9a9eb5-f581-72a4-0fc5-d11ef65f732b/619566086818.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shanel",
-          "duration": "2:34"
-        },
-        {
-          "number": 2,
-          "name": "Shanel (Sped Up)",
-          "duration": "2:18"
-        },
-        {
-          "number": 3,
-          "name": "Shanel (Slowed)",
-          "duration": "2:53"
         }
       ]
     },
@@ -962,6 +952,19 @@
       ]
     },
     {
+      "name": "Dirty Dancing",
+      "year": "2020",
+      "release_date": "2020-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/9c/28/af9c2824-ea6f-3ece-3828-4317e1f530d3/195497263912.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dirty Dancing",
+          "duration": "2:26"
+        }
+      ]
+    },
+    {
       "name": "Brazil Phonk Powww (Fyex's Vision)",
       "year": "2023",
       "release_date": "2023-06-30",
@@ -1088,19 +1091,6 @@
           "number": 1,
           "name": "Lies",
           "duration": "2:42"
-        }
-      ]
-    },
-    {
-      "name": "GTR",
-      "year": "2022",
-      "release_date": "2022-10-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/0b/eb/170beb83-60b1-bc6c-1792-a4ac4b195171/735910516296_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "GTR",
-          "duration": "2:10"
         }
       ]
     },
@@ -1558,39 +1548,6 @@
   ],
   "eps": [
     {
-      "name": "Montagem Green Renitch V1",
-      "year": "2025",
-      "release_date": "2025-03-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/12/d2/c012d2a5-656e-94f8-389d-9ae29ce547f2/020357781889.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Green Renitch V1",
-          "duration": "1:38"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Green Renitch V1 (Slowed)",
-          "duration": "1:55"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Green Renitch V1 (Super Slowed)",
-          "duration": "2:19"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Green Renitch V1 (Edit Version)",
-          "duration": "2:12"
-        },
-        {
-          "number": 5,
-          "name": "Montagem Green Renitch V1 (Sped Up)",
-          "duration": "1:32"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM PERDIDO",
       "year": "2025",
       "release_date": "2025-08-15",
@@ -1681,6 +1638,44 @@
           "number": 5,
           "name": "NAO DESISTA (Sped Up)",
           "duration": "1:24"
+        }
+      ]
+    },
+    {
+      "name": "GIMME",
+      "year": "2026",
+      "release_date": "2026-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/25/ea/2b25ea43-b29d-029d-5e49-0de8e9137b20/510994.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "GIMME",
+          "duration": "1:08"
+        },
+        {
+          "number": 2,
+          "name": "GIMME (Slowed)",
+          "duration": "1:20"
+        },
+        {
+          "number": 3,
+          "name": "GIMME (Super Slowed)",
+          "duration": "1:28"
+        },
+        {
+          "number": 4,
+          "name": "GIMME (Ultra Slowed)",
+          "duration": "1:38"
+        },
+        {
+          "number": 5,
+          "name": "GIMME (Sped Up)",
+          "duration": "0:59"
+        },
+        {
+          "number": 6,
+          "name": "GIMME (Nightcore)",
+          "duration": "0:55"
         }
       ]
     },
@@ -1934,35 +1929,30 @@
       ]
     },
     {
-      "name": "Montagem Liminal Nebulosa",
+      "name": "VEM BALANÇAR",
       "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/86/80/6e8680ae-5297-d9c2-82cb-3ee04a16de2b/682106559622.png/600x600bb.jpg",
+      "release_date": "2025-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/5f/50/725f5069-0702-f375-4ac3-1f3300bd58c1/286885.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Montagem Liminal Nebulosa",
-          "duration": "2:36"
+          "name": "VEM BALANÇAR",
+          "duration": "1:53"
         },
         {
           "number": 2,
-          "name": "Montagem Liminal Nebulosa (Slowed)",
-          "duration": "3:08"
+          "name": "VEM BALANÇAR (Slowed)",
+          "duration": "2:04"
         },
         {
           "number": 3,
-          "name": "Montagem Liminal Nebulosa (Super Slowed)",
-          "duration": "3:35"
+          "name": "VEM BALANÇAR (Sped Up)",
+          "duration": "1:47"
         },
         {
           "number": 4,
-          "name": "Montagem Liminal Nebulosa (Ultra Slowed)",
-          "duration": "4:10"
-        },
-        {
-          "number": 5,
-          "name": "Montagem Liminal Nebulosa (Sped Up)",
-          "duration": "2:16"
+          "name": "VEM BALANÇAR (Super Slowed)",
+          "duration": "2:21"
         }
       ]
     },
@@ -2117,34 +2107,6 @@
         {
           "number": 4,
           "name": "MONTAGEM PERDIDO (Sped Up)",
-          "duration": "1:48"
-        }
-      ]
-    },
-    {
-      "name": "Montagem Perdido",
-      "year": "2025",
-      "release_date": "2025-08-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/02/d9/9402d9a4-3b8e-615f-0142-4b72efeb19d0/038557700357.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Perdido",
-          "duration": "1:58"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Perdido (Slowed)",
-          "duration": "2:12"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Perdido (Super Slowed)",
-          "duration": "2:28"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Perdido (Sped Up)",
           "duration": "1:48"
         }
       ]
@@ -2348,34 +2310,6 @@
       ]
     },
     {
-      "name": "Selena",
-      "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/f7/c6/d5f7c62e-044e-c60e-8bce-131bb64b3c57/4262558470018.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Selena",
-          "duration": "1:54"
-        },
-        {
-          "number": 2,
-          "name": "Selena (Slowed)",
-          "duration": "2:09"
-        },
-        {
-          "number": 3,
-          "name": "Selena (Super Slowed)",
-          "duration": "2:22"
-        },
-        {
-          "number": 4,
-          "name": "Selena (Sped Up)",
-          "duration": "1:45"
-        }
-      ]
-    },
-    {
       "name": "GIMME",
       "year": "2026",
       "release_date": "2026-02-20",
@@ -2526,30 +2460,30 @@
       ]
     },
     {
-      "name": "Pressao",
-      "year": "2025",
-      "release_date": "2025-06-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/13/38/cd133804-0cbe-5d53-a04f-a6164902e69a/682106115828.png/600x600bb.jpg",
+      "name": "LOS VOLTAJE FUNK",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/79/75/32797587-ae6c-997f-7e07-6edbffba8473/1479064.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Pressao",
-          "duration": "1:31"
+          "name": "LOS VOLTAJE FUNK",
+          "duration": "1:23"
         },
         {
           "number": 2,
-          "name": "Pressao (Slowed)",
-          "duration": "1:40"
+          "name": "LOS VOLTAJE FUNK (Slowed)",
+          "duration": "1:37"
         },
         {
           "number": 3,
-          "name": "Pressao (Super Slowed)",
-          "duration": "1:52"
+          "name": "LOS VOLTAJE FUNK (Ultra Slowed)",
+          "duration": "1:49"
         },
         {
           "number": 4,
-          "name": "Pressao (Sped Up)",
-          "duration": "1:24"
+          "name": "LOS VOLTAJE FUNK (Sped Up)",
+          "duration": "1:18"
         }
       ]
     },
@@ -2583,39 +2517,6 @@
           "number": 5,
           "name": "MONTAGEM GREEN RENITCH V1 (Sped Up)",
           "duration": "1:32"
-        }
-      ]
-    },
-    {
-      "name": "Step 2 Step",
-      "year": "2025",
-      "release_date": "2025-08-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/4d/42/9d4d426d-bca2-52d7-9086-b7e0e3c4d8c7/038557345794.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Step 2 Step",
-          "duration": "2:04"
-        },
-        {
-          "number": 2,
-          "name": "Step 2 Step (Slowed)",
-          "duration": "2:14"
-        },
-        {
-          "number": 3,
-          "name": "Step 2 Step (Ultra Slowed)",
-          "duration": "2:27"
-        },
-        {
-          "number": 4,
-          "name": "Step 2 Step (Sped up Edit)",
-          "duration": "1:43"
-        },
-        {
-          "number": 5,
-          "name": "Step 2 Step (Sped Up)",
-          "duration": "1:40"
         }
       ]
     },
@@ -2682,6 +2583,39 @@
           "number": 5,
           "name": "MONTAGEM DANZA (Ultra Slowed)",
           "duration": "2:22"
+        }
+      ]
+    },
+    {
+      "name": "CANTA LA",
+      "year": "2025",
+      "release_date": "2025-05-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/0c/af/e80caf8d-bfde-1465-38d5-7a53fb9239b0/3125545.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CANTA LA",
+          "duration": "1:29"
+        },
+        {
+          "number": 2,
+          "name": "CANTA LA (Slowed)",
+          "duration": "1:36"
+        },
+        {
+          "number": 3,
+          "name": "CANTA LA (Super Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "CANTA LA (Ultra Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 5,
+          "name": "CANTA LA (Sped Up)",
+          "duration": "1:25"
         }
       ]
     },
@@ -2860,39 +2794,6 @@
           "number": 5,
           "name": "CANTA LA (Sped Up)",
           "duration": "1:25"
-        }
-      ]
-    },
-    {
-      "name": "Mog!",
-      "year": "2025",
-      "release_date": "2025-02-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/bc/a4/55bca4f0-c65a-a42e-2664-b10968e5696b/021865587895.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mog!",
-          "duration": "2:11"
-        },
-        {
-          "number": 2,
-          "name": "Mog! (Slowed)",
-          "duration": "2:30"
-        },
-        {
-          "number": 3,
-          "name": "Mog! (Super Slowed)",
-          "duration": "2:45"
-        },
-        {
-          "number": 4,
-          "name": "Mog! (Ultra Slowed)",
-          "duration": "3:06"
-        },
-        {
-          "number": 5,
-          "name": "Mog! (Sped Up)",
-          "duration": "2:01"
         }
       ]
     },

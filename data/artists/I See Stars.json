@@ -3,6 +3,74 @@
   "id": 310523954,
   "albums": [
     {
+      "name": "Treehouse",
+      "year": "2016",
+      "release_date": "2016-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/8c/4b/258c4bd5-bd08-ecc3-22c9-59f93001f64a/00817424016032_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Calm Snow",
+          "duration": "3:11"
+        },
+        {
+          "number": 2,
+          "name": "Break",
+          "duration": "3:47"
+        },
+        {
+          "number": 3,
+          "name": "White Lies",
+          "duration": "3:32"
+        },
+        {
+          "number": 4,
+          "name": "Everyone's Safe In The Treehouse",
+          "duration": "4:06"
+        },
+        {
+          "number": 5,
+          "name": "Running With Scissors",
+          "duration": "4:22"
+        },
+        {
+          "number": 6,
+          "name": "Mobbin' Out",
+          "duration": "4:55"
+        },
+        {
+          "number": 7,
+          "name": "Walking On Gravestones",
+          "duration": "3:50"
+        },
+        {
+          "number": 8,
+          "name": "Light In The Cave",
+          "duration": "3:51"
+        },
+        {
+          "number": 9,
+          "name": "All In",
+          "duration": "4:22"
+        },
+        {
+          "number": 10,
+          "name": "Two Hearted",
+          "duration": "4:24"
+        },
+        {
+          "number": 11,
+          "name": "Portals",
+          "duration": "5:23"
+        },
+        {
+          "number": 12,
+          "name": "Yellow King",
+          "duration": "4:48"
+        }
+      ]
+    },
+    {
       "name": "THE WHEEL",
       "year": "2025",
       "release_date": "2025-09-12",
@@ -149,70 +217,45 @@
       ]
     },
     {
-      "name": "Treehouse",
-      "year": "2016",
-      "release_date": "2016-06-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/8c/4b/258c4bd5-bd08-ecc3-22c9-59f93001f64a/00817424016032_Cover.jpg/600x600bb.jpg",
+      "name": "Treehouse (Acoustic)",
+      "year": "2018",
+      "release_date": "2018-04-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/a4/23/4da4235b-269e-ee1d-f491-cc7c98279a3b/00817424018555_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Calm Snow",
-          "duration": "3:11"
+          "name": "Two Hearted (Acoustic)",
+          "duration": "3:43"
         },
         {
           "number": 2,
-          "name": "Break",
-          "duration": "3:47"
+          "name": "Running With Scissors (Acoustic)",
+          "duration": "4:17"
         },
         {
           "number": 3,
-          "name": "White Lies",
-          "duration": "3:32"
+          "name": "Light In The Cave (Acoustic)",
+          "duration": "4:20"
         },
         {
           "number": 4,
-          "name": "Everyone's Safe In The Treehouse",
-          "duration": "4:06"
+          "name": "Yellow King (Acoustic)",
+          "duration": "4:46"
         },
         {
           "number": 5,
-          "name": "Running With Scissors",
-          "duration": "4:22"
+          "name": "Everyone's Safe In The Treehouse (Acoustic)",
+          "duration": "4:02"
         },
         {
           "number": 6,
-          "name": "Mobbin' Out",
-          "duration": "4:55"
+          "name": "Calm Snow (Acoustic)",
+          "duration": "3:22"
         },
         {
           "number": 7,
-          "name": "Walking On Gravestones",
-          "duration": "3:50"
-        },
-        {
-          "number": 8,
-          "name": "Light In The Cave",
-          "duration": "3:51"
-        },
-        {
-          "number": 9,
-          "name": "All In",
-          "duration": "4:22"
-        },
-        {
-          "number": 10,
-          "name": "Two Hearted",
-          "duration": "4:24"
-        },
-        {
-          "number": 11,
-          "name": "Portals",
-          "duration": "5:23"
-        },
-        {
-          "number": 12,
-          "name": "Yellow King",
-          "duration": "4:48"
+          "name": "White Lies (Acoustic)",
+          "duration": "3:34"
         }
       ]
     },
@@ -397,49 +440,6 @@
           "number": 11,
           "name": "Pop Rock And Roll",
           "duration": "4:49"
-        }
-      ]
-    },
-    {
-      "name": "Treehouse (Acoustic)",
-      "year": "2018",
-      "release_date": "2018-04-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/a4/23/4da4235b-269e-ee1d-f491-cc7c98279a3b/00817424018555_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Two Hearted (Acoustic)",
-          "duration": "3:43"
-        },
-        {
-          "number": 2,
-          "name": "Running With Scissors (Acoustic)",
-          "duration": "4:17"
-        },
-        {
-          "number": 3,
-          "name": "Light In The Cave (Acoustic)",
-          "duration": "4:20"
-        },
-        {
-          "number": 4,
-          "name": "Yellow King (Acoustic)",
-          "duration": "4:46"
-        },
-        {
-          "number": 5,
-          "name": "Everyone's Safe In The Treehouse (Acoustic)",
-          "duration": "4:02"
-        },
-        {
-          "number": 6,
-          "name": "Calm Snow (Acoustic)",
-          "duration": "3:22"
-        },
-        {
-          "number": 7,
-          "name": "White Lies (Acoustic)",
-          "duration": "3:34"
         }
       ]
     },
@@ -736,19 +736,6 @@
   ],
   "singles": [
     {
-      "name": "The Hardest Mistakes (feat. Cassadee Pope)",
-      "year": "2012",
-      "release_date": "2012-10-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/f2/be/f8f2beb8-c6b8-4737-9af7-b4983a21d6c6/00817424011501_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Hardest Mistakes (feat. Cassadee Pope)",
-          "duration": "4:21"
-        }
-      ]
-    },
-    {
       "name": "Someone You Loved (feat. I See Stars, The Word Alive & Ashland)",
       "year": "2019",
       "release_date": "2019-11-19",
@@ -758,6 +745,19 @@
           "number": 1,
           "name": "Someone You Loved (feat. I See Stars, The Word Alive & Ashland)",
           "duration": "3:01"
+        }
+      ]
+    },
+    {
+      "name": "The Hardest Mistakes (feat. Cassadee Pope)",
+      "year": "2012",
+      "release_date": "2012-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/f2/be/f8f2beb8-c6b8-4737-9af7-b4983a21d6c6/00817424011501_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Hardest Mistakes (feat. Cassadee Pope)",
+          "duration": "4:21"
         }
       ]
     },

@@ -3,6 +3,29 @@
   "id": 1000673755,
   "albums": [
     {
+      "name": "Feed the Rats",
+      "year": "2017",
+      "release_date": "2017-01-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f3/18/c0/f318c033-adf6-dbc5-bbc1-16f0e51837c5/5055300389213.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Psychopomp",
+          "duration": "15:06"
+        },
+        {
+          "number": 2,
+          "name": "Sweet Relief",
+          "duration": "4:38"
+        },
+        {
+          "number": 3,
+          "name": "Icon",
+          "duration": "16:59"
+        }
+      ]
+    },
+    {
       "name": "Land of Sleeper",
       "year": "2023",
       "release_date": "2023-02-17",
@@ -133,29 +156,6 @@
           "number": 6,
           "name": "Gloamer",
           "duration": "8:02"
-        }
-      ]
-    },
-    {
-      "name": "Feed the Rats",
-      "year": "2017",
-      "release_date": "2017-01-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f3/18/c0/f318c033-adf6-dbc5-bbc1-16f0e51837c5/5055300389213.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Psychopomp",
-          "duration": "15:06"
-        },
-        {
-          "number": 2,
-          "name": "Sweet Relief",
-          "duration": "4:38"
-        },
-        {
-          "number": 3,
-          "name": "Icon",
-          "duration": "16:59"
         }
       ]
     },

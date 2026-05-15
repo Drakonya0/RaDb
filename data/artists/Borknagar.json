@@ -3,6 +3,107 @@
   "id": 28430680,
   "albums": [
     {
+      "name": "True North",
+      "year": "2019",
+      "release_date": "2019-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/49/2e/e8492e41-47d0-1c0d-cfed-926622762375/886447823637.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Thunderous",
+          "duration": "8:34"
+        },
+        {
+          "number": 2,
+          "name": "Up North",
+          "duration": "6:29"
+        },
+        {
+          "number": 3,
+          "name": "The Fire that Burns",
+          "duration": "6:33"
+        },
+        {
+          "number": 4,
+          "name": "Lights",
+          "duration": "5:04"
+        },
+        {
+          "number": 5,
+          "name": "Wild Father's Heart",
+          "duration": "5:42"
+        },
+        {
+          "number": 6,
+          "name": "Mount Rapture",
+          "duration": "6:08"
+        },
+        {
+          "number": 7,
+          "name": "Into the White",
+          "duration": "5:57"
+        },
+        {
+          "number": 8,
+          "name": "Tidal",
+          "duration": "9:32"
+        },
+        {
+          "number": 9,
+          "name": "Voices",
+          "duration": "5:07"
+        }
+      ]
+    },
+    {
+      "name": "Fall",
+      "year": "2024",
+      "release_date": "2024-02-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/09/fb/c609fb62-7edd-04af-a649-7e3306d428a7/196871510783.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Summits",
+          "duration": "7:58"
+        },
+        {
+          "number": 2,
+          "name": "Nordic Anthem",
+          "duration": "5:14"
+        },
+        {
+          "number": 3,
+          "name": "Afar",
+          "duration": "6:54"
+        },
+        {
+          "number": 4,
+          "name": "Moon",
+          "duration": "5:51"
+        },
+        {
+          "number": 5,
+          "name": "Stars Ablaze",
+          "duration": "8:26"
+        },
+        {
+          "number": 6,
+          "name": "Unraveling",
+          "duration": "4:33"
+        },
+        {
+          "number": 7,
+          "name": "The Wild Lingers",
+          "duration": "5:34"
+        },
+        {
+          "number": 8,
+          "name": "Northward",
+          "duration": "9:54"
+        }
+      ]
+    },
+    {
       "name": "Borknagar",
       "year": "1996",
       "release_date": "1996-08-03",
@@ -61,54 +162,6 @@
       ]
     },
     {
-      "name": "The Olden Domain",
-      "year": "1997",
-      "release_date": "1997-10-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/d4/76/14/d47614af-4003-1053-cdfa-b380eaf82a94/mzm.qrurgnqq.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Eye of Oden",
-          "duration": "6:01"
-        },
-        {
-          "number": 2,
-          "name": "The Winterway",
-          "duration": "7:51"
-        },
-        {
-          "number": 3,
-          "name": "Om Hundrede Aar Er Alting Glemt",
-          "duration": "4:12"
-        },
-        {
-          "number": 4,
-          "name": "A Tale of Pagan Tongue",
-          "duration": "6:12"
-        },
-        {
-          "number": 5,
-          "name": "To Mount and Rove",
-          "duration": "4:55"
-        },
-        {
-          "number": 6,
-          "name": "Grimland Domain",
-          "duration": "6:19"
-        },
-        {
-          "number": 7,
-          "name": "Ascension of Our Fathers",
-          "duration": "3:53"
-        },
-        {
-          "number": 8,
-          "name": "The Dawn of the End",
-          "duration": "5:06"
-        }
-      ]
-    },
-    {
       "name": "Winter Thrice",
       "year": "2016",
       "release_date": "2016-01-22",
@@ -157,55 +210,50 @@
       ]
     },
     {
-      "name": "True North",
-      "year": "2019",
-      "release_date": "2019-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/49/2e/e8492e41-47d0-1c0d-cfed-926622762375/886447823637.jpg/600x600bb.jpg",
+      "name": "The Olden Domain",
+      "year": "1997",
+      "release_date": "1997-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music22/v4/d4/76/14/d47614af-4003-1053-cdfa-b380eaf82a94/mzm.qrurgnqq.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Thunderous",
-          "duration": "8:34"
+          "name": "The Eye of Oden",
+          "duration": "6:01"
         },
         {
           "number": 2,
-          "name": "Up North",
-          "duration": "6:29"
+          "name": "The Winterway",
+          "duration": "7:51"
         },
         {
           "number": 3,
-          "name": "The Fire that Burns",
-          "duration": "6:33"
+          "name": "Om Hundrede Aar Er Alting Glemt",
+          "duration": "4:12"
         },
         {
           "number": 4,
-          "name": "Lights",
-          "duration": "5:04"
+          "name": "A Tale of Pagan Tongue",
+          "duration": "6:12"
         },
         {
           "number": 5,
-          "name": "Wild Father's Heart",
-          "duration": "5:42"
+          "name": "To Mount and Rove",
+          "duration": "4:55"
         },
         {
           "number": 6,
-          "name": "Mount Rapture",
-          "duration": "6:08"
+          "name": "Grimland Domain",
+          "duration": "6:19"
         },
         {
           "number": 7,
-          "name": "Into the White",
-          "duration": "5:57"
+          "name": "Ascension of Our Fathers",
+          "duration": "3:53"
         },
         {
           "number": 8,
-          "name": "Tidal",
-          "duration": "9:32"
-        },
-        {
-          "number": 9,
-          "name": "Voices",
-          "duration": "5:07"
+          "name": "The Dawn of the End",
+          "duration": "5:06"
         }
       ]
     },
@@ -264,54 +312,6 @@
           "number": 10,
           "name": "My Friend of Misery",
           "duration": "6:19"
-        }
-      ]
-    },
-    {
-      "name": "Fall",
-      "year": "2024",
-      "release_date": "2024-02-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/09/fb/c609fb62-7edd-04af-a649-7e3306d428a7/196871510783.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Summits",
-          "duration": "7:58"
-        },
-        {
-          "number": 2,
-          "name": "Nordic Anthem",
-          "duration": "5:14"
-        },
-        {
-          "number": 3,
-          "name": "Afar",
-          "duration": "6:54"
-        },
-        {
-          "number": 4,
-          "name": "Moon",
-          "duration": "5:51"
-        },
-        {
-          "number": 5,
-          "name": "Stars Ablaze",
-          "duration": "8:26"
-        },
-        {
-          "number": 6,
-          "name": "Unraveling",
-          "duration": "4:33"
-        },
-        {
-          "number": 7,
-          "name": "The Wild Lingers",
-          "duration": "5:34"
-        },
-        {
-          "number": 8,
-          "name": "Northward",
-          "duration": "9:54"
         }
       ]
     },

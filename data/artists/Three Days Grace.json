@@ -232,74 +232,6 @@
       ]
     },
     {
-      "name": "Human",
-      "year": "2015",
-      "release_date": "2015-03-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/75/5d/d2755d0a-aeb4-1f8e-900f-1b8027a1e488/886444692298.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Human Race",
-          "duration": "4:09"
-        },
-        {
-          "number": 2,
-          "name": "Painkiller",
-          "duration": "2:58"
-        },
-        {
-          "number": 3,
-          "name": "Fallen Angel",
-          "duration": "3:06"
-        },
-        {
-          "number": 4,
-          "name": "Landmine",
-          "duration": "3:25"
-        },
-        {
-          "number": 5,
-          "name": "Tell Me Why",
-          "duration": "3:30"
-        },
-        {
-          "number": 6,
-          "name": "I Am Machine",
-          "duration": "3:21"
-        },
-        {
-          "number": 7,
-          "name": "So What",
-          "duration": "2:57"
-        },
-        {
-          "number": 8,
-          "name": "Car Crash",
-          "duration": "2:50"
-        },
-        {
-          "number": 9,
-          "name": "Nothing's Fair In Love and War",
-          "duration": "3:44"
-        },
-        {
-          "number": 10,
-          "name": "One Too Many",
-          "duration": "2:41"
-        },
-        {
-          "number": 11,
-          "name": "The End Is Not the Answer",
-          "duration": "2:52"
-        },
-        {
-          "number": 12,
-          "name": "The Real You",
-          "duration": "3:54"
-        }
-      ]
-    },
-    {
       "name": "Three Days Grace",
       "year": "2003",
       "release_date": "2003-07-22",
@@ -432,6 +364,74 @@
           "number": 12,
           "name": "Life Starts Now",
           "duration": "3:08"
+        }
+      ]
+    },
+    {
+      "name": "Human",
+      "year": "2015",
+      "release_date": "2015-03-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/75/5d/d2755d0a-aeb4-1f8e-900f-1b8027a1e488/886444692298.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Human Race",
+          "duration": "4:09"
+        },
+        {
+          "number": 2,
+          "name": "Painkiller",
+          "duration": "2:58"
+        },
+        {
+          "number": 3,
+          "name": "Fallen Angel",
+          "duration": "3:06"
+        },
+        {
+          "number": 4,
+          "name": "Landmine",
+          "duration": "3:25"
+        },
+        {
+          "number": 5,
+          "name": "Tell Me Why",
+          "duration": "3:30"
+        },
+        {
+          "number": 6,
+          "name": "I Am Machine",
+          "duration": "3:21"
+        },
+        {
+          "number": 7,
+          "name": "So What",
+          "duration": "2:57"
+        },
+        {
+          "number": 8,
+          "name": "Car Crash",
+          "duration": "2:50"
+        },
+        {
+          "number": 9,
+          "name": "Nothing's Fair In Love and War",
+          "duration": "3:44"
+        },
+        {
+          "number": 10,
+          "name": "One Too Many",
+          "duration": "2:41"
+        },
+        {
+          "number": 11,
+          "name": "The End Is Not the Answer",
+          "duration": "2:52"
+        },
+        {
+          "number": 12,
+          "name": "The Real You",
+          "duration": "3:54"
         }
       ]
     },
@@ -954,19 +954,6 @@
   ],
   "singles": [
     {
-      "name": "Somebody That I Used to Know",
-      "year": "2020",
-      "release_date": "2020-07-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/67/cf/64/67cf643c-6581-d284-4921-53e36537ef9c/886448579144.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Somebody That I Used to Know",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "Pain (+ Acoustic)",
       "year": "2007",
       "release_date": "2007-02-25",
@@ -999,6 +986,19 @@
           "number": 1,
           "name": "Animal I Have Become",
           "duration": "3:51"
+        }
+      ]
+    },
+    {
+      "name": "Somebody That I Used to Know",
+      "year": "2020",
+      "release_date": "2020-07-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/67/cf/64/67cf643c-6581-d284-4921-53e36537ef9c/886448579144.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Somebody That I Used to Know",
+          "duration": "3:29"
         }
       ]
     },

@@ -71,79 +71,6 @@
       ]
     },
     {
-      "name": "Heaven in Hiding",
-      "year": "2021",
-      "release_date": "2021-11-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/47/2b/20/472b20de-e2f0-7db8-d22e-f29093c01aa2/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Am Become a Name...",
-          "duration": "2:01"
-        },
-        {
-          "number": 2,
-          "name": "Ghost",
-          "duration": "4:15"
-        },
-        {
-          "number": 3,
-          "name": "Temptation",
-          "duration": "3:43"
-        },
-        {
-          "number": 4,
-          "name": "Surrender",
-          "duration": "3:41"
-        },
-        {
-          "number": 5,
-          "name": "Chasing Shadows",
-          "duration": "4:06"
-        },
-        {
-          "number": 6,
-          "name": "Moth to a Flame",
-          "duration": "4:30"
-        },
-        {
-          "number": 7,
-          "name": "Alleviate",
-          "duration": "4:27"
-        },
-        {
-          "number": 8,
-          "name": "Enslaved",
-          "duration": "3:52"
-        },
-        {
-          "number": 9,
-          "name": "Disappear",
-          "duration": "3:48"
-        },
-        {
-          "number": 10,
-          "name": "Lost and Left Behind",
-          "duration": "4:34"
-        },
-        {
-          "number": 11,
-          "name": "این نیز بگذرد",
-          "duration": "3:55"
-        },
-        {
-          "number": 12,
-          "name": "∞",
-          "duration": "0:51"
-        },
-        {
-          "number": 13,
-          "name": "Heaven in Hiding",
-          "duration": "3:56"
-        }
-      ]
-    },
-    {
       "name": "Turn the Light On",
       "year": "2019",
       "release_date": "2019-05-03",
@@ -315,84 +242,6 @@
       ]
     },
     {
-      "name": "This Is Goodbye",
-      "year": "2017",
-      "release_date": "2017-03-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a2/b5/da/a2b5da28-47b3-2794-bb97-327dcecc5701/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "This Is Goodbye",
-          "duration": "3:42"
-        },
-        {
-          "number": 2,
-          "name": "Diamonds",
-          "duration": "4:02"
-        },
-        {
-          "number": 3,
-          "name": "Broken Love",
-          "duration": "4:07"
-        },
-        {
-          "number": 4,
-          "name": "Coming Undone",
-          "duration": "3:57"
-        },
-        {
-          "number": 5,
-          "name": "Up",
-          "duration": "4:34"
-        },
-        {
-          "number": 6,
-          "name": "Daggers",
-          "duration": "3:47"
-        },
-        {
-          "number": 7,
-          "name": "Cold as Stone",
-          "duration": "4:00"
-        },
-        {
-          "number": 8,
-          "name": "Keep Me",
-          "duration": "3:55"
-        },
-        {
-          "number": 9,
-          "name": "Not a Rescue",
-          "duration": "4:00"
-        },
-        {
-          "number": 10,
-          "name": "Ivory Black",
-          "duration": "4:02"
-        },
-        {
-          "number": 11,
-          "name": "Desert Place",
-          "duration": "4:00"
-        },
-        {
-          "number": 12,
-          "name": "Diamonds (Acoustic)",
-          "duration": "3:56"
-        },
-        {
-          "number": 13,
-          "name": "Keep Me (Acoustic)",
-          "duration": "3:54"
-        },
-        {
-          "number": 14,
-          "name": "This Is Goodbye (Acoustic)",
-          "duration": "4:23"
-        }
-      ]
-    },
-    {
       "name": "Turn the Light On (Deluxe Edition)",
       "year": "2020",
       "release_date": "2020-11-06",
@@ -512,6 +361,157 @@
           "number": 23,
           "name": "Hidden Track",
           "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "Heaven in Hiding",
+      "year": "2021",
+      "release_date": "2021-11-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/47/2b/20/472b20de-e2f0-7db8-d22e-f29093c01aa2/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Am Become a Name...",
+          "duration": "2:01"
+        },
+        {
+          "number": 2,
+          "name": "Ghost",
+          "duration": "4:15"
+        },
+        {
+          "number": 3,
+          "name": "Temptation",
+          "duration": "3:43"
+        },
+        {
+          "number": 4,
+          "name": "Surrender",
+          "duration": "3:41"
+        },
+        {
+          "number": 5,
+          "name": "Chasing Shadows",
+          "duration": "4:06"
+        },
+        {
+          "number": 6,
+          "name": "Moth to a Flame",
+          "duration": "4:30"
+        },
+        {
+          "number": 7,
+          "name": "Alleviate",
+          "duration": "4:27"
+        },
+        {
+          "number": 8,
+          "name": "Enslaved",
+          "duration": "3:52"
+        },
+        {
+          "number": 9,
+          "name": "Disappear",
+          "duration": "3:48"
+        },
+        {
+          "number": 10,
+          "name": "Lost and Left Behind",
+          "duration": "4:34"
+        },
+        {
+          "number": 11,
+          "name": "این نیز بگذرد",
+          "duration": "3:55"
+        },
+        {
+          "number": 12,
+          "name": "∞",
+          "duration": "0:51"
+        },
+        {
+          "number": 13,
+          "name": "Heaven in Hiding",
+          "duration": "3:56"
+        }
+      ]
+    },
+    {
+      "name": "This Is Goodbye",
+      "year": "2017",
+      "release_date": "2017-03-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a2/b5/da/a2b5da28-47b3-2794-bb97-327dcecc5701/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "This Is Goodbye",
+          "duration": "3:42"
+        },
+        {
+          "number": 2,
+          "name": "Diamonds",
+          "duration": "4:02"
+        },
+        {
+          "number": 3,
+          "name": "Broken Love",
+          "duration": "4:07"
+        },
+        {
+          "number": 4,
+          "name": "Coming Undone",
+          "duration": "3:57"
+        },
+        {
+          "number": 5,
+          "name": "Up",
+          "duration": "4:34"
+        },
+        {
+          "number": 6,
+          "name": "Daggers",
+          "duration": "3:47"
+        },
+        {
+          "number": 7,
+          "name": "Cold as Stone",
+          "duration": "4:00"
+        },
+        {
+          "number": 8,
+          "name": "Keep Me",
+          "duration": "3:55"
+        },
+        {
+          "number": 9,
+          "name": "Not a Rescue",
+          "duration": "4:00"
+        },
+        {
+          "number": 10,
+          "name": "Ivory Black",
+          "duration": "4:02"
+        },
+        {
+          "number": 11,
+          "name": "Desert Place",
+          "duration": "4:00"
+        },
+        {
+          "number": 12,
+          "name": "Diamonds (Acoustic)",
+          "duration": "3:56"
+        },
+        {
+          "number": 13,
+          "name": "Keep Me (Acoustic)",
+          "duration": "3:54"
+        },
+        {
+          "number": 14,
+          "name": "This Is Goodbye (Acoustic)",
+          "duration": "4:23"
         }
       ]
     },
@@ -692,54 +692,6 @@
       ]
     },
     {
-      "name": "Turn the Light On: Acoustic Reimagination",
-      "year": "2020",
-      "release_date": "2020-01-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ec/66/2f/ec662f23-ab8f-56de-163b-221144b5e27e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Erase (Acoustic)",
-          "duration": "5:05"
-        },
-        {
-          "number": 2,
-          "name": "Saturated Soul (Acoustic)",
-          "duration": "4:36"
-        },
-        {
-          "number": 3,
-          "name": "Crawling (Acoustic)",
-          "duration": "3:03"
-        },
-        {
-          "number": 4,
-          "name": "Disconnected (Acoustic)",
-          "duration": "4:15"
-        },
-        {
-          "number": 5,
-          "name": "Infectious (Acoustic)",
-          "duration": "4:32"
-        },
-        {
-          "number": 6,
-          "name": "A Mark on My Soul (Remastered) [Bonus Track]",
-          "duration": "4:14"
-        },
-        {
-          "number": 7,
-          "name": "Wine & Water (Remastered) [Acoustic Bonus Track]",
-          "duration": "3:26"
-        },
-        {
-          "number": 8,
-          "name": "This Is Goodbye (Remastered) [Acoustic Bonus Track]",
-          "duration": "4:23"
-        }
-      ]
-    },
-    {
       "name": "I",
       "year": "2014",
       "release_date": "2014-09-09",
@@ -794,6 +746,54 @@
           "number": 10,
           "name": "A Sense of Doubt",
           "duration": "4:41"
+        }
+      ]
+    },
+    {
+      "name": "Turn the Light On: Acoustic Reimagination",
+      "year": "2020",
+      "release_date": "2020-01-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ec/66/2f/ec662f23-ab8f-56de-163b-221144b5e27e/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Erase (Acoustic)",
+          "duration": "5:05"
+        },
+        {
+          "number": 2,
+          "name": "Saturated Soul (Acoustic)",
+          "duration": "4:36"
+        },
+        {
+          "number": 3,
+          "name": "Crawling (Acoustic)",
+          "duration": "3:03"
+        },
+        {
+          "number": 4,
+          "name": "Disconnected (Acoustic)",
+          "duration": "4:15"
+        },
+        {
+          "number": 5,
+          "name": "Infectious (Acoustic)",
+          "duration": "4:32"
+        },
+        {
+          "number": 6,
+          "name": "A Mark on My Soul (Remastered) [Bonus Track]",
+          "duration": "4:14"
+        },
+        {
+          "number": 7,
+          "name": "Wine & Water (Remastered) [Acoustic Bonus Track]",
+          "duration": "3:26"
+        },
+        {
+          "number": 8,
+          "name": "This Is Goodbye (Remastered) [Acoustic Bonus Track]",
+          "duration": "4:23"
         }
       ]
     }

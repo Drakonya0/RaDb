@@ -3,59 +3,6 @@
   "id": 49536333,
   "albums": [
     {
-      "name": "In Control",
-      "year": "1999",
-      "release_date": "1999-02-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/c9/5e/c0/c95ec050-cbbf-7656-ac90-eaa4b0e77ddc/4988002280483_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Gate",
-          "duration": "1:20"
-        },
-        {
-          "number": 2,
-          "name": "In Control",
-          "duration": "5:09"
-        },
-        {
-          "number": 3,
-          "name": "Turn It Down",
-          "duration": "5:14"
-        },
-        {
-          "number": 4,
-          "name": "Surrender",
-          "duration": "4:01"
-        },
-        {
-          "number": 5,
-          "name": "Hot Fever",
-          "duration": "3:56"
-        },
-        {
-          "number": 6,
-          "name": "Tyrants",
-          "duration": "4:36"
-        },
-        {
-          "number": 7,
-          "name": "Path of Glory",
-          "duration": "4:15"
-        },
-        {
-          "number": 8,
-          "name": "Shadows",
-          "duration": "6:58"
-        },
-        {
-          "number": 9,
-          "name": "This Flight Tonight",
-          "duration": "3:58"
-        }
-      ]
-    },
-    {
       "name": "Livin' In Hysteria",
       "year": "2003",
       "release_date": "2003-01-01",
@@ -110,6 +57,59 @@
           "number": 10,
           "name": "Gate of Heaven",
           "duration": "4:35"
+        }
+      ]
+    },
+    {
+      "name": "In Control",
+      "year": "1999",
+      "release_date": "1999-02-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/c9/5e/c0/c95ec050-cbbf-7656-ac90-eaa4b0e77ddc/4988002280483_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Gate",
+          "duration": "1:20"
+        },
+        {
+          "number": 2,
+          "name": "In Control",
+          "duration": "5:09"
+        },
+        {
+          "number": 3,
+          "name": "Turn It Down",
+          "duration": "5:14"
+        },
+        {
+          "number": 4,
+          "name": "Surrender",
+          "duration": "4:01"
+        },
+        {
+          "number": 5,
+          "name": "Hot Fever",
+          "duration": "3:56"
+        },
+        {
+          "number": 6,
+          "name": "Tyrants",
+          "duration": "4:36"
+        },
+        {
+          "number": 7,
+          "name": "Path of Glory",
+          "duration": "4:15"
+        },
+        {
+          "number": 8,
+          "name": "Shadows",
+          "duration": "6:58"
+        },
+        {
+          "number": 9,
+          "name": "This Flight Tonight",
+          "duration": "3:58"
         }
       ]
     },

@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "YEAH",
+      "year": "2025",
+      "release_date": "2025-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/e1/dd/4fe1dda1-4209-c429-53ea-172c1d41f101/199066812808.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "YEAH",
+          "duration": "2:21"
+        }
+      ]
+    },
+    {
       "name": "Up & Down",
       "year": "2019",
       "release_date": "2019-04-12",
@@ -13,19 +26,6 @@
           "number": 1,
           "name": "Up & Down",
           "duration": "2:43"
-        }
-      ]
-    },
-    {
-      "name": "Bella Ciao",
-      "year": "2018",
-      "release_date": "2018-06-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/c1/1f/7cc11f37-eb3e-ffee-7125-b42e4db07991/0617465967955.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bella Ciao",
-          "duration": "2:52"
         }
       ]
     },
@@ -170,19 +170,6 @@
       ]
     },
     {
-      "name": "YEAH",
-      "year": "2025",
-      "release_date": "2025-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/e1/dd/4fe1dda1-4209-c429-53ea-172c1d41f101/199066812808.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "YEAH",
-          "duration": "2:21"
-        }
-      ]
-    },
-    {
       "name": "Ameno",
       "year": "2020",
       "release_date": "2020-08-28",
@@ -210,6 +197,19 @@
           "number": 1,
           "name": "Children of a Miracle",
           "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Bella Ciao",
+      "year": "2018",
+      "release_date": "2018-06-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/c1/1f/7cc11f37-eb3e-ffee-7125-b42e4db07991/0617465967955.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bella Ciao",
+          "duration": "2:52"
         }
       ]
     },
@@ -924,19 +924,6 @@
       ]
     },
     {
-      "name": "The Best Part",
-      "year": "2022",
-      "release_date": "2022-12-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8e/f8/46/8ef84676-d0f6-2afd-61b6-912193cc314a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Best Part",
-          "duration": "2:16"
-        }
-      ]
-    },
-    {
       "name": "Tik Tok (Right on Time)",
       "year": "2018",
       "release_date": "2018-07-27",
@@ -946,6 +933,19 @@
           "number": 1,
           "name": "Tik Tok (Right on Time)",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "The Best Part",
+      "year": "2022",
+      "release_date": "2022-12-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8e/f8/46/8ef84676-d0f6-2afd-61b6-912193cc314a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Best Part",
+          "duration": "2:16"
         }
       ]
     },
@@ -1063,13 +1063,6 @@
       "tracks": []
     },
     {
-      "name": "The Lonely Shepherd (feat. Soria)",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/7f/17/a37f17cd-412d-67ce-857c-76fec9b69ddf/26UMGIM19941.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Across The Sun (feat. Vanessa Campagna)",
       "year": "2022",
       "release_date": "2022-04-08",
@@ -1081,6 +1074,13 @@
           "duration": "3:04"
         }
       ]
+    },
+    {
+      "name": "The Lonely Shepherd (feat. Soria)",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/7f/17/a37f17cd-412d-67ce-857c-76fec9b69ddf/26UMGIM19941.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Gam Gam (feat. SMACK) [Slowed]",
@@ -1129,13 +1129,6 @@
       ]
     },
     {
-      "name": "Maximus (feat. Lavie)",
-      "year": "2026",
-      "release_date": "2026-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/54/45/065445f1-e241-a1cc-9cd7-269771fdd4cc/26UMGIM31323.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Something Magical (Extended Mix)",
       "year": "2021",
       "release_date": "2021-11-26",
@@ -1147,6 +1140,13 @@
           "duration": "3:06"
         }
       ]
+    },
+    {
+      "name": "Maximus (feat. Lavie)",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/54/45/065445f1-e241-a1cc-9cd7-269771fdd4cc/26UMGIM31323.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Black & Yellow (You Know What It Is)",
@@ -1305,19 +1305,6 @@
       ]
     },
     {
-      "name": "Instant Moments",
-      "year": "2025",
-      "release_date": "2025-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/f2/52/39f25253-ac0b-e8c5-bc75-eef55b63028e/198704542749_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Instant Moments",
-          "duration": "2:59"
-        }
-      ]
-    },
-    {
       "name": "Harry Potter Style (Extended Mix)",
       "year": "2021",
       "release_date": "2021-10-08",
@@ -1327,6 +1314,19 @@
           "number": 1,
           "name": "Harry Potter Style (Extended Mix)",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Instant Moments",
+      "year": "2025",
+      "release_date": "2025-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/f2/52/39f25253-ac0b-e8c5-bc75-eef55b63028e/198704542749_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Instant Moments",
+          "duration": "2:59"
         }
       ]
     },
@@ -1357,19 +1357,6 @@
       ]
     },
     {
-      "name": "Stardust (Extended Mix)",
-      "year": "2022",
-      "release_date": "2022-11-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/32/dd/b132dde7-2516-89b3-e2ad-ea3a213963ed/5054197409769.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stardust (Extended Mix)",
-          "duration": "4:01"
-        }
-      ]
-    },
-    {
       "name": "Pump It Up (feat. Marnik)",
       "year": "2022",
       "release_date": "2022-08-12",
@@ -1379,6 +1366,19 @@
           "number": 1,
           "name": "Pump It Up (feat. Marnik) [Marnik Remix]",
           "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Stardust (Extended Mix)",
+      "year": "2022",
+      "release_date": "2022-11-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/32/dd/b132dde7-2516-89b3-e2ad-ea3a213963ed/5054197409769.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stardust (Extended Mix)",
+          "duration": "4:01"
         }
       ]
     },

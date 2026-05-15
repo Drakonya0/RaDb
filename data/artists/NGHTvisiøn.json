@@ -30,6 +30,24 @@
       "name": "GOTHEX",
       "year": "2024",
       "release_date": "2024-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/25/cb/c625cb6b-df99-7b81-3af6-5883cee49ec2/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "GOTHEX",
+          "duration": "1:58"
+        },
+        {
+          "number": 2,
+          "name": "GOTHEX (slowed)",
+          "duration": "2:27"
+        }
+      ]
+    },
+    {
+      "name": "GOTHEX",
+      "year": "2024",
+      "release_date": "2024-11-15",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/28/73/0428739f-1901-995f-af34-8c2cd7ffcb5d/198876605679.jpg/600x600bb.jpg",
       "tracks": [
         {
@@ -132,29 +150,6 @@
       ]
     },
     {
-      "name": "DRUGS.Mov",
-      "year": "2025",
-      "release_date": "2025-03-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/3a/02/063a02ae-1909-40f3-9b16-b903a5284020/020357786822.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DRUGS.Mov",
-          "duration": "1:37"
-        },
-        {
-          "number": 2,
-          "name": "DRUGS.Mov (Slowed)",
-          "duration": "1:55"
-        },
-        {
-          "number": 3,
-          "name": "DRUGS.Mov (Super Slowed)",
-          "duration": "2:02"
-        }
-      ]
-    },
-    {
       "name": "PSYCHO",
       "year": "2025",
       "release_date": "2025-03-14",
@@ -191,24 +186,6 @@
       ]
     },
     {
-      "name": "GOTHEX",
-      "year": "2024",
-      "release_date": "2024-11-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/25/cb/c625cb6b-df99-7b81-3af6-5883cee49ec2/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "GOTHEX",
-          "duration": "1:58"
-        },
-        {
-          "number": 2,
-          "name": "GOTHEX (slowed)",
-          "duration": "2:27"
-        }
-      ]
-    },
-    {
       "name": "TARNISHED",
       "year": "2026",
       "release_date": "2026-04-20",
@@ -228,34 +205,6 @@
     }
   ],
   "eps": [
-    {
-      "name": "The Void",
-      "year": "2025",
-      "release_date": "2025-06-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/da/7a/e5da7a4d-ca21-d0fa-847b-ecfc27be3caa/009392742642.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Void",
-          "duration": "2:01"
-        },
-        {
-          "number": 2,
-          "name": "The Void (Slowed)",
-          "duration": "2:10"
-        },
-        {
-          "number": 3,
-          "name": "The Void (Super Slowed)",
-          "duration": "2:22"
-        },
-        {
-          "number": 4,
-          "name": "The Void (Ultra Slowed)",
-          "duration": "2:32"
-        }
-      ]
-    },
     {
       "name": "DRUGS.mov (Extended)",
       "year": "2025",
@@ -319,44 +268,6 @@
           "number": 4,
           "name": "HYPNOTEKK (Perfect Slowed)",
           "duration": "2:43"
-        }
-      ]
-    },
-    {
-      "name": "DRUGS.Mov (Extended)",
-      "year": "2025",
-      "release_date": "2025-04-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/c0/9c/49c09ce7-41b8-807f-38ff-dd9573f5dd68/020357856860.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DRUGS.Mov",
-          "duration": "1:37"
-        },
-        {
-          "number": 2,
-          "name": "DRUGS.Mov (Slowed)",
-          "duration": "1:55"
-        },
-        {
-          "number": 3,
-          "name": "DRUGS.Mov (Super Slowed)",
-          "duration": "2:02"
-        },
-        {
-          "number": 4,
-          "name": "DRUGS.Mov (Ultra Slowed)",
-          "duration": "2:16"
-        },
-        {
-          "number": 5,
-          "name": "DRUGS.Mov (Extreme Slowed)",
-          "duration": "2:24"
-        },
-        {
-          "number": 6,
-          "name": "DRUGS.Mov (Sped Up)",
-          "duration": "1:29"
         }
       ]
     },
@@ -484,6 +395,39 @@
           "number": 5,
           "name": "NIHILITH (extreme slowed)",
           "duration": "2:03"
+        }
+      ]
+    },
+    {
+      "name": "SIGIL",
+      "year": "2026",
+      "release_date": "2026-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/74/a3/6774a387-2d8f-accc-72d8-80fc776f0d2f/2948506.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SIGIL",
+          "duration": "1:40"
+        },
+        {
+          "number": 2,
+          "name": "SIGIL (Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 3,
+          "name": "SIGIL (Super Slowed)",
+          "duration": "1:50"
+        },
+        {
+          "number": 4,
+          "name": "SIGIL (Ultra Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 5,
+          "name": "SIGIL (Sped Up)",
+          "duration": "1:28"
         }
       ]
     },
@@ -786,6 +730,34 @@
           "number": 5,
           "name": "PARADOX (Extreme Slowed)",
           "duration": "2:28"
+        }
+      ]
+    },
+    {
+      "name": "HYPNOTEKK",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/3f/37/8f3f375e-848c-e6a2-eb63-02f2f4072de9/1373785.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HYPNOTEKK",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "HYPNOTEKK (Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 3,
+          "name": "HYPNOTEKK (Super Slowed)",
+          "duration": "1:56"
+        },
+        {
+          "number": 4,
+          "name": "HYPNOTEKK (Perfect Slowed)",
+          "duration": "2:43"
         }
       ]
     },
@@ -1195,6 +1167,67 @@
       "year": "2026",
       "release_date": "2026-03-13",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/34/69/373469b6-aa7e-063b-890b-61b69a0d05ab/1111360.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FREEDOM HARDTEKK",
+          "duration": "1:36"
+        },
+        {
+          "number": 2,
+          "name": "FREEDOM HARDTEKK (Slowed)",
+          "duration": "1:47"
+        },
+        {
+          "number": 3,
+          "name": "FREEDOM HARDTEKK (Super Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 4,
+          "name": "FREEDOM HARDTEKK (Ultra Slowed)",
+          "duration": "2:13"
+        }
+      ]
+    },
+    {
+      "name": "ASCEND",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/43/05/ee430574-dac9-1b1c-e414-975d060c6950/2948610.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ASCEND",
+          "duration": "1:30"
+        },
+        {
+          "number": 2,
+          "name": "ASCEND (Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "ASCEND (Super Slowed)",
+          "duration": "1:54"
+        },
+        {
+          "number": 4,
+          "name": "ASCEND (Ultra Slowed)",
+          "duration": "2:01"
+        },
+        {
+          "number": 5,
+          "name": "ASCEND (Sped Up)",
+          "duration": "1:20"
+        }
+      ]
+    },
+    {
+      "name": "FREEDOM HARDTEKK",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/15/b0/e415b045-bf59-7046-5f05-fc4e554ef040/2973112.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,

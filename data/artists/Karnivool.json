@@ -3,69 +3,6 @@
   "id": 85099785,
   "albums": [
     {
-      "name": "Sound Awake",
-      "year": "2010",
-      "release_date": "2010-02-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/ac/b1/a9/mzi.xczxmuwz.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Simple Boy",
-          "duration": "5:47"
-        },
-        {
-          "number": 2,
-          "name": "Goliath",
-          "duration": "4:37"
-        },
-        {
-          "number": 3,
-          "name": "New Day",
-          "duration": "8:20"
-        },
-        {
-          "number": 4,
-          "name": "Set Fire to the Hive",
-          "duration": "4:28"
-        },
-        {
-          "number": 5,
-          "name": "Umbra",
-          "duration": "7:50"
-        },
-        {
-          "number": 6,
-          "name": "All I Know",
-          "duration": "4:53"
-        },
-        {
-          "number": 7,
-          "name": "The Medicine Wears Off",
-          "duration": "1:49"
-        },
-        {
-          "number": 8,
-          "name": "The Caudal Lure",
-          "duration": "6:16"
-        },
-        {
-          "number": 9,
-          "name": "Illumine",
-          "duration": "5:12"
-        },
-        {
-          "number": 10,
-          "name": "Deadman",
-          "duration": "12:04"
-        },
-        {
-          "number": 11,
-          "name": "Change",
-          "duration": "10:47"
-        }
-      ]
-    },
-    {
       "name": "Themata",
       "year": "2005",
       "release_date": "2005-03-14",
@@ -130,6 +67,69 @@
           "number": 12,
           "name": "Change, Pt. 1",
           "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Sound Awake",
+      "year": "2010",
+      "release_date": "2010-02-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/ac/b1/a9/mzi.xczxmuwz.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Simple Boy",
+          "duration": "5:47"
+        },
+        {
+          "number": 2,
+          "name": "Goliath",
+          "duration": "4:37"
+        },
+        {
+          "number": 3,
+          "name": "New Day",
+          "duration": "8:20"
+        },
+        {
+          "number": 4,
+          "name": "Set Fire to the Hive",
+          "duration": "4:28"
+        },
+        {
+          "number": 5,
+          "name": "Umbra",
+          "duration": "7:50"
+        },
+        {
+          "number": 6,
+          "name": "All I Know",
+          "duration": "4:53"
+        },
+        {
+          "number": 7,
+          "name": "The Medicine Wears Off",
+          "duration": "1:49"
+        },
+        {
+          "number": 8,
+          "name": "The Caudal Lure",
+          "duration": "6:16"
+        },
+        {
+          "number": 9,
+          "name": "Illumine",
+          "duration": "5:12"
+        },
+        {
+          "number": 10,
+          "name": "Deadman",
+          "duration": "12:04"
+        },
+        {
+          "number": 11,
+          "name": "Change",
+          "duration": "10:47"
         }
       ]
     },

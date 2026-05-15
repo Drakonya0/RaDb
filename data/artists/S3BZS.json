@@ -176,19 +176,6 @@
       ]
     },
     {
-      "name": "PIROK",
-      "year": "2024",
-      "release_date": "2024-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/75/3e/2b/753e2b01-98bb-7493-41a0-0e7a3bdc332f/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pirok",
-          "duration": "1:34"
-        }
-      ]
-    },
-    {
       "name": "FUEGO!",
       "year": "2023",
       "release_date": "2023-10-06",
@@ -198,6 +185,19 @@
           "number": 1,
           "name": "FUEGO!",
           "duration": "1:39"
+        }
+      ]
+    },
+    {
+      "name": "PIROK",
+      "year": "2024",
+      "release_date": "2024-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/75/3e/2b/753e2b01-98bb-7493-41a0-0e7a3bdc332f/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pirok",
+          "duration": "1:34"
         }
       ]
     },
@@ -274,6 +274,19 @@
       ]
     },
     {
+      "name": "Dança Dança (Sped Up)",
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/77/a1/3d/77a13d1b-5b9d-381b-9931-1a9f9f989650/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dança Dança (Sped Up)",
+          "duration": "1:01"
+        }
+      ]
+    },
+    {
       "name": "FIKA EKA",
       "year": "2024",
       "release_date": "2024-10-11",
@@ -297,19 +310,6 @@
       ]
     },
     {
-      "name": "TRAVIESA BRAZIL",
-      "year": "2023",
-      "release_date": "2023-06-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e5/75/90/e575907a-22b2-a489-1c1d-5e160ae43c94/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TRAVIESA BRAZIL",
-          "duration": "1:45"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM - SUCESSO (Sped Up)",
       "year": "2023",
       "release_date": "2023-08-11",
@@ -323,15 +323,15 @@
       ]
     },
     {
-      "name": "Dança Dança (Sped Up)",
+      "name": "TRAVIESA BRAZIL",
       "year": "2023",
-      "release_date": "2023-03-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/77/a1/3d/77a13d1b-5b9d-381b-9931-1a9f9f989650/artwork.jpg/600x600bb.jpg",
+      "release_date": "2023-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e5/75/90/e575907a-22b2-a489-1c1d-5e160ae43c94/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Dança Dança (Sped Up)",
-          "duration": "1:01"
+          "name": "TRAVIESA BRAZIL",
+          "duration": "1:45"
         }
       ]
     },
@@ -682,6 +682,29 @@
       ]
     },
     {
+      "name": "Llevame Contigo",
+      "year": "2025",
+      "release_date": "2025-09-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/2f/14/802f140f-2e67-9b90-65bf-39b282d19d20/284942.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Llevame Contigo",
+          "duration": "1:37"
+        },
+        {
+          "number": 2,
+          "name": "Llevame Contigo (Slowed)",
+          "duration": "1:56"
+        },
+        {
+          "number": 3,
+          "name": "Llevame Contigo (Speed Up)",
+          "duration": "1:26"
+        }
+      ]
+    },
+    {
       "name": "Respeito",
       "year": "2024",
       "release_date": "2024-05-04",
@@ -891,19 +914,6 @@
       ]
     },
     {
-      "name": "RITMADA AGRESSIVA (Slowed + Reverb)",
-      "year": "2023",
-      "release_date": "2023-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/85/e2/6e85e2ea-a2ad-1ac2-79d9-0ca9ef377eef/197813318726.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "RITMADA AGRESSIVA (Slowed + Reverb)",
-          "duration": "2:14"
-        }
-      ]
-    },
-    {
       "name": "Batida De Forca",
       "year": "2023",
       "release_date": "2023-07-07",
@@ -917,15 +927,15 @@
       ]
     },
     {
-      "name": "FIM DO MUNDO (SPED UP)",
+      "name": "RITMADA AGRESSIVA (Slowed + Reverb)",
       "year": "2023",
-      "release_date": "2023-07-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/d6/14/add6141d-2548-74cd-0fdc-b25618626f56/197902076889.jpg/600x600bb.jpg",
+      "release_date": "2023-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/85/e2/6e85e2ea-a2ad-1ac2-79d9-0ca9ef377eef/197813318726.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "FIM DO MUNDO (SPED UP)",
-          "duration": "1:11"
+          "name": "RITMADA AGRESSIVA (Slowed + Reverb)",
+          "duration": "2:14"
         }
       ]
     },
@@ -939,6 +949,19 @@
           "number": 1,
           "name": "EXPLOSÃO DE PODER",
           "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "FIM DO MUNDO (SPED UP)",
+      "year": "2023",
+      "release_date": "2023-07-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/d6/14/add6141d-2548-74cd-0fdc-b25618626f56/197902076889.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FIM DO MUNDO (SPED UP)",
+          "duration": "1:11"
         }
       ]
     },
@@ -1132,19 +1155,6 @@
       ]
     },
     {
-      "name": "ASCENSAO DOS GLADIADORES (Slowed + Reverb)",
-      "year": "2023",
-      "release_date": "2023-07-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/10/f5/2e10f5b7-a7d6-c4fb-1012-0b84dcd1da0e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ASCENSAO DOS GLADIADORES (Slowed + Reverb)",
-          "duration": "2:14"
-        }
-      ]
-    },
-    {
       "name": "BURN OUT the ROOM (Slowed & Reverb)",
       "year": "2023",
       "release_date": "2023-09-01",
@@ -1154,6 +1164,19 @@
           "number": 1,
           "name": "Burn Out the Room (Slowed & Reverb)",
           "duration": "1:44"
+        }
+      ]
+    },
+    {
+      "name": "ASCENSAO DOS GLADIADORES (Slowed + Reverb)",
+      "year": "2023",
+      "release_date": "2023-07-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/10/f5/2e10f5b7-a7d6-c4fb-1012-0b84dcd1da0e/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ASCENSAO DOS GLADIADORES (Slowed + Reverb)",
+          "duration": "2:14"
         }
       ]
     },
@@ -1248,6 +1271,19 @@
       ]
     },
     {
+      "name": "Zn Brilhante",
+      "year": "2025",
+      "release_date": "2025-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/c3/26/afc3261b-2670-39a4-1300-5b954fc5f85c/074417740910.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Zn Brilhante",
+          "duration": "1:09"
+        }
+      ]
+    },
+    {
       "name": "Elif",
       "year": "2025",
       "release_date": "2025-05-01",
@@ -1267,19 +1303,6 @@
           "number": 3,
           "name": "Elif (Ultra Slowed)",
           "duration": "1:39"
-        }
-      ]
-    },
-    {
-      "name": "Zn Brilhante",
-      "year": "2025",
-      "release_date": "2025-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/c3/26/afc3261b-2670-39a4-1300-5b954fc5f85c/074417740910.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Zn Brilhante",
-          "duration": "1:09"
         }
       ]
     },
@@ -1307,19 +1330,6 @@
       ]
     },
     {
-      "name": "PRONTO PRA GUERRA",
-      "year": "2023",
-      "release_date": "2023-11-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/05/2f/21052fc7-a850-eca3-5ae2-864afb4d5483/197190311648.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PRONTO PRA GUERRA",
-          "duration": "1:47"
-        }
-      ]
-    },
-    {
       "name": "ASCENSAO DOS GLADIADORES (Sped Up)",
       "year": "2023",
       "release_date": "2023-07-01",
@@ -1329,6 +1339,19 @@
           "number": 1,
           "name": "ASCENSAO DOS GLADIADORES (Sped Up)",
           "duration": "1:40"
+        }
+      ]
+    },
+    {
+      "name": "PRONTO PRA GUERRA",
+      "year": "2023",
+      "release_date": "2023-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/21/05/2f/21052fc7-a850-eca3-5ae2-864afb4d5483/197190311648.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PRONTO PRA GUERRA",
+          "duration": "1:47"
         }
       ]
     },
@@ -1443,6 +1466,37 @@
           "number": 1,
           "name": "Ascensao Dos Gladiadores",
           "duration": "1:48"
+        }
+      ]
+    },
+    {
+      "name": "zn brilhante",
+      "year": "2025",
+      "release_date": "2025-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/73/72/267372c4-3c3a-3f6a-0e88-3814b775a0c5/290433.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "zn brilhante",
+          "duration": "1:09"
+        }
+      ]
+    },
+    {
+      "name": "MTG RAVETON",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/83/f7/5f83f7c4-f5a0-6c4f-93f3-e7648995298f/3260284.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MTG RAVETON",
+          "duration": "1:07"
+        },
+        {
+          "number": 2,
+          "name": "MTG RAVETON (Slowed)",
+          "duration": "1:15"
         }
       ]
     },
@@ -1583,6 +1637,34 @@
           "number": 4,
           "name": "stylejumper.mp3 (Ultra Slowed)",
           "duration": "1:55"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM ESCORREGA",
+      "year": "2025",
+      "release_date": "2025-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/61/3a/1f613ae3-8c8a-f6f2-3ddb-85030710801e/288981.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM ESCORREGA",
+          "duration": "1:15"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM ESCORREGA (SLOWED)",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM ESCORREGA (SUPER SLOWED)",
+          "duration": "1:35"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM ESCORREGA (ULTRA SLOWED)",
+          "duration": "1:46"
         }
       ]
     },
@@ -1798,6 +1880,34 @@
       ]
     },
     {
+      "name": "ME ENLOQUECEU",
+      "year": "2025",
+      "release_date": "2025-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/96/8d/04968dc1-66a7-a270-8b63-f285c25066c1/287176.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ME ENLOQUECEU",
+          "duration": "1:44"
+        },
+        {
+          "number": 2,
+          "name": "ME ENLOQUECEU (Slowed)",
+          "duration": "2:11"
+        },
+        {
+          "number": 3,
+          "name": "ME ENLOQUECEU (Super Slowed)",
+          "duration": "2:27"
+        },
+        {
+          "number": 4,
+          "name": "ME ENLOQUECEU (Speed Up)",
+          "duration": "1:33"
+        }
+      ]
+    },
+    {
       "name": "E UMA BOTADA",
       "year": "2024",
       "release_date": "2024-02-23",
@@ -1850,6 +1960,39 @@
           "number": 4,
           "name": "MONTAGEM SOZINHA (SUPER SLOWED)",
           "duration": "1:52"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM REY",
+      "year": "2025",
+      "release_date": "2025-11-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/aa/4c/7baa4c09-d7c0-2fbe-dffa-5c909d74e7ba/285513.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM REY",
+          "duration": "1:20"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM REY (Slowed)",
+          "duration": "1:35"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM REY (Super Slowed)",
+          "duration": "1:55"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM REY (Ultra Slowed)",
+          "duration": "2:15"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM REY (Speed Up)",
+          "duration": "1:09"
         }
       ]
     },
@@ -2055,6 +2198,34 @@
       ]
     },
     {
+      "name": "SEU TOQUE",
+      "year": "2025",
+      "release_date": "2025-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/bd/e2/94bde2f5-d39a-4f58-af1b-c11f6ae65645/288507.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SEU TOQUE",
+          "duration": "1:11"
+        },
+        {
+          "number": 2,
+          "name": "SEU TOQUE (SLOWED)",
+          "duration": "1:30"
+        },
+        {
+          "number": 3,
+          "name": "SEU TOQUE (SUPER SLOWED)",
+          "duration": "1:41"
+        },
+        {
+          "number": 4,
+          "name": "SEU TOQUE (ULTRA SLOWED)",
+          "duration": "1:54"
+        }
+      ]
+    },
+    {
       "name": "MINHA MORTE",
       "year": "2024",
       "release_date": "2024-01-19",
@@ -2200,29 +2371,29 @@
       ]
     },
     {
-      "name": "Vai Novinha Toma",
+      "name": "VAI NOVINHA TOMA",
       "year": "2025",
       "release_date": "2025-10-03",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/f5/b4/04f5b45b-6410-6b72-c03a-526c23638c96/074417073773.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Vai Novinha Toma",
+          "name": "VAI NOVINHA TOMA",
           "duration": "1:21"
         },
         {
           "number": 2,
-          "name": "Vai Novinha Toma (Slowed)",
+          "name": "VAI NOVINHA TOMA (SLOWED)",
           "duration": "1:42"
         },
         {
           "number": 3,
-          "name": "Vai Novinha Toma (Super Slowed)",
+          "name": "VAI NOVINHA TOMA (SUPER SLOWED)",
           "duration": "1:54"
         },
         {
           "number": 4,
-          "name": "Vai Novinha Toma (Sped Up)",
+          "name": "VAI NOVINHA TOMA (SPED UP)",
           "duration": "1:12"
         }
       ]

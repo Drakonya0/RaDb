@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "Death Notes",
+      "year": "2025",
+      "release_date": "2025-09-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/24/a0/b124a08a-37b6-d046-dce6-71fdda84d5a7/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Death Notes",
+          "duration": "3:22"
+        }
+      ]
+    },
+    {
       "name": "I Love Lucy",
       "year": "2025",
       "release_date": "2025-10-31",
@@ -30,15 +43,15 @@
       ]
     },
     {
-      "name": "Death Notes",
-      "year": "2025",
-      "release_date": "2025-09-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/24/a0/b124a08a-37b6-d046-dce6-71fdda84d5a7/artwork.jpg/600x600bb.jpg",
+      "name": "I Love Lucy (Eva Jean Version)",
+      "year": "2026",
+      "release_date": "2026-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/13/c5/4c13c573-37af-0497-1b80-733f6c9a0830/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Death Notes",
-          "duration": "3:22"
+          "name": "I Love Lucy (Eva Jean Version)",
+          "duration": "3:00"
         }
       ]
     },

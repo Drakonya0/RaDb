@@ -3,54 +3,6 @@
   "id": 1186009219,
   "albums": [
     {
-      "name": "Nu Delhi",
-      "year": "2025",
-      "release_date": "2025-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/3c/af/773cafd0-e39b-00c4-4af0-bfa5d8d166d6/24CRGIM46495.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Halla Bol",
-          "duration": "5:29"
-        },
-        {
-          "number": 2,
-          "name": "Hutt",
-          "duration": "4:34"
-        },
-        {
-          "number": 3,
-          "name": "Dhadak",
-          "duration": "3:09"
-        },
-        {
-          "number": 4,
-          "name": "Bekhauf (feat. BABYMETAL)",
-          "duration": "3:48"
-        },
-        {
-          "number": 5,
-          "name": "Kismat",
-          "duration": "3:45"
-        },
-        {
-          "number": 6,
-          "name": "Daggebaaz",
-          "duration": "3:29"
-        },
-        {
-          "number": 7,
-          "name": "Tadka",
-          "duration": "4:22"
-        },
-        {
-          "number": 8,
-          "name": "Nu Delhi",
-          "duration": "4:28"
-        }
-      ]
-    },
-    {
       "name": "Rakshak",
       "year": "2022",
       "release_date": "2022-02-18",
@@ -107,22 +59,57 @@
           "duration": "4:25"
         }
       ]
-    }
-  ],
-  "singles": [
+    },
     {
-      "name": "Bekhauf (feat. BABYMETAL)",
-      "year": "2024",
-      "release_date": "2024-12-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/9a/ad/fa9aadc3-75c8-3881-738f-9fa4cd91fc64/24CRGIM46496.rgb.jpg/600x600bb.jpg",
+      "name": "Nu Delhi",
+      "year": "2025",
+      "release_date": "2025-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/3c/af/773cafd0-e39b-00c4-4af0-bfa5d8d166d6/24CRGIM46495.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
+          "name": "Halla Bol",
+          "duration": "5:29"
+        },
+        {
+          "number": 2,
+          "name": "Hutt",
+          "duration": "4:34"
+        },
+        {
+          "number": 3,
+          "name": "Dhadak",
+          "duration": "3:09"
+        },
+        {
+          "number": 4,
           "name": "Bekhauf (feat. BABYMETAL)",
           "duration": "3:48"
+        },
+        {
+          "number": 5,
+          "name": "Kismat",
+          "duration": "3:45"
+        },
+        {
+          "number": 6,
+          "name": "Daggebaaz",
+          "duration": "3:29"
+        },
+        {
+          "number": 7,
+          "name": "Tadka",
+          "duration": "4:22"
+        },
+        {
+          "number": 8,
+          "name": "Nu Delhi",
+          "duration": "4:28"
         }
       ]
-    },
+    }
+  ],
+  "singles": [
     {
       "name": "Ari Ari",
       "year": "2018",
@@ -137,15 +124,15 @@
       ]
     },
     {
-      "name": "Punjabi Metal",
-      "year": "2017",
-      "release_date": "2017-08-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b9/2f/12/b92f1299-1cc4-78cb-d174-b4fa53fc0b14/artwork.jpg/600x600bb.jpg",
+      "name": "Bekhauf (feat. BABYMETAL)",
+      "year": "2024",
+      "release_date": "2024-12-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/9a/ad/fa9aadc3-75c8-3881-738f-9fa4cd91fc64/24CRGIM46496.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Punjabi Metal",
-          "duration": "3:33"
+          "name": "Bekhauf (feat. BABYMETAL)",
+          "duration": "3:48"
         }
       ]
     },
@@ -198,6 +185,19 @@
           "number": 1,
           "name": "Nu Delhi",
           "duration": "4:28"
+        }
+      ]
+    },
+    {
+      "name": "Punjabi Metal",
+      "year": "2017",
+      "release_date": "2017-08-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b9/2f/12/b92f1299-1cc4-78cb-d174-b4fa53fc0b14/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Punjabi Metal",
+          "duration": "3:33"
         }
       ]
     },

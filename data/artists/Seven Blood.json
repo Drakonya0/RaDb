@@ -3,49 +3,6 @@
   "id": 1745285867,
   "albums": [
     {
-      "name": "Cold Eyes",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/54/59/285459f2-e8d8-0629-97e8-0d0443d490ee/199538189919.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cold Eyes",
-          "duration": "2:50"
-        },
-        {
-          "number": 2,
-          "name": "No Breakout",
-          "duration": "3:11"
-        },
-        {
-          "number": 3,
-          "name": "House ≠ Home",
-          "duration": "2:55"
-        },
-        {
-          "number": 4,
-          "name": "To the Unknown",
-          "duration": "4:32"
-        },
-        {
-          "number": 5,
-          "name": "Monsters",
-          "duration": "3:25"
-        },
-        {
-          "number": 6,
-          "name": "As We Bleed",
-          "duration": "3:36"
-        },
-        {
-          "number": 7,
-          "name": "Killing from the Inside",
-          "duration": "2:57"
-        }
-      ]
-    },
-    {
       "name": "Life Is Just a Phase",
       "year": "2025",
       "release_date": "2025-11-21",
@@ -105,6 +62,49 @@
           "number": 11,
           "name": "Fall from the Sky",
           "duration": "2:49"
+        }
+      ]
+    },
+    {
+      "name": "Cold Eyes",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/54/59/285459f2-e8d8-0629-97e8-0d0443d490ee/199538189919.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cold Eyes",
+          "duration": "2:50"
+        },
+        {
+          "number": 2,
+          "name": "No Breakout",
+          "duration": "3:11"
+        },
+        {
+          "number": 3,
+          "name": "House ≠ Home",
+          "duration": "2:55"
+        },
+        {
+          "number": 4,
+          "name": "To the Unknown",
+          "duration": "4:32"
+        },
+        {
+          "number": 5,
+          "name": "Monsters",
+          "duration": "3:25"
+        },
+        {
+          "number": 6,
+          "name": "As We Bleed",
+          "duration": "3:36"
+        },
+        {
+          "number": 7,
+          "name": "Killing from the Inside",
+          "duration": "2:57"
         }
       ]
     }

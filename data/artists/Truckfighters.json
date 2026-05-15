@@ -104,69 +104,6 @@
       ]
     },
     {
-      "name": "Phi",
-      "year": "2007",
-      "release_date": "2007-10-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/9f/da/269fdae9-d782-0add-7bc5-c6cc6090559a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Atomic",
-          "duration": "5:08"
-        },
-        {
-          "number": 2,
-          "name": "Fortyeight",
-          "duration": "4:41"
-        },
-        {
-          "number": 3,
-          "name": "Kickdown",
-          "duration": "5:22"
-        },
-        {
-          "number": 4,
-          "name": "Chameleon",
-          "duration": "10:02"
-        },
-        {
-          "number": 5,
-          "name": "Dysthymia",
-          "duration": "4:29"
-        },
-        {
-          "number": 6,
-          "name": "Slacken",
-          "duration": "3:26"
-        },
-        {
-          "number": 7,
-          "name": "Warhead",
-          "duration": "4:43"
-        },
-        {
-          "number": 8,
-          "name": "Traffic",
-          "duration": "4:30"
-        },
-        {
-          "number": 9,
-          "name": "Slides",
-          "duration": "5:08"
-        },
-        {
-          "number": 10,
-          "name": "The Game",
-          "duration": "7:31"
-        },
-        {
-          "number": 11,
-          "name": "Below the Sun",
-          "duration": "6:09"
-        }
-      ]
-    },
-    {
       "name": "Gravity X",
       "year": "2005",
       "release_date": "2005-04-02",
@@ -240,45 +177,65 @@
       ]
     },
     {
-      "name": "Universe",
-      "year": "2014",
-      "release_date": "2014-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/82/49/618249bc-f9f4-f867-61fd-9842b453ae90/cover.jpg/600x600bb.jpg",
+      "name": "Phi",
+      "year": "2007",
+      "release_date": "2007-10-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/9f/da/269fdae9-d782-0add-7bc5-c6cc6090559a/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Mind Control",
-          "duration": "3:57"
+          "name": "Atomic",
+          "duration": "5:08"
         },
         {
           "number": 2,
-          "name": "The Chairman",
-          "duration": "7:54"
+          "name": "Fortyeight",
+          "duration": "4:41"
         },
         {
           "number": 3,
-          "name": "Prophet",
-          "duration": "4:47"
+          "name": "Kickdown",
+          "duration": "5:22"
         },
         {
           "number": 4,
-          "name": "Get Lifted",
-          "duration": "7:54"
+          "name": "Chameleon",
+          "duration": "10:02"
         },
         {
           "number": 5,
-          "name": "Convention",
-          "duration": "1:40"
+          "name": "Dysthymia",
+          "duration": "4:29"
         },
         {
           "number": 6,
-          "name": "Dream Sale",
-          "duration": "4:23"
+          "name": "Slacken",
+          "duration": "3:26"
         },
         {
           "number": 7,
-          "name": "Mastodont",
-          "duration": "13:53"
+          "name": "Warhead",
+          "duration": "4:43"
+        },
+        {
+          "number": 8,
+          "name": "Traffic",
+          "duration": "4:30"
+        },
+        {
+          "number": 9,
+          "name": "Slides",
+          "duration": "5:08"
+        },
+        {
+          "number": 10,
+          "name": "The Game",
+          "duration": "7:31"
+        },
+        {
+          "number": 11,
+          "name": "Below the Sun",
+          "duration": "6:09"
         }
       ]
     },
@@ -442,6 +399,49 @@
       ]
     },
     {
+      "name": "Universe",
+      "year": "2014",
+      "release_date": "2014-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/82/49/618249bc-f9f4-f867-61fd-9842b453ae90/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mind Control",
+          "duration": "3:57"
+        },
+        {
+          "number": 2,
+          "name": "The Chairman",
+          "duration": "7:54"
+        },
+        {
+          "number": 3,
+          "name": "Prophet",
+          "duration": "4:47"
+        },
+        {
+          "number": 4,
+          "name": "Get Lifted",
+          "duration": "7:54"
+        },
+        {
+          "number": 5,
+          "name": "Convention",
+          "duration": "1:40"
+        },
+        {
+          "number": 6,
+          "name": "Dream Sale",
+          "duration": "4:23"
+        },
+        {
+          "number": 7,
+          "name": "Mastodont",
+          "duration": "13:53"
+        }
+      ]
+    },
+    {
       "name": "Live in London",
       "year": "2016",
       "release_date": "2016-11-05",
@@ -507,6 +507,19 @@
   ],
   "singles": [
     {
+      "name": "Analougus",
+      "year": "2020",
+      "release_date": "2020-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/77/f3/f677f39b-4f76-4602-6576-6c72e90de3b3/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Analougus",
+          "duration": "5:50"
+        }
+      ]
+    },
+    {
       "name": "The Gorgon",
       "year": "2026",
       "release_date": "2026-03-19",
@@ -544,19 +557,6 @@
           "number": 2,
           "name": "The Bliss",
           "duration": "5:58"
-        }
-      ]
-    },
-    {
-      "name": "Analougus",
-      "year": "2020",
-      "release_date": "2020-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/77/f3/f677f39b-4f76-4602-6576-6c72e90de3b3/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Analougus",
-          "duration": "5:50"
         }
       ]
     },

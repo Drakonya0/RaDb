@@ -3,69 +3,6 @@
   "id": 1163095812,
   "albums": [
     {
-      "name": "No Title-",
-      "year": "2016",
-      "release_date": "2016-03-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/91/b7/16/91b71609-aa5e-aa1a-ce94-4af01cb68618/TFDS-00343WW.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Opening",
-          "duration": "1:47"
-        },
-        {
-          "number": 2,
-          "name": "Hibikase",
-          "duration": "4:10"
-        },
-        {
-          "number": 3,
-          "name": "OedoRanvu (feat. nqrse)",
-          "duration": "3:01"
-        },
-        {
-          "number": 4,
-          "name": "Drop Pop Candy (feat. Giga)",
-          "duration": "3:44"
-        },
-        {
-          "number": 5,
-          "name": "Interlude",
-          "duration": "0:29"
-        },
-        {
-          "number": 6,
-          "name": "No Title",
-          "duration": "4:03"
-        },
-        {
-          "number": 7,
-          "name": "Echo",
-          "duration": "3:32"
-        },
-        {
-          "number": 8,
-          "name": "BWW Scream",
-          "duration": "1:21"
-        },
-        {
-          "number": 9,
-          "name": "Asymmetry",
-          "duration": "4:15"
-        },
-        {
-          "number": 10,
-          "name": "Gigantic O.T.N (Big Death Edition)",
-          "duration": "3:27"
-        },
-        {
-          "number": 11,
-          "name": "Ending",
-          "duration": "0:50"
-        }
-      ]
-    },
-    {
       "name": "Jijitsujo (Special Edition)",
       "year": "2018",
       "release_date": "2018-10-17",
@@ -129,34 +66,6 @@
       ]
     },
     {
-      "name": "Bunmei EP",
-      "year": "2019",
-      "release_date": "2019-03-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2c/4a/40/2c4a404b-5b00-ec0e-3de3-40d5ac41a14e/VICL-65137.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Utena",
-          "duration": "3:18"
-        },
-        {
-          "number": 2,
-          "name": "Wanna",
-          "duration": "3:44"
-        },
-        {
-          "number": 3,
-          "name": "Think Alone",
-          "duration": "3:42"
-        },
-        {
-          "number": 4,
-          "name": "Lost Paradise",
-          "duration": "4:14"
-        }
-      ]
-    },
-    {
       "name": "Kinjitou",
       "year": "2020",
       "release_date": "2020-01-22",
@@ -216,6 +125,97 @@
           "number": 11,
           "name": "1LDK",
           "duration": "3:54"
+        }
+      ]
+    },
+    {
+      "name": "No Title-",
+      "year": "2016",
+      "release_date": "2016-03-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/91/b7/16/91b71609-aa5e-aa1a-ce94-4af01cb68618/TFDS-00343WW.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Opening",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "Hibikase",
+          "duration": "4:10"
+        },
+        {
+          "number": 3,
+          "name": "OedoRanvu (feat. nqrse)",
+          "duration": "3:01"
+        },
+        {
+          "number": 4,
+          "name": "Drop Pop Candy (feat. Giga)",
+          "duration": "3:44"
+        },
+        {
+          "number": 5,
+          "name": "Interlude",
+          "duration": "0:29"
+        },
+        {
+          "number": 6,
+          "name": "No Title",
+          "duration": "4:03"
+        },
+        {
+          "number": 7,
+          "name": "Echo",
+          "duration": "3:32"
+        },
+        {
+          "number": 8,
+          "name": "BWW Scream",
+          "duration": "1:21"
+        },
+        {
+          "number": 9,
+          "name": "Asymmetry",
+          "duration": "4:15"
+        },
+        {
+          "number": 10,
+          "name": "Gigantic O.T.N (Big Death Edition)",
+          "duration": "3:27"
+        },
+        {
+          "number": 11,
+          "name": "Ending",
+          "duration": "0:50"
+        }
+      ]
+    },
+    {
+      "name": "Bunmei EP",
+      "year": "2019",
+      "release_date": "2019-03-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2c/4a/40/2c4a404b-5b00-ec0e-3de3-40d5ac41a14e/VICL-65137.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Utena",
+          "duration": "3:18"
+        },
+        {
+          "number": 2,
+          "name": "Wanna",
+          "duration": "3:44"
+        },
+        {
+          "number": 3,
+          "name": "Think Alone",
+          "duration": "3:42"
+        },
+        {
+          "number": 4,
+          "name": "Lost Paradise",
+          "duration": "4:14"
         }
       ]
     },
@@ -609,6 +609,37 @@
       ]
     },
     {
+      "name": "RE RESCUE",
+      "year": "2024",
+      "release_date": "2024-10-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/40/6a/3b406ace-1ab8-7e09-aad0-774bcdba51a3/4547366711110.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "RE RESCUE",
+          "duration": "3:53"
+        },
+        {
+          "number": 2,
+          "name": "RE RESCUE -aoex edit-",
+          "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "オオエドランヴ -十年物 Edition-",
+      "year": "2025",
+      "release_date": "2025-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/61/86/2c61866e-6d79-03d7-f1dd-1b0346c98324/4547366756593.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ooedoranvu -10th Edition-",
+          "duration": "3:56"
+        }
+      ]
+    },
+    {
       "name": "Q?",
       "year": "2020",
       "release_date": "2020-11-04",
@@ -631,24 +662,6 @@
           "number": 1,
           "name": "SAIREN",
           "duration": "3:49"
-        }
-      ]
-    },
-    {
-      "name": "感情御中",
-      "year": "2024",
-      "release_date": "2024-03-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/4c/9d/e94c9d11-8a9a-d0c7-0ae9-3db9672a71d7/4547366678390.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "WANT U LUV IT",
-          "duration": "2:55"
-        },
-        {
-          "number": 2,
-          "name": "WANT U LUV IT(Instrumental)",
-          "duration": "2:55"
         }
       ]
     },
@@ -715,6 +728,24 @@
       ]
     },
     {
+      "name": "感情御中",
+      "year": "2024",
+      "release_date": "2024-03-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/4c/9d/e94c9d11-8a9a-d0c7-0ae9-3db9672a71d7/4547366678390.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "WANT U LUV IT",
+          "duration": "2:55"
+        },
+        {
+          "number": 2,
+          "name": "WANT U LUV IT(Instrumental)",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
       "name": "煽げや尊し",
       "year": "2022",
       "release_date": "2022-07-27",
@@ -767,20 +798,15 @@
       ]
     },
     {
-      "name": "RE RESCUE",
-      "year": "2024",
-      "release_date": "2024-10-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/40/6a/3b406ace-1ab8-7e09-aad0-774bcdba51a3/4547366711110.jpg/600x600bb.jpg",
+      "name": "うつくしじごく",
+      "year": "2025",
+      "release_date": "2025-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/db/93/d4db93eb-ef12-6475-df70-ab4770e1b7a3/4547366787009.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "RE RESCUE",
-          "duration": "3:53"
-        },
-        {
-          "number": 2,
-          "name": "RE RESCUE -aoex edit-",
-          "duration": "1:29"
+          "name": "Utsukushi Jigoku",
+          "duration": "3:52"
         }
       ]
     },
@@ -868,19 +894,6 @@
       ]
     },
     {
-      "name": "オオエドランヴ -十年物 Edition-",
-      "year": "2025",
-      "release_date": "2025-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/61/86/2c61866e-6d79-03d7-f1dd-1b0346c98324/4547366756593.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ooedoranvu -10th Edition-",
-          "duration": "3:56"
-        }
-      ]
-    },
-    {
       "name": "レディーレ",
       "year": "2025",
       "release_date": "2025-04-16",
@@ -916,19 +929,6 @@
           "number": 1,
           "name": "THE SIXTH SENSE - From THE FIRST TAKE",
           "duration": "3:14"
-        }
-      ]
-    },
-    {
-      "name": "うつくしじごく",
-      "year": "2025",
-      "release_date": "2025-11-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/db/93/d4db93eb-ef12-6475-df70-ab4770e1b7a3/4547366787009.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Utsukushi Jigoku",
-          "duration": "3:52"
         }
       ]
     }

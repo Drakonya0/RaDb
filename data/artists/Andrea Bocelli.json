@@ -179,80 +179,527 @@
       ]
     },
     {
-      "name": "My Christmas",
-      "year": "2009",
-      "release_date": "2009-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/5e/e9/0e5ee96a-89e2-1d5a-815d-3daa0fb0e6bf/15UMGIM02110.rgb.jpg/600x600bb.jpg",
+      "name": "Amore",
+      "year": "2006",
+      "release_date": "2006-01-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/c8/40/1ac8407f-5bb0-00ff-ddfa-5d2f47cf7e9f/15UMGIM02109.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "White Christmas",
-          "duration": "3:57"
+          "name": "Amapola",
+          "duration": "3:41"
         },
         {
           "number": 2,
-          "name": "Angels We Have Heard On High",
-          "duration": "3:54"
+          "name": "Bésame Mucho",
+          "duration": "4:01"
         },
         {
           "number": 3,
-          "name": "Santa Claus Is Coming To Town",
-          "duration": "3:32"
+          "name": "Les feuilles mortes (feat. Veronica Berti)",
+          "duration": "4:50"
         },
         {
           "number": 4,
-          "name": "The Christmas Song (feat. Natalie Cole)",
-          "duration": "4:31"
+          "name": "Mi Manchi (feat. Kenny G)",
+          "duration": "3:34"
         },
         {
           "number": 5,
-          "name": "The Lords Prayer (feat. Mormon Tabernacle Choir)",
+          "name": "Somos Novios (It's Impossible)",
           "duration": "4:22"
         },
         {
           "number": 6,
+          "name": "Canzoni Stonate (feat. Stevie Wonder)",
+          "duration": "5:23"
+        },
+        {
+          "number": 7,
+          "name": "Solamente una Vez",
+          "duration": "3:29"
+        },
+        {
+          "number": 8,
+          "name": "Jurame (feat. Mario Reyes)",
+          "duration": "3:21"
+        },
+        {
+          "number": 9,
+          "name": "Pero Te Extraño",
+          "duration": "4:07"
+        },
+        {
+          "number": 10,
+          "name": "Momentos",
+          "duration": "3:54"
+        },
+        {
+          "number": 11,
+          "name": "L'appuntamento (Sentado a 'Beira Do Caminho)",
+          "duration": "4:06"
+        },
+        {
+          "number": 12,
+          "name": "Cuando Me Enamoro (Quando M'Innamoro)",
+          "duration": "3:55"
+        },
+        {
+          "number": 13,
+          "name": "Estate (feat. Chris Botti)",
+          "duration": "3:41"
+        },
+        {
+          "number": 14,
+          "name": "Can't Help Falling In Love (Live at Lake Las Vegas, 2005)",
+          "duration": "3:24"
+        },
+        {
+          "number": 15,
+          "name": "Because We Believe",
+          "duration": "4:39"
+        }
+      ]
+    },
+    {
+      "name": "Passione (Deluxe Edition)",
+      "year": "2013",
+      "release_date": "2013-01-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/c5/39/d8c53938-1ed0-3c04-1d58-602c5a6a6632/12UMGIM64780.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Perfidia",
+          "duration": "4:08"
+        },
+        {
+          "number": 2,
+          "name": "Roma nun fa' la stupida stasera",
+          "duration": "4:14"
+        },
+        {
+          "number": 3,
+          "name": "Champagne",
+          "duration": "3:49"
+        },
+        {
+          "number": 4,
+          "name": "Anema e core",
+          "duration": "4:10"
+        },
+        {
+          "number": 5,
+          "name": "Quizàs, Quizàs, Quizàs (feat. Jennifer Lopez)",
+          "duration": "3:18"
+        },
+        {
+          "number": 6,
+          "name": "Era già tutto previsto",
+          "duration": "3:43"
+        },
+        {
+          "number": 7,
+          "name": "Tristeza",
+          "duration": "3:24"
+        },
+        {
+          "number": 8,
+          "name": "La vie en rose (feat. Édith Piaf)",
+          "duration": "3:08"
+        },
+        {
+          "number": 9,
+          "name": "Corcovado / Quiet Nights of Quiet Stars (feat. Nelly Furtado)",
+          "duration": "3:36"
+        },
+        {
+          "number": 10,
+          "name": "Sarà settembre",
+          "duration": "3:42"
+        },
+        {
+          "number": 11,
+          "name": "Love In Portofino",
+          "duration": "3:01"
+        },
+        {
+          "number": 12,
+          "name": "Garota de Ipanema",
+          "duration": "3:38"
+        },
+        {
+          "number": 13,
+          "name": "Malafemmena",
+          "duration": "4:18"
+        },
+        {
+          "number": 14,
+          "name": "Love Me Tender",
+          "duration": "3:52"
+        },
+        {
+          "number": 15,
+          "name": "Il Nostro Incontro (feat. Chris Botti)",
+          "duration": "4:33"
+        },
+        {
+          "number": 16,
+          "name": "Senza fine",
+          "duration": "3:18"
+        },
+        {
+          "number": 17,
+          "name": "A mano a mano",
+          "duration": "4:19"
+        },
+        {
+          "number": 18,
+          "name": "When I Fall In Love",
+          "duration": "4:41"
+        }
+      ]
+    },
+    {
+      "name": "Duets (30th Anniversary)",
+      "year": "2024",
+      "release_date": "2024-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/cb/99/3acb993f-a7be-24bf-ccc9-373f08f8fce4/24UMGIM67316.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Time To Say Goodbye",
+          "duration": "4:55"
+        },
+        {
+          "number": 1,
+          "name": "Dare To Live (Vivere)",
+          "duration": "4:19"
+        },
+        {
+          "number": 2,
+          "name": "Vivo Por Ella (feat. KAROL G)",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "Can't Help Falling In Love",
+          "duration": "3:22"
+        },
+        {
+          "number": 3,
+          "name": "Quizás, Quizás, Quizás",
+          "duration": "3:18"
+        },
+        {
+          "number": 3,
+          "name": "Hallelujah",
+          "duration": "4:28"
+        },
+        {
+          "number": 4,
+          "name": "Fall On Me",
+          "duration": "4:18"
+        },
+        {
+          "number": 4,
+          "name": "Amazing Grace (arr. Mercurio)",
+          "duration": "3:56"
+        },
+        {
+          "number": 5,
+          "name": "Perfect Symphony",
+          "duration": "4:27"
+        },
+        {
+          "number": 5,
+          "name": "Moon River (feat. Sofia Carson) [From \"Breakfast At Tiffany's\"]",
+          "duration": "3:50"
+        },
+        {
+          "number": 6,
+          "name": "Da Stanotte in Poi (From This Moment On)",
+          "duration": "3:57"
+        },
+        {
+          "number": 6,
+          "name": "Canto Della Terra (feat. Lauren Daigle)",
+          "duration": "4:01"
+        },
+        {
+          "number": 7,
+          "name": "Holding On (feat. Gwen Stefani)",
+          "duration": "4:03"
+        },
+        {
+          "number": 7,
+          "name": "La Voce Del Silenzio (feat. Marc Anthony)",
+          "duration": "4:00"
+        },
+        {
+          "number": 8,
+          "name": "Il Mare Calmo Della Sera (feat. Chris Stapleton)",
+          "duration": "4:35"
+        },
+        {
+          "number": 8,
+          "name": "Canzoni stonate (feat. Stevie Wonder)",
+          "duration": "5:25"
+        },
+        {
+          "number": 9,
+          "name": "The Prayer",
+          "duration": "4:28"
+        },
+        {
+          "number": 9,
+          "name": "Un Amore Così Grande",
+          "duration": "4:22"
+        },
+        {
+          "number": 10,
+          "name": "La vie en rose",
+          "duration": "3:08"
+        },
+        {
+          "number": 10,
+          "name": "Notte 'e piscatore (Live / 2024 Version)",
+          "duration": "5:05"
+        },
+        {
+          "number": 11,
+          "name": "E più ti penso (From \"Once Upon A Time In America\")",
+          "duration": "4:28"
+        },
+        {
+          "number": 11,
+          "name": "Io Ci Sarò",
+          "duration": "4:50"
+        },
+        {
+          "number": 12,
+          "name": "If Only (feat. Dua Lipa)",
+          "duration": "3:39"
+        },
+        {
+          "number": 12,
+          "name": "Pianissimo",
+          "duration": "4:30"
+        },
+        {
+          "number": 13,
+          "name": "Somos Novios",
+          "duration": "4:24"
+        },
+        {
+          "number": 13,
+          "name": "Les pêcheurs de perles, WD 13, Act I: Au fond du temple saint (Live At Central Park, New York / 2011)",
+          "duration": "5:59"
+        },
+        {
+          "number": 14,
+          "name": "Return To Love",
+          "duration": "4:33"
+        },
+        {
+          "number": 14,
+          "name": "Bambina Mia Ricordati (feat. Virginia Bocelli)",
+          "duration": "3:59"
+        },
+        {
+          "number": 15,
+          "name": "Rimani Qui (feat. Elisa)",
+          "duration": "3:23"
+        },
+        {
+          "number": 15,
           "name": "What Child Is This (feat. Mary J. Blige)",
           "duration": "4:31"
         },
         {
-          "number": 7,
-          "name": "Adeste Fidelis",
+          "number": 16,
+          "name": "Vivo per lei",
+          "duration": "4:24"
+        },
+        {
+          "number": 16,
+          "name": "L'Incontro (feat. Bono)",
+          "duration": "4:52"
+        },
+        {
+          "number": 17,
+          "name": "Mi manchi (feat. Kenny G)",
+          "duration": "3:37"
+        },
+        {
+          "number": 18,
+          "name": "I Believe (feat. Katherine Jenkins)",
+          "duration": "4:25"
+        },
+        {
+          "number": 19,
+          "name": "Corcovado / Quiet Nights Of Quiet Stars (feat. Nelly Furtado)",
+          "duration": "3:36"
+        },
+        {
+          "number": 20,
+          "name": "Canto Della Terra (feat. A-Lin)",
+          "duration": "3:59"
+        }
+      ]
+    },
+    {
+      "name": "Sì Forever (The Diamond Edition)",
+      "year": "2019",
+      "release_date": "2019-11-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/da/c5/8ddac5e9-6a7b-a6be-ef71-d1ed0efbb2f8/19UMGIM70065.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Alla Gioia (Ode to Joy)",
+          "duration": "3:07"
+        },
+        {
+          "number": 2,
+          "name": "Return to Love",
+          "duration": "4:34"
+        },
+        {
+          "number": 3,
+          "name": "Un reve de liberté (\"Ali di Libertà\" French Version)",
           "duration": "3:32"
         },
         {
-          "number": 8,
-          "name": "O Tannenbaum",
-          "duration": "4:16"
+          "number": 4,
+          "name": "Ragazzo Mio (Danny Boy)",
+          "duration": "4:29"
         },
         {
-          "number": 9,
-          "name": "Jingle Bells (feat. The Muppets)",
-          "duration": "3:34"
-        },
-        {
-          "number": 10,
-          "name": "Blue Christmas (feat. Reba McEntire)",
-          "duration": "4:16"
-        },
-        {
-          "number": 11,
-          "name": "Cantique De Noel",
+          "number": 5,
+          "name": "Il Mare Calmo Della Sera",
           "duration": "4:32"
         },
         {
+          "number": 6,
+          "name": "Dormi Dormi Lullaby (feat. Jennifer Garner)",
+          "duration": "4:05"
+        },
+        {
+          "number": 7,
+          "name": "Amo Soltanto Te (feat. Ed Sheeran)",
+          "duration": "3:20"
+        },
+        {
+          "number": 8,
+          "name": "If Only (feat. Dua Lipa)",
+          "duration": "3:37"
+        },
+        {
+          "number": 9,
+          "name": "Fall on Me",
+          "duration": "4:18"
+        },
+        {
+          "number": 10,
+          "name": "Un'Anima",
+          "duration": "4:31"
+        },
+        {
+          "number": 11,
+          "name": "Miele Impuro",
+          "duration": "3:09"
+        },
+        {
           "number": 12,
-          "name": "Caro Gesu Bambino",
-          "duration": "1:41"
+          "name": "Gloria the Gift of Life",
+          "duration": "3:47"
         },
         {
           "number": 13,
-          "name": "I Believe (feat. Katherine Jenkins)",
-          "duration": "4:23"
+          "name": "Vertigo",
+          "duration": "4:35"
         },
         {
           "number": 14,
-          "name": "God Bless Us Everyone",
+          "name": "I Am Here (\"Sono Qui\" English Version)",
+          "duration": "3:49"
+        },
+        {
+          "number": 15,
+          "name": "Ave Maria Pietas",
+          "duration": "4:12"
+        }
+      ]
+    },
+    {
+      "name": "A Family Christmas",
+      "year": "2022",
+      "release_date": "2022-10-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4f/aa/31/4faa316b-d7c0-4e39-64ca-3aeb30308244/22UMGIM94809.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Do You Hear What I Hear?",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Away In A Manger",
+          "duration": "2:37"
+        },
+        {
+          "number": 3,
+          "name": "Feliz Navidad",
+          "duration": "1:59"
+        },
+        {
+          "number": 4,
+          "name": "The First Noël",
+          "duration": "4:02"
+        },
+        {
+          "number": 5,
+          "name": "Have Yourself a Merry Little Christmas",
+          "duration": "4:03"
+        },
+        {
+          "number": 6,
+          "name": "Over The Rainbow",
+          "duration": "2:29"
+        },
+        {
+          "number": 7,
+          "name": "Buon Natale",
+          "duration": "3:06"
+        },
+        {
+          "number": 8,
+          "name": "Joy To The World",
+          "duration": "3:03"
+        },
+        {
+          "number": 9,
+          "name": "The Greatest Gift",
+          "duration": "4:01"
+        },
+        {
+          "number": 10,
+          "name": "When Christmas Comes To Town",
+          "duration": "3:39"
+        },
+        {
+          "number": 11,
+          "name": "Happy Xmas (War Is Over)",
+          "duration": "3:32"
+        },
+        {
+          "number": 12,
+          "name": "Il Giorno Più Speciale",
           "duration": "3:15"
+        },
+        {
+          "number": 13,
+          "name": "I‘ll Be Home For Christmas",
+          "duration": "3:09"
         }
       ]
     },
@@ -350,6 +797,167 @@
       ]
     },
     {
+      "name": "My Christmas",
+      "year": "2009",
+      "release_date": "2009-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/5e/e9/0e5ee96a-89e2-1d5a-815d-3daa0fb0e6bf/15UMGIM02110.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "White Christmas",
+          "duration": "3:57"
+        },
+        {
+          "number": 2,
+          "name": "Angels We Have Heard On High",
+          "duration": "3:54"
+        },
+        {
+          "number": 3,
+          "name": "Santa Claus Is Coming To Town",
+          "duration": "3:32"
+        },
+        {
+          "number": 4,
+          "name": "The Christmas Song (feat. Natalie Cole)",
+          "duration": "4:31"
+        },
+        {
+          "number": 5,
+          "name": "The Lords Prayer (feat. Mormon Tabernacle Choir)",
+          "duration": "4:22"
+        },
+        {
+          "number": 6,
+          "name": "What Child Is This (feat. Mary J. Blige)",
+          "duration": "4:31"
+        },
+        {
+          "number": 7,
+          "name": "Adeste Fidelis",
+          "duration": "3:32"
+        },
+        {
+          "number": 8,
+          "name": "O Tannenbaum",
+          "duration": "4:16"
+        },
+        {
+          "number": 9,
+          "name": "Jingle Bells (feat. The Muppets)",
+          "duration": "3:34"
+        },
+        {
+          "number": 10,
+          "name": "Blue Christmas (feat. Reba McEntire)",
+          "duration": "4:16"
+        },
+        {
+          "number": 11,
+          "name": "Cantique De Noel",
+          "duration": "4:32"
+        },
+        {
+          "number": 12,
+          "name": "Caro Gesu Bambino",
+          "duration": "1:41"
+        },
+        {
+          "number": 13,
+          "name": "I Believe (feat. Katherine Jenkins)",
+          "duration": "4:23"
+        },
+        {
+          "number": 14,
+          "name": "God Bless Us Everyone",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Mi Navidad",
+      "year": "2009",
+      "release_date": "2009-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/72/7c/5e/727c5e6d-633a-3349-7fed-681b5a5e317e/15UMGIM02115.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blanca Navidad",
+          "duration": "3:57"
+        },
+        {
+          "number": 2,
+          "name": "Gloria In Excelsis Deo (Angels We Have Heard On High)",
+          "duration": "3:55"
+        },
+        {
+          "number": 3,
+          "name": "Santa Claus Llegó a la Ciudad",
+          "duration": "3:32"
+        },
+        {
+          "number": 4,
+          "name": "The Christmas Song (feat. Natalie Cole)",
+          "duration": "4:31"
+        },
+        {
+          "number": 5,
+          "name": "The Lords Prayer (feat. Mormon Tabernacle Choir)",
+          "duration": "4:22"
+        },
+        {
+          "number": 6,
+          "name": "What Child Is This (feat. Mary J. Blige)",
+          "duration": "4:31"
+        },
+        {
+          "number": 7,
+          "name": "Venid Adoremos (Adeste Fideles)",
+          "duration": "3:32"
+        },
+        {
+          "number": 8,
+          "name": "El Abeto",
+          "duration": "4:16"
+        },
+        {
+          "number": 9,
+          "name": "Jingle Bells (feat. The Muppets)",
+          "duration": "3:34"
+        },
+        {
+          "number": 10,
+          "name": "Noche de Paz",
+          "duration": "4:35"
+        },
+        {
+          "number": 11,
+          "name": "Blue Christmas",
+          "duration": "4:16"
+        },
+        {
+          "number": 12,
+          "name": "Santa la Noche (Cantique de Noel)",
+          "duration": "4:33"
+        },
+        {
+          "number": 13,
+          "name": "Caro Gesu Bambino",
+          "duration": "1:41"
+        },
+        {
+          "number": 14,
+          "name": "Bajas de las Estrellas (Tu scendi dalle stelle)",
+          "duration": "2:48"
+        },
+        {
+          "number": 15,
+          "name": "Dios Nos Bendecira",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
       "name": "Believe (Deluxe)",
       "year": "2020",
       "release_date": "2020-11-13",
@@ -443,85 +1051,203 @@
       ]
     },
     {
-      "name": "Amore",
-      "year": "2006",
-      "release_date": "2006-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/c8/40/1ac8407f-5bb0-00ff-ddfa-5d2f47cf7e9f/15UMGIM02109.rgb.jpg/600x600bb.jpg",
+      "name": "Opera - The Ultimate Collection",
+      "year": "2014",
+      "release_date": "2014-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/95/f2/c195f2f6-fb42-011a-2821-793a64c88ae1/14UMGIM37827.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Amapola",
-          "duration": "3:41"
+          "name": "Rigoletto: \"La donna è mobile\"",
+          "duration": "2:10"
         },
         {
           "number": 2,
-          "name": "Bésame Mucho",
-          "duration": "4:01"
+          "name": "La bohème: \"Che gelida manina\"",
+          "duration": "4:45"
         },
         {
           "number": 3,
-          "name": "Les feuilles mortes (feat. Veronica Berti)",
-          "duration": "4:50"
+          "name": "Pagliacci: \"Recitar!...Vesti la giubba\"",
+          "duration": "3:58"
         },
         {
           "number": 4,
-          "name": "Mi Manchi (feat. Kenny G)",
-          "duration": "3:34"
+          "name": "Messa da Requiem: Ingemisco",
+          "duration": "3:56"
         },
         {
           "number": 5,
-          "name": "Somos Novios (It's Impossible)",
-          "duration": "4:22"
+          "name": "Les pêcheurs de perles: \"C'était le soir\" - \"Au fond du temple Saint\"",
+          "duration": "5:54"
         },
         {
           "number": 6,
-          "name": "Canzoni Stonate (feat. Stevie Wonder)",
-          "duration": "5:23"
+          "name": "Fedora: \"Amor ti vieta\"",
+          "duration": "1:49"
         },
         {
           "number": 7,
-          "name": "Solamente una Vez",
-          "duration": "3:29"
+          "name": "Manon Lescaut: \"Donna non vidi mai\"",
+          "duration": "2:35"
         },
         {
           "number": 8,
-          "name": "Jurame (feat. Mario Reyes)",
-          "duration": "3:21"
+          "name": "L'elisir d'amore: \"Una furtiva lagrima\"",
+          "duration": "4:16"
         },
         {
           "number": 9,
-          "name": "Pero Te Extraño",
-          "duration": "4:07"
+          "name": "La traviata: \"O mio rimorso!\"",
+          "duration": "2:51"
         },
         {
           "number": 10,
-          "name": "Momentos",
-          "duration": "3:54"
+          "name": "Madama Butterfly: \"Addio, fiorito asil\"",
+          "duration": "1:53"
         },
         {
           "number": 11,
-          "name": "L'appuntamento (Sentado a 'Beira Do Caminho)",
+          "name": "La bohème: \"O soave fanciulla\"",
           "duration": "4:06"
         },
         {
           "number": 12,
-          "name": "Cuando Me Enamoro (Quando M'Innamoro)",
-          "duration": "3:55"
+          "name": "Aida: \"Celeste Aida\"",
+          "duration": "4:08"
         },
         {
           "number": 13,
-          "name": "Estate (feat. Chris Botti)",
-          "duration": "3:41"
+          "name": "L'Arlesiana: Lamento di Federico",
+          "duration": "4:42"
         },
         {
           "number": 14,
-          "name": "Can't Help Falling In Love (Live at Lake Las Vegas, 2005)",
-          "duration": "3:24"
+          "name": "Cavalleria rusticana: \"Intanto, amici, qua...Viva il vino spumeggiante\"",
+          "duration": "2:53"
         },
         {
           "number": 15,
-          "name": "Because We Believe",
-          "duration": "4:39"
+          "name": "Tosca: \"E lucevan le stelle\"",
+          "duration": "3:17"
+        },
+        {
+          "number": 16,
+          "name": "Tosca: \"Dammi i colori!.Recondita armonia\"",
+          "duration": "2:52"
+        },
+        {
+          "number": 17,
+          "name": "Werther: \"Toute mon âme est là. Pourquoi me réveiller, ô souffle du printemps?\"",
+          "duration": "2:42"
+        },
+        {
+          "number": 18,
+          "name": "Roméo et Juliette: \"L'amour! L'amour! Ah! Lève-toi, soleil!\"",
+          "duration": "4:16"
+        },
+        {
+          "number": 19,
+          "name": "La fille du régiment: \"Pour mon âme quel destin\"",
+          "duration": "2:14"
+        },
+        {
+          "number": 20,
+          "name": "Il trovatore: \"Di quella pira\"",
+          "duration": "3:23"
+        },
+        {
+          "number": 21,
+          "name": "Andrea Chénier: \"Come un bel dì di maggio\"",
+          "duration": "3:17"
+        },
+        {
+          "number": 22,
+          "name": "Turandot: \"Nessun dorma\"",
+          "duration": "4:23"
+        },
+        {
+          "number": 23,
+          "name": "Il trovatore: \"Mal reggendo all'aspro assalto\"",
+          "duration": "3:29"
+        },
+        {
+          "number": 24,
+          "name": "Pagliacci: \"Un tal gioco, credetemi\"",
+          "duration": "2:39"
+        },
+        {
+          "number": 25,
+          "name": "Werther: \"Je ne sais si je veille\"",
+          "duration": "3:31"
+        }
+      ]
+    },
+    {
+      "name": "Sì",
+      "year": "2018",
+      "release_date": "2018-10-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/c5/5a/ebc55ac2-03d1-2f1a-d536-80a130d898a9/18UMGIM55914.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ali di Libertà",
+          "duration": "3:32"
+        },
+        {
+          "number": 2,
+          "name": "Amo Soltanto Te",
+          "duration": "3:20"
+        },
+        {
+          "number": 3,
+          "name": "Un'Anima",
+          "duration": "4:31"
+        },
+        {
+          "number": 4,
+          "name": "If Only",
+          "duration": "3:37"
+        },
+        {
+          "number": 5,
+          "name": "Gloria The Gift Of Life",
+          "duration": "3:47"
+        },
+        {
+          "number": 6,
+          "name": "Fall On Me",
+          "duration": "4:18"
+        },
+        {
+          "number": 7,
+          "name": "We Will Meet Once Again",
+          "duration": "3:55"
+        },
+        {
+          "number": 8,
+          "name": "I Am Here",
+          "duration": "3:49"
+        },
+        {
+          "number": 9,
+          "name": "Vertigo",
+          "duration": "4:35"
+        },
+        {
+          "number": 10,
+          "name": "Vivo",
+          "duration": "4:22"
+        },
+        {
+          "number": 11,
+          "name": "Dormi Dormi",
+          "duration": "4:06"
+        },
+        {
+          "number": 12,
+          "name": "Ave Maria Pietas",
+          "duration": "4:12"
         }
       ]
     },
@@ -744,345 +1470,6 @@
       ]
     },
     {
-      "name": "Duets (30th Anniversary)",
-      "year": "2024",
-      "release_date": "2024-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/cb/99/3acb993f-a7be-24bf-ccc9-373f08f8fce4/24UMGIM67316.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Time To Say Goodbye",
-          "duration": "4:55"
-        },
-        {
-          "number": 1,
-          "name": "Dare To Live (Vivere)",
-          "duration": "4:19"
-        },
-        {
-          "number": 2,
-          "name": "Vivo Por Ella (feat. KAROL G)",
-          "duration": "4:24"
-        },
-        {
-          "number": 2,
-          "name": "Can't Help Falling In Love",
-          "duration": "3:22"
-        },
-        {
-          "number": 3,
-          "name": "Quizás, Quizás, Quizás",
-          "duration": "3:18"
-        },
-        {
-          "number": 3,
-          "name": "Hallelujah",
-          "duration": "4:28"
-        },
-        {
-          "number": 4,
-          "name": "Fall On Me",
-          "duration": "4:18"
-        },
-        {
-          "number": 4,
-          "name": "Amazing Grace (arr. Mercurio)",
-          "duration": "3:56"
-        },
-        {
-          "number": 5,
-          "name": "Perfect Symphony",
-          "duration": "4:27"
-        },
-        {
-          "number": 5,
-          "name": "Moon River (feat. Sofia Carson) [From \"Breakfast At Tiffany's\"]",
-          "duration": "3:50"
-        },
-        {
-          "number": 6,
-          "name": "Da Stanotte in Poi (From This Moment On)",
-          "duration": "3:57"
-        },
-        {
-          "number": 6,
-          "name": "Canto Della Terra (feat. Lauren Daigle)",
-          "duration": "4:01"
-        },
-        {
-          "number": 7,
-          "name": "Holding On (feat. Gwen Stefani)",
-          "duration": "4:03"
-        },
-        {
-          "number": 7,
-          "name": "La Voce Del Silenzio (feat. Marc Anthony)",
-          "duration": "4:00"
-        },
-        {
-          "number": 8,
-          "name": "Il Mare Calmo Della Sera (feat. Chris Stapleton)",
-          "duration": "4:35"
-        },
-        {
-          "number": 8,
-          "name": "Canzoni stonate (feat. Stevie Wonder)",
-          "duration": "5:25"
-        },
-        {
-          "number": 9,
-          "name": "The Prayer",
-          "duration": "4:28"
-        },
-        {
-          "number": 9,
-          "name": "Un Amore Così Grande",
-          "duration": "4:22"
-        },
-        {
-          "number": 10,
-          "name": "La vie en rose",
-          "duration": "3:08"
-        },
-        {
-          "number": 10,
-          "name": "Notte 'e piscatore (Live / 2024 Version)",
-          "duration": "5:05"
-        },
-        {
-          "number": 11,
-          "name": "E più ti penso (From \"Once Upon A Time In America\")",
-          "duration": "4:28"
-        },
-        {
-          "number": 11,
-          "name": "Io Ci Sarò",
-          "duration": "4:50"
-        },
-        {
-          "number": 12,
-          "name": "If Only (feat. Dua Lipa)",
-          "duration": "3:39"
-        },
-        {
-          "number": 12,
-          "name": "Pianissimo",
-          "duration": "4:30"
-        },
-        {
-          "number": 13,
-          "name": "Somos Novios",
-          "duration": "4:24"
-        },
-        {
-          "number": 13,
-          "name": "Les pêcheurs de perles, WD 13, Act I: Au fond du temple saint (Live At Central Park, New York / 2011)",
-          "duration": "5:59"
-        },
-        {
-          "number": 14,
-          "name": "Return To Love",
-          "duration": "4:33"
-        },
-        {
-          "number": 14,
-          "name": "Bambina Mia Ricordati (feat. Virginia Bocelli)",
-          "duration": "3:59"
-        },
-        {
-          "number": 15,
-          "name": "Rimani Qui (feat. Elisa)",
-          "duration": "3:23"
-        },
-        {
-          "number": 15,
-          "name": "What Child Is This (feat. Mary J. Blige)",
-          "duration": "4:31"
-        },
-        {
-          "number": 16,
-          "name": "Vivo per lei",
-          "duration": "4:24"
-        },
-        {
-          "number": 16,
-          "name": "L'Incontro (feat. Bono)",
-          "duration": "4:52"
-        },
-        {
-          "number": 17,
-          "name": "Mi manchi (feat. Kenny G)",
-          "duration": "3:37"
-        },
-        {
-          "number": 18,
-          "name": "I Believe (feat. Katherine Jenkins)",
-          "duration": "4:25"
-        },
-        {
-          "number": 19,
-          "name": "Corcovado / Quiet Nights Of Quiet Stars (feat. Nelly Furtado)",
-          "duration": "3:36"
-        },
-        {
-          "number": 20,
-          "name": "Canto Della Terra (feat. A-Lin)",
-          "duration": "3:59"
-        }
-      ]
-    },
-    {
-      "name": "A Family Christmas",
-      "year": "2022",
-      "release_date": "2022-10-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4f/aa/31/4faa316b-d7c0-4e39-64ca-3aeb30308244/22UMGIM94809.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Do You Hear What I Hear?",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Away In A Manger",
-          "duration": "2:37"
-        },
-        {
-          "number": 3,
-          "name": "Feliz Navidad",
-          "duration": "1:59"
-        },
-        {
-          "number": 4,
-          "name": "The First Noël",
-          "duration": "4:02"
-        },
-        {
-          "number": 5,
-          "name": "Have Yourself a Merry Little Christmas",
-          "duration": "4:03"
-        },
-        {
-          "number": 6,
-          "name": "Over The Rainbow",
-          "duration": "2:29"
-        },
-        {
-          "number": 7,
-          "name": "Buon Natale",
-          "duration": "3:06"
-        },
-        {
-          "number": 8,
-          "name": "Joy To The World",
-          "duration": "3:03"
-        },
-        {
-          "number": 9,
-          "name": "The Greatest Gift",
-          "duration": "4:01"
-        },
-        {
-          "number": 10,
-          "name": "When Christmas Comes To Town",
-          "duration": "3:39"
-        },
-        {
-          "number": 11,
-          "name": "Happy Xmas (War Is Over)",
-          "duration": "3:32"
-        },
-        {
-          "number": 12,
-          "name": "Il Giorno Più Speciale",
-          "duration": "3:15"
-        },
-        {
-          "number": 13,
-          "name": "I‘ll Be Home For Christmas",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
-      "name": "Cieli Di Toscana",
-      "year": "2001",
-      "release_date": "2001-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/0b/b9/850bb96f-cc80-c936-2a70-bf608f9d2c17/15UMGIM02108.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Melodramma",
-          "duration": "4:07"
-        },
-        {
-          "number": 2,
-          "name": "Mille Lune Mille Onde",
-          "duration": "3:59"
-        },
-        {
-          "number": 3,
-          "name": "E Sara'a A Settembre (Italian Version)",
-          "duration": "5:03"
-        },
-        {
-          "number": 4,
-          "name": "Chiara",
-          "duration": "3:59"
-        },
-        {
-          "number": 5,
-          "name": "Mascagni",
-          "duration": "4:10"
-        },
-        {
-          "number": 6,
-          "name": "Resta Qui",
-          "duration": "4:05"
-        },
-        {
-          "number": 7,
-          "name": "Il Mistero Dell'Amore",
-          "duration": "4:26"
-        },
-        {
-          "number": 8,
-          "name": "Se La Gente Usasse Il Cuore",
-          "duration": "4:58"
-        },
-        {
-          "number": 9,
-          "name": "Si Voltò",
-          "duration": "4:04"
-        },
-        {
-          "number": 10,
-          "name": "L'Abitudine (feat. Helèna Hellwig)",
-          "duration": "4:19"
-        },
-        {
-          "number": 11,
-          "name": "L'Incontro (feat. Bono) [Italian Version With English Poem]",
-          "duration": "4:50"
-        },
-        {
-          "number": 12,
-          "name": "E Mi Manchi Tu",
-          "duration": "4:59"
-        },
-        {
-          "number": 13,
-          "name": "Il Diavolo E L'Angelo",
-          "duration": "4:01"
-        },
-        {
-          "number": 14,
-          "name": "L'Ultimo Re",
-          "duration": "3:48"
-        }
-      ]
-    },
-    {
       "name": "Sacred Arias (Remastered)",
       "year": "2000",
       "release_date": "2000-04-09",
@@ -1166,452 +1553,80 @@
       ]
     },
     {
-      "name": "Opera - The Ultimate Collection",
-      "year": "2014",
-      "release_date": "2014-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/95/f2/c195f2f6-fb42-011a-2821-793a64c88ae1/14UMGIM37827.rgb.jpg/600x600bb.jpg",
+      "name": "Cieli Di Toscana",
+      "year": "2001",
+      "release_date": "2001-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/0b/b9/850bb96f-cc80-c936-2a70-bf608f9d2c17/15UMGIM02108.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Rigoletto: \"La donna è mobile\"",
-          "duration": "2:10"
-        },
-        {
-          "number": 2,
-          "name": "La bohème: \"Che gelida manina\"",
-          "duration": "4:45"
-        },
-        {
-          "number": 3,
-          "name": "Pagliacci: \"Recitar!...Vesti la giubba\"",
-          "duration": "3:58"
-        },
-        {
-          "number": 4,
-          "name": "Messa da Requiem: Ingemisco",
-          "duration": "3:56"
-        },
-        {
-          "number": 5,
-          "name": "Les pêcheurs de perles: \"C'était le soir\" - \"Au fond du temple Saint\"",
-          "duration": "5:54"
-        },
-        {
-          "number": 6,
-          "name": "Fedora: \"Amor ti vieta\"",
-          "duration": "1:49"
-        },
-        {
-          "number": 7,
-          "name": "Manon Lescaut: \"Donna non vidi mai\"",
-          "duration": "2:35"
-        },
-        {
-          "number": 8,
-          "name": "L'elisir d'amore: \"Una furtiva lagrima\"",
-          "duration": "4:16"
-        },
-        {
-          "number": 9,
-          "name": "La traviata: \"O mio rimorso!\"",
-          "duration": "2:51"
-        },
-        {
-          "number": 10,
-          "name": "Madama Butterfly: \"Addio, fiorito asil\"",
-          "duration": "1:53"
-        },
-        {
-          "number": 11,
-          "name": "La bohème: \"O soave fanciulla\"",
-          "duration": "4:06"
-        },
-        {
-          "number": 12,
-          "name": "Aida: \"Celeste Aida\"",
-          "duration": "4:08"
-        },
-        {
-          "number": 13,
-          "name": "L'Arlesiana: Lamento di Federico",
-          "duration": "4:42"
-        },
-        {
-          "number": 14,
-          "name": "Cavalleria rusticana: \"Intanto, amici, qua...Viva il vino spumeggiante\"",
-          "duration": "2:53"
-        },
-        {
-          "number": 15,
-          "name": "Tosca: \"E lucevan le stelle\"",
-          "duration": "3:17"
-        },
-        {
-          "number": 16,
-          "name": "Tosca: \"Dammi i colori!.Recondita armonia\"",
-          "duration": "2:52"
-        },
-        {
-          "number": 17,
-          "name": "Werther: \"Toute mon âme est là. Pourquoi me réveiller, ô souffle du printemps?\"",
-          "duration": "2:42"
-        },
-        {
-          "number": 18,
-          "name": "Roméo et Juliette: \"L'amour! L'amour! Ah! Lève-toi, soleil!\"",
-          "duration": "4:16"
-        },
-        {
-          "number": 19,
-          "name": "La fille du régiment: \"Pour mon âme quel destin\"",
-          "duration": "2:14"
-        },
-        {
-          "number": 20,
-          "name": "Il trovatore: \"Di quella pira\"",
-          "duration": "3:23"
-        },
-        {
-          "number": 21,
-          "name": "Andrea Chénier: \"Come un bel dì di maggio\"",
-          "duration": "3:17"
-        },
-        {
-          "number": 22,
-          "name": "Turandot: \"Nessun dorma\"",
-          "duration": "4:23"
-        },
-        {
-          "number": 23,
-          "name": "Il trovatore: \"Mal reggendo all'aspro assalto\"",
-          "duration": "3:29"
-        },
-        {
-          "number": 24,
-          "name": "Pagliacci: \"Un tal gioco, credetemi\"",
-          "duration": "2:39"
-        },
-        {
-          "number": 25,
-          "name": "Werther: \"Je ne sais si je veille\"",
-          "duration": "3:31"
-        }
-      ]
-    },
-    {
-      "name": "Amor (Spanish Edition)",
-      "year": "2006",
-      "release_date": "2006-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/5a/69/915a69b5-e09f-b9f1-5fbb-3429adf2d109/15UMGIM02114.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bésame Mucho",
-          "duration": "4:01"
-        },
-        {
-          "number": 2,
-          "name": "Cancion Desafinada (Radio Edit)",
-          "duration": "3:44"
-        },
-        {
-          "number": 3,
-          "name": "Solamente Una Vez",
-          "duration": "3:29"
-        },
-        {
-          "number": 4,
-          "name": "Somos Novios (It's Impossible)",
-          "duration": "4:22"
-        },
-        {
-          "number": 5,
-          "name": "Jurame (feat. Mario Reyes)",
-          "duration": "3:21"
-        },
-        {
-          "number": 6,
-          "name": "Pero Te Extraño",
+          "name": "Melodramma",
           "duration": "4:07"
         },
         {
-          "number": 7,
-          "name": "Las Hojas Muertas (Les Feuilles Mortes)",
-          "duration": "4:51"
-        },
-        {
-          "number": 8,
-          "name": "Momentos",
-          "duration": "3:54"
-        },
-        {
-          "number": 9,
-          "name": "Me Faltas (Mi Manchi)",
-          "duration": "3:34"
-        },
-        {
-          "number": 10,
-          "name": "Cuando Me Enamoro (Quando M'Innamoro)",
-          "duration": "3:54"
-        },
-        {
-          "number": 11,
-          "name": "Porque Tu Me Acostumbraste",
-          "duration": "3:20"
-        },
-        {
-          "number": 12,
-          "name": "Amapola",
-          "duration": "3:41"
-        },
-        {
-          "number": 13,
-          "name": "Verano (Estate)",
-          "duration": "3:41"
-        },
-        {
-          "number": 14,
-          "name": "Nuestro Encuentro (Sentado a 'Beira Do Caminho)",
-          "duration": "4:06"
-        }
-      ]
-    },
-    {
-      "name": "Passione (Deluxe Edition)",
-      "year": "2013",
-      "release_date": "2013-01-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/c5/39/d8c53938-1ed0-3c04-1d58-602c5a6a6632/12UMGIM64780.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Perfidia",
-          "duration": "4:08"
-        },
-        {
           "number": 2,
-          "name": "Roma nun fa' la stupida stasera",
-          "duration": "4:14"
+          "name": "Mille Lune Mille Onde",
+          "duration": "3:59"
         },
         {
           "number": 3,
-          "name": "Champagne",
-          "duration": "3:49"
+          "name": "E Sara'a A Settembre (Italian Version)",
+          "duration": "5:03"
         },
         {
           "number": 4,
-          "name": "Anema e core",
+          "name": "Chiara",
+          "duration": "3:59"
+        },
+        {
+          "number": 5,
+          "name": "Mascagni",
           "duration": "4:10"
         },
         {
-          "number": 5,
-          "name": "Quizàs, Quizàs, Quizàs (feat. Jennifer Lopez)",
-          "duration": "3:18"
-        },
-        {
           "number": 6,
-          "name": "Era già tutto previsto",
-          "duration": "3:43"
-        },
-        {
-          "number": 7,
-          "name": "Tristeza",
-          "duration": "3:24"
-        },
-        {
-          "number": 8,
-          "name": "La vie en rose (feat. Édith Piaf)",
-          "duration": "3:08"
-        },
-        {
-          "number": 9,
-          "name": "Corcovado / Quiet Nights of Quiet Stars (feat. Nelly Furtado)",
-          "duration": "3:36"
-        },
-        {
-          "number": 10,
-          "name": "Sarà settembre",
-          "duration": "3:42"
-        },
-        {
-          "number": 11,
-          "name": "Love In Portofino",
-          "duration": "3:01"
-        },
-        {
-          "number": 12,
-          "name": "Garota de Ipanema",
-          "duration": "3:38"
-        },
-        {
-          "number": 13,
-          "name": "Malafemmena",
-          "duration": "4:18"
-        },
-        {
-          "number": 14,
-          "name": "Love Me Tender",
-          "duration": "3:52"
-        },
-        {
-          "number": 15,
-          "name": "Il Nostro Incontro (feat. Chris Botti)",
-          "duration": "4:33"
-        },
-        {
-          "number": 16,
-          "name": "Senza fine",
-          "duration": "3:18"
-        },
-        {
-          "number": 17,
-          "name": "A mano a mano",
-          "duration": "4:19"
-        },
-        {
-          "number": 18,
-          "name": "When I Fall In Love",
-          "duration": "4:41"
-        }
-      ]
-    },
-    {
-      "name": "Bocelli",
-      "year": "1995",
-      "release_date": "1995-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/9b/54/f89b5493-fb60-3779-0ce9-27ebee8c5949/15UMGIM02105.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Con Te Partiro",
-          "duration": "4:10"
-        },
-        {
-          "number": 2,
-          "name": "Per Amore",
-          "duration": "4:42"
-        },
-        {
-          "number": 3,
-          "name": "Macchine Da Guerra",
-          "duration": "4:09"
-        },
-        {
-          "number": 4,
-          "name": "E Chiove",
-          "duration": "4:24"
-        },
-        {
-          "number": 5,
-          "name": "Romanza",
-          "duration": "3:43"
-        },
-        {
-          "number": 6,
-          "name": "The Power of Love",
-          "duration": "5:04"
-        },
-        {
-          "number": 7,
-          "name": "Vivo Per Lei",
-          "duration": "4:23"
-        },
-        {
-          "number": 8,
-          "name": "Le Tue Parole",
-          "duration": "3:56"
-        },
-        {
-          "number": 9,
-          "name": "Sempre Sempre",
-          "duration": "4:19"
-        },
-        {
-          "number": 10,
-          "name": "Voglio Restare Cosi",
-          "duration": "3:51"
-        }
-      ]
-    },
-    {
-      "name": "Sì Forever (The Diamond Edition)",
-      "year": "2019",
-      "release_date": "2019-11-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8d/da/c5/8ddac5e9-6a7b-a6be-ef71-d1ed0efbb2f8/19UMGIM70065.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Alla Gioia (Ode to Joy)",
-          "duration": "3:07"
-        },
-        {
-          "number": 2,
-          "name": "Return to Love",
-          "duration": "4:34"
-        },
-        {
-          "number": 3,
-          "name": "Un reve de liberté (\"Ali di Libertà\" French Version)",
-          "duration": "3:32"
-        },
-        {
-          "number": 4,
-          "name": "Ragazzo Mio (Danny Boy)",
-          "duration": "4:29"
-        },
-        {
-          "number": 5,
-          "name": "Il Mare Calmo Della Sera",
-          "duration": "4:32"
-        },
-        {
-          "number": 6,
-          "name": "Dormi Dormi Lullaby (feat. Jennifer Garner)",
+          "name": "Resta Qui",
           "duration": "4:05"
         },
         {
           "number": 7,
-          "name": "Amo Soltanto Te (feat. Ed Sheeran)",
-          "duration": "3:20"
+          "name": "Il Mistero Dell'Amore",
+          "duration": "4:26"
         },
         {
           "number": 8,
-          "name": "If Only (feat. Dua Lipa)",
-          "duration": "3:37"
+          "name": "Se La Gente Usasse Il Cuore",
+          "duration": "4:58"
         },
         {
           "number": 9,
-          "name": "Fall on Me",
-          "duration": "4:18"
+          "name": "Si Voltò",
+          "duration": "4:04"
         },
         {
           "number": 10,
-          "name": "Un'Anima",
-          "duration": "4:31"
+          "name": "L'Abitudine (feat. Helèna Hellwig)",
+          "duration": "4:19"
         },
         {
           "number": 11,
-          "name": "Miele Impuro",
-          "duration": "3:09"
+          "name": "L'Incontro (feat. Bono) [Italian Version With English Poem]",
+          "duration": "4:50"
         },
         {
           "number": 12,
-          "name": "Gloria the Gift of Life",
-          "duration": "3:47"
+          "name": "E Mi Manchi Tu",
+          "duration": "4:59"
         },
         {
           "number": 13,
-          "name": "Vertigo",
-          "duration": "4:35"
+          "name": "Il Diavolo E L'Angelo",
+          "duration": "4:01"
         },
         {
           "number": 14,
-          "name": "I Am Here (\"Sono Qui\" English Version)",
-          "duration": "3:49"
-        },
-        {
-          "number": 15,
-          "name": "Ave Maria Pietas",
-          "duration": "4:12"
+          "name": "L'Ultimo Re",
+          "duration": "3:48"
         }
       ]
     },
@@ -1724,6 +1739,157 @@
       ]
     },
     {
+      "name": "Aria: The Opera Album (Remastered)",
+      "year": "1998",
+      "release_date": "1998-04-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/a4/c0/97a4c09d-cc3f-2169-71a6-bd6010ed1b8d/18UMGIM31289.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rigoletto, Act I: \"Questa o quella\"",
+          "duration": "1:44"
+        },
+        {
+          "number": 2,
+          "name": "La Bohème, Act I: \"Che gelida manina\"",
+          "duration": "4:20"
+        },
+        {
+          "number": 3,
+          "name": "Tosca, Act I: \"Recondita armonia\"",
+          "duration": "2:56"
+        },
+        {
+          "number": 4,
+          "name": "Tosca, Act III: \"E lucevan le stelle\"",
+          "duration": "2:52"
+        },
+        {
+          "number": 5,
+          "name": "Madama Butterfly, Act II: \"Addio, fiorito asil\"",
+          "duration": "1:50"
+        },
+        {
+          "number": 6,
+          "name": "Andrea Chénier, Act IV: \"Come un bel dì di maggio\"",
+          "duration": "3:18"
+        },
+        {
+          "number": 7,
+          "name": "I Puritani, Act I: \"A te, o cara\"",
+          "duration": "3:05"
+        },
+        {
+          "number": 8,
+          "name": "Der Rosenkavalier, Op. 59, TrV 227, Act I: \"Di rigori armato il seno\"",
+          "duration": "2:08"
+        },
+        {
+          "number": 9,
+          "name": "Fedora, Act II: \"Amor ti vieta\"",
+          "duration": "1:48"
+        },
+        {
+          "number": 10,
+          "name": "La Fanciulla del West, Act III: \"Ch'ella mi creda\"",
+          "duration": "2:00"
+        },
+        {
+          "number": 11,
+          "name": "La Gioconda, Act II: \"Cielo e mar\"",
+          "duration": "4:34"
+        },
+        {
+          "number": 12,
+          "name": "Adriana Lecouvreur, Act I: \"La dolcissima effigie\"",
+          "duration": "2:12"
+        },
+        {
+          "number": 13,
+          "name": "La bohème, Act III: \"Musetta! O gioia della mia dimora! - Testa adorata\"",
+          "duration": "3:05"
+        },
+        {
+          "number": 14,
+          "name": "Lucia di Lammermoor, Act III: \"Tombe degl'avi miei.Fra poco a me ricovero\"",
+          "duration": "6:51"
+        },
+        {
+          "number": 15,
+          "name": "Werther, Act III: \"Pourquoi me réveiller, ô souffle du printemps?\"",
+          "duration": "3:05"
+        },
+        {
+          "number": 16,
+          "name": "Carmen, WD 31, Act II: \"La fleur que tu m'avais jetée\"",
+          "duration": "4:18"
+        },
+        {
+          "number": 17,
+          "name": "La fille du régiment, Act I: \"Pour mon âme quel destin\"",
+          "duration": "2:12"
+        }
+      ]
+    },
+    {
+      "name": "Bocelli",
+      "year": "1995",
+      "release_date": "1995-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/9b/54/f89b5493-fb60-3779-0ce9-27ebee8c5949/15UMGIM02105.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Con Te Partiro",
+          "duration": "4:10"
+        },
+        {
+          "number": 2,
+          "name": "Per Amore",
+          "duration": "4:42"
+        },
+        {
+          "number": 3,
+          "name": "Macchine Da Guerra",
+          "duration": "4:09"
+        },
+        {
+          "number": 4,
+          "name": "E Chiove",
+          "duration": "4:24"
+        },
+        {
+          "number": 5,
+          "name": "Romanza",
+          "duration": "3:43"
+        },
+        {
+          "number": 6,
+          "name": "The Power of Love",
+          "duration": "5:04"
+        },
+        {
+          "number": 7,
+          "name": "Vivo Per Lei",
+          "duration": "4:23"
+        },
+        {
+          "number": 8,
+          "name": "Le Tue Parole",
+          "duration": "3:56"
+        },
+        {
+          "number": 9,
+          "name": "Sempre Sempre",
+          "duration": "4:19"
+        },
+        {
+          "number": 10,
+          "name": "Voglio Restare Cosi",
+          "duration": "3:51"
+        }
+      ]
+    },
+    {
       "name": "Concerto: One Night in Central Park",
       "year": "2011",
       "release_date": "2011-11-15",
@@ -1813,503 +1979,6 @@
           "number": 17,
           "name": "Turando: Nessun dorma! (Live at Central Park, New York - 2011)",
           "duration": "4:06"
-        }
-      ]
-    },
-    {
-      "name": "Cinema (Special Edition)",
-      "year": "2016",
-      "release_date": "2016-04-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/e8/cb/46e8cb8b-0d13-02a6-13a4-6666f7903a9b/16UMGIM15540.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Maria (From \"West Side Story\")",
-          "duration": "3:13"
-        },
-        {
-          "number": 2,
-          "name": "La chanson de Lara (From \"Dr. Zhivago\")",
-          "duration": "3:14"
-        },
-        {
-          "number": 3,
-          "name": "Moon River (From \"Breakfast at Tiffany's\")",
-          "duration": "3:49"
-        },
-        {
-          "number": 4,
-          "name": "E più ti penso (From \"Once upon a Time In America\")",
-          "duration": "4:27"
-        },
-        {
-          "number": 5,
-          "name": "Be My Love (From \"The Toast of New Orleans\")",
-          "duration": "2:53"
-        },
-        {
-          "number": 6,
-          "name": "The Music of the Night (From \"The Phantom of the Opera\")",
-          "duration": "3:57"
-        },
-        {
-          "number": 7,
-          "name": "Brucia La Terra (From \"The Godfather\")",
-          "duration": "4:16"
-        },
-        {
-          "number": 8,
-          "name": "Por una Cabeza",
-          "duration": "3:21"
-        },
-        {
-          "number": 9,
-          "name": "No Llores por Mi Argentina (From \"Evita\")",
-          "duration": "4:23"
-        },
-        {
-          "number": 10,
-          "name": "L'amore è una Cosa Meravigliosa (From \"Love Is a Many-Splendored Thing\")",
-          "duration": "3:23"
-        },
-        {
-          "number": 11,
-          "name": "Mi mancherai (From \"Il postino\")",
-          "duration": "5:05"
-        },
-        {
-          "number": 12,
-          "name": "Cheek to Cheek (From \"Top Hat\")",
-          "duration": "2:56"
-        },
-        {
-          "number": 13,
-          "name": "Sorridi amore vai (From \"Life Is Beautiful\")",
-          "duration": "3:21"
-        },
-        {
-          "number": 14,
-          "name": "Historia de Amor (From \"Love Story\")",
-          "duration": "4:28"
-        },
-        {
-          "number": 15,
-          "name": "Ol' Man River (From \"Showboat\")",
-          "duration": "4:07"
-        },
-        {
-          "number": 16,
-          "name": "Nelle tue mani (Now We Are Free) [From \"Gladiator\"]",
-          "duration": "4:21"
-        },
-        {
-          "number": 17,
-          "name": "Se (If) [From \"Cinema Paradiso\"]",
-          "duration": "4:14"
-        },
-        {
-          "number": 18,
-          "name": "Prima di un Addio (From \"Love Story\")",
-          "duration": "4:28"
-        },
-        {
-          "number": 19,
-          "name": "No Llores por Mi Argentina (From \"Evita\")",
-          "duration": "4:24"
-        }
-      ]
-    },
-    {
-      "name": "Believe (Deluxe Extended)",
-      "year": "2020",
-      "release_date": "2020-11-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9c/5f/dd/9c5fdda7-63cc-e3cc-ea3a-df152eb0b816/20UMGIM80226.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You'll Never Walk Alone",
-          "duration": "3:21"
-        },
-        {
-          "number": 1,
-          "name": "You'll Never Walk Alone (Acoustic)",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Fratello Sole Sorella Luna (Dolce è Sentire)",
-          "duration": "4:36"
-        },
-        {
-          "number": 2,
-          "name": "Hallelujah (Acoustic)",
-          "duration": "2:22"
-        },
-        {
-          "number": 3,
-          "name": "Hallelujah",
-          "duration": "4:34"
-        },
-        {
-          "number": 3,
-          "name": "Pianissimo (Acoustic)",
-          "duration": "2:47"
-        },
-        {
-          "number": 4,
-          "name": "Pianissimo",
-          "duration": "4:28"
-        },
-        {
-          "number": 4,
-          "name": "Amazing Grace (Acoustic)",
-          "duration": "2:59"
-        },
-        {
-          "number": 5,
-          "name": "Amazing Grace (Arr. Mercurio)",
-          "duration": "3:56"
-        },
-        {
-          "number": 5,
-          "name": "I Believe (Acoustic)",
-          "duration": "3:03"
-        },
-        {
-          "number": 6,
-          "name": "Preghiera (Arr. Mercurio)",
-          "duration": "4:07"
-        },
-        {
-          "number": 7,
-          "name": "Gratia Plena (From ''Fatima'' Soundtrack)",
-          "duration": "2:49"
-        },
-        {
-          "number": 8,
-          "name": "Cantique de Jean Racine",
-          "duration": "5:23"
-        },
-        {
-          "number": 9,
-          "name": "Inno Sussurato",
-          "duration": "4:36"
-        },
-        {
-          "number": 10,
-          "name": "Oh, Madre Benedetta! (Adagio Di Albinoni)",
-          "duration": "3:30"
-        },
-        {
-          "number": 11,
-          "name": "I Believe",
-          "duration": "4:14"
-        },
-        {
-          "number": 12,
-          "name": "Ave Maria",
-          "duration": "4:42"
-        },
-        {
-          "number": 13,
-          "name": "Angele Dei (Arr. Kaye)",
-          "duration": "4:21"
-        },
-        {
-          "number": 14,
-          "name": "Agnus Dei (Intermezzo from L'arlésienne Suite No. 2, No. 6)",
-          "duration": "3:43"
-        },
-        {
-          "number": 15,
-          "name": "Mui Grandes Noit’ E Día (No. 57 from Cantigas de Santa Maria) [Arr. Mercurio]",
-          "duration": "4:06"
-        },
-        {
-          "number": 16,
-          "name": "Mira Il Tuo Popolo (Arr. Mercurio)",
-          "duration": "3:40"
-        },
-        {
-          "number": 17,
-          "name": "Amazing Grace (Arr. Mercurio)",
-          "duration": "3:56"
-        }
-      ]
-    },
-    {
-      "name": "Duets (30th Anniversary / Deluxe)",
-      "year": "2025",
-      "release_date": "2025-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/49/23/0f4923d6-b5c0-a742-7c55-9c25dc98fd00/24UM1IM23149.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Time To Say Goodbye",
-          "duration": "4:54"
-        },
-        {
-          "number": 1,
-          "name": "Dare To Live (Vivere)",
-          "duration": "4:19"
-        },
-        {
-          "number": 2,
-          "name": "Vivo Por Ella (feat. KAROL G)",
-          "duration": "4:24"
-        },
-        {
-          "number": 2,
-          "name": "Can't Help Falling In Love",
-          "duration": "3:22"
-        },
-        {
-          "number": 3,
-          "name": "Quizás, Quizás, Quizás",
-          "duration": "3:18"
-        },
-        {
-          "number": 3,
-          "name": "Hallelujah",
-          "duration": "4:28"
-        },
-        {
-          "number": 4,
-          "name": "Fall On Me",
-          "duration": "4:18"
-        },
-        {
-          "number": 4,
-          "name": "Amazing Grace (arr. Mercurio)",
-          "duration": "3:56"
-        },
-        {
-          "number": 5,
-          "name": "Perfect Symphony",
-          "duration": "4:27"
-        },
-        {
-          "number": 5,
-          "name": "Moon River (feat. Sofia Carson) [From \"Breakfast At Tiffany's\"]",
-          "duration": "3:50"
-        },
-        {
-          "number": 6,
-          "name": "Da Stanotte in Poi (From This Moment On)",
-          "duration": "3:57"
-        },
-        {
-          "number": 6,
-          "name": "Canto Della Terra (feat. Lauren Daigle)",
-          "duration": "4:01"
-        },
-        {
-          "number": 7,
-          "name": "Holding On (feat. Gwen Stefani)",
-          "duration": "4:03"
-        },
-        {
-          "number": 7,
-          "name": "La Voce Del Silenzio (feat. Marc Anthony)",
-          "duration": "4:00"
-        },
-        {
-          "number": 8,
-          "name": "Il Mare Calmo Della Sera (feat. Chris Stapleton)",
-          "duration": "4:35"
-        },
-        {
-          "number": 8,
-          "name": "Canzoni stonate (feat. Stevie Wonder)",
-          "duration": "5:25"
-        },
-        {
-          "number": 9,
-          "name": "The Prayer",
-          "duration": "4:28"
-        },
-        {
-          "number": 9,
-          "name": "Un Amore Così Grande",
-          "duration": "4:22"
-        },
-        {
-          "number": 10,
-          "name": "La vie en rose",
-          "duration": "3:08"
-        },
-        {
-          "number": 10,
-          "name": "Notte 'e piscatore (Live / 2024 Version)",
-          "duration": "5:05"
-        },
-        {
-          "number": 11,
-          "name": "E più ti penso (From \"Once Upon A Time In America\")",
-          "duration": "4:28"
-        },
-        {
-          "number": 11,
-          "name": "Io Ci Sarò",
-          "duration": "4:50"
-        },
-        {
-          "number": 12,
-          "name": "If Only (feat. Dua Lipa)",
-          "duration": "3:39"
-        },
-        {
-          "number": 12,
-          "name": "Pianissimo",
-          "duration": "4:30"
-        },
-        {
-          "number": 13,
-          "name": "Somos Novios",
-          "duration": "4:24"
-        },
-        {
-          "number": 13,
-          "name": "Les pêcheurs de perles, WD 13, Act I: Au fond du temple saint (Live At Central Park, New York / 2011)",
-          "duration": "5:59"
-        },
-        {
-          "number": 14,
-          "name": "Return To Love",
-          "duration": "4:33"
-        },
-        {
-          "number": 14,
-          "name": "Bambina Mia Ricordati (feat. Virginia Bocelli)",
-          "duration": "3:59"
-        },
-        {
-          "number": 15,
-          "name": "Rimani Qui (feat. Elisa)",
-          "duration": "3:23"
-        },
-        {
-          "number": 15,
-          "name": "What Child Is This (feat. Mary J. Blige)",
-          "duration": "4:31"
-        },
-        {
-          "number": 16,
-          "name": "Vivo per lei",
-          "duration": "4:24"
-        },
-        {
-          "number": 16,
-          "name": "L'Incontro (feat. Bono)",
-          "duration": "4:52"
-        },
-        {
-          "number": 17,
-          "name": "Mi manchi (feat. Kenny G)",
-          "duration": "3:37"
-        },
-        {
-          "number": 18,
-          "name": "I Believe (feat. Katherine Jenkins)",
-          "duration": "4:25"
-        },
-        {
-          "number": 19,
-          "name": "Corcovado / Quiet Nights Of Quiet Stars (feat. Nelly Furtado)",
-          "duration": "3:34"
-        },
-        {
-          "number": 20,
-          "name": "Canto Della Terra (feat. A-Lin)",
-          "duration": "3:59"
-        },
-        {
-          "number": 21,
-          "name": "We Will Meet Once Again",
-          "duration": "3:55"
-        },
-        {
-          "number": 22,
-          "name": "Da Stanotte in Poi (From This Moment On) [Christmas version]",
-          "duration": "3:55"
-        },
-        {
-          "number": 23,
-          "name": "White Christmas",
-          "duration": "3:58"
-        },
-        {
-          "number": 24,
-          "name": "Je Vis Pour Elle",
-          "duration": "4:25"
-        }
-      ]
-    },
-    {
-      "name": "Sì",
-      "year": "2018",
-      "release_date": "2018-10-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/c5/5a/ebc55ac2-03d1-2f1a-d536-80a130d898a9/18UMGIM55914.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ali di Libertà",
-          "duration": "3:32"
-        },
-        {
-          "number": 2,
-          "name": "Amo Soltanto Te",
-          "duration": "3:20"
-        },
-        {
-          "number": 3,
-          "name": "Un'Anima",
-          "duration": "4:31"
-        },
-        {
-          "number": 4,
-          "name": "If Only",
-          "duration": "3:37"
-        },
-        {
-          "number": 5,
-          "name": "Gloria The Gift Of Life",
-          "duration": "3:47"
-        },
-        {
-          "number": 6,
-          "name": "Fall On Me",
-          "duration": "4:18"
-        },
-        {
-          "number": 7,
-          "name": "We Will Meet Once Again",
-          "duration": "3:55"
-        },
-        {
-          "number": 8,
-          "name": "I Am Here",
-          "duration": "3:49"
-        },
-        {
-          "number": 9,
-          "name": "Vertigo",
-          "duration": "4:35"
-        },
-        {
-          "number": 10,
-          "name": "Vivo",
-          "duration": "4:22"
-        },
-        {
-          "number": 11,
-          "name": "Dormi Dormi",
-          "duration": "4:06"
-        },
-        {
-          "number": 12,
-          "name": "Ave Maria Pietas",
-          "duration": "4:12"
         }
       ]
     },
@@ -2530,324 +2199,80 @@
       ]
     },
     {
-      "name": "Cinema",
-      "year": "2015",
-      "release_date": "2015-09-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/41/22/774122ca-4ac3-d42b-5695-4d0aa0b56aa3/15UMGIM40573.rgb.jpg/600x600bb.jpg",
+      "name": "Amor (Spanish Edition)",
+      "year": "2006",
+      "release_date": "2006-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/5a/69/915a69b5-e09f-b9f1-5fbb-3429adf2d109/15UMGIM02114.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Maria (From \"West Side Story\")",
-          "duration": "3:13"
-        },
-        {
-          "number": 2,
-          "name": "La chanson de Lara (From \"Dr. Zhivago\")",
-          "duration": "3:14"
-        },
-        {
-          "number": 3,
-          "name": "Moon River (From \"Breakfast at Tiffany's\")",
-          "duration": "3:50"
-        },
-        {
-          "number": 4,
-          "name": "E più ti penso (From \"Once upon a Time in America\")",
-          "duration": "4:27"
-        },
-        {
-          "number": 5,
-          "name": "Be My Love (From \"The Toast of New Orleans\")",
-          "duration": "2:53"
-        },
-        {
-          "number": 6,
-          "name": "The Music of the Night (From \"The Phantom of the Opera\")",
-          "duration": "3:57"
-        },
-        {
-          "number": 7,
-          "name": "Por una Cabeza",
-          "duration": "3:21"
-        },
-        {
-          "number": 8,
-          "name": "Sorridi amore vai (From \"Life Is Beautiful\")",
-          "duration": "3:20"
-        },
-        {
-          "number": 9,
-          "name": "Mi mancherai (From \"Il postino\")",
-          "duration": "5:04"
-        },
-        {
-          "number": 10,
-          "name": "Cheek to Cheek (From \"Top Hat\")",
-          "duration": "2:55"
-        },
-        {
-          "number": 11,
-          "name": "Brucia la terra (From \"The Godfather\")",
-          "duration": "4:15"
-        },
-        {
-          "number": 12,
-          "name": "No Llores por Mi Argentina (From \"Evita\")",
-          "duration": "4:24"
-        },
-        {
-          "number": 13,
-          "name": "Nelle tue mani (Now We Are Free) [From \"Gladiator\"]",
-          "duration": "4:21"
-        }
-      ]
-    },
-    {
-      "name": "Viaggio Italiano",
-      "year": "1995",
-      "release_date": "1995-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d8/c0/e1/d8c0e14b-ea6b-5a21-1fd4-e5ef864a2091/00731453312326.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Turandot, Act III, \"Nessun Dorma\"",
-          "duration": "3:11"
-        },
-        {
-          "number": 2,
-          "name": "L'Arlesiana, Act II, \"Lamento Di Federico\"",
-          "duration": "4:39"
-        },
-        {
-          "number": 3,
-          "name": "Macbeth, Act IV. \"Ah, la Paterna Mano\"",
-          "duration": "3:19"
-        },
-        {
-          "number": 4,
-          "name": "Rigoletto, Act III. La donna e mobile",
-          "duration": "2:16"
-        },
-        {
-          "number": 5,
-          "name": "Elisir D'Amore: ACt II, Una furtiva lagrima",
-          "duration": "4:13"
-        },
-        {
-          "number": 6,
-          "name": "Panis Angelicus - (Version With The Moscow Radio Symphony Orchestra)",
-          "duration": "3:56"
-        },
-        {
-          "number": 7,
-          "name": "Ave Maria (Latin \"Schubert\" Version)",
-          "duration": "4:26"
-        },
-        {
-          "number": 8,
-          "name": "O Sole Mio",
-          "duration": "4:38"
-        },
-        {
-          "number": 9,
-          "name": "Core n'grato",
-          "duration": "4:44"
-        },
-        {
-          "number": 10,
-          "name": "Santa Lucia Luntana",
-          "duration": "5:09"
-        },
-        {
-          "number": 11,
-          "name": "I'Te Vurria Vasa",
-          "duration": "5:40"
-        },
-        {
-          "number": 12,
-          "name": "Tu, 'Ca Nun Chiagne!",
-          "duration": "3:34"
-        },
-        {
-          "number": 13,
-          "name": "Marinarello",
-          "duration": "3:58"
-        },
-        {
-          "number": 14,
-          "name": "Piscatore é Pusilleco",
-          "duration": "4:15"
-        },
-        {
-          "number": 15,
-          "name": "Messagio Bocelli",
-          "duration": "0:15"
-        },
-        {
-          "number": 16,
-          "name": "Adeste Fideles (Live Version)",
-          "duration": "3:25"
-        }
-      ]
-    },
-    {
-      "name": "Mi Navidad",
-      "year": "2009",
-      "release_date": "2009-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/72/7c/5e/727c5e6d-633a-3349-7fed-681b5a5e317e/15UMGIM02115.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blanca Navidad",
-          "duration": "3:57"
-        },
-        {
-          "number": 2,
-          "name": "Gloria In Excelsis Deo (Angels We Have Heard On High)",
-          "duration": "3:55"
-        },
-        {
-          "number": 3,
-          "name": "Santa Claus Llegó a la Ciudad",
-          "duration": "3:32"
-        },
-        {
-          "number": 4,
-          "name": "The Christmas Song (feat. Natalie Cole)",
-          "duration": "4:31"
-        },
-        {
-          "number": 5,
-          "name": "The Lords Prayer (feat. Mormon Tabernacle Choir)",
-          "duration": "4:22"
-        },
-        {
-          "number": 6,
-          "name": "What Child Is This (feat. Mary J. Blige)",
-          "duration": "4:31"
-        },
-        {
-          "number": 7,
-          "name": "Venid Adoremos (Adeste Fideles)",
-          "duration": "3:32"
-        },
-        {
-          "number": 8,
-          "name": "El Abeto",
-          "duration": "4:16"
-        },
-        {
-          "number": 9,
-          "name": "Jingle Bells (feat. The Muppets)",
-          "duration": "3:34"
-        },
-        {
-          "number": 10,
-          "name": "Noche de Paz",
-          "duration": "4:35"
-        },
-        {
-          "number": 11,
-          "name": "Blue Christmas",
-          "duration": "4:16"
-        },
-        {
-          "number": 12,
-          "name": "Santa la Noche (Cantique de Noel)",
-          "duration": "4:33"
-        },
-        {
-          "number": 13,
-          "name": "Caro Gesu Bambino",
-          "duration": "1:41"
-        },
-        {
-          "number": 14,
-          "name": "Bajas de las Estrellas (Tu scendi dalle stelle)",
-          "duration": "2:48"
-        },
-        {
-          "number": 15,
-          "name": "Dios Nos Bendecira",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
-      "name": "Sogno",
-      "year": "1999",
-      "release_date": "1999-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/8f/30/778f3020-a6b1-e5f1-9865-e0dd0d6d5b92/15UMGIM02107.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Canto Della Terra",
-          "duration": "4:00"
-        },
-        {
-          "number": 2,
-          "name": "The Prayer",
-          "duration": "4:27"
-        },
-        {
-          "number": 3,
-          "name": "Sogno (Extended Version)",
-          "duration": "4:03"
-        },
-        {
-          "number": 4,
-          "name": "'O Mare E Tu (feat. Dulce Pontes)",
-          "duration": "4:33"
-        },
-        {
-          "number": 5,
-          "name": "A volte il cuore",
-          "duration": "4:41"
-        },
-        {
-          "number": 6,
-          "name": "Cantico",
+          "name": "Bésame Mucho",
           "duration": "4:01"
         },
         {
+          "number": 2,
+          "name": "Cancion Desafinada (Radio Edit)",
+          "duration": "3:44"
+        },
+        {
+          "number": 3,
+          "name": "Solamente Una Vez",
+          "duration": "3:29"
+        },
+        {
+          "number": 4,
+          "name": "Somos Novios (It's Impossible)",
+          "duration": "4:22"
+        },
+        {
+          "number": 5,
+          "name": "Jurame (feat. Mario Reyes)",
+          "duration": "3:21"
+        },
+        {
+          "number": 6,
+          "name": "Pero Te Extraño",
+          "duration": "4:07"
+        },
+        {
           "number": 7,
-          "name": "Mai piu' cosi' lontano",
-          "duration": "4:16"
+          "name": "Las Hojas Muertas (Les Feuilles Mortes)",
+          "duration": "4:51"
         },
         {
           "number": 8,
-          "name": "Immenso",
-          "duration": "4:46"
+          "name": "Momentos",
+          "duration": "3:54"
         },
         {
           "number": 9,
-          "name": "Nel cuore lei (feat. Eros Ramazzotti)",
-          "duration": "3:43"
+          "name": "Me Faltas (Mi Manchi)",
+          "duration": "3:34"
         },
         {
           "number": 10,
-          "name": "Tremo e t'amo",
-          "duration": "4:48"
+          "name": "Cuando Me Enamoro (Quando M'Innamoro)",
+          "duration": "3:54"
         },
         {
           "number": 11,
-          "name": "I Love Rossini",
-          "duration": "3:55"
+          "name": "Porque Tu Me Acostumbraste",
+          "duration": "3:20"
         },
         {
           "number": 12,
-          "name": "Un canto",
-          "duration": "4:30"
+          "name": "Amapola",
+          "duration": "3:41"
         },
         {
           "number": 13,
-          "name": "Come un fiume tu",
-          "duration": "4:43"
+          "name": "Verano (Estate)",
+          "duration": "3:41"
         },
         {
           "number": 14,
-          "name": "A mio padre",
-          "duration": "3:57"
+          "name": "Nuestro Encuentro (Sentado a 'Beira Do Caminho)",
+          "duration": "4:06"
         }
       ]
     },
@@ -3070,6 +2495,79 @@
       ]
     },
     {
+      "name": "Cinema",
+      "year": "2015",
+      "release_date": "2015-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/41/22/774122ca-4ac3-d42b-5695-4d0aa0b56aa3/15UMGIM40573.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Maria (From \"West Side Story\")",
+          "duration": "3:13"
+        },
+        {
+          "number": 2,
+          "name": "La chanson de Lara (From \"Dr. Zhivago\")",
+          "duration": "3:14"
+        },
+        {
+          "number": 3,
+          "name": "Moon River (From \"Breakfast at Tiffany's\")",
+          "duration": "3:50"
+        },
+        {
+          "number": 4,
+          "name": "E più ti penso (From \"Once upon a Time in America\")",
+          "duration": "4:27"
+        },
+        {
+          "number": 5,
+          "name": "Be My Love (From \"The Toast of New Orleans\")",
+          "duration": "2:53"
+        },
+        {
+          "number": 6,
+          "name": "The Music of the Night (From \"The Phantom of the Opera\")",
+          "duration": "3:57"
+        },
+        {
+          "number": 7,
+          "name": "Por una Cabeza",
+          "duration": "3:21"
+        },
+        {
+          "number": 8,
+          "name": "Sorridi amore vai (From \"Life Is Beautiful\")",
+          "duration": "3:20"
+        },
+        {
+          "number": 9,
+          "name": "Mi mancherai (From \"Il postino\")",
+          "duration": "5:04"
+        },
+        {
+          "number": 10,
+          "name": "Cheek to Cheek (From \"Top Hat\")",
+          "duration": "2:55"
+        },
+        {
+          "number": 11,
+          "name": "Brucia la terra (From \"The Godfather\")",
+          "duration": "4:15"
+        },
+        {
+          "number": 12,
+          "name": "No Llores por Mi Argentina (From \"Evita\")",
+          "duration": "4:24"
+        },
+        {
+          "number": 13,
+          "name": "Nelle tue mani (Now We Are Free) [From \"Gladiator\"]",
+          "duration": "4:21"
+        }
+      ]
+    },
+    {
       "name": "Believe",
       "year": "2020",
       "release_date": "2020-11-13",
@@ -3246,178 +2744,419 @@
       ]
     },
     {
-      "name": "Aria: The Opera Album (Remastered)",
-      "year": "1998",
-      "release_date": "1998-04-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/a4/c0/97a4c09d-cc3f-2169-71a6-bd6010ed1b8d/18UMGIM31289.rgb.jpg/600x600bb.jpg",
+      "name": "Sogno",
+      "year": "1999",
+      "release_date": "1999-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/8f/30/778f3020-a6b1-e5f1-9865-e0dd0d6d5b92/15UMGIM02107.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Rigoletto, Act I: \"Questa o quella\"",
-          "duration": "1:44"
+          "name": "Canto Della Terra",
+          "duration": "4:00"
         },
         {
           "number": 2,
-          "name": "La Bohème, Act I: \"Che gelida manina\"",
-          "duration": "4:20"
+          "name": "The Prayer",
+          "duration": "4:27"
         },
         {
           "number": 3,
-          "name": "Tosca, Act I: \"Recondita armonia\"",
-          "duration": "2:56"
+          "name": "Sogno (Extended Version)",
+          "duration": "4:03"
         },
         {
           "number": 4,
-          "name": "Tosca, Act III: \"E lucevan le stelle\"",
-          "duration": "2:52"
+          "name": "'O Mare E Tu (feat. Dulce Pontes)",
+          "duration": "4:33"
         },
         {
           "number": 5,
-          "name": "Madama Butterfly, Act II: \"Addio, fiorito asil\"",
-          "duration": "1:50"
+          "name": "A volte il cuore",
+          "duration": "4:41"
         },
         {
           "number": 6,
-          "name": "Andrea Chénier, Act IV: \"Come un bel dì di maggio\"",
-          "duration": "3:18"
+          "name": "Cantico",
+          "duration": "4:01"
         },
         {
           "number": 7,
-          "name": "I Puritani, Act I: \"A te, o cara\"",
-          "duration": "3:05"
+          "name": "Mai piu' cosi' lontano",
+          "duration": "4:16"
         },
         {
           "number": 8,
-          "name": "Der Rosenkavalier, Op. 59, TrV 227, Act I: \"Di rigori armato il seno\"",
-          "duration": "2:08"
+          "name": "Immenso",
+          "duration": "4:46"
         },
         {
           "number": 9,
-          "name": "Fedora, Act II: \"Amor ti vieta\"",
-          "duration": "1:48"
+          "name": "Nel cuore lei (feat. Eros Ramazzotti)",
+          "duration": "3:43"
         },
         {
           "number": 10,
-          "name": "La Fanciulla del West, Act III: \"Ch'ella mi creda\"",
-          "duration": "2:00"
+          "name": "Tremo e t'amo",
+          "duration": "4:48"
         },
         {
           "number": 11,
-          "name": "La Gioconda, Act II: \"Cielo e mar\"",
-          "duration": "4:34"
+          "name": "I Love Rossini",
+          "duration": "3:55"
         },
         {
           "number": 12,
-          "name": "Adriana Lecouvreur, Act I: \"La dolcissima effigie\"",
-          "duration": "2:12"
+          "name": "Un canto",
+          "duration": "4:30"
         },
         {
           "number": 13,
-          "name": "La bohème, Act III: \"Musetta! O gioia della mia dimora! - Testa adorata\"",
-          "duration": "3:05"
+          "name": "Come un fiume tu",
+          "duration": "4:43"
         },
         {
           "number": 14,
-          "name": "Lucia di Lammermoor, Act III: \"Tombe degl'avi miei.Fra poco a me ricovero\"",
-          "duration": "6:51"
-        },
-        {
-          "number": 15,
-          "name": "Werther, Act III: \"Pourquoi me réveiller, ô souffle du printemps?\"",
-          "duration": "3:05"
-        },
-        {
-          "number": 16,
-          "name": "Carmen, WD 31, Act II: \"La fleur que tu m'avais jetée\"",
-          "duration": "4:18"
-        },
-        {
-          "number": 17,
-          "name": "La fille du régiment, Act I: \"Pour mon âme quel destin\"",
-          "duration": "2:12"
+          "name": "A mio padre",
+          "duration": "3:57"
         }
       ]
     },
     {
-      "name": "Love In Portofino",
-      "year": "2013",
-      "release_date": "2013-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/d6/82/35d68213-089d-2ac2-ab9a-9a99530db263/15UMGIM02113.rgb.jpg/600x600bb.jpg",
+      "name": "Viaggio Italiano",
+      "year": "1995",
+      "release_date": "1995-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d8/c0/e1/d8c0e14b-ea6b-5a21-1fd4-e5ef864a2091/00731453312326.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Love In Portofino",
-          "duration": "2:59"
+          "name": "Turandot, Act III, \"Nessun Dorma\"",
+          "duration": "3:11"
         },
         {
           "number": 2,
-          "name": "A mano a mano",
-          "duration": "4:19"
+          "name": "L'Arlesiana, Act II, \"Lamento Di Federico\"",
+          "duration": "4:39"
         },
         {
           "number": 3,
-          "name": "When I Fall In Love",
-          "duration": "4:41"
+          "name": "Macbeth, Act IV. \"Ah, la Paterna Mano\"",
+          "duration": "3:19"
         },
         {
           "number": 4,
-          "name": "Champán",
-          "duration": "3:48"
+          "name": "Rigoletto, Act III. La donna e mobile",
+          "duration": "2:16"
         },
         {
           "number": 5,
-          "name": "Love Me Tender",
-          "duration": "3:52"
+          "name": "Elisir D'Amore: ACt II, Una furtiva lagrima",
+          "duration": "4:13"
         },
         {
           "number": 6,
-          "name": "Quizás, Quizás, Quizás",
-          "duration": "3:17"
+          "name": "Panis Angelicus - (Version With The Moscow Radio Symphony Orchestra)",
+          "duration": "3:56"
         },
         {
           "number": 7,
-          "name": "Las Hojas Muertas",
-          "duration": "4:51"
+          "name": "Ave Maria (Latin \"Schubert\" Version)",
+          "duration": "4:26"
         },
         {
           "number": 8,
-          "name": "L'appuntamento (Sentado a 'beira do caminho)",
-          "duration": "4:06"
+          "name": "O Sole Mio",
+          "duration": "4:38"
         },
         {
           "number": 9,
-          "name": "Senza fine",
-          "duration": "3:16"
+          "name": "Core n'grato",
+          "duration": "4:44"
         },
         {
           "number": 10,
-          "name": "La vie en rose",
-          "duration": "3:06"
+          "name": "Santa Lucia Luntana",
+          "duration": "5:09"
         },
         {
           "number": 11,
-          "name": "Sarà settembre (Live From Portofino, Italy / 2012)",
-          "duration": "3:43"
+          "name": "I'Te Vurria Vasa",
+          "duration": "5:40"
         },
         {
           "number": 12,
-          "name": "Qualche stupido \"ti amo\" (Live From Portofino, Italy / 2012)",
-          "duration": "2:40"
+          "name": "Tu, 'Ca Nun Chiagne!",
+          "duration": "3:34"
         },
         {
           "number": 13,
-          "name": "Era già tutto previsto (Live From Portofino, Italy / 2012)",
-          "duration": "3:41"
+          "name": "Marinarello",
+          "duration": "3:58"
         },
         {
           "number": 14,
-          "name": "Tristeza (Live From Portofino, Italy / 2012)",
-          "duration": "3:26"
+          "name": "Piscatore é Pusilleco",
+          "duration": "4:15"
         },
         {
           "number": 15,
-          "name": "Roma nun fa' la stupida stasera (Live From Portofino, Italy / 2012)",
-          "duration": "4:11"
+          "name": "Messagio Bocelli",
+          "duration": "0:15"
+        },
+        {
+          "number": 16,
+          "name": "Adeste Fideles (Live Version)",
+          "duration": "3:25"
+        }
+      ]
+    },
+    {
+      "name": "Puccini: Turandot",
+      "year": "2003",
+      "release_date": "2003-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/eb/a0/42eba010-73d6-c589-a630-e8e0ab75d97f/15UMGIM13243.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Turandot, Act I: Popoli di Pekino!",
+          "duration": "5:41"
+        },
+        {
+          "number": 2,
+          "name": "Turandot, Act I: Gira la cote!",
+          "duration": "7:17"
+        },
+        {
+          "number": 3,
+          "name": "Turandot, Act I: O giovinetto! Grazia, grazia!",
+          "duration": "4:57"
+        },
+        {
+          "number": 4,
+          "name": "Turandot, Act I: Figlio, che fai?",
+          "duration": "1:35"
+        },
+        {
+          "number": 5,
+          "name": "Turandot, Act I: Fermo! Che fai? T'arresta",
+          "duration": "6:11"
+        },
+        {
+          "number": 6,
+          "name": "Turandot, Act I: Signore, ascolta",
+          "duration": "2:30"
+        },
+        {
+          "number": 7,
+          "name": "Turandot, Act I: Non piangere Liù",
+          "duration": "5:21"
+        },
+        {
+          "number": 8,
+          "name": "Turandot, Act II Scene 1: Olà, Pang! Olà, Pong!",
+          "duration": "3:43"
+        },
+        {
+          "number": 9,
+          "name": "Turandot, Act II Scene 1: Ho una casa nell'Honan",
+          "duration": "3:39"
+        },
+        {
+          "number": 10,
+          "name": "Turandot, Act II Scene 1: O mondo, O mondo",
+          "duration": "4:34"
+        },
+        {
+          "number": 11,
+          "name": "Turandot, Act II Scene 2: Introduzione",
+          "duration": "1:05"
+        },
+        {
+          "number": 12,
+          "name": "Turandot, Act II Scene 2: Gravi, enormi ed impotenti",
+          "duration": "3:18"
+        },
+        {
+          "number": 13,
+          "name": "Turandot, Act II Scene 2: Un giuramento atroce mi costringe",
+          "duration": "3:25"
+        },
+        {
+          "number": 14,
+          "name": "Turandot, Act II Scene 2: Popolo di Pekino",
+          "duration": "1:40"
+        },
+        {
+          "number": 15,
+          "name": "Turandot, Act II Scene 2: In questa reggia",
+          "duration": "6:09"
+        },
+        {
+          "number": 16,
+          "name": "Turandot, Act II Scene 2: Straniero, ascolta",
+          "duration": "6:45"
+        },
+        {
+          "number": 17,
+          "name": "Turandot, Act II Scene 2: Gloria, gloria, o vincitore",
+          "duration": "4:26"
+        },
+        {
+          "number": 18,
+          "name": "Turandot, Act II Scene 2: Tre enigmi m'hai proposto",
+          "duration": "4:02"
+        },
+        {
+          "number": 19,
+          "name": "Turandot, Act III: Introduzione - Così comanda Turandot",
+          "duration": "3:39"
+        },
+        {
+          "number": 20,
+          "name": "Turandot, Act III: Nessun dorma!",
+          "duration": "7:13"
+        },
+        {
+          "number": 21,
+          "name": "Turandot, Act III: Principessa divina!",
+          "duration": "7:36"
+        },
+        {
+          "number": 22,
+          "name": "Turandot, Act III: Tu che di gel sei cinta",
+          "duration": "2:55"
+        },
+        {
+          "number": 23,
+          "name": "Turandot, Act III: Liù! Liù! Sorgi! Sorgi!",
+          "duration": "4:45"
+        },
+        {
+          "number": 24,
+          "name": "Turandot, Act III: Principessa di morte!",
+          "duration": "3:14"
+        },
+        {
+          "number": 25,
+          "name": "Turandot, Act III: Che è mai di me?",
+          "duration": "2:56"
+        },
+        {
+          "number": 26,
+          "name": "Turandot, Act III: Del primo pianto",
+          "duration": "3:40"
+        },
+        {
+          "number": 27,
+          "name": "Turandot, Act III: So il tuo nome!",
+          "duration": "2:10"
+        },
+        {
+          "number": 28,
+          "name": "Turandot, Act III: Diecimilia anni al nostro Imperatore!",
+          "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "Cinema (Special Edition)",
+      "year": "2016",
+      "release_date": "2016-04-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/e8/cb/46e8cb8b-0d13-02a6-13a4-6666f7903a9b/16UMGIM15540.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Maria (From \"West Side Story\")",
+          "duration": "3:13"
+        },
+        {
+          "number": 2,
+          "name": "La chanson de Lara (From \"Dr. Zhivago\")",
+          "duration": "3:14"
+        },
+        {
+          "number": 3,
+          "name": "Moon River (From \"Breakfast at Tiffany's\")",
+          "duration": "3:49"
+        },
+        {
+          "number": 4,
+          "name": "E più ti penso (From \"Once upon a Time In America\")",
+          "duration": "4:27"
+        },
+        {
+          "number": 5,
+          "name": "Be My Love (From \"The Toast of New Orleans\")",
+          "duration": "2:53"
+        },
+        {
+          "number": 6,
+          "name": "The Music of the Night (From \"The Phantom of the Opera\")",
+          "duration": "3:57"
+        },
+        {
+          "number": 7,
+          "name": "Brucia La Terra (From \"The Godfather\")",
+          "duration": "4:16"
+        },
+        {
+          "number": 8,
+          "name": "Por una Cabeza",
+          "duration": "3:21"
+        },
+        {
+          "number": 9,
+          "name": "No Llores por Mi Argentina (From \"Evita\")",
+          "duration": "4:23"
+        },
+        {
+          "number": 10,
+          "name": "L'amore è una Cosa Meravigliosa (From \"Love Is a Many-Splendored Thing\")",
+          "duration": "3:23"
+        },
+        {
+          "number": 11,
+          "name": "Mi mancherai (From \"Il postino\")",
+          "duration": "5:05"
+        },
+        {
+          "number": 12,
+          "name": "Cheek to Cheek (From \"Top Hat\")",
+          "duration": "2:56"
+        },
+        {
+          "number": 13,
+          "name": "Sorridi amore vai (From \"Life Is Beautiful\")",
+          "duration": "3:21"
+        },
+        {
+          "number": 14,
+          "name": "Historia de Amor (From \"Love Story\")",
+          "duration": "4:28"
+        },
+        {
+          "number": 15,
+          "name": "Ol' Man River (From \"Showboat\")",
+          "duration": "4:07"
+        },
+        {
+          "number": 16,
+          "name": "Nelle tue mani (Now We Are Free) [From \"Gladiator\"]",
+          "duration": "4:21"
+        },
+        {
+          "number": 17,
+          "name": "Se (If) [From \"Cinema Paradiso\"]",
+          "duration": "4:14"
+        },
+        {
+          "number": 18,
+          "name": "Prima di un Addio (From \"Love Story\")",
+          "duration": "4:28"
+        },
+        {
+          "number": 19,
+          "name": "No Llores por Mi Argentina (From \"Evita\")",
+          "duration": "4:24"
         }
       ]
     },
@@ -3556,6 +3295,536 @@
           "number": 26,
           "name": "Silent Night (Piano Version)",
           "duration": "2:46"
+        }
+      ]
+    },
+    {
+      "name": "Vivere - Live in Tuscany",
+      "year": "2007",
+      "release_date": "2007-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/a6/92/7da692bb-767a-bcd7-1536-349e1bf6d49b/08UMGIM01626.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Italia (feat. Chris Botti) [Live]",
+          "duration": "5:52"
+        },
+        {
+          "number": 2,
+          "name": "La Voce del Silenzio (feat. Elisa) [Live]",
+          "duration": "5:02"
+        },
+        {
+          "number": 3,
+          "name": "Medley: Besame Mucho / Somos Novios / Can't Help Falling in Love (Live)[Bonus Track]",
+          "duration": "6:15"
+        },
+        {
+          "number": 4,
+          "name": "Canto Della Terra (feat. Sarah Brightman)",
+          "duration": "4:10"
+        },
+        {
+          "number": 5,
+          "name": "Mille Lune Mille Onde (Live) [Bonus Track]",
+          "duration": "4:03"
+        },
+        {
+          "number": 6,
+          "name": "Romanza (Live) [Bonus Track]",
+          "duration": "3:53"
+        },
+        {
+          "number": 7,
+          "name": "Se la Gente Usasse Il Cuore",
+          "duration": "4:58"
+        },
+        {
+          "number": 8,
+          "name": "Domani (Bonus Track)",
+          "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Believe (Deluxe Extended)",
+      "year": "2020",
+      "release_date": "2020-11-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9c/5f/dd/9c5fdda7-63cc-e3cc-ea3a-df152eb0b816/20UMGIM80226.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You'll Never Walk Alone",
+          "duration": "3:21"
+        },
+        {
+          "number": 1,
+          "name": "You'll Never Walk Alone (Acoustic)",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Fratello Sole Sorella Luna (Dolce è Sentire)",
+          "duration": "4:36"
+        },
+        {
+          "number": 2,
+          "name": "Hallelujah (Acoustic)",
+          "duration": "2:22"
+        },
+        {
+          "number": 3,
+          "name": "Hallelujah",
+          "duration": "4:34"
+        },
+        {
+          "number": 3,
+          "name": "Pianissimo (Acoustic)",
+          "duration": "2:47"
+        },
+        {
+          "number": 4,
+          "name": "Pianissimo",
+          "duration": "4:28"
+        },
+        {
+          "number": 4,
+          "name": "Amazing Grace (Acoustic)",
+          "duration": "2:59"
+        },
+        {
+          "number": 5,
+          "name": "Amazing Grace (Arr. Mercurio)",
+          "duration": "3:56"
+        },
+        {
+          "number": 5,
+          "name": "I Believe (Acoustic)",
+          "duration": "3:03"
+        },
+        {
+          "number": 6,
+          "name": "Preghiera (Arr. Mercurio)",
+          "duration": "4:07"
+        },
+        {
+          "number": 7,
+          "name": "Gratia Plena (From ''Fatima'' Soundtrack)",
+          "duration": "2:49"
+        },
+        {
+          "number": 8,
+          "name": "Cantique de Jean Racine",
+          "duration": "5:23"
+        },
+        {
+          "number": 9,
+          "name": "Inno Sussurato",
+          "duration": "4:36"
+        },
+        {
+          "number": 10,
+          "name": "Oh, Madre Benedetta! (Adagio Di Albinoni)",
+          "duration": "3:30"
+        },
+        {
+          "number": 11,
+          "name": "I Believe",
+          "duration": "4:14"
+        },
+        {
+          "number": 12,
+          "name": "Ave Maria",
+          "duration": "4:42"
+        },
+        {
+          "number": 13,
+          "name": "Angele Dei (Arr. Kaye)",
+          "duration": "4:21"
+        },
+        {
+          "number": 14,
+          "name": "Agnus Dei (Intermezzo from L'arlésienne Suite No. 2, No. 6)",
+          "duration": "3:43"
+        },
+        {
+          "number": 15,
+          "name": "Mui Grandes Noit’ E Día (No. 57 from Cantigas de Santa Maria) [Arr. Mercurio]",
+          "duration": "4:06"
+        },
+        {
+          "number": 16,
+          "name": "Mira Il Tuo Popolo (Arr. Mercurio)",
+          "duration": "3:40"
+        },
+        {
+          "number": 17,
+          "name": "Amazing Grace (Arr. Mercurio)",
+          "duration": "3:56"
+        }
+      ]
+    },
+    {
+      "name": "Andrea",
+      "year": "2004",
+      "release_date": "2004-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/62/99/736299d8-be81-4739-09d8-d5a2268f0d5d/15UMGIM02102.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dell'amore non si sa",
+          "duration": "3:42"
+        },
+        {
+          "number": 2,
+          "name": "L'attesa",
+          "duration": "4:29"
+        },
+        {
+          "number": 3,
+          "name": "Un nuovo giorno",
+          "duration": "4:15"
+        },
+        {
+          "number": 4,
+          "name": "Tu ci sei",
+          "duration": "4:44"
+        },
+        {
+          "number": 5,
+          "name": "Sin tu amor (feat. Mario Reyes)",
+          "duration": "4:35"
+        },
+        {
+          "number": 6,
+          "name": "Libertà",
+          "duration": "3:57"
+        },
+        {
+          "number": 7,
+          "name": "Per noi",
+          "duration": "4:00"
+        },
+        {
+          "number": 8,
+          "name": "Le parole che non ti ho detto",
+          "duration": "4:07"
+        },
+        {
+          "number": 9,
+          "name": "Sempre o mai",
+          "duration": "3:41"
+        },
+        {
+          "number": 10,
+          "name": "In Canto",
+          "duration": "4:12"
+        },
+        {
+          "number": 11,
+          "name": "Quante volte ti ho cercato",
+          "duration": "5:07"
+        },
+        {
+          "number": 12,
+          "name": "When a Child Is Born",
+          "duration": "3:49"
+        },
+        {
+          "number": 13,
+          "name": "Go Where Love Goes (feat. Holly Stell)",
+          "duration": "4:11"
+        },
+        {
+          "number": 14,
+          "name": "Semplicemente (Canto per te)",
+          "duration": "4:32"
+        }
+      ]
+    },
+    {
+      "name": "Duets (30th Anniversary / Deluxe)",
+      "year": "2025",
+      "release_date": "2025-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/49/23/0f4923d6-b5c0-a742-7c55-9c25dc98fd00/24UM1IM23149.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Time To Say Goodbye",
+          "duration": "4:54"
+        },
+        {
+          "number": 1,
+          "name": "Dare To Live (Vivere)",
+          "duration": "4:19"
+        },
+        {
+          "number": 2,
+          "name": "Vivo Por Ella (feat. KAROL G)",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "Can't Help Falling In Love",
+          "duration": "3:22"
+        },
+        {
+          "number": 3,
+          "name": "Quizás, Quizás, Quizás",
+          "duration": "3:18"
+        },
+        {
+          "number": 3,
+          "name": "Hallelujah",
+          "duration": "4:28"
+        },
+        {
+          "number": 4,
+          "name": "Fall On Me",
+          "duration": "4:18"
+        },
+        {
+          "number": 4,
+          "name": "Amazing Grace (arr. Mercurio)",
+          "duration": "3:56"
+        },
+        {
+          "number": 5,
+          "name": "Perfect Symphony",
+          "duration": "4:27"
+        },
+        {
+          "number": 5,
+          "name": "Moon River (feat. Sofia Carson) [From \"Breakfast At Tiffany's\"]",
+          "duration": "3:50"
+        },
+        {
+          "number": 6,
+          "name": "Da Stanotte in Poi (From This Moment On)",
+          "duration": "3:57"
+        },
+        {
+          "number": 6,
+          "name": "Canto Della Terra (feat. Lauren Daigle)",
+          "duration": "4:01"
+        },
+        {
+          "number": 7,
+          "name": "Holding On (feat. Gwen Stefani)",
+          "duration": "4:03"
+        },
+        {
+          "number": 7,
+          "name": "La Voce Del Silenzio (feat. Marc Anthony)",
+          "duration": "4:00"
+        },
+        {
+          "number": 8,
+          "name": "Il Mare Calmo Della Sera (feat. Chris Stapleton)",
+          "duration": "4:35"
+        },
+        {
+          "number": 8,
+          "name": "Canzoni stonate (feat. Stevie Wonder)",
+          "duration": "5:25"
+        },
+        {
+          "number": 9,
+          "name": "The Prayer",
+          "duration": "4:28"
+        },
+        {
+          "number": 9,
+          "name": "Un Amore Così Grande",
+          "duration": "4:22"
+        },
+        {
+          "number": 10,
+          "name": "La vie en rose",
+          "duration": "3:08"
+        },
+        {
+          "number": 10,
+          "name": "Notte 'e piscatore (Live / 2024 Version)",
+          "duration": "5:05"
+        },
+        {
+          "number": 11,
+          "name": "E più ti penso (From \"Once Upon A Time In America\")",
+          "duration": "4:28"
+        },
+        {
+          "number": 11,
+          "name": "Io Ci Sarò",
+          "duration": "4:50"
+        },
+        {
+          "number": 12,
+          "name": "If Only (feat. Dua Lipa)",
+          "duration": "3:39"
+        },
+        {
+          "number": 12,
+          "name": "Pianissimo",
+          "duration": "4:30"
+        },
+        {
+          "number": 13,
+          "name": "Somos Novios",
+          "duration": "4:24"
+        },
+        {
+          "number": 13,
+          "name": "Les pêcheurs de perles, WD 13, Act I: Au fond du temple saint (Live At Central Park, New York / 2011)",
+          "duration": "5:59"
+        },
+        {
+          "number": 14,
+          "name": "Return To Love",
+          "duration": "4:33"
+        },
+        {
+          "number": 14,
+          "name": "Bambina Mia Ricordati (feat. Virginia Bocelli)",
+          "duration": "3:59"
+        },
+        {
+          "number": 15,
+          "name": "Rimani Qui (feat. Elisa)",
+          "duration": "3:23"
+        },
+        {
+          "number": 15,
+          "name": "What Child Is This (feat. Mary J. Blige)",
+          "duration": "4:31"
+        },
+        {
+          "number": 16,
+          "name": "Vivo per lei",
+          "duration": "4:24"
+        },
+        {
+          "number": 16,
+          "name": "L'Incontro (feat. Bono)",
+          "duration": "4:52"
+        },
+        {
+          "number": 17,
+          "name": "Mi manchi (feat. Kenny G)",
+          "duration": "3:37"
+        },
+        {
+          "number": 18,
+          "name": "I Believe (feat. Katherine Jenkins)",
+          "duration": "4:25"
+        },
+        {
+          "number": 19,
+          "name": "Corcovado / Quiet Nights Of Quiet Stars (feat. Nelly Furtado)",
+          "duration": "3:34"
+        },
+        {
+          "number": 20,
+          "name": "Canto Della Terra (feat. A-Lin)",
+          "duration": "3:59"
+        },
+        {
+          "number": 21,
+          "name": "We Will Meet Once Again",
+          "duration": "3:55"
+        },
+        {
+          "number": 22,
+          "name": "Da Stanotte in Poi (From This Moment On) [Christmas version]",
+          "duration": "3:55"
+        },
+        {
+          "number": 23,
+          "name": "White Christmas",
+          "duration": "3:58"
+        },
+        {
+          "number": 24,
+          "name": "Je Vis Pour Elle",
+          "duration": "4:25"
+        }
+      ]
+    },
+    {
+      "name": "Passione",
+      "year": "2013",
+      "release_date": "2013-01-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/34/c5/3034c5ce-347c-d284-3de9-3aab55fea053/15UMGIM02112.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Perfidia",
+          "duration": "4:06"
+        },
+        {
+          "number": 2,
+          "name": "Roma nun fa' la stupida stasera",
+          "duration": "4:13"
+        },
+        {
+          "number": 3,
+          "name": "Champagne",
+          "duration": "3:48"
+        },
+        {
+          "number": 4,
+          "name": "Anema e core",
+          "duration": "4:08"
+        },
+        {
+          "number": 5,
+          "name": "Quizàs, Quizàs, Quizàs (feat. Jennifer Lopez)",
+          "duration": "3:17"
+        },
+        {
+          "number": 6,
+          "name": "Era già tutto previsto",
+          "duration": "3:40"
+        },
+        {
+          "number": 7,
+          "name": "Tristeza",
+          "duration": "3:22"
+        },
+        {
+          "number": 8,
+          "name": "La vie en rose (feat. Édith Piaf)",
+          "duration": "3:06"
+        },
+        {
+          "number": 9,
+          "name": "Corcovado / Quiet Nights of Quiet Stars (feat. Nelly Furtado)",
+          "duration": "3:34"
+        },
+        {
+          "number": 10,
+          "name": "Sarà settembre",
+          "duration": "3:40"
+        },
+        {
+          "number": 11,
+          "name": "Love In Portofino",
+          "duration": "2:59"
+        },
+        {
+          "number": 12,
+          "name": "Garota de Ipanema",
+          "duration": "3:36"
+        },
+        {
+          "number": 13,
+          "name": "Malafemmena",
+          "duration": "4:15"
+        },
+        {
+          "number": 14,
+          "name": "Love Me Tender",
+          "duration": "3:52"
         }
       ]
     },
@@ -3748,246 +4017,60 @@
       ]
     },
     {
-      "name": "Andrea",
-      "year": "2004",
-      "release_date": "2004-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/62/99/736299d8-be81-4739-09d8-d5a2268f0d5d/15UMGIM02102.rgb.jpg/600x600bb.jpg",
+      "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\")",
+      "year": "2018",
+      "release_date": "2018-10-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/1e/96/9b/1e969b8e-61a0-1a70-1451-ce5b1e6ef6df/00602577083365.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Dell'amore non si sa",
-          "duration": "3:42"
+          "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\" / English Version)",
+          "duration": "4:18"
+        },
+        {
+          "number": 1,
+          "name": "Fall On Me (English Radio Version)",
+          "duration": "3:54"
         },
         {
           "number": 2,
-          "name": "L'attesa",
-          "duration": "4:29"
+          "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\" / Italian Version)",
+          "duration": "4:18"
+        },
+        {
+          "number": 2,
+          "name": "Fall On Me (Italian Radio Version)",
+          "duration": "3:54"
         },
         {
           "number": 3,
-          "name": "Un nuovo giorno",
-          "duration": "4:15"
+          "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\" / Russian Version)",
+          "duration": "4:18"
+        },
+        {
+          "number": 3,
+          "name": "Fall On Me (Russian Radio Version)",
+          "duration": "3:54"
         },
         {
           "number": 4,
-          "name": "Tu ci sei",
-          "duration": "4:44"
+          "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\" / German Version)",
+          "duration": "4:18"
+        },
+        {
+          "number": 4,
+          "name": "Fall On Me (German Radio Version)",
+          "duration": "3:54"
         },
         {
           "number": 5,
-          "name": "Sin tu amor (feat. Mario Reyes)",
-          "duration": "4:35"
-        },
-        {
-          "number": 6,
-          "name": "Libertà",
-          "duration": "3:57"
-        },
-        {
-          "number": 7,
-          "name": "Per noi",
-          "duration": "4:00"
-        },
-        {
-          "number": 8,
-          "name": "Le parole che non ti ho detto",
-          "duration": "4:07"
-        },
-        {
-          "number": 9,
-          "name": "Sempre o mai",
-          "duration": "3:41"
-        },
-        {
-          "number": 10,
-          "name": "In Canto",
-          "duration": "4:12"
-        },
-        {
-          "number": 11,
-          "name": "Quante volte ti ho cercato",
-          "duration": "5:07"
-        },
-        {
-          "number": 12,
-          "name": "When a Child Is Born",
-          "duration": "3:49"
-        },
-        {
-          "number": 13,
-          "name": "Go Where Love Goes (feat. Holly Stell)",
-          "duration": "4:11"
-        },
-        {
-          "number": 14,
-          "name": "Semplicemente (Canto per te)",
-          "duration": "4:32"
-        }
-      ]
-    },
-    {
-      "name": "Passione",
-      "year": "2013",
-      "release_date": "2013-01-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/34/c5/3034c5ce-347c-d284-3de9-3aab55fea053/15UMGIM02112.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Perfidia",
-          "duration": "4:06"
-        },
-        {
-          "number": 2,
-          "name": "Roma nun fa' la stupida stasera",
-          "duration": "4:13"
-        },
-        {
-          "number": 3,
-          "name": "Champagne",
-          "duration": "3:48"
-        },
-        {
-          "number": 4,
-          "name": "Anema e core",
-          "duration": "4:08"
-        },
-        {
-          "number": 5,
-          "name": "Quizàs, Quizàs, Quizàs (feat. Jennifer Lopez)",
-          "duration": "3:17"
-        },
-        {
-          "number": 6,
-          "name": "Era già tutto previsto",
-          "duration": "3:40"
-        },
-        {
-          "number": 7,
-          "name": "Tristeza",
-          "duration": "3:22"
-        },
-        {
-          "number": 8,
-          "name": "La vie en rose (feat. Édith Piaf)",
-          "duration": "3:06"
-        },
-        {
-          "number": 9,
-          "name": "Corcovado / Quiet Nights of Quiet Stars (feat. Nelly Furtado)",
-          "duration": "3:34"
-        },
-        {
-          "number": 10,
-          "name": "Sarà settembre",
-          "duration": "3:40"
-        },
-        {
-          "number": 11,
-          "name": "Love In Portofino",
-          "duration": "2:59"
-        },
-        {
-          "number": 12,
-          "name": "Garota de Ipanema",
-          "duration": "3:36"
-        },
-        {
-          "number": 13,
-          "name": "Malafemmena",
-          "duration": "4:15"
-        },
-        {
-          "number": 14,
-          "name": "Love Me Tender",
-          "duration": "3:52"
-        }
-      ]
-    },
-    {
-      "name": "Lo Mejor De Andrea Bocelli - 'Vivere' (Edición Especial En Español)",
-      "year": "2007",
-      "release_date": "2007-10-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/32/b4/92/32b4926b-4aaf-6907-19ca-faa5799993b8/18UMGIM43184.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La Voz Del Silencio",
-          "duration": "4:55"
-        },
-        {
-          "number": 2,
-          "name": "Sueño (Radio Version)",
-          "duration": "4:00"
-        },
-        {
-          "number": 3,
-          "name": "El Silencio De La Espera",
-          "duration": "4:36"
-        },
-        {
-          "number": 4,
-          "name": "Vive Ya (feat. Laura Pausini)",
+          "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\" / French Version)",
           "duration": "4:18"
         },
         {
           "number": 5,
-          "name": "Canto De La Tierra (Radio Version)",
-          "duration": "3:59"
-        },
-        {
-          "number": 6,
-          "name": "A Ti",
-          "duration": "4:08"
-        },
-        {
-          "number": 7,
-          "name": "'O Mare E Tu (feat. Dulce Pontes)",
-          "duration": "4:33"
-        },
-        {
-          "number": 8,
-          "name": "Bésame Mucho",
-          "duration": "4:02"
-        },
-        {
-          "number": 9,
-          "name": "Mil Lunas Mil Olas",
-          "duration": "3:59"
-        },
-        {
-          "number": 10,
-          "name": "Por Ti Volaré",
-          "duration": "4:10"
-        },
-        {
-          "number": 11,
-          "name": "Io Ci Sarò",
-          "duration": "4:48"
-        },
-        {
-          "number": 12,
-          "name": "Romanza",
-          "duration": "3:42"
-        },
-        {
-          "number": 13,
-          "name": "Vivo Por Ella",
-          "duration": "4:23"
-        },
-        {
-          "number": 14,
-          "name": "Un Dulce Melodrama",
-          "duration": "4:07"
-        },
-        {
-          "number": 15,
-          "name": "Hermosas Estrellas",
-          "duration": "4:14"
-        },
-        {
-          "number": 16,
-          "name": "The Prayer",
-          "duration": "4:27"
+          "name": "Fall On Me (French Radio Version)",
+          "duration": "3:54"
         }
       ]
     },
@@ -4250,64 +4333,6 @@
       ]
     },
     {
-      "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\")",
-      "year": "2018",
-      "release_date": "2018-10-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/1e/96/9b/1e969b8e-61a0-1a70-1451-ce5b1e6ef6df/00602577083365.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\" / English Version)",
-          "duration": "4:18"
-        },
-        {
-          "number": 1,
-          "name": "Fall On Me (English Radio Version)",
-          "duration": "3:54"
-        },
-        {
-          "number": 2,
-          "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\" / Italian Version)",
-          "duration": "4:18"
-        },
-        {
-          "number": 2,
-          "name": "Fall On Me (Italian Radio Version)",
-          "duration": "3:54"
-        },
-        {
-          "number": 3,
-          "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\" / Russian Version)",
-          "duration": "4:18"
-        },
-        {
-          "number": 3,
-          "name": "Fall On Me (Russian Radio Version)",
-          "duration": "3:54"
-        },
-        {
-          "number": 4,
-          "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\" / German Version)",
-          "duration": "4:18"
-        },
-        {
-          "number": 4,
-          "name": "Fall On Me (German Radio Version)",
-          "duration": "3:54"
-        },
-        {
-          "number": 5,
-          "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\" / French Version)",
-          "duration": "4:18"
-        },
-        {
-          "number": 5,
-          "name": "Fall On Me (French Radio Version)",
-          "duration": "3:54"
-        }
-      ]
-    },
-    {
       "name": "Rarities (Remastered)",
       "year": "2018",
       "release_date": "2018-08-10",
@@ -4459,150 +4484,228 @@
       ]
     },
     {
-      "name": "Puccini: Turandot",
-      "year": "2003",
-      "release_date": "2003-05-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/eb/a0/42eba010-73d6-c589-a630-e8e0ab75d97f/15UMGIM13243.rgb.jpg/600x600bb.jpg",
+      "name": "Love In Portofino",
+      "year": "2013",
+      "release_date": "2013-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/d6/82/35d68213-089d-2ac2-ab9a-9a99530db263/15UMGIM02113.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Turandot, Act I: Popoli di Pekino!",
-          "duration": "5:41"
+          "name": "Love In Portofino",
+          "duration": "2:59"
         },
         {
           "number": 2,
-          "name": "Turandot, Act I: Gira la cote!",
-          "duration": "7:17"
+          "name": "A mano a mano",
+          "duration": "4:19"
         },
         {
           "number": 3,
-          "name": "Turandot, Act I: O giovinetto! Grazia, grazia!",
-          "duration": "4:57"
+          "name": "When I Fall In Love",
+          "duration": "4:41"
         },
         {
           "number": 4,
-          "name": "Turandot, Act I: Figlio, che fai?",
-          "duration": "1:35"
+          "name": "Champán",
+          "duration": "3:48"
         },
         {
           "number": 5,
-          "name": "Turandot, Act I: Fermo! Che fai? T'arresta",
-          "duration": "6:11"
+          "name": "Love Me Tender",
+          "duration": "3:52"
         },
         {
           "number": 6,
-          "name": "Turandot, Act I: Signore, ascolta",
-          "duration": "2:30"
+          "name": "Quizás, Quizás, Quizás",
+          "duration": "3:17"
         },
         {
           "number": 7,
-          "name": "Turandot, Act I: Non piangere Liù",
-          "duration": "5:21"
+          "name": "Las Hojas Muertas",
+          "duration": "4:51"
         },
         {
           "number": 8,
-          "name": "Turandot, Act II Scene 1: Olà, Pang! Olà, Pong!",
-          "duration": "3:43"
+          "name": "L'appuntamento (Sentado a 'beira do caminho)",
+          "duration": "4:06"
         },
         {
           "number": 9,
-          "name": "Turandot, Act II Scene 1: Ho una casa nell'Honan",
-          "duration": "3:39"
+          "name": "Senza fine",
+          "duration": "3:16"
         },
         {
           "number": 10,
-          "name": "Turandot, Act II Scene 1: O mondo, O mondo",
-          "duration": "4:34"
+          "name": "La vie en rose",
+          "duration": "3:06"
         },
         {
           "number": 11,
-          "name": "Turandot, Act II Scene 2: Introduzione",
-          "duration": "1:05"
+          "name": "Sarà settembre (Live From Portofino, Italy / 2012)",
+          "duration": "3:43"
         },
         {
           "number": 12,
-          "name": "Turandot, Act II Scene 2: Gravi, enormi ed impotenti",
-          "duration": "3:18"
+          "name": "Qualche stupido \"ti amo\" (Live From Portofino, Italy / 2012)",
+          "duration": "2:40"
         },
         {
           "number": 13,
-          "name": "Turandot, Act II Scene 2: Un giuramento atroce mi costringe",
-          "duration": "3:25"
+          "name": "Era già tutto previsto (Live From Portofino, Italy / 2012)",
+          "duration": "3:41"
         },
         {
           "number": 14,
-          "name": "Turandot, Act II Scene 2: Popolo di Pekino",
-          "duration": "1:40"
+          "name": "Tristeza (Live From Portofino, Italy / 2012)",
+          "duration": "3:26"
         },
         {
           "number": 15,
-          "name": "Turandot, Act II Scene 2: In questa reggia",
-          "duration": "6:09"
+          "name": "Roma nun fa' la stupida stasera (Live From Portofino, Italy / 2012)",
+          "duration": "4:11"
+        }
+      ]
+    },
+    {
+      "name": "Amore (Super Deluxe)",
+      "year": "2006",
+      "release_date": "2006-01-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/e2/35/c4e23578-ab6b-ccf3-5525-e6f1e0ddfbca/24UMGIM35187.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Amapola",
+          "duration": "3:41"
+        },
+        {
+          "number": 2,
+          "name": "Bésame Mucho",
+          "duration": "4:01"
+        },
+        {
+          "number": 3,
+          "name": "Les Feuilles Mortes (feat. Veronica Berti)",
+          "duration": "4:50"
+        },
+        {
+          "number": 4,
+          "name": "Mi manchi (feat. Kenny G)",
+          "duration": "3:34"
+        },
+        {
+          "number": 5,
+          "name": "Somos Novios",
+          "duration": "4:22"
+        },
+        {
+          "number": 6,
+          "name": "Canzoni stonate (feat. Stevie Wonder)",
+          "duration": "5:23"
+        },
+        {
+          "number": 7,
+          "name": "Solamente Una Vez",
+          "duration": "3:29"
+        },
+        {
+          "number": 8,
+          "name": "Júrame (feat. Mario Reyes)",
+          "duration": "3:21"
+        },
+        {
+          "number": 9,
+          "name": "Pero Te Extraño",
+          "duration": "4:07"
+        },
+        {
+          "number": 10,
+          "name": "Momentos",
+          "duration": "3:54"
+        },
+        {
+          "number": 11,
+          "name": "L'appuntamento (Sentado a 'beira do caminho) [Live From Portofino, Italy / 2012]",
+          "duration": "4:06"
+        },
+        {
+          "number": 12,
+          "name": "Cuando Me Enamoro",
+          "duration": "3:55"
+        },
+        {
+          "number": 13,
+          "name": "Estate (feat. Chris Botti)",
+          "duration": "3:41"
+        },
+        {
+          "number": 14,
+          "name": "Can't Help Falling In Love (Live At Lake Las Vegas / 2005)",
+          "duration": "3:24"
+        },
+        {
+          "number": 15,
+          "name": "Because We Believe",
+          "duration": "4:39"
         },
         {
           "number": 16,
-          "name": "Turandot, Act II Scene 2: Straniero, ascolta",
-          "duration": "6:45"
+          "name": "Can't Help Falling In Love",
+          "duration": "3:21"
         },
         {
           "number": 17,
-          "name": "Turandot, Act II Scene 2: Gloria, gloria, o vincitore",
-          "duration": "4:26"
+          "name": "Somos Novios",
+          "duration": "4:21"
         },
         {
           "number": 18,
-          "name": "Turandot, Act II Scene 2: Tre enigmi m'hai proposto",
-          "duration": "4:02"
+          "name": "Canción Desafinada (Canzoni Stonate) [feat. Stevie Wonder]",
+          "duration": "5:20"
         },
         {
           "number": 19,
-          "name": "Turandot, Act III: Introduzione - Così comanda Turandot",
-          "duration": "3:39"
+          "name": "Las Hojas Muertas (Live From Portofino, Italy / 2012)",
+          "duration": "4:51"
         },
         {
           "number": 20,
-          "name": "Turandot, Act III: Nessun dorma!",
-          "duration": "7:13"
+          "name": "Me Faltas",
+          "duration": "3:34"
         },
         {
           "number": 21,
-          "name": "Turandot, Act III: Principessa divina!",
-          "duration": "7:36"
+          "name": "Porque Tú Me Acostumbraste",
+          "duration": "3:20"
         },
         {
           "number": 22,
-          "name": "Turandot, Act III: Tu che di gel sei cinta",
-          "duration": "2:55"
+          "name": "Verano",
+          "duration": "3:41"
         },
         {
           "number": 23,
-          "name": "Turandot, Act III: Liù! Liù! Sorgi! Sorgi!",
-          "duration": "4:45"
+          "name": "Nuestro Encuentro (Sentado A 'Beira Do Caminho)",
+          "duration": "4:06"
         },
         {
           "number": 24,
-          "name": "Turandot, Act III: Principessa di morte!",
-          "duration": "3:14"
+          "name": "Somos Novios",
+          "duration": "4:22"
         },
         {
           "number": 25,
-          "name": "Turandot, Act III: Che è mai di me?",
-          "duration": "2:56"
+          "name": "Ama Credi E Vai",
+          "duration": "4:39"
         },
         {
           "number": 26,
-          "name": "Turandot, Act III: Del primo pianto",
-          "duration": "3:40"
+          "name": "Because We Believe",
+          "duration": "4:36"
         },
         {
           "number": 27,
-          "name": "Turandot, Act III: So il tuo nome!",
-          "duration": "2:10"
-        },
-        {
-          "number": 28,
-          "name": "Turandot, Act III: Diecimilia anni al nostro Imperatore!",
-          "duration": "2:24"
+          "name": "Because We Believe",
+          "duration": "4:39"
         }
       ]
     },
@@ -4904,54 +5007,6 @@
           "number": 15,
           "name": "I Believe",
           "duration": "4:28"
-        }
-      ]
-    },
-    {
-      "name": "Vivere - Live in Tuscany",
-      "year": "2007",
-      "release_date": "2007-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/a6/92/7da692bb-767a-bcd7-1536-349e1bf6d49b/08UMGIM01626.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Italia (feat. Chris Botti) [Live]",
-          "duration": "5:52"
-        },
-        {
-          "number": 2,
-          "name": "La Voce del Silenzio (feat. Elisa) [Live]",
-          "duration": "5:02"
-        },
-        {
-          "number": 3,
-          "name": "Medley: Besame Mucho / Somos Novios / Can't Help Falling in Love (Live)[Bonus Track]",
-          "duration": "6:15"
-        },
-        {
-          "number": 4,
-          "name": "Canto Della Terra (feat. Sarah Brightman)",
-          "duration": "4:10"
-        },
-        {
-          "number": 5,
-          "name": "Mille Lune Mille Onde (Live) [Bonus Track]",
-          "duration": "4:03"
-        },
-        {
-          "number": 6,
-          "name": "Romanza (Live) [Bonus Track]",
-          "duration": "3:53"
-        },
-        {
-          "number": 7,
-          "name": "Se la Gente Usasse Il Cuore",
-          "duration": "4:58"
-        },
-        {
-          "number": 8,
-          "name": "Domani (Bonus Track)",
-          "duration": "3:09"
         }
       ]
     },
@@ -5437,145 +5492,90 @@
       ]
     },
     {
-      "name": "Amore (Super Deluxe)",
-      "year": "2006",
-      "release_date": "2006-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/e2/35/c4e23578-ab6b-ccf3-5525-e6f1e0ddfbca/24UMGIM35187.rgb.jpg/600x600bb.jpg",
+      "name": "Lo Mejor De Andrea Bocelli - 'Vivere' (Edición Especial En Español)",
+      "year": "2007",
+      "release_date": "2007-10-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/32/b4/92/32b4926b-4aaf-6907-19ca-faa5799993b8/18UMGIM43184.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Amapola",
-          "duration": "3:41"
+          "name": "La Voz Del Silencio",
+          "duration": "4:55"
         },
         {
           "number": 2,
-          "name": "Bésame Mucho",
-          "duration": "4:01"
+          "name": "Sueño (Radio Version)",
+          "duration": "4:00"
         },
         {
           "number": 3,
-          "name": "Les Feuilles Mortes (feat. Veronica Berti)",
-          "duration": "4:50"
-        },
-        {
-          "number": 4,
-          "name": "Mi manchi (feat. Kenny G)",
-          "duration": "3:34"
-        },
-        {
-          "number": 5,
-          "name": "Somos Novios",
-          "duration": "4:22"
-        },
-        {
-          "number": 6,
-          "name": "Canzoni stonate (feat. Stevie Wonder)",
-          "duration": "5:23"
-        },
-        {
-          "number": 7,
-          "name": "Solamente Una Vez",
-          "duration": "3:29"
-        },
-        {
-          "number": 8,
-          "name": "Júrame (feat. Mario Reyes)",
-          "duration": "3:21"
-        },
-        {
-          "number": 9,
-          "name": "Pero Te Extraño",
-          "duration": "4:07"
-        },
-        {
-          "number": 10,
-          "name": "Momentos",
-          "duration": "3:54"
-        },
-        {
-          "number": 11,
-          "name": "L'appuntamento (Sentado a 'beira do caminho) [Live From Portofino, Italy / 2012]",
-          "duration": "4:06"
-        },
-        {
-          "number": 12,
-          "name": "Cuando Me Enamoro",
-          "duration": "3:55"
-        },
-        {
-          "number": 13,
-          "name": "Estate (feat. Chris Botti)",
-          "duration": "3:41"
-        },
-        {
-          "number": 14,
-          "name": "Can't Help Falling In Love (Live At Lake Las Vegas / 2005)",
-          "duration": "3:24"
-        },
-        {
-          "number": 15,
-          "name": "Because We Believe",
-          "duration": "4:39"
-        },
-        {
-          "number": 16,
-          "name": "Can't Help Falling In Love",
-          "duration": "3:21"
-        },
-        {
-          "number": 17,
-          "name": "Somos Novios",
-          "duration": "4:21"
-        },
-        {
-          "number": 18,
-          "name": "Canción Desafinada (Canzoni Stonate) [feat. Stevie Wonder]",
-          "duration": "5:20"
-        },
-        {
-          "number": 19,
-          "name": "Las Hojas Muertas (Live From Portofino, Italy / 2012)",
-          "duration": "4:51"
-        },
-        {
-          "number": 20,
-          "name": "Me Faltas",
-          "duration": "3:34"
-        },
-        {
-          "number": 21,
-          "name": "Porque Tú Me Acostumbraste",
-          "duration": "3:20"
-        },
-        {
-          "number": 22,
-          "name": "Verano",
-          "duration": "3:41"
-        },
-        {
-          "number": 23,
-          "name": "Nuestro Encuentro (Sentado A 'Beira Do Caminho)",
-          "duration": "4:06"
-        },
-        {
-          "number": 24,
-          "name": "Somos Novios",
-          "duration": "4:22"
-        },
-        {
-          "number": 25,
-          "name": "Ama Credi E Vai",
-          "duration": "4:39"
-        },
-        {
-          "number": 26,
-          "name": "Because We Believe",
+          "name": "El Silencio De La Espera",
           "duration": "4:36"
         },
         {
-          "number": 27,
-          "name": "Because We Believe",
-          "duration": "4:39"
+          "number": 4,
+          "name": "Vive Ya (feat. Laura Pausini)",
+          "duration": "4:18"
+        },
+        {
+          "number": 5,
+          "name": "Canto De La Tierra (Radio Version)",
+          "duration": "3:59"
+        },
+        {
+          "number": 6,
+          "name": "A Ti",
+          "duration": "4:08"
+        },
+        {
+          "number": 7,
+          "name": "'O Mare E Tu (feat. Dulce Pontes)",
+          "duration": "4:33"
+        },
+        {
+          "number": 8,
+          "name": "Bésame Mucho",
+          "duration": "4:02"
+        },
+        {
+          "number": 9,
+          "name": "Mil Lunas Mil Olas",
+          "duration": "3:59"
+        },
+        {
+          "number": 10,
+          "name": "Por Ti Volaré",
+          "duration": "4:10"
+        },
+        {
+          "number": 11,
+          "name": "Io Ci Sarò",
+          "duration": "4:48"
+        },
+        {
+          "number": 12,
+          "name": "Romanza",
+          "duration": "3:42"
+        },
+        {
+          "number": 13,
+          "name": "Vivo Por Ella",
+          "duration": "4:23"
+        },
+        {
+          "number": 14,
+          "name": "Un Dulce Melodrama",
+          "duration": "4:07"
+        },
+        {
+          "number": 15,
+          "name": "Hermosas Estrellas",
+          "duration": "4:14"
+        },
+        {
+          "number": 16,
+          "name": "The Prayer",
+          "duration": "4:27"
         }
       ]
     },
@@ -5757,89 +5757,6 @@
           "number": 16,
           "name": "Ritus Pacis: Domine Iesu Christe, Qui Dixisti Apostolis Tuis - Pax Domini",
           "duration": "0:44"
-        }
-      ]
-    },
-    {
-      "name": "Romanza (Edición Especial En Español)",
-      "year": "1996",
-      "release_date": "1996-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/aa/a4/6aaaa4d5-433d-fb7a-4c4c-7072e25b34bb/06UMGIM49709.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Por ti volaré (Spanish Version)",
-          "duration": "4:11"
-        },
-        {
-          "number": 2,
-          "name": "Viviré (feat. Gerardina Trovato) [Spanish Version]",
-          "duration": "4:03"
-        },
-        {
-          "number": 3,
-          "name": "Por amor (Spanish Version)",
-          "duration": "4:41"
-        },
-        {
-          "number": 4,
-          "name": "El silencio de la espera (Spanish Version)",
-          "duration": "4:36"
-        },
-        {
-          "number": 5,
-          "name": "Caruso",
-          "duration": "5:16"
-        },
-        {
-          "number": 6,
-          "name": "Macchine Da Guerra",
-          "duration": "4:08"
-        },
-        {
-          "number": 7,
-          "name": "Le Tue Parole",
-          "duration": "3:57"
-        },
-        {
-          "number": 8,
-          "name": "Vivo por ella (Spanish Version)",
-          "duration": "4:24"
-        },
-        {
-          "number": 9,
-          "name": "Romanza",
-          "duration": "3:43"
-        },
-        {
-          "number": 10,
-          "name": "La Luna Che Non C'e",
-          "duration": "4:31"
-        },
-        {
-          "number": 11,
-          "name": "Rapsodia",
-          "duration": "5:27"
-        },
-        {
-          "number": 12,
-          "name": "Voglio Restare Così",
-          "duration": "3:52"
-        },
-        {
-          "number": 13,
-          "name": "E Chiove",
-          "duration": "4:23"
-        },
-        {
-          "number": 14,
-          "name": "Miserere (feat. John Miles) [Live]",
-          "duration": "4:17"
-        },
-        {
-          "number": 15,
-          "name": "Time To Say Goodbye",
-          "duration": "4:06"
         }
       ]
     },
@@ -6051,6 +5968,89 @@
           "number": 26,
           "name": "Pagliacci: \"Suvvia, cosi terrible\"",
           "duration": "2:56"
+        }
+      ]
+    },
+    {
+      "name": "Romanza (Edición Especial En Español)",
+      "year": "1996",
+      "release_date": "1996-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/aa/a4/6aaaa4d5-433d-fb7a-4c4c-7072e25b34bb/06UMGIM49709.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Por ti volaré (Spanish Version)",
+          "duration": "4:11"
+        },
+        {
+          "number": 2,
+          "name": "Viviré (feat. Gerardina Trovato) [Spanish Version]",
+          "duration": "4:03"
+        },
+        {
+          "number": 3,
+          "name": "Por amor (Spanish Version)",
+          "duration": "4:41"
+        },
+        {
+          "number": 4,
+          "name": "El silencio de la espera (Spanish Version)",
+          "duration": "4:36"
+        },
+        {
+          "number": 5,
+          "name": "Caruso",
+          "duration": "5:16"
+        },
+        {
+          "number": 6,
+          "name": "Macchine Da Guerra",
+          "duration": "4:08"
+        },
+        {
+          "number": 7,
+          "name": "Le Tue Parole",
+          "duration": "3:57"
+        },
+        {
+          "number": 8,
+          "name": "Vivo por ella (Spanish Version)",
+          "duration": "4:24"
+        },
+        {
+          "number": 9,
+          "name": "Romanza",
+          "duration": "3:43"
+        },
+        {
+          "number": 10,
+          "name": "La Luna Che Non C'e",
+          "duration": "4:31"
+        },
+        {
+          "number": 11,
+          "name": "Rapsodia",
+          "duration": "5:27"
+        },
+        {
+          "number": 12,
+          "name": "Voglio Restare Così",
+          "duration": "3:52"
+        },
+        {
+          "number": 13,
+          "name": "E Chiove",
+          "duration": "4:23"
+        },
+        {
+          "number": 14,
+          "name": "Miserere (feat. John Miles) [Live]",
+          "duration": "4:17"
+        },
+        {
+          "number": 15,
+          "name": "Time To Say Goodbye",
+          "duration": "4:06"
         }
       ]
     },
@@ -6554,109 +6554,6 @@
       ]
     },
     {
-      "name": "Aria: The Opera Album (Bonus Tracks Version)",
-      "year": "1998",
-      "release_date": "1998-04-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/83/27/a3/8327a3db-9e47-3157-35fd-3a575d853228/00028947572954.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rigoletto: Questa o quella",
-          "duration": "1:47"
-        },
-        {
-          "number": 2,
-          "name": "La bohème: Che gelida manina",
-          "duration": "4:20"
-        },
-        {
-          "number": 3,
-          "name": "Tosca: Recondita armonia",
-          "duration": "2:58"
-        },
-        {
-          "number": 4,
-          "name": "Tosca: E lucevan le stelle",
-          "duration": "2:52"
-        },
-        {
-          "number": 5,
-          "name": "Madama Butterfly: Addio, fiorito asil",
-          "duration": "1:51"
-        },
-        {
-          "number": 6,
-          "name": "Andrea Chénier: Come un bel dì di maggio",
-          "duration": "3:18"
-        },
-        {
-          "number": 7,
-          "name": "I Puritani: A te, o cara",
-          "duration": "3:06"
-        },
-        {
-          "number": 8,
-          "name": "Der Rosenkavalier, Op. 59: Di rigori armato il seno",
-          "duration": "2:10"
-        },
-        {
-          "number": 9,
-          "name": "Fedora: Amor ti vieta",
-          "duration": "1:52"
-        },
-        {
-          "number": 10,
-          "name": "La fanciulla del west: Ch'ella mi creda",
-          "duration": "2:01"
-        },
-        {
-          "number": 11,
-          "name": "La Gioconda: Cielo e mar",
-          "duration": "4:36"
-        },
-        {
-          "number": 12,
-          "name": "Adriana Lecouvreur: La dolcissima effigie",
-          "duration": "2:13"
-        },
-        {
-          "number": 13,
-          "name": "La bohème: Musetta! O gioia della mia dimora! - Testa adorata",
-          "duration": "3:07"
-        },
-        {
-          "number": 14,
-          "name": "Lucia di Lammermoor: Tombe degl'avi miei.Fra poco a me ricovero",
-          "duration": "6:53"
-        },
-        {
-          "number": 15,
-          "name": "Werther: Pourquoi me réveiller, ô souffle du printemps?",
-          "duration": "3:06"
-        },
-        {
-          "number": 16,
-          "name": "Carmen: La fleur que tu m'avais jetée",
-          "duration": "4:20"
-        },
-        {
-          "number": 17,
-          "name": "La fille du régiment: Pour mon âme quel destin",
-          "duration": "2:14"
-        },
-        {
-          "number": 18,
-          "name": "Il trovatore: Di quella pira",
-          "duration": "3:21"
-        },
-        {
-          "number": 19,
-          "name": "Les pêcheurs de perles: C'était le soir - Au fond du temple Saint",
-          "duration": "6:17"
-        }
-      ]
-    },
-    {
       "name": "Madame Butterfly (Tragedia Giapponese in Tre Atti in Forma di Concerto)",
       "year": "2010",
       "release_date": "2010-05-12",
@@ -6987,6 +6884,109 @@
           "number": 26,
           "name": "Cheek To Cheek (From \"Top Hat\")",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Aria: The Opera Album (Bonus Tracks Version)",
+      "year": "1998",
+      "release_date": "1998-04-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/83/27/a3/8327a3db-9e47-3157-35fd-3a575d853228/00028947572954.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rigoletto: Questa o quella",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "La bohème: Che gelida manina",
+          "duration": "4:20"
+        },
+        {
+          "number": 3,
+          "name": "Tosca: Recondita armonia",
+          "duration": "2:58"
+        },
+        {
+          "number": 4,
+          "name": "Tosca: E lucevan le stelle",
+          "duration": "2:52"
+        },
+        {
+          "number": 5,
+          "name": "Madama Butterfly: Addio, fiorito asil",
+          "duration": "1:51"
+        },
+        {
+          "number": 6,
+          "name": "Andrea Chénier: Come un bel dì di maggio",
+          "duration": "3:18"
+        },
+        {
+          "number": 7,
+          "name": "I Puritani: A te, o cara",
+          "duration": "3:06"
+        },
+        {
+          "number": 8,
+          "name": "Der Rosenkavalier, Op. 59: Di rigori armato il seno",
+          "duration": "2:10"
+        },
+        {
+          "number": 9,
+          "name": "Fedora: Amor ti vieta",
+          "duration": "1:52"
+        },
+        {
+          "number": 10,
+          "name": "La fanciulla del west: Ch'ella mi creda",
+          "duration": "2:01"
+        },
+        {
+          "number": 11,
+          "name": "La Gioconda: Cielo e mar",
+          "duration": "4:36"
+        },
+        {
+          "number": 12,
+          "name": "Adriana Lecouvreur: La dolcissima effigie",
+          "duration": "2:13"
+        },
+        {
+          "number": 13,
+          "name": "La bohème: Musetta! O gioia della mia dimora! - Testa adorata",
+          "duration": "3:07"
+        },
+        {
+          "number": 14,
+          "name": "Lucia di Lammermoor: Tombe degl'avi miei.Fra poco a me ricovero",
+          "duration": "6:53"
+        },
+        {
+          "number": 15,
+          "name": "Werther: Pourquoi me réveiller, ô souffle du printemps?",
+          "duration": "3:06"
+        },
+        {
+          "number": 16,
+          "name": "Carmen: La fleur que tu m'avais jetée",
+          "duration": "4:20"
+        },
+        {
+          "number": 17,
+          "name": "La fille du régiment: Pour mon âme quel destin",
+          "duration": "2:14"
+        },
+        {
+          "number": 18,
+          "name": "Il trovatore: Di quella pira",
+          "duration": "3:21"
+        },
+        {
+          "number": 19,
+          "name": "Les pêcheurs de perles: C'était le soir - Au fond du temple Saint",
+          "duration": "6:17"
         }
       ]
     },
@@ -7937,6 +7937,214 @@
       "tracks": []
     },
     {
+      "name": "Duets (30th Anniversary / Deluxe)",
+      "year": "2025",
+      "release_date": "2025-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/a5/76/5ca5768b-881f-bc2b-e483-5525a20a0398/24UM1IM23149.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Time To Say Goodbye",
+          "duration": "4:54"
+        },
+        {
+          "number": 1,
+          "name": "Dare To Live (Vivere)",
+          "duration": "4:19"
+        },
+        {
+          "number": 2,
+          "name": "Vivo Por Ella (feat. KAROL G)",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "Can't Help Falling In Love",
+          "duration": "3:22"
+        },
+        {
+          "number": 3,
+          "name": "Quizás, Quizás, Quizás",
+          "duration": "3:18"
+        },
+        {
+          "number": 3,
+          "name": "Hallelujah",
+          "duration": "4:28"
+        },
+        {
+          "number": 4,
+          "name": "Fall On Me",
+          "duration": "4:18"
+        },
+        {
+          "number": 4,
+          "name": "Amazing Grace (arr. Mercurio)",
+          "duration": "3:56"
+        },
+        {
+          "number": 5,
+          "name": "Perfect Symphony",
+          "duration": "4:27"
+        },
+        {
+          "number": 5,
+          "name": "Moon River (feat. Sofia Carson) [From \"Breakfast At Tiffany's\"]",
+          "duration": "3:50"
+        },
+        {
+          "number": 6,
+          "name": "Da Stanotte in Poi (From This Moment On)",
+          "duration": "3:57"
+        },
+        {
+          "number": 6,
+          "name": "Canto Della Terra (feat. Lauren Daigle)",
+          "duration": "4:01"
+        },
+        {
+          "number": 7,
+          "name": "Holding On (feat. Gwen Stefani)",
+          "duration": "4:03"
+        },
+        {
+          "number": 7,
+          "name": "La Voce Del Silenzio (feat. Marc Anthony)",
+          "duration": "4:00"
+        },
+        {
+          "number": 8,
+          "name": "Il Mare Calmo Della Sera (feat. Chris Stapleton)",
+          "duration": "4:35"
+        },
+        {
+          "number": 8,
+          "name": "Canzoni stonate (feat. Stevie Wonder)",
+          "duration": "5:25"
+        },
+        {
+          "number": 9,
+          "name": "The Prayer",
+          "duration": "4:28"
+        },
+        {
+          "number": 9,
+          "name": "Un Amore Così Grande",
+          "duration": "4:22"
+        },
+        {
+          "number": 10,
+          "name": "La vie en rose",
+          "duration": "3:08"
+        },
+        {
+          "number": 10,
+          "name": "Notte 'e piscatore (Live / 2024 Version)",
+          "duration": "5:05"
+        },
+        {
+          "number": 11,
+          "name": "E più ti penso (From \"Once Upon A Time In America\")",
+          "duration": "4:28"
+        },
+        {
+          "number": 11,
+          "name": "Io Ci Sarò",
+          "duration": "4:50"
+        },
+        {
+          "number": 12,
+          "name": "If Only (feat. Dua Lipa)",
+          "duration": "3:39"
+        },
+        {
+          "number": 12,
+          "name": "Pianissimo",
+          "duration": "4:30"
+        },
+        {
+          "number": 13,
+          "name": "Somos Novios",
+          "duration": "4:24"
+        },
+        {
+          "number": 13,
+          "name": "Les pêcheurs de perles, WD 13, Act I: Au fond du temple saint (Live At Central Park, New York / 2011)",
+          "duration": "5:59"
+        },
+        {
+          "number": 14,
+          "name": "Return To Love",
+          "duration": "4:33"
+        },
+        {
+          "number": 14,
+          "name": "Bambina Mia Ricordati (feat. Virginia Bocelli)",
+          "duration": "3:59"
+        },
+        {
+          "number": 15,
+          "name": "Rimani Qui (feat. Elisa)",
+          "duration": "3:23"
+        },
+        {
+          "number": 15,
+          "name": "What Child Is This (feat. Mary J. Blige)",
+          "duration": "4:31"
+        },
+        {
+          "number": 16,
+          "name": "Vivo per lei",
+          "duration": "4:24"
+        },
+        {
+          "number": 16,
+          "name": "L'Incontro (feat. Bono)",
+          "duration": "4:52"
+        },
+        {
+          "number": 17,
+          "name": "Mi manchi (feat. Kenny G)",
+          "duration": "3:37"
+        },
+        {
+          "number": 18,
+          "name": "I Believe (feat. Katherine Jenkins)",
+          "duration": "4:25"
+        },
+        {
+          "number": 19,
+          "name": "Corcovado / Quiet Nights Of Quiet Stars (feat. Nelly Furtado)",
+          "duration": "3:34"
+        },
+        {
+          "number": 20,
+          "name": "Canto Della Terra (feat. A-lin)",
+          "duration": "3:59"
+        },
+        {
+          "number": 21,
+          "name": "We Will Meet Once Again",
+          "duration": "3:55"
+        },
+        {
+          "number": 22,
+          "name": "Da Stanotte in Poi (From This Moment On) [Christmas version]",
+          "duration": "3:55"
+        },
+        {
+          "number": 23,
+          "name": "White Christmas",
+          "duration": "3:58"
+        },
+        {
+          "number": 24,
+          "name": "Je Vis Pour Elle",
+          "duration": "4:25"
+        }
+      ]
+    },
+    {
       "name": "Eberhard Schoener: Short Operas",
       "year": "1996",
       "release_date": "1996-09-06",
@@ -8644,19 +8852,6 @@
       ]
     },
     {
-      "name": "Time to Say Goodbye",
-      "year": "2024",
-      "release_date": "2024-03-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e1/68/08/e16808e2-8907-221e-d8d1-8e46e077684e/24UMGIM24436.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Time to Say Goodbye",
-          "duration": "4:54"
-        }
-      ]
-    },
-    {
       "name": "Fall on Me",
       "year": "2018",
       "release_date": "2018-09-20",
@@ -8681,6 +8876,19 @@
           "number": 4,
           "name": "Ven a Mi (Mix)",
           "duration": "3:54"
+        }
+      ]
+    },
+    {
+      "name": "Time to Say Goodbye",
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e1/68/08/e16808e2-8907-221e-d8d1-8e46e077684e/24UMGIM24436.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Time to Say Goodbye",
+          "duration": "4:54"
         }
       ]
     },
@@ -8716,19 +8924,6 @@
       ]
     },
     {
-      "name": "Who Wants To Live Forever (Live at “Teatro Del Silenzio” 2024, Tuscany)",
-      "year": "2025",
-      "release_date": "2025-08-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/d1/8d/34d18d64-231c-be12-b409-65b4bbaaa8a3/25UM1IM23669.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Who Wants To Live Forever (Live at “Teatro Del Silenzio” 2024, Tuscany)",
-          "duration": "5:55"
-        }
-      ]
-    },
-    {
       "name": "Amo Soltanto Te / This Is the Only Time (feat. Ed Sheeran)",
       "year": "2019",
       "release_date": "2019-02-22",
@@ -8743,6 +8938,19 @@
           "number": 2,
           "name": "This Is the Only Time (Radio Version)",
           "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Who Wants To Live Forever (Live at “Teatro Del Silenzio” 2024, Tuscany)",
+      "year": "2025",
+      "release_date": "2025-08-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/d1/8d/34d18d64-231c-be12-b409-65b4bbaaa8a3/25UM1IM23669.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Who Wants To Live Forever (Live at “Teatro Del Silenzio” 2024, Tuscany)",
+          "duration": "5:55"
         }
       ]
     },
@@ -8783,19 +8991,6 @@
       ]
     },
     {
-      "name": "Return To Love (Christmas Version)",
-      "year": "2019",
-      "release_date": "2019-12-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/89/e8/f789e869-fa60-91fe-8b4d-17fd3c01d26b/19UM1IM03861.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Return To Love (Christmas Version)",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
       "name": "The Blessing",
       "year": "2025",
       "release_date": "2025-11-07",
@@ -8805,6 +9000,19 @@
           "number": 1,
           "name": "The Blessing",
           "duration": "5:24"
+        }
+      ]
+    },
+    {
+      "name": "Return To Love (Christmas Version)",
+      "year": "2019",
+      "release_date": "2019-12-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f7/89/e8/f789e869-fa60-91fe-8b4d-17fd3c01d26b/19UM1IM03861.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Return To Love (Christmas Version)",
+          "duration": "3:26"
         }
       ]
     },
@@ -8983,19 +9191,6 @@
       ]
     },
     {
-      "name": "Time To Say Goodbye",
-      "year": "1996",
-      "release_date": "1996-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/94/7e/27947e52-6ed8-ac29-fee6-bc4f1d1546b8/25UM1IM86022.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Time To Say Goodbye",
-          "duration": "4:06"
-        }
-      ]
-    },
-    {
       "name": "Je Vis Pour Elle",
       "year": "2025",
       "release_date": "2025-02-14",
@@ -9005,6 +9200,19 @@
           "number": 1,
           "name": "Je Vis Pour Elle",
           "duration": "4:25"
+        }
+      ]
+    },
+    {
+      "name": "Time To Say Goodbye",
+      "year": "1995",
+      "release_date": "1995-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/94/7e/27947e52-6ed8-ac29-fee6-bc4f1d1546b8/25UM1IM86022.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Time To Say Goodbye",
+          "duration": "4:06"
         }
       ]
     },

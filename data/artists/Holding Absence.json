@@ -288,9 +288,85 @@
           "duration": "5:09"
         }
       ]
+    },
+    {
+      "name": "Modern Life Is Lonely",
+      "year": "2026",
+      "release_date": "2026-08-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/a2/ce/1aa2cedf-2da7-d26d-e95a-442c45fa3062/823375178903_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Reanimate",
+          "duration": "4:26"
+        },
+        {
+          "number": 2,
+          "name": "Reflection",
+          "duration": "3:43"
+        },
+        {
+          "number": 3,
+          "name": "Heaven",
+          "duration": "3:44"
+        },
+        {
+          "number": 4,
+          "name": "Modern Life Is Lonely",
+          "duration": "4:42"
+        },
+        {
+          "number": 5,
+          "name": "Take Me With You",
+          "duration": "4:14"
+        },
+        {
+          "number": 6,
+          "name": "shells_like_us.int",
+          "duration": "1:56"
+        },
+        {
+          "number": 7,
+          "name": "Whisper Of A Dream",
+          "duration": "4:24"
+        },
+        {
+          "number": 8,
+          "name": "Lucid Love",
+          "duration": "3:30"
+        },
+        {
+          "number": 9,
+          "name": "Scorched Earth",
+          "duration": "4:56"
+        },
+        {
+          "number": 10,
+          "name": "lullaby.int",
+          "duration": "1:20"
+        },
+        {
+          "number": 11,
+          "name": "Kyoto Snow",
+          "duration": "5:31"
+        }
+      ]
     }
   ],
   "singles": [
+    {
+      "name": "Whisper of a Dream",
+      "year": "2026",
+      "release_date": "2026-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/ef/d3/7aefd391-bb32-8de6-92b3-0b58c6200b37/823375080619_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Whisper of a Dream",
+          "duration": "4:24"
+        }
+      ]
+    },
     {
       "name": "Gravity",
       "year": "2020",
@@ -314,19 +390,6 @@
           "number": 1,
           "name": "Birdcage",
           "duration": "3:23"
-        }
-      ]
-    },
-    {
-      "name": "Whisper of a Dream",
-      "year": "2026",
-      "release_date": "2026-04-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/ef/d3/7aefd391-bb32-8de6-92b3-0b58c6200b37/823375080619_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Whisper of a Dream",
-          "duration": "4:24"
         }
       ]
     },
@@ -533,37 +596,27 @@
           "duration": "3:53"
         }
       ]
-    }
-  ],
-  "eps": [
+    },
     {
-      "name": "The Lost & The Longing",
-      "year": "2022",
-      "release_date": "2022-08-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/98/61/47/9861474a-f567-5413-0525-d29bd6de7999/cover.jpg/600x600bb.jpg",
+      "name": "Reflection",
+      "year": "2026",
+      "release_date": "2026-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/b3/67/5eb367bf-40bb-9e4e-9e50-c0b218f31d9a/823375166573_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "60cm Of Steel",
-          "duration": "3:30"
+          "name": "Reflection",
+          "duration": "3:43"
         },
         {
           "number": 2,
-          "name": "Hotel Underground",
-          "duration": "2:46"
-        },
-        {
-          "number": 3,
-          "name": "Aching Longing",
+          "name": "Whisper of a Dream",
           "duration": "4:24"
-        },
-        {
-          "number": 4,
-          "name": "Coffin",
-          "duration": "3:51"
         }
       ]
-    },
+    }
+  ],
+  "eps": [
     {
       "name": "This Is as One",
       "year": "2018",
@@ -589,6 +642,34 @@
           "number": 4,
           "name": "Everything",
           "duration": "4:15"
+        }
+      ]
+    },
+    {
+      "name": "The Lost & The Longing",
+      "year": "2022",
+      "release_date": "2022-08-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/98/61/47/9861474a-f567-5413-0525-d29bd6de7999/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "60cm Of Steel",
+          "duration": "3:30"
+        },
+        {
+          "number": 2,
+          "name": "Hotel Underground",
+          "duration": "2:46"
+        },
+        {
+          "number": 3,
+          "name": "Aching Longing",
+          "duration": "4:24"
+        },
+        {
+          "number": 4,
+          "name": "Coffin",
+          "duration": "3:51"
         }
       ]
     }

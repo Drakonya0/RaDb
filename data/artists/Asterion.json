@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Seul contre 99",
-      "year": "2026",
-      "release_date": "2026-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/a0/20/43a020e9-1735-921e-0564-8b2a64c6c12b/859733839469_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Seul contre 99",
-          "duration": "3:39"
-        }
-      ]
-    },
-    {
       "name": "Bannissons le punisseur",
       "year": "2025",
       "release_date": "2025-10-24",
@@ -30,15 +17,15 @@
       ]
     },
     {
-      "name": "Clown triste",
-      "year": "2025",
-      "release_date": "2025-09-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/a1/d5/0ba1d545-93ae-93b8-53d5-b8de9f6736cf/859715395389_cover.jpg/600x600bb.jpg",
+      "name": "Seul contre 99",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/a0/20/43a020e9-1735-921e-0564-8b2a64c6c12b/859733839469_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Clown triste",
-          "duration": "4:14"
+          "name": "Seul contre 99",
+          "duration": "3:39"
         }
       ]
     },
@@ -52,6 +39,19 @@
           "number": 1,
           "name": "2000 Km par Heure",
           "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Clown triste",
+      "year": "2025",
+      "release_date": "2025-09-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/a1/d5/0ba1d545-93ae-93b8-53d5-b8de9f6736cf/859715395389_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Clown triste",
+          "duration": "4:14"
         }
       ]
     },

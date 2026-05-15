@@ -2,7 +2,21 @@
   "name": "volkz",
   "id": 1814745655,
   "albums": [],
-  "singles": [],
+  "singles": [
+    {
+      "name": "Desfila",
+      "year": "2025",
+      "release_date": "2025-08-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/43/ba/cd43ba86-98cf-5b25-ba71-df79f8147fda/298109.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Desfila",
+          "duration": "2:14"
+        }
+      ]
+    }
+  ],
   "eps": [
     {
       "name": "SIN DRAMA",
@@ -33,39 +47,6 @@
         {
           "number": 5,
           "name": "SIN DRAMA (Sped Up)",
-          "duration": "1:34"
-        }
-      ]
-    },
-    {
-      "name": "Sin Drama",
-      "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/8f/6c/a38f6cb4-b9e7-f293-b8af-f87e6cd9e1cb/682106320628.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sin Drama",
-          "duration": "1:40"
-        },
-        {
-          "number": 2,
-          "name": "Sin Drama (Slowed)",
-          "duration": "1:52"
-        },
-        {
-          "number": 3,
-          "name": "Sin Drama (Super Slowed)",
-          "duration": "2:06"
-        },
-        {
-          "number": 4,
-          "name": "Sin Drama (Ultra Slowed)",
-          "duration": "2:21"
-        },
-        {
-          "number": 5,
-          "name": "Sin Drama (Sped Up)",
           "duration": "1:34"
         }
       ]
@@ -132,39 +113,6 @@
       ]
     },
     {
-      "name": "CANTA SEM PARA",
-      "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/77/81/0b778134-63f7-8c63-ec06-193f9e2b293a/98355.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CANTA SEM PARA",
-          "duration": "1:14"
-        },
-        {
-          "number": 2,
-          "name": "CANTA SEM PARA (Slowed)",
-          "duration": "1:23"
-        },
-        {
-          "number": 3,
-          "name": "CANTA SEM PARA (Super Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "CANTA SEM PARA (Ultra Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 5,
-          "name": "CANTA SEM PARA (Sped Up)",
-          "duration": "1:10"
-        }
-      ]
-    },
-    {
       "name": "BRISA DO MAR",
       "year": "2025",
       "release_date": "2025-05-08",
@@ -198,30 +146,63 @@
       ]
     },
     {
-      "name": "Montagem Mandela",
+      "name": "MONTAGEM MANDELA",
       "year": "2025",
       "release_date": "2025-07-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/1f/d3/ec1fd378-a2b4-54a7-6a91-5635aa131b99/682106682498.png/600x600bb.jpg",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/9f/16/5f9f160f-3343-d7ce-993c-70da6d8abe42/1045435.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Montagem Mandela",
+          "name": "MONTAGEM MANDELA",
           "duration": "1:29"
         },
         {
           "number": 2,
-          "name": "Montagem Mandela (Slowed)",
+          "name": "MONTAGEM MANDELA (Slowed)",
           "duration": "1:40"
         },
         {
           "number": 3,
-          "name": "Montagem Mandela (Super Slowed)",
+          "name": "MONTAGEM MANDELA (Super Slowed)",
           "duration": "1:52"
         },
         {
           "number": 4,
-          "name": "Montagem Mandela (Sped Up)",
+          "name": "MONTAGEM MANDELA (Sped Up)",
           "duration": "1:19"
+        }
+      ]
+    },
+    {
+      "name": "CANTA SEM PARA",
+      "year": "2025",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/77/81/0b778134-63f7-8c63-ec06-193f9e2b293a/98355.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CANTA SEM PARA",
+          "duration": "1:14"
+        },
+        {
+          "number": 2,
+          "name": "CANTA SEM PARA (Slowed)",
+          "duration": "1:23"
+        },
+        {
+          "number": 3,
+          "name": "CANTA SEM PARA (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "CANTA SEM PARA (Ultra Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 5,
+          "name": "CANTA SEM PARA (Sped Up)",
+          "duration": "1:10"
         }
       ]
     },
@@ -254,67 +235,6 @@
         {
           "number": 5,
           "name": "CANTA SEM PARA (Sped Up)",
-          "duration": "1:10"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM MANDELA",
-      "year": "2025",
-      "release_date": "2025-07-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/9f/16/5f9f160f-3343-d7ce-993c-70da6d8abe42/1045435.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM MANDELA",
-          "duration": "1:29"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM MANDELA (Slowed)",
-          "duration": "1:40"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM MANDELA (Super Slowed)",
-          "duration": "1:52"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM MANDELA (Sped Up)",
-          "duration": "1:19"
-        }
-      ]
-    },
-    {
-      "name": "Canta Sem Para",
-      "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/0c/d0/170cd044-b194-5230-932a-3b1a26c56942/619566246625.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Canta Sem Para",
-          "duration": "1:14"
-        },
-        {
-          "number": 2,
-          "name": "Canta Sem Para (Slowed)",
-          "duration": "1:23"
-        },
-        {
-          "number": 3,
-          "name": "Canta Sem Para (Super Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "Canta Sem Para (Ultra Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 5,
-          "name": "Canta Sem Para (Sped Up)",
           "duration": "1:10"
         }
       ]

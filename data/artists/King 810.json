@@ -3,79 +3,6 @@
   "id": 535492114,
   "albums": [
     {
-      "name": "La Petite Mort or a Conversation with God",
-      "year": "2016",
-      "release_date": "2016-09-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/49/68/8d/49688d4b-3241-505f-09d2-3d925709b52d/016861748432.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Heavy Lies the Crown",
-          "duration": "2:19"
-        },
-        {
-          "number": 2,
-          "name": "Alpha & Omega",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Give My People Back",
-          "duration": "4:38"
-        },
-        {
-          "number": 4,
-          "name": "Vendettas",
-          "duration": "3:03"
-        },
-        {
-          "number": 5,
-          "name": "Black Swan",
-          "duration": "4:11"
-        },
-        {
-          "number": 6,
-          "name": "The Trauma Model",
-          "duration": "4:03"
-        },
-        {
-          "number": 7,
-          "name": "La Petite Mort",
-          "duration": "7:58"
-        },
-        {
-          "number": 8,
-          "name": "I Ain't Goin Back Again",
-          "duration": "5:16"
-        },
-        {
-          "number": 9,
-          "name": "War Time (feat. Trick Trick)",
-          "duration": "4:09"
-        },
-        {
-          "number": 10,
-          "name": "Life's Not Enough",
-          "duration": "6:27"
-        },
-        {
-          "number": 11,
-          "name": "Me & Maxine",
-          "duration": "4:42"
-        },
-        {
-          "number": 12,
-          "name": "Wolves Run Together",
-          "duration": "6:34"
-        },
-        {
-          "number": 13,
-          "name": "A Conversation with God",
-          "duration": "4:32"
-        }
-      ]
-    },
-    {
       "name": "Memoirs of a Murderer",
       "year": "2014",
       "release_date": "2014-08-15",
@@ -160,6 +87,79 @@
           "number": 16,
           "name": "State of Nature",
           "duration": "5:03"
+        }
+      ]
+    },
+    {
+      "name": "La Petite Mort or a Conversation with God",
+      "year": "2016",
+      "release_date": "2016-09-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/49/68/8d/49688d4b-3241-505f-09d2-3d925709b52d/016861748432.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Heavy Lies the Crown",
+          "duration": "2:19"
+        },
+        {
+          "number": 2,
+          "name": "Alpha & Omega",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Give My People Back",
+          "duration": "4:38"
+        },
+        {
+          "number": 4,
+          "name": "Vendettas",
+          "duration": "3:03"
+        },
+        {
+          "number": 5,
+          "name": "Black Swan",
+          "duration": "4:11"
+        },
+        {
+          "number": 6,
+          "name": "The Trauma Model",
+          "duration": "4:03"
+        },
+        {
+          "number": 7,
+          "name": "La Petite Mort",
+          "duration": "7:58"
+        },
+        {
+          "number": 8,
+          "name": "I Ain't Goin Back Again",
+          "duration": "5:16"
+        },
+        {
+          "number": 9,
+          "name": "War Time (feat. Trick Trick)",
+          "duration": "4:09"
+        },
+        {
+          "number": 10,
+          "name": "Life's Not Enough",
+          "duration": "6:27"
+        },
+        {
+          "number": 11,
+          "name": "Me & Maxine",
+          "duration": "4:42"
+        },
+        {
+          "number": 12,
+          "name": "Wolves Run Together",
+          "duration": "6:34"
+        },
+        {
+          "number": 13,
+          "name": "A Conversation with God",
+          "duration": "4:32"
         }
       ]
     },
@@ -735,32 +735,6 @@
       ]
     },
     {
-      "name": "Generation Pain",
-      "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/e7/ea/6ae7ea18-d928-47bd-64ce-21e569350d9a/199257943762_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Generation Pain",
-          "duration": "3:25"
-        }
-      ]
-    },
-    {
-      "name": "Sugar (Cover)",
-      "year": "2026",
-      "release_date": "2026-05-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/c2/f6/87c2f696-9d0c-6f12-cc41-c17c8c70ea11/824296469002_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sugar (Cover)",
-          "duration": "3:11"
-        }
-      ]
-    },
-    {
       "name": "Rustbelt Numetal",
       "year": "2025",
       "release_date": "2025-04-25",
@@ -770,6 +744,19 @@
           "number": 1,
           "name": "Rustbelt Numetal",
           "duration": "2:34"
+        }
+      ]
+    },
+    {
+      "name": "Generation Pain",
+      "year": "2025",
+      "release_date": "2025-07-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/e7/ea/6ae7ea18-d928-47bd-64ce-21e569350d9a/199257943762_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Generation Pain",
+          "duration": "3:25"
         }
       ]
     },
@@ -852,15 +839,15 @@
       ]
     },
     {
-      "name": "Demons Wanna Be Summoned",
+      "name": "Sugar (Cover)",
       "year": "2026",
-      "release_date": "2026-04-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/d0/b4/bed0b432-aa5e-e82e-55c5-0f636df00570/cover.jpg/600x600bb.jpg",
+      "release_date": "2026-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/c2/f6/87c2f696-9d0c-6f12-cc41-c17c8c70ea11/824296469002_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Demons Wanna Be Summoned",
-          "duration": "4:21"
+          "name": "Sugar (Cover)",
+          "duration": "3:11"
         }
       ]
     },
@@ -926,6 +913,19 @@
           "number": 1,
           "name": "Black Doves",
           "duration": "3:32"
+        }
+      ]
+    },
+    {
+      "name": "Demons Wanna Be Summoned",
+      "year": "2026",
+      "release_date": "2026-04-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/d0/b4/bed0b432-aa5e-e82e-55c5-0f636df00570/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Demons Wanna Be Summoned",
+          "duration": "4:21"
         }
       ]
     },

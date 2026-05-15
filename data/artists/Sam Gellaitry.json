@@ -231,19 +231,6 @@
   ],
   "singles": [
     {
-      "name": "Picture in my mind",
-      "year": "2022",
-      "release_date": "2022-08-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/88/bc/3c88bc6a-3d35-4146-6c86-1cc61185b367/5054197261572.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Picture in my mind",
-          "duration": "2:56"
-        }
-      ]
-    },
-    {
       "name": "Assumptions (slowed down version)",
       "year": "2022",
       "release_date": "2022-11-25",
@@ -253,6 +240,19 @@
           "number": 1,
           "name": "Assumptions (slowed down version)",
           "duration": "4:38"
+        }
+      ]
+    },
+    {
+      "name": "Picture in my mind",
+      "year": "2022",
+      "release_date": "2022-08-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/88/bc/3c88bc6a-3d35-4146-6c86-1cc61185b367/5054197261572.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Picture in my mind",
+          "duration": "2:56"
         }
       ]
     },
@@ -443,6 +443,34 @@
   ],
   "eps": [
     {
+      "name": "IV",
+      "year": "2021",
+      "release_date": "2021-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/95/ab/5b/95ab5bbb-d9a6-bbf0-a35a-4f3a87446e5b/190296739071.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A New Dawn",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Duo",
+          "duration": "2:06"
+        },
+        {
+          "number": 3,
+          "name": "Games",
+          "duration": "3:51"
+        },
+        {
+          "number": 4,
+          "name": "Assumptions",
+          "duration": "3:40"
+        }
+      ]
+    },
+    {
       "name": "Escapism",
       "year": "2015",
       "release_date": "2015-11-30",
@@ -505,34 +533,6 @@
           "number": 5,
           "name": "Odyssey",
           "duration": "5:00"
-        }
-      ]
-    },
-    {
-      "name": "IV",
-      "year": "2021",
-      "release_date": "2021-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/95/ab/5b/95ab5bbb-d9a6-bbf0-a35a-4f3a87446e5b/190296739071.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A New Dawn",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Duo",
-          "duration": "2:06"
-        },
-        {
-          "number": 3,
-          "name": "Games",
-          "duration": "3:51"
-        },
-        {
-          "number": 4,
-          "name": "Assumptions",
-          "duration": "3:40"
         }
       ]
     },

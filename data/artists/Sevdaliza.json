@@ -86,79 +86,6 @@
       ]
     },
     {
-      "name": "HEROINA",
-      "year": "2025",
-      "release_date": "2025-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/11/29/94112927-c92a-611d-337f-0d1951ec7738/270.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro",
-          "duration": "1:18"
-        },
-        {
-          "number": 2,
-          "name": "On My Own",
-          "duration": "2:36"
-        },
-        {
-          "number": 3,
-          "name": "Heroina",
-          "duration": "2:23"
-        },
-        {
-          "number": 4,
-          "name": "Alibi",
-          "duration": "2:41"
-        },
-        {
-          "number": 5,
-          "name": "Ride or Die, Pt. 2",
-          "duration": "2:38"
-        },
-        {
-          "number": 6,
-          "name": "Messiah",
-          "duration": "2:56"
-        },
-        {
-          "number": 7,
-          "name": "No Me Cansare",
-          "duration": "2:42"
-        },
-        {
-          "number": 8,
-          "name": "Stripper",
-          "duration": "2:46"
-        },
-        {
-          "number": 9,
-          "name": "Maria Magdalena",
-          "duration": "2:36"
-        },
-        {
-          "number": 10,
-          "name": "Oxytocina",
-          "duration": "2:46"
-        },
-        {
-          "number": 11,
-          "name": "Strong Because You Are",
-          "duration": "2:40"
-        },
-        {
-          "number": 12,
-          "name": "Postergirl",
-          "duration": "2:48"
-        },
-        {
-          "number": 13,
-          "name": "Angel",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "Ison",
       "year": "2017",
       "release_date": "2017-04-26",
@@ -248,6 +175,79 @@
           "number": 17,
           "name": "Hear My Pain Heal",
           "duration": "3:57"
+        }
+      ]
+    },
+    {
+      "name": "HEROINA",
+      "year": "2025",
+      "release_date": "2025-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/11/29/94112927-c92a-611d-337f-0d1951ec7738/270.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro",
+          "duration": "1:18"
+        },
+        {
+          "number": 2,
+          "name": "On My Own",
+          "duration": "2:36"
+        },
+        {
+          "number": 3,
+          "name": "Heroina",
+          "duration": "2:23"
+        },
+        {
+          "number": 4,
+          "name": "Alibi",
+          "duration": "2:41"
+        },
+        {
+          "number": 5,
+          "name": "Ride or Die, Pt. 2",
+          "duration": "2:38"
+        },
+        {
+          "number": 6,
+          "name": "Messiah",
+          "duration": "2:56"
+        },
+        {
+          "number": 7,
+          "name": "No Me Cansare",
+          "duration": "2:42"
+        },
+        {
+          "number": 8,
+          "name": "Stripper",
+          "duration": "2:46"
+        },
+        {
+          "number": 9,
+          "name": "Maria Magdalena",
+          "duration": "2:36"
+        },
+        {
+          "number": 10,
+          "name": "Oxytocina",
+          "duration": "2:46"
+        },
+        {
+          "number": 11,
+          "name": "Strong Because You Are",
+          "duration": "2:40"
+        },
+        {
+          "number": 12,
+          "name": "Postergirl",
+          "duration": "2:48"
+        },
+        {
+          "number": 13,
+          "name": "Angel",
+          "duration": "3:06"
         }
       ]
     },
@@ -395,19 +395,6 @@
     {
       "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
       "year": "2024",
-      "release_date": "2024-05-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/d4/8d/ddd48d17-9ea1-e8d4-6d1e-6c751aa02176/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
-          "duration": "2:38"
-        }
-      ]
-    },
-    {
-      "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
-      "year": "2024",
       "release_date": "2024-04-18",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/73/f7/e373f7db-c439-e620-9daa-d81eeb429fb6/cover.jpg/600x600bb.jpg",
       "tracks": [
@@ -437,6 +424,19 @@
       ]
     },
     {
+      "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
+      "year": "2024",
+      "release_date": "2024-05-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/d4/8d/ddd48d17-9ea1-e8d4-6d1e-6c751aa02176/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ride Or Die, Pt. 2 (feat. Villano Antillano & Tokischa)",
+          "duration": "2:38"
+        }
+      ]
+    },
+    {
       "name": "Nothing Lasts Forever",
       "year": "2023",
       "release_date": "2023-11-03",
@@ -446,19 +446,6 @@
           "number": 1,
           "name": "Nothing Lasts Forever",
           "duration": "3:19"
-        }
-      ]
-    },
-    {
-      "name": "Stripper",
-      "year": "2025",
-      "release_date": "2025-10-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/fb/02/54fb02f2-4593-f5fb-835f-7ff17f8b12d3/663918527719.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stripper",
-          "duration": "2:46"
         }
       ]
     },
@@ -526,6 +513,19 @@
           "number": 1,
           "name": "Human",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Stripper",
+      "year": "2025",
+      "release_date": "2025-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/fb/02/54fb02f2-4593-f5fb-835f-7ff17f8b12d3/663918527719.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stripper",
+          "duration": "2:46"
         }
       ]
     },
@@ -834,6 +834,19 @@
       ]
     },
     {
+      "name": "Gole Bi Goldoon - A COLORS SHOW",
+      "year": "2020",
+      "release_date": "2020-10-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/54/36/38543682-e543-5155-23d5-00700cc516b0/840054901508.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gole Bi Goldoon - A COLORS SHOW",
+          "duration": "4:41"
+        }
+      ]
+    },
+    {
       "name": "Dormant - A COLORS ENCORE",
       "year": "2020",
       "release_date": "2020-10-16",
@@ -846,19 +859,6 @@
         },
         {
           "number": 2,
-          "name": "Gole Bi Goldoon - A COLORS SHOW",
-          "duration": "4:41"
-        }
-      ]
-    },
-    {
-      "name": "Gole Bi Goldoon - A COLORS SHOW",
-      "year": "2020",
-      "release_date": "2020-10-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/54/36/38543682-e543-5155-23d5-00700cc516b0/840054901508.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
           "name": "Gole Bi Goldoon - A COLORS SHOW",
           "duration": "4:41"
         }

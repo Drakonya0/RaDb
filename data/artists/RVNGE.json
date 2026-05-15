@@ -56,19 +56,6 @@
       ]
     },
     {
-      "name": "LET'S PLAY TOGETHER",
-      "year": "2025",
-      "release_date": "2025-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/1e/52/431e5278-135a-619e-6f79-635899c93a52/674053181551_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LET'S PLAY TOGETHER",
-          "duration": "3:08"
-        }
-      ]
-    },
-    {
       "name": "QUE SE",
       "year": "2025",
       "release_date": "2025-09-15",
@@ -78,6 +65,19 @@
           "number": 1,
           "name": "QUE SE",
           "duration": "1:40"
+        }
+      ]
+    },
+    {
+      "name": "LET'S PLAY TOGETHER",
+      "year": "2025",
+      "release_date": "2025-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/1e/52/431e5278-135a-619e-6f79-635899c93a52/674053181551_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LET'S PLAY TOGETHER",
+          "duration": "3:08"
         }
       ]
     },
@@ -96,6 +96,19 @@
           "number": 2,
           "name": "Noche Eterna (Remixes) [Slowed To Perfection + Reverb]",
           "duration": "1:55"
+        }
+      ]
+    },
+    {
+      "name": "I AM YOUR GOD",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/e6/ec/66e6ec12-acc4-cd4f-219e-b2d049ef6e5a/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I AM YOUR GOD",
+          "duration": "3:30"
         }
       ]
     },
@@ -119,6 +132,39 @@
     }
   ],
   "eps": [
+    {
+      "name": "SENTA PICA",
+      "year": "2025",
+      "release_date": "2025-08-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/cc/28/d6cc28ab-a2d5-c199-7755-58b4aa4130ce/290209.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SENTA PICA",
+          "duration": "1:40"
+        },
+        {
+          "number": 2,
+          "name": "SENTA PICA (Slowed)",
+          "duration": "1:58"
+        },
+        {
+          "number": 3,
+          "name": "SENTA PICA (Super Slowed)",
+          "duration": "2:13"
+        },
+        {
+          "number": 4,
+          "name": "SENTA PICA (Ultra Slowed)",
+          "duration": "2:34"
+        },
+        {
+          "number": 5,
+          "name": "SENTA PICA (Speed Up)",
+          "duration": "1:31"
+        }
+      ]
+    },
     {
       "name": "MONTAGEM RADIANTE",
       "year": "2025",
@@ -346,39 +392,6 @@
       ]
     },
     {
-      "name": "Espirito Eterna",
-      "year": "2025",
-      "release_date": "2025-06-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/3a/71/423a716b-cf39-430a-fbe3-0f65c9027af7/009392775503.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Espirito Eterna",
-          "duration": "1:27"
-        },
-        {
-          "number": 2,
-          "name": "Espirito Eterna (Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 3,
-          "name": "Espirito Eterna (Super Slowed)",
-          "duration": "1:42"
-        },
-        {
-          "number": 4,
-          "name": "Espirito Eterna (Ultra Slowed)",
-          "duration": "1:48"
-        },
-        {
-          "number": 5,
-          "name": "Espirito Eterna (Sped Up)",
-          "duration": "1:20"
-        }
-      ]
-    },
-    {
       "name": "LUA ESTRADA",
       "year": "2026",
       "release_date": "2026-03-06",
@@ -408,6 +421,34 @@
           "number": 5,
           "name": "LUA ESTRADA (Sped Up)",
           "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "FUNK DO SUSPECT",
+      "year": "2025",
+      "release_date": "2025-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/ed/90/44ed9001-d66e-cc4c-6e8d-f73eadd22646/2153629.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FUNK DO SUSPECT",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "FUNK DO SUSPECT (Slowed)",
+          "duration": "1:39"
+        },
+        {
+          "number": 3,
+          "name": "FUNK DO SUSPECT (Super Slowed)",
+          "duration": "1:52"
+        },
+        {
+          "number": 4,
+          "name": "FUNK DO SUSPECT (Ultra Slowed)",
+          "duration": "2:05"
         }
       ]
     },
@@ -771,39 +812,6 @@
           "number": 5,
           "name": "RITMO MIRA (Sped Up)",
           "duration": "1:43"
-        }
-      ]
-    },
-    {
-      "name": "Luz Pulsante",
-      "year": "2025",
-      "release_date": "2025-11-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/8d/f9/758df924-a65a-a245-eebb-24638b5a695a/698308201610.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Luz Pulsante",
-          "duration": "1:29"
-        },
-        {
-          "number": 2,
-          "name": "Luz Pulsante (Slowed)",
-          "duration": "1:33"
-        },
-        {
-          "number": 3,
-          "name": "Luz Pulsante (Super Slowed)",
-          "duration": "1:38"
-        },
-        {
-          "number": 4,
-          "name": "Luz Pulsante (Ultra Slowed)",
-          "duration": "1:46"
-        },
-        {
-          "number": 5,
-          "name": "Luz Pulsante (Sped Up)",
-          "duration": "1:24"
         }
       ]
     },
@@ -1345,6 +1353,44 @@
           "number": 5,
           "name": "Montagem Nada (Sped Up)",
           "duration": "1:25"
+        }
+      ]
+    },
+    {
+      "name": "MISTÉRIO",
+      "year": "2026",
+      "release_date": "2026-03-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/11/ea/e811eabe-d4d1-cc5b-a95f-ca766da884c4/1233520.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MISTÉRIO",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "MISTÉRIO (Slowed)",
+          "duration": "1:30"
+        },
+        {
+          "number": 3,
+          "name": "MISTÉRIO (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "MISTÉRIO (Ultra Slowed)",
+          "duration": "1:37"
+        },
+        {
+          "number": 5,
+          "name": "MISTÉRIO (Extremely Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 6,
+          "name": "MISTÉRIO (Sped Up)",
+          "duration": "1:21"
         }
       ]
     },

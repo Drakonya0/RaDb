@@ -3,6 +3,69 @@
   "id": 1038708870,
   "albums": [
     {
+      "name": "Where the Shadow Ends",
+      "year": "2019",
+      "release_date": "2019-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/37/af/ee37afe8-eac8-7998-b71c-c2406510d230/19UMGIM78743.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro",
+          "duration": "0:48"
+        },
+        {
+          "number": 2,
+          "name": "Rule the World",
+          "duration": "3:32"
+        },
+        {
+          "number": 3,
+          "name": "Supercollide",
+          "duration": "3:34"
+        },
+        {
+          "number": 4,
+          "name": "Got It In You",
+          "duration": "3:41"
+        },
+        {
+          "number": 5,
+          "name": "No One Knows Us (feat. Carly Paige)",
+          "duration": "3:15"
+        },
+        {
+          "number": 6,
+          "name": "Where the Shadow Ends",
+          "duration": "4:17"
+        },
+        {
+          "number": 7,
+          "name": "Light Up",
+          "duration": "3:24"
+        },
+        {
+          "number": 8,
+          "name": "Wild Love",
+          "duration": "3:11"
+        },
+        {
+          "number": 9,
+          "name": "Safe",
+          "duration": "3:06"
+        },
+        {
+          "number": 10,
+          "name": "Too Soon",
+          "duration": "3:36"
+        },
+        {
+          "number": 11,
+          "name": "Heads and Tails",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
       "name": "Where The Shadow Ends",
       "year": "2020",
       "release_date": "2020-07-24",
@@ -66,69 +129,6 @@
         {
           "number": 12,
           "name": "Heads And Tails",
-          "duration": "3:46"
-        }
-      ]
-    },
-    {
-      "name": "Where the Shadow Ends",
-      "year": "2019",
-      "release_date": "2019-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/37/af/ee37afe8-eac8-7998-b71c-c2406510d230/19UMGIM78743.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro",
-          "duration": "0:48"
-        },
-        {
-          "number": 2,
-          "name": "Rule the World",
-          "duration": "3:32"
-        },
-        {
-          "number": 3,
-          "name": "Supercollide",
-          "duration": "3:34"
-        },
-        {
-          "number": 4,
-          "name": "Got It In You",
-          "duration": "3:41"
-        },
-        {
-          "number": 5,
-          "name": "No One Knows Us (feat. Carly Paige)",
-          "duration": "3:15"
-        },
-        {
-          "number": 6,
-          "name": "Where the Shadow Ends",
-          "duration": "4:17"
-        },
-        {
-          "number": 7,
-          "name": "Light Up",
-          "duration": "3:24"
-        },
-        {
-          "number": 8,
-          "name": "Wild Love",
-          "duration": "3:11"
-        },
-        {
-          "number": 9,
-          "name": "Safe",
-          "duration": "3:06"
-        },
-        {
-          "number": 10,
-          "name": "Too Soon",
-          "duration": "3:36"
-        },
-        {
-          "number": 11,
-          "name": "Heads and Tails",
           "duration": "3:46"
         }
       ]
@@ -365,19 +365,6 @@
   ],
   "singles": [
     {
-      "name": "Half Light",
-      "year": "2016",
-      "release_date": "2016-05-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/91/b5/f891b5eb-1d1f-16cf-2c7f-a74a127ae176/00602547806987.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Half Light",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "Got It In You (Acoustic)",
       "year": "2019",
       "release_date": "2019-02-28",
@@ -387,6 +374,19 @@
           "number": 1,
           "name": "Got It In You (Acoustic)",
           "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "Half Light",
+      "year": "2016",
+      "release_date": "2016-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/91/b5/f891b5eb-1d1f-16cf-2c7f-a74a127ae176/00602547806987.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Half Light",
+          "duration": "3:05"
         }
       ]
     },
@@ -466,19 +466,6 @@
           "number": 1,
           "name": "Perfectly Broken",
           "duration": "3:08"
-        }
-      ]
-    },
-    {
-      "name": "Submarine",
-      "year": "2023",
-      "release_date": "2023-03-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/a5/c6/d9a5c6cb-54bf-bfcc-83d1-5143b022bbad/23SYMIM02887.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Submarine",
-          "duration": "3:23"
         }
       ]
     },
@@ -704,6 +691,19 @@
           "number": 1,
           "name": "C'est La Vie",
           "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "name": "Submarine",
+      "year": "2023",
+      "release_date": "2023-03-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/a5/c6/d9a5c6cb-54bf-bfcc-83d1-5143b022bbad/23SYMIM02887.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Submarine",
+          "duration": "3:23"
         }
       ]
     },

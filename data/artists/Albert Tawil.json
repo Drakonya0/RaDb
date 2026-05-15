@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Sapiens",
-      "year": "2021",
-      "release_date": "2021-01-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/96/21/94/96219427-4a3e-c312-f56a-e7e038574ca1/859744194953_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sapiens",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
       "name": "Origines",
       "year": "2024",
       "release_date": "2024-10-18",
@@ -56,19 +43,6 @@
       ]
     },
     {
-      "name": "Je t'aime +",
-      "year": "2025",
-      "release_date": "2025-05-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/f4/b3/bdf4b322-fedb-a456-5562-923ab5669a41/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Je t'aime +",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
       "name": "Sabry Aalil - Cover",
       "year": "2025",
       "release_date": "2025-09-10",
@@ -78,6 +52,19 @@
           "number": 1,
           "name": "Sabry Aalil - Cover",
           "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "Je t'aime +",
+      "year": "2025",
+      "release_date": "2025-05-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/f4/b3/bdf4b322-fedb-a456-5562-923ab5669a41/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Je t'aime +",
+          "duration": "3:03"
         }
       ]
     },
@@ -134,19 +121,6 @@
       ]
     },
     {
-      "name": "Deg",
-      "year": "2022",
-      "release_date": "2022-09-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/14/614914bf-bbdd-ddf5-a52e-fd6c0ad2148a/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Deg",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "Je t'aime +",
       "year": "2025",
       "release_date": "2025-05-02",
@@ -156,6 +130,19 @@
           "number": 1,
           "name": "Je t'aime +",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Deg",
+      "year": "2022",
+      "release_date": "2022-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/14/614914bf-bbdd-ddf5-a52e-fd6c0ad2148a/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Deg",
+          "duration": "3:30"
         }
       ]
     },
@@ -238,19 +225,6 @@
       ]
     },
     {
-      "name": "Semblant",
-      "year": "2024",
-      "release_date": "2024-12-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/53/a8/be53a868-af89-f7b7-aa9a-a895cf9dd6e5/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Semblant",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "Par cœur",
       "year": "2025",
       "release_date": "2025-03-21",
@@ -260,6 +234,19 @@
           "number": 1,
           "name": "Par cœur",
           "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "Semblant",
+      "year": "2024",
+      "release_date": "2024-12-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/53/a8/be53a868-af89-f7b7-aa9a-a895cf9dd6e5/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Semblant",
+          "duration": "3:30"
         }
       ]
     },
@@ -485,19 +472,6 @@
       ]
     },
     {
-      "name": "Matuvu",
-      "year": "2021",
-      "release_date": "2021-04-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/5f/5c/405f5c68-de13-b677-210d-63f96b320621/820233084208.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Matuvu",
-          "duration": "2:50"
-        }
-      ]
-    },
-    {
       "name": "Parce que je t'aime",
       "year": "2024",
       "release_date": "2024-06-28",
@@ -507,6 +481,19 @@
           "number": 1,
           "name": "Parce que je t'aime",
           "duration": "2:39"
+        }
+      ]
+    },
+    {
+      "name": "Matuvu",
+      "year": "2021",
+      "release_date": "2021-04-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/5f/5c/405f5c68-de13-b677-210d-63f96b320621/820233084208.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Matuvu",
+          "duration": "2:50"
         }
       ]
     },
@@ -641,19 +628,6 @@
       ]
     },
     {
-      "name": "L'oseille",
-      "year": "2022",
-      "release_date": "2022-04-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/16/e7/ed16e7cf-26b9-63f6-b13b-f7480eed68b4/820233045445.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "L'oseille",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
       "name": "Paris-Dubaï",
       "year": "2025",
       "release_date": "2025-01-10",
@@ -663,6 +637,19 @@
           "number": 1,
           "name": "Paris-Dubaï",
           "duration": "3:10"
+        }
+      ]
+    },
+    {
+      "name": "L'oseille",
+      "year": "2022",
+      "release_date": "2022-04-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/16/e7/ed16e7cf-26b9-63f6-b13b-f7480eed68b4/820233045445.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "L'oseille",
+          "duration": "3:00"
         }
       ]
     },

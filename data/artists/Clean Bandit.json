@@ -572,25 +572,41 @@
   ],
   "singles": [
     {
-      "name": "Real Love (Remixes)",
-      "year": "2015",
-      "release_date": "2015-01-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/7c/d1/6a/7cd16a26-97aa-0206-d6d7-e3f2823853f7/825646152780.jpg/600x600bb.jpg",
+      "name": "Disconnect",
+      "year": "2017",
+      "release_date": "2017-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/86/60/08/8660088c-09ea-5cde-bf4f-9087280fa642/190295775094.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Real Love (The Chainsmokers Remix)",
-          "duration": "4:52"
-        },
+          "name": "Disconnect",
+          "duration": "4:12"
+        }
+      ]
+    },
+    {
+      "name": "Rockabye (feat. Sean Paul & Anne-Marie) [Autograf Remix]",
+      "year": "2017",
+      "release_date": "2017-01-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/17/ad/8f/17ad8f52-e9e5-2858-464b-a40e1b84070b/190295859138.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 2,
-          "name": "Real Love (Judah Remix)",
-          "duration": "5:52"
-        },
+          "number": 1,
+          "name": "Rockabye (feat. Sean Paul & Anne-Marie) [Autograf Remix]",
+          "duration": "4:09"
+        }
+      ]
+    },
+    {
+      "name": "Tick Tock (feat. 24kGoldn)",
+      "year": "2020",
+      "release_date": "2020-08-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/10/5f/0c105f70-0323-9a97-b677-f31e944fdf56/190295166038.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 3,
-          "name": "Real Love (Danny Verde Remix)",
-          "duration": "6:54"
+          "number": 1,
+          "name": "Tick Tock (feat. 24kGoldn)",
+          "duration": "2:58"
         }
       ]
     },
@@ -618,19 +634,6 @@
       ]
     },
     {
-      "name": "Disconnect",
-      "year": "2017",
-      "release_date": "2017-06-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/86/60/08/8660088c-09ea-5cde-bf4f-9087280fa642/190295775094.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Disconnect",
-          "duration": "4:12"
-        }
-      ]
-    },
-    {
       "name": "Symphony (feat. Zara Larsson) [Alternative Version]",
       "year": "2017",
       "release_date": "2017-03-16",
@@ -644,15 +647,25 @@
       ]
     },
     {
-      "name": "Real Love (Dave Winnel Remix)",
+      "name": "Real Love (Remixes)",
       "year": "2015",
-      "release_date": "2015-04-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/30/39/72/303972fc-232c-727b-7235-90ff57cd55d1/825646108558.jpg/600x600bb.jpg",
+      "release_date": "2015-01-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/7c/d1/6a/7cd16a26-97aa-0206-d6d7-e3f2823853f7/825646152780.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Real Love (Dave Winnel Remix)",
-          "duration": "4:01"
+          "name": "Real Love (The Chainsmokers Remix)",
+          "duration": "4:52"
+        },
+        {
+          "number": 2,
+          "name": "Real Love (Judah Remix)",
+          "duration": "5:52"
+        },
+        {
+          "number": 3,
+          "name": "Real Love (Danny Verde Remix)",
+          "duration": "6:54"
         }
       ]
     },
@@ -670,19 +683,6 @@
       ]
     },
     {
-      "name": "Rockabye (feat. Sean Paul & Anne-Marie) [Autograf Remix]",
-      "year": "2017",
-      "release_date": "2017-01-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music91/v4/17/ad/8f/17ad8f52-e9e5-2858-464b-a40e1b84070b/190295859138.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rockabye (feat. Sean Paul & Anne-Marie) [Autograf Remix]",
-          "duration": "4:09"
-        }
-      ]
-    },
-    {
       "name": "How Will I Know",
       "year": "2021",
       "release_date": "2021-09-24",
@@ -692,19 +692,6 @@
           "number": 1,
           "name": "How Will I Know",
           "duration": "3:33"
-        }
-      ]
-    },
-    {
-      "name": "Tick Tock (feat. 24kGoldn)",
-      "year": "2020",
-      "release_date": "2020-08-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/10/5f/0c105f70-0323-9a97-b677-f31e944fdf56/190295166038.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tick Tock (feat. 24kGoldn)",
-          "duration": "2:58"
         }
       ]
     },
@@ -731,6 +718,19 @@
           "number": 1,
           "name": "Symphony (feat. Zara Larsson) [Acoustic Version]",
           "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "Real Love (Dave Winnel Remix)",
+      "year": "2015",
+      "release_date": "2015-04-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/30/39/72/303972fc-232c-727b-7235-90ff57cd55d1/825646108558.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Real Love (Dave Winnel Remix)",
+          "duration": "4:01"
         }
       ]
     },
@@ -805,19 +805,6 @@
       ]
     },
     {
-      "name": "Solo (feat. Demi Lovato) [Acoustic]",
-      "year": "2018",
-      "release_date": "2018-06-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/46/3b/66/463b66b0-6940-ac0d-7070-2a6cc259d511/190295602826.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Solo (feat. Demi Lovato) [Acoustic]",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
       "name": "Everything But You (feat. A7S)",
       "year": "2022",
       "release_date": "2022-02-18",
@@ -863,6 +850,19 @@
           "number": 1,
           "name": "Drive (feat. Wes Nelson)",
           "duration": "2:59"
+        }
+      ]
+    },
+    {
+      "name": "Solo (feat. Demi Lovato) [Acoustic]",
+      "year": "2018",
+      "release_date": "2018-06-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/46/3b/66/463b66b0-6940-ac0d-7070-2a6cc259d511/190295602826.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Solo (feat. Demi Lovato) [Acoustic]",
+          "duration": "3:44"
         }
       ]
     },
@@ -1290,19 +1290,6 @@
       ]
     },
     {
-      "name": "Rather Be (feat. Jess Glynne) [Instrumental]",
-      "year": "2015",
-      "release_date": "2015-10-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/14/93/3f/14933fa7-dd55-dfd5-aeaa-75550ddf0fd2/825646964208.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rather Be (feat. Jess Glynne) [Instrumental]",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
       "name": "Tick Tock (Acoustic)",
       "year": "2020",
       "release_date": "2020-09-04",
@@ -1722,6 +1709,19 @@
           "number": 1,
           "name": "Rockabye",
           "duration": "4:28"
+        }
+      ]
+    },
+    {
+      "name": "Rather Be (feat. Jess Glynne) [Instrumental]",
+      "year": "2015",
+      "release_date": "2015-10-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/14/93/3f/14933fa7-dd55-dfd5-aeaa-75550ddf0fd2/825646964208.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rather Be (feat. Jess Glynne) [Instrumental]",
+          "duration": "3:44"
         }
       ]
     },
@@ -2278,6 +2278,19 @@
       ]
     },
     {
+      "name": "Believe",
+      "year": "2025",
+      "release_date": "2025-07-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/33/4a/2b334a16-8830-9b0f-cced-a54860422ffb/96382.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Believe",
+          "duration": "2:39"
+        }
+      ]
+    },
+    {
       "name": "Believe (Acoustic)",
       "year": "2025",
       "release_date": "2025-08-01",
@@ -2349,6 +2362,19 @@
           "number": 1,
           "name": "Believe",
           "duration": "2:39"
+        }
+      ]
+    },
+    {
+      "name": "Believe (OG Drop)",
+      "year": "2025",
+      "release_date": "2025-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/0c/21/130c21e5-6700-5ab8-3c87-8d79d27aea52/284186.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Believe (OG Drop)",
+          "duration": "2:38"
         }
       ]
     },

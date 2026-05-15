@@ -672,19 +672,6 @@
   ],
   "singles": [
     {
-      "name": "Keep on Goin (feat. Bas)",
-      "year": "2017",
-      "release_date": "2017-03-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3a/14/39/3a1439b8-5ce2-d700-a6f2-2c5c4c67d580/859720361423_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Keep on Goin (feat. Bas)",
-          "duration": "3:27"
-        }
-      ]
-    },
-    {
       "name": "The Jackie (feat. Lil Tjay)",
       "year": "2021",
       "release_date": "2021-07-09",
@@ -707,6 +694,19 @@
           "number": 1,
           "name": "Braille (feat. Bas)",
           "duration": "4:14"
+        }
+      ]
+    },
+    {
+      "name": "Keep on Goin (feat. Bas)",
+      "year": "2017",
+      "release_date": "2017-03-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3a/14/39/3a1439b8-5ce2-d700-a6f2-2c5c4c67d580/859720361423_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Keep on Goin (feat. Bas)",
+          "duration": "3:27"
         }
       ]
     },
@@ -1073,6 +1073,19 @@
       ]
     },
     {
+      "name": "One on One",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/67/20/f367202c-efbe-1030-5bcb-36ac03a3c12f/663918993965.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One on One",
+          "duration": "3:23"
+        }
+      ]
+    },
+    {
       "name": "Diamonds",
       "year": "2023",
       "release_date": "2023-01-24",
@@ -1256,34 +1269,6 @@
   ],
   "eps": [
     {
-      "name": "Spilled Milk 1",
-      "year": "2019",
-      "release_date": "2019-08-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/92/8b/85928be2-ce4f-b458-994b-ac61c95750e8/19UMGIM68561.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Jollof Rice (feat. EARTHGANG)",
-          "duration": "2:08"
-        },
-        {
-          "number": 2,
-          "name": "Fried Rice (feat. JID)",
-          "duration": "2:55"
-        },
-        {
-          "number": 3,
-          "name": "Nirvana (feat. Falcons & B. Lewis)",
-          "duration": "2:45"
-        },
-        {
-          "number": 4,
-          "name": "Amnesia (feat. Ari Lennox & Kiddominant)",
-          "duration": "3:35"
-        }
-      ]
-    },
-    {
       "name": "[BUMP] Pick Me Up",
       "year": "2022",
       "release_date": "2022-04-15",
@@ -1308,6 +1293,34 @@
           "number": 4,
           "name": "[The Others]",
           "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "Spilled Milk 1",
+      "year": "2019",
+      "release_date": "2019-08-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/92/8b/85928be2-ce4f-b458-994b-ac61c95750e8/19UMGIM68561.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Jollof Rice (feat. EARTHGANG)",
+          "duration": "2:08"
+        },
+        {
+          "number": 2,
+          "name": "Fried Rice (feat. JID)",
+          "duration": "2:55"
+        },
+        {
+          "number": 3,
+          "name": "Nirvana (feat. Falcons & B. Lewis)",
+          "duration": "2:45"
+        },
+        {
+          "number": 4,
+          "name": "Amnesia (feat. Ari Lennox & Kiddominant)",
+          "duration": "3:35"
         }
       ]
     },

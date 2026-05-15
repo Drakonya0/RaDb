@@ -3,6 +3,64 @@
   "id": 277228393,
   "albums": [
     {
+      "name": "The Script (Deluxe)",
+      "year": "2008",
+      "release_date": "2008-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/2d/c6/72/2dc6728e-fe24-c7b3-970c-a24d8af1e4b6/dj.tjxgsvhv.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "We Cry",
+          "duration": "3:43"
+        },
+        {
+          "number": 3,
+          "name": "Talk You Down",
+          "duration": "3:50"
+        },
+        {
+          "number": 4,
+          "name": "The Man Who Can't Be Moved",
+          "duration": "4:01"
+        },
+        {
+          "number": 5,
+          "name": "Breakeven (Falling to Pieces)",
+          "duration": "4:21"
+        },
+        {
+          "number": 6,
+          "name": "Rusty Halo",
+          "duration": "3:34"
+        },
+        {
+          "number": 7,
+          "name": "The End Where I Begin",
+          "duration": "3:34"
+        },
+        {
+          "number": 8,
+          "name": "Fall for Anything",
+          "duration": "4:32"
+        },
+        {
+          "number": 9,
+          "name": "If You See Kay",
+          "duration": "3:12"
+        },
+        {
+          "number": 10,
+          "name": "I'm Yours",
+          "duration": "4:13"
+        },
+        {
+          "number": 11,
+          "name": "Breakeven (Live At Shepherd's Bush Empire)",
+          "duration": "4:29"
+        }
+      ]
+    },
+    {
       "name": "Science & Faith (Bonus Track Version)",
       "year": "2010",
       "release_date": "2010-09-10",
@@ -67,64 +125,6 @@
           "number": 12,
           "name": "Walk Away",
           "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "The Script (Deluxe)",
-      "year": "2008",
-      "release_date": "2008-08-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/2d/c6/72/2dc6728e-fe24-c7b3-970c-a24d8af1e4b6/dj.tjxgsvhv.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "We Cry",
-          "duration": "3:43"
-        },
-        {
-          "number": 3,
-          "name": "Talk You Down",
-          "duration": "3:50"
-        },
-        {
-          "number": 4,
-          "name": "The Man Who Can't Be Moved",
-          "duration": "4:01"
-        },
-        {
-          "number": 5,
-          "name": "Breakeven (Falling to Pieces)",
-          "duration": "4:21"
-        },
-        {
-          "number": 6,
-          "name": "Rusty Halo",
-          "duration": "3:34"
-        },
-        {
-          "number": 7,
-          "name": "The End Where I Begin",
-          "duration": "3:34"
-        },
-        {
-          "number": 8,
-          "name": "Fall for Anything",
-          "duration": "4:32"
-        },
-        {
-          "number": 9,
-          "name": "If You See Kay",
-          "duration": "3:12"
-        },
-        {
-          "number": 10,
-          "name": "I'm Yours",
-          "duration": "4:13"
-        },
-        {
-          "number": 11,
-          "name": "Breakeven (Live At Shepherd's Bush Empire)",
-          "duration": "4:29"
         }
       ]
     },
@@ -446,59 +446,6 @@
       ]
     },
     {
-      "name": "Sunsets & Full Moons",
-      "year": "2019",
-      "release_date": "2019-11-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/6b/b4/9d6bb4d9-586a-4550-bc21-6088e74bb8e5/886447904671.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Something Unreal",
-          "duration": "3:31"
-        },
-        {
-          "number": 2,
-          "name": "The Last Time",
-          "duration": "3:16"
-        },
-        {
-          "number": 3,
-          "name": "Run Through Walls",
-          "duration": "3:26"
-        },
-        {
-          "number": 4,
-          "name": "If You Don't Love Yourself",
-          "duration": "2:45"
-        },
-        {
-          "number": 5,
-          "name": "Hurt People Hurt People",
-          "duration": "3:07"
-        },
-        {
-          "number": 6,
-          "name": "Same Time",
-          "duration": "3:17"
-        },
-        {
-          "number": 7,
-          "name": "Underdog",
-          "duration": "3:37"
-        },
-        {
-          "number": 8,
-          "name": "The Hurt Game",
-          "duration": "3:48"
-        },
-        {
-          "number": 9,
-          "name": "Hot Summer Nights",
-          "duration": "3:33"
-        }
-      ]
-    },
-    {
       "name": "Freedom Child",
       "year": "2017",
       "release_date": "2017-09-01",
@@ -739,6 +686,59 @@
           "number": 18,
           "name": "Making of #3",
           "duration": "0:00"
+        }
+      ]
+    },
+    {
+      "name": "Sunsets & Full Moons",
+      "year": "2019",
+      "release_date": "2019-11-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9d/6b/b4/9d6bb4d9-586a-4550-bc21-6088e74bb8e5/886447904671.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Something Unreal",
+          "duration": "3:31"
+        },
+        {
+          "number": 2,
+          "name": "The Last Time",
+          "duration": "3:16"
+        },
+        {
+          "number": 3,
+          "name": "Run Through Walls",
+          "duration": "3:26"
+        },
+        {
+          "number": 4,
+          "name": "If You Don't Love Yourself",
+          "duration": "2:45"
+        },
+        {
+          "number": 5,
+          "name": "Hurt People Hurt People",
+          "duration": "3:07"
+        },
+        {
+          "number": 6,
+          "name": "Same Time",
+          "duration": "3:17"
+        },
+        {
+          "number": 7,
+          "name": "Underdog",
+          "duration": "3:37"
+        },
+        {
+          "number": 8,
+          "name": "The Hurt Game",
+          "duration": "3:48"
+        },
+        {
+          "number": 9,
+          "name": "Hot Summer Nights",
+          "duration": "3:33"
         }
       ]
     },
@@ -1332,19 +1332,6 @@
       ]
     },
     {
-      "name": "The Last Time (Acoustic)",
-      "year": "2019",
-      "release_date": "2019-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/a9/5c/dca95c19-39ba-34cb-7268-a78751880582/886448009573.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Last Time (Acoustic)",
-          "duration": "3:16"
-        }
-      ]
-    },
-    {
       "name": "Dare You To Doubt Me",
       "year": "2022",
       "release_date": "2022-09-02",
@@ -1454,19 +1441,6 @@
       ]
     },
     {
-      "name": "The Man Who Can't Be Moved",
-      "year": "2008",
-      "release_date": "2008-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/78/f2/09/mzi.wzrtjoru.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Man Who Can't Be Moved",
-          "duration": "4:02"
-        }
-      ]
-    },
-    {
       "name": "Rain (Saga WhiteBlack Remix) [feat. Nicky Jam]",
       "year": "2017",
       "release_date": "2017-08-04",
@@ -1489,6 +1463,19 @@
           "number": 1,
           "name": "Rain (Nick Talos Remix)",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "The Last Time (Acoustic)",
+      "year": "2019",
+      "release_date": "2019-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/dc/a9/5c/dca95c19-39ba-34cb-7268-a78751880582/886448009573.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Last Time (Acoustic)",
+          "duration": "3:16"
         }
       ]
     },
@@ -1541,6 +1528,19 @@
           "number": 1,
           "name": "Superheroes (Acoustic)",
           "duration": "4:08"
+        }
+      ]
+    },
+    {
+      "name": "The Man Who Can't Be Moved",
+      "year": "2008",
+      "release_date": "2008-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/78/f2/09/mzi.wzrtjoru.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Man Who Can't Be Moved",
+          "duration": "4:02"
         }
       ]
     },

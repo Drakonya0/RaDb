@@ -694,17 +694,17 @@
       "tracks": []
     },
     {
-      "name": "Meleğim",
-      "year": "2020",
-      "release_date": "2020-02-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/ca/86/0cca8695-5c44-86db-41c6-8bac8d1b577a/20UMGIM07368.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Qué Miras Bobo",
       "year": "2025",
       "release_date": "2025-02-06",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/88/b4/da88b4c9-d23c-ea57-3e34-6fc11b036fc1/25UMGIM10308.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Meleğim",
+      "year": "2020",
+      "release_date": "2020-02-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/ca/86/0cca8695-5c44-86db-41c6-8bac8d1b577a/20UMGIM07368.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -713,6 +713,19 @@
       "release_date": "2023-11-02",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/10/4f/1b104fa8-36d1-d0b8-cdf9-d39b353cff10/23UM1IM29353.rgb.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "Déter (feat. Soolking)",
+      "year": "2024",
+      "release_date": "2024-01-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/44/07/ab/4407ab2b-9f4d-ca98-e363-4992f1a6bc29/196871235754.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Déter (feat. Soolking)",
+          "duration": "3:26"
+        }
+      ]
     },
     {
       "name": "Liberté (feat. Ouled El Bahdja)",
@@ -731,19 +744,6 @@
           "number": 1,
           "name": "Napoli",
           "duration": "2:48"
-        }
-      ]
-    },
-    {
-      "name": "Déter (feat. Soolking)",
-      "year": "2024",
-      "release_date": "2024-01-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/44/07/ab/4407ab2b-9f4d-ca98-e363-4992f1a6bc29/196871235754.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Déter (feat. Soolking)",
-          "duration": "3:26"
         }
       ]
     },
@@ -837,17 +837,17 @@
       "tracks": []
     },
     {
-      "name": "Paris Dubaï (feat. Soolking)",
-      "year": "2021",
-      "release_date": "2021-12-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/92/54/e3925443-86c8-6082-0c53-5554f198d9fb/21UM1IM58486.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Desperado",
       "year": "2023",
       "release_date": "2023-02-03",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/43/9e/48/439e4822-e536-322a-8fa4-8ce5784756ad/23UMGIM08209.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Paris Dubaï (feat. Soolking)",
+      "year": "2021",
+      "release_date": "2021-12-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/92/54/e3925443-86c8-6082-0c53-5554f198d9fb/21UM1IM58486.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -912,13 +912,6 @@
       "tracks": []
     },
     {
-      "name": "Heat (feat. Niro)",
-      "year": "2025",
-      "release_date": "2025-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/43/14/b243144e-c002-f659-3362-4ed424fc515f/25UMGIM12360.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Dosé",
       "year": "2021",
       "release_date": "2021-12-31",
@@ -932,10 +925,10 @@
       ]
     },
     {
-      "name": "Bisous (feat. Franglish)",
+      "name": "Heat (feat. Niro)",
       "year": "2025",
       "release_date": "2025-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/34/31/9e343191-9af4-42da-999c-4293ad9c0722/25UMGIM12360.rgb.jpg/600x600bb.jpg",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/43/14/b243144e-c002-f659-3362-4ed424fc515f/25UMGIM12360.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -943,6 +936,13 @@
       "year": "2025",
       "release_date": "2025-06-25",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/48/36/2548360c-34d0-822d-4dbd-b734d4890b87/25UMGIM85398.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Bisous (feat. Franglish)",
+      "year": "2025",
+      "release_date": "2025-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/34/31/9e343191-9af4-42da-999c-4293ad9c0722/25UMGIM12360.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {

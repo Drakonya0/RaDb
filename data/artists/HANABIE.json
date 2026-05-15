@@ -121,32 +121,6 @@
   ],
   "singles": [
     {
-      "name": "ICONIC",
-      "year": "2026",
-      "release_date": "2026-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/2f/56/3f2f5612-cb99-f18b-d6ea-fdc2b2a0b500/4547366795622.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ICONIC",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
-      "name": "LOVE乱舞",
-      "year": "2022",
-      "release_date": "2022-04-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/30/53/c1/3053c1ab-05b0-ab07-cb65-4c4037155e13/00013504_3000.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LOVE乱舞",
-          "duration": "3:49"
-        }
-      ]
-    },
-    {
       "name": "お先に失礼します。",
       "year": "2023",
       "release_date": "2023-01-09",
@@ -173,15 +147,15 @@
       ]
     },
     {
-      "name": "おいしいサバイバー",
-      "year": "2025",
-      "release_date": "2025-01-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/7e/9a/247e9a8b-30c7-6d50-b469-452cb4bb2124/4547366729016.jpg/600x600bb.jpg",
+      "name": "LOVE乱舞",
+      "year": "2022",
+      "release_date": "2022-04-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/30/53/c1/3053c1ab-05b0-ab07-cb65-4c4037155e13/00013504_3000.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Tasty Survivor",
-          "duration": "2:58"
+          "name": "LOVE乱舞",
+          "duration": "3:49"
         }
       ]
     },
@@ -225,6 +199,19 @@
       ]
     },
     {
+      "name": "ICONIC",
+      "year": "2026",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/2f/56/3f2f5612-cb99-f18b-d6ea-fdc2b2a0b500/4547366795622.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ICONIC",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
       "name": "Believer - cover",
       "year": "2023",
       "release_date": "2023-10-06",
@@ -247,6 +234,19 @@
           "number": 1,
           "name": "Metamorphose!",
           "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "おいしいサバイバー",
+      "year": "2025",
+      "release_date": "2025-01-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/7e/9a/247e9a8b-30c7-6d50-b469-452cb4bb2124/4547366729016.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tasty Survivor",
+          "duration": "2:58"
         }
       ]
     },
@@ -323,6 +323,39 @@
   ],
   "eps": [
     {
+      "name": "HOT TOPIC",
+      "year": "2026",
+      "release_date": "2026-01-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/21/b2/9821b206-f7d6-04b6-9466-93bbb0cae83e/4547366799477.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ICONIC",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Spicy Queen",
+          "duration": "3:49"
+        },
+        {
+          "number": 3,
+          "name": "Tokimeki about you",
+          "duration": "3:19"
+        },
+        {
+          "number": 4,
+          "name": "GIRL'S TALK",
+          "duration": "2:52"
+        },
+        {
+          "number": 5,
+          "name": "Theme of hanabienchan.",
+          "duration": "1:38"
+        }
+      ]
+    },
+    {
       "name": "ぶっちぎり東京",
       "year": "2024",
       "release_date": "2024-12-04",
@@ -395,39 +428,6 @@
           "number": 6,
           "name": "Drastic Nadeshiko",
           "duration": "3:52"
-        }
-      ]
-    },
-    {
-      "name": "HOT TOPIC",
-      "year": "2026",
-      "release_date": "2026-01-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/21/b2/9821b206-f7d6-04b6-9466-93bbb0cae83e/4547366799477.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ICONIC",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Spicy Queen",
-          "duration": "3:49"
-        },
-        {
-          "number": 3,
-          "name": "Tokimeki about you",
-          "duration": "3:19"
-        },
-        {
-          "number": 4,
-          "name": "GIRL'S TALK",
-          "duration": "2:52"
-        },
-        {
-          "number": 5,
-          "name": "Theme of hanabienchan.",
-          "duration": "1:38"
         }
       ]
     }

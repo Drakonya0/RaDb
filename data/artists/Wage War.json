@@ -3,6 +3,127 @@
   "id": 1000847729,
   "albums": [
     {
+      "name": "Manic",
+      "year": "2021",
+      "release_date": "2021-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/d8/69/e7d86982-5ff4-2c27-1e4f-f0af9ec23934/21CRGIM28134.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Relapse",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Teeth",
+          "duration": "3:08"
+        },
+        {
+          "number": 3,
+          "name": "Manic",
+          "duration": "2:44"
+        },
+        {
+          "number": 4,
+          "name": "High Horse",
+          "duration": "2:48"
+        },
+        {
+          "number": 5,
+          "name": "Circle The Drain",
+          "duration": "3:35"
+        },
+        {
+          "number": 6,
+          "name": "Godspeed",
+          "duration": "3:06"
+        },
+        {
+          "number": 7,
+          "name": "Death Roll",
+          "duration": "3:01"
+        },
+        {
+          "number": 8,
+          "name": "Slow Burn",
+          "duration": "3:09"
+        },
+        {
+          "number": 9,
+          "name": "Never Said Goodbye",
+          "duration": "3:19"
+        },
+        {
+          "number": 10,
+          "name": "True Colors",
+          "duration": "3:09"
+        },
+        {
+          "number": 11,
+          "name": "If Tomorrow Never Comes",
+          "duration": "4:40"
+        }
+      ]
+    },
+    {
+      "name": "STIGMA",
+      "year": "2024",
+      "release_date": "2024-06-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/9c/69/eb9c69d1-2178-6658-dc27-2025cd951fa1/24CRGIM41515.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "THE SHOW’S ABOUT TO START",
+          "duration": "3:16"
+        },
+        {
+          "number": 2,
+          "name": "SELF SACRIFICE",
+          "duration": "2:56"
+        },
+        {
+          "number": 3,
+          "name": "MAGNETIC",
+          "duration": "3:12"
+        },
+        {
+          "number": 4,
+          "name": "NAIL5",
+          "duration": "2:33"
+        },
+        {
+          "number": 5,
+          "name": "BLUR",
+          "duration": "3:01"
+        },
+        {
+          "number": 6,
+          "name": "TOMBSTONE",
+          "duration": "2:58"
+        },
+        {
+          "number": 7,
+          "name": "HAPPY HUNTING",
+          "duration": "2:58"
+        },
+        {
+          "number": 8,
+          "name": "HELLBENT",
+          "duration": "3:05"
+        },
+        {
+          "number": 9,
+          "name": "IN MY BLOOD",
+          "duration": "2:58"
+        },
+        {
+          "number": 10,
+          "name": "IS THIS HOW IT ENDS?",
+          "duration": "3:59"
+        }
+      ]
+    },
+    {
       "name": "Pressure",
       "year": "2019",
       "release_date": "2019-08-30",
@@ -67,69 +188,6 @@
           "number": 12,
           "name": "Will We Ever Learn",
           "duration": "4:00"
-        }
-      ]
-    },
-    {
-      "name": "Manic",
-      "year": "2021",
-      "release_date": "2021-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/d8/69/e7d86982-5ff4-2c27-1e4f-f0af9ec23934/21CRGIM28134.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Relapse",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Teeth",
-          "duration": "3:08"
-        },
-        {
-          "number": 3,
-          "name": "Manic",
-          "duration": "2:44"
-        },
-        {
-          "number": 4,
-          "name": "High Horse",
-          "duration": "2:48"
-        },
-        {
-          "number": 5,
-          "name": "Circle The Drain",
-          "duration": "3:35"
-        },
-        {
-          "number": 6,
-          "name": "Godspeed",
-          "duration": "3:06"
-        },
-        {
-          "number": 7,
-          "name": "Death Roll",
-          "duration": "3:01"
-        },
-        {
-          "number": 8,
-          "name": "Slow Burn",
-          "duration": "3:09"
-        },
-        {
-          "number": 9,
-          "name": "Never Said Goodbye",
-          "duration": "3:19"
-        },
-        {
-          "number": 10,
-          "name": "True Colors",
-          "duration": "3:09"
-        },
-        {
-          "number": 11,
-          "name": "If Tomorrow Never Comes",
-          "duration": "4:40"
         }
       ]
     },
@@ -261,64 +319,6 @@
           "number": 11,
           "name": "Desperate",
           "duration": "4:24"
-        }
-      ]
-    },
-    {
-      "name": "STIGMA",
-      "year": "2024",
-      "release_date": "2024-06-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/9c/69/eb9c69d1-2178-6658-dc27-2025cd951fa1/24CRGIM41515.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "THE SHOW’S ABOUT TO START",
-          "duration": "3:16"
-        },
-        {
-          "number": 2,
-          "name": "SELF SACRIFICE",
-          "duration": "2:56"
-        },
-        {
-          "number": 3,
-          "name": "MAGNETIC",
-          "duration": "3:12"
-        },
-        {
-          "number": 4,
-          "name": "NAIL5",
-          "duration": "2:33"
-        },
-        {
-          "number": 5,
-          "name": "BLUR",
-          "duration": "3:01"
-        },
-        {
-          "number": 6,
-          "name": "TOMBSTONE",
-          "duration": "2:58"
-        },
-        {
-          "number": 7,
-          "name": "HAPPY HUNTING",
-          "duration": "2:58"
-        },
-        {
-          "number": 8,
-          "name": "HELLBENT",
-          "duration": "3:05"
-        },
-        {
-          "number": 9,
-          "name": "IN MY BLOOD",
-          "duration": "2:58"
-        },
-        {
-          "number": 10,
-          "name": "IS THIS HOW IT ENDS?",
-          "duration": "3:59"
         }
       ]
     },
@@ -456,6 +456,19 @@
   ],
   "singles": [
     {
+      "name": "MAGNETIC",
+      "year": "2024",
+      "release_date": "2024-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/19/7c/4d197c27-47e6-97a9-349a-b410f0ca67ee/24CRGIM41344.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MAGNETIC",
+          "duration": "3:12"
+        }
+      ]
+    },
+    {
       "name": "Johnny Cash (Stripped)",
       "year": "2018",
       "release_date": "2018-02-14",
@@ -478,19 +491,6 @@
           "number": 1,
           "name": "Gravity (Stripped)",
           "duration": "3:55"
-        }
-      ]
-    },
-    {
-      "name": "MAGNETIC",
-      "year": "2024",
-      "release_date": "2024-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/19/7c/4d197c27-47e6-97a9-349a-b410f0ca67ee/24CRGIM41344.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MAGNETIC",
-          "duration": "3:12"
         }
       ]
     },

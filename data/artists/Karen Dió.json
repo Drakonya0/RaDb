@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Do It",
-      "year": "2017",
-      "release_date": "2017-10-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/30/7c/47/307c47fa-c6b4-7fd2-5427-9da1d700a0ad/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Do It",
-          "duration": "3:01"
-        }
-      ]
-    },
-    {
       "name": "Sick Ride",
       "year": "2024",
       "release_date": "2024-04-25",
@@ -31,6 +18,19 @@
           "number": 2,
           "name": "So Funny",
           "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "Do It",
+      "year": "2017",
+      "release_date": "2017-10-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/30/7c/47/307c47fa-c6b4-7fd2-5427-9da1d700a0ad/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Do It",
+          "duration": "3:01"
         }
       ]
     },

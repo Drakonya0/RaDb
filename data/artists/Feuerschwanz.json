@@ -427,74 +427,6 @@
       ]
     },
     {
-      "name": "Knightclub",
-      "year": "2025",
-      "release_date": "2025-08-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/a0/66/d0a06660-5625-ca7e-2cd2-defd0e34b6ef/810185197194.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Knightclub (feat. Dag SDP)",
-          "duration": "3:21"
-        },
-        {
-          "number": 2,
-          "name": "Valhalla",
-          "duration": "3:33"
-        },
-        {
-          "number": 3,
-          "name": "Gangnam Style",
-          "duration": "3:34"
-        },
-        {
-          "number": 4,
-          "name": "Name der Rose",
-          "duration": "3:47"
-        },
-        {
-          "number": 5,
-          "name": "Testament",
-          "duration": "3:35"
-        },
-        {
-          "number": 6,
-          "name": "The Tale of Sam",
-          "duration": "1:46"
-        },
-        {
-          "number": 7,
-          "name": "Sam The Brave",
-          "duration": "3:11"
-        },
-        {
-          "number": 8,
-          "name": "Drunken Dragon",
-          "duration": "3:06"
-        },
-        {
-          "number": 9,
-          "name": "Eisenfaust",
-          "duration": "3:41"
-        },
-        {
-          "number": 10,
-          "name": "Avalon",
-          "duration": "3:24"
-        },
-        {
-          "number": 11,
-          "name": "Tanz der Teufel",
-          "duration": "3:16"
-        },
-        {
-          "number": 12,
-          "name": "Lords of Fyre",
-          "duration": "3:43"
-        }
-      ]
-    },
-    {
       "name": "Warriors",
       "year": "2024",
       "release_date": "2024-05-03",
@@ -745,6 +677,74 @@
           "number": 15,
           "name": "Liga des Mets",
           "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "Knightclub",
+      "year": "2025",
+      "release_date": "2025-08-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/a0/66/d0a06660-5625-ca7e-2cd2-defd0e34b6ef/810185197194.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Knightclub (feat. Dag SDP)",
+          "duration": "3:21"
+        },
+        {
+          "number": 2,
+          "name": "Valhalla",
+          "duration": "3:33"
+        },
+        {
+          "number": 3,
+          "name": "Gangnam Style",
+          "duration": "3:34"
+        },
+        {
+          "number": 4,
+          "name": "Name der Rose",
+          "duration": "3:47"
+        },
+        {
+          "number": 5,
+          "name": "Testament",
+          "duration": "3:35"
+        },
+        {
+          "number": 6,
+          "name": "The Tale of Sam",
+          "duration": "1:46"
+        },
+        {
+          "number": 7,
+          "name": "Sam The Brave",
+          "duration": "3:11"
+        },
+        {
+          "number": 8,
+          "name": "Drunken Dragon",
+          "duration": "3:06"
+        },
+        {
+          "number": 9,
+          "name": "Eisenfaust",
+          "duration": "3:41"
+        },
+        {
+          "number": 10,
+          "name": "Avalon",
+          "duration": "3:24"
+        },
+        {
+          "number": 11,
+          "name": "Tanz der Teufel",
+          "duration": "3:16"
+        },
+        {
+          "number": 12,
+          "name": "Lords of Fyre",
+          "duration": "3:43"
         }
       ]
     },
@@ -1940,15 +1940,15 @@
   ],
   "singles": [
     {
-      "name": "Knightclub (feat. Dag (SDP))",
-      "year": "2025",
-      "release_date": "2025-02-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/a7/2b/33a72b01-07ed-9249-9c21-7ec17920a3aa/810157924391.jpg/600x600bb.jpg",
+      "name": "The Dead Don't Die (feat. Feuerschwanz)",
+      "year": "2024",
+      "release_date": "2024-10-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/d7/0e/ebd70e54-8d67-4b06-5765-feb433b44ce9/810157920911.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Knightclub (feat. Dag SDP)",
-          "duration": "3:20"
+          "name": "The Dead Don't Die (feat. Feuerschwanz)",
+          "duration": "3:31"
         }
       ]
     },
@@ -1971,6 +1971,19 @@
       ]
     },
     {
+      "name": "Knightclub (feat. Dag (SDP))",
+      "year": "2025",
+      "release_date": "2025-02-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/a7/2b/33a72b01-07ed-9249-9c21-7ec17920a3aa/810157924391.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Knightclub (feat. Dag SDP)",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
       "name": "Lords Of Fyre",
       "year": "2024",
       "release_date": "2024-11-12",
@@ -1980,19 +1993,6 @@
           "number": 1,
           "name": "Lords Of Fyre",
           "duration": "3:42"
-        }
-      ]
-    },
-    {
-      "name": "The Dead Don't Die (feat. Feuerschwanz)",
-      "year": "2024",
-      "release_date": "2024-10-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/d7/0e/ebd70e54-8d67-4b06-5765-feb433b44ce9/810157920911.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Dead Don't Die (feat. Feuerschwanz)",
-          "duration": "3:31"
         }
       ]
     },

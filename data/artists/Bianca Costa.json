@@ -80,6 +80,13 @@
       "tracks": []
     },
     {
+      "name": "Tout le quartier",
+      "year": "2025",
+      "release_date": "2025-01-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/c5/12/b6c512b2-3b62-9ece-43ca-eae36857948f/5021732598608.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Olé Olé",
       "year": "2023",
       "release_date": "2023-05-12",
@@ -94,31 +101,11 @@
       "tracks": []
     },
     {
-      "name": "Tout le quartier",
-      "year": "2025",
-      "release_date": "2025-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/c5/12/b6c512b2-3b62-9ece-43ca-eae36857948f/5021732598608.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "AHOO (From the documentary Reines)",
       "year": "2021",
       "release_date": "2021-10-26",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/93/a8/45/93a845d4-0e3c-ac5e-5622-ae8fb598ec09/21UM1IM29975.rgb.jpg/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "MI AMOR (feat. Bianca Costa)",
-      "year": "2024",
-      "release_date": "2024-03-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/72/8c/f2728ccc-3240-c096-7449-b494524b32ae/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MI AMOR (feat. Bianca Costa)",
-          "duration": "3:12"
-        }
-      ]
     },
     {
       "name": "Double B",
@@ -134,11 +121,17 @@
       ]
     },
     {
-      "name": "Zone interdite",
-      "year": "2025",
-      "release_date": "2025-05-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/e5/4d/c5e54d6a-5b55-2857-9edf-4e58d062b04e/5021732818058.jpg/600x600bb.jpg",
-      "tracks": []
+      "name": "MI AMOR (feat. Bianca Costa)",
+      "year": "2024",
+      "release_date": "2024-03-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/72/8c/f2728ccc-3240-c096-7449-b494524b32ae/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MI AMOR (feat. Bianca Costa)",
+          "duration": "3:12"
+        }
+      ]
     },
     {
       "name": "Real life",
@@ -154,10 +147,10 @@
       ]
     },
     {
-      "name": "Partout & nulle part",
-      "year": "2021",
-      "release_date": "2021-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/7b/66/637b66d4-05f7-2ebb-ca43-759e0fad8c6d/190296619977.jpg/600x600bb.jpg",
+      "name": "Zone interdite",
+      "year": "2025",
+      "release_date": "2025-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/e5/4d/c5e54d6a-5b55-2857-9edf-4e58d062b04e/5021732818058.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -165,6 +158,13 @@
       "year": "2025",
       "release_date": "2025-09-26",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/c6/fa/7dc6fa43-90b5-a76f-cce3-9e907fd0d393/5021732986191.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Partout & nulle part",
+      "year": "2021",
+      "release_date": "2021-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/63/7b/66/637b66d4-05f7-2ebb-ca43-759e0fad8c6d/190296619977.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -224,17 +224,17 @@
       "tracks": []
     },
     {
-      "name": "Sous les étoiles",
-      "year": "2024",
-      "release_date": "2024-10-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/57/65/d85765db-0a7f-1ebb-7d04-110502a209ab/24SYMIM15981.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Mi Vida",
       "year": "2020",
       "release_date": "2020-03-06",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/81/38/53/813853fd-f721-b162-dd16-fd4b612227eb/190295254759.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Sous les étoiles",
+      "year": "2024",
+      "release_date": "2024-10-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/57/65/d85765db-0a7f-1ebb-7d04-110502a209ab/24SYMIM15981.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
