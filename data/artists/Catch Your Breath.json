@@ -3,79 +3,6 @@
   "id": 1263726911,
   "albums": [
     {
-      "name": "Shame On Me",
-      "year": "2023",
-      "release_date": "2023-10-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a0/7f/d8/a07fd8cf-0c4a-f7ac-5359-c3be2e947c3d/197188842543_CatchYourBreathShameOnMeAlbumArtwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "No Evil",
-          "duration": "2:30"
-        },
-        {
-          "number": 2,
-          "name": "Dying on the Inside",
-          "duration": "3:24"
-        },
-        {
-          "number": 3,
-          "name": "Dial Tone",
-          "duration": "3:20"
-        },
-        {
-          "number": 4,
-          "name": "Cycles",
-          "duration": "3:42"
-        },
-        {
-          "number": 5,
-          "name": "Deadly",
-          "duration": "3:03"
-        },
-        {
-          "number": 6,
-          "name": "Y.S.K.W.",
-          "duration": "3:31"
-        },
-        {
-          "number": 7,
-          "name": "My Confessions",
-          "duration": "2:52"
-        },
-        {
-          "number": 8,
-          "name": "Savages",
-          "duration": "3:37"
-        },
-        {
-          "number": 9,
-          "name": "Mirror",
-          "duration": "2:51"
-        },
-        {
-          "number": 10,
-          "name": "Don't Go",
-          "duration": "3:26"
-        },
-        {
-          "number": 11,
-          "name": "Cold Light",
-          "duration": "3:03"
-        },
-        {
-          "number": 12,
-          "name": "21 Gun Salute",
-          "duration": "3:46"
-        },
-        {
-          "number": 13,
-          "name": "Shame On Me",
-          "duration": "3:21"
-        }
-      ]
-    },
-    {
       "name": "Shame On Me (Deluxe Edition)",
       "year": "2024",
       "release_date": "2024-09-27",
@@ -167,6 +94,79 @@
           "duration": "3:38"
         }
       ]
+    },
+    {
+      "name": "Shame On Me",
+      "year": "2023",
+      "release_date": "2023-10-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a0/7f/d8/a07fd8cf-0c4a-f7ac-5359-c3be2e947c3d/197188842543_CatchYourBreathShameOnMeAlbumArtwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "No Evil",
+          "duration": "2:30"
+        },
+        {
+          "number": 2,
+          "name": "Dying on the Inside",
+          "duration": "3:24"
+        },
+        {
+          "number": 3,
+          "name": "Dial Tone",
+          "duration": "3:20"
+        },
+        {
+          "number": 4,
+          "name": "Cycles",
+          "duration": "3:42"
+        },
+        {
+          "number": 5,
+          "name": "Deadly",
+          "duration": "3:03"
+        },
+        {
+          "number": 6,
+          "name": "Y.S.K.W.",
+          "duration": "3:31"
+        },
+        {
+          "number": 7,
+          "name": "My Confessions",
+          "duration": "2:52"
+        },
+        {
+          "number": 8,
+          "name": "Savages",
+          "duration": "3:37"
+        },
+        {
+          "number": 9,
+          "name": "Mirror",
+          "duration": "2:51"
+        },
+        {
+          "number": 10,
+          "name": "Don't Go",
+          "duration": "3:26"
+        },
+        {
+          "number": 11,
+          "name": "Cold Light",
+          "duration": "3:03"
+        },
+        {
+          "number": 12,
+          "name": "21 Gun Salute",
+          "duration": "3:46"
+        },
+        {
+          "number": 13,
+          "name": "Shame On Me",
+          "duration": "3:21"
+        }
+      ]
     }
   ],
   "singles": [
@@ -210,6 +210,19 @@
       ]
     },
     {
+      "name": "Lost",
+      "year": "2026",
+      "release_date": "2026-01-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/b6/29/bfb629ee-f97a-5e3e-19da-480a4f96f2e8/193436452564_CYBLost.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lost",
+          "duration": "3:40"
+        }
+      ]
+    },
+    {
       "name": "Blood Money",
       "year": "2026",
       "release_date": "2026-03-20",
@@ -223,15 +236,28 @@
       ]
     },
     {
-      "name": "Lost",
+      "name": "Control",
       "year": "2026",
-      "release_date": "2026-01-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/b6/29/bfb629ee-f97a-5e3e-19da-480a4f96f2e8/193436452564_CYBLost.jpg/600x600bb.jpg",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/d9/f8/20d9f8ae-7e51-6d7d-9801-eab21762ebc2/193436470865_CYBNotBrokenEnoughCover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Lost",
-          "duration": "3:40"
+          "name": "Control",
+          "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "Burn",
+      "year": "2017",
+      "release_date": "2017-10-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/14/49/c4/1449c402-c113-e8e1-e4e9-a22bfac6e09b/192378807388.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Burn",
+          "duration": "3:20"
         }
       ]
     },
@@ -297,19 +323,6 @@
           "number": 1,
           "name": "Blood in the Water (feat. Michael Barr)",
           "duration": "3:42"
-        }
-      ]
-    },
-    {
-      "name": "Burn",
-      "year": "2017",
-      "release_date": "2017-10-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/14/49/c4/1449c402-c113-e8e1-e4e9-a22bfac6e09b/192378807388.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Burn",
-          "duration": "3:20"
         }
       ]
     },
@@ -419,19 +432,6 @@
           "number": 1,
           "name": "Shame On Me",
           "duration": "3:21"
-        }
-      ]
-    },
-    {
-      "name": "Control",
-      "year": "2026",
-      "release_date": "2026-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/d9/f8/20d9f8ae-7e51-6d7d-9801-eab21762ebc2/193436470865_CYBNotBrokenEnoughCover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Control",
-          "duration": "2:41"
         }
       ]
     }

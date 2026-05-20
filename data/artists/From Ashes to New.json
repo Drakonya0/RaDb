@@ -3,74 +3,6 @@
   "id": 688645097,
   "albums": [
     {
-      "name": "Blackout",
-      "year": "2023",
-      "release_date": "2023-07-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/bf/0d/27bf0d4e-3783-af05-d9d9-5e49344bebf2/846070049002.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Heartache",
-          "duration": "3:45"
-        },
-        {
-          "number": 2,
-          "name": "Nightmare",
-          "duration": "3:07"
-        },
-        {
-          "number": 3,
-          "name": "Hate Me Too",
-          "duration": "3:30"
-        },
-        {
-          "number": 4,
-          "name": "Hope You’re Happy",
-          "duration": "3:36"
-        },
-        {
-          "number": 5,
-          "name": "Barely Breathing",
-          "duration": "3:08"
-        },
-        {
-          "number": 6,
-          "name": "Dead to Me",
-          "duration": "3:19"
-        },
-        {
-          "number": 7,
-          "name": "Monster in Me",
-          "duration": "3:34"
-        },
-        {
-          "number": 8,
-          "name": "Echoes",
-          "duration": "3:27"
-        },
-        {
-          "number": 9,
-          "name": "Armageddon",
-          "duration": "3:33"
-        },
-        {
-          "number": 10,
-          "name": "Legacy",
-          "duration": "3:39"
-        },
-        {
-          "number": 11,
-          "name": "Until We Break (feat. Memphis May Fire)",
-          "duration": "3:34"
-        },
-        {
-          "number": 12,
-          "name": "Broken by Design",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "Reflections",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -135,6 +67,74 @@
           "number": 12,
           "name": "Your Ghost",
           "duration": "3:23"
+        }
+      ]
+    },
+    {
+      "name": "Blackout",
+      "year": "2023",
+      "release_date": "2023-07-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/bf/0d/27bf0d4e-3783-af05-d9d9-5e49344bebf2/846070049002.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Heartache",
+          "duration": "3:45"
+        },
+        {
+          "number": 2,
+          "name": "Nightmare",
+          "duration": "3:07"
+        },
+        {
+          "number": 3,
+          "name": "Hate Me Too",
+          "duration": "3:30"
+        },
+        {
+          "number": 4,
+          "name": "Hope You’re Happy",
+          "duration": "3:36"
+        },
+        {
+          "number": 5,
+          "name": "Barely Breathing",
+          "duration": "3:08"
+        },
+        {
+          "number": 6,
+          "name": "Dead to Me",
+          "duration": "3:19"
+        },
+        {
+          "number": 7,
+          "name": "Monster in Me",
+          "duration": "3:34"
+        },
+        {
+          "number": 8,
+          "name": "Echoes",
+          "duration": "3:27"
+        },
+        {
+          "number": 9,
+          "name": "Armageddon",
+          "duration": "3:33"
+        },
+        {
+          "number": 10,
+          "name": "Legacy",
+          "duration": "3:39"
+        },
+        {
+          "number": 11,
+          "name": "Until We Break (feat. Memphis May Fire)",
+          "duration": "3:34"
+        },
+        {
+          "number": 12,
+          "name": "Broken by Design",
+          "duration": "3:05"
         }
       ]
     },
@@ -448,6 +448,24 @@
   ],
   "singles": [
     {
+      "name": "Drag Me",
+      "year": "2025",
+      "release_date": "2025-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/a3/21/21a32137-36bf-14d7-d95e-51a642358195/810202533806.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Drag Me",
+          "duration": "3:06"
+        },
+        {
+          "number": 2,
+          "name": "New Disease",
+          "duration": "3:13"
+        }
+      ]
+    },
+    {
       "name": "Barely Breathing (feat. Against The Current)",
       "year": "2024",
       "release_date": "2024-02-02",
@@ -470,6 +488,19 @@
           "number": 1,
           "name": "Heartache",
           "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "The Retaliators Theme (21 Bullets) [feat. Ice Nine Kills & From Ashes to New]",
+      "year": "2022",
+      "release_date": "2022-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/43/90/c5/4390c59b-3994-61fd-4c35-c892581f8239/846070028700.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Retaliators Theme (21 Bullets) [feat. Ice Nine Kills & From Ashes to New]",
+          "duration": "4:02"
         }
       ]
     },
@@ -500,6 +531,19 @@
       ]
     },
     {
+      "name": "Light It Up",
+      "year": "2018",
+      "release_date": "2018-03-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/67/5b/08/675b0846-9e50-598a-dd59-337d8526d4c0/849320031000.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Light It Up",
+          "duration": "3:08"
+        }
+      ]
+    },
+    {
       "name": "Until We Break (feat. Matty Mullins)",
       "year": "2022",
       "release_date": "2022-10-07",
@@ -526,37 +570,6 @@
       ]
     },
     {
-      "name": "Drag Me",
-      "year": "2025",
-      "release_date": "2025-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/a3/21/21a32137-36bf-14d7-d95e-51a642358195/810202533806.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Drag Me",
-          "duration": "3:06"
-        },
-        {
-          "number": 2,
-          "name": "New Disease",
-          "duration": "3:13"
-        }
-      ]
-    },
-    {
-      "name": "Light It Up",
-      "year": "2018",
-      "release_date": "2018-03-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/67/5b/08/675b0846-9e50-598a-dd59-337d8526d4c0/849320031000.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Light It Up",
-          "duration": "3:08"
-        }
-      ]
-    },
-    {
       "name": "New Disease",
       "year": "2025",
       "release_date": "2025-07-25",
@@ -575,32 +588,6 @@
       "release_date": "2022-12-07",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3f/80/4f/3f804f4f-1f88-ce3a-b7f2-2f79e6ec3b36/846070047800.png/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "The Retaliators Theme (21 Bullets) [feat. Ice Nine Kills & From Ashes to New]",
-      "year": "2022",
-      "release_date": "2022-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/43/90/c5/4390c59b-3994-61fd-4c35-c892581f8239/846070028700.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Retaliators Theme (21 Bullets) [feat. Ice Nine Kills & From Ashes to New]",
-          "duration": "4:02"
-        }
-      ]
-    },
-    {
-      "name": "Finally See",
-      "year": "2018",
-      "release_date": "2018-03-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a5/f7/51/a5f75197-ef7f-f3da-27e2-cae17d1bbe3f/849320030904.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Finally See",
-          "duration": "3:42"
-        }
-      ]
     },
     {
       "name": "Yuve Yuve Yu (feat. From Ashes To New)",
@@ -664,6 +651,19 @@
           "number": 1,
           "name": "No Change (feat. From Ashes to New)",
           "duration": "3:31"
+        }
+      ]
+    },
+    {
+      "name": "Finally See",
+      "year": "2018",
+      "release_date": "2018-03-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a5/f7/51/a5f75197-ef7f-f3da-27e2-cae17d1bbe3f/849320030904.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Finally See",
+          "duration": "3:42"
         }
       ]
     },

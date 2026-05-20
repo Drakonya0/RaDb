@@ -3,74 +3,6 @@
   "id": 294914748,
   "albums": [
     {
-      "name": "FATELESS",
-      "year": "2017",
-      "release_date": "2017-10-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b9/01/e8/b901e893-2c3d-7826-89dc-15fe156a38fb/190295753337.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ENVY",
-          "duration": "3:50"
-        },
-        {
-          "number": 2,
-          "name": "FEED THE FIRE",
-          "duration": "3:55"
-        },
-        {
-          "number": 3,
-          "name": "LOST IN FAITH",
-          "duration": "3:26"
-        },
-        {
-          "number": 4,
-          "name": "BURY ME",
-          "duration": "3:54"
-        },
-        {
-          "number": 5,
-          "name": "R.I.P.",
-          "duration": "4:01"
-        },
-        {
-          "number": 6,
-          "name": "INSIDE OUT",
-          "duration": "3:31"
-        },
-        {
-          "number": 7,
-          "name": "STAY",
-          "duration": "3:41"
-        },
-        {
-          "number": 8,
-          "name": "COLORBLIND",
-          "duration": "3:37"
-        },
-        {
-          "number": 9,
-          "name": "F.T.T.T",
-          "duration": "3:34"
-        },
-        {
-          "number": 10,
-          "name": "UNINVITED",
-          "duration": "4:30"
-        },
-        {
-          "number": 11,
-          "name": "AFTERMATH",
-          "duration": "3:51"
-        },
-        {
-          "number": 12,
-          "name": "A DECADE IN THE RAIN",
-          "duration": "4:08"
-        }
-      ]
-    },
-    {
       "name": "The Side Effects",
       "year": "2019",
       "release_date": "2019-08-28",
@@ -135,6 +67,74 @@
           "number": 12,
           "name": "LI(E)Fe",
           "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "FATELESS",
+      "year": "2017",
+      "release_date": "2017-10-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b9/01/e8/b901e893-2c3d-7826-89dc-15fe156a38fb/190295753337.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ENVY",
+          "duration": "3:50"
+        },
+        {
+          "number": 2,
+          "name": "FEED THE FIRE",
+          "duration": "3:55"
+        },
+        {
+          "number": 3,
+          "name": "LOST IN FAITH",
+          "duration": "3:26"
+        },
+        {
+          "number": 4,
+          "name": "BURY ME",
+          "duration": "3:54"
+        },
+        {
+          "number": 5,
+          "name": "R.I.P.",
+          "duration": "4:01"
+        },
+        {
+          "number": 6,
+          "name": "INSIDE OUT",
+          "duration": "3:31"
+        },
+        {
+          "number": 7,
+          "name": "STAY",
+          "duration": "3:41"
+        },
+        {
+          "number": 8,
+          "name": "COLORBLIND",
+          "duration": "3:37"
+        },
+        {
+          "number": 9,
+          "name": "F.T.T.T",
+          "duration": "3:34"
+        },
+        {
+          "number": 10,
+          "name": "UNINVITED",
+          "duration": "4:30"
+        },
+        {
+          "number": 11,
+          "name": "AFTERMATH",
+          "duration": "3:51"
+        },
+        {
+          "number": 12,
+          "name": "A DECADE IN THE RAIN",
+          "duration": "4:08"
         }
       ]
     },
@@ -409,19 +409,6 @@
   ],
   "singles": [
     {
-      "name": "Speak of the Devil (feat. coldrain)",
-      "year": "2026",
-      "release_date": "2026-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/af/3d/ceaf3d6e-26a9-39d9-8205-1ea9c37cb2d8/4573623373135.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Speak of the Devil (feat. coldrain)",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
       "name": "FEED THE FIRE",
       "year": "2017",
       "release_date": "2017-09-22",
@@ -431,6 +418,19 @@
           "number": 1,
           "name": "FEED THE FIRE",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "Speak of the Devil (feat. coldrain)",
+      "year": "2026",
+      "release_date": "2026-01-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/af/3d/ceaf3d6e-26a9-39d9-8205-1ea9c37cb2d8/4573623373135.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Speak of the Devil (feat. coldrain)",
+          "duration": "3:42"
         }
       ]
     },

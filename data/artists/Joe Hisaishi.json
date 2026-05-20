@@ -3,6 +3,119 @@
   "id": 74486938,
   "albums": [
     {
+      "name": "Spirited Away (Original Soundtrack)",
+      "year": "2001",
+      "release_date": "2001-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/12/dc/cf/12dccf7e-32ce-12e8-03fe-37574d6c2197/TKCA-72165.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One Summer's Day",
+          "duration": "3:09"
+        },
+        {
+          "number": 2,
+          "name": "A Road to Somewhere",
+          "duration": "2:07"
+        },
+        {
+          "number": 3,
+          "name": "The Empty Restaurant",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Nighttime Coming",
+          "duration": "2:00"
+        },
+        {
+          "number": 5,
+          "name": "The Dragon Boy",
+          "duration": "2:12"
+        },
+        {
+          "number": 6,
+          "name": "Sootballs",
+          "duration": "2:33"
+        },
+        {
+          "number": 7,
+          "name": "Procession of Gods",
+          "duration": "3:00"
+        },
+        {
+          "number": 8,
+          "name": "Yubaba",
+          "duration": "3:30"
+        },
+        {
+          "number": 9,
+          "name": "Bathhouse Morning",
+          "duration": "2:02"
+        },
+        {
+          "number": 10,
+          "name": "Day of the River",
+          "duration": "3:13"
+        },
+        {
+          "number": 11,
+          "name": "It's Hard Work",
+          "duration": "2:26"
+        },
+        {
+          "number": 12,
+          "name": "The Stink God",
+          "duration": "4:01"
+        },
+        {
+          "number": 13,
+          "name": "Sen's Courage",
+          "duration": "2:45"
+        },
+        {
+          "number": 14,
+          "name": "The Bottomless Pit",
+          "duration": "1:18"
+        },
+        {
+          "number": 15,
+          "name": "Kaonashi (No Face)",
+          "duration": "3:47"
+        },
+        {
+          "number": 16,
+          "name": "The Sixth Station",
+          "duration": "3:38"
+        },
+        {
+          "number": 17,
+          "name": "Yubaba's Panic",
+          "duration": "1:38"
+        },
+        {
+          "number": 18,
+          "name": "The House at Swamp Bottom",
+          "duration": "1:29"
+        },
+        {
+          "number": 19,
+          "name": "Reprise",
+          "duration": "4:53"
+        },
+        {
+          "number": 20,
+          "name": "The Return",
+          "duration": "3:20"
+        },
+        {
+          "number": 21,
+          "name": "Always With Me",
+          "duration": "3:35"
+        }
+      ]
+    },
+    {
       "name": "Howl's Moving Castle (Original Soundtrack)",
       "year": "2004",
       "release_date": "2004-11-19",
@@ -141,115 +254,261 @@
       ]
     },
     {
-      "name": "Spirited Away (Original Soundtrack)",
-      "year": "2001",
-      "release_date": "2001-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/12/dc/cf/12dccf7e-32ce-12e8-03fe-37574d6c2197/TKCA-72165.jpg/600x600bb.jpg",
+      "name": "My Neighbor Totoro (Original Soundtrack)",
+      "year": "1988",
+      "release_date": "1988-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/f7/46/1a/f7461a63-8b15-3b78-eb08-8116f6547ed2/TKCA-72725.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "One Summer's Day",
-          "duration": "3:09"
+          "name": "Hey Let’s Go – Opening Theme Song",
+          "duration": "2:43"
         },
         {
           "number": 2,
-          "name": "A Road to Somewhere",
-          "duration": "2:07"
-        },
-        {
-          "number": 3,
-          "name": "The Empty Restaurant",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "Nighttime Coming",
-          "duration": "2:00"
-        },
-        {
-          "number": 5,
-          "name": "The Dragon Boy",
-          "duration": "2:12"
-        },
-        {
-          "number": 6,
-          "name": "Sootballs",
-          "duration": "2:33"
-        },
-        {
-          "number": 7,
-          "name": "Procession of Gods",
-          "duration": "3:00"
-        },
-        {
-          "number": 8,
-          "name": "Yubaba",
-          "duration": "3:30"
-        },
-        {
-          "number": 9,
-          "name": "Bathhouse Morning",
-          "duration": "2:02"
-        },
-        {
-          "number": 10,
-          "name": "Day of the River",
-          "duration": "3:13"
-        },
-        {
-          "number": 11,
-          "name": "It's Hard Work",
-          "duration": "2:26"
-        },
-        {
-          "number": 12,
-          "name": "The Stink God",
-          "duration": "4:01"
-        },
-        {
-          "number": 13,
-          "name": "Sen's Courage",
-          "duration": "2:45"
-        },
-        {
-          "number": 14,
-          "name": "The Bottomless Pit",
-          "duration": "1:18"
-        },
-        {
-          "number": 15,
-          "name": "Kaonashi (No Face)",
-          "duration": "3:47"
-        },
-        {
-          "number": 16,
-          "name": "The Sixth Station",
-          "duration": "3:38"
-        },
-        {
-          "number": 17,
-          "name": "Yubaba's Panic",
+          "name": "The Village in May",
           "duration": "1:38"
         },
         {
+          "number": 3,
+          "name": "A Haunted House!",
+          "duration": "1:23"
+        },
+        {
+          "number": 4,
+          "name": "Mei and the Dust Bunnies",
+          "duration": "1:34"
+        },
+        {
+          "number": 5,
+          "name": "Evening Wind",
+          "duration": "1:01"
+        },
+        {
+          "number": 6,
+          "name": "Not Afraid",
+          "duration": "0:43"
+        },
+        {
+          "number": 7,
+          "name": "Let's Go to the Hospital",
+          "duration": "1:22"
+        },
+        {
+          "number": 8,
+          "name": "Mother",
+          "duration": "1:06"
+        },
+        {
+          "number": 9,
+          "name": "A Little Monster",
+          "duration": "3:54"
+        },
+        {
+          "number": 10,
+          "name": "Totoro",
+          "duration": "2:49"
+        },
+        {
+          "number": 11,
+          "name": "A Huge Tree in the Tsukamori Forest",
+          "duration": "2:15"
+        },
+        {
+          "number": 12,
+          "name": "A Lost Child",
+          "duration": "3:48"
+        },
+        {
+          "number": 13,
+          "name": "The Path of the Wind (Instrumental)",
+          "duration": "3:16"
+        },
+        {
+          "number": 14,
+          "name": "A Soaking Wet Monster",
+          "duration": "2:33"
+        },
+        {
+          "number": 15,
+          "name": "Moonlight Flight",
+          "duration": "2:05"
+        },
+        {
+          "number": 16,
+          "name": "Mei is Missing",
+          "duration": "2:32"
+        },
+        {
+          "number": 17,
+          "name": "Cat Bus",
+          "duration": "2:11"
+        },
+        {
           "number": 18,
-          "name": "The House at Swamp Bottom",
-          "duration": "1:29"
+          "name": "I'm So Glad",
+          "duration": "1:15"
         },
         {
           "number": 19,
-          "name": "Reprise",
-          "duration": "4:53"
+          "name": "My Neighbor Totoro – Ending Theme Song",
+          "duration": "4:17"
         },
         {
           "number": 20,
-          "name": "The Return",
-          "duration": "3:20"
+          "name": "Hey Let’s Go – With Chorus",
+          "duration": "2:43"
+        }
+      ]
+    },
+    {
+      "name": "Nausicaä of the Valley of the Wind (Original Soundtrack)",
+      "year": "1984",
+      "release_date": "1984-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/18/cf/0218cf4b-6850-28b1-6fd3-8cb5278e34b5/TKCA-72717.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nausicaä of the Valley of the Wind – Opening",
+          "duration": "4:38"
         },
         {
-          "number": 21,
-          "name": "Always With Me",
-          "duration": "3:35"
+          "number": 2,
+          "name": "Stampede of the Ohmu",
+          "duration": "2:35"
+        },
+        {
+          "number": 3,
+          "name": "The Valley of the Wind",
+          "duration": "3:13"
+        },
+        {
+          "number": 4,
+          "name": "The Princess Who Loves Insects",
+          "duration": "3:11"
+        },
+        {
+          "number": 5,
+          "name": "The Invasion of Kushana",
+          "duration": "3:28"
+        },
+        {
+          "number": 6,
+          "name": "Battle",
+          "duration": "3:12"
+        },
+        {
+          "number": 7,
+          "name": "Contact with the Ohmu",
+          "duration": "1:39"
+        },
+        {
+          "number": 8,
+          "name": "In the Sea of Corruption",
+          "duration": "2:33"
+        },
+        {
+          "number": 9,
+          "name": "Annihilation of Pejite",
+          "duration": "3:50"
+        },
+        {
+          "number": 10,
+          "name": "The Battle between Mehve and Corvette",
+          "duration": "1:17"
+        },
+        {
+          "number": 11,
+          "name": "The Resurrection of the Giant Warrior",
+          "duration": "3:28"
+        },
+        {
+          "number": 12,
+          "name": "Nausicaä Requiem",
+          "duration": "2:55"
+        },
+        {
+          "number": 13,
+          "name": "The Bird Man – Ending",
+          "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "name": "Castle in the Sky (Original Soundtrack)",
+      "year": "1986",
+      "release_date": "1986-08-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6f/a0/f9/6fa0f99a-cfde-8349-6e5c-a565d2754014/TKCA-72721.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Girl Who Fell From the Sky",
+          "duration": "2:27"
+        },
+        {
+          "number": 2,
+          "name": "Morning in the Slag Ravine",
+          "duration": "3:04"
+        },
+        {
+          "number": 3,
+          "name": "A Rowdy Brawl (- Pursuit)",
+          "duration": "4:27"
+        },
+        {
+          "number": 4,
+          "name": "Memories of Gondoa",
+          "duration": "2:46"
+        },
+        {
+          "number": 5,
+          "name": "Discouraged Pazu",
+          "duration": "1:46"
+        },
+        {
+          "number": 6,
+          "name": "Robot Soldier (Resurrection – Rescue)",
+          "duration": "2:34"
+        },
+        {
+          "number": 7,
+          "name": "Carrying You - Chorus version",
+          "duration": "2:02"
+        },
+        {
+          "number": 8,
+          "name": "Sheeta’s Decision",
+          "duration": "2:05"
+        },
+        {
+          "number": 9,
+          "name": "On the Tiger Moth",
+          "duration": "2:32"
+        },
+        {
+          "number": 10,
+          "name": "An Omen to Ruin",
+          "duration": "2:18"
+        },
+        {
+          "number": 11,
+          "name": "A Sea of Clouds in the Moonlight",
+          "duration": "2:33"
+        },
+        {
+          "number": 12,
+          "name": "Castle in the Sky",
+          "duration": "4:37"
+        },
+        {
+          "number": 13,
+          "name": "Destruction of Laputa",
+          "duration": "2:00"
+        },
+        {
+          "number": 14,
+          "name": "Carrying You",
+          "duration": "4:07"
         }
       ]
     },
@@ -423,302 +682,6 @@
           "number": 33,
           "name": "The Legend of Ashitaka - Ending",
           "duration": "5:01"
-        }
-      ]
-    },
-    {
-      "name": "My Neighbor Totoro (Original Soundtrack)",
-      "year": "1988",
-      "release_date": "1988-05-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/f7/46/1a/f7461a63-8b15-3b78-eb08-8116f6547ed2/TKCA-72725.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hey Let’s Go – Opening Theme Song",
-          "duration": "2:43"
-        },
-        {
-          "number": 2,
-          "name": "The Village in May",
-          "duration": "1:38"
-        },
-        {
-          "number": 3,
-          "name": "A Haunted House!",
-          "duration": "1:23"
-        },
-        {
-          "number": 4,
-          "name": "Mei and the Dust Bunnies",
-          "duration": "1:34"
-        },
-        {
-          "number": 5,
-          "name": "Evening Wind",
-          "duration": "1:01"
-        },
-        {
-          "number": 6,
-          "name": "Not Afraid",
-          "duration": "0:43"
-        },
-        {
-          "number": 7,
-          "name": "Let's Go to the Hospital",
-          "duration": "1:22"
-        },
-        {
-          "number": 8,
-          "name": "Mother",
-          "duration": "1:06"
-        },
-        {
-          "number": 9,
-          "name": "A Little Monster",
-          "duration": "3:54"
-        },
-        {
-          "number": 10,
-          "name": "Totoro",
-          "duration": "2:49"
-        },
-        {
-          "number": 11,
-          "name": "A Huge Tree in the Tsukamori Forest",
-          "duration": "2:15"
-        },
-        {
-          "number": 12,
-          "name": "A Lost Child",
-          "duration": "3:48"
-        },
-        {
-          "number": 13,
-          "name": "The Path of the Wind (Instrumental)",
-          "duration": "3:16"
-        },
-        {
-          "number": 14,
-          "name": "A Soaking Wet Monster",
-          "duration": "2:33"
-        },
-        {
-          "number": 15,
-          "name": "Moonlight Flight",
-          "duration": "2:05"
-        },
-        {
-          "number": 16,
-          "name": "Mei is Missing",
-          "duration": "2:32"
-        },
-        {
-          "number": 17,
-          "name": "Cat Bus",
-          "duration": "2:11"
-        },
-        {
-          "number": 18,
-          "name": "I'm So Glad",
-          "duration": "1:15"
-        },
-        {
-          "number": 19,
-          "name": "My Neighbor Totoro – Ending Theme Song",
-          "duration": "4:17"
-        },
-        {
-          "number": 20,
-          "name": "Hey Let’s Go – With Chorus",
-          "duration": "2:43"
-        }
-      ]
-    },
-    {
-      "name": "Ponyo on the Cliff by the Sea (Original Soundtrack)",
-      "year": "2008",
-      "release_date": "2008-07-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f7/19/cc/f719cc4e-05d7-708c-af87-a5cfbbb3ff79/TKCA-.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Deep Sea Pastures",
-          "duration": "4:18"
-        },
-        {
-          "number": 2,
-          "name": "Mother Sea",
-          "duration": "2:21"
-        },
-        {
-          "number": 3,
-          "name": "The First Meeting",
-          "duration": "0:31"
-        },
-        {
-          "number": 4,
-          "name": "Town by a Cove",
-          "duration": "2:36"
-        },
-        {
-          "number": 5,
-          "name": "Kumiko",
-          "duration": "2:06"
-        },
-        {
-          "number": 6,
-          "name": "Ponyo and Sosuke",
-          "duration": "2:17"
-        },
-        {
-          "number": 7,
-          "name": "The Empty Bucket",
-          "duration": "1:30"
-        },
-        {
-          "number": 8,
-          "name": "Night Signals",
-          "duration": "2:37"
-        },
-        {
-          "number": 9,
-          "name": "I Want to Be a Girl!",
-          "duration": "1:30"
-        },
-        {
-          "number": 10,
-          "name": "Fujimoto",
-          "duration": "1:34"
-        },
-        {
-          "number": 11,
-          "name": "Ponyo’s Sisters",
-          "duration": "1:32"
-        },
-        {
-          "number": 12,
-          "name": "Ponyo Flies",
-          "duration": "1:43"
-        },
-        {
-          "number": 13,
-          "name": "The Sunflower House Caught in the Storm",
-          "duration": "2:20"
-        },
-        {
-          "number": 14,
-          "name": "Ponyo Rides a Sea of Fish",
-          "duration": "3:36"
-        },
-        {
-          "number": 15,
-          "name": "Ponyo and Sosuke II",
-          "duration": "2:01"
-        },
-        {
-          "number": 16,
-          "name": "Lisa’s House",
-          "duration": "3:20"
-        },
-        {
-          "number": 17,
-          "name": "A New Family Member",
-          "duration": "1:09"
-        },
-        {
-          "number": 18,
-          "name": "Ponyo's Lullaby",
-          "duration": "1:29"
-        },
-        {
-          "number": 19,
-          "name": "Lisa's Resolve",
-          "duration": "1:33"
-        },
-        {
-          "number": 20,
-          "name": "Gran Mamare",
-          "duration": "2:14"
-        },
-        {
-          "number": 21,
-          "name": "A Night of Shooting stars",
-          "duration": "2:40"
-        },
-        {
-          "number": 22,
-          "name": "The Toy Boat",
-          "duration": "1:55"
-        },
-        {
-          "number": 23,
-          "name": "Towards the Sea of the Dipnorhynchus",
-          "duration": "1:41"
-        },
-        {
-          "number": 24,
-          "name": "March of the Boats",
-          "duration": "2:26"
-        },
-        {
-          "number": 25,
-          "name": "The Baby and Ponyo",
-          "duration": "0:33"
-        },
-        {
-          "number": 26,
-          "name": "March of the Boats II",
-          "duration": "1:14"
-        },
-        {
-          "number": 27,
-          "name": "Sosuke's Voyage",
-          "duration": "2:08"
-        },
-        {
-          "number": 28,
-          "name": "Sosuke's Tears",
-          "duration": "1:02"
-        },
-        {
-          "number": 29,
-          "name": "Underwater Town",
-          "duration": "2:02"
-        },
-        {
-          "number": 30,
-          "name": "A Mother's Love",
-          "duration": "0:49"
-        },
-        {
-          "number": 31,
-          "name": "The Tunnel",
-          "duration": "1:26"
-        },
-        {
-          "number": 32,
-          "name": "Toki",
-          "duration": "0:48"
-        },
-        {
-          "number": 33,
-          "name": "Ponyo's Sisters Lend a Hand",
-          "duration": "1:40"
-        },
-        {
-          "number": 34,
-          "name": "A Song for Mothers and the Sea",
-          "duration": "2:15"
-        },
-        {
-          "number": 35,
-          "name": "The Grand Finale",
-          "duration": "0:44"
-        },
-        {
-          "number": 36,
-          "name": "Ponyo on the Cliff by the Sea (Movie Version)",
-          "duration": "1:36"
         }
       ]
     },
@@ -989,6 +952,455 @@
       ]
     },
     {
+      "name": "Porco Rosso (Original Soundtrack)",
+      "year": "1992",
+      "release_date": "1992-07-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d5/26/26/d52626ff-7b55-1586-4f12-a9a8d39d9fc7/TKCA-71156.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Wind of Ages - When a Human Can Be a Human",
+          "duration": "2:50"
+        },
+        {
+          "number": 2,
+          "name": "Mammaiuto",
+          "duration": "1:21"
+        },
+        {
+          "number": 3,
+          "name": "Addio!",
+          "duration": "0:37"
+        },
+        {
+          "number": 4,
+          "name": "Bygone Days",
+          "duration": "2:16"
+        },
+        {
+          "number": 5,
+          "name": "A Picture in Sepia",
+          "duration": "0:47"
+        },
+        {
+          "number": 6,
+          "name": "Seribian March",
+          "duration": "1:03"
+        },
+        {
+          "number": 7,
+          "name": "Flying Boatmen",
+          "duration": "2:36"
+        },
+        {
+          "number": 8,
+          "name": "Doom – Trap of Clouds",
+          "duration": "1:23"
+        },
+        {
+          "number": 9,
+          "name": "Porco e Bella",
+          "duration": "1:06"
+        },
+        {
+          "number": 10,
+          "name": "Fio – Seventeen",
+          "duration": "2:04"
+        },
+        {
+          "number": 11,
+          "name": "Women of Piccolo",
+          "duration": "2:04"
+        },
+        {
+          "number": 12,
+          "name": "Friend",
+          "duration": "3:04"
+        },
+        {
+          "number": 13,
+          "name": "Partnership",
+          "duration": "2:28"
+        },
+        {
+          "number": 15,
+          "name": "To the Adriatic Sea",
+          "duration": "1:50"
+        },
+        {
+          "number": 16,
+          "name": "In Search of the Distant Era",
+          "duration": "2:18"
+        },
+        {
+          "number": 17,
+          "name": "Love at the First Sight in the Wildness",
+          "duration": "1:11"
+        },
+        {
+          "number": 18,
+          "name": "At the End of the Summer",
+          "duration": "1:26"
+        },
+        {
+          "number": 19,
+          "name": "Lost Spirit",
+          "duration": "4:11"
+        },
+        {
+          "number": 20,
+          "name": "Dog Fight",
+          "duration": "2:10"
+        },
+        {
+          "number": 21,
+          "name": "Porco e Bella - Ending",
+          "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "Ponyo on the Cliff by the Sea (Original Soundtrack)",
+      "year": "2008",
+      "release_date": "2008-07-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f7/19/cc/f719cc4e-05d7-708c-af87-a5cfbbb3ff79/TKCA-.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Deep Sea Pastures",
+          "duration": "4:18"
+        },
+        {
+          "number": 2,
+          "name": "Mother Sea",
+          "duration": "2:21"
+        },
+        {
+          "number": 3,
+          "name": "The First Meeting",
+          "duration": "0:31"
+        },
+        {
+          "number": 4,
+          "name": "Town by a Cove",
+          "duration": "2:36"
+        },
+        {
+          "number": 5,
+          "name": "Kumiko",
+          "duration": "2:06"
+        },
+        {
+          "number": 6,
+          "name": "Ponyo and Sosuke",
+          "duration": "2:17"
+        },
+        {
+          "number": 7,
+          "name": "The Empty Bucket",
+          "duration": "1:30"
+        },
+        {
+          "number": 8,
+          "name": "Night Signals",
+          "duration": "2:37"
+        },
+        {
+          "number": 9,
+          "name": "I Want to Be a Girl!",
+          "duration": "1:30"
+        },
+        {
+          "number": 10,
+          "name": "Fujimoto",
+          "duration": "1:34"
+        },
+        {
+          "number": 11,
+          "name": "Ponyo’s Sisters",
+          "duration": "1:32"
+        },
+        {
+          "number": 12,
+          "name": "Ponyo Flies",
+          "duration": "1:43"
+        },
+        {
+          "number": 13,
+          "name": "The Sunflower House Caught in the Storm",
+          "duration": "2:20"
+        },
+        {
+          "number": 14,
+          "name": "Ponyo Rides a Sea of Fish",
+          "duration": "3:36"
+        },
+        {
+          "number": 15,
+          "name": "Ponyo and Sosuke II",
+          "duration": "2:01"
+        },
+        {
+          "number": 16,
+          "name": "Lisa’s House",
+          "duration": "3:20"
+        },
+        {
+          "number": 17,
+          "name": "A New Family Member",
+          "duration": "1:09"
+        },
+        {
+          "number": 18,
+          "name": "Ponyo's Lullaby",
+          "duration": "1:29"
+        },
+        {
+          "number": 19,
+          "name": "Lisa's Resolve",
+          "duration": "1:33"
+        },
+        {
+          "number": 20,
+          "name": "Gran Mamare",
+          "duration": "2:14"
+        },
+        {
+          "number": 21,
+          "name": "A Night of Shooting stars",
+          "duration": "2:40"
+        },
+        {
+          "number": 22,
+          "name": "The Toy Boat",
+          "duration": "1:55"
+        },
+        {
+          "number": 23,
+          "name": "Towards the Sea of the Dipnorhynchus",
+          "duration": "1:41"
+        },
+        {
+          "number": 24,
+          "name": "March of the Boats",
+          "duration": "2:26"
+        },
+        {
+          "number": 25,
+          "name": "The Baby and Ponyo",
+          "duration": "0:33"
+        },
+        {
+          "number": 26,
+          "name": "March of the Boats II",
+          "duration": "1:14"
+        },
+        {
+          "number": 27,
+          "name": "Sosuke's Voyage",
+          "duration": "2:08"
+        },
+        {
+          "number": 28,
+          "name": "Sosuke's Tears",
+          "duration": "1:02"
+        },
+        {
+          "number": 29,
+          "name": "Underwater Town",
+          "duration": "2:02"
+        },
+        {
+          "number": 30,
+          "name": "A Mother's Love",
+          "duration": "0:49"
+        },
+        {
+          "number": 31,
+          "name": "The Tunnel",
+          "duration": "1:26"
+        },
+        {
+          "number": 32,
+          "name": "Toki",
+          "duration": "0:48"
+        },
+        {
+          "number": 33,
+          "name": "Ponyo's Sisters Lend a Hand",
+          "duration": "1:40"
+        },
+        {
+          "number": 34,
+          "name": "A Song for Mothers and the Sea",
+          "duration": "2:15"
+        },
+        {
+          "number": 35,
+          "name": "The Grand Finale",
+          "duration": "0:44"
+        },
+        {
+          "number": 36,
+          "name": "Ponyo on the Cliff by the Sea (Movie Version)",
+          "duration": "1:36"
+        }
+      ]
+    },
+    {
+      "name": "A Symphonic Celebration (Music from the Studio Ghibli Films of Hayao Miyazaki)",
+      "year": "2023",
+      "release_date": "2023-06-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/3c/70/793c70c7-4bda-21c6-323a-11b76b025c18/23UMGIM37602.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Merry-Go-Round of Life (From \"Howl’s Moving Castle\")",
+          "duration": "2:49"
+        },
+        {
+          "number": 2,
+          "name": "One Summer's Day (The Name of Life) [From \"Spirited Away\" (English Version)]",
+          "duration": "4:04"
+        },
+        {
+          "number": 3,
+          "name": "The Legend of the Wind (From \"Nausicaä of the Valley of the Wind\")",
+          "duration": "2:08"
+        },
+        {
+          "number": 4,
+          "name": "Nausicaä Requiem (From \"Nausicaä of the Valley of the Wind\")",
+          "duration": "1:11"
+        },
+        {
+          "number": 5,
+          "name": "The Battle between Mehve and Corvette (From \"Nausicaä of the Valley of the Wind\")",
+          "duration": "1:19"
+        },
+        {
+          "number": 6,
+          "name": "The Distant Days (From \"Nausicaä of the Valley of the Wind\")",
+          "duration": "1:47"
+        },
+        {
+          "number": 7,
+          "name": "The Bird Man (From \"Nausicaä of the Valley of the Wind\")",
+          "duration": "3:45"
+        },
+        {
+          "number": 8,
+          "name": "A Town with an Ocean View (From \"Kiki's Delivery Service\")",
+          "duration": "3:58"
+        },
+        {
+          "number": 9,
+          "name": "Heartbroken Kiki (From \"Kiki's Delivery Service\")",
+          "duration": "1:17"
+        },
+        {
+          "number": 10,
+          "name": "Mother’s Broom (From \"Kiki's Delivery Service\")",
+          "duration": "3:49"
+        },
+        {
+          "number": 11,
+          "name": "The Legend of Ashitaka (From \"Princess Mononoke\")",
+          "duration": "1:57"
+        },
+        {
+          "number": 12,
+          "name": "The Demon God (From \"Princess Mononoke\")",
+          "duration": "2:16"
+        },
+        {
+          "number": 13,
+          "name": "Princess Mononoke (From \"Princess Mononoke\")",
+          "duration": "3:13"
+        },
+        {
+          "number": 14,
+          "name": "A Journey (A Dream of Flight) [From \"The Wind Rises\"]",
+          "duration": "2:17"
+        },
+        {
+          "number": 15,
+          "name": "Nahoko (The Encounter) [From \"The Wind Rises\"]",
+          "duration": "0:40"
+        },
+        {
+          "number": 16,
+          "name": "A Journey (A Kingdom of Dreams) [From \"The Wind Rises\"]",
+          "duration": "3:18"
+        },
+        {
+          "number": 17,
+          "name": "Deep Sea Pastures (From \"Ponyo on the Cliff by the Sea\")",
+          "duration": "1:24"
+        },
+        {
+          "number": 18,
+          "name": "Mother Sea (From \"Ponyo on the Cliff by the Sea\")",
+          "duration": "3:26"
+        },
+        {
+          "number": 19,
+          "name": "Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (From \"Ponyo on the Cliff by the Sea\")",
+          "duration": "1:27"
+        },
+        {
+          "number": 20,
+          "name": "Ponyo on the Cliff by the Sea",
+          "duration": "3:16"
+        },
+        {
+          "number": 21,
+          "name": "Doves and the Boy (From \"Castle in the Sky\")",
+          "duration": "0:58"
+        },
+        {
+          "number": 22,
+          "name": "Carrying You (From \"Castle in the Sky\")",
+          "duration": "4:32"
+        },
+        {
+          "number": 23,
+          "name": "Bygone Days (From \"Porco Rosso\")",
+          "duration": "4:26"
+        },
+        {
+          "number": 24,
+          "name": "Symphonic Variation \"Merry-Go-Round + Cave of Mind\" (From \"Howl’s Moving Castle\")",
+          "duration": "12:06"
+        },
+        {
+          "number": 25,
+          "name": "One Summer's Day (The Name of Life) [From \"Spirited Away\" (Japanese Version)]",
+          "duration": "3:52"
+        },
+        {
+          "number": 26,
+          "name": "Reprise (From \"Spirited Away\")",
+          "duration": "3:32"
+        },
+        {
+          "number": 27,
+          "name": "The Path of the Wind (From \"My Neighbor Totoro\")",
+          "duration": "0:58"
+        },
+        {
+          "number": 28,
+          "name": "Hey Let's Go (From \"My Neighbor Totoro\")",
+          "duration": "3:33"
+        },
+        {
+          "number": 29,
+          "name": "My Neighbor Totoro (From \"My Neighbor Totoro\")",
+          "duration": "3:57"
+        }
+      ]
+    },
+    {
       "name": "The Tale of the Princess Kaguya (Original Soundtrack)",
       "year": "2013",
       "release_date": "2013-11-20",
@@ -1178,79 +1590,6 @@
           "number": 37,
           "name": "Song of the Heavenly Maiden",
           "duration": "1:34"
-        }
-      ]
-    },
-    {
-      "name": "Nausicaä of the Valley of the Wind (Original Soundtrack)",
-      "year": "1984",
-      "release_date": "1984-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/18/cf/0218cf4b-6850-28b1-6fd3-8cb5278e34b5/TKCA-72717.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nausicaä of the Valley of the Wind – Opening",
-          "duration": "4:38"
-        },
-        {
-          "number": 2,
-          "name": "Stampede of the Ohmu",
-          "duration": "2:35"
-        },
-        {
-          "number": 3,
-          "name": "The Valley of the Wind",
-          "duration": "3:13"
-        },
-        {
-          "number": 4,
-          "name": "The Princess Who Loves Insects",
-          "duration": "3:11"
-        },
-        {
-          "number": 5,
-          "name": "The Invasion of Kushana",
-          "duration": "3:28"
-        },
-        {
-          "number": 6,
-          "name": "Battle",
-          "duration": "3:12"
-        },
-        {
-          "number": 7,
-          "name": "Contact with the Ohmu",
-          "duration": "1:39"
-        },
-        {
-          "number": 8,
-          "name": "In the Sea of Corruption",
-          "duration": "2:33"
-        },
-        {
-          "number": 9,
-          "name": "Annihilation of Pejite",
-          "duration": "3:50"
-        },
-        {
-          "number": 10,
-          "name": "The Battle between Mehve and Corvette",
-          "duration": "1:17"
-        },
-        {
-          "number": 11,
-          "name": "The Resurrection of the Giant Warrior",
-          "duration": "3:28"
-        },
-        {
-          "number": 12,
-          "name": "Nausicaä Requiem",
-          "duration": "2:55"
-        },
-        {
-          "number": 13,
-          "name": "The Bird Man – Ending",
-          "duration": "3:47"
         }
       ]
     },
@@ -1448,114 +1787,6 @@
       ]
     },
     {
-      "name": "Porco Rosso (Original Soundtrack)",
-      "year": "1992",
-      "release_date": "1992-07-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/d5/26/26/d52626ff-7b55-1586-4f12-a9a8d39d9fc7/TKCA-71156.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Wind of Ages - When a Human Can Be a Human",
-          "duration": "2:50"
-        },
-        {
-          "number": 2,
-          "name": "Mammaiuto",
-          "duration": "1:21"
-        },
-        {
-          "number": 3,
-          "name": "Addio!",
-          "duration": "0:37"
-        },
-        {
-          "number": 4,
-          "name": "Bygone Days",
-          "duration": "2:16"
-        },
-        {
-          "number": 5,
-          "name": "A Picture in Sepia",
-          "duration": "0:47"
-        },
-        {
-          "number": 6,
-          "name": "Seribian March",
-          "duration": "1:03"
-        },
-        {
-          "number": 7,
-          "name": "Flying Boatmen",
-          "duration": "2:36"
-        },
-        {
-          "number": 8,
-          "name": "Doom – Trap of Clouds",
-          "duration": "1:23"
-        },
-        {
-          "number": 9,
-          "name": "Porco e Bella",
-          "duration": "1:06"
-        },
-        {
-          "number": 10,
-          "name": "Fio – Seventeen",
-          "duration": "2:04"
-        },
-        {
-          "number": 11,
-          "name": "Women of Piccolo",
-          "duration": "2:04"
-        },
-        {
-          "number": 12,
-          "name": "Friend",
-          "duration": "3:04"
-        },
-        {
-          "number": 13,
-          "name": "Partnership",
-          "duration": "2:28"
-        },
-        {
-          "number": 15,
-          "name": "To the Adriatic Sea",
-          "duration": "1:50"
-        },
-        {
-          "number": 16,
-          "name": "In Search of the Distant Era",
-          "duration": "2:18"
-        },
-        {
-          "number": 17,
-          "name": "Love at the First Sight in the Wildness",
-          "duration": "1:11"
-        },
-        {
-          "number": 18,
-          "name": "At the End of the Summer",
-          "duration": "1:26"
-        },
-        {
-          "number": 19,
-          "name": "Lost Spirit",
-          "duration": "4:11"
-        },
-        {
-          "number": 20,
-          "name": "Dog Fight",
-          "duration": "2:10"
-        },
-        {
-          "number": 21,
-          "name": "Porco e Bella - Ending",
-          "duration": "2:37"
-        }
-      ]
-    },
-    {
       "name": "Dream Songs: The Essential Joe Hisaishi",
       "year": "2020",
       "release_date": "2020-02-21",
@@ -1700,237 +1931,6 @@
           "number": 16,
           "name": "Merry-Go-Round (from \"Howl's Moving Castle\")",
           "duration": "5:09"
-        }
-      ]
-    },
-    {
-      "name": "A Symphonic Celebration (Music from the Studio Ghibli Films of Hayao Miyazaki)",
-      "year": "2023",
-      "release_date": "2023-06-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/3c/70/793c70c7-4bda-21c6-323a-11b76b025c18/23UMGIM37602.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Merry-Go-Round of Life (From \"Howl’s Moving Castle\")",
-          "duration": "2:49"
-        },
-        {
-          "number": 2,
-          "name": "One Summer's Day (The Name of Life) [From \"Spirited Away\" (English Version)]",
-          "duration": "4:04"
-        },
-        {
-          "number": 3,
-          "name": "The Legend of the Wind (From \"Nausicaä of the Valley of the Wind\")",
-          "duration": "2:08"
-        },
-        {
-          "number": 4,
-          "name": "Nausicaä Requiem (From \"Nausicaä of the Valley of the Wind\")",
-          "duration": "1:11"
-        },
-        {
-          "number": 5,
-          "name": "The Battle between Mehve and Corvette (From \"Nausicaä of the Valley of the Wind\")",
-          "duration": "1:19"
-        },
-        {
-          "number": 6,
-          "name": "The Distant Days (From \"Nausicaä of the Valley of the Wind\")",
-          "duration": "1:47"
-        },
-        {
-          "number": 7,
-          "name": "The Bird Man (From \"Nausicaä of the Valley of the Wind\")",
-          "duration": "3:45"
-        },
-        {
-          "number": 8,
-          "name": "A Town with an Ocean View (From \"Kiki's Delivery Service\")",
-          "duration": "3:58"
-        },
-        {
-          "number": 9,
-          "name": "Heartbroken Kiki (From \"Kiki's Delivery Service\")",
-          "duration": "1:17"
-        },
-        {
-          "number": 10,
-          "name": "Mother’s Broom (From \"Kiki's Delivery Service\")",
-          "duration": "3:49"
-        },
-        {
-          "number": 11,
-          "name": "The Legend of Ashitaka (From \"Princess Mononoke\")",
-          "duration": "1:57"
-        },
-        {
-          "number": 12,
-          "name": "The Demon God (From \"Princess Mononoke\")",
-          "duration": "2:16"
-        },
-        {
-          "number": 13,
-          "name": "Princess Mononoke (From \"Princess Mononoke\")",
-          "duration": "3:13"
-        },
-        {
-          "number": 14,
-          "name": "A Journey (A Dream of Flight) [From \"The Wind Rises\"]",
-          "duration": "2:17"
-        },
-        {
-          "number": 15,
-          "name": "Nahoko (The Encounter) [From \"The Wind Rises\"]",
-          "duration": "0:40"
-        },
-        {
-          "number": 16,
-          "name": "A Journey (A Kingdom of Dreams) [From \"The Wind Rises\"]",
-          "duration": "3:18"
-        },
-        {
-          "number": 17,
-          "name": "Deep Sea Pastures (From \"Ponyo on the Cliff by the Sea\")",
-          "duration": "1:24"
-        },
-        {
-          "number": 18,
-          "name": "Mother Sea (From \"Ponyo on the Cliff by the Sea\")",
-          "duration": "3:26"
-        },
-        {
-          "number": 19,
-          "name": "Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (From \"Ponyo on the Cliff by the Sea\")",
-          "duration": "1:27"
-        },
-        {
-          "number": 20,
-          "name": "Ponyo on the Cliff by the Sea",
-          "duration": "3:16"
-        },
-        {
-          "number": 21,
-          "name": "Doves and the Boy (From \"Castle in the Sky\")",
-          "duration": "0:58"
-        },
-        {
-          "number": 22,
-          "name": "Carrying You (From \"Castle in the Sky\")",
-          "duration": "4:32"
-        },
-        {
-          "number": 23,
-          "name": "Bygone Days (From \"Porco Rosso\")",
-          "duration": "4:26"
-        },
-        {
-          "number": 24,
-          "name": "Symphonic Variation \"Merry-Go-Round + Cave of Mind\" (From \"Howl’s Moving Castle\")",
-          "duration": "12:06"
-        },
-        {
-          "number": 25,
-          "name": "One Summer's Day (The Name of Life) [From \"Spirited Away\" (Japanese Version)]",
-          "duration": "3:52"
-        },
-        {
-          "number": 26,
-          "name": "Reprise (From \"Spirited Away\")",
-          "duration": "3:32"
-        },
-        {
-          "number": 27,
-          "name": "The Path of the Wind (From \"My Neighbor Totoro\")",
-          "duration": "0:58"
-        },
-        {
-          "number": 28,
-          "name": "Hey Let's Go (From \"My Neighbor Totoro\")",
-          "duration": "3:33"
-        },
-        {
-          "number": 29,
-          "name": "My Neighbor Totoro (From \"My Neighbor Totoro\")",
-          "duration": "3:57"
-        }
-      ]
-    },
-    {
-      "name": "Castle in the Sky (Original Soundtrack)",
-      "year": "1986",
-      "release_date": "1986-08-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6f/a0/f9/6fa0f99a-cfde-8349-6e5c-a565d2754014/TKCA-72721.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Girl Who Fell From the Sky",
-          "duration": "2:27"
-        },
-        {
-          "number": 2,
-          "name": "Morning in the Slag Ravine",
-          "duration": "3:04"
-        },
-        {
-          "number": 3,
-          "name": "A Rowdy Brawl (- Pursuit)",
-          "duration": "4:27"
-        },
-        {
-          "number": 4,
-          "name": "Memories of Gondoa",
-          "duration": "2:46"
-        },
-        {
-          "number": 5,
-          "name": "Discouraged Pazu",
-          "duration": "1:46"
-        },
-        {
-          "number": 6,
-          "name": "Robot Soldier (Resurrection – Rescue)",
-          "duration": "2:34"
-        },
-        {
-          "number": 7,
-          "name": "Carrying You - Chorus version",
-          "duration": "2:02"
-        },
-        {
-          "number": 8,
-          "name": "Sheeta’s Decision",
-          "duration": "2:05"
-        },
-        {
-          "number": 9,
-          "name": "On the Tiger Moth",
-          "duration": "2:32"
-        },
-        {
-          "number": 10,
-          "name": "An Omen to Ruin",
-          "duration": "2:18"
-        },
-        {
-          "number": 11,
-          "name": "A Sea of Clouds in the Moonlight",
-          "duration": "2:33"
-        },
-        {
-          "number": 12,
-          "name": "Castle in the Sky",
-          "duration": "4:37"
-        },
-        {
-          "number": 13,
-          "name": "Destruction of Laputa",
-          "duration": "2:00"
-        },
-        {
-          "number": 14,
-          "name": "Carrying You",
-          "duration": "4:07"
         }
       ]
     },
@@ -2256,50 +2256,80 @@
       ]
     },
     {
-      "name": "Castle in the Sky - Symphony",
-      "year": "1986",
-      "release_date": "1986-12-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e5/04/2b/e5042bba-81d1-b22d-ac57-73d232bbc188/asset.jpg/600x600bb.jpg",
+      "name": "Symphonic Suite “Kiki’s Delivery Service”",
+      "year": "2020",
+      "release_date": "2020-08-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/3e/a8/f53ea84e-c9ee-24b2-16b0-8f87a61b52b0/20UMGIM62465.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Prologue - The Encounter",
-          "duration": "5:37"
+          "name": "Symphonic Suite “Kiki’s Delivery Service”: On a Clear Day - A Town with an Ocean View (Live In Japan / 2019)",
+          "duration": "4:40"
         },
         {
           "number": 2,
-          "name": "Gran'ma Dola",
-          "duration": "4:10"
+          "name": "Symphonic Suite “Kiki’s Delivery Service”: The Baker’s Assistant - Starting the Job (Live In Japan / 2019)",
+          "duration": "2:14"
         },
         {
           "number": 3,
-          "name": "A Walk in the Sky",
-          "duration": "4:56"
+          "name": "Symphonic Suite “Kiki’s Delivery Service”: Surrogate Jiji - Jeff (Live In Japan / 2019)",
+          "duration": "2:40"
         },
         {
           "number": 4,
-          "name": "Gondoa (In Mother's Arms)",
-          "duration": "4:17"
+          "name": "Symphonic Suite “Kiki’s Delivery Service”: A Very Busy Kiki - Late for the Party (Live In Japan / 2019)",
+          "duration": "2:05"
         },
         {
           "number": 5,
-          "name": "The Legend",
-          "duration": "6:32"
+          "name": "Symphonic Suite “Kiki’s Delivery Service”: A Propeller Driven Bicycle - I Can’t Fly! (Live In Japan / 2019)",
+          "duration": "2:04"
         },
         {
           "number": 6,
-          "name": "A Mining Town",
-          "duration": "4:19"
+          "name": "Symphonic Suite “Kiki’s Delivery Service”: Heartbroken Kiki - An Unusual Painting (Live In Japan / 2019)",
+          "duration": "3:03"
         },
         {
           "number": 7,
-          "name": "The Castle of Time",
-          "duration": "4:11"
+          "name": "Symphonic Suite “Kiki’s Delivery Service”: The Adventure of Freedom, Out of Control - The Old Man’s Push Broom - Rendezvous on the Push Broom (Live In Japan / 2019)",
+          "duration": "4:14"
         },
         {
           "number": 8,
-          "name": "A Big Adventure",
-          "duration": "3:26"
+          "name": "Symphonic Suite “Kiki’s Delivery Service”: Mother’s Broom (Live In Japan / 2019)",
+          "duration": "3:35"
+        },
+        {
+          "number": 9,
+          "name": "[Woman] for Piano Harp, Percussion and Strings: Woman (Live In Japan / 2019)",
+          "duration": "3:17"
+        },
+        {
+          "number": 10,
+          "name": "[Woman] for Piano Harp, Percussion and Strings: Ponyo on the Cliff by the Sea (Live In Japan / 2019)",
+          "duration": "2:36"
+        },
+        {
+          "number": 11,
+          "name": "[Woman] for Piano Harp, Percussion and Strings:  Les Aventuriers (Live In Japan / 2019)",
+          "duration": "4:29"
+        },
+        {
+          "number": 12,
+          "name": "“World Dreams” Suite: I. World Dreams (Live In Japan / 2019)",
+          "duration": "4:07"
+        },
+        {
+          "number": 13,
+          "name": "“World Dreams” Suite: II. Driving to Future (Live In Japan / 2019)",
+          "duration": "3:57"
+        },
+        {
+          "number": 14,
+          "name": "“World Dreams” Suite: III. Diary (Live In Japan / 2019)",
+          "duration": "4:41"
         }
       ]
     },
@@ -2467,203 +2497,70 @@
       ]
     },
     {
-      "name": "Nausicaä of the Valley of the Wind - Symphony",
-      "year": "1984",
-      "release_date": "1984-02-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e0/4f/39/e04f393b-d28b-8a33-826b-bd91a1fa59b6/asset.jpg/600x600bb.jpg",
+      "name": "Symphonic Suite \"Princess Mononoke\" 2021 (Live)",
+      "year": "2022",
+      "release_date": "2022-07-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/40/bd/4e/40bd4e5e-d1a5-5333-aa8b-fd0359e0346f/22UMGIM76250.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Legend of the Wind",
-          "duration": "3:53"
+          "name": "Symphonic Suite \"Princess Mononoke\" 2021: I. The Legend Of Ashitaka (Live)",
+          "duration": "3:05"
         },
         {
           "number": 2,
-          "name": "Battle",
-          "duration": "4:48"
+          "name": "Symphonic Suite \"Princess Mononoke\" 2021: II. TA TA RI GAMI (Live)",
+          "duration": "3:17"
         },
         {
           "number": 3,
-          "name": "To the Land of Faraway…",
-          "duration": "4:15"
+          "name": "Symphonic Suite \"Princess Mononoke\" 2021: III. The Journey Of The West - Kodamas (Live)",
+          "duration": "3:31"
         },
         {
           "number": 4,
-          "name": "The Sea of Corruption",
-          "duration": "5:14"
+          "name": "Symphonic Suite \"Princess Mononoke\" 2021: IV. The Demon Power - The Forest Of The Dear God (Live)",
+          "duration": "3:34"
         },
         {
           "number": 5,
-          "name": "Mehve",
-          "duration": "4:14"
+          "name": "Symphonic Suite \"Princess Mononoke\" 2021: V. Mononoke Hime (Live)",
+          "duration": "3:06"
         },
         {
           "number": 6,
-          "name": "The Giant Warrior - The Tolmekian Army - Her Highness Kushana",
-          "duration": "5:55"
+          "name": "Symphonic Suite \"Princess Mononoke\" 2021: VI. The World Of The Dead - Adagio Of Life & Death (Live)",
+          "duration": "4:10"
         },
         {
           "number": 7,
-          "name": "Nausicaä of the Valley of the Wind",
-          "duration": "4:48"
+          "name": "Symphonic Suite \"Princess Mononoke\" 2021: VII. Ashitaka And San (Live)",
+          "duration": "5:15"
         },
         {
           "number": 8,
-          "name": "The Distant Days",
-          "duration": "3:44"
+          "name": "Merry-Go-Round 2019 (Live)",
+          "duration": "3:39"
         },
         {
           "number": 9,
-          "name": "The Road to the Valley",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "A Big Bold Beautiful Journey (Original Motion Picture Soundtrack)",
-      "year": "2025",
-      "release_date": "2025-09-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/6b/94/f66b945a-82ea-d280-7786-f47e56441cd4/196873532103.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rain",
-          "duration": "1:51"
-        },
-        {
-          "number": 2,
-          "name": "I'm Not",
-          "duration": "0:47"
-        },
-        {
-          "number": 3,
-          "name": "The Point (Bonus Track)",
-          "duration": "0:13"
-        },
-        {
-          "number": 4,
-          "name": "Sarah and David",
-          "duration": "5:10"
-        },
-        {
-          "number": 5,
-          "name": "A Big, Bold, Beautiful Journey",
-          "duration": "1:23"
-        },
-        {
-          "number": 6,
-          "name": "The Door (Bonus Track)",
-          "duration": "1:26"
-        },
-        {
-          "number": 7,
-          "name": "The Lighthouse",
-          "duration": "2:28"
-        },
-        {
-          "number": 8,
-          "name": "Silent (Bonus Track)",
-          "duration": "2:34"
-        },
-        {
-          "number": 9,
-          "name": "Memory of Dad",
-          "duration": "2:36"
+          "name": "Asian Works 2020: I. Will be the wind (Live)",
+          "duration": "4:05"
         },
         {
           "number": 10,
-          "name": "High School",
-          "duration": "1:15"
+          "name": "Asian Works 2020: II. Yinglian (Live)",
+          "duration": "3:28"
         },
         {
           "number": 11,
-          "name": "Mom Passed Away",
-          "duration": "1:32"
+          "name": "Asian Works 2020: III. Xpark (Live)",
+          "duration": "4:27"
         },
         {
           "number": 12,
-          "name": "To Her Mother's Side",
-          "duration": "3:07"
-        },
-        {
-          "number": 13,
-          "name": "Memories of Mother",
-          "duration": "2:08"
-        },
-        {
-          "number": 14,
-          "name": "The Balloon and the Bear",
-          "duration": "1:55"
-        },
-        {
-          "number": 15,
-          "name": "Earth Kiss",
-          "duration": "1:50"
-        },
-        {
-          "number": 16,
-          "name": "Couple Fight",
-          "duration": "0:35"
-        },
-        {
-          "number": 17,
-          "name": "The Accident (Bonus Track)",
-          "duration": "1:26"
-        },
-        {
-          "number": 18,
-          "name": "Midnight Walk",
-          "duration": "0:37"
-        },
-        {
-          "number": 19,
-          "name": "Two Paths",
-          "duration": "1:35"
-        },
-        {
-          "number": 20,
-          "name": "The Childhood Home",
-          "duration": "1:44"
-        },
-        {
-          "number": 21,
-          "name": "When I Was Young",
-          "duration": "1:53"
-        },
-        {
-          "number": 22,
-          "name": "Meet Again (Bonus Track)",
-          "duration": "1:07"
-        },
-        {
-          "number": 23,
-          "name": "The Risk",
-          "duration": "3:58"
-        },
-        {
-          "number": 24,
-          "name": "Winter Wonderland",
-          "duration": "2:12"
-        },
-        {
-          "number": 25,
-          "name": "But Beautiful",
-          "duration": "4:32"
-        },
-        {
-          "number": 26,
-          "name": "Let's Dream in the Moonlight (Take 1)",
-          "duration": "2:48"
-        },
-        {
-          "number": 27,
-          "name": "Let My Love Open the Door",
-          "duration": "2:41"
-        },
-        {
-          "number": 28,
-          "name": "The Risk (Instrumental)",
-          "duration": "3:58"
+          "name": "World Dreams 2021 (Live)",
+          "duration": "4:37"
         }
       ]
     },
@@ -2731,35 +2628,375 @@
       ]
     },
     {
-      "name": "Joe Hisaishi in Vienna: Symphony No. 2 & Viola Saga",
-      "year": "2024",
-      "release_date": "2024-06-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/e0/bb/6ae0bb5d-6e89-ba34-c2c5-c23a933144e3/24UMGIM24782.rgb.jpg/600x600bb.jpg",
+      "name": "Nausicaä of the Valley of the Wind - Symphony",
+      "year": "1984",
+      "release_date": "1984-02-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e0/4f/39/e04f393b-d28b-8a33-826b-bd91a1fa59b6/asset.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Symphony No. 2: I. What the World Is Now?",
-          "duration": "11:45"
+          "name": "The Legend of the Wind",
+          "duration": "3:53"
         },
         {
           "number": 2,
-          "name": "Symphony No. 2: II. Variation 14",
-          "duration": "11:19"
+          "name": "Battle",
+          "duration": "4:48"
         },
         {
           "number": 3,
-          "name": "Symphony No. 2: III. Nursery Rhyme",
-          "duration": "14:41"
+          "name": "To the Land of Faraway…",
+          "duration": "4:15"
         },
         {
           "number": 4,
-          "name": "Viola Saga: Movement 1",
-          "duration": "11:23"
+          "name": "The Sea of Corruption",
+          "duration": "5:14"
         },
         {
           "number": 5,
-          "name": "Viola Saga: Movement 2",
-          "duration": "10:04"
+          "name": "Mehve",
+          "duration": "4:14"
+        },
+        {
+          "number": 6,
+          "name": "The Giant Warrior - The Tolmekian Army - Her Highness Kushana",
+          "duration": "5:55"
+        },
+        {
+          "number": 7,
+          "name": "Nausicaä of the Valley of the Wind",
+          "duration": "4:48"
+        },
+        {
+          "number": 8,
+          "name": "The Distant Days",
+          "duration": "3:44"
+        },
+        {
+          "number": 9,
+          "name": "The Road to the Valley",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "Spirited Away Suite (Live)",
+      "year": "2019",
+      "release_date": "2019-07-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0a/f0/c8/0af0c8e6-77ff-d45a-ed1d-3f6879eb40a2/19UMGIM62866.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Spirited Away Suite (Live)",
+          "duration": "25:07"
+        },
+        {
+          "number": 2,
+          "name": "Le Petit Poucet (Live)",
+          "duration": "4:28"
+        },
+        {
+          "number": 3,
+          "name": "DA-MA-SHI-E (Live)",
+          "duration": "7:26"
+        },
+        {
+          "number": 4,
+          "name": "Encounter for String Orchestra (Live)",
+          "duration": "5:55"
+        },
+        {
+          "number": 5,
+          "name": "World Dreams (Live)",
+          "duration": "4:18"
+        }
+      ]
+    },
+    {
+      "name": "Symphonic Suite Castle in the Sky",
+      "year": "2018",
+      "release_date": "2018-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/14/30/3c143014-6318-0f3b-54aa-804f11ffc247/18UMGIM42796.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Doves and the Boy / The Girl Who Fell from the Sky",
+          "duration": "3:52"
+        },
+        {
+          "number": 2,
+          "name": "A Street Brawl / The Chase / Floating with the Crystal",
+          "duration": "4:22"
+        },
+        {
+          "number": 3,
+          "name": "Memories of Gondoa",
+          "duration": "1:27"
+        },
+        {
+          "number": 4,
+          "name": "The Crisis / Disheartened Pazu",
+          "duration": "2:28"
+        },
+        {
+          "number": 5,
+          "name": "Robot Soldier/ Resurrection-Rescue -",
+          "duration": "2:34"
+        },
+        {
+          "number": 6,
+          "name": "Gran'ma Dola",
+          "duration": "2:32"
+        },
+        {
+          "number": 7,
+          "name": "The Castle of Time",
+          "duration": "3:13"
+        },
+        {
+          "number": 8,
+          "name": "Innocent",
+          "duration": "2:36"
+        },
+        {
+          "number": 9,
+          "name": "The Eternal Tree of Life",
+          "duration": "3:38"
+        },
+        {
+          "number": 10,
+          "name": "ASIAN SYMPHONY 1. Dawn of Asia",
+          "duration": "5:04"
+        },
+        {
+          "number": 11,
+          "name": "ASIAN SYMPHONY 2. Hurly-Burly",
+          "duration": "3:25"
+        },
+        {
+          "number": 12,
+          "name": "ASIAN SYMPHONY 3. Monkey Forest",
+          "duration": "5:43"
+        },
+        {
+          "number": 13,
+          "name": "ASIAN SYMPHONY 4. Absolution",
+          "duration": "5:48"
+        },
+        {
+          "number": 14,
+          "name": "ASIAN SYMPHONY 5. Asian Crisis",
+          "duration": "6:37"
+        }
+      ]
+    },
+    {
+      "name": "Genesis Climber Mospeada  \"Mospeada\"",
+      "year": "1994",
+      "release_date": "1994-02-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/98/87/2e/98872e46-fd8e-7de7-4123-1616a66d5597/VEATP-32353.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ushinawareta Yume O Motomete",
+          "duration": "3:47"
+        },
+        {
+          "number": 2,
+          "name": "Venus Of The Space",
+          "duration": "2:19"
+        },
+        {
+          "number": 3,
+          "name": "Exhausted City",
+          "duration": "3:12"
+        },
+        {
+          "number": 4,
+          "name": "Yattsukero!",
+          "duration": "3:29"
+        },
+        {
+          "number": 5,
+          "name": "Dash And Dash",
+          "duration": "2:45"
+        },
+        {
+          "number": 6,
+          "name": "Young Spirits",
+          "duration": "4:00"
+        },
+        {
+          "number": 7,
+          "name": "Houquet No Blues",
+          "duration": "2:07"
+        },
+        {
+          "number": 8,
+          "name": "Futari De Itai",
+          "duration": "3:25"
+        },
+        {
+          "number": 9,
+          "name": "Hisho No Gishiki",
+          "duration": "3:21"
+        },
+        {
+          "number": 10,
+          "name": "Inbit",
+          "duration": "4:00"
+        },
+        {
+          "number": 11,
+          "name": "Dream Eaters",
+          "duration": "2:40"
+        },
+        {
+          "number": 12,
+          "name": "Pretty Cupid",
+          "duration": "1:56"
+        },
+        {
+          "number": 13,
+          "name": "Seishun E No Tegami",
+          "duration": "3:06"
+        },
+        {
+          "number": 14,
+          "name": "Ai No Koishi",
+          "duration": "3:21"
+        },
+        {
+          "number": 15,
+          "name": "Densetsu No Kawa",
+          "duration": "2:30"
+        },
+        {
+          "number": 16,
+          "name": "Blue Rain",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
+      "name": "Castle in the Sky - Symphony",
+      "year": "1986",
+      "release_date": "1986-12-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e5/04/2b/e5042bba-81d1-b22d-ac57-73d232bbc188/asset.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Prologue - The Encounter",
+          "duration": "5:37"
+        },
+        {
+          "number": 2,
+          "name": "Gran'ma Dola",
+          "duration": "4:10"
+        },
+        {
+          "number": 3,
+          "name": "A Walk in the Sky",
+          "duration": "4:56"
+        },
+        {
+          "number": 4,
+          "name": "Gondoa (In Mother's Arms)",
+          "duration": "4:17"
+        },
+        {
+          "number": 5,
+          "name": "The Legend",
+          "duration": "6:32"
+        },
+        {
+          "number": 6,
+          "name": "A Mining Town",
+          "duration": "4:19"
+        },
+        {
+          "number": 7,
+          "name": "The Castle of Time",
+          "duration": "4:11"
+        },
+        {
+          "number": 8,
+          "name": "A Big Adventure",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "CURVED MUSIC",
+      "year": "1986",
+      "release_date": "1986-09-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a5/ae/c6/a5aec64d-a6f2-852e-eec7-2e719d9cab26/20UMGIM04152.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A RING OF THE AIR",
+          "duration": "0:43"
+        },
+        {
+          "number": 2,
+          "name": "THE WINTER REQUIEM",
+          "duration": "4:47"
+        },
+        {
+          "number": 3,
+          "name": "WHITE SILENCE",
+          "duration": "1:04"
+        },
+        {
+          "number": 4,
+          "name": "OUT OF TOWN",
+          "duration": "2:38"
+        },
+        {
+          "number": 5,
+          "name": "A VIRGIN & THE PIPE-CUT MAN",
+          "duration": "0:55"
+        },
+        {
+          "number": 6,
+          "name": "794BDH",
+          "duration": "3:00"
+        },
+        {
+          "number": 7,
+          "name": "ZTD",
+          "duration": "3:48"
+        },
+        {
+          "number": 8,
+          "name": "PÚFF ÁDDER",
+          "duration": "1:10"
+        },
+        {
+          "number": 9,
+          "name": "A RAINBOW IN CURVED MUSIC",
+          "duration": "5:45"
+        },
+        {
+          "number": 10,
+          "name": "SYNTAX ERROR II",
+          "duration": "2:43"
+        },
+        {
+          "number": 11,
+          "name": "\"CLASSIC\"",
+          "duration": "1:05"
+        },
+        {
+          "number": 12,
+          "name": "FLOWER MOMENT",
+          "duration": "1:20"
+        },
+        {
+          "number": 13,
+          "name": "A Girl of the Moon-Desert (from Opera \"The Pearl Fishers\")",
+          "duration": "5:31"
         }
       ]
     },
@@ -2985,80 +3222,35 @@
       ]
     },
     {
-      "name": "Symphonic Suite “Kiki’s Delivery Service”",
-      "year": "2020",
-      "release_date": "2020-08-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/3e/a8/f53ea84e-c9ee-24b2-16b0-8f87a61b52b0/20UMGIM62465.rgb.jpg/600x600bb.jpg",
+      "name": "Joe Hisaishi in Vienna: Symphony No. 2 & Viola Saga",
+      "year": "2024",
+      "release_date": "2024-06-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/e0/bb/6ae0bb5d-6e89-ba34-c2c5-c23a933144e3/24UMGIM24782.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Symphonic Suite “Kiki’s Delivery Service”: On a Clear Day - A Town with an Ocean View (Live In Japan / 2019)",
-          "duration": "4:40"
+          "name": "Symphony No. 2: I. What the World Is Now?",
+          "duration": "11:45"
         },
         {
           "number": 2,
-          "name": "Symphonic Suite “Kiki’s Delivery Service”: The Baker’s Assistant - Starting the Job (Live In Japan / 2019)",
-          "duration": "2:14"
+          "name": "Symphony No. 2: II. Variation 14",
+          "duration": "11:19"
         },
         {
           "number": 3,
-          "name": "Symphonic Suite “Kiki’s Delivery Service”: Surrogate Jiji - Jeff (Live In Japan / 2019)",
-          "duration": "2:40"
+          "name": "Symphony No. 2: III. Nursery Rhyme",
+          "duration": "14:41"
         },
         {
           "number": 4,
-          "name": "Symphonic Suite “Kiki’s Delivery Service”: A Very Busy Kiki - Late for the Party (Live In Japan / 2019)",
-          "duration": "2:05"
+          "name": "Viola Saga: Movement 1",
+          "duration": "11:23"
         },
         {
           "number": 5,
-          "name": "Symphonic Suite “Kiki’s Delivery Service”: A Propeller Driven Bicycle - I Can’t Fly! (Live In Japan / 2019)",
-          "duration": "2:04"
-        },
-        {
-          "number": 6,
-          "name": "Symphonic Suite “Kiki’s Delivery Service”: Heartbroken Kiki - An Unusual Painting (Live In Japan / 2019)",
-          "duration": "3:03"
-        },
-        {
-          "number": 7,
-          "name": "Symphonic Suite “Kiki’s Delivery Service”: The Adventure of Freedom, Out of Control - The Old Man’s Push Broom - Rendezvous on the Push Broom (Live In Japan / 2019)",
-          "duration": "4:14"
-        },
-        {
-          "number": 8,
-          "name": "Symphonic Suite “Kiki’s Delivery Service”: Mother’s Broom (Live In Japan / 2019)",
-          "duration": "3:35"
-        },
-        {
-          "number": 9,
-          "name": "[Woman] for Piano Harp, Percussion and Strings: Woman (Live In Japan / 2019)",
-          "duration": "3:17"
-        },
-        {
-          "number": 10,
-          "name": "[Woman] for Piano Harp, Percussion and Strings: Ponyo on the Cliff by the Sea (Live In Japan / 2019)",
-          "duration": "2:36"
-        },
-        {
-          "number": 11,
-          "name": "[Woman] for Piano Harp, Percussion and Strings:  Les Aventuriers (Live In Japan / 2019)",
-          "duration": "4:29"
-        },
-        {
-          "number": 12,
-          "name": "“World Dreams” Suite: I. World Dreams (Live In Japan / 2019)",
-          "duration": "4:07"
-        },
-        {
-          "number": 13,
-          "name": "“World Dreams” Suite: II. Driving to Future (Live In Japan / 2019)",
-          "duration": "3:57"
-        },
-        {
-          "number": 14,
-          "name": "“World Dreams” Suite: III. Diary (Live In Japan / 2019)",
-          "duration": "4:41"
+          "name": "Viola Saga: Movement 2",
+          "duration": "10:04"
         }
       ]
     },
@@ -3180,6 +3372,154 @@
           "number": 9,
           "name": "Birthday",
           "duration": "4:14"
+        }
+      ]
+    },
+    {
+      "name": "A Big Bold Beautiful Journey (Original Motion Picture Soundtrack)",
+      "year": "2025",
+      "release_date": "2025-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/6b/94/f66b945a-82ea-d280-7786-f47e56441cd4/196873532103.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rain",
+          "duration": "1:51"
+        },
+        {
+          "number": 2,
+          "name": "I'm Not",
+          "duration": "0:47"
+        },
+        {
+          "number": 3,
+          "name": "The Point (Bonus Track)",
+          "duration": "0:13"
+        },
+        {
+          "number": 4,
+          "name": "Sarah and David",
+          "duration": "5:10"
+        },
+        {
+          "number": 5,
+          "name": "A Big, Bold, Beautiful Journey",
+          "duration": "1:23"
+        },
+        {
+          "number": 6,
+          "name": "The Door (Bonus Track)",
+          "duration": "1:26"
+        },
+        {
+          "number": 7,
+          "name": "The Lighthouse",
+          "duration": "2:28"
+        },
+        {
+          "number": 8,
+          "name": "Silent (Bonus Track)",
+          "duration": "2:34"
+        },
+        {
+          "number": 9,
+          "name": "Memory of Dad",
+          "duration": "2:36"
+        },
+        {
+          "number": 10,
+          "name": "High School",
+          "duration": "1:15"
+        },
+        {
+          "number": 11,
+          "name": "Mom Passed Away",
+          "duration": "1:32"
+        },
+        {
+          "number": 12,
+          "name": "To Her Mother's Side",
+          "duration": "3:07"
+        },
+        {
+          "number": 13,
+          "name": "Memories of Mother",
+          "duration": "2:08"
+        },
+        {
+          "number": 14,
+          "name": "The Balloon and the Bear",
+          "duration": "1:55"
+        },
+        {
+          "number": 15,
+          "name": "Earth Kiss",
+          "duration": "1:50"
+        },
+        {
+          "number": 16,
+          "name": "Couple Fight",
+          "duration": "0:35"
+        },
+        {
+          "number": 17,
+          "name": "The Accident (Bonus Track)",
+          "duration": "1:26"
+        },
+        {
+          "number": 18,
+          "name": "Midnight Walk",
+          "duration": "0:37"
+        },
+        {
+          "number": 19,
+          "name": "Two Paths",
+          "duration": "1:35"
+        },
+        {
+          "number": 20,
+          "name": "The Childhood Home",
+          "duration": "1:44"
+        },
+        {
+          "number": 21,
+          "name": "When I Was Young",
+          "duration": "1:53"
+        },
+        {
+          "number": 22,
+          "name": "Meet Again (Bonus Track)",
+          "duration": "1:07"
+        },
+        {
+          "number": 23,
+          "name": "The Risk",
+          "duration": "3:58"
+        },
+        {
+          "number": 24,
+          "name": "Winter Wonderland",
+          "duration": "2:12"
+        },
+        {
+          "number": 25,
+          "name": "But Beautiful",
+          "duration": "4:32"
+        },
+        {
+          "number": 26,
+          "name": "Let's Dream in the Moonlight (Take 1)",
+          "duration": "2:48"
+        },
+        {
+          "number": 27,
+          "name": "Let My Love Open the Door",
+          "duration": "2:41"
+        },
+        {
+          "number": 28,
+          "name": "The Risk (Instrumental)",
+          "duration": "3:58"
         }
       ]
     },
@@ -3830,152 +4170,6 @@
       ]
     },
     {
-      "name": "Symphonic Suite \"Princess Mononoke\" 2021 (Live)",
-      "year": "2022",
-      "release_date": "2022-07-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/40/bd/4e/40bd4e5e-d1a5-5333-aa8b-fd0359e0346f/22UMGIM76250.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Symphonic Suite \"Princess Mononoke\" 2021: I. The Legend Of Ashitaka (Live)",
-          "duration": "3:05"
-        },
-        {
-          "number": 2,
-          "name": "Symphonic Suite \"Princess Mononoke\" 2021: II. TA TA RI GAMI (Live)",
-          "duration": "3:17"
-        },
-        {
-          "number": 3,
-          "name": "Symphonic Suite \"Princess Mononoke\" 2021: III. The Journey Of The West - Kodamas (Live)",
-          "duration": "3:31"
-        },
-        {
-          "number": 4,
-          "name": "Symphonic Suite \"Princess Mononoke\" 2021: IV. The Demon Power - The Forest Of The Dear God (Live)",
-          "duration": "3:34"
-        },
-        {
-          "number": 5,
-          "name": "Symphonic Suite \"Princess Mononoke\" 2021: V. Mononoke Hime (Live)",
-          "duration": "3:06"
-        },
-        {
-          "number": 6,
-          "name": "Symphonic Suite \"Princess Mononoke\" 2021: VI. The World Of The Dead - Adagio Of Life & Death (Live)",
-          "duration": "4:10"
-        },
-        {
-          "number": 7,
-          "name": "Symphonic Suite \"Princess Mononoke\" 2021: VII. Ashitaka And San (Live)",
-          "duration": "5:15"
-        },
-        {
-          "number": 8,
-          "name": "Merry-Go-Round 2019 (Live)",
-          "duration": "3:39"
-        },
-        {
-          "number": 9,
-          "name": "Asian Works 2020: I. Will be the wind (Live)",
-          "duration": "4:05"
-        },
-        {
-          "number": 10,
-          "name": "Asian Works 2020: II. Yinglian (Live)",
-          "duration": "3:28"
-        },
-        {
-          "number": 11,
-          "name": "Asian Works 2020: III. Xpark (Live)",
-          "duration": "4:27"
-        },
-        {
-          "number": 12,
-          "name": "World Dreams 2021 (Live)",
-          "duration": "4:37"
-        }
-      ]
-    },
-    {
-      "name": "Symphonic Suite Castle in the Sky",
-      "year": "2018",
-      "release_date": "2018-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/14/30/3c143014-6318-0f3b-54aa-804f11ffc247/18UMGIM42796.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Doves and the Boy / The Girl Who Fell from the Sky",
-          "duration": "3:52"
-        },
-        {
-          "number": 2,
-          "name": "A Street Brawl / The Chase / Floating with the Crystal",
-          "duration": "4:22"
-        },
-        {
-          "number": 3,
-          "name": "Memories of Gondoa",
-          "duration": "1:27"
-        },
-        {
-          "number": 4,
-          "name": "The Crisis / Disheartened Pazu",
-          "duration": "2:28"
-        },
-        {
-          "number": 5,
-          "name": "Robot Soldier/ Resurrection-Rescue -",
-          "duration": "2:34"
-        },
-        {
-          "number": 6,
-          "name": "Gran'ma Dola",
-          "duration": "2:32"
-        },
-        {
-          "number": 7,
-          "name": "The Castle of Time",
-          "duration": "3:13"
-        },
-        {
-          "number": 8,
-          "name": "Innocent",
-          "duration": "2:36"
-        },
-        {
-          "number": 9,
-          "name": "The Eternal Tree of Life",
-          "duration": "3:38"
-        },
-        {
-          "number": 10,
-          "name": "ASIAN SYMPHONY 1. Dawn of Asia",
-          "duration": "5:04"
-        },
-        {
-          "number": 11,
-          "name": "ASIAN SYMPHONY 2. Hurly-Burly",
-          "duration": "3:25"
-        },
-        {
-          "number": 12,
-          "name": "ASIAN SYMPHONY 3. Monkey Forest",
-          "duration": "5:43"
-        },
-        {
-          "number": 13,
-          "name": "ASIAN SYMPHONY 4. Absolution",
-          "duration": "5:48"
-        },
-        {
-          "number": 14,
-          "name": "ASIAN SYMPHONY 5. Asian Crisis",
-          "duration": "6:37"
-        }
-      ]
-    },
-    {
       "name": "WORKS I",
       "year": "1997",
       "release_date": "1997-10-15",
@@ -4015,74 +4209,6 @@
           "number": 7,
           "name": "SILENT LOVE (from \"A Scene at the Sea\")",
           "duration": "5:41"
-        }
-      ]
-    },
-    {
-      "name": "Joe Hisaishi Conducts",
-      "year": "2025",
-      "release_date": "2025-08-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/b3/b3/d7b3b382-d472-b756-c45f-f41e3a2f02dd/25UMGIM57813.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Desert Music: I. fast",
-          "duration": "7:16"
-        },
-        {
-          "number": 2,
-          "name": "The Desert Music: II. moderate",
-          "duration": "6:44"
-        },
-        {
-          "number": 3,
-          "name": "The Desert Music: IIIa. slow",
-          "duration": "6:10"
-        },
-        {
-          "number": 4,
-          "name": "The Desert Music: IIIb. moderate",
-          "duration": "5:46"
-        },
-        {
-          "number": 5,
-          "name": "The Desert Music: IIIc. slow",
-          "duration": "5:17"
-        },
-        {
-          "number": 6,
-          "name": "The Desert Music: IV. moderate",
-          "duration": "3:28"
-        },
-        {
-          "number": 7,
-          "name": "The Desert Music: V. fast",
-          "duration": "10:11"
-        },
-        {
-          "number": 8,
-          "name": "The End of the World (Version for Soprano): I. Collapse",
-          "duration": "8:59"
-        },
-        {
-          "number": 9,
-          "name": "The End of the World (Version for Soprano): II. Grace of the St. Paul",
-          "duration": "8:25"
-        },
-        {
-          "number": 10,
-          "name": "The End of the World (Version for Soprano): III. D.e.a.d",
-          "duration": "5:25"
-        },
-        {
-          "number": 11,
-          "name": "The End of the World (Version for Soprano): IV. Beyond the World",
-          "duration": "7:15"
-        },
-        {
-          "number": 12,
-          "name": "The End of the World (Version for Soprano) [Recomposed by Joe Hisaishi]",
-          "duration": "5:46"
         }
       ]
     },
@@ -4281,39 +4407,6 @@
       ]
     },
     {
-      "name": "Spirited Away Suite (Live)",
-      "year": "2019",
-      "release_date": "2019-07-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0a/f0/c8/0af0c8e6-77ff-d45a-ed1d-3f6879eb40a2/19UMGIM62866.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Spirited Away Suite (Live)",
-          "duration": "25:07"
-        },
-        {
-          "number": 2,
-          "name": "Le Petit Poucet (Live)",
-          "duration": "4:28"
-        },
-        {
-          "number": 3,
-          "name": "DA-MA-SHI-E (Live)",
-          "duration": "7:26"
-        },
-        {
-          "number": 4,
-          "name": "Encounter for String Orchestra (Live)",
-          "duration": "5:55"
-        },
-        {
-          "number": 5,
-          "name": "World Dreams (Live)",
-          "duration": "4:18"
-        }
-      ]
-    },
-    {
       "name": "Vermeer & Escher",
       "year": "2012",
       "release_date": "2012-02-15",
@@ -4373,79 +4466,6 @@
           "number": 11,
           "name": "Other World",
           "duration": "4:50"
-        }
-      ]
-    },
-    {
-      "name": "Gene -遺伝子- Vol.2",
-      "year": "1999",
-      "release_date": "1999-08-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/bf/72/c8/bf72c823-ce64-5b28-d7c2-bf8c58ab0ce6/PCCR_00308.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "History (Remix)",
-          "duration": "4:08"
-        },
-        {
-          "number": 2,
-          "name": "Gene",
-          "duration": "3:50"
-        },
-        {
-          "number": 3,
-          "name": "Eternal Mind",
-          "duration": "2:33"
-        },
-        {
-          "number": 4,
-          "name": "Desire",
-          "duration": "1:46"
-        },
-        {
-          "number": 5,
-          "name": "Gene (Wood Winds)",
-          "duration": "2:44"
-        },
-        {
-          "number": 6,
-          "name": "Choral for Gene (Another Version)",
-          "duration": "5:10"
-        },
-        {
-          "number": 7,
-          "name": "Pandora's Box",
-          "duration": "2:46"
-        },
-        {
-          "number": 8,
-          "name": "Ophelia",
-          "duration": "1:35"
-        },
-        {
-          "number": 9,
-          "name": "Gene (Piano Ver.)",
-          "duration": "1:21"
-        },
-        {
-          "number": 10,
-          "name": "Telomere",
-          "duration": "4:24"
-        },
-        {
-          "number": 11,
-          "name": "Harukanaru Toki wo Koete (Another Version)",
-          "duration": "4:39"
-        },
-        {
-          "number": 12,
-          "name": "Gene (Violin + Cello Ver.)",
-          "duration": "2:45"
-        },
-        {
-          "number": 13,
-          "name": "A Gift from Parents (Remix)",
-          "duration": "4:29"
         }
       ]
     },
@@ -4873,6 +4893,74 @@
       ]
     },
     {
+      "name": "Joe Hisaishi Conducts",
+      "year": "2025",
+      "release_date": "2025-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/b3/b3/d7b3b382-d472-b756-c45f-f41e3a2f02dd/25UMGIM57813.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Desert Music: I. fast",
+          "duration": "7:16"
+        },
+        {
+          "number": 2,
+          "name": "The Desert Music: II. moderate",
+          "duration": "6:44"
+        },
+        {
+          "number": 3,
+          "name": "The Desert Music: IIIa. slow",
+          "duration": "6:10"
+        },
+        {
+          "number": 4,
+          "name": "The Desert Music: IIIb. moderate",
+          "duration": "5:46"
+        },
+        {
+          "number": 5,
+          "name": "The Desert Music: IIIc. slow",
+          "duration": "5:17"
+        },
+        {
+          "number": 6,
+          "name": "The Desert Music: IV. moderate",
+          "duration": "3:28"
+        },
+        {
+          "number": 7,
+          "name": "The Desert Music: V. fast",
+          "duration": "10:11"
+        },
+        {
+          "number": 8,
+          "name": "The End of the World (Version for Soprano): I. Collapse",
+          "duration": "8:59"
+        },
+        {
+          "number": 9,
+          "name": "The End of the World (Version for Soprano): II. Grace of the St. Paul",
+          "duration": "8:25"
+        },
+        {
+          "number": 10,
+          "name": "The End of the World (Version for Soprano): III. D.e.a.d",
+          "duration": "5:25"
+        },
+        {
+          "number": 11,
+          "name": "The End of the World (Version for Soprano): IV. Beyond the World",
+          "duration": "7:15"
+        },
+        {
+          "number": 12,
+          "name": "The End of the World (Version for Soprano) [Recomposed by Joe Hisaishi]",
+          "duration": "5:46"
+        }
+      ]
+    },
+    {
       "name": "Haruka, Nosutaruji",
       "year": "2001",
       "release_date": "2001-10-30",
@@ -4957,94 +5045,6 @@
           "number": 16,
           "name": "Yarusenai Aria - Aria・Sorichūdo (Japanese Version)",
           "duration": "4:30"
-        }
-      ]
-    },
-    {
-      "name": "Genesis Climber Mospeada  \"Mospeada\"",
-      "year": "1994",
-      "release_date": "1994-02-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/98/87/2e/98872e46-fd8e-7de7-4123-1616a66d5597/VEATP-32353.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ushinawareta Yume O Motomete",
-          "duration": "3:47"
-        },
-        {
-          "number": 2,
-          "name": "Venus Of The Space",
-          "duration": "2:19"
-        },
-        {
-          "number": 3,
-          "name": "Exhausted City",
-          "duration": "3:12"
-        },
-        {
-          "number": 4,
-          "name": "Yattsukero!",
-          "duration": "3:29"
-        },
-        {
-          "number": 5,
-          "name": "Dash And Dash",
-          "duration": "2:45"
-        },
-        {
-          "number": 6,
-          "name": "Young Spirits",
-          "duration": "4:00"
-        },
-        {
-          "number": 7,
-          "name": "Houquet No Blues",
-          "duration": "2:07"
-        },
-        {
-          "number": 8,
-          "name": "Futari De Itai",
-          "duration": "3:25"
-        },
-        {
-          "number": 9,
-          "name": "Hisho No Gishiki",
-          "duration": "3:21"
-        },
-        {
-          "number": 10,
-          "name": "Inbit",
-          "duration": "4:00"
-        },
-        {
-          "number": 11,
-          "name": "Dream Eaters",
-          "duration": "2:40"
-        },
-        {
-          "number": 12,
-          "name": "Pretty Cupid",
-          "duration": "1:56"
-        },
-        {
-          "number": 13,
-          "name": "Seishun E No Tegami",
-          "duration": "3:06"
-        },
-        {
-          "number": 14,
-          "name": "Ai No Koishi",
-          "duration": "3:21"
-        },
-        {
-          "number": 15,
-          "name": "Densetsu No Kawa",
-          "duration": "2:30"
-        },
-        {
-          "number": 16,
-          "name": "Blue Rain",
-          "duration": "3:46"
         }
       ]
     },
@@ -6275,6 +6275,79 @@
       ]
     },
     {
+      "name": "Gene -遺伝子- Vol.2",
+      "year": "1999",
+      "release_date": "1999-08-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/bf/72/c8/bf72c823-ce64-5b28-d7c2-bf8c58ab0ce6/PCCR_00308.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "History (Remix)",
+          "duration": "4:08"
+        },
+        {
+          "number": 2,
+          "name": "Gene",
+          "duration": "3:50"
+        },
+        {
+          "number": 3,
+          "name": "Eternal Mind",
+          "duration": "2:33"
+        },
+        {
+          "number": 4,
+          "name": "Desire",
+          "duration": "1:46"
+        },
+        {
+          "number": 5,
+          "name": "Gene (Wood Winds)",
+          "duration": "2:44"
+        },
+        {
+          "number": 6,
+          "name": "Choral for Gene (Another Version)",
+          "duration": "5:10"
+        },
+        {
+          "number": 7,
+          "name": "Pandora's Box",
+          "duration": "2:46"
+        },
+        {
+          "number": 8,
+          "name": "Ophelia",
+          "duration": "1:35"
+        },
+        {
+          "number": 9,
+          "name": "Gene (Piano Ver.)",
+          "duration": "1:21"
+        },
+        {
+          "number": 10,
+          "name": "Telomere",
+          "duration": "4:24"
+        },
+        {
+          "number": 11,
+          "name": "Harukanaru Toki wo Koete (Another Version)",
+          "duration": "4:39"
+        },
+        {
+          "number": 12,
+          "name": "Gene (Violin + Cello Ver.)",
+          "duration": "2:45"
+        },
+        {
+          "number": 13,
+          "name": "A Gift from Parents (Remix)",
+          "duration": "4:29"
+        }
+      ]
+    },
+    {
       "name": "悪人",
       "year": "2010",
       "release_date": "2010-09-01",
@@ -6621,79 +6694,6 @@
           "number": 6,
           "name": "THE EAST LAND SYMPHONY 5. The Prayer",
           "duration": "7:57"
-        }
-      ]
-    },
-    {
-      "name": "CURVED MUSIC",
-      "year": "1986",
-      "release_date": "1986-09-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a5/ae/c6/a5aec64d-a6f2-852e-eec7-2e719d9cab26/20UMGIM04152.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A RING OF THE AIR",
-          "duration": "0:43"
-        },
-        {
-          "number": 2,
-          "name": "THE WINTER REQUIEM",
-          "duration": "4:47"
-        },
-        {
-          "number": 3,
-          "name": "WHITE SILENCE",
-          "duration": "1:04"
-        },
-        {
-          "number": 4,
-          "name": "OUT OF TOWN",
-          "duration": "2:38"
-        },
-        {
-          "number": 5,
-          "name": "A VIRGIN & THE PIPE-CUT MAN",
-          "duration": "0:55"
-        },
-        {
-          "number": 6,
-          "name": "794BDH",
-          "duration": "3:00"
-        },
-        {
-          "number": 7,
-          "name": "ZTD",
-          "duration": "3:48"
-        },
-        {
-          "number": 8,
-          "name": "PÚFF ÁDDER",
-          "duration": "1:10"
-        },
-        {
-          "number": 9,
-          "name": "A RAINBOW IN CURVED MUSIC",
-          "duration": "5:45"
-        },
-        {
-          "number": 10,
-          "name": "SYNTAX ERROR II",
-          "duration": "2:43"
-        },
-        {
-          "number": 11,
-          "name": "\"CLASSIC\"",
-          "duration": "1:05"
-        },
-        {
-          "number": 12,
-          "name": "FLOWER MOMENT",
-          "duration": "1:20"
-        },
-        {
-          "number": 13,
-          "name": "A Girl of the Moon-Desert (from Opera \"The Pearl Fishers\")",
-          "duration": "5:31"
         }
       ]
     },

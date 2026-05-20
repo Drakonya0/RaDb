@@ -4,24 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Mistakes",
-      "year": "2023",
-      "release_date": "2023-08-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/af/2e/b8/af2eb84d-8eca-5406-5c87-4ba5220385e2/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mistakes",
-          "duration": "3:48"
-        },
-        {
-          "number": 2,
-          "name": "Dead Dreams",
-          "duration": "3:55"
-        }
-      ]
-    },
-    {
       "name": "T.H.Y.M.",
       "year": "2023",
       "release_date": "2023-12-21",
@@ -39,6 +21,24 @@
         },
         {
           "number": 3,
+          "name": "Dead Dreams",
+          "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "Mistakes",
+      "year": "2023",
+      "release_date": "2023-08-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/af/2e/b8/af2eb84d-8eca-5406-5c87-4ba5220385e2/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mistakes",
+          "duration": "3:48"
+        },
+        {
+          "number": 2,
           "name": "Dead Dreams",
           "duration": "3:55"
         }

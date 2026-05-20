@@ -215,19 +215,6 @@
       ]
     },
     {
-      "name": "Charlie Sheen",
-      "year": "2024",
-      "release_date": "2024-02-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/fb/05/8efb05b9-c49e-424a-5af1-cff241cd9a3c/198391088100.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Charlie Sheen",
-          "duration": "2:42"
-        }
-      ]
-    },
-    {
       "name": "Hammer",
       "year": "2018",
       "release_date": "2018-04-06",
@@ -237,32 +224,6 @@
           "number": 1,
           "name": "Hammer",
           "duration": "3:40"
-        }
-      ]
-    },
-    {
-      "name": "HELLBOUND (feat. Point North)",
-      "year": "2025",
-      "release_date": "2025-08-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/0f/23/030f2336-9f8d-be83-b308-4335b723b286/3123.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HELLBOUND (feat. Point North)",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
-      "name": "Lifeline",
-      "year": "2021",
-      "release_date": "2021-01-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/33/5b/94/335b94b2-59a3-21bc-07c2-ce1767475fa3/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lifeline",
-          "duration": "4:06"
         }
       ]
     },
@@ -371,6 +332,19 @@
       ]
     },
     {
+      "name": "Lifeline",
+      "year": "2021",
+      "release_date": "2021-01-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/33/5b/94/335b94b2-59a3-21bc-07c2-ce1767475fa3/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lifeline",
+          "duration": "4:06"
+        }
+      ]
+    },
+    {
       "name": "Heartbeat",
       "year": "2019",
       "release_date": "2019-10-09",
@@ -393,6 +367,32 @@
           "number": 1,
           "name": "2 LITER SPITE",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Charlie Sheen",
+      "year": "2024",
+      "release_date": "2024-02-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/fb/05/8efb05b9-c49e-424a-5af1-cff241cd9a3c/198391088100.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Charlie Sheen",
+          "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "HELLBOUND (feat. Point North)",
+      "year": "2025",
+      "release_date": "2025-08-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/0f/23/030f2336-9f8d-be83-b308-4335b723b286/3123.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HELLBOUND (feat. Point North)",
+          "duration": "3:05"
         }
       ]
     },

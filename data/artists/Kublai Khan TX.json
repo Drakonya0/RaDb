@@ -119,54 +119,6 @@
       ]
     },
     {
-      "name": "Youth War",
-      "year": "2010",
-      "release_date": "2010-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/db/fe/64/mzi.hnrzztxs.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Break the Ice",
-          "duration": "0:49"
-        },
-        {
-          "number": 2,
-          "name": "Color Code",
-          "duration": "2:07"
-        },
-        {
-          "number": 3,
-          "name": "Divisions",
-          "duration": "1:54"
-        },
-        {
-          "number": 4,
-          "name": "Teeth",
-          "duration": "1:57"
-        },
-        {
-          "number": 5,
-          "name": "Youth War",
-          "duration": "2:06"
-        },
-        {
-          "number": 6,
-          "name": "Retention",
-          "duration": "2:49"
-        },
-        {
-          "number": 7,
-          "name": "Icon",
-          "duration": "1:32"
-        },
-        {
-          "number": 8,
-          "name": "Here Tonight",
-          "duration": "2:58"
-        }
-      ]
-    },
-    {
       "name": "Nomad",
       "year": "2017",
       "release_date": "2017-09-29",
@@ -225,64 +177,6 @@
       ]
     },
     {
-      "name": "New Strength",
-      "year": "2015",
-      "release_date": "2015-11-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9c/cc/07/9ccc0747-0d38-9e89-45be-26bb01438162/886445513530.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Life for a Life",
-          "duration": "2:33"
-        },
-        {
-          "number": 2,
-          "name": "Dear God",
-          "duration": "2:54"
-        },
-        {
-          "number": 3,
-          "name": "Tiny Moments",
-          "duration": "2:14"
-        },
-        {
-          "number": 4,
-          "name": "Partners",
-          "duration": "2:22"
-        },
-        {
-          "number": 5,
-          "name": "A Brotherhood of Man",
-          "duration": "2:39"
-        },
-        {
-          "number": 6,
-          "name": "Mistakes",
-          "duration": "3:01"
-        },
-        {
-          "number": 7,
-          "name": "Still Here",
-          "duration": "2:26"
-        },
-        {
-          "number": 8,
-          "name": "Hunger",
-          "duration": "3:00"
-        },
-        {
-          "number": 9,
-          "name": "The Gift of Blood",
-          "duration": "2:35"
-        },
-        {
-          "number": 10,
-          "name": "Smoke and Mirrors",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "Balancing Survival & Happiness",
       "year": "2014",
       "release_date": "2014-04-29",
@@ -337,6 +231,112 @@
           "number": 10,
           "name": "Box Beneath the Bed",
           "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "Youth War",
+      "year": "2010",
+      "release_date": "2010-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/db/fe/64/mzi.hnrzztxs.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Break the Ice",
+          "duration": "0:49"
+        },
+        {
+          "number": 2,
+          "name": "Color Code",
+          "duration": "2:07"
+        },
+        {
+          "number": 3,
+          "name": "Divisions",
+          "duration": "1:54"
+        },
+        {
+          "number": 4,
+          "name": "Teeth",
+          "duration": "1:57"
+        },
+        {
+          "number": 5,
+          "name": "Youth War",
+          "duration": "2:06"
+        },
+        {
+          "number": 6,
+          "name": "Retention",
+          "duration": "2:49"
+        },
+        {
+          "number": 7,
+          "name": "Icon",
+          "duration": "1:32"
+        },
+        {
+          "number": 8,
+          "name": "Here Tonight",
+          "duration": "2:58"
+        }
+      ]
+    },
+    {
+      "name": "New Strength",
+      "year": "2015",
+      "release_date": "2015-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9c/cc/07/9ccc0747-0d38-9e89-45be-26bb01438162/886445513530.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Life for a Life",
+          "duration": "2:33"
+        },
+        {
+          "number": 2,
+          "name": "Dear God",
+          "duration": "2:54"
+        },
+        {
+          "number": 3,
+          "name": "Tiny Moments",
+          "duration": "2:14"
+        },
+        {
+          "number": 4,
+          "name": "Partners",
+          "duration": "2:22"
+        },
+        {
+          "number": 5,
+          "name": "A Brotherhood of Man",
+          "duration": "2:39"
+        },
+        {
+          "number": 6,
+          "name": "Mistakes",
+          "duration": "3:01"
+        },
+        {
+          "number": 7,
+          "name": "Still Here",
+          "duration": "2:26"
+        },
+        {
+          "number": 8,
+          "name": "Hunger",
+          "duration": "3:00"
+        },
+        {
+          "number": 9,
+          "name": "The Gift of Blood",
+          "duration": "2:35"
+        },
+        {
+          "number": 10,
+          "name": "Smoke and Mirrors",
+          "duration": "3:04"
         }
       ]
     }

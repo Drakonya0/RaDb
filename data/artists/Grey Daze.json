@@ -66,6 +66,64 @@
       ]
     },
     {
+      "name": "The Phoenix",
+      "year": "2022",
+      "release_date": "2022-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/75/60/79/7560797d-d592-e3ad-f284-dae2b236d041/22CRGIM32158.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Saturation (Strange Love)",
+          "duration": "3:55"
+        },
+        {
+          "number": 2,
+          "name": "Starting To Fly",
+          "duration": "3:27"
+        },
+        {
+          "number": 3,
+          "name": "Be Your Man",
+          "duration": "3:40"
+        },
+        {
+          "number": 4,
+          "name": "Holding You (feat. Dave Navarro)",
+          "duration": "4:15"
+        },
+        {
+          "number": 5,
+          "name": "Hole (feat. Lily Bennington & Lila Bennington)",
+          "duration": "4:34"
+        },
+        {
+          "number": 6,
+          "name": "Drag",
+          "duration": "3:32"
+        },
+        {
+          "number": 7,
+          "name": "Believe Me (feat. Richard Patrick)",
+          "duration": "3:53"
+        },
+        {
+          "number": 8,
+          "name": "Anything, Anything",
+          "duration": "3:47"
+        },
+        {
+          "number": 9,
+          "name": "Spin",
+          "duration": "4:06"
+        },
+        {
+          "number": 10,
+          "name": "Wake Me",
+          "duration": "3:25"
+        }
+      ]
+    },
+    {
       "name": "Wake Me",
       "year": "1994",
       "release_date": "1994-01-01",
@@ -130,64 +188,6 @@
           "number": 12,
           "name": "Shouting Out",
           "duration": "3:09"
-        }
-      ]
-    },
-    {
-      "name": "The Phoenix",
-      "year": "2022",
-      "release_date": "2022-06-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/75/60/79/7560797d-d592-e3ad-f284-dae2b236d041/22CRGIM32158.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Saturation (Strange Love)",
-          "duration": "3:55"
-        },
-        {
-          "number": 2,
-          "name": "Starting To Fly",
-          "duration": "3:27"
-        },
-        {
-          "number": 3,
-          "name": "Be Your Man",
-          "duration": "3:40"
-        },
-        {
-          "number": 4,
-          "name": "Holding You (feat. Dave Navarro)",
-          "duration": "4:15"
-        },
-        {
-          "number": 5,
-          "name": "Hole (feat. Lily Bennington & Lila Bennington)",
-          "duration": "4:34"
-        },
-        {
-          "number": 6,
-          "name": "Drag",
-          "duration": "3:32"
-        },
-        {
-          "number": 7,
-          "name": "Believe Me (feat. Richard Patrick)",
-          "duration": "3:53"
-        },
-        {
-          "number": 8,
-          "name": "Anything, Anything",
-          "duration": "3:47"
-        },
-        {
-          "number": 9,
-          "name": "Spin",
-          "duration": "4:06"
-        },
-        {
-          "number": 10,
-          "name": "Wake Me",
-          "duration": "3:25"
         }
       ]
     },
@@ -351,29 +351,6 @@
       ]
     },
     {
-      "name": "Monster You Adore",
-      "year": "2026",
-      "release_date": "2026-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/ad/1f/c5ad1f93-042f-3eb7-a543-2ee91637bf20/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Monster You Adore",
-          "duration": "4:19"
-        },
-        {
-          "number": 2,
-          "name": "Shadows",
-          "duration": "3:25"
-        },
-        {
-          "number": 3,
-          "name": "Fake LIttle Lies",
-          "duration": "3:34"
-        }
-      ]
-    },
-    {
       "name": "Sometimes",
       "year": "2020",
       "release_date": "2020-04-07",
@@ -422,6 +399,29 @@
           "number": 1,
           "name": "Shouting Out (Stripped)",
           "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "Monster You Adore",
+      "year": "2026",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/ad/1f/c5ad1f93-042f-3eb7-a543-2ee91637bf20/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Monster You Adore",
+          "duration": "4:19"
+        },
+        {
+          "number": 2,
+          "name": "Shadows",
+          "duration": "3:25"
+        },
+        {
+          "number": 3,
+          "name": "Fake LIttle Lies",
+          "duration": "3:34"
         }
       ]
     },

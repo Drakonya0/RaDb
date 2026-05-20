@@ -3,54 +3,6 @@
   "id": 54687228,
   "albums": [
     {
-      "name": "Norwegian Native Art",
-      "year": "2000",
-      "release_date": "2000-09-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3d/86/23/3d862346-e17a-050b-298d-d1506d15df2f/7090001915307.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wyrd of the Dead",
-          "duration": "5:16"
-        },
-        {
-          "number": 2,
-          "name": "Doomfaring",
-          "duration": "4:43"
-        },
-        {
-          "number": 3,
-          "name": "Hugin's Eyes",
-          "duration": "4:14"
-        },
-        {
-          "number": 4,
-          "name": "Burning Yggdrasil",
-          "duration": "5:19"
-        },
-        {
-          "number": 5,
-          "name": "Crimson Rain",
-          "duration": "5:15"
-        },
-        {
-          "number": 6,
-          "name": "Howl Ravens Come",
-          "duration": "5:03"
-        },
-        {
-          "number": 7,
-          "name": "Draconian Umpire",
-          "duration": "5:28"
-        },
-        {
-          "number": 8,
-          "name": "Regicide",
-          "duration": "4:22"
-        }
-      ]
-    },
-    {
       "name": "Blot",
       "year": "2003",
       "release_date": "2003-11-21",
@@ -172,6 +124,54 @@
       ]
     },
     {
+      "name": "Norwegian Native Art",
+      "year": "2000",
+      "release_date": "2000-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3d/86/23/3d862346-e17a-050b-298d-d1506d15df2f/7090001915307.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wyrd of the Dead",
+          "duration": "5:16"
+        },
+        {
+          "number": 2,
+          "name": "Doomfaring",
+          "duration": "4:43"
+        },
+        {
+          "number": 3,
+          "name": "Hugin's Eyes",
+          "duration": "4:14"
+        },
+        {
+          "number": 4,
+          "name": "Burning Yggdrasil",
+          "duration": "5:19"
+        },
+        {
+          "number": 5,
+          "name": "Crimson Rain",
+          "duration": "5:15"
+        },
+        {
+          "number": 6,
+          "name": "Howl Ravens Come",
+          "duration": "5:03"
+        },
+        {
+          "number": 7,
+          "name": "Draconian Umpire",
+          "duration": "5:28"
+        },
+        {
+          "number": 8,
+          "name": "Regicide",
+          "duration": "4:22"
+        }
+      ]
+    },
+    {
       "name": "Norse and Dangerous (Live... From the Land of Legends)",
       "year": "2022",
       "release_date": "2022-08-05",
@@ -241,54 +241,6 @@
           "number": 13,
           "name": "Far Far North (Live)",
           "duration": "9:58"
-        }
-      ]
-    },
-    {
-      "name": "Lifeblood",
-      "year": "2026",
-      "release_date": "2026-06-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/14/9f/be149f90-ddbd-dada-397e-a5cb91b4ab7d/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bloodborn",
-          "duration": "5:36"
-        },
-        {
-          "number": 2,
-          "name": "At The Threshold",
-          "duration": "5:35"
-        },
-        {
-          "number": 3,
-          "name": "Gone",
-          "duration": "5:50"
-        },
-        {
-          "number": 4,
-          "name": "Malstrøm",
-          "duration": "8:31"
-        },
-        {
-          "number": 5,
-          "name": "Dei Så Ser",
-          "duration": "4:51"
-        },
-        {
-          "number": 6,
-          "name": "Arr For Arr",
-          "duration": "5:12"
-        },
-        {
-          "number": 7,
-          "name": "Saltworn Runes",
-          "duration": "5:18"
-        },
-        {
-          "number": 8,
-          "name": "The Eternal North",
-          "duration": "9:00"
         }
       ]
     },
@@ -385,6 +337,54 @@
           "number": 8,
           "name": "Chasing the Serpent",
           "duration": "6:04"
+        }
+      ]
+    },
+    {
+      "name": "Lifeblood",
+      "year": "2026",
+      "release_date": "2026-06-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/14/9f/be149f90-ddbd-dada-397e-a5cb91b4ab7d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bloodborn",
+          "duration": "5:36"
+        },
+        {
+          "number": 2,
+          "name": "At The Threshold",
+          "duration": "5:35"
+        },
+        {
+          "number": 3,
+          "name": "Gone",
+          "duration": "5:50"
+        },
+        {
+          "number": 4,
+          "name": "Malstrøm",
+          "duration": "8:31"
+        },
+        {
+          "number": 5,
+          "name": "Dei Så Ser",
+          "duration": "4:51"
+        },
+        {
+          "number": 6,
+          "name": "Arr For Arr",
+          "duration": "5:12"
+        },
+        {
+          "number": 7,
+          "name": "Saltworn Runes",
+          "duration": "5:18"
+        },
+        {
+          "number": 8,
+          "name": "The Eternal North",
+          "duration": "9:00"
         }
       ]
     },

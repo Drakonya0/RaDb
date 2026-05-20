@@ -71,49 +71,6 @@
       ]
     },
     {
-      "name": "Midnight Journey",
-      "year": "2024",
-      "release_date": "2024-08-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/b2/91/1ab29184-fe03-ea13-2966-66a4615cd371/1963622337796_cover.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Northern Lights",
-          "duration": "2:31"
-        },
-        {
-          "number": 2,
-          "name": "Stardome",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Silence Is Speaking",
-          "duration": "2:31"
-        },
-        {
-          "number": 4,
-          "name": "Night River",
-          "duration": "2:34"
-        },
-        {
-          "number": 5,
-          "name": "Shimmering",
-          "duration": "2:45"
-        },
-        {
-          "number": 6,
-          "name": "Milkyway",
-          "duration": "3:05"
-        },
-        {
-          "number": 7,
-          "name": "Long Way Home",
-          "duration": "2:46"
-        }
-      ]
-    },
-    {
       "name": "Dreamscape",
       "year": "2020",
       "release_date": "2020-12-12",
@@ -168,6 +125,49 @@
           "number": 10,
           "name": "Meet You",
           "duration": "2:30"
+        }
+      ]
+    },
+    {
+      "name": "Midnight Journey",
+      "year": "2024",
+      "release_date": "2024-08-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/b2/91/1ab29184-fe03-ea13-2966-66a4615cd371/1963622337796_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Northern Lights",
+          "duration": "2:31"
+        },
+        {
+          "number": 2,
+          "name": "Stardome",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Silence Is Speaking",
+          "duration": "2:31"
+        },
+        {
+          "number": 4,
+          "name": "Night River",
+          "duration": "2:34"
+        },
+        {
+          "number": 5,
+          "name": "Shimmering",
+          "duration": "2:45"
+        },
+        {
+          "number": 6,
+          "name": "Milkyway",
+          "duration": "3:05"
+        },
+        {
+          "number": 7,
+          "name": "Long Way Home",
+          "duration": "2:46"
         }
       ]
     },
@@ -404,25 +404,15 @@
       ]
     },
     {
-      "name": "snowfall (Remixes)",
+      "name": "This Feeling",
       "year": "2022",
-      "release_date": "2022-06-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9e/9e/c6/9e9ec649-cbfa-9657-fd4a-d56bb8c8ebe3/1963621297688_cover.jpg/600x600bb.jpg",
+      "release_date": "2022-02-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/39/07/c139074a-a69e-5944-9846-fce400be3d79/1963620379972_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "snowfall (Sped Up)",
-          "duration": "1:50"
-        },
-        {
-          "number": 2,
-          "name": "snowfall (Slowed + Reverb)",
-          "duration": "2:30"
-        },
-        {
-          "number": 3,
-          "name": "Snowfall",
-          "duration": "2:04"
+          "name": "This Feeling",
+          "duration": "1:34"
         }
       ]
     },
@@ -453,46 +443,38 @@
       ]
     },
     {
-      "name": "haunted",
-      "year": "2023",
-      "release_date": "2023-09-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/6a/ad/326aadb1-7193-01a0-f282-43bf93ec3ef1/742779548498.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "haunted",
-          "duration": "2:14"
-        }
-      ]
-    },
-    {
-      "name": "This Feeling",
+      "name": "snowfall (Remixes)",
       "year": "2022",
-      "release_date": "2022-02-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/39/07/c139074a-a69e-5944-9846-fce400be3d79/1963620379972_cover.jpg/600x600bb.jpg",
+      "release_date": "2022-06-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9e/9e/c6/9e9ec649-cbfa-9657-fd4a-d56bb8c8ebe3/1963621297688_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "This Feeling",
-          "duration": "1:34"
-        }
-      ]
-    },
-    {
-      "name": "Gone (Øneheart Remix)",
-      "year": "2025",
-      "release_date": "2025-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/03/b7/9d03b758-b37a-76bf-0e8a-855af469da52/1963623057068_cover.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Gone (Øneheart Remix)",
-          "duration": "2:57"
+          "name": "snowfall (Sped Up)",
+          "duration": "1:50"
         },
         {
           "number": 2,
-          "name": "Gone",
-          "duration": "7:01"
+          "name": "snowfall (Slowed + Reverb)",
+          "duration": "2:30"
+        },
+        {
+          "number": 3,
+          "name": "Snowfall",
+          "duration": "2:04"
+        }
+      ]
+    },
+    {
+      "name": "Rain Inside",
+      "year": "2022",
+      "release_date": "2022-12-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8e/dc/36/8edc3642-0685-25ff-a109-7a28dfc516a1/1963621045371_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rain Inside",
+          "duration": "1:46"
         }
       ]
     },
@@ -515,19 +497,6 @@
       ]
     },
     {
-      "name": "no way out",
-      "year": "2024",
-      "release_date": "2024-08-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/80/aa/e580aa07-ac06-cc02-998b-6efc7fddef6d/1963622377426_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "no way out",
-          "duration": "2:07"
-        }
-      ]
-    },
-    {
       "name": "Distorted Memories",
       "year": "2022",
       "release_date": "2022-07-01",
@@ -541,15 +510,15 @@
       ]
     },
     {
-      "name": "Rain Inside",
-      "year": "2022",
-      "release_date": "2022-12-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8e/dc/36/8edc3642-0685-25ff-a109-7a28dfc516a1/1963621045371_cover.jpg/600x600bb.jpg",
+      "name": "haunted",
+      "year": "2023",
+      "release_date": "2023-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/6a/ad/326aadb1-7193-01a0-f282-43bf93ec3ef1/742779548498.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Rain Inside",
-          "duration": "1:46"
+          "name": "haunted",
+          "duration": "2:14"
         }
       ]
     },
@@ -576,6 +545,24 @@
           "number": 1,
           "name": "Watching the Stars",
           "duration": "1:39"
+        }
+      ]
+    },
+    {
+      "name": "Gone (Øneheart Remix)",
+      "year": "2025",
+      "release_date": "2025-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/03/b7/9d03b758-b37a-76bf-0e8a-855af469da52/1963623057068_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gone (Øneheart Remix)",
+          "duration": "2:57"
+        },
+        {
+          "number": 2,
+          "name": "Gone",
+          "duration": "7:01"
         }
       ]
     },
@@ -615,6 +602,19 @@
           "number": 1,
           "name": "Wistful",
           "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "no way out",
+      "year": "2024",
+      "release_date": "2024-08-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/80/aa/e580aa07-ac06-cc02-998b-6efc7fddef6d/1963622377426_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "no way out",
+          "duration": "2:07"
         }
       ]
     },
@@ -934,19 +934,6 @@
           "number": 1,
           "name": "Over You",
           "duration": "1:47"
-        }
-      ]
-    },
-    {
-      "name": "Medusa",
-      "year": "2025",
-      "release_date": "2025-11-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/b4/65/fbb4657f-3308-b9ca-996f-9aeae91026d7/044317398528.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Medusa",
-          "duration": "2:38"
         }
       ]
     },
@@ -1702,19 +1689,6 @@
       ]
     },
     {
-      "name": "Satellites",
-      "year": "2025",
-      "release_date": "2025-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/88/ed/fe88edb3-06e2-9eac-156e-a554ba9ef60c/698308155760.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Satellites",
-          "duration": "2:33"
-        }
-      ]
-    },
-    {
       "name": "Requiem",
       "year": "2025",
       "release_date": "2025-01-21",
@@ -2260,6 +2234,39 @@
       ]
     },
     {
+      "name": "Tapeloops",
+      "year": "2024",
+      "release_date": "2024-02-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/23/f1/7023f1e7-1bd4-2617-8f83-804fd1365755/1963621819385_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Betrayal",
+          "duration": "1:39"
+        },
+        {
+          "number": 2,
+          "name": "Forgotten Dreams",
+          "duration": "2:20"
+        },
+        {
+          "number": 3,
+          "name": "Her Eyes",
+          "duration": "2:01"
+        },
+        {
+          "number": 4,
+          "name": "Way Back Home",
+          "duration": "1:27"
+        },
+        {
+          "number": 5,
+          "name": "Winter Nights (Everything Reminds Me of You)",
+          "duration": "1:44"
+        }
+      ]
+    },
+    {
       "name": "Tales",
       "year": "2024",
       "release_date": "2024-03-29",
@@ -2317,39 +2324,6 @@
           "number": 4,
           "name": "Genesis",
           "duration": "3:12"
-        }
-      ]
-    },
-    {
-      "name": "Tapeloops",
-      "year": "2024",
-      "release_date": "2024-02-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/23/f1/7023f1e7-1bd4-2617-8f83-804fd1365755/1963621819385_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Betrayal",
-          "duration": "1:39"
-        },
-        {
-          "number": 2,
-          "name": "Forgotten Dreams",
-          "duration": "2:20"
-        },
-        {
-          "number": 3,
-          "name": "Her Eyes",
-          "duration": "2:01"
-        },
-        {
-          "number": 4,
-          "name": "Way Back Home",
-          "duration": "1:27"
-        },
-        {
-          "number": 5,
-          "name": "Winter Nights (Everything Reminds Me of You)",
-          "duration": "1:44"
         }
       ]
     },

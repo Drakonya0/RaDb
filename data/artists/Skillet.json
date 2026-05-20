@@ -3,142 +3,6 @@
   "id": 1750802,
   "albums": [
     {
-      "name": "Unleashed",
-      "year": "2016",
-      "release_date": "2016-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/86/25/1e/86251e6e-b0dc-25f1-8e64-48cf3f218653/075679910134.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Feel Invincible",
-          "duration": "3:49"
-        },
-        {
-          "number": 2,
-          "name": "Back from the Dead",
-          "duration": "3:33"
-        },
-        {
-          "number": 3,
-          "name": "Stars",
-          "duration": "3:47"
-        },
-        {
-          "number": 4,
-          "name": "I Want to Live",
-          "duration": "3:28"
-        },
-        {
-          "number": 5,
-          "name": "Undefeated",
-          "duration": "3:35"
-        },
-        {
-          "number": 6,
-          "name": "Famous",
-          "duration": "3:18"
-        },
-        {
-          "number": 7,
-          "name": "Lions",
-          "duration": "3:24"
-        },
-        {
-          "number": 8,
-          "name": "Out of Hell",
-          "duration": "3:34"
-        },
-        {
-          "number": 9,
-          "name": "Burn It Down",
-          "duration": "3:16"
-        },
-        {
-          "number": 10,
-          "name": "Watching for Comets",
-          "duration": "3:29"
-        },
-        {
-          "number": 11,
-          "name": "Saviors of the World",
-          "duration": "3:46"
-        },
-        {
-          "number": 12,
-          "name": "The Resistance",
-          "duration": "3:52"
-        }
-      ]
-    },
-    {
-      "name": "Rise",
-      "year": "2013",
-      "release_date": "2013-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/3f/7b/b83f7b74-4e7a-6b06-9385-667dc1288d7d/075679954787.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rise",
-          "duration": "4:20"
-        },
-        {
-          "number": 2,
-          "name": "Sick of It",
-          "duration": "3:10"
-        },
-        {
-          "number": 3,
-          "name": "Good to Be Alive",
-          "duration": "4:59"
-        },
-        {
-          "number": 4,
-          "name": "Not Gonna Die",
-          "duration": "3:45"
-        },
-        {
-          "number": 5,
-          "name": "Circus for a Psycho",
-          "duration": "4:31"
-        },
-        {
-          "number": 6,
-          "name": "American Noise",
-          "duration": "4:09"
-        },
-        {
-          "number": 7,
-          "name": "Madness In Me",
-          "duration": "4:17"
-        },
-        {
-          "number": 8,
-          "name": "Salvation",
-          "duration": "3:45"
-        },
-        {
-          "number": 9,
-          "name": "Fire and Fury",
-          "duration": "3:56"
-        },
-        {
-          "number": 10,
-          "name": "My Religion",
-          "duration": "4:12"
-        },
-        {
-          "number": 11,
-          "name": "Hard to Find",
-          "duration": "3:48"
-        },
-        {
-          "number": 12,
-          "name": "What I Believe",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
       "name": "Awake (Deluxe Edition)",
       "year": "2009",
       "release_date": "2009-08-25",
@@ -222,6 +86,137 @@
       ]
     },
     {
+      "name": "Rise",
+      "year": "2013",
+      "release_date": "2013-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/3f/7b/b83f7b74-4e7a-6b06-9385-667dc1288d7d/075679954787.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rise",
+          "duration": "4:20"
+        },
+        {
+          "number": 2,
+          "name": "Sick of It",
+          "duration": "3:10"
+        },
+        {
+          "number": 3,
+          "name": "Good to Be Alive",
+          "duration": "4:59"
+        },
+        {
+          "number": 4,
+          "name": "Not Gonna Die",
+          "duration": "3:45"
+        },
+        {
+          "number": 5,
+          "name": "Circus for a Psycho",
+          "duration": "4:31"
+        },
+        {
+          "number": 6,
+          "name": "American Noise",
+          "duration": "4:09"
+        },
+        {
+          "number": 7,
+          "name": "Madness In Me",
+          "duration": "4:17"
+        },
+        {
+          "number": 8,
+          "name": "Salvation",
+          "duration": "3:45"
+        },
+        {
+          "number": 9,
+          "name": "Fire and Fury",
+          "duration": "3:56"
+        },
+        {
+          "number": 10,
+          "name": "My Religion",
+          "duration": "4:12"
+        },
+        {
+          "number": 11,
+          "name": "Hard to Find",
+          "duration": "3:48"
+        },
+        {
+          "number": 12,
+          "name": "What I Believe",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "Comatose",
+      "year": "2006",
+      "release_date": "2006-10-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/2a/1a/9f2a1a9c-433c-e466-4a9e-bcff75826cd3/075679951069.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rebirthing",
+          "duration": "3:53"
+        },
+        {
+          "number": 2,
+          "name": "The Last Night",
+          "duration": "3:30"
+        },
+        {
+          "number": 3,
+          "name": "Yours to Hold",
+          "duration": "3:41"
+        },
+        {
+          "number": 4,
+          "name": "Better Than Drugs",
+          "duration": "3:57"
+        },
+        {
+          "number": 5,
+          "name": "Comatose",
+          "duration": "3:50"
+        },
+        {
+          "number": 6,
+          "name": "The Older I Get",
+          "duration": "3:39"
+        },
+        {
+          "number": 7,
+          "name": "Those Nights",
+          "duration": "3:46"
+        },
+        {
+          "number": 8,
+          "name": "Falling Inside the Black",
+          "duration": "3:30"
+        },
+        {
+          "number": 9,
+          "name": "Say Goodbye",
+          "duration": "4:13"
+        },
+        {
+          "number": 10,
+          "name": "Whispers In the Dark",
+          "duration": "3:27"
+        },
+        {
+          "number": 11,
+          "name": "Looking for Angels",
+          "duration": "4:30"
+        }
+      ]
+    },
+    {
       "name": "Victorious",
       "year": "2019",
       "release_date": "2019-08-02",
@@ -290,6 +285,202 @@
       ]
     },
     {
+      "name": "Unleashed",
+      "year": "2016",
+      "release_date": "2016-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/86/25/1e/86251e6e-b0dc-25f1-8e64-48cf3f218653/075679910134.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Feel Invincible",
+          "duration": "3:49"
+        },
+        {
+          "number": 2,
+          "name": "Back from the Dead",
+          "duration": "3:33"
+        },
+        {
+          "number": 3,
+          "name": "Stars",
+          "duration": "3:47"
+        },
+        {
+          "number": 4,
+          "name": "I Want to Live",
+          "duration": "3:28"
+        },
+        {
+          "number": 5,
+          "name": "Undefeated",
+          "duration": "3:35"
+        },
+        {
+          "number": 6,
+          "name": "Famous",
+          "duration": "3:18"
+        },
+        {
+          "number": 7,
+          "name": "Lions",
+          "duration": "3:24"
+        },
+        {
+          "number": 8,
+          "name": "Out of Hell",
+          "duration": "3:34"
+        },
+        {
+          "number": 9,
+          "name": "Burn It Down",
+          "duration": "3:16"
+        },
+        {
+          "number": 10,
+          "name": "Watching for Comets",
+          "duration": "3:29"
+        },
+        {
+          "number": 11,
+          "name": "Saviors of the World",
+          "duration": "3:46"
+        },
+        {
+          "number": 12,
+          "name": "The Resistance",
+          "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "Rise (Deluxe Edition)",
+      "year": "2013",
+      "release_date": "2013-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/79/4f/8e794f1d-a591-4d0f-7f9b-972e875e0c73/075679954749.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rise",
+          "duration": "4:20"
+        },
+        {
+          "number": 2,
+          "name": "Sick of It",
+          "duration": "3:10"
+        },
+        {
+          "number": 3,
+          "name": "Good to Be Alive",
+          "duration": "4:59"
+        },
+        {
+          "number": 4,
+          "name": "Not Gonna Die",
+          "duration": "3:45"
+        },
+        {
+          "number": 5,
+          "name": "Circus for a Psycho",
+          "duration": "4:31"
+        },
+        {
+          "number": 6,
+          "name": "American Noise",
+          "duration": "4:09"
+        },
+        {
+          "number": 7,
+          "name": "Madness In Me",
+          "duration": "4:17"
+        },
+        {
+          "number": 8,
+          "name": "Salvation",
+          "duration": "3:45"
+        },
+        {
+          "number": 9,
+          "name": "Fire and Fury",
+          "duration": "3:56"
+        },
+        {
+          "number": 10,
+          "name": "My Religion",
+          "duration": "4:12"
+        },
+        {
+          "number": 11,
+          "name": "Hard to Find",
+          "duration": "3:48"
+        },
+        {
+          "number": 12,
+          "name": "What I Believe",
+          "duration": "3:20"
+        },
+        {
+          "number": 13,
+          "name": "Battle Cry (Bonus Track)",
+          "duration": "3:45"
+        },
+        {
+          "number": 14,
+          "name": "Everything Goes Black (Bonus Track)",
+          "duration": "4:26"
+        },
+        {
+          "number": 15,
+          "name": "Freakshow (Bonus Track)",
+          "duration": "4:38"
+        },
+        {
+          "number": 16,
+          "name": "Whispers In the Dark (Live)",
+          "duration": "3:06"
+        },
+        {
+          "number": 17,
+          "name": "Comatose (Live)",
+          "duration": "3:51"
+        },
+        {
+          "number": 18,
+          "name": "Awake and Alive (Live)",
+          "duration": "3:32"
+        },
+        {
+          "number": 19,
+          "name": "Those Nights (Live)",
+          "duration": "4:11"
+        },
+        {
+          "number": 20,
+          "name": "Hero (Live)",
+          "duration": "3:17"
+        },
+        {
+          "number": 21,
+          "name": "The Last Night (Live)",
+          "duration": "4:04"
+        },
+        {
+          "number": 22,
+          "name": "Lucy (Live)",
+          "duration": "4:19"
+        },
+        {
+          "number": 23,
+          "name": "Monster (Live)",
+          "duration": "3:01"
+        },
+        {
+          "number": 24,
+          "name": "Rebirthing (Live)",
+          "duration": "5:47"
+        }
+      ]
+    },
+    {
       "name": "Dominion",
       "year": "2022",
       "release_date": "2022-01-14",
@@ -354,69 +545,6 @@
           "number": 12,
           "name": "White Horse",
           "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "Comatose",
-      "year": "2006",
-      "release_date": "2006-10-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/2a/1a/9f2a1a9c-433c-e466-4a9e-bcff75826cd3/075679951069.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rebirthing",
-          "duration": "3:53"
-        },
-        {
-          "number": 2,
-          "name": "The Last Night",
-          "duration": "3:30"
-        },
-        {
-          "number": 3,
-          "name": "Yours to Hold",
-          "duration": "3:41"
-        },
-        {
-          "number": 4,
-          "name": "Better Than Drugs",
-          "duration": "3:57"
-        },
-        {
-          "number": 5,
-          "name": "Comatose",
-          "duration": "3:50"
-        },
-        {
-          "number": 6,
-          "name": "The Older I Get",
-          "duration": "3:39"
-        },
-        {
-          "number": 7,
-          "name": "Those Nights",
-          "duration": "3:46"
-        },
-        {
-          "number": 8,
-          "name": "Falling Inside the Black",
-          "duration": "3:30"
-        },
-        {
-          "number": 9,
-          "name": "Say Goodbye",
-          "duration": "4:13"
-        },
-        {
-          "number": 10,
-          "name": "Whispers In the Dark",
-          "duration": "3:27"
-        },
-        {
-          "number": 11,
-          "name": "Looking for Angels",
-          "duration": "4:30"
         }
       ]
     },
@@ -1032,134 +1160,6 @@
       ]
     },
     {
-      "name": "Rise (Deluxe Edition)",
-      "year": "2013",
-      "release_date": "2013-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/79/4f/8e794f1d-a591-4d0f-7f9b-972e875e0c73/075679954749.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rise",
-          "duration": "4:20"
-        },
-        {
-          "number": 2,
-          "name": "Sick of It",
-          "duration": "3:10"
-        },
-        {
-          "number": 3,
-          "name": "Good to Be Alive",
-          "duration": "4:59"
-        },
-        {
-          "number": 4,
-          "name": "Not Gonna Die",
-          "duration": "3:45"
-        },
-        {
-          "number": 5,
-          "name": "Circus for a Psycho",
-          "duration": "4:31"
-        },
-        {
-          "number": 6,
-          "name": "American Noise",
-          "duration": "4:09"
-        },
-        {
-          "number": 7,
-          "name": "Madness In Me",
-          "duration": "4:17"
-        },
-        {
-          "number": 8,
-          "name": "Salvation",
-          "duration": "3:45"
-        },
-        {
-          "number": 9,
-          "name": "Fire and Fury",
-          "duration": "3:56"
-        },
-        {
-          "number": 10,
-          "name": "My Religion",
-          "duration": "4:12"
-        },
-        {
-          "number": 11,
-          "name": "Hard to Find",
-          "duration": "3:48"
-        },
-        {
-          "number": 12,
-          "name": "What I Believe",
-          "duration": "3:20"
-        },
-        {
-          "number": 13,
-          "name": "Battle Cry (Bonus Track)",
-          "duration": "3:45"
-        },
-        {
-          "number": 14,
-          "name": "Everything Goes Black (Bonus Track)",
-          "duration": "4:26"
-        },
-        {
-          "number": 15,
-          "name": "Freakshow (Bonus Track)",
-          "duration": "4:38"
-        },
-        {
-          "number": 16,
-          "name": "Whispers In the Dark (Live)",
-          "duration": "3:06"
-        },
-        {
-          "number": 17,
-          "name": "Comatose (Live)",
-          "duration": "3:51"
-        },
-        {
-          "number": 18,
-          "name": "Awake and Alive (Live)",
-          "duration": "3:32"
-        },
-        {
-          "number": 19,
-          "name": "Those Nights (Live)",
-          "duration": "4:11"
-        },
-        {
-          "number": 20,
-          "name": "Hero (Live)",
-          "duration": "3:17"
-        },
-        {
-          "number": 21,
-          "name": "The Last Night (Live)",
-          "duration": "4:04"
-        },
-        {
-          "number": 22,
-          "name": "Lucy (Live)",
-          "duration": "4:19"
-        },
-        {
-          "number": 23,
-          "name": "Monster (Live)",
-          "duration": "3:01"
-        },
-        {
-          "number": 24,
-          "name": "Rebirthing (Live)",
-          "duration": "5:47"
-        }
-      ]
-    },
-    {
       "name": "iTunes Session",
       "year": "2010",
       "release_date": "2010-11-12",
@@ -1276,6 +1276,190 @@
       ]
     },
     {
+      "name": "Ardent Worship: Skillet Live",
+      "year": "2000",
+      "release_date": "2000-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5f/dd/2f/5fdd2f3d-e791-cd0d-5848-c0f5fef87dde/766887250227.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Who Is Like Our God (Live)",
+          "duration": "5:15"
+        },
+        {
+          "number": 2,
+          "name": "Your Name Is Holy (Live)",
+          "duration": "5:05"
+        },
+        {
+          "number": 3,
+          "name": "How Deep the Father's Love for Us (Live)",
+          "duration": "4:08"
+        },
+        {
+          "number": 4,
+          "name": "Jesus, Jesus (Holy and Anointed One) [Live]",
+          "duration": "4:14"
+        },
+        {
+          "number": 5,
+          "name": "We're Thirsty (Live)",
+          "duration": "3:03"
+        },
+        {
+          "number": 6,
+          "name": "Jesus Be Glorified (Live)",
+          "duration": "4:38"
+        },
+        {
+          "number": 7,
+          "name": "Sing to the Lord (Live)",
+          "duration": "6:13"
+        },
+        {
+          "number": 8,
+          "name": "Angels Fall Down (Live)",
+          "duration": "7:28"
+        },
+        {
+          "number": 9,
+          "name": "Safe with You (Live)",
+          "duration": "4:53"
+        },
+        {
+          "number": 10,
+          "name": "Shout to the Lord (Live)",
+          "duration": "6:28"
+        }
+      ]
+    },
+    {
+      "name": "Skillet",
+      "year": "1996",
+      "release_date": "1996-10-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/d8/14/58d8143b-7824-9c02-031a-fb441b20a2d0/888880647344.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Can",
+          "duration": "4:18"
+        },
+        {
+          "number": 2,
+          "name": "Gasoline",
+          "duration": "4:02"
+        },
+        {
+          "number": 3,
+          "name": "Saturn",
+          "duration": "5:09"
+        },
+        {
+          "number": 4,
+          "name": "My Beautiful Robe",
+          "duration": "3:38"
+        },
+        {
+          "number": 5,
+          "name": "Promise Blender",
+          "duration": "3:55"
+        },
+        {
+          "number": 6,
+          "name": "Paint",
+          "duration": "3:20"
+        },
+        {
+          "number": 7,
+          "name": "Safe with You",
+          "duration": "3:49"
+        },
+        {
+          "number": 8,
+          "name": "You Thought",
+          "duration": "3:41"
+        },
+        {
+          "number": 9,
+          "name": "Boundaries",
+          "duration": "4:05"
+        },
+        {
+          "number": 10,
+          "name": "Splinter",
+          "duration": "2:40"
+        }
+      ]
+    },
+    {
+      "name": "Hey You, I Love Your Soul",
+      "year": "1998",
+      "release_date": "1998-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/93/8b/3f938b66-5893-f975-a71f-b18c42acebcc/888880647320.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hey You, I Love Your Soul",
+          "duration": "2:58"
+        },
+        {
+          "number": 2,
+          "name": "Deeper",
+          "duration": "3:48"
+        },
+        {
+          "number": 3,
+          "name": "Locked In a Cage",
+          "duration": "3:55"
+        },
+        {
+          "number": 4,
+          "name": "Your Love (Keeps Me Alive)",
+          "duration": "3:55"
+        },
+        {
+          "number": 5,
+          "name": "More Faithful",
+          "duration": "3:44"
+        },
+        {
+          "number": 6,
+          "name": "Pour",
+          "duration": "4:18"
+        },
+        {
+          "number": 7,
+          "name": "Suspended In You",
+          "duration": "3:08"
+        },
+        {
+          "number": 8,
+          "name": "Take",
+          "duration": "3:03"
+        },
+        {
+          "number": 9,
+          "name": "Coming Down",
+          "duration": "6:16"
+        },
+        {
+          "number": 10,
+          "name": "Whirlwind",
+          "duration": "4:02"
+        },
+        {
+          "number": 11,
+          "name": "Dive Over In",
+          "duration": "3:43"
+        },
+        {
+          "number": 12,
+          "name": "Scarecrow",
+          "duration": "4:17"
+        }
+      ]
+    },
+    {
       "name": "Comatose Comes Alive (Live)",
       "year": "2008",
       "release_date": "2008-10-21",
@@ -1359,64 +1543,6 @@
       ]
     },
     {
-      "name": "Skillet",
-      "year": "1996",
-      "release_date": "1996-10-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/58/d8/14/58d8143b-7824-9c02-031a-fb441b20a2d0/888880647344.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Can",
-          "duration": "4:18"
-        },
-        {
-          "number": 2,
-          "name": "Gasoline",
-          "duration": "4:02"
-        },
-        {
-          "number": 3,
-          "name": "Saturn",
-          "duration": "5:09"
-        },
-        {
-          "number": 4,
-          "name": "My Beautiful Robe",
-          "duration": "3:38"
-        },
-        {
-          "number": 5,
-          "name": "Promise Blender",
-          "duration": "3:55"
-        },
-        {
-          "number": 6,
-          "name": "Paint",
-          "duration": "3:20"
-        },
-        {
-          "number": 7,
-          "name": "Safe with You",
-          "duration": "3:49"
-        },
-        {
-          "number": 8,
-          "name": "You Thought",
-          "duration": "3:41"
-        },
-        {
-          "number": 9,
-          "name": "Boundaries",
-          "duration": "4:05"
-        },
-        {
-          "number": 10,
-          "name": "Splinter",
-          "duration": "2:40"
-        }
-      ]
-    },
-    {
       "name": "Invincible",
       "year": "2000",
       "release_date": "2000-02-01",
@@ -1483,132 +1609,6 @@
           "duration": "10:40"
         }
       ]
-    },
-    {
-      "name": "Hey You, I Love Your Soul",
-      "year": "1998",
-      "release_date": "1998-04-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/93/8b/3f938b66-5893-f975-a71f-b18c42acebcc/888880647320.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hey You, I Love Your Soul",
-          "duration": "2:58"
-        },
-        {
-          "number": 2,
-          "name": "Deeper",
-          "duration": "3:48"
-        },
-        {
-          "number": 3,
-          "name": "Locked In a Cage",
-          "duration": "3:55"
-        },
-        {
-          "number": 4,
-          "name": "Your Love (Keeps Me Alive)",
-          "duration": "3:55"
-        },
-        {
-          "number": 5,
-          "name": "More Faithful",
-          "duration": "3:44"
-        },
-        {
-          "number": 6,
-          "name": "Pour",
-          "duration": "4:18"
-        },
-        {
-          "number": 7,
-          "name": "Suspended In You",
-          "duration": "3:08"
-        },
-        {
-          "number": 8,
-          "name": "Take",
-          "duration": "3:03"
-        },
-        {
-          "number": 9,
-          "name": "Coming Down",
-          "duration": "6:16"
-        },
-        {
-          "number": 10,
-          "name": "Whirlwind",
-          "duration": "4:02"
-        },
-        {
-          "number": 11,
-          "name": "Dive Over In",
-          "duration": "3:43"
-        },
-        {
-          "number": 12,
-          "name": "Scarecrow",
-          "duration": "4:17"
-        }
-      ]
-    },
-    {
-      "name": "Ardent Worship: Skillet Live",
-      "year": "2000",
-      "release_date": "2000-09-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5f/dd/2f/5fdd2f3d-e791-cd0d-5848-c0f5fef87dde/766887250227.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Who Is Like Our God (Live)",
-          "duration": "5:15"
-        },
-        {
-          "number": 2,
-          "name": "Your Name Is Holy (Live)",
-          "duration": "5:05"
-        },
-        {
-          "number": 3,
-          "name": "How Deep the Father's Love for Us (Live)",
-          "duration": "4:08"
-        },
-        {
-          "number": 4,
-          "name": "Jesus, Jesus (Holy and Anointed One) [Live]",
-          "duration": "4:14"
-        },
-        {
-          "number": 5,
-          "name": "We're Thirsty (Live)",
-          "duration": "3:03"
-        },
-        {
-          "number": 6,
-          "name": "Jesus Be Glorified (Live)",
-          "duration": "4:38"
-        },
-        {
-          "number": 7,
-          "name": "Sing to the Lord (Live)",
-          "duration": "6:13"
-        },
-        {
-          "number": 8,
-          "name": "Angels Fall Down (Live)",
-          "duration": "7:28"
-        },
-        {
-          "number": 9,
-          "name": "Safe with You (Live)",
-          "duration": "4:53"
-        },
-        {
-          "number": 10,
-          "name": "Shout to the Lord (Live)",
-          "duration": "6:28"
-        }
-      ]
     }
   ],
   "singles": [
@@ -1653,6 +1653,19 @@
           "number": 1,
           "name": "No Survivors (feat. Skillet)",
           "duration": "2:20"
+        }
+      ]
+    },
+    {
+      "name": "Save Me (Reimagined)",
+      "year": "2020",
+      "release_date": "2020-06-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/99/e4/b3/99e4b301-7a7a-a6dd-40a3-0fadddd9f657/075679810953.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Save Me (Reimagined)",
+          "duration": "3:35"
         }
       ]
     },
@@ -1724,32 +1737,6 @@
       ]
     },
     {
-      "name": "Save Me (Reimagined)",
-      "year": "2020",
-      "release_date": "2020-06-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/99/e4/b3/99e4b301-7a7a-a6dd-40a3-0fadddd9f657/075679810953.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Save Me (Reimagined)",
-          "duration": "3:35"
-        }
-      ]
-    },
-    {
-      "name": "Finish Line (feat. Adam Gontier) [Live]",
-      "year": "2023",
-      "release_date": "2023-11-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/2e/4e/7d2e4ebc-dce1-06cd-c73c-21dcad63ff92/075679663122.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Finish Line (feat. Adam Gontier) [Live]",
-          "duration": "3:51"
-        }
-      ]
-    },
-    {
       "name": "Psycho In My Head (Live)",
       "year": "2023",
       "release_date": "2023-06-30",
@@ -1795,6 +1782,19 @@
           "number": 1,
           "name": "Savior (Edit Version)",
           "duration": "4:01"
+        }
+      ]
+    },
+    {
+      "name": "Finish Line (feat. Adam Gontier) [Live]",
+      "year": "2023",
+      "release_date": "2023-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/2e/4e/7d2e4ebc-dce1-06cd-c73c-21dcad63ff92/075679663122.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Finish Line (feat. Adam Gontier) [Live]",
+          "duration": "3:51"
         }
       ]
     },

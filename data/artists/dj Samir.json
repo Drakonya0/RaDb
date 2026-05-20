@@ -161,19 +161,6 @@
   ],
   "singles": [
     {
-      "name": "Eternal Rave",
-      "year": "2023",
-      "release_date": "2023-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/69/28/d36928e3-f0b7-32ba-36ca-8bace4889fbb/720851121531.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Eternal Rave",
-          "duration": "2:01"
-        }
-      ]
-    },
-    {
       "name": "Louca Encubada (feat. Deusas do Funk)",
       "year": "2023",
       "release_date": "2023-10-13",
@@ -352,24 +339,6 @@
       ]
     },
     {
-      "name": "Ritmada Slow",
-      "year": "2023",
-      "release_date": "2023-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b4/ed/5b/b4ed5b68-1d00-67aa-f0e1-2aa12c10d6b7/681178852082.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Brazilian Phonk Ritmada (Slowed)",
-          "duration": "1:12"
-        },
-        {
-          "number": 2,
-          "name": "Brazilian Phonk Ritmada (Super Slowed)",
-          "duration": "1:20"
-        }
-      ]
-    },
-    {
       "name": "SEM CARINHO",
       "year": "2026",
       "release_date": "2026-03-20",
@@ -389,6 +358,19 @@
           "number": 3,
           "name": "SEM CARINHO (Super Slowed)",
           "duration": "1:43"
+        }
+      ]
+    },
+    {
+      "name": "Mtg - Coração",
+      "year": "2023",
+      "release_date": "2023-08-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/02/e5/7e02e541-1890-46b6-59ea-39f8c45efd5a/2096252.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mtg - Coração",
+          "duration": "1:53"
         }
       ]
     },
@@ -882,6 +864,19 @@
       ]
     },
     {
+      "name": "Hoje É o Abate (Brazilian Phonk)",
+      "year": "2023",
+      "release_date": "2023-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/e1/9b/77e19b57-209b-c882-9af6-e76fac6df14e/2100881.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hoje É o Abate (Brazilian Phonk)",
+          "duration": "1:28"
+        }
+      ]
+    },
+    {
       "name": "Automotivo Vucadão Ritmado",
       "year": "2023",
       "release_date": "2023-05-25",
@@ -1180,6 +1175,44 @@
       ]
     },
     {
+      "name": "MONTAGEM ELDER",
+      "year": "2026",
+      "release_date": "2026-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/f2/40/abf24018-7bab-0036-bbed-30f693828742/820200957412.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM ELDER",
+          "duration": "1:32"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM ELDER (SLOWED)",
+          "duration": "1:40"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM ELDER (SUPER SLOWED)",
+          "duration": "1:51"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM ELDER (ULTRA SLOWED)",
+          "duration": "2:11"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM ELDER (SPED UP)",
+          "duration": "1:24"
+        },
+        {
+          "number": 6,
+          "name": "MONTAGEM ELDER (EDIT VERSION)",
+          "duration": "1:58"
+        }
+      ]
+    },
+    {
       "name": "Lua na Praça",
       "year": "2025",
       "release_date": "2025-09-04",
@@ -1209,39 +1242,6 @@
           "number": 5,
           "name": "Lua na Praça (Ultra Slowed)",
           "duration": "2:04"
-        }
-      ]
-    },
-    {
-      "name": "Montagem Perigosa",
-      "year": "2025",
-      "release_date": "2025-09-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/08/e3/0c08e378-5698-2800-f018-68ab53c98419/619566111954.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Perigosa",
-          "duration": "1:22"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Perigosa (Slowed)",
-          "duration": "1:32"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Perigosa (Sped Up)",
-          "duration": "1:13"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Perigosa (Super Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 5,
-          "name": "Montagem Perigosa (Ultra Slowed)",
-          "duration": "1:49"
         }
       ]
     },
@@ -1279,39 +1279,6 @@
       ]
     },
     {
-      "name": "Montagem Green Renitch V1",
-      "year": "2025",
-      "release_date": "2025-03-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/12/d2/c012d2a5-656e-94f8-389d-9ae29ce547f2/020357781889.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Green Renitch V1",
-          "duration": "1:38"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Green Renitch V1 (Slowed)",
-          "duration": "1:55"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Green Renitch V1 (Super Slowed)",
-          "duration": "2:19"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Green Renitch V1 (Edit Version)",
-          "duration": "2:12"
-        },
-        {
-          "number": 5,
-          "name": "Montagem Green Renitch V1 (Sped Up)",
-          "duration": "1:32"
-        }
-      ]
-    },
-    {
       "name": "X - Prime",
       "year": "2024",
       "release_date": "2024-08-22",
@@ -1336,44 +1303,6 @@
           "number": 4,
           "name": "X - Prime (Ultra Slowed)",
           "duration": "1:54"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM ELDER",
-      "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/f2/40/abf24018-7bab-0036-bbed-30f693828742/820200957412.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM ELDER",
-          "duration": "1:32"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM ELDER (SLOWED)",
-          "duration": "1:40"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM ELDER (SUPER SLOWED)",
-          "duration": "1:51"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM ELDER (ULTRA SLOWED)",
-          "duration": "2:11"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM ELDER (SPED UP)",
-          "duration": "1:24"
-        },
-        {
-          "number": 6,
-          "name": "MONTAGEM ELDER (EDIT VERSION)",
-          "duration": "1:58"
         }
       ]
     },
@@ -1947,6 +1876,72 @@
       ]
     },
     {
+      "name": "TACA TACA",
+      "year": "2025",
+      "release_date": "2025-02-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/86/ee/7186ee49-dfe6-bf51-d550-e400115965f6/2094974.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TACA TACA",
+          "duration": "1:38"
+        },
+        {
+          "number": 2,
+          "name": "TACA TACA (Slowed)",
+          "duration": "1:52"
+        },
+        {
+          "number": 3,
+          "name": "TACA TACA (Sped Up)",
+          "duration": "1:23"
+        },
+        {
+          "number": 4,
+          "name": "TACA TACA (Super Slowed)",
+          "duration": "2:12"
+        },
+        {
+          "number": 5,
+          "name": "TACA TACA (Ultra Slowed)",
+          "duration": "2:30"
+        }
+      ]
+    },
+    {
+      "name": "FUNK SOMBRIO",
+      "year": "2025",
+      "release_date": "2025-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/ae/d0/baaed00f-3be7-4626-d379-20a2ee5eb94a/2132156.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FUNK SOMBRIO",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "FUNK SOMBRIO (SLOWED)",
+          "duration": "1:42"
+        },
+        {
+          "number": 3,
+          "name": "FUNK SOMBRIO (Sped Up)",
+          "duration": "1:24"
+        },
+        {
+          "number": 4,
+          "name": "FUNK SOMBRIO (Super Slowed)",
+          "duration": "1:57"
+        },
+        {
+          "number": 5,
+          "name": "FUNK SOMBRIO (Ultra Slowed)",
+          "duration": "2:10"
+        }
+      ]
+    },
+    {
       "name": "QUE PASA",
       "year": "2025",
       "release_date": "2025-05-16",
@@ -2032,6 +2027,34 @@
           "number": 4,
           "name": "VEM BALANÇAR (Super Slowed)",
           "duration": "2:21"
+        }
+      ]
+    },
+    {
+      "name": "TUDU!",
+      "year": "2025",
+      "release_date": "2025-02-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/6a/05/ad6a057b-0aa8-12a5-bbfa-5817dea73ae6/2096754.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TUDU!",
+          "duration": "1:22"
+        },
+        {
+          "number": 2,
+          "name": "TUDU! (Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 3,
+          "name": "TUDU! (Sped Up)",
+          "duration": "1:14"
+        },
+        {
+          "number": 4,
+          "name": "TUDU! (Ultra Slowed)",
+          "duration": "2:16"
         }
       ]
     },
@@ -2130,6 +2153,39 @@
       ]
     },
     {
+      "name": "ENSA BARA",
+      "year": "2025",
+      "release_date": "2025-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/2b/23/d12b23fe-4384-0bf6-ea00-c6e92a674024/2072841.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ENSA BARA",
+          "duration": "1:37"
+        },
+        {
+          "number": 2,
+          "name": "ENSA BARA (Slowed)",
+          "duration": "1:51"
+        },
+        {
+          "number": 3,
+          "name": "ENSA BARA (Sped Up)",
+          "duration": "1:26"
+        },
+        {
+          "number": 4,
+          "name": "ENSA BARA (Super Slowed)",
+          "duration": "2:11"
+        },
+        {
+          "number": 5,
+          "name": "ENSA BARA (Ultra slowed)",
+          "duration": "2:30"
+        }
+      ]
+    },
+    {
       "name": "HEAVEN FUNK",
       "year": "2025",
       "release_date": "2025-10-02",
@@ -2163,34 +2219,6 @@
       ]
     },
     {
-      "name": "Se Cala",
-      "year": "2025",
-      "release_date": "2025-08-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/ae/2f/e1ae2fc9-e0d8-2c74-f3ec-989aa9faee98/038557937418.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Se Cala",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "Se Cala (Slowed)",
-          "duration": "1:35"
-        },
-        {
-          "number": 3,
-          "name": "Se Cala (Super Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 4,
-          "name": "Se Cala (Sped Up)",
-          "duration": "1:14"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM PERDIDO",
       "year": "2025",
       "release_date": "2025-08-15",
@@ -2215,62 +2243,6 @@
           "number": 4,
           "name": "MONTAGEM PERDIDO (Sped Up)",
           "duration": "1:48"
-        }
-      ]
-    },
-    {
-      "name": "Montagem Perdido",
-      "year": "2025",
-      "release_date": "2025-08-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/02/d9/9402d9a4-3b8e-615f-0142-4b72efeb19d0/038557700357.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Perdido",
-          "duration": "1:58"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Perdido (Slowed)",
-          "duration": "2:12"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Perdido (Super Slowed)",
-          "duration": "2:28"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Perdido (Sped Up)",
-          "duration": "1:48"
-        }
-      ]
-    },
-    {
-      "name": "Dança Interstellar",
-      "year": "2024",
-      "release_date": "2024-09-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/6d/55/906d55a4-bb72-16b2-6df9-097e9cafde21/724997232663.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dança Interstellar",
-          "duration": "1:32"
-        },
-        {
-          "number": 2,
-          "name": "Dança Interstellar (Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 3,
-          "name": "Dança Interstellar (Sped Up)",
-          "duration": "1:22"
-        },
-        {
-          "number": 4,
-          "name": "Dança Interstellar (Super Slowed)",
-          "duration": "1:56"
         }
       ]
     },
@@ -2458,39 +2430,6 @@
       ]
     },
     {
-      "name": "Heaven Funk",
-      "year": "2025",
-      "release_date": "2025-10-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/2c/9b/082c9bd1-16cf-7d49-7e0c-120708e85338/619566524969.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Heaven Funk",
-          "duration": "1:39"
-        },
-        {
-          "number": 2,
-          "name": "Heaven Funk (Slowed)",
-          "duration": "1:52"
-        },
-        {
-          "number": 3,
-          "name": "Heaven Funk (Sped Up)",
-          "duration": "1:30"
-        },
-        {
-          "number": 4,
-          "name": "Heaven Funk (Super Slowed)",
-          "duration": "2:04"
-        },
-        {
-          "number": 5,
-          "name": "Heaven Funk (Ultra Slowed)",
-          "duration": "2:17"
-        }
-      ]
-    },
-    {
       "name": "Ensa Bara",
       "year": "2025",
       "release_date": "2025-03-14",
@@ -2553,39 +2492,6 @@
           "number": 5,
           "name": "MONTAGEM GREEN RENITCH V1 (Sped Up)",
           "duration": "1:32"
-        }
-      ]
-    },
-    {
-      "name": "Montagem Danza",
-      "year": "2025",
-      "release_date": "2025-10-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/f3/31/e6f331ff-5e95-08ad-7efd-a3765e4a0fb5/619566354764.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Danza",
-          "duration": "1:43"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Danza (Slowed)",
-          "duration": "1:54"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Danza (Sped Up)",
-          "duration": "1:32"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Danza (Super Slowed)",
-          "duration": "2:08"
-        },
-        {
-          "number": 5,
-          "name": "Montagem Danza (Ultra Slowed)",
-          "duration": "2:22"
         }
       ]
     },
@@ -2679,39 +2585,6 @@
       ]
     },
     {
-      "name": "Spooky 2",
-      "year": "2025",
-      "release_date": "2025-10-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/6d/1a/1b6d1a53-16c8-eeb8-cc80-f93e441b1fba/619566823963.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Spooky 2",
-          "duration": "1:43"
-        },
-        {
-          "number": 2,
-          "name": "Spooky 2 (Slowed)",
-          "duration": "2:02"
-        },
-        {
-          "number": 3,
-          "name": "Spooky 2 (Sped Up)",
-          "duration": "1:27"
-        },
-        {
-          "number": 4,
-          "name": "Spooky 2 (Super Slowed)",
-          "duration": "2:16"
-        },
-        {
-          "number": 5,
-          "name": "Spooky 2 (Ultra Slowed)",
-          "duration": "2:32"
-        }
-      ]
-    },
-    {
       "name": "Essa Gata",
       "year": "2025",
       "release_date": "2025-10-09",
@@ -2774,34 +2647,6 @@
           "number": 6,
           "name": "Arcano (Sped Up)",
           "duration": "1:21"
-        }
-      ]
-    },
-    {
-      "name": "Joking",
-      "year": "2024",
-      "release_date": "2024-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/47/a3/8047a37d-b33c-af6f-2fa4-5cce566b10d9/644401260764.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Joking",
-          "duration": "1:21"
-        },
-        {
-          "number": 2,
-          "name": "Joking (Slowed)",
-          "duration": "1:32"
-        },
-        {
-          "number": 3,
-          "name": "Joking (Sped Up)",
-          "duration": "1:14"
-        },
-        {
-          "number": 4,
-          "name": "Joking (Super Slowed)",
-          "duration": "1:49"
         }
       ]
     },
@@ -2929,6 +2774,39 @@
           "number": 4,
           "name": "Vem Balançar (Super Slowed)",
           "duration": "2:21"
+        }
+      ]
+    },
+    {
+      "name": "SEU VENTO",
+      "year": "2025",
+      "release_date": "2025-11-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/73/79/7d73796b-ab50-78c6-27d2-2d50e170b572/2147997.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SEU VENTO",
+          "duration": "1:30"
+        },
+        {
+          "number": 2,
+          "name": "SEU VENTO (Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 3,
+          "name": "SEU VENTO (Sped Up)",
+          "duration": "1:26"
+        },
+        {
+          "number": 4,
+          "name": "SEU VENTO (Super Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 5,
+          "name": "SEU VENTO (Ultra Slowed)",
+          "duration": "1:48"
         }
       ]
     },
@@ -3141,6 +3019,39 @@
       ]
     },
     {
+      "name": "MEU MUNDO",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/b0/d1/a1b0d144-6c8c-8515-c47a-64b4c2914847/2117587.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MEU MUNDO",
+          "duration": "1:21"
+        },
+        {
+          "number": 2,
+          "name": "MEU MUNDO (Slowed)",
+          "duration": "1:31"
+        },
+        {
+          "number": 3,
+          "name": "MEU MUNDO (Sped Up)",
+          "duration": "1:12"
+        },
+        {
+          "number": 4,
+          "name": "MEU MUNDO (Super Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 5,
+          "name": "MEU MUNDO (Ultra Slowed)",
+          "duration": "1:55"
+        }
+      ]
+    },
+    {
       "name": "TAP TAP",
       "year": "2025",
       "release_date": "2025-06-13",
@@ -3319,34 +3230,6 @@
       ]
     },
     {
-      "name": "Favela Chama",
-      "year": "2025",
-      "release_date": "2025-09-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/a5/48/c7a54839-a820-efff-e742-d2ffd87f7d32/052599550688.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Favela Chama",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "Favela Chama (Slowed)",
-          "duration": "1:41"
-        },
-        {
-          "number": 3,
-          "name": "Favela Chama (Ultra Slowed)",
-          "duration": "1:56"
-        },
-        {
-          "number": 4,
-          "name": "Favela Chama (Sped Up)",
-          "duration": "1:26"
-        }
-      ]
-    },
-    {
       "name": "Gatchi",
       "year": "2025",
       "release_date": "2025-11-13",
@@ -3409,39 +3292,6 @@
           "number": 5,
           "name": "LUA NA PRAÇA (Ultra Slowed)",
           "duration": "2:04"
-        }
-      ]
-    },
-    {
-      "name": "Montagem Maldição",
-      "year": "2025",
-      "release_date": "2025-10-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/8f/d2/8f8fd215-5efa-51d2-f498-45e4ea07e692/619566564347.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Maldição",
-          "duration": "1:27"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Maldição (Slowed)",
-          "duration": "1:37"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Maldição (Sped Up)",
-          "duration": "1:22"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Maldição (Super Slowed)",
-          "duration": "1:49"
-        },
-        {
-          "number": 5,
-          "name": "Montagem Maldição (Ultra Slowed)",
-          "duration": "2:03"
         }
       ]
     },

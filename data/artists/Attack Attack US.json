@@ -134,6 +134,64 @@
       ]
     },
     {
+      "name": "Attack Attack!",
+      "year": "2010",
+      "release_date": "2010-06-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/27/47/f027471c-a3cf-743f-5431-365922f45f1e/0854132001691.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sexual Man Chocolate",
+          "duration": "3:18"
+        },
+        {
+          "number": 2,
+          "name": "Renob, Nevada",
+          "duration": "3:14"
+        },
+        {
+          "number": 3,
+          "name": "I Swear I'll Change",
+          "duration": "3:40"
+        },
+        {
+          "number": 4,
+          "name": "Shut Your Mouth",
+          "duration": "2:44"
+        },
+        {
+          "number": 5,
+          "name": "A for Andrew",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "Smokahontas",
+          "duration": "3:54"
+        },
+        {
+          "number": 7,
+          "name": "AC-130",
+          "duration": "1:47"
+        },
+        {
+          "number": 8,
+          "name": "Fumbles O'Brian",
+          "duration": "2:57"
+        },
+        {
+          "number": 9,
+          "name": "Turbo Swag",
+          "duration": "3:33"
+        },
+        {
+          "number": 10,
+          "name": "Lonely",
+          "duration": "5:37"
+        }
+      ]
+    },
+    {
       "name": "This Means War",
       "year": "2012",
       "release_date": "2012-01-17",
@@ -286,64 +344,6 @@
           "number": 18,
           "name": "Turbo Swag (Acoustic)",
           "duration": "3:06"
-        }
-      ]
-    },
-    {
-      "name": "Attack Attack!",
-      "year": "2010",
-      "release_date": "2010-06-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/27/47/f027471c-a3cf-743f-5431-365922f45f1e/0854132001691.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sexual Man Chocolate",
-          "duration": "3:18"
-        },
-        {
-          "number": 2,
-          "name": "Renob, Nevada",
-          "duration": "3:14"
-        },
-        {
-          "number": 3,
-          "name": "I Swear I'll Change",
-          "duration": "3:40"
-        },
-        {
-          "number": 4,
-          "name": "Shut Your Mouth",
-          "duration": "2:44"
-        },
-        {
-          "number": 5,
-          "name": "A for Andrew",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "Smokahontas",
-          "duration": "3:54"
-        },
-        {
-          "number": 7,
-          "name": "AC-130",
-          "duration": "1:47"
-        },
-        {
-          "number": 8,
-          "name": "Fumbles O'Brian",
-          "duration": "2:57"
-        },
-        {
-          "number": 9,
-          "name": "Turbo Swag",
-          "duration": "3:33"
-        },
-        {
-          "number": 10,
-          "name": "Lonely",
-          "duration": "5:37"
         }
       ]
     }
@@ -605,39 +605,6 @@
       ]
     },
     {
-      "name": "Disaster",
-      "year": "2024",
-      "release_date": "2024-09-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/0d/f5/d00df516-1abd-b800-3da6-5b4390c2b4a1/193436393669_AttackAttackDisasterEPCover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Concrete",
-          "duration": "3:18"
-        },
-        {
-          "number": 2,
-          "name": "Blood On The Walls",
-          "duration": "3:16"
-        },
-        {
-          "number": 3,
-          "name": "Disaster",
-          "duration": "3:25"
-        },
-        {
-          "number": 4,
-          "name": "Spitfire",
-          "duration": "3:04"
-        },
-        {
-          "number": 5,
-          "name": "We All Meet Up In The End",
-          "duration": "2:56"
-        }
-      ]
-    },
-    {
       "name": "Long Time, No Sea",
       "year": "2021",
       "release_date": "2021-10-29",
@@ -672,6 +639,39 @@
           "number": 6,
           "name": "Dear Wendy",
           "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Disaster",
+      "year": "2024",
+      "release_date": "2024-09-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/0d/f5/d00df516-1abd-b800-3da6-5b4390c2b4a1/193436393669_AttackAttackDisasterEPCover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Concrete",
+          "duration": "3:18"
+        },
+        {
+          "number": 2,
+          "name": "Blood On The Walls",
+          "duration": "3:16"
+        },
+        {
+          "number": 3,
+          "name": "Disaster",
+          "duration": "3:25"
+        },
+        {
+          "number": 4,
+          "name": "Spitfire",
+          "duration": "3:04"
+        },
+        {
+          "number": 5,
+          "name": "We All Meet Up In The End",
+          "duration": "2:56"
         }
       ]
     },

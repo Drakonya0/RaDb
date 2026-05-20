@@ -3,6 +3,54 @@
   "id": 1434427850,
   "albums": [
     {
+      "name": "King",
+      "year": "2022",
+      "release_date": "2022-05-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/da/b5/3bdab566-7607-b72e-8c28-28eea952a87e/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ambrosius",
+          "duration": "5:11"
+        },
+        {
+          "number": 2,
+          "name": "Your Empire (feat. Oskar Logi)",
+          "duration": "3:27"
+        },
+        {
+          "number": 3,
+          "name": "Bulls of Bravik",
+          "duration": "3:35"
+        },
+        {
+          "number": 4,
+          "name": "Antibeast",
+          "duration": "5:01"
+        },
+        {
+          "number": 5,
+          "name": "Wenceslas",
+          "duration": "3:09"
+        },
+        {
+          "number": 6,
+          "name": "Kraken Wanker",
+          "duration": "5:22"
+        },
+        {
+          "number": 7,
+          "name": "Stinth Thy Clep",
+          "duration": "4:32"
+        },
+        {
+          "number": 8,
+          "name": "Platypus Platoon",
+          "duration": "11:45"
+        }
+      ]
+    },
+    {
       "name": "Vestiges of Verumex Visidrome",
       "year": "2024",
       "release_date": "2024-09-13",
@@ -52,54 +100,6 @@
           "number": 9,
           "name": "John Frum",
           "duration": "5:35"
-        }
-      ]
-    },
-    {
-      "name": "King",
-      "year": "2022",
-      "release_date": "2022-05-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/da/b5/3bdab566-7607-b72e-8c28-28eea952a87e/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ambrosius",
-          "duration": "5:11"
-        },
-        {
-          "number": 2,
-          "name": "Your Empire (feat. Oskar Logi)",
-          "duration": "3:27"
-        },
-        {
-          "number": 3,
-          "name": "Bulls of Bravik",
-          "duration": "3:35"
-        },
-        {
-          "number": 4,
-          "name": "Antibeast",
-          "duration": "5:01"
-        },
-        {
-          "number": 5,
-          "name": "Wenceslas",
-          "duration": "3:09"
-        },
-        {
-          "number": 6,
-          "name": "Kraken Wanker",
-          "duration": "5:22"
-        },
-        {
-          "number": 7,
-          "name": "Stinth Thy Clep",
-          "duration": "4:32"
-        },
-        {
-          "number": 8,
-          "name": "Platypus Platoon",
-          "duration": "11:45"
         }
       ]
     },

@@ -3,49 +3,6 @@
   "id": 1246805358,
   "albums": [
     {
-      "name": "Pl1106",
-      "year": "2017",
-      "release_date": "2017-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/78/b4/86/78b4866f-904a-b146-bbad-4246ef060cfd/Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "2L",
-          "duration": "3:00"
-        },
-        {
-          "number": 2,
-          "name": "Ltx3f",
-          "duration": "3:56"
-        },
-        {
-          "number": 3,
-          "name": "Wave",
-          "duration": "3:00"
-        },
-        {
-          "number": 4,
-          "name": "V13n$",
-          "duration": "4:14"
-        },
-        {
-          "number": 5,
-          "name": "Bat. C",
-          "duration": "3:59"
-        },
-        {
-          "number": 6,
-          "name": "Sys",
-          "duration": "3:21"
-        },
-        {
-          "number": 7,
-          "name": "H00d",
-          "duration": "5:10"
-        }
-      ]
-    },
-    {
       "name": "Monochrome, Vol. 2.1",
       "year": "2021",
       "release_date": "2021-11-26",
@@ -120,6 +77,49 @@
           "number": 14,
           "name": "Le tour de ma ville (feat. Moken)",
           "duration": "3:17"
+        }
+      ]
+    },
+    {
+      "name": "Pl1106",
+      "year": "2017",
+      "release_date": "2017-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/78/b4/86/78b4866f-904a-b146-bbad-4246ef060cfd/Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "2L",
+          "duration": "3:00"
+        },
+        {
+          "number": 2,
+          "name": "Ltx3f",
+          "duration": "3:56"
+        },
+        {
+          "number": 3,
+          "name": "Wave",
+          "duration": "3:00"
+        },
+        {
+          "number": 4,
+          "name": "V13n$",
+          "duration": "4:14"
+        },
+        {
+          "number": 5,
+          "name": "Bat. C",
+          "duration": "3:59"
+        },
+        {
+          "number": 6,
+          "name": "Sys",
+          "duration": "3:21"
+        },
+        {
+          "number": 7,
+          "name": "H00d",
+          "duration": "5:10"
         }
       ]
     },
@@ -321,19 +321,6 @@
       ]
     },
     {
-      "name": "Poupée Russe",
-      "year": "2025",
-      "release_date": "2025-07-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/6d/61/8a6d61eb-9ce4-1107-0a54-8c8f3abe6b18/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Poupée Russe",
-          "duration": "2:53"
-        }
-      ]
-    },
-    {
       "name": "Score",
       "year": "2024",
       "release_date": "2024-04-26",
@@ -343,6 +330,19 @@
           "number": 1,
           "name": "Score",
           "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Poupée Russe",
+      "year": "2025",
+      "release_date": "2025-07-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/6d/61/8a6d61eb-9ce4-1107-0a54-8c8f3abe6b18/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Poupée Russe",
+          "duration": "2:53"
         }
       ]
     },
@@ -370,19 +370,6 @@
       ]
     },
     {
-      "name": "Love",
-      "year": "2021",
-      "release_date": "2021-04-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/38/64/e03864a0-479b-7df9-da56-f6b20da60231/5400863056377_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Love",
-          "duration": "2:59"
-        }
-      ]
-    },
-    {
       "name": "Sur La Côte",
       "year": "2021",
       "release_date": "2021-03-26",
@@ -392,6 +379,19 @@
           "number": 1,
           "name": "Sur La Côte",
           "duration": "2:28"
+        }
+      ]
+    },
+    {
+      "name": "Love",
+      "year": "2021",
+      "release_date": "2021-04-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/38/64/e03864a0-479b-7df9-da56-f6b20da60231/5400863056377_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Love",
+          "duration": "2:59"
         }
       ]
     },
@@ -432,19 +432,6 @@
       ]
     },
     {
-      "name": "London",
-      "year": "2020",
-      "release_date": "2020-06-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/63/d4/af/63d4af0d-e237-73e4-d349-1bcdc1bc45d2/5400863033873_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "London",
-          "duration": "2:43"
-        }
-      ]
-    },
-    {
       "name": "Feel It (feat. Lpee)",
       "year": "2017",
       "release_date": "2017-11-17",
@@ -454,6 +441,19 @@
           "number": 1,
           "name": "Feel It (feat. Lpee)",
           "duration": "4:19"
+        }
+      ]
+    },
+    {
+      "name": "London",
+      "year": "2020",
+      "release_date": "2020-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/63/d4/af/63d4af0d-e237-73e4-d349-1bcdc1bc45d2/5400863033873_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "London",
+          "duration": "2:43"
         }
       ]
     },
@@ -601,19 +601,6 @@
       ]
     },
     {
-      "name": "COMME LES ÉTOILES",
-      "year": "2025",
-      "release_date": "2025-12-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/4a/89/3b4a8986-94fe-642e-f1e7-eca734a7e960/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "COMME LES ÉTOILES",
-          "duration": "3:08"
-        }
-      ]
-    },
-    {
       "name": "Kanye",
       "year": "2021",
       "release_date": "2021-04-30",
@@ -623,6 +610,19 @@
           "number": 1,
           "name": "Kanye",
           "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "COMME LES ÉTOILES",
+      "year": "2025",
+      "release_date": "2025-12-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/4a/89/3b4a8986-94fe-642e-f1e7-eca734a7e960/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "COMME LES ÉTOILES",
+          "duration": "3:08"
         }
       ]
     },
@@ -668,6 +668,34 @@
   ],
   "eps": [
     {
+      "name": "3Ème Round",
+      "year": "2019",
+      "release_date": "2019-08-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c0/ae/1c/c0ae1c85-f277-0440-1747-a57687f18eae/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ella Fitzgerald",
+          "duration": "2:56"
+        },
+        {
+          "number": 2,
+          "name": "3Eme Round",
+          "duration": "3:20"
+        },
+        {
+          "number": 3,
+          "name": "40 Degrés",
+          "duration": "2:53"
+        },
+        {
+          "number": 4,
+          "name": "Ross Geller & Rachel Green",
+          "duration": "4:20"
+        }
+      ]
+    },
+    {
       "name": "Merci pour les roses",
       "year": "2024",
       "release_date": "2024-11-29",
@@ -702,34 +730,6 @@
           "number": 6,
           "name": "Encore",
           "duration": "2:43"
-        }
-      ]
-    },
-    {
-      "name": "3Ème Round",
-      "year": "2019",
-      "release_date": "2019-08-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c0/ae/1c/c0ae1c85-f277-0440-1747-a57687f18eae/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ella Fitzgerald",
-          "duration": "2:56"
-        },
-        {
-          "number": 2,
-          "name": "3Eme Round",
-          "duration": "3:20"
-        },
-        {
-          "number": 3,
-          "name": "40 Degrés",
-          "duration": "2:53"
-        },
-        {
-          "number": 4,
-          "name": "Ross Geller & Rachel Green",
-          "duration": "4:20"
         }
       ]
     },

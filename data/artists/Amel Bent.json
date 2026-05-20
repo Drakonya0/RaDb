@@ -687,24 +687,6 @@
   ],
   "singles": [
     {
-      "name": "Eye of the Tiger",
-      "year": "2006",
-      "release_date": "2006-05-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/c3/69/fe/dj.evblgsfb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Eye of the Tiger",
-          "duration": "3:12"
-        },
-        {
-          "number": 2,
-          "name": "Eye of the Tiger (Instrumental)",
-          "duration": "3:12"
-        }
-      ]
-    },
-    {
       "name": "Ma Philosophie",
       "year": "2004",
       "release_date": "2004-11-29",
@@ -719,6 +701,24 @@
           "number": 2,
           "name": "As",
           "duration": "4:36"
+        }
+      ]
+    },
+    {
+      "name": "Eye of the Tiger",
+      "year": "2006",
+      "release_date": "2006-05-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/c3/69/fe/dj.evblgsfb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Eye of the Tiger",
+          "duration": "3:12"
+        },
+        {
+          "number": 2,
+          "name": "Eye of the Tiger (Instrumental)",
+          "duration": "3:12"
         }
       ]
     },

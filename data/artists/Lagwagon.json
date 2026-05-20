@@ -3,6 +3,74 @@
   "id": 13505765,
   "albums": [
     {
+      "name": "Hang",
+      "year": "2014",
+      "release_date": "2014-10-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/bb/40/48/bb404857-67b1-83db-be5f-f03578528c40/Hang_RGB_1500.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Burden of Proof",
+          "duration": "0:56"
+        },
+        {
+          "number": 2,
+          "name": "Reign",
+          "duration": "3:21"
+        },
+        {
+          "number": 3,
+          "name": "Made of Broken Parts",
+          "duration": "2:20"
+        },
+        {
+          "number": 4,
+          "name": "The Cog in the Machine",
+          "duration": "3:38"
+        },
+        {
+          "number": 5,
+          "name": "Poison In The Well",
+          "duration": "2:33"
+        },
+        {
+          "number": 6,
+          "name": "Obsolete Absolute",
+          "duration": "6:11"
+        },
+        {
+          "number": 7,
+          "name": "Western Settlements",
+          "duration": "3:07"
+        },
+        {
+          "number": 8,
+          "name": "Burning Out in Style",
+          "duration": "2:55"
+        },
+        {
+          "number": 9,
+          "name": "One More Song",
+          "duration": "3:19"
+        },
+        {
+          "number": 10,
+          "name": "Drag",
+          "duration": "2:19"
+        },
+        {
+          "number": 11,
+          "name": "You Know Me",
+          "duration": "4:17"
+        },
+        {
+          "number": 12,
+          "name": "In Your Wake",
+          "duration": "3:55"
+        }
+      ]
+    },
+    {
       "name": "Hoss",
       "year": "1995",
       "release_date": "1995-11-21",
@@ -137,134 +205,6 @@
           "number": 26,
           "name": "Derrick Instrumental (Demo)",
           "duration": "3:06"
-        }
-      ]
-    },
-    {
-      "name": "Double Plaidinum",
-      "year": "1997",
-      "release_date": "1997-08-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/ce/6c/cdce6c83-4e72-7081-b625-6b59052ef33c/mzi.pepskgeb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Alien 8",
-          "duration": "1:49"
-        },
-        {
-          "number": 2,
-          "name": "Making Friends",
-          "duration": "2:14"
-        },
-        {
-          "number": 3,
-          "name": "Unfurnished",
-          "duration": "2:23"
-        },
-        {
-          "number": 4,
-          "name": "One Thing to Live",
-          "duration": "2:20"
-        },
-        {
-          "number": 5,
-          "name": "Today",
-          "duration": "2:03"
-        },
-        {
-          "number": 6,
-          "name": "Confession",
-          "duration": "2:54"
-        },
-        {
-          "number": 7,
-          "name": "Bad Scene",
-          "duration": "1:18"
-        },
-        {
-          "number": 8,
-          "name": "Smile",
-          "duration": "2:03"
-        },
-        {
-          "number": 9,
-          "name": "Twenty Seven",
-          "duration": "2:30"
-        },
-        {
-          "number": 10,
-          "name": "Choke",
-          "duration": "2:45"
-        },
-        {
-          "number": 11,
-          "name": "Failure",
-          "duration": "2:45"
-        },
-        {
-          "number": 12,
-          "name": "To All My Friends",
-          "duration": "2:29"
-        },
-        {
-          "number": 13,
-          "name": "Goodbye",
-          "duration": "2:46"
-        },
-        {
-          "number": 14,
-          "name": "Brodeo",
-          "duration": "1:54"
-        },
-        {
-          "number": 15,
-          "name": "Raise a Family",
-          "duration": "1:35"
-        },
-        {
-          "number": 16,
-          "name": "Restrain",
-          "duration": "2:32"
-        },
-        {
-          "number": 17,
-          "name": "No One Like You",
-          "duration": "2:42"
-        },
-        {
-          "number": 18,
-          "name": "Freedom of Choice",
-          "duration": "2:46"
-        },
-        {
-          "number": 19,
-          "name": "Twenty Seven (Original Mix)",
-          "duration": "2:28"
-        },
-        {
-          "number": 20,
-          "name": "Alien 8 (Acoustic)",
-          "duration": "2:12"
-        },
-        {
-          "number": 21,
-          "name": "Making Friends (Acoustic)",
-          "duration": "2:25"
-        },
-        {
-          "number": 22,
-          "name": "Brodeo (Acoustic)",
-          "duration": "1:48"
-        },
-        {
-          "number": 23,
-          "name": "Goodbye (Acoustic)",
-          "duration": "2:26"
-        },
-        {
-          "number": 24,
-          "name": "To All My Friends (Acoustic)",
-          "duration": "2:35"
         }
       ]
     },
@@ -550,6 +490,202 @@
       ]
     },
     {
+      "name": "Double Plaidinum",
+      "year": "1997",
+      "release_date": "1997-08-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cd/ce/6c/cdce6c83-4e72-7081-b625-6b59052ef33c/mzi.pepskgeb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Alien 8",
+          "duration": "1:49"
+        },
+        {
+          "number": 2,
+          "name": "Making Friends",
+          "duration": "2:14"
+        },
+        {
+          "number": 3,
+          "name": "Unfurnished",
+          "duration": "2:23"
+        },
+        {
+          "number": 4,
+          "name": "One Thing to Live",
+          "duration": "2:20"
+        },
+        {
+          "number": 5,
+          "name": "Today",
+          "duration": "2:03"
+        },
+        {
+          "number": 6,
+          "name": "Confession",
+          "duration": "2:54"
+        },
+        {
+          "number": 7,
+          "name": "Bad Scene",
+          "duration": "1:18"
+        },
+        {
+          "number": 8,
+          "name": "Smile",
+          "duration": "2:03"
+        },
+        {
+          "number": 9,
+          "name": "Twenty Seven",
+          "duration": "2:30"
+        },
+        {
+          "number": 10,
+          "name": "Choke",
+          "duration": "2:45"
+        },
+        {
+          "number": 11,
+          "name": "Failure",
+          "duration": "2:45"
+        },
+        {
+          "number": 12,
+          "name": "To All My Friends",
+          "duration": "2:29"
+        },
+        {
+          "number": 13,
+          "name": "Goodbye",
+          "duration": "2:46"
+        },
+        {
+          "number": 14,
+          "name": "Brodeo",
+          "duration": "1:54"
+        },
+        {
+          "number": 15,
+          "name": "Raise a Family",
+          "duration": "1:35"
+        },
+        {
+          "number": 16,
+          "name": "Restrain",
+          "duration": "2:32"
+        },
+        {
+          "number": 17,
+          "name": "No One Like You",
+          "duration": "2:42"
+        },
+        {
+          "number": 18,
+          "name": "Freedom of Choice",
+          "duration": "2:46"
+        },
+        {
+          "number": 19,
+          "name": "Twenty Seven (Original Mix)",
+          "duration": "2:28"
+        },
+        {
+          "number": 20,
+          "name": "Alien 8 (Acoustic)",
+          "duration": "2:12"
+        },
+        {
+          "number": 21,
+          "name": "Making Friends (Acoustic)",
+          "duration": "2:25"
+        },
+        {
+          "number": 22,
+          "name": "Brodeo (Acoustic)",
+          "duration": "1:48"
+        },
+        {
+          "number": 23,
+          "name": "Goodbye (Acoustic)",
+          "duration": "2:26"
+        },
+        {
+          "number": 24,
+          "name": "To All My Friends (Acoustic)",
+          "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Railer",
+      "year": "2019",
+      "release_date": "2019-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/94/5b/60945b0e-00e7-39c8-cb23-bee7d0f8ada2/Lagwagon_Railer_Fat119_3000pxl.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stealing Light",
+          "duration": "2:35"
+        },
+        {
+          "number": 2,
+          "name": "Surviving California",
+          "duration": "2:50"
+        },
+        {
+          "number": 3,
+          "name": "Jini",
+          "duration": "2:52"
+        },
+        {
+          "number": 4,
+          "name": "Parable",
+          "duration": "2:59"
+        },
+        {
+          "number": 5,
+          "name": "Dangerous Animal",
+          "duration": "2:21"
+        },
+        {
+          "number": 6,
+          "name": "Bubble",
+          "duration": "3:24"
+        },
+        {
+          "number": 7,
+          "name": "The Suffering",
+          "duration": "4:34"
+        },
+        {
+          "number": 8,
+          "name": "Dark Matter",
+          "duration": "2:36"
+        },
+        {
+          "number": 9,
+          "name": "Fan Fiction",
+          "duration": "3:25"
+        },
+        {
+          "number": 10,
+          "name": "Pray for Them",
+          "duration": "2:53"
+        },
+        {
+          "number": 11,
+          "name": "Auf Wiedersehen",
+          "duration": "2:37"
+        },
+        {
+          "number": 12,
+          "name": "Faithfully",
+          "duration": "2:45"
+        }
+      ]
+    },
+    {
       "name": "Duh (Reissue)",
       "year": "1992",
       "release_date": "1992-10-01",
@@ -748,74 +884,6 @@
       ]
     },
     {
-      "name": "Hang",
-      "year": "2014",
-      "release_date": "2014-10-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/bb/40/48/bb404857-67b1-83db-be5f-f03578528c40/Hang_RGB_1500.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Burden of Proof",
-          "duration": "0:56"
-        },
-        {
-          "number": 2,
-          "name": "Reign",
-          "duration": "3:21"
-        },
-        {
-          "number": 3,
-          "name": "Made of Broken Parts",
-          "duration": "2:20"
-        },
-        {
-          "number": 4,
-          "name": "The Cog in the Machine",
-          "duration": "3:38"
-        },
-        {
-          "number": 5,
-          "name": "Poison In The Well",
-          "duration": "2:33"
-        },
-        {
-          "number": 6,
-          "name": "Obsolete Absolute",
-          "duration": "6:11"
-        },
-        {
-          "number": 7,
-          "name": "Western Settlements",
-          "duration": "3:07"
-        },
-        {
-          "number": 8,
-          "name": "Burning Out in Style",
-          "duration": "2:55"
-        },
-        {
-          "number": 9,
-          "name": "One More Song",
-          "duration": "3:19"
-        },
-        {
-          "number": 10,
-          "name": "Drag",
-          "duration": "2:19"
-        },
-        {
-          "number": 11,
-          "name": "You Know Me",
-          "duration": "4:17"
-        },
-        {
-          "number": 12,
-          "name": "In Your Wake",
-          "duration": "3:55"
-        }
-      ]
-    },
-    {
       "name": "Blaze",
       "year": "2003",
       "release_date": "2003-04-08",
@@ -1008,74 +1076,6 @@
           "number": 22,
           "name": "Stokin' the Neighbors (Live)",
           "duration": "3:14"
-        }
-      ]
-    },
-    {
-      "name": "Railer",
-      "year": "2019",
-      "release_date": "2019-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/94/5b/60945b0e-00e7-39c8-cb23-bee7d0f8ada2/Lagwagon_Railer_Fat119_3000pxl.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stealing Light",
-          "duration": "2:35"
-        },
-        {
-          "number": 2,
-          "name": "Surviving California",
-          "duration": "2:50"
-        },
-        {
-          "number": 3,
-          "name": "Jini",
-          "duration": "2:52"
-        },
-        {
-          "number": 4,
-          "name": "Parable",
-          "duration": "2:59"
-        },
-        {
-          "number": 5,
-          "name": "Dangerous Animal",
-          "duration": "2:21"
-        },
-        {
-          "number": 6,
-          "name": "Bubble",
-          "duration": "3:24"
-        },
-        {
-          "number": 7,
-          "name": "The Suffering",
-          "duration": "4:34"
-        },
-        {
-          "number": 8,
-          "name": "Dark Matter",
-          "duration": "2:36"
-        },
-        {
-          "number": 9,
-          "name": "Fan Fiction",
-          "duration": "3:25"
-        },
-        {
-          "number": 10,
-          "name": "Pray for Them",
-          "duration": "2:53"
-        },
-        {
-          "number": 11,
-          "name": "Auf Wiedersehen",
-          "duration": "2:37"
-        },
-        {
-          "number": 12,
-          "name": "Faithfully",
-          "duration": "2:45"
         }
       ]
     },

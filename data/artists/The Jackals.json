@@ -30,6 +30,19 @@
       ]
     },
     {
+      "name": "Bella Ciao",
+      "year": "2025",
+      "release_date": "2025-05-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/46/29/9e4629c4-2a85-7c85-ab80-4022f069ff21/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bella Ciao",
+          "duration": "3:22"
+        }
+      ]
+    },
+    {
       "name": "Jacked Up Mode",
       "year": "2025",
       "release_date": "2025-06-20",
@@ -44,19 +57,6 @@
           "number": 2,
           "name": "Jacked Up Mode (Extended Mix)",
           "duration": "3:34"
-        }
-      ]
-    },
-    {
-      "name": "Bella Ciao",
-      "year": "2025",
-      "release_date": "2025-05-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/46/29/9e4629c4-2a85-7c85-ab80-4022f069ff21/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bella Ciao",
-          "duration": "3:22"
         }
       ]
     },
@@ -113,24 +113,6 @@
       ]
     },
     {
-      "name": "GSXR",
-      "year": "2025",
-      "release_date": "2025-05-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/d3/5a/e2d35ab6-7759-1000-a35e-2ccb79bcaf3b/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "GSXR",
-          "duration": "3:00"
-        },
-        {
-          "number": 2,
-          "name": "GSXR (Radio Edit)",
-          "duration": "2:16"
-        }
-      ]
-    },
-    {
       "name": "Rave Hard",
       "year": "2025",
       "release_date": "2025-09-12",
@@ -145,6 +127,24 @@
           "number": 2,
           "name": "Rave Hard (Extended Mix)",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "GSXR",
+      "year": "2025",
+      "release_date": "2025-05-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/d3/5a/e2d35ab6-7759-1000-a35e-2ccb79bcaf3b/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "GSXR",
+          "duration": "3:00"
+        },
+        {
+          "number": 2,
+          "name": "GSXR (Radio Edit)",
+          "duration": "2:16"
         }
       ]
     }

@@ -63,6 +63,32 @@
   ],
   "singles": [
     {
+      "name": "Grenade",
+      "year": "2021",
+      "release_date": "2021-02-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cf/d2/a6/cfd2a6b5-6828-b8cd-6a73-baddc524eb1c/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Grenade",
+          "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "Just Friends",
+      "year": "2020",
+      "release_date": "2020-08-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/48/3d/fb483dce-2304-8b83-bfcd-b37f80c06f89/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Just Friends",
+          "duration": "3:11"
+        }
+      ]
+    },
+    {
       "name": "Kerosene",
       "year": "2024",
       "release_date": "2024-03-15",
@@ -219,32 +245,6 @@
       ]
     },
     {
-      "name": "Grenade",
-      "year": "2021",
-      "release_date": "2021-02-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cf/d2/a6/cfd2a6b5-6828-b8cd-6a73-baddc524eb1c/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Grenade",
-          "duration": "3:52"
-        }
-      ]
-    },
-    {
-      "name": "Just Friends",
-      "year": "2020",
-      "release_date": "2020-08-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/48/3d/fb483dce-2304-8b83-bfcd-b37f80c06f89/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Just Friends",
-          "duration": "3:11"
-        }
-      ]
-    },
-    {
       "name": "Fever Dreams",
       "year": "2020",
       "release_date": "2020-03-06",
@@ -353,44 +353,6 @@
   ],
   "eps": [
     {
-      "name": "Reliving Trauma",
-      "year": "2024",
-      "release_date": "2024-12-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/11/92/ee11928e-ecd2-4ef7-9e61-a16e49eb6d5f/198622759687_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fault Line",
-          "duration": "3:40"
-        },
-        {
-          "number": 2,
-          "name": "Kerosene",
-          "duration": "3:19"
-        },
-        {
-          "number": 3,
-          "name": "Parallel",
-          "duration": "3:25"
-        },
-        {
-          "number": 4,
-          "name": "Invincible",
-          "duration": "3:48"
-        },
-        {
-          "number": 5,
-          "name": "Let Me Be Me",
-          "duration": "2:48"
-        },
-        {
-          "number": 6,
-          "name": "Monster",
-          "duration": "3:37"
-        }
-      ]
-    },
-    {
       "name": "For What It's Worth",
       "year": "2021",
       "release_date": "2021-09-07",
@@ -425,6 +387,44 @@
           "number": 6,
           "name": "Crash and Burn",
           "duration": "3:44"
+        }
+      ]
+    },
+    {
+      "name": "Reliving Trauma",
+      "year": "2024",
+      "release_date": "2024-12-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/11/92/ee11928e-ecd2-4ef7-9e61-a16e49eb6d5f/198622759687_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fault Line",
+          "duration": "3:40"
+        },
+        {
+          "number": 2,
+          "name": "Kerosene",
+          "duration": "3:19"
+        },
+        {
+          "number": 3,
+          "name": "Parallel",
+          "duration": "3:25"
+        },
+        {
+          "number": 4,
+          "name": "Invincible",
+          "duration": "3:48"
+        },
+        {
+          "number": 5,
+          "name": "Let Me Be Me",
+          "duration": "2:48"
+        },
+        {
+          "number": 6,
+          "name": "Monster",
+          "duration": "3:37"
         }
       ]
     },

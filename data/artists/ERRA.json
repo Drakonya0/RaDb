@@ -240,74 +240,6 @@
       ]
     },
     {
-      "name": "Cure",
-      "year": "2024",
-      "release_date": "2024-04-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/b8/1c/a9b81c10-a780-8751-19eb-9f945534d321/197190708080.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cure",
-          "duration": "3:45"
-        },
-        {
-          "number": 2,
-          "name": "Rumor of Light",
-          "duration": "4:02"
-        },
-        {
-          "number": 3,
-          "name": "Idle Wild",
-          "duration": "4:12"
-        },
-        {
-          "number": 4,
-          "name": "Blue Reverie",
-          "duration": "5:01"
-        },
-        {
-          "number": 5,
-          "name": "Slow Sour Bleed",
-          "duration": "4:07"
-        },
-        {
-          "number": 6,
-          "name": "Wish",
-          "duration": "1:25"
-        },
-        {
-          "number": 7,
-          "name": "Glimpse",
-          "duration": "4:23"
-        },
-        {
-          "number": 8,
-          "name": "Past Life Persona",
-          "duration": "4:40"
-        },
-        {
-          "number": 9,
-          "name": "Crawl Backwards out of Heaven",
-          "duration": "3:22"
-        },
-        {
-          "number": 10,
-          "name": "End to Excess",
-          "duration": "4:11"
-        },
-        {
-          "number": 11,
-          "name": "Pale Iris",
-          "duration": "4:23"
-        },
-        {
-          "number": 12,
-          "name": "Wave",
-          "duration": "4:58"
-        }
-      ]
-    },
-    {
       "name": "ERRA",
       "year": "2022",
       "release_date": "2022-03-18",
@@ -411,60 +343,70 @@
       ]
     },
     {
-      "name": "Neon",
-      "year": "2018",
-      "release_date": "2018-08-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/f7/24/6af724b8-cc3c-579a-f725-14bf92be9bf7/00817424018821_Cover.jpg/600x600bb.jpg",
+      "name": "Cure",
+      "year": "2024",
+      "release_date": "2024-04-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/b8/1c/a9b81c10-a780-8751-19eb-9f945534d321/197190708080.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Breach",
-          "duration": "4:42"
+          "name": "Cure",
+          "duration": "3:45"
         },
         {
           "number": 2,
-          "name": "Monolith",
-          "duration": "3:57"
+          "name": "Rumor of Light",
+          "duration": "4:02"
         },
         {
           "number": 3,
-          "name": "Signal Fire",
-          "duration": "4:17"
+          "name": "Idle Wild",
+          "duration": "4:12"
         },
         {
           "number": 4,
-          "name": "Valhalla",
-          "duration": "4:56"
+          "name": "Blue Reverie",
+          "duration": "5:01"
         },
         {
           "number": 5,
-          "name": "Hyperreality",
-          "duration": "3:58"
+          "name": "Slow Sour Bleed",
+          "duration": "4:07"
         },
         {
           "number": 6,
-          "name": "Ghost of Nothing",
-          "duration": "4:14"
+          "name": "Wish",
+          "duration": "1:25"
         },
         {
           "number": 7,
-          "name": "Disarray",
-          "duration": "3:50"
+          "name": "Glimpse",
+          "duration": "4:23"
         },
         {
           "number": 8,
-          "name": "Expiate",
-          "duration": "3:33"
+          "name": "Past Life Persona",
+          "duration": "4:40"
         },
         {
           "number": 9,
-          "name": "Unify",
-          "duration": "3:53"
+          "name": "Crawl Backwards out of Heaven",
+          "duration": "3:22"
         },
         {
           "number": 10,
-          "name": "Ultimata",
-          "duration": "4:56"
+          "name": "End to Excess",
+          "duration": "4:11"
+        },
+        {
+          "number": 11,
+          "name": "Pale Iris",
+          "duration": "4:23"
+        },
+        {
+          "number": 12,
+          "name": "Wave",
+          "duration": "4:58"
         }
       ]
     },
@@ -591,6 +533,64 @@
           "number": 12,
           "name": "Memory Fiction",
           "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Neon",
+      "year": "2018",
+      "release_date": "2018-08-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/f7/24/6af724b8-cc3c-579a-f725-14bf92be9bf7/00817424018821_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Breach",
+          "duration": "4:42"
+        },
+        {
+          "number": 2,
+          "name": "Monolith",
+          "duration": "3:57"
+        },
+        {
+          "number": 3,
+          "name": "Signal Fire",
+          "duration": "4:17"
+        },
+        {
+          "number": 4,
+          "name": "Valhalla",
+          "duration": "4:56"
+        },
+        {
+          "number": 5,
+          "name": "Hyperreality",
+          "duration": "3:58"
+        },
+        {
+          "number": 6,
+          "name": "Ghost of Nothing",
+          "duration": "4:14"
+        },
+        {
+          "number": 7,
+          "name": "Disarray",
+          "duration": "3:50"
+        },
+        {
+          "number": 8,
+          "name": "Expiate",
+          "duration": "3:33"
+        },
+        {
+          "number": 9,
+          "name": "Unify",
+          "duration": "3:53"
+        },
+        {
+          "number": 10,
+          "name": "Ultimata",
+          "duration": "4:56"
         }
       ]
     },

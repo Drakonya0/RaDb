@@ -3,6 +3,69 @@
   "id": 1091321697,
   "albums": [
     {
+      "name": "The Darkest Place I've Ever Been",
+      "year": "2025",
+      "release_date": "2025-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/e0/0d/1fe00d63-828a-acc9-4901-c992db7b36d1/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Darkest Place I've Ever Been",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Creature",
+          "duration": "3:45"
+        },
+        {
+          "number": 3,
+          "name": "A Line in the Dust",
+          "duration": "3:55"
+        },
+        {
+          "number": 4,
+          "name": "Blood Red",
+          "duration": "3:29"
+        },
+        {
+          "number": 5,
+          "name": "Sulfur",
+          "duration": "3:26"
+        },
+        {
+          "number": 6,
+          "name": "Sombre 16",
+          "duration": "1:10"
+        },
+        {
+          "number": 7,
+          "name": "The Great Unknown",
+          "duration": "3:07"
+        },
+        {
+          "number": 8,
+          "name": "La Valse Du Temps",
+          "duration": "5:26"
+        },
+        {
+          "number": 9,
+          "name": "Deep Inferno",
+          "duration": "3:32"
+        },
+        {
+          "number": 10,
+          "name": "Requiem",
+          "duration": "4:00"
+        },
+        {
+          "number": 11,
+          "name": "Funeral",
+          "duration": "2:52"
+        }
+      ]
+    },
+    {
       "name": "Fantasy",
       "year": "2018",
       "release_date": "2018-11-02",
@@ -306,69 +369,6 @@
           "number": 10,
           "name": "Paralyzed",
           "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "The Darkest Place I've Ever Been",
-      "year": "2025",
-      "release_date": "2025-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/e0/0d/1fe00d63-828a-acc9-4901-c992db7b36d1/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Darkest Place I've Ever Been",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Creature",
-          "duration": "3:45"
-        },
-        {
-          "number": 3,
-          "name": "A Line in the Dust",
-          "duration": "3:55"
-        },
-        {
-          "number": 4,
-          "name": "Blood Red",
-          "duration": "3:29"
-        },
-        {
-          "number": 5,
-          "name": "Sulfur",
-          "duration": "3:26"
-        },
-        {
-          "number": 6,
-          "name": "Sombre 16",
-          "duration": "1:10"
-        },
-        {
-          "number": 7,
-          "name": "The Great Unknown",
-          "duration": "3:07"
-        },
-        {
-          "number": 8,
-          "name": "La Valse Du Temps",
-          "duration": "5:26"
-        },
-        {
-          "number": 9,
-          "name": "Deep Inferno",
-          "duration": "3:32"
-        },
-        {
-          "number": 10,
-          "name": "Requiem",
-          "duration": "4:00"
-        },
-        {
-          "number": 11,
-          "name": "Funeral",
-          "duration": "2:52"
         }
       ]
     },

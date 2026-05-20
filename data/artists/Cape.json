@@ -4,29 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Too Close",
-      "year": "2025",
-      "release_date": "2025-12-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/f7/cf/05f7cf30-38a9-3cdf-95e6-47b08d98e088/698308328546.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Too Close",
-          "duration": "1:55"
-        },
-        {
-          "number": 2,
-          "name": "Too Close (Slowed)",
-          "duration": "2:10"
-        },
-        {
-          "number": 3,
-          "name": "Too Close (Super Slowed)",
-          "duration": "2:25"
-        }
-      ]
-    },
-    {
       "name": "HOMERO SI CANTA FUNK",
       "year": "2024",
       "release_date": "2024-11-01",
@@ -114,82 +91,6 @@
   ],
   "eps": [
     {
-      "name": "Montagem Rugada (Hardstyle Remix)",
-      "year": "2025",
-      "release_date": "2025-09-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/ff/d9/0effd911-f082-0c42-d937-c669fd31e072/052599664545.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Rugada (Hardstyle Remix)",
-          "duration": "1:32"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Rugada (Slowed Hardstyle Remix)",
-          "duration": "1:43"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Rugada (Super Slowed Hardstyle Remix)",
-          "duration": "1:56"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Rugada (Ultra Slowed Hardstyle Remix)",
-          "duration": "2:10"
-        },
-        {
-          "number": 5,
-          "name": "Montagem Rugada (Extremely Slowed Hardstyle Remix)",
-          "duration": "2:26"
-        },
-        {
-          "number": 6,
-          "name": "Montagem Rugada (Sped Up Hardstyle Remix)",
-          "duration": "1:27"
-        }
-      ]
-    },
-    {
-      "name": "Montagem Rugada (Instrumental Version)",
-      "year": "2025",
-      "release_date": "2025-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/a2/e6/6fa2e68e-0d5a-f409-0983-0c0e060e1da9/044317485235.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Rugada (Instrumental)",
-          "duration": "1:30"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Rugada (Slowed Instrumental)",
-          "duration": "1:41"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Rugada (Super Slowed Instrumental)",
-          "duration": "1:53"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Rugada (Ultra Slowed Instrumental)",
-          "duration": "2:07"
-        },
-        {
-          "number": 5,
-          "name": "Montagem Rugada (Extremely Slowed Instrumental)",
-          "duration": "2:23"
-        },
-        {
-          "number": 6,
-          "name": "Montagem Rugada (Sped Up Instrumental)",
-          "duration": "1:25"
-        }
-      ]
-    },
-    {
       "name": "Montagem Batida",
       "year": "2025",
       "release_date": "2025-09-10",
@@ -257,6 +158,44 @@
           "number": 5,
           "name": "Chicken Jockey Funk (Sped Up)",
           "duration": "1:17"
+        }
+      ]
+    },
+    {
+      "name": "AQUECENDO",
+      "year": "2025",
+      "release_date": "2025-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/ef/1e/48ef1ee3-b4b7-3839-f68a-f1becae3b1e0/2060156.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "AQUECENDO",
+          "duration": "1:30"
+        },
+        {
+          "number": 2,
+          "name": "AQUECENDO (Slowed)",
+          "duration": "1:47"
+        },
+        {
+          "number": 3,
+          "name": "AQUECENDO (Super Slowed)",
+          "duration": "2:01"
+        },
+        {
+          "number": 4,
+          "name": "AQUECENDO (Ultra Slowed)",
+          "duration": "2:15"
+        },
+        {
+          "number": 5,
+          "name": "AQUECENDO (Extreme Slowed)",
+          "duration": "2:32"
+        },
+        {
+          "number": 6,
+          "name": "AQUECENDO (Speed Up)",
+          "duration": "1:25"
         }
       ]
     },
@@ -361,39 +300,6 @@
           "number": 4,
           "name": "Montagem Calada (Ultra Slowed)",
           "duration": "2:12"
-        }
-      ]
-    },
-    {
-      "name": "Vai Ficar",
-      "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/a8/4a/28a84a73-8489-069f-ace7-7d9de9b537ac/044317006355.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Vai Ficar",
-          "duration": "1:46"
-        },
-        {
-          "number": 2,
-          "name": "Vai Ficar (Slowed)",
-          "duration": "1:59"
-        },
-        {
-          "number": 3,
-          "name": "Vai Ficar (Super Slowed)",
-          "duration": "2:14"
-        },
-        {
-          "number": 4,
-          "name": "Vai Ficar (Ultra Slowed)",
-          "duration": "2:30"
-        },
-        {
-          "number": 5,
-          "name": "Vai Ficar (Extremely Slowed)",
-          "duration": "2:48"
         }
       ]
     },
@@ -1585,34 +1491,6 @@
       ]
     },
     {
-      "name": "Tell No Lies",
-      "year": "2025",
-      "release_date": "2025-11-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/fe/df/1bfedfdf-10b3-9b2e-5fbd-e4b61378910d/054853785317.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tell No Lies",
-          "duration": "1:26"
-        },
-        {
-          "number": 2,
-          "name": "Tell No Lies (Slowed)",
-          "duration": "1:37"
-        },
-        {
-          "number": 3,
-          "name": "Tell No Lies (Ultra Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 4,
-          "name": "Tell No Lies (Sped Up)",
-          "duration": "1:22"
-        }
-      ]
-    },
-    {
       "name": "TELL NO LIES",
       "year": "2025",
       "release_date": "2025-11-21",
@@ -1637,6 +1515,39 @@
           "number": 4,
           "name": "TELL NO LIES (Sped Up)",
           "duration": "1:22"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM MODERNO",
+      "year": "2025",
+      "release_date": "2025-11-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/cf/07/01cf07af-ca83-7170-d4bc-695516c9d8f7/2164220.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM MODERNO",
+          "duration": "1:30"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM MODERNO (Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM MODERNO (Super Slowed)",
+          "duration": "1:53"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM MODERNO (Ultra Slowed)",
+          "duration": "2:07"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM MODERNO (Sped Up)",
+          "duration": "1:25"
         }
       ]
     },
@@ -1726,6 +1637,39 @@
           "number": 4,
           "name": "Por un Momento (feat. Cape) [Speed Up]",
           "duration": "1:16"
+        }
+      ]
+    },
+    {
+      "name": "FUNK DA TRISTEZA",
+      "year": "2025",
+      "release_date": "2025-12-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/66/52/c96652d4-6a6d-d465-f858-0794ee17d659/2171552.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FUNK DA TRISTEZA",
+          "duration": "1:36"
+        },
+        {
+          "number": 2,
+          "name": "FUNK DA TRISTEZA (Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 3,
+          "name": "FUNK DA TRISTEZA (Super Slowed)",
+          "duration": "1:54"
+        },
+        {
+          "number": 4,
+          "name": "FUNK DA TRISTEZA (Ultra Slowed)",
+          "duration": "2:05"
+        },
+        {
+          "number": 5,
+          "name": "FUNK DA TRISTEZA (Sped Up)",
+          "duration": "1:29"
         }
       ]
     },
@@ -1946,44 +1890,6 @@
       ]
     },
     {
-      "name": "Meu Nome",
-      "year": "2025",
-      "release_date": "2025-11-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/0d/77/500d77eb-ea00-4123-a25e-0a1d7ddd9867/044317646261.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Meu Nome",
-          "duration": "1:03"
-        },
-        {
-          "number": 2,
-          "name": "Meu Nome (Slowed)",
-          "duration": "1:14"
-        },
-        {
-          "number": 3,
-          "name": "Meu Nome (Super Slowed)",
-          "duration": "1:24"
-        },
-        {
-          "number": 4,
-          "name": "Meu Nome (Ultra Slowed)",
-          "duration": "1:29"
-        },
-        {
-          "number": 5,
-          "name": "Meu Nome (Extremely Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 6,
-          "name": "Meu Nome (Sped Up)",
-          "duration": "0:59"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM UNFOUND",
       "year": "2025",
       "release_date": "2025-05-08",
@@ -2013,44 +1919,6 @@
           "number": 5,
           "name": "MONTAGEM UNFOUND (Speed Up)",
           "duration": "1:13"
-        }
-      ]
-    },
-    {
-      "name": "Me Avala",
-      "year": "2025",
-      "release_date": "2025-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/8b/66/b68b663e-3563-f5be-0d63-4dd36289dfd4/619566524464.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Me Avala",
-          "duration": "1:34"
-        },
-        {
-          "number": 2,
-          "name": "Me Avala (Slowed)",
-          "duration": "1:46"
-        },
-        {
-          "number": 3,
-          "name": "Me Avala (Super Slowed)",
-          "duration": "1:59"
-        },
-        {
-          "number": 4,
-          "name": "Me Avala (Ultra Slowed)",
-          "duration": "2:14"
-        },
-        {
-          "number": 5,
-          "name": "Me Avala (Extremely Slowed)",
-          "duration": "2:30"
-        },
-        {
-          "number": 6,
-          "name": "Me Avala (Sped Up)",
-          "duration": "1:24"
         }
       ]
     }

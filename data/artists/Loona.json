@@ -493,6 +493,24 @@
       ]
     },
     {
+      "name": "Chuu",
+      "year": "2017",
+      "release_date": "2017-12-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1f/90/7c/1f907c58-d3ac-35da-9f5a-164e0bd74ef6/8809550037526.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Heart Attack (Chuu)",
+          "duration": "3:14"
+        },
+        {
+          "number": 2,
+          "name": "Girl's Talk (Yves, Chuu)",
+          "duration": "3:17"
+        }
+      ]
+    },
+    {
       "name": "SICK LOVE",
       "year": "2022",
       "release_date": "2022-09-05",
@@ -655,24 +673,6 @@
       ]
     },
     {
-      "name": "Chuu",
-      "year": "2017",
-      "release_date": "2017-12-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1f/90/7c/1f907c58-d3ac-35da-9f5a-164e0bd74ef6/8809550037526.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Heart Attack (Chuu)",
-          "duration": "3:14"
-        },
-        {
-          "number": 2,
-          "name": "Girl's Talk (Yves, Chuu)",
-          "duration": "3:17"
-        }
-      ]
-    },
-    {
       "name": "Go Won",
       "year": "2018",
       "release_date": "2018-01-30",
@@ -775,44 +775,6 @@
   ],
   "eps": [
     {
-      "name": "Summer Special [Flip That]",
-      "year": "2022",
-      "release_date": "2022-06-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/dc/41/14dc4183-1b00-9196-d9c2-8b5841c940ae/5054197200588.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Journey",
-          "duration": "1:14"
-        },
-        {
-          "number": 2,
-          "name": "Flip That",
-          "duration": "2:57"
-        },
-        {
-          "number": 3,
-          "name": "Need U",
-          "duration": "2:56"
-        },
-        {
-          "number": 4,
-          "name": "POSE",
-          "duration": "3:06"
-        },
-        {
-          "number": 5,
-          "name": "Pale Blue Dot",
-          "duration": "3:25"
-        },
-        {
-          "number": 6,
-          "name": "Playback",
-          "duration": "3:31"
-        }
-      ]
-    },
-    {
       "name": "[+ +]",
       "year": "2018",
       "release_date": "2018-08-20",
@@ -847,6 +809,44 @@
           "number": 6,
           "name": "Stylish",
           "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Summer Special [Flip That]",
+      "year": "2022",
+      "release_date": "2022-06-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/dc/41/14dc4183-1b00-9196-d9c2-8b5841c940ae/5054197200588.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Journey",
+          "duration": "1:14"
+        },
+        {
+          "number": 2,
+          "name": "Flip That",
+          "duration": "2:57"
+        },
+        {
+          "number": 3,
+          "name": "Need U",
+          "duration": "2:56"
+        },
+        {
+          "number": 4,
+          "name": "POSE",
+          "duration": "3:06"
+        },
+        {
+          "number": 5,
+          "name": "Pale Blue Dot",
+          "duration": "3:25"
+        },
+        {
+          "number": 6,
+          "name": "Playback",
+          "duration": "3:31"
         }
       ]
     },

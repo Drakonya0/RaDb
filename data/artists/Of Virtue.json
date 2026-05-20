@@ -3,64 +3,6 @@
   "id": 349940584,
   "albums": [
     {
-      "name": "What Defines You",
-      "year": "2019",
-      "release_date": "2019-05-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/31/de/c9/31dec93e-e889-574b-f51e-9e414ea9e3dd/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "No Control",
-          "duration": "3:51"
-        },
-        {
-          "number": 2,
-          "name": "Alone",
-          "duration": "3:34"
-        },
-        {
-          "number": 3,
-          "name": "Suffer",
-          "duration": "3:46"
-        },
-        {
-          "number": 4,
-          "name": "Immortal",
-          "duration": "4:30"
-        },
-        {
-          "number": 5,
-          "name": "Thanks for Nothing",
-          "duration": "4:17"
-        },
-        {
-          "number": 6,
-          "name": "Pictures of You (feat. Kalie Wolfe)",
-          "duration": "4:00"
-        },
-        {
-          "number": 7,
-          "name": "I Won't Break",
-          "duration": "3:12"
-        },
-        {
-          "number": 8,
-          "name": "Surrounded",
-          "duration": "4:13"
-        },
-        {
-          "number": 9,
-          "name": "Torn Apart",
-          "duration": "4:01"
-        },
-        {
-          "number": 10,
-          "name": "Confide in Me",
-          "duration": "3:45"
-        }
-      ]
-    },
-    {
       "name": "Omen",
       "year": "2023",
       "release_date": "2023-10-27",
@@ -188,6 +130,64 @@
           "number": 11,
           "name": "Cold Reality",
           "duration": "4:48"
+        }
+      ]
+    },
+    {
+      "name": "What Defines You",
+      "year": "2019",
+      "release_date": "2019-05-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/31/de/c9/31dec93e-e889-574b-f51e-9e414ea9e3dd/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "No Control",
+          "duration": "3:51"
+        },
+        {
+          "number": 2,
+          "name": "Alone",
+          "duration": "3:34"
+        },
+        {
+          "number": 3,
+          "name": "Suffer",
+          "duration": "3:46"
+        },
+        {
+          "number": 4,
+          "name": "Immortal",
+          "duration": "4:30"
+        },
+        {
+          "number": 5,
+          "name": "Thanks for Nothing",
+          "duration": "4:17"
+        },
+        {
+          "number": 6,
+          "name": "Pictures of You (feat. Kalie Wolfe)",
+          "duration": "4:00"
+        },
+        {
+          "number": 7,
+          "name": "I Won't Break",
+          "duration": "3:12"
+        },
+        {
+          "number": 8,
+          "name": "Surrounded",
+          "duration": "4:13"
+        },
+        {
+          "number": 9,
+          "name": "Torn Apart",
+          "duration": "4:01"
+        },
+        {
+          "number": 10,
+          "name": "Confide in Me",
+          "duration": "3:45"
         }
       ]
     },
@@ -425,6 +425,19 @@
       ]
     },
     {
+      "name": "Surrounded",
+      "year": "2018",
+      "release_date": "2018-01-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/89/25/4f/89254f44-e298-c157-7312-8154d68c98e0/191924769736.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Surrounded",
+          "duration": "4:11"
+        }
+      ]
+    },
+    {
       "name": "The Art of Love",
       "year": "2026",
       "release_date": "2026-03-27",
@@ -439,19 +452,6 @@
           "number": 2,
           "name": "Death of the Altar",
           "duration": "3:20"
-        }
-      ]
-    },
-    {
-      "name": "Surrounded",
-      "year": "2018",
-      "release_date": "2018-01-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/89/25/4f/89254f44-e298-c157-7312-8154d68c98e0/191924769736.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Surrounded",
-          "duration": "4:11"
         }
       ]
     },

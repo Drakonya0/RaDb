@@ -5,6 +5,13 @@
     {
       "name": "Seven Thunders Roar (Anniversary Deluxe Version)",
       "year": "2014",
+      "release_date": "2014-04-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/d1/32/58d1322b-72f6-d1d6-031c-2707b837c304/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Seven Thunders Roar (Anniversary Deluxe Version)",
+      "year": "2014",
       "release_date": "2014-01-01",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/d4/fb/84d4fbbb-b280-e6ab-8732-96803c3b4e05/822603004236.jpg/600x600bb.jpg",
       "tracks": [
@@ -170,11 +177,42 @@
       ]
     },
     {
-      "name": "Seven Thunders Roar (Anniversary Deluxe Version)",
-      "year": "2014",
-      "release_date": "2014-04-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/58/d1/32/58d1322b-72f6-d1d6-031c-2707b837c304/cover.jpg/600x600bb.jpg",
-      "tracks": []
+      "name": "The Harvest",
+      "year": "2015",
+      "release_date": "2015-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/cd/9f/3dcd9fa4-6f2c-9a66-6da5-a99b01e937d3/822603003284.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Here Come The Robots",
+          "duration": "3:17"
+        },
+        {
+          "number": 2,
+          "name": "Wound",
+          "duration": "3:14"
+        },
+        {
+          "number": 3,
+          "name": "Rituals Of The Sun",
+          "duration": "7:01"
+        },
+        {
+          "number": 4,
+          "name": "YFS",
+          "duration": "5:10"
+        },
+        {
+          "number": 5,
+          "name": "Silkworm Confessions",
+          "duration": "9:07"
+        },
+        {
+          "number": 6,
+          "name": "Black Church",
+          "duration": "14:45"
+        }
+      ]
     },
     {
       "name": "Father Light",
@@ -287,44 +325,6 @@
           "number": 5,
           "name": "Black Woods",
           "duration": "11:28"
-        }
-      ]
-    },
-    {
-      "name": "The Harvest",
-      "year": "2015",
-      "release_date": "2015-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/cd/9f/3dcd9fa4-6f2c-9a66-6da5-a99b01e937d3/822603003284.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Here Come The Robots",
-          "duration": "3:17"
-        },
-        {
-          "number": 2,
-          "name": "Wound",
-          "duration": "3:14"
-        },
-        {
-          "number": 3,
-          "name": "Rituals Of The Sun",
-          "duration": "7:01"
-        },
-        {
-          "number": 4,
-          "name": "YFS",
-          "duration": "5:10"
-        },
-        {
-          "number": 5,
-          "name": "Silkworm Confessions",
-          "duration": "9:07"
-        },
-        {
-          "number": 6,
-          "name": "Black Church",
-          "duration": "14:45"
         }
       ]
     }

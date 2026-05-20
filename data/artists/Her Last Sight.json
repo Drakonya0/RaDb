@@ -139,49 +139,6 @@
       ]
     },
     {
-      "name": "SEASONS // SUMMER",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/e8/fa/b4e8fa76-a046-5e93-89a7-3c507f09c971/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Challenges",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "Dead End",
-          "duration": "4:30"
-        },
-        {
-          "number": 3,
-          "name": "A Part Of Me",
-          "duration": "3:58"
-        },
-        {
-          "number": 4,
-          "name": "The Hotel",
-          "duration": "0:38"
-        },
-        {
-          "number": 5,
-          "name": "TRIGGERED",
-          "duration": "2:17"
-        },
-        {
-          "number": 6,
-          "name": "Start Again",
-          "duration": "3:41"
-        },
-        {
-          "number": 7,
-          "name": "I'm Sorry",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
       "name": "SEASONS // WINTER",
       "year": "2024",
       "release_date": "2024-12-13",
@@ -221,6 +178,49 @@
           "number": 7,
           "name": "LYING SUN",
           "duration": "5:16"
+        }
+      ]
+    },
+    {
+      "name": "SEASONS // SUMMER",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/e8/fa/b4e8fa76-a046-5e93-89a7-3c507f09c971/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Challenges",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "Dead End",
+          "duration": "4:30"
+        },
+        {
+          "number": 3,
+          "name": "A Part Of Me",
+          "duration": "3:58"
+        },
+        {
+          "number": 4,
+          "name": "The Hotel",
+          "duration": "0:38"
+        },
+        {
+          "number": 5,
+          "name": "TRIGGERED",
+          "duration": "2:17"
+        },
+        {
+          "number": 6,
+          "name": "Start Again",
+          "duration": "3:41"
+        },
+        {
+          "number": 7,
+          "name": "I'm Sorry",
+          "duration": "3:03"
         }
       ]
     },
@@ -288,6 +288,32 @@
       ]
     },
     {
+      "name": "Dead End",
+      "year": "2025",
+      "release_date": "2025-05-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/85/ca/3785ca73-a7af-7adb-a526-e69904c141cd/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dead End",
+          "duration": "4:30"
+        }
+      ]
+    },
+    {
+      "name": "TRIGGERED",
+      "year": "2025",
+      "release_date": "2025-03-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/ba/73/c3ba73e9-0b2e-2b3d-2b0c-30c604e2ebd7/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TRIGGERED",
+          "duration": "2:17"
+        }
+      ]
+    },
+    {
       "name": "The Fall",
       "year": "2025",
       "release_date": "2025-11-14",
@@ -297,29 +323,6 @@
           "number": 1,
           "name": "The Fall",
           "duration": "3:45"
-        }
-      ]
-    },
-    {
-      "name": "HOPE",
-      "year": "2024",
-      "release_date": "2024-10-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/10/a3/3f10a324-bfe1-e616-7304-fbb3a414d7e7/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HOPE",
-          "duration": "4:18"
-        },
-        {
-          "number": 2,
-          "name": "ZERO",
-          "duration": "3:58"
-        },
-        {
-          "number": 3,
-          "name": "SCARLET (Memories Reimagined)",
-          "duration": "3:59"
         }
       ]
     },
@@ -347,28 +350,25 @@
       ]
     },
     {
-      "name": "Dead End",
-      "year": "2025",
-      "release_date": "2025-05-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/85/ca/3785ca73-a7af-7adb-a526-e69904c141cd/artwork.jpg/600x600bb.jpg",
+      "name": "HOPE",
+      "year": "2024",
+      "release_date": "2024-10-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/10/a3/3f10a324-bfe1-e616-7304-fbb3a414d7e7/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Dead End",
-          "duration": "4:30"
-        }
-      ]
-    },
-    {
-      "name": "TRIGGERED",
-      "year": "2025",
-      "release_date": "2025-03-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/ba/73/c3ba73e9-0b2e-2b3d-2b0c-30c604e2ebd7/artwork.jpg/600x600bb.jpg",
-      "tracks": [
+          "name": "HOPE",
+          "duration": "4:18"
+        },
         {
-          "number": 1,
-          "name": "TRIGGERED",
-          "duration": "2:17"
+          "number": 2,
+          "name": "ZERO",
+          "duration": "3:58"
+        },
+        {
+          "number": 3,
+          "name": "SCARLET (Memories Reimagined)",
+          "duration": "3:59"
         }
       ]
     },

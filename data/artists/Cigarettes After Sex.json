@@ -174,6 +174,24 @@
   ],
   "singles": [
     {
+      "name": "Affection",
+      "year": "2015",
+      "release_date": "2015-10-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/8b/0f/2f8b0f19-8a25-b331-c52a-de8ec18b90d1/859715999853_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Affection",
+          "duration": "5:11"
+        },
+        {
+          "number": 2,
+          "name": "Keep on Loving You",
+          "duration": "3:53"
+        }
+      ]
+    },
+    {
       "name": "Anna Karenina",
       "year": "2025",
       "release_date": "2025-10-21",
@@ -210,6 +228,19 @@
       ]
     },
     {
+      "name": "Pistol",
+      "year": "2022",
+      "release_date": "2022-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/a0/93/35a093f1-f952-cd9f-b53d-6b91bb15f030/0720841139300_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pistol",
+          "duration": "3:54"
+        }
+      ]
+    },
+    {
       "name": "Bubblegum",
       "year": "2023",
       "release_date": "2023-07-18",
@@ -224,6 +255,19 @@
           "number": 2,
           "name": "Stop Waiting",
           "duration": "6:02"
+        }
+      ]
+    },
+    {
+      "name": "Neon Moon",
+      "year": "2018",
+      "release_date": "2018-12-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/35/c3/d935c3b8-4155-a4ec-fdbc-df8fe22e1d5d/655003842371_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Neon Moon",
+          "duration": "3:45"
         }
       ]
     },
@@ -254,59 +298,28 @@
       ]
     },
     {
-      "name": "Affection",
-      "year": "2015",
-      "release_date": "2015-10-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/8b/0f/2f8b0f19-8a25-b331-c52a-de8ec18b90d1/859715999853_Cover.jpg/600x600bb.jpg",
+      "name": "Sweet",
+      "year": "2017",
+      "release_date": "2017-08-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/10/1f/72101f01-c594-3eab-7fbf-ad8c48636380/0720841232100_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Affection",
-          "duration": "5:11"
-        },
-        {
-          "number": 2,
-          "name": "Keep on Loving You",
-          "duration": "3:53"
+          "name": "Sweet",
+          "duration": "4:12"
         }
       ]
     },
     {
-      "name": "Pistol",
-      "year": "2022",
-      "release_date": "2022-11-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/a0/93/35a093f1-f952-cd9f-b53d-6b91bb15f030/0720841139300_Cover.jpg/600x600bb.jpg",
+      "name": "Twizzler",
+      "year": "2026",
+      "release_date": "2026-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/a0/c2/6aa0c210-28e1-992d-308e-c3b977a86699/0720841160038_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Pistol",
-          "duration": "3:54"
-        }
-      ]
-    },
-    {
-      "name": "Neon Moon",
-      "year": "2018",
-      "release_date": "2018-12-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/35/c3/d935c3b8-4155-a4ec-fdbc-df8fe22e1d5d/655003842371_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Neon Moon",
-          "duration": "3:45"
-        }
-      ]
-    },
-    {
-      "name": "Dark Vacay",
-      "year": "2024",
-      "release_date": "2024-04-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/07/f7/3407f791-04a4-0616-dd8a-f1c6fb0f9b1c/0720841149903_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dark Vacay",
-          "duration": "3:33"
+          "name": "Twizzler",
+          "duration": "2:54"
         }
       ]
     },
@@ -337,19 +350,6 @@
       ]
     },
     {
-      "name": "Sweet",
-      "year": "2017",
-      "release_date": "2017-08-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/10/1f/72101f01-c594-3eab-7fbf-ad8c48636380/0720841232100_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sweet",
-          "duration": "4:12"
-        }
-      ]
-    },
-    {
       "name": "Tejano Blue",
       "year": "2024",
       "release_date": "2024-02-28",
@@ -372,6 +372,19 @@
           "number": 1,
           "name": "Baby Blue Movie",
           "duration": "4:04"
+        }
+      ]
+    },
+    {
+      "name": "Dark Vacay",
+      "year": "2024",
+      "release_date": "2024-04-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/07/f7/3407f791-04a4-0616-dd8a-f1c6fb0f9b1c/0720841149903_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dark Vacay",
+          "duration": "3:33"
         }
       ]
     },

@@ -1,546 +1,4179 @@
 {
-  "name": "Peter",
-  "id": 1580572687,
+  "name": "Peter Gabriel",
+  "id": 115433,
   "albums": [
     {
-      "name": "Jerusalema",
-      "year": "2022",
-      "release_date": "2022-09-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ca/af/b7/caafb7be-a520-84d5-e7f9-afa41a7ff3c9/5063072814277_cover.jpg/600x600bb.jpg",
+      "name": "So (Special Edition)",
+      "year": "1986",
+      "release_date": "1986-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/ee/3a/7aee3ac5-7627-0c97-e859-19ae7a6320b1/So_cover_iTunes_copy.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Abangen' Ezulwini",
-          "duration": "4:56"
+          "name": "Red Rain",
+          "duration": "5:40"
         },
         {
           "number": 2,
-          "name": "Ke Na Le Jesu Ha Hona Ya Tshwanang Le Jesu (Brass Version)",
-          "duration": "7:23"
+          "name": "Sledgehammer",
+          "duration": "5:11"
         },
         {
           "number": 3,
-          "name": "Who Can Walk Upon the Sea, Somlandela Ujesu, What a Mighty Go We Serve (Brass Version)",
-          "duration": "8:50"
+          "name": "Don't Give Up (feat. Kate Bush)",
+          "duration": "6:33"
         },
         {
           "number": 4,
-          "name": "Nang' Usathane, Emhlabeni",
-          "duration": "8:09"
+          "name": "That Voice Again",
+          "duration": "4:53"
         },
         {
           "number": 5,
-          "name": "Jehova Motsamaise",
-          "duration": "4:32"
+          "name": "Mercy Street",
+          "duration": "6:22"
         },
         {
           "number": 6,
-          "name": "Sefapanong Ke Boha Wena (Brass Version)",
-          "duration": "4:54"
-        }
-      ]
-    }
-  ],
-  "singles": [
-    {
-      "name": "Balão Mágico",
-      "year": "2023",
-      "release_date": "2023-07-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/1b/0e/941b0e0f-f260-a3fc-4008-e3e4f562a5b6/0.jpg/600x600bb.jpg",
-      "tracks": [
+          "name": "Big Time",
+          "duration": "4:29"
+        },
         {
-          "number": 1,
-          "name": "Balão Mágico",
-          "duration": "3:18"
-        }
-      ]
-    },
-    {
-      "name": "Rap Hai Jao Ten (feat. PETER & Heo vvk)",
-      "year": "2023",
-      "release_date": "2023-06-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8d/ff/94/8dff943f-baf9-c40e-2f97-804fd5c38547/cover.jpg/600x600bb.jpg",
-      "tracks": [
+          "number": 7,
+          "name": "We Do What We're Told (Milgram's 37)",
+          "duration": "3:22"
+        },
         {
-          "number": 1,
-          "name": "Rap Hai Jao Ten (feat. PETER & Heo vvk)",
-          "duration": "4:25"
-        }
-      ]
-    },
-    {
-      "name": "Rain",
-      "year": "2021",
-      "release_date": "2021-09-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/04/e8/e9/04e8e9cd-6039-3763-ef3d-b3b8c0f3b224/8445490699075.jpg/600x600bb.jpg",
-      "tracks": [
+          "number": 8,
+          "name": "This Is the Picture (Excellent Birds)",
+          "duration": "4:22"
+        },
         {
-          "number": 1,
-          "name": "Rain",
-          "duration": "2:39"
-        }
-      ]
-    },
-    {
-      "name": "Tag Heuer",
-      "year": "2024",
-      "release_date": "2024-11-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/37/1a/ef371ad0-8b15-59d5-23d6-ab9b27f72eef/0.jpg/600x600bb.jpg",
-      "tracks": [
+          "number": 9,
+          "name": "In Your Eyes",
+          "duration": "5:30"
+        },
         {
-          "number": 1,
-          "name": "Tag Heuer",
-          "duration": "2:03"
-        }
-      ]
-    },
-    {
-      "name": "ON STARS (feat. NoName & PeTer)",
-      "year": "2023",
-      "release_date": "2023-03-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/70/6b/3c706b2f-dd7f-68cc-4532-01540e87eff1/cover.jpg/600x600bb.jpg",
-      "tracks": [
+          "number": 10,
+          "name": "This Is the Picture (Excellent Birds) [Live]",
+          "duration": "5:55"
+        },
         {
-          "number": 1,
-          "name": "ON STARS (feat. NoName & PeTer)",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
-      "name": "หมดหวัง",
-      "year": "2024",
-      "release_date": "2024-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/ad/19/1aad1911-a79a-7ff7-f638-6e8acfc21542/cover.jpg/600x600bb.jpg",
-      "tracks": [
+          "number": 11,
+          "name": "San Jacinto (Live)",
+          "duration": "7:32"
+        },
         {
-          "number": 1,
-          "name": "หมดหวัง",
-          "duration": "2:05"
-        }
-      ]
-    },
-    {
-      "name": "ยิ้มหน่อยดิ่ว่ะ",
-      "year": "2025",
-      "release_date": "2025-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/08/0c/7b080c6c-36bd-8d15-1add-ab8a8ea717c2/cover.jpg/600x600bb.jpg",
-      "tracks": [
+          "number": 12,
+          "name": "Shock the Monkey (Live)",
+          "duration": "6:38"
+        },
         {
-          "number": 1,
-          "name": "ยิ้มหน่อยดิ่ว่ะ",
-          "duration": "2:50"
-        }
-      ]
-    },
-    {
-      "name": "Rap Hai Jao Ten (feat. PETER & Heo vvk)",
-      "year": "2023",
-      "release_date": "2023-06-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/d2/ea/47d2ea62-390f-bd99-6d2b-d90fcbc204da/cover.jpg/600x600bb.jpg",
-      "tracks": [
+          "number": 13,
+          "name": "Family Snapshot (Live)",
+          "duration": "4:36"
+        },
         {
-          "number": 1,
-          "name": "Rap Hai Jao Ten (feat. PETER & Heo vvk)",
-          "duration": "3:19"
+          "number": 14,
+          "name": "Intruder (Live)",
+          "duration": "5:30"
+        },
+        {
+          "number": 15,
+          "name": "Games Without Frontiers (Live)",
+          "duration": "5:24"
+        },
+        {
+          "number": 16,
+          "name": "No Self Control (Live)",
+          "duration": "6:15"
+        },
+        {
+          "number": 17,
+          "name": "Mercy Street (Live)",
+          "duration": "9:14"
+        },
+        {
+          "number": 18,
+          "name": "The Family and the Fishing Net (Live)",
+          "duration": "7:05"
+        },
+        {
+          "number": 19,
+          "name": "Donʼt Give Up (Live)",
+          "duration": "8:15"
+        },
+        {
+          "number": 20,
+          "name": "Solsbury Hill (Live)",
+          "duration": "5:09"
+        },
+        {
+          "number": 21,
+          "name": "Lay Your Hands On Me (Live)",
+          "duration": "6:15"
+        },
+        {
+          "number": 22,
+          "name": "Sledgehammer (Live)",
+          "duration": "5:06"
+        },
+        {
+          "number": 23,
+          "name": "Here Comes the Flood (Live)",
+          "duration": "2:47"
+        },
+        {
+          "number": 24,
+          "name": "In Your Eyes (Live)",
+          "duration": "10:39"
+        },
+        {
+          "number": 25,
+          "name": "Biko (Live)",
+          "duration": "9:43"
         }
       ]
     },
     {
-      "name": "ดอกไม้คงเฉาหากไร้เธอ",
-      "year": "2025",
-      "release_date": "2025-01-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/b9/dd/bab9dd62-50da-9691-ecf5-034459058b00/cover.jpg/600x600bb.jpg",
+      "name": "So",
+      "year": "1986",
+      "release_date": "1986-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/29/d7/7d/29d77d60-24b8-f45b-936f-d8cf3ce52d8d/884108003503.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "ดอกไม้คงเฉาหากไร้เธอ",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
-      "name": "Mamo",
-      "year": "2020",
-      "release_date": "2020-12-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/84/14/f0841409-6bd5-b77f-2c4d-dab10d3573e3/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mamo",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
-      "name": "Método Inteligente",
-      "year": "2024",
-      "release_date": "2024-12-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e0/a1/d6e0a16a-d5a6-7632-8dee-2baaaf1482c5/8447352423859.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Método Inteligente",
-          "duration": "2:04"
-        }
-      ]
-    },
-    {
-      "name": "Aquellos Días",
-      "year": "2021",
-      "release_date": "2021-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/04/b0/d004b09e-1770-46fd-1313-871d7e6d6a94/11680.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Aquellos Días",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
-      "name": "Rap Hai Jao Ten (feat. PETER)",
-      "year": "2023",
-      "release_date": "2023-06-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/2c/c3/a22cc3d6-9f6f-363f-d355-b90561c3cc18/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rap Hai Jao Ten (feat. PETER)",
-          "duration": "3:19"
-        }
-      ]
-    },
-    {
-      "name": "Champions of the West",
-      "year": "2025",
-      "release_date": "2025-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/3f/6c/7c3f6cb6-28ae-3195-532f-a9aff014c72c/5063655955618_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Champions of the West",
-          "duration": "2:26"
-        }
-      ]
-    },
-    {
-      "name": "Snow",
-      "year": "2021",
-      "release_date": "2021-09-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1d/d2/9b/1dd29bb0-b1a3-236f-5f58-e7509f1f2bf4/8445490699068.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Snow",
-          "duration": "2:42"
-        }
-      ]
-    },
-    {
-      "name": "DOUBLE CUP (feat. VIAMMM & LUCIFER)",
-      "year": "2024",
-      "release_date": "2024-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/b9/b6/03b9b6e8-2945-fe7b-5325-006110597189/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DOUBLE CUP (feat. VIAMMM & LUCIFER)",
-          "duration": "3:23"
-        }
-      ]
-    },
-    {
-      "name": "Ya No Extraño (Original)",
-      "year": "2021",
-      "release_date": "2021-06-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d0/39/38/d0393853-a693-14a6-e9a0-727f95537a0d/10784.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ya No Extraño (Original)",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
-      "name": "Peter",
-      "year": "2021",
-      "release_date": "2021-05-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/8c/2f/63/8c2f635b-7f4a-12f2-2ecd-6e0018f09d9b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Peter",
-          "duration": "2:48"
+          "name": "Red Rain",
+          "duration": "5:40"
         },
         {
           "number": 2,
-          "name": "Peter (Instrumental)",
-          "duration": "2:48"
+          "name": "Sledgehammer",
+          "duration": "5:11"
+        },
+        {
+          "number": 3,
+          "name": "Don't Give Up (feat. Kate Bush)",
+          "duration": "6:33"
+        },
+        {
+          "number": 4,
+          "name": "That Voice Again",
+          "duration": "4:53"
+        },
+        {
+          "number": 5,
+          "name": "Mercy Street",
+          "duration": "6:22"
+        },
+        {
+          "number": 6,
+          "name": "Big Time",
+          "duration": "4:29"
+        },
+        {
+          "number": 7,
+          "name": "We Do What We're Told (Milgram's 37)",
+          "duration": "3:22"
+        },
+        {
+          "number": 8,
+          "name": "This Is the Picture (Excellent Birds)",
+          "duration": "4:22"
+        },
+        {
+          "number": 9,
+          "name": "In Your Eyes",
+          "duration": "5:30"
         }
       ]
     },
     {
-      "name": "29 de Julho",
-      "year": "2020",
-      "release_date": "2020-07-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/32/25/4d322506-3225-7dd4-3efc-18442895395f/0.jpg/600x600bb.jpg",
+      "name": "Shaking the Tree: Sixteen Golden Greats (Remastered)",
+      "year": "1990",
+      "release_date": "1990-11-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/aa/f0/41/aaf041a8-5e2e-666d-ce20-6d9080e068ee/884108003534.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "29 de Julho",
-          "duration": "2:39"
+          "name": "Solsbury Hill",
+          "duration": "4:23"
+        },
+        {
+          "number": 2,
+          "name": "I Don't Remember",
+          "duration": "3:49"
+        },
+        {
+          "number": 3,
+          "name": "Sledgehammer",
+          "duration": "4:55"
+        },
+        {
+          "number": 4,
+          "name": "Family Snapshot",
+          "duration": "4:26"
+        },
+        {
+          "number": 5,
+          "name": "Mercy Street",
+          "duration": "4:43"
+        },
+        {
+          "number": 6,
+          "name": "Shaking the Tree",
+          "duration": "6:24"
+        },
+        {
+          "number": 7,
+          "name": "Don't Give Up",
+          "duration": "5:55"
+        },
+        {
+          "number": 8,
+          "name": "San Jacinto",
+          "duration": "6:40"
+        },
+        {
+          "number": 9,
+          "name": "Here Comes the Flood",
+          "duration": "4:31"
+        },
+        {
+          "number": 10,
+          "name": "Red Rain",
+          "duration": "5:35"
+        },
+        {
+          "number": 11,
+          "name": "Games Without Frontiers",
+          "duration": "3:57"
+        },
+        {
+          "number": 12,
+          "name": "Shock the Monkey",
+          "duration": "3:57"
+        },
+        {
+          "number": 13,
+          "name": "I Have the Touch (1983 Remix)",
+          "duration": "3:44"
+        },
+        {
+          "number": 14,
+          "name": "Big Time",
+          "duration": "4:25"
+        },
+        {
+          "number": 15,
+          "name": "Zaar",
+          "duration": "2:58"
+        },
+        {
+          "number": 16,
+          "name": "Biko",
+          "duration": "6:59"
         }
       ]
     },
     {
-      "name": "Ni Mū Rondi (feat. Wesh Negiz, Garçin Lagaçant & Peter)",
-      "year": "2020",
-      "release_date": "2020-07-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a3/09/46/a309467c-98d5-b52e-1a92-b9d7e784f43c/cover.jpg/600x600bb.jpg",
+      "name": "I/O (Bright-Side and Dark-Side Mixes)",
+      "year": "2023",
+      "release_date": "2023-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2a/02/f4/2a02f454-518d-55c1-1324-e08f86cfdcf6/PG_io_cover_3000pxl.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Ni Mū Rondi (feat. Wesh Negiz, Garçin Lagaçant & Peter)",
+          "name": "Panopticom (Bright-Side Mix)",
+          "duration": "5:16"
+        },
+        {
+          "number": 1,
+          "name": "Panopticom (Dark-Side Mix)",
+          "duration": "5:16"
+        },
+        {
+          "number": 2,
+          "name": "The Court (Bright-Side Mix)",
+          "duration": "4:21"
+        },
+        {
+          "number": 2,
+          "name": "The Court (Dark-Side Mix)",
+          "duration": "4:20"
+        },
+        {
+          "number": 3,
+          "name": "Playing For Time (Bright-Side Mix)",
+          "duration": "6:18"
+        },
+        {
+          "number": 3,
+          "name": "Playing For Time (Dark-Side Mix)",
+          "duration": "6:18"
+        },
+        {
+          "number": 4,
+          "name": "I/O (Bright-Side Mix)",
+          "duration": "3:53"
+        },
+        {
+          "number": 4,
+          "name": "I/O (Dark-Side Mix)",
+          "duration": "3:53"
+        },
+        {
+          "number": 5,
+          "name": "Four Kinds of Horses (Bright-Side Mix)",
+          "duration": "6:47"
+        },
+        {
+          "number": 5,
+          "name": "Four Kinds of Horses (Dark-Side Mix)",
+          "duration": "6:47"
+        },
+        {
+          "number": 6,
+          "name": "Road to Joy (Bright-Side Mix)",
+          "duration": "5:22"
+        },
+        {
+          "number": 6,
+          "name": "Road to Joy (Dark-Side Mix)",
+          "duration": "5:25"
+        },
+        {
+          "number": 7,
+          "name": "So Much (Bright-Side Mix)",
+          "duration": "4:52"
+        },
+        {
+          "number": 7,
+          "name": "So Much (Dark-Side Mix)",
+          "duration": "4:51"
+        },
+        {
+          "number": 8,
+          "name": "Olive Tree (Bright-Side Mix)",
+          "duration": "6:01"
+        },
+        {
+          "number": 8,
+          "name": "Olive Tree (Dark-Side Mix)",
+          "duration": "6:00"
+        },
+        {
+          "number": 9,
+          "name": "Love Can Heal (Bright-Side Mix)",
+          "duration": "6:02"
+        },
+        {
+          "number": 9,
+          "name": "Love Can Heal (Dark-Side Mix)",
+          "duration": "6:03"
+        },
+        {
+          "number": 10,
+          "name": "This Is Home (Bright-Side Mix)",
+          "duration": "5:04"
+        },
+        {
+          "number": 10,
+          "name": "This Is Home (Dark-Side Mix)",
+          "duration": "5:04"
+        },
+        {
+          "number": 11,
+          "name": "And Still (Bright-Side Mix)",
+          "duration": "7:44"
+        },
+        {
+          "number": 11,
+          "name": "And Still (Dark-Side Mix)",
+          "duration": "7:44"
+        },
+        {
+          "number": 12,
+          "name": "Live and Let Live (Bright-Side Mix)",
+          "duration": "6:46"
+        },
+        {
+          "number": 12,
+          "name": "Live and Let Live (Dark-Side Mix)",
+          "duration": "7:11"
+        }
+      ]
+    },
+    {
+      "name": "Passion: Music for the Last Temptation of Christ",
+      "year": "1989",
+      "release_date": "1989-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/47/04/43/4704432e-3af9-5364-57d6-77ac57e887b2/Passion-iTunes.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Feeling Begins",
+          "duration": "4:01"
+        },
+        {
+          "number": 2,
+          "name": "Gethsemane",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "Of These, Hope",
+          "duration": "3:55"
+        },
+        {
+          "number": 4,
+          "name": "Lazarus Raised",
+          "duration": "1:25"
+        },
+        {
+          "number": 5,
+          "name": "Of These, Hope (Reprise)",
+          "duration": "2:44"
+        },
+        {
+          "number": 6,
+          "name": "In Doubt",
+          "duration": "1:31"
+        },
+        {
+          "number": 7,
+          "name": "A Different Drum",
+          "duration": "4:40"
+        },
+        {
+          "number": 8,
+          "name": "Zaar",
+          "duration": "4:52"
+        },
+        {
+          "number": 9,
+          "name": "Troubled",
+          "duration": "2:54"
+        },
+        {
+          "number": 10,
+          "name": "Open",
+          "duration": "3:29"
+        },
+        {
+          "number": 11,
+          "name": "Before Night Falls",
+          "duration": "2:20"
+        },
+        {
+          "number": 12,
+          "name": "With This Love",
+          "duration": "3:38"
+        },
+        {
+          "number": 13,
+          "name": "Sandstorm",
+          "duration": "3:02"
+        },
+        {
+          "number": 14,
+          "name": "Stigmata",
+          "duration": "2:28"
+        },
+        {
+          "number": 15,
+          "name": "Passion",
+          "duration": "7:38"
+        },
+        {
+          "number": 16,
+          "name": "With This Love (Choir)",
+          "duration": "3:19"
+        },
+        {
+          "number": 17,
+          "name": "Wall of Breath",
+          "duration": "2:28"
+        },
+        {
+          "number": 18,
+          "name": "The Promise of Shadows",
+          "duration": "2:13"
+        },
+        {
+          "number": 19,
+          "name": "Disturbed",
+          "duration": "3:37"
+        },
+        {
+          "number": 20,
+          "name": "It Is Accomplished",
+          "duration": "2:55"
+        },
+        {
+          "number": 21,
+          "name": "Bread and Wine",
+          "duration": "2:22"
+        }
+      ]
+    },
+    {
+      "name": "Us (Remastered)",
+      "year": "1992",
+      "release_date": "1992-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/35/e9/54/35e95463-9ff8-9047-1cd1-44dd59728079/US_iTunes.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Come Talk to Me",
+          "duration": "7:06"
+        },
+        {
+          "number": 2,
+          "name": "Love to Be Loved",
+          "duration": "5:17"
+        },
+        {
+          "number": 3,
+          "name": "Blood of Eden",
+          "duration": "6:38"
+        },
+        {
+          "number": 4,
+          "name": "Steam",
+          "duration": "6:03"
+        },
+        {
+          "number": 5,
+          "name": "Only Us",
+          "duration": "6:32"
+        },
+        {
+          "number": 6,
+          "name": "Washing of the Water",
+          "duration": "3:52"
+        },
+        {
+          "number": 7,
+          "name": "Digging In the Dirt",
+          "duration": "5:18"
+        },
+        {
+          "number": 8,
+          "name": "Fourteen Black Paintings",
+          "duration": "4:37"
+        },
+        {
+          "number": 9,
+          "name": "Kiss That Frog",
+          "duration": "5:19"
+        },
+        {
+          "number": 10,
+          "name": "Secret World",
+          "duration": "7:04"
+        }
+      ]
+    },
+    {
+      "name": "Scratch My Back (Special Edition)",
+      "year": "2010",
+      "release_date": "2010-02-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/17/e5/20/17e52004-5294-f95e-33ad-2b35bf928156/Scratch_My_Back-iTunes.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Heroes",
+          "duration": "4:08"
+        },
+        {
+          "number": 1,
+          "name": "The Book of Love (Remixed)",
+          "duration": "3:39"
+        },
+        {
+          "number": 2,
+          "name": "The Boy In the Bubble",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "My Body Is a Cage (Oxford London Temple Version)",
+          "duration": "6:03"
+        },
+        {
+          "number": 3,
+          "name": "Mirrorball",
+          "duration": "4:48"
+        },
+        {
+          "number": 3,
+          "name": "Waterloo Sunset (Oxford London Temple Version)",
+          "duration": "3:49"
+        },
+        {
+          "number": 4,
+          "name": "Flume",
+          "duration": "3:00"
+        },
+        {
+          "number": 4,
+          "name": "Heroes (Wildebeest Mix)",
+          "duration": "4:06"
+        },
+        {
+          "number": 5,
+          "name": "Listening Wind",
+          "duration": "4:22"
+        },
+        {
+          "number": 6,
+          "name": "The Power of the Heart",
+          "duration": "5:51"
+        },
+        {
+          "number": 7,
+          "name": "My Body Is a Cage",
+          "duration": "6:12"
+        },
+        {
+          "number": 8,
+          "name": "The Book of Love",
+          "duration": "3:52"
+        },
+        {
+          "number": 9,
+          "name": "I Think It's Going to Rain Today",
+          "duration": "2:34"
+        },
+        {
+          "number": 10,
+          "name": "Après Moi",
+          "duration": "5:13"
+        },
+        {
+          "number": 11,
+          "name": "Philadelphia",
+          "duration": "3:46"
+        },
+        {
+          "number": 12,
+          "name": "Street Spirit (Fade Out)",
+          "duration": "5:06"
+        }
+      ]
+    },
+    {
+      "name": "Peter Gabriel 1: Car (Remastered)",
+      "year": "1977",
+      "release_date": "1977-02-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/06/9b/4b069b0a-d9b1-5f22-0c5c-c5d053fc8575/dj.eufymulu.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Moribund the Burgermeister",
+          "duration": "4:20"
+        },
+        {
+          "number": 2,
+          "name": "Solsbury Hill",
+          "duration": "4:21"
+        },
+        {
+          "number": 3,
+          "name": "Modern Love",
+          "duration": "3:38"
+        },
+        {
+          "number": 4,
+          "name": "Excuse Me",
+          "duration": "3:20"
+        },
+        {
+          "number": 5,
+          "name": "Humdrum",
+          "duration": "3:25"
+        },
+        {
+          "number": 6,
+          "name": "Slowburn",
+          "duration": "4:36"
+        },
+        {
+          "number": 7,
+          "name": "Waiting for the Big One",
+          "duration": "7:15"
+        },
+        {
+          "number": 8,
+          "name": "Down the Dolce Vita",
+          "duration": "5:05"
+        },
+        {
+          "number": 9,
+          "name": "Here Comes the Flood",
+          "duration": "5:37"
+        }
+      ]
+    },
+    {
+      "name": "Peter Gabriel 3: Melt (Remastered)",
+      "year": "1980",
+      "release_date": "1980-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f4/a5/7d/f4a57dc3-4941-5a90-e487-1781ed025cd6/dj.eknlykaw.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intruder",
+          "duration": "4:54"
+        },
+        {
+          "number": 2,
+          "name": "No Self Control",
+          "duration": "3:56"
+        },
+        {
+          "number": 3,
+          "name": "Start",
+          "duration": "1:21"
+        },
+        {
+          "number": 4,
+          "name": "I Don’t Remember",
+          "duration": "4:42"
+        },
+        {
+          "number": 5,
+          "name": "Family Snapshot",
+          "duration": "4:29"
+        },
+        {
+          "number": 6,
+          "name": "And Through the Wire",
+          "duration": "5:01"
+        },
+        {
+          "number": 7,
+          "name": "Games Without Frontiers",
+          "duration": "4:06"
+        },
+        {
+          "number": 8,
+          "name": "Not One of Us",
+          "duration": "5:22"
+        },
+        {
+          "number": 9,
+          "name": "Lead a Normal Life",
+          "duration": "4:15"
+        },
+        {
+          "number": 10,
+          "name": "Biko",
+          "duration": "7:31"
+        }
+      ]
+    },
+    {
+      "name": "Secret World Live",
+      "year": "1994",
+      "release_date": "1994-09-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/38/51/7a/38517a98-e9c6-e5e6-5a82-af5bdca5e670/SWL_3000pixels.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Come Talk to Me (Live)",
+          "duration": "6:13"
+        },
+        {
+          "number": 2,
+          "name": "Steam (Live)",
+          "duration": "7:42"
+        },
+        {
+          "number": 3,
+          "name": "Across the River (Live)",
+          "duration": "5:56"
+        },
+        {
+          "number": 4,
+          "name": "Slow Marimbas (Live)",
+          "duration": "1:45"
+        },
+        {
+          "number": 5,
+          "name": "Shaking the Tree (Live)",
+          "duration": "9:18"
+        },
+        {
+          "number": 6,
+          "name": "Red Rain (Live)",
+          "duration": "6:14"
+        },
+        {
+          "number": 7,
+          "name": "Blood of Eden (Live)",
+          "duration": "6:53"
+        },
+        {
+          "number": 8,
+          "name": "San Jacinto (Live)",
+          "duration": "7:38"
+        },
+        {
+          "number": 9,
+          "name": "Kiss That Frog (Live)",
+          "duration": "5:56"
+        },
+        {
+          "number": 10,
+          "name": "Washing of the Water (Live)",
+          "duration": "4:06"
+        },
+        {
+          "number": 11,
+          "name": "Solsbury Hill (Live)",
+          "duration": "4:45"
+        },
+        {
+          "number": 12,
+          "name": "Digging in the Dirt (Live)",
+          "duration": "7:36"
+        },
+        {
+          "number": 13,
+          "name": "Sledgehammer (Live)",
+          "duration": "4:59"
+        },
+        {
+          "number": 14,
+          "name": "Secret World (Live)",
+          "duration": "9:11"
+        },
+        {
+          "number": 15,
+          "name": "Don't Give Up (Live)",
+          "duration": "7:36"
+        },
+        {
+          "number": 16,
+          "name": "In Your Eyes (Live)",
+          "duration": "11:34"
+        }
+      ]
+    },
+    {
+      "name": "Peter Gabriel 4: Security (Remastered)",
+      "year": "1982",
+      "release_date": "1982-09-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/32/63/dd/3263dd8b-25d4-d9a5-73a7-7be1487bb3c7/mzm.alqrtmbt.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Rhythm of the Heat",
+          "duration": "5:19"
+        },
+        {
+          "number": 2,
+          "name": "San Jacinto",
+          "duration": "6:34"
+        },
+        {
+          "number": 3,
+          "name": "I Have the Touch",
+          "duration": "4:35"
+        },
+        {
+          "number": 4,
+          "name": "The Family and the Fishing Net",
+          "duration": "7:07"
+        },
+        {
+          "number": 5,
+          "name": "Shock the Monkey",
+          "duration": "5:28"
+        },
+        {
+          "number": 6,
+          "name": "Lay Your Hands On Me",
+          "duration": "6:09"
+        },
+        {
+          "number": 7,
+          "name": "Wallflower",
+          "duration": "6:38"
+        },
+        {
+          "number": 8,
+          "name": "Kiss of Life",
+          "duration": "4:17"
+        }
+      ]
+    },
+    {
+      "name": "Up",
+      "year": "2002",
+      "release_date": "2002-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/7d/08/e37d0833-b8a9-32c2-b581-6a64a20c0ec1/dj.yqbugmck.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Darkness",
+          "duration": "6:51"
+        },
+        {
+          "number": 2,
+          "name": "Growing Up",
+          "duration": "7:33"
+        },
+        {
+          "number": 3,
+          "name": "Sky Blue",
+          "duration": "6:37"
+        },
+        {
+          "number": 4,
+          "name": "No Way Out",
+          "duration": "7:53"
+        },
+        {
+          "number": 5,
+          "name": "I Grieve",
+          "duration": "7:24"
+        },
+        {
+          "number": 6,
+          "name": "The Barry Williams Show",
+          "duration": "7:16"
+        },
+        {
+          "number": 7,
+          "name": "My Head Sounds Like That",
+          "duration": "6:29"
+        },
+        {
+          "number": 8,
+          "name": "More Than This",
+          "duration": "6:02"
+        },
+        {
+          "number": 9,
+          "name": "Signal to Noise",
+          "duration": "7:36"
+        },
+        {
+          "number": 10,
+          "name": "The Drop",
           "duration": "3:01"
         }
       ]
     },
     {
-      "name": "Look to the moon",
-      "year": "2024",
-      "release_date": "2024-01-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/b4/a7/b2b4a7d4-cbd6-4215-8f63-e8dfedd67438/cover.jpg/600x600bb.jpg",
+      "name": "Flotsam and Jetsam",
+      "year": "2019",
+      "release_date": "2019-09-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/6b/3f/36/6b3f3687-5bc2-352e-d18a-334a4c24b54a/PG_F_J_3000pixels.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Look to the moon",
+          "name": "Strawberry Fields Forever (feat. The London Symphony Orchestra & the Royal Philharmonic Orchestra)",
+          "duration": "2:33"
+        },
+        {
+          "number": 1,
+          "name": "I Have the Touch (85 Remix)",
+          "duration": "5:11"
+        },
+        {
+          "number": 1,
+          "name": "Summertime (feat. Larry Adler)",
+          "duration": "3:49"
+        },
+        {
+          "number": 2,
+          "name": "Slowburn (Extended Version)",
+          "duration": "5:15"
+        },
+        {
+          "number": 2,
+          "name": "Sledgehammer (Dance Mix)",
+          "duration": "7:28"
+        },
+        {
+          "number": 2,
+          "name": "Suzanne",
+          "duration": "5:12"
+        },
+        {
+          "number": 3,
+          "name": "Perspective (Single Version)",
+          "duration": "5:07"
+        },
+        {
+          "number": 3,
+          "name": "Sledgehammer (Extended)",
+          "duration": "5:38"
+        },
+        {
+          "number": 3,
+          "name": "I Have the Touch (Robbie Robertson Mix)",
+          "duration": "5:30"
+        },
+        {
+          "number": 4,
+          "name": "D.I.Y. (Re-recorded Single Version)",
+          "duration": "2:53"
+        },
+        {
+          "number": 4,
+          "name": "Don't Break This Rhythm (Full Version)",
+          "duration": "6:09"
+        },
+        {
+          "number": 4,
+          "name": "In the Sun",
+          "duration": "6:44"
+        },
+        {
+          "number": 5,
+          "name": "Teddy Bear",
+          "duration": "2:17"
+        },
+        {
+          "number": 5,
+          "name": "In Your Eyes (Single Mix)",
+          "duration": "6:20"
+        },
+        {
+          "number": 5,
+          "name": "Shaking the Tree 97 (with Shaggy) [Jungle Version]",
+          "duration": "5:38"
+        },
+        {
+          "number": 6,
+          "name": "Mother of Violence (Single Mix)",
+          "duration": "3:15"
+        },
+        {
+          "number": 6,
+          "name": "In Your Eyes (Special Remix)",
+          "duration": "7:18"
+        },
+        {
+          "number": 6,
+          "name": "I Grieve (City of Angels Version)",
+          "duration": "8:12"
+        },
+        {
+          "number": 7,
+          "name": "Solsbury Hill (Live at the Bottom Line)",
+          "duration": "5:10"
+        },
+        {
+          "number": 7,
+          "name": "Big Time (Extended Version)",
+          "duration": "6:14"
+        },
+        {
+          "number": 7,
+          "name": "The Tower That Ate People (Red Planet Remix)",
+          "duration": "6:28"
+        },
+        {
+          "number": 8,
+          "name": "I Don't Remember (Alternate Version)",
+          "duration": "3:26"
+        },
+        {
+          "number": 8,
+          "name": "Curtains",
+          "duration": "3:29"
+        },
+        {
+          "number": 8,
+          "name": "Animal Nation",
+          "duration": "7:21"
+        },
+        {
+          "number": 9,
+          "name": "Biko (Remixed Version)",
+          "duration": "9:00"
+        },
+        {
+          "number": 9,
+          "name": "Ga Ga (I Go Swimming Instrumental)",
+          "duration": "4:32"
+        },
+        {
+          "number": 9,
+          "name": "Signal to Noise (Gangs of New York Version)",
+          "duration": "7:38"
+        },
+        {
+          "number": 10,
+          "name": "Shosholoza",
+          "duration": "5:19"
+        },
+        {
+          "number": 10,
+          "name": "Walk Through the Fire (Single Mix)",
+          "duration": "3:33"
+        },
+        {
+          "number": 10,
+          "name": "More Than This (The Polyphonic Spree Mix)",
+          "duration": "5:08"
+        },
+        {
+          "number": 11,
+          "name": "Jetzt Kommt Die Flut",
+          "duration": "4:57"
+        },
+        {
+          "number": 11,
+          "name": "Biko (Live)",
+          "duration": "6:31"
+        },
+        {
+          "number": 11,
+          "name": "More Than This (Elbow Mix)",
+          "duration": "5:05"
+        },
+        {
+          "number": 12,
+          "name": "Soft Dog",
+          "duration": "4:14"
+        },
+        {
+          "number": 12,
+          "name": "Digging in the Dirt (Raw Stylus Mix)",
+          "duration": "7:23"
+        },
+        {
+          "number": 13,
+          "name": "Shock the Monkey (Instrumental)",
+          "duration": "5:50"
+        },
+        {
+          "number": 13,
+          "name": "Digging in the Dirt (Instrumental)",
+          "duration": "5:12"
+        },
+        {
+          "number": 14,
+          "name": "Across the River",
+          "duration": "7:01"
+        },
+        {
+          "number": 14,
+          "name": "Quiet Steam",
+          "duration": "6:26"
+        },
+        {
+          "number": 15,
+          "name": "Kiss of Life (Live)",
+          "duration": "5:12"
+        },
+        {
+          "number": 15,
+          "name": "Bashi-Bazouk",
+          "duration": "4:48"
+        },
+        {
+          "number": 16,
+          "name": "I Don't Remember (Live Single Version)",
+          "duration": "4:55"
+        },
+        {
+          "number": 16,
+          "name": "Games Without Frontiers (Massive/DB Mix)",
+          "duration": "5:20"
+        },
+        {
+          "number": 17,
+          "name": "Steam (Oh, Oh, Let Off Steam Mix)",
+          "duration": "6:43"
+        },
+        {
+          "number": 18,
+          "name": "Steam (Oh, Oh, Let Off Steam Mix Dub)",
+          "duration": "5:46"
+        },
+        {
+          "number": 19,
+          "name": "Mercy Street (William Orbit Mix)",
+          "duration": "7:55"
+        },
+        {
+          "number": 20,
+          "name": "Blood of Eden (Special Mix for Wim Wenders Until the End of the World)",
+          "duration": "6:42"
+        },
+        {
+          "number": 21,
+          "name": "Digging in the Dirt (Rich E Mix)",
+          "duration": "7:28"
+        },
+        {
+          "number": 22,
+          "name": "Kiss That Frog (Mindblender Mix)",
+          "duration": "6:45"
+        },
+        {
+          "number": 23,
+          "name": "Shaking the Tree (Bottrill Remix)",
+          "duration": "5:53"
+        }
+      ]
+    },
+    {
+      "name": "Hit",
+      "year": "2003",
+      "release_date": "2003-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/fc/01/a5/fc01a5b9-f8fd-d5f8-0ff7-a6f264cfd944/HIT-iTunes.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Solsbury Hill",
+          "duration": "4:23"
+        },
+        {
+          "number": 1,
+          "name": "San Jacinto",
+          "duration": "6:31"
+        },
+        {
+          "number": 2,
+          "name": "Shock the Monkey (Edit)",
+          "duration": "3:59"
+        },
+        {
+          "number": 2,
+          "name": "No Self Control",
+          "duration": "3:54"
+        },
+        {
+          "number": 3,
+          "name": "Sledgehammer",
+          "duration": "4:51"
+        },
+        {
+          "number": 3,
+          "name": "Cloudless",
+          "duration": "4:47"
+        },
+        {
+          "number": 4,
+          "name": "Don't Give Up",
+          "duration": "5:55"
+        },
+        {
+          "number": 4,
+          "name": "The Rhythm of the Heat",
+          "duration": "5:19"
+        },
+        {
+          "number": 5,
+          "name": "Games Without Frontiers",
+          "duration": "3:57"
+        },
+        {
+          "number": 5,
+          "name": "I Have the Touch (Remix)",
+          "duration": "4:19"
+        },
+        {
+          "number": 6,
+          "name": "Big Time",
+          "duration": "4:28"
+        },
+        {
+          "number": 6,
+          "name": "I Grieve",
+          "duration": "7:24"
+        },
+        {
+          "number": 7,
+          "name": "Burn You Up, Burn You Down",
+          "duration": "5:26"
+        },
+        {
+          "number": 7,
+          "name": "D.I.Y.",
+          "duration": "2:38"
+        },
+        {
+          "number": 8,
+          "name": "Growing Up (Tom Lord-Alge Remix)",
+          "duration": "4:48"
+        },
+        {
+          "number": 8,
+          "name": "Different Drum",
+          "duration": "4:47"
+        },
+        {
+          "number": 9,
+          "name": "Digging In the Dirt",
+          "duration": "5:15"
+        },
+        {
+          "number": 9,
+          "name": "The Drop",
+          "duration": "3:03"
+        },
+        {
+          "number": 10,
+          "name": "Blood of Eden (Radio Edit)",
+          "duration": "5:06"
+        },
+        {
+          "number": 10,
+          "name": "The Tower That Ate People (Radio Edit Remix)",
+          "duration": "4:06"
+        },
+        {
+          "number": 11,
+          "name": "More Than This (Radio Edit)",
+          "duration": "4:33"
+        },
+        {
+          "number": 11,
+          "name": "Lovetown",
+          "duration": "5:23"
+        },
+        {
+          "number": 12,
+          "name": "Biko",
+          "duration": "6:58"
+        },
+        {
+          "number": 12,
+          "name": "Father, Son",
+          "duration": "4:57"
+        },
+        {
+          "number": 13,
+          "name": "Steam",
+          "duration": "6:02"
+        },
+        {
+          "number": 13,
+          "name": "Signal to Noise",
+          "duration": "7:34"
+        },
+        {
+          "number": 14,
+          "name": "Red Rain",
+          "duration": "5:39"
+        },
+        {
+          "number": 14,
+          "name": "Downside-Up (Live)",
+          "duration": "5:32"
+        },
+        {
+          "number": 15,
+          "name": "Here Comes the Flood",
+          "duration": "4:32"
+        },
+        {
+          "number": 15,
+          "name": "Washing of the Water",
+          "duration": "3:54"
+        }
+      ]
+    },
+    {
+      "name": "Plays Live",
+      "year": "1983",
+      "release_date": "1983-06-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4d/9c/4c/4d9c4c14-68ad-0de1-390e-0fa39bfcd004/Plays_Live_3000pixels.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Rhythm of the Heat (Live)",
+          "duration": "6:27"
+        },
+        {
+          "number": 2,
+          "name": "I Have the Touch (Live)",
+          "duration": "4:49"
+        },
+        {
+          "number": 3,
+          "name": "Not One of Us (Live)",
+          "duration": "5:44"
+        },
+        {
+          "number": 4,
+          "name": "Family Snapshot (Live)",
+          "duration": "4:47"
+        },
+        {
+          "number": 5,
+          "name": "D.I.Y. (Live)",
+          "duration": "4:05"
+        },
+        {
+          "number": 6,
+          "name": "The Family and the Fishing Net (Live)",
+          "duration": "7:34"
+        },
+        {
+          "number": 7,
+          "name": "Intruder (Live)",
+          "duration": "4:47"
+        },
+        {
+          "number": 8,
+          "name": "I Go Swimming (Live)",
+          "duration": "5:00"
+        },
+        {
+          "number": 9,
+          "name": "San Jacinto (Live)",
+          "duration": "8:28"
+        },
+        {
+          "number": 10,
+          "name": "Solsbury Hill (Live)",
+          "duration": "4:41"
+        },
+        {
+          "number": 11,
+          "name": "No Self-Control (Live)",
+          "duration": "5:02"
+        },
+        {
+          "number": 12,
+          "name": "I Don’t Remember (Live)",
+          "duration": "4:13"
+        },
+        {
+          "number": 13,
+          "name": "Shock the Monkey (Live)",
+          "duration": "7:09"
+        },
+        {
+          "number": 14,
+          "name": "Humdrum (Live)",
+          "duration": "4:23"
+        },
+        {
+          "number": 15,
+          "name": "On the Air (Live)",
+          "duration": "5:22"
+        },
+        {
+          "number": 16,
+          "name": "Biko (Live)",
+          "duration": "6:54"
+        }
+      ]
+    },
+    {
+      "name": "Growing Up Live",
+      "year": "2019",
+      "release_date": "2019-01-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3d/64/ec/3d64ec3f-a0d1-ba5c-a2ac-b70dc9b059be/PeterGabriel_GrowingUpLive_3000pixels.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Here Comes the Flood (Live)",
+          "duration": "4:31"
+        },
+        {
+          "number": 2,
+          "name": "Darkness (Live)",
+          "duration": "6:53"
+        },
+        {
+          "number": 3,
+          "name": "Red Rain (Live)",
+          "duration": "6:06"
+        },
+        {
+          "number": 4,
+          "name": "Secret World (Live)",
+          "duration": "8:43"
+        },
+        {
+          "number": 5,
+          "name": "Sky Blue (feat. The Blind Boys of Alabama) [Live]",
+          "duration": "8:10"
+        },
+        {
+          "number": 6,
+          "name": "Downside Up (Live)",
+          "duration": "6:04"
+        },
+        {
+          "number": 7,
+          "name": "The Barry Williams Show (Live)",
+          "duration": "7:37"
+        },
+        {
+          "number": 8,
+          "name": "More Than This (Live)",
+          "duration": "7:13"
+        },
+        {
+          "number": 9,
+          "name": "Mercy Street (Live)",
+          "duration": "7:43"
+        },
+        {
+          "number": 10,
+          "name": "Digging in the Dirt (Live)",
+          "duration": "6:12"
+        },
+        {
+          "number": 11,
+          "name": "Growing Up (Live)",
+          "duration": "7:54"
+        },
+        {
+          "number": 12,
+          "name": "Animal Nation (feat. Dr Hukwe Zawose and Charles Zawose) [Live]",
+          "duration": "15:48"
+        },
+        {
+          "number": 13,
+          "name": "Solsbury Hill (Live)",
+          "duration": "4:19"
+        },
+        {
+          "number": 14,
+          "name": "Sledgehammer (Live)",
+          "duration": "6:13"
+        },
+        {
+          "number": 15,
+          "name": "Signal to Noise (feat. Nusrat Fateh Ali Khan) [Live]",
+          "duration": "8:00"
+        },
+        {
+          "number": 16,
+          "name": "In Your Eyes (feat. Sevara Nazarkhan) [Live]",
+          "duration": "10:51"
+        },
+        {
+          "number": 17,
+          "name": "Father, Son (Live)",
+          "duration": "5:26"
+        }
+      ]
+    },
+    {
+      "name": "Peter Gabriel 2: Scratch (Remastered)",
+      "year": "1978",
+      "release_date": "1978-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/e1/82/7f/e1827fc1-e2d7-715e-877d-a526959f507d/dj.aljgmnuo.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "On the Air",
+          "duration": "5:35"
+        },
+        {
+          "number": 2,
+          "name": "D.I.Y.",
+          "duration": "2:34"
+        },
+        {
+          "number": 3,
+          "name": "Mother of Violence",
+          "duration": "3:26"
+        },
+        {
+          "number": 4,
+          "name": "A Wonderful Day In a One-Way World",
+          "duration": "3:35"
+        },
+        {
+          "number": 5,
+          "name": "White Shadow",
+          "duration": "5:19"
+        },
+        {
+          "number": 6,
+          "name": "Indigo",
+          "duration": "3:32"
+        },
+        {
+          "number": 7,
+          "name": "Animal Magic",
+          "duration": "3:29"
+        },
+        {
+          "number": 8,
+          "name": "Exposure",
+          "duration": "4:18"
+        },
+        {
+          "number": 9,
+          "name": "Flotsam and Jetsam",
+          "duration": "2:22"
+        },
+        {
+          "number": 10,
+          "name": "Perspective",
+          "duration": "3:29"
+        },
+        {
+          "number": 11,
+          "name": "Home Sweet Home",
+          "duration": "4:41"
+        }
+      ]
+    },
+    {
+      "name": "New Blood",
+      "year": "2011",
+      "release_date": "2011-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/69/21/17/692117fe-a094-d573-3a4b-ebe4a715cab7/New_Blood_RGB.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Rhythm of the Heat (New Blood Version)",
+          "duration": "5:41"
+        },
+        {
+          "number": 2,
+          "name": "Downside-Up (feat. Melanie Gabriel) [New Blood Version]",
+          "duration": "3:52"
+        },
+        {
+          "number": 3,
+          "name": "San Jacinto (New Blood Version)",
+          "duration": "6:58"
+        },
+        {
+          "number": 4,
+          "name": "Intruder (New Blood Version)",
+          "duration": "5:07"
+        },
+        {
+          "number": 5,
+          "name": "Wallflower (New Blood Version)",
+          "duration": "6:25"
+        },
+        {
+          "number": 6,
+          "name": "In Your Eyes (New Blood Version)",
+          "duration": "7:13"
+        },
+        {
+          "number": 7,
+          "name": "Mercy Street (New Blood Version)",
+          "duration": "5:59"
+        },
+        {
+          "number": 8,
+          "name": "Red Rain (New Blood Version)",
+          "duration": "5:15"
+        },
+        {
+          "number": 9,
+          "name": "Darkness (New Blood Version)",
+          "duration": "6:10"
+        },
+        {
+          "number": 10,
+          "name": "Don't Give Up (feat. Ane Brun) [New Blood Version]",
+          "duration": "6:40"
+        },
+        {
+          "number": 11,
+          "name": "Digging In the Dirt (New Blood Version)",
+          "duration": "4:57"
+        },
+        {
+          "number": 12,
+          "name": "The Nest That Sailed the Sky (New Blood Version)",
+          "duration": "3:54"
+        },
+        {
+          "number": 13,
+          "name": "A Quiet Moment (New Blood Version)",
+          "duration": "4:48"
+        },
+        {
+          "number": 14,
+          "name": "Solsbury Hill (New Blood Version)",
+          "duration": "4:37"
+        },
+        {
+          "number": 15,
+          "name": "Signal to Noise (New Blood Version)",
+          "duration": "7:41"
+        }
+      ]
+    },
+    {
+      "name": "Live at WOMAD 1982",
+      "year": "2025",
+      "release_date": "2025-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/87/f3/0087f3b3-0fc0-1420-9c74-813a0a61edf7/Peter_Gabriel_-_Live_at_WOMAD_1982_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "San Jacinto (Live)",
+          "duration": "6:40"
+        },
+        {
+          "number": 2,
+          "name": "The Family and the Fishing Net (Live)",
+          "duration": "6:49"
+        },
+        {
+          "number": 3,
+          "name": "I Have the Touch (Live)",
+          "duration": "5:21"
+        },
+        {
+          "number": 4,
+          "name": "Lay Your Hands on Me (Live)",
+          "duration": "6:20"
+        },
+        {
+          "number": 5,
+          "name": "Shock The Monkey (Live)",
+          "duration": "6:02"
+        },
+        {
+          "number": 6,
+          "name": "I Go Swimming (Live)",
+          "duration": "5:43"
+        },
+        {
+          "number": 7,
+          "name": "The Rhythm of the Heat (Live)",
+          "duration": "7:11"
+        },
+        {
+          "number": 8,
+          "name": "Kiss of Life (Live)",
+          "duration": "4:29"
+        },
+        {
+          "number": 9,
+          "name": "Biko (Live)",
+          "duration": "7:11"
+        }
+      ]
+    },
+    {
+      "name": "New Blood (Special Edition)",
+      "year": "2011",
+      "release_date": "2011-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/d7/08/7d/d7087da8-21b5-8f80-7f9f-81ba6ce8fd81/New_Blood_RGB.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Rhythm of the Heat (New Blood Version)",
+          "duration": "5:41"
+        },
+        {
+          "number": 1,
+          "name": "The Rhythm of the Heat (New Blood Version Instrumental)",
+          "duration": "5:41"
+        },
+        {
+          "number": 2,
+          "name": "Downside-Up (feat. Melanie Gabriel) [New Blood Version]",
+          "duration": "3:52"
+        },
+        {
+          "number": 2,
+          "name": "Downside-Up (New Blood Version Instrumental)",
+          "duration": "3:52"
+        },
+        {
+          "number": 3,
+          "name": "San Jacinto (New Blood Version)",
+          "duration": "6:58"
+        },
+        {
+          "number": 3,
+          "name": "San Jacinto (New Blood Version Instrumental)",
+          "duration": "7:12"
+        },
+        {
+          "number": 4,
+          "name": "Intruder (New Blood Version)",
+          "duration": "5:07"
+        },
+        {
+          "number": 4,
+          "name": "Intruder (New Blood Version Instrumental)",
+          "duration": "5:06"
+        },
+        {
+          "number": 5,
+          "name": "Wallflower (New Blood Version)",
+          "duration": "6:25"
+        },
+        {
+          "number": 5,
+          "name": "Wallflower (New Blood Version Instrumental)",
+          "duration": "6:24"
+        },
+        {
+          "number": 6,
+          "name": "In Your Eyes (New Blood Version)",
+          "duration": "7:13"
+        },
+        {
+          "number": 6,
+          "name": "In Your Eyes (New Blood Version Instrumental)",
+          "duration": "7:13"
+        },
+        {
+          "number": 7,
+          "name": "Mercy Street (New Blood Version)",
+          "duration": "5:59"
+        },
+        {
+          "number": 7,
+          "name": "Mercy Street (New Blood Version Instrumental)",
+          "duration": "6:00"
+        },
+        {
+          "number": 8,
+          "name": "Red Rain (New Blood Version)",
+          "duration": "5:15"
+        },
+        {
+          "number": 8,
+          "name": "Red Rain (New Blood Version Instrumental)",
+          "duration": "5:15"
+        },
+        {
+          "number": 9,
+          "name": "Darkness (New Blood Version)",
+          "duration": "6:10"
+        },
+        {
+          "number": 9,
+          "name": "Darkness (New Blood Version Instrumental)",
+          "duration": "6:10"
+        },
+        {
+          "number": 10,
+          "name": "Don't Give Up (feat. Ane Brun) [New Blood Version]",
+          "duration": "6:40"
+        },
+        {
+          "number": 10,
+          "name": "Don't Give Up (New Blood Version Instrumental)",
+          "duration": "6:40"
+        },
+        {
+          "number": 11,
+          "name": "Digging In the Dirt (New Blood Version)",
+          "duration": "4:57"
+        },
+        {
+          "number": 11,
+          "name": "Digging In the Dirt (New Blood Version Instrumental)",
+          "duration": "4:58"
+        },
+        {
+          "number": 12,
+          "name": "The Nest That Sailed the Sky (New Blood Version)",
+          "duration": "3:54"
+        },
+        {
+          "number": 12,
+          "name": "The Nest That Sailed the Sky (New Blood Version Instrumental)",
+          "duration": "3:54"
+        },
+        {
+          "number": 13,
+          "name": "A Quiet Moment (New Blood Version)",
+          "duration": "4:48"
+        },
+        {
+          "number": 13,
+          "name": "Blood of Eden (New Blood Version)",
+          "duration": "6:05"
+        },
+        {
+          "number": 14,
+          "name": "Solsbury Hill (New Blood Version)",
+          "duration": "4:37"
+        },
+        {
+          "number": 14,
+          "name": "Signal to Noise (New Blood Version)",
+          "duration": "7:41"
+        }
+      ]
+    },
+    {
+      "name": "Rated PG",
+      "year": "2019",
+      "release_date": "2019-04-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/a7/15/62a71520-f76b-1939-2132-a120d38a356e/RatedPG_PicDisc_Sleeve_cover_3000pixels.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "That'll Do (feat. Paddy Maloney and the Black Dyke Mills Band)",
+          "duration": "3:55"
+        },
+        {
+          "number": 2,
+          "name": "Down to Earth (feat. The Soweto Gospel Choir)",
+          "duration": "5:58"
+        },
+        {
+          "number": 3,
+          "name": "This Is Party Man (with the Worldbeaters)",
+          "duration": "6:36"
+        },
+        {
+          "number": 4,
+          "name": "The Book of Love",
+          "duration": "3:38"
+        },
+        {
+          "number": 5,
+          "name": "Taboo",
+          "duration": "5:47"
+        },
+        {
+          "number": 6,
+          "name": "Everybird",
+          "duration": "4:24"
+        },
+        {
+          "number": 7,
+          "name": "Walk Through the Fire",
+          "duration": "4:03"
+        },
+        {
+          "number": 8,
+          "name": "Speak (with Atif Aslam)",
+          "duration": "6:33"
+        },
+        {
+          "number": 9,
+          "name": "Nocturnal",
+          "duration": "3:47"
+        },
+        {
+          "number": 10,
+          "name": "In Your Eyes",
+          "duration": "5:07"
+        }
+      ]
+    },
+    {
+      "name": "In The Big Room",
+      "year": "2025",
+      "release_date": "2025-06-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/9e/67/0c9e6794-5b37-dd1d-4fa5-f8f4fc748fa2/PeterGabriel_InTheBigRoom_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Burn You Up, Burn You Down (Live)",
+          "duration": "4:23"
+        },
+        {
+          "number": 2,
+          "name": "More Than This (Live)",
+          "duration": "6:12"
+        },
+        {
+          "number": 3,
+          "name": "Games Without Frontiers (Live)",
+          "duration": "5:01"
+        },
+        {
+          "number": 4,
+          "name": "Downside Up (Live)",
+          "duration": "5:30"
+        },
+        {
+          "number": 5,
+          "name": "Mercy Street (Live)",
+          "duration": "6:39"
+        },
+        {
+          "number": 6,
+          "name": "Darkness (Live)",
+          "duration": "6:45"
+        },
+        {
+          "number": 7,
+          "name": "Digging In The Dirt (Live)",
+          "duration": "6:31"
+        },
+        {
+          "number": 8,
+          "name": "The Tower That Ate People (Live)",
+          "duration": "5:01"
+        },
+        {
+          "number": 9,
+          "name": "San Jacinto (Live)",
+          "duration": "8:24"
+        },
+        {
+          "number": 10,
+          "name": "Shock The Monkey (Live)",
+          "duration": "5:26"
+        },
+        {
+          "number": 11,
+          "name": "Signal To Noise (Live)",
+          "duration": "8:04"
+        },
+        {
+          "number": 12,
+          "name": "Secret World (Live)",
+          "duration": "8:26"
+        },
+        {
+          "number": 13,
+          "name": "Father, Son (Live)",
+          "duration": "4:26"
+        },
+        {
+          "number": 14,
+          "name": "In Your Eyes (Live)",
+          "duration": "10:00"
+        }
+      ]
+    },
+    {
+      "name": "Scratch My Back / And I'll Scratch Yours",
+      "year": "2013",
+      "release_date": "2013-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/2d/b6/a3/2db6a33c-ac23-f70a-669b-a16cdf5a4447/PG_SMB_AISY_2400x2400.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Heroes",
+          "duration": "4:08"
+        },
+        {
+          "number": 1,
+          "name": "I Don't Remember",
+          "duration": "3:39"
+        },
+        {
+          "number": 2,
+          "name": "The Boy In the Bubble",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "Come Talk to Me",
+          "duration": "6:17"
+        },
+        {
+          "number": 3,
+          "name": "Mirrorball",
+          "duration": "4:48"
+        },
+        {
+          "number": 3,
+          "name": "Blood of Eden",
+          "duration": "4:38"
+        },
+        {
+          "number": 4,
+          "name": "Flume",
+          "duration": "3:00"
+        },
+        {
+          "number": 4,
+          "name": "Not One of Us",
+          "duration": "3:49"
+        },
+        {
+          "number": 5,
+          "name": "Listening Wind",
+          "duration": "4:22"
+        },
+        {
+          "number": 5,
+          "name": "Shock the Monkey",
+          "duration": "5:49"
+        },
+        {
+          "number": 6,
+          "name": "The Power of the Heart",
+          "duration": "5:51"
+        },
+        {
+          "number": 6,
+          "name": "Big Time",
+          "duration": "3:29"
+        },
+        {
+          "number": 7,
+          "name": "My Body Is a Cage",
+          "duration": "6:12"
+        },
+        {
+          "number": 7,
+          "name": "Games Without Frontiers",
+          "duration": "3:22"
+        },
+        {
+          "number": 8,
+          "name": "The Book of Love",
+          "duration": "3:52"
+        },
+        {
+          "number": 8,
+          "name": "Mercy Street",
+          "duration": "5:38"
+        },
+        {
+          "number": 9,
+          "name": "I Think It's Going to Rain Today",
+          "duration": "2:34"
+        },
+        {
+          "number": 9,
+          "name": "Mother of Violence",
+          "duration": "3:04"
+        },
+        {
+          "number": 10,
+          "name": "Après Moi",
+          "duration": "5:13"
+        },
+        {
+          "number": 10,
+          "name": "Don't Give Up (feat. Timber Timbre)",
+          "duration": "5:28"
+        },
+        {
+          "number": 11,
+          "name": "Philadelphia",
+          "duration": "3:46"
+        },
+        {
+          "number": 11,
+          "name": "Solsbury Hill",
+          "duration": "5:24"
+        },
+        {
+          "number": 12,
+          "name": "Street Spirit (Fade Out)",
+          "duration": "5:06"
+        },
+        {
+          "number": 12,
+          "name": "Biko",
+          "duration": "4:19"
+        }
+      ]
+    },
+    {
+      "name": "Deutsches Album",
+      "year": "1982",
+      "release_date": "1982-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/82/22/3a/82223a7d-a100-0b16-b472-346ce5c2fbb0/PG4_German_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Der Rhythmus der Hitze",
+          "duration": "5:21"
+        },
+        {
+          "number": 2,
+          "name": "Das Fischernetz",
+          "duration": "6:49"
+        },
+        {
+          "number": 3,
+          "name": "Kon-Takt!",
+          "duration": "4:31"
+        },
+        {
+          "number": 4,
+          "name": "San Jacinto",
+          "duration": "6:15"
+        },
+        {
+          "number": 5,
+          "name": "Schock den Affen",
+          "duration": "5:46"
+        },
+        {
+          "number": 6,
+          "name": "Handauflegen",
+          "duration": "6:07"
+        },
+        {
+          "number": 7,
+          "name": "Nicht die Erde hat dich verschluckt",
+          "duration": "6:02"
+        },
+        {
+          "number": 8,
+          "name": "Mundzumundbeatmung",
+          "duration": "4:54"
+        }
+      ]
+    },
+    {
+      "name": "Long Walk Home: Music from the Rabbit-Proof Fence",
+      "year": "2002",
+      "release_date": "2002-08-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/59/6c/c7/596cc7ff-8995-e3da-6cb3-1da62b53aab3/LongWalkHome-iTunes.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Jigalong",
+          "duration": "4:03"
+        },
+        {
+          "number": 2,
+          "name": "Stealing the Children",
+          "duration": "3:19"
+        },
+        {
+          "number": 3,
+          "name": "Unlocking the Door",
+          "duration": "1:57"
+        },
+        {
+          "number": 4,
+          "name": "The Tracker",
+          "duration": "2:47"
+        },
+        {
+          "number": 5,
+          "name": "Running to the Rain",
+          "duration": "3:18"
+        },
+        {
+          "number": 6,
+          "name": "On the Map",
+          "duration": "0:59"
+        },
+        {
+          "number": 7,
+          "name": "A Sense of Home",
+          "duration": "1:59"
+        },
+        {
+          "number": 8,
+          "name": "Go Away Mr. Evans",
+          "duration": "5:14"
+        },
+        {
+          "number": 9,
+          "name": "Moodoo's Secret",
+          "duration": "3:02"
+        },
+        {
+          "number": 10,
+          "name": "Gracie's Recapture",
+          "duration": "4:40"
+        },
+        {
+          "number": 11,
+          "name": "Crossing the Salt Pan",
+          "duration": "5:07"
+        },
+        {
+          "number": 12,
+          "name": "The Return, Pts. 1-3",
+          "duration": "10:25"
+        },
+        {
+          "number": 13,
+          "name": "Ngankarrparni (Sky Blue) [Reprise]",
+          "duration": "6:01"
+        },
+        {
+          "number": 14,
+          "name": "The Rabbit-Proof Fence",
+          "duration": "1:06"
+        },
+        {
+          "number": 15,
+          "name": "Cloudless",
+          "duration": "4:49"
+        }
+      ]
+    },
+    {
+      "name": "OVO",
+      "year": "2000",
+      "release_date": "2000-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/0b/0f/d0/0b0fd069-4739-4d40-4bc1-b080b8ba7998/OVO_iTunes.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Story of OVO",
+          "duration": "5:21"
+        },
+        {
+          "number": 2,
+          "name": "Low Light",
+          "duration": "6:36"
+        },
+        {
+          "number": 3,
+          "name": "The Time of the Turning",
+          "duration": "5:05"
+        },
+        {
+          "number": 4,
+          "name": "The Man Who Loved the Earth / The Hand That Sold Shadows",
+          "duration": "4:14"
+        },
+        {
+          "number": 5,
+          "name": "The Time of the Turning (Reprise) / The Weaver's Reel",
+          "duration": "5:36"
+        },
+        {
+          "number": 6,
+          "name": "Father, Son",
+          "duration": "4:56"
+        },
+        {
+          "number": 7,
+          "name": "The Tower That Ate People",
+          "duration": "4:49"
+        },
+        {
+          "number": 8,
+          "name": "Revenge",
+          "duration": "1:30"
+        },
+        {
+          "number": 9,
+          "name": "White Ashes",
+          "duration": "2:34"
+        },
+        {
+          "number": 10,
+          "name": "Downside-Up",
+          "duration": "6:04"
+        },
+        {
+          "number": 11,
+          "name": "The Nest That Sailed the Sky",
+          "duration": "5:06"
+        },
+        {
+          "number": 12,
+          "name": "Make Tomorrow",
+          "duration": "10:04"
+        }
+      ]
+    },
+    {
+      "name": "Scratch My Back",
+      "year": "2010",
+      "release_date": "2010-02-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/6f/e9/b2/6fe9b274-3db7-9f28-452c-30a6e5eaa542/Scratch_My_Back-iTunes.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Heroes",
+          "duration": "4:08"
+        },
+        {
+          "number": 2,
+          "name": "The Boy In the Bubble",
+          "duration": "4:24"
+        },
+        {
+          "number": 3,
+          "name": "Mirrorball",
+          "duration": "4:48"
+        },
+        {
+          "number": 4,
+          "name": "Flume",
+          "duration": "3:00"
+        },
+        {
+          "number": 5,
+          "name": "Listening Wind",
+          "duration": "4:22"
+        },
+        {
+          "number": 6,
+          "name": "The Power of the Heart",
+          "duration": "5:51"
+        },
+        {
+          "number": 7,
+          "name": "My Body Is a Cage",
+          "duration": "6:12"
+        },
+        {
+          "number": 8,
+          "name": "The Book of Love",
+          "duration": "3:52"
+        },
+        {
+          "number": 9,
+          "name": "I Think It's Going to Rain Today",
+          "duration": "2:34"
+        },
+        {
+          "number": 10,
+          "name": "Après Moi",
+          "duration": "5:13"
+        },
+        {
+          "number": 11,
+          "name": "Philadelphia",
+          "duration": "3:46"
+        },
+        {
+          "number": 12,
+          "name": "Street Spirit (Fade Out)",
+          "duration": "5:06"
+        }
+      ]
+    },
+    {
+      "name": "Birdy (Original Motion Picture Soundtrack)",
+      "year": "1985",
+      "release_date": "1985-03-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/9c/d4/f3/9cd4f3ed-ec7e-1f88-67a4-3034d0ea9e79/Birdy-iTunes.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "At Night",
+          "duration": "2:46"
+        },
+        {
+          "number": 2,
+          "name": "Floating Dogs",
+          "duration": "3:00"
+        },
+        {
+          "number": 3,
+          "name": "Quiet and Alone",
+          "duration": "2:37"
+        },
+        {
+          "number": 4,
+          "name": "Close Up",
+          "duration": "0:55"
+        },
+        {
+          "number": 5,
+          "name": "Slow Water",
+          "duration": "2:55"
+        },
+        {
+          "number": 6,
+          "name": "Dressing the Wound",
+          "duration": "4:11"
+        },
+        {
+          "number": 7,
+          "name": "Birdy's Flight",
+          "duration": "3:03"
+        },
+        {
+          "number": 8,
+          "name": "Slow Marimbas",
+          "duration": "3:25"
+        },
+        {
+          "number": 9,
+          "name": "The Heat",
+          "duration": "4:48"
+        },
+        {
+          "number": 10,
+          "name": "Sketch Pad With Trumpet and Voice",
+          "duration": "3:09"
+        },
+        {
+          "number": 11,
+          "name": "Under Lock and Key",
+          "duration": "2:28"
+        },
+        {
+          "number": 12,
+          "name": "Powerhouse At the Foot of the Mountain",
+          "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "Ein deutsches Album",
+      "year": "1980",
+      "release_date": "1980-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5d/84/ab/5d84abf8-87c7-941f-db90-2ffdcf16b0d4/PG3_German_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Eindringling",
+          "duration": "5:06"
+        },
+        {
+          "number": 2,
+          "name": "Keine Selbstkontrolle",
+          "duration": "4:03"
+        },
+        {
+          "number": 3,
+          "name": "Frag mich nicht immer",
+          "duration": "6:06"
+        },
+        {
+          "number": 4,
+          "name": "Schnappschuß (Ein Familienfoto)",
+          "duration": "4:28"
+        },
+        {
+          "number": 5,
+          "name": "Und durch den Draht",
+          "duration": "4:32"
+        },
+        {
+          "number": 6,
+          "name": "Spiel ohne Grenzen",
+          "duration": "4:10"
+        },
+        {
+          "number": 7,
+          "name": "Du bist nicht wie wir",
+          "duration": "5:31"
+        },
+        {
+          "number": 8,
+          "name": "Ein normales Leben",
+          "duration": "4:22"
+        },
+        {
+          "number": 9,
+          "name": "Biko",
+          "duration": "9:02"
+        }
+      ]
+    },
+    {
+      "name": "Live Blood",
+      "year": "2012",
+      "release_date": "2012-04-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0a/94/0b/0a940b13-b059-7995-f785-8690b7828742/00670211006193.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intruder (Live)",
+          "duration": "6:05"
+        },
+        {
+          "number": 2,
+          "name": "Wallflower (Live)",
+          "duration": "7:25"
+        },
+        {
+          "number": 3,
+          "name": "The Boy in the Bubble (Live)",
+          "duration": "4:33"
+        },
+        {
+          "number": 4,
+          "name": "Après Moi (Live)",
+          "duration": "5:26"
+        },
+        {
+          "number": 5,
+          "name": "The Drop (Live)",
+          "duration": "2:48"
+        },
+        {
+          "number": 6,
+          "name": "Washing of the Water (Live)",
+          "duration": "4:21"
+        },
+        {
+          "number": 7,
+          "name": "The Book of Love (Live)",
+          "duration": "3:55"
+        },
+        {
+          "number": 8,
+          "name": "Darkness (Live)",
+          "duration": "6:33"
+        },
+        {
+          "number": 9,
+          "name": "The Power of the Heart (Live)",
+          "duration": "6:40"
+        },
+        {
+          "number": 10,
+          "name": "Biko (Live)",
+          "duration": "6:52"
+        },
+        {
+          "number": 11,
+          "name": "San Jacinto (Live)",
+          "duration": "7:47"
+        },
+        {
+          "number": 12,
+          "name": "Digging in the Dirt (Live)",
+          "duration": "6:08"
+        },
+        {
+          "number": 13,
+          "name": "Signal to Noise (Live)",
+          "duration": "8:48"
+        },
+        {
+          "number": 14,
+          "name": "Downside Up (Live)",
+          "duration": "6:27"
+        },
+        {
+          "number": 15,
+          "name": "Mercy Street (Live)",
+          "duration": "6:48"
+        },
+        {
+          "number": 16,
+          "name": "The Rhythm of the Heat (Live)",
+          "duration": "6:55"
+        },
+        {
+          "number": 17,
+          "name": "Blood of Eden (Live)",
+          "duration": "6:36"
+        },
+        {
+          "number": 18,
+          "name": "Red Rain (Live)",
+          "duration": "7:05"
+        },
+        {
+          "number": 19,
+          "name": "Solsbury Hill (Live)",
+          "duration": "6:21"
+        },
+        {
+          "number": 20,
+          "name": "In Your Eyes (Live)",
+          "duration": "8:29"
+        },
+        {
+          "number": 21,
+          "name": "Don't Give Up (Live)",
+          "duration": "8:30"
+        },
+        {
+          "number": 22,
+          "name": "The Nest That Sailed the Sky (Live)",
+          "duration": "4:39"
+        }
+      ]
+    },
+    {
+      "name": "The Round Ones",
+      "year": "2015",
+      "release_date": "2015-05-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/e8/fe/74/e8fe741c-a8b0-875a-6f2e-02a776821fc9/PGabriel_RoundOnes_1500pxl.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Moribund the Burgermeister",
+          "duration": "4:20"
+        },
+        {
+          "number": 1,
+          "name": "On the Air",
+          "duration": "5:35"
+        },
+        {
+          "number": 1,
+          "name": "Intruder",
+          "duration": "4:54"
+        },
+        {
+          "number": 1,
+          "name": "The Rhythm of the Heat",
+          "duration": "5:19"
+        },
+        {
+          "number": 1,
+          "name": "I Have the Touch (Live)",
+          "duration": "4:49"
+        },
+        {
+          "number": 2,
+          "name": "Solsbury Hill",
+          "duration": "4:21"
+        },
+        {
+          "number": 2,
+          "name": "D.I.Y.",
+          "duration": "2:34"
+        },
+        {
+          "number": 2,
+          "name": "No Self Control",
+          "duration": "3:56"
+        },
+        {
+          "number": 2,
+          "name": "San Jacinto",
+          "duration": "6:34"
+        },
+        {
+          "number": 2,
+          "name": "Family Snapshot (Live)",
+          "duration": "4:47"
+        },
+        {
+          "number": 3,
+          "name": "Modern Love",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Mother of Violence",
+          "duration": "3:26"
+        },
+        {
+          "number": 3,
+          "name": "Start",
+          "duration": "1:21"
+        },
+        {
+          "number": 3,
+          "name": "I Have the Touch",
+          "duration": "4:35"
+        },
+        {
+          "number": 3,
+          "name": "D.I.Y. (Live)",
+          "duration": "4:05"
+        },
+        {
+          "number": 4,
+          "name": "Excuse Me",
+          "duration": "3:20"
+        },
+        {
+          "number": 4,
+          "name": "A Wonderful Day In a One-Way World",
+          "duration": "3:35"
+        },
+        {
+          "number": 4,
+          "name": "I Don't Remember",
+          "duration": "4:42"
+        },
+        {
+          "number": 4,
+          "name": "The Family and the Fishing Net",
+          "duration": "7:07"
+        },
+        {
+          "number": 4,
+          "name": "The Family and the Fishing Net (Live)",
+          "duration": "7:34"
+        },
+        {
+          "number": 5,
+          "name": "Humdrum",
+          "duration": "3:25"
+        },
+        {
+          "number": 5,
+          "name": "White Shadow",
+          "duration": "5:19"
+        },
+        {
+          "number": 5,
+          "name": "Family Snapshot",
+          "duration": "4:29"
+        },
+        {
+          "number": 5,
+          "name": "Shock the Monkey",
+          "duration": "5:28"
+        },
+        {
+          "number": 5,
+          "name": "I Go Swimming (Live)",
+          "duration": "5:00"
+        },
+        {
+          "number": 6,
+          "name": "Slowburn",
+          "duration": "4:36"
+        },
+        {
+          "number": 6,
+          "name": "Indigo",
+          "duration": "3:32"
+        },
+        {
+          "number": 6,
+          "name": "And Through the Wire",
+          "duration": "5:01"
+        },
+        {
+          "number": 6,
+          "name": "Lay Your Hands On Me",
+          "duration": "6:09"
+        },
+        {
+          "number": 6,
+          "name": "San Jacinto (Live)",
+          "duration": "8:28"
+        },
+        {
+          "number": 7,
+          "name": "Waiting for the Big One",
+          "duration": "7:15"
+        },
+        {
+          "number": 7,
+          "name": "Animal Magic",
+          "duration": "3:29"
+        },
+        {
+          "number": 7,
+          "name": "Games Without Frontiers",
+          "duration": "4:06"
+        },
+        {
+          "number": 7,
+          "name": "Wallflower",
+          "duration": "6:38"
+        },
+        {
+          "number": 7,
+          "name": "Solsbury Hill (Live)",
+          "duration": "4:41"
+        },
+        {
+          "number": 8,
+          "name": "Down the Dolce Vita",
+          "duration": "5:05"
+        },
+        {
+          "number": 8,
+          "name": "Exposure",
+          "duration": "4:18"
+        },
+        {
+          "number": 8,
+          "name": "Not One of Us",
+          "duration": "5:22"
+        },
+        {
+          "number": 8,
+          "name": "Kiss of Life",
+          "duration": "4:17"
+        },
+        {
+          "number": 8,
+          "name": "No Self Control (Live)",
+          "duration": "5:02"
+        },
+        {
+          "number": 9,
+          "name": "Here Comes the Flood",
+          "duration": "5:37"
+        },
+        {
+          "number": 9,
+          "name": "Flotsam and Jetsam",
+          "duration": "2:22"
+        },
+        {
+          "number": 9,
+          "name": "Lead a Normal Life",
+          "duration": "4:15"
+        },
+        {
+          "number": 9,
+          "name": "I Don't Remember (Live)",
+          "duration": "4:13"
+        },
+        {
+          "number": 10,
+          "name": "Perspective",
+          "duration": "3:29"
+        },
+        {
+          "number": 10,
+          "name": "Biko",
+          "duration": "7:31"
+        },
+        {
+          "number": 10,
+          "name": "Shock the Monkey (Live)",
+          "duration": "7:09"
+        },
+        {
+          "number": 11,
+          "name": "Home Sweet Home",
+          "duration": "4:41"
+        },
+        {
+          "number": 11,
+          "name": "Humdrum (Live)",
+          "duration": "4:23"
+        },
+        {
+          "number": 12,
+          "name": "Biko (Live)",
+          "duration": "6:54"
+        }
+      ]
+    },
+    {
+      "name": "Moving Pictures",
+      "year": "2015",
+      "release_date": "2015-05-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/ef/30/f4/ef30f417-ce59-a522-93d6-543f3dc66c88/PGabriel_MovingPictures_1500pxl.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "At Night",
+          "duration": "2:46"
+        },
+        {
+          "number": 1,
+          "name": "The Feeling Begins",
+          "duration": "4:01"
+        },
+        {
+          "number": 1,
+          "name": "Jigalong",
+          "duration": "4:03"
+        },
+        {
+          "number": 2,
+          "name": "Floating Dogs",
+          "duration": "3:00"
+        },
+        {
+          "number": 2,
+          "name": "Gethsemane",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "Stealing the Children",
+          "duration": "3:19"
+        },
+        {
+          "number": 3,
+          "name": "Quiet and Alone",
+          "duration": "2:37"
+        },
+        {
+          "number": 3,
+          "name": "Of These, Hope",
+          "duration": "3:55"
+        },
+        {
+          "number": 3,
+          "name": "Unlocking the Door",
+          "duration": "1:57"
+        },
+        {
+          "number": 4,
+          "name": "Close Up",
+          "duration": "0:55"
+        },
+        {
+          "number": 4,
+          "name": "Lazarus Raised",
+          "duration": "1:25"
+        },
+        {
+          "number": 4,
+          "name": "The Tracker",
+          "duration": "2:47"
+        },
+        {
+          "number": 5,
+          "name": "Slow Water",
+          "duration": "2:55"
+        },
+        {
+          "number": 5,
+          "name": "Of These, Hope (Reprise)",
+          "duration": "2:44"
+        },
+        {
+          "number": 5,
+          "name": "Running to the Rain",
+          "duration": "3:18"
+        },
+        {
+          "number": 6,
+          "name": "Dressing the Wound",
+          "duration": "4:11"
+        },
+        {
+          "number": 6,
+          "name": "In Doubt",
+          "duration": "1:31"
+        },
+        {
+          "number": 6,
+          "name": "On the Map",
+          "duration": "0:59"
+        },
+        {
+          "number": 7,
+          "name": "Birdy's Flight",
+          "duration": "3:03"
+        },
+        {
+          "number": 7,
+          "name": "A Different Drum",
+          "duration": "4:40"
+        },
+        {
+          "number": 7,
+          "name": "A Sense of Home",
+          "duration": "1:59"
+        },
+        {
+          "number": 8,
+          "name": "Slow Marimbas",
+          "duration": "3:25"
+        },
+        {
+          "number": 8,
+          "name": "Zaar",
+          "duration": "4:52"
+        },
+        {
+          "number": 8,
+          "name": "Go Away Mr. Evans",
+          "duration": "5:14"
+        },
+        {
+          "number": 9,
+          "name": "The Heat",
+          "duration": "4:48"
+        },
+        {
+          "number": 9,
+          "name": "Troubled",
+          "duration": "2:54"
+        },
+        {
+          "number": 9,
+          "name": "Moodoo's Secret",
+          "duration": "3:02"
+        },
+        {
+          "number": 10,
+          "name": "Sketch Pad With Trumpet and Voice",
+          "duration": "3:09"
+        },
+        {
+          "number": 10,
+          "name": "Open",
+          "duration": "3:29"
+        },
+        {
+          "number": 10,
+          "name": "Gracie's Recapture",
+          "duration": "4:40"
+        },
+        {
+          "number": 11,
+          "name": "Under Lock and Key",
+          "duration": "2:28"
+        },
+        {
+          "number": 11,
+          "name": "Before Night Falls",
+          "duration": "2:20"
+        },
+        {
+          "number": 11,
+          "name": "Crossing the Salt Pan",
+          "duration": "5:07"
+        },
+        {
+          "number": 12,
+          "name": "Powerhouse At the Foot of the Mountain",
+          "duration": "2:24"
+        },
+        {
+          "number": 12,
+          "name": "With This Love",
+          "duration": "3:38"
+        },
+        {
+          "number": 12,
+          "name": "The Return, Pts. 1-3",
+          "duration": "10:25"
+        },
+        {
+          "number": 13,
+          "name": "Sandstorm",
+          "duration": "3:02"
+        },
+        {
+          "number": 13,
+          "name": "Ngankarrparni (Sky Blue) [Reprise]",
+          "duration": "6:01"
+        },
+        {
+          "number": 14,
+          "name": "Stigmata",
+          "duration": "2:28"
+        },
+        {
+          "number": 14,
+          "name": "The Rabbit-Proof Fence",
+          "duration": "1:06"
+        },
+        {
+          "number": 15,
+          "name": "Passion",
+          "duration": "7:38"
+        },
+        {
+          "number": 15,
+          "name": "Cloudless",
+          "duration": "4:49"
+        },
+        {
+          "number": 16,
+          "name": "With This Love (Choir)",
+          "duration": "3:19"
+        },
+        {
+          "number": 17,
+          "name": "Wall of Breath",
+          "duration": "2:28"
+        },
+        {
+          "number": 18,
+          "name": "The Promise of Shadows",
+          "duration": "2:13"
+        },
+        {
+          "number": 19,
+          "name": "Disturbed",
+          "duration": "3:37"
+        },
+        {
+          "number": 20,
+          "name": "It Is Accomplished",
+          "duration": "2:55"
+        },
+        {
+          "number": 21,
+          "name": "Bread and Wine",
+          "duration": "2:22"
+        }
+      ]
+    },
+    {
+      "name": "Big Time: All Remixes (feat. Peter Gabriel)",
+      "year": "2013",
+      "release_date": "2013-03-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/b1/77/d3/b177d3db-77d6-bad4-7048-eef9da15c030/5055478269065.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Big Time",
+          "duration": "6:54"
+        },
+        {
+          "number": 2,
+          "name": "Big Time",
+          "duration": "7:09"
+        },
+        {
+          "number": 3,
+          "name": "Big Time (Cassani Club)",
+          "duration": "6:00"
+        },
+        {
+          "number": 4,
+          "name": "Big Time (Zerepo & Aldilà Remix)",
+          "duration": "6:39"
+        },
+        {
+          "number": 5,
+          "name": "Big Time (VB Acoustic Mix)",
+          "duration": "4:40"
+        },
+        {
+          "number": 6,
+          "name": "Big Time (Radio Edit UK)",
+          "duration": "3:42"
+        },
+        {
+          "number": 7,
+          "name": "Big Time (Paolo Madzone Zampetti & Maurizio Jazzvoice Verbeni Rmx)",
+          "duration": "8:28"
+        }
+      ]
+    },
+    {
+      "name": "Salala (The Junior Vasquez Remixes) [feat. Peter Gabriel]",
+      "year": "2007",
+      "release_date": "2007-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/4a/65/26/4a6526bf-d9eb-8cf1-93da-16b4ac231a73/00793018089432.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Salala (feat. Peter Gabriel) [Junior Vasquez Afroelectro Club Mix]",
+          "duration": "8:55"
+        },
+        {
+          "number": 2,
+          "name": "Salala (feat. Peter Gabriel) [Junior Vasquez Afroelectro Instrumental]",
+          "duration": "8:55"
+        },
+        {
+          "number": 3,
+          "name": "Salala (feat. Peter Gabriel) [Global Domination Mixshow]",
+          "duration": "5:30"
+        },
+        {
+          "number": 4,
+          "name": "Salala (feat. Peter Gabriel) [Junior's Percapella]",
+          "duration": "5:28"
+        },
+        {
+          "number": 5,
+          "name": "Salala (feat. Peter Gabriel) [Radio Mix]",
+          "duration": "3:41"
+        },
+        {
+          "number": 6,
+          "name": "Salala (feat. Peter Gabriel) [Junior's Keyapella]",
+          "duration": "5:29"
+        },
+        {
+          "number": 7,
+          "name": "Salala (feat. Peter Gabriel) [Junior's Afroelectro Drums]",
+          "duration": "3:35"
+        }
+      ]
+    },
+    {
+      "name": "Birdy",
+      "year": "1985",
+      "release_date": "1985-12-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9f/4d/d4/9f4dd45a-7faf-8919-8aa9-b398d8af2b78/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "At Night",
+          "duration": "2:42"
+        },
+        {
+          "number": 2,
+          "name": "Floating Dogs",
+          "duration": "2:59"
+        },
+        {
+          "number": 3,
+          "name": "Quiet and Alone",
+          "duration": "2:33"
+        },
+        {
+          "number": 4,
+          "name": "Close Up",
+          "duration": "0:55"
+        },
+        {
+          "number": 5,
+          "name": "Slow Water",
+          "duration": "2:53"
+        },
+        {
+          "number": 6,
+          "name": "Dressing the Wound",
+          "duration": "4:11"
+        },
+        {
+          "number": 7,
+          "name": "Birdy's Flight",
+          "duration": "3:00"
+        },
+        {
+          "number": 8,
+          "name": "Slow Marimbas",
+          "duration": "3:23"
+        },
+        {
+          "number": 9,
+          "name": "The Heat",
+          "duration": "4:45"
+        },
+        {
+          "number": 10,
+          "name": "Sketch Pad With Trumpet and Voice",
+          "duration": "3:07"
+        },
+        {
+          "number": 11,
+          "name": "Under Lock and Key",
+          "duration": "2:26"
+        },
+        {
+          "number": 12,
+          "name": "Powerhouse at the Foot of the Mountain",
+          "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "Live Blood",
+      "year": "2012",
+      "release_date": "2012-04-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0b/ac/57/0bac5752-6b8e-0bf7-e138-14692207f7f9/00670211002799.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intruder (Live)",
+          "duration": "6:05"
+        },
+        {
+          "number": 1,
+          "name": "Digging In the Dirt (Live)",
+          "duration": "6:08"
+        },
+        {
+          "number": 2,
+          "name": "Wallflower (Live)",
+          "duration": "7:25"
+        },
+        {
+          "number": 2,
+          "name": "Signal To Noise (Live)",
+          "duration": "8:48"
+        },
+        {
+          "number": 3,
+          "name": "The Boy In the Bubble (Live)",
+          "duration": "4:33"
+        },
+        {
+          "number": 3,
+          "name": "Downside Up (Live)",
+          "duration": "6:27"
+        },
+        {
+          "number": 4,
+          "name": "Après Moi (Live)",
+          "duration": "5:26"
+        },
+        {
+          "number": 4,
+          "name": "Mercy Street (Live)",
+          "duration": "6:48"
+        },
+        {
+          "number": 5,
+          "name": "The Drop (Live)",
+          "duration": "2:48"
+        },
+        {
+          "number": 5,
+          "name": "The Rhythm of the Heat (Live)",
+          "duration": "6:55"
+        },
+        {
+          "number": 6,
+          "name": "Washing of the Water (Live)",
+          "duration": "4:21"
+        },
+        {
+          "number": 6,
+          "name": "Blood of Eden (Live)",
+          "duration": "6:36"
+        },
+        {
+          "number": 7,
+          "name": "The Book of Love (Live)",
+          "duration": "3:55"
+        },
+        {
+          "number": 7,
+          "name": "Red Rain (Live)",
+          "duration": "7:05"
+        },
+        {
+          "number": 8,
+          "name": "Darkness (Live)",
+          "duration": "6:33"
+        },
+        {
+          "number": 8,
+          "name": "Solsbury Hill (Live)",
+          "duration": "6:21"
+        },
+        {
+          "number": 9,
+          "name": "The Power of the Heat (Live)",
+          "duration": "6:40"
+        },
+        {
+          "number": 9,
+          "name": "In Your Eyes (Live)",
+          "duration": "8:29"
+        },
+        {
+          "number": 10,
+          "name": "Biko (Live)",
+          "duration": "6:52"
+        },
+        {
+          "number": 10,
+          "name": "Don't Give Up (Live)",
+          "duration": "8:30"
+        },
+        {
+          "number": 11,
+          "name": "San Jacinto (Live)",
+          "duration": "7:47"
+        },
+        {
+          "number": 11,
+          "name": "The Nest That Sailed the Sky (Live)",
+          "duration": "6:42"
+        }
+      ]
+    },
+    {
+      "name": "i/o (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/53/02/cf530213-9f0c-b85b-f7ec-ca9371fba996/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    }
+  ],
+  "singles": [
+    {
+      "name": "Courage",
+      "year": "2013",
+      "release_date": "2013-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/db/20/3e/db203efe-f711-2347-2f39-37ed7d6ad461/dj.ysetomby.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Courage (Radio Edit)",
+          "duration": "3:28"
+        },
+        {
+          "number": 2,
+          "name": "Courage (The Hexidecimal Mix)",
+          "duration": "5:25"
+        }
+      ]
+    },
+    {
+      "name": "The Veil",
+      "year": "2016",
+      "release_date": "2016-09-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/27/68/95/276895ea-bf10-5409-ab7e-3b7a6e12680e/PG_TV_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Veil",
+          "duration": "5:50"
+        }
+      ]
+    },
+    {
+      "name": "I'm Amazing",
+      "year": "2016",
+      "release_date": "2016-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/b0/a1/9c/b0a19cba-8373-a6d4-e434-0fdd5b0d6e0d/PG_IA_1.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I'm Amazing",
+          "duration": "7:28"
+        }
+      ]
+    },
+    {
+      "name": "Won't Stand Down (Bright-Side Mix)",
+      "year": "2026",
+      "release_date": "2026-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/6e/2d/be6e2d3d-725f-9044-ef54-0144fd040bc5/PeterGabriel_WontStandDown_3000pxsquare.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Won't Stand Down (Bright-Side Mix)",
+          "duration": "6:07"
+        }
+      ]
+    },
+    {
+      "name": "Been Undone (Dark-Side Mix)",
+      "year": "2026",
+      "release_date": "2026-01-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/aa/ce/d1aacef5-b2c3-783a-ae8d-7cbd8f519e49/BeenUndone_3000.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Been Undone (Dark-Side Mix)",
+          "duration": "7:39"
+        }
+      ]
+    },
+    {
+      "name": "What Lies Ahead (Bright-Side Mix)",
+      "year": "2026",
+      "release_date": "2026-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/fb/1c/64fb1cc8-c685-e13c-b9e5-f83db0d08344/PeterGabriel_WhatLiesAhead_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "What Lies Ahead (Bright-Side Mix)",
+          "duration": "2:52"
+        }
+      ]
+    },
+    {
+      "name": "Till Your Mind Is Shining (Dark-Side Mix)",
+      "year": "2026",
+      "release_date": "2026-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/2a/9f/5e2a9f72-7040-61ae-f515-b910b004d4cf/PeterGabriel_TYMiS_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Till Your Mind Is Shining (Dark-Side Mix)",
+          "duration": "5:09"
+        }
+      ]
+    },
+    {
+      "name": "Down to Earth (From \"WALL-E\") [feat. Soweto Gospel Choir]",
+      "year": "2008",
+      "release_date": "2008-06-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/85/74/09/85740944-44ad-6e48-4974-ea70e3cf6a0c/00050087124588.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Down to Earth (feat. Soweto Gospel Choir) [From \"WALL-E\"]",
+          "duration": "5:58"
+        }
+      ]
+    },
+    {
+      "name": "Panopticom (Bright Side Mix)",
+      "year": "2023",
+      "release_date": "2023-01-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b0/92/33/b09233c4-1a4b-a8d1-dcf3-66ea59f3a3da/PeterGabriel_Panopticom_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Panopticom (Bright Side Mix)",
+          "duration": "5:13"
+        }
+      ]
+    },
+    {
+      "name": "Games Without Frontiers",
+      "year": "2011",
+      "release_date": "2011-01-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/c8/52/41/mzi.kkqluebe.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Games Without Frontiers",
+          "duration": "4:08"
+        },
+        {
+          "number": 2,
+          "name": "Games Without Frontiers (Japan Aircraft - Indaba Remix)",
+          "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "name": "Won't Stand Down (Dark-Side Mix)",
+      "year": "2026",
+      "release_date": "2026-05-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/b6/d3/e3b6d36b-1d1a-f518-e670-837a077d1af0/PeterGabriel_WontStandDown_3000pxsquare.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Won't Stand Down (Dark-Side Mix)",
+          "duration": "6:07"
+        }
+      ]
+    },
+    {
+      "name": "i/o (Bright-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-04-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e6/45/41/e64541cd-abca-f9c1-928f-60cef95552ec/dj.ajojhbcf.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I/O (Bright-Side Mix)",
+          "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "Till Your Mind Is Shining (Bright-Side Mix)",
+      "year": "2026",
+      "release_date": "2026-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/ab/5c/9aab5cc2-632c-3424-ae55-9da292bc5609/PeterGabriel_TYMiS_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Till Your Mind Is Shining (Bright-Side Mix)",
+          "duration": "5:07"
+        }
+      ]
+    },
+    {
+      "name": "Road to Joy (Bright-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-06-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/85/78/79/85787938-81e8-0c7d-9bb2-103dc8a7c8b0/PeterGabriel_RoadToJoy_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Road to Joy (Bright-Side Mix)",
+          "duration": "5:21"
+        }
+      ]
+    },
+    {
+      "name": "Four Kinds of Horses (Bright-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/0c/22/b20c220b-fbae-3f72-7061-21c799cc2a10/PeterGabriel_FourKindsOfHorses_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Four Kinds of Horses (Bright-Side Mix)",
+          "duration": "6:47"
+        }
+      ]
+    },
+    {
+      "name": "The Court (Dark-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-02-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/14/d7/48/14d74836-7985-abd7-d245-39c4e9406070/PeterGabriel_TheCourt_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Court (Dark-Side Mix)",
+          "duration": "4:20"
+        }
+      ]
+    },
+    {
+      "name": "Playing For Time (Dark-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-03-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/90/48/d2/9048d22c-4b77-2881-9342-4d2aed99d05b/dj.yqobzdlp.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Playing For Time (Dark-Side Mix)",
+          "duration": "6:17"
+        }
+      ]
+    },
+    {
+      "name": "Love Can Heal (Bright-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-08-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/a6/25/2aa62504-b7a0-d468-088d-f3d1355dbc7b/PeterGabriel_LoveCanHeal_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Love Can Heal (Bright-Side Mix)",
+          "duration": "5:59"
+        }
+      ]
+    },
+    {
+      "name": "i/o (Dark-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-04-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/ea/5c/caea5c4f-6f19-cb0b-11f7-6a6596e68e13/dj.rmpvvzhx.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I/O (Dark-Side Mix)",
+          "duration": "3:51"
+        }
+      ]
+    },
+    {
+      "name": "The Court (Bright-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0a/1e/dd/0a1edd9b-74ea-8762-3751-df0b6aa30c2a/PeterGabriel_TheCourt_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Court (Bright-Side Mix)",
+          "duration": "4:20"
+        }
+      ]
+    },
+    {
+      "name": "Playing For Time (Bright-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2c/f2/e6/2cf2e695-489c-e745-8d91-89e0559eb5ae/dj.wthxnemu.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Playing For Time (Bright-Side Mix)",
+          "duration": "6:17"
+        }
+      ]
+    },
+    {
+      "name": "Panopticom (Dark-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-01-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ed/0c/ec/ed0cec66-df93-25f4-e949-694136a377a0/PeterGabriel_Panopticom_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Panopticom (Dark-Side Mix)",
+          "duration": "5:13"
+        }
+      ]
+    },
+    {
+      "name": "Olive Tree (Bright-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/fe/3e/c6fe3e9f-39f3-c023-2566-0132e1542ed4/OliveTree_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Olive Tree (Bright-Side Mix)",
+          "duration": "5:58"
+        }
+      ]
+    },
+    {
+      "name": "So Much (Dark-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-07-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/77/3c/ac773cd1-f22f-f324-4c56-0654c15a41fb/PeterGabriel_So_Much_3000pxlsquare.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "So Much (Dark-Side Mix)",
+          "duration": "4:50"
+        }
+      ]
+    },
+    {
+      "name": "Open Your Eyes (feat. Peter Gabriel, Alison Sudol & Samina Ahmad)",
+      "year": "2010",
+      "release_date": "2010-11-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/9c/d6/52/mzi.mnkewhyh.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Open Your Eyes (feat. Peter Gabriel, Alison Sudol & Samina Ahmad)",
+          "duration": "5:53"
+        }
+      ]
+    },
+    {
+      "name": "Road to Joy (Dark-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/95/c8/8995c82c-1b6b-1b0b-fa0d-7281202ad918/PeterGabriel_RoadToJoy_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Road to Joy (Dark-Side Mix)",
+          "duration": "5:24"
+        }
+      ]
+    },
+    {
+      "name": "Four Kinds of Horses (Dark-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/05/95/db/0595db91-4059-829e-6e88-4cbf293c70c5/PeterGabriel_FourKindsOfHorses_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Four Kinds of Horses (Dark-Side Mix)",
+          "duration": "6:44"
+        }
+      ]
+    },
+    {
+      "name": "So Much (Bright-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/90/04/99/900499ce-de5a-06b6-b083-22351ce4c347/PeterGabriel_So_Much_3000pxlsquare.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "So Much (Bright-Side Mix)",
+          "duration": "4:50"
+        }
+      ]
+    },
+    {
+      "name": "This Is Home (Dark-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/2d/0d/1a2d0df0-c1ed-eaef-8eb8-aa74942e8365/PeterGabriel_ThisisHome_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "This Is Home (Dark-Side Mix)",
+          "duration": "5:04"
+        }
+      ]
+    },
+    {
+      "name": "Olive Tree (Dark-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-08-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/ec/b2/7decb286-2048-fe73-4e73-890488ae31e6/OliveTree_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Olive Tree (Dark-Side Mix)",
+          "duration": "5:58"
+        }
+      ]
+    },
+    {
+      "name": "Put the Bucket Down (Bright-Side Mix)",
+      "year": "2026",
+      "release_date": "2026-02-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/6a/dd/2c6addd8-1981-00f7-6e96-7ae4db543f6a/PeterGabriel_Put_the_Bucket_Down_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Put the Bucket Down (Bright-Side Mix)",
+          "duration": "6:47"
+        }
+      ]
+    },
+    {
+      "name": "Love Can Heal (Dark-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-09-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/b9/d9/cfb9d9a4-5029-fd3b-ea8f-8f765668df24/PeterGabriel_LoveCanHeal_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Love Can Heal (Dark-Side Mix)",
+          "duration": "6:01"
+        }
+      ]
+    },
+    {
+      "name": "This Is Party Man (with the Worldbeaters)",
+      "year": "2019",
+      "release_date": "2019-04-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9c/da/2d/9cda2d0a-c5ec-ce8d-e8f9-c5e3f01b8740/PG_ThisIsPartyMan_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "This Is Party Man (with the Worldbeaters)",
+          "duration": "6:36"
+        }
+      ]
+    },
+    {
+      "name": "This Is Home (Bright-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-10-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/ad/1b/4dad1b9e-1df8-8841-b670-c9eba4069f8a/PeterGabriel_ThisisHome_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "This Is Home (Bright-Side Mix)",
+          "duration": "5:04"
+        }
+      ]
+    },
+    {
+      "name": "And Still (Dark-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-10-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/be/8e/d0be8e1f-7fce-db38-7fde-66ba6a98361e/PeterGabriel_AndStill_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "And Still (Dark-Side Mix)",
+          "duration": "7:41"
+        }
+      ]
+    },
+    {
+      "name": "Been Undone (Bright-Side Mix)",
+      "year": "2026",
+      "release_date": "2026-01-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/a4/9e/e2a49e2a-29fe-da9f-10ab-fa3d859e6773/PeterGabriel_BeenUndone_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Been Undone (Bright-Side Mix)",
+          "duration": "6:48"
+        }
+      ]
+    },
+    {
+      "name": "Live and Let Live (Bright-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/12/79/f7/1279f740-f12a-40fb-e859-adfea42cef9e/PeterGabriel_LiveandLetLive_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Live and Let Live (Bright-Side Mix)",
+          "duration": "6:46"
+        }
+      ]
+    },
+    {
+      "name": "Live and Let Live (Dark-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/17/81/2e1781e5-6327-ce2c-cd8d-01816a2c7d13/PeterGabriel_LiveandLetLive_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Live and Let Live (Dark-Side Mix)",
+          "duration": "7:11"
+        }
+      ]
+    },
+    {
+      "name": "Put the Bucket Down (Dark-Side Mix)",
+      "year": "2026",
+      "release_date": "2026-02-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/72/9f/f2729f0b-7446-6ae0-d7af-2c33b10a9203/PeterGabriel_Put_the_Bucket_Down_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Put the Bucket Down (Dark-Side Mix)",
+          "duration": "6:56"
+        }
+      ]
+    },
+    {
+      "name": "What Lies Ahead (Dark-Side Mix)",
+      "year": "2026",
+      "release_date": "2026-03-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/eb/12/7deb1223-4205-7f0e-8b9d-6040ee4c48b8/PeterGabriel_WhatLiesAhead_3000pxls.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "What Lies Ahead (Dark-Side Mix)",
+          "duration": "2:54"
+        }
+      ]
+    },
+    {
+      "name": "And Still (Bright-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-11-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/8b/e7/0d8be75e-3ecc-97c1-fb29-5a66cff6773b/PeterGabriel_AndStill_3000square.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "And Still (Bright-Side Mix)",
+          "duration": "7:42"
+        }
+      ]
+    },
+    {
+      "name": "Pakistan Humara (Urdu Remix) [feat. Peter Gabriel]",
+      "year": "2011",
+      "release_date": "2011-03-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/07/97/05/mzi.ryllgjcg.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pakistan Humara (Urdu Remix) [feat. Peter Gabriel]",
           "duration": "4:00"
         }
       ]
     },
     {
-      "name": "É Amor, Eu Sei",
-      "year": "2026",
-      "release_date": "2026-04-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/a8/0f/38a80fd4-bb5c-90db-7e3c-3238b2810d0f/0.jpg/600x600bb.jpg",
+      "name": "Open Your Eyes (feat. Peter Gabriel) [From the Original Motion Picture Soundtrack]",
+      "year": "2015",
+      "release_date": "2015-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/d2/59/bc/d259bce1-0769-41a4-fb47-530e2b860593/859715748673_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "É Amor, Eu Sei",
-          "duration": "3:38"
+          "name": "Open Your Eyes (feat. Peter Gabriel) [From the Original Motion Picture Soundtrack]",
+          "duration": "3:04"
         }
       ]
     },
     {
-      "name": "Parede",
-      "year": "2026",
-      "release_date": "2026-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/19/5d/e6195d2e-1b46-1bf5-dd4b-39ce268e545b/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Parede",
-          "duration": "3:55"
-        }
-      ]
-    },
-    {
-      "name": "ไม่มีใครเข้าใจ (feat. LUCIFER & VIAMMM)",
+      "name": "Biko (feat. Peter Gabriel, Yo-Yo Ma, Angélique Kidjo & Meshell Ndegeocello)",
       "year": "2024",
-      "release_date": "2024-07-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/ea/4a/8aea4a1e-c652-1e6c-f0fe-479e70eca8fc/cover.jpg/600x600bb.jpg",
+      "release_date": "2024-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/60/06/cb60063e-285f-146b-af54-efdb8caaf7e0/198622884815_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "ไม่มีใครเข้าใจ (feat. LUCIFER & VIAMMM)",
-          "duration": "3:43"
+          "name": "Biko (feat. Peter Gabriel, Yo-Yo Ma, Angélique Kidjo & Meshell Ndegeocello)",
+          "duration": "6:05"
         }
       ]
     },
     {
-      "name": "2Am",
+      "name": "We Must Rise (feat. Peter Gabriel)",
       "year": "2022",
-      "release_date": "2022-12-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/03/d0/fc/03d0fc97-e907-8982-7b5a-9ee2dca022d6/0.jpg/600x600bb.jpg",
+      "release_date": "2022-12-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c4/61/89/c461897d-e6ea-d1df-fbd1-ba16de466475/198015224150.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "2Am",
-          "duration": "3:17"
+          "name": "We Must Rise (feat. Peter Gabriel)",
+          "duration": "4:04"
         }
       ]
     },
     {
-      "name": "Dogma",
-      "year": "2026",
-      "release_date": "2026-02-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/ac/9f/e2ac9f28-1679-9762-a5fd-aad2ed7edcfc/5063904686317_cover.jpg/600x600bb.jpg",
+      "name": "Big Time (feat. Peter Gabriel)",
+      "year": "2018",
+      "release_date": "2018-07-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/4c/62/c34c6219-b121-66f4-2fa8-35a9ba39a566/5056013454014.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Dogma",
-          "duration": "3:09"
+          "name": "Big Time (feat. Peter Gabriel) [Frenk DJ & Niky D. Remix]",
+          "duration": "5:26"
         }
       ]
     },
     {
-      "name": "เพลงที่ 3 (Quarantine) [feat. Peter]",
-      "year": "2020",
-      "release_date": "2020-10-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/6f/a1/8e6fa1fd-5247-014f-aad6-ed9a224d96c3/0840102426137_Cover.jpg/600x600bb.jpg",
+      "name": "Biko (live at WOMAD 1982) [feat. Ekome]",
+      "year": "1982",
+      "release_date": "1982-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/40/35/8c/40358c99-767f-2ce6-0468-3922c28e7d71/0884108012796_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Song No. 3 (Quarantine) [feat. Peter]",
-          "duration": "2:42"
+          "name": "Biko (feat. Ekome) [live at WOMAD 1982]",
+          "duration": "6:05"
         }
       ]
     },
     {
-      "name": "แต่เราไม่ได้คิดงั้นแล้ว",
-      "year": "2024",
-      "release_date": "2024-01-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/31/2c/37312c72-7531-6350-6d79-1459885789ca/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "แต่เราไม่ได้คิดงั้นแล้ว",
-          "duration": "4:25"
-        }
-      ]
+      "name": "Road to Joy (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a9/bb/a1/a9bba1a6-b922-d525-87da-64e3d6a3c35b/cover.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
-      "name": "Vênus",
-      "year": "2022",
-      "release_date": "2022-06-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e3/2a/80/e32a8059-5467-6101-36b3-07883fb61b44/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Vênus",
-          "duration": "3:03"
-        }
-      ]
+      "name": "i/o (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-04-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/a3/83/b9a383c3-99cb-406f-ecc9-07632cf9ecdf/dj.oslmutsg.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
-      "name": "It's Time to Give (feat. Francois, Peter, Laetitia, Nurine, Randall & Janyla)",
-      "year": "2020",
-      "release_date": "2020-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5e/c4/2f/5ec42f15-6b2d-5991-8301-adc1910f3316/CTSD1390.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "It's Time to Give (feat. Francois, Peter, Laetitia, Nurine, Randall & Janyla)",
-          "duration": "5:12"
-        }
-      ]
+      "name": "So Much (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/b9/b8/08b9b8b4-c462-5ee7-2e3f-8ce1cb224ef9/cover.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
-      "name": "Midnight",
-      "year": "2021",
-      "release_date": "2021-09-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/72/e7/7672e7cf-3517-b42f-3bb9-6233ddcf6984/8445490699037.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Midnight",
-          "duration": "2:27"
-        }
-      ]
+      "name": "Panopticom (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-01-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/62/b1/69/62b16900-9a1a-f1ea-4d25-34fce1c760b1/cover.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
-      "name": "Am Cific",
-      "year": "2020",
-      "release_date": "2020-10-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0b/00/01/0b000189-7cc6-f20f-fc41-70a8024ab82b/195039869794_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Amorph",
-          "duration": "6:12"
-        },
-        {
-          "number": 2,
-          "name": "Specific",
-          "duration": "5:32"
-        }
-      ]
+      "name": "And Still (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-11-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/49/2e/ab492eb0-d792-f37b-965e-bd422a07fccf/cover.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
-      "name": "Bad Shawty",
-      "year": "2021",
-      "release_date": "2021-06-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/14/01/7714016f-76d0-9819-7601-814d5a906e09/689690560317_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bad Shawty",
-          "duration": "2:19"
-        }
-      ]
+      "name": "Olive Tree (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-08-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/47/b3/f147b32a-d2cd-2f84-83ee-75f1da81083e/cover.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
-      "name": "หัวไผ่",
-      "year": "2024",
-      "release_date": "2024-05-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/22/2d/b6222d3e-45cf-7dfa-3016-89e6b1c05f00/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "หัวไผ่",
-          "duration": "2:10"
-        }
-      ]
+      "name": "Playing For Time (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/cd/aa/86cdaa5b-018f-b22f-f1a0-8e315b370232/cover.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
-      "name": "This is Tomorrow",
-      "year": "2025",
-      "release_date": "2025-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/60/7c/04607cff-f337-904e-cd52-922301f7a7e5/199502586010_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "This is Tomorrow",
-          "duration": "4:32"
-        }
-      ]
+      "name": "Live and Let Live (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/7c/01/937c0164-6df2-7d23-7e0c-9f22e7350183/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "The Court (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/25/fb/5b25fb02-ad62-6543-ed2a-8a7379bcabc9/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Love Can Heal (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-09-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6e/8f/62/6e8f62b4-a46e-3044-75b2-a619c570a6e3/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Four Kinds of Horses (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2e/9f/1d/2e9f1d05-b1d8-070a-c702-bd686ccd08b7/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "This Is Home (In-Side Mix)",
+      "year": "2023",
+      "release_date": "2023-10-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a0/15/8d/a0158d3e-3df9-5e88-d975-a84976d4beb3/cover.jpg/600x600bb.jpg",
+      "tracks": []
     }
   ],
-  "eps": [
-    {
-      "name": "The Attention Industry",
-      "year": "2025",
-      "release_date": "2025-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/51/1d/db511d2d-b8db-3227-b59e-be5b81b008c8/199502515256_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "March Tide",
-          "duration": "3:34"
-        },
-        {
-          "number": 2,
-          "name": "Eriswell",
-          "duration": "4:44"
-        },
-        {
-          "number": 3,
-          "name": "Ersatz Landen",
-          "duration": "5:16"
-        },
-        {
-          "number": 4,
-          "name": "Inland Sea",
-          "duration": "3:28"
-        },
-        {
-          "number": 5,
-          "name": "Chateau Rouge",
-          "duration": "7:07"
-        }
-      ]
-    }
-  ]
+  "eps": []
 }

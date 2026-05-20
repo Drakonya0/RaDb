@@ -3,6 +3,39 @@
   "id": 461077602,
   "albums": [
     {
+      "name": "Lore",
+      "year": "2015",
+      "release_date": "2015-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/0b/64/ab0b64b6-47ff-fa04-a6eb-a4c72ba4cfd1/889176232121.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Compendium",
+          "duration": "10:39"
+        },
+        {
+          "number": 2,
+          "name": "Legend",
+          "duration": "12:31"
+        },
+        {
+          "number": 3,
+          "name": "Lore",
+          "duration": "15:57"
+        },
+        {
+          "number": 4,
+          "name": "Deadweight",
+          "duration": "9:27"
+        },
+        {
+          "number": 5,
+          "name": "Spirit At Aphelion",
+          "duration": "10:31"
+        }
+      ]
+    },
+    {
       "name": "Reflections of a Floating World",
       "year": "2017",
       "release_date": "2017-06-02",
@@ -37,39 +70,6 @@
           "number": 6,
           "name": "Thousand Hands",
           "duration": "9:36"
-        }
-      ]
-    },
-    {
-      "name": "Lore",
-      "year": "2015",
-      "release_date": "2015-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/0b/64/ab0b64b6-47ff-fa04-a6eb-a4c72ba4cfd1/889176232121.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Compendium",
-          "duration": "10:39"
-        },
-        {
-          "number": 2,
-          "name": "Legend",
-          "duration": "12:31"
-        },
-        {
-          "number": 3,
-          "name": "Lore",
-          "duration": "15:57"
-        },
-        {
-          "number": 4,
-          "name": "Deadweight",
-          "duration": "9:27"
-        },
-        {
-          "number": 5,
-          "name": "Spirit At Aphelion",
-          "duration": "10:31"
         }
       ]
     },
@@ -173,6 +173,62 @@
       ]
     },
     {
+      "name": "Elder",
+      "year": "2009",
+      "release_date": "2009-01-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/81/95/a7/8195a74f-3341-914f-b9b6-3b7d5e1ee696/dj.pouotxlp.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "White Walls",
+          "duration": "6:52"
+        },
+        {
+          "number": 2,
+          "name": "Hexe",
+          "duration": "9:00"
+        },
+        {
+          "number": 3,
+          "name": "Riddle of Steel Pt. 1",
+          "duration": "10:00"
+        },
+        {
+          "number": 4,
+          "name": "Ghost Head",
+          "duration": "7:35"
+        },
+        {
+          "number": 5,
+          "name": "Riddle of Steel Pt. 2",
+          "duration": "8:21"
+        }
+      ]
+    },
+    {
+      "name": "The Gold & Silver Sessions",
+      "year": "2019",
+      "release_date": "2019-06-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/fe/2f/39fe2fa0-c011-7f02-d209-fdc913c38080/760137252115.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Illusory Motion",
+          "duration": "9:53"
+        },
+        {
+          "number": 2,
+          "name": "Im Morgengrauen",
+          "duration": "5:24"
+        },
+        {
+          "number": 3,
+          "name": "Weißensee",
+          "duration": "18:33"
+        }
+      ]
+    },
+    {
       "name": "Dead Roots Stirring (Remastered)",
       "year": "2011",
       "release_date": "2011-09-06",
@@ -206,35 +262,40 @@
       ]
     },
     {
-      "name": "Elder",
-      "year": "2009",
-      "release_date": "2009-01-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/81/95/a7/8195a74f-3341-914f-b9b6-3b7d5e1ee696/dj.pouotxlp.jpg/600x600bb.jpg",
+      "name": "Through Zero",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/31/1b/84311b34-73c0-7a8e-3386-2a0a10a6c25a/760137208594.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "White Walls",
-          "duration": "6:52"
+          "name": "Sigil to Ruin",
+          "duration": "10:33"
         },
         {
           "number": 2,
-          "name": "Hexe",
-          "duration": "9:00"
+          "name": "Capture / Release",
+          "duration": "8:47"
         },
         {
           "number": 3,
-          "name": "Riddle of Steel Pt. 1",
-          "duration": "10:00"
+          "name": "Through Zero",
+          "duration": "9:06"
         },
         {
           "number": 4,
-          "name": "Ghost Head",
-          "duration": "7:35"
+          "name": "Strata",
+          "duration": "10:48"
         },
         {
           "number": 5,
-          "name": "Riddle of Steel Pt. 2",
-          "duration": "8:21"
+          "name": "Sight Unseen",
+          "duration": "8:50"
+        },
+        {
+          "number": 6,
+          "name": "Blighted Age",
+          "duration": "5:48"
         }
       ]
     },
@@ -288,67 +349,6 @@
           "number": 9,
           "name": "Soul Incarnate (2006 Demo)",
           "duration": "4:28"
-        }
-      ]
-    },
-    {
-      "name": "The Gold & Silver Sessions",
-      "year": "2019",
-      "release_date": "2019-06-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/39/fe/2f/39fe2fa0-c011-7f02-d209-fdc913c38080/760137252115.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Illusory Motion",
-          "duration": "9:53"
-        },
-        {
-          "number": 2,
-          "name": "Im Morgengrauen",
-          "duration": "5:24"
-        },
-        {
-          "number": 3,
-          "name": "Weißensee",
-          "duration": "18:33"
-        }
-      ]
-    },
-    {
-      "name": "Through Zero",
-      "year": "2026",
-      "release_date": "2026-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/31/1b/84311b34-73c0-7a8e-3386-2a0a10a6c25a/760137208594.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sigil to Ruin",
-          "duration": "10:33"
-        },
-        {
-          "number": 2,
-          "name": "Capture / Release",
-          "duration": "8:47"
-        },
-        {
-          "number": 3,
-          "name": "Through Zero",
-          "duration": "9:06"
-        },
-        {
-          "number": 4,
-          "name": "Strata",
-          "duration": "10:48"
-        },
-        {
-          "number": 5,
-          "name": "Sight Unseen",
-          "duration": "8:50"
-        },
-        {
-          "number": 6,
-          "name": "Blighted Age",
-          "duration": "5:48"
         }
       ]
     },

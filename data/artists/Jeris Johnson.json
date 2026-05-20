@@ -240,15 +240,20 @@
       ]
     },
     {
-      "name": "damn!",
-      "year": "2020",
-      "release_date": "2020-09-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/88/e5/7c88e574-d176-a2c7-d9f3-1601772dcab4/810043682886.jpg/600x600bb.jpg",
+      "name": "When the Darkness Comes",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/30/59/2f3059ed-07be-517a-f6ee-00d68f2eb920/617513791235_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "damn!",
-          "duration": "1:54"
+          "name": "When the Darkness Comes",
+          "duration": "3:12"
+        },
+        {
+          "number": 2,
+          "name": "Take Me Away",
+          "duration": "3:11"
         }
       ]
     },
@@ -276,6 +281,19 @@
       ]
     },
     {
+      "name": "damn!",
+      "year": "2020",
+      "release_date": "2020-09-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/88/e5/7c88e574-d176-a2c7-d9f3-1601772dcab4/810043682886.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "damn!",
+          "duration": "1:54"
+        }
+      ]
+    },
+    {
       "name": "Can You Feel My Heart (Remix)",
       "year": "2021",
       "release_date": "2021-03-05",
@@ -289,20 +307,20 @@
       ]
     },
     {
-      "name": "When the Darkness Comes",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/30/59/2f3059ed-07be-517a-f6ee-00d68f2eb920/617513791235_cover.jpg/600x600bb.jpg",
+      "name": "Hell Yeah Brother",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/20/9b/f8209bfa-b10b-4663-e6b0-4da2466ebaf8/656465468710_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "When the Darkness Comes",
-          "duration": "3:12"
+          "name": "Hell Yeah Brother",
+          "duration": "3:08"
         },
         {
           "number": 2,
-          "name": "Take Me Away",
-          "duration": "3:11"
+          "name": "Porn in the U.S.A.",
+          "duration": "4:11"
         }
       ]
     },
@@ -316,6 +334,24 @@
           "number": 1,
           "name": "Kryptonite (Reloaded)",
           "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "BANGDYBANG",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/b8/fe/33b8fe39-56b4-6e15-1c26-afc63afbf241/656465179395_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BANGDYBANG",
+          "duration": "3:18"
+        },
+        {
+          "number": 2,
+          "name": "Hell Yeah Brother",
+          "duration": "3:08"
         }
       ]
     },
@@ -469,24 +505,6 @@
           "number": 1,
           "name": "BURNING RUBBER",
           "duration": "2:13"
-        }
-      ]
-    },
-    {
-      "name": "Hell Yeah Brother",
-      "year": "2026",
-      "release_date": "2026-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/20/9b/f8209bfa-b10b-4663-e6b0-4da2466ebaf8/656465468710_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hell Yeah Brother",
-          "duration": "3:08"
-        },
-        {
-          "number": 2,
-          "name": "Porn in the U.S.A.",
-          "duration": "4:11"
         }
       ]
     },
@@ -673,27 +691,37 @@
           "duration": "1:40"
         }
       ]
-    },
-    {
-      "name": "BANGDYBANG",
-      "year": "2026",
-      "release_date": "2026-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/b8/fe/33b8fe39-56b4-6e15-1c26-afc63afbf241/656465179395_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "BANGDYBANG",
-          "duration": "3:18"
-        },
-        {
-          "number": 2,
-          "name": "Hell Yeah Brother",
-          "duration": "3:08"
-        }
-      ]
     }
   ],
   "eps": [
+    {
+      "name": "John",
+      "year": "2024",
+      "release_date": "2024-03-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/7f/dd/927fdd69-94f3-8521-b356-b682c90f04af/617513990485_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "John",
+          "duration": "3:56"
+        },
+        {
+          "number": 2,
+          "name": "Ode to Metal",
+          "duration": "3:57"
+        },
+        {
+          "number": 3,
+          "name": "When the Darkness Comes",
+          "duration": "3:12"
+        },
+        {
+          "number": 4,
+          "name": "Take Me Away",
+          "duration": "3:11"
+        }
+      ]
+    },
     {
       "name": "my sword",
       "year": "2021",
@@ -757,34 +785,6 @@
           "number": 4,
           "name": "When the Darkness Comes",
           "duration": "3:12"
-        }
-      ]
-    },
-    {
-      "name": "John",
-      "year": "2024",
-      "release_date": "2024-03-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/7f/dd/927fdd69-94f3-8521-b356-b682c90f04af/617513990485_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "John",
-          "duration": "3:56"
-        },
-        {
-          "number": 2,
-          "name": "Ode to Metal",
-          "duration": "3:57"
-        },
-        {
-          "number": 3,
-          "name": "When the Darkness Comes",
-          "duration": "3:12"
-        },
-        {
-          "number": 4,
-          "name": "Take Me Away",
-          "duration": "3:11"
         }
       ]
     },

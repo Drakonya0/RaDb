@@ -227,6 +227,24 @@
   ],
   "singles": [
     {
+      "name": "Tek It/Friction",
+      "year": "2019",
+      "release_date": "2019-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/00/2c/66002c66-9fc6-5a16-654f-8409873352d4/075679747020.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tek It",
+          "duration": "3:11"
+        },
+        {
+          "number": 2,
+          "name": "Friction",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
       "name": "Tek It (I Watch the Moon)",
       "year": "2019",
       "release_date": "2019-01-01",
@@ -246,50 +264,6 @@
           "number": 3,
           "name": "Tek It",
           "duration": "3:11"
-        }
-      ]
-    },
-    {
-      "name": "Tek It/Friction",
-      "year": "2019",
-      "release_date": "2019-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/00/2c/66002c66-9fc6-5a16-654f-8409873352d4/075679747020.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tek It",
-          "duration": "3:11"
-        },
-        {
-          "number": 2,
-          "name": "Friction",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
-      "name": "Tek It (Acoustic)",
-      "year": "2022",
-      "release_date": "2022-06-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/92/3f/c0/923fc023-a2ff-1bd3-e3ed-9adfd7741612/075679740601.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tek It (Acoustic)",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
-      "name": "Don't You Forget",
-      "year": "2016",
-      "release_date": "2016-05-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/01/b2/03/01b20318-ffcb-7053-eb5e-d01b53051dca/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Don't You Forget",
-          "duration": "3:56"
         }
       ]
     },
@@ -321,6 +295,32 @@
           "number": 1,
           "name": "Letting Go",
           "duration": "2:58"
+        }
+      ]
+    },
+    {
+      "name": "Tek It (Acoustic)",
+      "year": "2022",
+      "release_date": "2022-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/92/3f/c0/923fc023-a2ff-1bd3-e3ed-9adfd7741612/075679740601.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tek It (Acoustic)",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Don't You Forget",
+      "year": "2016",
+      "release_date": "2016-05-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/01/b2/03/01b20318-ffcb-7053-eb5e-d01b53051dca/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Don't You Forget",
+          "duration": "3:56"
         }
       ]
     },

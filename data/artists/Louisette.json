@@ -1,177 +1,231 @@
 {
-  "name": "Louisette",
-  "id": 907206902,
-  "albums": [],
+  "name": "Louisette & Amaury",
+  "id": 1682946452,
+  "albums": [
+    {
+      "name": "INFLUENCES",
+      "year": "2025",
+      "release_date": "2025-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/79/f4/0879f49c-2073-b17c-55a6-7bae10243f39/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Les couleurs vives",
+          "duration": "2:26"
+        },
+        {
+          "number": 2,
+          "name": "Allô Maman",
+          "duration": "2:40"
+        },
+        {
+          "number": 3,
+          "name": "Le sweat bleu",
+          "duration": "2:40"
+        },
+        {
+          "number": 4,
+          "name": "Super cool",
+          "duration": "3:04"
+        },
+        {
+          "number": 5,
+          "name": "Mamma mia",
+          "duration": "2:06"
+        },
+        {
+          "number": 6,
+          "name": "Le choix",
+          "duration": "2:20"
+        },
+        {
+          "number": 7,
+          "name": "Jeu de plume (Interlude 70)",
+          "duration": "2:18"
+        },
+        {
+          "number": 8,
+          "name": "Ta fête (la confiture)",
+          "duration": "3:07"
+        },
+        {
+          "number": 9,
+          "name": "Centaines",
+          "duration": "3:05"
+        },
+        {
+          "number": 10,
+          "name": "Les étoiles (outro 80)",
+          "duration": "3:19"
+        }
+      ]
+    }
+  ],
   "singles": [
     {
-      "name": "Micha'el",
-      "year": "2022",
-      "release_date": "2022-11-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ef/2a/ae/ef2aae21-f8d9-ad4f-1ae4-46f8835054f9/859768223585_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Micha'el",
-          "duration": "5:39"
-        }
-      ]
-    },
-    {
-      "name": "I Win",
+      "name": "T'es Qui Toi ?",
       "year": "2025",
-      "release_date": "2025-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/80/87/9c808799-dd2d-45d2-be58-6aabb9a2d6f7/859704602474_cover.jpg/600x600bb.jpg",
+      "release_date": "2025-02-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/e6/30/c3e63074-d9bb-ceda-f500-2b6ee8f3292d/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "I Win",
-          "duration": "3:53"
+          "name": "T'es Qui Toi ?",
+          "duration": "2:44"
         }
       ]
     },
     {
-      "name": "Mieux",
+      "name": "Amour de vacances",
+      "year": "2023",
+      "release_date": "2023-07-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/2c/82/bd2c82e2-618d-485e-a25b-c229dae5a758/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Amour de vacances",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Le sport",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/0d/4b/d80d4be5-5760-68d8-e66c-67ddbdd55f67/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Le sport",
+          "duration": "3:08"
+        }
+      ]
+    },
+    {
+      "name": "De 5 à 7",
+      "year": "2023",
+      "release_date": "2023-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/f5/d5/dbf5d589-a227-ac35-ee18-eb0a86e18e8d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "De 5 à 7",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Dans un bar à Paris",
       "year": "2022",
-      "release_date": "2022-11-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/2c/a0/a42ca0d1-22ee-04b5-9b9e-33038eb406c3/197188622114.jpg/600x600bb.jpg",
+      "release_date": "2022-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/38/37/1c383733-d2cd-4265-4b4e-17ceab88bf19/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dans un bar à Paris",
+          "duration": "2:27"
+        }
+      ]
+    },
+    {
+      "name": "Dégage",
+      "year": "2022",
+      "release_date": "2022-12-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/64/f2/ac64f28d-1d7f-5ccb-c41c-69bd897eb9e1/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dégage",
+          "duration": "2:33"
+        },
+        {
+          "number": 2,
+          "name": "Joue contre joue",
+          "duration": "1:37"
+        }
+      ]
+    },
+    {
+      "name": "Mistral Gagnant",
+      "year": "2023",
+      "release_date": "2023-12-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/e5/81/cde5814e-2813-fb72-ee4a-a65ecc2daf5d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mistral Gagnant",
+          "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "Allô Maman",
+      "year": "2024",
+      "release_date": "2024-02-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/ad/2a/b5ad2a0c-0802-6c3e-c0bc-f76f0aff4872/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Allô Maman",
+          "duration": "2:40"
+        }
+      ]
+    },
+    {
+      "name": "Ta fête (la confiture)",
+      "year": "2025",
+      "release_date": "2025-10-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/cc/4e/c3cc4e1a-17ad-7aee-eeba-a7a4c11e6560/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ta fête (la confiture)",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "La Bonne",
+      "year": "2024",
+      "release_date": "2024-09-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/b8/ad/e3b8ad97-44d0-4b6f-dae2-95e51067a671/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La Bonne",
+          "duration": "3:06"
+        }
+      ]
+    }
+  ],
+  "eps": [
+    {
+      "name": "Mieux (les versions alternatives)",
+      "year": "2023",
+      "release_date": "2023-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/d6/ea/25d6ea91-9431-f23f-7ff3-1f42d75e3246/197188622053.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
           "name": "Mieux",
           "duration": "2:49"
-        }
-      ]
-    },
-    {
-      "name": "Sun",
-      "year": "2020",
-      "release_date": "2020-05-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/05/15/94/05159448-9b61-183f-f1e7-008bded100e1/859739306200_cover.jpg/600x600bb.jpg",
-      "tracks": [
+        },
         {
-          "number": 1,
-          "name": "Sun",
-          "duration": "4:35"
-        }
-      ]
-    },
-    {
-      "name": "I Dreamt of You",
-      "year": "2022",
-      "release_date": "2022-11-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/55/16/76/55167636-d0b1-ca91-6cb0-f6c2f230d266/859768224377_cover.jpg/600x600bb.jpg",
-      "tracks": [
+          "number": 2,
+          "name": "Mieux (Version Stan Lord) [feat. Stan Lord]",
+          "duration": "2:12"
+        },
         {
-          "number": 1,
-          "name": "I Dreamt of You",
-          "duration": "3:11"
-        }
-      ]
-    },
-    {
-      "name": "GENTIL.LE (feat. Louisette)",
-      "year": "2026",
-      "release_date": "2026-01-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/63/fa/3e63fa29-9812-4393-66c5-486b818139fb/artwork.jpg/600x600bb.jpg",
-      "tracks": [
+          "number": 3,
+          "name": "Mieux (Version Margo) [feat. Margo]",
+          "duration": "3:12"
+        },
         {
-          "number": 1,
-          "name": "GENTIL.LE (feat. Louisette)",
-          "duration": "2:53"
-        }
-      ]
-    },
-    {
-      "name": "Kemetic Energy",
-      "year": "2024",
-      "release_date": "2024-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/86/7a/b9867aeb-b293-0354-3e24-702c8e11b045/859785737331_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kemetic Energy",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
-      "name": "Never Succeeded",
-      "year": "2017",
-      "release_date": "2017-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/70/d1/4a/70d14a7a-3188-fef2-8862-ad29176c0764/859723260853_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Never Succeeded",
-          "duration": "4:40"
-        }
-      ]
-    },
-    {
-      "name": "Ride High",
-      "year": "2018",
-      "release_date": "2018-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/46/4c/76/464c76a4-02b8-26bd-13ba-05bdaf2f26e7/859726360246_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ride High",
-          "duration": "4:11"
-        }
-      ]
-    },
-    {
-      "name": "Dopamine Rush",
-      "year": "2017",
-      "release_date": "2017-08-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/62/19/a2/6219a2c2-bb23-879b-f2d0-9a1c95a40ad4/859722997620_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dopamine Rush",
-          "duration": "4:35"
-        }
-      ]
-    },
-    {
-      "name": "New to This",
-      "year": "2017",
-      "release_date": "2017-09-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/21/7a/bb/217abb35-dfe2-0726-84f8-58bd8ba5cd65/859723256207_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "New to This",
-          "duration": "4:49"
-        }
-      ]
-    },
-    {
-      "name": "Lasting Impressions",
-      "year": "2024",
-      "release_date": "2024-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/d1/bd/80d1bdb1-353f-2763-6dc3-6024cd5d91ba/859785736594_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lasting Impressions",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
-      "name": "Leave Me",
-      "year": "2017",
-      "release_date": "2017-12-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/67/98/97/679897f9-347e-adcc-6863-8d3ad46fac30/859724633113_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Leave Me",
-          "duration": "4:59"
+          "number": 4,
+          "name": "Mieux (Version Solair) [feat. Solair]",
+          "duration": "2:49"
         }
       ]
     }
-  ],
-  "eps": []
+  ]
 }

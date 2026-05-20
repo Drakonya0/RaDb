@@ -4,15 +4,28 @@
   "albums": [],
   "singles": [
     {
-      "name": "PLAYBOi",
+      "name": "Beg!",
       "year": "2024",
-      "release_date": "2024-06-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/b8/c0/adb8c0cd-72a1-6a7a-db40-47d386c036c1/db39c386-2d48-49ee-ae58-6a8339d6d75a.jpg/600x600bb.jpg",
+      "release_date": "2024-03-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/7c/28/4e7c284b-4cf1-1c51-74ec-0af3146932a2/cae67aec-1d8e-4623-aa1c-bcbc0cc4066d.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "PLAYBOi",
-          "duration": "2:13"
+          "name": "Beg!",
+          "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "Foggy Windows",
+      "year": "2023",
+      "release_date": "2023-01-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/ce/79/67ce7928-6ab0-eacc-e98e-6682f71f41e2/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Foggy Windows",
+          "duration": "3:33"
         }
       ]
     },
@@ -35,28 +48,15 @@
       ]
     },
     {
-      "name": "Beg!",
+      "name": "PLAYBOi",
       "year": "2024",
-      "release_date": "2024-03-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/7c/28/4e7c284b-4cf1-1c51-74ec-0af3146932a2/cae67aec-1d8e-4623-aa1c-bcbc0cc4066d.jpg/600x600bb.jpg",
+      "release_date": "2024-06-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/b8/c0/adb8c0cd-72a1-6a7a-db40-47d386c036c1/db39c386-2d48-49ee-ae58-6a8339d6d75a.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Beg!",
-          "duration": "2:42"
-        }
-      ]
-    },
-    {
-      "name": "Clandestine",
-      "year": "2024",
-      "release_date": "2024-02-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/16/2d/81/162d81bd-ef18-19b3-a784-1295ed11d34b/d35d5c64-e7bb-47f1-b7ee-49f272729184.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Clandestine",
-          "duration": "3:43"
+          "name": "PLAYBOi",
+          "duration": "2:13"
         }
       ]
     },
@@ -74,6 +74,19 @@
       ]
     },
     {
+      "name": "Clandestine",
+      "year": "2024",
+      "release_date": "2024-02-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/16/2d/81/162d81bd-ef18-19b3-a784-1295ed11d34b/d35d5c64-e7bb-47f1-b7ee-49f272729184.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Clandestine",
+          "duration": "3:43"
+        }
+      ]
+    },
+    {
       "name": "BITE BACK",
       "year": "2025",
       "release_date": "2025-04-18",
@@ -83,19 +96,6 @@
           "number": 1,
           "name": "BITE BACK",
           "duration": "3:45"
-        }
-      ]
-    },
-    {
-      "name": "Foggy Windows",
-      "year": "2023",
-      "release_date": "2023-01-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/ce/79/67ce7928-6ab0-eacc-e98e-6682f71f41e2/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Foggy Windows",
-          "duration": "3:33"
         }
       ]
     },
@@ -165,19 +165,6 @@
       ]
     },
     {
-      "name": "You're Not the Only One",
-      "year": "2022",
-      "release_date": "2022-05-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b4/c3/8c/b4c38c84-c05b-5197-57a7-756076eac7da/859761589435_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You're Not the Only One",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
       "name": "Black Sheep",
       "year": "2022",
       "release_date": "2022-01-21",
@@ -187,6 +174,19 @@
           "number": 1,
           "name": "Black Sheep",
           "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "You're Not the Only One",
+      "year": "2022",
+      "release_date": "2022-05-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b4/c3/8c/b4c38c84-c05b-5197-57a7-756076eac7da/859761589435_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You're Not the Only One",
+          "duration": "3:07"
         }
       ]
     },

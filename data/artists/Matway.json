@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Turn It Up",
-      "year": "2026",
-      "release_date": "2026-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/92/85/3d928582-29d3-1667-8995-323d1da3ebe8/663918949726.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Turn It Up",
-          "duration": "2:05"
-        }
-      ]
-    },
-    {
       "name": "Fire",
       "year": "2026",
       "release_date": "2026-01-02",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "Fire",
           "duration": "1:55"
+        }
+      ]
+    },
+    {
+      "name": "Turn It Up",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/92/85/3d928582-29d3-1667-8995-323d1da3ebe8/663918949726.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Turn It Up",
+          "duration": "2:05"
         }
       ]
     },

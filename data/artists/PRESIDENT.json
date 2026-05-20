@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Angel Wings",
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/c3/8d/44c38d1c-7308-5297-ae32-dcdab1186762/075679591289.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Angel Wings",
-          "duration": "3:52"
-        }
-      ]
-    },
-    {
       "name": "In the Name of the Father",
       "year": "2025",
       "release_date": "2025-05-15",
@@ -30,15 +17,15 @@
       ]
     },
     {
-      "name": "Fearless",
-      "year": "2025",
-      "release_date": "2025-06-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/68/0e/2a680e4f-5060-601b-8d18-22a3221fdce7/5034644708720.jpg/600x600bb.jpg",
+      "name": "Angel Wings",
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/c3/8d/44c38d1c-7308-5297-ae32-dcdab1186762/075679591289.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Fearless",
-          "duration": "3:35"
+          "name": "Angel Wings",
+          "duration": "3:52"
         }
       ]
     },
@@ -56,15 +43,15 @@
       ]
     },
     {
-      "name": "RAGE",
+      "name": "Fearless",
       "year": "2025",
-      "release_date": "2025-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/79/90/c97990c9-2071-3aab-a07c-7585098e26ce/5034644806792.jpg/600x600bb.jpg",
+      "release_date": "2025-06-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/68/0e/2a680e4f-5060-601b-8d18-22a3221fdce7/5034644708720.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "RAGE",
-          "duration": "4:08"
+          "name": "Fearless",
+          "duration": "3:35"
         }
       ]
     },
@@ -78,6 +65,19 @@
           "number": 1,
           "name": "Destroy Me",
           "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "RAGE",
+      "year": "2025",
+      "release_date": "2025-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/79/90/c97990c9-2071-3aab-a07c-7585098e26ce/5034644806792.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "RAGE",
+          "duration": "4:08"
         }
       ]
     }

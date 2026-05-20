@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "YEAH",
-      "year": "2025",
-      "release_date": "2025-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/e1/dd/4fe1dda1-4209-c429-53ea-172c1d41f101/199066812808.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "YEAH",
-          "duration": "2:21"
-        }
-      ]
-    },
-    {
       "name": "Up & Down",
       "year": "2019",
       "release_date": "2019-04-12",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "Up & Down",
           "duration": "2:43"
+        }
+      ]
+    },
+    {
+      "name": "YEAH",
+      "year": "2025",
+      "release_date": "2025-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/e1/dd/4fe1dda1-4209-c429-53ea-172c1d41f101/199066812808.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "YEAH",
+          "duration": "2:21"
         }
       ]
     },
@@ -201,19 +201,6 @@
       ]
     },
     {
-      "name": "Bella Ciao",
-      "year": "2018",
-      "release_date": "2018-06-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/c1/1f/7cc11f37-eb3e-ffee-7125-b42e4db07991/0617465967955.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bella Ciao",
-          "duration": "2:52"
-        }
-      ]
-    },
-    {
       "name": "Home Alone (with Marnik)",
       "year": "2023",
       "release_date": "2023-10-27",
@@ -324,6 +311,19 @@
           "number": 2,
           "name": "Hymn (Till My Kingdom Comes) [Extended Mix]",
           "duration": "3:53"
+        }
+      ]
+    },
+    {
+      "name": "Bella Ciao",
+      "year": "2018",
+      "release_date": "2018-06-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/c1/1f/7cc11f37-eb3e-ffee-7125-b42e4db07991/0617465967955.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bella Ciao",
+          "duration": "2:52"
         }
       ]
     },

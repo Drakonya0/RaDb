@@ -4,6 +4,34 @@
   "albums": [],
   "singles": [
     {
+      "name": "ZAKHELO",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/f0/e5/3ff0e590-3bae-52d2-3830-9f03f4dfd8c5/1219604.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ZAKHELO",
+          "duration": "1:57"
+        },
+        {
+          "number": 2,
+          "name": "ZAKHELO (Slowed)",
+          "duration": "2:08"
+        },
+        {
+          "number": 3,
+          "name": "ZAKHELO (Ultra Slowed)",
+          "duration": "2:21"
+        },
+        {
+          "number": 4,
+          "name": "ZAKHELO (Sped Up)",
+          "duration": "1:48"
+        }
+      ]
+    },
+    {
       "name": "Montagem-Fatal Pr",
       "year": "2023",
       "release_date": "2023-09-11",
@@ -1911,34 +1939,6 @@
       ]
     },
     {
-      "name": "Pisada Solta",
-      "year": "2025",
-      "release_date": "2025-07-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/21/1e/77211e3f-a509-acbc-be4b-899ae7ec75a8/038557020844.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pisada Solta",
-          "duration": "1:34"
-        },
-        {
-          "number": 2,
-          "name": "Pisada Solta (Slowed)",
-          "duration": "1:39"
-        },
-        {
-          "number": 3,
-          "name": "Pisada Solta (Ultra Slowed)",
-          "duration": "1:48"
-        },
-        {
-          "number": 4,
-          "name": "Pisada Solta (Sped Up)",
-          "duration": "1:23"
-        }
-      ]
-    },
-    {
       "name": "Yumeko",
       "year": "2025",
       "release_date": "2025-05-09",
@@ -2047,34 +2047,6 @@
           "number": 4,
           "name": "Sento Ritmonel - Sped Up",
           "duration": "1:50"
-        }
-      ]
-    },
-    {
-      "name": "Mtg Dançar",
-      "year": "2025",
-      "release_date": "2025-11-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/82/20/768220c1-1e66-98ad-5cbc-cc632c0d9863/4262558470537.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mtg Dançar",
-          "duration": "1:19"
-        },
-        {
-          "number": 2,
-          "name": "Mtg Dançar (Slowed)",
-          "duration": "1:23"
-        },
-        {
-          "number": 3,
-          "name": "Mtg Dançar (Ultra Slowed)",
-          "duration": "1:31"
-        },
-        {
-          "number": 4,
-          "name": "Mtg Dançar (Sped Up)",
-          "duration": "1:12"
         }
       ]
     },
@@ -2324,62 +2296,6 @@
           "number": 4,
           "name": "MONTAGEM BOREAL (Sped Up)",
           "duration": "1:22"
-        }
-      ]
-    },
-    {
-      "name": "Funk do Mignon",
-      "year": "2025",
-      "release_date": "2025-11-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/5f/1d/035f1d22-4766-ac40-3eaa-36366fffdd63/4262558470629.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Funk do Mignon",
-          "duration": "1:37"
-        },
-        {
-          "number": 2,
-          "name": "Funk do Mignon (Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 3,
-          "name": "Funk do Mignon (Ultra Slowed)",
-          "duration": "1:54"
-        },
-        {
-          "number": 4,
-          "name": "Funk do Mignon (Sped Up)",
-          "duration": "1:30"
-        }
-      ]
-    },
-    {
-      "name": "gATU",
-      "year": "2025",
-      "release_date": "2025-09-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/5e/b7/975eb774-7c52-53b7-2f1a-807dc59b433b/052599208565.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "gATU",
-          "duration": "1:39"
-        },
-        {
-          "number": 2,
-          "name": "gATU (Slowed)",
-          "duration": "1:48"
-        },
-        {
-          "number": 3,
-          "name": "gATU (Ultra Slowed)",
-          "duration": "1:58"
-        },
-        {
-          "number": 4,
-          "name": "gATU (Sped Up)",
-          "duration": "1:31"
         }
       ]
     },
@@ -3099,34 +3015,6 @@
       ]
     },
     {
-      "name": "Dança no Bailão",
-      "year": "2025",
-      "release_date": "2025-11-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/a7/69/55a769c2-f7d0-1c87-1fcd-2dd6411a6e79/4262558470414.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dança no Bailão",
-          "duration": "1:48"
-        },
-        {
-          "number": 2,
-          "name": "Dança no Bailão (Slowed)",
-          "duration": "1:59"
-        },
-        {
-          "number": 3,
-          "name": "Dança no Bailão (Ultra Slowed)",
-          "duration": "2:11"
-        },
-        {
-          "number": 4,
-          "name": "Dança no Bailão (Sped Up)",
-          "duration": "1:41"
-        }
-      ]
-    },
-    {
       "name": "JAKU",
       "year": "2026",
       "release_date": "2026-03-20",
@@ -3267,34 +3155,6 @@
       ]
     },
     {
-      "name": "Favela Chama",
-      "year": "2025",
-      "release_date": "2025-09-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/a5/48/c7a54839-a820-efff-e742-d2ffd87f7d32/052599550688.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Favela Chama",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "Favela Chama (Slowed)",
-          "duration": "1:41"
-        },
-        {
-          "number": 3,
-          "name": "Favela Chama (Ultra Slowed)",
-          "duration": "1:56"
-        },
-        {
-          "number": 4,
-          "name": "Favela Chama (Sped Up)",
-          "duration": "1:26"
-        }
-      ]
-    },
-    {
       "name": "DANÇA NO BAILÃO",
       "year": "2025",
       "release_date": "2025-11-14",
@@ -3375,34 +3235,6 @@
           "number": 4,
           "name": "SOLO ULTIMO (SPED UP)",
           "duration": "1:09"
-        }
-      ]
-    },
-    {
-      "name": "ZAKHELO",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/f0/e5/3ff0e590-3bae-52d2-3830-9f03f4dfd8c5/1219604.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ZAKHELO",
-          "duration": "1:57"
-        },
-        {
-          "number": 2,
-          "name": "ZAKHELO (Slowed)",
-          "duration": "2:08"
-        },
-        {
-          "number": 3,
-          "name": "ZAKHELO (Ultra Slowed)",
-          "duration": "2:21"
-        },
-        {
-          "number": 4,
-          "name": "ZAKHELO (Sped Up)",
-          "duration": "1:48"
         }
       ]
     },

@@ -3,107 +3,6 @@
   "id": 916015690,
   "albums": [
     {
-      "name": "Sonoran Depravation",
-      "year": "2016",
-      "release_date": "2016-10-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/fe/01/ee/fe01eeb1-9fbd-0071-f337-f74b78fa6278/781676736225.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Craving Flesh",
-          "duration": "3:24"
-        },
-        {
-          "number": 2,
-          "name": "Sterilized",
-          "duration": "2:46"
-        },
-        {
-          "number": 3,
-          "name": "Desperation",
-          "duration": "1:56"
-        },
-        {
-          "number": 4,
-          "name": "Rotting as One",
-          "duration": "2:27"
-        },
-        {
-          "number": 5,
-          "name": "Stronghold",
-          "duration": "3:54"
-        },
-        {
-          "number": 6,
-          "name": "Patriarchal Grip",
-          "duration": "3:50"
-        },
-        {
-          "number": 7,
-          "name": "Lost Forever",
-          "duration": "3:34"
-        },
-        {
-          "number": 8,
-          "name": "Flamethrower",
-          "duration": "3:11"
-        },
-        {
-          "number": 9,
-          "name": "Grotesque Operations",
-          "duration": "5:43"
-        }
-      ]
-    },
-    {
-      "name": "Split",
-      "year": "2018",
-      "release_date": "2018-03-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c6/32/83/c63283fa-5a84-4c28-9d0a-13dafd42412b/781676739127.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Warning",
-          "duration": "2:12"
-        },
-        {
-          "number": 2,
-          "name": "Paper Shredder",
-          "duration": "2:00"
-        },
-        {
-          "number": 3,
-          "name": "Take the Fall",
-          "duration": "2:18"
-        },
-        {
-          "number": 4,
-          "name": "Proudly Unaccountable",
-          "duration": "0:43"
-        },
-        {
-          "number": 5,
-          "name": "Burn for This",
-          "duration": "2:24"
-        },
-        {
-          "number": 6,
-          "name": "Daybreak",
-          "duration": "1:49"
-        },
-        {
-          "number": 7,
-          "name": "Dead Inside",
-          "duration": "3:02"
-        },
-        {
-          "number": 8,
-          "name": "War Has Begun",
-          "duration": "3:33"
-        }
-      ]
-    },
-    {
       "name": "Deserted",
       "year": "2019",
       "release_date": "2019-10-04",
@@ -167,54 +66,6 @@
       ]
     },
     {
-      "name": "An Unexpected Reality",
-      "year": "2021",
-      "release_date": "2021-01-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/24/04/c4/2404c4dd-430d-2481-9423-be4aff2e5d97/195497723003.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Starved",
-          "duration": "1:03"
-        },
-        {
-          "number": 2,
-          "name": "Sick of Being Sober",
-          "duration": "0:58"
-        },
-        {
-          "number": 3,
-          "name": "Rusted Gold",
-          "duration": "0:56"
-        },
-        {
-          "number": 4,
-          "name": "Imposter Syndrome",
-          "duration": "1:07"
-        },
-        {
-          "number": 5,
-          "name": "Amputation",
-          "duration": "0:30"
-        },
-        {
-          "number": 6,
-          "name": "Depraved Not Deprived",
-          "duration": "1:11"
-        },
-        {
-          "number": 7,
-          "name": "Superspreader",
-          "duration": "0:59"
-        },
-        {
-          "number": 8,
-          "name": "Emptiness",
-          "duration": "11:05"
-        }
-      ]
-    },
-    {
       "name": "Dark Superstition",
       "year": "2024",
       "release_date": "2024-05-17",
@@ -269,6 +120,155 @@
           "number": 10,
           "name": "Tears Fall From the Sky",
           "duration": "5:51"
+        }
+      ]
+    },
+    {
+      "name": "Sonoran Depravation",
+      "year": "2016",
+      "release_date": "2016-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/fe/01/ee/fe01eeb1-9fbd-0071-f337-f74b78fa6278/781676736225.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Craving Flesh",
+          "duration": "3:24"
+        },
+        {
+          "number": 2,
+          "name": "Sterilized",
+          "duration": "2:46"
+        },
+        {
+          "number": 3,
+          "name": "Desperation",
+          "duration": "1:56"
+        },
+        {
+          "number": 4,
+          "name": "Rotting as One",
+          "duration": "2:27"
+        },
+        {
+          "number": 5,
+          "name": "Stronghold",
+          "duration": "3:54"
+        },
+        {
+          "number": 6,
+          "name": "Patriarchal Grip",
+          "duration": "3:50"
+        },
+        {
+          "number": 7,
+          "name": "Lost Forever",
+          "duration": "3:34"
+        },
+        {
+          "number": 8,
+          "name": "Flamethrower",
+          "duration": "3:11"
+        },
+        {
+          "number": 9,
+          "name": "Grotesque Operations",
+          "duration": "5:43"
+        }
+      ]
+    },
+    {
+      "name": "An Unexpected Reality",
+      "year": "2021",
+      "release_date": "2021-01-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/24/04/c4/2404c4dd-430d-2481-9423-be4aff2e5d97/195497723003.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Starved",
+          "duration": "1:03"
+        },
+        {
+          "number": 2,
+          "name": "Sick of Being Sober",
+          "duration": "0:58"
+        },
+        {
+          "number": 3,
+          "name": "Rusted Gold",
+          "duration": "0:56"
+        },
+        {
+          "number": 4,
+          "name": "Imposter Syndrome",
+          "duration": "1:07"
+        },
+        {
+          "number": 5,
+          "name": "Amputation",
+          "duration": "0:30"
+        },
+        {
+          "number": 6,
+          "name": "Depraved Not Deprived",
+          "duration": "1:11"
+        },
+        {
+          "number": 7,
+          "name": "Superspreader",
+          "duration": "0:59"
+        },
+        {
+          "number": 8,
+          "name": "Emptiness",
+          "duration": "11:05"
+        }
+      ]
+    },
+    {
+      "name": "Split",
+      "year": "2018",
+      "release_date": "2018-03-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c6/32/83/c63283fa-5a84-4c28-9d0a-13dafd42412b/781676739127.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Warning",
+          "duration": "2:12"
+        },
+        {
+          "number": 2,
+          "name": "Paper Shredder",
+          "duration": "2:00"
+        },
+        {
+          "number": 3,
+          "name": "Take the Fall",
+          "duration": "2:18"
+        },
+        {
+          "number": 4,
+          "name": "Proudly Unaccountable",
+          "duration": "0:43"
+        },
+        {
+          "number": 5,
+          "name": "Burn for This",
+          "duration": "2:24"
+        },
+        {
+          "number": 6,
+          "name": "Daybreak",
+          "duration": "1:49"
+        },
+        {
+          "number": 7,
+          "name": "Dead Inside",
+          "duration": "3:02"
+        },
+        {
+          "number": 8,
+          "name": "War Has Begun",
+          "duration": "3:33"
         }
       ]
     },

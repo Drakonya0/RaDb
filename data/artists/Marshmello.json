@@ -3,6 +3,59 @@
   "id": 980795202,
   "albums": [
     {
+      "name": "Joytime II",
+      "year": "2018",
+      "release_date": "2018-06-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/84/4d/a9/844da908-8b7a-4426-5b40-6fa79cdce89c/859727273439_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stars",
+          "duration": "4:06"
+        },
+        {
+          "number": 2,
+          "name": "Together",
+          "duration": "4:06"
+        },
+        {
+          "number": 3,
+          "name": "Rooftops",
+          "duration": "2:57"
+        },
+        {
+          "number": 4,
+          "name": "Check This Out",
+          "duration": "3:39"
+        },
+        {
+          "number": 5,
+          "name": "Flashbacks",
+          "duration": "2:45"
+        },
+        {
+          "number": 6,
+          "name": "Tell Me",
+          "duration": "2:38"
+        },
+        {
+          "number": 7,
+          "name": "Paralyzed",
+          "duration": "3:39"
+        },
+        {
+          "number": 8,
+          "name": "Power",
+          "duration": "3:42"
+        },
+        {
+          "number": 9,
+          "name": "Imagine",
+          "duration": "3:51"
+        }
+      ]
+    },
+    {
       "name": "Joytime",
       "year": "2016",
       "release_date": "2016-01-08",
@@ -57,59 +110,6 @@
           "number": 10,
           "name": "Keep It Mello (feat. Omar LinX)",
           "duration": "4:03"
-        }
-      ]
-    },
-    {
-      "name": "Joytime II",
-      "year": "2018",
-      "release_date": "2018-06-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/84/4d/a9/844da908-8b7a-4426-5b40-6fa79cdce89c/859727273439_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stars",
-          "duration": "4:06"
-        },
-        {
-          "number": 2,
-          "name": "Together",
-          "duration": "4:06"
-        },
-        {
-          "number": 3,
-          "name": "Rooftops",
-          "duration": "2:57"
-        },
-        {
-          "number": 4,
-          "name": "Check This Out",
-          "duration": "3:39"
-        },
-        {
-          "number": 5,
-          "name": "Flashbacks",
-          "duration": "2:45"
-        },
-        {
-          "number": 6,
-          "name": "Tell Me",
-          "duration": "2:38"
-        },
-        {
-          "number": 7,
-          "name": "Paralyzed",
-          "duration": "3:39"
-        },
-        {
-          "number": 8,
-          "name": "Power",
-          "duration": "3:42"
-        },
-        {
-          "number": 9,
-          "name": "Imagine",
-          "duration": "3:51"
         }
       ]
     },
@@ -187,64 +187,6 @@
       ]
     },
     {
-      "name": "Sugar Papi",
-      "year": "2023",
-      "release_date": "2023-11-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ae/b3/a6/aeb3a655-87d4-0df6-7e0f-1248611141ac/196871593472.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tempo",
-          "duration": "1:47"
-        },
-        {
-          "number": 2,
-          "name": "Tusi",
-          "duration": "2:39"
-        },
-        {
-          "number": 3,
-          "name": "El Merengue",
-          "duration": "3:09"
-        },
-        {
-          "number": 4,
-          "name": "Como Yo :(",
-          "duration": "2:21"
-        },
-        {
-          "number": 5,
-          "name": "Alcohol",
-          "duration": "2:51"
-        },
-        {
-          "number": 6,
-          "name": "Esta Vida",
-          "duration": "3:29"
-        },
-        {
-          "number": 7,
-          "name": "Super High",
-          "duration": "2:29"
-        },
-        {
-          "number": 8,
-          "name": "Say Woah!",
-          "duration": "2:17"
-        },
-        {
-          "number": 9,
-          "name": "Dónde Están Que No Los Veo",
-          "duration": "3:33"
-        },
-        {
-          "number": 10,
-          "name": "Sou Musa do Verão",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
       "name": "Shockwave",
       "year": "2021",
       "release_date": "2021-06-11",
@@ -309,6 +251,64 @@
           "number": 12,
           "name": "Shockwave",
           "duration": "3:01"
+        }
+      ]
+    },
+    {
+      "name": "Sugar Papi",
+      "year": "2023",
+      "release_date": "2023-11-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ae/b3/a6/aeb3a655-87d4-0df6-7e0f-1248611141ac/196871593472.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tempo",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "Tusi",
+          "duration": "2:39"
+        },
+        {
+          "number": 3,
+          "name": "El Merengue",
+          "duration": "3:09"
+        },
+        {
+          "number": 4,
+          "name": "Como Yo :(",
+          "duration": "2:21"
+        },
+        {
+          "number": 5,
+          "name": "Alcohol",
+          "duration": "2:51"
+        },
+        {
+          "number": 6,
+          "name": "Esta Vida",
+          "duration": "3:29"
+        },
+        {
+          "number": 7,
+          "name": "Super High",
+          "duration": "2:29"
+        },
+        {
+          "number": 8,
+          "name": "Say Woah!",
+          "duration": "2:17"
+        },
+        {
+          "number": 9,
+          "name": "Dónde Están Que No Los Veo",
+          "duration": "3:33"
+        },
+        {
+          "number": 10,
+          "name": "Sou Musa do Verão",
+          "duration": "3:07"
         }
       ]
     },
@@ -663,6 +663,19 @@
       ]
     },
     {
+      "name": "Fly (feat. Leah Culver)",
+      "year": "2018",
+      "release_date": "2018-03-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d8/a4/a6/d8a4a6ab-5f87-9b78-2a68-946bca50b3db/859725647980_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fly (feat. Leah Culver)",
+          "duration": "3:13"
+        }
+      ]
+    },
+    {
       "name": "Silence (feat. Khalid)",
       "year": "2017",
       "release_date": "2017-08-11",
@@ -672,6 +685,19 @@
           "number": 1,
           "name": "Silence (feat. Khalid)",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Wolves",
+      "year": "2017",
+      "release_date": "2017-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3a/e5/12/3ae51282-a318-71d1-085f-f4d621de44e6/17UM1IM41679.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wolves",
+          "duration": "3:17"
         }
       ]
     },
@@ -702,67 +728,28 @@
       ]
     },
     {
-      "name": "Wolves",
-      "year": "2017",
-      "release_date": "2017-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3a/e5/12/3ae51282-a318-71d1-085f-f4d621de44e6/17UM1IM41679.rgb.jpg/600x600bb.jpg",
+      "name": "Holy Water",
+      "year": "2025",
+      "release_date": "2025-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/ba/90/02ba9034-ea76-1e05-912c-7175832ee8e0/25UMGIM99610.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Wolves",
-          "duration": "3:17"
+          "name": "Holy Water",
+          "duration": "2:29"
         }
       ]
     },
     {
-      "name": "Rescue Me (feat. A Day to Remember)",
-      "year": "2019",
-      "release_date": "2019-06-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/6a/b5/a86ab507-dc47-aaa6-632f-3cc530a53a8a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rescue Me (feat. A Day to Remember)",
-          "duration": "3:57"
-        }
-      ]
-    },
-    {
-      "name": "Numb",
-      "year": "2022",
-      "release_date": "2022-06-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b8/89/cc/b889ccdd-ce21-16ce-beab-15c9d8fd1a51/196589226488.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Numb",
-          "duration": "2:35"
-        }
-      ]
-    },
-    {
-      "name": "Fly (feat. Leah Culver)",
+      "name": "Spotlight",
       "year": "2018",
-      "release_date": "2018-03-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d8/a4/a6/d8a4a6ab-5f87-9b78-2a68-946bca50b3db/859725647980_cover.jpg/600x600bb.jpg",
+      "release_date": "2018-01-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/30/22/ee3022b8-fdac-bd5a-b566-6a93c7203055/859724749470_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Fly (feat. Leah Culver)",
-          "duration": "3:13"
-        }
-      ]
-    },
-    {
-      "name": "El Merengue",
-      "year": "2023",
-      "release_date": "2023-03-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/96/ab/9596ab7c-86fc-2331-55c2-aad731dc95ec/196589880208.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "El Merengue",
-          "duration": "3:09"
+          "name": "Spotlight",
+          "duration": "2:57"
         }
       ]
     },
@@ -780,15 +767,54 @@
       ]
     },
     {
-      "name": "Spotlight",
-      "year": "2018",
-      "release_date": "2018-01-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/30/22/ee3022b8-fdac-bd5a-b566-6a93c7203055/859724749470_cover.jpg/600x600bb.jpg",
+      "name": "Slow Motion",
+      "year": "2025",
+      "release_date": "2025-01-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/6c/cc/356ccceb-c850-e128-ae98-41850e056ddf/25UMGIM02040.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Spotlight",
-          "duration": "2:57"
+          "name": "Slow Motion",
+          "duration": "2:31"
+        }
+      ]
+    },
+    {
+      "name": "Rescue Me (feat. A Day to Remember)",
+      "year": "2019",
+      "release_date": "2019-06-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/6a/b5/a86ab507-dc47-aaa6-632f-3cc530a53a8a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rescue Me (feat. A Day to Remember)",
+          "duration": "3:57"
+        }
+      ]
+    },
+    {
+      "name": "Be Kind (Surf Mesa Remix)",
+      "year": "2020",
+      "release_date": "2020-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/58/07/cc/5807ccae-8514-b674-aa97-f0f4924b1b79/20UMGIM48059.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Be Kind (Surf Mesa Remix)",
+          "duration": "2:54"
+        }
+      ]
+    },
+    {
+      "name": "Numb",
+      "year": "2022",
+      "release_date": "2022-06-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b8/89/cc/b889ccdd-ce21-16ce-beab-15c9d8fd1a51/196589226488.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Numb",
+          "duration": "2:35"
         }
       ]
     },
@@ -819,54 +845,15 @@
       ]
     },
     {
-      "name": "Holy Water",
-      "year": "2025",
-      "release_date": "2025-08-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/ba/90/02ba9034-ea76-1e05-912c-7175832ee8e0/25UMGIM99610.rgb.jpg/600x600bb.jpg",
+      "name": "One Thing Right",
+      "year": "2019",
+      "release_date": "2019-06-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/a9/33/16a933e3-b446-d7aa-3240-1da0f047eefc/886447798775.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Holy Water",
-          "duration": "2:29"
-        }
-      ]
-    },
-    {
-      "name": "Bye Bye",
-      "year": "2022",
-      "release_date": "2022-10-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/44/1d/b2/441db24c-f32b-aa6e-43f0-c4d0f1d7bab2/22UM1IM15480.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bye Bye",
-          "duration": "1:48"
-        }
-      ]
-    },
-    {
-      "name": "Save My Love",
-      "year": "2025",
-      "release_date": "2025-06-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/82/fe/e082fe63-8c16-804d-d12e-2102e18632bc/25UMGIM77366.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Save My Love",
-          "duration": "3:35"
-        }
-      ]
-    },
-    {
-      "name": "Other Boys",
-      "year": "2023",
-      "release_date": "2023-09-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/21/65/172165cc-42f7-75e9-fd0a-877ed65af950/196871429405.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Other Boys",
-          "duration": "2:17"
+          "name": "One Thing Right",
+          "duration": "3:01"
         }
       ]
     },
@@ -884,15 +871,28 @@
       ]
     },
     {
-      "name": "One Thing Right",
-      "year": "2019",
-      "release_date": "2019-06-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/a9/33/16a933e3-b446-d7aa-3240-1da0f047eefc/886447798775.jpg/600x600bb.jpg",
+      "name": "El Merengue",
+      "year": "2023",
+      "release_date": "2023-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/96/ab/9596ab7c-86fc-2331-55c2-aad731dc95ec/196589880208.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "One Thing Right",
-          "duration": "3:01"
+          "name": "El Merengue",
+          "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Save My Love",
+      "year": "2025",
+      "release_date": "2025-06-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/82/fe/e082fe63-8c16-804d-d12e-2102e18632bc/25UMGIM77366.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Save My Love",
+          "duration": "3:35"
         }
       ]
     },
@@ -906,19 +906,6 @@
           "number": 1,
           "name": "Silence (feat. Khalid) [Illenium Remix]",
           "duration": "3:25"
-        }
-      ]
-    },
-    {
-      "name": "We Don’t Get Along",
-      "year": "2026",
-      "release_date": "2026-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/7a/b9/b47ab95d-848d-d882-54ce-13f4ef286874/198704875717_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "We Don’t Get Along",
-          "duration": "2:29"
         }
       ]
     },
@@ -949,6 +936,32 @@
       ]
     },
     {
+      "name": "Here With Me (feat. CHVRCHES)",
+      "year": "2019",
+      "release_date": "2019-03-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/18/7f/60187f66-42da-aae6-8dc5-c98254986e4e/96.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Here With Me (feat. CHVRCHES)",
+          "duration": "2:36"
+        }
+      ]
+    },
+    {
+      "name": "Where We Go",
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/b4/79/e4b47929-76a2-14b1-8629-36ff3746d04b/26UMGIM39599.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Where We Go",
+          "duration": "3:16"
+        }
+      ]
+    },
+    {
       "name": "You & Me",
       "year": "2017",
       "release_date": "2017-10-20",
@@ -958,19 +971,6 @@
           "number": 1,
           "name": "You & Me",
           "duration": "3:10"
-        }
-      ]
-    },
-    {
-      "name": "You Can Cry (feat. James Arthur)",
-      "year": "2018",
-      "release_date": "2018-05-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7f/37/68/7f37686a-6166-051b-5f31-ee90c3382003/886447087626.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You Can Cry (feat. James Arthur)",
-          "duration": "3:14"
         }
       ]
     },
@@ -1001,41 +1001,28 @@
       ]
     },
     {
-      "name": "Slow Motion",
-      "year": "2025",
-      "release_date": "2025-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/6c/cc/356ccceb-c850-e128-ae98-41850e056ddf/25UMGIM02040.rgb.jpg/600x600bb.jpg",
+      "name": "You Can Cry (feat. James Arthur)",
+      "year": "2018",
+      "release_date": "2018-05-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7f/37/68/7f37686a-6166-051b-5f31-ee90c3382003/886447087626.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Slow Motion",
-          "duration": "2:31"
+          "name": "You Can Cry (feat. James Arthur)",
+          "duration": "3:14"
         }
       ]
     },
     {
-      "name": "Here With Me (feat. CHVRCHES)",
-      "year": "2019",
-      "release_date": "2019-03-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/18/7f/60187f66-42da-aae6-8dc5-c98254986e4e/96.jpg/600x600bb.jpg",
+      "name": "Bye Bye",
+      "year": "2022",
+      "release_date": "2022-10-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/44/1d/b2/441db24c-f32b-aa6e-43f0-c4d0f1d7bab2/22UM1IM15480.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Here With Me (feat. CHVRCHES)",
-          "duration": "2:36"
-        }
-      ]
-    },
-    {
-      "name": "Where We Go",
-      "year": "2026",
-      "release_date": "2026-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/b4/79/e4b47929-76a2-14b1-8629-36ff3746d04b/26UMGIM39599.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Where We Go",
-          "duration": "3:16"
+          "name": "Bye Bye",
+          "duration": "1:48"
         }
       ]
     },
@@ -1066,15 +1053,28 @@
       ]
     },
     {
-      "name": "Water",
+      "name": "Other Boys",
       "year": "2023",
-      "release_date": "2023-11-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d6/83/24/d6832411-cf74-46dd-b125-f65a3f015d11/196871628358.jpg/600x600bb.jpg",
+      "release_date": "2023-09-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/21/65/172165cc-42f7-75e9-fd0a-877ed65af950/196871429405.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Water",
-          "duration": "3:11"
+          "name": "Other Boys",
+          "duration": "2:17"
+        }
+      ]
+    },
+    {
+      "name": "We Don’t Get Along",
+      "year": "2026",
+      "release_date": "2026-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/7a/b9/b47ab95d-848d-d882-54ce-13f4ef286874/198704875717_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "We Don’t Get Along",
+          "duration": "2:29"
         }
       ]
     },
@@ -1131,19 +1131,6 @@
       ]
     },
     {
-      "name": "Let Me Love You (feat. Justin Bieber) [Marshmello Remix]",
-      "year": "2016",
-      "release_date": "2016-12-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/85/a4/a3/85a4a36a-7f1a-f167-3a7d-8cec6543741b/00602557325423.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Let Me Love You (feat. Justin Bieber) [Marshmello Remix]",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
       "name": "Everyday",
       "year": "2018",
       "release_date": "2018-03-02",
@@ -1179,32 +1166,6 @@
           "number": 1,
           "name": "Too Much (feat. Usher)",
           "duration": "2:45"
-        }
-      ]
-    },
-    {
-      "name": "Be Kind (Surf Mesa Remix)",
-      "year": "2020",
-      "release_date": "2020-06-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/58/07/cc/5807ccae-8514-b674-aa97-f0f4924b1b79/20UMGIM48059.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Be Kind (Surf Mesa Remix)",
-          "duration": "2:54"
-        }
-      ]
-    },
-    {
-      "name": "FRIENDS",
-      "year": "2018",
-      "release_date": "2018-02-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/e3/a3/28e3a359-b115-96b5-62d1-9bbac21b6a8c/222.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FRIENDS",
-          "duration": "3:21"
         }
       ]
     },
@@ -1248,6 +1209,19 @@
       ]
     },
     {
+      "name": "El Merengue (HUGEL Remix)",
+      "year": "2023",
+      "release_date": "2023-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2a/f5/f2/2af5f209-b9eb-748a-dca5-50c6bccd8646/196871151894.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "El Merengue (HUGEL Remix)",
+          "duration": "2:48"
+        }
+      ]
+    },
+    {
       "name": "Tell Me",
       "year": "2018",
       "release_date": "2018-06-08",
@@ -1257,19 +1231,6 @@
           "number": 1,
           "name": "Tell Me",
           "duration": "2:38"
-        }
-      ]
-    },
-    {
-      "name": "Bye Bye",
-      "year": "2022",
-      "release_date": "2022-10-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e8/0b/32/e80b32cf-c342-0577-c892-0b2f12488aa0/22UM1IM16334.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bye Bye",
-          "duration": "1:48"
         }
       ]
     },
@@ -1327,15 +1288,15 @@
       "tracks": []
     },
     {
-      "name": "Wolves (MOTi Remix)",
-      "year": "2018",
-      "release_date": "2018-02-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/3b/de/143bde1f-def7-31f2-177c-5d81a5c9a0ac/00602567510383.jpg/600x600bb.jpg",
+      "name": "Water",
+      "year": "2023",
+      "release_date": "2023-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d6/83/24/d6832411-cf74-46dd-b125-f65a3f015d11/196871628358.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Wolves (MOTi Remix)",
-          "duration": "3:04"
+          "name": "Water",
+          "duration": "3:11"
         }
       ]
     },
@@ -1353,28 +1314,15 @@
       ]
     },
     {
-      "name": "OK Not to Be OK (Duke & Jones Remix)",
-      "year": "2020",
-      "release_date": "2020-10-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7a/41/db/7a41dbff-46c6-7826-2d7b-b032bbf42b84/20UMGIM80899.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "OK Not to Be OK (Duke & Jones Remix)",
-          "duration": "2:34"
-        }
-      ]
-    },
-    {
-      "name": "Fell In Love",
+      "name": "El Merengue (ESSEL Remix)",
       "year": "2023",
-      "release_date": "2023-05-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/66/cf/5866cf5e-9dfe-1c37-0968-1b868c9705cf/cover.jpg/600x600bb.jpg",
+      "release_date": "2023-05-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3f/a5/bb/3fa5bbaf-d30b-d4d6-4651-4071121aea29/196871178938.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Fell In Love",
-          "duration": "2:01"
+          "name": "El Merengue (ESSEL Remix)",
+          "duration": "2:30"
         }
       ]
     },
@@ -1388,6 +1336,19 @@
           "number": 1,
           "name": "Be Kind (Stripped)",
           "duration": "2:53"
+        }
+      ]
+    },
+    {
+      "name": "FRIENDS",
+      "year": "2018",
+      "release_date": "2018-02-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/e3/a3/28e3a359-b115-96b5-62d1-9bbac21b6a8c/222.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FRIENDS",
+          "duration": "3:21"
         }
       ]
     },
@@ -1418,6 +1379,19 @@
       ]
     },
     {
+      "name": "Let Me Love You (feat. Justin Bieber) [Marshmello Remix]",
+      "year": "2016",
+      "release_date": "2016-12-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/85/a4/a3/85a4a36a-7f1a-f167-3a7d-8cec6543741b/00602557325423.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Let Me Love You (feat. Justin Bieber) [Marshmello Remix]",
+          "duration": "3:00"
+        }
+      ]
+    },
+    {
       "name": "Silence (feat. Khalid) [Rude Kid Remix]",
       "year": "2017",
       "release_date": "2017-10-24",
@@ -1427,6 +1401,19 @@
           "number": 1,
           "name": "Silence (feat. Khalid) [Rude Kid Remix]",
           "duration": "3:32"
+        }
+      ]
+    },
+    {
+      "name": "OK Not to Be OK (Duke & Jones Remix)",
+      "year": "2020",
+      "release_date": "2020-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7a/41/db/7a41dbff-46c6-7826-2d7b-b032bbf42b84/20UMGIM80899.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "OK Not to Be OK (Duke & Jones Remix)",
+          "duration": "2:34"
         }
       ]
     },
@@ -1457,15 +1444,28 @@
       ]
     },
     {
-      "name": "Be Kind (Joy Club Remix)",
-      "year": "2020",
-      "release_date": "2020-07-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/82/fd/b082fd25-a4c2-5c2c-e964-29cc46cd9c13/20UMGIM56819.rgb.jpg/600x600bb.jpg",
+      "name": "Fell In Love",
+      "year": "2023",
+      "release_date": "2023-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/58/66/cf/5866cf5e-9dfe-1c37-0968-1b868c9705cf/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Be Kind (Joy Club Remix)",
-          "duration": "2:57"
+          "name": "Fell In Love",
+          "duration": "2:01"
+        }
+      ]
+    },
+    {
+      "name": "Wolves (MOTi Remix)",
+      "year": "2018",
+      "release_date": "2018-02-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/3b/de/143bde1f-def7-31f2-177c-5d81a5c9a0ac/00602567510383.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wolves (MOTi Remix)",
+          "duration": "3:04"
         }
       ]
     },
@@ -1522,6 +1522,32 @@
       ]
     },
     {
+      "name": "Bye Bye",
+      "year": "2022",
+      "release_date": "2022-10-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e8/0b/32/e80b32cf-c342-0577-c892-0b2f12488aa0/22UM1IM16334.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bye Bye",
+          "duration": "1:48"
+        }
+      ]
+    },
+    {
+      "name": "Fired Up",
+      "year": "2024",
+      "release_date": "2024-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/85/20/1185208d-afc7-f90c-13fa-6705613dc457/723277905983.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fired Up",
+          "duration": "3:08"
+        }
+      ]
+    },
+    {
       "name": "You Can Cry (Remixes)",
       "year": "2018",
       "release_date": "2018-06-15",
@@ -1566,6 +1592,19 @@
       ]
     },
     {
+      "name": "Be Kind (Joy Club Remix)",
+      "year": "2020",
+      "release_date": "2020-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b0/82/fd/b082fd25-a4c2-5c2c-e964-29cc46cd9c13/20UMGIM56819.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Be Kind (Joy Club Remix)",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
       "name": "Been Thru This Before (feat. Giggs, SAINt JHN)",
       "year": "2020",
       "release_date": "2020-04-03",
@@ -1575,19 +1614,6 @@
           "number": 1,
           "name": "Been Thru This Before (feat. Giggs, SAINt JHN)",
           "duration": "3:27"
-        }
-      ]
-    },
-    {
-      "name": "Phoenix",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/ac/98/a5ac9830-05e9-a9d3-e854-8242b2678359/1280598.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Phoenix",
-          "duration": "2:24"
         }
       ]
     },
@@ -1865,6 +1891,19 @@
       ]
     },
     {
+      "name": "Phoenix",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/ac/98/a5ac9830-05e9-a9d3-e854-8242b2678359/1280598.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Phoenix",
+          "duration": "2:24"
+        }
+      ]
+    },
+    {
       "name": "Too Much (feat. Usher) [Alle Farben Remix]",
       "year": "2021",
       "release_date": "2021-01-22",
@@ -2134,19 +2173,6 @@
       ]
     },
     {
-      "name": "El Merengue (HUGEL Remix)",
-      "year": "2023",
-      "release_date": "2023-05-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2a/f5/f2/2af5f209-b9eb-748a-dca5-50c6bccd8646/196871151894.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "El Merengue (HUGEL Remix)",
-          "duration": "2:48"
-        }
-      ]
-    },
-    {
       "name": "Again",
       "year": "2023",
       "release_date": "2023-02-17",
@@ -2208,6 +2234,19 @@
           "number": 1,
           "name": "Marshmaellow (feat. Marshmello & Chvrches)",
           "duration": "1:25"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/c3/d2/19c3d2b5-c609-afb0-e414-8132314746d5/2011818.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Phoenix",
+          "duration": "2:24"
         }
       ]
     },
@@ -2373,19 +2412,6 @@
       ]
     },
     {
-      "name": "El Merengue (ESSEL Remix)",
-      "year": "2023",
-      "release_date": "2023-05-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3f/a5/bb/3fa5bbaf-d30b-d4d6-4651-4071121aea29/196871178938.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "El Merengue (ESSEL Remix)",
-          "duration": "2:30"
-        }
-      ]
-    },
-    {
       "name": "Fell In Love",
       "year": "2023",
       "release_date": "2023-05-05",
@@ -2499,19 +2525,6 @@
           "number": 1,
           "name": "Bad Boys (BARELY ALIVE & YDG Remix)",
           "duration": "2:05"
-        }
-      ]
-    },
-    {
-      "name": "Fired Up",
-      "year": "2024",
-      "release_date": "2024-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/85/20/1185208d-afc7-f90c-13fa-6705613dc457/723277905983.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fired Up",
-          "duration": "3:08"
         }
       ]
     },
@@ -2931,19 +2944,6 @@
       ]
     },
     {
-      "name": "Phoenix",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/c3/d2/19c3d2b5-c609-afb0-e414-8132314746d5/2011818.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Phoenix",
-          "duration": "2:24"
-        }
-      ]
-    },
-    {
       "name": "FRIENDS (Justin Caruso Remix)",
       "year": "2018",
       "release_date": "2018-06-22",
@@ -3056,6 +3056,29 @@
       ]
     },
     {
+      "name": "Roll the Dice",
+      "year": "2019",
+      "release_date": "2019-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/09/09/db/0909dbf2-f364-a64d-cc21-5af00ef37b10/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Roll the Dice",
+          "duration": "2:27"
+        },
+        {
+          "number": 2,
+          "name": "Don't Save Me",
+          "duration": "3:06"
+        },
+        {
+          "number": 3,
+          "name": "First Place",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
       "name": "MELLODEATH Tapes Vol. I",
       "year": "2024",
       "release_date": "2024-03-08",
@@ -3089,25 +3112,30 @@
       ]
     },
     {
-      "name": "Roll the Dice",
-      "year": "2019",
-      "release_date": "2019-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/09/09/db/0909dbf2-f364-a64d-cc21-5af00ef37b10/cover.jpg/600x600bb.jpg",
+      "name": "Happier (feat. Bastille) [Remixes]",
+      "year": "2018",
+      "release_date": "2018-10-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/74/7a/2d/747a2d9c-6445-6426-49e0-6112e454319f/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Roll the Dice",
-          "duration": "2:27"
+          "name": "Happier (feat. Bastille) [Frank Walker Remix]",
+          "duration": "3:16"
         },
         {
           "number": 2,
-          "name": "Don't Save Me",
-          "duration": "3:06"
+          "name": "Happier (feat. Bastille) [Breathe Carolina Remix]",
+          "duration": "2:38"
         },
         {
           "number": 3,
-          "name": "First Place",
-          "duration": "3:03"
+          "name": "Happier (feat. Bastille) [SPENCE Remix]",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Happier (feat. Bastille) [Blanke Remix]",
+          "duration": "3:21"
         }
       ]
     },
@@ -3184,34 +3212,6 @@
           "number": 6,
           "name": "Movement",
           "duration": "3:12"
-        }
-      ]
-    },
-    {
-      "name": "Happier (feat. Bastille) [Remixes]",
-      "year": "2018",
-      "release_date": "2018-10-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/74/7a/2d/747a2d9c-6445-6426-49e0-6112e454319f/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Happier (feat. Bastille) [Frank Walker Remix]",
-          "duration": "3:16"
-        },
-        {
-          "number": 2,
-          "name": "Happier (feat. Bastille) [Breathe Carolina Remix]",
-          "duration": "2:38"
-        },
-        {
-          "number": 3,
-          "name": "Happier (feat. Bastille) [SPENCE Remix]",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "Happier (feat. Bastille) [Blanke Remix]",
-          "duration": "3:21"
         }
       ]
     },
