@@ -264,6 +264,34 @@
       ]
     },
     {
+      "name": "Ghost Stations",
+      "year": "2016",
+      "release_date": "2016-08-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0e/27/47/0e27478b-cfbf-d1c5-924c-afe4e149a3f5/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sleeper",
+          "duration": "10:00"
+        },
+        {
+          "number": 2,
+          "name": "Remnants / Shadow Scheme",
+          "duration": "12:00"
+        },
+        {
+          "number": 3,
+          "name": "Abandoned / In Silence",
+          "duration": "14:21"
+        },
+        {
+          "number": 4,
+          "name": "Riser",
+          "duration": "10:06"
+        }
+      ]
+    },
+    {
       "name": "The Fear of Never Landing",
       "year": "2025",
       "release_date": "2025-06-06",
@@ -356,34 +384,6 @@
           "number": 7,
           "name": "Looking Through the Ilex",
           "duration": "7:56"
-        }
-      ]
-    },
-    {
-      "name": "Ghost Stations",
-      "year": "2016",
-      "release_date": "2016-08-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0e/27/47/0e27478b-cfbf-d1c5-924c-afe4e149a3f5/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sleeper",
-          "duration": "10:00"
-        },
-        {
-          "number": 2,
-          "name": "Remnants / Shadow Scheme",
-          "duration": "12:00"
-        },
-        {
-          "number": 3,
-          "name": "Abandoned / In Silence",
-          "duration": "14:21"
-        },
-        {
-          "number": 4,
-          "name": "Riser",
-          "duration": "10:06"
         }
       ]
     },
@@ -639,6 +639,19 @@
       ]
     },
     {
+      "name": "A.M.I.D. (Edit)",
+      "year": "2019",
+      "release_date": "2019-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a3/9f/71/a39f71be-37f3-11a3-26a9-8e6faa538a31/dj.exzrvitp.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A.M.I.D. (Edit)",
+          "duration": "4:06"
+        }
+      ]
+    },
+    {
       "name": "Strata",
       "year": "2021",
       "release_date": "2021-09-01",
@@ -653,19 +666,6 @@
           "number": 2,
           "name": "Strata (Edit)",
           "duration": "4:32"
-        }
-      ]
-    },
-    {
-      "name": "A.M.I.D. (Edit)",
-      "year": "2019",
-      "release_date": "2019-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a3/9f/71/a39f71be-37f3-11a3-26a9-8e6faa538a31/dj.exzrvitp.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A.M.I.D. (Edit)",
-          "duration": "4:06"
         }
       ]
     },
@@ -935,34 +935,6 @@
       ]
     },
     {
-      "name": "Versions",
-      "year": "2022",
-      "release_date": "2022-05-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/1d/ff/941dff4d-5565-84f5-6e93-5be7a434784e/677603029020.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mossfield (58)",
-          "duration": "6:26"
-        },
-        {
-          "number": 2,
-          "name": "Strata Alt",
-          "duration": "4:20"
-        },
-        {
-          "number": 3,
-          "name": "Burned Out",
-          "duration": "7:44"
-        },
-        {
-          "number": 4,
-          "name": "The Ilex",
-          "duration": "5:36"
-        }
-      ]
-    },
-    {
       "name": "Ghost Stations Remixes",
       "year": "2017",
       "release_date": "2017-05-19",
@@ -987,6 +959,34 @@
           "number": 4,
           "name": "Riser (Digitonal Remix)",
           "duration": "6:16"
+        }
+      ]
+    },
+    {
+      "name": "Versions",
+      "year": "2022",
+      "release_date": "2022-05-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/1d/ff/941dff4d-5565-84f5-6e93-5be7a434784e/677603029020.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mossfield (58)",
+          "duration": "6:26"
+        },
+        {
+          "number": 2,
+          "name": "Strata Alt",
+          "duration": "4:20"
+        },
+        {
+          "number": 3,
+          "name": "Burned Out",
+          "duration": "7:44"
+        },
+        {
+          "number": 4,
+          "name": "The Ilex",
+          "duration": "5:36"
         }
       ]
     },

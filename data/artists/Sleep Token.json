@@ -539,29 +539,6 @@
   ],
   "singles": [
     {
-      "name": "Two",
-      "year": "2017",
-      "release_date": "2017-07-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/91/23/369123d0-3814-baa0-765d-25f0f8d0d394/5065002129130_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Calcutta",
-          "duration": "6:53"
-        },
-        {
-          "number": 2,
-          "name": "Nazareth",
-          "duration": "5:36"
-        },
-        {
-          "number": 3,
-          "name": "Jericho",
-          "duration": "5:17"
-        }
-      ]
-    },
-    {
       "name": "One",
       "year": "2016",
       "release_date": "2016-12-02",
@@ -585,6 +562,29 @@
       ]
     },
     {
+      "name": "Two",
+      "year": "2017",
+      "release_date": "2017-07-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/91/23/369123d0-3814-baa0-765d-25f0f8d0d394/5065002129130_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Calcutta",
+          "duration": "6:53"
+        },
+        {
+          "number": 2,
+          "name": "Nazareth",
+          "duration": "5:36"
+        },
+        {
+          "number": 3,
+          "name": "Jericho",
+          "duration": "5:17"
+        }
+      ]
+    },
+    {
       "name": "Jaws",
       "year": "2018",
       "release_date": "2018-06-04",
@@ -594,6 +594,19 @@
           "number": 1,
           "name": "Jaws",
           "duration": "5:55"
+        }
+      ]
+    },
+    {
+      "name": "Hey Ya",
+      "year": "2018",
+      "release_date": "2018-08-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8d/5f/de/8d5fde97-2dac-4123-8b4f-c3c504fb97d5/859727575632_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hey Ya",
+          "duration": "3:08"
         }
       ]
     },
@@ -624,15 +637,25 @@
       ]
     },
     {
-      "name": "Hey Ya",
-      "year": "2018",
-      "release_date": "2018-08-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8d/5f/de/8d5fde97-2dac-4123-8b4f-c3c504fb97d5/859727575632_cover.jpg/600x600bb.jpg",
+      "name": "Fall For Me",
+      "year": "2021",
+      "release_date": "2021-09-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fc/52/57/fc5257fd-91e6-ed9e-4027-590f9d31a99b/5400863107093_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Hey Ya",
-          "duration": "3:08"
+          "name": "Fall For Me",
+          "duration": "2:26"
+        },
+        {
+          "number": 2,
+          "name": "The Love You Want",
+          "duration": "4:23"
+        },
+        {
+          "number": 3,
+          "name": "Alkaline",
+          "duration": "3:34"
         }
       ]
     },
@@ -672,29 +695,6 @@
           "number": 1,
           "name": "Chokehold",
           "duration": "5:04"
-        }
-      ]
-    },
-    {
-      "name": "Fall For Me",
-      "year": "2021",
-      "release_date": "2021-09-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fc/52/57/fc5257fd-91e6-ed9e-4027-590f9d31a99b/5400863107093_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fall For Me",
-          "duration": "2:26"
-        },
-        {
-          "number": 2,
-          "name": "The Love You Want",
-          "duration": "4:23"
-        },
-        {
-          "number": 3,
-          "name": "Alkaline",
-          "duration": "3:34"
         }
       ]
     },

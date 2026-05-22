@@ -46,6 +46,49 @@
       ]
     },
     {
+      "name": "DESTRIEB",
+      "year": "2015",
+      "release_date": "2015-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/a6/62/a9/a662a942-8713-1886-9dc7-b12d87f394ed/DPRJ1003_jk.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "-Krishna-",
+          "duration": "1:20"
+        },
+        {
+          "number": 2,
+          "name": "Twisted Pain",
+          "duration": "3:48"
+        },
+        {
+          "number": 3,
+          "name": "Zone",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "Parasite",
+          "duration": "3:43"
+        },
+        {
+          "number": 5,
+          "name": "Raison d'etre",
+          "duration": "3:30"
+        },
+        {
+          "number": 6,
+          "name": "Sacrifice",
+          "duration": "5:27"
+        },
+        {
+          "number": 7,
+          "name": "Primal Urge",
+          "duration": "3:53"
+        }
+      ]
+    },
+    {
       "name": "Xtopia",
       "year": "2020",
       "release_date": "2020-10-21",
@@ -246,49 +289,6 @@
           "number": 11,
           "name": "Petrichor",
           "duration": "4:09"
-        }
-      ]
-    },
-    {
-      "name": "DESTRIEB",
-      "year": "2015",
-      "release_date": "2015-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/a6/62/a9/a662a942-8713-1886-9dc7-b12d87f394ed/DPRJ1003_jk.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "-Krishna-",
-          "duration": "1:20"
-        },
-        {
-          "number": 2,
-          "name": "Twisted Pain",
-          "duration": "3:48"
-        },
-        {
-          "number": 3,
-          "name": "Zone",
-          "duration": "3:37"
-        },
-        {
-          "number": 4,
-          "name": "Parasite",
-          "duration": "3:43"
-        },
-        {
-          "number": 5,
-          "name": "Raison d'etre",
-          "duration": "3:30"
-        },
-        {
-          "number": 6,
-          "name": "Sacrifice",
-          "duration": "5:27"
-        },
-        {
-          "number": 7,
-          "name": "Primal Urge",
-          "duration": "3:53"
         }
       ]
     },
@@ -532,34 +532,6 @@
       ]
     },
     {
-      "name": "Polyhedron",
-      "year": "2019",
-      "release_date": "2019-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d9/9d/81/d99d8148-535c-b21a-be7f-b5b52f03570b/DPRJ1010_haisin_H1.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ghost Rule",
-          "duration": "3:32"
-        },
-        {
-          "number": 2,
-          "name": "Fukaimori",
-          "duration": "4:17"
-        },
-        {
-          "number": 3,
-          "name": "Genkai Lovers",
-          "duration": "4:00"
-        },
-        {
-          "number": 4,
-          "name": "Fukaimori Acoustic Ver",
-          "duration": "4:07"
-        }
-      ]
-    },
-    {
       "name": "Brave Agonistic Letters Under Segregation",
       "year": "2015",
       "release_date": "2015-04-08",
@@ -589,6 +561,34 @@
           "number": 5,
           "name": "Crossing Fate",
           "duration": "4:28"
+        }
+      ]
+    },
+    {
+      "name": "Polyhedron",
+      "year": "2019",
+      "release_date": "2019-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d9/9d/81/d99d8148-535c-b21a-be7f-b5b52f03570b/DPRJ1010_haisin_H1.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ghost Rule",
+          "duration": "3:32"
+        },
+        {
+          "number": 2,
+          "name": "Fukaimori",
+          "duration": "4:17"
+        },
+        {
+          "number": 3,
+          "name": "Genkai Lovers",
+          "duration": "4:00"
+        },
+        {
+          "number": 4,
+          "name": "Fukaimori Acoustic Ver",
+          "duration": "4:07"
         }
       ]
     }

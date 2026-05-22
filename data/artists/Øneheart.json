@@ -3,6 +3,64 @@
   "id": 1511525726,
   "albums": [
     {
+      "name": "Dreamscape",
+      "year": "2020",
+      "release_date": "2020-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/35/8a/a9358a8f-ef9b-7e3a-1c13-81d8e9d40474/3616551153378_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dreams Come True",
+          "duration": "1:05"
+        },
+        {
+          "number": 2,
+          "name": "Be Mine",
+          "duration": "2:46"
+        },
+        {
+          "number": 3,
+          "name": "Our Places",
+          "duration": "3:16"
+        },
+        {
+          "number": 4,
+          "name": "Morning Rain",
+          "duration": "2:37"
+        },
+        {
+          "number": 5,
+          "name": "Hurt",
+          "duration": "3:26"
+        },
+        {
+          "number": 6,
+          "name": "Landwalker",
+          "duration": "2:09"
+        },
+        {
+          "number": 7,
+          "name": "Disappearance",
+          "duration": "3:11"
+        },
+        {
+          "number": 8,
+          "name": "I Think I'm Lost",
+          "duration": "1:38"
+        },
+        {
+          "number": 9,
+          "name": "Survive",
+          "duration": "2:56"
+        },
+        {
+          "number": 10,
+          "name": "Meet You",
+          "duration": "2:30"
+        }
+      ]
+    },
+    {
       "name": "Lifeglow",
       "year": "2023",
       "release_date": "2023-11-24",
@@ -67,64 +125,6 @@
           "number": 12,
           "name": "Farewell",
           "duration": "1:53"
-        }
-      ]
-    },
-    {
-      "name": "Dreamscape",
-      "year": "2020",
-      "release_date": "2020-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/35/8a/a9358a8f-ef9b-7e3a-1c13-81d8e9d40474/3616551153378_cover.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dreams Come True",
-          "duration": "1:05"
-        },
-        {
-          "number": 2,
-          "name": "Be Mine",
-          "duration": "2:46"
-        },
-        {
-          "number": 3,
-          "name": "Our Places",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "Morning Rain",
-          "duration": "2:37"
-        },
-        {
-          "number": 5,
-          "name": "Hurt",
-          "duration": "3:26"
-        },
-        {
-          "number": 6,
-          "name": "Landwalker",
-          "duration": "2:09"
-        },
-        {
-          "number": 7,
-          "name": "Disappearance",
-          "duration": "3:11"
-        },
-        {
-          "number": 8,
-          "name": "I Think I'm Lost",
-          "duration": "1:38"
-        },
-        {
-          "number": 9,
-          "name": "Survive",
-          "duration": "2:56"
-        },
-        {
-          "number": 10,
-          "name": "Meet You",
-          "duration": "2:30"
         }
       ]
     },
@@ -443,6 +443,19 @@
       ]
     },
     {
+      "name": "Last Breath",
+      "year": "2023",
+      "release_date": "2023-01-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0e/62/fb/0e62fb51-5d27-067e-f7e9-4503d8e69ed4/1963621147693_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Last Breath",
+          "duration": "1:41"
+        }
+      ]
+    },
+    {
       "name": "snowfall (Remixes)",
       "year": "2022",
       "release_date": "2022-06-03",
@@ -497,6 +510,24 @@
       ]
     },
     {
+      "name": "Voices In My Head",
+      "year": "2024",
+      "release_date": "2024-07-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/69/e6/2769e6d0-fb37-66ca-d56b-5cf9bcc2ba51/1963622261862_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Voices In My Head",
+          "duration": "1:54"
+        },
+        {
+          "number": 2,
+          "name": "voices in my head (Drone Version)",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
       "name": "Distorted Memories",
       "year": "2022",
       "release_date": "2022-07-01",
@@ -506,19 +537,6 @@
           "number": 1,
           "name": "Distorted Memories",
           "duration": "1:50"
-        }
-      ]
-    },
-    {
-      "name": "haunted",
-      "year": "2023",
-      "release_date": "2023-09-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/6a/ad/326aadb1-7193-01a0-f282-43bf93ec3ef1/742779548498.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "haunted",
-          "duration": "2:14"
         }
       ]
     },
@@ -549,20 +567,15 @@
       ]
     },
     {
-      "name": "Gone (Øneheart Remix)",
-      "year": "2025",
-      "release_date": "2025-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/03/b7/9d03b758-b37a-76bf-0e8a-855af469da52/1963623057068_cover.png/600x600bb.jpg",
+      "name": "haunted",
+      "year": "2023",
+      "release_date": "2023-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/6a/ad/326aadb1-7193-01a0-f282-43bf93ec3ef1/742779548498.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Gone (Øneheart Remix)",
-          "duration": "2:57"
-        },
-        {
-          "number": 2,
-          "name": "Gone",
-          "duration": "7:01"
+          "name": "haunted",
+          "duration": "2:14"
         }
       ]
     },
@@ -606,19 +619,6 @@
       ]
     },
     {
-      "name": "no way out",
-      "year": "2024",
-      "release_date": "2024-08-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/80/aa/e580aa07-ac06-cc02-998b-6efc7fddef6d/1963622377426_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "no way out",
-          "duration": "2:07"
-        }
-      ]
-    },
-    {
       "name": "next to you (Remixes)",
       "year": "2023",
       "release_date": "2023-09-28",
@@ -646,19 +646,6 @@
           "number": 1,
           "name": "Fable",
           "duration": "2:29"
-        }
-      ]
-    },
-    {
-      "name": "Last Breath",
-      "year": "2023",
-      "release_date": "2023-01-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0e/62/fb/0e62fb51-5d27-067e-f7e9-4503d8e69ed4/1963621147693_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Last Breath",
-          "duration": "1:41"
         }
       ]
     },
@@ -707,6 +694,24 @@
       ]
     },
     {
+      "name": "Gone (Øneheart Remix)",
+      "year": "2025",
+      "release_date": "2025-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/03/b7/9d03b758-b37a-76bf-0e8a-855af469da52/1963623057068_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gone (Øneheart Remix)",
+          "duration": "2:57"
+        },
+        {
+          "number": 2,
+          "name": "Gone",
+          "duration": "7:01"
+        }
+      ]
+    },
+    {
       "name": "Nostalgia",
       "year": "2023",
       "release_date": "2023-02-28",
@@ -747,6 +752,19 @@
           "number": 1,
           "name": "this feeling (Slowed + Reverb)",
           "duration": "1:54"
+        }
+      ]
+    },
+    {
+      "name": "no way out",
+      "year": "2024",
+      "release_date": "2024-08-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/80/aa/e580aa07-ac06-cc02-998b-6efc7fddef6d/1963622377426_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "no way out",
+          "duration": "2:07"
         }
       ]
     },
@@ -1385,24 +1403,6 @@
           "number": 1,
           "name": "limerence",
           "duration": "1:56"
-        }
-      ]
-    },
-    {
-      "name": "Voices In My Head",
-      "year": "2024",
-      "release_date": "2024-07-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/69/e6/2769e6d0-fb37-66ca-d56b-5cf9bcc2ba51/1963622261862_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Voices In My Head",
-          "duration": "1:54"
-        },
-        {
-          "number": 2,
-          "name": "voices in my head (Drone Version)",
-          "duration": "2:51"
         }
       ]
     },

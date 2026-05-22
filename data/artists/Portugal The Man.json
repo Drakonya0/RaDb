@@ -837,6 +837,59 @@
       ]
     },
     {
+      "name": "It's Complicated Being a Wizard",
+      "year": "2007",
+      "release_date": "2007-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/45/23/dc/4523dcd4-0441-3d25-4443-59aac10e0c4f/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Opal Magic",
+          "duration": "0:50"
+        },
+        {
+          "number": 2,
+          "name": "Ruby Magic",
+          "duration": "4:04"
+        },
+        {
+          "number": 3,
+          "name": "Sapphire Magic",
+          "duration": "2:19"
+        },
+        {
+          "number": 4,
+          "name": "Amethyst Magic",
+          "duration": "2:18"
+        },
+        {
+          "number": 5,
+          "name": "Emerald Magic",
+          "duration": "2:31"
+        },
+        {
+          "number": 6,
+          "name": "Amber Magic",
+          "duration": "3:25"
+        },
+        {
+          "number": 7,
+          "name": "Gold Magic",
+          "duration": "2:27"
+        },
+        {
+          "number": 8,
+          "name": "Crystal Magic",
+          "duration": "1:27"
+        },
+        {
+          "number": 9,
+          "name": "Black Magic",
+          "duration": "3:37"
+        }
+      ]
+    },
+    {
       "name": "Woodstock (Deluxe Edition)",
       "year": "2017",
       "release_date": "2017-06-16",
@@ -981,59 +1034,6 @@
           "number": 14,
           "name": "Tidal Wave (Le Sauvage Remix)",
           "duration": "3:47"
-        }
-      ]
-    },
-    {
-      "name": "It's Complicated Being a Wizard",
-      "year": "2007",
-      "release_date": "2007-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/45/23/dc/4523dcd4-0441-3d25-4443-59aac10e0c4f/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Opal Magic",
-          "duration": "0:50"
-        },
-        {
-          "number": 2,
-          "name": "Ruby Magic",
-          "duration": "4:04"
-        },
-        {
-          "number": 3,
-          "name": "Sapphire Magic",
-          "duration": "2:19"
-        },
-        {
-          "number": 4,
-          "name": "Amethyst Magic",
-          "duration": "2:18"
-        },
-        {
-          "number": 5,
-          "name": "Emerald Magic",
-          "duration": "2:31"
-        },
-        {
-          "number": 6,
-          "name": "Amber Magic",
-          "duration": "3:25"
-        },
-        {
-          "number": 7,
-          "name": "Gold Magic",
-          "duration": "2:27"
-        },
-        {
-          "number": 8,
-          "name": "Crystal Magic",
-          "duration": "1:27"
-        },
-        {
-          "number": 9,
-          "name": "Black Magic",
-          "duration": "3:37"
         }
       ]
     },
@@ -1235,19 +1235,6 @@
       ]
     },
     {
-      "name": "Golden",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/7e/27/5c7e2772-10fb-291d-07a2-1b7f16370f37/820200340597.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Golden",
-          "duration": "3:11"
-        }
-      ]
-    },
-    {
       "name": "Call Me (feat. Portugal. The Man)",
       "year": "2019",
       "release_date": "2019-10-01",
@@ -1287,15 +1274,15 @@
       ]
     },
     {
-      "name": "Time’s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
-      "year": "2023",
-      "release_date": "2023-08-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/81/f9/7181f9ae-327a-408c-d28f-b17e602be874/075679673831.jpg/600x600bb.jpg",
+      "name": "Golden",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/7e/27/5c7e2772-10fb-291d-07a2-1b7f16370f37/820200340597.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Time’s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
-          "duration": "4:00"
+          "name": "Golden",
+          "duration": "3:11"
         }
       ]
     },
@@ -1309,6 +1296,19 @@
           "number": 1,
           "name": "Phoenix",
           "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "Time’s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
+      "year": "2023",
+      "release_date": "2023-08-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/81/f9/7181f9ae-327a-408c-d28f-b17e602be874/075679673831.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Time’s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
+          "duration": "4:00"
         }
       ]
     },
@@ -1374,19 +1374,6 @@
           "number": 1,
           "name": "Dummy (Chrome Sparks Remix)",
           "duration": "3:46"
-        }
-      ]
-    },
-    {
-      "name": "Phoenix",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/c3/d2/19c3d2b5-c609-afb0-e414-8132314746d5/2011818.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Phoenix",
-          "duration": "2:24"
         }
       ]
     },
@@ -1478,6 +1465,19 @@
           "number": 1,
           "name": "Live in the Moment (TOKiMONSTA Remix)",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/c3/d2/19c3d2b5-c609-afb0-e414-8132314746d5/2011818.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Phoenix",
+          "duration": "2:24"
         }
       ]
     },

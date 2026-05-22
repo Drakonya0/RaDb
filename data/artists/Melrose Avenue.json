@@ -4,6 +4,32 @@
   "albums": [],
   "singles": [
     {
+      "name": "Black Heart",
+      "year": "2025",
+      "release_date": "2025-07-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0e/9e/3d0e9e8d-7038-c0f3-a4b0-15de9de38b9e/3114.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Black Heart",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Through Hell",
+      "year": "2023",
+      "release_date": "2023-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/85/f6/a785f6b8-2c60-74f4-d2dc-0a5eb884424d/2259.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Through Hell",
+          "duration": "3:12"
+        }
+      ]
+    },
+    {
       "name": "Taste",
       "year": "2026",
       "release_date": "2026-02-05",
@@ -108,19 +134,6 @@
       ]
     },
     {
-      "name": "Black Heart",
-      "year": "2025",
-      "release_date": "2025-07-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/0e/9e/3d0e9e8d-7038-c0f3-a4b0-15de9de38b9e/3114.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Black Heart",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
       "name": "Body Bag",
       "year": "2025",
       "release_date": "2025-03-06",
@@ -156,19 +169,6 @@
           "number": 1,
           "name": "Fool and The Beggar",
           "duration": "3:48"
-        }
-      ]
-    },
-    {
-      "name": "Through Hell",
-      "year": "2023",
-      "release_date": "2023-05-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/85/f6/a785f6b8-2c60-74f4-d2dc-0a5eb884424d/2259.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Through Hell",
-          "duration": "3:12"
         }
       ]
     },

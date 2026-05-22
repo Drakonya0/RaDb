@@ -597,6 +597,19 @@
   ],
   "singles": [
     {
+      "name": "Everything Burns (feat. Beartooth)",
+      "year": "2025",
+      "release_date": "2025-12-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/86/e7/c486e799-462a-6e73-de77-eb227649cfab/810090098166_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Everything Burns (feat. Beartooth)",
+          "duration": "3:01"
+        }
+      ]
+    },
+    {
       "name": "The Mexican (feat. Tom Morello & K.I.D.)",
       "year": "2015",
       "release_date": "2015-03-03",
@@ -611,19 +624,6 @@
           "number": 2,
           "name": "The Mexican (Instrumental) [feat. Tom Morello]",
           "duration": "3:48"
-        }
-      ]
-    },
-    {
-      "name": "Everything Burns (feat. Beartooth)",
-      "year": "2025",
-      "release_date": "2025-12-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/86/e7/c486e799-462a-6e73-de77-eb227649cfab/810090098166_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Everything Burns (feat. Beartooth)",
-          "duration": "3:01"
         }
       ]
     },
@@ -667,24 +667,6 @@
       ]
     },
     {
-      "name": "Come Play (Kordhell Remix) [feat. Young Miko, Arcane & League of Legends Music]",
-      "year": "2025",
-      "release_date": "2025-04-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/f8/d2/0bf8d23c-71c7-c13d-7323-67c495a9f082/198704425752_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Come Play (Kordhell Remix) [from the series Arcane League of Legends] [feat. Young Miko, Arcane & League of Legends Music]",
-          "duration": "2:10"
-        },
-        {
-          "number": 2,
-          "name": "Come Play (from the series Arcane League of Legends)",
-          "duration": "2:41"
-        }
-      ]
-    },
-    {
       "name": "Old Man Trump (feat. Ani DiFranco & Tom Morello)",
       "year": "2016",
       "release_date": "2016-06-21",
@@ -720,6 +702,24 @@
           "number": 1,
           "name": "Stand Up (feat. The Bloody Beetroots)",
           "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "Come Play (Kordhell Remix) [feat. Young Miko, Arcane & League of Legends Music]",
+      "year": "2025",
+      "release_date": "2025-04-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/f8/d2/0bf8d23c-71c7-c13d-7323-67c495a9f082/198704425752_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Come Play (Kordhell Remix) [from the series Arcane League of Legends] [feat. Young Miko, Arcane & League of Legends Music]",
+          "duration": "2:10"
+        },
+        {
+          "number": 2,
+          "name": "Come Play (from the series Arcane League of Legends)",
+          "duration": "2:41"
         }
       ]
     },
@@ -937,32 +937,6 @@
       ]
     },
     {
-      "name": "METALI!!",
-      "year": "2025",
-      "release_date": "2025-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/e2/de/22e2de11-69ac-21ca-a3c8-49f02fc89530/25UMGIM49566.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "METALI!!",
-          "duration": "3:28"
-        }
-      ]
-    },
-    {
-      "name": "METALI!! (feat. Tom Morello)",
-      "year": "2023",
-      "release_date": "2023-08-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/4d/dd/a84ddd0f-15c4-75bc-3211-7fb4464e1b32/116524.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "METALI!! (feat. Tom Morello)",
-          "duration": "3:28"
-        }
-      ]
-    },
-    {
       "name": "Marching on Ferguson",
       "year": "2014",
       "release_date": "2014-10-14",
@@ -998,6 +972,32 @@
           "number": 1,
           "name": "A Dying Plea Vol. 2 (feat. DE'WAYNE, Marcia Richards, Jordan Montgomery & Tom Morello)",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "METALI!!",
+      "year": "2025",
+      "release_date": "2025-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/e2/de/22e2de11-69ac-21ca-a3c8-49f02fc89530/25UMGIM49566.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "METALI!!",
+          "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "METALI!! (feat. Tom Morello)",
+      "year": "2023",
+      "release_date": "2023-08-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/4d/dd/a84ddd0f-15c4-75bc-3211-7fb4464e1b32/116524.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "METALI!! (feat. Tom Morello)",
+          "duration": "3:28"
         }
       ]
     },

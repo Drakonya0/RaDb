@@ -488,6 +488,19 @@
       ]
     },
     {
+      "name": "Sport",
+      "year": "2026",
+      "release_date": "2026-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/41/58/674158f8-e017-035b-17e9-884a2ffc4868/196874415580.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sport",
+          "duration": "2:11"
+        }
+      ]
+    },
+    {
       "name": "Puerto Bounce (feat. Vladimir Cauchemar)",
       "year": "2021",
       "release_date": "2021-05-31",
@@ -576,6 +589,34 @@
   ],
   "eps": [
     {
+      "name": "Hedge Fund Trance",
+      "year": "2022",
+      "release_date": "2022-07-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/aa/c5/83/aac58357-8cd2-fef1-9a3a-32ad3e9eae28/859763462811_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hedge Fund Trance (Part 1)",
+          "duration": "4:07"
+        },
+        {
+          "number": 2,
+          "name": "Hedge Fund Trance (Part 2)",
+          "duration": "6:14"
+        },
+        {
+          "number": 3,
+          "name": "Hedge Fund Trance (Vladimir Cauchemar Remix)",
+          "duration": "2:46"
+        },
+        {
+          "number": 4,
+          "name": "Hedge Fund Trance (Acid Arab Remix)",
+          "duration": "5:59"
+        }
+      ]
+    },
+    {
       "name": "Brrr",
       "year": "2021",
       "release_date": "2021-06-04",
@@ -630,34 +671,6 @@
           "number": 10,
           "name": "Elévation",
           "duration": "2:35"
-        }
-      ]
-    },
-    {
-      "name": "Hedge Fund Trance",
-      "year": "2022",
-      "release_date": "2022-07-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/aa/c5/83/aac58357-8cd2-fef1-9a3a-32ad3e9eae28/859763462811_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hedge Fund Trance (Part 1)",
-          "duration": "4:07"
-        },
-        {
-          "number": 2,
-          "name": "Hedge Fund Trance (Part 2)",
-          "duration": "6:14"
-        },
-        {
-          "number": 3,
-          "name": "Hedge Fund Trance (Vladimir Cauchemar Remix)",
-          "duration": "2:46"
-        },
-        {
-          "number": 4,
-          "name": "Hedge Fund Trance (Acid Arab Remix)",
-          "duration": "5:59"
         }
       ]
     }

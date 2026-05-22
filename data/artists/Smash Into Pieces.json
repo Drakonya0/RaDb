@@ -3,6 +3,79 @@
   "id": 319529992,
   "albums": [
     {
+      "name": "Arcadia",
+      "year": "2020",
+      "release_date": "2020-08-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/bc/22/b1bc220e-3349-95a6-bd70-5ce2579021ca/195081761138.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Siren",
+          "duration": "1:18"
+        },
+        {
+          "number": 2,
+          "name": "Wake Up",
+          "duration": "3:39"
+        },
+        {
+          "number": 3,
+          "name": "Arcadia",
+          "duration": "2:51"
+        },
+        {
+          "number": 4,
+          "name": "Everything They S4y",
+          "duration": "3:17"
+        },
+        {
+          "number": 5,
+          "name": "All Eyes on You",
+          "duration": "3:07"
+        },
+        {
+          "number": 6,
+          "name": "Forever Alone",
+          "duration": "3:08"
+        },
+        {
+          "number": 7,
+          "name": "The Chosen One",
+          "duration": "3:45"
+        },
+        {
+          "number": 8,
+          "name": "Godsent",
+          "duration": "3:34"
+        },
+        {
+          "number": 9,
+          "name": "Ego",
+          "duration": "3:15"
+        },
+        {
+          "number": 10,
+          "name": "Bend the Rules",
+          "duration": "3:23"
+        },
+        {
+          "number": 11,
+          "name": "Big Bang",
+          "duration": "3:00"
+        },
+        {
+          "number": 12,
+          "name": "Counting on Me",
+          "duration": "3:00"
+        },
+        {
+          "number": 13,
+          "name": "Mad World",
+          "duration": "3:37"
+        }
+      ]
+    },
+    {
       "name": "Evolver",
       "year": "2019",
       "release_date": "2019-07-29",
@@ -125,79 +198,6 @@
           "number": 10,
           "name": "Rise and Shine",
           "duration": "4:33"
-        }
-      ]
-    },
-    {
-      "name": "Arcadia",
-      "year": "2020",
-      "release_date": "2020-08-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b1/bc/22/b1bc220e-3349-95a6-bd70-5ce2579021ca/195081761138.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Siren",
-          "duration": "1:18"
-        },
-        {
-          "number": 2,
-          "name": "Wake Up",
-          "duration": "3:39"
-        },
-        {
-          "number": 3,
-          "name": "Arcadia",
-          "duration": "2:51"
-        },
-        {
-          "number": 4,
-          "name": "Everything They S4y",
-          "duration": "3:17"
-        },
-        {
-          "number": 5,
-          "name": "All Eyes on You",
-          "duration": "3:07"
-        },
-        {
-          "number": 6,
-          "name": "Forever Alone",
-          "duration": "3:08"
-        },
-        {
-          "number": 7,
-          "name": "The Chosen One",
-          "duration": "3:45"
-        },
-        {
-          "number": 8,
-          "name": "Godsent",
-          "duration": "3:34"
-        },
-        {
-          "number": 9,
-          "name": "Ego",
-          "duration": "3:15"
-        },
-        {
-          "number": 10,
-          "name": "Bend the Rules",
-          "duration": "3:23"
-        },
-        {
-          "number": 11,
-          "name": "Big Bang",
-          "duration": "3:00"
-        },
-        {
-          "number": 12,
-          "name": "Counting on Me",
-          "duration": "3:00"
-        },
-        {
-          "number": 13,
-          "name": "Mad World",
-          "duration": "3:37"
         }
       ]
     },
@@ -529,69 +529,6 @@
       ]
     },
     {
-      "name": "Unbreakable",
-      "year": "2013",
-      "release_date": "2013-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/b5/61/91/b56191d5-65e9-98a8-6d3d-a6d530d1b057/886443878594.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Colder",
-          "duration": "4:18"
-        },
-        {
-          "number": 2,
-          "name": "Heroes (As We Are)",
-          "duration": "3:41"
-        },
-        {
-          "number": 3,
-          "name": "A Friend Like You",
-          "duration": "4:25"
-        },
-        {
-          "number": 4,
-          "name": "Crash and Burn",
-          "duration": "3:44"
-        },
-        {
-          "number": 5,
-          "name": "Here to Stay",
-          "duration": "4:19"
-        },
-        {
-          "number": 6,
-          "name": "Unbreakable",
-          "duration": "3:28"
-        },
-        {
-          "number": 7,
-          "name": "Rockstar",
-          "duration": "3:41"
-        },
-        {
-          "number": 8,
-          "name": "Come Along",
-          "duration": "3:58"
-        },
-        {
-          "number": 9,
-          "name": "I Want You to Know",
-          "duration": "3:40"
-        },
-        {
-          "number": 10,
-          "name": "My Enemy",
-          "duration": "3:39"
-        },
-        {
-          "number": 11,
-          "name": "Fading",
-          "duration": "4:31"
-        }
-      ]
-    },
-    {
       "name": "A New Horizon",
       "year": "2021",
       "release_date": "2021-08-27",
@@ -651,6 +588,69 @@
           "number": 11,
           "name": "Outrun",
           "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "Unbreakable",
+      "year": "2013",
+      "release_date": "2013-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/b5/61/91/b56191d5-65e9-98a8-6d3d-a6d530d1b057/886443878594.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Colder",
+          "duration": "4:18"
+        },
+        {
+          "number": 2,
+          "name": "Heroes (As We Are)",
+          "duration": "3:41"
+        },
+        {
+          "number": 3,
+          "name": "A Friend Like You",
+          "duration": "4:25"
+        },
+        {
+          "number": 4,
+          "name": "Crash and Burn",
+          "duration": "3:44"
+        },
+        {
+          "number": 5,
+          "name": "Here to Stay",
+          "duration": "4:19"
+        },
+        {
+          "number": 6,
+          "name": "Unbreakable",
+          "duration": "3:28"
+        },
+        {
+          "number": 7,
+          "name": "Rockstar",
+          "duration": "3:41"
+        },
+        {
+          "number": 8,
+          "name": "Come Along",
+          "duration": "3:58"
+        },
+        {
+          "number": 9,
+          "name": "I Want You to Know",
+          "duration": "3:40"
+        },
+        {
+          "number": 10,
+          "name": "My Enemy",
+          "duration": "3:39"
+        },
+        {
+          "number": 11,
+          "name": "Fading",
+          "duration": "4:31"
         }
       ]
     },
@@ -910,6 +910,19 @@
       ]
     },
     {
+      "name": "Boomerang (feat. Jay Smith)",
+      "year": "2017",
+      "release_date": "2017-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/73/ae/a0/73aea06d-890b-da03-9e41-a507cb0d2cf8/191773660932.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Boomerang (feat. Jay Smith)",
+          "duration": "2:48"
+        }
+      ]
+    },
+    {
       "name": "Let Me Be Your Superhero",
       "year": "2016",
       "release_date": "2016-04-08",
@@ -923,15 +936,15 @@
       ]
     },
     {
-      "name": "Boomerang (feat. Jay Smith)",
-      "year": "2017",
-      "release_date": "2017-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/73/ae/a0/73aea06d-890b-da03-9e41-a507cb0d2cf8/191773660932.jpg/600x600bb.jpg",
+      "name": "Into the Night Feat. Chris Adam of Smash into Pieces",
+      "year": "2023",
+      "release_date": "2023-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/6a/04/536a0440-fe59-fd95-a3bc-45edc824349c/4260341648538.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Boomerang (feat. Jay Smith)",
-          "duration": "2:48"
+          "name": "Into the Night Feat. Chris Adam of Smash into Pieces",
+          "duration": "4:09"
         }
       ]
     },
@@ -1390,24 +1403,6 @@
       ]
     },
     {
-      "name": "Hollow (Rival Remix)",
-      "year": "2026",
-      "release_date": "2026-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/e4/ca/c0e4ca8e-9462-671f-5048-d7db86791e41/820233131674.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hollow (Rival Remix)",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Hollow (Rival Remix Instrumental)",
-          "duration": "2:59"
-        }
-      ]
-    },
-    {
       "name": "Out of Here",
       "year": "2023",
       "release_date": "2023-09-08",
@@ -1509,37 +1504,6 @@
       ]
     },
     {
-      "name": "Wildfire",
-      "year": "2024",
-      "release_date": "2024-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/ef/c5/b3efc5ec-fe94-7837-8107-1d7761fffa59/198846165936.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wildfire",
-          "duration": "3:30"
-        },
-        {
-          "number": 2,
-          "name": "Wildfire (Instrumental)",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
-      "name": "Into the Night Feat. Chris Adam of Smash into Pieces",
-      "year": "2023",
-      "release_date": "2023-04-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/6a/04/536a0440-fe59-fd95-a3bc-45edc824349c/4260341648538.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Into the Night Feat. Chris Adam of Smash into Pieces",
-          "duration": "4:09"
-        }
-      ]
-    },
-    {
       "name": "Freight Train",
       "year": "2022",
       "release_date": "2022-08-05",
@@ -1567,6 +1531,24 @@
           "number": 1,
           "name": "Higher",
           "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "Hollow (Rival Remix)",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/e4/ca/c0e4ca8e-9462-671f-5048-d7db86791e41/820233131674.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hollow (Rival Remix)",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Hollow (Rival Remix Instrumental)",
+          "duration": "2:59"
         }
       ]
     },
@@ -1639,6 +1621,24 @@
           "number": 2,
           "name": "Man or Machine (Instrumental)",
           "duration": "2:54"
+        }
+      ]
+    },
+    {
+      "name": "Wildfire",
+      "year": "2024",
+      "release_date": "2024-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/ef/c5/b3efc5ec-fe94-7837-8107-1d7761fffa59/198846165936.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wildfire",
+          "duration": "3:30"
+        },
+        {
+          "number": 2,
+          "name": "Wildfire (Instrumental)",
+          "duration": "3:30"
         }
       ]
     },

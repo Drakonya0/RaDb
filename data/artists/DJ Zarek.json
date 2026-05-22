@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "TOQUE TOQUE",
+      "year": "2026",
+      "release_date": "2026-05-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ab/45/01ab4539-af00-d68d-92e3-1375d21793f3/1095731.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TOQUE TOQUE",
+          "duration": "1:23"
+        }
+      ]
+    },
+    {
       "name": "YALA (TikTok Version)",
       "year": "2026",
       "release_date": "2026-05-01",
@@ -31,39 +44,6 @@
     }
   ],
   "eps": [
-    {
-      "name": "Lua na Praça",
-      "year": "2025",
-      "release_date": "2025-09-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/13/fc/d713fc7c-bd74-6ca8-8d75-85264f0eeaac/052599302621.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lua na Praça",
-          "duration": "1:28"
-        },
-        {
-          "number": 2,
-          "name": "Lua na Praça (Slowed)",
-          "duration": "1:40"
-        },
-        {
-          "number": 3,
-          "name": "Lua na Praça (Speed Up)",
-          "duration": "1:19"
-        },
-        {
-          "number": 4,
-          "name": "Lua na Praça (Super Slowed)",
-          "duration": "1:52"
-        },
-        {
-          "number": 5,
-          "name": "Lua na Praça (Ultra Slowed)",
-          "duration": "2:04"
-        }
-      ]
-    },
     {
       "name": "YALA",
       "year": "2026",

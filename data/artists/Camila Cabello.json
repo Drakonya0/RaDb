@@ -66,74 +66,6 @@
       ]
     },
     {
-      "name": "Familia",
-      "year": "2022",
-      "release_date": "2022-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b7/e3/2f/b7e32fd7-7ca3-edf6-7df8-861bfcfd6f9a/886449526772.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Familia",
-          "duration": "0:17"
-        },
-        {
-          "number": 2,
-          "name": "Celia",
-          "duration": "2:33"
-        },
-        {
-          "number": 3,
-          "name": "psychofreak (feat. WILLOW)",
-          "duration": "3:21"
-        },
-        {
-          "number": 4,
-          "name": "Bam Bam (feat. Ed Sheeran)",
-          "duration": "3:25"
-        },
-        {
-          "number": 5,
-          "name": "La Buena Vida",
-          "duration": "3:17"
-        },
-        {
-          "number": 6,
-          "name": "Quiet",
-          "duration": "2:43"
-        },
-        {
-          "number": 7,
-          "name": "Boys Don't Cry",
-          "duration": "3:42"
-        },
-        {
-          "number": 8,
-          "name": "Hasta Los Dientes",
-          "duration": "3:08"
-        },
-        {
-          "number": 9,
-          "name": "No Doubt",
-          "duration": "3:10"
-        },
-        {
-          "number": 10,
-          "name": "Don't Go Yet",
-          "duration": "2:44"
-        },
-        {
-          "number": 11,
-          "name": "Lola (feat. Yotuel)",
-          "duration": "3:05"
-        },
-        {
-          "number": 12,
-          "name": "everyone at this party",
-          "duration": "2:48"
-        }
-      ]
-    },
-    {
       "name": "Romance",
       "year": "2019",
       "release_date": "2019-12-06",
@@ -208,6 +140,74 @@
           "number": 14,
           "name": "First Man",
           "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Familia",
+      "year": "2022",
+      "release_date": "2022-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b7/e3/2f/b7e32fd7-7ca3-edf6-7df8-861bfcfd6f9a/886449526772.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Familia",
+          "duration": "0:17"
+        },
+        {
+          "number": 2,
+          "name": "Celia",
+          "duration": "2:33"
+        },
+        {
+          "number": 3,
+          "name": "psychofreak (feat. WILLOW)",
+          "duration": "3:21"
+        },
+        {
+          "number": 4,
+          "name": "Bam Bam (feat. Ed Sheeran)",
+          "duration": "3:25"
+        },
+        {
+          "number": 5,
+          "name": "La Buena Vida",
+          "duration": "3:17"
+        },
+        {
+          "number": 6,
+          "name": "Quiet",
+          "duration": "2:43"
+        },
+        {
+          "number": 7,
+          "name": "Boys Don't Cry",
+          "duration": "3:42"
+        },
+        {
+          "number": 8,
+          "name": "Hasta Los Dientes",
+          "duration": "3:08"
+        },
+        {
+          "number": 9,
+          "name": "No Doubt",
+          "duration": "3:10"
+        },
+        {
+          "number": 10,
+          "name": "Don't Go Yet",
+          "duration": "2:44"
+        },
+        {
+          "number": 11,
+          "name": "Lola (feat. Yotuel)",
+          "duration": "3:05"
+        },
+        {
+          "number": 12,
+          "name": "everyone at this party",
+          "duration": "2:48"
         }
       ]
     },
@@ -952,19 +952,6 @@
       ]
     },
     {
-      "name": "Crying in the Club",
-      "year": "2017",
-      "release_date": "2017-05-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/d1/d5/66d1d52f-0aeb-05ef-62ca-64c077d64bce/886446504209.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Crying in the Club",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
       "name": "Beautiful (feat. Camila Cabello)",
       "year": "2018",
       "release_date": "2018-08-02",
@@ -978,15 +965,15 @@
       ]
     },
     {
-      "name": "Havana (Live)",
-      "year": "2018",
-      "release_date": "2018-09-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a5/99/71/a599715a-7952-28f7-632a-b3313038be1e/886447324912.jpg/600x600bb.jpg",
+      "name": "Crying in the Club",
+      "year": "2017",
+      "release_date": "2017-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/d1/d5/66d1d52f-0aeb-05ef-62ca-64c077d64bce/886446504209.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Havana (Live)",
-          "duration": "4:08"
+          "name": "Crying in the Club",
+          "duration": "3:36"
         }
       ]
     },
@@ -1000,6 +987,19 @@
           "number": 1,
           "name": "Havana (Remix)",
           "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "Havana (Live)",
+      "year": "2018",
+      "release_date": "2018-09-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a5/99/71/a599715a-7952-28f7-632a-b3313038be1e/886447324912.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Havana (Live)",
+          "duration": "4:08"
         }
       ]
     },
@@ -1030,32 +1030,6 @@
       ]
     },
     {
-      "name": "South of the Border (feat. Camila Cabello & Cardi B) [Andy Jarvis Remix]",
-      "year": "2019",
-      "release_date": "2019-12-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/97/b1/0e97b154-98bd-e166-7373-3bde3bb43143/190295294298.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "South of the Border (feat. Camila Cabello & Cardi B) [Andy Jarvis Remix]",
-          "duration": "3:08"
-        }
-      ]
-    },
-    {
-      "name": "Liar",
-      "year": "2019",
-      "release_date": "2019-09-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/5e/3f/605e3f52-f6e2-a1ba-62bd-33f7ab32b305/886447928004.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Liar",
-          "duration": "3:27"
-        }
-      ]
-    },
-    {
       "name": "Never Be the Same (feat. Kane Brown)",
       "year": "2018",
       "release_date": "2018-04-27",
@@ -1069,6 +1043,19 @@
       ]
     },
     {
+      "name": "South of the Border (feat. Camila Cabello & Cardi B) [Andy Jarvis Remix]",
+      "year": "2019",
+      "release_date": "2019-12-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0e/97/b1/0e97b154-98bd-e166-7373-3bde3bb43143/190295294298.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "South of the Border (feat. Camila Cabello & Cardi B) [Andy Jarvis Remix]",
+          "duration": "3:08"
+        }
+      ]
+    },
+    {
       "name": "Sangria Wine",
       "year": "2018",
       "release_date": "2018-05-18",
@@ -1078,6 +1065,19 @@
           "number": 1,
           "name": "Sangria Wine",
           "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "Liar",
+      "year": "2019",
+      "release_date": "2019-09-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/5e/3f/605e3f52-f6e2-a1ba-62bd-33f7ab32b305/886447928004.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Liar",
+          "duration": "3:27"
         }
       ]
     },
@@ -1342,19 +1342,6 @@
       ]
     },
     {
-      "name": "Know No Better (Afrojack Remix) [feat. Travis Scott, Camila Cabello & Quavo]",
-      "year": "2017",
-      "release_date": "2017-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/6a/2d/d36a2dda-16e8-c04e-4431-55f3c6c02cd7/653738093129_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Know No Better (Afrojack Remix) [feat. Travis Scott, Camila Cabello & Quavo]",
-          "duration": "4:10"
-        }
-      ]
-    },
-    {
       "name": "Mon amour",
       "year": "2022",
       "release_date": "2022-07-27",
@@ -1364,6 +1351,19 @@
           "number": 1,
           "name": "Mon amour",
           "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "Know No Better (Afrojack Remix) [feat. Travis Scott, Camila Cabello & Quavo]",
+      "year": "2017",
+      "release_date": "2017-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/6a/2d/d36a2dda-16e8-c04e-4431-55f3c6c02cd7/653738093129_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Know No Better (Afrojack Remix) [feat. Travis Scott, Camila Cabello & Quavo]",
+          "duration": "4:10"
         }
       ]
     },

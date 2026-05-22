@@ -3,6 +3,79 @@
   "id": 80761111,
   "albums": [
     {
+      "name": "Larmes de héros",
+      "year": "1985",
+      "release_date": "1985-02-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/f4/26/0d/mzi.izualevg.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La hargne des tordus",
+          "duration": "4:45"
+        },
+        {
+          "number": 2,
+          "name": "Chasse le dragon",
+          "duration": "4:47"
+        },
+        {
+          "number": 3,
+          "name": "Le dernier des travaux d'Hercule",
+          "duration": "3:46"
+        },
+        {
+          "number": 4,
+          "name": "Quand un aveugle rêve",
+          "duration": "6:37"
+        },
+        {
+          "number": 5,
+          "name": "Mourir pour une princesse",
+          "duration": "5:02"
+        },
+        {
+          "number": 6,
+          "name": "La montagne qui saigne",
+          "duration": "5:15"
+        },
+        {
+          "number": 7,
+          "name": "Marchand d'hommes",
+          "duration": "6:46"
+        },
+        {
+          "number": 8,
+          "name": "Messager",
+          "duration": "4:27"
+        },
+        {
+          "number": 9,
+          "name": "La hutième couleur de l'arc en ciel",
+          "duration": "4:24"
+        },
+        {
+          "number": 10,
+          "name": "Sagittarius (Instrumental Version)",
+          "duration": "3:46"
+        },
+        {
+          "number": 11,
+          "name": "Elephant Man (English Version)",
+          "duration": "4:44"
+        },
+        {
+          "number": 12,
+          "name": "Win Her Heart (English Version)",
+          "duration": "5:02"
+        },
+        {
+          "number": 13,
+          "name": "Flesh and Bones (English Version)",
+          "duration": "6:41"
+        }
+      ]
+    },
+    {
       "name": "Métamorphose",
       "year": "1984",
       "release_date": "1984-02-04",
@@ -77,79 +150,6 @@
           "number": 14,
           "name": "Metamorphosis",
           "duration": "4:13"
-        }
-      ]
-    },
-    {
-      "name": "Larmes de héros",
-      "year": "1985",
-      "release_date": "1985-02-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/f4/26/0d/mzi.izualevg.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La hargne des tordus",
-          "duration": "4:45"
-        },
-        {
-          "number": 2,
-          "name": "Chasse le dragon",
-          "duration": "4:47"
-        },
-        {
-          "number": 3,
-          "name": "Le dernier des travaux d'Hercule",
-          "duration": "3:46"
-        },
-        {
-          "number": 4,
-          "name": "Quand un aveugle rêve",
-          "duration": "6:37"
-        },
-        {
-          "number": 5,
-          "name": "Mourir pour une princesse",
-          "duration": "5:02"
-        },
-        {
-          "number": 6,
-          "name": "La montagne qui saigne",
-          "duration": "5:15"
-        },
-        {
-          "number": 7,
-          "name": "Marchand d'hommes",
-          "duration": "6:46"
-        },
-        {
-          "number": 8,
-          "name": "Messager",
-          "duration": "4:27"
-        },
-        {
-          "number": 9,
-          "name": "La hutième couleur de l'arc en ciel",
-          "duration": "4:24"
-        },
-        {
-          "number": 10,
-          "name": "Sagittarius (Instrumental Version)",
-          "duration": "3:46"
-        },
-        {
-          "number": 11,
-          "name": "Elephant Man (English Version)",
-          "duration": "4:44"
-        },
-        {
-          "number": 12,
-          "name": "Win Her Heart (English Version)",
-          "duration": "5:02"
-        },
-        {
-          "number": 13,
-          "name": "Flesh and Bones (English Version)",
-          "duration": "6:41"
         }
       ]
     },

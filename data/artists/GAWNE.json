@@ -996,14 +996,14 @@
       ]
     },
     {
-      "name": "Titanic",
+      "name": "TITANIC",
       "year": "2025",
       "release_date": "2025-12-05",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/df/45/9bdf45af-d9ce-9701-7bb4-4b79e2d66114/054853002490.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Titanic",
+          "name": "TITANIC",
           "duration": "3:06"
         },
         {
@@ -1041,19 +1041,6 @@
           "number": 1,
           "name": "Iron",
           "duration": "3:00"
-        }
-      ]
-    },
-    {
-      "name": "Nuclear",
-      "year": "2019",
-      "release_date": "2019-10-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/38/8b/80388b52-dd3a-fcfd-c3bc-e0fabbf31c6e/a80bb36b-4c6f-4965-b06c-3ffb3c043337.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nuclear",
-          "duration": "2:07"
         }
       ]
     },
@@ -1158,6 +1145,19 @@
           "number": 1,
           "name": "Twenty 23",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Nuclear",
+      "year": "2019",
+      "release_date": "2019-10-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/38/8b/80388b52-dd3a-fcfd-c3bc-e0fabbf31c6e/a80bb36b-4c6f-4965-b06c-3ffb3c043337.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nuclear",
+          "duration": "2:07"
         }
       ]
     },
@@ -1419,27 +1419,14 @@
       ]
     },
     {
-      "name": "Outlaw",
-      "year": "2022",
-      "release_date": "2022-11-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2d/88/8d/2d888df2-0ae9-1a50-5923-8a405ccbac73/c7d9722e-9cdf-4319-afaf-7c19e85a4a97.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Outlaw",
-          "duration": "2:53"
-        }
-      ]
-    },
-    {
-      "name": "Somewhere with You",
+      "name": "Somewhere With You",
       "year": "2025",
       "release_date": "2025-11-07",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/40/23/2d40231e-6f43-dfcd-d439-5e1185cfe3ba/074417071779.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Somewhere with You",
+          "name": "Somewhere With You",
           "duration": "2:32"
         }
       ]
@@ -1545,6 +1532,19 @@
           "number": 1,
           "name": "F**k My Hometown",
           "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "Outlaw",
+      "year": "2022",
+      "release_date": "2022-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2d/88/8d/2d888df2-0ae9-1a50-5923-8a405ccbac73/c7d9722e-9cdf-4319-afaf-7c19e85a4a97.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Outlaw",
+          "duration": "2:53"
         }
       ]
     },

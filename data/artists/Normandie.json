@@ -799,34 +799,6 @@
   ],
   "eps": [
     {
-      "name": "Normandie",
-      "year": "2013",
-      "release_date": "2013-09-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/6f/20/5d/6f205d29-ebee-98ff-b178-4e0a76bd9bde/0885014281122.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Violence",
-          "duration": "4:00"
-        },
-        {
-          "number": 2,
-          "name": "Revolution",
-          "duration": "3:36"
-        },
-        {
-          "number": 3,
-          "name": "Neverending",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "Everlasting",
-          "duration": "3:58"
-        }
-      ]
-    },
-    {
       "name": "SIDE EFFECTS PT.1",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -856,6 +828,34 @@
           "number": 5,
           "name": "Mayday",
           "duration": "3:10"
+        }
+      ]
+    },
+    {
+      "name": "Normandie",
+      "year": "2013",
+      "release_date": "2013-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/6f/20/5d/6f205d29-ebee-98ff-b178-4e0a76bd9bde/0885014281122.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Violence",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "Revolution",
+          "duration": "3:36"
+        },
+        {
+          "number": 3,
+          "name": "Neverending",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Everlasting",
+          "duration": "3:58"
         }
       ]
     }

@@ -362,6 +362,74 @@
       ]
     },
     {
+      "name": "Love & Liberte",
+      "year": "1993",
+      "release_date": "1993-11-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m02/d25/h16/s06.okwggjos.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "No Vivere",
+          "duration": "4:06"
+        },
+        {
+          "number": 2,
+          "name": "Campana",
+          "duration": "4:11"
+        },
+        {
+          "number": 3,
+          "name": "Escucha me",
+          "duration": "4:02"
+        },
+        {
+          "number": 4,
+          "name": "Ritmo de la Noche",
+          "duration": "3:28"
+        },
+        {
+          "number": 5,
+          "name": "Madre Mia",
+          "duration": "3:50"
+        },
+        {
+          "number": 6,
+          "name": "Pedir a Tu Corazon",
+          "duration": "4:36"
+        },
+        {
+          "number": 7,
+          "name": "Michaël",
+          "duration": "4:02"
+        },
+        {
+          "number": 8,
+          "name": "Queda Te Aqui",
+          "duration": "4:41"
+        },
+        {
+          "number": 9,
+          "name": "Guitarra Negra",
+          "duration": "3:39"
+        },
+        {
+          "number": 10,
+          "name": "Navidad",
+          "duration": "3:25"
+        },
+        {
+          "number": 11,
+          "name": "Montaña",
+          "duration": "5:22"
+        },
+        {
+          "number": 12,
+          "name": "Love and Liberté",
+          "duration": "3:54"
+        }
+      ]
+    },
+    {
       "name": "Gipsy Kings Live",
       "year": "1992",
       "release_date": "1992-09-01",
@@ -523,89 +591,6 @@
       ]
     },
     {
-      "name": "Cantos de Amor / Love Songs",
-      "year": "1998",
-      "release_date": "1998-08-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/f1/f3/c2f1f390-4eef-017d-2d81-d3af53a8fd74/075597953350.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Un Amor",
-          "duration": "3:38"
-        },
-        {
-          "number": 2,
-          "name": "Gitano Soy",
-          "duration": "4:27"
-        },
-        {
-          "number": 3,
-          "name": "A Mi Manera",
-          "duration": "3:52"
-        },
-        {
-          "number": 4,
-          "name": "No Volvere",
-          "duration": "3:50"
-        },
-        {
-          "number": 5,
-          "name": "Love & Liberte",
-          "duration": "3:55"
-        },
-        {
-          "number": 6,
-          "name": "Quiero Saber",
-          "duration": "4:08"
-        },
-        {
-          "number": 7,
-          "name": "Mi Corazón",
-          "duration": "4:31"
-        },
-        {
-          "number": 8,
-          "name": "Caminando por la Calle",
-          "duration": "4:21"
-        },
-        {
-          "number": 9,
-          "name": "Madre Mia",
-          "duration": "3:50"
-        },
-        {
-          "number": 10,
-          "name": "Passion (Instrumental)",
-          "duration": "3:01"
-        },
-        {
-          "number": 11,
-          "name": "Habla Me",
-          "duration": "4:05"
-        },
-        {
-          "number": 12,
-          "name": "Tu Quieres Volver",
-          "duration": "3:13"
-        },
-        {
-          "number": 13,
-          "name": "Mujer",
-          "duration": "4:15"
-        },
-        {
-          "number": 14,
-          "name": "Trista Pena",
-          "duration": "4:33"
-        },
-        {
-          "number": 15,
-          "name": "Inspiration",
-          "duration": "3:41"
-        }
-      ]
-    },
-    {
       "name": "Roots",
       "year": "2004",
       "release_date": "2004-03-16",
@@ -690,6 +675,89 @@
           "number": 16,
           "name": "Petite Noya",
           "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "Cantos de Amor / Love Songs",
+      "year": "1998",
+      "release_date": "1998-08-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c2/f1/f3/c2f1f390-4eef-017d-2d81-d3af53a8fd74/075597953350.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Un Amor",
+          "duration": "3:38"
+        },
+        {
+          "number": 2,
+          "name": "Gitano Soy",
+          "duration": "4:27"
+        },
+        {
+          "number": 3,
+          "name": "A Mi Manera",
+          "duration": "3:52"
+        },
+        {
+          "number": 4,
+          "name": "No Volvere",
+          "duration": "3:50"
+        },
+        {
+          "number": 5,
+          "name": "Love & Liberte",
+          "duration": "3:55"
+        },
+        {
+          "number": 6,
+          "name": "Quiero Saber",
+          "duration": "4:08"
+        },
+        {
+          "number": 7,
+          "name": "Mi Corazón",
+          "duration": "4:31"
+        },
+        {
+          "number": 8,
+          "name": "Caminando por la Calle",
+          "duration": "4:21"
+        },
+        {
+          "number": 9,
+          "name": "Madre Mia",
+          "duration": "3:50"
+        },
+        {
+          "number": 10,
+          "name": "Passion (Instrumental)",
+          "duration": "3:01"
+        },
+        {
+          "number": 11,
+          "name": "Habla Me",
+          "duration": "4:05"
+        },
+        {
+          "number": 12,
+          "name": "Tu Quieres Volver",
+          "duration": "3:13"
+        },
+        {
+          "number": 13,
+          "name": "Mujer",
+          "duration": "4:15"
+        },
+        {
+          "number": 14,
+          "name": "Trista Pena",
+          "duration": "4:33"
+        },
+        {
+          "number": 15,
+          "name": "Inspiration",
+          "duration": "3:41"
         }
       ]
     },
@@ -846,74 +914,6 @@
           "number": 13,
           "name": "Amor Gitano",
           "duration": "7:28"
-        }
-      ]
-    },
-    {
-      "name": "Love & Liberte",
-      "year": "1993",
-      "release_date": "1993-11-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m02/d25/h16/s06.okwggjos.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "No Vivere",
-          "duration": "4:06"
-        },
-        {
-          "number": 2,
-          "name": "Campana",
-          "duration": "4:11"
-        },
-        {
-          "number": 3,
-          "name": "Escucha me",
-          "duration": "4:02"
-        },
-        {
-          "number": 4,
-          "name": "Ritmo de la Noche",
-          "duration": "3:28"
-        },
-        {
-          "number": 5,
-          "name": "Madre Mia",
-          "duration": "3:50"
-        },
-        {
-          "number": 6,
-          "name": "Pedir a Tu Corazon",
-          "duration": "4:36"
-        },
-        {
-          "number": 7,
-          "name": "Michaël",
-          "duration": "4:02"
-        },
-        {
-          "number": 8,
-          "name": "Queda Te Aqui",
-          "duration": "4:41"
-        },
-        {
-          "number": 9,
-          "name": "Guitarra Negra",
-          "duration": "3:39"
-        },
-        {
-          "number": 10,
-          "name": "Navidad",
-          "duration": "3:25"
-        },
-        {
-          "number": 11,
-          "name": "Montaña",
-          "duration": "5:22"
-        },
-        {
-          "number": 12,
-          "name": "Love and Liberté",
-          "duration": "3:54"
         }
       ]
     },

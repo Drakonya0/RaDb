@@ -3,6 +3,69 @@
   "id": 1436620435,
   "albums": [
     {
+      "name": "Lost Souls",
+      "year": "2021",
+      "release_date": "2021-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b2/d3/7e/b2d37e39-2aa7-d5ce-060e-7aed6fb92b97/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Only Ones",
+          "duration": "5:00"
+        },
+        {
+          "number": 2,
+          "name": "Glass Heart",
+          "duration": "3:44"
+        },
+        {
+          "number": 3,
+          "name": "Hold Me Now",
+          "duration": "3:59"
+        },
+        {
+          "number": 4,
+          "name": "Lost in Echoes",
+          "duration": "3:37"
+        },
+        {
+          "number": 5,
+          "name": "Clarity",
+          "duration": "3:42"
+        },
+        {
+          "number": 6,
+          "name": "Hopes & Dreams",
+          "duration": "5:01"
+        },
+        {
+          "number": 7,
+          "name": "Drowned in Emotion",
+          "duration": "3:42"
+        },
+        {
+          "number": 8,
+          "name": "Lose Myself",
+          "duration": "3:54"
+        },
+        {
+          "number": 9,
+          "name": "The Final Say",
+          "duration": "4:30"
+        },
+        {
+          "number": 10,
+          "name": "One More Time",
+          "duration": "4:02"
+        },
+        {
+          "number": 11,
+          "name": "Nothing to Hide",
+          "duration": "4:19"
+        }
+      ]
+    },
+    {
       "name": "Reflections",
       "year": "2023",
       "release_date": "2023-08-11",
@@ -120,69 +183,6 @@
           "number": 11,
           "name": "Broken Path",
           "duration": "4:15"
-        }
-      ]
-    },
-    {
-      "name": "Lost Souls",
-      "year": "2021",
-      "release_date": "2021-08-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b2/d3/7e/b2d37e39-2aa7-d5ce-060e-7aed6fb92b97/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Only Ones",
-          "duration": "5:00"
-        },
-        {
-          "number": 2,
-          "name": "Glass Heart",
-          "duration": "3:44"
-        },
-        {
-          "number": 3,
-          "name": "Hold Me Now",
-          "duration": "3:59"
-        },
-        {
-          "number": 4,
-          "name": "Lost in Echoes",
-          "duration": "3:37"
-        },
-        {
-          "number": 5,
-          "name": "Clarity",
-          "duration": "3:42"
-        },
-        {
-          "number": 6,
-          "name": "Hopes & Dreams",
-          "duration": "5:01"
-        },
-        {
-          "number": 7,
-          "name": "Drowned in Emotion",
-          "duration": "3:42"
-        },
-        {
-          "number": 8,
-          "name": "Lose Myself",
-          "duration": "3:54"
-        },
-        {
-          "number": 9,
-          "name": "The Final Say",
-          "duration": "4:30"
-        },
-        {
-          "number": 10,
-          "name": "One More Time",
-          "duration": "4:02"
-        },
-        {
-          "number": 11,
-          "name": "Nothing to Hide",
-          "duration": "4:19"
         }
       ]
     }

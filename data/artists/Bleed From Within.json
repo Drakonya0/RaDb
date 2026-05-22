@@ -139,74 +139,6 @@
       ]
     },
     {
-      "name": "Shrine",
-      "year": "2022",
-      "release_date": "2022-06-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/6a/84/756a84ef-dc2f-6682-dd67-1e6541ab4975/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Am Damnation",
-          "duration": "4:42"
-        },
-        {
-          "number": 2,
-          "name": "Sovereign",
-          "duration": "3:35"
-        },
-        {
-          "number": 3,
-          "name": "Levitate",
-          "duration": "4:30"
-        },
-        {
-          "number": 4,
-          "name": "Flesh And Stone",
-          "duration": "4:10"
-        },
-        {
-          "number": 5,
-          "name": "Invisible Enemy",
-          "duration": "4:02"
-        },
-        {
-          "number": 6,
-          "name": "Skye",
-          "duration": "0:54"
-        },
-        {
-          "number": 7,
-          "name": "Stand Down",
-          "duration": "4:06"
-        },
-        {
-          "number": 8,
-          "name": "Death Defined",
-          "duration": "4:00"
-        },
-        {
-          "number": 9,
-          "name": "Shapeshifter",
-          "duration": "4:26"
-        },
-        {
-          "number": 10,
-          "name": "Temple Of Lunacy",
-          "duration": "4:27"
-        },
-        {
-          "number": 11,
-          "name": "Killing Time",
-          "duration": "4:22"
-        },
-        {
-          "number": 12,
-          "name": "Paradise",
-          "duration": "4:31"
-        }
-      ]
-    },
-    {
       "name": "Shrine (Deluxe Version)",
       "year": "2023",
       "release_date": "2023-11-10",
@@ -286,6 +218,74 @@
           "number": 15,
           "name": "Chemical Carnival",
           "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "name": "Shrine",
+      "year": "2022",
+      "release_date": "2022-06-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/6a/84/756a84ef-dc2f-6682-dd67-1e6541ab4975/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Am Damnation",
+          "duration": "4:42"
+        },
+        {
+          "number": 2,
+          "name": "Sovereign",
+          "duration": "3:35"
+        },
+        {
+          "number": 3,
+          "name": "Levitate",
+          "duration": "4:30"
+        },
+        {
+          "number": 4,
+          "name": "Flesh And Stone",
+          "duration": "4:10"
+        },
+        {
+          "number": 5,
+          "name": "Invisible Enemy",
+          "duration": "4:02"
+        },
+        {
+          "number": 6,
+          "name": "Skye",
+          "duration": "0:54"
+        },
+        {
+          "number": 7,
+          "name": "Stand Down",
+          "duration": "4:06"
+        },
+        {
+          "number": 8,
+          "name": "Death Defined",
+          "duration": "4:00"
+        },
+        {
+          "number": 9,
+          "name": "Shapeshifter",
+          "duration": "4:26"
+        },
+        {
+          "number": 10,
+          "name": "Temple Of Lunacy",
+          "duration": "4:27"
+        },
+        {
+          "number": 11,
+          "name": "Killing Time",
+          "duration": "4:22"
+        },
+        {
+          "number": 12,
+          "name": "Paradise",
+          "duration": "4:31"
         }
       ]
     },
@@ -442,6 +442,64 @@
           "number": 12,
           "name": "The End of All We Know (Live in 2020)",
           "duration": "5:54"
+        }
+      ]
+    },
+    {
+      "name": "Fracture",
+      "year": "2020",
+      "release_date": "2020-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/db/6c/79/db6c791f-96dd-d227-3534-005cc205e007/886448316732.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The End of All We Know",
+          "duration": "4:12"
+        },
+        {
+          "number": 2,
+          "name": "Pathfinder",
+          "duration": "4:19"
+        },
+        {
+          "number": 3,
+          "name": "Into Nothing",
+          "duration": "4:42"
+        },
+        {
+          "number": 4,
+          "name": "Fall Away",
+          "duration": "3:30"
+        },
+        {
+          "number": 5,
+          "name": "Fracture",
+          "duration": "3:52"
+        },
+        {
+          "number": 6,
+          "name": "Night Crossing",
+          "duration": "4:03"
+        },
+        {
+          "number": 7,
+          "name": "For All to See",
+          "duration": "4:29"
+        },
+        {
+          "number": 8,
+          "name": "Ascend",
+          "duration": "4:10"
+        },
+        {
+          "number": 9,
+          "name": "Utopia",
+          "duration": "4:39"
+        },
+        {
+          "number": 10,
+          "name": "A Depth That No One Dares",
+          "duration": "4:14"
         }
       ]
     }

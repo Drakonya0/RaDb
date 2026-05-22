@@ -3,6 +3,74 @@
   "id": 266666216,
   "albums": [
     {
+      "name": "Graveyard Shift",
+      "year": "2017",
+      "release_date": "2017-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/15/a9/be/15a9be06-3d96-44cd-2b93-e50699be2b99/016861747046.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rats",
+          "duration": "3:55"
+        },
+        {
+          "number": 2,
+          "name": "Queen For Queen",
+          "duration": "3:22"
+        },
+        {
+          "number": 3,
+          "name": "Necessary Evil (feat. Jonathan Davis)",
+          "duration": "3:48"
+        },
+        {
+          "number": 4,
+          "name": "Soft",
+          "duration": "3:30"
+        },
+        {
+          "number": 5,
+          "name": "Untouchable",
+          "duration": "3:58"
+        },
+        {
+          "number": 6,
+          "name": "Not My Type: Dead As F**k 2",
+          "duration": "4:22"
+        },
+        {
+          "number": 7,
+          "name": "The Ladder",
+          "duration": "4:17"
+        },
+        {
+          "number": 8,
+          "name": "Voices",
+          "duration": "3:44"
+        },
+        {
+          "number": 9,
+          "name": "LOUD (F**k It)",
+          "duration": "3:42"
+        },
+        {
+          "number": 10,
+          "name": "570",
+          "duration": "4:31"
+        },
+        {
+          "number": 11,
+          "name": "Hourglass",
+          "duration": "3:45"
+        },
+        {
+          "number": 12,
+          "name": "Eternally Yours",
+          "duration": "5:12"
+        }
+      ]
+    },
+    {
       "name": "Scoring The End Of The World",
       "year": "2022",
       "release_date": "2022-06-10",
@@ -135,74 +203,6 @@
           "number": 11,
           "name": "Catharsis",
           "duration": "3:51"
-        }
-      ]
-    },
-    {
-      "name": "Graveyard Shift",
-      "year": "2017",
-      "release_date": "2017-05-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/15/a9/be/15a9be06-3d96-44cd-2b93-e50699be2b99/016861747046.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rats",
-          "duration": "3:55"
-        },
-        {
-          "number": 2,
-          "name": "Queen For Queen",
-          "duration": "3:22"
-        },
-        {
-          "number": 3,
-          "name": "Necessary Evil (feat. Jonathan Davis)",
-          "duration": "3:48"
-        },
-        {
-          "number": 4,
-          "name": "Soft",
-          "duration": "3:30"
-        },
-        {
-          "number": 5,
-          "name": "Untouchable",
-          "duration": "3:58"
-        },
-        {
-          "number": 6,
-          "name": "Not My Type: Dead As F**k 2",
-          "duration": "4:22"
-        },
-        {
-          "number": 7,
-          "name": "The Ladder",
-          "duration": "4:17"
-        },
-        {
-          "number": 8,
-          "name": "Voices",
-          "duration": "3:44"
-        },
-        {
-          "number": 9,
-          "name": "LOUD (F**k It)",
-          "duration": "3:42"
-        },
-        {
-          "number": 10,
-          "name": "570",
-          "duration": "4:31"
-        },
-        {
-          "number": 11,
-          "name": "Hourglass",
-          "duration": "3:45"
-        },
-        {
-          "number": 12,
-          "name": "Eternally Yours",
-          "duration": "5:12"
         }
       ]
     },
@@ -876,6 +876,19 @@
       ]
     },
     {
+      "name": "Voices: Synthwave Edition",
+      "year": "2021",
+      "release_date": "2021-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8e/cf/66/8ecf6654-c9c1-9e27-2400-ee1583765e74/075679782861.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Voices: Synthwave Edition",
+          "duration": "4:14"
+        }
+      ]
+    },
+    {
       "name": "Porcelain: Ricky Motion Picture Collection",
       "year": "2023",
       "release_date": "2023-09-01",
@@ -895,32 +908,6 @@
           "number": 3,
           "name": "Porcelain",
           "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "Voices: Synthwave Edition",
-      "year": "2021",
-      "release_date": "2021-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8e/cf/66/8ecf6654-c9c1-9e27-2400-ee1583765e74/075679782861.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Voices: Synthwave Edition",
-          "duration": "4:14"
-        }
-      ]
-    },
-    {
-      "name": "Werewolf: Synthwave Edition (Instrumental)",
-      "year": "2023",
-      "release_date": "2023-03-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0b/82/6d/0b826da3-ae5d-449d-60c5-15595f6f426e/075679685346.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Werewolf: Synthwave Edition (Instrumental)",
-          "duration": "3:31"
         }
       ]
     },
@@ -947,6 +934,19 @@
           "number": 1,
           "name": "Voices",
           "duration": "3:44"
+        }
+      ]
+    },
+    {
+      "name": "Werewolf: Synthwave Edition (Instrumental)",
+      "year": "2023",
+      "release_date": "2023-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0b/82/6d/0b826da3-ae5d-449d-60c5-15595f6f426e/075679685346.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Werewolf: Synthwave Edition (Instrumental)",
+          "duration": "3:31"
         }
       ]
     },

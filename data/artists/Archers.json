@@ -48,45 +48,6 @@
   ],
   "singles": [
     {
-      "name": "Close to Me",
-      "year": "2019",
-      "release_date": "2019-03-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/26/af/9c/26af9c7e-4967-7c68-eae2-e8a2e43fdeab/193428693272.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Close to Me",
-          "duration": "3:01"
-        }
-      ]
-    },
-    {
-      "name": "Made For Love",
-      "year": "2024",
-      "release_date": "2024-09-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/fb/f0/86fbf0e4-77ab-2245-f6c2-8882eea45ddc/198595696668.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Made For Love",
-          "duration": "3:34"
-        }
-      ]
-    },
-    {
-      "name": "Blanket Fort",
-      "year": "2021",
-      "release_date": "2021-10-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a0/6a/65/a06a65df-c8b3-b1b5-05f7-ca93a89d91b1/198002277763.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blanket Fort",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "Bitter",
       "year": "2022",
       "release_date": "2022-07-20",
@@ -113,6 +74,63 @@
       ]
     },
     {
+      "name": "Close to Me",
+      "year": "2019",
+      "release_date": "2019-03-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/26/af/9c/26af9c7e-4967-7c68-eae2-e8a2e43fdeab/193428693272.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Close to Me",
+          "duration": "3:01"
+        }
+      ]
+    },
+    {
+      "name": "Blanket Fort",
+      "year": "2021",
+      "release_date": "2021-10-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a0/6a/65/a06a65df-c8b3-b1b5-05f7-ca93a89d91b1/198002277763.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blanket Fort",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Made For Love",
+      "year": "2024",
+      "release_date": "2024-09-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/fb/f0/86fbf0e4-77ab-2245-f6c2-8882eea45ddc/198595696668.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Made For Love",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "Say This Sober",
+      "year": "2023",
+      "release_date": "2023-05-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4b/b8/73/4bb8739e-fc3e-b4fb-d9b6-91de364898cf/198025046506.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Say This Sober",
+          "duration": "3:22"
+        },
+        {
+          "number": 2,
+          "name": "Bitter",
+          "duration": "3:23"
+        }
+      ]
+    },
+    {
       "name": "Levitating",
       "year": "2021",
       "release_date": "2021-04-28",
@@ -135,24 +153,6 @@
           "number": 1,
           "name": "The Dirt",
           "duration": "3:39"
-        }
-      ]
-    },
-    {
-      "name": "Say This Sober",
-      "year": "2023",
-      "release_date": "2023-05-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4b/b8/73/4bb8739e-fc3e-b4fb-d9b6-91de364898cf/198025046506.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Say This Sober",
-          "duration": "3:22"
-        },
-        {
-          "number": 2,
-          "name": "Bitter",
-          "duration": "3:23"
         }
       ]
     },

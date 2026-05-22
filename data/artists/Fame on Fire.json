@@ -630,19 +630,6 @@
       ]
     },
     {
-      "name": "Without Me",
-      "year": "2019",
-      "release_date": "2019-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/8a/eb/f68aeb86-2982-9f76-db0f-e7f47e829603/859730992181.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Without Me",
-          "duration": "3:49"
-        }
-      ]
-    },
-    {
       "name": "Her Eyes (Remix)",
       "year": "2020",
       "release_date": "2020-03-05",
@@ -665,6 +652,45 @@
       "year": "2025",
       "release_date": "2025-04-18",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/dd/c8/81ddc8a5-f726-292e-03fa-064fe3cfd9bb/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Euphoria",
+          "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "Without Me",
+      "year": "2019",
+      "release_date": "2019-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/8a/eb/f68aeb86-2982-9f76-db0f-e7f47e829603/859730992181.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Without Me",
+          "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "Welcome to the Chaos (Acoustic)",
+      "year": "2022",
+      "release_date": "2022-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/85/0a/03/850a03cd-fa76-a9b7-e364-1243b11ef7f8/1579.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Welcome to the Chaos (Acoustic)",
+          "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "Euphoria",
+      "year": "2025",
+      "release_date": "2025-04-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/29/5e/99295e65-0b5d-f371-bf82-b257e9e95b24/199999153719.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
@@ -697,32 +723,6 @@
       ]
     },
     {
-      "name": "Welcome to the Chaos (Acoustic)",
-      "year": "2022",
-      "release_date": "2022-10-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/85/0a/03/850a03cd-fa76-a9b7-e364-1243b11ef7f8/1579.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Welcome to the Chaos (Acoustic)",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
-      "name": "Euphoria",
-      "year": "2025",
-      "release_date": "2025-04-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/29/5e/99295e65-0b5d-f371-bf82-b257e9e95b24/199999153719.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Euphoria",
-          "duration": "3:13"
-        }
-      ]
-    },
-    {
       "name": "Now and Forever Ft. Trevor Wentworth",
       "year": "2020",
       "release_date": "2020-09-02",
@@ -732,29 +732,6 @@
           "number": 1,
           "name": "Now and Forever Ft. Trevor Wentworth",
           "duration": "3:29"
-        }
-      ]
-    },
-    {
-      "name": "2021 Covers",
-      "year": "2021",
-      "release_date": "2021-07-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/82/41/eb824143-138c-cbe6-63b0-aeb6dcfbfc5d/3218.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTERO (Call Me By Your Name)",
-          "duration": "2:49"
-        },
-        {
-          "number": 2,
-          "name": "STAY",
-          "duration": "2:21"
-        },
-        {
-          "number": 3,
-          "name": "One Right Now",
-          "duration": "2:50"
         }
       ]
     },
@@ -781,6 +758,29 @@
           "number": 1,
           "name": "...Ready for It?",
           "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "2021 Covers",
+      "year": "2021",
+      "release_date": "2021-07-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/82/41/eb824143-138c-cbe6-63b0-aeb6dcfbfc5d/3218.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTERO (Call Me By Your Name)",
+          "duration": "2:49"
+        },
+        {
+          "number": 2,
+          "name": "STAY",
+          "duration": "2:21"
+        },
+        {
+          "number": 3,
+          "name": "One Right Now",
+          "duration": "2:50"
         }
       ]
     },

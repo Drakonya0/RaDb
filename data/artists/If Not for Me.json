@@ -141,19 +141,6 @@
   ],
   "singles": [
     {
-      "name": "Retrograde",
-      "year": "2025",
-      "release_date": "2025-10-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/26/79/ab2679c0-d8f2-0128-24b8-87defef52390/193436442992_CoverartBlackTextcopy.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Retrograde",
-          "duration": "3:18"
-        }
-      ]
-    },
-    {
       "name": "Broken Throne",
       "year": "2026",
       "release_date": "2026-04-24",
@@ -167,19 +154,6 @@
       ]
     },
     {
-      "name": "Unholy",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/26/0e/a1260ee3-d1c8-d2c2-4533-645e6f519649/193436460453_Unholycopy.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Unholy",
-          "duration": "3:19"
-        }
-      ]
-    },
-    {
       "name": "Say It To My Face",
       "year": "2024",
       "release_date": "2024-11-08",
@@ -189,6 +163,32 @@
           "number": 1,
           "name": "Say It To My Face",
           "duration": "3:08"
+        }
+      ]
+    },
+    {
+      "name": "Retrograde",
+      "year": "2025",
+      "release_date": "2025-10-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/26/79/ab2679c0-d8f2-0128-24b8-87defef52390/193436442992_CoverartBlackTextcopy.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Retrograde",
+          "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "Unholy",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/26/0e/a1260ee3-d1c8-d2c2-4533-645e6f519649/193436460453_Unholycopy.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Unholy",
+          "duration": "3:19"
         }
       ]
     },

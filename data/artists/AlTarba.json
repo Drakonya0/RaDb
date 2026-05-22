@@ -1144,6 +1144,79 @@
       ]
     },
     {
+      "name": "Irwin's Lands",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/56/87/bc5687b1-67e3-4ddc-e4e2-4d05b15a4821/Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Open the Map",
+          "duration": "0:49"
+        },
+        {
+          "number": 2,
+          "name": "New Borders",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Red Dust (feat. SAILORMO & YffA)",
+          "duration": "3:35"
+        },
+        {
+          "number": 4,
+          "name": "Nightshift",
+          "duration": "4:24"
+        },
+        {
+          "number": 5,
+          "name": "Rugged Soil (feat. Jman, Blackout JA & BVA)",
+          "duration": "3:03"
+        },
+        {
+          "number": 6,
+          "name": "Celesta Roads (feat. SAILORMO)",
+          "duration": "4:17"
+        },
+        {
+          "number": 7,
+          "name": "Limbo's Waters (feat. Yugen Blakrok)",
+          "duration": "3:57"
+        },
+        {
+          "number": 8,
+          "name": "Saturday part I (feat. Ceschi)",
+          "duration": "3:50"
+        },
+        {
+          "number": 9,
+          "name": "Savage Realm",
+          "duration": "3:29"
+        },
+        {
+          "number": 10,
+          "name": "Silent Lands",
+          "duration": "2:50"
+        },
+        {
+          "number": 11,
+          "name": "Saturday part II",
+          "duration": "2:39"
+        },
+        {
+          "number": 12,
+          "name": "Ghosts in the Sands (feat. Grin & Paloma Pradal)",
+          "duration": "5:02"
+        },
+        {
+          "number": 13,
+          "name": "Skylines",
+          "duration": "3:32"
+        }
+      ]
+    },
+    {
       "name": "La Fin des Contes",
       "year": "2022",
       "release_date": "2022-09-30",
@@ -1233,79 +1306,6 @@
           "number": 17,
           "name": "Dead Fairies (Bonus Track)",
           "duration": "3:47"
-        }
-      ]
-    },
-    {
-      "name": "Irwin's Lands",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/56/87/bc5687b1-67e3-4ddc-e4e2-4d05b15a4821/Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Open the Map",
-          "duration": "0:49"
-        },
-        {
-          "number": 2,
-          "name": "New Borders",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Red Dust (feat. SAILORMO & YffA)",
-          "duration": "3:35"
-        },
-        {
-          "number": 4,
-          "name": "Nightshift",
-          "duration": "4:24"
-        },
-        {
-          "number": 5,
-          "name": "Rugged Soil (feat. Jman, Blackout JA & BVA)",
-          "duration": "3:03"
-        },
-        {
-          "number": 6,
-          "name": "Celesta Roads (feat. SAILORMO)",
-          "duration": "4:17"
-        },
-        {
-          "number": 7,
-          "name": "Limbo's Waters (feat. Yugen Blakrok)",
-          "duration": "3:57"
-        },
-        {
-          "number": 8,
-          "name": "Saturday part I (feat. Ceschi)",
-          "duration": "3:50"
-        },
-        {
-          "number": 9,
-          "name": "Savage Realm",
-          "duration": "3:29"
-        },
-        {
-          "number": 10,
-          "name": "Silent Lands",
-          "duration": "2:50"
-        },
-        {
-          "number": 11,
-          "name": "Saturday part II",
-          "duration": "2:39"
-        },
-        {
-          "number": 12,
-          "name": "Ghosts in the Sands (feat. Grin & Paloma Pradal)",
-          "duration": "5:02"
-        },
-        {
-          "number": 13,
-          "name": "Skylines",
-          "duration": "3:32"
         }
       ]
     },
@@ -1813,19 +1813,6 @@
       ]
     },
     {
-      "name": "Too Shy to Dance (Al'Tarba Remix) [feat. Astrid Van Peeterssen]",
-      "year": "2023",
-      "release_date": "2023-03-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/ca/62/e8ca62c8-6699-08b4-17ca-759a55fb287d/6038.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Too Shy to Dance (feat. Astrid Van Peeterssen) [Al'Tarba Remix]",
-          "duration": "3:16"
-        }
-      ]
-    },
-    {
       "name": "Scanners",
       "year": "2021",
       "release_date": "2021-10-08",
@@ -1835,6 +1822,19 @@
           "number": 1,
           "name": "Scanners",
           "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Too Shy to Dance (Al'Tarba Remix) [feat. Astrid Van Peeterssen]",
+      "year": "2023",
+      "release_date": "2023-03-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/ca/62/e8ca62c8-6699-08b4-17ca-759a55fb287d/6038.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Too Shy to Dance (feat. Astrid Van Peeterssen) [Al'Tarba Remix]",
+          "duration": "3:16"
         }
       ]
     },

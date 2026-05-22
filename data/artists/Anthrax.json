@@ -3,6 +3,59 @@
   "id": 80417,
   "albums": [
     {
+      "name": "Among the Living",
+      "year": "1987",
+      "release_date": "1987-03-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fc/a3/2d/fca32d1f-3e12-cd83-a796-ecc8bf9a1edd/14UMGIM21416.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Among the Living",
+          "duration": "5:16"
+        },
+        {
+          "number": 2,
+          "name": "Caught In a Mosh",
+          "duration": "4:59"
+        },
+        {
+          "number": 3,
+          "name": "I Am the Law",
+          "duration": "5:54"
+        },
+        {
+          "number": 4,
+          "name": "Efilnikufesin (N.F.L.)",
+          "duration": "4:54"
+        },
+        {
+          "number": 5,
+          "name": "A Skeleton In the Closet",
+          "duration": "5:29"
+        },
+        {
+          "number": 6,
+          "name": "Indians",
+          "duration": "5:41"
+        },
+        {
+          "number": 7,
+          "name": "One World",
+          "duration": "5:54"
+        },
+        {
+          "number": 8,
+          "name": "A.D.I. / Horror of It All",
+          "duration": "7:48"
+        },
+        {
+          "number": 9,
+          "name": "Imitation of Life",
+          "duration": "4:22"
+        }
+      ]
+    },
+    {
       "name": "For All Kings",
       "year": "2016",
       "release_date": "2016-02-26",
@@ -62,6 +115,89 @@
           "number": 11,
           "name": "Zero Tolerance",
           "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Sound of White Noise (Deluxe Edition)",
+      "year": "1993",
+      "release_date": "1993-05-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/c7/10/f4/c710f4c6-f0f9-684a-22a3-6012882dafda/888880418821.tif/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Potters Field",
+          "duration": "5:00"
+        },
+        {
+          "number": 2,
+          "name": "Only",
+          "duration": "4:56"
+        },
+        {
+          "number": 3,
+          "name": "Room for One More",
+          "duration": "4:55"
+        },
+        {
+          "number": 4,
+          "name": "Packaged Rebellion",
+          "duration": "6:16"
+        },
+        {
+          "number": 5,
+          "name": "Hy Pro Glo",
+          "duration": "4:31"
+        },
+        {
+          "number": 6,
+          "name": "Invisible",
+          "duration": "6:10"
+        },
+        {
+          "number": 7,
+          "name": "1000 Points of Hate",
+          "duration": "5:00"
+        },
+        {
+          "number": 8,
+          "name": "Black Lodge",
+          "duration": "5:26"
+        },
+        {
+          "number": 9,
+          "name": "C11 H17 N2 O2 S Na (Sodium Pentathol)",
+          "duration": "4:25"
+        },
+        {
+          "number": 10,
+          "name": "Burst",
+          "duration": "3:41"
+        },
+        {
+          "number": 11,
+          "name": "This Is Not an Exit",
+          "duration": "6:48"
+        },
+        {
+          "number": 12,
+          "name": "Auf Wiedersehen",
+          "duration": "3:31"
+        },
+        {
+          "number": 13,
+          "name": "Cowboy Song",
+          "duration": "5:03"
+        },
+        {
+          "number": 14,
+          "name": "London",
+          "duration": "2:52"
+        },
+        {
+          "number": 15,
+          "name": "Black Lodge (Strings Mix)",
+          "duration": "5:21"
         }
       ]
     },
@@ -244,142 +380,6 @@
       ]
     },
     {
-      "name": "Sound of White Noise (Deluxe Edition)",
-      "year": "1993",
-      "release_date": "1993-05-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/c7/10/f4/c710f4c6-f0f9-684a-22a3-6012882dafda/888880418821.tif/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Potters Field",
-          "duration": "5:00"
-        },
-        {
-          "number": 2,
-          "name": "Only",
-          "duration": "4:56"
-        },
-        {
-          "number": 3,
-          "name": "Room for One More",
-          "duration": "4:55"
-        },
-        {
-          "number": 4,
-          "name": "Packaged Rebellion",
-          "duration": "6:16"
-        },
-        {
-          "number": 5,
-          "name": "Hy Pro Glo",
-          "duration": "4:31"
-        },
-        {
-          "number": 6,
-          "name": "Invisible",
-          "duration": "6:10"
-        },
-        {
-          "number": 7,
-          "name": "1000 Points of Hate",
-          "duration": "5:00"
-        },
-        {
-          "number": 8,
-          "name": "Black Lodge",
-          "duration": "5:26"
-        },
-        {
-          "number": 9,
-          "name": "C11 H17 N2 O2 S Na (Sodium Pentathol)",
-          "duration": "4:25"
-        },
-        {
-          "number": 10,
-          "name": "Burst",
-          "duration": "3:41"
-        },
-        {
-          "number": 11,
-          "name": "This Is Not an Exit",
-          "duration": "6:48"
-        },
-        {
-          "number": 12,
-          "name": "Auf Wiedersehen",
-          "duration": "3:31"
-        },
-        {
-          "number": 13,
-          "name": "Cowboy Song",
-          "duration": "5:03"
-        },
-        {
-          "number": 14,
-          "name": "London",
-          "duration": "2:52"
-        },
-        {
-          "number": 15,
-          "name": "Black Lodge (Strings Mix)",
-          "duration": "5:21"
-        }
-      ]
-    },
-    {
-      "name": "Among the Living",
-      "year": "1987",
-      "release_date": "1987-03-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fc/a3/2d/fca32d1f-3e12-cd83-a796-ecc8bf9a1edd/14UMGIM21416.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Among the Living",
-          "duration": "5:16"
-        },
-        {
-          "number": 2,
-          "name": "Caught In a Mosh",
-          "duration": "4:59"
-        },
-        {
-          "number": 3,
-          "name": "I Am the Law",
-          "duration": "5:54"
-        },
-        {
-          "number": 4,
-          "name": "Efilnikufesin (N.F.L.)",
-          "duration": "4:54"
-        },
-        {
-          "number": 5,
-          "name": "A Skeleton In the Closet",
-          "duration": "5:29"
-        },
-        {
-          "number": 6,
-          "name": "Indians",
-          "duration": "5:41"
-        },
-        {
-          "number": 7,
-          "name": "One World",
-          "duration": "5:54"
-        },
-        {
-          "number": 8,
-          "name": "A.D.I. / Horror of It All",
-          "duration": "7:48"
-        },
-        {
-          "number": 9,
-          "name": "Imitation of Life",
-          "duration": "4:22"
-        }
-      ]
-    },
-    {
       "name": "Persistence of Time",
       "year": "1990",
       "release_date": "1990-08-21",
@@ -497,6 +497,74 @@
           "number": 10,
           "name": "Finale",
           "duration": "5:50"
+        }
+      ]
+    },
+    {
+      "name": "Attack Of The Killer B's",
+      "year": "1991",
+      "release_date": "1991-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/c5/93/d8c59356-a429-a87e-b24b-71be114baac3/06UMGIM18846.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Milk (Ode To Billy)",
+          "duration": "3:42"
+        },
+        {
+          "number": 2,
+          "name": "Bring The Noise",
+          "duration": "3:31"
+        },
+        {
+          "number": 3,
+          "name": "Keep It In The Family (Live 1991)",
+          "duration": "7:19"
+        },
+        {
+          "number": 4,
+          "name": "Startin' Up A Posse",
+          "duration": "4:13"
+        },
+        {
+          "number": 5,
+          "name": "Protest And Survive",
+          "duration": "2:20"
+        },
+        {
+          "number": 6,
+          "name": "Chromatic Death",
+          "duration": "1:26"
+        },
+        {
+          "number": 7,
+          "name": "I'm The Man '91",
+          "duration": "5:02"
+        },
+        {
+          "number": 8,
+          "name": "Parasite",
+          "duration": "3:16"
+        },
+        {
+          "number": 9,
+          "name": "Pipeline",
+          "duration": "2:01"
+        },
+        {
+          "number": 10,
+          "name": "Sects",
+          "duration": "3:05"
+        },
+        {
+          "number": 11,
+          "name": "Belly Of The Beast (Live)",
+          "duration": "5:58"
+        },
+        {
+          "number": 12,
+          "name": "N.F.B. (Dallabnikufesin)",
+          "duration": "2:18"
         }
       ]
     },
@@ -773,142 +841,6 @@
       ]
     },
     {
-      "name": "Attack Of The Killer B's",
-      "year": "1991",
-      "release_date": "1991-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d8/c5/93/d8c59356-a429-a87e-b24b-71be114baac3/06UMGIM18846.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Milk (Ode To Billy)",
-          "duration": "3:42"
-        },
-        {
-          "number": 2,
-          "name": "Bring The Noise",
-          "duration": "3:31"
-        },
-        {
-          "number": 3,
-          "name": "Keep It In The Family (Live 1991)",
-          "duration": "7:19"
-        },
-        {
-          "number": 4,
-          "name": "Startin' Up A Posse",
-          "duration": "4:13"
-        },
-        {
-          "number": 5,
-          "name": "Protest And Survive",
-          "duration": "2:20"
-        },
-        {
-          "number": 6,
-          "name": "Chromatic Death",
-          "duration": "1:26"
-        },
-        {
-          "number": 7,
-          "name": "I'm The Man '91",
-          "duration": "5:02"
-        },
-        {
-          "number": 8,
-          "name": "Parasite",
-          "duration": "3:16"
-        },
-        {
-          "number": 9,
-          "name": "Pipeline",
-          "duration": "2:01"
-        },
-        {
-          "number": 10,
-          "name": "Sects",
-          "duration": "3:05"
-        },
-        {
-          "number": 11,
-          "name": "Belly Of The Beast (Live)",
-          "duration": "5:58"
-        },
-        {
-          "number": 12,
-          "name": "N.F.B. (Dallabnikufesin)",
-          "duration": "2:18"
-        }
-      ]
-    },
-    {
-      "name": "Madhouse: The Very Best Of Anthrax",
-      "year": "2001",
-      "release_date": "2001-06-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/be/5b/82/be5b821d-927b-2719-66ba-5b789c9f85dc/20UMGIM69612.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Madhouse",
-          "duration": "4:18"
-        },
-        {
-          "number": 2,
-          "name": "A.I.R.",
-          "duration": "5:45"
-        },
-        {
-          "number": 3,
-          "name": "Armed And Dangerous",
-          "duration": "5:43"
-        },
-        {
-          "number": 4,
-          "name": "I Am The Law",
-          "duration": "5:54"
-        },
-        {
-          "number": 5,
-          "name": "Indians",
-          "duration": "5:41"
-        },
-        {
-          "number": 6,
-          "name": "Caught In A Mosh",
-          "duration": "4:58"
-        },
-        {
-          "number": 7,
-          "name": "I'm The Man",
-          "duration": "3:02"
-        },
-        {
-          "number": 8,
-          "name": "Antisocial",
-          "duration": "4:27"
-        },
-        {
-          "number": 9,
-          "name": "Belly Of The Beast",
-          "duration": "4:46"
-        },
-        {
-          "number": 10,
-          "name": "Got The Time",
-          "duration": "2:44"
-        },
-        {
-          "number": 11,
-          "name": "Keep It In The Family",
-          "duration": "7:09"
-        },
-        {
-          "number": 12,
-          "name": "Bring The Noise",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "For All Kings (Deluxe Edition)",
       "year": "2016",
       "release_date": "2016-02-26",
@@ -983,250 +915,6 @@
           "number": 14,
           "name": "Black Math",
           "duration": "3:03"
-        }
-      ]
-    },
-    {
-      "name": "Volume 8: The Threat Is Real (Deluxe Edition)",
-      "year": "1998",
-      "release_date": "1998-07-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5e/49/7c/5e497c76-3035-4d2f-8c6f-cfb5f575b601/193483935393.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Crush",
-          "duration": "4:21"
-        },
-        {
-          "number": 2,
-          "name": "Catharsis",
-          "duration": "4:53"
-        },
-        {
-          "number": 3,
-          "name": "Inside Out",
-          "duration": "5:31"
-        },
-        {
-          "number": 4,
-          "name": "Piss N Vinegar",
-          "duration": "3:12"
-        },
-        {
-          "number": 5,
-          "name": "604",
-          "duration": "0:35"
-        },
-        {
-          "number": 6,
-          "name": "Toast to the Extras",
-          "duration": "4:24"
-        },
-        {
-          "number": 7,
-          "name": "Born Again Idiot",
-          "duration": "4:15"
-        },
-        {
-          "number": 8,
-          "name": "Killing Box",
-          "duration": "3:39"
-        },
-        {
-          "number": 9,
-          "name": "Harms Way",
-          "duration": "5:13"
-        },
-        {
-          "number": 10,
-          "name": "Hog Tied",
-          "duration": "4:36"
-        },
-        {
-          "number": 11,
-          "name": "Big Fat",
-          "duration": "6:00"
-        },
-        {
-          "number": 12,
-          "name": "Cupajoe",
-          "duration": "0:46"
-        },
-        {
-          "number": 13,
-          "name": "Alpha Male",
-          "duration": "3:05"
-        },
-        {
-          "number": 14,
-          "name": "Stealing from a Thief",
-          "duration": "5:32"
-        },
-        {
-          "number": 15,
-          "name": "Pieces",
-          "duration": "4:59"
-        },
-        {
-          "number": 16,
-          "name": "Giving the Horns (Bonus Track)",
-          "duration": "3:34"
-        },
-        {
-          "number": 17,
-          "name": "The Bends (Bonus Track)",
-          "duration": "3:52"
-        },
-        {
-          "number": 18,
-          "name": "Snap / I'd Rather Be Sleeping (Bonus Track)",
-          "duration": "2:14"
-        }
-      ]
-    },
-    {
-      "name": "Cursum Perficio",
-      "year": "2026",
-      "release_date": "2026-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/80/f9/8b80f9fa-84b5-d50b-56c8-38c626d23c6c/199806771266.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Persistence of Memory",
-          "duration": "1:07"
-        },
-        {
-          "number": 2,
-          "name": "The Long Goodbye",
-          "duration": "5:34"
-        },
-        {
-          "number": 3,
-          "name": "It's For the Kids",
-          "duration": "4:20"
-        },
-        {
-          "number": 4,
-          "name": "Everybody's Got A Plan",
-          "duration": "4:36"
-        },
-        {
-          "number": 5,
-          "name": "The Edge of Perfection",
-          "duration": "6:46"
-        },
-        {
-          "number": 6,
-          "name": "Infectious",
-          "duration": "5:16"
-        },
-        {
-          "number": 7,
-          "name": "NYC 93",
-          "duration": "4:48"
-        },
-        {
-          "number": 8,
-          "name": "Cursum Perficio",
-          "duration": "6:08"
-        },
-        {
-          "number": 9,
-          "name": "T.O.M.B.",
-          "duration": "4:31"
-        },
-        {
-          "number": 10,
-          "name": "Watch It Go",
-          "duration": "5:43"
-        },
-        {
-          "number": 11,
-          "name": "My Victory",
-          "duration": "4:54"
-        }
-      ]
-    },
-    {
-      "name": "Among the Living (Deluxe Edition)",
-      "year": "1987",
-      "release_date": "1987-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0b/7e/f9/0b7ef9e8-2921-a4c4-b87b-77b3b9c3986b/09UMGIM38546.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Among the Living",
-          "duration": "5:16"
-        },
-        {
-          "number": 2,
-          "name": "Caught In a Mosh",
-          "duration": "5:00"
-        },
-        {
-          "number": 3,
-          "name": "I Am the Law",
-          "duration": "5:53"
-        },
-        {
-          "number": 4,
-          "name": "Efilnikufesin (N.F.L.)",
-          "duration": "4:54"
-        },
-        {
-          "number": 5,
-          "name": "A Skeleton In the Closet",
-          "duration": "5:29"
-        },
-        {
-          "number": 6,
-          "name": "Indians",
-          "duration": "5:41"
-        },
-        {
-          "number": 7,
-          "name": "One World",
-          "duration": "5:55"
-        },
-        {
-          "number": 8,
-          "name": "A.D.I. / Horror of It All",
-          "duration": "7:49"
-        },
-        {
-          "number": 9,
-          "name": "Imitation of Life",
-          "duration": "4:23"
-        },
-        {
-          "number": 10,
-          "name": "Indians (Alternate Lead)",
-          "duration": "5:39"
-        },
-        {
-          "number": 11,
-          "name": "One World (Alternate Take)",
-          "duration": "5:55"
-        },
-        {
-          "number": 12,
-          "name": "Imitation of Life (Alternate Take)",
-          "duration": "4:26"
-        },
-        {
-          "number": 13,
-          "name": "Bud E. Luv Bomb and Satan's Lounge Band",
-          "duration": "2:45"
-        },
-        {
-          "number": 14,
-          "name": "I Am the Law (Live In Dallas)",
-          "duration": "6:03"
-        },
-        {
-          "number": 15,
-          "name": "I'm the Man (Instrumental)",
-          "duration": "3:04"
         }
       ]
     },
@@ -1389,6 +1077,318 @@
       ]
     },
     {
+      "name": "Madhouse: The Very Best Of Anthrax",
+      "year": "2001",
+      "release_date": "2001-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/be/5b/82/be5b821d-927b-2719-66ba-5b789c9f85dc/20UMGIM69612.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Madhouse",
+          "duration": "4:18"
+        },
+        {
+          "number": 2,
+          "name": "A.I.R.",
+          "duration": "5:45"
+        },
+        {
+          "number": 3,
+          "name": "Armed And Dangerous",
+          "duration": "5:43"
+        },
+        {
+          "number": 4,
+          "name": "I Am The Law",
+          "duration": "5:54"
+        },
+        {
+          "number": 5,
+          "name": "Indians",
+          "duration": "5:41"
+        },
+        {
+          "number": 6,
+          "name": "Caught In A Mosh",
+          "duration": "4:58"
+        },
+        {
+          "number": 7,
+          "name": "I'm The Man",
+          "duration": "3:02"
+        },
+        {
+          "number": 8,
+          "name": "Antisocial",
+          "duration": "4:27"
+        },
+        {
+          "number": 9,
+          "name": "Belly Of The Beast",
+          "duration": "4:46"
+        },
+        {
+          "number": 10,
+          "name": "Got The Time",
+          "duration": "2:44"
+        },
+        {
+          "number": 11,
+          "name": "Keep It In The Family",
+          "duration": "7:09"
+        },
+        {
+          "number": 12,
+          "name": "Bring The Noise",
+          "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "Cursum Perficio",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/80/f9/8b80f9fa-84b5-d50b-56c8-38c626d23c6c/199806771266.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Persistence of Memory",
+          "duration": "1:07"
+        },
+        {
+          "number": 2,
+          "name": "The Long Goodbye",
+          "duration": "5:34"
+        },
+        {
+          "number": 3,
+          "name": "It's For the Kids",
+          "duration": "4:20"
+        },
+        {
+          "number": 4,
+          "name": "Everybody's Got A Plan",
+          "duration": "4:36"
+        },
+        {
+          "number": 5,
+          "name": "The Edge of Perfection",
+          "duration": "6:46"
+        },
+        {
+          "number": 6,
+          "name": "Infectious",
+          "duration": "5:16"
+        },
+        {
+          "number": 7,
+          "name": "NYC 93",
+          "duration": "4:48"
+        },
+        {
+          "number": 8,
+          "name": "Cursum Perficio",
+          "duration": "6:08"
+        },
+        {
+          "number": 9,
+          "name": "T.O.M.B.",
+          "duration": "4:31"
+        },
+        {
+          "number": 10,
+          "name": "Watch It Go",
+          "duration": "5:43"
+        },
+        {
+          "number": 11,
+          "name": "My Victory",
+          "duration": "4:54"
+        }
+      ]
+    },
+    {
+      "name": "Volume 8: The Threat Is Real (Deluxe Edition)",
+      "year": "1998",
+      "release_date": "1998-07-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/5e/49/7c/5e497c76-3035-4d2f-8c6f-cfb5f575b601/193483935393.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Crush",
+          "duration": "4:21"
+        },
+        {
+          "number": 2,
+          "name": "Catharsis",
+          "duration": "4:53"
+        },
+        {
+          "number": 3,
+          "name": "Inside Out",
+          "duration": "5:31"
+        },
+        {
+          "number": 4,
+          "name": "Piss N Vinegar",
+          "duration": "3:12"
+        },
+        {
+          "number": 5,
+          "name": "604",
+          "duration": "0:35"
+        },
+        {
+          "number": 6,
+          "name": "Toast to the Extras",
+          "duration": "4:24"
+        },
+        {
+          "number": 7,
+          "name": "Born Again Idiot",
+          "duration": "4:15"
+        },
+        {
+          "number": 8,
+          "name": "Killing Box",
+          "duration": "3:39"
+        },
+        {
+          "number": 9,
+          "name": "Harms Way",
+          "duration": "5:13"
+        },
+        {
+          "number": 10,
+          "name": "Hog Tied",
+          "duration": "4:36"
+        },
+        {
+          "number": 11,
+          "name": "Big Fat",
+          "duration": "6:00"
+        },
+        {
+          "number": 12,
+          "name": "Cupajoe",
+          "duration": "0:46"
+        },
+        {
+          "number": 13,
+          "name": "Alpha Male",
+          "duration": "3:05"
+        },
+        {
+          "number": 14,
+          "name": "Stealing from a Thief",
+          "duration": "5:32"
+        },
+        {
+          "number": 15,
+          "name": "Pieces",
+          "duration": "4:59"
+        },
+        {
+          "number": 16,
+          "name": "Giving the Horns (Bonus Track)",
+          "duration": "3:34"
+        },
+        {
+          "number": 17,
+          "name": "The Bends (Bonus Track)",
+          "duration": "3:52"
+        },
+        {
+          "number": 18,
+          "name": "Snap / I'd Rather Be Sleeping (Bonus Track)",
+          "duration": "2:14"
+        }
+      ]
+    },
+    {
+      "name": "Among the Living (Deluxe Edition)",
+      "year": "1987",
+      "release_date": "1987-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0b/7e/f9/0b7ef9e8-2921-a4c4-b87b-77b3b9c3986b/09UMGIM38546.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Among the Living",
+          "duration": "5:16"
+        },
+        {
+          "number": 2,
+          "name": "Caught In a Mosh",
+          "duration": "5:00"
+        },
+        {
+          "number": 3,
+          "name": "I Am the Law",
+          "duration": "5:53"
+        },
+        {
+          "number": 4,
+          "name": "Efilnikufesin (N.F.L.)",
+          "duration": "4:54"
+        },
+        {
+          "number": 5,
+          "name": "A Skeleton In the Closet",
+          "duration": "5:29"
+        },
+        {
+          "number": 6,
+          "name": "Indians",
+          "duration": "5:41"
+        },
+        {
+          "number": 7,
+          "name": "One World",
+          "duration": "5:55"
+        },
+        {
+          "number": 8,
+          "name": "A.D.I. / Horror of It All",
+          "duration": "7:49"
+        },
+        {
+          "number": 9,
+          "name": "Imitation of Life",
+          "duration": "4:23"
+        },
+        {
+          "number": 10,
+          "name": "Indians (Alternate Lead)",
+          "duration": "5:39"
+        },
+        {
+          "number": 11,
+          "name": "One World (Alternate Take)",
+          "duration": "5:55"
+        },
+        {
+          "number": 12,
+          "name": "Imitation of Life (Alternate Take)",
+          "duration": "4:26"
+        },
+        {
+          "number": 13,
+          "name": "Bud E. Luv Bomb and Satan's Lounge Band",
+          "duration": "2:45"
+        },
+        {
+          "number": 14,
+          "name": "I Am the Law (Live In Dallas)",
+          "duration": "6:03"
+        },
+        {
+          "number": 15,
+          "name": "I'm the Man (Instrumental)",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
       "name": "Worship Music",
       "year": "2011",
       "release_date": "2011-09-12",
@@ -1540,6 +1540,104 @@
       ]
     },
     {
+      "name": "Kings Among Scotland (Live)",
+      "year": "2018",
+      "release_date": "2018-04-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/09/35/5b/09355bed-803c-f019-59a4-c7ab848f4e51/192562213780.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A.I.R. (Live)",
+          "duration": "7:19"
+        },
+        {
+          "number": 2,
+          "name": "Madhouse (Live)",
+          "duration": "4:36"
+        },
+        {
+          "number": 3,
+          "name": "Evil Twin (Live)",
+          "duration": "5:25"
+        },
+        {
+          "number": 4,
+          "name": "Medusa (Live)",
+          "duration": "5:20"
+        },
+        {
+          "number": 5,
+          "name": "Blood Eagle Wings (Live)",
+          "duration": "7:49"
+        },
+        {
+          "number": 6,
+          "name": "Fight 'Em 'Til You Can't (Live)",
+          "duration": "6:22"
+        },
+        {
+          "number": 7,
+          "name": "Be All, End All (Live)",
+          "duration": "8:05"
+        },
+        {
+          "number": 8,
+          "name": "Breathing Lightning (Live)",
+          "duration": "6:20"
+        },
+        {
+          "number": 9,
+          "name": "Among the Living (Live)",
+          "duration": "4:56"
+        },
+        {
+          "number": 10,
+          "name": "Caught In a Mosh (Live)",
+          "duration": "6:12"
+        },
+        {
+          "number": 11,
+          "name": "One World (Live)",
+          "duration": "6:17"
+        },
+        {
+          "number": 12,
+          "name": "I Am the Law (Live)",
+          "duration": "6:32"
+        },
+        {
+          "number": 13,
+          "name": "A Skeleton In the Closet (Live)",
+          "duration": "6:52"
+        },
+        {
+          "number": 14,
+          "name": "Efilnikufesin (N.F.L.) [Live]",
+          "duration": "6:38"
+        },
+        {
+          "number": 15,
+          "name": "A.D.I. / Horror of It All (Live)",
+          "duration": "10:25"
+        },
+        {
+          "number": 16,
+          "name": "Indians (Live)",
+          "duration": "10:34"
+        },
+        {
+          "number": 17,
+          "name": "Imitation of Life (Live)",
+          "duration": "5:51"
+        },
+        {
+          "number": 18,
+          "name": "Antisocial (Live)",
+          "duration": "7:29"
+        }
+      ]
+    },
+    {
       "name": "Spreading the Disease (Deluxe Edition)",
       "year": "1985",
       "release_date": "1985-10-30",
@@ -1679,104 +1777,6 @@
           "number": 17,
           "name": "The Enemy (12/9/1984 Rhythm Track Tape Version)",
           "duration": "5:29"
-        }
-      ]
-    },
-    {
-      "name": "Kings Among Scotland (Live)",
-      "year": "2018",
-      "release_date": "2018-04-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/09/35/5b/09355bed-803c-f019-59a4-c7ab848f4e51/192562213780.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A.I.R. (Live)",
-          "duration": "7:19"
-        },
-        {
-          "number": 2,
-          "name": "Madhouse (Live)",
-          "duration": "4:36"
-        },
-        {
-          "number": 3,
-          "name": "Evil Twin (Live)",
-          "duration": "5:25"
-        },
-        {
-          "number": 4,
-          "name": "Medusa (Live)",
-          "duration": "5:20"
-        },
-        {
-          "number": 5,
-          "name": "Blood Eagle Wings (Live)",
-          "duration": "7:49"
-        },
-        {
-          "number": 6,
-          "name": "Fight 'Em 'Til You Can't (Live)",
-          "duration": "6:22"
-        },
-        {
-          "number": 7,
-          "name": "Be All, End All (Live)",
-          "duration": "8:05"
-        },
-        {
-          "number": 8,
-          "name": "Breathing Lightning (Live)",
-          "duration": "6:20"
-        },
-        {
-          "number": 9,
-          "name": "Among the Living (Live)",
-          "duration": "4:56"
-        },
-        {
-          "number": 10,
-          "name": "Caught In a Mosh (Live)",
-          "duration": "6:12"
-        },
-        {
-          "number": 11,
-          "name": "One World (Live)",
-          "duration": "6:17"
-        },
-        {
-          "number": 12,
-          "name": "I Am the Law (Live)",
-          "duration": "6:32"
-        },
-        {
-          "number": 13,
-          "name": "A Skeleton In the Closet (Live)",
-          "duration": "6:52"
-        },
-        {
-          "number": 14,
-          "name": "Efilnikufesin (N.F.L.) [Live]",
-          "duration": "6:38"
-        },
-        {
-          "number": 15,
-          "name": "A.D.I. / Horror of It All (Live)",
-          "duration": "10:25"
-        },
-        {
-          "number": 16,
-          "name": "Indians (Live)",
-          "duration": "10:34"
-        },
-        {
-          "number": 17,
-          "name": "Imitation of Life (Live)",
-          "duration": "5:51"
-        },
-        {
-          "number": 18,
-          "name": "Antisocial (Live)",
-          "duration": "7:29"
         }
       ]
     },

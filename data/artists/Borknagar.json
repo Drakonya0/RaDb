@@ -56,50 +56,60 @@
       ]
     },
     {
-      "name": "Fall",
-      "year": "2024",
-      "release_date": "2024-02-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/09/fb/c609fb62-7edd-04af-a649-7e3306d428a7/196871510783.jpg/600x600bb.jpg",
+      "name": "Empiricism",
+      "year": "2001",
+      "release_date": "2001-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/1d/10/8f/1d108f08-a274-65a7-74e3-e449811d9cfe/886443600362.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Summits",
-          "duration": "7:58"
+          "name": "The Genuine Pulse",
+          "duration": "4:51"
         },
         {
           "number": 2,
-          "name": "Nordic Anthem",
-          "duration": "5:14"
+          "name": "Gods of My World",
+          "duration": "4:26"
         },
         {
           "number": 3,
-          "name": "Afar",
-          "duration": "6:54"
+          "name": "The Black Canvas",
+          "duration": "5:18"
         },
         {
           "number": 4,
-          "name": "Moon",
-          "duration": "5:51"
+          "name": "Matter & Motion",
+          "duration": "2:30"
         },
         {
           "number": 5,
-          "name": "Stars Ablaze",
-          "duration": "8:26"
+          "name": "Soul Sphere",
+          "duration": "6:41"
         },
         {
           "number": 6,
-          "name": "Unraveling",
-          "duration": "4:33"
+          "name": "Inherit the Earth",
+          "duration": "5:29"
         },
         {
           "number": 7,
-          "name": "The Wild Lingers",
-          "duration": "5:34"
+          "name": "The Stellar Dome",
+          "duration": "5:36"
         },
         {
           "number": 8,
-          "name": "Northward",
-          "duration": "9:54"
+          "name": "Four Element Synchronicity",
+          "duration": "5:51"
+        },
+        {
+          "number": 9,
+          "name": "Liberated",
+          "duration": "4:51"
+        },
+        {
+          "number": 10,
+          "name": "The View of Everlast",
+          "duration": "4:30"
         }
       ]
     },
@@ -206,6 +216,54 @@
           "number": 10,
           "name": "Tanker Mot Tind (Gryning)",
           "duration": "2:56"
+        }
+      ]
+    },
+    {
+      "name": "Fall",
+      "year": "2024",
+      "release_date": "2024-02-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/09/fb/c609fb62-7edd-04af-a649-7e3306d428a7/196871510783.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Summits",
+          "duration": "7:58"
+        },
+        {
+          "number": 2,
+          "name": "Nordic Anthem",
+          "duration": "5:14"
+        },
+        {
+          "number": 3,
+          "name": "Afar",
+          "duration": "6:54"
+        },
+        {
+          "number": 4,
+          "name": "Moon",
+          "duration": "5:51"
+        },
+        {
+          "number": 5,
+          "name": "Stars Ablaze",
+          "duration": "8:26"
+        },
+        {
+          "number": 6,
+          "name": "Unraveling",
+          "duration": "4:33"
+        },
+        {
+          "number": 7,
+          "name": "The Wild Lingers",
+          "duration": "5:34"
+        },
+        {
+          "number": 8,
+          "name": "Northward",
+          "duration": "9:54"
         }
       ]
     },
@@ -418,64 +476,6 @@
           "number": 10,
           "name": "Revolt",
           "duration": "6:05"
-        }
-      ]
-    },
-    {
-      "name": "Empiricism",
-      "year": "2001",
-      "release_date": "2001-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/1d/10/8f/1d108f08-a274-65a7-74e3-e449811d9cfe/886443600362.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Genuine Pulse",
-          "duration": "4:51"
-        },
-        {
-          "number": 2,
-          "name": "Gods of My World",
-          "duration": "4:26"
-        },
-        {
-          "number": 3,
-          "name": "The Black Canvas",
-          "duration": "5:18"
-        },
-        {
-          "number": 4,
-          "name": "Matter & Motion",
-          "duration": "2:30"
-        },
-        {
-          "number": 5,
-          "name": "Soul Sphere",
-          "duration": "6:41"
-        },
-        {
-          "number": 6,
-          "name": "Inherit the Earth",
-          "duration": "5:29"
-        },
-        {
-          "number": 7,
-          "name": "The Stellar Dome",
-          "duration": "5:36"
-        },
-        {
-          "number": 8,
-          "name": "Four Element Synchronicity",
-          "duration": "5:51"
-        },
-        {
-          "number": 9,
-          "name": "Liberated",
-          "duration": "4:51"
-        },
-        {
-          "number": 10,
-          "name": "The View of Everlast",
-          "duration": "4:30"
         }
       ]
     },

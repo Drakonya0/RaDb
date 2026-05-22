@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "GTR",
-      "year": "2022",
-      "release_date": "2022-10-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/0b/eb/170beb83-60b1-bc6c-1792-a4ac4b195171/735910516296_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "GTR",
-          "duration": "2:10"
-        }
-      ]
-    },
-    {
       "name": "What Can I Do (feat. Kaylee)",
       "year": "2023",
       "release_date": "2023-07-07",
@@ -31,6 +18,19 @@
           "number": 2,
           "name": "What Can I Do (feat. Kaylee)",
           "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "GTR",
+      "year": "2022",
+      "release_date": "2022-10-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/0b/eb/170beb83-60b1-bc6c-1792-a4ac4b195171/735910516296_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "GTR",
+          "duration": "2:10"
         }
       ]
     },
@@ -126,6 +126,29 @@
         {
           "number": 1,
           "name": "Gangsta (feat. Lunis)",
+          "duration": "2:30"
+        }
+      ]
+    },
+    {
+      "name": "PENTHOUSE",
+      "year": "2026",
+      "release_date": "2026-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/d6/a3/b7d6a353-8197-8c05-bd5a-679132ae9292/3288949.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PENTHOUSE",
+          "duration": "2:36"
+        },
+        {
+          "number": 2,
+          "name": "PENTHOUSE (Slowed)",
+          "duration": "2:47"
+        },
+        {
+          "number": 3,
+          "name": "PENTHOUSE (Sped Up)",
           "duration": "2:30"
         }
       ]
@@ -839,24 +862,6 @@
       ]
     },
     {
-      "name": "Mtg Coração",
-      "year": "2023",
-      "release_date": "2023-09-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/7e/2b/087e2b3c-6f70-de43-7b65-70731eede9f9/081667663029.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mtg - Coração (Slowed)",
-          "duration": "2:22"
-        },
-        {
-          "number": 2,
-          "name": "Mtg - Coração (Speed Up)",
-          "duration": "1:39"
-        }
-      ]
-    },
-    {
       "name": "Tuca Tuca (TOKYOSLEEP Remix) [feat. MC Roba Cena]",
       "year": "2023",
       "release_date": "2023-10-06",
@@ -1039,19 +1044,6 @@
           "number": 1,
           "name": "Destruído",
           "duration": "1:20"
-        }
-      ]
-    },
-    {
-      "name": "Endless Rave",
-      "year": "2024",
-      "release_date": "2024-03-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/0e/98/db0e987e-6fd5-9345-3e4f-e9d19c6d4b10/795005810661.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Endless Rave",
-          "duration": "2:06"
         }
       ]
     },
@@ -1547,6 +1539,34 @@
     }
   ],
   "eps": [
+    {
+      "name": "NUM ABISMO",
+      "year": "2026",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/bf/e9/ccbfe9c9-d43a-10b5-3af6-d5a83e77faa6/539345.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NUM ABISMO",
+          "duration": "1:19"
+        },
+        {
+          "number": 2,
+          "name": "NUM ABISMO (Slowed)",
+          "duration": "1:28"
+        },
+        {
+          "number": 3,
+          "name": "NUM ABISMO (Super Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "NUM ABISMO (Sped Up)",
+          "duration": "1:15"
+        }
+      ]
+    },
     {
       "name": "MONTAGEM PERDIDO",
       "year": "2025",
@@ -2343,34 +2363,6 @@
       ]
     },
     {
-      "name": "Vem Balançar",
-      "year": "2025",
-      "release_date": "2025-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/9e/cc/c09ecc99-f104-e09b-ebb5-fe3bc1f4d035/044317319677.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Vem Balançar",
-          "duration": "1:53"
-        },
-        {
-          "number": 2,
-          "name": "Vem Balançar (Slowed)",
-          "duration": "2:04"
-        },
-        {
-          "number": 3,
-          "name": "Vem Balançar (Sped Up)",
-          "duration": "1:47"
-        },
-        {
-          "number": 4,
-          "name": "Vem Balançar (Super Slowed)",
-          "duration": "2:21"
-        }
-      ]
-    },
-    {
       "name": "LOS VOLTAJE FUNK",
       "year": "2026",
       "release_date": "2026-04-03",
@@ -2568,34 +2560,6 @@
       "year": "2026",
       "release_date": "2026-02-27",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/61/a1/3a61a119-99af-4656-3d13-cfb85ab66e7e/539345.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NUM ABISMO",
-          "duration": "1:19"
-        },
-        {
-          "number": 2,
-          "name": "NUM ABISMO (Slowed)",
-          "duration": "1:28"
-        },
-        {
-          "number": 3,
-          "name": "NUM ABISMO (Super Slowed)",
-          "duration": "1:42"
-        },
-        {
-          "number": 4,
-          "name": "NUM ABISMO (Sped Up)",
-          "duration": "1:15"
-        }
-      ]
-    },
-    {
-      "name": "NUM ABISMO",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/bf/e9/ccbfe9c9-d43a-10b5-3af6-d5a83e77faa6/539345.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,

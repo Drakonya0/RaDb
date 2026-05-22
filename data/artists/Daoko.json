@@ -421,6 +421,49 @@
       ]
     },
     {
+      "name": "Charmpoint (Special Edition)",
+      "year": "2017",
+      "release_date": "2017-12-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5b/81/a5/5b81a511-3aba-0749-3748-c5b8bb972fd0/TFDS-00442WW.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Charmpoint",
+          "duration": "0:54"
+        },
+        {
+          "number": 2,
+          "name": "Kabukicho No Jyoou",
+          "duration": "4:15"
+        },
+        {
+          "number": 3,
+          "name": "Boy (Re-Arrange)",
+          "duration": "4:21"
+        },
+        {
+          "number": 4,
+          "name": "Boku (Re-Arrange)",
+          "duration": "5:11"
+        },
+        {
+          "number": 5,
+          "name": "Okay!",
+          "duration": "3:47"
+        },
+        {
+          "number": 6,
+          "name": "Samishiikamisama (Re-Arrange)",
+          "duration": "3:23"
+        },
+        {
+          "number": 7,
+          "name": "Fog (Re-Arrange)",
+          "duration": "4:09"
+        }
+      ]
+    },
+    {
       "name": "Slash-&-Burn",
       "year": "2024",
       "release_date": "2024-05-22",
@@ -485,49 +528,6 @@
           "number": 12,
           "name": "Akame No Buildings",
           "duration": "4:10"
-        }
-      ]
-    },
-    {
-      "name": "Charmpoint (Special Edition)",
-      "year": "2017",
-      "release_date": "2017-12-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5b/81/a5/5b81a511-3aba-0749-3748-c5b8bb972fd0/TFDS-00442WW.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Charmpoint",
-          "duration": "0:54"
-        },
-        {
-          "number": 2,
-          "name": "Kabukicho No Jyoou",
-          "duration": "4:15"
-        },
-        {
-          "number": 3,
-          "name": "Boy (Re-Arrange)",
-          "duration": "4:21"
-        },
-        {
-          "number": 4,
-          "name": "Boku (Re-Arrange)",
-          "duration": "5:11"
-        },
-        {
-          "number": 5,
-          "name": "Okay!",
-          "duration": "3:47"
-        },
-        {
-          "number": 6,
-          "name": "Samishiikamisama (Re-Arrange)",
-          "duration": "3:23"
-        },
-        {
-          "number": 7,
-          "name": "Fog (Re-Arrange)",
-          "duration": "4:09"
         }
       ]
     },
@@ -1033,24 +1033,6 @@
       ]
     },
     {
-      "name": "Act (feat. Daoko)",
-      "year": "2025",
-      "release_date": "2025-04-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/78/4d/41784d8e-3c65-8f9b-54dd-b28e00ed63e0/4550708149168_cover.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Act (feat. Daoko)",
-          "duration": "2:43"
-        },
-        {
-          "number": 2,
-          "name": "Act (feat. Daoko) [Instrumental]",
-          "duration": "2:43"
-        }
-      ]
-    },
-    {
       "name": "The Light of Other Days",
       "year": "2021",
       "release_date": "2021-06-30",
@@ -1113,6 +1095,24 @@
       ]
     },
     {
+      "name": "Act (feat. Daoko)",
+      "year": "2025",
+      "release_date": "2025-04-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/78/4d/41784d8e-3c65-8f9b-54dd-b28e00ed63e0/4550708149168_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Act (feat. Daoko)",
+          "duration": "2:43"
+        },
+        {
+          "number": 2,
+          "name": "Act (feat. Daoko) [Instrumental]",
+          "duration": "2:43"
+        }
+      ]
+    },
+    {
       "name": "Hajimemashiteno Kimochiwo",
       "year": "2019",
       "release_date": "2019-09-04",
@@ -1126,19 +1126,6 @@
       ]
     },
     {
-      "name": "COMIT COMET",
-      "year": "2026",
-      "release_date": "2026-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/51/71/8c51718f-b602-c6ef-24c5-aa6936c3d135/4540774748105.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "COMIT COMET",
-          "duration": "3:27"
-        }
-      ]
-    },
-    {
       "name": "Ocharaketayo",
       "year": "2020",
       "release_date": "2020-03-25",
@@ -1148,6 +1135,19 @@
           "number": 1,
           "name": "Ocharaketayo",
           "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "COMIT COMET",
+      "year": "2026",
+      "release_date": "2026-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/51/71/8c51718f-b602-c6ef-24c5-aa6936c3d135/4540774748105.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "COMIT COMET",
+          "duration": "3:27"
         }
       ]
     },
@@ -1256,19 +1256,6 @@
       ]
     },
     {
-      "name": "Filter//Bubble (feat. suisoh & Daoko)",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/ae/4c/deae4c1d-66bf-dab5-446b-a69f006438ea/PA00213949_0_241064_jacket.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Filter//Bubble (feat. suisoh & Daoko)",
-          "duration": "2:50"
-        }
-      ]
-    },
-    {
       "name": "Nanairo Colorful",
       "year": "2023",
       "release_date": "2023-12-20",
@@ -1278,6 +1265,19 @@
           "number": 1,
           "name": "Nanairo Colorful",
           "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "Filter//Bubble (feat. suisoh & Daoko)",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/ae/4c/deae4c1d-66bf-dab5-446b-a69f006438ea/PA00213949_0_241064_jacket.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Filter//Bubble (feat. suisoh & Daoko)",
+          "duration": "2:50"
         }
       ]
     },
@@ -1434,6 +1434,34 @@
   ],
   "eps": [
     {
+      "name": "Mad",
+      "year": "2022",
+      "release_date": "2022-03-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/b8/a1/49b8a155-f588-5bd2-276a-5fd2f465f911/4580740860073_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mad",
+          "duration": "3:29"
+        },
+        {
+          "number": 2,
+          "name": "Spoopy",
+          "duration": "2:55"
+        },
+        {
+          "number": 3,
+          "name": "Escape",
+          "duration": "3:43"
+        },
+        {
+          "number": 4,
+          "name": "Cha Cha",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
       "name": "meta millefeuille",
       "year": "2025",
       "release_date": "2025-11-19",
@@ -1463,34 +1491,6 @@
           "number": 5,
           "name": "Rhythm in the Sunset",
           "duration": "3:20"
-        }
-      ]
-    },
-    {
-      "name": "Mad",
-      "year": "2022",
-      "release_date": "2022-03-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/49/b8/a1/49b8a155-f588-5bd2-276a-5fd2f465f911/4580740860073_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mad",
-          "duration": "3:29"
-        },
-        {
-          "number": 2,
-          "name": "Spoopy",
-          "duration": "2:55"
-        },
-        {
-          "number": 3,
-          "name": "Escape",
-          "duration": "3:43"
-        },
-        {
-          "number": 4,
-          "name": "Cha Cha",
-          "duration": "2:55"
         }
       ]
     },

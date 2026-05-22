@@ -96,49 +96,6 @@
       ]
     },
     {
-      "name": "Грешники",
-      "year": "2023",
-      "release_date": "2023-11-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c3/b1/92/c3b192c3-0f6f-a9cc-f792-68580f4f0bf7/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Попса",
-          "duration": "1:38"
-        },
-        {
-          "number": 2,
-          "name": "В игноре",
-          "duration": "2:01"
-        },
-        {
-          "number": 3,
-          "name": "Sprite",
-          "duration": "1:51"
-        },
-        {
-          "number": 4,
-          "name": "Дракулина",
-          "duration": "2:00"
-        },
-        {
-          "number": 5,
-          "name": "Тайный знак",
-          "duration": "2:31"
-        },
-        {
-          "number": 6,
-          "name": "Сердце",
-          "duration": "2:22"
-        },
-        {
-          "number": 7,
-          "name": "Emily",
-          "duration": "2:45"
-        }
-      ]
-    },
-    {
       "name": "Balafrés",
       "year": "2020",
       "release_date": "2020-11-27",
@@ -346,6 +303,49 @@
           "duration": "2:25"
         }
       ]
+    },
+    {
+      "name": "Грешники",
+      "year": "2023",
+      "release_date": "2023-11-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c3/b1/92/c3b192c3-0f6f-a9cc-f792-68580f4f0bf7/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Попса",
+          "duration": "1:38"
+        },
+        {
+          "number": 2,
+          "name": "В игноре",
+          "duration": "2:01"
+        },
+        {
+          "number": 3,
+          "name": "Sprite",
+          "duration": "1:51"
+        },
+        {
+          "number": 4,
+          "name": "Дракулина",
+          "duration": "2:00"
+        },
+        {
+          "number": 5,
+          "name": "Тайный знак",
+          "duration": "2:31"
+        },
+        {
+          "number": 6,
+          "name": "Сердце",
+          "duration": "2:22"
+        },
+        {
+          "number": 7,
+          "name": "Emily",
+          "duration": "2:45"
+        }
+      ]
     }
   ],
   "singles": [
@@ -376,19 +376,6 @@
       ]
     },
     {
-      "name": "Le bruit des glaçons (feat. Nefaste, Kenyon & Itam)",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/90/0b/3a900bc1-6816-5db6-1df5-7df09a2122bd/192518807773.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Le bruit des glaçons (feat. Nefaste, Kenyon & Itam)",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "24 Décembre (feat. Verso)",
       "year": "2024",
       "release_date": "2024-11-06",
@@ -398,19 +385,6 @@
           "number": 1,
           "name": "24 Décembre (feat. Verso)",
           "duration": "3:50"
-        }
-      ]
-    },
-    {
-      "name": "Con vos",
-      "year": "2022",
-      "release_date": "2022-11-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/54/62/62/54626257-3fac-a31b-de5f-fb3bdc3e5aba/9d06bb44-a429-4fe3-b50a-1888ce8638d6.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Con vos",
-          "duration": "2:42"
         }
       ]
     },
@@ -428,19 +402,6 @@
       ]
     },
     {
-      "name": "Art d'illetré",
-      "year": "2026",
-      "release_date": "2026-01-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/da/99/6bda9984-d1f2-6eca-5bb2-cc0cccc06358/3667007214297_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Art d'illetré",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
       "name": "Gouttes de pluie (feat. Géabé, Itam & Tulipe)",
       "year": "2024",
       "release_date": "2024-08-29",
@@ -450,6 +411,58 @@
           "number": 1,
           "name": "Gouttes de pluie (feat. Géabé, Itam & Tulipe)",
           "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Le reflet (feat. Dyno274 & Itam)",
+      "year": "2016",
+      "release_date": "2016-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/da/87/dcda8709-f0d4-a123-e965-bbdf733a2c33/192518198260.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Le reflet (feat. Itam & Dyno274)",
+          "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "Le bruit des glaçons (feat. Nefaste, Kenyon & Itam)",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/90/0b/3a900bc1-6816-5db6-1df5-7df09a2122bd/192518807773.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Le bruit des glaçons (feat. Nefaste, Kenyon & Itam)",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Con vos",
+      "year": "2022",
+      "release_date": "2022-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/54/62/62/54626257-3fac-a31b-de5f-fb3bdc3e5aba/9d06bb44-a429-4fe3-b50a-1888ce8638d6.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Con vos",
+          "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "Art d'illetré",
+      "year": "2026",
+      "release_date": "2026-01-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/da/99/6bda9984-d1f2-6eca-5bb2-cc0cccc06358/3667007214297_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Art d'illetré",
+          "duration": "3:00"
         }
       ]
     },
@@ -467,15 +480,15 @@
       ]
     },
     {
-      "name": "Le reflet (feat. Dyno274 & Itam)",
-      "year": "2016",
-      "release_date": "2016-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/da/87/dcda8709-f0d4-a123-e965-bbdf733a2c33/192518198260.jpg/600x600bb.jpg",
+      "name": "Toujours une m***e",
+      "year": "2026",
+      "release_date": "2026-05-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/14/36/831436e5-f5f4-a51f-cbd1-fd870369d4f4/3664216105057.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Le reflet (feat. Itam & Dyno274)",
-          "duration": "3:52"
+          "name": "Toujours une m***e",
+          "duration": "2:43"
         }
       ]
     },

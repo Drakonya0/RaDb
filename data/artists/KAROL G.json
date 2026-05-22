@@ -96,94 +96,6 @@
       ]
     },
     {
-      "name": "OCEAN",
-      "year": "2019",
-      "release_date": "2019-05-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/3c/36/423c3606-2ea7-fe23-9d74-b29e8ddbef7f/19UMGIM28164.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ocean",
-          "duration": "2:33"
-        },
-        {
-          "number": 2,
-          "name": "Punto G",
-          "duration": "3:01"
-        },
-        {
-          "number": 3,
-          "name": "Love With A Quality (feat. Damian \"Jr. Gong\" Marley)",
-          "duration": "3:41"
-        },
-        {
-          "number": 4,
-          "name": "Baby",
-          "duration": "3:58"
-        },
-        {
-          "number": 5,
-          "name": "Sin Corazón",
-          "duration": "2:49"
-        },
-        {
-          "number": 6,
-          "name": "Dices Que Te Vas (feat. Anuel AA)",
-          "duration": "3:23"
-        },
-        {
-          "number": 7,
-          "name": "Pineapple",
-          "duration": "2:58"
-        },
-        {
-          "number": 8,
-          "name": "La Vida Continuó (feat. Simone & Simaria)",
-          "duration": "2:45"
-        },
-        {
-          "number": 9,
-          "name": "Bebesita",
-          "duration": "3:02"
-        },
-        {
-          "number": 10,
-          "name": "Culpables",
-          "duration": "3:46"
-        },
-        {
-          "number": 11,
-          "name": "Mi Cama",
-          "duration": "2:30"
-        },
-        {
-          "number": 12,
-          "name": "La Ocasión Perfecta (feat. Yandel)",
-          "duration": "3:41"
-        },
-        {
-          "number": 13,
-          "name": "Créeme",
-          "duration": "3:32"
-        },
-        {
-          "number": 14,
-          "name": "Go Karo",
-          "duration": "2:28"
-        },
-        {
-          "number": 15,
-          "name": "Mi Cama (feat. Nicky Jam) [Remix]",
-          "duration": "3:15"
-        },
-        {
-          "number": 16,
-          "name": "Yo Aprendí (feat. Danay Suárez)",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "Tropicoqueta",
       "year": "2025",
       "release_date": "2025-06-20",
@@ -288,6 +200,94 @@
           "number": 20,
           "name": "Tropicoqueta",
           "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "OCEAN",
+      "year": "2019",
+      "release_date": "2019-05-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/3c/36/423c3606-2ea7-fe23-9d74-b29e8ddbef7f/19UMGIM28164.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ocean",
+          "duration": "2:33"
+        },
+        {
+          "number": 2,
+          "name": "Punto G",
+          "duration": "3:01"
+        },
+        {
+          "number": 3,
+          "name": "Love With A Quality (feat. Damian \"Jr. Gong\" Marley)",
+          "duration": "3:41"
+        },
+        {
+          "number": 4,
+          "name": "Baby",
+          "duration": "3:58"
+        },
+        {
+          "number": 5,
+          "name": "Sin Corazón",
+          "duration": "2:49"
+        },
+        {
+          "number": 6,
+          "name": "Dices Que Te Vas (feat. Anuel AA)",
+          "duration": "3:23"
+        },
+        {
+          "number": 7,
+          "name": "Pineapple",
+          "duration": "2:58"
+        },
+        {
+          "number": 8,
+          "name": "La Vida Continuó (feat. Simone & Simaria)",
+          "duration": "2:45"
+        },
+        {
+          "number": 9,
+          "name": "Bebesita",
+          "duration": "3:02"
+        },
+        {
+          "number": 10,
+          "name": "Culpables",
+          "duration": "3:46"
+        },
+        {
+          "number": 11,
+          "name": "Mi Cama",
+          "duration": "2:30"
+        },
+        {
+          "number": 12,
+          "name": "La Ocasión Perfecta (feat. Yandel)",
+          "duration": "3:41"
+        },
+        {
+          "number": 13,
+          "name": "Créeme",
+          "duration": "3:32"
+        },
+        {
+          "number": 14,
+          "name": "Go Karo",
+          "duration": "2:28"
+        },
+        {
+          "number": 15,
+          "name": "Mi Cama (feat. Nicky Jam) [Remix]",
+          "duration": "3:15"
+        },
+        {
+          "number": 16,
+          "name": "Yo Aprendí (feat. Danay Suárez)",
+          "duration": "3:05"
         }
       ]
     },
@@ -584,19 +584,6 @@
   ],
   "singles": [
     {
-      "name": "MAMIII",
-      "year": "2022",
-      "release_date": "2022-02-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/9b/e6/9e9be6a5-431d-3f48-f7b8-76d0726b909e/886449885053.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MAMIII",
-          "duration": "3:46"
-        }
-      ]
-    },
-    {
       "name": "Tusa",
       "year": "2019",
       "release_date": "2019-11-07",
@@ -606,6 +593,32 @@
           "number": 1,
           "name": "Tusa",
           "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "Si Antes Te Hubiera Conocido",
+      "year": "2024",
+      "release_date": "2024-06-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Si Antes Te Hubiera Conocido",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "MAMIII",
+      "year": "2022",
+      "release_date": "2022-02-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/9b/e6/9e9be6a5-431d-3f48-f7b8-76d0726b909e/886449885053.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MAMIII",
+          "duration": "3:46"
         }
       ]
     },
@@ -623,15 +636,28 @@
       ]
     },
     {
-      "name": "Si Antes Te Hubiera Conocido",
-      "year": "2024",
-      "release_date": "2024-06-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/60/94/a060947c-54d8-0fad-c558-eed12600224c/24UMGIM62705.rgb.jpg/600x600bb.jpg",
+      "name": "PROVENZA",
+      "year": "2022",
+      "release_date": "2022-04-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4b/91/32/4b91325f-a1ae-05d8-523d-011549d20a42/22UMGIM40133.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Si Antes Te Hubiera Conocido",
-          "duration": "3:15"
+          "name": "PROVENZA",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Milagros",
+      "year": "2025",
+      "release_date": "2025-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/09/f4/1809f4ad-3fdf-5fe2-d3d7-d81aa75c44cd/25UMGIM59910.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Milagros",
+          "duration": "3:55"
         }
       ]
     },
@@ -688,6 +714,19 @@
       ]
     },
     {
+      "name": "Después de ti",
+      "year": "2026",
+      "release_date": "2026-04-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/3d/ff/883dff72-2bf3-0400-3811-1555d2937fb7/26UMGIM50105.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Después de ti",
+          "duration": "4:35"
+        }
+      ]
+    },
+    {
       "name": "LATINA FOREVA",
       "year": "2025",
       "release_date": "2025-05-22",
@@ -714,45 +753,6 @@
       ]
     },
     {
-      "name": "Después de ti",
-      "year": "2026",
-      "release_date": "2026-04-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/3d/ff/883dff72-2bf3-0400-3811-1555d2937fb7/26UMGIM50105.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Después de ti",
-          "duration": "4:35"
-        }
-      ]
-    },
-    {
-      "name": "Milagros",
-      "year": "2025",
-      "release_date": "2025-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/09/f4/1809f4ad-3fdf-5fe2-d3d7-d81aa75c44cd/25UMGIM59910.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Milagros",
-          "duration": "3:55"
-        }
-      ]
-    },
-    {
-      "name": "PROVENZA",
-      "year": "2022",
-      "release_date": "2022-04-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4b/91/32/4b91325f-a1ae-05d8-523d-011549d20a42/22UMGIM40133.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PROVENZA",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "BICHOTA",
       "year": "2020",
       "release_date": "2020-10-23",
@@ -762,24 +762,6 @@
           "number": 1,
           "name": "BICHOTA",
           "duration": "2:58"
-        }
-      ]
-    },
-    {
-      "name": "Tá OK (Remix)",
-      "year": "2023",
-      "release_date": "2023-08-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/7d/2d/e87d2daa-d9f9-b5fc-5704-72ded2ffcf35/196871281270.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tá OK (Remix)",
-          "duration": "2:51"
-        },
-        {
-          "number": 2,
-          "name": "Tá OK",
-          "duration": "1:32"
         }
       ]
     },
@@ -806,6 +788,24 @@
           "number": 1,
           "name": "GATÚBELA",
           "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "Tá OK (Remix)",
+      "year": "2023",
+      "release_date": "2023-08-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/7d/2d/e87d2daa-d9f9-b5fc-5704-72ded2ffcf35/196871281270.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tá OK (Remix)",
+          "duration": "2:51"
+        },
+        {
+          "number": 2,
+          "name": "Tá OK",
+          "duration": "1:32"
         }
       ]
     },
@@ -1313,19 +1313,6 @@
           "number": 1,
           "name": "Eres Mi Todo",
           "duration": "3:06"
-        }
-      ]
-    },
-    {
-      "name": "Peligrosa",
-      "year": "2019",
-      "release_date": "2019-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/23/c3/d8/23c3d81e-edd5-5c83-0b8c-9ab6966c6300/00602577491795.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Peligrosa",
-          "duration": "3:38"
         }
       ]
     },

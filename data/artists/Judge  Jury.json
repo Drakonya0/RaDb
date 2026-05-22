@@ -534,6 +534,19 @@
   ],
   "singles": [
     {
+      "name": "Lost In Your Touch",
+      "year": "2026",
+      "release_date": "2026-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/11/02/cd110260-7e16-a015-956a-ce7b89968217/199891669981_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lost In Your Touch",
+          "duration": "3:43"
+        }
+      ]
+    },
+    {
       "name": "Waiting On The Sky To Change (feat. Breaking Benjamin)",
       "year": "2022",
       "release_date": "2022-08-19",
@@ -612,15 +625,15 @@
       ]
     },
     {
-      "name": "Lost In Your Touch",
+      "name": "GLITCH BITCH",
       "year": "2026",
-      "release_date": "2026-03-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/11/02/cd110260-7e16-a015-956a-ce7b89968217/199891669981_cover.jpg/600x600bb.jpg",
+      "release_date": "2026-01-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/3b/84/853b8466-2e79-e8f1-a694-62b4d0e6c373/199891101078_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Lost In Your Touch",
-          "duration": "3:43"
+          "name": "GLITCH BITCH",
+          "duration": "2:51"
         }
       ]
     },
@@ -638,15 +651,15 @@
       ]
     },
     {
-      "name": "GLITCH BITCH",
-      "year": "2026",
-      "release_date": "2026-01-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/3b/84/853b8466-2e79-e8f1-a694-62b4d0e6c373/199891101078_cover.jpg/600x600bb.jpg",
+      "name": "Worlds Apart",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/fa/0e/6ffa0eb6-0182-3c5b-7cb0-a921b1da6352/199502617103_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "GLITCH BITCH",
-          "duration": "2:51"
+          "name": "Worlds Apart",
+          "duration": "4:07"
         }
       ]
     },
@@ -660,19 +673,6 @@
           "number": 1,
           "name": "Black Dove",
           "duration": "3:23"
-        }
-      ]
-    },
-    {
-      "name": "Worlds Apart",
-      "year": "2025",
-      "release_date": "2025-11-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/fa/0e/6ffa0eb6-0182-3c5b-7cb0-a921b1da6352/199502617103_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Worlds Apart",
-          "duration": "4:07"
         }
       ]
     },
@@ -807,19 +807,6 @@
       ]
     },
     {
-      "name": "SICK SICK SICK",
-      "year": "2025",
-      "release_date": "2025-11-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/20/df/dc20df56-fa32-1901-35b0-92a31888fa40/199891118953_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SICK SICK SICK",
-          "duration": "2:30"
-        }
-      ]
-    },
-    {
       "name": "Darkness Before The Dawn",
       "year": "2023",
       "release_date": "2023-04-21",
@@ -891,6 +878,19 @@
           "number": 1,
           "name": "Running Up That Hill",
           "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "SICK SICK SICK",
+      "year": "2025",
+      "release_date": "2025-11-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/20/df/dc20df56-fa32-1901-35b0-92a31888fa40/199891118953_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SICK SICK SICK",
+          "duration": "2:30"
         }
       ]
     },
@@ -1593,6 +1593,19 @@
       ]
     },
     {
+      "name": "Edge of a Knife",
+      "year": "2026",
+      "release_date": "2026-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/33/06/e63306a2-c2ba-25d5-cb7c-8abd58e4ac9d/824296691359_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Edge of a Knife",
+          "duration": "2:40"
+        }
+      ]
+    },
+    {
       "name": "The Urge",
       "year": "2024",
       "release_date": "2024-08-23",
@@ -1761,39 +1774,6 @@
   ],
   "eps": [
     {
-      "name": "Cope",
-      "year": "2026",
-      "release_date": "2026-04-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/74/f6/8974f6cc-4af6-9b57-c833-19249e5ae7f9/199891960651_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cope",
-          "duration": "3:38"
-        },
-        {
-          "number": 2,
-          "name": "Euphoria",
-          "duration": "3:44"
-        },
-        {
-          "number": 3,
-          "name": "Too Broke To Fix",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
-          "name": "Hit 'Em Where It Hurts",
-          "duration": "2:51"
-        },
-        {
-          "number": 5,
-          "name": "They Don't Really Care About Us",
-          "duration": "4:02"
-        }
-      ]
-    },
-    {
       "name": "Insincerity",
       "year": "2025",
       "release_date": "2025-10-28",
@@ -1828,6 +1808,39 @@
           "number": 6,
           "name": "Sincerity",
           "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "Cope",
+      "year": "2026",
+      "release_date": "2026-04-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/74/f6/8974f6cc-4af6-9b57-c833-19249e5ae7f9/199891960651_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cope",
+          "duration": "3:38"
+        },
+        {
+          "number": 2,
+          "name": "Euphoria",
+          "duration": "3:44"
+        },
+        {
+          "number": 3,
+          "name": "Too Broke To Fix",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "Hit 'Em Where It Hurts",
+          "duration": "2:51"
+        },
+        {
+          "number": 5,
+          "name": "They Don't Really Care About Us",
+          "duration": "4:02"
         }
       ]
     },

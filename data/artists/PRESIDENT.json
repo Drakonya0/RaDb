@@ -1,21 +1,67 @@
 {
   "name": "PRESIDENT",
   "id": 1808681551,
-  "albums": [],
-  "singles": [
+  "albums": [
     {
-      "name": "In the Name of the Father",
-      "year": "2025",
-      "release_date": "2025-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/b3/a1/85b3a1b5-7db1-c44d-7427-ab7c1905cc96/5034644616919.jpg/600x600bb.jpg",
+      "name": "Blood Of Your Empire",
+      "year": "2026",
+      "release_date": "2026-09-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/8d/60/508d606b-88a2-7def-5dd3-e5a37f38326f/075679576392.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "In the Name of the Father",
-          "duration": "3:47"
+          "name": "Angel Wings",
+          "duration": "3:52"
+        },
+        {
+          "number": 2,
+          "name": "DOOM LOOP",
+          "duration": "4:00"
+        },
+        {
+          "number": 3,
+          "name": "dark heaven",
+          "duration": "0:00"
+        },
+        {
+          "number": 4,
+          "name": "Pink Noise",
+          "duration": "0:00"
+        },
+        {
+          "number": 5,
+          "name": "Mercy",
+          "duration": "3:49"
+        },
+        {
+          "number": 6,
+          "name": "Sleepwalker",
+          "duration": "0:00"
+        },
+        {
+          "number": 7,
+          "name": "Dionysus",
+          "duration": "0:00"
+        },
+        {
+          "number": 8,
+          "name": "This Will Divide Us",
+          "duration": "0:00"
+        },
+        {
+          "number": 9,
+          "name": "Hate Figure (feat. Ando San)",
+          "duration": "0:00"
+        },
+        {
+          "number": 10,
+          "name": "White Devil",
+          "duration": "0:00"
         }
       ]
-    },
+    }
+  ],
+  "singles": [
     {
       "name": "Angel Wings",
       "year": "2026",
@@ -26,6 +72,19 @@
           "number": 1,
           "name": "Angel Wings",
           "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "In the Name of the Father",
+      "year": "2025",
+      "release_date": "2025-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/b3/a1/85b3a1b5-7db1-c44d-7427-ab7c1905cc96/5034644616919.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In the Name of the Father",
+          "duration": "3:47"
         }
       ]
     },

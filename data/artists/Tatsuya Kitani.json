@@ -3,6 +3,49 @@
   "id": 1289607378,
   "albums": [
     {
+      "name": "DEMAGOG",
+      "year": "2020",
+      "release_date": "2020-08-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/01/dd/26/01dd26fd-7489-c743-0f27-8d19163b8f83/4547366466904.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HIDE AND SEEK",
+          "duration": "3:40"
+        },
+        {
+          "number": 2,
+          "name": "PANOPTICON",
+          "duration": "3:45"
+        },
+        {
+          "number": 3,
+          "name": "DEAD WEIGHT",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "HUMANLIKE",
+          "duration": "4:00"
+        },
+        {
+          "number": 5,
+          "name": "BAD DREAM",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "DEMAGOG",
+          "duration": "4:39"
+        },
+        {
+          "number": 7,
+          "name": "LOTUSES",
+          "duration": "3:19"
+        }
+      ]
+    },
+    {
       "name": "ROUNDABOUT",
       "year": "2024",
       "release_date": "2024-01-10",
@@ -57,49 +100,6 @@
           "number": 10,
           "name": "Even as an Adult",
           "duration": "3:01"
-        }
-      ]
-    },
-    {
-      "name": "DEMAGOG",
-      "year": "2020",
-      "release_date": "2020-08-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/01/dd/26/01dd26fd-7489-c743-0f27-8d19163b8f83/4547366466904.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HIDE AND SEEK",
-          "duration": "3:40"
-        },
-        {
-          "number": 2,
-          "name": "PANOPTICON",
-          "duration": "3:45"
-        },
-        {
-          "number": 3,
-          "name": "DEAD WEIGHT",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
-          "name": "HUMANLIKE",
-          "duration": "4:00"
-        },
-        {
-          "number": 5,
-          "name": "BAD DREAM",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "DEMAGOG",
-          "duration": "4:39"
-        },
-        {
-          "number": 7,
-          "name": "LOTUSES",
-          "duration": "3:19"
         }
       ]
     },
@@ -293,6 +293,32 @@
       ]
     },
     {
+      "name": "スカー",
+      "year": "2022",
+      "release_date": "2022-10-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/23/94/17/239417ee-6c63-ed27-3aa7-72dc57d08a51/4547366587890.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Scar",
+          "duration": "4:19"
+        }
+      ]
+    },
+    {
+      "name": "かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) [feat. BABYMETAL]",
+      "year": "2026",
+      "release_date": "2026-01-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/05/08/fa050837-69b7-c0c2-8a9d-cdb8e6b824f1/4547366794205.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) [feat. BABYMETAL]",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
       "name": "ファタール - Fatal",
       "year": "2024",
       "release_date": "2024-07-04",
@@ -315,32 +341,6 @@
           "number": 1,
           "name": "When The Weak Go Marching In",
           "duration": "2:57"
-        }
-      ]
-    },
-    {
-      "name": "かすかなはな - Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) [feat. BABYMETAL]",
-      "year": "2026",
-      "release_date": "2026-01-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/05/08/fa050837-69b7-c0c2-8a9d-cdb8e6b824f1/4547366794205.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) [feat. BABYMETAL]",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
-      "name": "スカー",
-      "year": "2022",
-      "release_date": "2022-10-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/23/94/17/239417ee-6c63-ed27-3aa7-72dc57d08a51/4547366587890.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Scar",
-          "duration": "4:19"
         }
       ]
     },
@@ -420,19 +420,6 @@
       ]
     },
     {
-      "name": "火種",
-      "year": "2026",
-      "release_date": "2026-04-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/bf/c5/e3bfc50a-d2a7-4f41-eb52-5868bb643772/4547366814552.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HIDANE",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
       "name": "青のすみか - From THE FIRST TAKE",
       "year": "2023",
       "release_date": "2023-09-13",
@@ -481,6 +468,19 @@
           "number": 1,
           "name": "Moonlight (feat. Harumakigohan)",
           "duration": "3:54"
+        }
+      ]
+    },
+    {
+      "name": "火種",
+      "year": "2026",
+      "release_date": "2026-04-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/bf/c5/e3bfc50a-d2a7-4f41-eb52-5868bb643772/4547366814552.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HIDANE",
+          "duration": "3:24"
         }
       ]
     },
@@ -612,19 +612,6 @@
       ]
     },
     {
-      "name": "れびてーしょん",
-      "year": "2026",
-      "release_date": "2026-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/44/99/24449966-6f8f-b1db-7a16-b85830e1f593/4547366818260.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LEVITATION",
-          "duration": "4:02"
-        }
-      ]
-    },
-    {
       "name": "なくしもの",
       "year": "2025",
       "release_date": "2025-06-27",
@@ -683,6 +670,19 @@
           "number": 1,
           "name": "Slush",
           "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "れびてーしょん",
+      "year": "2026",
+      "release_date": "2026-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/44/99/24449966-6f8f-b1db-7a16-b85830e1f593/4547366818260.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LEVITATION",
+          "duration": "4:02"
         }
       ]
     },

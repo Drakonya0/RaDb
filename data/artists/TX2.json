@@ -166,19 +166,6 @@
       ]
     },
     {
-      "name": "Vendetta (feat. Johnny 3 Tears)",
-      "year": "2024",
-      "release_date": "2024-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/4b/27/354b273f-7d56-eb2e-39f6-ade482efd9d4/1977.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Vendetta (feat. Johnny 3 Tears)",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
       "name": "MAD (feat. Ice Nine Kills)",
       "year": "2024",
       "release_date": "2024-08-28",
@@ -201,6 +188,19 @@
           "number": 1,
           "name": "Vampire By Rumor",
           "duration": "2:38"
+        }
+      ]
+    },
+    {
+      "name": "Vendetta (feat. Johnny 3 Tears)",
+      "year": "2024",
+      "release_date": "2024-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/4b/27/354b273f-7d56-eb2e-39f6-ade482efd9d4/1977.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Vendetta (feat. Johnny 3 Tears)",
+          "duration": "2:20"
         }
       ]
     },
@@ -249,19 +249,6 @@
       ]
     },
     {
-      "name": "Hatchet",
-      "year": "2024",
-      "release_date": "2024-04-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/6e/2c/c16e2cda-b2f2-2c1a-842b-d5593b12aa55/2008.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hatchet",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
       "name": "Step Over a Body",
       "year": "2022",
       "release_date": "2022-03-25",
@@ -284,6 +271,19 @@
           "number": 1,
           "name": "Feed",
           "duration": "3:35"
+        }
+      ]
+    },
+    {
+      "name": "Hatchet",
+      "year": "2024",
+      "release_date": "2024-04-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/6e/2c/c16e2cda-b2f2-2c1a-842b-d5593b12aa55/2008.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hatchet",
+          "duration": "2:19"
         }
       ]
     },
@@ -579,6 +579,44 @@
   ],
   "eps": [
     {
+      "name": "Drop Dead",
+      "year": "2022",
+      "release_date": "2022-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/80/78/c6/8078c6fd-db10-9012-2742-d9f05c52fa53/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Drop Dead",
+          "duration": "2:44"
+        },
+        {
+          "number": 2,
+          "name": "Trust No One",
+          "duration": "3:31"
+        },
+        {
+          "number": 3,
+          "name": "Vampire By Rumor",
+          "duration": "2:38"
+        },
+        {
+          "number": 4,
+          "name": "F**k It All",
+          "duration": "2:48"
+        },
+        {
+          "number": 5,
+          "name": "Where'd U Come From?",
+          "duration": "2:49"
+        },
+        {
+          "number": 6,
+          "name": "Pull the Plug",
+          "duration": "2:38"
+        }
+      ]
+    },
+    {
       "name": "Ghost Of LA",
       "year": "2023",
       "release_date": "2023-11-10",
@@ -684,44 +722,6 @@
           "number": 6,
           "name": "THIS ISN'T ABOUT DRUGS (I SWEAR)",
           "duration": "1:50"
-        }
-      ]
-    },
-    {
-      "name": "Drop Dead",
-      "year": "2022",
-      "release_date": "2022-11-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/80/78/c6/8078c6fd-db10-9012-2742-d9f05c52fa53/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Drop Dead",
-          "duration": "2:44"
-        },
-        {
-          "number": 2,
-          "name": "Trust No One",
-          "duration": "3:31"
-        },
-        {
-          "number": 3,
-          "name": "Vampire By Rumor",
-          "duration": "2:38"
-        },
-        {
-          "number": 4,
-          "name": "F**k It All",
-          "duration": "2:48"
-        },
-        {
-          "number": 5,
-          "name": "Where'd U Come From?",
-          "duration": "2:49"
-        },
-        {
-          "number": 6,
-          "name": "Pull the Plug",
-          "duration": "2:38"
         }
       ]
     },

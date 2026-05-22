@@ -210,6 +210,59 @@
       ]
     },
     {
+      "name": "E-SIDE 4",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/ee/1c/51ee1c38-b554-0352-2c31-6ed53f73e69e/820233171922.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ADRENA",
+          "duration": "3:07"
+        },
+        {
+          "number": 2,
+          "name": "UNDEAD (English Version)",
+          "duration": "3:02"
+        },
+        {
+          "number": 3,
+          "name": "Watch me! (English Version)",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "BABY (English Version)",
+          "duration": "3:52"
+        },
+        {
+          "number": 5,
+          "name": "New me (English Version)",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "Monotone",
+          "duration": "3:30"
+        },
+        {
+          "number": 7,
+          "name": "On the Stage",
+          "duration": "3:28"
+        },
+        {
+          "number": 8,
+          "name": "PLAYERS (English Version)",
+          "duration": "3:21"
+        },
+        {
+          "number": 9,
+          "name": "HEART BEAT (English Version)",
+          "duration": "5:34"
+        }
+      ]
+    },
+    {
       "name": "E-SIDE",
       "year": "2021",
       "release_date": "2021-11-12",
@@ -304,59 +357,6 @@
           "duration": "3:19"
         }
       ]
-    },
-    {
-      "name": "E-SIDE 4",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/ee/1c/51ee1c38-b554-0352-2c31-6ed53f73e69e/820233171922.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ADRENA",
-          "duration": "3:07"
-        },
-        {
-          "number": 2,
-          "name": "UNDEAD (English Version)",
-          "duration": "3:02"
-        },
-        {
-          "number": 3,
-          "name": "Watch me! (English Version)",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
-          "name": "BABY (English Version)",
-          "duration": "3:52"
-        },
-        {
-          "number": 5,
-          "name": "New me (English Version)",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "Monotone",
-          "duration": "3:30"
-        },
-        {
-          "number": 7,
-          "name": "On the Stage",
-          "duration": "3:28"
-        },
-        {
-          "number": 8,
-          "name": "PLAYERS (English Version)",
-          "duration": "3:21"
-        },
-        {
-          "number": 9,
-          "name": "HEART BEAT (English Version)",
-          "duration": "5:34"
-        }
-      ]
     }
   ],
   "singles": [
@@ -400,19 +400,6 @@
       ]
     },
     {
-      "name": "怪物",
-      "year": "2021",
-      "release_date": "2021-01-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/ab/2c/9eab2c24-8289-1bd7-548d-e6b871fcf169/195497732630.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Monster",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
       "name": "夜に駆ける",
       "year": "2019",
       "release_date": "2019-12-15",
@@ -422,6 +409,19 @@
           "number": 1,
           "name": "夜に駆ける",
           "duration": "4:21"
+        }
+      ]
+    },
+    {
+      "name": "怪物",
+      "year": "2021",
+      "release_date": "2021-01-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/ab/2c/9eab2c24-8289-1bd7-548d-e6b871fcf169/195497732630.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Monster",
+          "duration": "3:26"
         }
       ]
     },
@@ -448,19 +448,6 @@
           "number": 1,
           "name": "Probably",
           "duration": "4:18"
-        }
-      ]
-    },
-    {
-      "name": "アドレナ",
-      "year": "2026",
-      "release_date": "2026-01-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/3b/bc/f03bbca1-68a7-530d-9904-e447d0024ddd/199806749012.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ADRENA",
-          "duration": "3:05"
         }
       ]
     },
@@ -509,19 +496,6 @@
       ]
     },
     {
-      "name": "The Brave",
-      "year": "2023",
-      "release_date": "2023-11-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/32/1d/c7/321dc739-5312-6f70-f631-a6ae90aa7d53/197190470703.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Brave",
-          "duration": "3:14"
-        }
-      ]
-    },
-    {
       "name": "ハルジオン",
       "year": "2020",
       "release_date": "2020-05-11",
@@ -535,6 +509,19 @@
       ]
     },
     {
+      "name": "アドレナ",
+      "year": "2026",
+      "release_date": "2026-01-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/3b/bc/f03bbca1-68a7-530d-9904-e447d0024ddd/199806749012.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ADRENA",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
       "name": "Into The Night (English Version)",
       "year": "2021",
       "release_date": "2021-07-02",
@@ -544,6 +531,19 @@
           "number": 1,
           "name": "Into The Night (English Version)",
           "duration": "4:22"
+        }
+      ]
+    },
+    {
+      "name": "The Brave",
+      "year": "2023",
+      "release_date": "2023-11-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/32/1d/c7/321dc739-5312-6f70-f631-a6ae90aa7d53/197190470703.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Brave",
+          "duration": "3:14"
         }
       ]
     },
