@@ -365,29 +365,6 @@
   ],
   "singles": [
     {
-      "name": "Vol. 2",
-      "year": "2024",
-      "release_date": "2024-05-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/1a/86/5e1a8686-3cef-7bc8-6ae0-87a8baa48b4b/24CRGIM42341.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Closure",
-          "duration": "3:13"
-        },
-        {
-          "number": 2,
-          "name": "Don’t Look Away",
-          "duration": "3:13"
-        },
-        {
-          "number": 3,
-          "name": "All That I Can Give",
-          "duration": "3:18"
-        }
-      ]
-    },
-    {
       "name": "Vol. 1",
       "year": "2024",
       "release_date": "2024-01-12",
@@ -411,20 +388,25 @@
       ]
     },
     {
-      "name": "Left Behind",
-      "year": "2023",
-      "release_date": "2023-02-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5a/22/bb/5a22bb57-44da-dca3-431b-e250b7cf5617/22CRGIM35823.rgb.jpg/600x600bb.jpg",
+      "name": "Vol. 2",
+      "year": "2024",
+      "release_date": "2024-05-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/1a/86/5e1a8686-3cef-7bc8-6ae0-87a8baa48b4b/24CRGIM42341.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Left Behind",
-          "duration": "3:26"
+          "name": "Closure",
+          "duration": "3:13"
         },
         {
           "number": 2,
-          "name": "Divide",
-          "duration": "3:28"
+          "name": "Don’t Look Away",
+          "duration": "3:13"
+        },
+        {
+          "number": 3,
+          "name": "All That I Can Give",
+          "duration": "3:18"
         }
       ]
     },
@@ -452,19 +434,6 @@
       ]
     },
     {
-      "name": "Crows",
-      "year": "2016",
-      "release_date": "2016-10-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/9d/96/7d/9d967d40-f426-6af5-cd68-26a837144aeb/859718495925_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Crows",
-          "duration": "3:18"
-        }
-      ]
-    },
-    {
       "name": "Silence",
       "year": "2025",
       "release_date": "2025-09-12",
@@ -474,6 +443,37 @@
           "number": 1,
           "name": "Silence",
           "duration": "3:11"
+        }
+      ]
+    },
+    {
+      "name": "Left Behind",
+      "year": "2023",
+      "release_date": "2023-02-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5a/22/bb/5a22bb57-44da-dca3-431b-e250b7cf5617/22CRGIM35823.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Left Behind",
+          "duration": "3:26"
+        },
+        {
+          "number": 2,
+          "name": "Divide",
+          "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "Crows",
+      "year": "2016",
+      "release_date": "2016-10-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/9d/96/7d/9d967d40-f426-6af5-cd68-26a837144aeb/859718495925_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Crows",
+          "duration": "3:18"
         }
       ]
     },
@@ -514,19 +514,6 @@
       ]
     },
     {
-      "name": "FEEL NOTHING (RESET)",
-      "year": "2022",
-      "release_date": "2022-10-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0a/58/41/0a58412e-20b1-77ff-1f90-1989c9070459/22CRGIM34607.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FEEL NOTHING (RESET)",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
       "name": "REPAY",
       "year": "2020",
       "release_date": "2020-06-05",
@@ -549,6 +536,19 @@
           "number": 1,
           "name": "Closure",
           "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "FEEL NOTHING (RESET)",
+      "year": "2022",
+      "release_date": "2022-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0a/58/41/0a58412e-20b1-77ff-1f90-1989c9070459/22CRGIM34607.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FEEL NOTHING (RESET)",
+          "duration": "3:40"
         }
       ]
     },

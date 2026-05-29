@@ -3,6 +3,127 @@
   "id": 2987400,
   "albums": [
     {
+      "name": "Miss Machine",
+      "year": "2004",
+      "release_date": "2004-07-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/af/9f/82af9fea-7882-6d1a-4a5a-342b55e0db7d/s06.xcakhibl.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Panasonic Youth",
+          "duration": "2:27"
+        },
+        {
+          "number": 2,
+          "name": "Sunshine the Werewolf",
+          "duration": "4:17"
+        },
+        {
+          "number": 3,
+          "name": "Highway Robbery",
+          "duration": "3:30"
+        },
+        {
+          "number": 4,
+          "name": "Van Damsel",
+          "duration": "2:59"
+        },
+        {
+          "number": 5,
+          "name": "Phone Home",
+          "duration": "4:15"
+        },
+        {
+          "number": 6,
+          "name": "We Are the Storm",
+          "duration": "4:38"
+        },
+        {
+          "number": 7,
+          "name": "Crutch Field Tongs",
+          "duration": "0:52"
+        },
+        {
+          "number": 8,
+          "name": "Setting Fire to Sleeping Giants",
+          "duration": "3:27"
+        },
+        {
+          "number": 9,
+          "name": "Baby's First Coffin",
+          "duration": "4:02"
+        },
+        {
+          "number": 10,
+          "name": "Unretrofied",
+          "duration": "5:37"
+        },
+        {
+          "number": 11,
+          "name": "The Perfect Design",
+          "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "name": "Option Paralysis",
+      "year": "2010",
+      "release_date": "2010-03-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/d9/49/fed949a9-e826-2ce8-2b8a-f253b93d6343/886443726413.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Farewell, Mona Lisa",
+          "duration": "5:23"
+        },
+        {
+          "number": 2,
+          "name": "Good Neighbor",
+          "duration": "2:30"
+        },
+        {
+          "number": 3,
+          "name": "Gold Teeth On a Bum",
+          "duration": "5:22"
+        },
+        {
+          "number": 4,
+          "name": "Crystal Morning",
+          "duration": "2:02"
+        },
+        {
+          "number": 5,
+          "name": "Endless Endings",
+          "duration": "2:32"
+        },
+        {
+          "number": 6,
+          "name": "Widower",
+          "duration": "6:23"
+        },
+        {
+          "number": 7,
+          "name": "Room Full of Eyes",
+          "duration": "4:15"
+        },
+        {
+          "number": 8,
+          "name": "Chinese Whispers",
+          "duration": "4:06"
+        },
+        {
+          "number": 9,
+          "name": "I Wouldn't If You Didn't",
+          "duration": "4:14"
+        },
+        {
+          "number": 10,
+          "name": "Parasitic Twins",
+          "duration": "4:41"
+        }
+      ]
+    },
+    {
       "name": "Ire Works",
       "year": "2007",
       "release_date": "2007-11-13",
@@ -72,69 +193,6 @@
           "number": 13,
           "name": "Mouth of Ghosts",
           "duration": "6:49"
-        }
-      ]
-    },
-    {
-      "name": "Miss Machine",
-      "year": "2004",
-      "release_date": "2004-07-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/82/af/9f/82af9fea-7882-6d1a-4a5a-342b55e0db7d/s06.xcakhibl.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Panasonic Youth",
-          "duration": "2:27"
-        },
-        {
-          "number": 2,
-          "name": "Sunshine the Werewolf",
-          "duration": "4:17"
-        },
-        {
-          "number": 3,
-          "name": "Highway Robbery",
-          "duration": "3:30"
-        },
-        {
-          "number": 4,
-          "name": "Van Damsel",
-          "duration": "2:59"
-        },
-        {
-          "number": 5,
-          "name": "Phone Home",
-          "duration": "4:15"
-        },
-        {
-          "number": 6,
-          "name": "We Are the Storm",
-          "duration": "4:38"
-        },
-        {
-          "number": 7,
-          "name": "Crutch Field Tongs",
-          "duration": "0:52"
-        },
-        {
-          "number": 8,
-          "name": "Setting Fire to Sleeping Giants",
-          "duration": "3:27"
-        },
-        {
-          "number": 9,
-          "name": "Baby's First Coffin",
-          "duration": "4:02"
-        },
-        {
-          "number": 10,
-          "name": "Unretrofied",
-          "duration": "5:37"
-        },
-        {
-          "number": 11,
-          "name": "The Perfect Design",
-          "duration": "3:50"
         }
       ]
     },
@@ -261,64 +319,6 @@
           "number": 11,
           "name": "Variations On a Cocktail Dress",
           "duration": "7:55"
-        }
-      ]
-    },
-    {
-      "name": "Option Paralysis",
-      "year": "2010",
-      "release_date": "2010-03-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fe/d9/49/fed949a9-e826-2ce8-2b8a-f253b93d6343/886443726413.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Farewell, Mona Lisa",
-          "duration": "5:23"
-        },
-        {
-          "number": 2,
-          "name": "Good Neighbor",
-          "duration": "2:30"
-        },
-        {
-          "number": 3,
-          "name": "Gold Teeth On a Bum",
-          "duration": "5:22"
-        },
-        {
-          "number": 4,
-          "name": "Crystal Morning",
-          "duration": "2:02"
-        },
-        {
-          "number": 5,
-          "name": "Endless Endings",
-          "duration": "2:32"
-        },
-        {
-          "number": 6,
-          "name": "Widower",
-          "duration": "6:23"
-        },
-        {
-          "number": 7,
-          "name": "Room Full of Eyes",
-          "duration": "4:15"
-        },
-        {
-          "number": 8,
-          "name": "Chinese Whispers",
-          "duration": "4:06"
-        },
-        {
-          "number": 9,
-          "name": "I Wouldn't If You Didn't",
-          "duration": "4:14"
-        },
-        {
-          "number": 10,
-          "name": "Parasitic Twins",
-          "duration": "4:41"
         }
       ]
     },

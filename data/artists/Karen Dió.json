@@ -4,32 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Cut Your Hair",
-      "year": "2025",
-      "release_date": "2025-09-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/c1/6a/20c16a78-9536-dfea-db50-2b9f6ac91bdc/3146.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cut Your Hair",
-          "duration": "2:18"
-        }
-      ]
-    },
-    {
-      "name": "Stupid",
-      "year": "2024",
-      "release_date": "2024-07-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/13/ea/bb13eac2-639e-ba9c-ec01-4198c55e9022/2133.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stupid",
-          "duration": "2:25"
-        }
-      ]
-    },
-    {
       "name": "Sick Ride",
       "year": "2024",
       "release_date": "2024-04-25",
@@ -44,6 +18,19 @@
           "number": 2,
           "name": "So Funny",
           "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "Cut Your Hair",
+      "year": "2025",
+      "release_date": "2025-09-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/c1/6a/20c16a78-9536-dfea-db50-2b9f6ac91bdc/3146.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cut Your Hair",
+          "duration": "2:18"
         }
       ]
     },
@@ -75,6 +62,19 @@
           "number": 2,
           "name": "I Wanna Be",
           "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "Stupid",
+      "year": "2024",
+      "release_date": "2024-07-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/13/ea/bb13eac2-639e-ba9c-ec01-4198c55e9022/2133.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stupid",
+          "duration": "2:25"
         }
       ]
     },

@@ -51,6 +51,49 @@
       ]
     },
     {
+      "name": "You Will Not Be Saved",
+      "year": "2019",
+      "release_date": "2019-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/eb/6e/ae/eb6eae50-ad11-1e8b-032b-9f9c57d6237f/075679836601.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One By One",
+          "duration": "1:49"
+        },
+        {
+          "number": 2,
+          "name": "Wwydf",
+          "duration": "2:55"
+        },
+        {
+          "number": 3,
+          "name": "Anyone But Me",
+          "duration": "3:45"
+        },
+        {
+          "number": 4,
+          "name": "Leave the Light On",
+          "duration": "3:04"
+        },
+        {
+          "number": 5,
+          "name": "Reset",
+          "duration": "3:21"
+        },
+        {
+          "number": 6,
+          "name": "Left Alone",
+          "duration": "3:11"
+        },
+        {
+          "number": 7,
+          "name": "Breathing",
+          "duration": "3:43"
+        }
+      ]
+    },
+    {
       "name": "They Were Always Here",
       "year": "2025",
       "release_date": "2025-12-12",
@@ -104,97 +147,6 @@
       ]
     },
     {
-      "name": "None of Us Are Getting Out",
-      "year": "2024",
-      "release_date": "2024-09-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/b0/8f/ffb08f08-9f76-98aa-e21b-b8ef3f3ebb09/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nine Three Six",
-          "duration": "3:38"
-        },
-        {
-          "number": 2,
-          "name": "Kill Me",
-          "duration": "1:48"
-        },
-        {
-          "number": 3,
-          "name": "Underneath",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "Chasing Shadows",
-          "duration": "2:32"
-        },
-        {
-          "number": 5,
-          "name": "Watch Out",
-          "duration": "2:24"
-        },
-        {
-          "number": 6,
-          "name": "I Felt It All",
-          "duration": "3:00"
-        },
-        {
-          "number": 7,
-          "name": "When I Wake Up",
-          "duration": "2:33"
-        },
-        {
-          "number": 8,
-          "name": "I Felt It All (Stripped)",
-          "duration": "3:14"
-        }
-      ]
-    },
-    {
-      "name": "You Will Not Be Saved",
-      "year": "2019",
-      "release_date": "2019-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/eb/6e/ae/eb6eae50-ad11-1e8b-032b-9f9c57d6237f/075679836601.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "One By One",
-          "duration": "1:49"
-        },
-        {
-          "number": 2,
-          "name": "Wwydf",
-          "duration": "2:55"
-        },
-        {
-          "number": 3,
-          "name": "Anyone But Me",
-          "duration": "3:45"
-        },
-        {
-          "number": 4,
-          "name": "Leave the Light On",
-          "duration": "3:04"
-        },
-        {
-          "number": 5,
-          "name": "Reset",
-          "duration": "3:21"
-        },
-        {
-          "number": 6,
-          "name": "Left Alone",
-          "duration": "3:11"
-        },
-        {
-          "number": 7,
-          "name": "Breathing",
-          "duration": "3:43"
-        }
-      ]
-    },
-    {
       "name": "Barebones, Vol. 1",
       "year": "2020",
       "release_date": "2020-03-13",
@@ -241,6 +193,54 @@
           "duration": "3:57"
         }
       ]
+    },
+    {
+      "name": "None of Us Are Getting Out",
+      "year": "2024",
+      "release_date": "2024-09-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/b0/8f/ffb08f08-9f76-98aa-e21b-b8ef3f3ebb09/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nine Three Six",
+          "duration": "3:38"
+        },
+        {
+          "number": 2,
+          "name": "Kill Me",
+          "duration": "1:48"
+        },
+        {
+          "number": 3,
+          "name": "Underneath",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Chasing Shadows",
+          "duration": "2:32"
+        },
+        {
+          "number": 5,
+          "name": "Watch Out",
+          "duration": "2:24"
+        },
+        {
+          "number": 6,
+          "name": "I Felt It All",
+          "duration": "3:00"
+        },
+        {
+          "number": 7,
+          "name": "When I Wake Up",
+          "duration": "2:33"
+        },
+        {
+          "number": 8,
+          "name": "I Felt It All (Stripped)",
+          "duration": "3:14"
+        }
+      ]
     }
   ],
   "singles": [
@@ -280,19 +280,6 @@
           "number": 1,
           "name": "Adrenaline",
           "duration": "2:24"
-        }
-      ]
-    },
-    {
-      "name": "Blurry",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/c7/3e/e2c73e54-a8a6-a802-0ea3-614616329551/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blurry",
-          "duration": "3:20"
         }
       ]
     },
@@ -384,6 +371,19 @@
           "number": 1,
           "name": "Break (feat. Atreyu)",
           "duration": "2:49"
+        }
+      ]
+    },
+    {
+      "name": "Blurry",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/c7/3e/e2c73e54-a8a6-a802-0ea3-614616329551/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blurry",
+          "duration": "3:20"
         }
       ]
     },
@@ -508,6 +508,19 @@
           "number": 1,
           "name": "Stuck In My Ways",
           "duration": "2:54"
+        }
+      ]
+    },
+    {
+      "name": "Make Me Feel",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/d6/46/21d6467b-fe6b-1c67-c996-8d6c57dcfe9e/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Make Me Feel",
+          "duration": "2:44"
         }
       ]
     },
@@ -656,19 +669,6 @@
           "number": 1,
           "name": "Self-Destruct",
           "duration": "2:53"
-        }
-      ]
-    },
-    {
-      "name": "Make Me Feel",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/d6/46/21d6467b-fe6b-1c67-c996-8d6c57dcfe9e/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Make Me Feel",
-          "duration": "2:44"
         }
       ]
     },

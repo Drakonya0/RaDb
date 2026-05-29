@@ -1,7 +1,51 @@
 {
   "name": "Good Mourning",
   "id": 1856886018,
-  "albums": [],
+  "albums": [
+    {
+      "name": "EMPTY SURVIVOR",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/99/84/239984b6-56a0-eba5-99ae-b4c52021fbed/612891051957.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "EMPTY SURVIVOR",
+          "duration": "3:15"
+        },
+        {
+          "number": 2,
+          "name": "RUSTING OUT",
+          "duration": "4:07"
+        },
+        {
+          "number": 3,
+          "name": "4am in gary",
+          "duration": "3:27"
+        },
+        {
+          "number": 4,
+          "name": "BOLTED TO THE COST",
+          "duration": "2:47"
+        },
+        {
+          "number": 5,
+          "name": "SPACE HEATER",
+          "duration": "3:31"
+        },
+        {
+          "number": 6,
+          "name": "ONLY LIVING ONE",
+          "duration": "3:01"
+        },
+        {
+          "number": 7,
+          "name": "MATTRESS ON THE CURB",
+          "duration": "2:36"
+        }
+      ]
+    }
+  ],
   "singles": [
     {
       "name": "Cold Space",
@@ -73,6 +117,19 @@
       ]
     },
     {
+      "name": "Taking back control",
+      "year": "2026",
+      "release_date": "2026-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/d0/78/32d078fe-274d-8102-980c-0614d96141d9/612891049381.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Taking back control",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
       "name": "The Weight",
       "year": "2026",
       "release_date": "2026-05-14",
@@ -82,97 +139,6 @@
           "number": 1,
           "name": "The Weight",
           "duration": "2:26"
-        }
-      ]
-    },
-    {
-      "name": "IDENTITY RECLAIMED",
-      "year": "2026",
-      "release_date": "2026-05-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/73/f8/1073f86f-437a-31be-fd2f-1181691aacdd/612891025699.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "IDENTITY RECLAIMED",
-          "duration": "2:39"
-        }
-      ]
-    },
-    {
-      "name": "Survivors Guilt",
-      "year": "2025",
-      "release_date": "2025-11-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/51/74/ac517407-270d-cd8c-8c44-7675ec3823d7/663918710173.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Survivors Guilt",
-          "duration": "3:39"
-        }
-      ]
-    },
-    {
-      "name": "I Can't Forget",
-      "year": "2025",
-      "release_date": "2025-12-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/93/a2/f893a2a6-c5c1-96a5-f776-37942c521de3/663918722817.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Can't Forget",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
-      "name": "Killin' Time",
-      "year": "2025",
-      "release_date": "2025-12-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/75/e3/2f75e32d-c198-c9ba-5ad2-dbda7695d2b4/663918722473.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Killin' Time",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
-      "name": "The Reckoning",
-      "year": "2026",
-      "release_date": "2026-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/02/2d/da022ddd-2c38-83ed-7410-4f7804302c9b/612891017342.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Reckoning",
-          "duration": "3:22"
-        }
-      ]
-    },
-    {
-      "name": "Fading Sirens",
-      "year": "2026",
-      "release_date": "2026-05-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/32/17/f03217cf-d888-a123-0205-42cb1e1c4c89/612891026689.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fading Sirens",
-          "duration": "2:06"
-        }
-      ]
-    },
-    {
-      "name": "You Left Me",
-      "year": "2026",
-      "release_date": "2026-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/6e/52/116e521e-cd41-ebb3-805c-d5deefb94537/612891019797.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You Left Me",
-          "duration": "3:09"
         }
       ]
     },
@@ -192,6 +158,19 @@
     {
       "name": "I Fight It Alone",
       "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/81/d3/ea81d373-a343-5555-0b81-5eaf9aef3d6b/612891046380.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Fight It Alone",
+          "duration": "2:15"
+        }
+      ]
+    },
+    {
+      "name": "I Fight It Alone",
+      "year": "2026",
       "release_date": "2026-05-14",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/86/5a/33865ac2-9245-9c77-70bc-06c589174212/612891020090.jpg/600x600bb.jpg",
       "tracks": [
@@ -203,38 +182,28 @@
       ]
     },
     {
-      "name": "Wreckage Scars",
+      "name": "We Are Not Alone",
       "year": "2026",
-      "release_date": "2026-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/78/94/e2789426-21fc-f0b8-afa9-8acfc14698e6/663918798744.jpg/600x600bb.jpg",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/d1/2d/89d12d07-ace0-97e8-9212-406681c3d357/612891045628.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Wreckage Scars",
-          "duration": "2:29"
-        },
-        {
-          "number": 2,
-          "name": "Shattering Absence",
-          "duration": "2:24"
-        },
-        {
-          "number": 3,
-          "name": "Empty Seats",
-          "duration": "2:02"
+          "name": "We Are Not Alone",
+          "duration": "3:27"
         }
       ]
     },
     {
-      "name": "Gotta Break Out",
+      "name": "It Won’t Let Me Breathe",
       "year": "2026",
-      "release_date": "2026-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/31/43/33314312-fc7f-fde6-d694-7f4add9b4dac/612891019261.jpg/600x600bb.jpg",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/4c/ad/3e4cadeb-61fc-b85d-213b-fe469f854272/612891046205.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Gotta Break Out",
-          "duration": "2:52"
+          "name": "It Won’t Let Me Breathe",
+          "duration": "2:09"
         }
       ]
     },
@@ -265,45 +234,6 @@
       ]
     },
     {
-      "name": "Until Pain Finally Hits",
-      "year": "2026",
-      "release_date": "2026-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/52/63/a652634e-4102-4641-c8ea-7e81adde8a59/612891019353.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Until Pain Finally Hits",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
-      "name": "We Are Not Alone",
-      "year": "2025",
-      "release_date": "2025-12-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/63/9e/a9639efb-41bc-18d8-a72b-4236d02d9aac/663918726624.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "We Are Not Alone",
-          "duration": "3:27"
-        }
-      ]
-    },
-    {
-      "name": "Shadow of Guilt",
-      "year": "2026",
-      "release_date": "2026-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/30/b7/5f30b76f-83e8-4a8c-cf1b-c7e629ff7c17/612891017359.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shadow of Guilt",
-          "duration": "2:44"
-        }
-      ]
-    },
-    {
       "name": "Can't Break Free",
       "year": "2025",
       "release_date": "2025-12-07",
@@ -330,6 +260,19 @@
       ]
     },
     {
+      "name": "Torn Asunder",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/ea/3f/2aea3f9d-9757-0070-b610-d18ce676ea80/612891045994.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Torn Asunder",
+          "duration": "2:05"
+        }
+      ]
+    },
+    {
       "name": "Chaos Reigns",
       "year": "2025",
       "release_date": "2025-11-29",
@@ -339,19 +282,6 @@
           "number": 1,
           "name": "Chaos Reigns",
           "duration": "4:04"
-        }
-      ]
-    },
-    {
-      "name": "berserk",
-      "year": "2025",
-      "release_date": "2025-11-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/5c/e2/245ce20b-2449-5ed0-43c9-a7827a80c8a1/663918708583.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "berserk",
-          "duration": "3:28"
         }
       ]
     },
@@ -382,19 +312,6 @@
       ]
     },
     {
-      "name": "Isolation & Regret",
-      "year": "2025",
-      "release_date": "2025-11-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/29/94/2929940d-097f-9777-15ca-7aeb013372c8/663918710289.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Isolation & Regret",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "code mistake",
       "year": "2026",
       "release_date": "2026-05-14",
@@ -404,32 +321,6 @@
           "number": 1,
           "name": "code mistake",
           "duration": "2:53"
-        }
-      ]
-    },
-    {
-      "name": "Break The Wall",
-      "year": "2026",
-      "release_date": "2026-04-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/0b/e1/460be136-2f61-241e-9d91-4e7aa1989463/663918992234.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Break The Wall",
-          "duration": "3:10"
-        }
-      ]
-    },
-    {
-      "name": "Empty Seat",
-      "year": "2026",
-      "release_date": "2026-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/20/61/0d2061bd-6af0-df69-efe2-21e6f2b4898d/612891019469.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Empty Seat",
-          "duration": "2:15"
         }
       ]
     },
@@ -447,58 +338,6 @@
       ]
     },
     {
-      "name": "You Left Me",
-      "year": "2025",
-      "release_date": "2025-11-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/9e/56/ca9e5699-7379-c38f-961c-a958ac82dce7/663918710272.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You Left Me",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
-      "name": "dead eye",
-      "year": "2025",
-      "release_date": "2025-11-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/53/4f/ad534f32-baae-efbb-9195-2b3a9800ced4/663918708736.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "dead eye",
-          "duration": "3:34"
-        }
-      ]
-    },
-    {
-      "name": "Always My Fault",
-      "year": "2026",
-      "release_date": "2026-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/e5/d0/e0e5d0c1-2a7a-4546-1b8e-d664d3c79786/612891019933.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Always My Fault",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
-      "name": "Relapse",
-      "year": "2026",
-      "release_date": "2026-05-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/56/30/e156305c-23e9-c9d1-07f8-c6a90da9b574/612891010480.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Relapse",
-          "duration": "2:17"
-        }
-      ]
-    },
-    {
       "name": "Taking back control",
       "year": "2026",
       "release_date": "2026-05-13",
@@ -512,25 +351,15 @@
       ]
     },
     {
-      "name": "Fading Sirens",
+      "name": "Rebirth in the Ruins",
       "year": "2026",
-      "release_date": "2026-03-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/fa/f9/13faf9f5-9bb1-85c1-3d86-97e0e7d5aef4/663918883938.jpg/600x600bb.jpg",
+      "release_date": "2026-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/db/d6/b1dbd633-2ee2-4842-f31f-a246dc50bd98/612891038194.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Fading Sirens",
-          "duration": "2:06"
-        },
-        {
-          "number": 2,
-          "name": "Trapped in her memory",
-          "duration": "2:35"
-        },
-        {
-          "number": 3,
-          "name": "I Scream for Them",
-          "duration": "2:14"
+          "name": "Rebirth in the Ruins",
+          "duration": "3:21"
         }
       ]
     },
@@ -544,19 +373,6 @@
           "number": 1,
           "name": "I Can't Forget",
           "duration": "3:44"
-        }
-      ]
-    },
-    {
-      "name": "Rebirth in the Ruins",
-      "year": "2026",
-      "release_date": "2026-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/db/d6/b1dbd633-2ee2-4842-f31f-a246dc50bd98/612891038194.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rebirth in the Ruins",
-          "duration": "3:21"
         }
       ]
     },
@@ -623,32 +439,6 @@
       ]
     },
     {
-      "name": "The Machine's Cage",
-      "year": "2026",
-      "release_date": "2026-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/97/7a/92977a3f-0464-d53f-faa6-fc886039c80d/612891016918.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Machine's Cage",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
-      "name": "Living With Ghosts",
-      "year": "2025",
-      "release_date": "2025-12-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/b1/53/a5b15326-0472-f890-303d-e866a3619595/663918722459.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Living With Ghosts",
-          "duration": "3:25"
-        }
-      ]
-    },
-    {
       "name": "IDENTITY RECLAIMED",
       "year": "2026",
       "release_date": "2026-03-07",
@@ -693,19 +483,6 @@
       ]
     },
     {
-      "name": "dead eye",
-      "year": "2026",
-      "release_date": "2026-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/ca/bf/35cabf8a-683c-ac4b-bab7-fb1a3b34c7ff/612891023275.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "dead eye",
-          "duration": "3:34"
-        }
-      ]
-    },
-    {
       "name": "Thrill of the hunt",
       "year": "2026",
       "release_date": "2026-05-13",
@@ -732,19 +509,6 @@
       ]
     },
     {
-      "name": "berserk",
-      "year": "2026",
-      "release_date": "2026-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/fb/b1/8cfbb1b5-2c6b-3598-edb4-3ab8ed90ecd1/612891016987.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "berserk",
-          "duration": "3:28"
-        }
-      ]
-    },
-    {
       "name": "APATHY",
       "year": "2025",
       "release_date": "2025-12-16",
@@ -758,6 +522,19 @@
       ]
     },
     {
+      "name": "Feel Nothing",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/98/5f/d3985fd7-4bab-9900-97a8-575643466100/612891045918.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Feel Nothing",
+          "duration": "2:34"
+        }
+      ]
+    },
+    {
       "name": "I Scream for Them",
       "year": "2026",
       "release_date": "2026-05-16",
@@ -767,19 +544,6 @@
           "number": 1,
           "name": "I Scream for Them",
           "duration": "2:14"
-        }
-      ]
-    },
-    {
-      "name": "Separate Ways",
-      "year": "2025",
-      "release_date": "2025-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/27/57/1c275743-f93a-8315-3375-2fea5fdf28d6/663918718995.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Separate Ways",
-          "duration": "3:34"
         }
       ]
     },
@@ -810,32 +574,6 @@
       ]
     },
     {
-      "name": "Carrying the Burden",
-      "year": "2026",
-      "release_date": "2026-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/84/3a/1c843a02-ad5c-c103-8475-f8c881b7c69c/612891019919.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Carrying the Burden",
-          "duration": "2:04"
-        }
-      ]
-    },
-    {
-      "name": "Ghost in Me",
-      "year": "2026",
-      "release_date": "2026-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/16/a4/5316a44c-139a-398c-216b-483bf8e679ec/612891016833.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ghost in Me",
-          "duration": "2:02"
-        }
-      ]
-    },
-    {
       "name": "Still With Me",
       "year": "2026",
       "release_date": "2026-05-14",
@@ -849,28 +587,15 @@
       ]
     },
     {
-      "name": "Haunted by the past",
-      "year": "2025",
-      "release_date": "2025-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/18/41/191841bb-ff63-35cb-7a71-c3c210b57306/663918710586.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Haunted by the past",
-          "duration": "3:13"
-        }
-      ]
-    },
-    {
-      "name": "hellfire",
+      "name": "Empty Seat",
       "year": "2026",
-      "release_date": "2026-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/60/1c/1b601ccc-30dd-1c62-c201-2ce1020dc590/612891016970.jpg/600x600bb.jpg",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/0a/0f/4a0a0f17-07f5-e0fe-a8b9-42a9e1f87e00/612891045734.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "hellfire",
-          "duration": "2:05"
+          "name": "Empty Seat",
+          "duration": "2:15"
         }
       ]
     },
@@ -910,6 +635,676 @@
           "number": 1,
           "name": "Taking back control",
           "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "code mistake",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/f4/3f/aef43faa-43fa-33bd-f793-15b2c031e1cd/612891046120.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "code mistake",
+          "duration": "2:53"
+        }
+      ]
+    },
+    {
+      "name": "Always My Fault",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/08/8e/fe088e93-7b11-e708-3c5e-02f16cf4496e/612891045710.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Always My Fault",
+          "duration": "2:19"
+        }
+      ]
+    },
+    {
+      "name": "IDENTITY RECLAIMED",
+      "year": "2026",
+      "release_date": "2026-05-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/73/f8/1073f86f-437a-31be-fd2f-1181691aacdd/612891025699.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "IDENTITY RECLAIMED",
+          "duration": "2:39"
+        }
+      ]
+    },
+    {
+      "name": "Survivors Guilt",
+      "year": "2025",
+      "release_date": "2025-11-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/51/74/ac517407-270d-cd8c-8c44-7675ec3823d7/663918710173.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Survivors Guilt",
+          "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "Still With Me",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/0b/47/9a0b471a-7d7d-ced7-a11e-745dc912dd1e/612891045925.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Still With Me",
+          "duration": "2:21"
+        }
+      ]
+    },
+    {
+      "name": "Fading Sirens",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/ba/e6/4dbae6a6-16ac-ff6d-1967-ae03961a355f/612891046069.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fading Sirens",
+          "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "name": "I Can't Forget",
+      "year": "2025",
+      "release_date": "2025-12-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/93/a2/f893a2a6-c5c1-96a5-f776-37942c521de3/663918722817.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Can't Forget",
+          "duration": "3:44"
+        }
+      ]
+    },
+    {
+      "name": "Killin' Time",
+      "year": "2025",
+      "release_date": "2025-12-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/75/e3/2f75e32d-c198-c9ba-5ad2-dbda7695d2b4/663918722473.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Killin' Time",
+          "duration": "3:44"
+        }
+      ]
+    },
+    {
+      "name": "The Reckoning",
+      "year": "2026",
+      "release_date": "2026-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/02/2d/da022ddd-2c38-83ed-7410-4f7804302c9b/612891017342.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Reckoning",
+          "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "Fading Sirens",
+      "year": "2026",
+      "release_date": "2026-05-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/32/17/f03217cf-d888-a123-0205-42cb1e1c4c89/612891026689.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fading Sirens",
+          "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "name": "Feels Like The Same Damn Game",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/ce/37/cace37ed-aec6-464b-c32c-51601433fdc0/612891045673.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Feels Like The Same Damn Game",
+          "duration": "2:31"
+        }
+      ]
+    },
+    {
+      "name": "You Left Me",
+      "year": "2026",
+      "release_date": "2026-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/6e/52/116e521e-cd41-ebb3-805c-d5deefb94537/612891019797.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You Left Me",
+          "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Wreckage Scars",
+      "year": "2026",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/78/94/e2789426-21fc-f0b8-afa9-8acfc14698e6/663918798744.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wreckage Scars",
+          "duration": "2:29"
+        },
+        {
+          "number": 2,
+          "name": "Shattering Absence",
+          "duration": "2:24"
+        },
+        {
+          "number": 3,
+          "name": "Empty Seats",
+          "duration": "2:02"
+        }
+      ]
+    },
+    {
+      "name": "IDENTITY RECLAIMED",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/8a/bf/608abf93-70f0-b78c-55c7-848897292764/612891046373.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "IDENTITY RECLAIMED",
+          "duration": "2:39"
+        }
+      ]
+    },
+    {
+      "name": "Gotta Break Out",
+      "year": "2026",
+      "release_date": "2026-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/31/43/33314312-fc7f-fde6-d694-7f4add9b4dac/612891019261.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gotta Break Out",
+          "duration": "2:52"
+        }
+      ]
+    },
+    {
+      "name": "Until Pain Finally Hits",
+      "year": "2026",
+      "release_date": "2026-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/52/63/a652634e-4102-4641-c8ea-7e81adde8a59/612891019353.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Until Pain Finally Hits",
+          "duration": "2:19"
+        }
+      ]
+    },
+    {
+      "name": "We Are Not Alone",
+      "year": "2025",
+      "release_date": "2025-12-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/63/9e/a9639efb-41bc-18d8-a72b-4236d02d9aac/663918726624.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "We Are Not Alone",
+          "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Shadow of Guilt",
+      "year": "2026",
+      "release_date": "2026-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/30/b7/5f30b76f-83e8-4a8c-cf1b-c7e629ff7c17/612891017359.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shadow of Guilt",
+          "duration": "2:44"
+        }
+      ]
+    },
+    {
+      "name": "berserk",
+      "year": "2025",
+      "release_date": "2025-11-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/5c/e2/245ce20b-2449-5ed0-43c9-a7827a80c8a1/663918708583.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "berserk",
+          "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "I Scream for Them",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/6b/68/4c6b68fb-6857-d409-4184-f71779993dcf/612891046427.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Scream for Them",
+          "duration": "2:14"
+        }
+      ]
+    },
+    {
+      "name": "Isolation & Regret",
+      "year": "2025",
+      "release_date": "2025-11-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/29/94/2929940d-097f-9777-15ca-7aeb013372c8/663918710289.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Isolation & Regret",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "Break The Wall",
+      "year": "2026",
+      "release_date": "2026-04-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/0b/e1/460be136-2f61-241e-9d91-4e7aa1989463/663918992234.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Break The Wall",
+          "duration": "3:10"
+        }
+      ]
+    },
+    {
+      "name": "Ghost in Me",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/19/85/a419858d-93d5-07e7-151e-10106c57f10c/612891045895.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ghost in Me",
+          "duration": "2:02"
+        }
+      ]
+    },
+    {
+      "name": "Empty Seat",
+      "year": "2026",
+      "release_date": "2026-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/20/61/0d2061bd-6af0-df69-efe2-21e6f2b4898d/612891019469.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Empty Seat",
+          "duration": "2:15"
+        }
+      ]
+    },
+    {
+      "name": "You Left Me",
+      "year": "2025",
+      "release_date": "2025-11-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/9e/56/ca9e5699-7379-c38f-961c-a958ac82dce7/663918710272.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You Left Me",
+          "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "dead eye",
+      "year": "2025",
+      "release_date": "2025-11-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/53/4f/ad534f32-baae-efbb-9195-2b3a9800ced4/663918708736.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "dead eye",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "Always My Fault",
+      "year": "2026",
+      "release_date": "2026-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/e5/d0/e0e5d0c1-2a7a-4546-1b8e-d664d3c79786/612891019933.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Always My Fault",
+          "duration": "2:19"
+        }
+      ]
+    },
+    {
+      "name": "Relapse",
+      "year": "2026",
+      "release_date": "2026-05-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/56/30/e156305c-23e9-c9d1-07f8-c6a90da9b574/612891010480.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Relapse",
+          "duration": "2:17"
+        }
+      ]
+    },
+    {
+      "name": "Fading Sirens",
+      "year": "2026",
+      "release_date": "2026-03-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/fa/f9/13faf9f5-9bb1-85c1-3d86-97e0e7d5aef4/663918883938.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fading Sirens",
+          "duration": "2:06"
+        },
+        {
+          "number": 2,
+          "name": "Trapped in her memory",
+          "duration": "2:35"
+        },
+        {
+          "number": 3,
+          "name": "I Scream for Them",
+          "duration": "2:14"
+        }
+      ]
+    },
+    {
+      "name": "dead eye",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/2c/47/ee2c4743-e05e-acf6-5fe2-30ed729467e9/612891046229.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "dead eye",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "The Weight",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/a8/ed/e8a8edc8-bf23-0d70-5046-28625df577eb/612891046199.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Weight",
+          "duration": "2:26"
+        }
+      ]
+    },
+    {
+      "name": "Invisible Noise",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/88/3a/1f883a0a-dfe7-fb04-68a0-07711f4deadb/612891046366.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Invisible Noise",
+          "duration": "3:14"
+        }
+      ]
+    },
+    {
+      "name": "The Machine's Cage",
+      "year": "2026",
+      "release_date": "2026-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/97/7a/92977a3f-0464-d53f-faa6-fc886039c80d/612891016918.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Machine's Cage",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Living With Ghosts",
+      "year": "2025",
+      "release_date": "2025-12-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/b1/53/a5b15326-0472-f890-303d-e866a3619595/663918722459.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Living With Ghosts",
+          "duration": "3:25"
+        }
+      ]
+    },
+    {
+      "name": "Until Pain Finally Hits",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/7f/13/267f1365-6536-0423-8342-2e2bb8507d94/612891045666.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Until Pain Finally Hits",
+          "duration": "2:19"
+        }
+      ]
+    },
+    {
+      "name": "dead eye",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/ca/bf/35cabf8a-683c-ac4b-bab7-fb1a3b34c7ff/612891023275.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "dead eye",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "berserk",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/6b/f8/626bf892-abc1-4d12-c21d-8cee3dceeabe/612891045949.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "berserk",
+          "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "berserk",
+      "year": "2026",
+      "release_date": "2026-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/fb/b1/8cfbb1b5-2c6b-3598-edb4-3ab8ed90ecd1/612891016987.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "berserk",
+          "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "Separate Ways",
+      "year": "2025",
+      "release_date": "2025-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/27/57/1c275743-f93a-8315-3375-2fea5fdf28d6/663918718995.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Separate Ways",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "The Machine's Cage",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/39/af/a939af48-7926-d63c-80b7-655b449057ce/612891046045.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Machine's Cage",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Carrying the Burden",
+      "year": "2026",
+      "release_date": "2026-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/84/3a/1c843a02-ad5c-c103-8475-f8c881b7c69c/612891019919.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Carrying the Burden",
+          "duration": "2:04"
+        }
+      ]
+    },
+    {
+      "name": "Ghost in Me",
+      "year": "2026",
+      "release_date": "2026-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/16/a4/5316a44c-139a-398c-216b-483bf8e679ec/612891016833.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ghost in Me",
+          "duration": "2:02"
+        }
+      ]
+    },
+    {
+      "name": "Nowwhere To Go",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/4b/fc/354bfc4c-6c6b-f5ac-af24-8c6e8c33081f/612891045697.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nowwhere To Go",
+          "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Haunted by the past",
+      "year": "2025",
+      "release_date": "2025-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/18/41/191841bb-ff63-35cb-7a71-c3c210b57306/663918710586.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Haunted by the past",
+          "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "hellfire",
+      "year": "2026",
+      "release_date": "2026-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/60/1c/1b601ccc-30dd-1c62-c201-2ce1020dc590/612891016970.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "hellfire",
+          "duration": "2:05"
+        }
+      ]
+    },
+    {
+      "name": "The Reckoning",
+      "year": "2026",
+      "release_date": "2026-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/62/fe/d862fee6-53e4-b39c-a282-a5bf0e5c64d2/612891049398.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Reckoning",
+          "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "Gotta Break Out",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/1c/bd/8f1cbda3-ba6f-3723-986d-afc725b18b2e/612891045901.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gotta Break Out",
+          "duration": "2:52"
+        }
+      ]
+    },
+    {
+      "name": "Trapped in her memory",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/44/61/724461de-9b5c-e402-44fe-2869d5dc5141/612891046397.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Trapped in her memory",
+          "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Can't Break Free",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/ae/96/53ae964e-c256-08fe-d68d-18fd9f6a584b/612891046076.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Can't Break Free",
+          "duration": "2:44"
+        }
+      ]
+    },
+    {
+      "name": "Dragging Me Down",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/c3/45/a1c345b8-6758-24f1-1bf5-6b95149d27df/612891045680.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dragging Me Down",
+          "duration": "3:00"
         }
       ]
     },

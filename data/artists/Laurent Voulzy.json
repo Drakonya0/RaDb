@@ -3,6 +3,64 @@
   "id": 20748942,
   "albums": [
     {
+      "name": "Récollection",
+      "year": "2008",
+      "release_date": "2008-06-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/b9/15/5d/b9155d30-31c5-459c-3138-54d6758affa3/dj.qwgxylae.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Acte I : Dans le vent qui va",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "Acte II : Jelly Bean",
+          "duration": "3:04"
+        },
+        {
+          "number": 3,
+          "name": "Acte III : Radio Collection",
+          "duration": "1:29"
+        },
+        {
+          "number": 4,
+          "name": "Acte IV : Rockollection 008",
+          "duration": "15:43"
+        },
+        {
+          "number": 5,
+          "name": "Acte V : A7708",
+          "duration": "3:14"
+        },
+        {
+          "number": 6,
+          "name": "Acte VI : Rockcollection scène",
+          "duration": "1:14"
+        },
+        {
+          "number": 7,
+          "name": "Acte VII : Les interrogations d'Élizabeth",
+          "duration": "0:40"
+        },
+        {
+          "number": 8,
+          "name": "Acte VIII : Jukebox",
+          "duration": "11:34"
+        },
+        {
+          "number": 9,
+          "name": "Acte IX : Sous la lune",
+          "duration": "5:53"
+        },
+        {
+          "number": 10,
+          "name": "Acte X : Épilogue - Dans le vent",
+          "duration": "1:10"
+        }
+      ]
+    },
+    {
       "name": "Belle-Île-en-Mer (1977 - 1988)",
       "year": "1989",
       "release_date": "1989-11-20",
@@ -755,64 +813,6 @@
           "number": 11,
           "name": "Grimaud",
           "duration": "3:25"
-        }
-      ]
-    },
-    {
-      "name": "Récollection",
-      "year": "2008",
-      "release_date": "2008-06-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/b9/15/5d/b9155d30-31c5-459c-3138-54d6758affa3/dj.qwgxylae.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Acte I : Dans le vent qui va",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "Acte II : Jelly Bean",
-          "duration": "3:04"
-        },
-        {
-          "number": 3,
-          "name": "Acte III : Radio Collection",
-          "duration": "1:29"
-        },
-        {
-          "number": 4,
-          "name": "Acte IV : Rockollection 008",
-          "duration": "15:43"
-        },
-        {
-          "number": 5,
-          "name": "Acte V : A7708",
-          "duration": "3:14"
-        },
-        {
-          "number": 6,
-          "name": "Acte VI : Rockcollection scène",
-          "duration": "1:14"
-        },
-        {
-          "number": 7,
-          "name": "Acte VII : Les interrogations d'Élizabeth",
-          "duration": "0:40"
-        },
-        {
-          "number": 8,
-          "name": "Acte VIII : Jukebox",
-          "duration": "11:34"
-        },
-        {
-          "number": 9,
-          "name": "Acte IX : Sous la lune",
-          "duration": "5:53"
-        },
-        {
-          "number": 10,
-          "name": "Acte X : Épilogue - Dans le vent",
-          "duration": "1:10"
         }
       ]
     },
@@ -2176,6 +2176,19 @@
   ],
   "singles": [
     {
+      "name": "Le cœur grenadine (Remix)",
+      "year": "2023",
+      "release_date": "2023-07-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/1b/e7/711be727-fd13-4598-1b5e-13b1e42c2075/196871280259.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Le cœur grenadine (Remix)",
+          "duration": "4:06"
+        }
+      ]
+    },
+    {
       "name": "Vole (2 générations chantent pour la 3ème)",
       "year": "2016",
       "release_date": "2016-02-09",
@@ -2198,19 +2211,6 @@
           "number": 1,
           "name": "Vole (Version 2020)",
           "duration": "3:13"
-        }
-      ]
-    },
-    {
-      "name": "Le cœur grenadine (Remix)",
-      "year": "2023",
-      "release_date": "2023-07-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/1b/e7/711be727-fd13-4598-1b5e-13b1e42c2075/196871280259.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Le cœur grenadine (Remix)",
-          "duration": "4:06"
         }
       ]
     },

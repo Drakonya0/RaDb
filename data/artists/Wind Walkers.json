@@ -3,69 +3,6 @@
   "id": 1073744484,
   "albums": [
     {
-      "name": "What If I Break?",
-      "year": "2023",
-      "release_date": "2023-11-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d1/ea/77/d1ea77b3-c90d-b32f-c74d-7dd0a0a415ee/197189964190_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Feeding the Gods",
-          "duration": "3:02"
-        },
-        {
-          "number": 2,
-          "name": "The Overlook",
-          "duration": "3:42"
-        },
-        {
-          "number": 3,
-          "name": "Dead Talk",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "Bodybag",
-          "duration": "3:44"
-        },
-        {
-          "number": 5,
-          "name": "Euphoria (What a Feeling)",
-          "duration": "3:03"
-        },
-        {
-          "number": 6,
-          "name": "Dissipate",
-          "duration": "3:25"
-        },
-        {
-          "number": 7,
-          "name": "Losing My Color",
-          "duration": "3:27"
-        },
-        {
-          "number": 8,
-          "name": "Hangfire",
-          "duration": "3:15"
-        },
-        {
-          "number": 9,
-          "name": "Drowning Hymns",
-          "duration": "4:19"
-        },
-        {
-          "number": 10,
-          "name": "Almost Ecstasy",
-          "duration": "4:04"
-        },
-        {
-          "number": 11,
-          "name": "The Bends",
-          "duration": "2:45"
-        }
-      ]
-    },
-    {
       "name": "The Lost Boys",
       "year": "2018",
       "release_date": "2018-06-21",
@@ -132,6 +69,69 @@
           "duration": "2:26"
         }
       ]
+    },
+    {
+      "name": "What If I Break?",
+      "year": "2023",
+      "release_date": "2023-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d1/ea/77/d1ea77b3-c90d-b32f-c74d-7dd0a0a415ee/197189964190_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Feeding the Gods",
+          "duration": "3:02"
+        },
+        {
+          "number": 2,
+          "name": "The Overlook",
+          "duration": "3:42"
+        },
+        {
+          "number": 3,
+          "name": "Dead Talk",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Bodybag",
+          "duration": "3:44"
+        },
+        {
+          "number": 5,
+          "name": "Euphoria (What a Feeling)",
+          "duration": "3:03"
+        },
+        {
+          "number": 6,
+          "name": "Dissipate",
+          "duration": "3:25"
+        },
+        {
+          "number": 7,
+          "name": "Losing My Color",
+          "duration": "3:27"
+        },
+        {
+          "number": 8,
+          "name": "Hangfire",
+          "duration": "3:15"
+        },
+        {
+          "number": 9,
+          "name": "Drowning Hymns",
+          "duration": "4:19"
+        },
+        {
+          "number": 10,
+          "name": "Almost Ecstasy",
+          "duration": "4:04"
+        },
+        {
+          "number": 11,
+          "name": "The Bends",
+          "duration": "2:45"
+        }
+      ]
     }
   ],
   "singles": [
@@ -145,19 +145,6 @@
           "number": 1,
           "name": "Without Me",
           "duration": "3:19"
-        }
-      ]
-    },
-    {
-      "name": "The End Aesthetic",
-      "year": "2025",
-      "release_date": "2025-04-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/c8/38/19c8389e-14ac-9a86-abe7-a0e372337d6a/25CRGIM48750.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The End Aesthetic",
-          "duration": "3:52"
         }
       ]
     },
@@ -210,6 +197,19 @@
           "number": 1,
           "name": "End Game (feat. Mark Pfromm)",
           "duration": "4:04"
+        }
+      ]
+    },
+    {
+      "name": "The End Aesthetic",
+      "year": "2025",
+      "release_date": "2025-04-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/c8/38/19c8389e-14ac-9a86-abe7-a0e372337d6a/25CRGIM48750.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The End Aesthetic",
+          "duration": "3:52"
         }
       ]
     },

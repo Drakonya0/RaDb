@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "RITMO FATAL",
+      "year": "2024",
+      "release_date": "2024-05-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/98/d4/eb98d408-b8e9-b984-0d1f-013c80f309c2/830656.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "RITMO FATAL",
+          "duration": "1:47"
+        }
+      ]
+    },
+    {
       "name": "Ritmo Fatal (Super Slowed)",
       "year": "2024",
       "release_date": "2024-05-04",
@@ -358,14 +371,14 @@
       ]
     },
     {
-      "name": "Ritmo Fatal (Sped Up)",
+      "name": "RITMO FATAL (Sped Up)",
       "year": "2024",
       "release_date": "2024-05-04",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/c1/3c/bdc13cc3-8df9-0dbc-2fde-ca7ce609ff57/090387925850.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Ritmo Fatal (Sped Up)",
+          "name": "RITMO FATAL (Sped Up)",
           "duration": "1:32"
         }
       ]
@@ -1229,6 +1242,39 @@
           "number": 5,
           "name": "SOL LETAL! (Sped Up)",
           "duration": "1:26"
+        }
+      ]
+    },
+    {
+      "name": "RAYELO",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/4f/7e/a24f7ed9-14b7-1bfa-856a-7bc5b65296aa/820233512138.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "RAYELO",
+          "duration": "2:02"
+        },
+        {
+          "number": 2,
+          "name": "RAYELO (Slowed)",
+          "duration": "2:25"
+        },
+        {
+          "number": 3,
+          "name": "RAYELO (Super Slowed)",
+          "duration": "2:43"
+        },
+        {
+          "number": 4,
+          "name": "RAYELO (Ultra Slowed)",
+          "duration": "3:03"
+        },
+        {
+          "number": 5,
+          "name": "RAYELO (Sped Up)",
+          "duration": "1:49"
         }
       ]
     },

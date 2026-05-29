@@ -4,32 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "suicidepact!",
-      "year": "2026",
-      "release_date": "2026-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/84/ee/d984ee64-1520-b4e6-d46f-498c62ed3916/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "suicidepact!",
-          "duration": "2:31"
-        }
-      ]
-    },
-    {
-      "name": "vibin' (feat. MQS, livihnchikihn & fish)",
-      "year": "2022",
-      "release_date": "2022-11-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/95/75/db957580-7888-5f52-cc97-21af62ccba31/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "vibin' (feat. MQS, livihnchikihn & fish)",
-          "duration": "2:59"
-        }
-      ]
-    },
-    {
       "name": "verloren (en gevonden)",
       "year": "2025",
       "release_date": "2025-11-23",
@@ -57,6 +31,19 @@
           "number": 2,
           "name": "onmymind! (extended mix)",
           "duration": "4:39"
+        }
+      ]
+    },
+    {
+      "name": "suicidepact!",
+      "year": "2026",
+      "release_date": "2026-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/84/ee/d984ee64-1520-b4e6-d46f-498c62ed3916/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "suicidepact!",
+          "duration": "2:31"
         }
       ]
     }

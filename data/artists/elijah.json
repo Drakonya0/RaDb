@@ -78,19 +78,6 @@
   ],
   "singles": [
     {
-      "name": "guilty",
-      "year": "2024",
-      "release_date": "2024-10-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/82/65/d5826524-d678-ba7b-92e7-3da3b1469be7/10144.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "guilty",
-          "duration": "3:22"
-        }
-      ]
-    },
-    {
       "name": "Harder To Lie.",
       "year": "2023",
       "release_date": "2023-06-02",
@@ -105,6 +92,19 @@
           "number": 2,
           "name": "Easy To Drown",
           "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "guilty",
+      "year": "2024",
+      "release_date": "2024-10-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/82/65/d5826524-d678-ba7b-92e7-3da3b1469be7/10144.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "guilty",
+          "duration": "3:22"
         }
       ]
     },
@@ -159,6 +159,32 @@
           "number": 1,
           "name": "Enemies",
           "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "stranger",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/84/76/c7847640-fb2c-e2e1-198d-9d5416298b78/615678250529.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "stranger",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "Make Me Feel",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/d6/46/21d6467b-fe6b-1c67-c996-8d6c57dcfe9e/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Make Me Feel",
+          "duration": "2:44"
         }
       ]
     },
@@ -270,32 +296,6 @@
           "number": 1,
           "name": "Stitches",
           "duration": "3:08"
-        }
-      ]
-    },
-    {
-      "name": "Make Me Feel",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/d6/46/21d6467b-fe6b-1c67-c996-8d6c57dcfe9e/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Make Me Feel",
-          "duration": "2:44"
-        }
-      ]
-    },
-    {
-      "name": "stranger",
-      "year": "2026",
-      "release_date": "2026-06-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/84/76/c7847640-fb2c-e2e1-198d-9d5416298b78/615678250529.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "stranger",
-          "duration": "3:20"
         }
       ]
     }

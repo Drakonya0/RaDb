@@ -3,49 +3,6 @@
   "id": 1392398860,
   "albums": [
     {
-      "name": "Nocturnal",
-      "year": "2019",
-      "release_date": "2019-04-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d4/11/ee/d411eea6-101b-f687-e014-989b687e9e9b/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "My Confession",
-          "duration": "3:40"
-        },
-        {
-          "number": 2,
-          "name": "Made to Break",
-          "duration": "3:05"
-        },
-        {
-          "number": 3,
-          "name": "XIII",
-          "duration": "3:28"
-        },
-        {
-          "number": 4,
-          "name": "Breathe",
-          "duration": "3:05"
-        },
-        {
-          "number": 5,
-          "name": "After All",
-          "duration": "3:43"
-        },
-        {
-          "number": 6,
-          "name": "Do You Feel the Same? (I Wonder)",
-          "duration": "4:06"
-        },
-        {
-          "number": 7,
-          "name": "Epilogue",
-          "duration": "1:43"
-        }
-      ]
-    },
-    {
       "name": "MELODRAMA",
       "year": "2025",
       "release_date": "2025-10-31",
@@ -110,6 +67,49 @@
           "number": 12,
           "name": "Bad Feeling",
           "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "Nocturnal",
+      "year": "2019",
+      "release_date": "2019-04-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d4/11/ee/d411eea6-101b-f687-e014-989b687e9e9b/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "My Confession",
+          "duration": "3:40"
+        },
+        {
+          "number": 2,
+          "name": "Made to Break",
+          "duration": "3:05"
+        },
+        {
+          "number": 3,
+          "name": "XIII",
+          "duration": "3:28"
+        },
+        {
+          "number": 4,
+          "name": "Breathe",
+          "duration": "3:05"
+        },
+        {
+          "number": 5,
+          "name": "After All",
+          "duration": "3:43"
+        },
+        {
+          "number": 6,
+          "name": "Do You Feel the Same? (I Wonder)",
+          "duration": "4:06"
+        },
+        {
+          "number": 7,
+          "name": "Epilogue",
+          "duration": "1:43"
         }
       ]
     }

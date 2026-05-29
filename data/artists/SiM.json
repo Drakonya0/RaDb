@@ -1,105 +1,991 @@
 {
-  "name": "sim",
-  "id": 1649750910,
-  "albums": [],
-  "singles": [
+  "name": "SiM",
+  "id": 1124210967,
+  "albums": [
     {
-      "name": "GRѺUND ZERѺ! (feat. chronicali & sim)",
-      "year": "2024",
-      "release_date": "2024-05-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/f1/49/14f14937-e71a-56c1-d8df-bb17f247ae36/artwork.jpg/600x600bb.jpg",
+      "name": "The Beautiful People",
+      "year": "2016",
+      "release_date": "2016-04-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4e/b5/8b/4eb58b8d-3d1a-e679-f2c7-e2d1124dfd60/16UMGIM09560.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "GRѺUND ZERѺ! (feat. chronicali & sim)",
-          "duration": "2:17"
-        }
-      ]
-    },
-    {
-      "name": "REEL antagonist (feat. Ptite Soeur)",
-      "year": "2022",
-      "release_date": "2022-12-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/eb/de/77/ebde7713-3518-4064-bbc3-ede4232db71a/artwork.jpg/600x600bb.jpg",
-      "tracks": [
+          "name": "Make Me Dead",
+          "duration": "3:57"
+        },
         {
-          "number": 1,
-          "name": "REEL antagonist (feat. Ptite Soeur)",
-          "duration": "2:17"
-        }
-      ]
-    },
-    {
-      "name": "consonne",
-      "year": "2023",
-      "release_date": "2023-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/48/9b/5e/489b5ecd-ff47-448c-2119-307ef83615b5/artwork.jpg/600x600bb.jpg",
-      "tracks": [
+          "number": 2,
+          "name": "No Future",
+          "duration": "3:29"
+        },
         {
-          "number": 1,
-          "name": "consonne",
-          "duration": "2:17"
-        }
-      ]
-    },
-    {
-      "name": "redevenir normal (feat. petite amie <3)",
-      "year": "2022",
-      "release_date": "2022-11-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/64/49/20/64492092-b604-a5d9-4cef-87c9044d7865/artwork.jpg/600x600bb.jpg",
-      "tracks": [
+          "number": 3,
+          "name": "The King",
+          "duration": "3:20"
+        },
         {
-          "number": 1,
-          "name": "redevenir normal (feat. petite amie <3)",
+          "number": 4,
+          "name": "Abel and Cain",
+          "duration": "4:07"
+        },
+        {
+          "number": 5,
+          "name": "Paradox",
+          "duration": "3:21"
+        },
+        {
+          "number": 6,
+          "name": "If I Die",
+          "duration": "3:29"
+        },
+        {
+          "number": 7,
+          "name": "I Dub U",
+          "duration": "3:49"
+        },
+        {
+          "number": 8,
+          "name": "Dance in the Dark",
+          "duration": "4:02"
+        },
+        {
+          "number": 9,
+          "name": "Gunshots",
+          "duration": "3:49"
+        },
+        {
+          "number": 10,
+          "name": "Crows",
+          "duration": "3:49"
+        },
+        {
+          "number": 11,
+          "name": "The Problem",
+          "duration": "4:04"
+        },
+        {
+          "number": 12,
+          "name": "Existence",
+          "duration": "4:04"
+        },
+        {
+          "number": 13,
+          "name": "Life Is Beautiful",
           "duration": "3:55"
         }
       ]
     },
     {
-      "name": "OK (feat. Blizzard)",
-      "year": "2025",
-      "release_date": "2025-09-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/7d/7d/b27d7d30-af59-1265-f279-fb90d7a43a39/artwork.jpg/600x600bb.jpg",
+      "name": "Pandora",
+      "year": "2013",
+      "release_date": "2013-10-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/58/d9/4c/58d94cf8-f2f4-d9e1-8910-c4103d3488c0/00600406359131.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "OK (feat. Blizzard)",
-          "duration": "2:31"
+          "name": "Pandora",
+          "duration": "1:28"
+        },
+        {
+          "number": 2,
+          "name": "Who's Next",
+          "duration": "4:15"
+        },
+        {
+          "number": 3,
+          "name": "Pieces Of Troops",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Brain",
+          "duration": "2:14"
+        },
+        {
+          "number": 5,
+          "name": "Blah Blah Blah",
+          "duration": "3:48"
+        },
+        {
+          "number": 6,
+          "name": "Boring People, F*****g Grays",
+          "duration": "3:24"
+        },
+        {
+          "number": 7,
+          "name": "Dubsolution #4",
+          "duration": "2:56"
+        },
+        {
+          "number": 8,
+          "name": "We're All Alone",
+          "duration": "3:35"
+        },
+        {
+          "number": 9,
+          "name": "Rosso & Dry",
+          "duration": "4:59"
+        },
+        {
+          "number": 10,
+          "name": "Keep It Burnin'",
+          "duration": "2:57"
+        },
+        {
+          "number": 11,
+          "name": "March Of The Robots",
+          "duration": "2:00"
+        },
+        {
+          "number": 12,
+          "name": "Dreaming Dreams",
+          "duration": "2:01"
+        },
+        {
+          "number": 13,
+          "name": "Upside Down",
+          "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "HOOMAN AFTER ALL",
+      "year": "2026",
+      "release_date": "2026-09-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/48/4d/0c484d98-f8c9-8892-656a-f38179c39e00/8721555044661.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FiVE TiMES DEAD (by my wallet)",
+          "duration": "3:24"
+        },
+        {
+          "number": 2,
+          "name": "BLiNDEYES (feat. 花冷え。)",
+          "duration": "3:17"
+        },
+        {
+          "number": 3,
+          "name": "DALALA",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "HOLD MY BEER",
+          "duration": "2:52"
+        },
+        {
+          "number": 5,
+          "name": "Karen's Son",
+          "duration": "2:30"
+        },
+        {
+          "number": 6,
+          "name": "The Sniffing Cats Ska (feat. HEY-SMITH)",
+          "duration": "3:14"
+        },
+        {
+          "number": 7,
+          "name": "HOOMAN AFTER ALL",
+          "duration": "3:53"
+        },
+        {
+          "number": 8,
+          "name": "GHOST iN TOKYO",
+          "duration": "3:08"
+        },
+        {
+          "number": 9,
+          "name": "ZiON (feat. coldrain)",
+          "duration": "2:40"
+        },
+        {
+          "number": 10,
+          "name": "BLACK SUBMARiNE",
+          "duration": "3:13"
+        },
+        {
+          "number": 11,
+          "name": "FREEZE ME UP",
+          "duration": "3:36"
+        },
+        {
+          "number": 12,
+          "name": "Sailing On",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Playdead (Deluxe Edition)",
+      "year": "2024",
+      "release_date": "2024-12-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/86/de/9886de5b-6a94-94b9-4577-b0adeede7e48/4524135218568.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Playdead",
+          "duration": "2:00"
+        },
+        {
+          "number": 2,
+          "name": "Red",
+          "duration": "3:54"
+        },
+        {
+          "number": 3,
+          "name": "Hide and Seek",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "Sweet Dreams",
+          "duration": "3:30"
+        },
+        {
+          "number": 5,
+          "name": "Die Alone",
+          "duration": "2:17"
+        },
+        {
+          "number": 6,
+          "name": "Too Late",
+          "duration": "2:41"
+        },
+        {
+          "number": 7,
+          "name": "Kiss of Death",
+          "duration": "3:52"
+        },
+        {
+          "number": 8,
+          "name": "Sad Song",
+          "duration": "3:23"
+        },
+        {
+          "number": 9,
+          "name": "Bbt",
+          "duration": "3:30"
+        },
+        {
+          "number": 10,
+          "name": "Do the Dance",
+          "duration": "3:16"
+        },
+        {
+          "number": 11,
+          "name": "Not so Weak",
+          "duration": "2:41"
+        },
+        {
+          "number": 12,
+          "name": "Under the Tree",
+          "duration": "4:31"
+        },
+        {
+          "number": 13,
+          "name": "The Rumbling (Orchestra Version)",
+          "duration": "4:13"
+        },
+        {
+          "number": 14,
+          "name": "Kiss of Death (Live at Irving Plaza, New York City / 2024)",
+          "duration": "4:05"
+        },
+        {
+          "number": 15,
+          "name": "Under the Tree (Live at Irving Plaza, New York City / 2024)",
+          "duration": "4:47"
+        },
+        {
+          "number": 16,
+          "name": "Do the Dance (Live at Irving Plaza, New York City / 2024)",
+          "duration": "3:39"
+        },
+        {
+          "number": 17,
+          "name": "The Rumbling (Live at Irving Plaza, New York City / 2024)",
+          "duration": "3:54"
+        }
+      ]
+    },
+    {
+      "name": "Silence iz Mine",
+      "year": "2008",
+      "release_date": "2008-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d6/27/f9/d627f933-80bd-ccaf-a847-75d893354aad/195081111094.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Differ",
+          "duration": "3:21"
+        },
+        {
+          "number": 2,
+          "name": "Set Me free",
+          "duration": "4:02"
+        },
+        {
+          "number": 3,
+          "name": "Paint Sky Blue",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "Dubsolution #1",
+          "duration": "1:10"
+        },
+        {
+          "number": 5,
+          "name": "Come Together (The Beatles Cover)",
+          "duration": "5:26"
+        },
+        {
+          "number": 6,
+          "name": "TxHxC",
+          "duration": "2:33"
+        },
+        {
+          "number": 7,
+          "name": "Here I am",
+          "duration": "4:15"
+        },
+        {
+          "number": 8,
+          "name": "Monochrome",
+          "duration": "4:00"
+        },
+        {
+          "number": 9,
+          "name": "Numb",
+          "duration": "3:21"
+        },
+        {
+          "number": 10,
+          "name": "Self-Hypnotized",
+          "duration": "4:14"
+        },
+        {
+          "number": 11,
+          "name": "Dubsolution #2",
+          "duration": "5:22"
+        },
+        {
+          "number": 12,
+          "name": "Rum",
+          "duration": "6:42"
+        }
+      ]
+    },
+    {
+      "name": "PLAYDEAD",
+      "year": "2023",
+      "release_date": "2023-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/85/3e/9c853e0e-ad24-5156-c3e2-f36e06df311e/197189236648.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PLAYDEAD",
+          "duration": "2:00"
+        },
+        {
+          "number": 2,
+          "name": "RED",
+          "duration": "3:54"
+        },
+        {
+          "number": 3,
+          "name": "HiDE and SEEK",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "SWEET DREAMS",
+          "duration": "3:30"
+        },
+        {
+          "number": 5,
+          "name": "Die Alone",
+          "duration": "2:17"
+        },
+        {
+          "number": 6,
+          "name": "TOO LATE",
+          "duration": "2:41"
+        },
+        {
+          "number": 7,
+          "name": "KiSS OF DEATH",
+          "duration": "3:52"
+        },
+        {
+          "number": 8,
+          "name": "Sad Song",
+          "duration": "3:23"
+        },
+        {
+          "number": 9,
+          "name": "BBT",
+          "duration": "3:30"
+        },
+        {
+          "number": 10,
+          "name": "DO THE DANCE",
+          "duration": "3:16"
+        },
+        {
+          "number": 11,
+          "name": "Not so Weak",
+          "duration": "2:41"
+        },
+        {
+          "number": 12,
+          "name": "UNDER THE TREE",
+          "duration": "4:31"
+        },
+        {
+          "number": 13,
+          "name": "The Rumbling (Orchestra Version)",
+          "duration": "4:14"
+        }
+      ]
+    },
+    {
+      "name": "Thank God, There Are Hundreds of Ways To Kill Enemies",
+      "year": "2020",
+      "release_date": "2020-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3e/ab/f5/3eabf50a-403c-dae7-da4a-ba12773c643e/20UMGIM09667.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "SEEDS OF HOPE",
+      "year": "2011",
+      "release_date": "2011-10-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/05/db/e7/05dbe7c2-07a1-fc29-4f70-82b735d1f765/PA00092543_0_142939_jacket.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Killing Me",
+          "duration": "2:55"
+        },
+        {
+          "number": 2,
+          "name": "Succubus",
+          "duration": "2:49"
+        },
+        {
+          "number": 3,
+          "name": "I Hate U (it's Not a Play on Words)",
+          "duration": "2:58"
+        },
+        {
+          "number": 4,
+          "name": "Misery",
+          "duration": "3:02"
+        },
+        {
+          "number": 5,
+          "name": "Fixit",
+          "duration": "2:56"
+        },
+        {
+          "number": 6,
+          "name": "Punk Rock Iz Coming",
+          "duration": "3:13"
+        },
+        {
+          "number": 8,
+          "name": "I'm Alright",
+          "duration": "2:47"
+        },
+        {
+          "number": 9,
+          "name": "Fall In Love with You",
+          "duration": "3:38"
+        },
+        {
+          "number": 10,
+          "name": "Faster Than the Clock",
+          "duration": "2:32"
+        },
+        {
+          "number": 11,
+          "name": "Living Dead",
+          "duration": "2:40"
+        },
+        {
+          "number": 12,
+          "name": "Dubsolution #3",
+          "duration": "2:17"
+        },
+        {
+          "number": 13,
+          "name": "A Song of Hope",
+          "duration": "4:23"
+        }
+      ]
+    },
+    {
+      "name": "PLAYDEAD (DELUXE EDiTiON)",
+      "year": "2024",
+      "release_date": "2024-12-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/a5/f0/13a5f0ab-bb07-1b1a-8495-84c1f37ab556/PCCA_06371_A.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 14,
+          "name": "The Rumbling",
+          "duration": "3:41"
+        },
+        {
+          "number": 15,
+          "name": "Light it up",
+          "duration": "3:10"
+        },
+        {
+          "number": 16,
+          "name": "FXXKFXXKFXXK",
+          "duration": "2:25"
+        },
+        {
+          "number": 17,
+          "name": "TREASURES",
+          "duration": "3:43"
+        },
+        {
+          "number": 18,
+          "name": "The Rumbling (TV Size)",
+          "duration": "1:32"
+        },
+        {
+          "number": 19,
+          "name": "UNDER THE TREE",
+          "duration": "2:04"
         }
       ]
     }
   ],
-  "eps": [
+  "singles": [
     {
-      "name": "01",
-      "year": "2024",
-      "release_date": "2024-06-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/34/cb/d734cba6-4a7d-4113-64fb-f7bc81e6c8b9/artwork.jpg/600x600bb.jpg",
+      "name": "The Rumbling",
+      "year": "2022",
+      "release_date": "2022-02-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/18/87/7a1887b2-5a4b-c3ca-255d-db8a65f43245/PCSP_03935_A.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "SOLDIER",
-          "duration": "2:45"
+          "name": "The Rumbling",
+          "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "name": "The Rumbling (TV Size)",
+      "year": "2022",
+      "release_date": "2022-01-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/63/9d/b0/639db01d-bd15-12d7-92e5-f122ff4bf271/PCSP_03885_A.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Rumbling (TV Size)",
+          "duration": "1:30"
+        }
+      ]
+    },
+    {
+      "name": "UNDER THE TREE",
+      "year": "2023",
+      "release_date": "2023-03-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bd/4a/33/bd4a331a-41e5-c253-2a6d-0bcf5bc7d8ef/PCSP_04864_A.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Under the Tree",
+          "duration": "2:01"
+        }
+      ]
+    },
+    {
+      "name": "A / The Sound of Breath",
+      "year": "2017",
+      "release_date": "2017-12-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/83/c2/d5/83c2d53a-d47b-5f6d-1664-2e8f959a0776/00602567237129.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "The Rumbling (Instrumental)",
+      "year": "2022",
+      "release_date": "2022-05-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/60/bf/94/60bf9489-b15f-7aba-f925-f80dd0bf84b3/PCSP_04199_A.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Rumbling (Instrumental)",
+          "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "name": "DANZO · lying ghost",
+      "year": "2026",
+      "release_date": "2026-03-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/0e/33/940e3371-30e0-9b6f-20c2-4d302bdda7e5/8721466050775.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DANZO · lying ghost",
+          "duration": "4:08"
+        }
+      ]
+    },
+    {
+      "name": "Let It End",
+      "year": "2017",
+      "release_date": "2017-04-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/21/d6/c6/21d6c66c-cdc2-f40a-ccbb-40517c63472f/00602557582567.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Let It End",
+          "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "Angels and Devils",
+      "year": "2015",
+      "release_date": "2015-06-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/93/26/ab/9326ab97-f5eb-2893-7c21-d0e87f5c473a/00600406601964.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Existence",
+          "duration": "4:05"
         },
         {
           "number": 2,
-          "name": "MNG act 3 N°VII in D# Minor (feat. Ptite Soeur)",
-          "duration": "3:28"
+          "name": "Millions of Stones",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
+      "name": "BLiNDEYES (feat. 花冷え。)",
+      "year": "2026",
+      "release_date": "2026-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/bd/28/c5bd28c3-e227-f2b1-55df-2c23b964e9e7/8721466986487.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BLiNDEYES (feat. 花冷え。)",
+          "duration": "3:17"
+        }
+      ]
+    },
+    {
+      "name": "Champions",
+      "year": "2025",
+      "release_date": "2025-02-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/1b/a8/7d1ba874-1180-5712-e4ff-73d0351bd652/8721253684084.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Champions",
+          "duration": "4:01"
+        }
+      ]
+    },
+    {
+      "name": "Crows",
+      "year": "2015",
+      "release_date": "2015-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/90/04/b9/9004b93d-1cd3-1ce7-c5dd-4df7dcf3c5cd/00600406638540.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Crows",
+          "duration": "3:50"
+        },
+        {
+          "number": 2,
+          "name": "Psycho",
+          "duration": "4:50"
+        }
+      ]
+    },
+    {
+      "name": "FiVE TiMES DEAD (by my wallet)",
+      "year": "2026",
+      "release_date": "2026-04-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/a7/77/7ca777e0-47e5-ef95-11c6-bb1c576a6fba/8721466211121.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FiVE TiMES DEAD (by my wallet)",
+          "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "ANTHEM",
+      "year": "2010",
+      "release_date": "2010-03-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/21/8f/f9218fff-00d3-24cb-d154-39373d6b25da/199538068382.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ANTHEM",
+          "duration": "2:51"
+        },
+        {
+          "number": 2,
+          "name": "Wishing",
+          "duration": "4:58"
         },
         {
           "number": 3,
-          "name": "JSP",
-          "duration": "2:40"
+          "name": "Vitamin",
+          "duration": "4:45"
+        }
+      ]
+    },
+    {
+      "name": "Warriors (feat. SiM)",
+      "year": "2024",
+      "release_date": "2024-06-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/fc/f2/53fcf276-9328-f325-c0c8-3d3bc184049b/198391854453.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Warriors (feat. SiM)",
+          "duration": "3:59"
+        }
+      ]
+    },
+    {
+      "name": "Sfun'Ukuba Happy (feat. TitaniQ MusiQ, Masilver, Daddy Stifler & SiM)",
+      "year": "2025",
+      "release_date": "2025-11-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/90/90/56909012-1c53-335a-94df-57ba8fa1ea4f/198704831188_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sfun'Ukuba Happy (feat. TitaniQ MusiQ, Masilver, Daddy Stifler & SiM)",
+          "duration": "6:50"
+        }
+      ]
+    },
+    {
+      "name": "Devil in Your Heart",
+      "year": "2020",
+      "release_date": "2020-03-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a2/11/81/a211816d-54d5-be42-6909-b839effe7984/20UMGIM01112.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Existence (TV Edit)",
+      "year": "2014",
+      "release_date": "2014-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5c/9f/69/5c9f69e1-5d14-ef25-c1fa-cf66b2e05e0c/00600406539618.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Existence (TV Edit)",
+          "duration": "1:30"
+        }
+      ]
+    },
+    {
+      "name": "Bully",
+      "year": "2020",
+      "release_date": "2020-02-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4f/4b/4a/4f4b4ae4-e6e2-d9d0-00b1-097b963bf32c/20UMGIM01105.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Lion's Den",
+      "year": "2018",
+      "release_date": "2018-12-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e1/bc/0a/e1bc0a8b-854d-ef52-4ecb-e8d053b95bd6/00602577343377.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Sand Castle (feat. AKKOGORILLA)",
+      "year": "2019",
+      "release_date": "2019-12-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/cc/43/9d/cc439d3e-4422-9f73-a674-cfc4538d9aef/19UM1IM05336.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Diamond",
+      "year": "2018",
+      "release_date": "2018-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5d/17/2e/5d172efa-f456-e4b4-6513-df67e5cd20c6/00602577204777.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    }
+  ],
+  "eps": [
+    {
+      "name": "BEWARE",
+      "year": "2022",
+      "release_date": "2022-09-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5c/95/9f/5c959fd2-4668-f897-2937-37d30bd62bbb/PCCA_06152_A.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Rumbling",
+          "duration": "3:41"
+        },
+        {
+          "number": 2,
+          "name": "Light It Up",
+          "duration": "3:10"
+        },
+        {
+          "number": 3,
+          "name": "Fxxkfxxkfxxk",
+          "duration": "2:25"
         },
         {
           "number": 4,
-          "name": "SOMMEIL",
-          "duration": "2:49"
+          "name": "Treasures",
+          "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "LiFE and DEATH",
+      "year": "2012",
+      "release_date": "2012-05-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/03/24/09/032409fd-01e5-9bc4-68bc-2b072d5ff84a/PA00092544_0_142938_jacket.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Get Up, Get Up",
+          "duration": "3:55"
+        },
+        {
+          "number": 2,
+          "name": "Amy",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "R.P.G",
+          "duration": "3:22"
+        },
+        {
+          "number": 4,
+          "name": "Happy Home",
+          "duration": "4:12"
         },
         {
           "number": 5,
-          "name": "COMÈTE",
-          "duration": "2:38"
+          "name": "Evolution Is Solution",
+          "duration": "3:38"
+        },
+        {
+          "number": 6,
+          "name": "Life and Death",
+          "duration": "4:15"
+        }
+      ]
+    },
+    {
+      "name": "I Against I",
+      "year": "2014",
+      "release_date": "2014-09-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4e/9c/a5/4e9ca5a2-7747-430b-e46b-843eb17b66f4/00600406524102.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Riot",
+          "duration": "2:14"
+        },
+        {
+          "number": 2,
+          "name": "Fallen Idols",
+          "duration": "4:16"
+        },
+        {
+          "number": 3,
+          "name": "Gunshots",
+          "duration": "3:51"
+        },
+        {
+          "number": 4,
+          "name": "Ikaros",
+          "duration": "3:26"
+        },
+        {
+          "number": 5,
+          "name": "Slim Thing",
+          "duration": "3:42"
+        },
+        {
+          "number": 6,
+          "name": "Teardrops",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "LIVING IN PAiN",
+      "year": "2010",
+      "release_date": "2010-10-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/33/60/91/336091f4-5831-ac12-ff34-23cc66912f76/195081110851.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Jack. B",
+          "duration": "3:58"
+        },
+        {
+          "number": 2,
+          "name": "Living in PAiN",
+          "duration": "3:11"
+        },
+        {
+          "number": 3,
+          "name": "In the Rain",
+          "duration": "2:55"
+        },
+        {
+          "number": 4,
+          "name": "Dream and the Fact",
+          "duration": "3:37"
+        },
+        {
+          "number": 5,
+          "name": "Turn Around",
+          "duration": "4:03"
+        },
+        {
+          "number": 6,
+          "name": "F**k iT All",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "EViLS",
+      "year": "2013",
+      "release_date": "2013-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/67/fd/60/67fd60cc-cbbf-779a-eaff-6cc2b9f794ea/00600406295323.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blah Blah Blah",
+          "duration": "3:50"
+        },
+        {
+          "number": 2,
+          "name": "Same Sky",
+          "duration": "4:30"
+        },
+        {
+          "number": 3,
+          "name": "F.A.I.T.H",
+          "duration": "1:42"
         }
       ]
     }

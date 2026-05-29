@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Vanity",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/68/2a/3b682a17-e2d2-f2c1-41c9-c8eafb0ca083/3317.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Vanity",
-          "duration": "3:23"
-        }
-      ]
-    },
-    {
       "name": "Escape",
       "year": "2024",
       "release_date": "2024-05-10",
@@ -39,6 +26,19 @@
           "number": 1,
           "name": "Come Down",
           "duration": "3:16"
+        }
+      ]
+    },
+    {
+      "name": "Vanity",
+      "year": "2026",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/68/2a/3b682a17-e2d2-f2c1-41c9-c8eafb0ca083/3317.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Vanity",
+          "duration": "3:23"
         }
       ]
     },

@@ -3,6 +3,69 @@
   "id": 333956462,
   "albums": [
     {
+      "name": "Dopamine",
+      "year": "2024",
+      "release_date": "2024-02-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/f7/15/adf71583-8557-68c5-4dfa-c3e7d83a6e17/197189303968.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Overdrive",
+          "duration": "2:26"
+        },
+        {
+          "number": 2,
+          "name": "Serotonin",
+          "duration": "3:52"
+        },
+        {
+          "number": 3,
+          "name": "Flowers For The Grave",
+          "duration": "3:51"
+        },
+        {
+          "number": 4,
+          "name": "Blood In The Water",
+          "duration": "3:34"
+        },
+        {
+          "number": 5,
+          "name": "Ritual",
+          "duration": "2:50"
+        },
+        {
+          "number": 6,
+          "name": "Butterflies",
+          "duration": "2:52"
+        },
+        {
+          "number": 7,
+          "name": "Colorblind",
+          "duration": "3:30"
+        },
+        {
+          "number": 8,
+          "name": "Hourglass (feat. Dani Winter-Bates)",
+          "duration": "5:01"
+        },
+        {
+          "number": 9,
+          "name": "Sorry",
+          "duration": "3:01"
+        },
+        {
+          "number": 10,
+          "name": "All In My Head",
+          "duration": "3:02"
+        },
+        {
+          "number": 11,
+          "name": "Glue",
+          "duration": "2:53"
+        }
+      ]
+    },
+    {
       "name": "Dark & Beautiful Secrets",
       "year": "2021",
       "release_date": "2021-02-19",
@@ -125,69 +188,6 @@
           "number": 12,
           "name": "Heaven",
           "duration": "3:03"
-        }
-      ]
-    },
-    {
-      "name": "Dopamine",
-      "year": "2024",
-      "release_date": "2024-02-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/f7/15/adf71583-8557-68c5-4dfa-c3e7d83a6e17/197189303968.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Overdrive",
-          "duration": "2:26"
-        },
-        {
-          "number": 2,
-          "name": "Serotonin",
-          "duration": "3:52"
-        },
-        {
-          "number": 3,
-          "name": "Flowers For The Grave",
-          "duration": "3:51"
-        },
-        {
-          "number": 4,
-          "name": "Blood In The Water",
-          "duration": "3:34"
-        },
-        {
-          "number": 5,
-          "name": "Ritual",
-          "duration": "2:50"
-        },
-        {
-          "number": 6,
-          "name": "Butterflies",
-          "duration": "2:52"
-        },
-        {
-          "number": 7,
-          "name": "Colorblind",
-          "duration": "3:30"
-        },
-        {
-          "number": 8,
-          "name": "Hourglass (feat. Dani Winter-Bates)",
-          "duration": "5:01"
-        },
-        {
-          "number": 9,
-          "name": "Sorry",
-          "duration": "3:01"
-        },
-        {
-          "number": 10,
-          "name": "All In My Head",
-          "duration": "3:02"
-        },
-        {
-          "number": 11,
-          "name": "Glue",
-          "duration": "2:53"
         }
       ]
     },
@@ -340,19 +340,6 @@
   ],
   "singles": [
     {
-      "name": "Hourglass (feat. Dani Winter-Bates)",
-      "year": "2023",
-      "release_date": "2023-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7b/33/a6/7b33a6fa-426f-d24e-08b4-8d04cff40783/197189393341.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hourglass (feat. Dani Winter-Bates) [Feat. Dani Winter-Bates]",
-          "duration": "5:01"
-        }
-      ]
-    },
-    {
       "name": "Chandelier",
       "year": "2015",
       "release_date": "2015-02-02",
@@ -450,6 +437,19 @@
           "number": 1,
           "name": "Vultures (Acoustic) [Vultures (Acoustic)]",
           "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "name": "Hourglass (feat. Dani Winter-Bates)",
+      "year": "2023",
+      "release_date": "2023-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7b/33/a6/7b33a6fa-426f-d24e-08b4-8d04cff40783/197189393341.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hourglass (feat. Dani Winter-Bates) [Feat. Dani Winter-Bates]",
+          "duration": "5:01"
         }
       ]
     },
@@ -799,6 +799,34 @@
   ],
   "eps": [
     {
+      "name": "Normandie",
+      "year": "2013",
+      "release_date": "2013-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/6f/20/5d/6f205d29-ebee-98ff-b178-4e0a76bd9bde/0885014281122.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Violence",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "Revolution",
+          "duration": "3:36"
+        },
+        {
+          "number": 3,
+          "name": "Neverending",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Everlasting",
+          "duration": "3:58"
+        }
+      ]
+    },
+    {
       "name": "SIDE EFFECTS PT.1",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -828,34 +856,6 @@
           "number": 5,
           "name": "Mayday",
           "duration": "3:10"
-        }
-      ]
-    },
-    {
-      "name": "Normandie",
-      "year": "2013",
-      "release_date": "2013-09-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/6f/20/5d/6f205d29-ebee-98ff-b178-4e0a76bd9bde/0885014281122.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Violence",
-          "duration": "4:00"
-        },
-        {
-          "number": 2,
-          "name": "Revolution",
-          "duration": "3:36"
-        },
-        {
-          "number": 3,
-          "name": "Neverending",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "Everlasting",
-          "duration": "3:58"
         }
       ]
     }

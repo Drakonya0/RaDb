@@ -63,32 +63,6 @@
   ],
   "singles": [
     {
-      "name": "Grenade",
-      "year": "2021",
-      "release_date": "2021-02-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cf/d2/a6/cfd2a6b5-6828-b8cd-6a73-baddc524eb1c/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Grenade",
-          "duration": "3:52"
-        }
-      ]
-    },
-    {
-      "name": "Just Friends",
-      "year": "2020",
-      "release_date": "2020-08-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/48/3d/fb483dce-2304-8b83-bfcd-b37f80c06f89/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Just Friends",
-          "duration": "3:11"
-        }
-      ]
-    },
-    {
       "name": "Kerosene",
       "year": "2024",
       "release_date": "2024-03-15",
@@ -202,6 +176,32 @@
           "number": 1,
           "name": "Change in Plans",
           "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "Grenade",
+      "year": "2021",
+      "release_date": "2021-02-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cf/d2/a6/cfd2a6b5-6828-b8cd-6a73-baddc524eb1c/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Grenade",
+          "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "Just Friends",
+      "year": "2020",
+      "release_date": "2020-08-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fb/48/3d/fb483dce-2304-8b83-bfcd-b37f80c06f89/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Just Friends",
+          "duration": "3:11"
         }
       ]
     },
@@ -353,44 +353,6 @@
   ],
   "eps": [
     {
-      "name": "For What It's Worth",
-      "year": "2021",
-      "release_date": "2021-09-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/74/c5/cb/74c5cbcb-baba-27af-e902-8dc7e8f1efe5/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You Broke Me",
-          "duration": "3:50"
-        },
-        {
-          "number": 2,
-          "name": "Change in Plans",
-          "duration": "3:33"
-        },
-        {
-          "number": 3,
-          "name": "Grenade",
-          "duration": "3:52"
-        },
-        {
-          "number": 4,
-          "name": "Succubus",
-          "duration": "3:36"
-        },
-        {
-          "number": 5,
-          "name": "Scar Tissue",
-          "duration": "3:28"
-        },
-        {
-          "number": 6,
-          "name": "Crash and Burn",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
       "name": "Reliving Trauma",
       "year": "2024",
       "release_date": "2024-12-06",
@@ -425,6 +387,44 @@
           "number": 6,
           "name": "Monster",
           "duration": "3:37"
+        }
+      ]
+    },
+    {
+      "name": "For What It's Worth",
+      "year": "2021",
+      "release_date": "2021-09-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/74/c5/cb/74c5cbcb-baba-27af-e902-8dc7e8f1efe5/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You Broke Me",
+          "duration": "3:50"
+        },
+        {
+          "number": 2,
+          "name": "Change in Plans",
+          "duration": "3:33"
+        },
+        {
+          "number": 3,
+          "name": "Grenade",
+          "duration": "3:52"
+        },
+        {
+          "number": 4,
+          "name": "Succubus",
+          "duration": "3:36"
+        },
+        {
+          "number": 5,
+          "name": "Scar Tissue",
+          "duration": "3:28"
+        },
+        {
+          "number": 6,
+          "name": "Crash and Burn",
+          "duration": "3:44"
         }
       ]
     },

@@ -189,24 +189,6 @@
   ],
   "singles": [
     {
-      "name": "By The Sound",
-      "year": "2023",
-      "release_date": "2023-02-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/46/6c/c1/466cc141-d4e4-3b55-052e-17727756daf6/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "By The Sound",
-          "duration": "3:42"
-        },
-        {
-          "number": 2,
-          "name": "Guiding Light",
-          "duration": "4:21"
-        }
-      ]
-    },
-    {
       "name": "Glass Heart",
       "year": "2020",
       "release_date": "2020-12-04",
@@ -242,6 +224,24 @@
           "number": 1,
           "name": "Falling Apart",
           "duration": "4:33"
+        }
+      ]
+    },
+    {
+      "name": "By The Sound",
+      "year": "2023",
+      "release_date": "2023-02-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/46/6c/c1/466cc141-d4e4-3b55-052e-17727756daf6/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "By The Sound",
+          "duration": "3:42"
+        },
+        {
+          "number": 2,
+          "name": "Guiding Light",
+          "duration": "4:21"
         }
       ]
     },

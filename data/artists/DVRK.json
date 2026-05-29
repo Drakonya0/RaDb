@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Chemicals (Remix)",
-      "year": "2021",
-      "release_date": "2021-02-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4e/99/06/4e9906f5-91bd-2f66-69bd-1b72a76f7584/192641629310_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chemicals (Remix)",
-          "duration": "3:23"
-        }
-      ]
-    },
-    {
       "name": "Unbreakable (feat. Chunk! No, Captain Chunk!)",
       "year": "2020",
       "release_date": "2020-11-20",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "Unbreakable (feat. Chunk! No, Captain Chunk!)",
           "duration": "3:01"
+        }
+      ]
+    },
+    {
+      "name": "Chemicals (Remix)",
+      "year": "2021",
+      "release_date": "2021-02-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4e/99/06/4e9906f5-91bd-2f66-69bd-1b72a76f7584/192641629310_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chemicals (Remix)",
+          "duration": "3:23"
         }
       ]
     },

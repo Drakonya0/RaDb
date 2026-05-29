@@ -121,6 +121,19 @@
   ],
   "singles": [
     {
+      "name": "LOVE乱舞",
+      "year": "2022",
+      "release_date": "2022-04-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/30/53/c1/3053c1ab-05b0-ab07-cb65-4c4037155e13/00013504_3000.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LOVE乱舞",
+          "duration": "3:49"
+        }
+      ]
+    },
+    {
       "name": "お先に失礼します。",
       "year": "2023",
       "release_date": "2023-01-09",
@@ -142,19 +155,6 @@
         {
           "number": 1,
           "name": "Spicy Queen",
-          "duration": "3:49"
-        }
-      ]
-    },
-    {
-      "name": "LOVE乱舞",
-      "year": "2022",
-      "release_date": "2022-04-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/30/53/c1/3053c1ab-05b0-ab07-cb65-4c4037155e13/00013504_3000.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LOVE乱舞",
           "duration": "3:49"
         }
       ]
@@ -323,7 +323,7 @@
     {
       "name": "BLiNDEYES (feat. 花冷え。)",
       "year": "2026",
-      "release_date": "2026-05-21",
+      "release_date": "2026-05-22",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/bd/28/c5bd28c3-e227-f2b1-55df-2c23b964e9e7/8721466986487.png/600x600bb.jpg",
       "tracks": [
         {
@@ -335,6 +335,39 @@
     }
   ],
   "eps": [
+    {
+      "name": "HOT TOPIC",
+      "year": "2026",
+      "release_date": "2026-01-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/21/b2/9821b206-f7d6-04b6-9466-93bbb0cae83e/4547366799477.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ICONIC",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Spicy Queen",
+          "duration": "3:49"
+        },
+        {
+          "number": 3,
+          "name": "Tokimeki about you",
+          "duration": "3:19"
+        },
+        {
+          "number": 4,
+          "name": "GIRL'S TALK",
+          "duration": "2:52"
+        },
+        {
+          "number": 5,
+          "name": "Theme of hanabienchan.",
+          "duration": "1:38"
+        }
+      ]
+    },
     {
       "name": "ぶっちぎり東京",
       "year": "2024",
@@ -408,39 +441,6 @@
           "number": 6,
           "name": "Drastic Nadeshiko",
           "duration": "3:52"
-        }
-      ]
-    },
-    {
-      "name": "HOT TOPIC",
-      "year": "2026",
-      "release_date": "2026-01-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/21/b2/9821b206-f7d6-04b6-9466-93bbb0cae83e/4547366799477.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ICONIC",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Spicy Queen",
-          "duration": "3:49"
-        },
-        {
-          "number": 3,
-          "name": "Tokimeki about you",
-          "duration": "3:19"
-        },
-        {
-          "number": 4,
-          "name": "GIRL'S TALK",
-          "duration": "2:52"
-        },
-        {
-          "number": 5,
-          "name": "Theme of hanabienchan.",
-          "duration": "1:38"
         }
       ]
     }

@@ -3,6 +3,59 @@
   "id": 916015690,
   "albums": [
     {
+      "name": "Sonoran Depravation",
+      "year": "2016",
+      "release_date": "2016-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/fe/01/ee/fe01eeb1-9fbd-0071-f337-f74b78fa6278/781676736225.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Craving Flesh",
+          "duration": "3:24"
+        },
+        {
+          "number": 2,
+          "name": "Sterilized",
+          "duration": "2:46"
+        },
+        {
+          "number": 3,
+          "name": "Desperation",
+          "duration": "1:56"
+        },
+        {
+          "number": 4,
+          "name": "Rotting as One",
+          "duration": "2:27"
+        },
+        {
+          "number": 5,
+          "name": "Stronghold",
+          "duration": "3:54"
+        },
+        {
+          "number": 6,
+          "name": "Patriarchal Grip",
+          "duration": "3:50"
+        },
+        {
+          "number": 7,
+          "name": "Lost Forever",
+          "duration": "3:34"
+        },
+        {
+          "number": 8,
+          "name": "Flamethrower",
+          "duration": "3:11"
+        },
+        {
+          "number": 9,
+          "name": "Grotesque Operations",
+          "duration": "5:43"
+        }
+      ]
+    },
+    {
       "name": "Deserted",
       "year": "2019",
       "release_date": "2019-10-04",
@@ -62,59 +115,6 @@
           "number": 11,
           "name": "Anxiety (Bonus Track)",
           "duration": "4:16"
-        }
-      ]
-    },
-    {
-      "name": "Sonoran Depravation",
-      "year": "2016",
-      "release_date": "2016-10-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/fe/01/ee/fe01eeb1-9fbd-0071-f337-f74b78fa6278/781676736225.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Craving Flesh",
-          "duration": "3:24"
-        },
-        {
-          "number": 2,
-          "name": "Sterilized",
-          "duration": "2:46"
-        },
-        {
-          "number": 3,
-          "name": "Desperation",
-          "duration": "1:56"
-        },
-        {
-          "number": 4,
-          "name": "Rotting as One",
-          "duration": "2:27"
-        },
-        {
-          "number": 5,
-          "name": "Stronghold",
-          "duration": "3:54"
-        },
-        {
-          "number": 6,
-          "name": "Patriarchal Grip",
-          "duration": "3:50"
-        },
-        {
-          "number": 7,
-          "name": "Lost Forever",
-          "duration": "3:34"
-        },
-        {
-          "number": 8,
-          "name": "Flamethrower",
-          "duration": "3:11"
-        },
-        {
-          "number": 9,
-          "name": "Grotesque Operations",
-          "duration": "5:43"
         }
       ]
     },
@@ -282,19 +282,6 @@
   ],
   "singles": [
     {
-      "name": "Caught in the Treads",
-      "year": "2024",
-      "release_date": "2024-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/75/b1/86/75b1865d-c264-1ba5-cb07-a4baf519cffb/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Caught in the Treads",
-          "duration": "3:35"
-        }
-      ]
-    },
-    {
       "name": "Sweltering Madness",
       "year": "2017",
       "release_date": "2017-11-10",
@@ -309,6 +296,19 @@
           "number": 2,
           "name": "Mastery of Power",
           "duration": "4:10"
+        }
+      ]
+    },
+    {
+      "name": "Caught in the Treads",
+      "year": "2024",
+      "release_date": "2024-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/75/b1/86/75b1865d-c264-1ba5-cb07-a4baf519cffb/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Caught in the Treads",
+          "duration": "3:35"
         }
       ]
     },

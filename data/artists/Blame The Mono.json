@@ -272,6 +272,34 @@
   ],
   "eps": [
     {
+      "name": "Sample and Hold",
+      "year": "2025",
+      "release_date": "2025-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/2f/b3/282fb3b2-6fde-25b8-ed06-1710a4d7c662/8721253704973.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mould the Beat",
+          "duration": "5:12"
+        },
+        {
+          "number": 2,
+          "name": "East Senders",
+          "duration": "5:28"
+        },
+        {
+          "number": 3,
+          "name": "Super Saiyan Sprinter",
+          "duration": "4:00"
+        },
+        {
+          "number": 4,
+          "name": "Lfos on Mars",
+          "duration": "5:08"
+        }
+      ]
+    },
+    {
       "name": "Neoacid09va",
       "year": "2022",
       "release_date": "2022-09-22",
@@ -380,34 +408,6 @@
           "number": 4,
           "name": "Molly Pop (feat. Lifka)",
           "duration": "4:31"
-        }
-      ]
-    },
-    {
-      "name": "Sample and Hold",
-      "year": "2025",
-      "release_date": "2025-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/2f/b3/282fb3b2-6fde-25b8-ed06-1710a4d7c662/8721253704973.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mould the Beat",
-          "duration": "5:12"
-        },
-        {
-          "number": 2,
-          "name": "East Senders",
-          "duration": "5:28"
-        },
-        {
-          "number": 3,
-          "name": "Super Saiyan Sprinter",
-          "duration": "4:00"
-        },
-        {
-          "number": 4,
-          "name": "Lfos on Mars",
-          "duration": "5:08"
         }
       ]
     },

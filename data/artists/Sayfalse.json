@@ -73,19 +73,6 @@
   ],
   "singles": [
     {
-      "name": "Mybad! (feat. SaintRxse)",
-      "year": "2023",
-      "release_date": "2023-02-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/b5/55/35b5555c-ba3c-bf7b-c33b-2115bc4a1c97/b739b1fa-fa55-42c0-a270-864df49cae85.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mybad! (feat. SaintRxse)",
-          "duration": "1:58"
-        }
-      ]
-    },
-    {
       "name": "BAD PARENTING FUNK V2",
       "year": "2024",
       "release_date": "2024-10-21",
@@ -138,6 +125,19 @@
           "number": 4,
           "name": "PYTHON FUNK (Ultra Slowed)",
           "duration": "1:49"
+        }
+      ]
+    },
+    {
+      "name": "Mybad! (feat. SaintRxse)",
+      "year": "2023",
+      "release_date": "2023-02-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/b5/55/35b5555c-ba3c-bf7b-c33b-2115bc4a1c97/b739b1fa-fa55-42c0-a270-864df49cae85.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mybad! (feat. SaintRxse)",
+          "duration": "1:58"
         }
       ]
     },
@@ -1267,6 +1267,39 @@
   ],
   "eps": [
     {
+      "name": "LOS VOLTAJE",
+      "year": "2025",
+      "release_date": "2025-04-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/31/eb/c931eb45-b739-0511-692b-fec23f033996/14751.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LOS VOLTAJE",
+          "duration": "1:39"
+        },
+        {
+          "number": 2,
+          "name": "LOS VOLTAJE (Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 3,
+          "name": "LOS VOLTAJE (Super Slowed)",
+          "duration": "1:57"
+        },
+        {
+          "number": 4,
+          "name": "LOS VOLTAJE (Ultra Slowed)",
+          "duration": "2:07"
+        },
+        {
+          "number": 5,
+          "name": "LOS VOLTAJE (Sped Up)",
+          "duration": "1:28"
+        }
+      ]
+    },
+    {
       "name": "DARE",
       "year": "2024",
       "release_date": "2024-09-27",
@@ -1329,39 +1362,6 @@
           "number": 5,
           "name": "COM MEDO! (Sped Up)",
           "duration": "1:03"
-        }
-      ]
-    },
-    {
-      "name": "LOS VOLTAJE",
-      "year": "2025",
-      "release_date": "2025-04-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/31/eb/c931eb45-b739-0511-692b-fec23f033996/14751.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LOS VOLTAJE",
-          "duration": "1:39"
-        },
-        {
-          "number": 2,
-          "name": "LOS VOLTAJE (Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 3,
-          "name": "LOS VOLTAJE (Super Slowed)",
-          "duration": "1:57"
-        },
-        {
-          "number": 4,
-          "name": "LOS VOLTAJE (Ultra Slowed)",
-          "duration": "2:07"
-        },
-        {
-          "number": 5,
-          "name": "LOS VOLTAJE (Sped Up)",
-          "duration": "1:28"
         }
       ]
     },

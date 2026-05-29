@@ -3,6 +3,49 @@
   "id": 1312874741,
   "albums": [
     {
+      "name": "Chosen",
+      "year": "2017",
+      "release_date": "2017-12-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chosen",
+          "duration": "2:42"
+        },
+        {
+          "number": 2,
+          "name": "Recovery",
+          "duration": "2:55"
+        },
+        {
+          "number": 3,
+          "name": "Vengo dalla luna",
+          "duration": "3:04"
+        },
+        {
+          "number": 4,
+          "name": "Beggin'",
+          "duration": "3:31"
+        },
+        {
+          "number": 5,
+          "name": "Let's Get It Started",
+          "duration": "2:26"
+        },
+        {
+          "number": 6,
+          "name": "Somebody Told Me",
+          "duration": "2:41"
+        },
+        {
+          "number": 7,
+          "name": "You Need Me, I Don't Need You",
+          "duration": "3:30"
+        }
+      ]
+    },
+    {
       "name": "RUSH!",
       "year": "2023",
       "release_date": "2023-01-20",
@@ -92,49 +135,6 @@
           "number": 17,
           "name": "THE LONELIEST",
           "duration": "4:07"
-        }
-      ]
-    },
-    {
-      "name": "Chosen",
-      "year": "2017",
-      "release_date": "2017-12-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/08/e0/6708e014-c1be-76b1-c520-a6567bf946a2/886446867755.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chosen",
-          "duration": "2:42"
-        },
-        {
-          "number": 2,
-          "name": "Recovery",
-          "duration": "2:55"
-        },
-        {
-          "number": 3,
-          "name": "Vengo dalla luna",
-          "duration": "3:04"
-        },
-        {
-          "number": 4,
-          "name": "Beggin'",
-          "duration": "3:31"
-        },
-        {
-          "number": 5,
-          "name": "Let's Get It Started",
-          "duration": "2:26"
-        },
-        {
-          "number": 6,
-          "name": "Somebody Told Me",
-          "duration": "2:41"
-        },
-        {
-          "number": 7,
-          "name": "You Need Me, I Don't Need You",
-          "duration": "3:30"
         }
       ]
     },
@@ -499,32 +499,6 @@
       ]
     },
     {
-      "name": "ZITTI E BUONI (Eurovision Version)",
-      "year": "2021",
-      "release_date": "2021-03-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/76/14/5e761416-1c55-1b56-e8c3-177fb475bef2/886449160334.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ZITTI E BUONI (Eurovision Version)",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
-      "name": "HONEY (ARE U COMING?)",
-      "year": "2023",
-      "release_date": "2023-09-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/85/f9/0485f96c-ccbc-068b-901b-9ae34b574007/196871323666.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HONEY (ARE U COMING?)",
-          "duration": "2:47"
-        }
-      ]
-    },
-    {
       "name": "MAMMAMIA",
       "year": "2021",
       "release_date": "2021-10-08",
@@ -547,6 +521,32 @@
           "number": 1,
           "name": "THE LONELIEST",
           "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "ZITTI E BUONI (Eurovision Version)",
+      "year": "2021",
+      "release_date": "2021-03-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/76/14/5e761416-1c55-1b56-e8c3-177fb475bef2/886449160334.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ZITTI E BUONI (Eurovision Version)",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "HONEY (ARE U COMING?)",
+      "year": "2023",
+      "release_date": "2023-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/85/f9/0485f96c-ccbc-068b-901b-9ae34b574007/196871323666.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HONEY (ARE U COMING?)",
+          "duration": "2:47"
         }
       ]
     },

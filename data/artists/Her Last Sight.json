@@ -3,6 +3,69 @@
   "id": 1536125280,
   "albums": [
     {
+      "name": "Mirrors",
+      "year": "2021",
+      "release_date": "2021-03-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/1a/c4/301ac41f-2ff2-2567-5a08-fa8cbc718d51/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mirrors",
+          "duration": "0:59"
+        },
+        {
+          "number": 2,
+          "name": "Ghost",
+          "duration": "3:26"
+        },
+        {
+          "number": 3,
+          "name": "Rise Up",
+          "duration": "4:39"
+        },
+        {
+          "number": 4,
+          "name": "What Does It Mean",
+          "duration": "3:52"
+        },
+        {
+          "number": 5,
+          "name": "Tyranny",
+          "duration": "4:04"
+        },
+        {
+          "number": 6,
+          "name": "Forever Gone",
+          "duration": "3:56"
+        },
+        {
+          "number": 7,
+          "name": "Memories",
+          "duration": "3:17"
+        },
+        {
+          "number": 8,
+          "name": "Dead Romance",
+          "duration": "3:42"
+        },
+        {
+          "number": 9,
+          "name": "Answers",
+          "duration": "4:33"
+        },
+        {
+          "number": 10,
+          "name": "New Dawn",
+          "duration": "5:17"
+        },
+        {
+          "number": 11,
+          "name": "Dead and Cold (feat. Liron Avital)",
+          "duration": "4:52"
+        }
+      ]
+    },
+    {
       "name": "Picture Perfect",
       "year": "2024",
       "release_date": "2024-01-19",
@@ -72,69 +135,6 @@
           "number": 13,
           "name": "Heart // Mind",
           "duration": "5:03"
-        }
-      ]
-    },
-    {
-      "name": "Mirrors",
-      "year": "2021",
-      "release_date": "2021-03-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/30/1a/c4/301ac41f-2ff2-2567-5a08-fa8cbc718d51/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mirrors",
-          "duration": "0:59"
-        },
-        {
-          "number": 2,
-          "name": "Ghost",
-          "duration": "3:26"
-        },
-        {
-          "number": 3,
-          "name": "Rise Up",
-          "duration": "4:39"
-        },
-        {
-          "number": 4,
-          "name": "What Does It Mean",
-          "duration": "3:52"
-        },
-        {
-          "number": 5,
-          "name": "Tyranny",
-          "duration": "4:04"
-        },
-        {
-          "number": 6,
-          "name": "Forever Gone",
-          "duration": "3:56"
-        },
-        {
-          "number": 7,
-          "name": "Memories",
-          "duration": "3:17"
-        },
-        {
-          "number": 8,
-          "name": "Dead Romance",
-          "duration": "3:42"
-        },
-        {
-          "number": 9,
-          "name": "Answers",
-          "duration": "4:33"
-        },
-        {
-          "number": 10,
-          "name": "New Dawn",
-          "duration": "5:17"
-        },
-        {
-          "number": 11,
-          "name": "Dead and Cold (feat. Liron Avital)",
-          "duration": "4:52"
         }
       ]
     },
@@ -288,45 +288,6 @@
       ]
     },
     {
-      "name": "Dead End",
-      "year": "2025",
-      "release_date": "2025-05-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/85/ca/3785ca73-a7af-7adb-a526-e69904c141cd/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dead End",
-          "duration": "4:30"
-        }
-      ]
-    },
-    {
-      "name": "TRIGGERED",
-      "year": "2025",
-      "release_date": "2025-03-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/ba/73/c3ba73e9-0b2e-2b3d-2b0c-30c604e2ebd7/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TRIGGERED",
-          "duration": "2:17"
-        }
-      ]
-    },
-    {
-      "name": "The Fall",
-      "year": "2025",
-      "release_date": "2025-11-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/fc/03/24fc0336-6d3c-7322-5d0d-84c76ce4768a/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Fall",
-          "duration": "3:45"
-        }
-      ]
-    },
-    {
       "name": "HOPE",
       "year": "2024",
       "release_date": "2024-10-18",
@@ -350,6 +311,19 @@
       ]
     },
     {
+      "name": "Dead End",
+      "year": "2025",
+      "release_date": "2025-05-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/85/ca/3785ca73-a7af-7adb-a526-e69904c141cd/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dead End",
+          "duration": "4:30"
+        }
+      ]
+    },
+    {
       "name": "Scary Monsters and Nice Sprites",
       "year": "2026",
       "release_date": "2026-04-24",
@@ -369,6 +343,32 @@
           "number": 3,
           "name": "The Fall",
           "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "The Fall",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/fc/03/24fc0336-6d3c-7322-5d0d-84c76ce4768a/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Fall",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "TRIGGERED",
+      "year": "2025",
+      "release_date": "2025-03-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/ba/73/c3ba73e9-0b2e-2b3d-2b0c-30c604e2ebd7/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TRIGGERED",
+          "duration": "2:17"
         }
       ]
     },

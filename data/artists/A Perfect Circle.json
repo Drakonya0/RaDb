@@ -3,74 +3,6 @@
   "id": 652503,
   "albums": [
     {
-      "name": "Thirteenth Step",
-      "year": "2003",
-      "release_date": "2003-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1a/d1/f3/1ad1f325-3f3f-d8c1-dcc8-f1a6ffd8b326/13UMGIM85765.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Package",
-          "duration": "7:40"
-        },
-        {
-          "number": 2,
-          "name": "Weak and Powerless",
-          "duration": "3:15"
-        },
-        {
-          "number": 3,
-          "name": "The Noose",
-          "duration": "4:53"
-        },
-        {
-          "number": 4,
-          "name": "Blue",
-          "duration": "4:13"
-        },
-        {
-          "number": 5,
-          "name": "Vanishing",
-          "duration": "4:51"
-        },
-        {
-          "number": 6,
-          "name": "A Stranger",
-          "duration": "3:12"
-        },
-        {
-          "number": 7,
-          "name": "The Outsider",
-          "duration": "4:06"
-        },
-        {
-          "number": 8,
-          "name": "Crimes",
-          "duration": "2:34"
-        },
-        {
-          "number": 9,
-          "name": "The Nurse Who Loved Me",
-          "duration": "4:04"
-        },
-        {
-          "number": 10,
-          "name": "Pet",
-          "duration": "4:34"
-        },
-        {
-          "number": 11,
-          "name": "Lullaby",
-          "duration": "2:01"
-        },
-        {
-          "number": 12,
-          "name": "Gravity",
-          "duration": "5:08"
-        }
-      ]
-    },
-    {
       "name": "Mer De Noms",
       "year": "2000",
       "release_date": "2000-01-01",
@@ -135,6 +67,74 @@
           "number": 12,
           "name": "Over",
           "duration": "2:23"
+        }
+      ]
+    },
+    {
+      "name": "Thirteenth Step",
+      "year": "2003",
+      "release_date": "2003-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1a/d1/f3/1ad1f325-3f3f-d8c1-dcc8-f1a6ffd8b326/13UMGIM85765.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Package",
+          "duration": "7:40"
+        },
+        {
+          "number": 2,
+          "name": "Weak and Powerless",
+          "duration": "3:15"
+        },
+        {
+          "number": 3,
+          "name": "The Noose",
+          "duration": "4:53"
+        },
+        {
+          "number": 4,
+          "name": "Blue",
+          "duration": "4:13"
+        },
+        {
+          "number": 5,
+          "name": "Vanishing",
+          "duration": "4:51"
+        },
+        {
+          "number": 6,
+          "name": "A Stranger",
+          "duration": "3:12"
+        },
+        {
+          "number": 7,
+          "name": "The Outsider",
+          "duration": "4:06"
+        },
+        {
+          "number": 8,
+          "name": "Crimes",
+          "duration": "2:34"
+        },
+        {
+          "number": 9,
+          "name": "The Nurse Who Loved Me",
+          "duration": "4:04"
+        },
+        {
+          "number": 10,
+          "name": "Pet",
+          "duration": "4:34"
+        },
+        {
+          "number": 11,
+          "name": "Lullaby",
+          "duration": "2:01"
+        },
+        {
+          "number": 12,
+          "name": "Gravity",
+          "duration": "5:08"
         }
       ]
     },
@@ -724,200 +724,6 @@
       ]
     },
     {
-      "name": "Mer de Noms - Live",
-      "year": "2000",
-      "release_date": "2000-05-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/6a/b1/d8/6ab1d844-7086-0635-6f88-5e972a4bd1ee/NDM-TC_1600x1600.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Hollow (LIVE)",
-          "duration": "3:05"
-        },
-        {
-          "number": 2,
-          "name": "Magdalena (LIVE)",
-          "duration": "4:10"
-        },
-        {
-          "number": 3,
-          "name": "Rose (LIVE)",
-          "duration": "3:28"
-        },
-        {
-          "number": 4,
-          "name": "Judith (LIVE)",
-          "duration": "4:18"
-        },
-        {
-          "number": 5,
-          "name": "Orestes (LIVE)",
-          "duration": "5:36"
-        },
-        {
-          "number": 6,
-          "name": "3 Libras (LIVE)",
-          "duration": "6:17"
-        },
-        {
-          "number": 7,
-          "name": "Sleeping Beauty (LIVE)",
-          "duration": "6:11"
-        },
-        {
-          "number": 8,
-          "name": "Thomas (LIVE)",
-          "duration": "3:50"
-        },
-        {
-          "number": 9,
-          "name": "Renholder (LIVE)",
-          "duration": "3:20"
-        },
-        {
-          "number": 10,
-          "name": "Thinking of You (LIVE)",
-          "duration": "4:32"
-        },
-        {
-          "number": 11,
-          "name": "Brena (LIVE)",
-          "duration": "4:13"
-        },
-        {
-          "number": 12,
-          "name": "Over (LIVE)",
-          "duration": "6:45"
-        },
-        {
-          "number": 13,
-          "name": "Ashes To Ashes (LIVE)",
-          "duration": "3:57"
-        }
-      ]
-    },
-    {
-      "name": "aMOTION",
-      "year": "2004",
-      "release_date": "2004-11-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4a/72/e5/4a72e5d0-ae7f-2ec8-c8e8-8f08fc46f1b1/13UMGIM85747.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Judith (Renholder Remix)",
-          "duration": "4:24"
-        },
-        {
-          "number": 2,
-          "name": "3 Libras (Feel My Ice Dub)",
-          "duration": "4:28"
-        },
-        {
-          "number": 3,
-          "name": "Outsider (Apocalypse Remix)",
-          "duration": "5:28"
-        },
-        {
-          "number": 4,
-          "name": "Weak and Powerless (Tilling My Grave Renholder Mix - Lohner Mix)",
-          "duration": "3:05"
-        },
-        {
-          "number": 5,
-          "name": "Outsider (Frosted Yogurt Iha Mix)",
-          "duration": "4:07"
-        },
-        {
-          "number": 6,
-          "name": "Blue (Bird Shake Remix - Iha Mix)",
-          "duration": "3:57"
-        },
-        {
-          "number": 7,
-          "name": "3 Libras (All Main Courses Mix - Massive Attack)",
-          "duration": "7:17"
-        },
-        {
-          "number": 8,
-          "name": "Hollow (Constantly Consuming - Paz Mix)",
-          "duration": "3:40"
-        },
-        {
-          "number": 9,
-          "name": "Hollow (The Bunk Remix - Troy/Josh Abrahams Mix)",
-          "duration": "3:12"
-        }
-      ]
-    },
-    {
-      "name": "Thirteenth Step - Live",
-      "year": "2003",
-      "release_date": "2003-09-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/36/46/fb/3646fbc9-ab6c-db5d-e18e-941ea3eb1e1f/APC_13th_TC_1600x1600_1.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Package (LIVE)",
-          "duration": "8:24"
-        },
-        {
-          "number": 2,
-          "name": "Weak and Powerless (LIVE)",
-          "duration": "3:22"
-        },
-        {
-          "number": 3,
-          "name": "The Noose (LIVE)",
-          "duration": "5:26"
-        },
-        {
-          "number": 4,
-          "name": "Blue (LIVE)",
-          "duration": "4:26"
-        },
-        {
-          "number": 5,
-          "name": "Vanishing (LIVE)",
-          "duration": "5:25"
-        },
-        {
-          "number": 6,
-          "name": "A Stranger (LIVE)",
-          "duration": "3:11"
-        },
-        {
-          "number": 7,
-          "name": "The Outsider (LIVE)",
-          "duration": "4:11"
-        },
-        {
-          "number": 8,
-          "name": "Crimes (LIVE)",
-          "duration": "2:00"
-        },
-        {
-          "number": 9,
-          "name": "The Nurse Who Loved Me (LIVE)",
-          "duration": "5:25"
-        },
-        {
-          "number": 10,
-          "name": "Pet (LIVE)",
-          "duration": "4:35"
-        },
-        {
-          "number": 11,
-          "name": "Lullaby (LIVE)",
-          "duration": "4:27"
-        },
-        {
-          "number": 12,
-          "name": "Gravity (LIVE)",
-          "duration": "9:19"
-        }
-      ]
-    },
-    {
       "name": "eMOTIVe (Live)",
       "year": "2004",
       "release_date": "2004-11-02",
@@ -1065,6 +871,200 @@
           "number": 13,
           "name": "By and Down",
           "duration": "5:33"
+        }
+      ]
+    },
+    {
+      "name": "aMOTION",
+      "year": "2004",
+      "release_date": "2004-11-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4a/72/e5/4a72e5d0-ae7f-2ec8-c8e8-8f08fc46f1b1/13UMGIM85747.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Judith (Renholder Remix)",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "3 Libras (Feel My Ice Dub)",
+          "duration": "4:28"
+        },
+        {
+          "number": 3,
+          "name": "Outsider (Apocalypse Remix)",
+          "duration": "5:28"
+        },
+        {
+          "number": 4,
+          "name": "Weak and Powerless (Tilling My Grave Renholder Mix - Lohner Mix)",
+          "duration": "3:05"
+        },
+        {
+          "number": 5,
+          "name": "Outsider (Frosted Yogurt Iha Mix)",
+          "duration": "4:07"
+        },
+        {
+          "number": 6,
+          "name": "Blue (Bird Shake Remix - Iha Mix)",
+          "duration": "3:57"
+        },
+        {
+          "number": 7,
+          "name": "3 Libras (All Main Courses Mix - Massive Attack)",
+          "duration": "7:17"
+        },
+        {
+          "number": 8,
+          "name": "Hollow (Constantly Consuming - Paz Mix)",
+          "duration": "3:40"
+        },
+        {
+          "number": 9,
+          "name": "Hollow (The Bunk Remix - Troy/Josh Abrahams Mix)",
+          "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "Thirteenth Step - Live",
+      "year": "2003",
+      "release_date": "2003-09-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/36/46/fb/3646fbc9-ab6c-db5d-e18e-941ea3eb1e1f/APC_13th_TC_1600x1600_1.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Package (LIVE)",
+          "duration": "8:24"
+        },
+        {
+          "number": 2,
+          "name": "Weak and Powerless (LIVE)",
+          "duration": "3:22"
+        },
+        {
+          "number": 3,
+          "name": "The Noose (LIVE)",
+          "duration": "5:26"
+        },
+        {
+          "number": 4,
+          "name": "Blue (LIVE)",
+          "duration": "4:26"
+        },
+        {
+          "number": 5,
+          "name": "Vanishing (LIVE)",
+          "duration": "5:25"
+        },
+        {
+          "number": 6,
+          "name": "A Stranger (LIVE)",
+          "duration": "3:11"
+        },
+        {
+          "number": 7,
+          "name": "The Outsider (LIVE)",
+          "duration": "4:11"
+        },
+        {
+          "number": 8,
+          "name": "Crimes (LIVE)",
+          "duration": "2:00"
+        },
+        {
+          "number": 9,
+          "name": "The Nurse Who Loved Me (LIVE)",
+          "duration": "5:25"
+        },
+        {
+          "number": 10,
+          "name": "Pet (LIVE)",
+          "duration": "4:35"
+        },
+        {
+          "number": 11,
+          "name": "Lullaby (LIVE)",
+          "duration": "4:27"
+        },
+        {
+          "number": 12,
+          "name": "Gravity (LIVE)",
+          "duration": "9:19"
+        }
+      ]
+    },
+    {
+      "name": "Mer de Noms - Live",
+      "year": "2000",
+      "release_date": "2000-05-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/6a/b1/d8/6ab1d844-7086-0635-6f88-5e972a4bd1ee/NDM-TC_1600x1600.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Hollow (LIVE)",
+          "duration": "3:05"
+        },
+        {
+          "number": 2,
+          "name": "Magdalena (LIVE)",
+          "duration": "4:10"
+        },
+        {
+          "number": 3,
+          "name": "Rose (LIVE)",
+          "duration": "3:28"
+        },
+        {
+          "number": 4,
+          "name": "Judith (LIVE)",
+          "duration": "4:18"
+        },
+        {
+          "number": 5,
+          "name": "Orestes (LIVE)",
+          "duration": "5:36"
+        },
+        {
+          "number": 6,
+          "name": "3 Libras (LIVE)",
+          "duration": "6:17"
+        },
+        {
+          "number": 7,
+          "name": "Sleeping Beauty (LIVE)",
+          "duration": "6:11"
+        },
+        {
+          "number": 8,
+          "name": "Thomas (LIVE)",
+          "duration": "3:50"
+        },
+        {
+          "number": 9,
+          "name": "Renholder (LIVE)",
+          "duration": "3:20"
+        },
+        {
+          "number": 10,
+          "name": "Thinking of You (LIVE)",
+          "duration": "4:32"
+        },
+        {
+          "number": 11,
+          "name": "Brena (LIVE)",
+          "duration": "4:13"
+        },
+        {
+          "number": 12,
+          "name": "Over (LIVE)",
+          "duration": "6:45"
+        },
+        {
+          "number": 13,
+          "name": "Ashes To Ashes (LIVE)",
+          "duration": "3:57"
         }
       ]
     },
@@ -1246,6 +1246,19 @@
     }
   ],
   "singles": [
+    {
+      "name": "Starless",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/64/19/b26419f1-0e07-6aeb-b57b-76adb2adaf36/4099964267631.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Starless",
+          "duration": "4:32"
+        }
+      ]
+    },
     {
       "name": "Blue (Remix)",
       "year": "2004",

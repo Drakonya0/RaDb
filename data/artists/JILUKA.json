@@ -46,92 +46,6 @@
       ]
     },
     {
-      "name": "DESTRIEB",
-      "year": "2015",
-      "release_date": "2015-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/a6/62/a9/a662a942-8713-1886-9dc7-b12d87f394ed/DPRJ1003_jk.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "-Krishna-",
-          "duration": "1:20"
-        },
-        {
-          "number": 2,
-          "name": "Twisted Pain",
-          "duration": "3:48"
-        },
-        {
-          "number": 3,
-          "name": "Zone",
-          "duration": "3:37"
-        },
-        {
-          "number": 4,
-          "name": "Parasite",
-          "duration": "3:43"
-        },
-        {
-          "number": 5,
-          "name": "Raison d'etre",
-          "duration": "3:30"
-        },
-        {
-          "number": 6,
-          "name": "Sacrifice",
-          "duration": "5:27"
-        },
-        {
-          "number": 7,
-          "name": "Primal Urge",
-          "duration": "3:53"
-        }
-      ]
-    },
-    {
-      "name": "Xtopia",
-      "year": "2020",
-      "release_date": "2020-10-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/79/8f/db/798fdbec-fee6-4d93-e5a9-6903d82484d4/DPRJ1012B_JK_tsujo.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Xtopia",
-          "duration": "1:19"
-        },
-        {
-          "number": 2,
-          "name": "Edifice",
-          "duration": "4:05"
-        },
-        {
-          "number": 3,
-          "name": "Menace",
-          "duration": "3:47"
-        },
-        {
-          "number": 4,
-          "name": "Flux",
-          "duration": "4:21"
-        },
-        {
-          "number": 5,
-          "name": "Ignite",
-          "duration": "3:21"
-        },
-        {
-          "number": 6,
-          "name": "-Prologos-",
-          "duration": "0:38"
-        },
-        {
-          "number": 7,
-          "name": "The Purge",
-          "duration": "3:55"
-        }
-      ]
-    },
-    {
       "name": "XANADU",
       "year": "2019",
       "release_date": "2019-01-01",
@@ -226,6 +140,92 @@
           "number": 18,
           "name": "Screamer (2019 ver.)",
           "duration": "4:03"
+        }
+      ]
+    },
+    {
+      "name": "DESTRIEB",
+      "year": "2015",
+      "release_date": "2015-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/a6/62/a9/a662a942-8713-1886-9dc7-b12d87f394ed/DPRJ1003_jk.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "-Krishna-",
+          "duration": "1:20"
+        },
+        {
+          "number": 2,
+          "name": "Twisted Pain",
+          "duration": "3:48"
+        },
+        {
+          "number": 3,
+          "name": "Zone",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "Parasite",
+          "duration": "3:43"
+        },
+        {
+          "number": 5,
+          "name": "Raison d'etre",
+          "duration": "3:30"
+        },
+        {
+          "number": 6,
+          "name": "Sacrifice",
+          "duration": "5:27"
+        },
+        {
+          "number": 7,
+          "name": "Primal Urge",
+          "duration": "3:53"
+        }
+      ]
+    },
+    {
+      "name": "Xtopia",
+      "year": "2020",
+      "release_date": "2020-10-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/79/8f/db/798fdbec-fee6-4d93-e5a9-6903d82484d4/DPRJ1012B_JK_tsujo.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Xtopia",
+          "duration": "1:19"
+        },
+        {
+          "number": 2,
+          "name": "Edifice",
+          "duration": "4:05"
+        },
+        {
+          "number": 3,
+          "name": "Menace",
+          "duration": "3:47"
+        },
+        {
+          "number": 4,
+          "name": "Flux",
+          "duration": "4:21"
+        },
+        {
+          "number": 5,
+          "name": "Ignite",
+          "duration": "3:21"
+        },
+        {
+          "number": 6,
+          "name": "-Prologos-",
+          "duration": "0:38"
+        },
+        {
+          "number": 7,
+          "name": "The Purge",
+          "duration": "3:55"
         }
       ]
     },

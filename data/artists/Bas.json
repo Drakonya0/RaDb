@@ -3,6 +3,74 @@
   "id": 252299862,
   "albums": [
     {
+      "name": "Too High to Riot",
+      "year": "2016",
+      "release_date": "2016-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/0f/13/b40f13a6-e166-d56b-3eb7-4c2f02f1e3fe/00602547692368.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Too High to Riot",
+          "duration": "2:42"
+        },
+        {
+          "number": 2,
+          "name": "Methylone",
+          "duration": "2:42"
+        },
+        {
+          "number": 3,
+          "name": "Dopamine (feat. Cozz)",
+          "duration": "3:36"
+        },
+        {
+          "number": 4,
+          "name": "Housewives",
+          "duration": "3:30"
+        },
+        {
+          "number": 5,
+          "name": "Miles and Miles",
+          "duration": "1:39"
+        },
+        {
+          "number": 6,
+          "name": "Live For",
+          "duration": "2:42"
+        },
+        {
+          "number": 7,
+          "name": "Clouds Never Get Old",
+          "duration": "3:08"
+        },
+        {
+          "number": 8,
+          "name": "Matches (feat. The Hics)",
+          "duration": "3:44"
+        },
+        {
+          "number": 9,
+          "name": "Night Job (feat. J. Cole)",
+          "duration": "3:14"
+        },
+        {
+          "number": 10,
+          "name": "Ricochet (feat. The Hics)",
+          "duration": "3:16"
+        },
+        {
+          "number": 11,
+          "name": "Penthouse",
+          "duration": "4:01"
+        },
+        {
+          "number": 12,
+          "name": "Black Owned Business",
+          "duration": "2:41"
+        }
+      ]
+    },
+    {
       "name": "Milky Way",
       "year": "2018",
       "release_date": "2018-08-24",
@@ -170,74 +238,6 @@
           "number": 17,
           "name": "Wait On Me (feat. FKJ)",
           "duration": "2:45"
-        }
-      ]
-    },
-    {
-      "name": "Too High to Riot",
-      "year": "2016",
-      "release_date": "2016-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b4/0f/13/b40f13a6-e166-d56b-3eb7-4c2f02f1e3fe/00602547692368.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Too High to Riot",
-          "duration": "2:42"
-        },
-        {
-          "number": 2,
-          "name": "Methylone",
-          "duration": "2:42"
-        },
-        {
-          "number": 3,
-          "name": "Dopamine (feat. Cozz)",
-          "duration": "3:36"
-        },
-        {
-          "number": 4,
-          "name": "Housewives",
-          "duration": "3:30"
-        },
-        {
-          "number": 5,
-          "name": "Miles and Miles",
-          "duration": "1:39"
-        },
-        {
-          "number": 6,
-          "name": "Live For",
-          "duration": "2:42"
-        },
-        {
-          "number": 7,
-          "name": "Clouds Never Get Old",
-          "duration": "3:08"
-        },
-        {
-          "number": 8,
-          "name": "Matches (feat. The Hics)",
-          "duration": "3:44"
-        },
-        {
-          "number": 9,
-          "name": "Night Job (feat. J. Cole)",
-          "duration": "3:14"
-        },
-        {
-          "number": 10,
-          "name": "Ricochet (feat. The Hics)",
-          "duration": "3:16"
-        },
-        {
-          "number": 11,
-          "name": "Penthouse",
-          "duration": "4:01"
-        },
-        {
-          "number": 12,
-          "name": "Black Owned Business",
-          "duration": "2:41"
         }
       ]
     },
@@ -672,19 +672,6 @@
   ],
   "singles": [
     {
-      "name": "Run It Up",
-      "year": "2022",
-      "release_date": "2022-04-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/38/09/05/38090564-d7e2-0613-cb68-a834f852e8ca/22UM1IM03144.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Run It Up",
-          "duration": "2:42"
-        }
-      ]
-    },
-    {
       "name": "The Jackie (feat. Lil Tjay)",
       "year": "2021",
       "release_date": "2021-07-09",
@@ -724,6 +711,19 @@
       ]
     },
     {
+      "name": "Run It Up",
+      "year": "2022",
+      "release_date": "2022-04-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/38/09/05/38090564-d7e2-0613-cb68-a834f852e8ca/22UM1IM03144.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Run It Up",
+          "duration": "2:42"
+        }
+      ]
+    },
+    {
       "name": "Fried Rice (feat. JID)",
       "year": "2019",
       "release_date": "2019-08-22",
@@ -753,32 +753,6 @@
           "number": 1,
           "name": "Passport Bros",
           "duration": "2:44"
-        }
-      ]
-    },
-    {
-      "name": "Blood, Sweat & Tears (feat. Kel-P)",
-      "year": "2023",
-      "release_date": "2023-02-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/79/53/82795398-9c4a-d309-5757-c104251e43ca/23UMGIM12363.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blood, Sweat & Tears (feat. Kel-P)",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
-      "name": "One on One",
-      "year": "2026",
-      "release_date": "2026-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/67/20/f367202c-efbe-1030-5bcb-36ac03a3c12f/663918993965.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "One on One",
-          "duration": "3:23"
         }
       ]
     },
@@ -848,6 +822,19 @@
       ]
     },
     {
+      "name": "Blood, Sweat & Tears (feat. Kel-P)",
+      "year": "2023",
+      "release_date": "2023-02-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/79/53/82795398-9c4a-d309-5757-c104251e43ca/23UMGIM12363.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blood, Sweat & Tears (feat. Kel-P)",
+          "duration": "3:42"
+        }
+      ]
+    },
+    {
       "name": "Diamonds",
       "year": "2023",
       "release_date": "2023-01-24",
@@ -908,6 +895,19 @@
           "number": 1,
           "name": "RE(a)D (with Bas)",
           "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "One on One",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/67/20/f367202c-efbe-1030-5bcb-36ac03a3c12f/663918993965.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One on One",
+          "duration": "3:23"
         }
       ]
     },
@@ -1269,34 +1269,6 @@
   ],
   "eps": [
     {
-      "name": "[BUMP] Pick Me Up",
-      "year": "2022",
-      "release_date": "2022-04-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/a1/db/dba1dbf9-f30a-217d-671b-26b916ddb195/22UMGIM37117.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "[Eyes On You]",
-          "duration": "2:24"
-        },
-        {
-          "number": 2,
-          "name": "[Admire Her]",
-          "duration": "2:37"
-        },
-        {
-          "number": 3,
-          "name": "[The Jackie] [feat. Lil Tjay]",
-          "duration": "3:24"
-        },
-        {
-          "number": 4,
-          "name": "[The Others]",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "Spilled Milk 1",
       "year": "2019",
       "release_date": "2019-08-09",
@@ -1321,6 +1293,34 @@
           "number": 4,
           "name": "Amnesia (feat. Ari Lennox & Kiddominant)",
           "duration": "3:35"
+        }
+      ]
+    },
+    {
+      "name": "[BUMP] Pick Me Up",
+      "year": "2022",
+      "release_date": "2022-04-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/a1/db/dba1dbf9-f30a-217d-671b-26b916ddb195/22UMGIM37117.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "[Eyes On You]",
+          "duration": "2:24"
+        },
+        {
+          "number": 2,
+          "name": "[Admire Her]",
+          "duration": "2:37"
+        },
+        {
+          "number": 3,
+          "name": "[The Jackie] [feat. Lil Tjay]",
+          "duration": "3:24"
+        },
+        {
+          "number": 4,
+          "name": "[The Others]",
+          "duration": "3:30"
         }
       ]
     },

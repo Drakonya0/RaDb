@@ -61,49 +61,6 @@
       ]
     },
     {
-      "name": "Sonder",
-      "year": "2018",
-      "release_date": "2018-04-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f3/f8/b1/f3f8b133-9c05-0001-663d-55484c86c4b9/802644805061.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Luminary",
-          "duration": "3:12"
-        },
-        {
-          "number": 2,
-          "name": "King",
-          "duration": "6:56"
-        },
-        {
-          "number": 3,
-          "name": "Orbital",
-          "duration": "2:19"
-        },
-        {
-          "number": 4,
-          "name": "Juno",
-          "duration": "5:12"
-        },
-        {
-          "number": 5,
-          "name": "Beneath My Skin / Mirror Image",
-          "duration": "11:21"
-        },
-        {
-          "number": 6,
-          "name": "Smile",
-          "duration": "4:47"
-        },
-        {
-          "number": 7,
-          "name": "The Arrow",
-          "duration": "2:37"
-        }
-      ]
-    },
-    {
       "name": "War of Being",
       "year": "2023",
       "release_date": "2023-09-15",
@@ -157,70 +114,45 @@
       ]
     },
     {
-      "name": "One (Deluxe Edition)",
-      "year": "2013",
-      "release_date": "2013-04-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3c/99/87/3c9987f1-b3d9-8ef9-a7c0-839cc0388fab/886443953062.jpg/600x600bb.jpg",
+      "name": "Sonder",
+      "year": "2018",
+      "release_date": "2018-04-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f3/f8/b1/f3f8b133-9c05-0001-663d-55484c86c4b9/802644805061.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Lament",
-          "duration": "4:53"
+          "name": "Luminary",
+          "duration": "3:12"
         },
         {
           "number": 2,
-          "name": "Nascent",
-          "duration": "4:09"
+          "name": "King",
+          "duration": "6:56"
         },
         {
           "number": 3,
-          "name": "Acceptance - Concealing Fate, Pt. 1",
-          "duration": "8:33"
+          "name": "Orbital",
+          "duration": "2:19"
         },
         {
           "number": 4,
-          "name": "Deception - Concealing Fate, Pt. 2",
-          "duration": "5:22"
+          "name": "Juno",
+          "duration": "5:12"
         },
         {
           "number": 5,
-          "name": "The Impossible - Concealing Fate, Pt. 3",
-          "duration": "4:50"
+          "name": "Beneath My Skin / Mirror Image",
+          "duration": "11:21"
         },
         {
           "number": 6,
-          "name": "Perfection - Concealing Fate, Pt. 4",
-          "duration": "2:38"
+          "name": "Smile",
+          "duration": "4:47"
         },
         {
           "number": 7,
-          "name": "Epiphany - Concealing Fate, Pt. 5",
-          "duration": "1:29"
-        },
-        {
-          "number": 8,
-          "name": "Origin - Concealing Fate, Pt. 6 (Extremely Rotten) [Live]",
-          "duration": "4:44"
-        },
-        {
-          "number": 9,
-          "name": "Sunrise",
-          "duration": "3:57"
-        },
-        {
-          "number": 10,
-          "name": "April",
-          "duration": "4:48"
-        },
-        {
-          "number": 11,
-          "name": "Eden",
-          "duration": "9:08"
-        },
-        {
-          "number": 12,
-          "name": "Concealing Fate (Live) [Bonus Track]",
-          "duration": "28:22"
+          "name": "The Arrow",
+          "duration": "2:37"
         }
       ]
     },
@@ -294,6 +226,74 @@
           "number": 13,
           "name": "Seven Names (Errai)",
           "duration": "4:21"
+        }
+      ]
+    },
+    {
+      "name": "One (Deluxe Edition)",
+      "year": "2013",
+      "release_date": "2013-04-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3c/99/87/3c9987f1-b3d9-8ef9-a7c0-839cc0388fab/886443953062.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lament",
+          "duration": "4:53"
+        },
+        {
+          "number": 2,
+          "name": "Nascent",
+          "duration": "4:09"
+        },
+        {
+          "number": 3,
+          "name": "Acceptance - Concealing Fate, Pt. 1",
+          "duration": "8:33"
+        },
+        {
+          "number": 4,
+          "name": "Deception - Concealing Fate, Pt. 2",
+          "duration": "5:22"
+        },
+        {
+          "number": 5,
+          "name": "The Impossible - Concealing Fate, Pt. 3",
+          "duration": "4:50"
+        },
+        {
+          "number": 6,
+          "name": "Perfection - Concealing Fate, Pt. 4",
+          "duration": "2:38"
+        },
+        {
+          "number": 7,
+          "name": "Epiphany - Concealing Fate, Pt. 5",
+          "duration": "1:29"
+        },
+        {
+          "number": 8,
+          "name": "Origin - Concealing Fate, Pt. 6 (Extremely Rotten) [Live]",
+          "duration": "4:44"
+        },
+        {
+          "number": 9,
+          "name": "Sunrise",
+          "duration": "3:57"
+        },
+        {
+          "number": 10,
+          "name": "April",
+          "duration": "4:48"
+        },
+        {
+          "number": 11,
+          "name": "Eden",
+          "duration": "9:08"
+        },
+        {
+          "number": 12,
+          "name": "Concealing Fate (Live) [Bonus Track]",
+          "duration": "28:22"
         }
       ]
     },
@@ -492,74 +492,6 @@
       ]
     },
     {
-      "name": "RADAR (Live) [feat. Choir Noir]",
-      "year": "2025",
-      "release_date": "2025-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/74/9c/19749ce2-42d5-4897-7547-bdd15cb38b35/802644452661.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Natural Disaster (feat. Choir Noir) [RADAR (Live)]",
-          "duration": "7:56"
-        },
-        {
-          "number": 2,
-          "name": "Echoes (feat. Choir Noir) [RADAR (Live)]",
-          "duration": "4:21"
-        },
-        {
-          "number": 3,
-          "name": "Nocturne (feat. Choir Noir) [RADAR (Live)]",
-          "duration": "6:17"
-        },
-        {
-          "number": 4,
-          "name": "Tourniquet (feat. Choir Noir) [RADAR (Live)]",
-          "duration": "5:53"
-        },
-        {
-          "number": 5,
-          "name": "Concealing Fate Part One Acceptance (feat. Choir Noir) [RADAR (Live)]",
-          "duration": "8:05"
-        },
-        {
-          "number": 6,
-          "name": "The Grey (feat. Choir Noir) [RADAR (Live)]",
-          "duration": "5:39"
-        },
-        {
-          "number": 7,
-          "name": "Legion (feat. Choir Noir) [RADAR (Live)]",
-          "duration": "6:26"
-        },
-        {
-          "number": 8,
-          "name": "Tender (feat. Choir Noir) [RADAR (Live)]",
-          "duration": "4:51"
-        },
-        {
-          "number": 9,
-          "name": "King (feat. Choir Noir) [RADAR (Live)]",
-          "duration": "7:13"
-        },
-        {
-          "number": 10,
-          "name": "Juno (feat. Choir Noir) [RADAR (Live)]",
-          "duration": "6:13"
-        },
-        {
-          "number": 11,
-          "name": "Sacrifice (feat. Choir Noir) [RADAR (Live)]",
-          "duration": "10:22"
-        },
-        {
-          "number": 12,
-          "name": "War Of Being (feat. Choir Noir) [RADAR (Live)]",
-          "duration": "12:23"
-        }
-      ]
-    },
-    {
       "name": "Perspective",
       "year": "2012",
       "release_date": "2012-05-18",
@@ -740,6 +672,74 @@
           "number": 11,
           "name": "Acceptance - Concealing Fate, Pt. 1",
           "duration": "10:41"
+        }
+      ]
+    },
+    {
+      "name": "RADAR (Live) [feat. Choir Noir]",
+      "year": "2025",
+      "release_date": "2025-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/74/9c/19749ce2-42d5-4897-7547-bdd15cb38b35/802644452661.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Natural Disaster (feat. Choir Noir) [RADAR (Live)]",
+          "duration": "7:56"
+        },
+        {
+          "number": 2,
+          "name": "Echoes (feat. Choir Noir) [RADAR (Live)]",
+          "duration": "4:21"
+        },
+        {
+          "number": 3,
+          "name": "Nocturne (feat. Choir Noir) [RADAR (Live)]",
+          "duration": "6:17"
+        },
+        {
+          "number": 4,
+          "name": "Tourniquet (feat. Choir Noir) [RADAR (Live)]",
+          "duration": "5:53"
+        },
+        {
+          "number": 5,
+          "name": "Concealing Fate Part One Acceptance (feat. Choir Noir) [RADAR (Live)]",
+          "duration": "8:05"
+        },
+        {
+          "number": 6,
+          "name": "The Grey (feat. Choir Noir) [RADAR (Live)]",
+          "duration": "5:39"
+        },
+        {
+          "number": 7,
+          "name": "Legion (feat. Choir Noir) [RADAR (Live)]",
+          "duration": "6:26"
+        },
+        {
+          "number": 8,
+          "name": "Tender (feat. Choir Noir) [RADAR (Live)]",
+          "duration": "4:51"
+        },
+        {
+          "number": 9,
+          "name": "King (feat. Choir Noir) [RADAR (Live)]",
+          "duration": "7:13"
+        },
+        {
+          "number": 10,
+          "name": "Juno (feat. Choir Noir) [RADAR (Live)]",
+          "duration": "6:13"
+        },
+        {
+          "number": 11,
+          "name": "Sacrifice (feat. Choir Noir) [RADAR (Live)]",
+          "duration": "10:22"
+        },
+        {
+          "number": 12,
+          "name": "War Of Being (feat. Choir Noir) [RADAR (Live)]",
+          "duration": "12:23"
         }
       ]
     },

@@ -308,24 +308,6 @@
       ]
     },
     {
-      "name": "Apple Music Home Session: Clean Bandit",
-      "year": "2022",
-      "release_date": "2022-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/45/4d/cb454d9a-ade7-9a1b-f08f-2fe713c35915/5054197149245.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Everything But You (feat. A7S) [Apple Music Home Session]",
-          "duration": "3:22"
-        },
-        {
-          "number": 2,
-          "name": "You & Me (feat. A7S) [Apple Music Home Session]",
-          "duration": "4:13"
-        }
-      ]
-    },
-    {
       "name": "Rockabye (feat. Sean Paul & Anne-Marie) [Remixes]",
       "year": "2017",
       "release_date": "2017-03-24",
@@ -433,6 +415,24 @@
           "number": 11,
           "name": "Symphony (feat. Zara Larsson) [Sem Thomasson Remix]",
           "duration": "5:14"
+        }
+      ]
+    },
+    {
+      "name": "Apple Music Home Session: Clean Bandit",
+      "year": "2022",
+      "release_date": "2022-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/45/4d/cb454d9a-ade7-9a1b-f08f-2fe713c35915/5054197149245.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Everything But You (feat. A7S) [Apple Music Home Session]",
+          "duration": "3:22"
+        },
+        {
+          "number": 2,
+          "name": "You & Me (feat. A7S) [Apple Music Home Session]",
+          "duration": "4:13"
         }
       ]
     },
@@ -572,19 +572,6 @@
   ],
   "singles": [
     {
-      "name": "Disconnect",
-      "year": "2017",
-      "release_date": "2017-06-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/86/60/08/8660088c-09ea-5cde-bf4f-9087280fa642/190295775094.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Disconnect",
-          "duration": "4:12"
-        }
-      ]
-    },
-    {
       "name": "Rockabye (feat. Sean Paul & Anne-Marie) [Autograf Remix]",
       "year": "2017",
       "release_date": "2017-01-27",
@@ -621,28 +608,15 @@
       ]
     },
     {
-      "name": "Symphony (feat. Zara Larsson) [Acoustic Version]",
+      "name": "Disconnect",
       "year": "2017",
-      "release_date": "2017-03-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/fa/62/5d/fa625d6c-d863-17df-d602-ba7516a3cea1/190295813130.jpg/600x600bb.jpg",
+      "release_date": "2017-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/86/60/08/8660088c-09ea-5cde-bf4f-9087280fa642/190295775094.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Symphony (feat. Zara Larsson) [Acoustic Version]",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "Tick Tock (feat. 24kGoldn)",
-      "year": "2020",
-      "release_date": "2020-08-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/10/5f/0c105f70-0323-9a97-b677-f31e944fdf56/190295166038.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tick Tock (feat. 24kGoldn)",
-          "duration": "2:58"
+          "name": "Disconnect",
+          "duration": "4:12"
         }
       ]
     },
@@ -669,6 +643,19 @@
           "number": 1,
           "name": "How Will I Know",
           "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "Tick Tock (feat. 24kGoldn)",
+      "year": "2020",
+      "release_date": "2020-08-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/10/5f/0c105f70-0323-9a97-b677-f31e944fdf56/190295166038.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tick Tock (feat. 24kGoldn)",
+          "duration": "2:58"
         }
       ]
     },
@@ -709,6 +696,19 @@
       ]
     },
     {
+      "name": "Symphony (feat. Zara Larsson) [Acoustic Version]",
+      "year": "2017",
+      "release_date": "2017-03-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/fa/62/5d/fa625d6c-d863-17df-d602-ba7516a3cea1/190295813130.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Symphony (feat. Zara Larsson) [Acoustic Version]",
+          "duration": "3:36"
+        }
+      ]
+    },
+    {
       "name": "Stop Crying Your Heart Out (BBC Radio 2 Allstars)",
       "year": "2020",
       "release_date": "2020-11-13",
@@ -731,6 +731,19 @@
           "number": 1,
           "name": "Higher (feat. iann dior)",
           "duration": "3:23"
+        }
+      ]
+    },
+    {
+      "name": "Don't Leave Me Lonely",
+      "year": "2022",
+      "release_date": "2022-10-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d3/e9/37/d3e937ba-174c-979a-e1c9-d961fe05e812/5054197392733.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Don't Leave Me Lonely",
+          "duration": "2:53"
         }
       ]
     },
@@ -1169,19 +1182,6 @@
           "number": 1,
           "name": "Solo (feat. Demi Lovato) [Ofenbach Remix]",
           "duration": "3:48"
-        }
-      ]
-    },
-    {
-      "name": "Don't Leave Me Lonely",
-      "year": "2022",
-      "release_date": "2022-10-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d3/e9/37/d3e937ba-174c-979a-e1c9-d961fe05e812/5054197392733.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Don't Leave Me Lonely",
-          "duration": "2:53"
         }
       ]
     },

@@ -3,6 +3,64 @@
   "id": 145072812,
   "albums": [
     {
+      "name": "Woman",
+      "year": "2016",
+      "release_date": "2016-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/ed/e3/26ede311-5273-5927-3e41-deabd08f720f/5060421566818_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Safe and Sound",
+          "duration": "5:45"
+        },
+        {
+          "number": 2,
+          "name": "Pleasure",
+          "duration": "4:15"
+        },
+        {
+          "number": 3,
+          "name": "Alakazam !",
+          "duration": "5:11"
+        },
+        {
+          "number": 4,
+          "name": "Fire",
+          "duration": "5:34"
+        },
+        {
+          "number": 5,
+          "name": "Stop",
+          "duration": "4:57"
+        },
+        {
+          "number": 6,
+          "name": "Chorus",
+          "duration": "7:09"
+        },
+        {
+          "number": 7,
+          "name": "Randy",
+          "duration": "6:38"
+        },
+        {
+          "number": 8,
+          "name": "Heavy Metal",
+          "duration": "4:30"
+        },
+        {
+          "number": 9,
+          "name": "Love S.O.S",
+          "duration": "5:03"
+        },
+        {
+          "number": 10,
+          "name": "Close Call",
+          "duration": "5:08"
+        }
+      ]
+    },
+    {
       "name": "Justice",
       "year": "2007",
       "release_date": "2007-06-11",
@@ -305,64 +363,6 @@
       ]
     },
     {
-      "name": "Woman",
-      "year": "2016",
-      "release_date": "2016-11-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/ed/e3/26ede311-5273-5927-3e41-deabd08f720f/5060421566818_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Safe and Sound",
-          "duration": "5:45"
-        },
-        {
-          "number": 2,
-          "name": "Pleasure",
-          "duration": "4:15"
-        },
-        {
-          "number": 3,
-          "name": "Alakazam !",
-          "duration": "5:11"
-        },
-        {
-          "number": 4,
-          "name": "Fire",
-          "duration": "5:34"
-        },
-        {
-          "number": 5,
-          "name": "Stop",
-          "duration": "4:57"
-        },
-        {
-          "number": 6,
-          "name": "Chorus",
-          "duration": "7:09"
-        },
-        {
-          "number": 7,
-          "name": "Randy",
-          "duration": "6:38"
-        },
-        {
-          "number": 8,
-          "name": "Heavy Metal",
-          "duration": "4:30"
-        },
-        {
-          "number": 9,
-          "name": "Love S.O.S",
-          "duration": "5:03"
-        },
-        {
-          "number": 10,
-          "name": "Close Call",
-          "duration": "5:08"
-        }
-      ]
-    },
-    {
       "name": "† (Anniversary Edition)",
       "year": "2022",
       "release_date": "2022-12-16",
@@ -637,44 +637,6 @@
       ]
     },
     {
-      "name": "On'n'On (Remixes)",
-      "year": "2012",
-      "release_date": "2012-01-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/34/4f/9b/344f9bcc-bb05-7ae3-00b6-22a5d0b2bb36/5060281611260_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "On'n'On",
-          "duration": "4:30"
-        },
-        {
-          "number": 2,
-          "name": "On'n'On (Ruined By Rick Rubin)",
-          "duration": "3:58"
-        },
-        {
-          "number": 3,
-          "name": "Canon (Erol Alkan's Extended Rework)",
-          "duration": "6:49"
-        },
-        {
-          "number": 4,
-          "name": "Canon (Tiga Remix)",
-          "duration": "5:53"
-        },
-        {
-          "number": 5,
-          "name": "On'n'On (Brodinski Remix)",
-          "duration": "6:32"
-        },
-        {
-          "number": 6,
-          "name": "On'n'On (Video Village Remix)",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "We Are Your Friends",
       "year": "2006",
       "release_date": "2006-07-03",
@@ -709,6 +671,44 @@
           "number": 6,
           "name": "We Are Your Friends (Radioslave & Spencer Parker Re-Edit;Edit)",
           "duration": "6:53"
+        }
+      ]
+    },
+    {
+      "name": "On'n'On (Remixes)",
+      "year": "2012",
+      "release_date": "2012-01-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/34/4f/9b/344f9bcc-bb05-7ae3-00b6-22a5d0b2bb36/5060281611260_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "On'n'On",
+          "duration": "4:30"
+        },
+        {
+          "number": 2,
+          "name": "On'n'On (Ruined By Rick Rubin)",
+          "duration": "3:58"
+        },
+        {
+          "number": 3,
+          "name": "Canon (Erol Alkan's Extended Rework)",
+          "duration": "6:49"
+        },
+        {
+          "number": 4,
+          "name": "Canon (Tiga Remix)",
+          "duration": "5:53"
+        },
+        {
+          "number": 5,
+          "name": "On'n'On (Brodinski Remix)",
+          "duration": "6:32"
+        },
+        {
+          "number": 6,
+          "name": "On'n'On (Video Village Remix)",
+          "duration": "3:29"
         }
       ]
     },
@@ -767,15 +767,15 @@
   ],
   "singles": [
     {
-      "name": "What You Want",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/29/a1/e729a1f0-eaaf-80eb-3c31-91e9601e2944/5056556175278_cover.jpg/600x600bb.jpg",
+      "name": "One Night/All Night",
+      "year": "2024",
+      "release_date": "2024-01-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/b1/8d/60b18d88-28e3-1db5-c0fb-c88fe4046974/5056556135814_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "What You Want",
-          "duration": "3:08"
+          "name": "One Night/All Night",
+          "duration": "4:36"
         }
       ]
     },
@@ -803,19 +803,6 @@
       ]
     },
     {
-      "name": "One Night/All Night",
-      "year": "2024",
-      "release_date": "2024-01-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/b1/8d/60b18d88-28e3-1db5-c0fb-c88fe4046974/5056556135814_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "One Night/All Night",
-          "duration": "4:36"
-        }
-      ]
-    },
-    {
       "name": "Pleasure (Live)",
       "year": "2017",
       "release_date": "2017-07-21",
@@ -829,18 +816,13 @@
       ]
     },
     {
-      "name": "What You Want (Fcukers Remix) [feat. Justice]",
+      "name": "What You Want",
       "year": "2026",
-      "release_date": "2026-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/37/38/e73738d3-c0fe-aa48-6e43-03573f52818f/5056556181774_cover.jpg/600x600bb.jpg",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/29/a1/e729a1f0-eaaf-80eb-3c31-91e9601e2944/5056556175278_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "What You Want (feat. Justice) [Fcukers Remix]",
-          "duration": "3:22"
-        },
-        {
-          "number": 2,
           "name": "What You Want",
           "duration": "3:08"
         }
@@ -874,6 +856,24 @@
           "number": 2,
           "name": "D.A.N.C.E.",
           "duration": "4:02"
+        }
+      ]
+    },
+    {
+      "name": "What You Want (Fcukers Remix) [feat. Justice]",
+      "year": "2026",
+      "release_date": "2026-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/37/38/e73738d3-c0fe-aa48-6e43-03573f52818f/5056556181774_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "What You Want (feat. Justice) [Fcukers Remix]",
+          "duration": "3:22"
+        },
+        {
+          "number": 2,
+          "name": "What You Want",
+          "duration": "3:08"
         }
       ]
     },
@@ -1019,6 +1019,24 @@
       "tracks": []
     },
     {
+      "name": "What You Want (SG Lewis Remix) [feat. Justice]",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/db/c0/70dbc0b0-6b05-d201-23dc-65a560c9204c/5056556181767_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "What You Want (feat. Justice) [SG Lewis Remix]",
+          "duration": "3:18"
+        },
+        {
+          "number": 2,
+          "name": "What You Want",
+          "duration": "3:08"
+        }
+      ]
+    },
+    {
       "name": "Explorer",
       "year": "2024",
       "release_date": "2024-04-25",
@@ -1033,34 +1051,6 @@
     }
   ],
   "eps": [
-    {
-      "name": "Phantom",
-      "year": "2007",
-      "release_date": "2007-11-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/a1/69/0e/mzi.wfdmzmvu.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Phantom",
-          "duration": "4:24"
-        },
-        {
-          "number": 2,
-          "name": "Phantom Pt. II",
-          "duration": "3:22"
-        },
-        {
-          "number": 3,
-          "name": "Phantom Pt. II (Soulwax Remix)",
-          "duration": "7:24"
-        },
-        {
-          "number": 4,
-          "name": "Phantom Pt. II (Boys Noize Remix)",
-          "duration": "5:24"
-        }
-      ]
-    },
     {
       "name": "Neverender (Remixes)",
       "year": "2024",
@@ -1095,35 +1085,30 @@
       ]
     },
     {
-      "name": "Afterimage (Remixes)",
-      "year": "2025",
-      "release_date": "2025-04-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/07/ed/7407ed61-79bd-14ca-eff4-6c4211d869f6/5056556159476_cover.jpg/600x600bb.jpg",
+      "name": "Phantom",
+      "year": "2007",
+      "release_date": "2007-11-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/a1/69/0e/mzi.wfdmzmvu.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Afterimage",
-          "duration": "4:05"
+          "name": "Phantom",
+          "duration": "4:24"
         },
         {
           "number": 2,
-          "name": "Afterimage (Justice Remix)",
-          "duration": "3:01"
+          "name": "Phantom Pt. II",
+          "duration": "3:22"
         },
         {
           "number": 3,
-          "name": "Afterimage (Jersey Remix)",
-          "duration": "2:53"
+          "name": "Phantom Pt. II (Soulwax Remix)",
+          "duration": "7:24"
         },
         {
           "number": 4,
-          "name": "Afterimage (Laurence Guy Remix)",
-          "duration": "4:27"
-        },
-        {
-          "number": 5,
-          "name": "Afterimage (Paranoid London Remix)",
-          "duration": "5:55"
+          "name": "Phantom Pt. II (Boys Noize Remix)",
+          "duration": "5:24"
         }
       ]
     },
@@ -1189,34 +1174,6 @@
       ]
     },
     {
-      "name": "Mannequin Love (Remixes)",
-      "year": "2025",
-      "release_date": "2025-07-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/b8/32/36b83270-adf1-7318-b66a-7a0ffafe1b63/5056556162551_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mannequin Love",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Mannequin Love (The Dare Remix)",
-          "duration": "4:17"
-        },
-        {
-          "number": 3,
-          "name": "Mannequin Love (Braxe + Falcon Remix)",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "Mannequin Love (Hudson Mohawke Remix)",
-          "duration": "4:19"
-        }
-      ]
-    },
-    {
       "name": "D.A.N.C.E. (Remixes)",
       "year": "2007",
       "release_date": "2007-10-29",
@@ -1255,6 +1212,39 @@
       ]
     },
     {
+      "name": "Afterimage (Remixes)",
+      "year": "2025",
+      "release_date": "2025-04-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/07/ed/7407ed61-79bd-14ca-eff4-6c4211d869f6/5056556159476_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Afterimage",
+          "duration": "4:05"
+        },
+        {
+          "number": 2,
+          "name": "Afterimage (Justice Remix)",
+          "duration": "3:01"
+        },
+        {
+          "number": 3,
+          "name": "Afterimage (Jersey Remix)",
+          "duration": "2:53"
+        },
+        {
+          "number": 4,
+          "name": "Afterimage (Laurence Guy Remix)",
+          "duration": "4:27"
+        },
+        {
+          "number": 5,
+          "name": "Afterimage (Paranoid London Remix)",
+          "duration": "5:55"
+        }
+      ]
+    },
+    {
       "name": "New Lands",
       "year": "2012",
       "release_date": "2012-06-25",
@@ -1284,6 +1274,34 @@
           "number": 5,
           "name": "New Lands (Sebastian Remix)",
           "duration": "4:50"
+        }
+      ]
+    },
+    {
+      "name": "Mannequin Love (Remixes)",
+      "year": "2025",
+      "release_date": "2025-07-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/b8/32/36b83270-adf1-7318-b66a-7a0ffafe1b63/5056556162551_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mannequin Love",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Mannequin Love (The Dare Remix)",
+          "duration": "4:17"
+        },
+        {
+          "number": 3,
+          "name": "Mannequin Love (Braxe + Falcon Remix)",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Mannequin Love (Hudson Mohawke Remix)",
+          "duration": "4:19"
         }
       ]
     },

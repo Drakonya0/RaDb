@@ -82,19 +82,6 @@
       ]
     },
     {
-      "name": "Rebirth",
-      "year": "2025",
-      "release_date": "2025-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/80/7c/64807c6a-dbaa-8522-80b0-09a98ea87978/663918719022.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rebirth",
-          "duration": "2:45"
-        }
-      ]
-    },
-    {
       "name": "Screams of the Damned",
       "year": "2025",
       "release_date": "2025-12-06",
@@ -117,6 +104,19 @@
           "number": 1,
           "name": "Always the Same",
           "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "Rebirth",
+      "year": "2025",
+      "release_date": "2025-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/80/7c/64807c6a-dbaa-8522-80b0-09a98ea87978/663918719022.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rebirth",
+          "duration": "2:45"
         }
       ]
     },
@@ -315,62 +315,6 @@
   ],
   "eps": [
     {
-      "name": "Kingdom",
-      "year": "2026",
-      "release_date": "2026-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/f7/99/47f799f4-c6a0-58ca-3f45-7487f530eedb/663918950135.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kingdom",
-          "duration": "2:54"
-        },
-        {
-          "number": 2,
-          "name": "Run It Dry",
-          "duration": "4:20"
-        },
-        {
-          "number": 3,
-          "name": "One Spark",
-          "duration": "2:59"
-        },
-        {
-          "number": 4,
-          "name": "Aint't No Savin’ Me",
-          "duration": "2:28"
-        }
-      ]
-    },
-    {
-      "name": "Before I Lose It All",
-      "year": "2025",
-      "release_date": "2025-12-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/4f/24/d44f249c-b252-ab16-42a8-2fa81021d3ee/663918747667.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Before I Lose It All",
-          "duration": "2:31"
-        },
-        {
-          "number": 2,
-          "name": "No Way Out",
-          "duration": "2:14"
-        },
-        {
-          "number": 3,
-          "name": "Let The Pain Hit Me",
-          "duration": "2:16"
-        },
-        {
-          "number": 4,
-          "name": "No Turning Back",
-          "duration": "2:24"
-        }
-      ]
-    },
-    {
       "name": "Nothing's Healed",
       "year": "2025",
       "release_date": "2025-12-16",
@@ -405,6 +349,62 @@
           "number": 6,
           "name": "Control",
           "duration": "2:54"
+        }
+      ]
+    },
+    {
+      "name": "Before I Lose It All",
+      "year": "2025",
+      "release_date": "2025-12-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/4f/24/d44f249c-b252-ab16-42a8-2fa81021d3ee/663918747667.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Before I Lose It All",
+          "duration": "2:31"
+        },
+        {
+          "number": 2,
+          "name": "No Way Out",
+          "duration": "2:14"
+        },
+        {
+          "number": 3,
+          "name": "Let The Pain Hit Me",
+          "duration": "2:16"
+        },
+        {
+          "number": 4,
+          "name": "No Turning Back",
+          "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom",
+      "year": "2026",
+      "release_date": "2026-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/f7/99/47f799f4-c6a0-58ca-3f45-7487f530eedb/663918950135.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Kingdom",
+          "duration": "2:54"
+        },
+        {
+          "number": 2,
+          "name": "Run It Dry",
+          "duration": "4:20"
+        },
+        {
+          "number": 3,
+          "name": "One Spark",
+          "duration": "2:59"
+        },
+        {
+          "number": 4,
+          "name": "Aint't No Savin’ Me",
+          "duration": "2:28"
         }
       ]
     },

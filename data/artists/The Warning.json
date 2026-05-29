@@ -3,6 +3,74 @@
   "id": 260719953,
   "albums": [
     {
+      "name": "Keep Me Fed",
+      "year": "2024",
+      "release_date": "2024-06-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/4c/06/214c06c3-ded9-2f2c-17f1-b0f50dd56653/24UMGIM20617.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Six Feet Deep",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "S!CK",
+          "duration": "3:12"
+        },
+        {
+          "number": 3,
+          "name": "Apologize",
+          "duration": "3:41"
+        },
+        {
+          "number": 4,
+          "name": "Qué Más Quieres",
+          "duration": "3:04"
+        },
+        {
+          "number": 5,
+          "name": "MORE",
+          "duration": "3:07"
+        },
+        {
+          "number": 6,
+          "name": "Escapism",
+          "duration": "3:36"
+        },
+        {
+          "number": 7,
+          "name": "Satisfied",
+          "duration": "3:09"
+        },
+        {
+          "number": 8,
+          "name": "Burnout",
+          "duration": "3:24"
+        },
+        {
+          "number": 9,
+          "name": "Sharks",
+          "duration": "3:08"
+        },
+        {
+          "number": 10,
+          "name": "Hell You Call A Dream",
+          "duration": "2:56"
+        },
+        {
+          "number": 11,
+          "name": "Consume",
+          "duration": "3:07"
+        },
+        {
+          "number": 12,
+          "name": "Automatic Sun",
+          "duration": "3:10"
+        }
+      ]
+    },
+    {
       "name": "ERROR",
       "year": "2022",
       "release_date": "2022-06-24",
@@ -77,74 +145,6 @@
           "number": 14,
           "name": "Breathe (Bonus Track)",
           "duration": "2:49"
-        }
-      ]
-    },
-    {
-      "name": "Keep Me Fed",
-      "year": "2024",
-      "release_date": "2024-06-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/4c/06/214c06c3-ded9-2f2c-17f1-b0f50dd56653/24UMGIM20617.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Six Feet Deep",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "S!CK",
-          "duration": "3:12"
-        },
-        {
-          "number": 3,
-          "name": "Apologize",
-          "duration": "3:41"
-        },
-        {
-          "number": 4,
-          "name": "Qué Más Quieres",
-          "duration": "3:04"
-        },
-        {
-          "number": 5,
-          "name": "MORE",
-          "duration": "3:07"
-        },
-        {
-          "number": 6,
-          "name": "Escapism",
-          "duration": "3:36"
-        },
-        {
-          "number": 7,
-          "name": "Satisfied",
-          "duration": "3:09"
-        },
-        {
-          "number": 8,
-          "name": "Burnout",
-          "duration": "3:24"
-        },
-        {
-          "number": 9,
-          "name": "Sharks",
-          "duration": "3:08"
-        },
-        {
-          "number": 10,
-          "name": "Hell You Call A Dream",
-          "duration": "2:56"
-        },
-        {
-          "number": 11,
-          "name": "Consume",
-          "duration": "3:07"
-        },
-        {
-          "number": 12,
-          "name": "Automatic Sun",
-          "duration": "3:10"
         }
       ]
     },
@@ -498,32 +498,6 @@
   ],
   "singles": [
     {
-      "name": "Narcisista",
-      "year": "2019",
-      "release_date": "2019-06-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/a4/35/b1a43502-0578-cdef-27de-606361709a2d/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Narcisista",
-          "duration": "4:11"
-        }
-      ]
-    },
-    {
-      "name": "Enter Sandman",
-      "year": "2021",
-      "release_date": "2021-09-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/c0/28/89c028e1-2e8d-be6b-4e94-8d5bc3357072/810083960586.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Enter Sandman",
-          "duration": "4:23"
-        }
-      ]
-    },
-    {
       "name": "Kerosene",
       "year": "2026",
       "release_date": "2026-03-06",
@@ -537,15 +511,15 @@
       ]
     },
     {
-      "name": "SHOW THEM",
-      "year": "2024",
-      "release_date": "2024-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/c0/2c/dac02c03-8347-fe88-4219-c044c7c64ff9/PCSP_05957_A.jpg/600x600bb.jpg",
+      "name": "Narcisista",
+      "year": "2019",
+      "release_date": "2019-06-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b1/a4/35/b1a43502-0578-cdef-27de-606361709a2d/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Show Them",
-          "duration": "3:15"
+          "name": "Narcisista",
+          "duration": "4:11"
         }
       ]
     },
@@ -563,15 +537,28 @@
       ]
     },
     {
-      "name": "MORE",
-      "year": "2023",
-      "release_date": "2023-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/6b/cc/fb6bcc92-d4c1-1c74-8f43-04aad5aa4539/23UMGIM47471.rgb.jpg/600x600bb.jpg",
+      "name": "HURT (feat. The Warning)",
+      "year": "2024",
+      "release_date": "2024-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/c5/06/a2c506b5-2567-b256-2781-f61e192e76a4/5401148007954_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "MORE",
-          "duration": "3:07"
+          "name": "HURT (feat. The Warning)",
+          "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "SHOW THEM",
+      "year": "2024",
+      "release_date": "2024-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/c0/2c/dac02c03-8347-fe88-4219-c044c7c64ff9/PCSP_05957_A.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Show Them",
+          "duration": "3:15"
         }
       ]
     },
@@ -589,15 +576,28 @@
       ]
     },
     {
-      "name": "HURT (feat. The Warning)",
-      "year": "2024",
-      "release_date": "2024-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/c5/06/a2c506b5-2567-b256-2781-f61e192e76a4/5401148007954_cover.jpg/600x600bb.jpg",
+      "name": "Enter Sandman",
+      "year": "2021",
+      "release_date": "2021-09-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/89/c0/28/89c028e1-2e8d-be6b-4e94-8d5bc3357072/810083960586.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "HURT (feat. The Warning)",
-          "duration": "3:33"
+          "name": "Enter Sandman",
+          "duration": "4:23"
+        }
+      ]
+    },
+    {
+      "name": "MORE",
+      "year": "2023",
+      "release_date": "2023-05-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/6b/cc/fb6bcc92-d4c1-1c74-8f43-04aad5aa4539/23UMGIM47471.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MORE",
+          "duration": "3:07"
         }
       ]
     },

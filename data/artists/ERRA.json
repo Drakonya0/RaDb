@@ -197,6 +197,49 @@
       ]
     },
     {
+      "name": "Andromeda",
+      "year": "2010",
+      "release_date": "2010-12-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/5e/e2/a8/mzi.igzakzrg.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Omega Children",
+          "duration": "0:42"
+        },
+        {
+          "number": 2,
+          "name": "Machina",
+          "duration": "3:44"
+        },
+        {
+          "number": 3,
+          "name": "Of Rare Reform",
+          "duration": "4:29"
+        },
+        {
+          "number": 4,
+          "name": "Isolation Blue",
+          "duration": "5:42"
+        },
+        {
+          "number": 5,
+          "name": "The Scenic Route",
+          "duration": "3:38"
+        },
+        {
+          "number": 6,
+          "name": "Daughter of Sky",
+          "duration": "0:39"
+        },
+        {
+          "number": 7,
+          "name": "Andromeda",
+          "duration": "6:21"
+        }
+      ]
+    },
+    {
       "name": "Cure",
       "year": "2024",
       "release_date": "2024-04-05",
@@ -261,49 +304,6 @@
           "number": 12,
           "name": "Wave",
           "duration": "4:58"
-        }
-      ]
-    },
-    {
-      "name": "Andromeda",
-      "year": "2010",
-      "release_date": "2010-12-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/5e/e2/a8/mzi.igzakzrg.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Omega Children",
-          "duration": "0:42"
-        },
-        {
-          "number": 2,
-          "name": "Machina",
-          "duration": "3:44"
-        },
-        {
-          "number": 3,
-          "name": "Of Rare Reform",
-          "duration": "4:29"
-        },
-        {
-          "number": 4,
-          "name": "Isolation Blue",
-          "duration": "5:42"
-        },
-        {
-          "number": 5,
-          "name": "The Scenic Route",
-          "duration": "3:38"
-        },
-        {
-          "number": 6,
-          "name": "Daughter of Sky",
-          "duration": "0:39"
-        },
-        {
-          "number": 7,
-          "name": "Andromeda",
-          "duration": "6:21"
         }
       ]
     },
@@ -537,64 +537,6 @@
       ]
     },
     {
-      "name": "Neon",
-      "year": "2018",
-      "release_date": "2018-08-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/f7/24/6af724b8-cc3c-579a-f725-14bf92be9bf7/00817424018821_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Breach",
-          "duration": "4:42"
-        },
-        {
-          "number": 2,
-          "name": "Monolith",
-          "duration": "3:57"
-        },
-        {
-          "number": 3,
-          "name": "Signal Fire",
-          "duration": "4:17"
-        },
-        {
-          "number": 4,
-          "name": "Valhalla",
-          "duration": "4:56"
-        },
-        {
-          "number": 5,
-          "name": "Hyperreality",
-          "duration": "3:58"
-        },
-        {
-          "number": 6,
-          "name": "Ghost of Nothing",
-          "duration": "4:14"
-        },
-        {
-          "number": 7,
-          "name": "Disarray",
-          "duration": "3:50"
-        },
-        {
-          "number": 8,
-          "name": "Expiate",
-          "duration": "3:33"
-        },
-        {
-          "number": 9,
-          "name": "Unify",
-          "duration": "3:53"
-        },
-        {
-          "number": 10,
-          "name": "Ultimata",
-          "duration": "4:56"
-        }
-      ]
-    },
-    {
       "name": "ERRA (Instrumental)",
       "year": "2021",
       "release_date": "2021-09-10",
@@ -661,6 +603,64 @@
           "duration": "4:07"
         }
       ]
+    },
+    {
+      "name": "Neon",
+      "year": "2018",
+      "release_date": "2018-08-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/f7/24/6af724b8-cc3c-579a-f725-14bf92be9bf7/00817424018821_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Breach",
+          "duration": "4:42"
+        },
+        {
+          "number": 2,
+          "name": "Monolith",
+          "duration": "3:57"
+        },
+        {
+          "number": 3,
+          "name": "Signal Fire",
+          "duration": "4:17"
+        },
+        {
+          "number": 4,
+          "name": "Valhalla",
+          "duration": "4:56"
+        },
+        {
+          "number": 5,
+          "name": "Hyperreality",
+          "duration": "3:58"
+        },
+        {
+          "number": 6,
+          "name": "Ghost of Nothing",
+          "duration": "4:14"
+        },
+        {
+          "number": 7,
+          "name": "Disarray",
+          "duration": "3:50"
+        },
+        {
+          "number": 8,
+          "name": "Expiate",
+          "duration": "3:33"
+        },
+        {
+          "number": 9,
+          "name": "Unify",
+          "duration": "3:53"
+        },
+        {
+          "number": 10,
+          "name": "Ultimata",
+          "duration": "4:56"
+        }
+      ]
     }
   ],
   "singles": [
@@ -691,19 +691,6 @@
       ]
     },
     {
-      "name": "World Unknown",
-      "year": "2022",
-      "release_date": "2022-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/6b/6d/d76b6d07-6d61-52ac-ad62-90a5ba21038f/197187302130.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "World Unknown",
-          "duration": "4:29"
-        }
-      ]
-    },
-    {
       "name": "Pull from the Ghost",
       "year": "2022",
       "release_date": "2022-07-07",
@@ -713,6 +700,19 @@
           "number": 1,
           "name": "Pull from the Ghost",
           "duration": "4:11"
+        }
+      ]
+    },
+    {
+      "name": "World Unknown",
+      "year": "2022",
+      "release_date": "2022-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/6b/6d/d76b6d07-6d61-52ac-ad62-90a5ba21038f/197187302130.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "World Unknown",
+          "duration": "4:29"
         }
       ]
     },

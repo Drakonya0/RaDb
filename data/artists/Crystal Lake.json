@@ -3,69 +3,6 @@
   "id": 1186055175,
   "albums": [
     {
-      "name": "The Weight of Sound",
-      "year": "2026",
-      "release_date": "2026-01-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/2f/1b/db2f1ba7-94a1-deff-dedf-4f2372bd6c8b/196872923155.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Everblack (feat. David Simonich)",
-          "duration": "3:16"
-        },
-        {
-          "number": 2,
-          "name": "BlüdGod (feat. Taylor Barber)",
-          "duration": "3:12"
-        },
-        {
-          "number": 3,
-          "name": "Neversleep (feat. Myke Terry)",
-          "duration": "2:49"
-        },
-        {
-          "number": 4,
-          "name": "King Down",
-          "duration": "2:28"
-        },
-        {
-          "number": 5,
-          "name": "The Undertow (feat. Karl Schubach)",
-          "duration": "3:20"
-        },
-        {
-          "number": 6,
-          "name": "The Weight of Sound",
-          "duration": "4:32"
-        },
-        {
-          "number": 7,
-          "name": "Crossing Nails",
-          "duration": "3:41"
-        },
-        {
-          "number": 8,
-          "name": "Dystopia (feat. Jesse Leach)",
-          "duration": "4:13"
-        },
-        {
-          "number": 9,
-          "name": "Sinner",
-          "duration": "4:18"
-        },
-        {
-          "number": 10,
-          "name": "Don't Breathe",
-          "duration": "3:59"
-        },
-        {
-          "number": 11,
-          "name": "Coma Wave",
-          "duration": "4:45"
-        }
-      ]
-    },
-    {
       "name": "Helix",
       "year": "2019",
       "release_date": "2019-02-15",
@@ -130,6 +67,69 @@
           "number": 12,
           "name": "Sanctuary",
           "duration": "4:00"
+        }
+      ]
+    },
+    {
+      "name": "The Weight of Sound",
+      "year": "2026",
+      "release_date": "2026-01-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/2f/1b/db2f1ba7-94a1-deff-dedf-4f2372bd6c8b/196872923155.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Everblack (feat. David Simonich)",
+          "duration": "3:16"
+        },
+        {
+          "number": 2,
+          "name": "BlüdGod (feat. Taylor Barber)",
+          "duration": "3:12"
+        },
+        {
+          "number": 3,
+          "name": "Neversleep (feat. Myke Terry)",
+          "duration": "2:49"
+        },
+        {
+          "number": 4,
+          "name": "King Down",
+          "duration": "2:28"
+        },
+        {
+          "number": 5,
+          "name": "The Undertow (feat. Karl Schubach)",
+          "duration": "3:20"
+        },
+        {
+          "number": 6,
+          "name": "The Weight of Sound",
+          "duration": "4:32"
+        },
+        {
+          "number": 7,
+          "name": "Crossing Nails",
+          "duration": "3:41"
+        },
+        {
+          "number": 8,
+          "name": "Dystopia (feat. Jesse Leach)",
+          "duration": "4:13"
+        },
+        {
+          "number": 9,
+          "name": "Sinner",
+          "duration": "4:18"
+        },
+        {
+          "number": 10,
+          "name": "Don't Breathe",
+          "duration": "3:59"
+        },
+        {
+          "number": 11,
+          "name": "Coma Wave",
+          "duration": "4:45"
         }
       ]
     },

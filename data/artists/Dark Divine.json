@@ -3,49 +3,6 @@
   "id": 1585229368,
   "albums": [
     {
-      "name": "Halloweentown",
-      "year": "2022",
-      "release_date": "2022-09-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ea/88/1e/ea881e70-0bf1-5d9b-cd56-381cbd839714/196925516297.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Run Away",
-          "duration": "3:50"
-        },
-        {
-          "number": 2,
-          "name": "No Escape (feat. Ricky Armellino)",
-          "duration": "3:29"
-        },
-        {
-          "number": 3,
-          "name": "Your Ghost",
-          "duration": "3:22"
-        },
-        {
-          "number": 4,
-          "name": "Circles",
-          "duration": "3:02"
-        },
-        {
-          "number": 5,
-          "name": "Dead",
-          "duration": "3:33"
-        },
-        {
-          "number": 6,
-          "name": "The Fear",
-          "duration": "3:46"
-        },
-        {
-          "number": 7,
-          "name": "Halloweentown",
-          "duration": "3:32"
-        }
-      ]
-    },
-    {
       "name": "Undead Melody",
       "year": "2026",
       "release_date": "2026-05-29",
@@ -115,6 +72,49 @@
           "number": 13,
           "name": "This Is Not The End (It Only Feels Like It)",
           "duration": "4:01"
+        }
+      ]
+    },
+    {
+      "name": "Halloweentown",
+      "year": "2022",
+      "release_date": "2022-09-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ea/88/1e/ea881e70-0bf1-5d9b-cd56-381cbd839714/196925516297.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Run Away",
+          "duration": "3:50"
+        },
+        {
+          "number": 2,
+          "name": "No Escape (feat. Ricky Armellino)",
+          "duration": "3:29"
+        },
+        {
+          "number": 3,
+          "name": "Your Ghost",
+          "duration": "3:22"
+        },
+        {
+          "number": 4,
+          "name": "Circles",
+          "duration": "3:02"
+        },
+        {
+          "number": 5,
+          "name": "Dead",
+          "duration": "3:33"
+        },
+        {
+          "number": 6,
+          "name": "The Fear",
+          "duration": "3:46"
+        },
+        {
+          "number": 7,
+          "name": "Halloweentown",
+          "duration": "3:32"
         }
       ]
     },
@@ -257,6 +257,45 @@
   ],
   "singles": [
     {
+      "name": "Permanent",
+      "year": "2026",
+      "release_date": "2026-01-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/b3/71/68b37138-dbae-7784-09f7-e16440b5fe54/193436452137_DarkDivinePermanent.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Permanent",
+          "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "Half Past Dead (Unbury Me)",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/06/c2/9506c20e-07ca-8e0c-d07e-49447aa54325/193436460095_DarkDivineUndeadMelody.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Half Past Dead (Unbury Me)",
+          "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "Midnight Masquerade",
+      "year": "2026",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/1e/9a/331e9a16-803c-14f4-8aab-fefd34b541aa/193436459082_DarkDivineUndeadMelody.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Midnight Masquerade",
+          "duration": "3:39"
+        }
+      ]
+    },
+    {
       "name": "Make Me Disappear",
       "year": "2025",
       "release_date": "2025-05-23",
@@ -270,15 +309,15 @@
       ]
     },
     {
-      "name": "Permanent",
+      "name": "Fading Away",
       "year": "2026",
-      "release_date": "2026-01-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/b3/71/68b37138-dbae-7784-09f7-e16440b5fe54/193436452137_DarkDivinePermanent.jpg/600x600bb.jpg",
+      "release_date": "2026-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/14/f2/8614f2ea-c7ef-5ace-c0fa-86f00c5bae7e/193436460118_DarkDivineUndeadMelody.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Permanent",
-          "duration": "3:39"
+          "name": "Fading Away",
+          "duration": "3:41"
         }
       ]
     },
@@ -361,19 +400,6 @@
       ]
     },
     {
-      "name": "Half Past Dead (Unbury Me)",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/06/c2/9506c20e-07ca-8e0c-d07e-49447aa54325/193436460095_DarkDivineUndeadMelody.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Half Past Dead (Unbury Me)",
-          "duration": "3:21"
-        }
-      ]
-    },
-    {
       "name": "Circles",
       "year": "2022",
       "release_date": "2022-06-24",
@@ -400,19 +426,6 @@
       ]
     },
     {
-      "name": "Midnight Masquerade",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/1e/9a/331e9a16-803c-14f4-8aab-fefd34b541aa/193436459082_DarkDivineUndeadMelody.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Midnight Masquerade",
-          "duration": "3:39"
-        }
-      ]
-    },
-    {
       "name": "Digital Numb",
       "year": "2024",
       "release_date": "2024-07-19",
@@ -422,19 +435,6 @@
           "number": 1,
           "name": "Digital Numb",
           "duration": "3:21"
-        }
-      ]
-    },
-    {
-      "name": "Fading Away",
-      "year": "2026",
-      "release_date": "2026-05-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/14/f2/8614f2ea-c7ef-5ace-c0fa-86f00c5bae7e/193436460118_DarkDivineUndeadMelody.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fading Away",
-          "duration": "3:41"
         }
       ]
     }

@@ -192,74 +192,6 @@
       ]
     },
     {
-      "name": "THE ARCHIVES",
-      "year": "2025",
-      "release_date": "2025-10-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/04/6a/f6046ae6-833a-86de-5147-07d419fadf08/199502522773_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Not Afraid To Die",
-          "duration": "4:24"
-        },
-        {
-          "number": 2,
-          "name": "Explode",
-          "duration": "3:31"
-        },
-        {
-          "number": 3,
-          "name": "Elastic Heart (Rock Version)",
-          "duration": "4:53"
-        },
-        {
-          "number": 4,
-          "name": "Pretty Lies",
-          "duration": "4:33"
-        },
-        {
-          "number": 5,
-          "name": "Lights",
-          "duration": "4:13"
-        },
-        {
-          "number": 6,
-          "name": "Genius",
-          "duration": "3:33"
-        },
-        {
-          "number": 7,
-          "name": "To Tell You The Truth",
-          "duration": "5:40"
-        },
-        {
-          "number": 8,
-          "name": "Follow Me",
-          "duration": "3:30"
-        },
-        {
-          "number": 9,
-          "name": "Any Second",
-          "duration": "3:35"
-        },
-        {
-          "number": 10,
-          "name": "OH NO",
-          "duration": "3:05"
-        },
-        {
-          "number": 11,
-          "name": "Papercut (Linkin Park Tribute)",
-          "duration": "3:39"
-        },
-        {
-          "number": 12,
-          "name": "Bonfires",
-          "duration": "3:10"
-        }
-      ]
-    },
-    {
       "name": "Secrets (Instrumental)",
       "year": "2021",
       "release_date": "2021-12-03",
@@ -324,6 +256,74 @@
           "number": 12,
           "name": "Forever & Always (Instrumental)",
           "duration": "5:25"
+        }
+      ]
+    },
+    {
+      "name": "THE ARCHIVES",
+      "year": "2025",
+      "release_date": "2025-10-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/04/6a/f6046ae6-833a-86de-5147-07d419fadf08/199502522773_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Not Afraid To Die",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "Explode",
+          "duration": "3:31"
+        },
+        {
+          "number": 3,
+          "name": "Elastic Heart (Rock Version)",
+          "duration": "4:53"
+        },
+        {
+          "number": 4,
+          "name": "Pretty Lies",
+          "duration": "4:33"
+        },
+        {
+          "number": 5,
+          "name": "Lights",
+          "duration": "4:13"
+        },
+        {
+          "number": 6,
+          "name": "Genius",
+          "duration": "3:33"
+        },
+        {
+          "number": 7,
+          "name": "To Tell You The Truth",
+          "duration": "5:40"
+        },
+        {
+          "number": 8,
+          "name": "Follow Me",
+          "duration": "3:30"
+        },
+        {
+          "number": 9,
+          "name": "Any Second",
+          "duration": "3:35"
+        },
+        {
+          "number": 10,
+          "name": "OH NO",
+          "duration": "3:05"
+        },
+        {
+          "number": 11,
+          "name": "Papercut (Linkin Park Tribute)",
+          "duration": "3:39"
+        },
+        {
+          "number": 12,
+          "name": "Bonfires",
+          "duration": "3:10"
         }
       ]
     },
@@ -917,39 +917,6 @@
   ],
   "eps": [
     {
-      "name": "Prologue",
-      "year": "2018",
-      "release_date": "2018-11-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/5d/26/ea5d26c1-9635-6e23-6fad-8c641ad0224d/9420058717100_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Affirmation",
-          "duration": "3:44"
-        },
-        {
-          "number": 2,
-          "name": "Oxygen",
-          "duration": "3:57"
-        },
-        {
-          "number": 3,
-          "name": "Timebombs & Hurricanes",
-          "duration": "4:45"
-        },
-        {
-          "number": 4,
-          "name": "Starlight",
-          "duration": "3:48"
-        },
-        {
-          "number": 5,
-          "name": "Promise Me",
-          "duration": "4:11"
-        }
-      ]
-    },
-    {
       "name": "Goddess",
       "year": "2023",
       "release_date": "2023-09-27",
@@ -1017,6 +984,39 @@
           "number": 6,
           "name": "Give 'Em Hell",
           "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Prologue",
+      "year": "2018",
+      "release_date": "2018-11-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/5d/26/ea5d26c1-9635-6e23-6fad-8c641ad0224d/9420058717100_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Affirmation",
+          "duration": "3:44"
+        },
+        {
+          "number": 2,
+          "name": "Oxygen",
+          "duration": "3:57"
+        },
+        {
+          "number": 3,
+          "name": "Timebombs & Hurricanes",
+          "duration": "4:45"
+        },
+        {
+          "number": 4,
+          "name": "Starlight",
+          "duration": "3:48"
+        },
+        {
+          "number": 5,
+          "name": "Promise Me",
+          "duration": "4:11"
         }
       ]
     },

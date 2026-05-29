@@ -562,6 +562,19 @@
       ]
     },
     {
+      "name": "Jaws",
+      "year": "2018",
+      "release_date": "2018-06-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9c/75/a4/9c75a488-0b7f-2ed2-3795-2bfcceeef410/859726806447_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Jaws",
+          "duration": "5:55"
+        }
+      ]
+    },
+    {
       "name": "Two",
       "year": "2017",
       "release_date": "2017-07-21",
@@ -581,19 +594,6 @@
           "number": 3,
           "name": "Jericho",
           "duration": "5:17"
-        }
-      ]
-    },
-    {
-      "name": "Jaws",
-      "year": "2018",
-      "release_date": "2018-06-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9c/75/a4/9c75a488-0b7f-2ed2-3795-2bfcceeef410/859726806447_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Jaws",
-          "duration": "5:55"
         }
       ]
     },
@@ -637,29 +637,6 @@
       ]
     },
     {
-      "name": "Fall For Me",
-      "year": "2021",
-      "release_date": "2021-09-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fc/52/57/fc5257fd-91e6-ed9e-4027-590f9d31a99b/5400863107093_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fall For Me",
-          "duration": "2:26"
-        },
-        {
-          "number": 2,
-          "name": "The Love You Want",
-          "duration": "4:23"
-        },
-        {
-          "number": 3,
-          "name": "Alkaline",
-          "duration": "3:34"
-        }
-      ]
-    },
-    {
       "name": "The Summoning",
       "year": "2023",
       "release_date": "2023-01-06",
@@ -686,15 +663,25 @@
       ]
     },
     {
-      "name": "Chokehold",
-      "year": "2023",
-      "release_date": "2023-01-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/9a/27/399a277f-6372-2c16-3173-e11e391e7b6d/5401148000856_cover.jpg/600x600bb.jpg",
+      "name": "Fall For Me",
+      "year": "2021",
+      "release_date": "2021-09-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fc/52/57/fc5257fd-91e6-ed9e-4027-590f9d31a99b/5400863107093_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Chokehold",
-          "duration": "5:04"
+          "name": "Fall For Me",
+          "duration": "2:26"
+        },
+        {
+          "number": 2,
+          "name": "The Love You Want",
+          "duration": "4:23"
+        },
+        {
+          "number": 3,
+          "name": "Alkaline",
+          "duration": "3:34"
         }
       ]
     },
@@ -721,6 +708,19 @@
           "number": 1,
           "name": "Vore",
           "duration": "5:39"
+        }
+      ]
+    },
+    {
+      "name": "Chokehold",
+      "year": "2023",
+      "release_date": "2023-01-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/9a/27/399a277f-6372-2c16-3173-e11e391e7b6d/5401148000856_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chokehold",
+          "duration": "5:04"
         }
       ]
     },

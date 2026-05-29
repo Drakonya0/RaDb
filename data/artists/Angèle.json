@@ -437,6 +437,45 @@
       ]
     },
     {
+      "name": "Nightcall",
+      "year": "2024",
+      "release_date": "2024-09-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/e1/61/dee16173-c361-9d23-9fbe-9ef3ad1daa46/24UM1IM00411.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nightcall",
+          "duration": "2:59"
+        }
+      ]
+    },
+    {
+      "name": "Fever (Vantage Remix)",
+      "year": "2021",
+      "release_date": "2021-01-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a9/c4/44/a9c44463-4f5d-3494-86c3-5ac397623ad0/190295037260.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fever (Vantage Remix)",
+          "duration": "2:34"
+        }
+      ]
+    },
+    {
+      "name": "Fever (Oklou Remix)",
+      "year": "2020",
+      "release_date": "2020-12-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/3a/8f/313a8ff5-81ca-bdbf-b52d-fc51c659e857/190295051471.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fever (Oklou Remix)",
+          "duration": "3:00"
+        }
+      ]
+    },
+    {
       "name": "What You Want",
       "year": "2026",
       "release_date": "2026-02-27",
@@ -450,15 +489,15 @@
       ]
     },
     {
-      "name": "Nightcall",
-      "year": "2024",
-      "release_date": "2024-09-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/e1/61/dee16173-c361-9d23-9fbe-9ef3ad1daa46/24UM1IM00411.rgb.jpg/600x600bb.jpg",
+      "name": "Fever (Feder Remix)",
+      "year": "2021",
+      "release_date": "2021-01-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/06/2d/84/062d8466-3a6e-6472-27cd-48e5ffcbf68c/190295037284.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Nightcall",
-          "duration": "2:59"
+          "name": "Fever (Feder Remix)",
+          "duration": "3:03"
         }
       ]
     },
@@ -477,45 +516,6 @@
           "number": 2,
           "name": "What You Want",
           "duration": "3:08"
-        }
-      ]
-    },
-    {
-      "name": "Fever (Vantage Remix)",
-      "year": "2021",
-      "release_date": "2021-01-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a9/c4/44/a9c44463-4f5d-3494-86c3-5ac397623ad0/190295037260.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fever (Vantage Remix)",
-          "duration": "2:34"
-        }
-      ]
-    },
-    {
-      "name": "Fever (Feder Remix)",
-      "year": "2021",
-      "release_date": "2021-01-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/06/2d/84/062d8466-3a6e-6472-27cd-48e5ffcbf68c/190295037284.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fever (Feder Remix)",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
-      "name": "Fever (Oklou Remix)",
-      "year": "2020",
-      "release_date": "2020-12-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/3a/8f/313a8ff5-81ca-bdbf-b52d-fc51c659e857/190295051471.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fever (Oklou Remix)",
-          "duration": "3:00"
         }
       ]
     },
@@ -623,6 +623,24 @@
       "release_date": "2024-03-13",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/cf/14/bccf14af-73e3-b6ab-0491-6fefdd8c4643/24UMGIM28152.rgb.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "What You Want (SG Lewis Remix) [feat. Justice]",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/db/c0/70dbc0b0-6b05-d201-23dc-65a560c9204c/5056556181767_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "What You Want (feat. Justice) [SG Lewis Remix]",
+          "duration": "3:18"
+        },
+        {
+          "number": 2,
+          "name": "What You Want",
+          "duration": "3:08"
+        }
+      ]
     },
     {
       "name": "Perdus",

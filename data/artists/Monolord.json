@@ -36,77 +36,6 @@
       ]
     },
     {
-      "name": "Rust",
-      "year": "2017",
-      "release_date": "2017-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/dc/d2/3fdcd291-e495-cc56-0318-98353c30841f/603111719825_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Where Death Meets the Sea",
-          "duration": "5:47"
-        },
-        {
-          "number": 2,
-          "name": "Dear Lucifer",
-          "duration": "8:41"
-        },
-        {
-          "number": 3,
-          "name": "Rust",
-          "duration": "5:39"
-        },
-        {
-          "number": 4,
-          "name": "Wormland",
-          "duration": "6:05"
-        },
-        {
-          "number": 5,
-          "name": "Forgotten Lands",
-          "duration": "12:44"
-        },
-        {
-          "number": 6,
-          "name": "At Niceae",
-          "duration": "15:35"
-        }
-      ]
-    },
-    {
-      "name": "Your Time to Shine",
-      "year": "2021",
-      "release_date": "2021-10-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/65/1a/c3651af3-c1ac-e08f-e1cc-ef806e928723/781676445714.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Weary",
-          "duration": "4:58"
-        },
-        {
-          "number": 2,
-          "name": "To Each Their Own",
-          "duration": "7:28"
-        },
-        {
-          "number": 3,
-          "name": "I'll Be Damned",
-          "duration": "6:53"
-        },
-        {
-          "number": 4,
-          "name": "Your Time to Shine",
-          "duration": "10:25"
-        },
-        {
-          "number": 5,
-          "name": "The Siren of Yersinia",
-          "duration": "9:11"
-        }
-      ]
-    },
-    {
       "name": "Vænir",
       "year": "2015",
       "release_date": "2015-04-28",
@@ -141,6 +70,44 @@
           "number": 6,
           "name": "Vænir",
           "duration": "16:49"
+        }
+      ]
+    },
+    {
+      "name": "Rust",
+      "year": "2017",
+      "release_date": "2017-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3f/dc/d2/3fdcd291-e495-cc56-0318-98353c30841f/603111719825_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Where Death Meets the Sea",
+          "duration": "5:47"
+        },
+        {
+          "number": 2,
+          "name": "Dear Lucifer",
+          "duration": "8:41"
+        },
+        {
+          "number": 3,
+          "name": "Rust",
+          "duration": "5:39"
+        },
+        {
+          "number": 4,
+          "name": "Wormland",
+          "duration": "6:05"
+        },
+        {
+          "number": 5,
+          "name": "Forgotten Lands",
+          "duration": "12:44"
+        },
+        {
+          "number": 6,
+          "name": "At Niceae",
+          "duration": "15:35"
         }
       ]
     },
@@ -189,6 +156,39 @@
           "number": 8,
           "name": "It's Neverending",
           "duration": "8:35"
+        }
+      ]
+    },
+    {
+      "name": "Your Time to Shine",
+      "year": "2021",
+      "release_date": "2021-10-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c3/65/1a/c3651af3-c1ac-e08f-e1cc-ef806e928723/781676445714.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Weary",
+          "duration": "4:58"
+        },
+        {
+          "number": 2,
+          "name": "To Each Their Own",
+          "duration": "7:28"
+        },
+        {
+          "number": 3,
+          "name": "I'll Be Damned",
+          "duration": "6:53"
+        },
+        {
+          "number": 4,
+          "name": "Your Time to Shine",
+          "duration": "10:25"
+        },
+        {
+          "number": 5,
+          "name": "The Siren of Yersinia",
+          "duration": "9:11"
         }
       ]
     },
@@ -304,6 +304,24 @@
   ],
   "singles": [
     {
+      "name": "It's All The Same",
+      "year": "2023",
+      "release_date": "2023-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/cf/c8/ddcfc859-2727-2d46-fa6f-e39255cec8d5/781676499519.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Glaive (It's All The Same)",
+          "duration": "6:02"
+        },
+        {
+          "number": 2,
+          "name": "The Only Road",
+          "duration": "6:40"
+        }
+      ]
+    },
+    {
       "name": "Lord of Suffering",
       "year": "2016",
       "release_date": "2016-08-05",
@@ -336,24 +354,6 @@
           "number": 2,
           "name": "The Bastard Son (Live at Freakvalley)",
           "duration": "9:45"
-        }
-      ]
-    },
-    {
-      "name": "It's All The Same",
-      "year": "2023",
-      "release_date": "2023-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/cf/c8/ddcfc859-2727-2d46-fa6f-e39255cec8d5/781676499519.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Glaive (It's All The Same)",
-          "duration": "6:02"
-        },
-        {
-          "number": 2,
-          "name": "The Only Road",
-          "duration": "6:40"
         }
       ]
     }

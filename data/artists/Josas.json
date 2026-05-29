@@ -3,17 +3,17 @@
   "id": 1510901519,
   "albums": [
     {
-      "name": "Pichichi",
-      "year": "2025",
-      "release_date": "2025-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/c4/ba/42c4ba20-0fe3-9ad9-3b7f-6c7f066a9f33/25UMGIM04816.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Pichichi / Piccolo",
       "year": "2025",
       "release_date": "2025-09-05",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/a3/49/76a349e0-bc88-555a-ac90-53dadaa4b3c8/25UMGIM04816.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Pichichi",
+      "year": "2025",
+      "release_date": "2025-01-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/c4/ba/42c4ba20-0fe3-9ad9-3b7f-6c7f066a9f33/25UMGIM04816.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -54,6 +54,13 @@
       "tracks": []
     },
     {
+      "name": "Morena",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/2b/99/592b99fd-0bd2-7303-b990-a5b5dedf1ad7/25UM2IM07956.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "E.T",
       "year": "2023",
       "release_date": "2023-05-26",
@@ -65,13 +72,6 @@
           "duration": "2:51"
         }
       ]
-    },
-    {
-      "name": "Morena",
-      "year": "2026",
-      "release_date": "2026-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/2b/99/592b99fd-0bd2-7303-b990-a5b5dedf1ad7/25UM2IM07956.rgb.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "Ainsi font",
@@ -92,6 +92,19 @@
       "release_date": "2025-12-12",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/bd/da/a1bdda42-441a-2f0b-7ded-4a1fd83e54ac/25UM1IM98320.rgb.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "Rentre dans le Cercle - Josas",
+      "year": "2026",
+      "release_date": "2026-05-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/f0/07/bbf0079e-4426-ca65-d413-95ab3df2631d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rentre dans le Cercle - Josas",
+          "duration": "2:35"
+        }
+      ]
     },
     {
       "name": "RUMBA",

@@ -66,74 +66,6 @@
       ]
     },
     {
-      "name": "Mono",
-      "year": "2017",
-      "release_date": "2017-07-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4e/a6/26/4ea62665-bc3d-1aee-aafa-d4dbb260fa81/192562342091.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ward of the State",
-          "duration": "2:03"
-        },
-        {
-          "number": 2,
-          "name": "No. 2",
-          "duration": "3:32"
-        },
-        {
-          "number": 3,
-          "name": "Golden Fate; Water Break",
-          "duration": "3:40"
-        },
-        {
-          "number": 4,
-          "name": "Shinobi Naku",
-          "duration": "1:49"
-        },
-        {
-          "number": 5,
-          "name": "#104",
-          "duration": "3:17"
-        },
-        {
-          "number": 6,
-          "name": "Promise Stays",
-          "duration": "3:01"
-        },
-        {
-          "number": 7,
-          "name": "Mono",
-          "duration": "2:33"
-        },
-        {
-          "number": 8,
-          "name": "Failvre",
-          "duration": "3:28"
-        },
-        {
-          "number": 9,
-          "name": "Golden Fate; Gut Ache",
-          "duration": "3:15"
-        },
-        {
-          "number": 10,
-          "name": "My Untold Memoir",
-          "duration": "2:03"
-        },
-        {
-          "number": 11,
-          "name": "Epiphobia",
-          "duration": "2:12"
-        },
-        {
-          "number": 12,
-          "name": "Devon St",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
       "name": "Half Living Things",
       "year": "2024",
       "release_date": "2024-04-05",
@@ -200,6 +132,74 @@
           "duration": "5:17"
         }
       ]
+    },
+    {
+      "name": "Mono",
+      "year": "2017",
+      "release_date": "2017-07-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4e/a6/26/4ea62665-bc3d-1aee-aafa-d4dbb260fa81/192562342091.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ward of the State",
+          "duration": "2:03"
+        },
+        {
+          "number": 2,
+          "name": "No. 2",
+          "duration": "3:32"
+        },
+        {
+          "number": 3,
+          "name": "Golden Fate; Water Break",
+          "duration": "3:40"
+        },
+        {
+          "number": 4,
+          "name": "Shinobi Naku",
+          "duration": "1:49"
+        },
+        {
+          "number": 5,
+          "name": "#104",
+          "duration": "3:17"
+        },
+        {
+          "number": 6,
+          "name": "Promise Stays",
+          "duration": "3:01"
+        },
+        {
+          "number": 7,
+          "name": "Mono",
+          "duration": "2:33"
+        },
+        {
+          "number": 8,
+          "name": "Failvre",
+          "duration": "3:28"
+        },
+        {
+          "number": 9,
+          "name": "Golden Fate; Gut Ache",
+          "duration": "3:15"
+        },
+        {
+          "number": 10,
+          "name": "My Untold Memoir",
+          "duration": "2:03"
+        },
+        {
+          "number": 11,
+          "name": "Epiphobia",
+          "duration": "2:12"
+        },
+        {
+          "number": 12,
+          "name": "Devon St",
+          "duration": "3:20"
+        }
+      ]
     }
   ],
   "singles": [
@@ -217,24 +217,6 @@
       ]
     },
     {
-      "name": "Hotel Underground",
-      "year": "2022",
-      "release_date": "2022-06-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ec/ad/eb/ecadebad-8554-134c-de28-d46047325f36/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hotel Underground",
-          "duration": "2:46"
-        },
-        {
-          "number": 2,
-          "name": "Aching Longing",
-          "duration": "4:24"
-        }
-      ]
-    },
-    {
       "name": "Nail Biter",
       "year": "2016",
       "release_date": "2016-10-28",
@@ -244,19 +226,6 @@
           "number": 1,
           "name": "Nail Biter",
           "duration": "3:40"
-        }
-      ]
-    },
-    {
-      "name": "Aching Longing",
-      "year": "2022",
-      "release_date": "2022-06-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/8b/82/468b82e0-0a80-5baf-867b-d4779f7a06f8/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Aching Longing",
-          "duration": "4:24"
         }
       ]
     },
@@ -292,6 +261,24 @@
       ]
     },
     {
+      "name": "Hotel Underground",
+      "year": "2022",
+      "release_date": "2022-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ec/ad/eb/ecadebad-8554-134c-de28-d46047325f36/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hotel Underground",
+          "duration": "2:46"
+        },
+        {
+          "number": 2,
+          "name": "Aching Longing",
+          "duration": "4:24"
+        }
+      ]
+    },
+    {
       "name": "Bring Back The Noise",
       "year": "2023",
       "release_date": "2023-11-24",
@@ -301,6 +288,19 @@
           "number": 1,
           "name": "Bring Back The Noise",
           "duration": "2:10"
+        }
+      ]
+    },
+    {
+      "name": "Aching Longing",
+      "year": "2022",
+      "release_date": "2022-06-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/8b/82/468b82e0-0a80-5baf-867b-d4779f7a06f8/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Aching Longing",
+          "duration": "4:24"
         }
       ]
     },

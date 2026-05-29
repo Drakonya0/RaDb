@@ -3,6 +3,59 @@
   "id": 1598304436,
   "albums": [
     {
+      "name": "Legacy",
+      "year": "2023",
+      "release_date": "2023-05-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/87/31/44/87314442-5cca-a3d0-4b17-cc9d77a55031/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hiob",
+          "duration": "5:10"
+        },
+        {
+          "number": 2,
+          "name": "Written on Tombstones",
+          "duration": "4:28"
+        },
+        {
+          "number": 3,
+          "name": "Amos the Prophet",
+          "duration": "4:25"
+        },
+        {
+          "number": 4,
+          "name": "The Canon of Nil",
+          "duration": "5:45"
+        },
+        {
+          "number": 5,
+          "name": "Redemption, Pt. I",
+          "duration": "0:59"
+        },
+        {
+          "number": 6,
+          "name": "Redemption, Pt. II",
+          "duration": "4:01"
+        },
+        {
+          "number": 7,
+          "name": "Thousand Years of Sand",
+          "duration": "4:50"
+        },
+        {
+          "number": 8,
+          "name": "Babylon",
+          "duration": "4:12"
+        },
+        {
+          "number": 9,
+          "name": "The Last Act",
+          "duration": "7:30"
+        }
+      ]
+    },
+    {
       "name": "Blessings and Curses",
       "year": "2026",
       "release_date": "2026-04-03",
@@ -62,59 +115,6 @@
           "number": 11,
           "name": "Prayer III",
           "duration": "0:58"
-        }
-      ]
-    },
-    {
-      "name": "Legacy",
-      "year": "2023",
-      "release_date": "2023-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/87/31/44/87314442-5cca-a3d0-4b17-cc9d77a55031/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hiob",
-          "duration": "5:10"
-        },
-        {
-          "number": 2,
-          "name": "Written on Tombstones",
-          "duration": "4:28"
-        },
-        {
-          "number": 3,
-          "name": "Amos the Prophet",
-          "duration": "4:25"
-        },
-        {
-          "number": 4,
-          "name": "The Canon of Nil",
-          "duration": "5:45"
-        },
-        {
-          "number": 5,
-          "name": "Redemption, Pt. I",
-          "duration": "0:59"
-        },
-        {
-          "number": 6,
-          "name": "Redemption, Pt. II",
-          "duration": "4:01"
-        },
-        {
-          "number": 7,
-          "name": "Thousand Years of Sand",
-          "duration": "4:50"
-        },
-        {
-          "number": 8,
-          "name": "Babylon",
-          "duration": "4:12"
-        },
-        {
-          "number": 9,
-          "name": "The Last Act",
-          "duration": "7:30"
         }
       ]
     },
