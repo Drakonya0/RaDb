@@ -3,6 +3,44 @@
   "id": 310484108,
   "albums": [
     {
+      "name": "Black EP",
+      "year": "2020",
+      "release_date": "2020-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/a9/df/9fa9df51-fe05-e823-59d0-26764311615c/195497297177.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Doom",
+          "duration": "3:01"
+        },
+        {
+          "number": 2,
+          "name": "Nail",
+          "duration": "2:29"
+        },
+        {
+          "number": 3,
+          "name": "Propaganda",
+          "duration": "1:56"
+        },
+        {
+          "number": 4,
+          "name": "Flames",
+          "duration": "2:52"
+        },
+        {
+          "number": 5,
+          "name": "Microbes",
+          "duration": "2:03"
+        },
+        {
+          "number": 6,
+          "name": "Subprime",
+          "duration": "3:33"
+        }
+      ]
+    },
+    {
       "name": "Gold",
       "year": "2025",
       "release_date": "2025-02-21",
@@ -72,44 +110,6 @@
           "number": 13,
           "name": "Serve",
           "duration": "3:23"
-        }
-      ]
-    },
-    {
-      "name": "Black EP",
-      "year": "2020",
-      "release_date": "2020-11-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9f/a9/df/9fa9df51-fe05-e823-59d0-26764311615c/195497297177.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Doom",
-          "duration": "3:01"
-        },
-        {
-          "number": 2,
-          "name": "Nail",
-          "duration": "2:29"
-        },
-        {
-          "number": 3,
-          "name": "Propaganda",
-          "duration": "1:56"
-        },
-        {
-          "number": 4,
-          "name": "Flames",
-          "duration": "2:52"
-        },
-        {
-          "number": 5,
-          "name": "Microbes",
-          "duration": "2:03"
-        },
-        {
-          "number": 6,
-          "name": "Subprime",
-          "duration": "3:33"
         }
       ]
     }

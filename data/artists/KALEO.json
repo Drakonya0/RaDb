@@ -272,37 +272,6 @@
   ],
   "singles": [
     {
-      "name": "Break My Baby (Stripped Back)",
-      "year": "2021",
-      "release_date": "2021-03-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/43/27/0c/43270c58-a2c3-25f4-c768-db6fc18d5210/075679790859.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Break My Baby (Stripped Back)",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
-      "name": "Backbone (Live at Breiðarmerkurjökull)",
-      "year": "2022",
-      "release_date": "2022-03-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e7/c1/aa/e7c1aa84-0cd4-6fd1-e880-befe6cbf5acd/075679754691.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Backbone (Live at Breiðarmerkurjökull)",
-          "duration": "5:07"
-        },
-        {
-          "number": 2,
-          "name": "Backbone",
-          "duration": "3:52"
-        }
-      ]
-    },
-    {
       "name": "Way down We Go (Alternate Versions)",
       "year": "2016",
       "release_date": "2016-06-09",
@@ -339,6 +308,19 @@
       ]
     },
     {
+      "name": "Break My Baby (Stripped Back)",
+      "year": "2021",
+      "release_date": "2021-03-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/43/27/0c/43270c58-a2c3-25f4-c768-db6fc18d5210/075679790859.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Break My Baby (Stripped Back)",
+          "duration": "3:30"
+        }
+      ]
+    },
+    {
       "name": "Break My Baby (Live from Þrídrangar)",
       "year": "2021",
       "release_date": "2021-02-05",
@@ -348,6 +330,42 @@
           "number": 1,
           "name": "Break My Baby (Live from Þrídrangar)",
           "duration": "4:46"
+        }
+      ]
+    },
+    {
+      "name": "Backbone (Live at Breiðarmerkurjökull)",
+      "year": "2022",
+      "release_date": "2022-03-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e7/c1/aa/e7c1aa84-0cd4-6fd1-e880-befe6cbf5acd/075679754691.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Backbone (Live at Breiðarmerkurjökull)",
+          "duration": "5:07"
+        },
+        {
+          "number": 2,
+          "name": "Backbone",
+          "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "I Want More (Alternate Versions)",
+      "year": "2020",
+      "release_date": "2020-01-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/85/28/c885287d-ac60-9c8a-8540-3d50e38ed20d/075679658517.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Want More (Sped Up Version)",
+          "duration": "2:49"
+        },
+        {
+          "number": 2,
+          "name": "I Want More (Slowed Down Version)",
+          "duration": "3:55"
         }
       ]
     },
@@ -373,24 +391,6 @@
           "number": 2,
           "name": "All the Pretty Girls (Slowed Down Version)",
           "duration": "5:17"
-        }
-      ]
-    },
-    {
-      "name": "I Want More (Alternate Versions)",
-      "year": "2020",
-      "release_date": "2020-01-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/85/28/c885287d-ac60-9c8a-8540-3d50e38ed20d/075679658517.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Want More (Sped Up Version)",
-          "duration": "2:49"
-        },
-        {
-          "number": 2,
-          "name": "I Want More (Slowed Down Version)",
-          "duration": "3:55"
         }
       ]
     },

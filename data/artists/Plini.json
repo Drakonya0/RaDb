@@ -3,6 +3,64 @@
   "id": 623283379,
   "albums": [
     {
+      "name": "An Unnameable Desire",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/8b/ce/388bcea4-f133-d51a-9023-e628744e52fd/437711.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dorénavant",
+          "duration": "0:53"
+        },
+        {
+          "number": 2,
+          "name": "An Unnameable Desire",
+          "duration": "4:25"
+        },
+        {
+          "number": 3,
+          "name": "Ciel (feat. Jakub Zytecki)",
+          "duration": "3:08"
+        },
+        {
+          "number": 4,
+          "name": "Canyon",
+          "duration": "2:54"
+        },
+        {
+          "number": 5,
+          "name": "Now & Then",
+          "duration": "4:36"
+        },
+        {
+          "number": 6,
+          "name": "Manala",
+          "duration": "4:37"
+        },
+        {
+          "number": 7,
+          "name": "Vespertine",
+          "duration": "4:57"
+        },
+        {
+          "number": 8,
+          "name": "Ruin",
+          "duration": "4:09"
+        },
+        {
+          "number": 9,
+          "name": "After Everything",
+          "duration": "5:03"
+        },
+        {
+          "number": 10,
+          "name": "The Time Will Pass Anyway",
+          "duration": "6:56"
+        }
+      ]
+    },
+    {
       "name": "Impulse Voices",
       "year": "2020",
       "release_date": "2020-11-27",
@@ -90,64 +148,6 @@
           "number": 7,
           "name": "Cascade",
           "duration": "6:00"
-        }
-      ]
-    },
-    {
-      "name": "An Unnameable Desire",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/8b/ce/388bcea4-f133-d51a-9023-e628744e52fd/437711.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dorénavant",
-          "duration": "0:53"
-        },
-        {
-          "number": 2,
-          "name": "An Unnameable Desire",
-          "duration": "4:25"
-        },
-        {
-          "number": 3,
-          "name": "Ciel (feat. Jakub Zytecki)",
-          "duration": "3:08"
-        },
-        {
-          "number": 4,
-          "name": "Canyon",
-          "duration": "2:54"
-        },
-        {
-          "number": 5,
-          "name": "Now & Then",
-          "duration": "4:36"
-        },
-        {
-          "number": 6,
-          "name": "Manala",
-          "duration": "4:37"
-        },
-        {
-          "number": 7,
-          "name": "Vespertine",
-          "duration": "4:57"
-        },
-        {
-          "number": 8,
-          "name": "Ruin",
-          "duration": "4:09"
-        },
-        {
-          "number": 9,
-          "name": "After Everything",
-          "duration": "5:03"
-        },
-        {
-          "number": 10,
-          "name": "The Time Will Pass Anyway",
-          "duration": "6:56"
         }
       ]
     },
@@ -249,6 +249,19 @@
           "number": 3,
           "name": "Paper Moon",
           "duration": "8:32"
+        }
+      ]
+    },
+    {
+      "name": "Sunset (feat. Cory Wong & Plini)",
+      "year": "2025",
+      "release_date": "2025-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/d4/85/8cd485ef-d25e-ff24-cf88-6ae94c3fe153/4099964202960.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sunset (feat. Cory Wong & Plini)",
+          "duration": "2:28"
         }
       ]
     },
@@ -504,19 +517,6 @@
       ]
     },
     {
-      "name": "Sunset (feat. Cory Wong & Plini)",
-      "year": "2025",
-      "release_date": "2025-09-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/d4/85/8cd485ef-d25e-ff24-cf88-6ae94c3fe153/4099964202960.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sunset (feat. Cory Wong & Plini)",
-          "duration": "2:28"
-        }
-      ]
-    },
-    {
       "name": "Manala",
       "year": "2026",
       "release_date": "2026-04-10",
@@ -649,35 +649,30 @@
   ],
   "eps": [
     {
-      "name": "Mirage",
-      "year": "2023",
-      "release_date": "2023-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/78/d4/4978d4b3-c3d2-faa3-5fcb-880200ef491e/160973.jpg/600x600bb.jpg",
+      "name": "Sweet Nothings",
+      "year": "2013",
+      "release_date": "2013-10-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2c/ce/5a/2cce5ac6-daf3-300f-bb62-9575a4c0d459/11683.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Red Fox",
-          "duration": "6:37"
+          "name": "Opening",
+          "duration": "5:07"
         },
         {
           "number": 2,
-          "name": "Five Days of Rain",
-          "duration": "3:30"
+          "name": "Tarred & Feathered",
+          "duration": "3:14"
         },
         {
           "number": 3,
-          "name": "Still Life (feat. Tosin Abasi)",
-          "duration": "4:08"
+          "name": "Away",
+          "duration": "3:43"
         },
         {
           "number": 4,
-          "name": "Aqua Vista",
-          "duration": "2:48"
-        },
-        {
-          "number": 5,
-          "name": "Ember",
-          "duration": "5:59"
+          "name": "Sweet Nothings (feat. Luke Martin)",
+          "duration": "5:02"
         }
       ]
     },
@@ -710,30 +705,35 @@
       ]
     },
     {
-      "name": "Sweet Nothings",
-      "year": "2013",
-      "release_date": "2013-10-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2c/ce/5a/2cce5ac6-daf3-300f-bb62-9575a4c0d459/11683.jpg/600x600bb.jpg",
+      "name": "Mirage",
+      "year": "2023",
+      "release_date": "2023-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/78/d4/4978d4b3-c3d2-faa3-5fcb-880200ef491e/160973.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Opening",
-          "duration": "5:07"
+          "name": "The Red Fox",
+          "duration": "6:37"
         },
         {
           "number": 2,
-          "name": "Tarred & Feathered",
-          "duration": "3:14"
+          "name": "Five Days of Rain",
+          "duration": "3:30"
         },
         {
           "number": 3,
-          "name": "Away",
-          "duration": "3:43"
+          "name": "Still Life (feat. Tosin Abasi)",
+          "duration": "4:08"
         },
         {
           "number": 4,
-          "name": "Sweet Nothings (feat. Luke Martin)",
-          "duration": "5:02"
+          "name": "Aqua Vista",
+          "duration": "2:48"
+        },
+        {
+          "number": 5,
+          "name": "Ember",
+          "duration": "5:59"
         }
       ]
     },

@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "fvck.me.up",
-      "year": "2026",
-      "release_date": "2026-04-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/70/df/4f70dfa7-f613-5628-06c4-8fdbd1ab9439/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "fvck.me.up",
-          "duration": "3:01"
-        }
-      ]
-    },
-    {
       "name": "T.H.Y.M.",
       "year": "2023",
       "release_date": "2023-12-21",
@@ -67,6 +54,19 @@
           "number": 1,
           "name": "Dead Dreams",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "fvck.me.up",
+      "year": "2026",
+      "release_date": "2026-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/70/df/4f70dfa7-f613-5628-06c4-8fdbd1ab9439/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "fvck.me.up",
+          "duration": "3:01"
         }
       ]
     },

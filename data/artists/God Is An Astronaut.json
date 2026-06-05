@@ -3,6 +3,54 @@
   "id": 175274090,
   "albums": [
     {
+      "name": "Helios / Erebus",
+      "year": "2015",
+      "release_date": "2015-06-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/45/c7/75/45c77595-0762-fd8c-ebb5-6a29a6b4a132/0013964758016_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Agneya",
+          "duration": "4:58"
+        },
+        {
+          "number": 2,
+          "name": "Pig Powder",
+          "duration": "5:40"
+        },
+        {
+          "number": 3,
+          "name": "Vetus Memoria",
+          "duration": "5:20"
+        },
+        {
+          "number": 4,
+          "name": "Finem Solis",
+          "duration": "5:03"
+        },
+        {
+          "number": 5,
+          "name": "Helios Erebus",
+          "duration": "8:31"
+        },
+        {
+          "number": 6,
+          "name": "Obscura Somnia",
+          "duration": "4:04"
+        },
+        {
+          "number": 7,
+          "name": "Centralia",
+          "duration": "6:47"
+        },
+        {
+          "number": 8,
+          "name": "Sea of Trees",
+          "duration": "4:49"
+        }
+      ]
+    },
+    {
       "name": "All Is Violent, All Is Bright (Remastered)",
       "year": "2006",
       "release_date": "2006-09-11",
@@ -172,54 +220,6 @@
       ]
     },
     {
-      "name": "Helios / Erebus",
-      "year": "2015",
-      "release_date": "2015-06-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/45/c7/75/45c77595-0762-fd8c-ebb5-6a29a6b4a132/0013964758016_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Agneya",
-          "duration": "4:58"
-        },
-        {
-          "number": 2,
-          "name": "Pig Powder",
-          "duration": "5:40"
-        },
-        {
-          "number": 3,
-          "name": "Vetus Memoria",
-          "duration": "5:20"
-        },
-        {
-          "number": 4,
-          "name": "Finem Solis",
-          "duration": "5:03"
-        },
-        {
-          "number": 5,
-          "name": "Helios Erebus",
-          "duration": "8:31"
-        },
-        {
-          "number": 6,
-          "name": "Obscura Somnia",
-          "duration": "4:04"
-        },
-        {
-          "number": 7,
-          "name": "Centralia",
-          "duration": "6:47"
-        },
-        {
-          "number": 8,
-          "name": "Sea of Trees",
-          "duration": "4:49"
-        }
-      ]
-    },
-    {
       "name": "The End of the Beginning (Remastered)",
       "year": "2002",
       "release_date": "2002-01-01",
@@ -336,59 +336,6 @@
       ]
     },
     {
-      "name": "Embers",
-      "year": "2024",
-      "release_date": "2024-09-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/fe/88/9bfe8800-8302-fd15-087c-b79fcbf7c970/810157922014.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Apparition",
-          "duration": "5:27"
-        },
-        {
-          "number": 2,
-          "name": "Falling Leaves",
-          "duration": "7:57"
-        },
-        {
-          "number": 3,
-          "name": "Odyssey",
-          "duration": "7:39"
-        },
-        {
-          "number": 4,
-          "name": "Heart of Roots",
-          "duration": "5:38"
-        },
-        {
-          "number": 5,
-          "name": "Embers",
-          "duration": "9:59"
-        },
-        {
-          "number": 6,
-          "name": "Realms (feat. Jo Quail)",
-          "duration": "4:42"
-        },
-        {
-          "number": 7,
-          "name": "Oscillation",
-          "duration": "5:34"
-        },
-        {
-          "number": 8,
-          "name": "Prism (feat. Jo Quail)",
-          "duration": "4:35"
-        },
-        {
-          "number": 9,
-          "name": "Hourglass",
-          "duration": "6:07"
-        }
-      ]
-    },
-    {
       "name": "Far from Refuge (Remastered)",
       "year": "2007",
       "release_date": "2007-06-25",
@@ -481,6 +428,59 @@
           "number": 7,
           "name": "Luminous Waves",
           "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Embers",
+      "year": "2024",
+      "release_date": "2024-09-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/fe/88/9bfe8800-8302-fd15-087c-b79fcbf7c970/810157922014.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Apparition",
+          "duration": "5:27"
+        },
+        {
+          "number": 2,
+          "name": "Falling Leaves",
+          "duration": "7:57"
+        },
+        {
+          "number": 3,
+          "name": "Odyssey",
+          "duration": "7:39"
+        },
+        {
+          "number": 4,
+          "name": "Heart of Roots",
+          "duration": "5:38"
+        },
+        {
+          "number": 5,
+          "name": "Embers",
+          "duration": "9:59"
+        },
+        {
+          "number": 6,
+          "name": "Realms (feat. Jo Quail)",
+          "duration": "4:42"
+        },
+        {
+          "number": 7,
+          "name": "Oscillation",
+          "duration": "5:34"
+        },
+        {
+          "number": 8,
+          "name": "Prism (feat. Jo Quail)",
+          "duration": "4:35"
+        },
+        {
+          "number": 9,
+          "name": "Hourglass",
+          "duration": "6:07"
         }
       ]
     },
@@ -654,6 +654,64 @@
       ]
     },
     {
+      "name": "All Is Violent, All Is Bright (Live)",
+      "year": "2006",
+      "release_date": "2006-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/df/dc/18dfdcd8-a62e-ed07-02c4-8b496d4506b8/859747387710_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fragile (Live)",
+          "duration": "5:06"
+        },
+        {
+          "number": 2,
+          "name": "All Is Violent, All Is Bright (Live)",
+          "duration": "5:05"
+        },
+        {
+          "number": 3,
+          "name": "Forever Lost (Live)",
+          "duration": "5:00"
+        },
+        {
+          "number": 4,
+          "name": "Fireflies and Empty Skies (Live)",
+          "duration": "4:31"
+        },
+        {
+          "number": 5,
+          "name": "A Deafening Distance (Live)",
+          "duration": "4:02"
+        },
+        {
+          "number": 6,
+          "name": "Infinite Horizons (Live)",
+          "duration": "3:16"
+        },
+        {
+          "number": 7,
+          "name": "Suicide by Star (Live)",
+          "duration": "4:49"
+        },
+        {
+          "number": 8,
+          "name": "Remembrance Day (Live)",
+          "duration": "4:43"
+        },
+        {
+          "number": 9,
+          "name": "Dust and Echoes (Live)",
+          "duration": "4:42"
+        },
+        {
+          "number": 10,
+          "name": "When Everything Dies (Live)",
+          "duration": "5:03"
+        }
+      ]
+    },
+    {
       "name": "Origins",
       "year": "2013",
       "release_date": "2013-08-26",
@@ -718,64 +776,6 @@
           "number": 12,
           "name": "Light Years from Home",
           "duration": "5:06"
-        }
-      ]
-    },
-    {
-      "name": "All Is Violent, All Is Bright (Live)",
-      "year": "2006",
-      "release_date": "2006-09-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/18/df/dc/18dfdcd8-a62e-ed07-02c4-8b496d4506b8/859747387710_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fragile (Live)",
-          "duration": "5:06"
-        },
-        {
-          "number": 2,
-          "name": "All Is Violent, All Is Bright (Live)",
-          "duration": "5:05"
-        },
-        {
-          "number": 3,
-          "name": "Forever Lost (Live)",
-          "duration": "5:00"
-        },
-        {
-          "number": 4,
-          "name": "Fireflies and Empty Skies (Live)",
-          "duration": "4:31"
-        },
-        {
-          "number": 5,
-          "name": "A Deafening Distance (Live)",
-          "duration": "4:02"
-        },
-        {
-          "number": 6,
-          "name": "Infinite Horizons (Live)",
-          "duration": "3:16"
-        },
-        {
-          "number": 7,
-          "name": "Suicide by Star (Live)",
-          "duration": "4:49"
-        },
-        {
-          "number": 8,
-          "name": "Remembrance Day (Live)",
-          "duration": "4:43"
-        },
-        {
-          "number": 9,
-          "name": "Dust and Echoes (Live)",
-          "duration": "4:42"
-        },
-        {
-          "number": 10,
-          "name": "When Everything Dies (Live)",
-          "duration": "5:03"
         }
       ]
     }

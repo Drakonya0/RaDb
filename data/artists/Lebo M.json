@@ -3,49 +3,6 @@
   "id": 504763,
   "albums": [
     {
-      "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
-      "year": "2024",
-      "release_date": "2024-12-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/55/3d/b5553dd2-69f0-08a3-ceaf-15da134a3c18/24UM1IM28911.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ngomso",
-          "duration": "1:16"
-        },
-        {
-          "number": 2,
-          "name": "Milele",
-          "duration": "2:27"
-        },
-        {
-          "number": 3,
-          "name": "I Always Wanted A Brother",
-          "duration": "3:34"
-        },
-        {
-          "number": 4,
-          "name": "Bye Bye",
-          "duration": "2:15"
-        },
-        {
-          "number": 5,
-          "name": "We Go Together",
-          "duration": "2:44"
-        },
-        {
-          "number": 6,
-          "name": "Tell Me It's You",
-          "duration": "2:27"
-        },
-        {
-          "number": 7,
-          "name": "Brother Betrayed",
-          "duration": "1:37"
-        }
-      ]
-    },
-    {
       "name": "Rhythm of the Pride Lands",
       "year": "1995",
       "release_date": "1995-01-01",
@@ -105,6 +62,49 @@
           "number": 11,
           "name": "Noyana",
           "duration": "5:13"
+        }
+      ]
+    },
+    {
+      "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
+      "year": "2024",
+      "release_date": "2024-12-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/55/3d/b5553dd2-69f0-08a3-ceaf-15da134a3c18/24UM1IM28911.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ngomso",
+          "duration": "1:16"
+        },
+        {
+          "number": 2,
+          "name": "Milele",
+          "duration": "2:27"
+        },
+        {
+          "number": 3,
+          "name": "I Always Wanted A Brother",
+          "duration": "3:34"
+        },
+        {
+          "number": 4,
+          "name": "Bye Bye",
+          "duration": "2:15"
+        },
+        {
+          "number": 5,
+          "name": "We Go Together",
+          "duration": "2:44"
+        },
+        {
+          "number": 6,
+          "name": "Tell Me It's You",
+          "duration": "2:27"
+        },
+        {
+          "number": 7,
+          "name": "Brother Betrayed",
+          "duration": "1:37"
         }
       ]
     },
@@ -870,6 +870,19 @@
     }
   ],
   "singles": [
+    {
+      "name": "Usiku (feat. Mina, Wes, Nipa, Guguletu & Lebo M)",
+      "year": "2019",
+      "release_date": "2019-07-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/07/b9/db07b9d7-140d-b0fc-64a7-a3971c8e7798/823191761396_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Usiku (feat. Wes, Lebo M, Nipa, Mina & Guguletu)",
+          "duration": "4:52"
+        }
+      ]
+    },
     {
       "name": "Uzothol'ukuthi (feat. Ladysmith Black Mambazo, Nkosinathi Shabalala & Refi Sings)",
       "year": "2020",

@@ -702,6 +702,39 @@
       ]
     },
     {
+      "name": "MONTAGEM MAWARE",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/41/a1/6c41a1b4-8618-3668-fb69-7552700877b9/820233630801.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM MAWARE",
+          "duration": "1:23"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM MAWARE (Slowed)",
+          "duration": "1:33"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM MAWARE (Sped Up)",
+          "duration": "1:18"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM MAWARE (Super Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM MAWARE (Ultra Slowed)",
+          "duration": "1:57"
+        }
+      ]
+    },
+    {
       "name": "NEO FUNK",
       "year": "2025",
       "release_date": "2025-03-21",
@@ -763,34 +796,6 @@
       ]
     },
     {
-      "name": "PICO",
-      "year": "2025",
-      "release_date": "2025-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/68/21/7f6821a3-e685-afef-83e2-7afeb10989ff/663918048245.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PICO",
-          "duration": "1:05"
-        },
-        {
-          "number": 2,
-          "name": "PICO (Slowed)",
-          "duration": "1:13"
-        },
-        {
-          "number": 3,
-          "name": "PICO (Super Slowed)",
-          "duration": "1:22"
-        },
-        {
-          "number": 4,
-          "name": "PICO (Ultra Slowed)",
-          "duration": "1:32"
-        }
-      ]
-    },
-    {
       "name": "SENTA NOITE",
       "year": "2026",
       "release_date": "2026-03-13",
@@ -820,6 +825,34 @@
           "number": 5,
           "name": "SENTA NOITE (Sped Up)",
           "duration": "1:06"
+        }
+      ]
+    },
+    {
+      "name": "PICO",
+      "year": "2025",
+      "release_date": "2025-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/68/21/7f6821a3-e685-afef-83e2-7afeb10989ff/663918048245.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PICO",
+          "duration": "1:05"
+        },
+        {
+          "number": 2,
+          "name": "PICO (Slowed)",
+          "duration": "1:13"
+        },
+        {
+          "number": 3,
+          "name": "PICO (Super Slowed)",
+          "duration": "1:22"
+        },
+        {
+          "number": 4,
+          "name": "PICO (Ultra Slowed)",
+          "duration": "1:32"
         }
       ]
     },

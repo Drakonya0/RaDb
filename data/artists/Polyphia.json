@@ -61,74 +61,6 @@
       ]
     },
     {
-      "name": "Remember That You Will Die",
-      "year": "2022",
-      "release_date": "2022-10-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d1/7c/1d/d17c1d66-d31d-ac54-7db5-4ccb38526522/4050538873566.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Genesis (feat. Brasstracks)",
-          "duration": "3:14"
-        },
-        {
-          "number": 2,
-          "name": "Playing God",
-          "duration": "3:25"
-        },
-        {
-          "number": 3,
-          "name": "The Audacity (feat. Anomalie)",
-          "duration": "2:24"
-        },
-        {
-          "number": 4,
-          "name": "Reverie",
-          "duration": "4:02"
-        },
-        {
-          "number": 5,
-          "name": "ABC (feat. Sophia Black)",
-          "duration": "2:32"
-        },
-        {
-          "number": 6,
-          "name": "Memento Mori (feat. Killstation)",
-          "duration": "2:44"
-        },
-        {
-          "number": 7,
-          "name": "F**k Around and Find Out (feat. $NOT)",
-          "duration": "2:31"
-        },
-        {
-          "number": 8,
-          "name": "All Falls Apart",
-          "duration": "1:19"
-        },
-        {
-          "number": 9,
-          "name": "Neurotica",
-          "duration": "3:14"
-        },
-        {
-          "number": 10,
-          "name": "Chimera (feat. Lil West)",
-          "duration": "3:56"
-        },
-        {
-          "number": 11,
-          "name": "Bloodbath (feat. Chino Moreno)",
-          "duration": "3:50"
-        },
-        {
-          "number": 12,
-          "name": "Ego Death (feat. Steve Vai)",
-          "duration": "5:50"
-        }
-      ]
-    },
-    {
       "name": "Renaissance",
       "year": "2016",
       "release_date": "2016-03-11",
@@ -193,6 +125,74 @@
           "number": 12,
           "name": "Euphoria",
           "duration": "4:16"
+        }
+      ]
+    },
+    {
+      "name": "Remember That You Will Die",
+      "year": "2022",
+      "release_date": "2022-10-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d1/7c/1d/d17c1d66-d31d-ac54-7db5-4ccb38526522/4050538873566.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Genesis (feat. Brasstracks)",
+          "duration": "3:14"
+        },
+        {
+          "number": 2,
+          "name": "Playing God",
+          "duration": "3:25"
+        },
+        {
+          "number": 3,
+          "name": "The Audacity (feat. Anomalie)",
+          "duration": "2:24"
+        },
+        {
+          "number": 4,
+          "name": "Reverie",
+          "duration": "4:02"
+        },
+        {
+          "number": 5,
+          "name": "ABC (feat. Sophia Black)",
+          "duration": "2:32"
+        },
+        {
+          "number": 6,
+          "name": "Memento Mori (feat. Killstation)",
+          "duration": "2:44"
+        },
+        {
+          "number": 7,
+          "name": "F**k Around and Find Out (feat. $NOT)",
+          "duration": "2:31"
+        },
+        {
+          "number": 8,
+          "name": "All Falls Apart",
+          "duration": "1:19"
+        },
+        {
+          "number": 9,
+          "name": "Neurotica",
+          "duration": "3:14"
+        },
+        {
+          "number": 10,
+          "name": "Chimera (feat. Lil West)",
+          "duration": "3:56"
+        },
+        {
+          "number": 11,
+          "name": "Bloodbath (feat. Chino Moreno)",
+          "duration": "3:50"
+        },
+        {
+          "number": 12,
+          "name": "Ego Death (feat. Steve Vai)",
+          "duration": "5:50"
         }
       ]
     },
@@ -357,6 +357,19 @@
   ],
   "singles": [
     {
+      "name": "LIT",
+      "year": "2017",
+      "release_date": "2017-01-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/78/35/78/783578c0-1eba-b9e5-16d7-7ee84f6ef714/886446310992.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LIT",
+          "duration": "4:12"
+        }
+      ]
+    },
+    {
       "name": "G.O.A.T.",
       "year": "2018",
       "release_date": "2018-05-24",
@@ -383,15 +396,15 @@
       ]
     },
     {
-      "name": "LIT",
-      "year": "2017",
-      "release_date": "2017-01-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/78/35/78/783578c0-1eba-b9e5-16d7-7ee84f6ef714/886446310992.jpg/600x600bb.jpg",
+      "name": "Playing God",
+      "year": "2022",
+      "release_date": "2022-05-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f9/31/3f/f9313fc5-8880-95f4-b977-2a0be8df1333/4050538818703.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "LIT",
-          "duration": "4:12"
+          "name": "Playing God",
+          "duration": "3:25"
         }
       ]
     },
@@ -405,19 +418,6 @@
           "number": 1,
           "name": "Look But Don't Touch (feat. Lewis Grant)",
           "duration": "3:38"
-        }
-      ]
-    },
-    {
-      "name": "Playing God",
-      "year": "2022",
-      "release_date": "2022-05-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f9/31/3f/f9313fc5-8880-95f4-b977-2a0be8df1333/4050538818703.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Playing God",
-          "duration": "3:25"
         }
       ]
     },
@@ -499,39 +499,6 @@
   ],
   "eps": [
     {
-      "name": "Inspire",
-      "year": "2013",
-      "release_date": "2013-04-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/36/cb/ff/36cbfffb-6bfa-e9d6-824c-6325e0d54955/887516989025.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ignite",
-          "duration": "1:52"
-        },
-        {
-          "number": 2,
-          "name": "Persevere (feat. Aaron Marshall)",
-          "duration": "3:50"
-        },
-        {
-          "number": 3,
-          "name": "Inspire",
-          "duration": "5:25"
-        },
-        {
-          "number": 4,
-          "name": "Transcend",
-          "duration": "5:00"
-        },
-        {
-          "number": 5,
-          "name": "Impassion",
-          "duration": "4:48"
-        }
-      ]
-    },
-    {
       "name": "The Most Hated",
       "year": "2017",
       "release_date": "2017-07-14",
@@ -566,6 +533,39 @@
           "number": 6,
           "name": "The Worst",
           "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "name": "Inspire",
+      "year": "2013",
+      "release_date": "2013-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/36/cb/ff/36cbfffb-6bfa-e9d6-824c-6325e0d54955/887516989025.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ignite",
+          "duration": "1:52"
+        },
+        {
+          "number": 2,
+          "name": "Persevere (feat. Aaron Marshall)",
+          "duration": "3:50"
+        },
+        {
+          "number": 3,
+          "name": "Inspire",
+          "duration": "5:25"
+        },
+        {
+          "number": 4,
+          "name": "Transcend",
+          "duration": "5:00"
+        },
+        {
+          "number": 5,
+          "name": "Impassion",
+          "duration": "4:48"
         }
       ]
     }

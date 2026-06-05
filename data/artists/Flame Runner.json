@@ -310,13 +310,7 @@
       "year": "2024",
       "release_date": "2024-08-23",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/4b/d4/064bd402-6bd6-b450-2ce8-cc0e0b4a3d0a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Magic",
-          "duration": "1:39"
-        }
-      ]
+      "tracks": []
     },
     {
       "name": "Zealot (feat. Damien)",
@@ -1236,7 +1230,7 @@
       ]
     },
     {
-      "name": "Contigo Siempre",
+      "name": "Contigo Siempre",
       "year": "2025",
       "release_date": "2025-04-11",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/a8/ca/1ca8ca7e-c571-3195-3fbe-09751e3cf017/61398.jpg/600x600bb.jpg",
@@ -3111,39 +3105,6 @@
       ]
     },
     {
-      "name": "ESCONDERA",
-      "year": "2026",
-      "release_date": "2026-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/c6/88/4cc68845-36d2-05ec-1b11-0690f3a373d7/3194343.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ESCONDERA",
-          "duration": "1:22"
-        },
-        {
-          "number": 2,
-          "name": "ESCONDERA (Slowed)",
-          "duration": "1:27"
-        },
-        {
-          "number": 3,
-          "name": "ESCONDERA (Super Slowed)",
-          "duration": "1:35"
-        },
-        {
-          "number": 4,
-          "name": "ESCONDERA (Ultra Slowed)",
-          "duration": "1:42"
-        },
-        {
-          "number": 5,
-          "name": "ESCONDERA (Extremely Slowed)",
-          "duration": "1:48"
-        }
-      ]
-    },
-    {
       "name": "Noche Eterna",
       "year": "2025",
       "release_date": "2025-05-09",
@@ -3173,6 +3134,39 @@
           "number": 5,
           "name": "Noche Eterna (Sped Up)",
           "duration": "1:24"
+        }
+      ]
+    },
+    {
+      "name": "ESCONDERA",
+      "year": "2026",
+      "release_date": "2026-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/c6/88/4cc68845-36d2-05ec-1b11-0690f3a373d7/3194343.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ESCONDERA",
+          "duration": "1:22"
+        },
+        {
+          "number": 2,
+          "name": "ESCONDERA (Slowed)",
+          "duration": "1:27"
+        },
+        {
+          "number": 3,
+          "name": "ESCONDERA (Super Slowed)",
+          "duration": "1:35"
+        },
+        {
+          "number": 4,
+          "name": "ESCONDERA (Ultra Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 5,
+          "name": "ESCONDERA (Extremely Slowed)",
+          "duration": "1:48"
         }
       ]
     },

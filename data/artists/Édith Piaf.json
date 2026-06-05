@@ -3,104 +3,6 @@
   "id": 82055,
   "albums": [
     {
-      "name": "The Voice of the Sparrow - The Very Best of Édith Piaf",
-      "year": "1987",
-      "release_date": "1987-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ec/cd/90/eccd90b8-beec-b22c-9e54-8e5f3adb737a/077779663255.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La vie l'amour",
-          "duration": "1:49"
-        },
-        {
-          "number": 2,
-          "name": "La vie en rose",
-          "duration": "3:07"
-        },
-        {
-          "number": 3,
-          "name": "Milord",
-          "duration": "4:30"
-        },
-        {
-          "number": 4,
-          "name": "Comme moi",
-          "duration": "2:58"
-        },
-        {
-          "number": 5,
-          "name": "Le vieux piano",
-          "duration": "3:13"
-        },
-        {
-          "number": 6,
-          "name": "Polichinelle",
-          "duration": "3:03"
-        },
-        {
-          "number": 7,
-          "name": "Toujours aimer",
-          "duration": "3:12"
-        },
-        {
-          "number": 8,
-          "name": "L'effet qu'tu m'fais",
-          "duration": "3:12"
-        },
-        {
-          "number": 9,
-          "name": "Mon Manège À Moi (Live À L'Olympia 1958)",
-          "duration": "3:05"
-        },
-        {
-          "number": 10,
-          "name": "Mon Dieu",
-          "duration": "3:33"
-        },
-        {
-          "number": 11,
-          "name": "Hymne à l'amour",
-          "duration": "3:26"
-        },
-        {
-          "number": 12,
-          "name": "T'es Beau Tu Sais",
-          "duration": "4:05"
-        },
-        {
-          "number": 13,
-          "name": "Bravo pour le clown !",
-          "duration": "3:06"
-        },
-        {
-          "number": 14,
-          "name": "C'est l'amour",
-          "duration": "2:59"
-        },
-        {
-          "number": 15,
-          "name": "Non, Je Ne Regrette Rien",
-          "duration": "2:22"
-        },
-        {
-          "number": 16,
-          "name": "Avant nous",
-          "duration": "2:58"
-        },
-        {
-          "number": 17,
-          "name": "La goualante du pauvre Jean",
-          "duration": "2:02"
-        },
-        {
-          "number": 18,
-          "name": "L'accordéoniste (Live à l'Olympia 56)",
-          "duration": "4:15"
-        }
-      ]
-    },
-    {
       "name": "The Best of Édith Piaf",
       "year": "2008",
       "release_date": "2008-10-13",
@@ -355,6 +257,104 @@
           "number": 24,
           "name": "T'es beau tu sais",
           "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "name": "The Voice of the Sparrow - The Very Best of Édith Piaf",
+      "year": "1987",
+      "release_date": "1987-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ec/cd/90/eccd90b8-beec-b22c-9e54-8e5f3adb737a/077779663255.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La vie l'amour",
+          "duration": "1:49"
+        },
+        {
+          "number": 2,
+          "name": "La vie en rose",
+          "duration": "3:07"
+        },
+        {
+          "number": 3,
+          "name": "Milord",
+          "duration": "4:30"
+        },
+        {
+          "number": 4,
+          "name": "Comme moi",
+          "duration": "2:58"
+        },
+        {
+          "number": 5,
+          "name": "Le vieux piano",
+          "duration": "3:13"
+        },
+        {
+          "number": 6,
+          "name": "Polichinelle",
+          "duration": "3:03"
+        },
+        {
+          "number": 7,
+          "name": "Toujours aimer",
+          "duration": "3:12"
+        },
+        {
+          "number": 8,
+          "name": "L'effet qu'tu m'fais",
+          "duration": "3:12"
+        },
+        {
+          "number": 9,
+          "name": "Mon Manège À Moi (Live À L'Olympia 1958)",
+          "duration": "3:05"
+        },
+        {
+          "number": 10,
+          "name": "Mon Dieu",
+          "duration": "3:33"
+        },
+        {
+          "number": 11,
+          "name": "Hymne à l'amour",
+          "duration": "3:26"
+        },
+        {
+          "number": 12,
+          "name": "T'es Beau Tu Sais",
+          "duration": "4:05"
+        },
+        {
+          "number": 13,
+          "name": "Bravo pour le clown !",
+          "duration": "3:06"
+        },
+        {
+          "number": 14,
+          "name": "C'est l'amour",
+          "duration": "2:59"
+        },
+        {
+          "number": 15,
+          "name": "Non, Je Ne Regrette Rien",
+          "duration": "2:22"
+        },
+        {
+          "number": 16,
+          "name": "Avant nous",
+          "duration": "2:58"
+        },
+        {
+          "number": 17,
+          "name": "La goualante du pauvre Jean",
+          "duration": "2:02"
+        },
+        {
+          "number": 18,
+          "name": "L'accordéoniste (Live à l'Olympia 56)",
+          "duration": "4:15"
         }
       ]
     },
@@ -706,6 +706,227 @@
           "number": 23,
           "name": "Autumn Leaves (Remasterisé en 2015)",
           "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Vol. 1: 1936",
+      "year": "1988",
+      "release_date": "1988-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/4e/c3/39/4ec3397b-de62-bfec-00d1-a40b647cdd28/00042283451520.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Les mômes de la cloche",
+          "duration": "3:22"
+        },
+        {
+          "number": 2,
+          "name": "La java de cezigue",
+          "duration": "3:05"
+        },
+        {
+          "number": 3,
+          "name": "L'étranger",
+          "duration": "3:30"
+        },
+        {
+          "number": 4,
+          "name": "Mon apéro",
+          "duration": "3:42"
+        },
+        {
+          "number": 5,
+          "name": "Reste",
+          "duration": "3:07"
+        },
+        {
+          "number": 6,
+          "name": "La fille et le chien",
+          "duration": "3:38"
+        },
+        {
+          "number": 7,
+          "name": "Les hiboux",
+          "duration": "3:25"
+        },
+        {
+          "number": 8,
+          "name": "Fais-moi valser",
+          "duration": "3:23"
+        },
+        {
+          "number": 9,
+          "name": "Quand même",
+          "duration": "3:15"
+        },
+        {
+          "number": 10,
+          "name": "J'suis mordue",
+          "duration": "3:05"
+        },
+        {
+          "number": 11,
+          "name": "La julie jolie",
+          "duration": "3:07"
+        },
+        {
+          "number": 12,
+          "name": "Va danser",
+          "duration": "3:29"
+        },
+        {
+          "number": 13,
+          "name": "Les deux ménétriers",
+          "duration": "2:26"
+        },
+        {
+          "number": 14,
+          "name": "Mon amant de la coloniale",
+          "duration": "3:14"
+        },
+        {
+          "number": 15,
+          "name": "Y'avait du soleil",
+          "duration": "3:20"
+        },
+        {
+          "number": 16,
+          "name": "Il n'est pas distingué",
+          "duration": "3:00"
+        },
+        {
+          "number": 17,
+          "name": "Chants d'habits",
+          "duration": "2:47"
+        },
+        {
+          "number": 18,
+          "name": "La petite boutique",
+          "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "Vol. 2: 1937-1938",
+      "year": "1988",
+      "release_date": "1988-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0b/f3/79/0bf37943-573f-583e-b811-39735004ac01/00042283451629.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mon légionnaire",
+          "duration": "3:51"
+        },
+        {
+          "number": 2,
+          "name": "Entre saint ouen et clignancourt",
+          "duration": "3:03"
+        },
+        {
+          "number": 3,
+          "name": "Dans un bouge du vieux port",
+          "duration": "3:03"
+        },
+        {
+          "number": 4,
+          "name": "Ne m'ecris pas",
+          "duration": "3:28"
+        },
+        {
+          "number": 5,
+          "name": "La contrebandier",
+          "duration": "2:51"
+        },
+        {
+          "number": 6,
+          "name": "Mon cœur est au coin d'une rue",
+          "duration": "3:03"
+        },
+        {
+          "number": 7,
+          "name": "Correqu' et reguyer",
+          "duration": "3:14"
+        },
+        {
+          "number": 8,
+          "name": "Paris-méditerranée",
+          "duration": "3:06"
+        },
+        {
+          "number": 9,
+          "name": "Un jeune homme chantait",
+          "duration": "2:57"
+        },
+        {
+          "number": 10,
+          "name": "Browning",
+          "duration": "3:20"
+        },
+        {
+          "number": 11,
+          "name": "C'est toi le plus fort",
+          "duration": "2:31"
+        },
+        {
+          "number": 12,
+          "name": "Ding din don",
+          "duration": "3:31"
+        },
+        {
+          "number": 13,
+          "name": "Tout fout le camp",
+          "duration": "2:22"
+        },
+        {
+          "number": 14,
+          "name": "Le chacal",
+          "duration": "3:05"
+        },
+        {
+          "number": 15,
+          "name": "Partance",
+          "duration": "2:37"
+        },
+        {
+          "number": 16,
+          "name": "Le fanion de la légion",
+          "duration": "3:18"
+        },
+        {
+          "number": 17,
+          "name": "La java en mineur",
+          "duration": "4:17"
+        },
+        {
+          "number": 18,
+          "name": "J'entends la sirène",
+          "duration": "3:03"
+        },
+        {
+          "number": 19,
+          "name": "Les marins ça fait des voyages",
+          "duration": "3:30"
+        },
+        {
+          "number": 20,
+          "name": "Madeleine qu'avait du cœur",
+          "duration": "3:19"
+        },
+        {
+          "number": 21,
+          "name": "C'est lui que mon cœur à choisi",
+          "duration": "3:19"
+        },
+        {
+          "number": 22,
+          "name": "Le grand voyage du pauvre nègre",
+          "duration": "3:42"
+        },
+        {
+          "number": 23,
+          "name": "Le mauvais matelot",
+          "duration": "3:39"
         }
       ]
     },
@@ -1114,104 +1335,6 @@
       ]
     },
     {
-      "name": "Vol. 1: 1936",
-      "year": "1988",
-      "release_date": "1988-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/4e/c3/39/4ec3397b-de62-bfec-00d1-a40b647cdd28/00042283451520.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Les mômes de la cloche",
-          "duration": "3:22"
-        },
-        {
-          "number": 2,
-          "name": "La java de cezigue",
-          "duration": "3:05"
-        },
-        {
-          "number": 3,
-          "name": "L'étranger",
-          "duration": "3:30"
-        },
-        {
-          "number": 4,
-          "name": "Mon apéro",
-          "duration": "3:42"
-        },
-        {
-          "number": 5,
-          "name": "Reste",
-          "duration": "3:07"
-        },
-        {
-          "number": 6,
-          "name": "La fille et le chien",
-          "duration": "3:38"
-        },
-        {
-          "number": 7,
-          "name": "Les hiboux",
-          "duration": "3:25"
-        },
-        {
-          "number": 8,
-          "name": "Fais-moi valser",
-          "duration": "3:23"
-        },
-        {
-          "number": 9,
-          "name": "Quand même",
-          "duration": "3:15"
-        },
-        {
-          "number": 10,
-          "name": "J'suis mordue",
-          "duration": "3:05"
-        },
-        {
-          "number": 11,
-          "name": "La julie jolie",
-          "duration": "3:07"
-        },
-        {
-          "number": 12,
-          "name": "Va danser",
-          "duration": "3:29"
-        },
-        {
-          "number": 13,
-          "name": "Les deux ménétriers",
-          "duration": "2:26"
-        },
-        {
-          "number": 14,
-          "name": "Mon amant de la coloniale",
-          "duration": "3:14"
-        },
-        {
-          "number": 15,
-          "name": "Y'avait du soleil",
-          "duration": "3:20"
-        },
-        {
-          "number": 16,
-          "name": "Il n'est pas distingué",
-          "duration": "3:00"
-        },
-        {
-          "number": 17,
-          "name": "Chants d'habits",
-          "duration": "2:47"
-        },
-        {
-          "number": 18,
-          "name": "La petite boutique",
-          "duration": "3:19"
-        }
-      ]
-    },
-    {
       "name": "Édith Piaf À L'Olympia N°3 (Live 1958)",
       "year": "1958",
       "release_date": "1958-01-01",
@@ -1319,129 +1442,6 @@
           "number": 11,
           "name": "Milord (Live)",
           "duration": "5:31"
-        }
-      ]
-    },
-    {
-      "name": "Vol. 2: 1937-1938",
-      "year": "1988",
-      "release_date": "1988-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0b/f3/79/0bf37943-573f-583e-b811-39735004ac01/00042283451629.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mon légionnaire",
-          "duration": "3:51"
-        },
-        {
-          "number": 2,
-          "name": "Entre saint ouen et clignancourt",
-          "duration": "3:03"
-        },
-        {
-          "number": 3,
-          "name": "Dans un bouge du vieux port",
-          "duration": "3:03"
-        },
-        {
-          "number": 4,
-          "name": "Ne m'ecris pas",
-          "duration": "3:28"
-        },
-        {
-          "number": 5,
-          "name": "La contrebandier",
-          "duration": "2:51"
-        },
-        {
-          "number": 6,
-          "name": "Mon cœur est au coin d'une rue",
-          "duration": "3:03"
-        },
-        {
-          "number": 7,
-          "name": "Correqu' et reguyer",
-          "duration": "3:14"
-        },
-        {
-          "number": 8,
-          "name": "Paris-méditerranée",
-          "duration": "3:06"
-        },
-        {
-          "number": 9,
-          "name": "Un jeune homme chantait",
-          "duration": "2:57"
-        },
-        {
-          "number": 10,
-          "name": "Browning",
-          "duration": "3:20"
-        },
-        {
-          "number": 11,
-          "name": "C'est toi le plus fort",
-          "duration": "2:31"
-        },
-        {
-          "number": 12,
-          "name": "Ding din don",
-          "duration": "3:31"
-        },
-        {
-          "number": 13,
-          "name": "Tout fout le camp",
-          "duration": "2:22"
-        },
-        {
-          "number": 14,
-          "name": "Le chacal",
-          "duration": "3:05"
-        },
-        {
-          "number": 15,
-          "name": "Partance",
-          "duration": "2:37"
-        },
-        {
-          "number": 16,
-          "name": "Le fanion de la légion",
-          "duration": "3:18"
-        },
-        {
-          "number": 17,
-          "name": "La java en mineur",
-          "duration": "4:17"
-        },
-        {
-          "number": 18,
-          "name": "J'entends la sirène",
-          "duration": "3:03"
-        },
-        {
-          "number": 19,
-          "name": "Les marins ça fait des voyages",
-          "duration": "3:30"
-        },
-        {
-          "number": 20,
-          "name": "Madeleine qu'avait du cœur",
-          "duration": "3:19"
-        },
-        {
-          "number": 21,
-          "name": "C'est lui que mon cœur à choisi",
-          "duration": "3:19"
-        },
-        {
-          "number": 22,
-          "name": "Le grand voyage du pauvre nègre",
-          "duration": "3:42"
-        },
-        {
-          "number": 23,
-          "name": "Le mauvais matelot",
-          "duration": "3:39"
         }
       ]
     },
@@ -2165,6 +2165,13 @@
       "tracks": []
     },
     {
+      "name": "Hymne à la môme (2012 Remaster)",
+      "year": "2012",
+      "release_date": "2012-09-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/93/6c/e6/936ce6b7-30fb-7636-4b3d-b46914be4fd0/5099972188552.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Une légende (Remastered 2022)",
       "year": "2023",
       "release_date": "2023-12-08",
@@ -2236,13 +2243,6 @@
           "duration": "3:45"
         }
       ]
-    },
-    {
-      "name": "Hymne à la môme (2012 Remaster)",
-      "year": "2012",
-      "release_date": "2012-09-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/93/6c/e6/936ce6b7-30fb-7636-4b3d-b46914be4fd0/5099972188552.jpg/600x600bb.jpg",
-      "tracks": []
     }
   ],
   "singles": [

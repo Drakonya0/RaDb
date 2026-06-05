@@ -156,19 +156,6 @@
   ],
   "singles": [
     {
-      "name": "DARK ARIA -ARISE- (feat. XAI & Laco)",
-      "year": "2025",
-      "release_date": "2025-03-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/7f/32/217f324c-002e-d1a0-1375-28d15fbdccf6/4547366737165.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DARK ARIA -ARISE- (feat. XAI & Laco)",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
       "name": "Towards the Light (from \"The Apothecary Diaries\" Soundtrack)",
       "year": "2023",
       "release_date": "2023-12-04",
@@ -178,6 +165,19 @@
           "number": 1,
           "name": "Towards the Light (from \"The Apothecary Diaries\" Soundtrack)",
           "duration": "2:28"
+        }
+      ]
+    },
+    {
+      "name": "DARK ARIA -ARISE- (feat. XAI & Laco)",
+      "year": "2025",
+      "release_date": "2025-03-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/7f/32/217f324c-002e-d1a0-1375-28d15fbdccf6/4547366737165.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DARK ARIA -ARISE- (feat. XAI & Laco)",
+          "duration": "2:20"
         }
       ]
     },
@@ -332,6 +332,34 @@
   ],
   "eps": [
     {
+      "name": "アニメーション映画「GODZILLA 怪獣惑星」WHITE OUT (アニメ盤)",
+      "year": "2017",
+      "release_date": "2017-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/49/77/34/497734b8-c275-3f3d-6502-7c9f48ad6573/THCS-60172.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "WHITE OUT",
+          "duration": "4:15"
+        },
+        {
+          "number": 2,
+          "name": "はじまりのうた",
+          "duration": "3:57"
+        },
+        {
+          "number": 3,
+          "name": "WHITE OUT(Instrumental)",
+          "duration": "4:12"
+        },
+        {
+          "number": 4,
+          "name": "はじまりのうた(Instrumental)",
+          "duration": "3:57"
+        }
+      ]
+    },
+    {
       "name": "アニメーション映画「GODZILLA 決戦機動増殖都市」THE SKY FALLS アニメ盤",
       "year": "2018",
       "release_date": "2018-05-09",
@@ -361,34 +389,6 @@
           "number": 5,
           "name": "THE SKY FALLS",
           "duration": "0:00"
-        }
-      ]
-    },
-    {
-      "name": "アニメーション映画「GODZILLA 怪獣惑星」WHITE OUT (アニメ盤)",
-      "year": "2017",
-      "release_date": "2017-11-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/49/77/34/497734b8-c275-3f3d-6502-7c9f48ad6573/THCS-60172.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "WHITE OUT",
-          "duration": "4:15"
-        },
-        {
-          "number": 2,
-          "name": "はじまりのうた",
-          "duration": "3:57"
-        },
-        {
-          "number": 3,
-          "name": "WHITE OUT(Instrumental)",
-          "duration": "4:12"
-        },
-        {
-          "number": 4,
-          "name": "はじまりのうた(Instrumental)",
-          "duration": "3:57"
         }
       ]
     },

@@ -4,45 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "PSYCHOPATH",
-      "year": "2025",
-      "release_date": "2025-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/ad/ee/adadeedc-61af-f0f8-e5e0-177b88294558/199348011844_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PSYCHOPATH",
-          "duration": "3:33"
-        }
-      ]
-    },
-    {
-      "name": "THE RITUAL",
-      "year": "2025",
-      "release_date": "2025-07-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/07/51/a50751d2-4523-aede-a7a7-4e551606e5fc/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "THE RITUAL",
-          "duration": "3:18"
-        }
-      ]
-    },
-    {
-      "name": "TAKE THE PILL",
-      "year": "2025",
-      "release_date": "2025-10-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/67/f8/0b67f8c1-cc0b-48a6-8e0f-15ec2f5cdaa7/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TAKE THE PILL",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
       "name": "QUE SE",
       "year": "2025",
       "release_date": "2025-09-15",
@@ -116,42 +77,48 @@
           "duration": "1:55"
         }
       ]
-    }
-  ],
-  "eps": [
+    },
     {
-      "name": "SENTA PICA",
+      "name": "PSYCHOPATH",
       "year": "2025",
-      "release_date": "2025-08-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/cc/28/d6cc28ab-a2d5-c199-7755-58b4aa4130ce/290209.jpg/600x600bb.jpg",
+      "release_date": "2025-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/ad/ee/adadeedc-61af-f0f8-e5e0-177b88294558/199348011844_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "SENTA PICA",
-          "duration": "1:40"
-        },
-        {
-          "number": 2,
-          "name": "SENTA PICA (Slowed)",
-          "duration": "1:58"
-        },
-        {
-          "number": 3,
-          "name": "SENTA PICA (Super Slowed)",
-          "duration": "2:13"
-        },
-        {
-          "number": 4,
-          "name": "SENTA PICA (Ultra Slowed)",
-          "duration": "2:34"
-        },
-        {
-          "number": 5,
-          "name": "SENTA PICA (Speed Up)",
-          "duration": "1:31"
+          "name": "PSYCHOPATH",
+          "duration": "3:33"
         }
       ]
     },
+    {
+      "name": "THE RITUAL",
+      "year": "2025",
+      "release_date": "2025-07-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/07/51/a50751d2-4523-aede-a7a7-4e551606e5fc/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "THE RITUAL",
+          "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "TAKE THE PILL",
+      "year": "2025",
+      "release_date": "2025-10-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/67/f8/0b67f8c1-cc0b-48a6-8e0f-15ec2f5cdaa7/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TAKE THE PILL",
+          "duration": "3:40"
+        }
+      ]
+    }
+  ],
+  "eps": [
     {
       "name": "MONTAGEM OSCURIDA",
       "year": "2026",
@@ -220,67 +187,6 @@
           "number": 5,
           "name": "MONTAGEM RADIANTE (Sped Up)",
           "duration": "1:01"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM ERRADO",
-      "year": "2025",
-      "release_date": "2025-10-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/07/20/aa0720b6-7b5f-9b11-aff5-e96e9d01df58/293662.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM ERRADO",
-          "duration": "1:31"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM ERRADO (Slowed)",
-          "duration": "1:36"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM ERRADO (Super Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM ERRADO (Ultra Slowed)",
-          "duration": "1:51"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM ERRADO (Sped Up)",
-          "duration": "1:25"
-        }
-      ]
-    },
-    {
-      "name": "VAI SOCA",
-      "year": "2025",
-      "release_date": "2025-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/29/be/0b29be5e-08f2-17ca-cab8-3a7a71c06459/282218.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "VAI SOCA",
-          "duration": "1:04"
-        },
-        {
-          "number": 2,
-          "name": "VAI SOCA (SLOWED)",
-          "duration": "1:10"
-        },
-        {
-          "number": 3,
-          "name": "VAI SOCA (SUPER SLOWED)",
-          "duration": "1:18"
-        },
-        {
-          "number": 4,
-          "name": "VAI SOCA (SPED UP)",
-          "duration": "0:59"
         }
       ]
     },
@@ -478,39 +384,6 @@
       ]
     },
     {
-      "name": "LUZ VENTO",
-      "year": "2026",
-      "release_date": "2026-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/e8/d8/37e8d8c9-bbe0-508c-d5b5-0aa0cfbb0bec/4099964248814.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LUZ VENTO",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "LUZ VENTO (Sped Up)",
-          "duration": "1:19"
-        },
-        {
-          "number": 3,
-          "name": "LUZ VENTO (Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "LUZ VENTO (Super Slowed)",
-          "duration": "1:46"
-        },
-        {
-          "number": 5,
-          "name": "LUZ VENTO (Ultra Slowed)",
-          "duration": "1:59"
-        }
-      ]
-    },
-    {
       "name": "ULTIMO GRITO",
       "year": "2026",
       "release_date": "2026-03-20",
@@ -581,72 +454,6 @@
       "year": "2025",
       "release_date": "2025-06-13",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/0b/39/250b39e4-e930-4aae-d2ce-9172cc827c48/61090.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Espirito Eterna",
-          "duration": "1:27"
-        },
-        {
-          "number": 2,
-          "name": "Espirito Eterna (Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 3,
-          "name": "Espirito Eterna (Super Slowed)",
-          "duration": "1:42"
-        },
-        {
-          "number": 4,
-          "name": "Espirito Eterna (Ultra Slowed)",
-          "duration": "1:48"
-        },
-        {
-          "number": 5,
-          "name": "Espirito Eterna (Sped Up)",
-          "duration": "1:20"
-        }
-      ]
-    },
-    {
-      "name": "SE PERDER",
-      "year": "2026",
-      "release_date": "2026-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/e5/93/e6e59395-f346-ce83-dab6-fc6064b85f37/4099964256963.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SE PERDER",
-          "duration": "1:40"
-        },
-        {
-          "number": 2,
-          "name": "SE PERDER (Sped Up)",
-          "duration": "1:28"
-        },
-        {
-          "number": 3,
-          "name": "SE PERDER (Slowed)",
-          "duration": "1:51"
-        },
-        {
-          "number": 4,
-          "name": "SE PERDER (Super Slowed)",
-          "duration": "2:04"
-        },
-        {
-          "number": 5,
-          "name": "SE PERDER (Ultra Slowed)",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
-      "name": "Espirito Eterna",
-      "year": "2025",
-      "release_date": "2025-06-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/1c/1b/1b1c1b30-805d-479e-b688-1d143d6f7ca7/1043366.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
@@ -770,44 +577,6 @@
       ]
     },
     {
-      "name": "Montagem Aura",
-      "year": "2026",
-      "release_date": "2026-01-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/7a/56/197a56b4-917b-a482-4703-2026f4f5d8a3/32903.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Aura",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Aura (Slowed)",
-          "duration": "1:39"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Aura (Super Slowed)",
-          "duration": "1:44"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Aura (Ultra Slowed)",
-          "duration": "1:52"
-        },
-        {
-          "number": 5,
-          "name": "Montagem Aura (Extremely Slowed)",
-          "duration": "2:01"
-        },
-        {
-          "number": 6,
-          "name": "Montagem Aura (Sped Up)",
-          "duration": "1:29"
-        }
-      ]
-    },
-    {
       "name": "RITMO MIRA",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -837,39 +606,6 @@
           "number": 5,
           "name": "RITMO MIRA (Sped Up)",
           "duration": "1:43"
-        }
-      ]
-    },
-    {
-      "name": "Noche Eterna",
-      "year": "2025",
-      "release_date": "2025-05-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/0f/29/6f0f296b-7c1d-acac-c2e9-19825c46e8d9/9648.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Noche Eterna",
-          "duration": "1:31"
-        },
-        {
-          "number": 2,
-          "name": "Noche Eterna (Slowed)",
-          "duration": "1:37"
-        },
-        {
-          "number": 3,
-          "name": "Noche Eterna (Super Slowed)",
-          "duration": "1:42"
-        },
-        {
-          "number": 4,
-          "name": "Noche Eterna (Ultra Slowed)",
-          "duration": "1:49"
-        },
-        {
-          "number": 5,
-          "name": "Noche Eterna (Sped Up)",
-          "duration": "1:24"
         }
       ]
     },
@@ -912,39 +648,6 @@
       ]
     },
     {
-      "name": "MONTAGEM QUICAR",
-      "year": "2026",
-      "release_date": "2026-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/93/72/b49372bf-4f2b-564b-5e7c-b2b03ea02e93/115288.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM QUICAR",
-          "duration": "1:17"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM QUICAR (Slowed)",
-          "duration": "1:24"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM QUICAR (Super Slowed)",
-          "duration": "1:32"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM QUICAR (Ultra Slowed)",
-          "duration": "1:36"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM QUICAR (Sped Up)",
-          "duration": "1:10"
-        }
-      ]
-    },
-    {
       "name": "MTG AMA",
       "year": "2025",
       "release_date": "2025-09-08",
@@ -973,199 +676,6 @@
       ]
     },
     {
-      "name": "MONTAGEM VIRA",
-      "year": "2026",
-      "release_date": "2026-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/63/9f/74639fde-f524-e40c-1a2c-b5a3edd02b6e/4099964265491.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM VIRA",
-          "duration": "1:57"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM VIRA (Sped Up)",
-          "duration": "1:49"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM VIRA (Slowed)",
-          "duration": "2:10"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM VIRA (Super Slowed)",
-          "duration": "2:20"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM VIRA (Ultra Slowed)",
-          "duration": "2:35"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM REVIDAR",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/88/1e/bb881e76-87d7-33d8-f884-5f5db75ee707/98268f12-0110-4d89-b496-70feaae75dde.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM REVIDAR",
-          "duration": "1:47"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM REVIDAR (slowed)",
-          "duration": "1:54"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM REVIDAR (super slowed)",
-          "duration": "2:01"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM REVIDAR (sped up)",
-          "duration": "1:38"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM NADA",
-      "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/4e/06/154e0675-daed-bdab-f454-a898b5eaf080/290697.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM NADA",
-          "duration": "1:31"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM NADA (Slowed)",
-          "duration": "1:36"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM NADA (Super Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM NADA (Ultra Slowed)",
-          "duration": "1:51"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM NADA (Sped Up)",
-          "duration": "1:25"
-        }
-      ]
-    },
-    {
-      "name": "Corazon Estallar",
-      "year": "2025",
-      "release_date": "2025-08-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/07/49/14074947-129e-4f64-1a18-91d1979376c8/663918426265.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Corazon Estallar",
-          "duration": "1:37"
-        },
-        {
-          "number": 2,
-          "name": "Corazon Estallar (Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 3,
-          "name": "Corazon Estallar (Super Slowed)",
-          "duration": "1:49"
-        },
-        {
-          "number": 4,
-          "name": "Corazon Estallar (Ultra Slowed)",
-          "duration": "1:56"
-        },
-        {
-          "number": 5,
-          "name": "Corazon Estallar (Sped Up)",
-          "duration": "1:32"
-        },
-        {
-          "number": 6,
-          "name": "Corazon Estallar (Edit Version)",
-          "duration": "2:03"
-        }
-      ]
-    },
-    {
-      "name": "AMORE",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/bb/cc/bdbbcc55-04d8-d52e-0386-4777ef8e2a1e/212275.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "AMORE",
-          "duration": "1:31"
-        },
-        {
-          "number": 2,
-          "name": "AMORE (Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 3,
-          "name": "AMORE (Super Slowed)",
-          "duration": "2:04"
-        },
-        {
-          "number": 4,
-          "name": "AMORE (Sped Up)",
-          "duration": "1:23"
-        }
-      ]
-    },
-    {
-      "name": "LUA ESTRADA",
-      "year": "2026",
-      "release_date": "2026-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/8a/0e/f18a0ec6-5d26-7bf1-d07e-9f25b1bc01e7/999096.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LUA ESTRADA",
-          "duration": "1:40"
-        },
-        {
-          "number": 2,
-          "name": "LUA ESTRADA (Slowed)",
-          "duration": "1:52"
-        },
-        {
-          "number": 3,
-          "name": "LUA ESTRADA (Super Slowed)",
-          "duration": "2:06"
-        },
-        {
-          "number": 4,
-          "name": "LUA ESTRADA (Ultra Slowed)",
-          "duration": "2:21"
-        },
-        {
-          "number": 5,
-          "name": "LUA ESTRADA (Sped Up)",
-          "duration": "1:29"
-        }
-      ]
-    },
-    {
       "name": "VAI SEGURAR",
       "year": "2026",
       "release_date": "2026-02-13",
@@ -1190,128 +700,6 @@
           "number": 4,
           "name": "VAI SEGURAR (Sped Up)",
           "duration": "1:25"
-        }
-      ]
-    },
-    {
-      "name": "TENSÃO",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/82/f5/9e82f551-e850-3318-d5f4-ed7192854f05/820200609014.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TENSÃO",
-          "duration": "1:51"
-        },
-        {
-          "number": 2,
-          "name": "TENSÃO (Slowed)",
-          "duration": "2:04"
-        },
-        {
-          "number": 3,
-          "name": "TENSÃO (Super Slowed)",
-          "duration": "2:20"
-        },
-        {
-          "number": 4,
-          "name": "TENSÃO (Ultra Slowed)",
-          "duration": "2:28"
-        },
-        {
-          "number": 5,
-          "name": "TENSÃO (Sped Up)",
-          "duration": "1:39"
-        }
-      ]
-    },
-    {
-      "name": "Si Calal",
-      "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/87/56/a4875647-afb3-222c-83e7-123a8453add2/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Si Calal",
-          "duration": "1:36"
-        },
-        {
-          "number": 2,
-          "name": "Si Calal (Slowed)",
-          "duration": "2:00"
-        },
-        {
-          "number": 3,
-          "name": "Si Calal (Super Slowed)",
-          "duration": "2:18"
-        },
-        {
-          "number": 4,
-          "name": "Si Calal (Sped Up)",
-          "duration": "1:27"
-        }
-      ]
-    },
-    {
-      "name": "AMORE",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/b5/39/49b539dc-6c5c-d52e-9406-6746dc144b0b/212275.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "AMORE",
-          "duration": "1:31"
-        },
-        {
-          "number": 2,
-          "name": "AMORE (Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 3,
-          "name": "AMORE (Super Slowed)",
-          "duration": "2:04"
-        },
-        {
-          "number": 4,
-          "name": "AMORE (Sped Up)",
-          "duration": "1:23"
-        }
-      ]
-    },
-    {
-      "name": "NA PISTOLA",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/24/ee/6a24eed8-7635-740f-ca02-f619129a822a/820200823250.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NA PISTOLA",
-          "duration": "1:26"
-        },
-        {
-          "number": 2,
-          "name": "NA PISTOLA (Slowed)",
-          "duration": "1:37"
-        },
-        {
-          "number": 3,
-          "name": "NA PISTOLA (Super Slowed)",
-          "duration": "1:49"
-        },
-        {
-          "number": 4,
-          "name": "NA PISTOLA (Ultra Slowed)",
-          "duration": "2:02"
-        },
-        {
-          "number": 5,
-          "name": "NA PISTOLA (Sped Up)",
-          "duration": "1:17"
         }
       ]
     },
@@ -1547,6 +935,727 @@
       ]
     },
     {
+      "name": "Montagem Aura",
+      "year": "2026",
+      "release_date": "2026-01-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/00/38/7c003848-2c2a-63f6-33c9-1a5b397b3da2/45850.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem Aura",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "Montagem Aura (Slowed)",
+          "duration": "1:39"
+        },
+        {
+          "number": 3,
+          "name": "Montagem Aura (Super Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 4,
+          "name": "Montagem Aura (Ultra Slowed)",
+          "duration": "1:52"
+        },
+        {
+          "number": 5,
+          "name": "Montagem Aura (Extremely Slowed)",
+          "duration": "2:01"
+        },
+        {
+          "number": 6,
+          "name": "Montagem Aura (Sped Up)",
+          "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM TIEMPO",
+      "year": "2025",
+      "release_date": "2025-08-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/a3/df/48a3df35-b18f-51e1-91e5-4b6f64f580d6/8721026060176_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM TIEMPO",
+          "duration": "1:50"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM TIEMPO (Slowed)",
+          "duration": "2:02"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM TIEMPO (Super Slowed)",
+          "duration": "2:18"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM TIEMPO (Ultra Slowed)",
+          "duration": "2:37"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM TIEMPO (Edit)",
+          "duration": "3:04"
+        },
+        {
+          "number": 6,
+          "name": "MONTAGEM TIEMPO (Sped)",
+          "duration": "1:40"
+        }
+      ]
+    },
+    {
+      "name": "SENTA PICA",
+      "year": "2025",
+      "release_date": "2025-08-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/cc/28/d6cc28ab-a2d5-c199-7755-58b4aa4130ce/290209.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SENTA PICA",
+          "duration": "1:40"
+        },
+        {
+          "number": 2,
+          "name": "SENTA PICA (Slowed)",
+          "duration": "1:58"
+        },
+        {
+          "number": 3,
+          "name": "SENTA PICA (Super Slowed)",
+          "duration": "2:13"
+        },
+        {
+          "number": 4,
+          "name": "SENTA PICA (Ultra Slowed)",
+          "duration": "2:34"
+        },
+        {
+          "number": 5,
+          "name": "SENTA PICA (Speed Up)",
+          "duration": "1:31"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM ERRADO",
+      "year": "2025",
+      "release_date": "2025-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/07/20/aa0720b6-7b5f-9b11-aff5-e96e9d01df58/293662.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM ERRADO",
+          "duration": "1:31"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM ERRADO (Slowed)",
+          "duration": "1:36"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM ERRADO (Super Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM ERRADO (Ultra Slowed)",
+          "duration": "1:51"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM ERRADO (Sped Up)",
+          "duration": "1:25"
+        }
+      ]
+    },
+    {
+      "name": "VAI SOCA",
+      "year": "2025",
+      "release_date": "2025-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/29/be/0b29be5e-08f2-17ca-cab8-3a7a71c06459/282218.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "VAI SOCA",
+          "duration": "1:04"
+        },
+        {
+          "number": 2,
+          "name": "VAI SOCA (SLOWED)",
+          "duration": "1:10"
+        },
+        {
+          "number": 3,
+          "name": "VAI SOCA (SUPER SLOWED)",
+          "duration": "1:18"
+        },
+        {
+          "number": 4,
+          "name": "VAI SOCA (SPED UP)",
+          "duration": "0:59"
+        }
+      ]
+    },
+    {
+      "name": "LUZ VENTO",
+      "year": "2026",
+      "release_date": "2026-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/e8/d8/37e8d8c9-bbe0-508c-d5b5-0aa0cfbb0bec/4099964248814.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LUZ VENTO",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "LUZ VENTO (Sped Up)",
+          "duration": "1:19"
+        },
+        {
+          "number": 3,
+          "name": "LUZ VENTO (Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "LUZ VENTO (Super Slowed)",
+          "duration": "1:46"
+        },
+        {
+          "number": 5,
+          "name": "LUZ VENTO (Ultra Slowed)",
+          "duration": "1:59"
+        }
+      ]
+    },
+    {
+      "name": "SE PERDER",
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/e5/93/e6e59395-f346-ce83-dab6-fc6064b85f37/4099964256963.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SE PERDER",
+          "duration": "1:40"
+        },
+        {
+          "number": 2,
+          "name": "SE PERDER (Sped Up)",
+          "duration": "1:28"
+        },
+        {
+          "number": 3,
+          "name": "SE PERDER (Slowed)",
+          "duration": "1:51"
+        },
+        {
+          "number": 4,
+          "name": "SE PERDER (Super Slowed)",
+          "duration": "2:04"
+        },
+        {
+          "number": 5,
+          "name": "SE PERDER (Ultra Slowed)",
+          "duration": "2:20"
+        }
+      ]
+    },
+    {
+      "name": "Espirito Eterna",
+      "year": "2025",
+      "release_date": "2025-06-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/1c/1b/1b1c1b30-805d-479e-b688-1d143d6f7ca7/1043366.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Espirito Eterna",
+          "duration": "1:27"
+        },
+        {
+          "number": 2,
+          "name": "Espirito Eterna (Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 3,
+          "name": "Espirito Eterna (Super Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "Espirito Eterna (Ultra Slowed)",
+          "duration": "1:48"
+        },
+        {
+          "number": 5,
+          "name": "Espirito Eterna (Sped Up)",
+          "duration": "1:20"
+        }
+      ]
+    },
+    {
+      "name": "Montagem Aura",
+      "year": "2026",
+      "release_date": "2026-01-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/7a/56/197a56b4-917b-a482-4703-2026f4f5d8a3/32903.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem Aura",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "Montagem Aura (Slowed)",
+          "duration": "1:39"
+        },
+        {
+          "number": 3,
+          "name": "Montagem Aura (Super Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 4,
+          "name": "Montagem Aura (Ultra Slowed)",
+          "duration": "1:52"
+        },
+        {
+          "number": 5,
+          "name": "Montagem Aura (Extremely Slowed)",
+          "duration": "2:01"
+        },
+        {
+          "number": 6,
+          "name": "Montagem Aura (Sped Up)",
+          "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "Noche Eterna",
+      "year": "2025",
+      "release_date": "2025-05-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/0f/29/6f0f296b-7c1d-acac-c2e9-19825c46e8d9/9648.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Noche Eterna",
+          "duration": "1:31"
+        },
+        {
+          "number": 2,
+          "name": "Noche Eterna (Slowed)",
+          "duration": "1:37"
+        },
+        {
+          "number": 3,
+          "name": "Noche Eterna (Super Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "Noche Eterna (Ultra Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 5,
+          "name": "Noche Eterna (Sped Up)",
+          "duration": "1:24"
+        }
+      ]
+    },
+    {
+      "name": "MTG WARRIOR",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/75/d1/be75d131-64e2-d7a0-173c-678b05d2009a/4099964273007.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MTG WARRIOR",
+          "duration": "1:22"
+        },
+        {
+          "number": 2,
+          "name": "MTG WARRIOR (Sped Up)",
+          "duration": "1:17"
+        },
+        {
+          "number": 3,
+          "name": "MTG WARRIOR (Slowed)",
+          "duration": "1:32"
+        },
+        {
+          "number": 4,
+          "name": "MTG WARRIOR (Super Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 5,
+          "name": "MTG WARRIOR (Ultra Slowed)",
+          "duration": "1:56"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM QUICAR",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/93/72/b49372bf-4f2b-564b-5e7c-b2b03ea02e93/115288.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM QUICAR",
+          "duration": "1:17"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM QUICAR (Slowed)",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM QUICAR (Super Slowed)",
+          "duration": "1:32"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM QUICAR (Ultra Slowed)",
+          "duration": "1:36"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM QUICAR (Sped Up)",
+          "duration": "1:10"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM VIRA",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/63/9f/74639fde-f524-e40c-1a2c-b5a3edd02b6e/4099964265491.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM VIRA",
+          "duration": "1:57"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM VIRA (Sped Up)",
+          "duration": "1:49"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM VIRA (Slowed)",
+          "duration": "2:10"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM VIRA (Super Slowed)",
+          "duration": "2:20"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM VIRA (Ultra Slowed)",
+          "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM REVIDAR",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/88/1e/bb881e76-87d7-33d8-f884-5f5db75ee707/98268f12-0110-4d89-b496-70feaae75dde.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM REVIDAR",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM REVIDAR (slowed)",
+          "duration": "1:54"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM REVIDAR (super slowed)",
+          "duration": "2:01"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM REVIDAR (sped up)",
+          "duration": "1:38"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM NADA",
+      "year": "2025",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/4e/06/154e0675-daed-bdab-f454-a898b5eaf080/290697.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM NADA",
+          "duration": "1:31"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM NADA (Slowed)",
+          "duration": "1:36"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM NADA (Super Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM NADA (Ultra Slowed)",
+          "duration": "1:51"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM NADA (Sped Up)",
+          "duration": "1:25"
+        }
+      ]
+    },
+    {
+      "name": "Corazon Estallar",
+      "year": "2025",
+      "release_date": "2025-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/07/49/14074947-129e-4f64-1a18-91d1979376c8/663918426265.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Corazon Estallar",
+          "duration": "1:37"
+        },
+        {
+          "number": 2,
+          "name": "Corazon Estallar (Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 3,
+          "name": "Corazon Estallar (Super Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 4,
+          "name": "Corazon Estallar (Ultra Slowed)",
+          "duration": "1:56"
+        },
+        {
+          "number": 5,
+          "name": "Corazon Estallar (Sped Up)",
+          "duration": "1:32"
+        },
+        {
+          "number": 6,
+          "name": "Corazon Estallar (Edit Version)",
+          "duration": "2:03"
+        }
+      ]
+    },
+    {
+      "name": "AMORE",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/bb/cc/bdbbcc55-04d8-d52e-0386-4777ef8e2a1e/212275.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "AMORE",
+          "duration": "1:31"
+        },
+        {
+          "number": 2,
+          "name": "AMORE (Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 3,
+          "name": "AMORE (Super Slowed)",
+          "duration": "2:04"
+        },
+        {
+          "number": 4,
+          "name": "AMORE (Sped Up)",
+          "duration": "1:23"
+        }
+      ]
+    },
+    {
+      "name": "LUA ESTRADA",
+      "year": "2026",
+      "release_date": "2026-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/8a/0e/f18a0ec6-5d26-7bf1-d07e-9f25b1bc01e7/999096.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LUA ESTRADA",
+          "duration": "1:40"
+        },
+        {
+          "number": 2,
+          "name": "LUA ESTRADA (Slowed)",
+          "duration": "1:52"
+        },
+        {
+          "number": 3,
+          "name": "LUA ESTRADA (Super Slowed)",
+          "duration": "2:06"
+        },
+        {
+          "number": 4,
+          "name": "LUA ESTRADA (Ultra Slowed)",
+          "duration": "2:21"
+        },
+        {
+          "number": 5,
+          "name": "LUA ESTRADA (Sped Up)",
+          "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "TENSÃO",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/82/f5/9e82f551-e850-3318-d5f4-ed7192854f05/820200609014.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TENSÃO",
+          "duration": "1:51"
+        },
+        {
+          "number": 2,
+          "name": "TENSÃO (Slowed)",
+          "duration": "2:04"
+        },
+        {
+          "number": 3,
+          "name": "TENSÃO (Super Slowed)",
+          "duration": "2:20"
+        },
+        {
+          "number": 4,
+          "name": "TENSÃO (Ultra Slowed)",
+          "duration": "2:28"
+        },
+        {
+          "number": 5,
+          "name": "TENSÃO (Sped Up)",
+          "duration": "1:39"
+        }
+      ]
+    },
+    {
+      "name": "Si Calal",
+      "year": "2025",
+      "release_date": "2025-07-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/87/56/a4875647-afb3-222c-83e7-123a8453add2/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Si Calal",
+          "duration": "1:36"
+        },
+        {
+          "number": 2,
+          "name": "Si Calal (Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 3,
+          "name": "Si Calal (Super Slowed)",
+          "duration": "2:18"
+        },
+        {
+          "number": 4,
+          "name": "Si Calal (Sped Up)",
+          "duration": "1:27"
+        }
+      ]
+    },
+    {
+      "name": "AMORE",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/b5/39/49b539dc-6c5c-d52e-9406-6746dc144b0b/212275.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "AMORE",
+          "duration": "1:31"
+        },
+        {
+          "number": 2,
+          "name": "AMORE (Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 3,
+          "name": "AMORE (Super Slowed)",
+          "duration": "2:04"
+        },
+        {
+          "number": 4,
+          "name": "AMORE (Sped Up)",
+          "duration": "1:23"
+        }
+      ]
+    },
+    {
+      "name": "NA PISTOLA",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/24/ee/6a24eed8-7635-740f-ca02-f619129a822a/820200823250.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NA PISTOLA",
+          "duration": "1:26"
+        },
+        {
+          "number": 2,
+          "name": "NA PISTOLA (Slowed)",
+          "duration": "1:37"
+        },
+        {
+          "number": 3,
+          "name": "NA PISTOLA (Super Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 4,
+          "name": "NA PISTOLA (Ultra Slowed)",
+          "duration": "2:02"
+        },
+        {
+          "number": 5,
+          "name": "NA PISTOLA (Sped Up)",
+          "duration": "1:17"
+        }
+      ]
+    },
+    {
       "name": "Baila Sol",
       "year": "2025",
       "release_date": "2025-08-15",
@@ -1637,82 +1746,6 @@
           "number": 4,
           "name": "VAI SEGURAR (Sped Up)",
           "duration": "1:25"
-        }
-      ]
-    },
-    {
-      "name": "Montagem Aura",
-      "year": "2026",
-      "release_date": "2026-01-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/00/38/7c003848-2c2a-63f6-33c9-1a5b397b3da2/45850.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Aura",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Aura (Slowed)",
-          "duration": "1:39"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Aura (Super Slowed)",
-          "duration": "1:44"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Aura (Ultra Slowed)",
-          "duration": "1:52"
-        },
-        {
-          "number": 5,
-          "name": "Montagem Aura (Extremely Slowed)",
-          "duration": "2:01"
-        },
-        {
-          "number": 6,
-          "name": "Montagem Aura (Sped Up)",
-          "duration": "1:29"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM TIEMPO",
-      "year": "2025",
-      "release_date": "2025-08-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/a3/df/48a3df35-b18f-51e1-91e5-4b6f64f580d6/8721026060176_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM TIEMPO",
-          "duration": "1:50"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM TIEMPO (Slowed)",
-          "duration": "2:02"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM TIEMPO (Super Slowed)",
-          "duration": "2:18"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM TIEMPO (Ultra Slowed)",
-          "duration": "2:37"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM TIEMPO (Edit)",
-          "duration": "3:04"
-        },
-        {
-          "number": 6,
-          "name": "MONTAGEM TIEMPO (Sped)",
-          "duration": "1:40"
         }
       ]
     },

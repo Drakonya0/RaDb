@@ -179,15 +179,25 @@
   ],
   "singles": [
     {
-      "name": "Shivering",
+      "name": "Rotoscope",
       "year": "2022",
-      "release_date": "2022-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/26/0d/18260d1a-c2ff-197f-c318-cf2b5dc429ff/054391901682.jpg/600x600bb.jpg",
+      "release_date": "2022-06-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/ae/3e/07ae3e99-6e46-ba10-d686-8705c06b61c3/4050538830187.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Shivering",
-          "duration": "5:00"
+          "name": "Rotoscope",
+          "duration": "3:35"
+        },
+        {
+          "number": 2,
+          "name": "Sew Me Up",
+          "duration": "3:31"
+        },
+        {
+          "number": 3,
+          "name": "Hysteria",
+          "duration": "3:44"
         }
       ]
     },
@@ -201,6 +211,32 @@
           "number": 1,
           "name": "Soft Spine",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Rule of Nines",
+      "year": "2019",
+      "release_date": "2019-11-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c9/66/3b/c9663bfd-31ae-ccea-0f64-940ad845d0cf/4050538665161.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rule of Nines",
+          "duration": "3:31"
+        }
+      ]
+    },
+    {
+      "name": "Shivering",
+      "year": "2022",
+      "release_date": "2022-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/26/0d/18260d1a-c2ff-197f-c318-cf2b5dc429ff/054391901682.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shivering",
+          "duration": "5:00"
         }
       ]
     },
@@ -231,38 +267,15 @@
       ]
     },
     {
-      "name": "Rotoscope",
-      "year": "2022",
-      "release_date": "2022-06-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/ae/3e/07ae3e99-6e46-ba10-d686-8705c06b61c3/4050538830187.jpg/600x600bb.jpg",
+      "name": "Cobra (Rock Remix) [feat. Spiritbox]",
+      "year": "2023",
+      "release_date": "2023-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/e9/97/8fe99764-71dd-6931-725c-b928a21e7654/075679662613.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Rotoscope",
-          "duration": "3:35"
-        },
-        {
-          "number": 2,
-          "name": "Sew Me Up",
-          "duration": "3:31"
-        },
-        {
-          "number": 3,
-          "name": "Hysteria",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
-      "name": "Rule of Nines",
-      "year": "2019",
-      "release_date": "2019-11-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c9/66/3b/c9663bfd-31ae-ccea-0f64-940ad845d0cf/4050538665161.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rule of Nines",
-          "duration": "3:31"
+          "name": "Cobra (Rock Remix) [feat. Spiritbox]",
+          "duration": "3:06"
         }
       ]
     },
@@ -289,19 +302,6 @@
           "number": 1,
           "name": "Holy Roller (feat. Ryo Kinoshita)",
           "duration": "2:53"
-        }
-      ]
-    },
-    {
-      "name": "Cobra (Rock Remix) [feat. Spiritbox]",
-      "year": "2023",
-      "release_date": "2023-11-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8f/e9/97/8fe99764-71dd-6931-725c-b928a21e7654/075679662613.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cobra (Rock Remix) [feat. Spiritbox]",
-          "duration": "3:06"
         }
       ]
     },

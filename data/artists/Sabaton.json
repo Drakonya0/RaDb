@@ -134,79 +134,6 @@
       ]
     },
     {
-      "name": "Heroes",
-      "year": "2014",
-      "release_date": "2014-05-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/b8/41/21b84170-87e6-d667-599a-c8a6ab0a9f8b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Night Witches",
-          "duration": "3:01"
-        },
-        {
-          "number": 2,
-          "name": "No Bullets Fly",
-          "duration": "3:37"
-        },
-        {
-          "number": 3,
-          "name": "Smoking Snakes",
-          "duration": "3:14"
-        },
-        {
-          "number": 4,
-          "name": "Inmate 4859",
-          "duration": "4:26"
-        },
-        {
-          "number": 5,
-          "name": "To Hell and Back",
-          "duration": "3:26"
-        },
-        {
-          "number": 6,
-          "name": "The Ballad of Bull",
-          "duration": "3:53"
-        },
-        {
-          "number": 7,
-          "name": "Resist and Bite",
-          "duration": "3:27"
-        },
-        {
-          "number": 8,
-          "name": "Soldier of 3 Armies",
-          "duration": "3:38"
-        },
-        {
-          "number": 9,
-          "name": "Far from the Fame",
-          "duration": "3:47"
-        },
-        {
-          "number": 10,
-          "name": "Hearts of Iron",
-          "duration": "4:28"
-        },
-        {
-          "number": 11,
-          "name": "7734",
-          "duration": "3:32"
-        },
-        {
-          "number": 12,
-          "name": "Man of War",
-          "duration": "3:47"
-        },
-        {
-          "number": 13,
-          "name": "For Whom the Bell Tolls (Metallica Cover)",
-          "duration": "5:22"
-        }
-      ]
-    },
-    {
       "name": "The Great War",
       "year": "2019",
       "release_date": "2019-07-19",
@@ -266,6 +193,69 @@
           "number": 11,
           "name": "In Flanders Fields",
           "duration": "1:56"
+        }
+      ]
+    },
+    {
+      "name": "Legends",
+      "year": "2025",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/c3/74/10c3741a-856b-c314-9ec4-0788d062c6ad/846070098604.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Templars",
+          "duration": "4:54"
+        },
+        {
+          "number": 2,
+          "name": "Hordes of Khan",
+          "duration": "3:43"
+        },
+        {
+          "number": 3,
+          "name": "A Tiger Among Dragons",
+          "duration": "4:06"
+        },
+        {
+          "number": 4,
+          "name": "Crossing the Rubicon",
+          "duration": "3:29"
+        },
+        {
+          "number": 5,
+          "name": "I, Emperor",
+          "duration": "4:15"
+        },
+        {
+          "number": 6,
+          "name": "Maid of Steel",
+          "duration": "3:17"
+        },
+        {
+          "number": 7,
+          "name": "Impaler",
+          "duration": "4:44"
+        },
+        {
+          "number": 8,
+          "name": "Lightning at the Gates",
+          "duration": "4:12"
+        },
+        {
+          "number": 9,
+          "name": "The Duelist",
+          "duration": "3:55"
+        },
+        {
+          "number": 10,
+          "name": "The Cycle of Songs",
+          "duration": "5:39"
+        },
+        {
+          "number": 11,
+          "name": "Till Seger",
+          "duration": "3:27"
         }
       ]
     },
@@ -436,69 +426,6 @@
       ]
     },
     {
-      "name": "Legends",
-      "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/c3/74/10c3741a-856b-c314-9ec4-0788d062c6ad/846070098604.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Templars",
-          "duration": "4:54"
-        },
-        {
-          "number": 2,
-          "name": "Hordes of Khan",
-          "duration": "3:43"
-        },
-        {
-          "number": 3,
-          "name": "A Tiger Among Dragons",
-          "duration": "4:06"
-        },
-        {
-          "number": 4,
-          "name": "Crossing the Rubicon",
-          "duration": "3:29"
-        },
-        {
-          "number": 5,
-          "name": "I, Emperor",
-          "duration": "4:15"
-        },
-        {
-          "number": 6,
-          "name": "Maid of Steel",
-          "duration": "3:17"
-        },
-        {
-          "number": 7,
-          "name": "Impaler",
-          "duration": "4:44"
-        },
-        {
-          "number": 8,
-          "name": "Lightning at the Gates",
-          "duration": "4:12"
-        },
-        {
-          "number": 9,
-          "name": "The Duelist",
-          "duration": "3:55"
-        },
-        {
-          "number": 10,
-          "name": "The Cycle of Songs",
-          "duration": "5:39"
-        },
-        {
-          "number": 11,
-          "name": "Till Seger",
-          "duration": "3:27"
-        }
-      ]
-    },
-    {
       "name": "Primo Victoria",
       "year": "2010",
       "release_date": "2010-09-24",
@@ -582,168 +509,138 @@
       ]
     },
     {
-      "name": "Attero Dominatus",
-      "year": "2006",
-      "release_date": "2006-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/23/85/3223853c-2557-b96c-66da-a7394bcf11a7/cover.jpg/600x600bb.jpg",
+      "name": "The War To End All Wars (History Edition)",
+      "year": "2022",
+      "release_date": "2022-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/20/b9/5220b970-c6f1-ac4f-c99a-0c96013fd974/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Attero Dominatus",
-          "duration": "3:43"
+          "name": "Sarajevo (History Edition)",
+          "duration": "4:37"
         },
         {
           "number": 2,
-          "name": "Nuclear Attack",
-          "duration": "4:09"
+          "name": "Stormtroopers (History Edition)",
+          "duration": "3:56"
         },
         {
           "number": 3,
-          "name": "Rise of Evil",
-          "duration": "8:19"
+          "name": "Dreadnought (History Edition)",
+          "duration": "5:18"
         },
         {
           "number": 4,
-          "name": "In the Name of God",
-          "duration": "4:06"
+          "name": "The Unkillable Soldier (History Edition)",
+          "duration": "4:27"
         },
         {
           "number": 5,
-          "name": "We Burn",
-          "duration": "2:55"
+          "name": "Soldier Of Heaven (History Edition)",
+          "duration": "4:21"
         },
         {
           "number": 6,
-          "name": "Angels Calling",
-          "duration": "5:57"
+          "name": "Hellfighters (History Edition)",
+          "duration": "3:56"
         },
         {
           "number": 7,
-          "name": "Back in Control",
-          "duration": "3:14"
+          "name": "Race To The Sea (History Edition)",
+          "duration": "3:55"
         },
         {
           "number": 8,
-          "name": "Light in the Black",
-          "duration": "4:52"
-        },
-        {
-          "number": 9,
-          "name": "Metal Crüe",
+          "name": "Lady Of The Dark (History Edition)",
           "duration": "3:42"
         },
         {
+          "number": 9,
+          "name": "The Valley Of Death (History Edition)",
+          "duration": "4:35"
+        },
+        {
           "number": 10,
-          "name": "Für Immer (Doro Song)",
-          "duration": "4:36"
+          "name": "Christmas Truce (History Edition)",
+          "duration": "5:29"
         },
         {
           "number": 11,
-          "name": "Långa Bollar På Bengt (Svenne Rubins Song)",
-          "duration": "2:52"
-        },
-        {
-          "number": 12,
-          "name": "Metal Medley (Live, in Falun, 2008)",
-          "duration": "6:12"
-        },
-        {
-          "number": 13,
-          "name": "Nightchild",
-          "duration": "5:12"
-        },
-        {
-          "number": 14,
-          "name": "Primo Victoria (Demo Version)",
-          "duration": "4:11"
+          "name": "Versailles (History Edition)",
+          "duration": "4:14"
         }
       ]
     },
     {
-      "name": "Carolus Rex (English)",
-      "year": "2012",
-      "release_date": "2012-05-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/64/8b/07648b28-6dbd-c611-6125-c3d29ff077b7/cover.jpg/600x600bb.jpg",
+      "name": "Heroes",
+      "year": "2014",
+      "release_date": "2014-05-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/b8/41/21b84170-87e6-d667-599a-c8a6ab0a9f8b/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Dominium Maris Baltici",
-          "duration": "0:29"
+          "name": "Night Witches",
+          "duration": "3:01"
         },
         {
           "number": 2,
-          "name": "The Lion From The North",
-          "duration": "4:42"
+          "name": "No Bullets Fly",
+          "duration": "3:37"
         },
         {
           "number": 3,
-          "name": "Gott Mit Uns (English Version)",
-          "duration": "3:15"
+          "name": "Smoking Snakes",
+          "duration": "3:14"
         },
         {
           "number": 4,
-          "name": "A Lifetime Of War",
-          "duration": "5:45"
+          "name": "Inmate 4859",
+          "duration": "4:26"
         },
         {
           "number": 5,
-          "name": "1 6 4 8 (English Version)",
-          "duration": "3:54"
+          "name": "To Hell and Back",
+          "duration": "3:26"
         },
         {
           "number": 6,
-          "name": "The Carolean's Prayer",
-          "duration": "6:14"
+          "name": "The Ballad of Bull",
+          "duration": "3:53"
         },
         {
           "number": 7,
-          "name": "Carolus Rex (English Version)",
-          "duration": "4:53"
+          "name": "Resist and Bite",
+          "duration": "3:27"
         },
         {
           "number": 8,
-          "name": "Killing Ground",
-          "duration": "4:24"
+          "name": "Soldier of 3 Armies",
+          "duration": "3:38"
         },
         {
           "number": 9,
-          "name": "Poltava (English Version)",
-          "duration": "4:03"
+          "name": "Far from the Fame",
+          "duration": "3:47"
         },
         {
           "number": 10,
-          "name": "The Royal Guard",
-          "duration": "4:37"
+          "name": "Hearts of Iron",
+          "duration": "4:28"
         },
         {
           "number": 11,
-          "name": "Long Live The King",
-          "duration": "4:09"
+          "name": "7734",
+          "duration": "3:32"
         },
         {
           "number": 12,
-          "name": "Ruina Imperii",
-          "duration": "3:21"
+          "name": "Man of War",
+          "duration": "3:47"
         },
         {
           "number": 13,
-          "name": "In the Army Now",
-          "duration": "3:58"
-        },
-        {
-          "number": 14,
-          "name": "Twilight of the Thunder God",
-          "duration": "3:59"
-        },
-        {
-          "number": 15,
-          "name": "Feuer Frei",
-          "duration": "3:12"
-        },
-        {
-          "number": 16,
-          "name": "Harley From Hell",
-          "duration": "3:49"
+          "name": "For Whom the Bell Tolls (Metallica Cover)",
+          "duration": "5:22"
         }
       ]
     },
@@ -921,6 +818,157 @@
       ]
     },
     {
+      "name": "The Great War (History Version)",
+      "year": "2019",
+      "release_date": "2019-07-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bb/52/a8/bb52a860-5b09-151d-3f6d-9e1003e51f1d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Future of Warfare [History Version]",
+          "duration": "4:30"
+        },
+        {
+          "number": 2,
+          "name": "Seven Pillars of Wisdom (History Version)",
+          "duration": "3:31"
+        },
+        {
+          "number": 3,
+          "name": "82nd All the Way (History Version)",
+          "duration": "3:48"
+        },
+        {
+          "number": 4,
+          "name": "The Attack of the Dead Men (History Version)",
+          "duration": "4:16"
+        },
+        {
+          "number": 5,
+          "name": "Devil Dogs (History Version)",
+          "duration": "3:36"
+        },
+        {
+          "number": 6,
+          "name": "The Red Baron (History Version)",
+          "duration": "3:12"
+        },
+        {
+          "number": 7,
+          "name": "Great War (History Version)",
+          "duration": "4:53"
+        },
+        {
+          "number": 8,
+          "name": "A Ghost in the Trenches (History Version)",
+          "duration": "3:54"
+        },
+        {
+          "number": 9,
+          "name": "Fields of Verdun (History Version)",
+          "duration": "3:29"
+        },
+        {
+          "number": 10,
+          "name": "The End of the War to End All Wars (History Version)",
+          "duration": "5:07"
+        },
+        {
+          "number": 11,
+          "name": "In Flanders Fields (History Version)",
+          "duration": "1:56"
+        }
+      ]
+    },
+    {
+      "name": "Carolus Rex (English)",
+      "year": "2012",
+      "release_date": "2012-05-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/64/8b/07648b28-6dbd-c611-6125-c3d29ff077b7/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dominium Maris Baltici",
+          "duration": "0:29"
+        },
+        {
+          "number": 2,
+          "name": "The Lion From The North",
+          "duration": "4:42"
+        },
+        {
+          "number": 3,
+          "name": "Gott Mit Uns (English Version)",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "A Lifetime Of War",
+          "duration": "5:45"
+        },
+        {
+          "number": 5,
+          "name": "1 6 4 8 (English Version)",
+          "duration": "3:54"
+        },
+        {
+          "number": 6,
+          "name": "The Carolean's Prayer",
+          "duration": "6:14"
+        },
+        {
+          "number": 7,
+          "name": "Carolus Rex (English Version)",
+          "duration": "4:53"
+        },
+        {
+          "number": 8,
+          "name": "Killing Ground",
+          "duration": "4:24"
+        },
+        {
+          "number": 9,
+          "name": "Poltava (English Version)",
+          "duration": "4:03"
+        },
+        {
+          "number": 10,
+          "name": "The Royal Guard",
+          "duration": "4:37"
+        },
+        {
+          "number": 11,
+          "name": "Long Live The King",
+          "duration": "4:09"
+        },
+        {
+          "number": 12,
+          "name": "Ruina Imperii",
+          "duration": "3:21"
+        },
+        {
+          "number": 13,
+          "name": "In the Army Now",
+          "duration": "3:58"
+        },
+        {
+          "number": 14,
+          "name": "Twilight of the Thunder God",
+          "duration": "3:59"
+        },
+        {
+          "number": 15,
+          "name": "Feuer Frei",
+          "duration": "3:12"
+        },
+        {
+          "number": 16,
+          "name": "Harley From Hell",
+          "duration": "3:49"
+        }
+      ]
+    },
+    {
       "name": "Metalizer",
       "year": "2007",
       "release_date": "2007-03-19",
@@ -1060,6 +1108,197 @@
           "number": 27,
           "name": "Birds of War (Fist for Fight Compiltation of Demos)",
           "duration": "4:52"
+        }
+      ]
+    },
+    {
+      "name": "Attero Dominatus",
+      "year": "2006",
+      "release_date": "2006-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/32/23/85/3223853c-2557-b96c-66da-a7394bcf11a7/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Attero Dominatus",
+          "duration": "3:43"
+        },
+        {
+          "number": 2,
+          "name": "Nuclear Attack",
+          "duration": "4:09"
+        },
+        {
+          "number": 3,
+          "name": "Rise of Evil",
+          "duration": "8:19"
+        },
+        {
+          "number": 4,
+          "name": "In the Name of God",
+          "duration": "4:06"
+        },
+        {
+          "number": 5,
+          "name": "We Burn",
+          "duration": "2:55"
+        },
+        {
+          "number": 6,
+          "name": "Angels Calling",
+          "duration": "5:57"
+        },
+        {
+          "number": 7,
+          "name": "Back in Control",
+          "duration": "3:14"
+        },
+        {
+          "number": 8,
+          "name": "Light in the Black",
+          "duration": "4:52"
+        },
+        {
+          "number": 9,
+          "name": "Metal Crüe",
+          "duration": "3:42"
+        },
+        {
+          "number": 10,
+          "name": "Für Immer (Doro Song)",
+          "duration": "4:36"
+        },
+        {
+          "number": 11,
+          "name": "Långa Bollar På Bengt (Svenne Rubins Song)",
+          "duration": "2:52"
+        },
+        {
+          "number": 12,
+          "name": "Metal Medley (Live, in Falun, 2008)",
+          "duration": "6:12"
+        },
+        {
+          "number": 13,
+          "name": "Nightchild",
+          "duration": "5:12"
+        },
+        {
+          "number": 14,
+          "name": "Primo Victoria (Demo Version)",
+          "duration": "4:11"
+        }
+      ]
+    },
+    {
+      "name": "The Great Show (The Great Tour Live In Prague, 2020)",
+      "year": "2021",
+      "release_date": "2021-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/02/cb/26/02cb2607-c764-b2c5-143c-44a325affd53/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ghost Division (Live in Prague, 2020)",
+          "duration": "6:13"
+        },
+        {
+          "number": 2,
+          "name": "Great War (Live in Prague, 2020)",
+          "duration": "4:29"
+        },
+        {
+          "number": 3,
+          "name": "The Attack Of The Dead Men (Live in Prague, 2020)",
+          "duration": "6:26"
+        },
+        {
+          "number": 4,
+          "name": "Seven Pillars Of Wisdom (Live in Prague, 2020)",
+          "duration": "3:38"
+        },
+        {
+          "number": 5,
+          "name": "Diary Of An Unknown Soldier (Live in Prague, 2020)",
+          "duration": "0:53"
+        },
+        {
+          "number": 6,
+          "name": "The Lost Battalion (Live in Prague, 2020)",
+          "duration": "3:40"
+        },
+        {
+          "number": 7,
+          "name": "The Red Baron (Live in Prague, 2020)",
+          "duration": "5:12"
+        },
+        {
+          "number": 8,
+          "name": "The Last Stand (Live in Prague, 2020)",
+          "duration": "4:01"
+        },
+        {
+          "number": 9,
+          "name": "Far From The Fame (Live in Prague, 2020)",
+          "duration": "4:50"
+        },
+        {
+          "number": 10,
+          "name": "Night Witches (Live in Prague, 2020)",
+          "duration": "3:49"
+        },
+        {
+          "number": 11,
+          "name": "Angels Calling (Live in Prague, 2020)",
+          "duration": "5:53"
+        },
+        {
+          "number": 12,
+          "name": "Fields Of Verdun (Live in Prague, 2020)",
+          "duration": "4:07"
+        },
+        {
+          "number": 13,
+          "name": "The Price Of A Mile (Live in Prague, 2020)",
+          "duration": "5:15"
+        },
+        {
+          "number": 14,
+          "name": "Dominium Maris Baltici (Live in Prague, 2020)",
+          "duration": "1:07"
+        },
+        {
+          "number": 15,
+          "name": "The Lion From The North (Live in Prague, 2020)",
+          "duration": "4:43"
+        },
+        {
+          "number": 16,
+          "name": "Carolus Rex (Live in Prague, 2020)",
+          "duration": "4:59"
+        },
+        {
+          "number": 17,
+          "name": "Primo Victoria (Live in Prague, 2020)",
+          "duration": "5:26"
+        },
+        {
+          "number": 18,
+          "name": "Bismarck (Live in Prague, 2020)",
+          "duration": "5:16"
+        },
+        {
+          "number": 19,
+          "name": "Swedish Pagans (Live in Prague, 2020)",
+          "duration": "3:54"
+        },
+        {
+          "number": 20,
+          "name": "To Hell And Back (Live in Prague, 2020)",
+          "duration": "5:29"
+        },
+        {
+          "number": 21,
+          "name": "Dead Soldier's Waltz (Live in Prague, 2020)",
+          "duration": "1:19"
         }
       ]
     },
@@ -1213,69 +1452,6 @@
       ]
     },
     {
-      "name": "The War To End All Wars (History Edition)",
-      "year": "2022",
-      "release_date": "2022-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/52/20/b9/5220b970-c6f1-ac4f-c99a-0c96013fd974/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sarajevo (History Edition)",
-          "duration": "4:37"
-        },
-        {
-          "number": 2,
-          "name": "Stormtroopers (History Edition)",
-          "duration": "3:56"
-        },
-        {
-          "number": 3,
-          "name": "Dreadnought (History Edition)",
-          "duration": "5:18"
-        },
-        {
-          "number": 4,
-          "name": "The Unkillable Soldier (History Edition)",
-          "duration": "4:27"
-        },
-        {
-          "number": 5,
-          "name": "Soldier Of Heaven (History Edition)",
-          "duration": "4:21"
-        },
-        {
-          "number": 6,
-          "name": "Hellfighters (History Edition)",
-          "duration": "3:56"
-        },
-        {
-          "number": 7,
-          "name": "Race To The Sea (History Edition)",
-          "duration": "3:55"
-        },
-        {
-          "number": 8,
-          "name": "Lady Of The Dark (History Edition)",
-          "duration": "3:42"
-        },
-        {
-          "number": 9,
-          "name": "The Valley Of Death (History Edition)",
-          "duration": "4:35"
-        },
-        {
-          "number": 10,
-          "name": "Christmas Truce (History Edition)",
-          "duration": "5:29"
-        },
-        {
-          "number": 11,
-          "name": "Versailles (History Edition)",
-          "duration": "4:14"
-        }
-      ]
-    },
-    {
       "name": "Carolus Rex (Swedish)",
       "year": "2012",
       "release_date": "2012-05-25",
@@ -1340,182 +1516,6 @@
           "number": 12,
           "name": "Ruina Imperii",
           "duration": "3:21"
-        }
-      ]
-    },
-    {
-      "name": "The Great War (History Version)",
-      "year": "2019",
-      "release_date": "2019-07-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bb/52/a8/bb52a860-5b09-151d-3f6d-9e1003e51f1d/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Future of Warfare [History Version]",
-          "duration": "4:30"
-        },
-        {
-          "number": 2,
-          "name": "Seven Pillars of Wisdom (History Version)",
-          "duration": "3:31"
-        },
-        {
-          "number": 3,
-          "name": "82nd All the Way (History Version)",
-          "duration": "3:48"
-        },
-        {
-          "number": 4,
-          "name": "The Attack of the Dead Men (History Version)",
-          "duration": "4:16"
-        },
-        {
-          "number": 5,
-          "name": "Devil Dogs (History Version)",
-          "duration": "3:36"
-        },
-        {
-          "number": 6,
-          "name": "The Red Baron (History Version)",
-          "duration": "3:12"
-        },
-        {
-          "number": 7,
-          "name": "Great War (History Version)",
-          "duration": "4:53"
-        },
-        {
-          "number": 8,
-          "name": "A Ghost in the Trenches (History Version)",
-          "duration": "3:54"
-        },
-        {
-          "number": 9,
-          "name": "Fields of Verdun (History Version)",
-          "duration": "3:29"
-        },
-        {
-          "number": 10,
-          "name": "The End of the War to End All Wars (History Version)",
-          "duration": "5:07"
-        },
-        {
-          "number": 11,
-          "name": "In Flanders Fields (History Version)",
-          "duration": "1:56"
-        }
-      ]
-    },
-    {
-      "name": "The Great Show (The Great Tour Live In Prague, 2020)",
-      "year": "2021",
-      "release_date": "2021-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/02/cb/26/02cb2607-c764-b2c5-143c-44a325affd53/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ghost Division (Live in Prague, 2020)",
-          "duration": "6:13"
-        },
-        {
-          "number": 2,
-          "name": "Great War (Live in Prague, 2020)",
-          "duration": "4:29"
-        },
-        {
-          "number": 3,
-          "name": "The Attack Of The Dead Men (Live in Prague, 2020)",
-          "duration": "6:26"
-        },
-        {
-          "number": 4,
-          "name": "Seven Pillars Of Wisdom (Live in Prague, 2020)",
-          "duration": "3:38"
-        },
-        {
-          "number": 5,
-          "name": "Diary Of An Unknown Soldier (Live in Prague, 2020)",
-          "duration": "0:53"
-        },
-        {
-          "number": 6,
-          "name": "The Lost Battalion (Live in Prague, 2020)",
-          "duration": "3:40"
-        },
-        {
-          "number": 7,
-          "name": "The Red Baron (Live in Prague, 2020)",
-          "duration": "5:12"
-        },
-        {
-          "number": 8,
-          "name": "The Last Stand (Live in Prague, 2020)",
-          "duration": "4:01"
-        },
-        {
-          "number": 9,
-          "name": "Far From The Fame (Live in Prague, 2020)",
-          "duration": "4:50"
-        },
-        {
-          "number": 10,
-          "name": "Night Witches (Live in Prague, 2020)",
-          "duration": "3:49"
-        },
-        {
-          "number": 11,
-          "name": "Angels Calling (Live in Prague, 2020)",
-          "duration": "5:53"
-        },
-        {
-          "number": 12,
-          "name": "Fields Of Verdun (Live in Prague, 2020)",
-          "duration": "4:07"
-        },
-        {
-          "number": 13,
-          "name": "The Price Of A Mile (Live in Prague, 2020)",
-          "duration": "5:15"
-        },
-        {
-          "number": 14,
-          "name": "Dominium Maris Baltici (Live in Prague, 2020)",
-          "duration": "1:07"
-        },
-        {
-          "number": 15,
-          "name": "The Lion From The North (Live in Prague, 2020)",
-          "duration": "4:43"
-        },
-        {
-          "number": 16,
-          "name": "Carolus Rex (Live in Prague, 2020)",
-          "duration": "4:59"
-        },
-        {
-          "number": 17,
-          "name": "Primo Victoria (Live in Prague, 2020)",
-          "duration": "5:26"
-        },
-        {
-          "number": 18,
-          "name": "Bismarck (Live in Prague, 2020)",
-          "duration": "5:16"
-        },
-        {
-          "number": 19,
-          "name": "Swedish Pagans (Live in Prague, 2020)",
-          "duration": "3:54"
-        },
-        {
-          "number": 20,
-          "name": "To Hell And Back (Live in Prague, 2020)",
-          "duration": "5:29"
-        },
-        {
-          "number": 21,
-          "name": "Dead Soldier's Waltz (Live in Prague, 2020)",
-          "duration": "1:19"
         }
       ]
     },
@@ -2093,6 +2093,37 @@
       ]
     },
     {
+      "name": "Templars",
+      "year": "2025",
+      "release_date": "2025-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/44/fb/8044fb09-d091-d26a-48d6-baff98c1b240/846070096303.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Templars",
+          "duration": "4:54"
+        }
+      ]
+    },
+    {
+      "name": "Kingdom Come",
+      "year": "2021",
+      "release_date": "2021-07-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/55/da/1a/55da1afc-d7d0-09ef-9d1d-ef51b97bb021/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Kingdom Come",
+          "duration": "4:04"
+        },
+        {
+          "number": 2,
+          "name": "Metal Trilogy",
+          "duration": "4:18"
+        }
+      ]
+    },
+    {
       "name": "Defence of Moscow",
       "year": "2021",
       "release_date": "2021-05-07",
@@ -2102,6 +2133,19 @@
           "number": 1,
           "name": "Defence of Moscow",
           "duration": "4:08"
+        }
+      ]
+    },
+    {
+      "name": "Yamato",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/b9/56/26b956d0-7350-f0a8-c247-9564942002a3/810202537200.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Yamato",
+          "duration": "3:21"
         }
       ]
     },
@@ -2132,58 +2176,6 @@
       ]
     },
     {
-      "name": "Yamato",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/b9/56/26b956d0-7350-f0a8-c247-9564942002a3/810202537200.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Yamato",
-          "duration": "3:21"
-        }
-      ]
-    },
-    {
-      "name": "Templars",
-      "year": "2025",
-      "release_date": "2025-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/44/fb/8044fb09-d091-d26a-48d6-baff98c1b240/846070096303.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Templars",
-          "duration": "4:54"
-        }
-      ]
-    },
-    {
-      "name": "In the Army Now",
-      "year": "2012",
-      "release_date": "2012-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f3/dc/d7/f3dcd719-3f94-c1e1-d990-9d8585b838fd/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "In the Army Now",
-          "duration": "3:58"
-        }
-      ]
-    },
-    {
-      "name": "Crossing the Rubicon (feat. NOTHING MORE, Jonny Hawkins & Mark Vollelunga)",
-      "year": "2025",
-      "release_date": "2025-09-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/cf/76/6bcf76b0-ae0a-fc08-a3a7-37f5589d7131/846070099700.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Crossing the Rubicon (feat. NOTHING MORE, Jonny Hawkins & Mark Vollelunga)",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
       "name": "Steel Commanders (feat. Tina Guo)",
       "year": "2021",
       "release_date": "2021-09-17",
@@ -2193,24 +2185,6 @@
           "number": 1,
           "name": "Steel Commanders (feat. Tina Guo)",
           "duration": "3:51"
-        }
-      ]
-    },
-    {
-      "name": "Kingdom Come",
-      "year": "2021",
-      "release_date": "2021-07-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/55/da/1a/55da1afc-d7d0-09ef-9d1d-ef51b97bb021/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kingdom Come",
-          "duration": "4:04"
-        },
-        {
-          "number": 2,
-          "name": "Metal Trilogy",
-          "duration": "4:18"
         }
       ]
     },
@@ -2237,6 +2211,32 @@
           "number": 1,
           "name": "Live or Die",
           "duration": "3:44"
+        }
+      ]
+    },
+    {
+      "name": "In the Army Now",
+      "year": "2012",
+      "release_date": "2012-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f3/dc/d7/f3dcd719-3f94-c1e1-d990-9d8585b838fd/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In the Army Now",
+          "duration": "3:58"
+        }
+      ]
+    },
+    {
+      "name": "Crossing the Rubicon (feat. NOTHING MORE, Jonny Hawkins & Mark Vollelunga)",
+      "year": "2025",
+      "release_date": "2025-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/cf/76/6bcf76b0-ae0a-fc08-a3a7-37f5589d7131/846070099700.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Crossing the Rubicon (feat. NOTHING MORE, Jonny Hawkins & Mark Vollelunga)",
+          "duration": "3:24"
         }
       ]
     },

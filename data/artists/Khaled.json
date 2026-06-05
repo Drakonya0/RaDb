@@ -3,129 +3,6 @@
   "id": 384924,
   "albums": [
     {
-      "name": "1, 2, 3 Soleils (Live à Bercy)",
-      "year": "1999",
-      "release_date": "1999-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ce/ad/35/cead35dc-ce5e-a2cf-2e21-be197f66e84c/00731454719124.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Khalliouni Khalliouni",
-          "duration": "5:40"
-        },
-        {
-          "number": 1,
-          "name": "Madeeh",
-          "duration": "7:25"
-        },
-        {
-          "number": 2,
-          "name": "Menfi",
-          "duration": "5:41"
-        },
-        {
-          "number": 2,
-          "name": "Wahrane Wahrane",
-          "duration": "4:58"
-        },
-        {
-          "number": 3,
-          "name": "Eray",
-          "duration": "4:40"
-        },
-        {
-          "number": 3,
-          "name": "Les ailes",
-          "duration": "5:14"
-        },
-        {
-          "number": 4,
-          "name": "N'ssi N'ssi",
-          "duration": "5:14"
-        },
-        {
-          "number": 4,
-          "name": "La Camel",
-          "duration": "5:28"
-        },
-        {
-          "number": 5,
-          "name": "Ida",
-          "duration": "7:08"
-        },
-        {
-          "number": 5,
-          "name": "Abdel Kader",
-          "duration": "5:12"
-        },
-        {
-          "number": 6,
-          "name": "Baida",
-          "duration": "5:42"
-        },
-        {
-          "number": 6,
-          "name": "Bent Sahra",
-          "duration": "7:21"
-        },
-        {
-          "number": 7,
-          "name": "Omri",
-          "duration": "5:44"
-        },
-        {
-          "number": 7,
-          "name": "Aicha",
-          "duration": "6:51"
-        },
-        {
-          "number": 8,
-          "name": "Voilà voilà",
-          "duration": "5:50"
-        },
-        {
-          "number": 8,
-          "name": "Tellement N'Brick",
-          "duration": "9:10"
-        },
-        {
-          "number": 9,
-          "name": "Indie",
-          "duration": "5:38"
-        },
-        {
-          "number": 9,
-          "name": "Didi",
-          "duration": "6:08"
-        },
-        {
-          "number": 10,
-          "name": "Chebba",
-          "duration": "5:30"
-        },
-        {
-          "number": 10,
-          "name": "Ya Rayah",
-          "duration": "7:28"
-        },
-        {
-          "number": 11,
-          "name": "Sahra",
-          "duration": "4:43"
-        },
-        {
-          "number": 11,
-          "name": "Daiman",
-          "duration": "4:20"
-        },
-        {
-          "number": 12,
-          "name": "Comme d'habitude",
-          "duration": "4:21"
-        }
-      ]
-    },
-    {
       "name": "N'Ssi N'Ssi",
       "year": "1993",
       "release_date": "1993-08-17",
@@ -263,6 +140,129 @@
           "number": 12,
           "name": "Hey Ouedi",
           "duration": "4:10"
+        }
+      ]
+    },
+    {
+      "name": "1, 2, 3 Soleils (Live à Bercy)",
+      "year": "1999",
+      "release_date": "1999-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ce/ad/35/cead35dc-ce5e-a2cf-2e21-be197f66e84c/00731454719124.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Khalliouni Khalliouni",
+          "duration": "5:40"
+        },
+        {
+          "number": 1,
+          "name": "Madeeh",
+          "duration": "7:25"
+        },
+        {
+          "number": 2,
+          "name": "Menfi",
+          "duration": "5:41"
+        },
+        {
+          "number": 2,
+          "name": "Wahrane Wahrane",
+          "duration": "4:58"
+        },
+        {
+          "number": 3,
+          "name": "Eray",
+          "duration": "4:40"
+        },
+        {
+          "number": 3,
+          "name": "Les ailes",
+          "duration": "5:14"
+        },
+        {
+          "number": 4,
+          "name": "N'ssi N'ssi",
+          "duration": "5:14"
+        },
+        {
+          "number": 4,
+          "name": "La Camel",
+          "duration": "5:28"
+        },
+        {
+          "number": 5,
+          "name": "Ida",
+          "duration": "7:08"
+        },
+        {
+          "number": 5,
+          "name": "Abdel Kader",
+          "duration": "5:12"
+        },
+        {
+          "number": 6,
+          "name": "Baida",
+          "duration": "5:42"
+        },
+        {
+          "number": 6,
+          "name": "Bent Sahra",
+          "duration": "7:21"
+        },
+        {
+          "number": 7,
+          "name": "Omri",
+          "duration": "5:44"
+        },
+        {
+          "number": 7,
+          "name": "Aicha",
+          "duration": "6:51"
+        },
+        {
+          "number": 8,
+          "name": "Voilà voilà",
+          "duration": "5:50"
+        },
+        {
+          "number": 8,
+          "name": "Tellement N'Brick",
+          "duration": "9:10"
+        },
+        {
+          "number": 9,
+          "name": "Indie",
+          "duration": "5:38"
+        },
+        {
+          "number": 9,
+          "name": "Didi",
+          "duration": "6:08"
+        },
+        {
+          "number": 10,
+          "name": "Chebba",
+          "duration": "5:30"
+        },
+        {
+          "number": 10,
+          "name": "Ya Rayah",
+          "duration": "7:28"
+        },
+        {
+          "number": 11,
+          "name": "Sahra",
+          "duration": "4:43"
+        },
+        {
+          "number": 11,
+          "name": "Daiman",
+          "duration": "4:20"
+        },
+        {
+          "number": 12,
+          "name": "Comme d'habitude",
+          "duration": "4:21"
         }
       ]
     },
@@ -5127,6 +5127,19 @@
           "number": 1,
           "name": "Titere",
           "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "Cuando Te VI (feat. Khaled)",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/63/ad/7163ade2-d564-95f3-e6bf-a83a2f3ef784/8445775375960.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cuando Te VI (feat. Khaled)",
+          "duration": "2:56"
         }
       ]
     },

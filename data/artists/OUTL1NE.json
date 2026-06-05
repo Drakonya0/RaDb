@@ -4,6 +4,29 @@
   "albums": [],
   "singles": [
     {
+      "name": "aetheris",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/74/0b/7b740bf7-2ef7-fd82-c2f9-8092d9960600/1032567.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "aetheris",
+          "duration": "1:41"
+        },
+        {
+          "number": 2,
+          "name": "aetheris (Slowed)",
+          "duration": "1:53"
+        },
+        {
+          "number": 3,
+          "name": "aetheris (Super Slowed)",
+          "duration": "2:07"
+        }
+      ]
+    },
+    {
       "name": "iismanic",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -46,29 +69,6 @@
           "number": 3,
           "name": "porcelain soul (ultra slowed)",
           "duration": "2:55"
-        }
-      ]
-    },
-    {
-      "name": "aetheris",
-      "year": "2026",
-      "release_date": "2026-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/74/0b/7b740bf7-2ef7-fd82-c2f9-8092d9960600/1032567.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "aetheris",
-          "duration": "1:41"
-        },
-        {
-          "number": 2,
-          "name": "aetheris (Slowed)",
-          "duration": "1:53"
-        },
-        {
-          "number": 3,
-          "name": "aetheris (Super Slowed)",
-          "duration": "2:07"
         }
       ]
     }
@@ -225,39 +225,6 @@
       ]
     },
     {
-      "name": "ESTRELADA",
-      "year": "2026",
-      "release_date": "2026-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/67/00/60670002-408f-022e-7c7d-72f6c257cd4c/199806966259.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ESTRELADA",
-          "duration": "1:25"
-        },
-        {
-          "number": 2,
-          "name": "ESTRELADA (Slowed)",
-          "duration": "1:30"
-        },
-        {
-          "number": 3,
-          "name": "ESTRELADA (Super Slowed)",
-          "duration": "1:36"
-        },
-        {
-          "number": 4,
-          "name": "ESTRELADA (Ultra Slowed)",
-          "duration": "1:48"
-        },
-        {
-          "number": 5,
-          "name": "ESTRELADA (Sped Up)",
-          "duration": "1:21"
-        }
-      ]
-    },
-    {
       "name": "SE PERDER",
       "year": "2026",
       "release_date": "2026-04-10",
@@ -343,6 +310,72 @@
           "number": 4,
           "name": "NORMA (Super Slowed)",
           "duration": "1:23"
+        }
+      ]
+    },
+    {
+      "name": "ESTRELADA",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/67/00/60670002-408f-022e-7c7d-72f6c257cd4c/199806966259.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ESTRELADA",
+          "duration": "1:25"
+        },
+        {
+          "number": 2,
+          "name": "ESTRELADA (Slowed)",
+          "duration": "1:30"
+        },
+        {
+          "number": 3,
+          "name": "ESTRELADA (Super Slowed)",
+          "duration": "1:36"
+        },
+        {
+          "number": 4,
+          "name": "ESTRELADA (Ultra Slowed)",
+          "duration": "1:48"
+        },
+        {
+          "number": 5,
+          "name": "ESTRELADA (Sped Up)",
+          "duration": "1:21"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM MAWARE",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/41/a1/6c41a1b4-8618-3668-fb69-7552700877b9/820233630801.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM MAWARE",
+          "duration": "1:23"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM MAWARE (Slowed)",
+          "duration": "1:33"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM MAWARE (Sped Up)",
+          "duration": "1:18"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM MAWARE (Super Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM MAWARE (Ultra Slowed)",
+          "duration": "1:57"
         }
       ]
     }

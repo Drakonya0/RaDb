@@ -3,64 +3,6 @@
   "id": 251767613,
   "albums": [
     {
-      "name": "Toxic",
-      "year": "2024",
-      "release_date": "2024-08-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/9b/08/7d9b0826-813f-fd97-69b8-e75c973e60e7/198391730344.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Back 2 U",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Sour",
-          "duration": "2:45"
-        },
-        {
-          "number": 3,
-          "name": "California Sober",
-          "duration": "2:42"
-        },
-        {
-          "number": 4,
-          "name": "Let Go",
-          "duration": "2:35"
-        },
-        {
-          "number": 5,
-          "name": "All That I'm Not",
-          "duration": "3:06"
-        },
-        {
-          "number": 6,
-          "name": "Love Feels Like",
-          "duration": "1:53"
-        },
-        {
-          "number": 7,
-          "name": "Bloodshot Eyes",
-          "duration": "2:35"
-        },
-        {
-          "number": 8,
-          "name": "Sinking (feat. Bloom)",
-          "duration": "3:24"
-        },
-        {
-          "number": 9,
-          "name": "Desaturated",
-          "duration": "2:27"
-        },
-        {
-          "number": 10,
-          "name": "Call My Name",
-          "duration": "3:50"
-        }
-      ]
-    },
-    {
       "name": "Self Care",
       "year": "2020",
       "release_date": "2020-09-18",
@@ -115,6 +57,64 @@
           "number": 10,
           "name": "Heartsleeve",
           "duration": "4:45"
+        }
+      ]
+    },
+    {
+      "name": "Toxic",
+      "year": "2024",
+      "release_date": "2024-08-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/9b/08/7d9b0826-813f-fd97-69b8-e75c973e60e7/198391730344.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Back 2 U",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Sour",
+          "duration": "2:45"
+        },
+        {
+          "number": 3,
+          "name": "California Sober",
+          "duration": "2:42"
+        },
+        {
+          "number": 4,
+          "name": "Let Go",
+          "duration": "2:35"
+        },
+        {
+          "number": 5,
+          "name": "All That I'm Not",
+          "duration": "3:06"
+        },
+        {
+          "number": 6,
+          "name": "Love Feels Like",
+          "duration": "1:53"
+        },
+        {
+          "number": 7,
+          "name": "Bloodshot Eyes",
+          "duration": "2:35"
+        },
+        {
+          "number": 8,
+          "name": "Sinking (feat. Bloom)",
+          "duration": "3:24"
+        },
+        {
+          "number": 9,
+          "name": "Desaturated",
+          "duration": "2:27"
+        },
+        {
+          "number": 10,
+          "name": "Call My Name",
+          "duration": "3:50"
         }
       ]
     },
@@ -259,19 +259,6 @@
       ]
     },
     {
-      "name": "Undersize",
-      "year": "2020",
-      "release_date": "2020-08-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/11/37/2d11379b-da49-a42d-33ad-f8fd4d37fcc1/195081783833.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Undersize",
-          "duration": "3:47"
-        }
-      ]
-    },
-    {
       "name": "Von Dutch (triple j Like A Version)",
       "year": "2025",
       "release_date": "2025-01-31",
@@ -281,6 +268,19 @@
           "number": 1,
           "name": "Von Dutch (triple j Like A Version)",
           "duration": "2:34"
+        }
+      ]
+    },
+    {
+      "name": "Undersize",
+      "year": "2020",
+      "release_date": "2020-08-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/11/37/2d11379b-da49-a42d-33ad-f8fd4d37fcc1/195081783833.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Undersize",
+          "duration": "3:47"
         }
       ]
     },
@@ -298,19 +298,6 @@
       ]
     },
     {
-      "name": "Community - Welcome Home",
-      "year": "2025",
-      "release_date": "2025-06-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/8f/b4/dd8fb45f-c017-98d4-b4e1-32835de67746/4065328674919.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Community - Welcome Home",
-          "duration": "5:20"
-        }
-      ]
-    },
-    {
       "name": "Circles",
       "year": "2019",
       "release_date": "2019-01-17",
@@ -320,6 +307,19 @@
           "number": 1,
           "name": "Circles",
           "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "name": "Community - Welcome Home",
+      "year": "2025",
+      "release_date": "2025-06-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/8f/b4/dd8fb45f-c017-98d4-b4e1-32835de67746/4065328674919.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Community - Welcome Home",
+          "duration": "5:20"
         }
       ]
     },
@@ -499,39 +499,6 @@
           "number": 5,
           "name": "Afterglow (Audiotree Live)",
           "duration": "3:07"
-        }
-      ]
-    },
-    {
-      "name": "Yours Truly, The Humble Beginnings",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/32/6c/d6326c6b-52cd-589f-90ce-b9cf887aec37/5063941561769_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Beat My Wife (feat. WIFEBEATER22)",
-          "duration": "0:26"
-        },
-        {
-          "number": 2,
-          "name": "Jungle Beat",
-          "duration": "0:39"
-        },
-        {
-          "number": 3,
-          "name": "Ancient Track",
-          "duration": "0:35"
-        },
-        {
-          "number": 4,
-          "name": "The True Beginnings",
-          "duration": "0:34"
-        },
-        {
-          "number": 5,
-          "name": "The Finale",
-          "duration": "0:54"
         }
       ]
     }

@@ -76,69 +76,6 @@
       ]
     },
     {
-      "name": "Node: Reloaded",
-      "year": "2025",
-      "release_date": "2025-11-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/7c/4d/457c4dc0-2759-fc8e-e3b8-b806f8ddeb50/0045778506606.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "soma.exe",
-          "duration": "4:02"
-        },
-        {
-          "number": 2,
-          "name": "obelisk.exe",
-          "duration": "4:14"
-        },
-        {
-          "number": 3,
-          "name": "node.exe",
-          "duration": "4:42"
-        },
-        {
-          "number": 4,
-          "name": "ohm.exe",
-          "duration": "4:07"
-        },
-        {
-          "number": 5,
-          "name": "nameless.exe",
-          "duration": "2:20"
-        },
-        {
-          "number": 6,
-          "name": "rot.exe",
-          "duration": "3:54"
-        },
-        {
-          "number": 7,
-          "name": "leech.exe",
-          "duration": "4:21"
-        },
-        {
-          "number": 8,
-          "name": "impulse.exe",
-          "duration": "3:35"
-        },
-        {
-          "number": 9,
-          "name": "weightless.exe",
-          "duration": "5:15"
-        },
-        {
-          "number": 10,
-          "name": "ra.exe",
-          "duration": "4:27"
-        },
-        {
-          "number": 11,
-          "name": "animate.exe",
-          "duration": "5:24"
-        }
-      ]
-    },
-    {
       "name": "Obsidian - Deluxe Edition",
       "year": "2022",
       "release_date": "2022-11-11",
@@ -273,6 +210,69 @@
           "number": 26,
           "name": "Dark Solitaire (Instrumental)",
           "duration": "4:54"
+        }
+      ]
+    },
+    {
+      "name": "Node: Reloaded",
+      "year": "2025",
+      "release_date": "2025-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/7c/4d/457c4dc0-2759-fc8e-e3b8-b806f8ddeb50/0045778506606.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "soma.exe",
+          "duration": "4:02"
+        },
+        {
+          "number": 2,
+          "name": "obelisk.exe",
+          "duration": "4:14"
+        },
+        {
+          "number": 3,
+          "name": "node.exe",
+          "duration": "4:42"
+        },
+        {
+          "number": 4,
+          "name": "ohm.exe",
+          "duration": "4:07"
+        },
+        {
+          "number": 5,
+          "name": "nameless.exe",
+          "duration": "2:20"
+        },
+        {
+          "number": 6,
+          "name": "rot.exe",
+          "duration": "3:54"
+        },
+        {
+          "number": 7,
+          "name": "leech.exe",
+          "duration": "4:21"
+        },
+        {
+          "number": 8,
+          "name": "impulse.exe",
+          "duration": "3:35"
+        },
+        {
+          "number": 9,
+          "name": "weightless.exe",
+          "duration": "5:15"
+        },
+        {
+          "number": 10,
+          "name": "ra.exe",
+          "duration": "4:27"
+        },
+        {
+          "number": 11,
+          "name": "animate.exe",
+          "duration": "5:24"
         }
       ]
     },
@@ -1280,19 +1280,6 @@
   ],
   "singles": [
     {
-      "name": "Evian",
-      "year": "2026",
-      "release_date": "2026-04-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/d4/37/c9d437ea-5f18-ee2a-cb12-9f064158600c/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Evian",
-          "duration": "5:02"
-        }
-      ]
-    },
-    {
       "name": "Clockwork",
       "year": "2021",
       "release_date": "2021-03-19",
@@ -1302,6 +1289,19 @@
           "number": 1,
           "name": "Clockwork",
           "duration": "3:58"
+        }
+      ]
+    },
+    {
+      "name": "Evian",
+      "year": "2026",
+      "release_date": "2026-04-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/d4/37/c9d437ea-5f18-ee2a-cb12-9f064158600c/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Evian",
+          "duration": "5:02"
         }
       ]
     },

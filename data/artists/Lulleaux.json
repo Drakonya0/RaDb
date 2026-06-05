@@ -531,19 +531,6 @@
       "tracks": []
     },
     {
-      "name": "Take Me Away",
-      "year": "2024",
-      "release_date": "2024-09-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/ce/7c/f4ce7caa-3a54-2b7c-26b0-8b409a9e71af/8715576213250_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Take Me Away",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "Forever (feat. Crooked Bangs)",
       "year": "2023",
       "release_date": "2023-02-03",
@@ -553,6 +540,19 @@
           "number": 1,
           "name": "Forever (feat. Crooked Bangs)",
           "duration": "2:23"
+        }
+      ]
+    },
+    {
+      "name": "Take Me Away",
+      "year": "2024",
+      "release_date": "2024-09-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/ce/7c/f4ce7caa-3a54-2b7c-26b0-8b409a9e71af/8715576213250_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Take Me Away",
+          "duration": "3:06"
         }
       ]
     },
@@ -716,6 +716,19 @@
       ]
     },
     {
+      "name": "Seventeen",
+      "year": "2023",
+      "release_date": "2023-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e3/89/a0/e389a0b2-02c4-7bb2-08dc-681ae0a0b706/8715576206993_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Seventeen",
+          "duration": "2:17"
+        }
+      ]
+    },
+    {
       "name": "Empty Love (feat. Kid Princess) [Lulleaux & Aligee Club Mix]",
       "year": "2020",
       "release_date": "2020-05-22",
@@ -730,19 +743,6 @@
           "number": 2,
           "name": "Empty Love (feat. Kid Princess) [Lulleaux & Aligee Extended Club Mix]",
           "duration": "4:18"
-        }
-      ]
-    },
-    {
-      "name": "Seventeen",
-      "year": "2023",
-      "release_date": "2023-05-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e3/89/a0/e389a0b2-02c4-7bb2-08dc-681ae0a0b706/8715576206993_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Seventeen",
-          "duration": "2:17"
         }
       ]
     },
@@ -909,24 +909,6 @@
       "tracks": []
     },
     {
-      "name": "Limbo (Thomas Nan Remix)",
-      "year": "2020",
-      "release_date": "2020-08-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/21/d0/cb21d0ba-a260-409a-730b-01f31982f69d/190295168322.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Limbo (Thomas Nan Remix)",
-          "duration": "3:13"
-        },
-        {
-          "number": 2,
-          "name": "Limbo (Thomas Nan Extended Remix)",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
       "name": "Contact (Sped Up) [feat. Giang Pham]",
       "year": "2022",
       "release_date": "2022-12-16",
@@ -941,6 +923,24 @@
           "number": 2,
           "name": "Contact (feat. Giang Pham)",
           "duration": "2:21"
+        }
+      ]
+    },
+    {
+      "name": "Limbo (Thomas Nan Remix)",
+      "year": "2020",
+      "release_date": "2020-08-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cb/21/d0/cb21d0ba-a260-409a-730b-01f31982f69d/190295168322.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Limbo (Thomas Nan Remix)",
+          "duration": "3:13"
+        },
+        {
+          "number": 2,
+          "name": "Limbo (Thomas Nan Extended Remix)",
+          "duration": "3:42"
         }
       ]
     },

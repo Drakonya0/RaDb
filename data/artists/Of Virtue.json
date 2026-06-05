@@ -71,6 +71,69 @@
       ]
     },
     {
+      "name": "Salvation",
+      "year": "2015",
+      "release_date": "2015-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/c4/09/19/c4091977-725f-7076-e0a6-1abe14e3df37/888295265171.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Carpal Tunnel",
+          "duration": "4:44"
+        },
+        {
+          "number": 2,
+          "name": "Wreckage",
+          "duration": "3:34"
+        },
+        {
+          "number": 3,
+          "name": "So Nearly Free",
+          "duration": "4:38"
+        },
+        {
+          "number": 4,
+          "name": "Oil and Water",
+          "duration": "3:36"
+        },
+        {
+          "number": 5,
+          "name": "Uprooted",
+          "duration": "3:15"
+        },
+        {
+          "number": 6,
+          "name": "Revive",
+          "duration": "3:12"
+        },
+        {
+          "number": 7,
+          "name": "Dread",
+          "duration": "3:12"
+        },
+        {
+          "number": 8,
+          "name": "Old Homes, New Graves",
+          "duration": "4:36"
+        },
+        {
+          "number": 9,
+          "name": "Carving Words",
+          "duration": "4:08"
+        },
+        {
+          "number": 10,
+          "name": "Rusted Over",
+          "duration": "4:20"
+        },
+        {
+          "number": 11,
+          "name": "Cold Reality",
+          "duration": "4:48"
+        }
+      ]
+    },
+    {
       "name": "What Defines You (Deluxe)",
       "year": "2020",
       "release_date": "2020-11-20",
@@ -160,69 +223,6 @@
           "number": 17,
           "name": "Death: Reality (B-Side)",
           "duration": "3:32"
-        }
-      ]
-    },
-    {
-      "name": "Salvation",
-      "year": "2015",
-      "release_date": "2015-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/c4/09/19/c4091977-725f-7076-e0a6-1abe14e3df37/888295265171.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Carpal Tunnel",
-          "duration": "4:44"
-        },
-        {
-          "number": 2,
-          "name": "Wreckage",
-          "duration": "3:34"
-        },
-        {
-          "number": 3,
-          "name": "So Nearly Free",
-          "duration": "4:38"
-        },
-        {
-          "number": 4,
-          "name": "Oil and Water",
-          "duration": "3:36"
-        },
-        {
-          "number": 5,
-          "name": "Uprooted",
-          "duration": "3:15"
-        },
-        {
-          "number": 6,
-          "name": "Revive",
-          "duration": "3:12"
-        },
-        {
-          "number": 7,
-          "name": "Dread",
-          "duration": "3:12"
-        },
-        {
-          "number": 8,
-          "name": "Old Homes, New Graves",
-          "duration": "4:36"
-        },
-        {
-          "number": 9,
-          "name": "Carving Words",
-          "duration": "4:08"
-        },
-        {
-          "number": 10,
-          "name": "Rusted Over",
-          "duration": "4:20"
-        },
-        {
-          "number": 11,
-          "name": "Cold Reality",
-          "duration": "4:48"
         }
       ]
     },
@@ -373,24 +373,6 @@
       ]
     },
     {
-      "name": "The Art of Love",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/e8/b9/cee8b9b1-23d7-7b05-76cc-ba4a00f97e33/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Art of Love",
-          "duration": "2:46"
-        },
-        {
-          "number": 2,
-          "name": "Death of the Altar",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
       "name": "Bad Dreams (feat. Of Virtue)",
       "year": "2025",
       "release_date": "2025-01-15",
@@ -462,6 +444,24 @@
           "number": 2,
           "name": "Sinner",
           "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "The Art of Love",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/e8/b9/cee8b9b1-23d7-7b05-76cc-ba4a00f97e33/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Art of Love",
+          "duration": "2:46"
+        },
+        {
+          "number": 2,
+          "name": "Death of the Altar",
+          "duration": "3:20"
         }
       ]
     },

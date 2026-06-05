@@ -121,6 +121,32 @@
   ],
   "singles": [
     {
+      "name": "おいしいサバイバー",
+      "year": "2025",
+      "release_date": "2025-01-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/7e/9a/247e9a8b-30c7-6d50-b469-452cb4bb2124/4547366729016.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tasty Survivor",
+          "duration": "2:58"
+        }
+      ]
+    },
+    {
+      "name": "TOUSOU",
+      "year": "2023",
+      "release_date": "2023-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/b1/64/8bb1643d-e23c-2ae0-561a-86969b80ea68/4547366626605.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Run Away",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
       "name": "LOVE乱舞",
       "year": "2022",
       "release_date": "2022-04-13",
@@ -238,19 +264,6 @@
       ]
     },
     {
-      "name": "おいしいサバイバー",
-      "year": "2025",
-      "release_date": "2025-01-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/7e/9a/247e9a8b-30c7-6d50-b469-452cb4bb2124/4547366729016.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tasty Survivor",
-          "duration": "2:58"
-        }
-      ]
-    },
-    {
       "name": "かるガルEveryday!!",
       "year": "2025",
       "release_date": "2025-07-18",
@@ -260,19 +273,6 @@
           "number": 1,
           "name": "Karu Garu Everyday!!",
           "duration": "2:42"
-        }
-      ]
-    },
-    {
-      "name": "TOUSOU",
-      "year": "2023",
-      "release_date": "2023-06-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/b1/64/8bb1643d-e23c-2ae0-561a-86969b80ea68/4547366626605.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Run Away",
-          "duration": "2:51"
         }
       ]
     },
@@ -335,39 +335,6 @@
     }
   ],
   "eps": [
-    {
-      "name": "HOT TOPIC",
-      "year": "2026",
-      "release_date": "2026-01-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/21/b2/9821b206-f7d6-04b6-9466-93bbb0cae83e/4547366799477.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ICONIC",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Spicy Queen",
-          "duration": "3:49"
-        },
-        {
-          "number": 3,
-          "name": "Tokimeki about you",
-          "duration": "3:19"
-        },
-        {
-          "number": 4,
-          "name": "GIRL'S TALK",
-          "duration": "2:52"
-        },
-        {
-          "number": 5,
-          "name": "Theme of hanabienchan.",
-          "duration": "1:38"
-        }
-      ]
-    },
     {
       "name": "ぶっちぎり東京",
       "year": "2024",
@@ -441,6 +408,39 @@
           "number": 6,
           "name": "Drastic Nadeshiko",
           "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "HOT TOPIC",
+      "year": "2026",
+      "release_date": "2026-01-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/21/b2/9821b206-f7d6-04b6-9466-93bbb0cae83e/4547366799477.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ICONIC",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Spicy Queen",
+          "duration": "3:49"
+        },
+        {
+          "number": 3,
+          "name": "Tokimeki about you",
+          "duration": "3:19"
+        },
+        {
+          "number": 4,
+          "name": "GIRL'S TALK",
+          "duration": "2:52"
+        },
+        {
+          "number": 5,
+          "name": "Theme of hanabienchan.",
+          "duration": "1:38"
         }
       ]
     }

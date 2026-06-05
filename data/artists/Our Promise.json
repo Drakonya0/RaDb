@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Panic Waves",
-      "year": "2023",
-      "release_date": "2023-02-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/07/15/93/07159345-28b7-ab75-7524-b27277882ecb/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Panic Waves",
-          "duration": "4:07"
-        }
-      ]
-    },
-    {
       "name": "Evoke",
       "year": "2023",
       "release_date": "2023-04-21",
@@ -39,32 +26,6 @@
           "number": 1,
           "name": "The Worst",
           "duration": "3:29"
-        }
-      ]
-    },
-    {
-      "name": "Stay Away",
-      "year": "2021",
-      "release_date": "2021-10-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/53/62/90536251-6d41-f194-412c-804ab9a66faf/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stay Away",
-          "duration": "3:19"
-        }
-      ]
-    },
-    {
-      "name": "FiftyFive",
-      "year": "2024",
-      "release_date": "2024-07-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/2d/cd/3a2dcd70-214d-3801-f92e-d3cb19f0bf8e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FiftyFive",
-          "duration": "3:24"
         }
       ]
     },
@@ -108,19 +69,6 @@
       ]
     },
     {
-      "name": "Satisfiction",
-      "year": "2023",
-      "release_date": "2023-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ed/fa/ec/edfaecc1-e332-f83a-57c8-74fe3b939518/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Satisfiction",
-          "duration": "3:41"
-        }
-      ]
-    },
-    {
       "name": "Bitter",
       "year": "2025",
       "release_date": "2025-04-11",
@@ -143,6 +91,58 @@
           "number": 1,
           "name": "Static",
           "duration": "3:31"
+        }
+      ]
+    },
+    {
+      "name": "Panic Waves",
+      "year": "2023",
+      "release_date": "2023-02-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/07/15/93/07159345-28b7-ab75-7524-b27277882ecb/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Panic Waves",
+          "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Stay Away",
+      "year": "2021",
+      "release_date": "2021-10-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/90/53/62/90536251-6d41-f194-412c-804ab9a66faf/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stay Away",
+          "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "FiftyFive",
+      "year": "2024",
+      "release_date": "2024-07-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/2d/cd/3a2dcd70-214d-3801-f92e-d3cb19f0bf8e/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FiftyFive",
+          "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "Satisfiction",
+      "year": "2023",
+      "release_date": "2023-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ed/fa/ec/edfaecc1-e332-f83a-57c8-74fe3b939518/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Satisfiction",
+          "duration": "3:41"
         }
       ]
     },

@@ -144,6 +144,64 @@
       ]
     },
     {
+      "name": "Narrative",
+      "year": "2016",
+      "release_date": "2016-08-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/57/61/fb57611d-97f5-c2fb-e5d5-6abe763698cf/4050538227413.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Public Enemy",
+          "duration": "3:37"
+        },
+        {
+          "number": 2,
+          "name": "End Transmission",
+          "duration": "3:39"
+        },
+        {
+          "number": 3,
+          "name": "Excuse Me",
+          "duration": "4:04"
+        },
+        {
+          "number": 4,
+          "name": "Composition",
+          "duration": "3:57"
+        },
+        {
+          "number": 5,
+          "name": "Evolve",
+          "duration": "3:31"
+        },
+        {
+          "number": 6,
+          "name": "Pretenders",
+          "duration": "4:47"
+        },
+        {
+          "number": 7,
+          "name": "Diversion",
+          "duration": "3:05"
+        },
+        {
+          "number": 8,
+          "name": "In Spite of Doubt",
+          "duration": "3:50"
+        },
+        {
+          "number": 9,
+          "name": "Lifeline",
+          "duration": "4:18"
+        },
+        {
+          "number": 10,
+          "name": "Into the Blue",
+          "duration": "4:04"
+        }
+      ]
+    },
+    {
       "name": "Narrative Retold",
       "year": "2017",
       "release_date": "2017-05-19",
@@ -213,64 +271,6 @@
           "number": 13,
           "name": "Excuse Me (Acoustic)",
           "duration": "4:05"
-        }
-      ]
-    },
-    {
-      "name": "Narrative",
-      "year": "2016",
-      "release_date": "2016-08-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/57/61/fb57611d-97f5-c2fb-e5d5-6abe763698cf/4050538227413.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Public Enemy",
-          "duration": "3:37"
-        },
-        {
-          "number": 2,
-          "name": "End Transmission",
-          "duration": "3:39"
-        },
-        {
-          "number": 3,
-          "name": "Excuse Me",
-          "duration": "4:04"
-        },
-        {
-          "number": 4,
-          "name": "Composition",
-          "duration": "3:57"
-        },
-        {
-          "number": 5,
-          "name": "Evolve",
-          "duration": "3:31"
-        },
-        {
-          "number": 6,
-          "name": "Pretenders",
-          "duration": "4:47"
-        },
-        {
-          "number": 7,
-          "name": "Diversion",
-          "duration": "3:05"
-        },
-        {
-          "number": 8,
-          "name": "In Spite of Doubt",
-          "duration": "3:50"
-        },
-        {
-          "number": 9,
-          "name": "Lifeline",
-          "duration": "4:18"
-        },
-        {
-          "number": 10,
-          "name": "Into the Blue",
-          "duration": "4:04"
         }
       ]
     },
@@ -363,32 +363,6 @@
       ]
     },
     {
-      "name": "Unknown",
-      "year": "2026",
-      "release_date": "2026-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/4e/45/dc4e45fe-e823-e2cb-198f-8f6d5961f286/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Unknown",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
-      "name": "Incinerate",
-      "year": "2025",
-      "release_date": "2025-06-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/a9/63/caa96304-6252-5e2a-260f-a67316e5eae1/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Incinerate",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
       "name": "Vanilla Paste (feat. Fire From the Gods, Chelsea Grin & Guerrilla Warfare)",
       "year": "2021",
       "release_date": "2021-08-18",
@@ -411,6 +385,19 @@
           "number": 1,
           "name": "Kingdom (feat. AJ Channer of Fire from the Gods)",
           "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "Unknown",
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/4e/45/dc4e45fe-e823-e2cb-198f-8f6d5961f286/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Unknown",
+          "duration": "3:00"
         }
       ]
     },
@@ -468,6 +455,19 @@
           "number": 2,
           "name": "Sos",
           "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "Incinerate",
+      "year": "2025",
+      "release_date": "2025-06-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/a9/63/caa96304-6252-5e2a-260f-a67316e5eae1/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Incinerate",
+          "duration": "3:07"
         }
       ]
     },

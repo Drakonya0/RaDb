@@ -3,6 +3,99 @@
   "id": 1031397873,
   "albums": [
     {
+      "name": "Dua Lipa (Deluxe)",
+      "year": "2017",
+      "release_date": "2017-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Genesis",
+          "duration": "3:25"
+        },
+        {
+          "number": 2,
+          "name": "Lost In Your Light (feat. Miguel)",
+          "duration": "3:23"
+        },
+        {
+          "number": 3,
+          "name": "Hotter Than Hell",
+          "duration": "3:07"
+        },
+        {
+          "number": 4,
+          "name": "Be the One",
+          "duration": "3:22"
+        },
+        {
+          "number": 5,
+          "name": "IDGAF",
+          "duration": "3:37"
+        },
+        {
+          "number": 6,
+          "name": "Blow Your Mind (Mwah)",
+          "duration": "2:58"
+        },
+        {
+          "number": 7,
+          "name": "Garden",
+          "duration": "3:47"
+        },
+        {
+          "number": 8,
+          "name": "No Goodbyes",
+          "duration": "3:36"
+        },
+        {
+          "number": 9,
+          "name": "Thinking 'Bout You",
+          "duration": "2:51"
+        },
+        {
+          "number": 10,
+          "name": "New Rules",
+          "duration": "3:29"
+        },
+        {
+          "number": 11,
+          "name": "Begging",
+          "duration": "3:14"
+        },
+        {
+          "number": 12,
+          "name": "Homesick",
+          "duration": "3:50"
+        },
+        {
+          "number": 13,
+          "name": "Dreams",
+          "duration": "3:40"
+        },
+        {
+          "number": 14,
+          "name": "Room For 2",
+          "duration": "3:28"
+        },
+        {
+          "number": 15,
+          "name": "New Love",
+          "duration": "4:31"
+        },
+        {
+          "number": 16,
+          "name": "Bad Together",
+          "duration": "3:58"
+        },
+        {
+          "number": 17,
+          "name": "Last Dance",
+          "duration": "3:48"
+        }
+      ]
+    },
+    {
       "name": "Future Nostalgia (The Moonlight Edition)",
       "year": "2021",
       "release_date": "2021-02-11",
@@ -102,99 +195,6 @@
           "number": 19,
           "name": "Un Día (One Day)",
           "duration": "3:51"
-        }
-      ]
-    },
-    {
-      "name": "Dua Lipa (Deluxe)",
-      "year": "2017",
-      "release_date": "2017-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c1/54/2d/c1542d45-c6c2-12ca-7308-6eacd762c562/190295807870.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Genesis",
-          "duration": "3:25"
-        },
-        {
-          "number": 2,
-          "name": "Lost In Your Light (feat. Miguel)",
-          "duration": "3:23"
-        },
-        {
-          "number": 3,
-          "name": "Hotter Than Hell",
-          "duration": "3:07"
-        },
-        {
-          "number": 4,
-          "name": "Be the One",
-          "duration": "3:22"
-        },
-        {
-          "number": 5,
-          "name": "IDGAF",
-          "duration": "3:37"
-        },
-        {
-          "number": 6,
-          "name": "Blow Your Mind (Mwah)",
-          "duration": "2:58"
-        },
-        {
-          "number": 7,
-          "name": "Garden",
-          "duration": "3:47"
-        },
-        {
-          "number": 8,
-          "name": "No Goodbyes",
-          "duration": "3:36"
-        },
-        {
-          "number": 9,
-          "name": "Thinking 'Bout You",
-          "duration": "2:51"
-        },
-        {
-          "number": 10,
-          "name": "New Rules",
-          "duration": "3:29"
-        },
-        {
-          "number": 11,
-          "name": "Begging",
-          "duration": "3:14"
-        },
-        {
-          "number": 12,
-          "name": "Homesick",
-          "duration": "3:50"
-        },
-        {
-          "number": 13,
-          "name": "Dreams",
-          "duration": "3:40"
-        },
-        {
-          "number": 14,
-          "name": "Room For 2",
-          "duration": "3:28"
-        },
-        {
-          "number": 15,
-          "name": "New Love",
-          "duration": "4:31"
-        },
-        {
-          "number": 16,
-          "name": "Bad Together",
-          "duration": "3:58"
-        },
-        {
-          "number": 17,
-          "name": "Last Dance",
-          "duration": "3:48"
         }
       ]
     },
@@ -464,6 +464,74 @@
           "number": 11,
           "name": "Happy For You",
           "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "name": "Dua Lipa",
+      "year": "2017",
+      "release_date": "2017-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/a5/0a/cda50a89-51b0-bfde-eb42-d569b6f7c45e/190295812812.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Genesis",
+          "duration": "3:25"
+        },
+        {
+          "number": 2,
+          "name": "Lost In Your Light (feat. Miguel)",
+          "duration": "3:23"
+        },
+        {
+          "number": 3,
+          "name": "Hotter Than Hell",
+          "duration": "3:07"
+        },
+        {
+          "number": 4,
+          "name": "Be the One",
+          "duration": "3:22"
+        },
+        {
+          "number": 5,
+          "name": "IDGAF",
+          "duration": "3:37"
+        },
+        {
+          "number": 6,
+          "name": "Blow Your Mind (Mwah)",
+          "duration": "2:58"
+        },
+        {
+          "number": 7,
+          "name": "Garden",
+          "duration": "3:47"
+        },
+        {
+          "number": 8,
+          "name": "No Goodbyes",
+          "duration": "3:36"
+        },
+        {
+          "number": 9,
+          "name": "Thinking 'Bout You",
+          "duration": "2:51"
+        },
+        {
+          "number": 10,
+          "name": "New Rules",
+          "duration": "3:29"
+        },
+        {
+          "number": 11,
+          "name": "Begging",
+          "duration": "3:14"
+        },
+        {
+          "number": 12,
+          "name": "Homesick",
+          "duration": "3:50"
         }
       ]
     },
@@ -772,6 +840,69 @@
       ]
     },
     {
+      "name": "Radical Optimism (Extended)",
+      "year": "2024",
+      "release_date": "2024-06-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/04/47/ae044739-21a9-acac-95d4-edf32cff791e/5021732405807.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "End Of An Era (Extended)",
+          "duration": "4:36"
+        },
+        {
+          "number": 2,
+          "name": "Houdini (Extended)",
+          "duration": "5:53"
+        },
+        {
+          "number": 3,
+          "name": "Training Season (Extended)",
+          "duration": "4:55"
+        },
+        {
+          "number": 4,
+          "name": "These Walls (Extended)",
+          "duration": "5:40"
+        },
+        {
+          "number": 5,
+          "name": "Whatcha Doing (Extended)",
+          "duration": "5:07"
+        },
+        {
+          "number": 6,
+          "name": "French Exit (Extended)",
+          "duration": "5:17"
+        },
+        {
+          "number": 7,
+          "name": "Illusion (Extended)",
+          "duration": "4:23"
+        },
+        {
+          "number": 8,
+          "name": "Falling Forever (Extended)",
+          "duration": "6:11"
+        },
+        {
+          "number": 9,
+          "name": "Anything For Love (Extended)",
+          "duration": "4:00"
+        },
+        {
+          "number": 10,
+          "name": "Maria (Extended)",
+          "duration": "5:05"
+        },
+        {
+          "number": 11,
+          "name": "Happy For You (Extended)",
+          "duration": "5:56"
+        }
+      ]
+    },
+    {
       "name": "Club Future Nostalgia (DJ Mix)",
       "year": "2020",
       "release_date": "2020-08-28",
@@ -865,6 +996,54 @@
       ]
     },
     {
+      "name": "One Kiss (Remixes)",
+      "year": "2018",
+      "release_date": "2018-07-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/12/c2/f0/12c2f053-d29d-8706-0a26-2219c2b47b8e/886447205525.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One Kiss (R3HAB Extended Remix)",
+          "duration": "4:20"
+        },
+        {
+          "number": 2,
+          "name": "One Kiss (Jauz Extended Remix)",
+          "duration": "4:59"
+        },
+        {
+          "number": 3,
+          "name": "One Kiss (Oliver Heldens Extended Remix)",
+          "duration": "5:27"
+        },
+        {
+          "number": 4,
+          "name": "One Kiss (Valentino Khan Extended Remix)",
+          "duration": "4:55"
+        },
+        {
+          "number": 5,
+          "name": "One Kiss (Patrick Topping Extended Remix)",
+          "duration": "6:12"
+        },
+        {
+          "number": 6,
+          "name": "One Kiss (ZHU Remix)",
+          "duration": "4:00"
+        },
+        {
+          "number": 7,
+          "name": "One Kiss (King Britt Remix)",
+          "duration": "6:04"
+        },
+        {
+          "number": 8,
+          "name": "One Kiss (Extended Mix)",
+          "duration": "4:42"
+        }
+      ]
+    },
+    {
       "name": "Club Future Nostalgia",
       "year": "2020",
       "release_date": "2020-09-11",
@@ -954,318 +1133,6 @@
           "number": 17,
           "name": "Good in Bed (Zach Witness Remix)",
           "duration": "3:53"
-        }
-      ]
-    },
-    {
-      "name": "Radical Optimism (Extended)",
-      "year": "2024",
-      "release_date": "2024-06-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/04/47/ae044739-21a9-acac-95d4-edf32cff791e/5021732405807.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "End Of An Era (Extended)",
-          "duration": "4:36"
-        },
-        {
-          "number": 2,
-          "name": "Houdini (Extended)",
-          "duration": "5:53"
-        },
-        {
-          "number": 3,
-          "name": "Training Season (Extended)",
-          "duration": "4:55"
-        },
-        {
-          "number": 4,
-          "name": "These Walls (Extended)",
-          "duration": "5:40"
-        },
-        {
-          "number": 5,
-          "name": "Whatcha Doing (Extended)",
-          "duration": "5:07"
-        },
-        {
-          "number": 6,
-          "name": "French Exit (Extended)",
-          "duration": "5:17"
-        },
-        {
-          "number": 7,
-          "name": "Illusion (Extended)",
-          "duration": "4:23"
-        },
-        {
-          "number": 8,
-          "name": "Falling Forever (Extended)",
-          "duration": "6:11"
-        },
-        {
-          "number": 9,
-          "name": "Anything For Love (Extended)",
-          "duration": "4:00"
-        },
-        {
-          "number": 10,
-          "name": "Maria (Extended)",
-          "duration": "5:05"
-        },
-        {
-          "number": 11,
-          "name": "Happy For You (Extended)",
-          "duration": "5:56"
-        }
-      ]
-    },
-    {
-      "name": "Dua Lipa",
-      "year": "2017",
-      "release_date": "2017-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/a5/0a/cda50a89-51b0-bfde-eb42-d569b6f7c45e/190295812812.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Genesis",
-          "duration": "3:25"
-        },
-        {
-          "number": 2,
-          "name": "Lost In Your Light (feat. Miguel)",
-          "duration": "3:23"
-        },
-        {
-          "number": 3,
-          "name": "Hotter Than Hell",
-          "duration": "3:07"
-        },
-        {
-          "number": 4,
-          "name": "Be the One",
-          "duration": "3:22"
-        },
-        {
-          "number": 5,
-          "name": "IDGAF",
-          "duration": "3:37"
-        },
-        {
-          "number": 6,
-          "name": "Blow Your Mind (Mwah)",
-          "duration": "2:58"
-        },
-        {
-          "number": 7,
-          "name": "Garden",
-          "duration": "3:47"
-        },
-        {
-          "number": 8,
-          "name": "No Goodbyes",
-          "duration": "3:36"
-        },
-        {
-          "number": 9,
-          "name": "Thinking 'Bout You",
-          "duration": "2:51"
-        },
-        {
-          "number": 10,
-          "name": "New Rules",
-          "duration": "3:29"
-        },
-        {
-          "number": 11,
-          "name": "Begging",
-          "duration": "3:14"
-        },
-        {
-          "number": 12,
-          "name": "Homesick",
-          "duration": "3:50"
-        }
-      ]
-    },
-    {
-      "name": "Dua Lipa - Live From Mexico",
-      "year": "2026",
-      "release_date": "2026-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/53/19/6a5319c0-b1ad-b3c8-d440-5c54e5c9bfdd/827568024534.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Training Season (Live From Mexico)",
-          "duration": "3:33"
-        },
-        {
-          "number": 1,
-          "name": "Whatcha Doing (Live From Mexico)",
-          "duration": "4:34"
-        },
-        {
-          "number": 1,
-          "name": "Physical (Live From Mexico)",
-          "duration": "5:22"
-        },
-        {
-          "number": 1,
-          "name": "Falling Forever (Live From Mexico)",
-          "duration": "4:20"
-        },
-        {
-          "number": 1,
-          "name": "New Rules / Dance The Night Interlude (Live From Mexico)",
-          "duration": "4:51"
-        },
-        {
-          "number": 2,
-          "name": "End Of An Era (Live From Mexico)",
-          "duration": "3:25"
-        },
-        {
-          "number": 2,
-          "name": "Levitating (Live From Mexico)",
-          "duration": "4:17"
-        },
-        {
-          "number": 2,
-          "name": "Electricity (Live From Mexico)",
-          "duration": "4:10"
-        },
-        {
-          "number": 2,
-          "name": "Happy For You (Live From Mexico)",
-          "duration": "5:08"
-        },
-        {
-          "number": 2,
-          "name": "Don’t Start Now (Live From Mexico)",
-          "duration": "3:56"
-        },
-        {
-          "number": 3,
-          "name": "Break My Heart (Live From Mexico)",
-          "duration": "4:13"
-        },
-        {
-          "number": 3,
-          "name": "These Walls (Live From Mexico)",
-          "duration": "4:27"
-        },
-        {
-          "number": 3,
-          "name": "Hallucinate (Live From Mexico)",
-          "duration": "3:00"
-        },
-        {
-          "number": 3,
-          "name": "Love Again (Live From Mexico)",
-          "duration": "6:34"
-        },
-        {
-          "number": 3,
-          "name": "Houdini (Live From Mexico)",
-          "duration": "4:11"
-        },
-        {
-          "number": 4,
-          "name": "One Medley (Mexican Live Edit)",
-          "duration": "6:20"
-        },
-        {
-          "number": 4,
-          "name": "Oye Mi Amor (feat. Fher de Maná) [Live From Mexico]",
-          "duration": "5:03"
-        },
-        {
-          "number": 4,
-          "name": "Illusion (Live From Mexico)",
-          "duration": "4:15"
-        },
-        {
-          "number": 4,
-          "name": "Anything For Love (Live From Mexico)",
-          "duration": "3:35"
-        },
-        {
-          "number": 5,
-          "name": "Maria (Live From Mexico)",
-          "duration": "3:38"
-        },
-        {
-          "number": 5,
-          "name": "Be The One (Live From Mexico)",
-          "duration": "8:35"
-        }
-      ]
-    },
-    {
-      "name": "Dua Lipa",
-      "year": "2017",
-      "release_date": "2017-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/e7/66/a3e76632-7037-4db3-7711-51e140089a81/190295806637.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Genesis",
-          "duration": "3:25"
-        },
-        {
-          "number": 2,
-          "name": "Lost In Your Light (feat. Miguel)",
-          "duration": "3:23"
-        },
-        {
-          "number": 3,
-          "name": "Hotter Than Hell",
-          "duration": "3:07"
-        },
-        {
-          "number": 4,
-          "name": "Be the One",
-          "duration": "3:22"
-        },
-        {
-          "number": 5,
-          "name": "IDGAF",
-          "duration": "3:35"
-        },
-        {
-          "number": 6,
-          "name": "Blow Your Mind (Mwah)",
-          "duration": "2:58"
-        },
-        {
-          "number": 7,
-          "name": "Garden",
-          "duration": "3:47"
-        },
-        {
-          "number": 8,
-          "name": "No Goodbyes",
-          "duration": "3:36"
-        },
-        {
-          "number": 9,
-          "name": "Thinking 'Bout You",
-          "duration": "2:51"
-        },
-        {
-          "number": 10,
-          "name": "New Rules",
-          "duration": "3:29"
-        },
-        {
-          "number": 11,
-          "name": "Begging",
-          "duration": "3:14"
-        },
-        {
-          "number": 12,
-          "name": "Homesick",
-          "duration": "3:50"
         }
       ]
     },
@@ -1486,50 +1353,70 @@
       ]
     },
     {
-      "name": "One Kiss (Remixes)",
-      "year": "2018",
-      "release_date": "2018-07-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/12/c2/f0/12c2f053-d29d-8706-0a26-2219c2b47b8e/886447205525.jpg/600x600bb.jpg",
+      "name": "Dua Lipa",
+      "year": "2017",
+      "release_date": "2017-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/e7/66/a3e76632-7037-4db3-7711-51e140089a81/190295806637.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "One Kiss (R3HAB Extended Remix)",
-          "duration": "4:20"
+          "name": "Genesis",
+          "duration": "3:25"
         },
         {
           "number": 2,
-          "name": "One Kiss (Jauz Extended Remix)",
-          "duration": "4:59"
+          "name": "Lost In Your Light (feat. Miguel)",
+          "duration": "3:23"
         },
         {
           "number": 3,
-          "name": "One Kiss (Oliver Heldens Extended Remix)",
-          "duration": "5:27"
+          "name": "Hotter Than Hell",
+          "duration": "3:07"
         },
         {
           "number": 4,
-          "name": "One Kiss (Valentino Khan Extended Remix)",
-          "duration": "4:55"
+          "name": "Be the One",
+          "duration": "3:22"
         },
         {
           "number": 5,
-          "name": "One Kiss (Patrick Topping Extended Remix)",
-          "duration": "6:12"
+          "name": "IDGAF",
+          "duration": "3:35"
         },
         {
           "number": 6,
-          "name": "One Kiss (ZHU Remix)",
-          "duration": "4:00"
+          "name": "Blow Your Mind (Mwah)",
+          "duration": "2:58"
         },
         {
           "number": 7,
-          "name": "One Kiss (King Britt Remix)",
-          "duration": "6:04"
+          "name": "Garden",
+          "duration": "3:47"
         },
         {
           "number": 8,
-          "name": "One Kiss (Extended Mix)",
-          "duration": "4:42"
+          "name": "No Goodbyes",
+          "duration": "3:36"
+        },
+        {
+          "number": 9,
+          "name": "Thinking 'Bout You",
+          "duration": "2:51"
+        },
+        {
+          "number": 10,
+          "name": "New Rules",
+          "duration": "3:29"
+        },
+        {
+          "number": 11,
+          "name": "Begging",
+          "duration": "3:14"
+        },
+        {
+          "number": 12,
+          "name": "Homesick",
+          "duration": "3:50"
         }
       ]
     },
@@ -1543,147 +1430,6 @@
           "number": 1,
           "name": "Levitating (feat. Sukriti Kakar & Prakriti Kakar) [Amaal Mallik Remix]",
           "duration": "2:36"
-        }
-      ]
-    },
-    {
-      "name": "Be The One (Remixes)",
-      "year": "2016",
-      "release_date": "2016-05-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/b3/60/04b36000-0b6d-a030-f8d0-8f33d30a058d/5021732756282.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Be the One",
-          "duration": "3:22"
-        },
-        {
-          "number": 2,
-          "name": "Be the One (Netsky Remix)",
-          "duration": "4:17"
-        },
-        {
-          "number": 3,
-          "name": "Be the One (Shy Luv Remix)",
-          "duration": "3:28"
-        },
-        {
-          "number": 4,
-          "name": "Be the One (Dillistone Remix)",
-          "duration": "3:47"
-        },
-        {
-          "number": 5,
-          "name": "Be the One (Paul Woolford Remix)",
-          "duration": "6:21"
-        },
-        {
-          "number": 6,
-          "name": "Be the One (Take a Daytrip Remix)",
-          "duration": "4:08"
-        },
-        {
-          "number": 7,
-          "name": "Be the One (Ten Ven Remix)",
-          "duration": "5:24"
-        },
-        {
-          "number": 8,
-          "name": "Be the One (With You Remix)",
-          "duration": "5:45"
-        }
-      ]
-    },
-    {
-      "name": "Radical Optimism Tour - USA",
-      "year": "2024",
-      "release_date": "2024-11-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/a9/63/c3a96334-c375-d17e-6108-aee347871182/5059460375420.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
-      "name": "New Rules (Remixes)",
-      "year": "2017",
-      "release_date": "2017-05-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/40/4b/20404b44-d982-30df-c89f-266ff0926366/5021732756336.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "New Rules",
-          "duration": "3:29"
-        },
-        {
-          "number": 2,
-          "name": "New Rules (KREAM Remix)",
-          "duration": "4:40"
-        },
-        {
-          "number": 3,
-          "name": "New Rules (Freedo Remix)",
-          "duration": "3:33"
-        },
-        {
-          "number": 4,
-          "name": "New Rules (SG Lewis Remix)",
-          "duration": "4:13"
-        },
-        {
-          "number": 5,
-          "name": "New Rules (MRK Club Mix)",
-          "duration": "4:44"
-        },
-        {
-          "number": 6,
-          "name": "New Rules (Alison Wonderland Remix)",
-          "duration": "4:23"
-        },
-        {
-          "number": 7,
-          "name": "New Rules (Initial Talk Remix)",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
-      "name": "Hotter Than Hell (Remixes)",
-      "year": "2016",
-      "release_date": "2016-07-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/5b/11/2b5b11cf-dd8a-bcd9-d95d-b1e49aa3a2d9/5021732756275.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hotter Than Hell",
-          "duration": "3:07"
-        },
-        {
-          "number": 2,
-          "name": "Hotter Than Hell (Miike Snow Remix)",
-          "duration": "4:12"
-        },
-        {
-          "number": 3,
-          "name": "Hotter Than Hell (Matoma Remix)",
-          "duration": "3:39"
-        },
-        {
-          "number": 4,
-          "name": "Hotter Than Hell (Jack Wins Remix)",
-          "duration": "4:15"
-        },
-        {
-          "number": 5,
-          "name": "Hotter Than Hell (Shadow Child Remix)",
-          "duration": "6:27"
-        },
-        {
-          "number": 6,
-          "name": "Hotter Than Hell (Carsten Fietz Remix)",
-          "duration": "5:58"
-        },
-        {
-          "number": 7,
-          "name": "Hotter Than Hell (VIMALAVONG Remix)",
-          "duration": "4:21"
         }
       ]
     },
@@ -1906,6 +1652,147 @@
       ]
     },
     {
+      "name": "Be The One (Remixes)",
+      "year": "2016",
+      "release_date": "2016-05-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/b3/60/04b36000-0b6d-a030-f8d0-8f33d30a058d/5021732756282.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Be the One",
+          "duration": "3:22"
+        },
+        {
+          "number": 2,
+          "name": "Be the One (Netsky Remix)",
+          "duration": "4:17"
+        },
+        {
+          "number": 3,
+          "name": "Be the One (Shy Luv Remix)",
+          "duration": "3:28"
+        },
+        {
+          "number": 4,
+          "name": "Be the One (Dillistone Remix)",
+          "duration": "3:47"
+        },
+        {
+          "number": 5,
+          "name": "Be the One (Paul Woolford Remix)",
+          "duration": "6:21"
+        },
+        {
+          "number": 6,
+          "name": "Be the One (Take a Daytrip Remix)",
+          "duration": "4:08"
+        },
+        {
+          "number": 7,
+          "name": "Be the One (Ten Ven Remix)",
+          "duration": "5:24"
+        },
+        {
+          "number": 8,
+          "name": "Be the One (With You Remix)",
+          "duration": "5:45"
+        }
+      ]
+    },
+    {
+      "name": "Radical Optimism Tour - USA",
+      "year": "2024",
+      "release_date": "2024-11-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/a9/63/c3a96334-c375-d17e-6108-aee347871182/5059460375420.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "New Rules (Remixes)",
+      "year": "2017",
+      "release_date": "2017-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/40/4b/20404b44-d982-30df-c89f-266ff0926366/5021732756336.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "New Rules",
+          "duration": "3:29"
+        },
+        {
+          "number": 2,
+          "name": "New Rules (KREAM Remix)",
+          "duration": "4:40"
+        },
+        {
+          "number": 3,
+          "name": "New Rules (Freedo Remix)",
+          "duration": "3:33"
+        },
+        {
+          "number": 4,
+          "name": "New Rules (SG Lewis Remix)",
+          "duration": "4:13"
+        },
+        {
+          "number": 5,
+          "name": "New Rules (MRK Club Mix)",
+          "duration": "4:44"
+        },
+        {
+          "number": 6,
+          "name": "New Rules (Alison Wonderland Remix)",
+          "duration": "4:23"
+        },
+        {
+          "number": 7,
+          "name": "New Rules (Initial Talk Remix)",
+          "duration": "3:44"
+        }
+      ]
+    },
+    {
+      "name": "Hotter Than Hell (Remixes)",
+      "year": "2016",
+      "release_date": "2016-07-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/5b/11/2b5b11cf-dd8a-bcd9-d95d-b1e49aa3a2d9/5021732756275.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hotter Than Hell",
+          "duration": "3:07"
+        },
+        {
+          "number": 2,
+          "name": "Hotter Than Hell (Miike Snow Remix)",
+          "duration": "4:12"
+        },
+        {
+          "number": 3,
+          "name": "Hotter Than Hell (Matoma Remix)",
+          "duration": "3:39"
+        },
+        {
+          "number": 4,
+          "name": "Hotter Than Hell (Jack Wins Remix)",
+          "duration": "4:15"
+        },
+        {
+          "number": 5,
+          "name": "Hotter Than Hell (Shadow Child Remix)",
+          "duration": "6:27"
+        },
+        {
+          "number": 6,
+          "name": "Hotter Than Hell (Carsten Fietz Remix)",
+          "duration": "5:58"
+        },
+        {
+          "number": 7,
+          "name": "Hotter Than Hell (VIMALAVONG Remix)",
+          "duration": "4:21"
+        }
+      ]
+    },
+    {
       "name": "IDGAF (Remixes)",
       "year": "2018",
       "release_date": "2018-05-06",
@@ -1987,19 +1874,6 @@
       ]
     },
     {
-      "name": "Don't Start Now",
-      "year": "2019",
-      "release_date": "2019-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/ee/66/41ee66fa-f8dd-7e82-155a-3a1b360dc562/190295322175.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Don't Start Now",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
       "name": "One Kiss",
       "year": "2018",
       "release_date": "2018-04-06",
@@ -2013,15 +1887,15 @@
       ]
     },
     {
-      "name": "Electricity (feat. Diplo & Mark Ronson)",
-      "year": "2018",
-      "release_date": "2018-09-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/d9/f2/02d9f2ea-f95e-c67a-21ae-9bcee5bdd551/886447284360.jpg/600x600bb.jpg",
+      "name": "Don't Start Now",
+      "year": "2019",
+      "release_date": "2019-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/ee/66/41ee66fa-f8dd-7e82-155a-3a1b360dc562/190295322175.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Electricity (feat. Diplo & Mark Ronson)",
-          "duration": "3:58"
+          "name": "Don't Start Now",
+          "duration": "3:03"
         }
       ]
     },
@@ -2039,19 +1913,6 @@
       ]
     },
     {
-      "name": "Scared To Be Lonely",
-      "year": "2017",
-      "release_date": "2017-01-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/44/46/1f/44461f0c-a949-ce72-0164-704056469fc8/886446328331.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Scared to Be Lonely",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
       "name": "Houdini",
       "year": "2023",
       "release_date": "2023-11-09",
@@ -2061,6 +1922,19 @@
           "number": 1,
           "name": "Houdini",
           "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Electricity (feat. Diplo & Mark Ronson)",
+      "year": "2018",
+      "release_date": "2018-09-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/d9/f2/02d9f2ea-f95e-c67a-21ae-9bcee5bdd551/886447284360.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Electricity (feat. Diplo & Mark Ronson)",
+          "duration": "3:58"
         }
       ]
     },
@@ -2078,19 +1952,6 @@
       ]
     },
     {
-      "name": "Training Season",
-      "year": "2024",
-      "release_date": "2024-02-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/89/15/828915ea-d716-61c4-3de7-ef00c1f800fb/5054197853630.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Training Season",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\")",
       "year": "2019",
       "release_date": "2019-01-24",
@@ -2104,15 +1965,15 @@
       ]
     },
     {
-      "name": "No Lie (feat. Dua Lipa)",
-      "year": "2016",
-      "release_date": "2016-11-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/be/bc/ae/bebcae37-30fc-7a65-1482-8ff978812bd5/16UMGIM78276.rgb.jpg/600x600bb.jpg",
+      "name": "Sweetest Pie",
+      "year": "2022",
+      "release_date": "2022-03-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a4/9a/11/a49a118a-546b-3e7f-4112-92058392e282/850039440298.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "No Lie (feat. Dua Lipa)",
-          "duration": "3:41"
+          "name": "Sweetest Pie",
+          "duration": "3:21"
         }
       ]
     },
@@ -2130,15 +1991,106 @@
       ]
     },
     {
-      "name": "Sweetest Pie",
-      "year": "2022",
-      "release_date": "2022-03-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a4/9a/11/a49a118a-546b-3e7f-4112-92058392e282/850039440298.jpg/600x600bb.jpg",
+      "name": "Scared To Be Lonely",
+      "year": "2017",
+      "release_date": "2017-01-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/44/46/1f/44461f0c-a949-ce72-0164-704056469fc8/886446328331.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Sweetest Pie",
-          "duration": "3:21"
+          "name": "Scared to Be Lonely",
+          "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "name": "Fever",
+      "year": "2020",
+      "release_date": "2020-10-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/a2/a4/96a2a4e8-53b8-05d3-d0e2-fb1e41817f1d/190295127718.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fever",
+          "duration": "2:36"
+        }
+      ]
+    },
+    {
+      "name": "Cold Heart (Acoustic)",
+      "year": "2021",
+      "release_date": "2021-10-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/24/75/26/247526ab-8cc0-60d8-36d3-e12663b0ed43/21UM1IM25915.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cold Heart (Acoustic)",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Training Season",
+      "year": "2024",
+      "release_date": "2024-02-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/82/89/15/828915ea-d716-61c4-3de7-ef00c1f800fb/5054197853630.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Training Season",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Potion",
+      "year": "2022",
+      "release_date": "2022-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7d/90/1e/7d901e94-d64e-66f6-5f6c-3a53d8629100/dj.eqaauxkc.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Potion",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "Physical (feat. Hwa Sa)",
+      "year": "2020",
+      "release_date": "2020-03-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c0/0b/5c/c00b5c2a-e6fd-0c27-0ace-45b9b12caef7/190295242404.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Physical (feat. Hwa Sa)",
+          "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "No Lie (feat. Dua Lipa)",
+      "year": "2016",
+      "release_date": "2016-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/be/bc/ae/bebcae37-30fc-7a65-1482-8ff978812bd5/16UMGIM78276.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "No Lie (feat. Dua Lipa)",
+          "duration": "3:41"
+        }
+      ]
+    },
+    {
+      "name": "Houdini (Extended Edit)",
+      "year": "2023",
+      "release_date": "2023-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/dd/d9/20ddd911-b498-89eb-9e55-3390a1b431d8/5054197922718.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Houdini (Extended Edit)",
+          "duration": "5:53"
         }
       ]
     },
@@ -2174,15 +2126,28 @@
       ]
     },
     {
-      "name": "Fever",
+      "name": "SUGAR (Remix) [feat. Dua Lipa]",
       "year": "2020",
-      "release_date": "2020-10-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/a2/a4/96a2a4e8-53b8-05d3-d0e2-fb1e41817f1d/190295127718.jpg/600x600bb.jpg",
+      "release_date": "2020-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/4f/0a/e24f0a9c-43ab-00a4-6b17-94e45ee3d53b/886448313397.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Fever",
-          "duration": "2:36"
+          "name": "SUGAR (Remix) [feat. Dua Lipa]",
+          "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "Electricity (feat. Dua Lipa) [Alex Metric Remix]",
+      "year": "2018",
+      "release_date": "2018-11-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a0/c0/d2/a0c0d253-64f7-da8c-c369-32132db1ea92/886447425732.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Electricity (feat. Dua Lipa) [Alex Metric Remix]",
+          "duration": "6:20"
         }
       ]
     },
@@ -2200,28 +2165,54 @@
       ]
     },
     {
-      "name": "Cold Heart (Acoustic)",
-      "year": "2021",
-      "release_date": "2021-10-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/24/75/26/247526ab-8cc0-60d8-36d3-e12663b0ed43/21UM1IM25915.rgb.jpg/600x600bb.jpg",
+      "name": "These Walls (feat. Pierre de Maere)",
+      "year": "2024",
+      "release_date": "2024-11-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/87/8b/f3878b9f-1c74-7ffa-1421-1b3c3b4e10b9/5021732538475.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Cold Heart (Acoustic)",
-          "duration": "3:15"
+          "name": "These Walls (feat. Pierre de Maere)",
+          "duration": "3:37"
         }
       ]
     },
     {
-      "name": "Potion",
-      "year": "2022",
-      "release_date": "2022-05-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7d/90/1e/7d901e94-d64e-66f6-5f6c-3a53d8629100/dj.eqaauxkc.jpg/600x600bb.jpg",
+      "name": "Electricity (feat. Dua Lipa) [Ten Ven Remix]",
+      "year": "2018",
+      "release_date": "2018-11-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/26/fc/31/26fc31c8-a6bf-d459-2a8a-f1b65c0985ca/886447406731.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Potion",
-          "duration": "3:34"
+          "name": "Electricity (feat. Dua Lipa) [Ten Ven Remix]",
+          "duration": "4:22"
+        }
+      ]
+    },
+    {
+      "name": "Sweetest Pie",
+      "year": "2022",
+      "release_date": "2022-03-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/a8/ef/aca8efd2-10be-0930-4605-c2c3e6f21552/850039440304.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sweetest Pie",
+          "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "Hallucinate (Tensnake Remix)",
+      "year": "2020",
+      "release_date": "2020-07-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/9c/e6/2f9ce63c-a3f3-4595-d3de-b9486245f6a5/190295184230.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hallucinate (Tensnake Remix)",
+          "duration": "4:51"
         }
       ]
     },
@@ -2239,6 +2230,19 @@
       ]
     },
     {
+      "name": "Real Groove (Studio 2054 Remix)",
+      "year": "2020",
+      "release_date": "2020-12-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/05/51/b5/0551b51a-8658-b036-5eaf-d57c5de9c89c/4050538669015.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Real Groove (Studio 2054 Remix)",
+          "duration": "4:22"
+        }
+      ]
+    },
+    {
       "name": "New Rules (Initial Talk Remix)",
       "year": "2017",
       "release_date": "2017-11-24",
@@ -2252,6 +2256,19 @@
       ]
     },
     {
+      "name": "Future Nostalgia",
+      "year": "2019",
+      "release_date": "2019-12-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/c5/a8/e9c5a8a0-d698-137b-2e85-cf3a8d9548f8/190295303372.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Future Nostalgia",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
       "name": "Electricity (feat. Diplo, Dua Lipa & Mark Ronson) [MK Remix]",
       "year": "2018",
       "release_date": "2018-11-09",
@@ -2261,19 +2278,6 @@
           "number": 1,
           "name": "Electricity (feat. Diplo, Dua Lipa & Mark Ronson) [MK Remix]",
           "duration": "5:46"
-        }
-      ]
-    },
-    {
-      "name": "Physical (feat. Hwa Sa)",
-      "year": "2020",
-      "release_date": "2020-03-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c0/0b/5c/c00b5c2a-e6fd-0c27-0ace-45b9b12caef7/190295242404.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Physical (feat. Hwa Sa)",
-          "duration": "3:13"
         }
       ]
     },
@@ -2410,6 +2414,19 @@
       ]
     },
     {
+      "name": "Training Season (Live at the BRIT Awards 2024)",
+      "year": "2024",
+      "release_date": "2024-03-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/4d/0d/784d0de2-ca76-dfed-8e8f-ce5b97e5e5ec/5021732250520.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Training Season (Live at the BRIT Awards 2024)",
+          "duration": "3:39"
+        }
+      ]
+    },
+    {
       "name": "We're Good (Dillon Francis Remix)",
       "year": "2021",
       "release_date": "2021-03-12",
@@ -2445,19 +2462,6 @@
           "number": 1,
           "name": "Physical (feat. Troye Sivan)",
           "duration": "3:12"
-        }
-      ]
-    },
-    {
-      "name": "Hallucinate (Tensnake Remix)",
-      "year": "2020",
-      "release_date": "2020-07-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2f/9c/e6/2f9ce63c-a3f3-4595-d3de-b9486245f6a5/190295184230.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hallucinate (Tensnake Remix)",
-          "duration": "4:51"
         }
       ]
     },
@@ -2532,30 +2536,11 @@
       ]
     },
     {
-      "name": "These Walls (feat. Pierre de Maere)",
+      "name": "Training Season",
       "year": "2024",
-      "release_date": "2024-11-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/87/8b/f3878b9f-1c74-7ffa-1421-1b3c3b4e10b9/5021732538475.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "These Walls (feat. Pierre de Maere)",
-          "duration": "3:37"
-        }
-      ]
-    },
-    {
-      "name": "Sweetest Pie",
-      "year": "2022",
-      "release_date": "2022-03-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/a8/ef/aca8efd2-10be-0930-4605-c2c3e6f21552/850039440304.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sweetest Pie",
-          "duration": "3:21"
-        }
-      ]
+      "release_date": "2024-02-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/2c/3f/5a2c3f59-b09b-d821-0417-53ba8ec79b32/5054197973062.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Break My Heart (Jax Jones Midnight Snack Remix)",
@@ -2567,6 +2552,19 @@
           "number": 1,
           "name": "Break My Heart (Jax Jones Midnight Snack Remix)",
           "duration": "3:43"
+        }
+      ]
+    },
+    {
+      "name": "Training Season (Extended)",
+      "year": "2024",
+      "release_date": "2024-02-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/e9/4c/67e94c2f-2dd5-a0ff-dad3-1c5dd44c825c/5054197998645.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Training Season (Extended)",
+          "duration": "4:55"
         }
       ]
     },
@@ -2636,19 +2634,6 @@
       ]
     },
     {
-      "name": "Electricity (feat. Dua Lipa) [Alex Metric Remix]",
-      "year": "2018",
-      "release_date": "2018-11-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a0/c0/d2/a0c0d253-64f7-da8c-c369-32132db1ea92/886447425732.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Electricity (feat. Dua Lipa) [Alex Metric Remix]",
-          "duration": "6:20"
-        }
-      ]
-    },
-    {
       "name": "Break My Heart (Moon Boots Remix)",
       "year": "2020",
       "release_date": "2020-06-12",
@@ -2675,19 +2660,6 @@
       ]
     },
     {
-      "name": "Houdini (Extended Edit)",
-      "year": "2023",
-      "release_date": "2023-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/20/dd/d9/20ddd911-b498-89eb-9e55-3390a1b431d8/5054197922718.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Houdini (Extended Edit)",
-          "duration": "5:53"
-        }
-      ]
-    },
-    {
       "name": "Physical (Alok Remix)",
       "year": "2020",
       "release_date": "2020-04-09",
@@ -2697,19 +2669,6 @@
           "number": 1,
           "name": "Physical (Alok Remix)",
           "duration": "3:09"
-        }
-      ]
-    },
-    {
-      "name": "Future Nostalgia",
-      "year": "2019",
-      "release_date": "2019-12-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e9/c5/a8/e9c5a8a0-d698-137b-2e85-cf3a8d9548f8/190295303372.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Future Nostalgia",
-          "duration": "3:04"
         }
       ]
     },
@@ -2727,19 +2686,6 @@
       ]
     },
     {
-      "name": "Electricity (feat. Dua Lipa) [Ten Ven Remix]",
-      "year": "2018",
-      "release_date": "2018-11-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/26/fc/31/26fc31c8-a6bf-d459-2a8a-f1b65c0985ca/886447406731.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Electricity (feat. Dua Lipa) [Ten Ven Remix]",
-          "duration": "4:22"
-        }
-      ]
-    },
-    {
       "name": "Break My Heart (Joris Voorn Remix)",
       "year": "2020",
       "release_date": "2020-05-29",
@@ -2753,6 +2699,19 @@
       ]
     },
     {
+      "name": "My Love (feat. Major Lazer, WizKid & Dua Lipa) [Major Lazer VIP Remix]",
+      "year": "2017",
+      "release_date": "2017-09-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/78/96/e5/7896e557-d8d7-1d6b-4de8-f508b45f8927/075679887412.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "My Love (feat. Major Lazer, WizKid & Dua Lipa) [Major Lazer VIP Remix]",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
       "name": "Love Again (GARABATTO Remix)",
       "year": "2021",
       "release_date": "2021-10-15",
@@ -2762,6 +2721,19 @@
           "number": 1,
           "name": "Love Again (GARABATTO Remix)",
           "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Training Season (Chloé Caillet Mix)",
+      "year": "2024",
+      "release_date": "2024-03-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/38/29/dc382948-2723-6ecf-d73e-35aadf18fc3c/5021732269119.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Training Season (Chloé Caillet Mix)",
+          "duration": "4:55"
         }
       ]
     },
@@ -2805,45 +2777,6 @@
       ]
     },
     {
-      "name": "SUGAR (Remix) [feat. Dua Lipa]",
-      "year": "2020",
-      "release_date": "2020-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/4f/0a/e24f0a9c-43ab-00a4-6b17-94e45ee3d53b/886448313397.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SUGAR (Remix) [feat. Dua Lipa]",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
-      "name": "Training Season (Chloé Caillet Mix)",
-      "year": "2024",
-      "release_date": "2024-03-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/38/29/dc382948-2723-6ecf-d73e-35aadf18fc3c/5021732269119.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Training Season (Chloé Caillet Mix)",
-          "duration": "4:55"
-        }
-      ]
-    },
-    {
-      "name": "Real Groove (Studio 2054 Remix)",
-      "year": "2020",
-      "release_date": "2020-12-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/05/51/b5/0551b51a-8658-b036-5eaf-d57c5de9c89c/4050538669015.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Real Groove (Studio 2054 Remix)",
-          "duration": "4:22"
-        }
-      ]
-    },
-    {
       "name": "Illusion (London Sessions)",
       "year": "2024",
       "release_date": "2024-05-17",
@@ -2853,130 +2786,6 @@
           "number": 1,
           "name": "Illusion (London Sessions)",
           "duration": "3:12"
-        }
-      ]
-    },
-    {
-      "name": "Fever (Oklou Remix)",
-      "year": "2020",
-      "release_date": "2020-12-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/3a/8f/313a8ff5-81ca-bdbf-b52d-fc51c659e857/190295051471.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fever (Oklou Remix)",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
-      "name": "Illusion (Honey Dijon Remix)",
-      "year": "2024",
-      "release_date": "2024-08-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/1d/cc/8a1dcc05-f7bd-ba6c-3e59-e0be35c4f26c/5021732440945.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Illusion (Honey Dijon Remix)",
-          "duration": "5:04"
-        }
-      ]
-    },
-    {
-      "name": "Illusion (The Blaze Remix)",
-      "year": "2024",
-      "release_date": "2024-05-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/31/25/60312518-5893-958e-a7cf-e17e571a77fc/5021732379436.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Illusion (The Blaze Remix)",
-          "duration": "4:10"
-        }
-      ]
-    },
-    {
-      "name": "Training Season",
-      "year": "2024",
-      "release_date": "2024-02-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5a/2c/3f/5a2c3f59-b09b-d821-0417-53ba8ec79b32/5054197973062.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
-      "name": "Training Season (Extended)",
-      "year": "2024",
-      "release_date": "2024-02-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/e9/4c/67e94c2f-2dd5-a0ff-dad3-1c5dd44c825c/5054197998645.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Training Season (Extended)",
-          "duration": "4:55"
-        }
-      ]
-    },
-    {
-      "name": "We're Good (Dillon Francis Remix) [Radio Edit]",
-      "year": "2021",
-      "release_date": "2021-03-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/cf/58/f5cf58d1-23f9-f7ee-6c04-938d4f6fae2d/190296734601.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "We're Good (Dillon Francis Remix) [Radio Edit]",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
-      "name": "Illusion (Logic1000 Remix)",
-      "year": "2024",
-      "release_date": "2024-07-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/24/db/0424dbf5-86b6-8c24-25e4-42c5305d1f81/5021732434036.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Illusion (Logic1000 Remix)",
-          "duration": "3:19"
-        }
-      ]
-    },
-    {
-      "name": "My Love (feat. Major Lazer, WizKid & Dua Lipa) [Major Lazer VIP Remix]",
-      "year": "2017",
-      "release_date": "2017-09-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/78/96/e5/7896e557-d8d7-1d6b-4de8-f508b45f8927/075679887412.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "My Love (feat. Major Lazer, WizKid & Dua Lipa) [Major Lazer VIP Remix]",
-          "duration": "3:46"
-        }
-      ]
-    },
-    {
-      "name": "Training Season (Extended Instrumental)",
-      "year": "2024",
-      "release_date": "2024-02-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/62/c8/3362c864-615d-38c7-98ab-6b9adaa7fabb/5021732232212.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Training Season (Extended Instrumental)",
-          "duration": "4:55"
-        }
-      ]
-    },
-    {
-      "name": "Real Groove (feat. Dua Lipa) [Studio 2054 Initial Talk Remix]",
-      "year": "2021",
-      "release_date": "2021-03-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/9e/ab/189eab28-177a-ef66-b10c-cc48a8f3fda0/4050538675504.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Real Groove (feat. Dua Lipa) [Studio 2054 Initial Talk Remix]",
-          "duration": "3:43"
         }
       ]
     },
@@ -3004,6 +2813,19 @@
       ]
     },
     {
+      "name": "Fever (Oklou Remix)",
+      "year": "2020",
+      "release_date": "2020-12-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/31/3a/8f/313a8ff5-81ca-bdbf-b52d-fc51c659e857/190295051471.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fever (Oklou Remix)",
+          "duration": "3:00"
+        }
+      ]
+    },
+    {
       "name": "Fever (Feder Remix)",
       "year": "2021",
       "release_date": "2021-01-08",
@@ -3017,15 +2839,28 @@
       ]
     },
     {
-      "name": "Training Season (Live at the BRIT Awards 2024)",
+      "name": "Illusion (Honey Dijon Remix)",
       "year": "2024",
-      "release_date": "2024-03-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/4d/0d/784d0de2-ca76-dfed-8e8f-ce5b97e5e5ec/5021732250520.jpg/600x600bb.jpg",
+      "release_date": "2024-08-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/1d/cc/8a1dcc05-f7bd-ba6c-3e59-e0be35c4f26c/5021732440945.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Training Season (Live at the BRIT Awards 2024)",
-          "duration": "3:39"
+          "name": "Illusion (Honey Dijon Remix)",
+          "duration": "5:04"
+        }
+      ]
+    },
+    {
+      "name": "Illusion (The Blaze Remix)",
+      "year": "2024",
+      "release_date": "2024-05-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/31/25/60312518-5893-958e-a7cf-e17e571a77fc/5021732379436.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Illusion (The Blaze Remix)",
+          "duration": "4:10"
         }
       ]
     },
@@ -3082,6 +2917,45 @@
       ]
     },
     {
+      "name": "We're Good (Dillon Francis Remix) [Radio Edit]",
+      "year": "2021",
+      "release_date": "2021-03-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/cf/58/f5cf58d1-23f9-f7ee-6c04-938d4f6fae2d/190296734601.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "We're Good (Dillon Francis Remix) [Radio Edit]",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Illusion (Logic1000 Remix)",
+      "year": "2024",
+      "release_date": "2024-07-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/24/db/0424dbf5-86b6-8c24-25e4-42c5305d1f81/5021732434036.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Illusion (Logic1000 Remix)",
+          "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "Training Season (Extended Instrumental)",
+      "year": "2024",
+      "release_date": "2024-02-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/62/c8/3362c864-615d-38c7-98ab-6b9adaa7fabb/5021732232212.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Training Season (Extended Instrumental)",
+          "duration": "4:55"
+        }
+      ]
+    },
+    {
       "name": "Illusion (Creepy Nuts Remix)",
       "year": "2024",
       "release_date": "2024-07-26",
@@ -3117,6 +2991,19 @@
           "number": 1,
           "name": "Illusion (Acapella)",
           "duration": "3:08"
+        }
+      ]
+    },
+    {
+      "name": "Real Groove (feat. Dua Lipa) [Studio 2054 Initial Talk Remix]",
+      "year": "2021",
+      "release_date": "2021-03-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/9e/ab/189eab28-177a-ef66-b10c-cc48a8f3fda0/4050538675504.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Real Groove (feat. Dua Lipa) [Studio 2054 Initial Talk Remix]",
+          "duration": "3:43"
         }
       ]
     },

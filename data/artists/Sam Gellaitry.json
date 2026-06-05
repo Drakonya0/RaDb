@@ -238,19 +238,6 @@
   ],
   "singles": [
     {
-      "name": "Picture in my mind",
-      "year": "2022",
-      "release_date": "2022-08-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/88/bc/3c88bc6a-3d35-4146-6c86-1cc61185b367/5054197261572.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Picture in my mind",
-          "duration": "2:56"
-        }
-      ]
-    },
-    {
       "name": "Assumptions (slowed down version)",
       "year": "2022",
       "release_date": "2022-11-25",
@@ -264,6 +251,19 @@
       ]
     },
     {
+      "name": "Picture in my mind",
+      "year": "2022",
+      "release_date": "2022-08-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/88/bc/3c88bc6a-3d35-4146-6c86-1cc61185b367/5054197261572.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Picture in my mind",
+          "duration": "2:56"
+        }
+      ]
+    },
+    {
       "name": "Assumptions (Kaytranada Remix)",
       "year": "2023",
       "release_date": "2023-03-10",
@@ -273,24 +273,6 @@
           "number": 1,
           "name": "Assumptions (Kaytranada Remix)",
           "duration": "4:48"
-        },
-        {
-          "number": 2,
-          "name": "Assumptions",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
-      "name": "Assumptions (Jengi Remix)",
-      "year": "2023",
-      "release_date": "2023-02-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/48/20/8f/48208fd8-f6f3-8f2c-975d-b7e1baf1d5c5/5054197534584.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Assumptions (Jengi Remix)",
-          "duration": "3:06"
         },
         {
           "number": 2,
@@ -353,6 +335,24 @@
           "number": 1,
           "name": "DARLING DRIVE",
           "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "Assumptions (Jengi Remix)",
+      "year": "2023",
+      "release_date": "2023-02-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/48/20/8f/48208fd8-f6f3-8f2c-975d-b7e1baf1d5c5/5054197534584.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Assumptions (Jengi Remix)",
+          "duration": "3:06"
+        },
+        {
+          "number": 2,
+          "name": "Assumptions",
+          "duration": "3:40"
         }
       ]
     },

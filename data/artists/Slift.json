@@ -66,6 +66,54 @@
       ]
     },
     {
+      "name": "Fantasia",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/a2/c7/3fa2c7bb-07c4-3c6c-366c-78ccf3981db1/098787172560.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fantasia",
+          "duration": "8:57"
+        },
+        {
+          "number": 2,
+          "name": "Corrupted Sky",
+          "duration": "6:13"
+        },
+        {
+          "number": 3,
+          "name": "The Village",
+          "duration": "5:24"
+        },
+        {
+          "number": 4,
+          "name": "A Storm of Wings",
+          "duration": "6:25"
+        },
+        {
+          "number": 5,
+          "name": "Orbis Tertius",
+          "duration": "6:17"
+        },
+        {
+          "number": 6,
+          "name": "Waiting Man",
+          "duration": "4:53"
+        },
+        {
+          "number": 7,
+          "name": "The Day of Execution",
+          "duration": "5:12"
+        },
+        {
+          "number": 8,
+          "name": "Secret Mirror",
+          "duration": "5:34"
+        }
+      ]
+    },
+    {
       "name": "Space Is the Key",
       "year": "2017",
       "release_date": "2017-07-04",
@@ -297,54 +345,6 @@
           "number": 9,
           "name": "Silent Giant",
           "duration": "6:23"
-        }
-      ]
-    },
-    {
-      "name": "Fantasia",
-      "year": "2026",
-      "release_date": "2026-06-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/a2/c7/3fa2c7bb-07c4-3c6c-366c-78ccf3981db1/098787172560.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fantasia",
-          "duration": "8:57"
-        },
-        {
-          "number": 2,
-          "name": "Corrupted Sky",
-          "duration": "6:13"
-        },
-        {
-          "number": 3,
-          "name": "The Village",
-          "duration": "5:24"
-        },
-        {
-          "number": 4,
-          "name": "A Storm of Wings",
-          "duration": "6:25"
-        },
-        {
-          "number": 5,
-          "name": "Orbis Tertius",
-          "duration": "6:17"
-        },
-        {
-          "number": 6,
-          "name": "Waiting Man",
-          "duration": "4:53"
-        },
-        {
-          "number": 7,
-          "name": "The Day of Execution",
-          "duration": "5:12"
-        },
-        {
-          "number": 8,
-          "name": "Secret Mirror",
-          "duration": "5:34"
         }
       ]
     }

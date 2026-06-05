@@ -611,19 +611,6 @@
       ]
     },
     {
-      "name": "The Way That You Were",
-      "year": "2018",
-      "release_date": "2018-10-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/18/a4/7e18a461-f104-6edb-5b2e-0c80414b7c7b/859728818103_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Way That You Were",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
       "name": "Is It Really You?",
       "year": "2022",
       "release_date": "2022-01-04",
@@ -633,6 +620,19 @@
           "number": 1,
           "name": "Is It Really You?",
           "duration": "4:39"
+        }
+      ]
+    },
+    {
+      "name": "The Way That You Were",
+      "year": "2018",
+      "release_date": "2018-10-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/18/a4/7e18a461-f104-6edb-5b2e-0c80414b7c7b/859728818103_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Way That You Were",
+          "duration": "3:03"
         }
       ]
     },
@@ -650,42 +650,6 @@
       ]
     },
     {
-      "name": "Alkaline",
-      "year": "2021",
-      "release_date": "2021-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c0/3e/3e/c03e3e5c-24f9-5142-dbab-72ee9f2c5e9e/5400863107055_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Alkaline",
-          "duration": "3:34"
-        }
-      ]
-    },
-    {
-      "name": "Fall For Me",
-      "year": "2021",
-      "release_date": "2021-09-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fc/52/57/fc5257fd-91e6-ed9e-4027-590f9d31a99b/5400863107093_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fall For Me",
-          "duration": "2:26"
-        },
-        {
-          "number": 2,
-          "name": "The Love You Want",
-          "duration": "4:23"
-        },
-        {
-          "number": 3,
-          "name": "Alkaline",
-          "duration": "3:34"
-        }
-      ]
-    },
-    {
       "name": "Granite",
       "year": "2023",
       "release_date": "2023-01-19",
@@ -699,28 +663,15 @@
       ]
     },
     {
-      "name": "Vore",
-      "year": "2023",
-      "release_date": "2023-02-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/a9/1b/55a91bd9-2c8b-6bc9-daf7-9adec23cb097/5401148000924_cover.jpg/600x600bb.jpg",
+      "name": "Alkaline",
+      "year": "2021",
+      "release_date": "2021-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c0/3e/3e/c03e3e5c-24f9-5142-dbab-72ee9f2c5e9e/5400863107055_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Vore",
-          "duration": "5:39"
-        }
-      ]
-    },
-    {
-      "name": "Chokehold",
-      "year": "2023",
-      "release_date": "2023-01-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/9a/27/399a277f-6372-2c16-3173-e11e391e7b6d/5401148000856_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chokehold",
-          "duration": "5:04"
+          "name": "Alkaline",
+          "duration": "3:34"
         }
       ]
     },
@@ -760,6 +711,55 @@
           "number": 1,
           "name": "Fall For Me",
           "duration": "2:26"
+        }
+      ]
+    },
+    {
+      "name": "Fall For Me",
+      "year": "2021",
+      "release_date": "2021-09-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/fc/52/57/fc5257fd-91e6-ed9e-4027-590f9d31a99b/5400863107093_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fall For Me",
+          "duration": "2:26"
+        },
+        {
+          "number": 2,
+          "name": "The Love You Want",
+          "duration": "4:23"
+        },
+        {
+          "number": 3,
+          "name": "Alkaline",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "Vore",
+      "year": "2023",
+      "release_date": "2023-02-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/a9/1b/55a91bd9-2c8b-6bc9-daf7-9adec23cb097/5401148000924_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Vore",
+          "duration": "5:39"
+        }
+      ]
+    },
+    {
+      "name": "Chokehold",
+      "year": "2023",
+      "release_date": "2023-01-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/39/9a/27/399a277f-6372-2c16-3173-e11e391e7b6d/5401148000856_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chokehold",
+          "duration": "5:04"
         }
       ]
     },

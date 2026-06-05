@@ -67,34 +67,6 @@
       ]
     },
     {
-      "name": "vex",
-      "year": "2025",
-      "release_date": "2025-08-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/83/1c/5e831c6f-cf2a-323a-5388-4f00d32eaadf/199538643053.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "vex",
-          "duration": "1:00"
-        },
-        {
-          "number": 2,
-          "name": "vex (slowed)",
-          "duration": "1:07"
-        },
-        {
-          "number": 3,
-          "name": "vex (super slowed)",
-          "duration": "1:15"
-        },
-        {
-          "number": 4,
-          "name": "vex (ultra slowed)",
-          "duration": "1:24"
-        }
-      ]
-    },
-    {
       "name": "La Rumba",
       "year": "2026",
       "release_date": "2026-01-30",
@@ -124,6 +96,34 @@
           "number": 5,
           "name": "La Rumba (Ultra Slowed)",
           "duration": "2:13"
+        }
+      ]
+    },
+    {
+      "name": "vex",
+      "year": "2025",
+      "release_date": "2025-08-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/83/1c/5e831c6f-cf2a-323a-5388-4f00d32eaadf/199538643053.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "vex",
+          "duration": "1:00"
+        },
+        {
+          "number": 2,
+          "name": "vex (slowed)",
+          "duration": "1:07"
+        },
+        {
+          "number": 3,
+          "name": "vex (super slowed)",
+          "duration": "1:15"
+        },
+        {
+          "number": 4,
+          "name": "vex (ultra slowed)",
+          "duration": "1:24"
         }
       ]
     },

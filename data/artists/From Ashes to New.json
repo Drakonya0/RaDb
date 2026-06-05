@@ -3,74 +3,6 @@
   "id": 688645097,
   "albums": [
     {
-      "name": "Blackout",
-      "year": "2023",
-      "release_date": "2023-07-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/bf/0d/27bf0d4e-3783-af05-d9d9-5e49344bebf2/846070049002.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Heartache",
-          "duration": "3:45"
-        },
-        {
-          "number": 2,
-          "name": "Nightmare",
-          "duration": "3:07"
-        },
-        {
-          "number": 3,
-          "name": "Hate Me Too",
-          "duration": "3:30"
-        },
-        {
-          "number": 4,
-          "name": "Hope You’re Happy",
-          "duration": "3:36"
-        },
-        {
-          "number": 5,
-          "name": "Barely Breathing",
-          "duration": "3:08"
-        },
-        {
-          "number": 6,
-          "name": "Dead to Me",
-          "duration": "3:19"
-        },
-        {
-          "number": 7,
-          "name": "Monster in Me",
-          "duration": "3:34"
-        },
-        {
-          "number": 8,
-          "name": "Echoes",
-          "duration": "3:27"
-        },
-        {
-          "number": 9,
-          "name": "Armageddon",
-          "duration": "3:33"
-        },
-        {
-          "number": 10,
-          "name": "Legacy",
-          "duration": "3:39"
-        },
-        {
-          "number": 11,
-          "name": "Until We Break (feat. Memphis May Fire)",
-          "duration": "3:34"
-        },
-        {
-          "number": 12,
-          "name": "Broken by Design",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "Reflections",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -139,65 +71,70 @@
       ]
     },
     {
-      "name": "The Future",
-      "year": "2018",
-      "release_date": "2018-04-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a7/23/7c/a7237cf4-da00-bbfe-bc38-e463c8d0b7d4/849320030201.png/600x600bb.jpg",
+      "name": "Blackout",
+      "year": "2023",
+      "release_date": "2023-07-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/27/bf/0d/27bf0d4e-3783-af05-d9d9-5e49344bebf2/846070049002.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Wake Up",
-          "duration": "3:50"
+          "name": "Heartache",
+          "duration": "3:45"
         },
         {
           "number": 2,
-          "name": "Crazy",
-          "duration": "3:05"
+          "name": "Nightmare",
+          "duration": "3:07"
         },
         {
           "number": 3,
-          "name": "My Name",
-          "duration": "3:42"
+          "name": "Hate Me Too",
+          "duration": "3:30"
         },
         {
           "number": 4,
-          "name": "Gone Forever",
-          "duration": "3:54"
+          "name": "Hope You’re Happy",
+          "duration": "3:36"
         },
         {
           "number": 5,
-          "name": "Broken",
-          "duration": "3:20"
+          "name": "Barely Breathing",
+          "duration": "3:08"
         },
         {
           "number": 6,
-          "name": "Forgotten",
-          "duration": "3:50"
+          "name": "Dead to Me",
+          "duration": "3:19"
         },
         {
           "number": 7,
-          "name": "Enemy",
-          "duration": "3:16"
-        },
-        {
-          "number": 8,
-          "name": "Nowhere to Run",
+          "name": "Monster in Me",
           "duration": "3:34"
         },
         {
+          "number": 8,
+          "name": "Echoes",
+          "duration": "3:27"
+        },
+        {
           "number": 9,
-          "name": "Let Go",
-          "duration": "3:53"
+          "name": "Armageddon",
+          "duration": "3:33"
         },
         {
           "number": 10,
-          "name": "On My Own",
-          "duration": "3:22"
+          "name": "Legacy",
+          "duration": "3:39"
         },
         {
           "number": 11,
-          "name": "The Future",
-          "duration": "3:45"
+          "name": "Until We Break (feat. Memphis May Fire)",
+          "duration": "3:34"
+        },
+        {
+          "number": 12,
+          "name": "Broken by Design",
+          "duration": "3:05"
         }
       ]
     },
@@ -383,6 +320,69 @@
       ]
     },
     {
+      "name": "The Future",
+      "year": "2018",
+      "release_date": "2018-04-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a7/23/7c/a7237cf4-da00-bbfe-bc38-e463c8d0b7d4/849320030201.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wake Up",
+          "duration": "3:50"
+        },
+        {
+          "number": 2,
+          "name": "Crazy",
+          "duration": "3:05"
+        },
+        {
+          "number": 3,
+          "name": "My Name",
+          "duration": "3:42"
+        },
+        {
+          "number": 4,
+          "name": "Gone Forever",
+          "duration": "3:54"
+        },
+        {
+          "number": 5,
+          "name": "Broken",
+          "duration": "3:20"
+        },
+        {
+          "number": 6,
+          "name": "Forgotten",
+          "duration": "3:50"
+        },
+        {
+          "number": 7,
+          "name": "Enemy",
+          "duration": "3:16"
+        },
+        {
+          "number": 8,
+          "name": "Nowhere to Run",
+          "duration": "3:34"
+        },
+        {
+          "number": 9,
+          "name": "Let Go",
+          "duration": "3:53"
+        },
+        {
+          "number": 10,
+          "name": "On My Own",
+          "duration": "3:22"
+        },
+        {
+          "number": 11,
+          "name": "The Future",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
       "name": "Panic",
       "year": "2020",
       "release_date": "2020-08-28",
@@ -479,19 +479,6 @@
       ]
     },
     {
-      "name": "Nightmare",
-      "year": "2023",
-      "release_date": "2023-02-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/df/0b/e5/df0be56a-3768-3846-edde-ec7d6c44365f/846070048609.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nightmare",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
       "name": "My Fight",
       "year": "2013",
       "release_date": "2013-08-08",
@@ -501,19 +488,6 @@
           "number": 1,
           "name": "My Fight",
           "duration": "3:21"
-        }
-      ]
-    },
-    {
-      "name": "Thriller",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/01/8e/7e/018e7e08-51ed-e483-022f-2c1ed82dd721/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Thriller",
-          "duration": "6:02"
         }
       ]
     },
@@ -531,6 +505,32 @@
       ]
     },
     {
+      "name": "Nightmare",
+      "year": "2023",
+      "release_date": "2023-02-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/df/0b/e5/df0be56a-3768-3846-edde-ec7d6c44365f/846070048609.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nightmare",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "Thriller",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/01/8e/7e/018e7e08-51ed-e483-022f-2c1ed82dd721/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Thriller",
+          "duration": "6:02"
+        }
+      ]
+    },
+    {
       "name": "Until We Break (feat. Matty Mullins)",
       "year": "2022",
       "release_date": "2022-10-07",
@@ -544,15 +544,28 @@
       ]
     },
     {
-      "name": "The Retaliators Theme (21 Bullets) [feat. Ice Nine Kills & From Ashes to New]",
-      "year": "2022",
-      "release_date": "2022-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/43/90/c5/4390c59b-3994-61fd-4c35-c892581f8239/846070028700.png/600x600bb.jpg",
+      "name": "No Change (feat. From Ashes to New)",
+      "year": "2021",
+      "release_date": "2021-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/81/6e/ff/816eff2c-7f84-8a58-999a-bc9d201ae55f/192641787164_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Retaliators Theme (21 Bullets) [feat. Ice Nine Kills & From Ashes to New]",
-          "duration": "4:02"
+          "name": "No Change (feat. From Ashes to New)",
+          "duration": "3:31"
+        }
+      ]
+    },
+    {
+      "name": "Yuve Yuve Yu (feat. From Ashes To New)",
+      "year": "2020",
+      "release_date": "2020-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/47/47/cc474777-7915-7796-2cba-d3fda565f8a6/849320081005.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Yuve Yuve Yu (feat. From Ashes To New)",
+          "duration": "4:13"
         }
       ]
     },
@@ -577,28 +590,15 @@
       "tracks": []
     },
     {
-      "name": "Yuve Yuve Yu (feat. From Ashes To New)",
-      "year": "2020",
-      "release_date": "2020-07-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/47/47/cc474777-7915-7796-2cba-d3fda565f8a6/849320081005.png/600x600bb.jpg",
+      "name": "The Retaliators Theme (21 Bullets) [feat. Ice Nine Kills & From Ashes to New]",
+      "year": "2022",
+      "release_date": "2022-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/43/90/c5/4390c59b-3994-61fd-4c35-c892581f8239/846070028700.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Yuve Yuve Yu (feat. From Ashes To New)",
-          "duration": "4:13"
-        }
-      ]
-    },
-    {
-      "name": "Light It Up",
-      "year": "2018",
-      "release_date": "2018-03-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/67/5b/08/675b0846-9e50-598a-dd59-337d8526d4c0/849320031000.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Light It Up",
-          "duration": "3:08"
+          "name": "The Retaliators Theme (21 Bullets) [feat. Ice Nine Kills & From Ashes to New]",
+          "duration": "4:02"
         }
       ]
     },
@@ -612,6 +612,19 @@
           "number": 1,
           "name": "Every Second (feat. Eva Under Fire)",
           "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "Light It Up",
+      "year": "2018",
+      "release_date": "2018-03-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/67/5b/08/675b0846-9e50-598a-dd59-337d8526d4c0/849320031000.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Light It Up",
+          "duration": "3:08"
         }
       ]
     },
@@ -638,19 +651,6 @@
           "number": 1,
           "name": "Scars That I'm Hiding (feat. In Flames & Anders Fridén)",
           "duration": "2:55"
-        }
-      ]
-    },
-    {
-      "name": "No Change (feat. From Ashes to New)",
-      "year": "2021",
-      "release_date": "2021-08-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/81/6e/ff/816eff2c-7f84-8a58-999a-bc9d201ae55f/192641787164_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "No Change (feat. From Ashes to New)",
-          "duration": "3:31"
         }
       ]
     },
@@ -840,39 +840,6 @@
       ]
     },
     {
-      "name": "Quarantine Chronicles, Vol. 2",
-      "year": "2021",
-      "release_date": "2021-08-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/6a/76/d46a7613-f2d9-439f-409b-bab59d45450e/849320071006.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Light up the Sky",
-          "duration": "3:29"
-        },
-        {
-          "number": 2,
-          "name": "Decode (feat. Caitlin De Ville)",
-          "duration": "4:16"
-        },
-        {
-          "number": 3,
-          "name": "Nightmare",
-          "duration": "6:07"
-        },
-        {
-          "number": 4,
-          "name": "Forgot About Dre",
-          "duration": "4:09"
-        },
-        {
-          "number": 5,
-          "name": "Finally See",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
       "name": "Quarantine Chronicles Vol. 1",
       "year": "2021",
       "release_date": "2021-06-25",
@@ -902,6 +869,39 @@
           "number": 5,
           "name": "Forgotten",
           "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "name": "Quarantine Chronicles, Vol. 2",
+      "year": "2021",
+      "release_date": "2021-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/6a/76/d46a7613-f2d9-439f-409b-bab59d45450e/849320071006.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Light up the Sky",
+          "duration": "3:29"
+        },
+        {
+          "number": 2,
+          "name": "Decode (feat. Caitlin De Ville)",
+          "duration": "4:16"
+        },
+        {
+          "number": 3,
+          "name": "Nightmare",
+          "duration": "6:07"
+        },
+        {
+          "number": 4,
+          "name": "Forgot About Dre",
+          "duration": "4:09"
+        },
+        {
+          "number": 5,
+          "name": "Finally See",
+          "duration": "3:42"
         }
       ]
     },

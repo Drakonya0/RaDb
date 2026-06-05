@@ -553,6 +553,59 @@
       ]
     },
     {
+      "name": "aMOTION",
+      "year": "2004",
+      "release_date": "2004-11-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4a/72/e5/4a72e5d0-ae7f-2ec8-c8e8-8f08fc46f1b1/13UMGIM85747.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Judith (Renholder Remix)",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "3 Libras (Feel My Ice Dub)",
+          "duration": "4:28"
+        },
+        {
+          "number": 3,
+          "name": "Outsider (Apocalypse Remix)",
+          "duration": "5:28"
+        },
+        {
+          "number": 4,
+          "name": "Weak and Powerless (Tilling My Grave Renholder Mix - Lohner Mix)",
+          "duration": "3:05"
+        },
+        {
+          "number": 5,
+          "name": "Outsider (Frosted Yogurt Iha Mix)",
+          "duration": "4:07"
+        },
+        {
+          "number": 6,
+          "name": "Blue (Bird Shake Remix - Iha Mix)",
+          "duration": "3:57"
+        },
+        {
+          "number": 7,
+          "name": "3 Libras (All Main Courses Mix - Massive Attack)",
+          "duration": "7:17"
+        },
+        {
+          "number": 8,
+          "name": "Hollow (Constantly Consuming - Paz Mix)",
+          "duration": "3:40"
+        },
+        {
+          "number": 9,
+          "name": "Hollow (The Bunk Remix - Troy/Josh Abrahams Mix)",
+          "duration": "3:12"
+        }
+      ]
+    },
+    {
       "name": "Three Sixty (Deluxe Edition)",
       "year": "2013",
       "release_date": "2013-01-01",
@@ -871,59 +924,6 @@
           "number": 13,
           "name": "By and Down",
           "duration": "5:33"
-        }
-      ]
-    },
-    {
-      "name": "aMOTION",
-      "year": "2004",
-      "release_date": "2004-11-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/4a/72/e5/4a72e5d0-ae7f-2ec8-c8e8-8f08fc46f1b1/13UMGIM85747.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Judith (Renholder Remix)",
-          "duration": "4:24"
-        },
-        {
-          "number": 2,
-          "name": "3 Libras (Feel My Ice Dub)",
-          "duration": "4:28"
-        },
-        {
-          "number": 3,
-          "name": "Outsider (Apocalypse Remix)",
-          "duration": "5:28"
-        },
-        {
-          "number": 4,
-          "name": "Weak and Powerless (Tilling My Grave Renholder Mix - Lohner Mix)",
-          "duration": "3:05"
-        },
-        {
-          "number": 5,
-          "name": "Outsider (Frosted Yogurt Iha Mix)",
-          "duration": "4:07"
-        },
-        {
-          "number": 6,
-          "name": "Blue (Bird Shake Remix - Iha Mix)",
-          "duration": "3:57"
-        },
-        {
-          "number": 7,
-          "name": "3 Libras (All Main Courses Mix - Massive Attack)",
-          "duration": "7:17"
-        },
-        {
-          "number": 8,
-          "name": "Hollow (Constantly Consuming - Paz Mix)",
-          "duration": "3:40"
-        },
-        {
-          "number": 9,
-          "name": "Hollow (The Bunk Remix - Troy/Josh Abrahams Mix)",
-          "duration": "3:12"
         }
       ]
     },
@@ -1275,6 +1275,29 @@
   ],
   "eps": [
     {
+      "name": "3 Libras, Pt. 1",
+      "year": "2001",
+      "release_date": "2001-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/40/3f/b0/403fb0dd-b2c2-c115-1236-5243aa2d6f94/13UABIM11185.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "3 Libras",
+          "duration": "3:38"
+        },
+        {
+          "number": 2,
+          "name": "3 Libras (All Main Courses Mix - Massive Attack)",
+          "duration": "7:17"
+        },
+        {
+          "number": 3,
+          "name": "Judith (Live)",
+          "duration": "5:05"
+        }
+      ]
+    },
+    {
       "name": "Deep Cuts: A Perfect Circle",
       "year": "2009",
       "release_date": "2009-01-01",
@@ -1299,29 +1322,6 @@
           "number": 4,
           "name": "Orestes (Demo)",
           "duration": "3:22"
-        }
-      ]
-    },
-    {
-      "name": "3 Libras, Pt. 1",
-      "year": "2001",
-      "release_date": "2001-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/40/3f/b0/403fb0dd-b2c2-c115-1236-5243aa2d6f94/13UABIM11185.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "3 Libras",
-          "duration": "3:38"
-        },
-        {
-          "number": 2,
-          "name": "3 Libras (All Main Courses Mix - Massive Attack)",
-          "duration": "7:17"
-        },
-        {
-          "number": 3,
-          "name": "Judith (Live)",
-          "duration": "5:05"
         }
       ]
     }

@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "under your spell - (Slowed) best part",
+      "year": "2026",
+      "release_date": "2026-01-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/0f/83/070f83da-5ec7-7412-7968-c969b0b00d4d/14529.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "under your spell - (Slowed) best part",
+          "duration": "5:03"
+        }
+      ]
+    },
+    {
       "name": "L.E.S. instrumental (best part slowed reverb)",
       "year": "2026",
       "release_date": "2026-01-17",
@@ -85,19 +98,6 @@
           "number": 3,
           "name": "CARAMEL JESTER - HARDTEKK (Sped Up)",
           "duration": "1:18"
-        }
-      ]
-    },
-    {
-      "name": "under your spell - (Slowed) best part",
-      "year": "2026",
-      "release_date": "2026-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/0f/83/070f83da-5ec7-7412-7968-c969b0b00d4d/14529.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "under your spell - (Slowed) best part",
-          "duration": "5:03"
         }
       ]
     },
@@ -392,34 +392,6 @@
       ]
     },
     {
-      "name": "DARK AURA FUNK",
-      "year": "2025",
-      "release_date": "2025-11-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/27/d9/6f27d948-58ec-a687-a68d-b4259fbd1a4c/289410.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DARK AURA FUNK",
-          "duration": "1:09"
-        },
-        {
-          "number": 2,
-          "name": "DARK AURA FUNK (Slowed)",
-          "duration": "1:18"
-        },
-        {
-          "number": 3,
-          "name": "DARK AURA FUNK (Super Slowed)",
-          "duration": "1:27"
-        },
-        {
-          "number": 4,
-          "name": "DARK AURA FUNK (Ultra Slowed)",
-          "duration": "1:38"
-        }
-      ]
-    },
-    {
       "name": "vertigo",
       "year": "2025",
       "release_date": "2025-08-28",
@@ -444,6 +416,34 @@
           "number": 4,
           "name": "vertigo (ultra slowed)",
           "duration": "2:04"
+        }
+      ]
+    },
+    {
+      "name": "DARK AURA FUNK",
+      "year": "2025",
+      "release_date": "2025-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/27/d9/6f27d948-58ec-a687-a68d-b4259fbd1a4c/289410.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DARK AURA FUNK",
+          "duration": "1:09"
+        },
+        {
+          "number": 2,
+          "name": "DARK AURA FUNK (Slowed)",
+          "duration": "1:18"
+        },
+        {
+          "number": 3,
+          "name": "DARK AURA FUNK (Super Slowed)",
+          "duration": "1:27"
+        },
+        {
+          "number": 4,
+          "name": "DARK AURA FUNK (Ultra Slowed)",
+          "duration": "1:38"
         }
       ]
     },

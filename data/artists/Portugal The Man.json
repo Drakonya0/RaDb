@@ -3,64 +3,6 @@
   "id": 167649475,
   "albums": [
     {
-      "name": "Woodstock",
-      "year": "2017",
-      "release_date": "2017-06-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/76/fc/2d/76fc2dba-69ea-2718-012d-962dcb661bf1/075679896933.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Number One (feat. Richie Havens & Son Little)",
-          "duration": "5:21"
-        },
-        {
-          "number": 2,
-          "name": "Easy Tiger",
-          "duration": "3:37"
-        },
-        {
-          "number": 3,
-          "name": "Live in the Moment",
-          "duration": "4:06"
-        },
-        {
-          "number": 4,
-          "name": "Feel It Still",
-          "duration": "2:43"
-        },
-        {
-          "number": 5,
-          "name": "Rich Friends",
-          "duration": "3:41"
-        },
-        {
-          "number": 6,
-          "name": "Keep On",
-          "duration": "3:23"
-        },
-        {
-          "number": 7,
-          "name": "So Young",
-          "duration": "4:06"
-        },
-        {
-          "number": 8,
-          "name": "Mr Lonely (feat. Fat Lip)",
-          "duration": "4:22"
-        },
-        {
-          "number": 9,
-          "name": "Tidal Wave",
-          "duration": "3:31"
-        },
-        {
-          "number": 10,
-          "name": "Noise Pollution (feat. Mary Elizabeth Winstead & Zoe Manville) [Version A, Vocal Up Mix 1.3]",
-          "duration": "3:45"
-        }
-      ]
-    },
-    {
       "name": "Evil Friends",
       "year": "2013",
       "release_date": "2013-06-04",
@@ -129,6 +71,64 @@
       ]
     },
     {
+      "name": "Woodstock",
+      "year": "2017",
+      "release_date": "2017-06-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/76/fc/2d/76fc2dba-69ea-2718-012d-962dcb661bf1/075679896933.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Number One (feat. Richie Havens & Son Little)",
+          "duration": "5:21"
+        },
+        {
+          "number": 2,
+          "name": "Easy Tiger",
+          "duration": "3:37"
+        },
+        {
+          "number": 3,
+          "name": "Live in the Moment",
+          "duration": "4:06"
+        },
+        {
+          "number": 4,
+          "name": "Feel It Still",
+          "duration": "2:43"
+        },
+        {
+          "number": 5,
+          "name": "Rich Friends",
+          "duration": "3:41"
+        },
+        {
+          "number": 6,
+          "name": "Keep On",
+          "duration": "3:23"
+        },
+        {
+          "number": 7,
+          "name": "So Young",
+          "duration": "4:06"
+        },
+        {
+          "number": 8,
+          "name": "Mr Lonely (feat. Fat Lip)",
+          "duration": "4:22"
+        },
+        {
+          "number": 9,
+          "name": "Tidal Wave",
+          "duration": "3:31"
+        },
+        {
+          "number": 10,
+          "name": "Noise Pollution (feat. Mary Elizabeth Winstead & Zoe Manville) [Version A, Vocal Up Mix 1.3]",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
       "name": "In the Mountain In the Cloud",
       "year": "2011",
       "release_date": "2011-06-29",
@@ -183,64 +183,6 @@
           "number": 11,
           "name": "Sleep Forever",
           "duration": "6:20"
-        }
-      ]
-    },
-    {
-      "name": "SHISH",
-      "year": "2025",
-      "release_date": "2025-11-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/1b/ca/af1bca85-0c0a-3c4b-c58e-9af4be909bf6/199538654530.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Denali",
-          "duration": "4:15"
-        },
-        {
-          "number": 2,
-          "name": "Pittman Ralliers",
-          "duration": "2:46"
-        },
-        {
-          "number": 3,
-          "name": "Angoon",
-          "duration": "4:37"
-        },
-        {
-          "number": 4,
-          "name": "Knik",
-          "duration": "5:38"
-        },
-        {
-          "number": 5,
-          "name": "Shish",
-          "duration": "5:26"
-        },
-        {
-          "number": 6,
-          "name": "Mush",
-          "duration": "2:43"
-        },
-        {
-          "number": 7,
-          "name": "Tyonek",
-          "duration": "4:30"
-        },
-        {
-          "number": 8,
-          "name": "Kokhanockers",
-          "duration": "3:09"
-        },
-        {
-          "number": 9,
-          "name": "Tanana",
-          "duration": "3:19"
-        },
-        {
-          "number": 10,
-          "name": "Father Gun",
-          "duration": "5:23"
         }
       ]
     },
@@ -304,6 +246,64 @@
           "number": 11,
           "name": "Anxiety:Clarity (feat. Paul Williams)",
           "duration": "5:44"
+        }
+      ]
+    },
+    {
+      "name": "SHISH",
+      "year": "2025",
+      "release_date": "2025-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/1b/ca/af1bca85-0c0a-3c4b-c58e-9af4be909bf6/199538654530.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Denali",
+          "duration": "4:15"
+        },
+        {
+          "number": 2,
+          "name": "Pittman Ralliers",
+          "duration": "2:46"
+        },
+        {
+          "number": 3,
+          "name": "Angoon",
+          "duration": "4:37"
+        },
+        {
+          "number": 4,
+          "name": "Knik",
+          "duration": "5:38"
+        },
+        {
+          "number": 5,
+          "name": "Shish",
+          "duration": "5:26"
+        },
+        {
+          "number": 6,
+          "name": "Mush",
+          "duration": "2:43"
+        },
+        {
+          "number": 7,
+          "name": "Tyonek",
+          "duration": "4:30"
+        },
+        {
+          "number": 8,
+          "name": "Kokhanockers",
+          "duration": "3:09"
+        },
+        {
+          "number": 9,
+          "name": "Tanana",
+          "duration": "3:19"
+        },
+        {
+          "number": 10,
+          "name": "Father Gun",
+          "duration": "5:23"
         }
       ]
     },
@@ -1098,19 +1098,6 @@
   ],
   "singles": [
     {
-      "name": "Glide",
-      "year": "2025",
-      "release_date": "2025-03-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/1f/52/151f5282-6612-5cc6-2a09-88460c666f0c/196872973051.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Glide",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "What, Me Worry?",
       "year": "2022",
       "release_date": "2022-02-09",
@@ -1120,6 +1107,19 @@
           "number": 1,
           "name": "What, Me Worry?",
           "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "Glide",
+      "year": "2025",
+      "release_date": "2025-03-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/1f/52/151f5282-6612-5cc6-2a09-88460c666f0c/196872973051.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Glide",
+          "duration": "3:04"
         }
       ]
     },
@@ -1138,6 +1138,19 @@
           "number": 2,
           "name": "Purple Yellow Red and Blue (Passion Pit Remix)",
           "duration": "5:34"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/ac/98/a5ac9830-05e9-a9d3-e854-8242b2678359/1280598.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Phoenix",
+          "duration": "2:24"
         }
       ]
     },
@@ -1169,19 +1182,6 @@
           "number": 1,
           "name": "Who’s Gonna Stop Me (feat. \"Weird Al\" Yankovic)",
           "duration": "3:52"
-        }
-      ]
-    },
-    {
-      "name": "Phoenix",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/ac/98/a5ac9830-05e9-a9d3-e854-8242b2678359/1280598.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Phoenix",
-          "duration": "2:24"
         }
       ]
     },
@@ -1430,19 +1430,6 @@
       ]
     },
     {
-      "name": "Golden",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/7e/27/5c7e2772-10fb-291d-07a2-1b7f16370f37/820200340597.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Golden",
-          "duration": "3:11"
-        }
-      ]
-    },
-    {
       "name": "What, Me Worry? (A-Trak Remix)",
       "year": "2022",
       "release_date": "2022-07-15",
@@ -1465,6 +1452,19 @@
           "number": 1,
           "name": "Live in the Moment (TOKiMONSTA Remix)",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Golden",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/7e/27/5c7e2772-10fb-291d-07a2-1b7f16370f37/820200340597.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Golden",
+          "duration": "3:11"
         }
       ]
     },

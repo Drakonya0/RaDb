@@ -66,64 +66,6 @@
       ]
     },
     {
-      "name": "A Sign of Things to Come",
-      "year": "2023",
-      "release_date": "2023-09-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fc/a2/0c/fca20cb5-bc09-6529-fc60-8d1b9a0166e7/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Deadwood",
-          "duration": "4:24"
-        },
-        {
-          "number": 2,
-          "name": "A Sign of Things to Come",
-          "duration": "4:35"
-        },
-        {
-          "number": 3,
-          "name": "Pariahs",
-          "duration": "3:47"
-        },
-        {
-          "number": 4,
-          "name": "Poison for the Lost",
-          "duration": "4:19"
-        },
-        {
-          "number": 5,
-          "name": "Descent",
-          "duration": "4:16"
-        },
-        {
-          "number": 6,
-          "name": "Absent",
-          "duration": "3:55"
-        },
-        {
-          "number": 7,
-          "name": "Eye for An Eye",
-          "duration": "4:12"
-        },
-        {
-          "number": 8,
-          "name": "Judas",
-          "duration": "4:23"
-        },
-        {
-          "number": 9,
-          "name": "Thorns",
-          "duration": "4:14"
-        },
-        {
-          "number": 10,
-          "name": "A Godless Throne",
-          "duration": "5:12"
-        }
-      ]
-    },
-    {
       "name": "Cycle of Suffering",
       "year": "2020",
       "release_date": "2020-02-07",
@@ -188,6 +130,64 @@
           "number": 12,
           "name": "Abandon",
           "duration": "6:06"
+        }
+      ]
+    },
+    {
+      "name": "A Sign of Things to Come",
+      "year": "2023",
+      "release_date": "2023-09-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fc/a2/0c/fca20cb5-bc09-6529-fc60-8d1b9a0166e7/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Deadwood",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "A Sign of Things to Come",
+          "duration": "4:35"
+        },
+        {
+          "number": 3,
+          "name": "Pariahs",
+          "duration": "3:47"
+        },
+        {
+          "number": 4,
+          "name": "Poison for the Lost",
+          "duration": "4:19"
+        },
+        {
+          "number": 5,
+          "name": "Descent",
+          "duration": "4:16"
+        },
+        {
+          "number": 6,
+          "name": "Absent",
+          "duration": "3:55"
+        },
+        {
+          "number": 7,
+          "name": "Eye for An Eye",
+          "duration": "4:12"
+        },
+        {
+          "number": 8,
+          "name": "Judas",
+          "duration": "4:23"
+        },
+        {
+          "number": 9,
+          "name": "Thorns",
+          "duration": "4:14"
+        },
+        {
+          "number": 10,
+          "name": "A Godless Throne",
+          "duration": "5:12"
         }
       ]
     },
@@ -501,19 +501,6 @@
   ],
   "singles": [
     {
-      "name": "Worship Decay",
-      "year": "2020",
-      "release_date": "2020-12-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/89/4d/76/894d76f9-88c5-957f-caba-6bd15ccb28cb/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Worship Decay",
-          "duration": "4:17"
-        }
-      ]
-    },
-    {
       "name": "Slings and Arrows",
       "year": "2012",
       "release_date": "2012-02-27",
@@ -523,6 +510,19 @@
           "number": 1,
           "name": "Slings and Arrow",
           "duration": "4:41"
+        }
+      ]
+    },
+    {
+      "name": "Worship Decay",
+      "year": "2020",
+      "release_date": "2020-12-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/89/4d/76/894d76f9-88c5-957f-caba-6bd15ccb28cb/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Worship Decay",
+          "duration": "4:17"
         }
       ]
     },

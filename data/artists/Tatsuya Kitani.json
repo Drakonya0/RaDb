@@ -280,6 +280,19 @@
   ],
   "singles": [
     {
+      "name": "スカー",
+      "year": "2022",
+      "release_date": "2022-10-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/23/94/17/239417ee-6c63-ed27-3aa7-72dc57d08a51/4547366587890.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Scar",
+          "duration": "4:19"
+        }
+      ]
+    },
+    {
       "name": "青のすみか",
       "year": "2023",
       "release_date": "2023-07-07",
@@ -306,15 +319,15 @@
       ]
     },
     {
-      "name": "スカー",
-      "year": "2022",
-      "release_date": "2022-10-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/23/94/17/239417ee-6c63-ed27-3aa7-72dc57d08a51/4547366587890.jpg/600x600bb.jpg",
+      "name": "火種",
+      "year": "2026",
+      "release_date": "2026-04-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/bf/c5/e3bfc50a-d2a7-4f41-eb52-5868bb643772/4547366814552.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Scar",
-          "duration": "4:19"
+          "name": "HIDANE",
+          "duration": "3:24"
         }
       ]
     },
@@ -380,32 +393,6 @@
           "number": 1,
           "name": "Where Our Blue Is (Acoustic version)",
           "duration": "3:23"
-        }
-      ]
-    },
-    {
-      "name": "火種",
-      "year": "2026",
-      "release_date": "2026-04-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/bf/c5/e3bfc50a-d2a7-4f41-eb52-5868bb643772/4547366814552.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HIDANE",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
-      "name": "れびてーしょん",
-      "year": "2026",
-      "release_date": "2026-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/44/99/24449966-6f8f-b1db-7a16-b85830e1f593/4547366818260.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LEVITATION",
-          "duration": "4:02"
         }
       ]
     },
@@ -551,6 +538,19 @@
           "number": 1,
           "name": "Bakeneko",
           "duration": "2:47"
+        }
+      ]
+    },
+    {
+      "name": "れびてーしょん",
+      "year": "2026",
+      "release_date": "2026-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/44/99/24449966-6f8f-b1db-7a16-b85830e1f593/4547366818260.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LEVITATION",
+          "duration": "4:02"
         }
       ]
     },
@@ -1001,34 +1001,6 @@
       ]
     },
     {
-      "name": "いらないもの",
-      "year": "2024",
-      "release_date": "2024-11-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/c7/88/0dc788a6-b43b-a81c-9c01-74f333d5a8cc/4547366717006.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chained",
-          "duration": "3:06"
-        },
-        {
-          "number": 2,
-          "name": "Overwritten",
-          "duration": "2:43"
-        },
-        {
-          "number": 3,
-          "name": "Chained (Instrumental)",
-          "duration": "3:06"
-        },
-        {
-          "number": 4,
-          "name": "Overwritten (Instrumental)",
-          "duration": "2:43"
-        }
-      ]
-    },
-    {
       "name": "LOVE: AMPLIFIED",
       "year": "2023",
       "release_date": "2023-06-14",
@@ -1053,6 +1025,34 @@
           "number": 4,
           "name": "Unknown play (feat. indigo la End)",
           "duration": "3:44"
+        }
+      ]
+    },
+    {
+      "name": "いらないもの",
+      "year": "2024",
+      "release_date": "2024-11-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/c7/88/0dc788a6-b43b-a81c-9c01-74f333d5a8cc/4547366717006.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chained",
+          "duration": "3:06"
+        },
+        {
+          "number": 2,
+          "name": "Overwritten",
+          "duration": "2:43"
+        },
+        {
+          "number": 3,
+          "name": "Chained (Instrumental)",
+          "duration": "3:06"
+        },
+        {
+          "number": 4,
+          "name": "Overwritten (Instrumental)",
+          "duration": "2:43"
         }
       ]
     },

@@ -356,6 +356,19 @@
       ]
     },
     {
+      "name": "Funk Do Miska Muska",
+      "year": "2023",
+      "release_date": "2023-07-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/1a/d8/9c1ad8b9-edca-2988-0caf-975360245876/5056685972335.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Funk Do Miska Muska (Mickey Mouse)",
+          "duration": "1:22"
+        }
+      ]
+    },
+    {
       "name": "PSL",
       "year": "2024",
       "release_date": "2024-12-24",
@@ -1750,19 +1763,6 @@
       ]
     },
     {
-      "name": "Funk Do Miska Muska",
-      "year": "2023",
-      "release_date": "2023-07-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/1a/d8/9c1ad8b9-edca-2988-0caf-975360245876/5056685972335.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Funk Do Miska Muska (Mickey Mouse)",
-          "duration": "1:22"
-        }
-      ]
-    },
-    {
       "name": "PUMP (Sped Up)",
       "year": "2023",
       "release_date": "2023-09-25",
@@ -1985,30 +1985,30 @@
   ],
   "eps": [
     {
-      "name": "HU HU HU HU",
-      "year": "2025",
-      "release_date": "2025-10-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/74/d4/5674d448-26f5-856f-a63b-b1991fbc76e7/1963623857002_cover.jpg/600x600bb.jpg",
+      "name": "P*RRA",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/e1/02/b0e10233-2e2f-61c0-8f83-3041194ab0c4/9758.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "HU HU HU HU",
-          "duration": "1:07"
+          "name": "P*RRA",
+          "duration": "1:15"
         },
         {
           "number": 2,
-          "name": "HU HU HU HU - SLOWED",
-          "duration": "1:16"
+          "name": "P*RRA (Slowed)",
+          "duration": "1:30"
         },
         {
           "number": 3,
-          "name": "HU HU HU HU - SUPER SLOWED",
-          "duration": "1:23"
+          "name": "P*RRA (Super Slowed)",
+          "duration": "1:37"
         },
         {
           "number": 4,
-          "name": "HU HU HU HU - SPED UP",
-          "duration": "0:59"
+          "name": "P*RRA (Sped Up)",
+          "duration": "1:08"
         }
       ]
     },
@@ -2037,6 +2037,34 @@
           "number": 4,
           "name": "Funk Do Miska Muska (Mega Slowed)",
           "duration": "1:50"
+        }
+      ]
+    },
+    {
+      "name": "HU HU HU HU",
+      "year": "2025",
+      "release_date": "2025-10-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/74/d4/5674d448-26f5-856f-a63b-b1991fbc76e7/1963623857002_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HU HU HU HU",
+          "duration": "1:07"
+        },
+        {
+          "number": 2,
+          "name": "HU HU HU HU - SLOWED",
+          "duration": "1:16"
+        },
+        {
+          "number": 3,
+          "name": "HU HU HU HU - SUPER SLOWED",
+          "duration": "1:23"
+        },
+        {
+          "number": 4,
+          "name": "HU HU HU HU - SPED UP",
+          "duration": "0:59"
         }
       ]
     },

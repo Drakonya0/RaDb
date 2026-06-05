@@ -3,6 +3,59 @@
   "id": 571069809,
   "albums": [
     {
+      "name": "Blood Lust",
+      "year": "2012",
+      "release_date": "2012-11-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/ea/cf/baeacf20-a495-f2e5-69d5-47192321ff06/889176384301.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I'll Cut You Down",
+          "duration": "5:01"
+        },
+        {
+          "number": 2,
+          "name": "Death's Door",
+          "duration": "7:15"
+        },
+        {
+          "number": 3,
+          "name": "Over and over Again",
+          "duration": "3:20"
+        },
+        {
+          "number": 4,
+          "name": "Curse in the Trees",
+          "duration": "4:38"
+        },
+        {
+          "number": 5,
+          "name": "I'm Here to Kill You",
+          "duration": "3:40"
+        },
+        {
+          "number": 6,
+          "name": "13 Candles",
+          "duration": "6:58"
+        },
+        {
+          "number": 7,
+          "name": "Ritual Knife",
+          "duration": "4:43"
+        },
+        {
+          "number": 8,
+          "name": "Withered Hand of Evil",
+          "duration": "6:15"
+        },
+        {
+          "number": 9,
+          "name": "Down to the Fire (Bonus)",
+          "duration": "5:28"
+        }
+      ]
+    },
+    {
       "name": "Mind Control",
       "year": "2013",
       "release_date": "2013-04-12",
@@ -52,54 +105,6 @@
           "number": 9,
           "name": "Devil's Work",
           "duration": "6:55"
-        }
-      ]
-    },
-    {
-      "name": "Vol. 1",
-      "year": "2017",
-      "release_date": "2017-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/cb/ef/0fcbef92-d852-c7dd-bf22-8b30b73f98a9/886446710822.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Crystal Spiders",
-          "duration": "3:33"
-        },
-        {
-          "number": 2,
-          "name": "Witches Garden",
-          "duration": "5:18"
-        },
-        {
-          "number": 3,
-          "name": "Dead Eyes of London",
-          "duration": "4:03"
-        },
-        {
-          "number": 4,
-          "name": "Lonely and Strange",
-          "duration": "8:00"
-        },
-        {
-          "number": 5,
-          "name": "Vampire Circus",
-          "duration": "5:32"
-        },
-        {
-          "number": 6,
-          "name": "Do What Your Love Tells You",
-          "duration": "6:31"
-        },
-        {
-          "number": 7,
-          "name": "I Don't Know",
-          "duration": "3:54"
-        },
-        {
-          "number": 8,
-          "name": "Wind up Toys",
-          "duration": "7:53"
         }
       ]
     },
@@ -162,55 +167,98 @@
       ]
     },
     {
-      "name": "Blood Lust",
-      "year": "2012",
-      "release_date": "2012-11-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/ea/cf/baeacf20-a495-f2e5-69d5-47192321ff06/889176384301.jpg/600x600bb.jpg",
+      "name": "Vol. 1",
+      "year": "2017",
+      "release_date": "2017-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/cb/ef/0fcbef92-d852-c7dd-bf22-8b30b73f98a9/886446710822.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "I'll Cut You Down",
-          "duration": "5:01"
+          "name": "Crystal Spiders",
+          "duration": "3:33"
         },
         {
           "number": 2,
-          "name": "Death's Door",
-          "duration": "7:15"
+          "name": "Witches Garden",
+          "duration": "5:18"
         },
         {
           "number": 3,
-          "name": "Over and over Again",
-          "duration": "3:20"
+          "name": "Dead Eyes of London",
+          "duration": "4:03"
         },
         {
           "number": 4,
-          "name": "Curse in the Trees",
-          "duration": "4:38"
+          "name": "Lonely and Strange",
+          "duration": "8:00"
         },
         {
           "number": 5,
-          "name": "I'm Here to Kill You",
-          "duration": "3:40"
+          "name": "Vampire Circus",
+          "duration": "5:32"
         },
         {
           "number": 6,
-          "name": "13 Candles",
-          "duration": "6:58"
+          "name": "Do What Your Love Tells You",
+          "duration": "6:31"
         },
         {
           "number": 7,
-          "name": "Ritual Knife",
-          "duration": "4:43"
+          "name": "I Don't Know",
+          "duration": "3:54"
         },
         {
           "number": 8,
-          "name": "Withered Hand of Evil",
-          "duration": "6:15"
+          "name": "Wind up Toys",
+          "duration": "7:53"
+        }
+      ]
+    },
+    {
+      "name": "Wasteland",
+      "year": "2018",
+      "release_date": "2018-10-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fc/cd/61/fccd6195-e5da-a34f-f1bd-4431655e67e3/192562831311.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I See Through You",
+          "duration": "5:41"
         },
         {
-          "number": 9,
-          "name": "Down to the Fire (Bonus)",
-          "duration": "5:28"
+          "number": 2,
+          "name": "Shockwave City",
+          "duration": "4:00"
+        },
+        {
+          "number": 3,
+          "name": "No Return",
+          "duration": "8:49"
+        },
+        {
+          "number": 4,
+          "name": "Blood Runner",
+          "duration": "4:01"
+        },
+        {
+          "number": 5,
+          "name": "Stranger Tonight",
+          "duration": "3:54"
+        },
+        {
+          "number": 6,
+          "name": "Wasteland",
+          "duration": "7:46"
+        },
+        {
+          "number": 7,
+          "name": "Bedouin",
+          "duration": "5:32"
+        },
+        {
+          "number": 8,
+          "name": "Exodus",
+          "duration": "6:45"
         }
       ]
     },
@@ -314,54 +362,6 @@
           "number": 19,
           "name": "Ritorno all'oscurità",
           "duration": "1:35"
-        }
-      ]
-    },
-    {
-      "name": "Wasteland",
-      "year": "2018",
-      "release_date": "2018-10-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fc/cd/61/fccd6195-e5da-a34f-f1bd-4431655e67e3/192562831311.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I See Through You",
-          "duration": "5:41"
-        },
-        {
-          "number": 2,
-          "name": "Shockwave City",
-          "duration": "4:00"
-        },
-        {
-          "number": 3,
-          "name": "No Return",
-          "duration": "8:49"
-        },
-        {
-          "number": 4,
-          "name": "Blood Runner",
-          "duration": "4:01"
-        },
-        {
-          "number": 5,
-          "name": "Stranger Tonight",
-          "duration": "3:54"
-        },
-        {
-          "number": 6,
-          "name": "Wasteland",
-          "duration": "7:46"
-        },
-        {
-          "number": 7,
-          "name": "Bedouin",
-          "duration": "5:32"
-        },
-        {
-          "number": 8,
-          "name": "Exodus",
-          "duration": "6:45"
         }
       ]
     },
@@ -500,6 +500,19 @@
       ]
     },
     {
+      "name": "Don't Let It Control You",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/d7/79/51d7795d-cb96-18f9-f4d7-7b8bce054f82/125855.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Don't Let It Control You",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
       "name": "Mind Crawler",
       "year": "2013",
       "release_date": "2013-08-09",
@@ -514,19 +527,6 @@
           "number": 2,
           "name": "Get on Home",
           "duration": "5:07"
-        }
-      ]
-    },
-    {
-      "name": "Don't Let It Control You",
-      "year": "2026",
-      "release_date": "2026-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/d7/79/51d7795d-cb96-18f9-f4d7-7b8bce054f82/125855.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Don't Let It Control You",
-          "duration": "3:45"
         }
       ]
     }
