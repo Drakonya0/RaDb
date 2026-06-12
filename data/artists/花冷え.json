@@ -3,64 +3,6 @@
   "id": 1437484631,
   "albums": [
     {
-      "name": "乙女改革",
-      "year": "2021",
-      "release_date": "2021-01-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1f/13/56/1f1356f6-b452-aa01-2379-453e8627da10/859756506645_cover.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sunrise Miso-Soup",
-          "duration": "3:46"
-        },
-        {
-          "number": 2,
-          "name": "Sentimental Heroine",
-          "duration": "1:39"
-        },
-        {
-          "number": 3,
-          "name": "Bukkowasu!!",
-          "duration": "2:43"
-        },
-        {
-          "number": 4,
-          "name": "Our 7days War",
-          "duration": "3:19"
-        },
-        {
-          "number": 5,
-          "name": "Reiwa Dating Apps Generation",
-          "duration": "3:29"
-        },
-        {
-          "number": 6,
-          "name": "Invisible Wall",
-          "duration": "3:35"
-        },
-        {
-          "number": 7,
-          "name": "We Love Sweets",
-          "duration": "2:39"
-        },
-        {
-          "number": 8,
-          "name": "L.C.G (2019mix)",
-          "duration": "3:56"
-        },
-        {
-          "number": 9,
-          "name": "Genkai Numa Life",
-          "duration": "3:05"
-        },
-        {
-          "number": 10,
-          "name": "Want to Tie-Up",
-          "duration": "3:41"
-        }
-      ]
-    },
-    {
       "name": "来世は偉人!",
       "year": "2023",
       "release_date": "2023-07-26",
@@ -117,9 +59,80 @@
           "duration": "2:37"
         }
       ]
+    },
+    {
+      "name": "乙女改革",
+      "year": "2021",
+      "release_date": "2021-01-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1f/13/56/1f1356f6-b452-aa01-2379-453e8627da10/859756506645_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sunrise Miso-Soup",
+          "duration": "3:46"
+        },
+        {
+          "number": 2,
+          "name": "Sentimental Heroine",
+          "duration": "1:39"
+        },
+        {
+          "number": 3,
+          "name": "Bukkowasu!!",
+          "duration": "2:43"
+        },
+        {
+          "number": 4,
+          "name": "Our 7days War",
+          "duration": "3:19"
+        },
+        {
+          "number": 5,
+          "name": "Reiwa Dating Apps Generation",
+          "duration": "3:29"
+        },
+        {
+          "number": 6,
+          "name": "Invisible Wall",
+          "duration": "3:35"
+        },
+        {
+          "number": 7,
+          "name": "We Love Sweets",
+          "duration": "2:39"
+        },
+        {
+          "number": 8,
+          "name": "L.C.G (2019mix)",
+          "duration": "3:56"
+        },
+        {
+          "number": 9,
+          "name": "Genkai Numa Life",
+          "duration": "3:05"
+        },
+        {
+          "number": 10,
+          "name": "Want to Tie-Up",
+          "duration": "3:41"
+        }
+      ]
     }
   ],
   "singles": [
+    {
+      "name": "お先に失礼します。",
+      "year": "2023",
+      "release_date": "2023-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3f/6b/f3/3f6bf3c2-71d7-9720-1adc-e999a7f5ddba/4547366600872.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Osaki Ni Shitsurei Shimasu",
+          "duration": "3:09"
+        }
+      ]
+    },
     {
       "name": "おいしいサバイバー",
       "year": "2025",
@@ -147,32 +160,6 @@
       ]
     },
     {
-      "name": "LOVE乱舞",
-      "year": "2022",
-      "release_date": "2022-04-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/30/53/c1/3053c1ab-05b0-ab07-cb65-4c4037155e13/00013504_3000.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LOVE乱舞",
-          "duration": "3:49"
-        }
-      ]
-    },
-    {
-      "name": "お先に失礼します。",
-      "year": "2023",
-      "release_date": "2023-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3f/6b/f3/3f6bf3c2-71d7-9720-1adc-e999a7f5ddba/4547366600872.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Osaki Ni Shitsurei Shimasu",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
       "name": "Spicy Queen",
       "year": "2025",
       "release_date": "2025-05-28",
@@ -181,6 +168,19 @@
         {
           "number": 1,
           "name": "Spicy Queen",
+          "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "LOVE乱舞",
+      "year": "2022",
+      "release_date": "2022-04-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/30/53/c1/3053c1ab-05b0-ab07-cb65-4c4037155e13/00013504_3000.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LOVE乱舞",
           "duration": "3:49"
         }
       ]
@@ -374,6 +374,39 @@
       ]
     },
     {
+      "name": "HOT TOPIC",
+      "year": "2026",
+      "release_date": "2026-01-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/21/b2/9821b206-f7d6-04b6-9466-93bbb0cae83e/4547366799477.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ICONIC",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Spicy Queen",
+          "duration": "3:49"
+        },
+        {
+          "number": 3,
+          "name": "Tokimeki about you",
+          "duration": "3:19"
+        },
+        {
+          "number": 4,
+          "name": "GIRL'S TALK",
+          "duration": "2:52"
+        },
+        {
+          "number": 5,
+          "name": "Theme of hanabienchan.",
+          "duration": "1:38"
+        }
+      ]
+    },
+    {
       "name": "開花宣言",
       "year": "2018",
       "release_date": "2018-10-17",
@@ -408,39 +441,6 @@
           "number": 6,
           "name": "Drastic Nadeshiko",
           "duration": "3:52"
-        }
-      ]
-    },
-    {
-      "name": "HOT TOPIC",
-      "year": "2026",
-      "release_date": "2026-01-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/21/b2/9821b206-f7d6-04b6-9466-93bbb0cae83e/4547366799477.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ICONIC",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Spicy Queen",
-          "duration": "3:49"
-        },
-        {
-          "number": 3,
-          "name": "Tokimeki about you",
-          "duration": "3:19"
-        },
-        {
-          "number": 4,
-          "name": "GIRL'S TALK",
-          "duration": "2:52"
-        },
-        {
-          "number": 5,
-          "name": "Theme of hanabienchan.",
-          "duration": "1:38"
         }
       ]
     }

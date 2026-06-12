@@ -551,19 +551,6 @@
   ],
   "singles": [
     {
-      "name": "NEVER-END TALE",
-      "year": "2015",
-      "release_date": "2015-08-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/cd/c1/a7cdc15d-11fc-4068-42b0-b52a2adcd761/ANTCD-15699.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NEVER-END TALE",
-          "duration": "4:58"
-        }
-      ]
-    },
-    {
       "name": "Reweave",
       "year": "2024",
       "release_date": "2024-10-03",
@@ -573,6 +560,19 @@
           "number": 1,
           "name": "Reweave",
           "duration": "3:57"
+        }
+      ]
+    },
+    {
+      "name": "NEVER-END TALE",
+      "year": "2015",
+      "release_date": "2015-08-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a7/cd/c1/a7cdc15d-11fc-4068-42b0-b52a2adcd761/ANTCD-15699.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NEVER-END TALE",
+          "duration": "4:58"
         }
       ]
     },
@@ -609,29 +609,6 @@
           "number": 2,
           "name": "Shinri No Kagami, Tsurugi No Youni",
           "duration": "1:32"
-        }
-      ]
-    },
-    {
-      "name": "TVアニメ「Re:ゼロから始める異世界生活」Remakeアルバム",
-      "year": "2025",
-      "release_date": "2025-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/83/30/3a83309d-43b5-70ac-5d11-e1d8c69df4f7/JKT_REMAKE.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stay Alive",
-          "duration": "4:25"
-        },
-        {
-          "number": 2,
-          "name": "Wishing",
-          "duration": "6:00"
-        },
-        {
-          "number": 3,
-          "name": "あなたの知らないこと",
-          "duration": "5:11"
         }
       ]
     },
@@ -676,6 +653,29 @@
           "number": 2,
           "name": "Kami No Suushiki (TV Size)",
           "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "TVアニメ「Re:ゼロから始める異世界生活」Remakeアルバム",
+      "year": "2025",
+      "release_date": "2025-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/83/30/3a83309d-43b5-70ac-5d11-e1d8c69df4f7/JKT_REMAKE.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stay Alive",
+          "duration": "4:25"
+        },
+        {
+          "number": 2,
+          "name": "Wishing",
+          "duration": "6:00"
+        },
+        {
+          "number": 3,
+          "name": "あなたの知らないこと",
+          "duration": "5:11"
         }
       ]
     },
@@ -1020,39 +1020,6 @@
       ]
     },
     {
-      "name": "TVアニメ「Re:ゼロから始める異世界生活」オープニングテーマ「Redo」",
-      "year": "2016",
-      "release_date": "2016-05-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/40/74/6e/40746e4d-b8de-b286-97ce-ea2068721fa4/ZMCZ-10604.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Redo",
-          "duration": "4:18"
-        },
-        {
-          "number": 2,
-          "name": "メビウス",
-          "duration": "4:17"
-        },
-        {
-          "number": 3,
-          "name": "世界は疵を抱きしめる Acoustic.ver",
-          "duration": "4:44"
-        },
-        {
-          "number": 4,
-          "name": "Redo (instrumental)",
-          "duration": "4:18"
-        },
-        {
-          "number": 5,
-          "name": "メビウス (insturmental)",
-          "duration": "4:16"
-        }
-      ]
-    },
-    {
       "name": "歌えばそこに君がいるから (TVアニメ「LOST SONG」オープニング主題歌)",
       "year": "2018",
       "release_date": "2018-05-23",
@@ -1166,6 +1133,39 @@
           "number": 5,
           "name": "Summer Pockets BGM 2",
           "duration": "4:14"
+        }
+      ]
+    },
+    {
+      "name": "TVアニメ「Re:ゼロから始める異世界生活」オープニングテーマ「Redo」",
+      "year": "2016",
+      "release_date": "2016-05-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music18/v4/40/74/6e/40746e4d-b8de-b286-97ce-ea2068721fa4/ZMCZ-10604.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Redo",
+          "duration": "4:18"
+        },
+        {
+          "number": 2,
+          "name": "メビウス",
+          "duration": "4:17"
+        },
+        {
+          "number": 3,
+          "name": "世界は疵を抱きしめる Acoustic.ver",
+          "duration": "4:44"
+        },
+        {
+          "number": 4,
+          "name": "Redo (instrumental)",
+          "duration": "4:18"
+        },
+        {
+          "number": 5,
+          "name": "メビウス (insturmental)",
+          "duration": "4:16"
         }
       ]
     },

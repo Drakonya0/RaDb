@@ -3,54 +3,6 @@
   "id": 169193461,
   "albums": [
     {
-      "name": "Toca Toca (Remixes)",
-      "year": "2013",
-      "release_date": "2013-09-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/30/9f/1f/309f1f90-3494-1d72-0e01-20d872c438e6/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Toca Toca (Radio Edit)",
-          "duration": "2:45"
-        },
-        {
-          "number": 2,
-          "name": "Toca Toca (Vengerov Remix Edit)",
-          "duration": "3:30"
-        },
-        {
-          "number": 3,
-          "name": "Toca Toca (Odd Remix Edit)",
-          "duration": "3:06"
-        },
-        {
-          "number": 4,
-          "name": "Toca Toca (John Rivas Remix Edit)",
-          "duration": "3:00"
-        },
-        {
-          "number": 5,
-          "name": "Toca Toca (Extended Version)",
-          "duration": "4:47"
-        },
-        {
-          "number": 6,
-          "name": "Toca Toca (Vengerov Remix)",
-          "duration": "4:54"
-        },
-        {
-          "number": 7,
-          "name": "Toca Toca (Odd Remix)",
-          "duration": "4:36"
-        },
-        {
-          "number": 8,
-          "name": "Toca Toca (John Rivas Remix)",
-          "duration": "3:59"
-        }
-      ]
-    },
-    {
       "name": "Declaratie de dragoste vol. 6 (I Love You)",
       "year": "2010",
       "release_date": "2010-01-01",
@@ -115,6 +67,54 @@
           "number": 12,
           "name": "Mi-E Dor De Tine",
           "duration": "3:31"
+        }
+      ]
+    },
+    {
+      "name": "Toca Toca (Remixes)",
+      "year": "2013",
+      "release_date": "2013-09-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/30/9f/1f/309f1f90-3494-1d72-0e01-20d872c438e6/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Toca Toca (Radio Edit)",
+          "duration": "2:45"
+        },
+        {
+          "number": 2,
+          "name": "Toca Toca (Vengerov Remix Edit)",
+          "duration": "3:30"
+        },
+        {
+          "number": 3,
+          "name": "Toca Toca (Odd Remix Edit)",
+          "duration": "3:06"
+        },
+        {
+          "number": 4,
+          "name": "Toca Toca (John Rivas Remix Edit)",
+          "duration": "3:00"
+        },
+        {
+          "number": 5,
+          "name": "Toca Toca (Extended Version)",
+          "duration": "4:47"
+        },
+        {
+          "number": 6,
+          "name": "Toca Toca (Vengerov Remix)",
+          "duration": "4:54"
+        },
+        {
+          "number": 7,
+          "name": "Toca Toca (Odd Remix)",
+          "duration": "4:36"
+        },
+        {
+          "number": 8,
+          "name": "Toca Toca (John Rivas Remix)",
+          "duration": "3:59"
         }
       ]
     },
@@ -781,19 +781,6 @@
       ]
     },
     {
-      "name": "Toca Toca (Remix)",
-      "year": "2023",
-      "release_date": "2023-05-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/65/16/046516e0-4a98-4392-e7a2-83b25332d0ad/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Toca Toca (Remix)",
-          "duration": "2:45"
-        }
-      ]
-    },
-    {
       "name": "Get Wet",
       "year": "2017",
       "release_date": "2017-07-11",
@@ -875,6 +862,19 @@
           "number": 1,
           "name": "Puerto Rico",
           "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "Toca Toca (Remix)",
+      "year": "2023",
+      "release_date": "2023-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/65/16/046516e0-4a98-4392-e7a2-83b25332d0ad/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Toca Toca (Remix)",
+          "duration": "2:45"
         }
       ]
     },

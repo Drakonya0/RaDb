@@ -3,69 +3,6 @@
   "id": 1085279676,
   "albums": [
     {
-      "name": "Perfect Decision",
-      "year": "2026",
-      "release_date": "2026-02-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/58/cd/d458cde9-5d42-5e94-a4e7-0a701780e7a4/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pastiche",
-          "duration": "3:19"
-        },
-        {
-          "number": 2,
-          "name": "Perfect Decision",
-          "duration": "3:28"
-        },
-        {
-          "number": 3,
-          "name": "Imply",
-          "duration": "2:50"
-        },
-        {
-          "number": 4,
-          "name": "Mingle",
-          "duration": "2:56"
-        },
-        {
-          "number": 5,
-          "name": "Routine",
-          "duration": "3:14"
-        },
-        {
-          "number": 6,
-          "name": "Elsewhere",
-          "duration": "2:49"
-        },
-        {
-          "number": 7,
-          "name": "Elaborate",
-          "duration": "3:17"
-        },
-        {
-          "number": 8,
-          "name": "Choice Pragmatic",
-          "duration": "3:06"
-        },
-        {
-          "number": 9,
-          "name": "Meanwhile",
-          "duration": "2:56"
-        },
-        {
-          "number": 10,
-          "name": "Unwavering",
-          "duration": "2:49"
-        },
-        {
-          "number": 11,
-          "name": "Controlled Thoughts",
-          "duration": "2:32"
-        }
-      ]
-    },
-    {
       "name": "Black Tape",
       "year": "2017",
       "release_date": "2017-11-22",
@@ -336,6 +273,69 @@
           "number": 22,
           "name": "Red Light",
           "duration": "2:30"
+        }
+      ]
+    },
+    {
+      "name": "Perfect Decision",
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/58/cd/d458cde9-5d42-5e94-a4e7-0a701780e7a4/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pastiche",
+          "duration": "3:19"
+        },
+        {
+          "number": 2,
+          "name": "Perfect Decision",
+          "duration": "3:28"
+        },
+        {
+          "number": 3,
+          "name": "Imply",
+          "duration": "2:50"
+        },
+        {
+          "number": 4,
+          "name": "Mingle",
+          "duration": "2:56"
+        },
+        {
+          "number": 5,
+          "name": "Routine",
+          "duration": "3:14"
+        },
+        {
+          "number": 6,
+          "name": "Elsewhere",
+          "duration": "2:49"
+        },
+        {
+          "number": 7,
+          "name": "Elaborate",
+          "duration": "3:17"
+        },
+        {
+          "number": 8,
+          "name": "Choice Pragmatic",
+          "duration": "3:06"
+        },
+        {
+          "number": 9,
+          "name": "Meanwhile",
+          "duration": "2:56"
+        },
+        {
+          "number": 10,
+          "name": "Unwavering",
+          "duration": "2:49"
+        },
+        {
+          "number": 11,
+          "name": "Controlled Thoughts",
+          "duration": "2:32"
         }
       ]
     },
@@ -880,19 +880,6 @@
   ],
   "singles": [
     {
-      "name": "The Lost Soul Down (Slowed & Reverb)",
-      "year": "2023",
-      "release_date": "2023-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b6/04/cb/b604cb5e-120d-21c5-27c7-346386649fac/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Lost Soul Down (Slowed & Reverb)",
-          "duration": "4:01"
-        }
-      ]
-    },
-    {
       "name": "The Lost Soul Down",
       "year": "2015",
       "release_date": "2015-12-09",
@@ -902,6 +889,19 @@
           "number": 1,
           "name": "The Lost Soul Down",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "The Lost Soul Down (Slowed & Reverb)",
+      "year": "2023",
+      "release_date": "2023-05-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b6/04/cb/b604cb5e-120d-21c5-27c7-346386649fac/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Lost Soul Down (Slowed & Reverb)",
+          "duration": "4:01"
         }
       ]
     },

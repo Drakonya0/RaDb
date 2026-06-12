@@ -1252,6 +1252,24 @@
       ]
     },
     {
+      "name": "ELA DANCA",
+      "year": "2026",
+      "release_date": "2026-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/0d/33/f10d33b4-7448-e186-f0a0-c392d3c879a6/3513083.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ELA DANCA",
+          "duration": "1:32"
+        },
+        {
+          "number": 2,
+          "name": "ELA DANCA (Slowed)",
+          "duration": "1:45"
+        }
+      ]
+    },
+    {
       "name": "until1die!",
       "year": "2024",
       "release_date": "2024-10-04",
@@ -1266,39 +1284,6 @@
     }
   ],
   "eps": [
-    {
-      "name": "LOS VOLTAJE",
-      "year": "2025",
-      "release_date": "2025-04-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/31/eb/c931eb45-b739-0511-692b-fec23f033996/14751.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LOS VOLTAJE",
-          "duration": "1:39"
-        },
-        {
-          "number": 2,
-          "name": "LOS VOLTAJE (Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 3,
-          "name": "LOS VOLTAJE (Super Slowed)",
-          "duration": "1:57"
-        },
-        {
-          "number": 4,
-          "name": "LOS VOLTAJE (Ultra Slowed)",
-          "duration": "2:07"
-        },
-        {
-          "number": 5,
-          "name": "LOS VOLTAJE (Sped Up)",
-          "duration": "1:28"
-        }
-      ]
-    },
     {
       "name": "DARE",
       "year": "2024",
@@ -1329,6 +1314,39 @@
           "number": 5,
           "name": "DARE (Ultra Slowed)",
           "duration": "2:36"
+        }
+      ]
+    },
+    {
+      "name": "LOS VOLTAJE",
+      "year": "2025",
+      "release_date": "2025-04-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/31/eb/c931eb45-b739-0511-692b-fec23f033996/14751.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LOS VOLTAJE",
+          "duration": "1:39"
+        },
+        {
+          "number": 2,
+          "name": "LOS VOLTAJE (Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 3,
+          "name": "LOS VOLTAJE (Super Slowed)",
+          "duration": "1:57"
+        },
+        {
+          "number": 4,
+          "name": "LOS VOLTAJE (Ultra Slowed)",
+          "duration": "2:07"
+        },
+        {
+          "number": 5,
+          "name": "LOS VOLTAJE (Sped Up)",
+          "duration": "1:28"
         }
       ]
     },
@@ -1871,44 +1889,6 @@
       ]
     },
     {
-      "name": "AL NACER! - JUMPSTYLE",
-      "year": "2026",
-      "release_date": "2026-02-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/b6/08/26b608cb-6115-092c-6377-444c5c255291/499529.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "AL NACER! - JUMPSTYLE",
-          "duration": "1:53"
-        },
-        {
-          "number": 2,
-          "name": "AL NACER! - JUMPSTYLE (Slowed)",
-          "duration": "2:04"
-        },
-        {
-          "number": 3,
-          "name": "AL NACER! - JUMPSTYLE (Super Slowed)",
-          "duration": "2:15"
-        },
-        {
-          "number": 4,
-          "name": "AL NACER! - JUMPSTYLE (Ultra Slowed)",
-          "duration": "2:25"
-        },
-        {
-          "number": 5,
-          "name": "AL NACER! - JUMPSTYLE (Extremely Slowed)",
-          "duration": "2:41"
-        },
-        {
-          "number": 6,
-          "name": "AL NACER! - JUMPSTYLE (Sped Up)",
-          "duration": "1:34"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM RUGADA (Hardstyle Remix)",
       "year": "2025",
       "release_date": "2025-09-08",
@@ -1943,6 +1923,44 @@
           "number": 6,
           "name": "MONTAGEM RUGADA (Sped Up Hardstyle Remix)",
           "duration": "1:27"
+        }
+      ]
+    },
+    {
+      "name": "AL NACER! - JUMPSTYLE",
+      "year": "2026",
+      "release_date": "2026-02-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/b6/08/26b608cb-6115-092c-6377-444c5c255291/499529.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "AL NACER! - JUMPSTYLE",
+          "duration": "1:53"
+        },
+        {
+          "number": 2,
+          "name": "AL NACER! - JUMPSTYLE (Slowed)",
+          "duration": "2:04"
+        },
+        {
+          "number": 3,
+          "name": "AL NACER! - JUMPSTYLE (Super Slowed)",
+          "duration": "2:15"
+        },
+        {
+          "number": 4,
+          "name": "AL NACER! - JUMPSTYLE (Ultra Slowed)",
+          "duration": "2:25"
+        },
+        {
+          "number": 5,
+          "name": "AL NACER! - JUMPSTYLE (Extremely Slowed)",
+          "duration": "2:41"
+        },
+        {
+          "number": 6,
+          "name": "AL NACER! - JUMPSTYLE (Sped Up)",
+          "duration": "1:34"
         }
       ]
     },
@@ -3468,39 +3486,6 @@
       ]
     },
     {
-      "name": "MI MAKASE",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/e0/3d/b2e03d6b-6232-6220-c92d-5c046b3c3944/820200383198.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MI MAKASE",
-          "duration": "1:45"
-        },
-        {
-          "number": 2,
-          "name": "MI MAKASE (Slowed)",
-          "duration": "1:58"
-        },
-        {
-          "number": 3,
-          "name": "MI MAKASE (Super Slowed)",
-          "duration": "2:12"
-        },
-        {
-          "number": 4,
-          "name": "MI MAKASE (Sped Up)",
-          "duration": "1:33"
-        },
-        {
-          "number": 5,
-          "name": "MI MAKASE (Ultra Slowed)",
-          "duration": "2:28"
-        }
-      ]
-    },
-    {
       "name": "Lua Morte",
       "year": "2026",
       "release_date": "2026-01-08",
@@ -3530,6 +3515,39 @@
           "number": 5,
           "name": "Lua Morte (Ultra Slowed)",
           "duration": "2:18"
+        }
+      ]
+    },
+    {
+      "name": "MI MAKASE",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/e0/3d/b2e03d6b-6232-6220-c92d-5c046b3c3944/820200383198.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MI MAKASE",
+          "duration": "1:45"
+        },
+        {
+          "number": 2,
+          "name": "MI MAKASE (Slowed)",
+          "duration": "1:58"
+        },
+        {
+          "number": 3,
+          "name": "MI MAKASE (Super Slowed)",
+          "duration": "2:12"
+        },
+        {
+          "number": 4,
+          "name": "MI MAKASE (Sped Up)",
+          "duration": "1:33"
+        },
+        {
+          "number": 5,
+          "name": "MI MAKASE (Ultra Slowed)",
+          "duration": "2:28"
         }
       ]
     },

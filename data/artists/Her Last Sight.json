@@ -139,49 +139,6 @@
       ]
     },
     {
-      "name": "SEASONS // WINTER",
-      "year": "2024",
-      "release_date": "2024-12-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/1b/ee/e71beed3-366f-1db3-4a92-09fdf80580c6/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "STORM",
-          "duration": "0:30"
-        },
-        {
-          "number": 2,
-          "name": "HOPE",
-          "duration": "4:18"
-        },
-        {
-          "number": 3,
-          "name": "SCARLET (Memories Reimagined)",
-          "duration": "3:59"
-        },
-        {
-          "number": 4,
-          "name": "ZERO",
-          "duration": "3:58"
-        },
-        {
-          "number": 5,
-          "name": "BLINDED BY IGNORANCE",
-          "duration": "3:32"
-        },
-        {
-          "number": 6,
-          "name": "WINTER",
-          "duration": "1:41"
-        },
-        {
-          "number": 7,
-          "name": "LYING SUN",
-          "duration": "5:16"
-        }
-      ]
-    },
-    {
       "name": "SEASONS // SUMMER",
       "year": "2025",
       "release_date": "2025-08-01",
@@ -221,6 +178,49 @@
           "number": 7,
           "name": "I'm Sorry",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "SEASONS // WINTER",
+      "year": "2024",
+      "release_date": "2024-12-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/1b/ee/e71beed3-366f-1db3-4a92-09fdf80580c6/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "STORM",
+          "duration": "0:30"
+        },
+        {
+          "number": 2,
+          "name": "HOPE",
+          "duration": "4:18"
+        },
+        {
+          "number": 3,
+          "name": "SCARLET (Memories Reimagined)",
+          "duration": "3:59"
+        },
+        {
+          "number": 4,
+          "name": "ZERO",
+          "duration": "3:58"
+        },
+        {
+          "number": 5,
+          "name": "BLINDED BY IGNORANCE",
+          "duration": "3:32"
+        },
+        {
+          "number": 6,
+          "name": "WINTER",
+          "duration": "1:41"
+        },
+        {
+          "number": 7,
+          "name": "LYING SUN",
+          "duration": "5:16"
         }
       ]
     },
@@ -282,6 +282,29 @@
         },
         {
           "number": 2,
+          "name": "The Fall",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "Scary Monsters and Nice Sprites",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/ab/12/65ab1256-2ce8-5a14-2760-86ebb855ba41/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Scary Monsters and Nice Sprites",
+          "duration": "2:53"
+        },
+        {
+          "number": 2,
+          "name": "Danny Called Me A Cowboy King",
+          "duration": "4:32"
+        },
+        {
+          "number": 3,
           "name": "The Fall",
           "duration": "3:45"
         }
@@ -359,29 +382,6 @@
           "number": 1,
           "name": "Die With A Smile",
           "duration": "4:12"
-        }
-      ]
-    },
-    {
-      "name": "Scary Monsters and Nice Sprites",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/ab/12/65ab1256-2ce8-5a14-2760-86ebb855ba41/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Scary Monsters and Nice Sprites",
-          "duration": "2:53"
-        },
-        {
-          "number": 2,
-          "name": "Danny Called Me A Cowboy King",
-          "duration": "4:32"
-        },
-        {
-          "number": 3,
-          "name": "The Fall",
-          "duration": "3:45"
         }
       ]
     },
@@ -648,5 +648,34 @@
       ]
     }
   ],
-  "eps": []
+  "eps": [
+    {
+      "name": "Hit Me Like a Piñata (...One More Time)",
+      "year": "2026",
+      "release_date": "2026-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/cf/12/9ecf12f8-5283-51d3-109d-716f8db7e8b5/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hit Me Like a Piñata (...One More Time)",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "Danny Called Me A Cowboy King",
+          "duration": "4:32"
+        },
+        {
+          "number": 3,
+          "name": "The Fall",
+          "duration": "3:45"
+        },
+        {
+          "number": 4,
+          "name": "Scary Monsters and Nice Sprites",
+          "duration": "2:53"
+        }
+      ]
+    }
+  ]
 }

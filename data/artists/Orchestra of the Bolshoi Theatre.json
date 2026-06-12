@@ -3,6 +3,34 @@
   "id": 186955541,
   "albums": [
     {
+      "name": "Glazunov: Raymonda Ballet",
+      "year": "2008",
+      "release_date": "2008-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/82/38/4c/mzi.vmttdndm.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Raymonda, Ballet, Op. 57: I. Act I: Scene I",
+          "duration": "35:58"
+        },
+        {
+          "number": 1,
+          "name": "Raymonda, Ballet, Op. 57: III. Act II",
+          "duration": "33:26"
+        },
+        {
+          "number": 2,
+          "name": "Raymonda, Ballet, Op. 57: II. Act I: Scene II & III",
+          "duration": "31:02"
+        },
+        {
+          "number": 2,
+          "name": "Raymonda, Ballet, Op. 57: IV. Act III",
+          "duration": "35:48"
+        }
+      ]
+    },
+    {
       "name": "Mussorgsky: Boris Godunov",
       "year": "2008",
       "release_date": "2008-11-12",
@@ -52,34 +80,6 @@
           "number": 5,
           "name": "Boris Godunov, Opera - 9. Act IV - Third Scene",
           "duration": "16:53"
-        }
-      ]
-    },
-    {
-      "name": "Glazunov: Raymonda Ballet",
-      "year": "2008",
-      "release_date": "2008-10-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/82/38/4c/mzi.vmttdndm.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Raymonda, Ballet, Op. 57: I. Act I: Scene I",
-          "duration": "35:58"
-        },
-        {
-          "number": 1,
-          "name": "Raymonda, Ballet, Op. 57: III. Act II",
-          "duration": "33:26"
-        },
-        {
-          "number": 2,
-          "name": "Raymonda, Ballet, Op. 57: II. Act I: Scene II & III",
-          "duration": "31:02"
-        },
-        {
-          "number": 2,
-          "name": "Raymonda, Ballet, Op. 57: IV. Act III",
-          "duration": "35:48"
         }
       ]
     },

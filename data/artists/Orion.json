@@ -1,225 +1,180 @@
 {
-  "name": "Orion",
-  "id": 28445995,
-  "albums": [
+  "name": "orion",
+  "id": 1826607992,
+  "albums": [],
+  "singles": [
     {
-      "name": "La Nature Vit, L'homme Lui Critique...",
-      "year": "1979",
-      "release_date": "1979-01-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/95/47/58/9547585a-6736-b8e1-e00b-ad4ca66cd7a6/artwork.jpg/600x600bb.jpg",
+      "name": "feel the rhythm",
+      "year": "2026",
+      "release_date": "2026-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/5e/d0/b55ed07e-4808-ce42-9d82-06d79e07c22a/821275991233.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Le Monde Invivable",
-          "duration": "7:07"
-        },
-        {
-          "number": 2,
-          "name": "Le Singe De La Vie",
-          "duration": "3:40"
-        },
-        {
-          "number": 3,
-          "name": "La Nature Vit",
-          "duration": "7:14"
-        },
-        {
-          "number": 4,
-          "name": "Le Rapace",
-          "duration": "6:15"
-        },
-        {
-          "number": 5,
-          "name": "Obscurite Sans Rose",
-          "duration": "5:54"
-        },
-        {
-          "number": 6,
-          "name": "Pi (3-14)",
-          "duration": "3:03"
-        },
-        {
-          "number": 7,
-          "name": "Le Chevalier",
-          "duration": "5:19"
-        },
-        {
-          "number": 8,
-          "name": "Folie",
-          "duration": "3:22"
-        },
-        {
-          "number": 9,
-          "name": "Il Faut Aimer Ou Mourir",
-          "duration": "3:16"
-        }
-      ]
-    },
-    {
-      "name": "Le Survivant",
-      "year": "2017",
-      "release_date": "2017-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ed/bc/9b/edbc9bb4-3eee-60c7-9a08-9beda44f642f/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Big bang",
-          "duration": "8:38"
-        },
-        {
-          "number": 2,
-          "name": "Cumulostratus",
-          "duration": "4:17"
-        },
-        {
-          "number": 3,
-          "name": "Peur du vide",
-          "duration": "6:32"
-        },
-        {
-          "number": 4,
-          "name": "Les Ravageurs",
-          "duration": "3:38"
-        },
-        {
-          "number": 5,
-          "name": "mère nature",
-          "duration": "3:47"
-        },
-        {
-          "number": 6,
-          "name": "La Planète des fous",
-          "duration": "4:28"
-        },
-        {
-          "number": 7,
-          "name": "Le dernier arbre",
-          "duration": "6:30"
-        },
-        {
-          "number": 8,
-          "name": "Le Survivant",
-          "duration": "7:35"
-        }
-      ]
-    },
-    {
-      "name": "Best Of (1975-2020)",
-      "year": "2020",
-      "release_date": "2020-09-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5e/e8/49/5ee84921-521c-3c1c-57a8-5fded13bacc7/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Virtual Human",
-          "duration": "5:24"
-        },
-        {
-          "number": 2,
-          "name": "Big Bang",
-          "duration": "8:38"
-        },
-        {
-          "number": 3,
-          "name": "Cumulostratus",
-          "duration": "4:17"
-        },
-        {
-          "number": 4,
-          "name": "T.O.W.U.",
-          "duration": "3:48"
-        },
-        {
-          "number": 5,
-          "name": "Quelque Part En 1989",
-          "duration": "6:39"
-        },
-        {
-          "number": 6,
-          "name": "La Face Visible",
-          "duration": "9:34"
-        },
-        {
-          "number": 7,
-          "name": "Run for Life",
-          "duration": "5:54"
-        },
-        {
-          "number": 8,
-          "name": "La Nature vit",
-          "duration": "7:14"
-        },
-        {
-          "number": 9,
-          "name": "Obscurité sans Rose",
-          "duration": "5:54"
-        },
-        {
-          "number": 10,
-          "name": "Noiro Evil",
-          "duration": "2:41"
-        },
-        {
-          "number": 11,
-          "name": "Attila",
-          "duration": "3:05"
-        },
-        {
-          "number": 12,
-          "name": "Shagreen",
-          "duration": "7:01"
-        }
-      ]
-    },
-    {
-      "name": "La Face Visible",
-      "year": "2015",
-      "release_date": "2015-10-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c2/7c/e5/c27ce5d6-066e-ae7c-2524-29b8e31ed861/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La face visible",
-          "duration": "9:34"
-        },
-        {
-          "number": 2,
-          "name": "Quelque part en 1989",
-          "duration": "6:39"
-        },
-        {
-          "number": 3,
-          "name": "La dernière danse in Berlin",
-          "duration": "3:37"
-        },
-        {
-          "number": 4,
-          "name": "De l'autre côté du rideau de fer",
-          "duration": "5:15"
-        },
-        {
-          "number": 5,
-          "name": "Puis un jour on m'a dit",
-          "duration": "6:57"
-        },
-        {
-          "number": 6,
-          "name": "Résistance...",
-          "duration": "3:57"
-        },
-        {
-          "number": 7,
-          "name": "Stèle blanche",
+          "name": "feel the rhythm",
           "duration": "3:28"
-        },
+        }
+      ]
+    },
+    {
+      "name": "run to you",
+      "year": "2026",
+      "release_date": "2026-02-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/78/b4/7278b4fb-1c9c-4585-2e52-efd28bd341d6/artwork.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 8,
-          "name": "Le singe de la vie",
-          "duration": "5:12"
+          "number": 1,
+          "name": "run to you",
+          "duration": "4:36"
+        }
+      ]
+    },
+    {
+      "name": "hold me back",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/97/a3/8d97a34c-55fe-6ff1-d320-3ac531c4d178/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "hold me back",
+          "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "kick back",
+      "year": "2025",
+      "release_date": "2025-11-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/a9/99/afa99920-8816-e89a-76ef-bd356568ab3b/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "kick back",
+          "duration": "3:23"
+        }
+      ]
+    },
+    {
+      "name": "xtsy",
+      "year": "2026",
+      "release_date": "2026-05-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/78/cb/3678cb73-3cb7-3905-3c99-009646ddbfe2/656465234087_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "xtsy",
+          "duration": "1:44"
+        }
+      ]
+    },
+    {
+      "name": "lose control",
+      "year": "2025",
+      "release_date": "2025-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/0f/ed/ce0fed1c-4719-4d54-fa90-799e4698c032/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "lose control",
+          "duration": "3:01"
+        }
+      ]
+    },
+    {
+      "name": "safe place",
+      "year": "2025",
+      "release_date": "2025-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/b0/e0/b8b0e042-4d8f-a9f5-f716-b6e441175ea9/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "safe place",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "what i need",
+      "year": "2025",
+      "release_date": "2025-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a3/89/eea389aa-4281-934a-d2e6-33fe10add813/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "what i need",
+          "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "Balla",
+      "year": "2025",
+      "release_date": "2025-08-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/70/37/3070371c-5e67-d4db-36fc-9af844f6bc69/199506539982_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Balla",
+          "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "year": "2025",
+      "release_date": "2025-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/e6/40/cae64084-435c-dbc5-9026-e5c491fac3fb/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "life",
+          "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "it's some kinda magic",
+      "year": "2025",
+      "release_date": "2025-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/61/ce/fa61ce12-fc98-ce0e-033b-ffcc135a1582/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "it's some kinda magic",
+          "duration": "3:26"
         }
       ]
     }
   ],
-  "singles": [],
-  "eps": []
+  "eps": [
+    {
+      "name": "karma",
+      "year": "2026",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/d1/aa/8ad1aae3-ebcb-eb6b-300a-4fd08dd2989f/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "tranquility",
+          "duration": "4:07"
+        },
+        {
+          "number": 2,
+          "name": "halcyon",
+          "duration": "4:53"
+        },
+        {
+          "number": 3,
+          "name": "alone",
+          "duration": "4:05"
+        },
+        {
+          "number": 4,
+          "name": "daydream",
+          "duration": "3:52"
+        }
+      ]
+    }
+  ]
 }

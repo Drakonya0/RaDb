@@ -1,7 +1,61 @@
 {
   "name": "Ève",
   "id": 1689423327,
-  "albums": [],
+  "albums": [
+    {
+      "name": "Adam",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/e9/79/7ee9795e-952e-1d16-3cda-d2a35cc2a454/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Amour idéal",
+          "duration": "3:04"
+        },
+        {
+          "number": 2,
+          "name": "Adieu les filles",
+          "duration": "2:50"
+        },
+        {
+          "number": 3,
+          "name": "Tout va bien",
+          "duration": "3:25"
+        },
+        {
+          "number": 4,
+          "name": "La rivière",
+          "duration": "3:01"
+        },
+        {
+          "number": 5,
+          "name": "Medusa",
+          "duration": "3:10"
+        },
+        {
+          "number": 6,
+          "name": "Passion digitale",
+          "duration": "3:01"
+        },
+        {
+          "number": 7,
+          "name": "Sous son t-shirt",
+          "duration": "3:25"
+        },
+        {
+          "number": 8,
+          "name": "Balivernes",
+          "duration": "2:49"
+        },
+        {
+          "number": 9,
+          "name": "Le paradis des garçons biens",
+          "duration": "2:47"
+        }
+      ]
+    }
+  ],
   "singles": [
     {
       "name": "118",

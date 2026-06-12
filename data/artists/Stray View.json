@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Escape",
-      "year": "2024",
-      "release_date": "2024-05-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/b7/e7/0fb7e798-d8d2-8264-b0cb-2fb64878e7d7/2028.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Escape",
-          "duration": "3:55"
-        }
-      ]
-    },
-    {
       "name": "Come Down",
       "year": "2025",
       "release_date": "2025-03-21",
@@ -26,19 +13,6 @@
           "number": 1,
           "name": "Come Down",
           "duration": "3:16"
-        }
-      ]
-    },
-    {
-      "name": "Mariposa",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/05/a3/b505a35a-af50-814c-5c44-ccd530c180f3/3359.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mariposa",
-          "duration": "3:37"
         }
       ]
     },
@@ -82,19 +56,6 @@
       ]
     },
     {
-      "name": "The Riddle",
-      "year": "2024",
-      "release_date": "2024-07-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/bf/a3/34bfa328-da7d-972e-e5fc-cee38adf33e5/2142.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Riddle",
-          "duration": "3:43"
-        }
-      ]
-    },
-    {
       "name": "Collide",
       "year": "2025",
       "release_date": "2025-12-05",
@@ -104,6 +65,45 @@
           "number": 1,
           "name": "Collide",
           "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "Mariposa",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/05/a3/b505a35a-af50-814c-5c44-ccd530c180f3/3359.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mariposa",
+          "duration": "3:37"
+        }
+      ]
+    },
+    {
+      "name": "Escape",
+      "year": "2024",
+      "release_date": "2024-05-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/b7/e7/0fb7e798-d8d2-8264-b0cb-2fb64878e7d7/2028.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Escape",
+          "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "The Riddle",
+      "year": "2024",
+      "release_date": "2024-07-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/bf/a3/34bfa328-da7d-972e-e5fc-cee38adf33e5/2142.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Riddle",
+          "duration": "3:43"
         }
       ]
     },

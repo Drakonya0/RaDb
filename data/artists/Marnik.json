@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "YEAH",
-      "year": "2025",
-      "release_date": "2025-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/e1/dd/4fe1dda1-4209-c429-53ea-172c1d41f101/199066812808.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "YEAH",
-          "duration": "2:21"
-        }
-      ]
-    },
-    {
       "name": "Up & Down",
       "year": "2019",
       "release_date": "2019-04-12",
@@ -30,15 +17,15 @@
       ]
     },
     {
-      "name": "Butterfly",
-      "year": "2020",
-      "release_date": "2020-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9a/94/5a/9a945a23-4957-ddd0-afce-36fd6cb5278c/886448558934.jpg/600x600bb.jpg",
+      "name": "YEAH",
+      "year": "2025",
+      "release_date": "2025-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/e1/dd/4fe1dda1-4209-c429-53ea-172c1d41f101/199066812808.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Butterfly",
-          "duration": "2:50"
+          "name": "YEAH",
+          "duration": "2:21"
         }
       ]
     },
@@ -83,6 +70,19 @@
           "number": 2,
           "name": "Gam Gam (Extended Mix)",
           "duration": "5:31"
+        }
+      ]
+    },
+    {
+      "name": "Butterfly",
+      "year": "2020",
+      "release_date": "2020-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9a/94/5a/9a945a23-4957-ddd0-afce-36fd6cb5278c/886448558934.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Butterfly",
+          "duration": "2:50"
         }
       ]
     },
@@ -140,19 +140,6 @@
           "number": 1,
           "name": "SHIVA (Sunburn 2017 Anthem) [feat. The Golden Army]",
           "duration": "3:02"
-        }
-      ]
-    },
-    {
-      "name": "Supernova (Interstellar) [Radio Edit]",
-      "year": "2016",
-      "release_date": "2016-09-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/82/61/1b/82611b18-7152-62f3-35fb-334daccf06ee/0617465816055.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Supernova (Interstellar) [Radio Edit]",
-          "duration": "3:08"
         }
       ]
     },
@@ -280,19 +267,6 @@
           "number": 1,
           "name": "Stop the World",
           "duration": "2:59"
-        }
-      ]
-    },
-    {
-      "name": "Boyz In Paris (W&W HardRave Mix) [with VINAI]",
-      "year": "2024",
-      "release_date": "2024-01-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/52/22/1c52220a-e15d-dccc-a865-80664b83f025/196871728515.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Boyz In Paris (with VINAI) [W&W HardRave Mix]",
-          "duration": "2:26"
         }
       ]
     },
@@ -524,6 +498,32 @@
           "number": 1,
           "name": "On The Run",
           "duration": "2:18"
+        }
+      ]
+    },
+    {
+      "name": "Supernova (Interstellar) [Radio Edit]",
+      "year": "2016",
+      "release_date": "2016-09-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/82/61/1b/82611b18-7152-62f3-35fb-334daccf06ee/0617465816055.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Supernova (Interstellar) [Radio Edit]",
+          "duration": "3:08"
+        }
+      ]
+    },
+    {
+      "name": "Boyz In Paris (W&W HardRave Mix) [with VINAI]",
+      "year": "2024",
+      "release_date": "2024-01-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/52/22/1c52220a-e15d-dccc-a865-80664b83f025/196871728515.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Boyz In Paris (with VINAI) [W&W HardRave Mix]",
+          "duration": "2:26"
         }
       ]
     },
@@ -1063,19 +1063,6 @@
       "tracks": []
     },
     {
-      "name": "Across The Sun (feat. Vanessa Campagna)",
-      "year": "2022",
-      "release_date": "2022-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c1/79/b0/c179b03b-18c7-8820-6ede-26531b3f7e63/190296148002.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Across The Sun (feat. Vanessa Campagna)",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "On The Other Side",
       "year": "2026",
       "release_date": "2026-06-05",
@@ -1085,6 +1072,19 @@
           "number": 1,
           "name": "On The Other Side",
           "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "name": "Across The Sun (feat. Vanessa Campagna)",
+      "year": "2022",
+      "release_date": "2022-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c1/79/b0/c179b03b-18c7-8820-6ede-26531b3f7e63/190296148002.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Across The Sun (feat. Vanessa Campagna)",
+          "duration": "3:04"
         }
       ]
     },

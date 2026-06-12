@@ -154,89 +154,6 @@
       ]
     },
     {
-      "name": "Multitude (Video Album)",
-      "year": "2022",
-      "release_date": "2022-03-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/3c/ee/f83cee3a-1e0c-d5f2-739b-ba28b16bf736/21UM1IM50758.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Invaincu",
-          "duration": "2:05"
-        },
-        {
-          "number": 2,
-          "name": "Santé",
-          "duration": "3:11"
-        },
-        {
-          "number": 3,
-          "name": "La solassitude",
-          "duration": "3:02"
-        },
-        {
-          "number": 4,
-          "name": "Fils de joie",
-          "duration": "3:15"
-        },
-        {
-          "number": 5,
-          "name": "L’enfer",
-          "duration": "3:09"
-        },
-        {
-          "number": 6,
-          "name": "C’est que du bonheur",
-          "duration": "2:42"
-        },
-        {
-          "number": 7,
-          "name": "Pas vraiment",
-          "duration": "2:42"
-        },
-        {
-          "number": 8,
-          "name": "Riez",
-          "duration": "3:21"
-        },
-        {
-          "number": 9,
-          "name": "Mon amour",
-          "duration": "2:52"
-        },
-        {
-          "number": 10,
-          "name": "Déclaration",
-          "duration": "3:04"
-        },
-        {
-          "number": 11,
-          "name": "Mauvaise journée",
-          "duration": "3:07"
-        },
-        {
-          "number": 12,
-          "name": "Bonne journée",
-          "duration": "3:12"
-        },
-        {
-          "number": 13,
-          "name": "Santé",
-          "duration": "3:24"
-        },
-        {
-          "number": 14,
-          "name": "L’enfer",
-          "duration": "3:14"
-        },
-        {
-          "number": 15,
-          "name": "Fils de joie",
-          "duration": "3:56"
-        }
-      ]
-    },
-    {
       "name": "Cheese (Deluxe Edition)",
       "year": "2010",
       "release_date": "2010-01-01",
@@ -321,6 +238,89 @@
           "number": 16,
           "name": "House'llelujah (Shameboy Remix)",
           "duration": "6:34"
+        }
+      ]
+    },
+    {
+      "name": "Multitude (Video Album)",
+      "year": "2022",
+      "release_date": "2022-03-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/3c/ee/f83cee3a-1e0c-d5f2-739b-ba28b16bf736/21UM1IM50758.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Invaincu",
+          "duration": "2:05"
+        },
+        {
+          "number": 2,
+          "name": "Santé",
+          "duration": "3:11"
+        },
+        {
+          "number": 3,
+          "name": "La solassitude",
+          "duration": "3:02"
+        },
+        {
+          "number": 4,
+          "name": "Fils de joie",
+          "duration": "3:15"
+        },
+        {
+          "number": 5,
+          "name": "L’enfer",
+          "duration": "3:09"
+        },
+        {
+          "number": 6,
+          "name": "C’est que du bonheur",
+          "duration": "2:42"
+        },
+        {
+          "number": 7,
+          "name": "Pas vraiment",
+          "duration": "2:42"
+        },
+        {
+          "number": 8,
+          "name": "Riez",
+          "duration": "3:21"
+        },
+        {
+          "number": 9,
+          "name": "Mon amour",
+          "duration": "2:52"
+        },
+        {
+          "number": 10,
+          "name": "Déclaration",
+          "duration": "3:04"
+        },
+        {
+          "number": 11,
+          "name": "Mauvaise journée",
+          "duration": "3:07"
+        },
+        {
+          "number": 12,
+          "name": "Bonne journée",
+          "duration": "3:12"
+        },
+        {
+          "number": 13,
+          "name": "Santé",
+          "duration": "3:24"
+        },
+        {
+          "number": 14,
+          "name": "L’enfer",
+          "duration": "3:14"
+        },
+        {
+          "number": 15,
+          "name": "Fils de joie",
+          "duration": "3:56"
         }
       ]
     },
@@ -495,11 +495,17 @@
       ]
     },
     {
-      "name": "Défiler (Bande originale de la capsule No. 5 Mosaert)",
-      "year": "2018",
-      "release_date": "2018-04-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/d3/5b/30d35bf9-9c70-6a6f-fe5a-f1ac28d7e2de/cover.jpg/600x600bb.jpg",
-      "tracks": []
+      "name": "Papaoutai",
+      "year": "2013",
+      "release_date": "2013-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/df/4e/f8/df4ef860-fa6c-d442-a2e3-47fcd35cc940/13UMGIM59162.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Papaoutai",
+          "duration": "3:51"
+        }
+      ]
     },
     {
       "name": "Alors on danse (Remix) [feat. Kanye West & Gilbere Forte]",
@@ -515,22 +521,11 @@
       ]
     },
     {
-      "name": "Ma Meilleure Ennemie (feat. Arcane, League of Legends Music & Elyanna)",
-      "year": "2025",
-      "release_date": "2025-04-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/66/7c/e6667ce8-5c82-ac21-66bc-c20e877d111e/198704425738_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ma Meilleure Ennemie (feat. Elyanna, Arcane & League of Legends Music)",
-          "duration": "3:21"
-        },
-        {
-          "number": 2,
-          "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-          "duration": "2:27"
-        }
-      ]
+      "name": "Défiler (Bande originale de la capsule No. 5 Mosaert)",
+      "year": "2018",
+      "release_date": "2018-04-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/30/d3/5b/30d35bf9-9c70-6a6f-fe5a-f1ac28d7e2de/cover.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Santé",
@@ -555,19 +550,6 @@
           "number": 1,
           "name": "Repetto X Mosaert",
           "duration": "3:32"
-        }
-      ]
-    },
-    {
-      "name": "Papaoutai",
-      "year": "2013",
-      "release_date": "2013-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/df/4e/f8/df4ef860-fa6c-d442-a2e3-47fcd35cc940/13UMGIM59162.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Papaoutai",
-          "duration": "3:51"
         }
       ]
     },
@@ -604,6 +586,24 @@
           "number": 1,
           "name": "Alors On Danse (DubDogz Remix)",
           "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "name": "Ma Meilleure Ennemie (feat. Arcane, League of Legends Music & Elyanna)",
+      "year": "2025",
+      "release_date": "2025-04-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/66/7c/e6667ce8-5c82-ac21-66bc-c20e877d111e/198704425738_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ma Meilleure Ennemie (feat. Elyanna, Arcane & League of Legends Music)",
+          "duration": "3:21"
+        },
+        {
+          "number": 2,
+          "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+          "duration": "2:27"
         }
       ]
     },

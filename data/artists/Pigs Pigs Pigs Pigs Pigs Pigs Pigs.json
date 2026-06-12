@@ -3,54 +3,6 @@
   "id": 1000673755,
   "albums": [
     {
-      "name": "Land of Sleeper",
-      "year": "2023",
-      "release_date": "2023-02-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/98/69/1b/98691bcd-1de8-0cc3-2b07-536d28ed4b23/197187100262.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ultimate Hammer",
-          "duration": "4:50"
-        },
-        {
-          "number": 2,
-          "name": "Terror's Pillow",
-          "duration": "4:37"
-        },
-        {
-          "number": 3,
-          "name": "Big Rig",
-          "duration": "6:31"
-        },
-        {
-          "number": 4,
-          "name": "The Weatherman",
-          "duration": "6:46"
-        },
-        {
-          "number": 5,
-          "name": "Mr Medicine",
-          "duration": "2:26"
-        },
-        {
-          "number": 6,
-          "name": "Pipe Down!",
-          "duration": "4:11"
-        },
-        {
-          "number": 7,
-          "name": "Atlas Stone",
-          "duration": "5:31"
-        },
-        {
-          "number": 8,
-          "name": "Ball Lightning",
-          "duration": "5:51"
-        }
-      ]
-    },
-    {
       "name": "Death Hilarious",
       "year": "2025",
       "release_date": "2025-04-04",
@@ -100,6 +52,54 @@
           "number": 9,
           "name": "Toecurler",
           "duration": "8:27"
+        }
+      ]
+    },
+    {
+      "name": "Land of Sleeper",
+      "year": "2023",
+      "release_date": "2023-02-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/98/69/1b/98691bcd-1de8-0cc3-2b07-536d28ed4b23/197187100262.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ultimate Hammer",
+          "duration": "4:50"
+        },
+        {
+          "number": 2,
+          "name": "Terror's Pillow",
+          "duration": "4:37"
+        },
+        {
+          "number": 3,
+          "name": "Big Rig",
+          "duration": "6:31"
+        },
+        {
+          "number": 4,
+          "name": "The Weatherman",
+          "duration": "6:46"
+        },
+        {
+          "number": 5,
+          "name": "Mr Medicine",
+          "duration": "2:26"
+        },
+        {
+          "number": 6,
+          "name": "Pipe Down!",
+          "duration": "4:11"
+        },
+        {
+          "number": 7,
+          "name": "Atlas Stone",
+          "duration": "5:31"
+        },
+        {
+          "number": 8,
+          "name": "Ball Lightning",
+          "duration": "5:51"
         }
       ]
     },

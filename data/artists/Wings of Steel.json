@@ -3,6 +3,54 @@
   "id": 1609761093,
   "albums": [
     {
+      "name": "Winds of Time",
+      "year": "2025",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/fd/e0/85fde029-3e11-25c1-7cd1-1d04d648333b/199199799137.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Winds of Time",
+          "duration": "10:40"
+        },
+        {
+          "number": 2,
+          "name": "Saints and Sinners",
+          "duration": "2:46"
+        },
+        {
+          "number": 3,
+          "name": "Crying",
+          "duration": "4:24"
+        },
+        {
+          "number": 4,
+          "name": "Burning Sands",
+          "duration": "6:17"
+        },
+        {
+          "number": 5,
+          "name": "To Die in Holy War",
+          "duration": "5:19"
+        },
+        {
+          "number": 6,
+          "name": "Lights Go Out",
+          "duration": "4:59"
+        },
+        {
+          "number": 7,
+          "name": "We Rise",
+          "duration": "6:36"
+        },
+        {
+          "number": 8,
+          "name": "Flight of the Eagle",
+          "duration": "8:21"
+        }
+      ]
+    },
+    {
       "name": "Gates of Twilight",
       "year": "2023",
       "release_date": "2023-05-19",
@@ -57,54 +105,6 @@
           "number": 10,
           "name": "Into the Sun",
           "duration": "6:35"
-        }
-      ]
-    },
-    {
-      "name": "Winds of Time",
-      "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/fd/e0/85fde029-3e11-25c1-7cd1-1d04d648333b/199199799137.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Winds of Time",
-          "duration": "10:40"
-        },
-        {
-          "number": 2,
-          "name": "Saints and Sinners",
-          "duration": "2:46"
-        },
-        {
-          "number": 3,
-          "name": "Crying",
-          "duration": "4:24"
-        },
-        {
-          "number": 4,
-          "name": "Burning Sands",
-          "duration": "6:17"
-        },
-        {
-          "number": 5,
-          "name": "To Die in Holy War",
-          "duration": "5:19"
-        },
-        {
-          "number": 6,
-          "name": "Lights Go Out",
-          "duration": "4:59"
-        },
-        {
-          "number": 7,
-          "name": "We Rise",
-          "duration": "6:36"
-        },
-        {
-          "number": 8,
-          "name": "Flight of the Eagle",
-          "duration": "8:21"
         }
       ]
     },

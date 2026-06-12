@@ -31,6 +31,39 @@
       ]
     },
     {
+      "name": "Seven Thunders Roar",
+      "year": "2012",
+      "release_date": "2012-03-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/69/1b/99691bf5-de03-f339-481b-96227e58f570/822603003253.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bright Like The Morning",
+          "duration": "8:42"
+        },
+        {
+          "number": 2,
+          "name": "Electric Mistress",
+          "duration": "9:21"
+        },
+        {
+          "number": 3,
+          "name": "Indian",
+          "duration": "4:59"
+        },
+        {
+          "number": 4,
+          "name": "I'm The Mountain",
+          "duration": "16:01"
+        },
+        {
+          "number": 5,
+          "name": "Stormy Monday",
+          "duration": "8:42"
+        }
+      ]
+    },
+    {
       "name": "Pilgrims",
       "year": "2018",
       "release_date": "2018-09-07",
@@ -74,77 +107,6 @@
       ]
     },
     {
-      "name": "From the Outer Space",
-      "year": "2019",
-      "release_date": "2019-11-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/44/eb/8c44eb1b-cff0-950d-356f-e213ad8b0246/840588129775.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Sweet Whore of Babylon",
-          "duration": "5:53"
-        },
-        {
-          "number": 2,
-          "name": "Insatiable King",
-          "duration": "9:08"
-        },
-        {
-          "number": 3,
-          "name": "Eastern Magic",
-          "duration": "10:03"
-        },
-        {
-          "number": 4,
-          "name": "Occult",
-          "duration": "11:42"
-        },
-        {
-          "number": 5,
-          "name": "Black Woods",
-          "duration": "11:28"
-        }
-      ]
-    },
-    {
-      "name": "The Harvest",
-      "year": "2015",
-      "release_date": "2015-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/cd/9f/3dcd9fa4-6f2c-9a66-6da5-a99b01e937d3/822603003284.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Here Come The Robots",
-          "duration": "3:17"
-        },
-        {
-          "number": 2,
-          "name": "Wound",
-          "duration": "3:14"
-        },
-        {
-          "number": 3,
-          "name": "Rituals Of The Sun",
-          "duration": "7:01"
-        },
-        {
-          "number": 4,
-          "name": "YFS",
-          "duration": "5:10"
-        },
-        {
-          "number": 5,
-          "name": "Silkworm Confessions",
-          "duration": "9:07"
-        },
-        {
-          "number": 6,
-          "name": "Black Church",
-          "duration": "14:45"
-        }
-      ]
-    },
-    {
       "name": "Father Light",
       "year": "2023",
       "release_date": "2023-03-03",
@@ -179,39 +141,6 @@
           "number": 6,
           "name": "Get What You Deserve",
           "duration": "9:10"
-        }
-      ]
-    },
-    {
-      "name": "Seven Thunders Roar",
-      "year": "2012",
-      "release_date": "2012-03-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/69/1b/99691bf5-de03-f339-481b-96227e58f570/822603003253.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bright Like The Morning",
-          "duration": "8:42"
-        },
-        {
-          "number": 2,
-          "name": "Electric Mistress",
-          "duration": "9:21"
-        },
-        {
-          "number": 3,
-          "name": "Indian",
-          "duration": "4:59"
-        },
-        {
-          "number": 4,
-          "name": "I'm The Mountain",
-          "duration": "16:01"
-        },
-        {
-          "number": 5,
-          "name": "Stormy Monday",
-          "duration": "8:42"
         }
       ]
     },
@@ -320,6 +249,77 @@
           "duration": "9:32"
         }
       ]
+    },
+    {
+      "name": "From the Outer Space",
+      "year": "2019",
+      "release_date": "2019-11-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/44/eb/8c44eb1b-cff0-950d-356f-e213ad8b0246/840588129775.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Sweet Whore of Babylon",
+          "duration": "5:53"
+        },
+        {
+          "number": 2,
+          "name": "Insatiable King",
+          "duration": "9:08"
+        },
+        {
+          "number": 3,
+          "name": "Eastern Magic",
+          "duration": "10:03"
+        },
+        {
+          "number": 4,
+          "name": "Occult",
+          "duration": "11:42"
+        },
+        {
+          "number": 5,
+          "name": "Black Woods",
+          "duration": "11:28"
+        }
+      ]
+    },
+    {
+      "name": "The Harvest",
+      "year": "2015",
+      "release_date": "2015-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/cd/9f/3dcd9fa4-6f2c-9a66-6da5-a99b01e937d3/822603003284.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Here Come The Robots",
+          "duration": "3:17"
+        },
+        {
+          "number": 2,
+          "name": "Wound",
+          "duration": "3:14"
+        },
+        {
+          "number": 3,
+          "name": "Rituals Of The Sun",
+          "duration": "7:01"
+        },
+        {
+          "number": 4,
+          "name": "YFS",
+          "duration": "5:10"
+        },
+        {
+          "number": 5,
+          "name": "Silkworm Confessions",
+          "duration": "9:07"
+        },
+        {
+          "number": 6,
+          "name": "Black Church",
+          "duration": "14:45"
+        }
+      ]
     }
   ],
   "singles": [
@@ -372,6 +372,19 @@
           "number": 1,
           "name": "Buried Alive by Love (Cover)",
           "duration": "4:59"
+        }
+      ]
+    },
+    {
+      "name": "Under the Skin",
+      "year": "2026",
+      "release_date": "2026-06-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/8f/41/688f4117-44f0-90c5-f560-a4a20653431b/822603022339.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Under the Skin",
+          "duration": "5:29"
         }
       ]
     }

@@ -3,6 +3,84 @@
   "id": 595797008,
   "albums": [
     {
+      "name": "Time",
+      "year": "2022",
+      "release_date": "2022-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/32/7b/4b327bf8-653c-c20e-f52d-f2db9a184ae6/886449756667.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Thru Landscapes (Arrival)",
+          "duration": "4:32"
+        },
+        {
+          "number": 2,
+          "name": "Mountains",
+          "duration": "3:44"
+        },
+        {
+          "number": 3,
+          "name": "Ascending",
+          "duration": "5:20"
+        },
+        {
+          "number": 4,
+          "name": "Untamed",
+          "duration": "3:15"
+        },
+        {
+          "number": 5,
+          "name": "Time",
+          "duration": "3:30"
+        },
+        {
+          "number": 6,
+          "name": "Shelter",
+          "duration": "3:17"
+        },
+        {
+          "number": 7,
+          "name": "Morning Comes",
+          "duration": "4:14"
+        },
+        {
+          "number": 8,
+          "name": "Ethereal",
+          "duration": "3:23"
+        },
+        {
+          "number": 9,
+          "name": "Golden Hour",
+          "duration": "4:09"
+        },
+        {
+          "number": 10,
+          "name": "Top",
+          "duration": "3:40"
+        },
+        {
+          "number": 11,
+          "name": "Golden Memories",
+          "duration": "3:41"
+        },
+        {
+          "number": 12,
+          "name": "Herbstregen",
+          "duration": "4:45"
+        },
+        {
+          "number": 13,
+          "name": "Thru Landscapes (Departure)",
+          "duration": "4:00"
+        },
+        {
+          "number": 14,
+          "name": "Time (Solo Piano)",
+          "duration": "4:09"
+        }
+      ]
+    },
+    {
       "name": "Classical Piano - Peaceful music to fall asleep",
       "year": "2019",
       "release_date": "2019-11-29",
@@ -765,84 +843,6 @@
           "number": 9,
           "name": "Eagle Crystal Mix",
           "duration": "4:43"
-        }
-      ]
-    },
-    {
-      "name": "Time",
-      "year": "2022",
-      "release_date": "2022-05-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/32/7b/4b327bf8-653c-c20e-f52d-f2db9a184ae6/886449756667.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Thru Landscapes (Arrival)",
-          "duration": "4:32"
-        },
-        {
-          "number": 2,
-          "name": "Mountains",
-          "duration": "3:44"
-        },
-        {
-          "number": 3,
-          "name": "Ascending",
-          "duration": "5:20"
-        },
-        {
-          "number": 4,
-          "name": "Untamed",
-          "duration": "3:15"
-        },
-        {
-          "number": 5,
-          "name": "Time",
-          "duration": "3:30"
-        },
-        {
-          "number": 6,
-          "name": "Shelter",
-          "duration": "3:17"
-        },
-        {
-          "number": 7,
-          "name": "Morning Comes",
-          "duration": "4:14"
-        },
-        {
-          "number": 8,
-          "name": "Ethereal",
-          "duration": "3:23"
-        },
-        {
-          "number": 9,
-          "name": "Golden Hour",
-          "duration": "4:09"
-        },
-        {
-          "number": 10,
-          "name": "Top",
-          "duration": "3:40"
-        },
-        {
-          "number": 11,
-          "name": "Golden Memories",
-          "duration": "3:41"
-        },
-        {
-          "number": 12,
-          "name": "Herbstregen",
-          "duration": "4:45"
-        },
-        {
-          "number": 13,
-          "name": "Thru Landscapes (Departure)",
-          "duration": "4:00"
-        },
-        {
-          "number": 14,
-          "name": "Time (Solo Piano)",
-          "duration": "4:09"
         }
       ]
     },
@@ -3476,6 +3476,39 @@
           "number": 2,
           "name": "Moltrasio",
           "duration": "10:41"
+        }
+      ]
+    },
+    {
+      "name": "Eden (IV) - Echoes",
+      "year": "2026",
+      "release_date": "2026-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/3d/eb/863deb21-150c-81c6-2b3e-b4bc4272c8f5/21678.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lueur",
+          "duration": "3:42"
+        },
+        {
+          "number": 2,
+          "name": "Levitare",
+          "duration": "2:38"
+        },
+        {
+          "number": 3,
+          "name": "Ephemere",
+          "duration": "2:46"
+        },
+        {
+          "number": 4,
+          "name": "From Afar",
+          "duration": "3:31"
+        },
+        {
+          "number": 5,
+          "name": "The Last Of The Light",
+          "duration": "4:16"
         }
       ]
     }

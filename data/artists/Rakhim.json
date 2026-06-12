@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "Look At Me Habibi",
+      "year": "2023",
+      "release_date": "2023-01-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/af/b5/ee/afb5ee52-767a-26d7-6af5-f8f98e0e3a90/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Look At Me Habibi",
+          "duration": "1:40"
+        }
+      ]
+    },
+    {
       "name": "Fendi 2",
       "year": "2025",
       "release_date": "2025-10-10",
@@ -28,19 +41,6 @@
           "number": 4,
           "name": "Fendi 2 (Speedup)",
           "duration": "1:24"
-        }
-      ]
-    },
-    {
-      "name": "Look At Me Habibi",
-      "year": "2023",
-      "release_date": "2023-01-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/af/b5/ee/afb5ee52-767a-26d7-6af5-f8f98e0e3a90/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Look At Me Habibi",
-          "duration": "1:40"
         }
       ]
     },

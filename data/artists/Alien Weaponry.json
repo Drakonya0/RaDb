@@ -3,69 +3,6 @@
   "id": 1176978771,
   "albums": [
     {
-      "name": "Te Rā",
-      "year": "2025",
-      "release_date": "2025-03-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/24/66/a3246662-148c-cf84-667c-9612910c56b2/810135712118.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Crown",
-          "duration": "3:23"
-        },
-        {
-          "number": 2,
-          "name": "Mau Moko",
-          "duration": "3:45"
-        },
-        {
-          "number": 3,
-          "name": "1000 Friends",
-          "duration": "3:21"
-        },
-        {
-          "number": 4,
-          "name": "Hanging by a Thread",
-          "duration": "3:37"
-        },
-        {
-          "number": 5,
-          "name": "Tama-Nui-Te-Rā",
-          "duration": "4:40"
-        },
-        {
-          "number": 6,
-          "name": "Myself to Blame",
-          "duration": "4:17"
-        },
-        {
-          "number": 7,
-          "name": "Taniwha (feat. Randy Blythe)",
-          "duration": "4:48"
-        },
-        {
-          "number": 8,
-          "name": "Blackened Sky",
-          "duration": "3:05"
-        },
-        {
-          "number": 9,
-          "name": "Te Riri o Tāwhirimātea",
-          "duration": "4:47"
-        },
-        {
-          "number": 10,
-          "name": "Ponaturi",
-          "duration": "4:11"
-        },
-        {
-          "number": 11,
-          "name": "Te Kore",
-          "duration": "2:05"
-        }
-      ]
-    },
-    {
       "name": "Tū",
       "year": "2018",
       "release_date": "2018-06-01",
@@ -135,6 +72,69 @@
           "number": 13,
           "name": "Hypocrite",
           "duration": "5:01"
+        }
+      ]
+    },
+    {
+      "name": "Te Rā",
+      "year": "2025",
+      "release_date": "2025-03-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/24/66/a3246662-148c-cf84-667c-9612910c56b2/810135712118.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Crown",
+          "duration": "3:23"
+        },
+        {
+          "number": 2,
+          "name": "Mau Moko",
+          "duration": "3:45"
+        },
+        {
+          "number": 3,
+          "name": "1000 Friends",
+          "duration": "3:21"
+        },
+        {
+          "number": 4,
+          "name": "Hanging by a Thread",
+          "duration": "3:37"
+        },
+        {
+          "number": 5,
+          "name": "Tama-Nui-Te-Rā",
+          "duration": "4:40"
+        },
+        {
+          "number": 6,
+          "name": "Myself to Blame",
+          "duration": "4:17"
+        },
+        {
+          "number": 7,
+          "name": "Taniwha (feat. Randy Blythe)",
+          "duration": "4:48"
+        },
+        {
+          "number": 8,
+          "name": "Blackened Sky",
+          "duration": "3:05"
+        },
+        {
+          "number": 9,
+          "name": "Te Riri o Tāwhirimātea",
+          "duration": "4:47"
+        },
+        {
+          "number": 10,
+          "name": "Ponaturi",
+          "duration": "4:11"
+        },
+        {
+          "number": 11,
+          "name": "Te Kore",
+          "duration": "2:05"
         }
       ]
     },

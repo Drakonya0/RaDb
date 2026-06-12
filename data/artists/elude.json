@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "under your spell - (Slowed) best part",
-      "year": "2026",
-      "release_date": "2026-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/0f/83/070f83da-5ec7-7412-7968-c969b0b00d4d/14529.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "under your spell - (Slowed) best part",
-          "duration": "5:03"
-        }
-      ]
-    },
-    {
       "name": "L.E.S. instrumental (best part slowed reverb)",
       "year": "2026",
       "release_date": "2026-01-17",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "L.E.S. instrumental (best part slowed reverb)",
           "duration": "4:33"
+        }
+      ]
+    },
+    {
+      "name": "under your spell - (Slowed) best part",
+      "year": "2026",
+      "release_date": "2026-01-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/0f/83/070f83da-5ec7-7412-7968-c969b0b00d4d/14529.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "under your spell - (Slowed) best part",
+          "duration": "5:03"
         }
       ]
     },
@@ -616,34 +616,6 @@
       ]
     },
     {
-      "name": "LOCK IN FUNK",
-      "year": "2025",
-      "release_date": "2025-12-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/d2/2d/33d22d2f-874f-2285-a526-a429d635d8b5/10898.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LOCK IN FUNK",
-          "duration": "1:23"
-        },
-        {
-          "number": 2,
-          "name": "LOCK IN FUNK (Slowed)",
-          "duration": "1:33"
-        },
-        {
-          "number": 3,
-          "name": "LOCK IN FUNK (Super Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 4,
-          "name": "LOCK IN FUNK (Ultra Slowed)",
-          "duration": "1:58"
-        }
-      ]
-    },
-    {
       "name": "naivete",
       "year": "2025",
       "release_date": "2025-08-10",
@@ -668,6 +640,34 @@
           "number": 4,
           "name": "naivete (ultra slowed)",
           "duration": "2:05"
+        }
+      ]
+    },
+    {
+      "name": "LOCK IN FUNK",
+      "year": "2025",
+      "release_date": "2025-12-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/d2/2d/33d22d2f-874f-2285-a526-a429d635d8b5/10898.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LOCK IN FUNK",
+          "duration": "1:23"
+        },
+        {
+          "number": 2,
+          "name": "LOCK IN FUNK (Slowed)",
+          "duration": "1:33"
+        },
+        {
+          "number": 3,
+          "name": "LOCK IN FUNK (Super Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 4,
+          "name": "LOCK IN FUNK (Ultra Slowed)",
+          "duration": "1:58"
         }
       ]
     },

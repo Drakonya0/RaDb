@@ -3,54 +3,6 @@
   "id": 175274090,
   "albums": [
     {
-      "name": "Helios / Erebus",
-      "year": "2015",
-      "release_date": "2015-06-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/45/c7/75/45c77595-0762-fd8c-ebb5-6a29a6b4a132/0013964758016_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Agneya",
-          "duration": "4:58"
-        },
-        {
-          "number": 2,
-          "name": "Pig Powder",
-          "duration": "5:40"
-        },
-        {
-          "number": 3,
-          "name": "Vetus Memoria",
-          "duration": "5:20"
-        },
-        {
-          "number": 4,
-          "name": "Finem Solis",
-          "duration": "5:03"
-        },
-        {
-          "number": 5,
-          "name": "Helios Erebus",
-          "duration": "8:31"
-        },
-        {
-          "number": 6,
-          "name": "Obscura Somnia",
-          "duration": "4:04"
-        },
-        {
-          "number": 7,
-          "name": "Centralia",
-          "duration": "6:47"
-        },
-        {
-          "number": 8,
-          "name": "Sea of Trees",
-          "duration": "4:49"
-        }
-      ]
-    },
-    {
       "name": "All Is Violent, All Is Bright (Remastered)",
       "year": "2006",
       "release_date": "2006-09-11",
@@ -158,6 +110,54 @@
           "number": 9,
           "name": "Paradise Remains",
           "duration": "2:25"
+        }
+      ]
+    },
+    {
+      "name": "Helios / Erebus",
+      "year": "2015",
+      "release_date": "2015-06-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/45/c7/75/45c77595-0762-fd8c-ebb5-6a29a6b4a132/0013964758016_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Agneya",
+          "duration": "4:58"
+        },
+        {
+          "number": 2,
+          "name": "Pig Powder",
+          "duration": "5:40"
+        },
+        {
+          "number": 3,
+          "name": "Vetus Memoria",
+          "duration": "5:20"
+        },
+        {
+          "number": 4,
+          "name": "Finem Solis",
+          "duration": "5:03"
+        },
+        {
+          "number": 5,
+          "name": "Helios Erebus",
+          "duration": "8:31"
+        },
+        {
+          "number": 6,
+          "name": "Obscura Somnia",
+          "duration": "4:04"
+        },
+        {
+          "number": 7,
+          "name": "Centralia",
+          "duration": "6:47"
+        },
+        {
+          "number": 8,
+          "name": "Sea of Trees",
+          "duration": "4:49"
         }
       ]
     },
@@ -389,49 +389,6 @@
       ]
     },
     {
-      "name": "Ghost Tapes #10",
-      "year": "2021",
-      "release_date": "2021-02-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/53/4c/b3534cb4-4e0c-2653-dee3-1a4d2ccf4386/840588140572.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Adrift",
-          "duration": "6:57"
-        },
-        {
-          "number": 2,
-          "name": "Burial",
-          "duration": "6:04"
-        },
-        {
-          "number": 3,
-          "name": "In Flux",
-          "duration": "6:08"
-        },
-        {
-          "number": 4,
-          "name": "Spectres",
-          "duration": "4:29"
-        },
-        {
-          "number": 5,
-          "name": "Fade",
-          "duration": "5:37"
-        },
-        {
-          "number": 6,
-          "name": "Barren Trees",
-          "duration": "4:11"
-        },
-        {
-          "number": 7,
-          "name": "Luminous Waves",
-          "duration": "3:48"
-        }
-      ]
-    },
-    {
       "name": "Embers",
       "year": "2024",
       "release_date": "2024-09-06",
@@ -481,6 +438,49 @@
           "number": 9,
           "name": "Hourglass",
           "duration": "6:07"
+        }
+      ]
+    },
+    {
+      "name": "Ghost Tapes #10",
+      "year": "2021",
+      "release_date": "2021-02-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/53/4c/b3534cb4-4e0c-2653-dee3-1a4d2ccf4386/840588140572.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Adrift",
+          "duration": "6:57"
+        },
+        {
+          "number": 2,
+          "name": "Burial",
+          "duration": "6:04"
+        },
+        {
+          "number": 3,
+          "name": "In Flux",
+          "duration": "6:08"
+        },
+        {
+          "number": 4,
+          "name": "Spectres",
+          "duration": "4:29"
+        },
+        {
+          "number": 5,
+          "name": "Fade",
+          "duration": "5:37"
+        },
+        {
+          "number": 6,
+          "name": "Barren Trees",
+          "duration": "4:11"
+        },
+        {
+          "number": 7,
+          "name": "Luminous Waves",
+          "duration": "3:48"
         }
       ]
     },

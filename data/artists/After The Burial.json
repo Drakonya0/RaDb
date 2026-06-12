@@ -109,59 +109,6 @@
       ]
     },
     {
-      "name": "Dig Deep",
-      "year": "2016",
-      "release_date": "2016-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/8a/4e/028a4e0a-4dd9-9fbb-0abc-d0108e54ec8e/198704633317_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Collapse",
-          "duration": "4:12"
-        },
-        {
-          "number": 2,
-          "name": "Lost In The Static",
-          "duration": "4:33"
-        },
-        {
-          "number": 3,
-          "name": "Mire",
-          "duration": "4:25"
-        },
-        {
-          "number": 4,
-          "name": "Deluge",
-          "duration": "4:25"
-        },
-        {
-          "number": 5,
-          "name": "Laurentian Ghosts",
-          "duration": "5:02"
-        },
-        {
-          "number": 6,
-          "name": "Heavy Lies The Ground",
-          "duration": "4:46"
-        },
-        {
-          "number": 7,
-          "name": "Catacombs",
-          "duration": "4:24"
-        },
-        {
-          "number": 8,
-          "name": "The Endless March",
-          "duration": "3:38"
-        },
-        {
-          "number": 9,
-          "name": "Sway Of The Break",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
       "name": "Evergreen",
       "year": "2019",
       "release_date": "2019-04-19",
@@ -215,54 +162,6 @@
       ]
     },
     {
-      "name": "In Dreams",
-      "year": "2010",
-      "release_date": "2010-11-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/b4/0c/03b40c54-6357-2b7a-826a-64287c70b7c5/00817424012218_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "My Frailty",
-          "duration": "4:43"
-        },
-        {
-          "number": 2,
-          "name": "Your Troubles Will Cease And Fortune Will Smile Upon You",
-          "duration": "4:44"
-        },
-        {
-          "number": 3,
-          "name": "Pendulum",
-          "duration": "4:47"
-        },
-        {
-          "number": 4,
-          "name": "Bread Crumbs And White Stones",
-          "duration": "3:38"
-        },
-        {
-          "number": 5,
-          "name": "To Carry You Away",
-          "duration": "5:33"
-        },
-        {
-          "number": 6,
-          "name": "Sleeper",
-          "duration": "3:19"
-        },
-        {
-          "number": 7,
-          "name": "Promises Kept",
-          "duration": "4:19"
-        },
-        {
-          "number": 8,
-          "name": "Encased In Ice",
-          "duration": "3:25"
-        }
-      ]
-    },
-    {
       "name": "Rareform",
       "year": "2009",
       "release_date": "2009-09-15",
@@ -307,6 +206,107 @@
           "number": 8,
           "name": "A Vicious Reforming Of Features",
           "duration": "5:51"
+        }
+      ]
+    },
+    {
+      "name": "Dig Deep",
+      "year": "2016",
+      "release_date": "2016-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/8a/4e/028a4e0a-4dd9-9fbb-0abc-d0108e54ec8e/198704633317_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Collapse",
+          "duration": "4:12"
+        },
+        {
+          "number": 2,
+          "name": "Lost In The Static",
+          "duration": "4:33"
+        },
+        {
+          "number": 3,
+          "name": "Mire",
+          "duration": "4:25"
+        },
+        {
+          "number": 4,
+          "name": "Deluge",
+          "duration": "4:25"
+        },
+        {
+          "number": 5,
+          "name": "Laurentian Ghosts",
+          "duration": "5:02"
+        },
+        {
+          "number": 6,
+          "name": "Heavy Lies The Ground",
+          "duration": "4:46"
+        },
+        {
+          "number": 7,
+          "name": "Catacombs",
+          "duration": "4:24"
+        },
+        {
+          "number": 8,
+          "name": "The Endless March",
+          "duration": "3:38"
+        },
+        {
+          "number": 9,
+          "name": "Sway Of The Break",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "In Dreams",
+      "year": "2010",
+      "release_date": "2010-11-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/b4/0c/03b40c54-6357-2b7a-826a-64287c70b7c5/00817424012218_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "My Frailty",
+          "duration": "4:43"
+        },
+        {
+          "number": 2,
+          "name": "Your Troubles Will Cease And Fortune Will Smile Upon You",
+          "duration": "4:44"
+        },
+        {
+          "number": 3,
+          "name": "Pendulum",
+          "duration": "4:47"
+        },
+        {
+          "number": 4,
+          "name": "Bread Crumbs And White Stones",
+          "duration": "3:38"
+        },
+        {
+          "number": 5,
+          "name": "To Carry You Away",
+          "duration": "5:33"
+        },
+        {
+          "number": 6,
+          "name": "Sleeper",
+          "duration": "3:19"
+        },
+        {
+          "number": 7,
+          "name": "Promises Kept",
+          "duration": "4:19"
+        },
+        {
+          "number": 8,
+          "name": "Encased In Ice",
+          "duration": "3:25"
         }
       ]
     },

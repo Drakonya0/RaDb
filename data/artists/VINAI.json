@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Frontier (Extended Mix)",
-      "year": "2015",
-      "release_date": "2015-09-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/5d/02/99/5d0299be-f5f8-e2a7-3fc2-d1fdbc9166fc/8712944487008.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Frontier (Extended Mix)",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
       "name": "Techno (Radio Edit)",
       "year": "2015",
       "release_date": "2015-10-16",
@@ -43,20 +30,15 @@
       ]
     },
     {
-      "name": "Louder",
+      "name": "Frontier (Extended Mix)",
       "year": "2015",
-      "release_date": "2015-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/ed/cd/f8edcda9-1ba9-7c91-a58d-183fe7d45d3d/8712944470833.jpg/600x600bb.jpg",
+      "release_date": "2015-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/5d/02/99/5d0299be-f5f8-e2a7-3fc2-d1fdbc9166fc/8712944487008.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Louder (Extended Mix)",
-          "duration": "4:04"
-        },
-        {
-          "number": 2,
-          "name": "Louder (Radio Edit)",
-          "duration": "2:33"
+          "name": "Frontier (Extended Mix)",
+          "duration": "3:26"
         }
       ]
     },
@@ -137,6 +119,24 @@
           "number": 2,
           "name": "I Was Made (Extended Mix)",
           "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "Louder",
+      "year": "2015",
+      "release_date": "2015-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/ed/cd/f8edcda9-1ba9-7c91-a58d-183fe7d45d3d/8712944470833.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Louder (Extended Mix)",
+          "duration": "4:04"
+        },
+        {
+          "number": 2,
+          "name": "Louder (Radio Edit)",
+          "duration": "2:33"
         }
       ]
     },
@@ -255,19 +255,6 @@
       ]
     },
     {
-      "name": "Axel F (Take It To The Floor) [with Gabry Ponte]",
-      "year": "2024",
-      "release_date": "2024-07-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/17/14/87171421-78ea-a134-e31a-9889b0fb52b5/196872280357.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Axel F (Take It To The Floor) [with Gabry Ponte]",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
       "name": "On N On (feat. Leony)",
       "year": "2020",
       "release_date": "2020-09-04",
@@ -322,15 +309,15 @@
       ]
     },
     {
-      "name": "Boyz In Paris (W&W HardRave Mix) [with VINAI]",
+      "name": "Axel F (Take It To The Floor) [with Gabry Ponte]",
       "year": "2024",
-      "release_date": "2024-01-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/52/22/1c52220a-e15d-dccc-a865-80664b83f025/196871728515.jpg/600x600bb.jpg",
+      "release_date": "2024-07-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/17/14/87171421-78ea-a134-e31a-9889b0fb52b5/196872280357.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Boyz In Paris (with VINAI) [W&W HardRave Mix]",
-          "duration": "2:26"
+          "name": "Axel F (Take It To The Floor) [with Gabry Ponte]",
+          "duration": "2:19"
         }
       ]
     },
@@ -583,6 +570,19 @@
           "number": 1,
           "name": "Stand By Me (feat. Micky Blue)",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Boyz In Paris (W&W HardRave Mix) [with VINAI]",
+      "year": "2024",
+      "release_date": "2024-01-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/52/22/1c52220a-e15d-dccc-a865-80664b83f025/196871728515.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Boyz In Paris (with VINAI) [W&W HardRave Mix]",
+          "duration": "2:26"
         }
       ]
     },
@@ -928,19 +928,6 @@
       ]
     },
     {
-      "name": "LIT (Extended Mix)",
-      "year": "2016",
-      "release_date": "2016-04-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/09/24/250924a3-29c6-6540-a8a0-70d0cc011890/8712944507812.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LIT (Extended Mix)",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "That Way (Raakmo Remix) [feat. Chris Crone]",
       "year": "2022",
       "release_date": "2022-08-19",
@@ -950,6 +937,19 @@
           "number": 1,
           "name": "That Way (feat. Chris Crone) [Raakmo Remix]",
           "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "name": "LIT (Extended Mix)",
+      "year": "2016",
+      "release_date": "2016-04-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/09/24/250924a3-29c6-6540-a8a0-70d0cc011890/8712944507812.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LIT (Extended Mix)",
+          "duration": "3:15"
         }
       ]
     },

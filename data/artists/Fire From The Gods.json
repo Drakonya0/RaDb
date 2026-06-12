@@ -350,19 +350,6 @@
   ],
   "singles": [
     {
-      "name": "Human",
-      "year": "2026",
-      "release_date": "2026-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/f8/00/e3f8000d-124f-66a4-0110-a0c51138d9d0/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Human",
-          "duration": "3:12"
-        }
-      ]
-    },
-    {
       "name": "Vanilla Paste (feat. Fire From the Gods, Chelsea Grin & Guerrilla Warfare)",
       "year": "2021",
       "release_date": "2021-08-18",
@@ -385,19 +372,6 @@
           "number": 1,
           "name": "Kingdom (feat. AJ Channer of Fire from the Gods)",
           "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "Unknown",
-      "year": "2026",
-      "release_date": "2026-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/4e/45/dc4e45fe-e823-e2cb-198f-8f6d5961f286/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Unknown",
-          "duration": "3:00"
         }
       ]
     },
@@ -459,15 +433,15 @@
       ]
     },
     {
-      "name": "Incinerate",
-      "year": "2025",
-      "release_date": "2025-06-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/a9/63/caa96304-6252-5e2a-260f-a67316e5eae1/0.jpg/600x600bb.jpg",
+      "name": "Human",
+      "year": "2026",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/f8/00/e3f8000d-124f-66a4-0110-a0c51138d9d0/0.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Incinerate",
-          "duration": "3:07"
+          "name": "Human",
+          "duration": "3:12"
         }
       ]
     },
@@ -481,6 +455,32 @@
           "number": 1,
           "name": "Victory (feat. From Ashes To New)",
           "duration": "3:43"
+        }
+      ]
+    },
+    {
+      "name": "Unknown",
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/4e/45/dc4e45fe-e823-e2cb-198f-8f6d5961f286/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Unknown",
+          "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Incinerate",
+      "year": "2025",
+      "release_date": "2025-06-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/a9/63/caa96304-6252-5e2a-260f-a67316e5eae1/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Incinerate",
+          "duration": "3:07"
         }
       ]
     },

@@ -3,74 +3,6 @@
   "id": 971929720,
   "albums": [
     {
-      "name": "Métamorphose",
-      "year": "2022",
-      "release_date": "2022-03-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/bb/7c/33bb7c83-3258-0dd4-91ae-0b08f09fa964/886449639359.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Le Lac",
-          "duration": "3:09"
-        },
-        {
-          "number": 2,
-          "name": "Comment tu vas finir",
-          "duration": "2:29"
-        },
-        {
-          "number": 3,
-          "name": "Dormir",
-          "duration": "3:12"
-        },
-        {
-          "number": 4,
-          "name": "Déçue",
-          "duration": "3:29"
-        },
-        {
-          "number": 5,
-          "name": "Mâle À L'Aise",
-          "duration": "3:29"
-        },
-        {
-          "number": 6,
-          "name": "Silence",
-          "duration": "1:50"
-        },
-        {
-          "number": 7,
-          "name": "Désabusée (feat. Sam Tiba)",
-          "duration": "3:07"
-        },
-        {
-          "number": 8,
-          "name": "S'Il Est",
-          "duration": "3:58"
-        },
-        {
-          "number": 9,
-          "name": "Dis-Moi (feat. Duñe)",
-          "duration": "2:29"
-        },
-        {
-          "number": 10,
-          "name": "Monochrome",
-          "duration": "2:46"
-        },
-        {
-          "number": 11,
-          "name": "Capable De Toi",
-          "duration": "2:59"
-        },
-        {
-          "number": 12,
-          "name": "Lettre À Moi-même",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "Premiers émois",
       "year": "2019",
       "release_date": "2019-03-22",
@@ -140,6 +72,74 @@
           "number": 13,
           "name": "Encore",
           "duration": "3:14"
+        }
+      ]
+    },
+    {
+      "name": "Métamorphose",
+      "year": "2022",
+      "release_date": "2022-03-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/bb/7c/33bb7c83-3258-0dd4-91ae-0b08f09fa964/886449639359.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Le Lac",
+          "duration": "3:09"
+        },
+        {
+          "number": 2,
+          "name": "Comment tu vas finir",
+          "duration": "2:29"
+        },
+        {
+          "number": 3,
+          "name": "Dormir",
+          "duration": "3:12"
+        },
+        {
+          "number": 4,
+          "name": "Déçue",
+          "duration": "3:29"
+        },
+        {
+          "number": 5,
+          "name": "Mâle À L'Aise",
+          "duration": "3:29"
+        },
+        {
+          "number": 6,
+          "name": "Silence",
+          "duration": "1:50"
+        },
+        {
+          "number": 7,
+          "name": "Désabusée (feat. Sam Tiba)",
+          "duration": "3:07"
+        },
+        {
+          "number": 8,
+          "name": "S'Il Est",
+          "duration": "3:58"
+        },
+        {
+          "number": 9,
+          "name": "Dis-Moi (feat. Duñe)",
+          "duration": "2:29"
+        },
+        {
+          "number": 10,
+          "name": "Monochrome",
+          "duration": "2:46"
+        },
+        {
+          "number": 11,
+          "name": "Capable De Toi",
+          "duration": "2:59"
+        },
+        {
+          "number": 12,
+          "name": "Lettre À Moi-même",
+          "duration": "3:04"
         }
       ]
     },

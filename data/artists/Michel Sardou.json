@@ -176,95 +176,65 @@
       ]
     },
     {
-      "name": "J'habite en France",
-      "year": "1970",
-      "release_date": "1970-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/89/62/37/896237d7-bacd-3034-772d-f9b8afcca84f/00602498198445.rgb.jpg/600x600bb.jpg",
+      "name": "La Java de Broadway",
+      "year": "1977",
+      "release_date": "1977-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/a2/a5/e7a2a592-02a7-f8da-8b5c-39717db653af/00602498198483.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "J'habite en France",
-          "duration": "2:49"
+          "name": "Comme d'habitude",
+          "duration": "4:06"
         },
         {
           "number": 2,
-          "name": "Petit",
-          "duration": "2:54"
+          "name": "La java de Broadway",
+          "duration": "4:06"
         },
         {
           "number": 3,
-          "name": "Monsieur le président de France",
-          "duration": "2:51"
+          "name": "Dix ans plus tôt",
+          "duration": "4:56"
         },
         {
           "number": 4,
-          "name": "America America",
-          "duration": "3:40"
+          "name": "Une drôle de danse",
+          "duration": "4:22"
         },
         {
           "number": 5,
-          "name": "Restera-t-il encore",
-          "duration": "2:53"
+          "name": "Seulement l'amour",
+          "duration": "4:05"
         },
         {
           "number": 6,
-          "name": "Et mourir de plaisir",
-          "duration": "2:56"
+          "name": "Mon fils",
+          "duration": "3:47"
         },
         {
           "number": 7,
-          "name": "Les dimanches",
-          "duration": "2:26"
+          "name": "Dixit virgile (ad libitum)",
+          "duration": "3:36"
         },
         {
           "number": 8,
-          "name": "Auprès de ma tombe",
-          "duration": "2:47"
+          "name": "Je suis l'homme d'un seul amour",
+          "duration": "3:12"
         },
         {
           "number": 9,
-          "name": "Les Ricains",
-          "duration": "2:26"
+          "name": "C'est ma vie",
+          "duration": "4:29"
         },
         {
           "number": 10,
-          "name": "La neige",
-          "duration": "3:59"
+          "name": "Qu'est-ce qu'il a dit",
+          "duration": "2:54"
         },
         {
           "number": 11,
-          "name": "Quelques mots d'amour",
-          "duration": "2:59"
-        },
-        {
-          "number": 12,
-          "name": "Les bals populaires",
-          "duration": "3:06"
-        },
-        {
-          "number": 13,
-          "name": "Le rire du sergent",
-          "duration": "3:06"
-        },
-        {
-          "number": 14,
-          "name": "Laisse-moi vivre (Live Olympia 71)",
-          "duration": "2:49"
-        },
-        {
-          "number": 15,
-          "name": "Je t'aime je t'aime",
-          "duration": "3:38"
-        },
-        {
-          "number": 16,
-          "name": "Vive la mariée",
-          "duration": "3:14"
-        },
-        {
-          "number": 17,
-          "name": "La corrida n'aura pas lieu",
-          "duration": "3:13"
+          "name": "Manie manie",
+          "duration": "3:45"
         }
       ]
     },
@@ -358,6 +328,152 @@
           "number": 17,
           "name": "Requin chagrin (feat. Mireille Darc)",
           "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "Les lacs du Connemara",
+      "year": "1981",
+      "release_date": "1981-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/4c/cc/a04ccc86-34e3-c589-85f8-a0c6e79a34f8/06UMGIM27154.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Les lacs du Connemara",
+          "duration": "6:03"
+        },
+        {
+          "number": 2,
+          "name": "L'autre femme",
+          "duration": "2:52"
+        },
+        {
+          "number": 3,
+          "name": "Le mauvais homme",
+          "duration": "4:46"
+        },
+        {
+          "number": 4,
+          "name": "Préservation",
+          "duration": "4:04"
+        },
+        {
+          "number": 5,
+          "name": "Les mamans qui s'en vont",
+          "duration": "3:35"
+        },
+        {
+          "number": 6,
+          "name": "Musica",
+          "duration": "4:06"
+        },
+        {
+          "number": 7,
+          "name": "Être une femme",
+          "duration": "4:15"
+        },
+        {
+          "number": 8,
+          "name": "Je viens du sud",
+          "duration": "4:03"
+        },
+        {
+          "number": 9,
+          "name": "Les noces de mon père",
+          "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "name": "J'habite en France",
+      "year": "1970",
+      "release_date": "1970-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/89/62/37/896237d7-bacd-3034-772d-f9b8afcca84f/00602498198445.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "J'habite en France",
+          "duration": "2:49"
+        },
+        {
+          "number": 2,
+          "name": "Petit",
+          "duration": "2:54"
+        },
+        {
+          "number": 3,
+          "name": "Monsieur le président de France",
+          "duration": "2:51"
+        },
+        {
+          "number": 4,
+          "name": "America America",
+          "duration": "3:40"
+        },
+        {
+          "number": 5,
+          "name": "Restera-t-il encore",
+          "duration": "2:53"
+        },
+        {
+          "number": 6,
+          "name": "Et mourir de plaisir",
+          "duration": "2:56"
+        },
+        {
+          "number": 7,
+          "name": "Les dimanches",
+          "duration": "2:26"
+        },
+        {
+          "number": 8,
+          "name": "Auprès de ma tombe",
+          "duration": "2:47"
+        },
+        {
+          "number": 9,
+          "name": "Les Ricains",
+          "duration": "2:26"
+        },
+        {
+          "number": 10,
+          "name": "La neige",
+          "duration": "3:59"
+        },
+        {
+          "number": 11,
+          "name": "Quelques mots d'amour",
+          "duration": "2:59"
+        },
+        {
+          "number": 12,
+          "name": "Les bals populaires",
+          "duration": "3:06"
+        },
+        {
+          "number": 13,
+          "name": "Le rire du sergent",
+          "duration": "3:06"
+        },
+        {
+          "number": 14,
+          "name": "Laisse-moi vivre (Live Olympia 71)",
+          "duration": "2:49"
+        },
+        {
+          "number": 15,
+          "name": "Je t'aime je t'aime",
+          "duration": "3:38"
+        },
+        {
+          "number": 16,
+          "name": "Vive la mariée",
+          "duration": "3:14"
+        },
+        {
+          "number": 17,
+          "name": "La corrida n'aura pas lieu",
+          "duration": "3:13"
         }
       ]
     },
@@ -565,59 +681,6 @@
       ]
     },
     {
-      "name": "Les lacs du Connemara",
-      "year": "1981",
-      "release_date": "1981-09-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/4c/cc/a04ccc86-34e3-c589-85f8-a0c6e79a34f8/06UMGIM27154.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Les lacs du Connemara",
-          "duration": "6:03"
-        },
-        {
-          "number": 2,
-          "name": "L'autre femme",
-          "duration": "2:52"
-        },
-        {
-          "number": 3,
-          "name": "Le mauvais homme",
-          "duration": "4:46"
-        },
-        {
-          "number": 4,
-          "name": "Préservation",
-          "duration": "4:04"
-        },
-        {
-          "number": 5,
-          "name": "Les mamans qui s'en vont",
-          "duration": "3:35"
-        },
-        {
-          "number": 6,
-          "name": "Musica",
-          "duration": "4:06"
-        },
-        {
-          "number": 7,
-          "name": "Être une femme",
-          "duration": "4:15"
-        },
-        {
-          "number": 8,
-          "name": "Je viens du sud",
-          "duration": "4:03"
-        },
-        {
-          "number": 9,
-          "name": "Les noces de mon père",
-          "duration": "2:06"
-        }
-      ]
-    },
-    {
       "name": "Le choix du fou",
       "year": "2017",
       "release_date": "2017-10-20",
@@ -672,84 +735,6 @@
           "number": 10,
           "name": "Le choix du fou",
           "duration": "3:12"
-        }
-      ]
-    },
-    {
-      "name": "Du plaisir",
-      "year": "2004",
-      "release_date": "2004-04-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/df/c8/71/dfc8716f-6a3b-d3ce-b2ed-1c53c18489e4/00602498191811.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Loin",
-          "duration": "3:23"
-        },
-        {
-          "number": 2,
-          "name": "Non merci",
-          "duration": "3:24"
-        },
-        {
-          "number": 3,
-          "name": "La vie la mort etc.",
-          "duration": "3:52"
-        },
-        {
-          "number": 4,
-          "name": "La rivière de notre enfance (feat. Garou)",
-          "duration": "3:21"
-        },
-        {
-          "number": 5,
-          "name": "Je n'oublie pas",
-          "duration": "3:36"
-        },
-        {
-          "number": 6,
-          "name": "Du plaisir",
-          "duration": "3:21"
-        },
-        {
-          "number": 7,
-          "name": "Même si",
-          "duration": "3:01"
-        },
-        {
-          "number": 8,
-          "name": "Ce n'est qu'un jeu",
-          "duration": "3:09"
-        },
-        {
-          "number": 9,
-          "name": "Les hommes du vent",
-          "duration": "4:07"
-        },
-        {
-          "number": 10,
-          "name": "J'ai tant d'amour",
-          "duration": "3:34"
-        },
-        {
-          "number": 11,
-          "name": "Espérer",
-          "duration": "3:26"
-        },
-        {
-          "number": 12,
-          "name": "J'aurais voulu t'aimer",
-          "duration": "3:53"
-        },
-        {
-          "number": 13,
-          "name": "Le livre du temps",
-          "duration": "3:41"
-        },
-        {
-          "number": 14,
-          "name": "Dis-moi",
-          "duration": "5:35"
         }
       ]
     },
@@ -943,6 +928,84 @@
           "number": 20,
           "name": "Je ne suis pas mort, je dors (C.L.O.)",
           "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "Du plaisir",
+      "year": "2004",
+      "release_date": "2004-04-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/df/c8/71/dfc8716f-6a3b-d3ce-b2ed-1c53c18489e4/00602498191811.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Loin",
+          "duration": "3:23"
+        },
+        {
+          "number": 2,
+          "name": "Non merci",
+          "duration": "3:24"
+        },
+        {
+          "number": 3,
+          "name": "La vie la mort etc.",
+          "duration": "3:52"
+        },
+        {
+          "number": 4,
+          "name": "La rivière de notre enfance (feat. Garou)",
+          "duration": "3:21"
+        },
+        {
+          "number": 5,
+          "name": "Je n'oublie pas",
+          "duration": "3:36"
+        },
+        {
+          "number": 6,
+          "name": "Du plaisir",
+          "duration": "3:21"
+        },
+        {
+          "number": 7,
+          "name": "Même si",
+          "duration": "3:01"
+        },
+        {
+          "number": 8,
+          "name": "Ce n'est qu'un jeu",
+          "duration": "3:09"
+        },
+        {
+          "number": 9,
+          "name": "Les hommes du vent",
+          "duration": "4:07"
+        },
+        {
+          "number": 10,
+          "name": "J'ai tant d'amour",
+          "duration": "3:34"
+        },
+        {
+          "number": 11,
+          "name": "Espérer",
+          "duration": "3:26"
+        },
+        {
+          "number": 12,
+          "name": "J'aurais voulu t'aimer",
+          "duration": "3:53"
+        },
+        {
+          "number": 13,
+          "name": "Le livre du temps",
+          "duration": "3:41"
+        },
+        {
+          "number": 14,
+          "name": "Dis-moi",
+          "duration": "5:35"
         }
       ]
     },
@@ -1613,69 +1676,6 @@
           "number": 12,
           "name": "Si j'avais un frère",
           "duration": "3:09"
-        }
-      ]
-    },
-    {
-      "name": "La Java de Broadway",
-      "year": "1977",
-      "release_date": "1977-05-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/a2/a5/e7a2a592-02a7-f8da-8b5c-39717db653af/00602498198483.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Comme d'habitude",
-          "duration": "4:06"
-        },
-        {
-          "number": 2,
-          "name": "La java de Broadway",
-          "duration": "4:06"
-        },
-        {
-          "number": 3,
-          "name": "Dix ans plus tôt",
-          "duration": "4:56"
-        },
-        {
-          "number": 4,
-          "name": "Une drôle de danse",
-          "duration": "4:22"
-        },
-        {
-          "number": 5,
-          "name": "Seulement l'amour",
-          "duration": "4:05"
-        },
-        {
-          "number": 6,
-          "name": "Mon fils",
-          "duration": "3:47"
-        },
-        {
-          "number": 7,
-          "name": "Dixit virgile (ad libitum)",
-          "duration": "3:36"
-        },
-        {
-          "number": 8,
-          "name": "Je suis l'homme d'un seul amour",
-          "duration": "3:12"
-        },
-        {
-          "number": 9,
-          "name": "C'est ma vie",
-          "duration": "4:29"
-        },
-        {
-          "number": 10,
-          "name": "Qu'est-ce qu'il a dit",
-          "duration": "2:54"
-        },
-        {
-          "number": 11,
-          "name": "Manie manie",
-          "duration": "3:45"
         }
       ]
     },

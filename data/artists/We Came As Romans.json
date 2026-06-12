@@ -3,6 +3,64 @@
   "id": 314821088,
   "albums": [
     {
+      "name": "We Came As Romans",
+      "year": "2015",
+      "release_date": "2015-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/42/b2/ca/42b2caad-b056-1112-fd76-bd83886c6575/886445241693.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Regenerate",
+          "duration": "3:47"
+        },
+        {
+          "number": 2,
+          "name": "Who Will Pray?",
+          "duration": "3:23"
+        },
+        {
+          "number": 3,
+          "name": "The World I Used to Know",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Memories",
+          "duration": "2:58"
+        },
+        {
+          "number": 5,
+          "name": "Tear It Down",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "Blur",
+          "duration": "3:14"
+        },
+        {
+          "number": 7,
+          "name": "Savior of the Week",
+          "duration": "3:16"
+        },
+        {
+          "number": 8,
+          "name": "Flatline",
+          "duration": "3:26"
+        },
+        {
+          "number": 9,
+          "name": "Defiance",
+          "duration": "3:00"
+        },
+        {
+          "number": 10,
+          "name": "12:30",
+          "duration": "3:52"
+        }
+      ]
+    },
+    {
       "name": "Understanding What We've Grown to Be (Deluxe Edition)",
       "year": "2013",
       "release_date": "2013-01-08",
@@ -275,64 +333,6 @@
       ]
     },
     {
-      "name": "We Came As Romans",
-      "year": "2015",
-      "release_date": "2015-07-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/42/b2/ca/42b2caad-b056-1112-fd76-bd83886c6575/886445241693.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Regenerate",
-          "duration": "3:47"
-        },
-        {
-          "number": 2,
-          "name": "Who Will Pray?",
-          "duration": "3:23"
-        },
-        {
-          "number": 3,
-          "name": "The World I Used to Know",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "Memories",
-          "duration": "2:58"
-        },
-        {
-          "number": 5,
-          "name": "Tear It Down",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "Blur",
-          "duration": "3:14"
-        },
-        {
-          "number": 7,
-          "name": "Savior of the Week",
-          "duration": "3:16"
-        },
-        {
-          "number": 8,
-          "name": "Flatline",
-          "duration": "3:26"
-        },
-        {
-          "number": 9,
-          "name": "Defiance",
-          "duration": "3:00"
-        },
-        {
-          "number": 10,
-          "name": "12:30",
-          "duration": "3:52"
-        }
-      ]
-    },
-    {
       "name": "ALL IS BEAUTIFUL… BECAUSE WE'RE DOOMED",
       "year": "2025",
       "release_date": "2025-08-22",
@@ -406,64 +406,6 @@
       ]
     },
     {
-      "name": "Darkbloom",
-      "year": "2022",
-      "release_date": "2022-10-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/0e/0b/470e0bf7-de72-d87f-f74f-0dc22b636b5e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Darkbloom",
-          "duration": "3:48"
-        },
-        {
-          "number": 2,
-          "name": "Plagued",
-          "duration": "3:29"
-        },
-        {
-          "number": 3,
-          "name": "Black Hole (feat. Caleb Shomo)",
-          "duration": "2:59"
-        },
-        {
-          "number": 4,
-          "name": "Daggers",
-          "duration": "3:14"
-        },
-        {
-          "number": 5,
-          "name": "Golden",
-          "duration": "3:39"
-        },
-        {
-          "number": 6,
-          "name": "One More Day",
-          "duration": "4:28"
-        },
-        {
-          "number": 7,
-          "name": "Doublespeak",
-          "duration": "3:30"
-        },
-        {
-          "number": 8,
-          "name": "The Anchor",
-          "duration": "3:34"
-        },
-        {
-          "number": 9,
-          "name": "Holding The Embers",
-          "duration": "4:13"
-        },
-        {
-          "number": 10,
-          "name": "Promise You",
-          "duration": "3:47"
-        }
-      ]
-    },
-    {
       "name": "Cold Like War",
       "year": "2017",
       "release_date": "2017-10-20",
@@ -518,6 +460,64 @@
           "number": 10,
           "name": "Learning to Survive",
           "duration": "4:29"
+        }
+      ]
+    },
+    {
+      "name": "Darkbloom",
+      "year": "2022",
+      "release_date": "2022-10-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/0e/0b/470e0bf7-de72-d87f-f74f-0dc22b636b5e/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Darkbloom",
+          "duration": "3:48"
+        },
+        {
+          "number": 2,
+          "name": "Plagued",
+          "duration": "3:29"
+        },
+        {
+          "number": 3,
+          "name": "Black Hole (feat. Caleb Shomo)",
+          "duration": "2:59"
+        },
+        {
+          "number": 4,
+          "name": "Daggers",
+          "duration": "3:14"
+        },
+        {
+          "number": 5,
+          "name": "Golden",
+          "duration": "3:39"
+        },
+        {
+          "number": 6,
+          "name": "One More Day",
+          "duration": "4:28"
+        },
+        {
+          "number": 7,
+          "name": "Doublespeak",
+          "duration": "3:30"
+        },
+        {
+          "number": 8,
+          "name": "The Anchor",
+          "duration": "3:34"
+        },
+        {
+          "number": 9,
+          "name": "Holding The Embers",
+          "duration": "4:13"
+        },
+        {
+          "number": 10,
+          "name": "Promise You",
+          "duration": "3:47"
         }
       ]
     },
@@ -615,19 +615,6 @@
   ],
   "singles": [
     {
-      "name": "Black Hole (feat. Caleb Shomo)",
-      "year": "2021",
-      "release_date": "2021-09-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/56/2b/3d/562b3d18-d950-b398-84af-ef480c93e620/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Black Hole (feat. Caleb Shomo)",
-          "duration": "2:59"
-        }
-      ]
-    },
-    {
       "name": "Tracing Back Roots",
       "year": "2013",
       "release_date": "2013-06-11",
@@ -650,6 +637,19 @@
           "number": 1,
           "name": "Fade Away",
           "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "Black Hole (feat. Caleb Shomo)",
+      "year": "2021",
+      "release_date": "2021-09-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/56/2b/3d/562b3d18-d950-b398-84af-ef480c93e620/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Black Hole (feat. Caleb Shomo)",
+          "duration": "2:59"
         }
       ]
     },
@@ -729,6 +729,19 @@
       ]
     },
     {
+      "name": "bad luck",
+      "year": "2025",
+      "release_date": "2025-09-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/9b/c7/089bc780-73f7-d921-e35b-f4132e1952ea/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "bad luck",
+          "duration": "4:12"
+        }
+      ]
+    },
+    {
       "name": "Carry the Weight (feat. Fit For A King)",
       "year": "2020",
       "release_date": "2020-05-29",
@@ -764,19 +777,6 @@
           "number": 1,
           "name": "Backbreaker (with We Came as Romans) [feat. We Came As Romans]",
           "duration": "2:51"
-        }
-      ]
-    },
-    {
-      "name": "bad luck",
-      "year": "2025",
-      "release_date": "2025-09-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/9b/c7/089bc780-73f7-d921-e35b-f4132e1952ea/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "bad luck",
-          "duration": "4:12"
         }
       ]
     },

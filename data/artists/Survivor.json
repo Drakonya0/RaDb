@@ -101,74 +101,6 @@
       ]
     },
     {
-      "name": "Survivor: Greatest Hits",
-      "year": "1993",
-      "release_date": "1993-06-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/04/3d/a0/043da0e6-9659-c7b8-aa98-7682f5412ea8/dj.djvnmaoh.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Eye of the Tiger",
-          "duration": "4:05"
-        },
-        {
-          "number": 2,
-          "name": "You Know Who You Are",
-          "duration": "4:48"
-        },
-        {
-          "number": 3,
-          "name": "Burning Heart",
-          "duration": "3:50"
-        },
-        {
-          "number": 4,
-          "name": "The Search Is Over",
-          "duration": "4:11"
-        },
-        {
-          "number": 5,
-          "name": "High On You",
-          "duration": "4:07"
-        },
-        {
-          "number": 6,
-          "name": "Is This Love",
-          "duration": "3:41"
-        },
-        {
-          "number": 7,
-          "name": "I Can't Hold Back",
-          "duration": "3:58"
-        },
-        {
-          "number": 8,
-          "name": "Hungry Years",
-          "duration": "5:05"
-        },
-        {
-          "number": 9,
-          "name": "American Heartbeat",
-          "duration": "4:10"
-        },
-        {
-          "number": 10,
-          "name": "Poor Man's Son",
-          "duration": "3:25"
-        },
-        {
-          "number": 11,
-          "name": "The Moment of Truth",
-          "duration": "3:46"
-        },
-        {
-          "number": 12,
-          "name": "Somewhere In America",
-          "duration": "5:15"
-        }
-      ]
-    },
-    {
       "name": "Eye of the Tiger (Remastered)",
       "year": "1982",
       "release_date": "1982-06-08",
@@ -300,55 +232,70 @@
       ]
     },
     {
-      "name": "Vital Signs",
-      "year": "1984",
-      "release_date": "1984-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6b/6f/d0/6b6fd005-2804-d2c4-5323-c838b0b8c774/mzi.pidhnlzk.jpg/600x600bb.jpg",
+      "name": "Survivor: Greatest Hits",
+      "year": "1993",
+      "release_date": "1993-06-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/04/3d/a0/043da0e6-9659-c7b8-aa98-7682f5412ea8/dj.djvnmaoh.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "I Can't Hold Back",
-          "duration": "3:58"
+          "name": "Eye of the Tiger",
+          "duration": "4:05"
         },
         {
           "number": 2,
-          "name": "High On You",
-          "duration": "4:08"
+          "name": "You Know Who You Are",
+          "duration": "4:48"
         },
         {
           "number": 3,
-          "name": "First Night",
-          "duration": "4:16"
+          "name": "Burning Heart",
+          "duration": "3:50"
         },
         {
           "number": 4,
           "name": "The Search Is Over",
-          "duration": "4:12"
+          "duration": "4:11"
         },
         {
           "number": 5,
-          "name": "Broken Promises",
-          "duration": "3:55"
+          "name": "High On You",
+          "duration": "4:07"
         },
         {
           "number": 6,
-          "name": "Popular Girl",
-          "duration": "3:38"
+          "name": "Is This Love",
+          "duration": "3:41"
         },
         {
           "number": 7,
-          "name": "Everlasting",
-          "duration": "3:50"
+          "name": "I Can't Hold Back",
+          "duration": "3:58"
         },
         {
           "number": 8,
-          "name": "It's the Singer Not the Song",
-          "duration": "4:33"
+          "name": "Hungry Years",
+          "duration": "5:05"
         },
         {
           "number": 9,
-          "name": "I See You In Everyone",
-          "duration": "4:24"
+          "name": "American Heartbeat",
+          "duration": "4:10"
+        },
+        {
+          "number": 10,
+          "name": "Poor Man's Son",
+          "duration": "3:25"
+        },
+        {
+          "number": 11,
+          "name": "The Moment of Truth",
+          "duration": "3:46"
+        },
+        {
+          "number": 12,
+          "name": "Somewhere In America",
+          "duration": "5:15"
         }
       ]
     },
@@ -532,6 +479,59 @@
           "number": 18,
           "name": "Santa Ana Winds",
           "duration": "6:35"
+        }
+      ]
+    },
+    {
+      "name": "Vital Signs",
+      "year": "1984",
+      "release_date": "1984-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6b/6f/d0/6b6fd005-2804-d2c4-5323-c838b0b8c774/mzi.pidhnlzk.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Can't Hold Back",
+          "duration": "3:58"
+        },
+        {
+          "number": 2,
+          "name": "High On You",
+          "duration": "4:08"
+        },
+        {
+          "number": 3,
+          "name": "First Night",
+          "duration": "4:16"
+        },
+        {
+          "number": 4,
+          "name": "The Search Is Over",
+          "duration": "4:12"
+        },
+        {
+          "number": 5,
+          "name": "Broken Promises",
+          "duration": "3:55"
+        },
+        {
+          "number": 6,
+          "name": "Popular Girl",
+          "duration": "3:38"
+        },
+        {
+          "number": 7,
+          "name": "Everlasting",
+          "duration": "3:50"
+        },
+        {
+          "number": 8,
+          "name": "It's the Singer Not the Song",
+          "duration": "4:33"
+        },
+        {
+          "number": 9,
+          "name": "I See You In Everyone",
+          "duration": "4:24"
         }
       ]
     },

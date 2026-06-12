@@ -134,59 +134,6 @@
       ]
     },
     {
-      "name": "It's Gonna Be OK",
-      "year": "2021",
-      "release_date": "2021-09-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/05/a3/46/05a34607-3160-8be3-70d6-674b02306e8a/21UMGIM57851.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "They All Are",
-          "duration": "2:56"
-        },
-        {
-          "number": 1,
-          "name": "They All Are (Acoustic)",
-          "duration": "2:58"
-        },
-        {
-          "number": 2,
-          "name": "If I Didn't Have You",
-          "duration": "3:45"
-        },
-        {
-          "number": 2,
-          "name": "If I Didn't Have You (Acoustic)",
-          "duration": "3:33"
-        },
-        {
-          "number": 3,
-          "name": "It's Gonna Be OK",
-          "duration": "3:14"
-        },
-        {
-          "number": 3,
-          "name": "It's Gonna Be OK (Acoustic)",
-          "duration": "3:18"
-        },
-        {
-          "number": 4,
-          "name": "Serenade",
-          "duration": "3:37"
-        },
-        {
-          "number": 4,
-          "name": "Serenade (Acoustic)",
-          "duration": "3:55"
-        },
-        {
-          "number": 5,
-          "name": "I Wasn't Ready",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
       "name": "All Back to Mine",
       "year": "2024",
       "release_date": "2024-04-19",
@@ -251,6 +198,59 @@
           "number": 12,
           "name": "All That You Made Me",
           "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "It's Gonna Be OK",
+      "year": "2021",
+      "release_date": "2021-09-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/05/a3/46/05a34607-3160-8be3-70d6-674b02306e8a/21UMGIM57851.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "They All Are",
+          "duration": "2:56"
+        },
+        {
+          "number": 1,
+          "name": "They All Are (Acoustic)",
+          "duration": "2:58"
+        },
+        {
+          "number": 2,
+          "name": "If I Didn't Have You",
+          "duration": "3:45"
+        },
+        {
+          "number": 2,
+          "name": "If I Didn't Have You (Acoustic)",
+          "duration": "3:33"
+        },
+        {
+          "number": 3,
+          "name": "It's Gonna Be OK",
+          "duration": "3:14"
+        },
+        {
+          "number": 3,
+          "name": "It's Gonna Be OK (Acoustic)",
+          "duration": "3:18"
+        },
+        {
+          "number": 4,
+          "name": "Serenade",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "Serenade (Acoustic)",
+          "duration": "3:55"
+        },
+        {
+          "number": 5,
+          "name": "I Wasn't Ready",
+          "duration": "3:03"
         }
       ]
     },
@@ -365,19 +365,6 @@
   ],
   "singles": [
     {
-      "name": "Got It in You",
-      "year": "2019",
-      "release_date": "2019-03-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/91/6e/81/916e81ce-1d0e-7c8d-c1f8-a30636276575/19UMGIM15685.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Got It in You",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
       "name": "Got It In You (Acoustic)",
       "year": "2019",
       "release_date": "2019-02-28",
@@ -387,6 +374,19 @@
           "number": 1,
           "name": "Got It In You (Acoustic)",
           "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "Got It in You",
+      "year": "2019",
+      "release_date": "2019-03-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/91/6e/81/916e81ce-1d0e-7c8d-c1f8-a30636276575/19UMGIM15685.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Got It in You",
+          "duration": "3:40"
         }
       ]
     },
@@ -943,6 +943,44 @@
       ]
     },
     {
+      "name": "I Wish I Was Flawless, I’m Not",
+      "year": "2023",
+      "release_date": "2023-01-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/b6/c3/34b6c365-ceab-46ae-8503-262bb5d4af9b/067003671552.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Perfectly Broken",
+          "duration": "3:08"
+        },
+        {
+          "number": 2,
+          "name": "In Your Universe",
+          "duration": "4:06"
+        },
+        {
+          "number": 3,
+          "name": "Keeps Me Going",
+          "duration": "3:19"
+        },
+        {
+          "number": 4,
+          "name": "Easy",
+          "duration": "3:06"
+        },
+        {
+          "number": 5,
+          "name": "Happier",
+          "duration": "3:00"
+        },
+        {
+          "number": 6,
+          "name": "Miles Away",
+          "duration": "3:32"
+        }
+      ]
+    },
+    {
       "name": "Banners",
       "year": "2016",
       "release_date": "2016-01-15",
@@ -1010,44 +1048,6 @@
           "number": 6,
           "name": "No One Knows Us (feat. Carly Paige) [Acoustic]",
           "duration": "3:18"
-        }
-      ]
-    },
-    {
-      "name": "I Wish I Was Flawless, I’m Not",
-      "year": "2023",
-      "release_date": "2023-01-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/b6/c3/34b6c365-ceab-46ae-8503-262bb5d4af9b/067003671552.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Perfectly Broken",
-          "duration": "3:08"
-        },
-        {
-          "number": 2,
-          "name": "In Your Universe",
-          "duration": "4:06"
-        },
-        {
-          "number": 3,
-          "name": "Keeps Me Going",
-          "duration": "3:19"
-        },
-        {
-          "number": 4,
-          "name": "Easy",
-          "duration": "3:06"
-        },
-        {
-          "number": 5,
-          "name": "Happier",
-          "duration": "3:00"
-        },
-        {
-          "number": 6,
-          "name": "Miles Away",
-          "duration": "3:32"
         }
       ]
     },

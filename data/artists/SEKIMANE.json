@@ -163,6 +163,24 @@
   ],
   "singles": [
     {
+      "name": "Melodia Do Argentino Funk (Remixes)",
+      "year": "2025",
+      "release_date": "2025-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/dd/0e/bedd0ecf-6f4c-4a74-7712-ccf554e5400e/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Melodia Do Argentino Funk (Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 2,
+          "name": "Melodia Do Argentino Funk (Super Slowed)",
+          "duration": "2:03"
+        }
+      ]
+    },
+    {
       "name": "RITMO DE VERAO",
       "year": "2025",
       "release_date": "2025-03-07",
@@ -671,24 +689,6 @@
           "number": 1,
           "name": "Border",
           "duration": "1:34"
-        }
-      ]
-    },
-    {
-      "name": "Melodia Do Argentino Funk (Remixes)",
-      "year": "2025",
-      "release_date": "2025-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/dd/0e/bedd0ecf-6f4c-4a74-7712-ccf554e5400e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Melodia Do Argentino Funk (Slowed)",
-          "duration": "1:49"
-        },
-        {
-          "number": 2,
-          "name": "Melodia Do Argentino Funk (Super Slowed)",
-          "duration": "2:03"
         }
       ]
     },
@@ -2056,6 +2056,39 @@
       ]
     },
     {
+      "name": "BUCETADA",
+      "year": "2026",
+      "release_date": "2026-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/cc/6e/17cc6e5a-bcd4-fe12-0542-0b5e8c9c8f58/3440324.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BUCETADA",
+          "duration": "1:52"
+        },
+        {
+          "number": 2,
+          "name": "BUCETADA (Slowed)",
+          "duration": "2:06"
+        },
+        {
+          "number": 3,
+          "name": "BUCETADA (Super Slowed)",
+          "duration": "2:13"
+        },
+        {
+          "number": 4,
+          "name": "BUCETADA (Ultra Slowed)",
+          "duration": "2:22"
+        },
+        {
+          "number": 5,
+          "name": "BUCETADA (Sped Up)",
+          "duration": "1:46"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM ENAMORADA",
       "year": "2025",
       "release_date": "2025-09-05",
@@ -2962,34 +2995,6 @@
       ]
     },
     {
-      "name": "A TU LADO",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/eb/a0/09eba037-a33b-d427-2398-1ccc3c8010a5/1963623584830_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A TU LADO",
-          "duration": "1:56"
-        },
-        {
-          "number": 2,
-          "name": "A TU LADO - SLOWED",
-          "duration": "2:10"
-        },
-        {
-          "number": 3,
-          "name": "A TU LADO - SUPER SLOWED",
-          "duration": "2:26"
-        },
-        {
-          "number": 4,
-          "name": "A TU LADO - SPED UP",
-          "duration": "1:43"
-        }
-      ]
-    },
-    {
       "name": "Brisa da Noite",
       "year": "2025",
       "release_date": "2025-12-04",
@@ -3019,6 +3024,34 @@
           "number": 5,
           "name": "Brisa da Noite (Ultra Slowed)",
           "duration": "2:18"
+        }
+      ]
+    },
+    {
+      "name": "A TU LADO",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/eb/a0/09eba037-a33b-d427-2398-1ccc3c8010a5/1963623584830_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A TU LADO",
+          "duration": "1:56"
+        },
+        {
+          "number": 2,
+          "name": "A TU LADO - SLOWED",
+          "duration": "2:10"
+        },
+        {
+          "number": 3,
+          "name": "A TU LADO - SUPER SLOWED",
+          "duration": "2:26"
+        },
+        {
+          "number": 4,
+          "name": "A TU LADO - SPED UP",
+          "duration": "1:43"
         }
       ]
     },

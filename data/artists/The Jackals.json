@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Techno Girl",
-      "year": "2025",
-      "release_date": "2025-07-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/6d/82/5e6d82d1-4495-6405-d277-68f5aef0fa09/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Techno Girl",
-          "duration": "2:26"
-        }
-      ]
-    },
-    {
       "name": "We Got A Power",
       "year": "2025",
       "release_date": "2025-04-25",
@@ -39,6 +26,68 @@
           "number": 1,
           "name": "Bella Ciao",
           "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "Sugar Plum Fairy (Hard Techno Edit)",
+      "year": "2025",
+      "release_date": "2025-12-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/92/9b/5f929b92-6298-b20b-3dab-85b584ec3407/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sugar Plum Fairy (Hard Techno Edit)",
+          "duration": "3:02"
+        }
+      ]
+    },
+    {
+      "name": "Rave Hard",
+      "year": "2025",
+      "release_date": "2025-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/64/2b/c3642b2d-6bfa-4da9-fca9-9663659bf926/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rave Hard",
+          "duration": "3:10"
+        },
+        {
+          "number": 2,
+          "name": "Rave Hard (Extended Mix)",
+          "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "OMG (Ecuador Hard Techno Rework)",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/7b/62/187b6293-1655-b8b5-2660-7678fecd524b/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "OMG (Ecuador Hard Techno Rework)",
+          "duration": "2:05"
+        },
+        {
+          "number": 2,
+          "name": "OMG (Ecuador Hard Techno Rework) [Extended Mix]",
+          "duration": "2:27"
+        }
+      ]
+    },
+    {
+      "name": "Techno Girl",
+      "year": "2025",
+      "release_date": "2025-07-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/6d/82/5e6d82d1-4495-6405-d277-68f5aef0fa09/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Techno Girl",
+          "duration": "2:26"
         }
       ]
     },
@@ -100,37 +149,6 @@
       ]
     },
     {
-      "name": "Sugar Plum Fairy (Hard Techno Edit)",
-      "year": "2025",
-      "release_date": "2025-12-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/92/9b/5f929b92-6298-b20b-3dab-85b584ec3407/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sugar Plum Fairy (Hard Techno Edit)",
-          "duration": "3:02"
-        }
-      ]
-    },
-    {
-      "name": "Rave Hard",
-      "year": "2025",
-      "release_date": "2025-09-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/64/2b/c3642b2d-6bfa-4da9-fca9-9663659bf926/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rave Hard",
-          "duration": "3:10"
-        },
-        {
-          "number": 2,
-          "name": "Rave Hard (Extended Mix)",
-          "duration": "3:55"
-        }
-      ]
-    },
-    {
       "name": "GSXR",
       "year": "2025",
       "release_date": "2025-05-23",
@@ -145,24 +163,6 @@
           "number": 2,
           "name": "GSXR (Radio Edit)",
           "duration": "2:16"
-        }
-      ]
-    },
-    {
-      "name": "OMG (Ecuador Hard Techno Rework)",
-      "year": "2026",
-      "release_date": "2026-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/7b/62/187b6293-1655-b8b5-2660-7678fecd524b/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "OMG (Ecuador Hard Techno Rework)",
-          "duration": "2:05"
-        },
-        {
-          "number": 2,
-          "name": "OMG (Ecuador Hard Techno Rework) [Extended Mix]",
-          "duration": "2:27"
         }
       ]
     }
