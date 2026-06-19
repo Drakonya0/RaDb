@@ -124,6 +124,47 @@
       ]
     },
     {
+      "name": "Timeless",
+      "year": "2023",
+      "release_date": "2023-10-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/73/c7/7c73c76e-9ec2-d895-81f7-8b021ad7d67e/5059449149349.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Timeless",
+          "duration": "3:30"
+        },
+        {
+          "number": 2,
+          "name": "Timeless (Rain)",
+          "duration": "2:10"
+        },
+        {
+          "number": 3,
+          "name": "Timeless (Noise)",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "Infinitum (Unwind and Rest)",
+      "year": "2025",
+      "release_date": "2025-06-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/7c/a6/977ca6d2-b4ae-7bd7-b012-83fb5f6b5dc3/5059449227795.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Beyond (Meditation)",
+          "duration": "4:09"
+        },
+        {
+          "number": 2,
+          "name": "Infinitum",
+          "duration": "3:28"
+        }
+      ]
+    },
+    {
       "name": "Cloudburst",
       "year": "2024",
       "release_date": "2024-01-26",
@@ -151,29 +192,6 @@
           "number": 2,
           "name": "Infinitum (Noise)",
           "duration": "3:12"
-        }
-      ]
-    },
-    {
-      "name": "Timeless",
-      "year": "2023",
-      "release_date": "2023-10-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7c/73/c7/7c73c76e-9ec2-d895-81f7-8b021ad7d67e/5059449149349.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Timeless",
-          "duration": "3:30"
-        },
-        {
-          "number": 2,
-          "name": "Timeless (Rain)",
-          "duration": "2:10"
-        },
-        {
-          "number": 3,
-          "name": "Timeless (Noise)",
-          "duration": "3:04"
         }
       ]
     },
@@ -240,55 +258,9 @@
           "duration": "3:02"
         }
       ]
-    },
-    {
-      "name": "Infinitum (Unwind and Rest)",
-      "year": "2025",
-      "release_date": "2025-06-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/7c/a6/977ca6d2-b4ae-7bd7-b012-83fb5f6b5dc3/5059449227795.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Beyond (Meditation)",
-          "duration": "4:09"
-        },
-        {
-          "number": 2,
-          "name": "Infinitum",
-          "duration": "3:28"
-        }
-      ]
     }
   ],
   "eps": [
-    {
-      "name": "Cloudburst",
-      "year": "2024",
-      "release_date": "2024-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/b1/2a/97b12aa5-9189-7c05-0d34-873df188deb3/5059449195759.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cloudburst",
-          "duration": "3:36"
-        },
-        {
-          "number": 2,
-          "name": "Cloudburst (Spa)",
-          "duration": "3:26"
-        },
-        {
-          "number": 3,
-          "name": "Cloudburst (Meditation)",
-          "duration": "4:08"
-        },
-        {
-          "number": 4,
-          "name": "Cloudburst (Noise)",
-          "duration": "3:13"
-        }
-      ]
-    },
     {
       "name": "Astral Lands",
       "year": "2023",
@@ -314,6 +286,34 @@
           "number": 4,
           "name": "Astral Lands (Loopable Noise)",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Cloudburst",
+      "year": "2024",
+      "release_date": "2024-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/b1/2a/97b12aa5-9189-7c05-0d34-873df188deb3/5059449195759.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cloudburst",
+          "duration": "3:36"
+        },
+        {
+          "number": 2,
+          "name": "Cloudburst (Spa)",
+          "duration": "3:26"
+        },
+        {
+          "number": 3,
+          "name": "Cloudburst (Meditation)",
+          "duration": "4:08"
+        },
+        {
+          "number": 4,
+          "name": "Cloudburst (Noise)",
+          "duration": "3:13"
         }
       ]
     }

@@ -71,79 +71,6 @@
       ]
     },
     {
-      "name": "Cannibal",
-      "year": "2007",
-      "release_date": "2007-04-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/da/76/4ada76b9-dcb8-91cb-6c2f-acf42224348c/mzi.twbqicwc.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cannibal",
-          "duration": "3:12"
-        },
-        {
-          "number": 2,
-          "name": "No Submission",
-          "duration": "2:40"
-        },
-        {
-          "number": 3,
-          "name": "Behemoth",
-          "duration": "3:00"
-        },
-        {
-          "number": 4,
-          "name": "Chemical Logic",
-          "duration": "3:51"
-        },
-        {
-          "number": 5,
-          "name": "Destroyer",
-          "duration": "2:47"
-        },
-        {
-          "number": 6,
-          "name": "Forty Ways",
-          "duration": "3:00"
-        },
-        {
-          "number": 7,
-          "name": "Chroma-Matic",
-          "duration": "2:44"
-        },
-        {
-          "number": 8,
-          "name": "Cuts You Up",
-          "duration": "3:26"
-        },
-        {
-          "number": 9,
-          "name": "Reptile",
-          "duration": "2:30"
-        },
-        {
-          "number": 10,
-          "name": "Electric Pulse",
-          "duration": "2:40"
-        },
-        {
-          "number": 11,
-          "name": "Goat",
-          "duration": "3:48"
-        },
-        {
-          "number": 12,
-          "name": "Team Hate",
-          "duration": "3:20"
-        },
-        {
-          "number": 13,
-          "name": "Beneath, Between, Beyond",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
       "name": "Start a War",
       "year": "2005",
       "release_date": "2005-06-14",
@@ -217,74 +144,6 @@
       ]
     },
     {
-      "name": "Cult of Static (Bonus Track Version)",
-      "year": "2009",
-      "release_date": "2009-03-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/db/d3/1d/mzi.qqnlhrts.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lunatic",
-          "duration": "3:35"
-        },
-        {
-          "number": 2,
-          "name": "Z28",
-          "duration": "3:09"
-        },
-        {
-          "number": 3,
-          "name": "Terminal",
-          "duration": "3:37"
-        },
-        {
-          "number": 4,
-          "name": "Hypure",
-          "duration": "4:15"
-        },
-        {
-          "number": 5,
-          "name": "Tera-Fied",
-          "duration": "5:19"
-        },
-        {
-          "number": 6,
-          "name": "Stingwray",
-          "duration": "4:12"
-        },
-        {
-          "number": 7,
-          "name": "You Am I",
-          "duration": "2:59"
-        },
-        {
-          "number": 8,
-          "name": "Isolaytore",
-          "duration": "2:45"
-        },
-        {
-          "number": 9,
-          "name": "Nocturnally",
-          "duration": "3:49"
-        },
-        {
-          "number": 10,
-          "name": "Skinned",
-          "duration": "3:33"
-        },
-        {
-          "number": 11,
-          "name": "Grind 2 Halt",
-          "duration": "4:55"
-        },
-        {
-          "number": 12,
-          "name": "Still of the Night (Bonus Track)",
-          "duration": "5:03"
-        }
-      ]
-    },
-    {
       "name": "Shadow Zone",
       "year": "2003",
       "release_date": "2003-10-07",
@@ -354,6 +213,283 @@
           "number": 13,
           "name": "Invincible",
           "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "name": "Cannibal",
+      "year": "2007",
+      "release_date": "2007-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4a/da/76/4ada76b9-dcb8-91cb-6c2f-acf42224348c/mzi.twbqicwc.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cannibal",
+          "duration": "3:12"
+        },
+        {
+          "number": 2,
+          "name": "No Submission",
+          "duration": "2:40"
+        },
+        {
+          "number": 3,
+          "name": "Behemoth",
+          "duration": "3:00"
+        },
+        {
+          "number": 4,
+          "name": "Chemical Logic",
+          "duration": "3:51"
+        },
+        {
+          "number": 5,
+          "name": "Destroyer",
+          "duration": "2:47"
+        },
+        {
+          "number": 6,
+          "name": "Forty Ways",
+          "duration": "3:00"
+        },
+        {
+          "number": 7,
+          "name": "Chroma-Matic",
+          "duration": "2:44"
+        },
+        {
+          "number": 8,
+          "name": "Cuts You Up",
+          "duration": "3:26"
+        },
+        {
+          "number": 9,
+          "name": "Reptile",
+          "duration": "2:30"
+        },
+        {
+          "number": 10,
+          "name": "Electric Pulse",
+          "duration": "2:40"
+        },
+        {
+          "number": 11,
+          "name": "Goat",
+          "duration": "3:48"
+        },
+        {
+          "number": 12,
+          "name": "Team Hate",
+          "duration": "3:20"
+        },
+        {
+          "number": 13,
+          "name": "Beneath, Between, Beyond",
+          "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Machine",
+      "year": "2001",
+      "release_date": "2001-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/43/18/e4/4318e4fe-623e-721a-e86e-f696dd2b4c8f/mzi.lodyycmo.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bien Venidos",
+          "duration": "0:21"
+        },
+        {
+          "number": 2,
+          "name": "Get to the Gone",
+          "duration": "2:49"
+        },
+        {
+          "number": 3,
+          "name": "Permanence",
+          "duration": "4:01"
+        },
+        {
+          "number": 4,
+          "name": "Black and White",
+          "duration": "3:51"
+        },
+        {
+          "number": 5,
+          "name": "This Is Not",
+          "duration": "2:57"
+        },
+        {
+          "number": 6,
+          "name": "Otsego Undead",
+          "duration": "3:29"
+        },
+        {
+          "number": 7,
+          "name": "Cold",
+          "duration": "3:42"
+        },
+        {
+          "number": 8,
+          "name": "Structural Defect",
+          "duration": "3:39"
+        },
+        {
+          "number": 9,
+          "name": "...In a Bag",
+          "duration": "4:21"
+        },
+        {
+          "number": 10,
+          "name": "Burn to Burn",
+          "duration": "4:17"
+        },
+        {
+          "number": 11,
+          "name": "Machine",
+          "duration": "3:27"
+        },
+        {
+          "number": 12,
+          "name": "A Dios Alma Perdida",
+          "duration": "5:58"
+        }
+      ]
+    },
+    {
+      "name": "Cult of Static (Bonus Track Version)",
+      "year": "2009",
+      "release_date": "2009-03-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/db/d3/1d/mzi.qqnlhrts.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lunatic",
+          "duration": "3:35"
+        },
+        {
+          "number": 2,
+          "name": "Z28",
+          "duration": "3:09"
+        },
+        {
+          "number": 3,
+          "name": "Terminal",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "Hypure",
+          "duration": "4:15"
+        },
+        {
+          "number": 5,
+          "name": "Tera-Fied",
+          "duration": "5:19"
+        },
+        {
+          "number": 6,
+          "name": "Stingwray",
+          "duration": "4:12"
+        },
+        {
+          "number": 7,
+          "name": "You Am I",
+          "duration": "2:59"
+        },
+        {
+          "number": 8,
+          "name": "Isolaytore",
+          "duration": "2:45"
+        },
+        {
+          "number": 9,
+          "name": "Nocturnally",
+          "duration": "3:49"
+        },
+        {
+          "number": 10,
+          "name": "Skinned",
+          "duration": "3:33"
+        },
+        {
+          "number": 11,
+          "name": "Grind 2 Halt",
+          "duration": "4:55"
+        },
+        {
+          "number": 12,
+          "name": "Still of the Night (Bonus Track)",
+          "duration": "5:03"
+        }
+      ]
+    },
+    {
+      "name": "Project Regeneration, Vol. 1",
+      "year": "2020",
+      "release_date": "2020-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/ce/cf/7ccecf53-38b4-a45b-02e9-5613d9fd13a0/617831939333.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Regeneration",
+          "duration": "1:00"
+        },
+        {
+          "number": 2,
+          "name": "Hollow (Project Regeneration)",
+          "duration": "2:41"
+        },
+        {
+          "number": 3,
+          "name": "Worth Dyin For",
+          "duration": "3:26"
+        },
+        {
+          "number": 4,
+          "name": "Terminator Oscillator",
+          "duration": "3:13"
+        },
+        {
+          "number": 5,
+          "name": "All These Years",
+          "duration": "3:56"
+        },
+        {
+          "number": 6,
+          "name": "Accelerate",
+          "duration": "2:48"
+        },
+        {
+          "number": 7,
+          "name": "Bring You Down (Project Regeneration)",
+          "duration": "3:35"
+        },
+        {
+          "number": 8,
+          "name": "My Destruction",
+          "duration": "3:29"
+        },
+        {
+          "number": 9,
+          "name": "Something of My Own (Project Regeneration)",
+          "duration": "2:52"
+        },
+        {
+          "number": 10,
+          "name": "Otsego Placebo",
+          "duration": "4:20"
+        },
+        {
+          "number": 11,
+          "name": "Follow",
+          "duration": "3:08"
+        },
+        {
+          "number": 12,
+          "name": "Dead Souls",
+          "duration": "4:44"
         }
       ]
     },
@@ -456,142 +592,6 @@
       ]
     },
     {
-      "name": "Project Regeneration, Vol. 1",
-      "year": "2020",
-      "release_date": "2020-07-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7c/ce/cf/7ccecf53-38b4-a45b-02e9-5613d9fd13a0/617831939333.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Regeneration",
-          "duration": "1:00"
-        },
-        {
-          "number": 2,
-          "name": "Hollow (Project Regeneration)",
-          "duration": "2:41"
-        },
-        {
-          "number": 3,
-          "name": "Worth Dyin For",
-          "duration": "3:26"
-        },
-        {
-          "number": 4,
-          "name": "Terminator Oscillator",
-          "duration": "3:13"
-        },
-        {
-          "number": 5,
-          "name": "All These Years",
-          "duration": "3:56"
-        },
-        {
-          "number": 6,
-          "name": "Accelerate",
-          "duration": "2:48"
-        },
-        {
-          "number": 7,
-          "name": "Bring You Down (Project Regeneration)",
-          "duration": "3:35"
-        },
-        {
-          "number": 8,
-          "name": "My Destruction",
-          "duration": "3:29"
-        },
-        {
-          "number": 9,
-          "name": "Something of My Own (Project Regeneration)",
-          "duration": "2:52"
-        },
-        {
-          "number": 10,
-          "name": "Otsego Placebo",
-          "duration": "4:20"
-        },
-        {
-          "number": 11,
-          "name": "Follow",
-          "duration": "3:08"
-        },
-        {
-          "number": 12,
-          "name": "Dead Souls",
-          "duration": "4:44"
-        }
-      ]
-    },
-    {
-      "name": "Machine",
-      "year": "2001",
-      "release_date": "2001-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/43/18/e4/4318e4fe-623e-721a-e86e-f696dd2b4c8f/mzi.lodyycmo.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bien Venidos",
-          "duration": "0:21"
-        },
-        {
-          "number": 2,
-          "name": "Get to the Gone",
-          "duration": "2:49"
-        },
-        {
-          "number": 3,
-          "name": "Permanence",
-          "duration": "4:01"
-        },
-        {
-          "number": 4,
-          "name": "Black and White",
-          "duration": "3:51"
-        },
-        {
-          "number": 5,
-          "name": "This Is Not",
-          "duration": "2:57"
-        },
-        {
-          "number": 6,
-          "name": "Otsego Undead",
-          "duration": "3:29"
-        },
-        {
-          "number": 7,
-          "name": "Cold",
-          "duration": "3:42"
-        },
-        {
-          "number": 8,
-          "name": "Structural Defect",
-          "duration": "3:39"
-        },
-        {
-          "number": 9,
-          "name": "...In a Bag",
-          "duration": "4:21"
-        },
-        {
-          "number": 10,
-          "name": "Burn to Burn",
-          "duration": "4:17"
-        },
-        {
-          "number": 11,
-          "name": "Machine",
-          "duration": "3:27"
-        },
-        {
-          "number": 12,
-          "name": "A Dios Alma Perdida",
-          "duration": "5:58"
-        }
-      ]
-    },
-    {
       "name": "Project Regeneration, Vol. 2",
       "year": "2024",
       "release_date": "2024-01-26",
@@ -670,70 +670,85 @@
       ]
     },
     {
-      "name": "Wisconsin Death Trip",
-      "year": "1999",
-      "release_date": "1999-03-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/21/1f/96211f05-6340-5826-e2e1-a731ffac3e23/mzi.tlnuscgm.jpg/600x600bb.jpg",
+      "name": "Machine (20th Anniversary Edition)",
+      "year": "2001",
+      "release_date": "2001-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c9/7d/bd/c97dbda4-31a6-5045-4081-c9d2c7216828/603497841066.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Push It",
-          "duration": "2:34"
+          "name": "Bien Venidos",
+          "duration": "0:22"
         },
         {
           "number": 2,
-          "name": "I'm With Stupid",
-          "duration": "3:24"
+          "name": "Get to the Gone",
+          "duration": "2:50"
         },
         {
           "number": 3,
-          "name": "Bled for Days",
-          "duration": "3:45"
+          "name": "Permanence",
+          "duration": "4:02"
         },
         {
           "number": 4,
-          "name": "Love Dump",
-          "duration": "4:19"
+          "name": "Black and White",
+          "duration": "3:55"
         },
         {
           "number": 5,
-          "name": "I Am",
-          "duration": "2:47"
+          "name": "This Is Not",
+          "duration": "2:58"
         },
         {
           "number": 6,
-          "name": "Otsegolation",
-          "duration": "3:32"
+          "name": "Otsego Undead",
+          "duration": "3:29"
         },
         {
           "number": 7,
-          "name": "Stem",
-          "duration": "2:54"
+          "name": "Cold",
+          "duration": "3:41"
         },
         {
           "number": 8,
-          "name": "Sweat of the Bud",
-          "duration": "3:30"
+          "name": "Structural Defect",
+          "duration": "3:39"
         },
         {
           "number": 9,
-          "name": "Fix",
-          "duration": "2:49"
+          "name": "...In a Bag",
+          "duration": "4:22"
         },
         {
           "number": 10,
-          "name": "Wisconsin Death Trip",
-          "duration": "3:09"
+          "name": "Burn to Burn",
+          "duration": "4:18"
         },
         {
           "number": 11,
-          "name": "The Trance Is the Motion",
-          "duration": "4:49"
+          "name": "Machine",
+          "duration": "3:27"
         },
         {
           "number": 12,
-          "name": "December",
-          "duration": "6:18"
+          "name": "A Dios Alma Perdida",
+          "duration": "5:59"
+        },
+        {
+          "number": 13,
+          "name": "I'm with Stupid (Live 2019 Regeneration)",
+          "duration": "3:27"
+        },
+        {
+          "number": 14,
+          "name": "Wisconsin Death Trip (Live 2019 Regeneration)",
+          "duration": "3:11"
+        },
+        {
+          "number": 15,
+          "name": "Sweat of the Bud (Live 2019 Xer0)",
+          "duration": "3:20"
         }
       ]
     },
@@ -827,6 +842,74 @@
           "number": 17,
           "name": "Get to the Gone (Live)",
           "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin Death Trip",
+      "year": "1999",
+      "release_date": "1999-03-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/96/21/1f/96211f05-6340-5826-e2e1-a731ffac3e23/mzi.tlnuscgm.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Push It",
+          "duration": "2:34"
+        },
+        {
+          "number": 2,
+          "name": "I'm With Stupid",
+          "duration": "3:24"
+        },
+        {
+          "number": 3,
+          "name": "Bled for Days",
+          "duration": "3:45"
+        },
+        {
+          "number": 4,
+          "name": "Love Dump",
+          "duration": "4:19"
+        },
+        {
+          "number": 5,
+          "name": "I Am",
+          "duration": "2:47"
+        },
+        {
+          "number": 6,
+          "name": "Otsegolation",
+          "duration": "3:32"
+        },
+        {
+          "number": 7,
+          "name": "Stem",
+          "duration": "2:54"
+        },
+        {
+          "number": 8,
+          "name": "Sweat of the Bud",
+          "duration": "3:30"
+        },
+        {
+          "number": 9,
+          "name": "Fix",
+          "duration": "2:49"
+        },
+        {
+          "number": 10,
+          "name": "Wisconsin Death Trip",
+          "duration": "3:09"
+        },
+        {
+          "number": 11,
+          "name": "The Trance Is the Motion",
+          "duration": "4:49"
+        },
+        {
+          "number": 12,
+          "name": "December",
+          "duration": "6:18"
         }
       ]
     },
@@ -967,89 +1050,6 @@
       ]
     },
     {
-      "name": "Machine (20th Anniversary Edition)",
-      "year": "2001",
-      "release_date": "2001-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c9/7d/bd/c97dbda4-31a6-5045-4081-c9d2c7216828/603497841066.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bien Venidos",
-          "duration": "0:22"
-        },
-        {
-          "number": 2,
-          "name": "Get to the Gone",
-          "duration": "2:50"
-        },
-        {
-          "number": 3,
-          "name": "Permanence",
-          "duration": "4:02"
-        },
-        {
-          "number": 4,
-          "name": "Black and White",
-          "duration": "3:55"
-        },
-        {
-          "number": 5,
-          "name": "This Is Not",
-          "duration": "2:58"
-        },
-        {
-          "number": 6,
-          "name": "Otsego Undead",
-          "duration": "3:29"
-        },
-        {
-          "number": 7,
-          "name": "Cold",
-          "duration": "3:41"
-        },
-        {
-          "number": 8,
-          "name": "Structural Defect",
-          "duration": "3:39"
-        },
-        {
-          "number": 9,
-          "name": "...In a Bag",
-          "duration": "4:22"
-        },
-        {
-          "number": 10,
-          "name": "Burn to Burn",
-          "duration": "4:18"
-        },
-        {
-          "number": 11,
-          "name": "Machine",
-          "duration": "3:27"
-        },
-        {
-          "number": 12,
-          "name": "A Dios Alma Perdida",
-          "duration": "5:59"
-        },
-        {
-          "number": 13,
-          "name": "I'm with Stupid (Live 2019 Regeneration)",
-          "duration": "3:27"
-        },
-        {
-          "number": 14,
-          "name": "Wisconsin Death Trip (Live 2019 Regeneration)",
-          "duration": "3:11"
-        },
-        {
-          "number": 15,
-          "name": "Sweat of the Bud (Live 2019 Xer0)",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
       "name": "Cannibal",
       "year": "2007",
       "release_date": "2007-04-02",
@@ -1127,19 +1127,6 @@
   ],
   "singles": [
     {
-      "name": "Looks That Kill",
-      "year": "2020",
-      "release_date": "2020-12-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/b2/43/fbb24300-8fcc-540f-9c95-3854c8033560/5059460059108.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Looks That Kill",
-          "duration": "4:11"
-        }
-      ]
-    },
-    {
       "name": "Destroyer",
       "year": "2007",
       "release_date": "2007-02-13",
@@ -1179,15 +1166,15 @@
       ]
     },
     {
-      "name": "Otsegolectric",
-      "year": "2003",
-      "release_date": "2003-08-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/ac/40/77/ac407715-db28-9e71-736f-3ec74f0c720f/dj.ewqirlth.jpg/600x600bb.jpg",
+      "name": "Looks That Kill",
+      "year": "2020",
+      "release_date": "2020-12-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/b2/43/fbb24300-8fcc-540f-9c95-3854c8033560/5059460059108.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Otsegolectric",
-          "duration": "2:39"
+          "name": "Looks That Kill",
+          "duration": "4:11"
         }
       ]
     },
@@ -1214,6 +1201,19 @@
           "number": 1,
           "name": "I'm the One",
           "duration": "2:36"
+        }
+      ]
+    },
+    {
+      "name": "Otsegolectric",
+      "year": "2003",
+      "release_date": "2003-08-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/ac/40/77/ac407715-db28-9e71-736f-3ec74f0c720f/dj.ewqirlth.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Otsegolectric",
+          "duration": "2:39"
         }
       ]
     },

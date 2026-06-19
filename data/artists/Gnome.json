@@ -3,64 +3,6 @@
   "id": 1434427850,
   "albums": [
     {
-      "name": "Father of Time",
-      "year": "2018",
-      "release_date": "2018-08-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/db/30/31/db3031b9-564a-bf9d-9bc1-1de9652b95c9/0674862898305.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Earthen Dweller",
-          "duration": "4:29"
-        },
-        {
-          "number": 2,
-          "name": "Jebediah Supreme",
-          "duration": "5:46"
-        },
-        {
-          "number": 3,
-          "name": "Blacksmith",
-          "duration": "7:21"
-        },
-        {
-          "number": 4,
-          "name": "Bathed in Cheese",
-          "duration": "6:25"
-        },
-        {
-          "number": 5,
-          "name": "Ye Olde Beans",
-          "duration": "7:19"
-        },
-        {
-          "number": 6,
-          "name": "Mercy of the Sea",
-          "duration": "5:44"
-        },
-        {
-          "number": 7,
-          "name": "Ammonite",
-          "duration": "8:15"
-        },
-        {
-          "number": 8,
-          "name": "Father of Time",
-          "duration": "4:42"
-        },
-        {
-          "number": 9,
-          "name": "Rat King",
-          "duration": "3:24"
-        },
-        {
-          "number": 10,
-          "name": "Restless Giant",
-          "duration": "10:47"
-        }
-      ]
-    },
-    {
       "name": "King",
       "year": "2022",
       "release_date": "2022-05-06",
@@ -158,6 +100,64 @@
           "number": 9,
           "name": "John Frum",
           "duration": "5:35"
+        }
+      ]
+    },
+    {
+      "name": "Father of Time",
+      "year": "2018",
+      "release_date": "2018-08-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/db/30/31/db3031b9-564a-bf9d-9bc1-1de9652b95c9/0674862898305.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Earthen Dweller",
+          "duration": "4:29"
+        },
+        {
+          "number": 2,
+          "name": "Jebediah Supreme",
+          "duration": "5:46"
+        },
+        {
+          "number": 3,
+          "name": "Blacksmith",
+          "duration": "7:21"
+        },
+        {
+          "number": 4,
+          "name": "Bathed in Cheese",
+          "duration": "6:25"
+        },
+        {
+          "number": 5,
+          "name": "Ye Olde Beans",
+          "duration": "7:19"
+        },
+        {
+          "number": 6,
+          "name": "Mercy of the Sea",
+          "duration": "5:44"
+        },
+        {
+          "number": 7,
+          "name": "Ammonite",
+          "duration": "8:15"
+        },
+        {
+          "number": 8,
+          "name": "Father of Time",
+          "duration": "4:42"
+        },
+        {
+          "number": 9,
+          "name": "Rat King",
+          "duration": "3:24"
+        },
+        {
+          "number": 10,
+          "name": "Restless Giant",
+          "duration": "10:47"
         }
       ]
     }

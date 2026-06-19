@@ -81,6 +81,54 @@
       ]
     },
     {
+      "name": "Sunset Lover (Remixes)",
+      "year": "2017",
+      "release_date": "2017-08-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ea/f4/85/eaf48572-f353-ebcf-5a9b-43e182594feb/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sunset Lover (Manatee Commune Remix)",
+          "duration": "3:22"
+        },
+        {
+          "number": 2,
+          "name": "Sunset Lover (Clément Bazin Remix)",
+          "duration": "3:48"
+        },
+        {
+          "number": 3,
+          "name": "Sunset Lover (Slow Hours Remix)",
+          "duration": "4:27"
+        },
+        {
+          "number": 4,
+          "name": "Sunset Lover (Daktyl Remix)",
+          "duration": "2:48"
+        },
+        {
+          "number": 5,
+          "name": "Sunset Lover (Bearcubs Remix)",
+          "duration": "4:28"
+        },
+        {
+          "number": 6,
+          "name": "Sunset Lover (OTR Remix)",
+          "duration": "3:12"
+        },
+        {
+          "number": 7,
+          "name": "Sunset Lover (Zac Samuel Remix)",
+          "duration": "3:00"
+        },
+        {
+          "number": 8,
+          "name": "Sunset Lover (Clarian Remix)",
+          "duration": "3:21"
+        }
+      ]
+    },
+    {
       "name": "Parachute",
       "year": "2020",
       "release_date": "2020-10-30",
@@ -130,54 +178,6 @@
           "number": 9,
           "name": "Hang On",
           "duration": "2:53"
-        }
-      ]
-    },
-    {
-      "name": "Sunset Lover (Remixes)",
-      "year": "2017",
-      "release_date": "2017-08-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ea/f4/85/eaf48572-f353-ebcf-5a9b-43e182594feb/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sunset Lover (Manatee Commune Remix)",
-          "duration": "3:22"
-        },
-        {
-          "number": 2,
-          "name": "Sunset Lover (Clément Bazin Remix)",
-          "duration": "3:48"
-        },
-        {
-          "number": 3,
-          "name": "Sunset Lover (Slow Hours Remix)",
-          "duration": "4:27"
-        },
-        {
-          "number": 4,
-          "name": "Sunset Lover (Daktyl Remix)",
-          "duration": "2:48"
-        },
-        {
-          "number": 5,
-          "name": "Sunset Lover (Bearcubs Remix)",
-          "duration": "4:28"
-        },
-        {
-          "number": 6,
-          "name": "Sunset Lover (OTR Remix)",
-          "duration": "3:12"
-        },
-        {
-          "number": 7,
-          "name": "Sunset Lover (Zac Samuel Remix)",
-          "duration": "3:00"
-        },
-        {
-          "number": 8,
-          "name": "Sunset Lover (Clarian Remix)",
-          "duration": "3:21"
         }
       ]
     },
@@ -566,19 +566,6 @@
   ],
   "singles": [
     {
-      "name": "Night Trouble",
-      "year": "2015",
-      "release_date": "2015-06-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/10/3e/7a/103e7ad7-5e2a-e450-a27b-9f4b6aac7b31/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Night Trouble",
-          "duration": "6:31"
-        }
-      ]
-    },
-    {
       "name": "Alone",
       "year": "2015",
       "release_date": "2015-05-18",
@@ -614,6 +601,19 @@
           "number": 1,
           "name": "Memories",
           "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "Night Trouble",
+      "year": "2015",
+      "release_date": "2015-06-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/10/3e/7a/103e7ad7-5e2a-e450-a27b-9f4b6aac7b31/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Night Trouble",
+          "duration": "6:31"
         }
       ]
     },
@@ -1070,6 +1070,24 @@
           "number": 2,
           "name": "our mutual planet",
           "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "name": "Drivin Thru the Night",
+      "year": "2020",
+      "release_date": "2020-09-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/98/1e/e6981eaf-45f3-912a-804b-03c1e2a12781/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Drivin Thru the Night",
+          "duration": "3:05"
+        },
+        {
+          "number": 2,
+          "name": "Drivin Thru the Night (Acoustic)",
+          "duration": "3:11"
         }
       ]
     },

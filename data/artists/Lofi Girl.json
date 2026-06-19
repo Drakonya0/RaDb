@@ -502,19 +502,6 @@
   ],
   "singles": [
     {
-      "name": "Snowman",
-      "year": "2023",
-      "release_date": "2023-11-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/3f/7a/173f7aa0-2003-1428-8157-67e80420024a/6e7e2cf8-a0ad-4d27-b794-7137037cfa8d.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Snowman",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "Geralt of Rivia (The Witcher 3: Wild Hunt) [Lofi Remix]",
       "year": "2025",
       "release_date": "2025-05-22",
@@ -524,6 +511,19 @@
           "number": 1,
           "name": "Geralt of Rivia (The Witcher 3: Wild Hunt) [Lofi Remix]",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Snowman",
+      "year": "2023",
+      "release_date": "2023-11-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/3f/7a/173f7aa0-2003-1428-8157-67e80420024a/6e7e2cf8-a0ad-4d27-b794-7137037cfa8d.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Snowman",
+          "duration": "3:15"
         }
       ]
     }

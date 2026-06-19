@@ -46,64 +46,6 @@
       ]
     },
     {
-      "name": "Valley of Death II",
-      "year": "2026",
-      "release_date": "2026-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/2c/a8/4c2ca80c-3f09-950d-4779-ad4072d6ffe7/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bulletproof",
-          "duration": "2:28"
-        },
-        {
-          "number": 2,
-          "name": "Chewing Through the Leash (feat. Matt Honeycutt & Kublai Khan TX)",
-          "duration": "2:49"
-        },
-        {
-          "number": 3,
-          "name": "Ice Cold",
-          "duration": "2:50"
-        },
-        {
-          "number": 4,
-          "name": "Valley of Death II",
-          "duration": "2:46"
-        },
-        {
-          "number": 5,
-          "name": "No Peace",
-          "duration": "2:51"
-        },
-        {
-          "number": 6,
-          "name": "Roll Call",
-          "duration": "1:27"
-        },
-        {
-          "number": 7,
-          "name": "Salt the Earth",
-          "duration": "2:35"
-        },
-        {
-          "number": 8,
-          "name": "Release the Dogs",
-          "duration": "1:19"
-        },
-        {
-          "number": 9,
-          "name": "In Love with the Pain",
-          "duration": "2:23"
-        },
-        {
-          "number": 10,
-          "name": "Death Grip",
-          "duration": "1:45"
-        }
-      ]
-    },
-    {
       "name": "Love Don't Live Here",
       "year": "2016",
       "release_date": "2016-01-22",
@@ -163,6 +105,64 @@
           "number": 11,
           "name": "Going Back to the Bay",
           "duration": "1:18"
+        }
+      ]
+    },
+    {
+      "name": "Valley of Death II",
+      "year": "2026",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/2c/a8/4c2ca80c-3f09-950d-4779-ad4072d6ffe7/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bulletproof",
+          "duration": "2:28"
+        },
+        {
+          "number": 2,
+          "name": "Chewing Through the Leash (feat. Matt Honeycutt & Kublai Khan TX)",
+          "duration": "2:49"
+        },
+        {
+          "number": 3,
+          "name": "Ice Cold",
+          "duration": "2:50"
+        },
+        {
+          "number": 4,
+          "name": "Valley of Death II",
+          "duration": "2:46"
+        },
+        {
+          "number": 5,
+          "name": "No Peace",
+          "duration": "2:51"
+        },
+        {
+          "number": 6,
+          "name": "Roll Call",
+          "duration": "1:27"
+        },
+        {
+          "number": 7,
+          "name": "Salt the Earth",
+          "duration": "2:35"
+        },
+        {
+          "number": 8,
+          "name": "Release the Dogs",
+          "duration": "1:19"
+        },
+        {
+          "number": 9,
+          "name": "In Love with the Pain",
+          "duration": "2:23"
+        },
+        {
+          "number": 10,
+          "name": "Death Grip",
+          "duration": "1:45"
         }
       ]
     },
@@ -887,6 +887,32 @@
   ],
   "singles": [
     {
+      "name": "Valley of Death",
+      "year": "2019",
+      "release_date": "2019-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/b9/4b/34b94b63-72c0-1c03-ef96-512ea8d3f383/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Valley of Death",
+          "duration": "1:40"
+        }
+      ]
+    },
+    {
+      "name": "SPOOKY DRIVE (feat. Lionheart)",
+      "year": "2025",
+      "release_date": "2025-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/78/f6/4f78f6c2-28f7-76d2-3f47-43d6a3e36b12/918370.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SPOOKY DRIVE (feat. Lionheart)",
+          "duration": "3:33"
+        }
+      ]
+    },
+    {
       "name": "Burn",
       "year": "2019",
       "release_date": "2019-10-04",
@@ -899,19 +925,6 @@
         },
         {
           "number": 2,
-          "name": "Valley of Death",
-          "duration": "1:40"
-        }
-      ]
-    },
-    {
-      "name": "Valley of Death",
-      "year": "2019",
-      "release_date": "2019-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/b9/4b/34b94b63-72c0-1c03-ef96-512ea8d3f383/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
           "name": "Valley of Death",
           "duration": "1:40"
         }
@@ -941,15 +954,15 @@
       ]
     },
     {
-      "name": "SPOOKY DRIVE (feat. Lionheart)",
-      "year": "2025",
-      "release_date": "2025-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/78/f6/4f78f6c2-28f7-76d2-3f47-43d6a3e36b12/918370.jpg/600x600bb.jpg",
+      "name": "CONCRETO CALIENTE",
+      "year": "2026",
+      "release_date": "2026-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/bf/f6/82bff6b3-6591-cd31-cf65-4a074ca64313/820233681421.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "SPOOKY DRIVE (feat. Lionheart)",
-          "duration": "3:33"
+          "name": "CONCRETO CALIENTE",
+          "duration": "3:12"
         }
       ]
     }

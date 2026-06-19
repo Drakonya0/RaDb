@@ -3,54 +3,6 @@
   "id": 1490256993,
   "albums": [
     {
-      "name": "THE BOOK 2",
-      "year": "2021",
-      "release_date": "2021-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/80/db/ad80db50-11de-f607-5066-35f0c89e0283/196292777444.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tsubame (feat. midories)",
-          "duration": "3:36"
-        },
-        {
-          "number": 2,
-          "name": "RGB",
-          "duration": "3:40"
-        },
-        {
-          "number": 3,
-          "name": "Romance",
-          "duration": "2:46"
-        },
-        {
-          "number": 4,
-          "name": "Mou sukoshi dake",
-          "duration": "3:38"
-        },
-        {
-          "number": 5,
-          "name": "Comet",
-          "duration": "3:33"
-        },
-        {
-          "number": 6,
-          "name": "Monster",
-          "duration": "3:25"
-        },
-        {
-          "number": 7,
-          "name": "Moshimo inochiga egaketara",
-          "duration": "3:21"
-        },
-        {
-          "number": 8,
-          "name": "loveletter",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "THE BOOK",
       "year": "2021",
       "release_date": "2021-01-06",
@@ -100,6 +52,54 @@
           "number": 9,
           "name": "Prologue",
           "duration": "0:35"
+        }
+      ]
+    },
+    {
+      "name": "THE BOOK 2",
+      "year": "2021",
+      "release_date": "2021-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/80/db/ad80db50-11de-f607-5066-35f0c89e0283/196292777444.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tsubame (feat. midories)",
+          "duration": "3:36"
+        },
+        {
+          "number": 2,
+          "name": "RGB",
+          "duration": "3:40"
+        },
+        {
+          "number": 3,
+          "name": "Romance",
+          "duration": "2:46"
+        },
+        {
+          "number": 4,
+          "name": "Mou sukoshi dake",
+          "duration": "3:38"
+        },
+        {
+          "number": 5,
+          "name": "Comet",
+          "duration": "3:33"
+        },
+        {
+          "number": 6,
+          "name": "Monster",
+          "duration": "3:25"
+        },
+        {
+          "number": 7,
+          "name": "Moshimo inochiga egaketara",
+          "duration": "3:21"
+        },
+        {
+          "number": 8,
+          "name": "loveletter",
+          "duration": "3:30"
         }
       ]
     },
@@ -210,59 +210,6 @@
       ]
     },
     {
-      "name": "E-SIDE 4",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/ee/1c/51ee1c38-b554-0352-2c31-6ed53f73e69e/820233171922.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ADRENA",
-          "duration": "3:07"
-        },
-        {
-          "number": 2,
-          "name": "UNDEAD (English Version)",
-          "duration": "3:02"
-        },
-        {
-          "number": 3,
-          "name": "Watch me! (English Version)",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
-          "name": "BABY (English Version)",
-          "duration": "3:52"
-        },
-        {
-          "number": 5,
-          "name": "New me (English Version)",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "Monotone",
-          "duration": "3:30"
-        },
-        {
-          "number": 7,
-          "name": "On the Stage",
-          "duration": "3:28"
-        },
-        {
-          "number": 8,
-          "name": "PLAYERS (English Version)",
-          "duration": "3:21"
-        },
-        {
-          "number": 9,
-          "name": "HEART BEAT (English Version)",
-          "duration": "5:34"
-        }
-      ]
-    },
-    {
       "name": "E-SIDE 2",
       "year": "2022",
       "release_date": "2022-11-18",
@@ -357,6 +304,59 @@
           "duration": "3:19"
         }
       ]
+    },
+    {
+      "name": "E-SIDE 4",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/ee/1c/51ee1c38-b554-0352-2c31-6ed53f73e69e/820233171922.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ADRENA",
+          "duration": "3:07"
+        },
+        {
+          "number": 2,
+          "name": "UNDEAD (English Version)",
+          "duration": "3:02"
+        },
+        {
+          "number": 3,
+          "name": "Watch me! (English Version)",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "BABY (English Version)",
+          "duration": "3:52"
+        },
+        {
+          "number": 5,
+          "name": "New me (English Version)",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "Monotone",
+          "duration": "3:30"
+        },
+        {
+          "number": 7,
+          "name": "On the Stage",
+          "duration": "3:28"
+        },
+        {
+          "number": 8,
+          "name": "PLAYERS (English Version)",
+          "duration": "3:21"
+        },
+        {
+          "number": 9,
+          "name": "HEART BEAT (English Version)",
+          "duration": "5:34"
+        }
+      ]
     }
   ],
   "singles": [
@@ -374,32 +374,6 @@
       ]
     },
     {
-      "name": "夜に駆ける",
-      "year": "2019",
-      "release_date": "2019-12-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/58/79/fe58795c-1628-230a-9ffe-300c04b6627c/194491717186.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "夜に駆ける",
-          "duration": "4:21"
-        }
-      ]
-    },
-    {
-      "name": "勇者",
-      "year": "2023",
-      "release_date": "2023-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/fb/70/d5fb7086-9fbe-feca-215e-da448bcf4596/197189862939.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Yuusha",
-          "duration": "3:14"
-        }
-      ]
-    },
-    {
       "name": "怪物",
       "year": "2021",
       "release_date": "2021-01-06",
@@ -413,15 +387,41 @@
       ]
     },
     {
-      "name": "たぶん",
-      "year": "2020",
-      "release_date": "2020-07-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/1c/3b/bf1c3bdd-a128-2843-776a-35bf3c879d98/195081850498.jpg/600x600bb.jpg",
+      "name": "夜に駆ける",
+      "year": "2019",
+      "release_date": "2019-12-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fe/58/79/fe58795c-1628-230a-9ffe-300c04b6627c/194491717186.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Probably",
-          "duration": "4:18"
+          "name": "夜に駆ける",
+          "duration": "4:21"
+        }
+      ]
+    },
+    {
+      "name": "Watch me!",
+      "year": "2025",
+      "release_date": "2025-05-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/e1/ef/5fe1ef35-2ee9-f6cf-6eb6-97eab00e53a2/199350611605.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Watch me!",
+          "duration": "3:06"
+        }
+      ]
+    },
+    {
+      "name": "勇者",
+      "year": "2023",
+      "release_date": "2023-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/fb/70/d5fb7086-9fbe-feca-215e-da448bcf4596/197189862939.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Yuusha",
+          "duration": "3:14"
         }
       ]
     },
@@ -452,6 +452,19 @@
       ]
     },
     {
+      "name": "たぶん",
+      "year": "2020",
+      "release_date": "2020-07-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bf/1c/3b/bf1c3bdd-a128-2843-776a-35bf3c879d98/195081850498.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Probably",
+          "duration": "4:18"
+        }
+      ]
+    },
+    {
       "name": "群青",
       "year": "2020",
       "release_date": "2020-09-01",
@@ -474,19 +487,6 @@
           "number": 1,
           "name": "Comet",
           "duration": "3:35"
-        }
-      ]
-    },
-    {
-      "name": "UNDEAD",
-      "year": "2024",
-      "release_date": "2024-07-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/b3/fb/4fb3fb99-7c8b-f028-8683-6128f3e20caf/198588375464.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "UNDEAD",
-          "duration": "3:02"
         }
       ]
     },
@@ -531,6 +531,19 @@
           "number": 1,
           "name": "Into The Night (English Version)",
           "duration": "4:22"
+        }
+      ]
+    },
+    {
+      "name": "UNDEAD",
+      "year": "2024",
+      "release_date": "2024-07-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/b3/fb/4fb3fb99-7c8b-f028-8683-6128f3e20caf/198588375464.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "UNDEAD",
+          "duration": "3:02"
         }
       ]
     },
@@ -587,19 +600,6 @@
       ]
     },
     {
-      "name": "Watch me!",
-      "year": "2025",
-      "release_date": "2025-05-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/e1/ef/5fe1ef35-2ee9-f6cf-6eb6-97eab00e53a2/199350611605.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Watch me!",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "Romance",
       "year": "2021",
       "release_date": "2021-09-15",
@@ -639,19 +639,6 @@
       ]
     },
     {
-      "name": "New me",
-      "year": "2024",
-      "release_date": "2024-11-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/97/8c/2f978cc6-ca98-f6f8-5907-3d39ac6f63d3/198846810805.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "New me",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
       "name": "ミスター",
       "year": "2022",
       "release_date": "2022-02-16",
@@ -678,32 +665,6 @@
       ]
     },
     {
-      "name": "PLAYERS",
-      "year": "2025",
-      "release_date": "2025-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/e2/b5/28e2b5ec-e940-2f52-ea0b-38e102c1ec74/199350091568.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PLAYERS",
-          "duration": "3:21"
-        }
-      ]
-    },
-    {
-      "name": "モノトーン",
-      "year": "2024",
-      "release_date": "2024-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/05/a9/df05a94d-ff41-e0e1-f156-f40ee7c9922b/198846242873.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Monotone",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "アドベンチャー",
       "year": "2023",
       "release_date": "2023-02-15",
@@ -726,19 +687,6 @@
           "number": 1,
           "name": "sukida",
           "duration": "3:37"
-        }
-      ]
-    },
-    {
-      "name": "アドレナ",
-      "year": "2026",
-      "release_date": "2026-01-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/3b/bc/f03bbca1-68a7-530d-9904-e447d0024ddd/199806749012.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ADRENA",
-          "duration": "3:05"
         }
       ]
     },
@@ -782,15 +730,15 @@
       ]
     },
     {
-      "name": "BABY",
-      "year": "2026",
-      "release_date": "2026-01-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/d3/d9/b5d3d9f2-cda4-646d-a9cf-0ad26f623903/199806763940.jpg/600x600bb.jpg",
+      "name": "New me",
+      "year": "2024",
+      "release_date": "2024-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/97/8c/2f978cc6-ca98-f6f8-5907-3d39ac6f63d3/198846810805.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "BABY",
-          "duration": "3:50"
+          "name": "New me",
+          "duration": "3:26"
         }
       ]
     },
@@ -808,6 +756,19 @@
       ]
     },
     {
+      "name": "PLAYERS",
+      "year": "2025",
+      "release_date": "2025-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/e2/b5/28e2b5ec-e940-2f52-ea0b-38e102c1ec74/199350091568.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PLAYERS",
+          "duration": "3:21"
+        }
+      ]
+    },
+    {
       "name": "夜に駆ける - From THE FIRST TAKE",
       "year": "2023",
       "release_date": "2023-09-21",
@@ -821,6 +782,19 @@
       ]
     },
     {
+      "name": "モノトーン",
+      "year": "2024",
+      "release_date": "2024-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/05/a9/df05a94d-ff41-e0e1-f156-f40ee7c9922b/198846242873.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Monotone",
+          "duration": "3:30"
+        }
+      ]
+    },
+    {
       "name": "セブンティーン",
       "year": "2023",
       "release_date": "2023-03-27",
@@ -830,6 +804,19 @@
           "number": 1,
           "name": "SEVENTEEN",
           "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "アドレナ",
+      "year": "2026",
+      "release_date": "2026-01-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/3b/bc/f03bbca1-68a7-530d-9904-e447d0024ddd/199806749012.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ADRENA",
+          "duration": "3:05"
         }
       ]
     },
@@ -882,6 +869,19 @@
           "number": 1,
           "name": "RGB (English Version)",
           "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "BABY",
+      "year": "2026",
+      "release_date": "2026-01-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/d3/d9/b5d3d9f2-cda4-646d-a9cf-0ad26f623903/199806763940.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BABY",
+          "duration": "3:50"
         }
       ]
     },

@@ -3,69 +3,6 @@
   "id": 1413545983,
   "albums": [
     {
-      "name": "Vamp",
-      "year": "2025",
-      "release_date": "2025-04-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/4d/d4/d34dd4d9-a58b-9861-fa1c-64b9158ce54d/0045778809066.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pain",
-          "duration": "3:29"
-        },
-        {
-          "number": 2,
-          "name": "Shadow Talk",
-          "duration": "2:59"
-        },
-        {
-          "number": 3,
-          "name": "Cult",
-          "duration": "3:07"
-        },
-        {
-          "number": 4,
-          "name": "The Screams",
-          "duration": "3:14"
-        },
-        {
-          "number": 5,
-          "name": "Worship",
-          "duration": "3:10"
-        },
-        {
-          "number": 6,
-          "name": "Shallow",
-          "duration": "3:29"
-        },
-        {
-          "number": 7,
-          "name": "Omen",
-          "duration": "3:21"
-        },
-        {
-          "number": 8,
-          "name": "Wasted",
-          "duration": "2:42"
-        },
-        {
-          "number": 9,
-          "name": "Crave",
-          "duration": "3:13"
-        },
-        {
-          "number": 10,
-          "name": "Reasons",
-          "duration": "3:37"
-        },
-        {
-          "number": 11,
-          "name": "Ophelia",
-          "duration": "4:20"
-        }
-      ]
-    },
-    {
       "name": "NIGHTS AFTER VAMP",
       "year": "2026",
       "release_date": "2026-03-13",
@@ -154,6 +91,69 @@
         {
           "number": 17,
           "name": "OPHELIA",
+          "duration": "4:20"
+        }
+      ]
+    },
+    {
+      "name": "Vamp",
+      "year": "2025",
+      "release_date": "2025-04-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/4d/d4/d34dd4d9-a58b-9861-fa1c-64b9158ce54d/0045778809066.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pain",
+          "duration": "3:29"
+        },
+        {
+          "number": 2,
+          "name": "Shadow Talk",
+          "duration": "2:59"
+        },
+        {
+          "number": 3,
+          "name": "Cult",
+          "duration": "3:07"
+        },
+        {
+          "number": 4,
+          "name": "The Screams",
+          "duration": "3:14"
+        },
+        {
+          "number": 5,
+          "name": "Worship",
+          "duration": "3:10"
+        },
+        {
+          "number": 6,
+          "name": "Shallow",
+          "duration": "3:29"
+        },
+        {
+          "number": 7,
+          "name": "Omen",
+          "duration": "3:21"
+        },
+        {
+          "number": 8,
+          "name": "Wasted",
+          "duration": "2:42"
+        },
+        {
+          "number": 9,
+          "name": "Crave",
+          "duration": "3:13"
+        },
+        {
+          "number": 10,
+          "name": "Reasons",
+          "duration": "3:37"
+        },
+        {
+          "number": 11,
+          "name": "Ophelia",
           "duration": "4:20"
         }
       ]
@@ -478,19 +478,6 @@
   ],
   "singles": [
     {
-      "name": "CHASING SHADOWS",
-      "year": "2025",
-      "release_date": "2025-11-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/fc/95/4ffc951c-9fcc-7cb3-b309-5c5d4515b143/0045778812387.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CHASING SHADOWS",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
       "name": "Shallow",
       "year": "2024",
       "release_date": "2024-06-26",
@@ -500,6 +487,19 @@
           "number": 1,
           "name": "Shallow",
           "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "CHASING SHADOWS",
+      "year": "2025",
+      "release_date": "2025-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/fc/95/4ffc951c-9fcc-7cb3-b309-5c5d4515b143/0045778812387.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CHASING SHADOWS",
+          "duration": "3:42"
         }
       ]
     },
@@ -660,19 +660,6 @@
       ]
     },
     {
-      "name": "Oblivion Eyes",
-      "year": "2024",
-      "release_date": "2024-10-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/25/e1/9925e165-e6f5-2287-a2ba-1a9c2d716131/0045778809035.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Oblivion Eyes",
-          "duration": "3:32"
-        }
-      ]
-    },
-    {
       "name": "Tokyo (feat. Christo Bowman)",
       "year": "2022",
       "release_date": "2022-04-13",
@@ -734,6 +721,19 @@
           "number": 1,
           "name": "Deja Vu",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Oblivion Eyes",
+      "year": "2024",
+      "release_date": "2024-10-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/25/e1/9925e165-e6f5-2287-a2ba-1a9c2d716131/0045778809035.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Oblivion Eyes",
+          "duration": "3:32"
         }
       ]
     },

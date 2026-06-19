@@ -3,6 +3,44 @@
   "id": 1441800527,
   "albums": [
     {
+      "name": "Calm Black Water",
+      "year": "2018",
+      "release_date": "2018-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/22/0d/4b/220d4be3-4791-92cf-243d-aa748c78b749/0885014988892.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Iceberg",
+          "duration": "7:45"
+        },
+        {
+          "number": 2,
+          "name": "Mirrored Mirage",
+          "duration": "6:29"
+        },
+        {
+          "number": 3,
+          "name": "Quantum Being",
+          "duration": "7:13"
+        },
+        {
+          "number": 4,
+          "name": "High Tide",
+          "duration": "6:52"
+        },
+        {
+          "number": 5,
+          "name": "Bottom Feeder",
+          "duration": "6:09"
+        },
+        {
+          "number": 6,
+          "name": "Sunken",
+          "duration": "6:09"
+        }
+      ]
+    },
+    {
       "name": "Let It Burn",
       "year": "2017",
       "release_date": "2017-02-21",
@@ -57,44 +95,6 @@
           "number": 10,
           "name": "Astral Sage",
           "duration": "4:40"
-        }
-      ]
-    },
-    {
-      "name": "Calm Black Water",
-      "year": "2018",
-      "release_date": "2018-10-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/22/0d/4b/220d4be3-4791-92cf-243d-aa748c78b749/0885014988892.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Iceberg",
-          "duration": "7:45"
-        },
-        {
-          "number": 2,
-          "name": "Mirrored Mirage",
-          "duration": "6:29"
-        },
-        {
-          "number": 3,
-          "name": "Quantum Being",
-          "duration": "7:13"
-        },
-        {
-          "number": 4,
-          "name": "High Tide",
-          "duration": "6:52"
-        },
-        {
-          "number": 5,
-          "name": "Bottom Feeder",
-          "duration": "6:09"
-        },
-        {
-          "number": 6,
-          "name": "Sunken",
-          "duration": "6:09"
         }
       ]
     },
@@ -162,6 +162,49 @@
       ]
     },
     {
+      "name": "Silent Future",
+      "year": "2023",
+      "release_date": "2023-08-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/44/8a/3e/448a3eea-63a3-47b8-20d7-9b1b50566af0/760137127468.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Born into Catatonia",
+          "duration": "2:07"
+        },
+        {
+          "number": 2,
+          "name": "Unknown Ancestor",
+          "duration": "6:03"
+        },
+        {
+          "number": 3,
+          "name": "The Cultigen",
+          "duration": "3:17"
+        },
+        {
+          "number": 4,
+          "name": "Hypersurreal",
+          "duration": "4:50"
+        },
+        {
+          "number": 5,
+          "name": "Clusters",
+          "duration": "2:10"
+        },
+        {
+          "number": 6,
+          "name": "Morphing",
+          "duration": "6:55"
+        },
+        {
+          "number": 7,
+          "name": "Obliterating Mists",
+          "duration": "6:40"
+        }
+      ]
+    },
+    {
       "name": "Cycles in the Infinite Dream",
       "year": "2026",
       "release_date": "2026-07-24",
@@ -211,49 +254,6 @@
           "number": 9,
           "name": "Terra Preta",
           "duration": "7:30"
-        }
-      ]
-    },
-    {
-      "name": "Silent Future",
-      "year": "2023",
-      "release_date": "2023-08-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/44/8a/3e/448a3eea-63a3-47b8-20d7-9b1b50566af0/760137127468.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Born into Catatonia",
-          "duration": "2:07"
-        },
-        {
-          "number": 2,
-          "name": "Unknown Ancestor",
-          "duration": "6:03"
-        },
-        {
-          "number": 3,
-          "name": "The Cultigen",
-          "duration": "3:17"
-        },
-        {
-          "number": 4,
-          "name": "Hypersurreal",
-          "duration": "4:50"
-        },
-        {
-          "number": 5,
-          "name": "Clusters",
-          "duration": "2:10"
-        },
-        {
-          "number": 6,
-          "name": "Morphing",
-          "duration": "6:55"
-        },
-        {
-          "number": 7,
-          "name": "Obliterating Mists",
-          "duration": "6:40"
         }
       ]
     },

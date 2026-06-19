@@ -109,6 +109,29 @@
       ]
     },
     {
+      "name": "AURA of GLORY",
+      "year": "2025",
+      "release_date": "2025-01-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/e4/49/7ae4498f-b29c-1da8-c87d-e85b34b5f5f2/0197342954334.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "AURA of GLORY",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "AURA of GLORY (Slowed)",
+          "duration": "4:30"
+        },
+        {
+          "number": 3,
+          "name": "AURA of GLORY (Super Slowed)",
+          "duration": "5:40"
+        }
+      ]
+    },
+    {
       "name": "JESUS",
       "year": "2024",
       "release_date": "2024-07-05",
@@ -460,29 +483,6 @@
       ]
     },
     {
-      "name": "AURA of GLORY",
-      "year": "2025",
-      "release_date": "2025-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/e4/49/7ae4498f-b29c-1da8-c87d-e85b34b5f5f2/0197342954334.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "AURA of GLORY",
-          "duration": "4:00"
-        },
-        {
-          "number": 2,
-          "name": "AURA of GLORY (Slowed)",
-          "duration": "4:30"
-        },
-        {
-          "number": 3,
-          "name": "AURA of GLORY (Super Slowed)",
-          "duration": "5:40"
-        }
-      ]
-    },
-    {
       "name": "SOMBRA (Ethan Ross Remix) [Remix]",
       "year": "2025",
       "release_date": "2025-12-29",
@@ -725,29 +725,6 @@
       ]
     },
     {
-      "name": "RUA FALA",
-      "year": "2026",
-      "release_date": "2026-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/d7/31/79d731e9-69a2-ab38-229f-2ba65db2724f/322962.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "RUA FALA",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "RUA FALA (Slowed)",
-          "duration": "1:38"
-        },
-        {
-          "number": 3,
-          "name": "RUA FALA (Super Slowed)",
-          "duration": "1:50"
-        }
-      ]
-    },
-    {
       "name": "REDLINE",
       "year": "2025",
       "release_date": "2025-08-01",
@@ -767,6 +744,29 @@
           "number": 3,
           "name": "REDLINE (Slowed)",
           "duration": "2:43"
+        }
+      ]
+    },
+    {
+      "name": "RUA FALA",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/d7/31/79d731e9-69a2-ab38-229f-2ba65db2724f/322962.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "RUA FALA",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "RUA FALA (Slowed)",
+          "duration": "1:38"
+        },
+        {
+          "number": 3,
+          "name": "RUA FALA (Super Slowed)",
+          "duration": "1:50"
         }
       ]
     },
@@ -968,19 +968,6 @@
       ]
     },
     {
-      "name": "KUALA UNIVERSO",
-      "year": "2025",
-      "release_date": "2025-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/3f/6d/883f6d5b-9023-c47c-8caa-8212abba0aeb/2_001_Ogryzek-KUALA_UNIVERSO.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "KUALA UNIVERSO",
-          "duration": "1:40"
-        }
-      ]
-    },
-    {
       "name": "AURA FUNK (Ultra Slowed) [feat. Ogryzek]",
       "year": "2025",
       "release_date": "2025-07-31",
@@ -990,6 +977,19 @@
           "number": 1,
           "name": "AURA FUNK (Ultra Slowed) [feat. Ogryzek]",
           "duration": "2:33"
+        }
+      ]
+    },
+    {
+      "name": "KUALA UNIVERSO",
+      "year": "2025",
+      "release_date": "2025-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/3f/6d/883f6d5b-9023-c47c-8caa-8212abba0aeb/2_001_Ogryzek-KUALA_UNIVERSO.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "KUALA UNIVERSO",
+          "duration": "1:40"
         }
       ]
     },
@@ -1039,6 +1039,24 @@
           "number": 1,
           "name": "Braziliano",
           "duration": "1:42"
+        }
+      ]
+    },
+    {
+      "name": "she goes by. (remix)",
+      "year": "2026",
+      "release_date": "2026-06-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/e6/76/68e676a5-af45-f57e-b1d5-cf95f5a4ed00/075679570468.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "she goes by. (remix)",
+          "duration": "2:28"
+        },
+        {
+          "number": 2,
+          "name": "she goes by. (ultra.slow)",
+          "duration": "3:07"
         }
       ]
     },
@@ -1962,34 +1980,6 @@
       ]
     },
     {
-      "name": "IF YOU GO AWAY",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/c8/88/3fc88818-d03e-e090-dc71-ade3d3ca8a91/0001127251788.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "IF YOU GO AWAY",
-          "duration": "2:26"
-        },
-        {
-          "number": 2,
-          "name": "IF YOU GO AWAY (Slowed)",
-          "duration": "2:44"
-        },
-        {
-          "number": 3,
-          "name": "IF YOU GO AWAY (Sped Up)",
-          "duration": "2:10"
-        },
-        {
-          "number": 4,
-          "name": "IF YOU GO AWAY (Super Sped Up)",
-          "duration": "1:56"
-        }
-      ]
-    },
-    {
       "name": "PARADOX",
       "year": "2025",
       "release_date": "2025-07-10",
@@ -2014,6 +2004,34 @@
           "number": 4,
           "name": "PARADOX (Speed Up)",
           "duration": "1:23"
+        }
+      ]
+    },
+    {
+      "name": "IF YOU GO AWAY",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/c8/88/3fc88818-d03e-e090-dc71-ade3d3ca8a91/0001127251788.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "IF YOU GO AWAY",
+          "duration": "2:26"
+        },
+        {
+          "number": 2,
+          "name": "IF YOU GO AWAY (Slowed)",
+          "duration": "2:44"
+        },
+        {
+          "number": 3,
+          "name": "IF YOU GO AWAY (Sped Up)",
+          "duration": "2:10"
+        },
+        {
+          "number": 4,
+          "name": "IF YOU GO AWAY (Super Sped Up)",
+          "duration": "1:56"
         }
       ]
     },

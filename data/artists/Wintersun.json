@@ -3,6 +3,54 @@
   "id": 20101717,
   "albums": [
     {
+      "name": "Wintersun",
+      "year": "2004",
+      "release_date": "2004-09-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/5d/1b/665d1b7e-4ab6-86e1-a853-10666cfb8395/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Beyond the Dark Sun",
+          "duration": "2:38"
+        },
+        {
+          "number": 2,
+          "name": "Winter Madness",
+          "duration": "5:08"
+        },
+        {
+          "number": 3,
+          "name": "Sleeping Stars",
+          "duration": "5:41"
+        },
+        {
+          "number": 4,
+          "name": "Battle Against Time",
+          "duration": "7:03"
+        },
+        {
+          "number": 5,
+          "name": "Death and the Healing",
+          "duration": "7:12"
+        },
+        {
+          "number": 6,
+          "name": "Starchild",
+          "duration": "7:54"
+        },
+        {
+          "number": 7,
+          "name": "Beautiful Death",
+          "duration": "8:16"
+        },
+        {
+          "number": 8,
+          "name": "Sadness and Hate",
+          "duration": "10:16"
+        }
+      ]
+    },
+    {
       "name": "Time II",
       "year": "2024",
       "release_date": "2024-08-30",
@@ -70,54 +118,6 @@
           "number": 5,
           "name": "Time",
           "duration": "11:44"
-        }
-      ]
-    },
-    {
-      "name": "Wintersun",
-      "year": "2004",
-      "release_date": "2004-09-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/66/5d/1b/665d1b7e-4ab6-86e1-a853-10666cfb8395/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Beyond the Dark Sun",
-          "duration": "2:38"
-        },
-        {
-          "number": 2,
-          "name": "Winter Madness",
-          "duration": "5:08"
-        },
-        {
-          "number": 3,
-          "name": "Sleeping Stars",
-          "duration": "5:41"
-        },
-        {
-          "number": 4,
-          "name": "Battle Against Time",
-          "duration": "7:03"
-        },
-        {
-          "number": 5,
-          "name": "Death and the Healing",
-          "duration": "7:12"
-        },
-        {
-          "number": 6,
-          "name": "Starchild",
-          "duration": "7:54"
-        },
-        {
-          "number": 7,
-          "name": "Beautiful Death",
-          "duration": "8:16"
-        },
-        {
-          "number": 8,
-          "name": "Sadness and Hate",
-          "duration": "10:16"
         }
       ]
     },

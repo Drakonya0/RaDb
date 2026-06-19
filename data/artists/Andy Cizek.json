@@ -4,6 +4,42 @@
   "albums": [],
   "singles": [
     {
+      "name": "Parasocial",
+      "year": "2023",
+      "release_date": "2023-01-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e8/63/bb/e863bb93-49fc-1327-b90b-d7157cc2a3a8/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Parasocial (feat. Phil Bozeman & Joshua Travis)",
+          "duration": "3:04"
+        },
+        {
+          "number": 2,
+          "name": "Take Flight",
+          "duration": "4:22"
+        },
+        {
+          "number": 3,
+          "name": "Translucent",
+          "duration": "3:59"
+        }
+      ]
+    },
+    {
+      "name": "Lie To Me",
+      "year": "2024",
+      "release_date": "2024-09-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/80/f1/8580f158-90ba-8c35-2f88-037a3d69976b/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lie To Me",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
       "name": "Take Flight",
       "year": "2022",
       "release_date": "2022-09-21",
@@ -29,29 +65,6 @@
       "tracks": [
         {
           "number": 1,
-          "name": "Translucent",
-          "duration": "3:59"
-        }
-      ]
-    },
-    {
-      "name": "Parasocial",
-      "year": "2023",
-      "release_date": "2023-01-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e8/63/bb/e863bb93-49fc-1327-b90b-d7157cc2a3a8/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Parasocial (feat. Phil Bozeman & Joshua Travis)",
-          "duration": "3:04"
-        },
-        {
-          "number": 2,
-          "name": "Take Flight",
-          "duration": "4:22"
-        },
-        {
-          "number": 3,
           "name": "Translucent",
           "duration": "3:59"
         }
@@ -158,19 +171,6 @@
           "number": 1,
           "name": "Spiraling",
           "duration": "3:15"
-        }
-      ]
-    },
-    {
-      "name": "Lie To Me",
-      "year": "2024",
-      "release_date": "2024-09-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/80/f1/8580f158-90ba-8c35-2f88-037a3d69976b/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lie To Me",
-          "duration": "3:29"
         }
       ]
     },
@@ -783,19 +783,6 @@
       ]
     },
     {
-      "name": "Sonder Eyes (feat. Andy Cizek)",
-      "year": "2020",
-      "release_date": "2020-09-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/8e/fc/b78efc89-5def-70f7-08b8-941a81d39230/195448224412.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sonder Eyes (feat. Andy Cizek)",
-          "duration": "3:54"
-        }
-      ]
-    },
-    {
       "name": "On My Teeth",
       "year": "2018",
       "release_date": "2018-02-25",
@@ -805,6 +792,19 @@
           "number": 1,
           "name": "On My Teeth",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Sonder Eyes (feat. Andy Cizek)",
+      "year": "2020",
+      "release_date": "2020-09-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b7/8e/fc/b78efc89-5def-70f7-08b8-941a81d39230/195448224412.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sonder Eyes (feat. Andy Cizek)",
+          "duration": "3:54"
         }
       ]
     },

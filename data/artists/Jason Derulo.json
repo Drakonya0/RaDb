@@ -3,127 +3,6 @@
   "id": 259118085,
   "albums": [
     {
-      "name": "Talk Dirty",
-      "year": "2014",
-      "release_date": "2014-04-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/28/6f/7d/286f7df6-9da7-bdf5-5a66-b31f15583185/093624938699.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Talk Dirty (feat. 2 Chainz)",
-          "duration": "2:57"
-        },
-        {
-          "number": 2,
-          "name": "Wiggle (feat. Snoop Dogg)",
-          "duration": "3:13"
-        },
-        {
-          "number": 3,
-          "name": "Trumpets",
-          "duration": "3:37"
-        },
-        {
-          "number": 4,
-          "name": "Bubblegum (feat. Tyga)",
-          "duration": "3:25"
-        },
-        {
-          "number": 5,
-          "name": "Vertigo (feat. Jordin Sparks)",
-          "duration": "3:53"
-        },
-        {
-          "number": 6,
-          "name": "Kama Sutra (feat. Kid Ink)",
-          "duration": "3:36"
-        },
-        {
-          "number": 7,
-          "name": "Zipper",
-          "duration": "2:57"
-        },
-        {
-          "number": 8,
-          "name": "The Other Side",
-          "duration": "3:46"
-        },
-        {
-          "number": 9,
-          "name": "With the Lights On",
-          "duration": "3:11"
-        },
-        {
-          "number": 10,
-          "name": "Stupid Love",
-          "duration": "3:34"
-        },
-        {
-          "number": 11,
-          "name": "Marry Me",
-          "duration": "3:45"
-        }
-      ]
-    },
-    {
-      "name": "Jason Derulo",
-      "year": "2010",
-      "release_date": "2010-02-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2a/e1/fc/2ae1fc34-a98d-20bf-33ed-71e321773b0a/dj.lykipmdm.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Whatcha Say",
-          "duration": "3:41"
-        },
-        {
-          "number": 2,
-          "name": "Ridin' Solo",
-          "duration": "3:35"
-        },
-        {
-          "number": 3,
-          "name": "In My Head",
-          "duration": "3:18"
-        },
-        {
-          "number": 4,
-          "name": "The Sky's the Limit",
-          "duration": "3:42"
-        },
-        {
-          "number": 5,
-          "name": "What If",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "Love Hangover",
-          "duration": "3:19"
-        },
-        {
-          "number": 7,
-          "name": "Encore",
-          "duration": "3:43"
-        },
-        {
-          "number": 8,
-          "name": "Fallen",
-          "duration": "3:15"
-        },
-        {
-          "number": 9,
-          "name": "Blind",
-          "duration": "3:35"
-        },
-        {
-          "number": 10,
-          "name": "Queen of Hearts",
-          "duration": "2:57"
-        }
-      ]
-    },
-    {
       "name": "Everything Is 4",
       "year": "2015",
       "release_date": "2015-05-29",
@@ -265,6 +144,278 @@
       ]
     },
     {
+      "name": "Talk Dirty",
+      "year": "2014",
+      "release_date": "2014-04-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/a3/2a/b4a32ac1-52a1-5523-68ee-9847d23e6795/093624938651.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Talk Dirty (feat. 2 Chainz)",
+          "duration": "2:57"
+        },
+        {
+          "number": 2,
+          "name": "Wiggle (feat. Snoop Dogg)",
+          "duration": "3:13"
+        },
+        {
+          "number": 3,
+          "name": "Trumpets",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "Bubblegum (feat. Tyga)",
+          "duration": "3:25"
+        },
+        {
+          "number": 5,
+          "name": "Vertigo (feat. Jordin Sparks)",
+          "duration": "3:53"
+        },
+        {
+          "number": 6,
+          "name": "Kama Sutra (feat. Kid Ink)",
+          "duration": "3:36"
+        },
+        {
+          "number": 7,
+          "name": "Zipper",
+          "duration": "2:57"
+        },
+        {
+          "number": 8,
+          "name": "The Other Side",
+          "duration": "3:46"
+        },
+        {
+          "number": 9,
+          "name": "With the Lights On",
+          "duration": "3:11"
+        },
+        {
+          "number": 10,
+          "name": "Stupid Love",
+          "duration": "3:34"
+        },
+        {
+          "number": 11,
+          "name": "Marry Me",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "Talk Dirty",
+      "year": "2014",
+      "release_date": "2014-04-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/28/6f/7d/286f7df6-9da7-bdf5-5a66-b31f15583185/093624938699.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Talk Dirty (feat. 2 Chainz)",
+          "duration": "2:57"
+        },
+        {
+          "number": 2,
+          "name": "Wiggle (feat. Snoop Dogg)",
+          "duration": "3:13"
+        },
+        {
+          "number": 3,
+          "name": "Trumpets",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "Bubblegum (feat. Tyga)",
+          "duration": "3:25"
+        },
+        {
+          "number": 5,
+          "name": "Vertigo (feat. Jordin Sparks)",
+          "duration": "3:53"
+        },
+        {
+          "number": 6,
+          "name": "Kama Sutra (feat. Kid Ink)",
+          "duration": "3:36"
+        },
+        {
+          "number": 7,
+          "name": "Zipper",
+          "duration": "2:57"
+        },
+        {
+          "number": 8,
+          "name": "The Other Side",
+          "duration": "3:46"
+        },
+        {
+          "number": 9,
+          "name": "With the Lights On",
+          "duration": "3:11"
+        },
+        {
+          "number": 10,
+          "name": "Stupid Love",
+          "duration": "3:34"
+        },
+        {
+          "number": 11,
+          "name": "Marry Me",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "Jason Derulo",
+      "year": "2010",
+      "release_date": "2010-02-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/2a/e1/fc/2ae1fc34-a98d-20bf-33ed-71e321773b0a/dj.lykipmdm.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Whatcha Say",
+          "duration": "3:41"
+        },
+        {
+          "number": 2,
+          "name": "Ridin' Solo",
+          "duration": "3:35"
+        },
+        {
+          "number": 3,
+          "name": "In My Head",
+          "duration": "3:18"
+        },
+        {
+          "number": 4,
+          "name": "The Sky's the Limit",
+          "duration": "3:42"
+        },
+        {
+          "number": 5,
+          "name": "What If",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "Love Hangover",
+          "duration": "3:19"
+        },
+        {
+          "number": 7,
+          "name": "Encore",
+          "duration": "3:43"
+        },
+        {
+          "number": 8,
+          "name": "Fallen",
+          "duration": "3:15"
+        },
+        {
+          "number": 9,
+          "name": "Blind",
+          "duration": "3:35"
+        },
+        {
+          "number": 10,
+          "name": "Queen of Hearts",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "Future History (Deluxe Version)",
+      "year": "2011",
+      "release_date": "2011-09-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/69/b1/c8/69b1c8a8-4d54-c597-08f1-deef739e2ac8/mzi.dqzuaxci.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Don't Wanna Go Home",
+          "duration": "3:26"
+        },
+        {
+          "number": 2,
+          "name": "It Girl",
+          "duration": "3:12"
+        },
+        {
+          "number": 3,
+          "name": "Breathing",
+          "duration": "3:54"
+        },
+        {
+          "number": 4,
+          "name": "Be Careful",
+          "duration": "3:34"
+        },
+        {
+          "number": 5,
+          "name": "Make It Up As We Go",
+          "duration": "3:10"
+        },
+        {
+          "number": 6,
+          "name": "Fight for You",
+          "duration": "4:02"
+        },
+        {
+          "number": 7,
+          "name": "Pick Up the Pieces",
+          "duration": "3:34"
+        },
+        {
+          "number": 8,
+          "name": "Givin' Up",
+          "duration": "3:50"
+        },
+        {
+          "number": 9,
+          "name": "Bleed Out",
+          "duration": "4:08"
+        },
+        {
+          "number": 10,
+          "name": "That's My Shhh",
+          "duration": "4:21"
+        },
+        {
+          "number": 11,
+          "name": "X",
+          "duration": "3:31"
+        },
+        {
+          "number": 12,
+          "name": "Dumb",
+          "duration": "3:50"
+        },
+        {
+          "number": 13,
+          "name": "Overdose (Bonus Track)",
+          "duration": "3:19"
+        },
+        {
+          "number": 14,
+          "name": "Give It to Me (Bonus Track)",
+          "duration": "3:24"
+        },
+        {
+          "number": 15,
+          "name": "Don't Wanna Go Home",
+          "duration": "3:57"
+        },
+        {
+          "number": 16,
+          "name": "It Girl",
+          "duration": "3:13"
+        }
+      ]
+    },
+    {
       "name": "Future History",
       "year": "2011",
       "release_date": "2011-09-16",
@@ -329,69 +480,6 @@
           "number": 12,
           "name": "Dumb",
           "duration": "3:50"
-        }
-      ]
-    },
-    {
-      "name": "Talk Dirty",
-      "year": "2014",
-      "release_date": "2014-04-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b4/a3/2a/b4a32ac1-52a1-5523-68ee-9847d23e6795/093624938651.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Talk Dirty (feat. 2 Chainz)",
-          "duration": "2:57"
-        },
-        {
-          "number": 2,
-          "name": "Wiggle (feat. Snoop Dogg)",
-          "duration": "3:13"
-        },
-        {
-          "number": 3,
-          "name": "Trumpets",
-          "duration": "3:37"
-        },
-        {
-          "number": 4,
-          "name": "Bubblegum (feat. Tyga)",
-          "duration": "3:25"
-        },
-        {
-          "number": 5,
-          "name": "Vertigo (feat. Jordin Sparks)",
-          "duration": "3:53"
-        },
-        {
-          "number": 6,
-          "name": "Kama Sutra (feat. Kid Ink)",
-          "duration": "3:36"
-        },
-        {
-          "number": 7,
-          "name": "Zipper",
-          "duration": "2:57"
-        },
-        {
-          "number": 8,
-          "name": "The Other Side",
-          "duration": "3:46"
-        },
-        {
-          "number": 9,
-          "name": "With the Lights On",
-          "duration": "3:11"
-        },
-        {
-          "number": 10,
-          "name": "Stupid Love",
-          "duration": "3:34"
-        },
-        {
-          "number": 11,
-          "name": "Marry Me",
-          "duration": "3:45"
         }
       ]
     },
@@ -523,94 +611,6 @@
           "number": 12,
           "name": "Kiss the Sky",
           "duration": "3:42"
-        }
-      ]
-    },
-    {
-      "name": "Future History (Deluxe Version)",
-      "year": "2011",
-      "release_date": "2011-09-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/69/b1/c8/69b1c8a8-4d54-c597-08f1-deef739e2ac8/mzi.dqzuaxci.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Don't Wanna Go Home",
-          "duration": "3:26"
-        },
-        {
-          "number": 2,
-          "name": "It Girl",
-          "duration": "3:12"
-        },
-        {
-          "number": 3,
-          "name": "Breathing",
-          "duration": "3:54"
-        },
-        {
-          "number": 4,
-          "name": "Be Careful",
-          "duration": "3:34"
-        },
-        {
-          "number": 5,
-          "name": "Make It Up As We Go",
-          "duration": "3:10"
-        },
-        {
-          "number": 6,
-          "name": "Fight for You",
-          "duration": "4:02"
-        },
-        {
-          "number": 7,
-          "name": "Pick Up the Pieces",
-          "duration": "3:34"
-        },
-        {
-          "number": 8,
-          "name": "Givin' Up",
-          "duration": "3:50"
-        },
-        {
-          "number": 9,
-          "name": "Bleed Out",
-          "duration": "4:08"
-        },
-        {
-          "number": 10,
-          "name": "That's My Shhh",
-          "duration": "4:21"
-        },
-        {
-          "number": 11,
-          "name": "X",
-          "duration": "3:31"
-        },
-        {
-          "number": 12,
-          "name": "Dumb",
-          "duration": "3:50"
-        },
-        {
-          "number": 13,
-          "name": "Overdose (Bonus Track)",
-          "duration": "3:19"
-        },
-        {
-          "number": 14,
-          "name": "Give It to Me (Bonus Track)",
-          "duration": "3:24"
-        },
-        {
-          "number": 15,
-          "name": "Don't Wanna Go Home",
-          "duration": "3:57"
-        },
-        {
-          "number": 16,
-          "name": "It Girl",
-          "duration": "3:13"
         }
       ]
     },
@@ -751,80 +751,50 @@
       ]
     },
     {
-      "name": "Jason Derulo (10th Anniversary Deluxe)",
-      "year": "2020",
-      "release_date": "2020-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a6/48/21/a64821e3-aae9-d69e-afea-2241a6148af9/093624889113.jpg/600x600bb.jpg",
+      "name": "The Last Dance (Part 1)",
+      "year": "2026",
+      "release_date": "2026-01-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/64/ed/b364edab-0029-99c5-756c-ea5a3f3c9705/663918799628.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Whatcha Say",
-          "duration": "3:41"
+          "name": "Sexy For Me",
+          "duration": "2:08"
         },
         {
           "number": 2,
-          "name": "Ridin' Solo",
-          "duration": "3:35"
+          "name": "Complicated",
+          "duration": "2:48"
         },
         {
           "number": 3,
-          "name": "In My Head",
-          "duration": "3:18"
+          "name": "Deep Love",
+          "duration": "2:26"
         },
         {
           "number": 4,
-          "name": "The Sky's the Limit",
-          "duration": "3:42"
+          "name": "Pineapple",
+          "duration": "2:51"
         },
         {
           "number": 5,
-          "name": "What If",
-          "duration": "3:23"
+          "name": "Who Hurt You",
+          "duration": "2:35"
         },
         {
           "number": 6,
-          "name": "Love Hangover",
-          "duration": "3:19"
+          "name": "You DJ, I'll Drive",
+          "duration": "3:03"
         },
         {
           "number": 7,
-          "name": "Encore",
-          "duration": "3:43"
+          "name": "Dial Tones",
+          "duration": "3:17"
         },
         {
           "number": 8,
-          "name": "Fallen",
-          "duration": "3:15"
-        },
-        {
-          "number": 9,
-          "name": "Blind",
-          "duration": "3:35"
-        },
-        {
-          "number": 10,
-          "name": "Queen of Hearts",
-          "duration": "2:57"
-        },
-        {
-          "number": 11,
-          "name": "Whatcha Say (Acoustic)",
-          "duration": "3:42"
-        },
-        {
-          "number": 12,
-          "name": "In My Head (Rhythm Remix)",
-          "duration": "3:18"
-        },
-        {
-          "number": 13,
-          "name": "Whatcha Say (Johnny Vicious Remix)",
-          "duration": "7:32"
-        },
-        {
-          "number": 14,
-          "name": "Ridin' Solo (Justin Michael and Kemal Remix)",
-          "duration": "6:17"
+          "name": "DELETE",
+          "duration": "2:31"
         }
       ]
     },
@@ -972,50 +942,80 @@
       ]
     },
     {
-      "name": "The Last Dance (Part 1)",
-      "year": "2026",
-      "release_date": "2026-01-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/64/ed/b364edab-0029-99c5-756c-ea5a3f3c9705/663918799628.jpg/600x600bb.jpg",
+      "name": "Jason Derulo (10th Anniversary Deluxe)",
+      "year": "2020",
+      "release_date": "2020-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a6/48/21/a64821e3-aae9-d69e-afea-2241a6148af9/093624889113.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Sexy For Me",
-          "duration": "2:08"
+          "name": "Whatcha Say",
+          "duration": "3:41"
         },
         {
           "number": 2,
-          "name": "Complicated",
-          "duration": "2:48"
+          "name": "Ridin' Solo",
+          "duration": "3:35"
         },
         {
           "number": 3,
-          "name": "Deep Love",
-          "duration": "2:26"
+          "name": "In My Head",
+          "duration": "3:18"
         },
         {
           "number": 4,
-          "name": "Pineapple",
-          "duration": "2:51"
+          "name": "The Sky's the Limit",
+          "duration": "3:42"
         },
         {
           "number": 5,
-          "name": "Who Hurt You",
-          "duration": "2:35"
+          "name": "What If",
+          "duration": "3:23"
         },
         {
           "number": 6,
-          "name": "You DJ, I'll Drive",
-          "duration": "3:03"
+          "name": "Love Hangover",
+          "duration": "3:19"
         },
         {
           "number": 7,
-          "name": "Dial Tones",
-          "duration": "3:17"
+          "name": "Encore",
+          "duration": "3:43"
         },
         {
           "number": 8,
-          "name": "DELETE",
-          "duration": "2:31"
+          "name": "Fallen",
+          "duration": "3:15"
+        },
+        {
+          "number": 9,
+          "name": "Blind",
+          "duration": "3:35"
+        },
+        {
+          "number": 10,
+          "name": "Queen of Hearts",
+          "duration": "2:57"
+        },
+        {
+          "number": 11,
+          "name": "Whatcha Say (Acoustic)",
+          "duration": "3:42"
+        },
+        {
+          "number": 12,
+          "name": "In My Head (Rhythm Remix)",
+          "duration": "3:18"
+        },
+        {
+          "number": 13,
+          "name": "Whatcha Say (Johnny Vicious Remix)",
+          "duration": "7:32"
+        },
+        {
+          "number": 14,
+          "name": "Ridin' Solo (Justin Michael and Kemal Remix)",
+          "duration": "6:17"
         }
       ]
     },
@@ -1352,32 +1352,6 @@
       ]
     },
     {
-      "name": "If It Ain't Love",
-      "year": "2016",
-      "release_date": "2016-04-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/ca/14/82/ca1482a9-7d8f-fda7-e8da-2cbd0a9695b9/054391963178.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "If It Ain't Love",
-          "duration": "3:23"
-        }
-      ]
-    },
-    {
-      "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
-      "year": "2017",
-      "release_date": "2017-02-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e7/ba/ad/e7baad6e-ac8f-dd13-5024-3b53c1bd73bd/054391958983.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
       "name": "Savage Love (Laxed - Siren Beat)",
       "year": "2020",
       "release_date": "2020-06-11",
@@ -1387,110 +1361,6 @@
           "number": 1,
           "name": "Savage Love (Laxed - Siren Beat)",
           "duration": "2:51"
-        }
-      ]
-    },
-    {
-      "name": "Savage Love (Laxed - Siren Beat)",
-      "year": "2020",
-      "release_date": "2020-06-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/91/0a/1a910a77-abae-e390-5eb1-6965476f667b/886448561804.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Savage Love (Laxed - Siren Beat)",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
-      "name": "Tip Toe (feat. French Montana)",
-      "year": "2017",
-      "release_date": "2017-11-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/01/b0/4f/01b04fd1-f323-9c75-f0a5-35a7df8c3982/054391953711.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tip Toe (feat. French Montana)",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
-      "name": "Goodbye (feat. Nicki Minaj & Willy William)",
-      "year": "2018",
-      "release_date": "2018-08-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d1/03/1e/d1031eed-f893-16b1-c5f1-7c5c7d93e497/054391948335.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Goodbye (feat. Nicki Minaj & Willy William)",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
-      "name": "Acapulco",
-      "year": "2021",
-      "release_date": "2021-09-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/b5/8e/54b58e6d-21c7-3d22-8e82-1276fa8f5ef5/075679777607.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Acapulco",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
-      "name": "Jalebi Baby",
-      "year": "2021",
-      "release_date": "2021-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9c/38/ad/9c38ada4-0688-b9c6-9673-ee9b3ab5ce0a/21UMGIM41755.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Jalebi Baby",
-          "duration": "2:49"
-        }
-      ]
-    },
-    {
-      "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign) [After Dark Remix]",
-      "year": "2017",
-      "release_date": "2017-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/79/ea/ee/79eaee94-e64e-fb71-c5b0-df6f6323e5d8/054391957603.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign) [After Dark Remix]",
-          "duration": "4:32"
-        }
-      ]
-    },
-    {
-      "name": "Undefeated",
-      "year": "2012",
-      "release_date": "2012-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/a5/7a/9aa57ae9-7897-c8f3-306b-898a46ab0df3/054391976710.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Undefeated",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "Love Not War (The Tampa Beat)",
-      "year": "2020",
-      "release_date": "2020-11-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/ad/90/2aad902b-eb7b-de5f-72e0-dab04560de39/886448888918.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Love Not War (The Tampa Beat)",
-          "duration": "3:12"
         }
       ]
     },
@@ -1521,80 +1391,54 @@
       ]
     },
     {
-      "name": "Naked",
+      "name": "If It Ain't Love",
       "year": "2016",
-      "release_date": "2016-02-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/7f/09/c4/7f09c4b2-e4bd-ea96-bbe6-1ff8e3a119cf/054391964106.jpg/600x600bb.jpg",
+      "release_date": "2016-04-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/ca/14/82/ca1482a9-7d8f-fda7-e8da-2cbd0a9695b9/054391963178.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Naked",
-          "duration": "3:24"
+          "name": "If It Ain't Love",
+          "duration": "3:23"
         }
       ]
     },
     {
-      "name": "Take You Dancing",
-      "year": "2020",
-      "release_date": "2020-07-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/4c/bf/f04cbf6a-cee0-04f8-cf03-032b63cc0377/075679808004.jpg/600x600bb.jpg",
+      "name": "Tip Toe (feat. French Montana)",
+      "year": "2017",
+      "release_date": "2017-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/01/b0/4f/01b04fd1-f323-9c75-f0a5-35a7df8c3982/054391953711.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Take You Dancing",
-          "duration": "3:10"
+          "name": "Tip Toe (feat. French Montana)",
+          "duration": "3:07"
         }
       ]
     },
     {
-      "name": "This Is How We Roll (Remix) [feat. Jason Derulo & Luke Bryan]",
-      "year": "2014",
-      "release_date": "2014-06-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/24/8f/be248f41-405f-0ffc-7a77-2fd014583c11/00602537917198.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "This Is How We Roll (Remix) [feat. Jason Derulo & Luke Bryan] [feat. Jason Derulo & Luke Bryan]",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
-      "name": "Mamacita (feat. Farruko)",
-      "year": "2019",
-      "release_date": "2019-07-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/bc/f3/d0bcf3eb-ab8d-94d4-7eab-3bb0d332fe02/054391944061.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mamacita (feat. Farruko)",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
-      "name": "Make Up (feat. Ava Max)",
+      "name": "Goodbye (feat. Nicki Minaj & Willy William)",
       "year": "2018",
-      "release_date": "2018-10-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2e/b1/b6/2eb1b62b-841b-65c8-0581-c82869c5b118/075679862983.jpg/600x600bb.jpg",
+      "release_date": "2018-08-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d1/03/1e/d1031eed-f893-16b1-c5f1-7c5c7d93e497/054391948335.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Make Up (feat. Ava Max)",
-          "duration": "2:40"
+          "name": "Goodbye (feat. Nicki Minaj & Willy William)",
+          "duration": "3:15"
         }
       ]
     },
     {
-      "name": "Hands On Me (feat. Meghan Trainor)",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/c6/17/19c61720-9043-4fc9-d716-8a68ee18ef7f/075679670328.jpg/600x600bb.jpg",
+      "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+      "year": "2017",
+      "release_date": "2017-02-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e7/ba/ad/e7baad6e-ac8f-dd13-5024-3b53c1bd73bd/054391958983.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Hands On Me (feat. Meghan Trainor)",
-          "duration": "3:03"
+          "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+          "duration": "3:36"
         }
       ]
     },
@@ -1612,15 +1456,28 @@
       ]
     },
     {
-      "name": "Talk Dirty (feat. 2 Chainz) [En Español]",
-      "year": "2014",
-      "release_date": "2014-03-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/20/6d/f0/206df0c6-1222-b21a-19e8-2c30274dae9a/054391971555.jpg/600x600bb.jpg",
+      "name": "Take You Dancing",
+      "year": "2020",
+      "release_date": "2020-07-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/4c/bf/f04cbf6a-cee0-04f8-cf03-032b63cc0377/075679808004.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Talk Dirty (feat. 2 Chainz) [En Español]",
-          "duration": "2:57"
+          "name": "Take You Dancing",
+          "duration": "3:10"
+        }
+      ]
+    },
+    {
+      "name": "Acapulco",
+      "year": "2021",
+      "release_date": "2021-09-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/b5/8e/54b58e6d-21c7-3d22-8e82-1276fa8f5ef5/075679777607.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Acapulco",
+          "duration": "2:19"
         }
       ]
     },
@@ -1634,6 +1491,149 @@
           "number": 1,
           "name": "If I'm Lucky",
           "duration": "3:32"
+        }
+      ]
+    },
+    {
+      "name": "Undefeated",
+      "year": "2012",
+      "release_date": "2012-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/a5/7a/9aa57ae9-7897-c8f3-306b-898a46ab0df3/054391976710.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Undefeated",
+          "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "Savage Love (Laxed - Siren Beat)",
+      "year": "2020",
+      "release_date": "2020-06-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1a/91/0a/1a910a77-abae-e390-5eb1-6965476f667b/886448561804.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Savage Love (Laxed - Siren Beat)",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Naked",
+      "year": "2016",
+      "release_date": "2016-02-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/7f/09/c4/7f09c4b2-e4bd-ea96-bbe6-1ff8e3a119cf/054391964106.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Naked",
+          "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "Jalebi Baby",
+      "year": "2021",
+      "release_date": "2021-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9c/38/ad/9c38ada4-0688-b9c6-9673-ee9b3ab5ce0a/21UMGIM41755.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Jalebi Baby",
+          "duration": "2:49"
+        }
+      ]
+    },
+    {
+      "name": "Love Not War (The Tampa Beat)",
+      "year": "2020",
+      "release_date": "2020-11-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2a/ad/90/2aad902b-eb7b-de5f-72e0-dab04560de39/886448888918.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Love Not War (The Tampa Beat)",
+          "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "Hands On Me (feat. Meghan Trainor)",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/c6/17/19c61720-9043-4fc9-d716-8a68ee18ef7f/075679670328.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hands On Me (feat. Meghan Trainor)",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "C**o",
+      "year": "2020",
+      "release_date": "2020-07-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5d/f4/d2/5df4d262-7bc0-adc6-0d8f-271069024b58/190295186777.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "C**o",
+          "duration": "1:51"
+        }
+      ]
+    },
+    {
+      "name": "From the Islands (kompa pasión)",
+      "year": "2024",
+      "release_date": "2024-05-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/ae/88/f8ae88eb-1ed2-9c74-ed04-a5293b875d8e/196872107203.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "From the Islands (kompa pasión)",
+          "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "name": "Talk Dirty (feat. 2 Chainz) [En Español]",
+      "year": "2014",
+      "release_date": "2014-03-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/20/6d/f0/206df0c6-1222-b21a-19e8-2c30274dae9a/054391971555.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Talk Dirty (feat. 2 Chainz) [En Español]",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign) [After Dark Remix]",
+      "year": "2017",
+      "release_date": "2017-05-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/79/ea/ee/79eaee94-e64e-fb71-c5b0-df6f6323e5d8/054391957603.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Swalla (feat. Nicki Minaj & Ty Dolla $ign) [After Dark Remix]",
+          "duration": "4:32"
+        }
+      ]
+    },
+    {
+      "name": "Don’t Cry For Me",
+      "year": "2020",
+      "release_date": "2020-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3b/45/dd/3b45ddf2-31c2-4946-b4ba-2b541732b5e7/20UMGIM50050.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Don't Cry For Me",
+          "duration": "2:35"
         }
       ]
     },
@@ -1677,6 +1677,32 @@
       ]
     },
     {
+      "name": "Too Hot",
+      "year": "2019",
+      "release_date": "2019-08-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d1/30/db/d130db3e-4d0e-5a0b-e236-7a5adf16f6f5/054391942302.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Too Hot",
+          "duration": "2:38"
+        }
+      ]
+    },
+    {
+      "name": "Tonight (D.I.Y.A)",
+      "year": "2024",
+      "release_date": "2024-06-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/fb/d0/5dfbd0d0-560f-ca3d-3a36-6e1c028513df/24UMGIM45198.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tonight (D.I.Y.A)",
+          "duration": "3:01"
+        }
+      ]
+    },
+    {
       "name": "Talk Dirty (feat. 2 Chainz) [TJR Remix]",
       "year": "2014",
       "release_date": "2014-05-02",
@@ -1686,6 +1712,32 @@
           "number": 1,
           "name": "Talk Dirty (feat. 2 Chainz) [TJR Remix]",
           "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Glad U Came",
+      "year": "2023",
+      "release_date": "2023-04-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5b/1c/37/5b1c37b1-71de-6a19-79f1-f8e46bd426ba/075679688934.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Glad U Came",
+          "duration": "2:58"
+        }
+      ]
+    },
+    {
+      "name": "This Is How We Roll (Remix) [feat. Jason Derulo & Luke Bryan]",
+      "year": "2014",
+      "release_date": "2014-06-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/be/24/8f/be248f41-405f-0ffc-7a77-2fd014583c11/00602537917198.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "This Is How We Roll (Remix) [feat. Jason Derulo & Luke Bryan] [feat. Jason Derulo & Luke Bryan]",
+          "duration": "3:26"
         }
       ]
     },
@@ -1703,6 +1755,58 @@
       ]
     },
     {
+      "name": "Mamacita (feat. Farruko)",
+      "year": "2019",
+      "release_date": "2019-07-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d0/bc/f3/d0bcf3eb-ab8d-94d4-7eab-3bb0d332fe02/054391944061.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mamacita (feat. Farruko)",
+          "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "Slidin' (feat. Kodak Black)",
+      "year": "2022",
+      "release_date": "2022-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/56/5b/d6/565bd668-b445-a29b-5c07-8ce98ae081ec/075679745927.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Slidin' (feat. Kodak Black)",
+          "duration": "2:36"
+        }
+      ]
+    },
+    {
+      "name": "When Love Sucks (feat. Dido)",
+      "year": "2023",
+      "release_date": "2023-05-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/a6/62/16a662b1-cfd3-21fd-57ba-58d84b46d4d4/075679682314.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "When Love Sucks (feat. Dido)",
+          "duration": "2:49"
+        }
+      ]
+    },
+    {
+      "name": "Make Up (feat. Ava Max)",
+      "year": "2018",
+      "release_date": "2018-10-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2e/b1/b6/2eb1b62b-841b-65c8-0581-c82869c5b118/075679862983.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Make Up (feat. Ava Max)",
+          "duration": "2:40"
+        }
+      ]
+    },
+    {
       "name": "Colors",
       "year": "2018",
       "release_date": "2018-04-13",
@@ -1712,6 +1816,19 @@
           "number": 1,
           "name": "Colors",
           "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "Make Me Happy",
+      "year": "2024",
+      "release_date": "2024-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/b6/ab/f9b6abbc-6c28-161c-dc98-e25428c5b183/198748651209.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Make Me Happy",
+          "duration": "3:16"
         }
       ]
     },
@@ -1729,19 +1846,6 @@
       ]
     },
     {
-      "name": "C**o",
-      "year": "2020",
-      "release_date": "2020-07-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5d/f4/d2/5df4d262-7bc0-adc6-0d8f-271069024b58/190295186777.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "C**o",
-          "duration": "1:51"
-        }
-      ]
-    },
-    {
       "name": "Talk Dirty (feat. 2 Chainz) [En Español]",
       "year": "2014",
       "release_date": "2014-03-11",
@@ -1755,15 +1859,15 @@
       ]
     },
     {
-      "name": "Don’t Cry For Me",
-      "year": "2020",
-      "release_date": "2020-07-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3b/45/dd/3b45ddf2-31c2-4946-b4ba-2b541732b5e7/20UMGIM50050.rgb.jpg/600x600bb.jpg",
+      "name": "Snake",
+      "year": "2025",
+      "release_date": "2025-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/29/7a/60297af7-89c8-b5b9-46ce-f162cc335da8/5021732606747.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Don't Cry For Me",
-          "duration": "2:35"
+          "name": "Snake",
+          "duration": "1:53"
         }
       ]
     },
@@ -1796,19 +1900,6 @@
         {
           "number": 5,
           "name": "Spicy Margarita (Instrumental)",
-          "duration": "2:34"
-        }
-      ]
-    },
-    {
-      "name": "Spicy Margarita (feat. Maria Becerra)",
-      "year": "2024",
-      "release_date": "2024-05-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/80/cb/ab80cbf6-6f5a-01a7-b9cd-ae6fb0bfba8e/075679647993.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Spicy Margarita (feat. Maria Becerra)",
           "duration": "2:34"
         }
       ]
@@ -1871,15 +1962,15 @@
       ]
     },
     {
-      "name": "Too Hot",
-      "year": "2019",
-      "release_date": "2019-08-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d1/30/db/d130db3e-4d0e-5a0b-e236-7a5adf16f6f5/054391942302.jpg/600x600bb.jpg",
+      "name": "Acapulco (MOTi Remix)",
+      "year": "2021",
+      "release_date": "2021-11-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/22/c1/3722c16a-a04f-98b2-5113-ef9af4b6b7cd/075679767721.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Too Hot",
-          "duration": "2:38"
+          "name": "Acapulco (MOTi Remix)",
+          "duration": "2:14"
         }
       ]
     },
@@ -1897,54 +1988,15 @@
       ]
     },
     {
-      "name": "When Love Sucks (feat. Dido)",
-      "year": "2023",
-      "release_date": "2023-05-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/16/a6/62/16a662b1-cfd3-21fd-57ba-58d84b46d4d4/075679682314.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "When Love Sucks (feat. Dido)",
-          "duration": "2:49"
-        }
-      ]
-    },
-    {
-      "name": "From the Islands (kompa pasión)",
+      "name": "Spicy Margarita (feat. Maria Becerra)",
       "year": "2024",
-      "release_date": "2024-05-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/ae/88/f8ae88eb-1ed2-9c74-ed04-a5293b875d8e/196872107203.jpg/600x600bb.jpg",
+      "release_date": "2024-05-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/80/cb/ab80cbf6-6f5a-01a7-b9cd-ae6fb0bfba8e/075679647993.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "From the Islands (kompa pasión)",
-          "duration": "2:48"
-        }
-      ]
-    },
-    {
-      "name": "Glad U Came",
-      "year": "2023",
-      "release_date": "2023-04-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5b/1c/37/5b1c37b1-71de-6a19-79f1-f8e46bd426ba/075679688934.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Glad U Came",
-          "duration": "2:58"
-        }
-      ]
-    },
-    {
-      "name": "Give You Love (feat. Jason Derulo)",
-      "year": "2023",
-      "release_date": "2023-08-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/30/68/3f/30683f58-6eb6-ff4a-b101-0ce6f323b405/5054197731792.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Give You Love (feat. Jason Derulo)",
-          "duration": "2:54"
+          "name": "Spicy Margarita (feat. Maria Becerra)",
+          "duration": "2:34"
         }
       ]
     },
@@ -1975,6 +2027,19 @@
       ]
     },
     {
+      "name": "Miracle",
+      "year": "2025",
+      "release_date": "2025-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/52/85/4852851c-8e56-6b40-fffe-1ffe35be0799/663918705636.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Miracle",
+          "duration": "4:15"
+        }
+      ]
+    },
+    {
       "name": "Ta Ta Ta (with Jason Derulo)",
       "year": "2023",
       "release_date": "2023-04-14",
@@ -1984,19 +2049,6 @@
           "number": 1,
           "name": "Ta Ta Ta (with Jason Derulo)",
           "duration": "2:39"
-        }
-      ]
-    },
-    {
-      "name": "Slidin' (feat. Kodak Black)",
-      "year": "2022",
-      "release_date": "2022-05-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/56/5b/d6/565bd668-b445-a29b-5c07-8ce98ae081ec/075679745927.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Slidin' (feat. Kodak Black)",
-          "duration": "2:36"
         }
       ]
     },
@@ -2014,19 +2066,6 @@
       ]
     },
     {
-      "name": "Tonight (D.I.Y.A)",
-      "year": "2024",
-      "release_date": "2024-06-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/fb/d0/5dfbd0d0-560f-ca3d-3a36-6e1c028513df/24UMGIM45198.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tonight (D.I.Y.A)",
-          "duration": "3:01"
-        }
-      ]
-    },
-    {
       "name": "Ayo Girl (Fayahh Beat) [feat. Rema]",
       "year": "2022",
       "release_date": "2022-03-17",
@@ -2036,19 +2075,6 @@
           "number": 1,
           "name": "Ayo Girl (Fayahh Beat) [feat. Rema]",
           "duration": "2:45"
-        }
-      ]
-    },
-    {
-      "name": "Make Me Happy",
-      "year": "2024",
-      "release_date": "2024-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/b6/ab/f9b6abbc-6c28-161c-dc98-e25428c5b183/198748651209.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Make Me Happy",
-          "duration": "3:16"
         }
       ]
     },
@@ -2118,6 +2144,19 @@
       ]
     },
     {
+      "name": "Give You Love (feat. Jason Derulo)",
+      "year": "2023",
+      "release_date": "2023-08-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/30/68/3f/30683f58-6eb6-ff4a-b101-0ce6f323b405/5054197731792.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Give You Love (feat. Jason Derulo)",
+          "duration": "2:54"
+        }
+      ]
+    },
+    {
       "name": "Never Let You Go",
       "year": "2022",
       "release_date": "2022-11-04",
@@ -2127,19 +2166,6 @@
           "number": 1,
           "name": "Never Let You Go",
           "duration": "2:58"
-        }
-      ]
-    },
-    {
-      "name": "Sexy For Me (Remix)",
-      "year": "2026",
-      "release_date": "2026-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/d3/11/2fd3111a-15ab-3a81-25ac-cfef7f061479/663918950401.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sexy For Me (Remix)",
-          "duration": "2:23"
         }
       ]
     },
@@ -2258,19 +2284,6 @@
       ]
     },
     {
-      "name": "Snake",
-      "year": "2025",
-      "release_date": "2025-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/29/7a/60297af7-89c8-b5b9-46ce-f162cc335da8/5021732606747.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Snake",
-          "duration": "1:53"
-        }
-      ]
-    },
-    {
       "name": "Slidin'",
       "year": "2022",
       "release_date": "2022-05-16",
@@ -2306,19 +2319,6 @@
           "number": 1,
           "name": "Santorini (Remix)",
           "duration": "2:44"
-        }
-      ]
-    },
-    {
-      "name": "Acapulco (MOTi Remix)",
-      "year": "2021",
-      "release_date": "2021-11-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/37/22/c1/3722c16a-a04f-98b2-5113-ef9af4b6b7cd/075679767721.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Acapulco (MOTi Remix)",
-          "duration": "2:14"
         }
       ]
     },
@@ -2543,19 +2543,6 @@
       ]
     },
     {
-      "name": "Miracle",
-      "year": "2025",
-      "release_date": "2025-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/52/85/4852851c-8e56-6b40-fffe-1ffe35be0799/663918705636.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Miracle",
-          "duration": "4:15"
-        }
-      ]
-    },
-    {
       "name": "You Can Do Anything (MTG DA SIA)",
       "year": "2025",
       "release_date": "2025-01-10",
@@ -2635,6 +2622,19 @@
           "number": 1,
           "name": "Colors (Wideboys Remix)",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Sexy For Me (Remix)",
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/d3/11/2fd3111a-15ab-3a81-25ac-cfef7f061479/663918950401.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sexy For Me (Remix)",
+          "duration": "2:23"
         }
       ]
     },

@@ -391,32 +391,6 @@
       ]
     },
     {
-      "name": "Your Eyes",
-      "year": "2022",
-      "release_date": "2022-08-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/31/5f/a3/315fa32e-31ae-a271-e4ff-7da131fd4add/1963620900442_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Your Eyes",
-          "duration": "2:08"
-        }
-      ]
-    },
-    {
-      "name": "Rain Inside",
-      "year": "2022",
-      "release_date": "2022-12-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8e/dc/36/8edc3642-0685-25ff-a109-7a28dfc516a1/1963621045371_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rain Inside",
-          "duration": "1:46"
-        }
-      ]
-    },
-    {
       "name": "hope to see you again (Remixes)",
       "year": "2023",
       "release_date": "2023-05-23",
@@ -440,15 +414,15 @@
       ]
     },
     {
-      "name": "A Dream About You",
-      "year": "2024",
-      "release_date": "2024-01-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/1f/90/271f90eb-3020-b857-1f57-4fc07514d598/1963621871734_cover.jpg/600x600bb.jpg",
+      "name": "Your Eyes",
+      "year": "2022",
+      "release_date": "2022-08-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/31/5f/a3/315fa32e-31ae-a271-e4ff-7da131fd4add/1963620900442_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "A Dream About You",
-          "duration": "2:15"
+          "name": "Your Eyes",
+          "duration": "2:08"
         }
       ]
     },
@@ -462,6 +436,19 @@
           "number": 1,
           "name": "Drowning (Edit)",
           "duration": "2:13"
+        }
+      ]
+    },
+    {
+      "name": "Rain Inside",
+      "year": "2022",
+      "release_date": "2022-12-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8e/dc/36/8edc3642-0685-25ff-a109-7a28dfc516a1/1963621045371_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rain Inside",
+          "duration": "1:46"
         }
       ]
     },
@@ -667,6 +654,19 @@
           "number": 1,
           "name": "I Don't Belong",
           "duration": "1:55"
+        }
+      ]
+    },
+    {
+      "name": "A Dream About You",
+      "year": "2024",
+      "release_date": "2024-01-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/1f/90/271f90eb-3020-b857-1f57-4fc07514d598/1963621871734_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A Dream About You",
+          "duration": "2:15"
         }
       ]
     },
@@ -2661,34 +2661,6 @@
       ]
     },
     {
-      "name": "Where I Won't Be Found",
-      "year": "2018",
-      "release_date": "2018-10-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7e/be/75/7ebe75eb-f3d7-04b0-8bd2-17b92ba6caca/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Immersion (Intro)",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "Road To Truth (feat. SquaereCat)",
-          "duration": "4:01"
-        },
-        {
-          "number": 3,
-          "name": "Out Of Time",
-          "duration": "4:17"
-        },
-        {
-          "number": 4,
-          "name": "Where My Fire Glows",
-          "duration": "3:41"
-        }
-      ]
-    },
-    {
       "name": "Stay",
       "year": "2022",
       "release_date": "2022-08-19",
@@ -2713,6 +2685,34 @@
           "number": 4,
           "name": "Next Step",
           "duration": "2:43"
+        }
+      ]
+    },
+    {
+      "name": "Where I Won't Be Found",
+      "year": "2018",
+      "release_date": "2018-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7e/be/75/7ebe75eb-f3d7-04b0-8bd2-17b92ba6caca/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Immersion (Intro)",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "Road To Truth (feat. SquaereCat)",
+          "duration": "4:01"
+        },
+        {
+          "number": 3,
+          "name": "Out Of Time",
+          "duration": "4:17"
+        },
+        {
+          "number": 4,
+          "name": "Where My Fire Glows",
+          "duration": "3:41"
         }
       ]
     },

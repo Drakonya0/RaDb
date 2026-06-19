@@ -3,59 +3,6 @@
   "id": 571069809,
   "albums": [
     {
-      "name": "Blood Lust",
-      "year": "2012",
-      "release_date": "2012-11-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/ea/cf/baeacf20-a495-f2e5-69d5-47192321ff06/889176384301.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I'll Cut You Down",
-          "duration": "5:01"
-        },
-        {
-          "number": 2,
-          "name": "Death's Door",
-          "duration": "7:15"
-        },
-        {
-          "number": 3,
-          "name": "Over and over Again",
-          "duration": "3:20"
-        },
-        {
-          "number": 4,
-          "name": "Curse in the Trees",
-          "duration": "4:38"
-        },
-        {
-          "number": 5,
-          "name": "I'm Here to Kill You",
-          "duration": "3:40"
-        },
-        {
-          "number": 6,
-          "name": "13 Candles",
-          "duration": "6:58"
-        },
-        {
-          "number": 7,
-          "name": "Ritual Knife",
-          "duration": "4:43"
-        },
-        {
-          "number": 8,
-          "name": "Withered Hand of Evil",
-          "duration": "6:15"
-        },
-        {
-          "number": 9,
-          "name": "Down to the Fire (Bonus)",
-          "duration": "5:28"
-        }
-      ]
-    },
-    {
       "name": "The Night Creeper",
       "year": "2015",
       "release_date": "2015-09-04",
@@ -114,50 +61,55 @@
       ]
     },
     {
-      "name": "Vol. 1",
-      "year": "2017",
-      "release_date": "2017-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/cb/ef/0fcbef92-d852-c7dd-bf22-8b30b73f98a9/886446710822.jpg/600x600bb.jpg",
+      "name": "Blood Lust",
+      "year": "2012",
+      "release_date": "2012-11-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/ea/cf/baeacf20-a495-f2e5-69d5-47192321ff06/889176384301.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Crystal Spiders",
-          "duration": "3:33"
+          "name": "I'll Cut You Down",
+          "duration": "5:01"
         },
         {
           "number": 2,
-          "name": "Witches Garden",
-          "duration": "5:18"
+          "name": "Death's Door",
+          "duration": "7:15"
         },
         {
           "number": 3,
-          "name": "Dead Eyes of London",
-          "duration": "4:03"
+          "name": "Over and over Again",
+          "duration": "3:20"
         },
         {
           "number": 4,
-          "name": "Lonely and Strange",
-          "duration": "8:00"
+          "name": "Curse in the Trees",
+          "duration": "4:38"
         },
         {
           "number": 5,
-          "name": "Vampire Circus",
-          "duration": "5:32"
+          "name": "I'm Here to Kill You",
+          "duration": "3:40"
         },
         {
           "number": 6,
-          "name": "Do What Your Love Tells You",
-          "duration": "6:31"
+          "name": "13 Candles",
+          "duration": "6:58"
         },
         {
           "number": 7,
-          "name": "I Don't Know",
-          "duration": "3:54"
+          "name": "Ritual Knife",
+          "duration": "4:43"
         },
         {
           "number": 8,
-          "name": "Wind up Toys",
-          "duration": "7:53"
+          "name": "Withered Hand of Evil",
+          "duration": "6:15"
+        },
+        {
+          "number": 9,
+          "name": "Down to the Fire (Bonus)",
+          "duration": "5:28"
         }
       ]
     },
@@ -211,6 +163,54 @@
           "number": 9,
           "name": "Devil's Work",
           "duration": "6:55"
+        }
+      ]
+    },
+    {
+      "name": "Vol. 1",
+      "year": "2017",
+      "release_date": "2017-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0f/cb/ef/0fcbef92-d852-c7dd-bf22-8b30b73f98a9/886446710822.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Crystal Spiders",
+          "duration": "3:33"
+        },
+        {
+          "number": 2,
+          "name": "Witches Garden",
+          "duration": "5:18"
+        },
+        {
+          "number": 3,
+          "name": "Dead Eyes of London",
+          "duration": "4:03"
+        },
+        {
+          "number": 4,
+          "name": "Lonely and Strange",
+          "duration": "8:00"
+        },
+        {
+          "number": 5,
+          "name": "Vampire Circus",
+          "duration": "5:32"
+        },
+        {
+          "number": 6,
+          "name": "Do What Your Love Tells You",
+          "duration": "6:31"
+        },
+        {
+          "number": 7,
+          "name": "I Don't Know",
+          "duration": "3:54"
+        },
+        {
+          "number": 8,
+          "name": "Wind up Toys",
+          "duration": "7:53"
         }
       ]
     },

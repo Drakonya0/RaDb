@@ -61,6 +61,84 @@
       ]
     },
     {
+      "name": "Souvenirs",
+      "year": "2015",
+      "release_date": "2015-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6c/c1/c7/6cc1c737-5152-9ce2-600b-66814e1777cd/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Inanimate",
+          "duration": "2:01"
+        },
+        {
+          "number": 2,
+          "name": "Earth Grazer",
+          "duration": "3:27"
+        },
+        {
+          "number": 3,
+          "name": "Gravity",
+          "duration": "4:52"
+        },
+        {
+          "number": 4,
+          "name": "Antares",
+          "duration": "4:44"
+        },
+        {
+          "number": 5,
+          "name": "Ouroboros",
+          "duration": "4:34"
+        },
+        {
+          "number": 6,
+          "name": "Black Lights",
+          "duration": "1:23"
+        },
+        {
+          "number": 7,
+          "name": "Voyager",
+          "duration": "4:32"
+        },
+        {
+          "number": 8,
+          "name": "Muchos Touché",
+          "duration": "2:38"
+        },
+        {
+          "number": 9,
+          "name": "Echoes",
+          "duration": "4:29"
+        },
+        {
+          "number": 10,
+          "name": "5:12 Am",
+          "duration": "4:16"
+        },
+        {
+          "number": 11,
+          "name": "The Lichtenberg Figure",
+          "duration": "5:33"
+        },
+        {
+          "number": 12,
+          "name": "Souvenirs",
+          "duration": "6:24"
+        },
+        {
+          "number": 13,
+          "name": "Twenty Years",
+          "duration": "5:18"
+        },
+        {
+          "number": 14,
+          "name": "Heartfelt",
+          "duration": "7:16"
+        }
+      ]
+    },
+    {
       "name": "C'est La Vie",
       "year": "2020",
       "release_date": "2020-01-24",
@@ -182,84 +260,6 @@
       ]
     },
     {
-      "name": "Souvenirs",
-      "year": "2015",
-      "release_date": "2015-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6c/c1/c7/6cc1c737-5152-9ce2-600b-66814e1777cd/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Inanimate",
-          "duration": "2:01"
-        },
-        {
-          "number": 2,
-          "name": "Earth Grazer",
-          "duration": "3:27"
-        },
-        {
-          "number": 3,
-          "name": "Gravity",
-          "duration": "4:52"
-        },
-        {
-          "number": 4,
-          "name": "Antares",
-          "duration": "4:44"
-        },
-        {
-          "number": 5,
-          "name": "Ouroboros",
-          "duration": "4:34"
-        },
-        {
-          "number": 6,
-          "name": "Black Lights",
-          "duration": "1:23"
-        },
-        {
-          "number": 7,
-          "name": "Voyager",
-          "duration": "4:32"
-        },
-        {
-          "number": 8,
-          "name": "Muchos Touché",
-          "duration": "2:38"
-        },
-        {
-          "number": 9,
-          "name": "Echoes",
-          "duration": "4:29"
-        },
-        {
-          "number": 10,
-          "name": "5:12 Am",
-          "duration": "4:16"
-        },
-        {
-          "number": 11,
-          "name": "The Lichtenberg Figure",
-          "duration": "5:33"
-        },
-        {
-          "number": 12,
-          "name": "Souvenirs",
-          "duration": "6:24"
-        },
-        {
-          "number": 13,
-          "name": "Twenty Years",
-          "duration": "5:18"
-        },
-        {
-          "number": 14,
-          "name": "Heartfelt",
-          "duration": "7:16"
-        }
-      ]
-    },
-    {
       "name": "Déjà Vu",
       "year": "2022",
       "release_date": "2022-09-23",
@@ -368,24 +368,6 @@
   ],
   "singles": [
     {
-      "name": "Prisoner",
-      "year": "2023",
-      "release_date": "2023-11-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e5/c6/e5/e5c6e53a-ee3c-7407-bd2c-9bfca8f018e4/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Prisoner",
-          "duration": "4:01"
-        },
-        {
-          "number": 2,
-          "name": "Turn It Up (Keyboard Warriors Social Club)",
-          "duration": "3:58"
-        }
-      ]
-    },
-    {
       "name": "Coda",
       "year": "2024",
       "release_date": "2024-12-11",
@@ -434,6 +416,24 @@
         },
         {
           "number": 3,
+          "name": "Turn It Up (Keyboard Warriors Social Club)",
+          "duration": "3:58"
+        }
+      ]
+    },
+    {
+      "name": "Prisoner",
+      "year": "2023",
+      "release_date": "2023-11-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e5/c6/e5/e5c6e53a-ee3c-7407-bd2c-9bfca8f018e4/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Prisoner",
+          "duration": "4:01"
+        },
+        {
+          "number": 2,
           "name": "Turn It Up (Keyboard Warriors Social Club)",
           "duration": "3:58"
         }

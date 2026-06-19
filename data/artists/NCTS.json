@@ -101,34 +101,6 @@
   ],
   "singles": [
     {
-      "name": "NOVA!",
-      "year": "2024",
-      "release_date": "2024-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/f0/07/88f00771-fa4e-45ba-116b-51d55a4b4f89/198846422374.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NOVA!",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "NOVA! (SPED UP)",
-          "duration": "1:26"
-        },
-        {
-          "number": 3,
-          "name": "NOVA! (SLOWED)",
-          "duration": "1:41"
-        },
-        {
-          "number": 4,
-          "name": "NOVA! (SUPER SLOWED)",
-          "duration": "1:50"
-        }
-      ]
-    },
-    {
       "name": "NEXT UP!",
       "year": "2024",
       "release_date": "2024-07-19",
@@ -153,6 +125,34 @@
           "number": 4,
           "name": "NEXT UP! (Ultra Slowed)",
           "duration": "1:48"
+        }
+      ]
+    },
+    {
+      "name": "NOVA!",
+      "year": "2024",
+      "release_date": "2024-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/f0/07/88f00771-fa4e-45ba-116b-51d55a4b4f89/198846422374.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NOVA!",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "NOVA! (SPED UP)",
+          "duration": "1:26"
+        },
+        {
+          "number": 3,
+          "name": "NOVA! (SLOWED)",
+          "duration": "1:41"
+        },
+        {
+          "number": 4,
+          "name": "NOVA! (SUPER SLOWED)",
+          "duration": "1:50"
         }
       ]
     },

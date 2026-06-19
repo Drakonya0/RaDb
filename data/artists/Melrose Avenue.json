@@ -4,15 +4,28 @@
   "albums": [],
   "singles": [
     {
-      "name": "Deep End",
-      "year": "2023",
-      "release_date": "2023-11-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/75/ae/c875aeee-246f-523a-6bac-7215e9238f84/artwork.jpg/600x600bb.jpg",
+      "name": "Reflections",
+      "year": "2025",
+      "release_date": "2025-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/ad/da/c2adda10-30d7-ba38-da4a-cbadc616ba4f/2404.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Deep End",
-          "duration": "3:11"
+          "name": "Reflections",
+          "duration": "3:32"
+        }
+      ]
+    },
+    {
+      "name": "Suffering",
+      "year": "2023",
+      "release_date": "2023-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/90/eb/a490eb7e-ffdc-82d9-379e-fd4420987ef4/2261.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Suffering",
+          "duration": "4:01"
         }
       ]
     },
@@ -30,15 +43,15 @@
       ]
     },
     {
-      "name": "Reflections",
-      "year": "2025",
-      "release_date": "2025-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/ad/da/c2adda10-30d7-ba38-da4a-cbadc616ba4f/2404.jpg/600x600bb.jpg",
+      "name": "Deep End",
+      "year": "2023",
+      "release_date": "2023-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/75/ae/c875aeee-246f-523a-6bac-7215e9238f84/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Reflections",
-          "duration": "3:32"
+          "name": "Deep End",
+          "duration": "3:11"
         }
       ]
     },
@@ -95,19 +108,6 @@
       ]
     },
     {
-      "name": "This Is The End",
-      "year": "2025",
-      "release_date": "2025-11-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/10/a3/9810a3f1-e39c-8fc9-3175-2f8b27d7e86c/3240.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "This Is The End",
-          "duration": "3:28"
-        }
-      ]
-    },
-    {
       "name": "Inside Your Mind",
       "year": "2025",
       "release_date": "2025-10-02",
@@ -147,19 +147,6 @@
       ]
     },
     {
-      "name": "Suffering",
-      "year": "2023",
-      "release_date": "2023-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/90/eb/a490eb7e-ffdc-82d9-379e-fd4420987ef4/2261.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Suffering",
-          "duration": "4:01"
-        }
-      ]
-    },
-    {
       "name": "All I Want for Christmas Is You",
       "year": "2022",
       "release_date": "2022-12-16",
@@ -169,6 +156,19 @@
           "number": 1,
           "name": "All I Want for Christmas Is You",
           "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "This Is The End",
+      "year": "2025",
+      "release_date": "2025-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/10/a3/9810a3f1-e39c-8fc9-3175-2f8b27d7e86c/3240.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "This Is The End",
+          "duration": "3:28"
         }
       ]
     },

@@ -3,6 +3,64 @@
   "id": 1592180647,
   "albums": [
     {
+      "name": "Days Of The Lost",
+      "year": "2022",
+      "release_date": "2022-08-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/00/9c/28/009c28aa-8343-98a1-3069-2876d1319bef/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shadowminds",
+          "duration": "3:53"
+        },
+        {
+          "number": 2,
+          "name": "Days Of The Lost",
+          "duration": "3:37"
+        },
+        {
+          "number": 3,
+          "name": "The Needless End",
+          "duration": "4:04"
+        },
+        {
+          "number": 4,
+          "name": "Conditional",
+          "duration": "3:41"
+        },
+        {
+          "number": 5,
+          "name": "In Broken Trust",
+          "duration": "4:09"
+        },
+        {
+          "number": 6,
+          "name": "Gateways",
+          "duration": "4:49"
+        },
+        {
+          "number": 7,
+          "name": "A Truth Worth Lying For",
+          "duration": "4:24"
+        },
+        {
+          "number": 8,
+          "name": "Feel What I Believe",
+          "duration": "3:59"
+        },
+        {
+          "number": 9,
+          "name": "Last Of Our Kind",
+          "duration": "4:04"
+        },
+        {
+          "number": 10,
+          "name": "The Most Alone",
+          "duration": "4:03"
+        }
+      ]
+    },
+    {
       "name": "March Of The Unheard",
       "year": "2025",
       "release_date": "2025-01-10",
@@ -67,64 +125,6 @@
           "number": 12,
           "name": "Coda",
           "duration": "3:53"
-        }
-      ]
-    },
-    {
-      "name": "Days Of The Lost",
-      "year": "2022",
-      "release_date": "2022-08-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/00/9c/28/009c28aa-8343-98a1-3069-2876d1319bef/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shadowminds",
-          "duration": "3:53"
-        },
-        {
-          "number": 2,
-          "name": "Days Of The Lost",
-          "duration": "3:37"
-        },
-        {
-          "number": 3,
-          "name": "The Needless End",
-          "duration": "4:04"
-        },
-        {
-          "number": 4,
-          "name": "Conditional",
-          "duration": "3:41"
-        },
-        {
-          "number": 5,
-          "name": "In Broken Trust",
-          "duration": "4:09"
-        },
-        {
-          "number": 6,
-          "name": "Gateways",
-          "duration": "4:49"
-        },
-        {
-          "number": 7,
-          "name": "A Truth Worth Lying For",
-          "duration": "4:24"
-        },
-        {
-          "number": 8,
-          "name": "Feel What I Believe",
-          "duration": "3:59"
-        },
-        {
-          "number": 9,
-          "name": "Last Of Our Kind",
-          "duration": "4:04"
-        },
-        {
-          "number": 10,
-          "name": "The Most Alone",
-          "duration": "4:03"
         }
       ]
     },

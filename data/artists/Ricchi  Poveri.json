@@ -66,6 +66,89 @@
       ]
     },
     {
+      "name": "Ricchi e Poveri: 15 Éxitos",
+      "year": "2010",
+      "release_date": "2010-01-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/73/10/a0/7310a077-348c-5c33-6b34-255e47179cd0/859703035211_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Será Porque Te Amo",
+          "duration": "3:10"
+        },
+        {
+          "number": 2,
+          "name": "Dónde Estarás",
+          "duration": "2:56"
+        },
+        {
+          "number": 3,
+          "name": "Me Enamoro de Ti",
+          "duration": "3:11"
+        },
+        {
+          "number": 4,
+          "name": "Mamma María",
+          "duration": "3:00"
+        },
+        {
+          "number": 5,
+          "name": "Espléndida Velada",
+          "duration": "3:12"
+        },
+        {
+          "number": 6,
+          "name": "Es Que Estoy Bien Contigo",
+          "duration": "3:49"
+        },
+        {
+          "number": 7,
+          "name": "Porque Si Quiere el Amor",
+          "duration": "2:50"
+        },
+        {
+          "number": 8,
+          "name": "Qué Será",
+          "duration": "4:09"
+        },
+        {
+          "number": 9,
+          "name": "Hasta la Vista",
+          "duration": "3:55"
+        },
+        {
+          "number": 10,
+          "name": "Si Me Enamoro",
+          "duration": "3:52"
+        },
+        {
+          "number": 11,
+          "name": "Malentendido",
+          "duration": "3:11"
+        },
+        {
+          "number": 12,
+          "name": "Quieres Bailar",
+          "duration": "3:30"
+        },
+        {
+          "number": 13,
+          "name": "Y Pienso en Ti",
+          "duration": "2:58"
+        },
+        {
+          "number": 14,
+          "name": "Súper Amor",
+          "duration": "3:21"
+        },
+        {
+          "number": 15,
+          "name": "Fortissimo",
+          "duration": "4:00"
+        }
+      ]
+    },
+    {
       "name": "Nur das Beste: Ricchi e Poveri",
       "year": "2004",
       "release_date": "2004-03-08",
@@ -150,89 +233,6 @@
           "number": 16,
           "name": "Voulez-Vous Danser",
           "duration": "3:44"
-        }
-      ]
-    },
-    {
-      "name": "Ricchi e Poveri: 15 Éxitos",
-      "year": "2010",
-      "release_date": "2010-01-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/73/10/a0/7310a077-348c-5c33-6b34-255e47179cd0/859703035211_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Será Porque Te Amo",
-          "duration": "3:10"
-        },
-        {
-          "number": 2,
-          "name": "Dónde Estarás",
-          "duration": "2:56"
-        },
-        {
-          "number": 3,
-          "name": "Me Enamoro de Ti",
-          "duration": "3:11"
-        },
-        {
-          "number": 4,
-          "name": "Mamma María",
-          "duration": "3:00"
-        },
-        {
-          "number": 5,
-          "name": "Espléndida Velada",
-          "duration": "3:12"
-        },
-        {
-          "number": 6,
-          "name": "Es Que Estoy Bien Contigo",
-          "duration": "3:49"
-        },
-        {
-          "number": 7,
-          "name": "Porque Si Quiere el Amor",
-          "duration": "2:50"
-        },
-        {
-          "number": 8,
-          "name": "Qué Será",
-          "duration": "4:09"
-        },
-        {
-          "number": 9,
-          "name": "Hasta la Vista",
-          "duration": "3:55"
-        },
-        {
-          "number": 10,
-          "name": "Si Me Enamoro",
-          "duration": "3:52"
-        },
-        {
-          "number": 11,
-          "name": "Malentendido",
-          "duration": "3:11"
-        },
-        {
-          "number": 12,
-          "name": "Quieres Bailar",
-          "duration": "3:30"
-        },
-        {
-          "number": 13,
-          "name": "Y Pienso en Ti",
-          "duration": "2:58"
-        },
-        {
-          "number": 14,
-          "name": "Súper Amor",
-          "duration": "3:21"
-        },
-        {
-          "number": 15,
-          "name": "Fortissimo",
-          "duration": "4:00"
         }
       ]
     },
@@ -1908,19 +1908,6 @@
   ],
   "singles": [
     {
-      "name": "Será Porque Te Amo",
-      "year": "1980",
-      "release_date": "1980-07-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b7/45/da/b745da18-cf78-84e5-edb0-878ce1077c00/859708545241_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Será Porque Te Amo",
-          "duration": "3:10"
-        }
-      ]
-    },
-    {
       "name": "Ma non tutta la vita",
       "year": "2024",
       "release_date": "2024-02-07",
@@ -1929,6 +1916,19 @@
         {
           "number": 1,
           "name": "Ma non tutta la vita",
+          "duration": "3:10"
+        }
+      ]
+    },
+    {
+      "name": "Será Porque Te Amo",
+      "year": "1980",
+      "release_date": "1980-07-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b7/45/da/b745da18-cf78-84e5-edb0-878ce1077c00/859708545241_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Será Porque Te Amo",
           "duration": "3:10"
         }
       ]

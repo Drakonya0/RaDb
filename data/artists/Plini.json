@@ -253,6 +253,19 @@
       ]
     },
     {
+      "name": "Blue Angel",
+      "year": "2017",
+      "release_date": "2017-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fe/b0/aa/feb0aad0-a8d3-2892-fbb0-5f0c88a45cc0/11687.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blue Angel",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
       "name": "Malaise (feat. Plini)",
       "year": "2016",
       "release_date": "2016-03-12",
@@ -330,19 +343,6 @@
       ]
     },
     {
-      "name": "Blue Angel",
-      "year": "2017",
-      "release_date": "2017-11-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fe/b0/aa/feb0aad0-a8d3-2892-fbb0-5f0c88a45cc0/11687.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blue Angel",
-          "duration": "3:34"
-        }
-      ]
-    },
-    {
       "name": "11 Nights",
       "year": "2023",
       "release_date": "2023-10-19",
@@ -383,19 +383,6 @@
           "number": 2,
           "name": "Ember",
           "duration": "5:59"
-        }
-      ]
-    },
-    {
-      "name": "Sunset (feat. Cory Wong & Plini)",
-      "year": "2025",
-      "release_date": "2025-09-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/d4/85/8cd485ef-d25e-ff24-cf88-6ae94c3fe153/4099964202960.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sunset (feat. Cory Wong & Plini)",
-          "duration": "2:28"
         }
       ]
     },
@@ -500,6 +487,19 @@
           "number": 1,
           "name": "A New Infinite (feat. Simon Grove)",
           "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Sunset (feat. Cory Wong & Plini)",
+      "year": "2025",
+      "release_date": "2025-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/d4/85/8cd485ef-d25e-ff24-cf88-6ae94c3fe153/4099964202960.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sunset (feat. Cory Wong & Plini)",
+          "duration": "2:28"
         }
       ]
     },
@@ -705,39 +705,6 @@
       ]
     },
     {
-      "name": "Mirage",
-      "year": "2023",
-      "release_date": "2023-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/78/d4/4978d4b3-c3d2-faa3-5fcb-880200ef491e/160973.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Red Fox",
-          "duration": "6:37"
-        },
-        {
-          "number": 2,
-          "name": "Five Days of Rain",
-          "duration": "3:30"
-        },
-        {
-          "number": 3,
-          "name": "Still Life (feat. Tosin Abasi)",
-          "duration": "4:08"
-        },
-        {
-          "number": 4,
-          "name": "Aqua Vista",
-          "duration": "2:48"
-        },
-        {
-          "number": 5,
-          "name": "Ember",
-          "duration": "5:59"
-        }
-      ]
-    },
-    {
       "name": "Singles (2012-2014)",
       "year": "2017",
       "release_date": "2017-07-14",
@@ -767,6 +734,39 @@
           "number": 5,
           "name": "Ko Ki (feat. Luke Martin)",
           "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "Mirage",
+      "year": "2023",
+      "release_date": "2023-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/78/d4/4978d4b3-c3d2-faa3-5fcb-880200ef491e/160973.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Red Fox",
+          "duration": "6:37"
+        },
+        {
+          "number": 2,
+          "name": "Five Days of Rain",
+          "duration": "3:30"
+        },
+        {
+          "number": 3,
+          "name": "Still Life (feat. Tosin Abasi)",
+          "duration": "4:08"
+        },
+        {
+          "number": 4,
+          "name": "Aqua Vista",
+          "duration": "2:48"
+        },
+        {
+          "number": 5,
+          "name": "Ember",
+          "duration": "5:59"
         }
       ]
     }

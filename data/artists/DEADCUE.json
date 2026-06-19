@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "Losing Myself",
+      "year": "2025",
+      "release_date": "2025-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/3f/4a/043f4a30-818f-1651-93e2-f5649611b43e/663918718599.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Losing Myself",
+          "duration": "3:32"
+        }
+      ]
+    },
+    {
       "name": "Let Me Go",
       "year": "2025",
       "release_date": "2025-11-21",
@@ -95,19 +108,6 @@
       ]
     },
     {
-      "name": "Losing Myself",
-      "year": "2025",
-      "release_date": "2025-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/3f/4a/043f4a30-818f-1651-93e2-f5649611b43e/663918718599.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Losing Myself",
-          "duration": "3:32"
-        }
-      ]
-    },
-    {
       "name": "Chains of Memory",
       "year": "2025",
       "release_date": "2025-11-21",
@@ -182,6 +182,19 @@
           "number": 1,
           "name": "Shadow Self",
           "duration": "2:43"
+        }
+      ]
+    },
+    {
+      "name": "Celestial",
+      "year": "2026",
+      "release_date": "2026-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/a6/2a/c9a62a73-58b1-dd3a-34e0-e00d709a4774/8721026077259_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Celestial",
+          "duration": "3:46"
         }
       ]
     },
@@ -270,6 +283,32 @@
           "number": 3,
           "name": "Stadium Ghosts",
           "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "I LET MYSELF DOWN",
+      "year": "2026",
+      "release_date": "2026-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/61/6f/f0616f5d-2629-6ed9-7bd3-16d4fe501ba7/8721026077242_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I LET MYSELF DOWN",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
+      "name": "All My Woes",
+      "year": "2026",
+      "release_date": "2026-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/43/2a/5e432ae0-0dc6-9a2e-8544-cbc1a95db387/8721026077266_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "All My Woes",
+          "duration": "4:27"
         }
       ]
     },

@@ -217,64 +217,6 @@
       ]
     },
     {
-      "name": "Digital Renegade",
-      "year": "2012",
-      "release_date": "2012-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/68/3c/56683cbb-1d0c-4df6-112b-5d4c07d28d5c/00817424012423_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Gnars Attacks",
-          "duration": "3:29"
-        },
-        {
-          "number": 2,
-          "name": "NZT48",
-          "duration": "4:19"
-        },
-        {
-          "number": 3,
-          "name": "Digital Renegade",
-          "duration": "3:12"
-        },
-        {
-          "number": 4,
-          "name": "Endless Sky (feat. Danny Worsnop)",
-          "duration": "3:33"
-        },
-        {
-          "number": 5,
-          "name": "Underneath Every Smile",
-          "duration": "3:16"
-        },
-        {
-          "number": 6,
-          "name": "Mystery Wall",
-          "duration": "4:07"
-        },
-        {
-          "number": 7,
-          "name": "iBelieve",
-          "duration": "2:37"
-        },
-        {
-          "number": 8,
-          "name": "Summer Died In Connersville",
-          "duration": "3:18"
-        },
-        {
-          "number": 9,
-          "name": "Electric Forest (feat. Cassadee Pope)",
-          "duration": "4:26"
-        },
-        {
-          "number": 10,
-          "name": "Filth Friends Unite",
-          "duration": "3:59"
-        }
-      ]
-    },
-    {
       "name": "3-D",
       "year": "2009",
       "release_date": "2009-04-14",
@@ -334,6 +276,64 @@
           "number": 11,
           "name": "What This Means To Me",
           "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "Digital Renegade",
+      "year": "2012",
+      "release_date": "2012-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/68/3c/56683cbb-1d0c-4df6-112b-5d4c07d28d5c/00817424012423_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gnars Attacks",
+          "duration": "3:29"
+        },
+        {
+          "number": 2,
+          "name": "NZT48",
+          "duration": "4:19"
+        },
+        {
+          "number": 3,
+          "name": "Digital Renegade",
+          "duration": "3:12"
+        },
+        {
+          "number": 4,
+          "name": "Endless Sky (feat. Danny Worsnop)",
+          "duration": "3:33"
+        },
+        {
+          "number": 5,
+          "name": "Underneath Every Smile",
+          "duration": "3:16"
+        },
+        {
+          "number": 6,
+          "name": "Mystery Wall",
+          "duration": "4:07"
+        },
+        {
+          "number": 7,
+          "name": "iBelieve",
+          "duration": "2:37"
+        },
+        {
+          "number": 8,
+          "name": "Summer Died In Connersville",
+          "duration": "3:18"
+        },
+        {
+          "number": 9,
+          "name": "Electric Forest (feat. Cassadee Pope)",
+          "duration": "4:26"
+        },
+        {
+          "number": 10,
+          "name": "Filth Friends Unite",
+          "duration": "3:59"
         }
       ]
     },
@@ -736,19 +736,6 @@
   ],
   "singles": [
     {
-      "name": "The Hardest Mistakes (feat. Cassadee Pope)",
-      "year": "2012",
-      "release_date": "2012-10-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/f2/be/f8f2beb8-c6b8-4737-9af7-b4983a21d6c6/00817424011501_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Hardest Mistakes (feat. Cassadee Pope)",
-          "duration": "4:21"
-        }
-      ]
-    },
-    {
       "name": "Someone You Loved (feat. I See Stars, The Word Alive & Ashland)",
       "year": "2019",
       "release_date": "2019-11-19",
@@ -758,6 +745,19 @@
           "number": 1,
           "name": "Someone You Loved (feat. I See Stars, The Word Alive & Ashland)",
           "duration": "3:01"
+        }
+      ]
+    },
+    {
+      "name": "The Hardest Mistakes (feat. Cassadee Pope)",
+      "year": "2012",
+      "release_date": "2012-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/f2/be/f8f2beb8-c6b8-4737-9af7-b4983a21d6c6/00817424011501_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Hardest Mistakes (feat. Cassadee Pope)",
+          "duration": "4:21"
         }
       ]
     },

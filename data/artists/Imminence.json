@@ -3,6 +3,74 @@
   "id": 405241524,
   "albums": [
     {
+      "name": "The Black",
+      "year": "2024",
+      "release_date": "2024-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/db/e8/29/dbe82951-50e2-be9a-abbe-cdc82a4dd032/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Come Hell or High Water",
+          "duration": "3:49"
+        },
+        {
+          "number": 2,
+          "name": "Desolation",
+          "duration": "4:07"
+        },
+        {
+          "number": 3,
+          "name": "Heaven Shall Burn",
+          "duration": "4:09"
+        },
+        {
+          "number": 4,
+          "name": "Beyond the Pale",
+          "duration": "4:13"
+        },
+        {
+          "number": 5,
+          "name": "Death by a Thousand Cuts",
+          "duration": "5:28"
+        },
+        {
+          "number": 6,
+          "name": "Come What May",
+          "duration": "6:13"
+        },
+        {
+          "number": 7,
+          "name": "Cul-de-Sac",
+          "duration": "2:36"
+        },
+        {
+          "number": 8,
+          "name": "The Call of the Void",
+          "duration": "3:51"
+        },
+        {
+          "number": 9,
+          "name": "Continuum",
+          "duration": "4:22"
+        },
+        {
+          "number": 10,
+          "name": "L'appel du Vide",
+          "duration": "3:57"
+        },
+        {
+          "number": 11,
+          "name": "The Black",
+          "duration": "6:10"
+        },
+        {
+          "number": 12,
+          "name": "Le Noir",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
       "name": "Heaven in Hiding",
       "year": "2021",
       "release_date": "2021-11-26",
@@ -72,79 +140,6 @@
           "number": 13,
           "name": "Heaven in Hiding",
           "duration": "3:56"
-        }
-      ]
-    },
-    {
-      "name": "Turn the Light On",
-      "year": "2019",
-      "release_date": "2019-05-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/eb/7c/a0eb7cfa-7456-6020-eb5d-d3e58f641bde/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Erase",
-          "duration": "3:43"
-        },
-        {
-          "number": 2,
-          "name": "Paralyzed",
-          "duration": "4:12"
-        },
-        {
-          "number": 3,
-          "name": "Room to Breathe",
-          "duration": "3:56"
-        },
-        {
-          "number": 4,
-          "name": "Saturated Soul",
-          "duration": "3:48"
-        },
-        {
-          "number": 5,
-          "name": "Infectious",
-          "duration": "3:52"
-        },
-        {
-          "number": 6,
-          "name": "The Sickness",
-          "duration": "4:03"
-        },
-        {
-          "number": 7,
-          "name": "Death of You",
-          "duration": "3:27"
-        },
-        {
-          "number": 8,
-          "name": "Scars",
-          "duration": "3:56"
-        },
-        {
-          "number": 9,
-          "name": "Disconnected",
-          "duration": "3:47"
-        },
-        {
-          "number": 10,
-          "name": "Wake Me Up",
-          "duration": "3:51"
-        },
-        {
-          "number": 11,
-          "name": "Don't Tell a Soul",
-          "duration": "3:43"
-        },
-        {
-          "number": 12,
-          "name": "Lighthouse",
-          "duration": "3:52"
-        },
-        {
-          "number": 13,
-          "name": "Love & Grace",
-          "duration": "5:25"
         }
       ]
     },
@@ -247,128 +242,75 @@
       ]
     },
     {
-      "name": "The Black",
-      "year": "2024",
-      "release_date": "2024-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/db/e8/29/dbe82951-50e2-be9a-abbe-cdc82a4dd032/cover.jpg/600x600bb.jpg",
+      "name": "Turn the Light On",
+      "year": "2019",
+      "release_date": "2019-05-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a0/eb/7c/a0eb7cfa-7456-6020-eb5d-d3e58f641bde/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Come Hell or High Water",
-          "duration": "3:49"
+          "name": "Erase",
+          "duration": "3:43"
         },
         {
           "number": 2,
-          "name": "Desolation",
-          "duration": "4:07"
+          "name": "Paralyzed",
+          "duration": "4:12"
         },
         {
           "number": 3,
-          "name": "Heaven Shall Burn",
-          "duration": "4:09"
+          "name": "Room to Breathe",
+          "duration": "3:56"
         },
         {
           "number": 4,
-          "name": "Beyond the Pale",
-          "duration": "4:13"
+          "name": "Saturated Soul",
+          "duration": "3:48"
         },
         {
           "number": 5,
-          "name": "Death by a Thousand Cuts",
-          "duration": "5:28"
+          "name": "Infectious",
+          "duration": "3:52"
         },
         {
           "number": 6,
-          "name": "Come What May",
-          "duration": "6:13"
+          "name": "The Sickness",
+          "duration": "4:03"
         },
         {
           "number": 7,
-          "name": "Cul-de-Sac",
-          "duration": "2:36"
+          "name": "Death of You",
+          "duration": "3:27"
         },
         {
           "number": 8,
-          "name": "The Call of the Void",
+          "name": "Scars",
+          "duration": "3:56"
+        },
+        {
+          "number": 9,
+          "name": "Disconnected",
+          "duration": "3:47"
+        },
+        {
+          "number": 10,
+          "name": "Wake Me Up",
           "duration": "3:51"
         },
         {
-          "number": 9,
-          "name": "Continuum",
-          "duration": "4:22"
-        },
-        {
-          "number": 10,
-          "name": "L'appel du Vide",
-          "duration": "3:57"
-        },
-        {
           "number": 11,
-          "name": "The Black",
-          "duration": "6:10"
+          "name": "Don't Tell a Soul",
+          "duration": "3:43"
         },
         {
           "number": 12,
-          "name": "Le Noir",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "The Reclamation of I",
-      "year": "2024",
-      "release_date": "2024-12-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/62/ca/8a62cae3-60bb-dade-8c75-7fd3cface4ac/199066053584.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Proclaim",
-          "duration": "3:44"
+          "name": "Lighthouse",
+          "duration": "3:52"
         },
         {
-          "number": 2,
-          "name": "86",
-          "duration": "4:11"
-        },
-        {
-          "number": 3,
-          "name": "Every Breath",
-          "duration": "4:20"
-        },
-        {
-          "number": 4,
-          "name": "Salt Of The Earth",
-          "duration": "4:04"
-        },
-        {
-          "number": 5,
-          "name": "Broken, Lost",
-          "duration": "4:00"
-        },
-        {
-          "number": 6,
-          "name": "Du",
-          "duration": "5:06"
-        },
-        {
-          "number": 7,
-          "name": "The Seventh Seal",
-          "duration": "3:20"
-        },
-        {
-          "number": 8,
-          "name": "Those Who Seek",
-          "duration": "5:27"
-        },
-        {
-          "number": 9,
-          "name": "Last Legs",
-          "duration": "4:40"
-        },
-        {
-          "number": 10,
-          "name": "A Sense Of Doubt",
-          "duration": "4:40"
+          "number": 13,
+          "name": "Love & Grace",
+          "duration": "5:25"
         }
       ]
     },
@@ -447,6 +389,182 @@
           "number": 14,
           "name": "This Is Goodbye (Acoustic)",
           "duration": "4:23"
+        }
+      ]
+    },
+    {
+      "name": "Heaven in Hiding (Deluxe Edition)",
+      "year": "2021",
+      "release_date": "2021-11-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/4b/93/8e4b9375-53f0-99fb-d4c5-a1eeab7d4f64/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Am Become a Name...",
+          "duration": "2:01"
+        },
+        {
+          "number": 2,
+          "name": "Ghost",
+          "duration": "4:15"
+        },
+        {
+          "number": 3,
+          "name": "Temptation",
+          "duration": "3:43"
+        },
+        {
+          "number": 4,
+          "name": "Surrender",
+          "duration": "3:41"
+        },
+        {
+          "number": 5,
+          "name": "Chasing Shadows",
+          "duration": "4:06"
+        },
+        {
+          "number": 6,
+          "name": "Moth to a Flame",
+          "duration": "4:30"
+        },
+        {
+          "number": 7,
+          "name": "Alleviate",
+          "duration": "4:27"
+        },
+        {
+          "number": 8,
+          "name": "Enslaved",
+          "duration": "3:52"
+        },
+        {
+          "number": 9,
+          "name": "Disappear",
+          "duration": "3:48"
+        },
+        {
+          "number": 10,
+          "name": "Lost and Left Behind",
+          "duration": "4:34"
+        },
+        {
+          "number": 11,
+          "name": "این نیز بگذرد",
+          "duration": "3:55"
+        },
+        {
+          "number": 12,
+          "name": "∞",
+          "duration": "0:51"
+        },
+        {
+          "number": 13,
+          "name": "Heaven in Hiding",
+          "duration": "3:56"
+        },
+        {
+          "number": 14,
+          "name": "Jaded",
+          "duration": "4:27"
+        },
+        {
+          "number": 15,
+          "name": "Tentación",
+          "duration": "3:40"
+        },
+        {
+          "number": 16,
+          "name": "Heaven in Hiding (Acoustic)",
+          "duration": "4:46"
+        },
+        {
+          "number": 17,
+          "name": "Alleviate (Acoustic)",
+          "duration": "4:22"
+        },
+        {
+          "number": 18,
+          "name": "Ghost (Acoustic)",
+          "duration": "4:11"
+        },
+        {
+          "number": 19,
+          "name": "Ghost (Live in Studio Mega)",
+          "duration": "4:16"
+        },
+        {
+          "number": 20,
+          "name": "Chasing Shadows (Live in Studio Mega)",
+          "duration": "4:07"
+        },
+        {
+          "number": 21,
+          "name": "Temptation (Live in Studio Mega)",
+          "duration": "3:50"
+        },
+        {
+          "number": 22,
+          "name": "Heaven in Hiding (Live in Studio Mega)",
+          "duration": "3:51"
+        }
+      ]
+    },
+    {
+      "name": "The Reclamation of I",
+      "year": "2024",
+      "release_date": "2024-12-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/62/ca/8a62cae3-60bb-dade-8c75-7fd3cface4ac/199066053584.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Proclaim",
+          "duration": "3:44"
+        },
+        {
+          "number": 2,
+          "name": "86",
+          "duration": "4:11"
+        },
+        {
+          "number": 3,
+          "name": "Every Breath",
+          "duration": "4:20"
+        },
+        {
+          "number": 4,
+          "name": "Salt Of The Earth",
+          "duration": "4:04"
+        },
+        {
+          "number": 5,
+          "name": "Broken, Lost",
+          "duration": "4:00"
+        },
+        {
+          "number": 6,
+          "name": "Du",
+          "duration": "5:06"
+        },
+        {
+          "number": 7,
+          "name": "The Seventh Seal",
+          "duration": "3:20"
+        },
+        {
+          "number": 8,
+          "name": "Those Who Seek",
+          "duration": "5:27"
+        },
+        {
+          "number": 9,
+          "name": "Last Legs",
+          "duration": "4:40"
+        },
+        {
+          "number": 10,
+          "name": "A Sense Of Doubt",
+          "duration": "4:40"
         }
       ]
     },
@@ -574,124 +692,6 @@
       ]
     },
     {
-      "name": "Heaven in Hiding (Deluxe Edition)",
-      "year": "2021",
-      "release_date": "2021-11-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/4b/93/8e4b9375-53f0-99fb-d4c5-a1eeab7d4f64/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Am Become a Name...",
-          "duration": "2:01"
-        },
-        {
-          "number": 2,
-          "name": "Ghost",
-          "duration": "4:15"
-        },
-        {
-          "number": 3,
-          "name": "Temptation",
-          "duration": "3:43"
-        },
-        {
-          "number": 4,
-          "name": "Surrender",
-          "duration": "3:41"
-        },
-        {
-          "number": 5,
-          "name": "Chasing Shadows",
-          "duration": "4:06"
-        },
-        {
-          "number": 6,
-          "name": "Moth to a Flame",
-          "duration": "4:30"
-        },
-        {
-          "number": 7,
-          "name": "Alleviate",
-          "duration": "4:27"
-        },
-        {
-          "number": 8,
-          "name": "Enslaved",
-          "duration": "3:52"
-        },
-        {
-          "number": 9,
-          "name": "Disappear",
-          "duration": "3:48"
-        },
-        {
-          "number": 10,
-          "name": "Lost and Left Behind",
-          "duration": "4:34"
-        },
-        {
-          "number": 11,
-          "name": "این نیز بگذرد",
-          "duration": "3:55"
-        },
-        {
-          "number": 12,
-          "name": "∞",
-          "duration": "0:51"
-        },
-        {
-          "number": 13,
-          "name": "Heaven in Hiding",
-          "duration": "3:56"
-        },
-        {
-          "number": 14,
-          "name": "Jaded",
-          "duration": "4:27"
-        },
-        {
-          "number": 15,
-          "name": "Tentación",
-          "duration": "3:40"
-        },
-        {
-          "number": 16,
-          "name": "Heaven in Hiding (Acoustic)",
-          "duration": "4:46"
-        },
-        {
-          "number": 17,
-          "name": "Alleviate (Acoustic)",
-          "duration": "4:22"
-        },
-        {
-          "number": 18,
-          "name": "Ghost (Acoustic)",
-          "duration": "4:11"
-        },
-        {
-          "number": 19,
-          "name": "Ghost (Live in Studio Mega)",
-          "duration": "4:16"
-        },
-        {
-          "number": 20,
-          "name": "Chasing Shadows (Live in Studio Mega)",
-          "duration": "4:07"
-        },
-        {
-          "number": 21,
-          "name": "Temptation (Live in Studio Mega)",
-          "duration": "3:50"
-        },
-        {
-          "number": 22,
-          "name": "Heaven in Hiding (Live in Studio Mega)",
-          "duration": "3:51"
-        }
-      ]
-    },
-    {
       "name": "I",
       "year": "2014",
       "release_date": "2014-09-09",
@@ -800,6 +800,19 @@
   ],
   "singles": [
     {
+      "name": "The Sword That Never Bends",
+      "year": "2026",
+      "release_date": "2026-06-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/34/2e/14342e7a-85ac-cb5d-7279-013a82abd6e8/823375200901_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Sword That Never Bends",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
       "name": "Heaven in Hiding",
       "year": "2021",
       "release_date": "2021-07-16",
@@ -854,19 +867,6 @@
       ]
     },
     {
-      "name": "Death Shall Have No Dominion",
-      "year": "2025",
-      "release_date": "2025-02-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/49/5c/f0495c65-b7af-961f-f5dc-ddab1b9a0e53/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Death Shall Have No Dominion",
-          "duration": "4:48"
-        }
-      ]
-    },
-    {
       "name": "Temptation",
       "year": "2021",
       "release_date": "2021-04-23",
@@ -876,19 +876,6 @@
           "number": 1,
           "name": "Temptation",
           "duration": "3:43"
-        }
-      ]
-    },
-    {
-      "name": "The Sword That Never Bends",
-      "year": "2026",
-      "release_date": "2026-06-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/34/2e/14342e7a-85ac-cb5d-7279-013a82abd6e8/823375200901_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Sword That Never Bends",
-          "duration": "3:46"
         }
       ]
     },
@@ -961,6 +948,19 @@
           "number": 2,
           "name": "Continuum",
           "duration": "4:20"
+        }
+      ]
+    },
+    {
+      "name": "Death Shall Have No Dominion",
+      "year": "2025",
+      "release_date": "2025-02-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/49/5c/f0495c65-b7af-961f-f5dc-ddab1b9a0e53/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Death Shall Have No Dominion",
+          "duration": "4:48"
         }
       ]
     },

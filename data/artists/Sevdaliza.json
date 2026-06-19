@@ -3,6 +3,79 @@
   "id": 571173217,
   "albums": [
     {
+      "name": "HEROINA",
+      "year": "2025",
+      "release_date": "2025-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/11/29/94112927-c92a-611d-337f-0d1951ec7738/270.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro",
+          "duration": "1:18"
+        },
+        {
+          "number": 2,
+          "name": "On My Own",
+          "duration": "2:36"
+        },
+        {
+          "number": 3,
+          "name": "Heroina",
+          "duration": "2:23"
+        },
+        {
+          "number": 4,
+          "name": "Alibi",
+          "duration": "2:41"
+        },
+        {
+          "number": 5,
+          "name": "Ride or Die, Pt. 2",
+          "duration": "2:38"
+        },
+        {
+          "number": 6,
+          "name": "Messiah",
+          "duration": "2:56"
+        },
+        {
+          "number": 7,
+          "name": "No Me Cansare",
+          "duration": "2:42"
+        },
+        {
+          "number": 8,
+          "name": "Stripper",
+          "duration": "2:46"
+        },
+        {
+          "number": 9,
+          "name": "Maria Magdalena",
+          "duration": "2:36"
+        },
+        {
+          "number": 10,
+          "name": "Oxytocina",
+          "duration": "2:46"
+        },
+        {
+          "number": 11,
+          "name": "Strong Because You Are",
+          "duration": "2:40"
+        },
+        {
+          "number": 12,
+          "name": "Postergirl",
+          "duration": "2:48"
+        },
+        {
+          "number": 13,
+          "name": "Angel",
+          "duration": "3:06"
+        }
+      ]
+    },
+    {
       "name": "Shabrang",
       "year": "2020",
       "release_date": "2020-08-28",
@@ -179,79 +252,6 @@
       ]
     },
     {
-      "name": "HEROINA",
-      "year": "2025",
-      "release_date": "2025-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/11/29/94112927-c92a-611d-337f-0d1951ec7738/270.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro",
-          "duration": "1:18"
-        },
-        {
-          "number": 2,
-          "name": "On My Own",
-          "duration": "2:36"
-        },
-        {
-          "number": 3,
-          "name": "Heroina",
-          "duration": "2:23"
-        },
-        {
-          "number": 4,
-          "name": "Alibi",
-          "duration": "2:41"
-        },
-        {
-          "number": 5,
-          "name": "Ride or Die, Pt. 2",
-          "duration": "2:38"
-        },
-        {
-          "number": 6,
-          "name": "Messiah",
-          "duration": "2:56"
-        },
-        {
-          "number": 7,
-          "name": "No Me Cansare",
-          "duration": "2:42"
-        },
-        {
-          "number": 8,
-          "name": "Stripper",
-          "duration": "2:46"
-        },
-        {
-          "number": 9,
-          "name": "Maria Magdalena",
-          "duration": "2:36"
-        },
-        {
-          "number": 10,
-          "name": "Oxytocina",
-          "duration": "2:46"
-        },
-        {
-          "number": 11,
-          "name": "Strong Because You Are",
-          "duration": "2:40"
-        },
-        {
-          "number": 12,
-          "name": "Postergirl",
-          "duration": "2:48"
-        },
-        {
-          "number": 13,
-          "name": "Angel",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "The Calling",
       "year": "2018",
       "release_date": "2018-03-30",
@@ -411,19 +411,6 @@
       ]
     },
     {
-      "name": "Stripper",
-      "year": "2025",
-      "release_date": "2025-10-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/fb/02/54fb02f2-4593-f5fb-835f-7ff17f8b12d3/663918527719.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stripper",
-          "duration": "2:46"
-        }
-      ]
-    },
-    {
       "name": "No Me Cansare",
       "year": "2024",
       "release_date": "2024-10-18",
@@ -487,6 +474,19 @@
           "number": 4,
           "name": "Alibi Pt. 2 (Slowed)",
           "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "Stripper",
+      "year": "2025",
+      "release_date": "2025-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/fb/02/54fb02f2-4593-f5fb-835f-7ff17f8b12d3/663918527719.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stripper",
+          "duration": "2:46"
         }
       ]
     },
@@ -905,34 +905,6 @@
       ]
     },
     {
-      "name": "Children of Silk (feat. Rome Fortune)",
-      "year": "2015",
-      "release_date": "2015-11-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/45/4b/e7/454be7dd-b953-8aa4-7093-27f1aacb3bbe/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Inside",
-          "duration": "3:35"
-        },
-        {
-          "number": 2,
-          "name": "Amandine Insensible",
-          "duration": "4:13"
-        },
-        {
-          "number": 3,
-          "name": "Marilyn Monroe",
-          "duration": "3:29"
-        },
-        {
-          "number": 4,
-          "name": "Men of Glass (feat. Rome Fortune) [feat. Rome Fortune]",
-          "duration": "4:22"
-        }
-      ]
-    },
-    {
       "name": "The Suspended Kid",
       "year": "2015",
       "release_date": "2015-01-28",
@@ -957,6 +929,34 @@
           "number": 4,
           "name": "Backseat Love",
           "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "name": "Children of Silk (feat. Rome Fortune)",
+      "year": "2015",
+      "release_date": "2015-11-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/45/4b/e7/454be7dd-b953-8aa4-7093-27f1aacb3bbe/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Inside",
+          "duration": "3:35"
+        },
+        {
+          "number": 2,
+          "name": "Amandine Insensible",
+          "duration": "4:13"
+        },
+        {
+          "number": 3,
+          "name": "Marilyn Monroe",
+          "duration": "3:29"
+        },
+        {
+          "number": 4,
+          "name": "Men of Glass (feat. Rome Fortune) [feat. Rome Fortune]",
+          "duration": "4:22"
         }
       ]
     }
