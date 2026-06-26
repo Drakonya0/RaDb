@@ -144,64 +144,6 @@
       ]
     },
     {
-      "name": "THE OTHER ONE",
-      "year": "2023",
-      "release_date": "2023-03-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/cf/de/4ccfdeaf-3c8b-0bb7-ac51-2c1a000cce6e/116517.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "METAL KINGDOM",
-          "duration": "5:51"
-        },
-        {
-          "number": 2,
-          "name": "Divine Attack - Shingeki -",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Mirror Mirror",
-          "duration": "3:50"
-        },
-        {
-          "number": 4,
-          "name": "MAYA",
-          "duration": "3:23"
-        },
-        {
-          "number": 5,
-          "name": "Time Wave",
-          "duration": "4:50"
-        },
-        {
-          "number": 6,
-          "name": "Believing",
-          "duration": "3:46"
-        },
-        {
-          "number": 7,
-          "name": "METALIZM",
-          "duration": "3:34"
-        },
-        {
-          "number": 8,
-          "name": "Monochrome",
-          "duration": "3:57"
-        },
-        {
-          "number": 9,
-          "name": "Light and Darkness",
-          "duration": "4:04"
-        },
-        {
-          "number": 10,
-          "name": "THE LEGEND",
-          "duration": "4:18"
-        }
-      ]
-    },
-    {
       "name": "METAL RESISTANCE",
       "year": "2016",
       "release_date": "2016-04-01",
@@ -266,6 +208,64 @@
           "number": 12,
           "name": "THE ONE (English Version)",
           "duration": "6:29"
+        }
+      ]
+    },
+    {
+      "name": "THE OTHER ONE",
+      "year": "2023",
+      "release_date": "2023-03-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/cf/de/4ccfdeaf-3c8b-0bb7-ac51-2c1a000cce6e/116517.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "METAL KINGDOM",
+          "duration": "5:51"
+        },
+        {
+          "number": 2,
+          "name": "Divine Attack - Shingeki -",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Mirror Mirror",
+          "duration": "3:50"
+        },
+        {
+          "number": 4,
+          "name": "MAYA",
+          "duration": "3:23"
+        },
+        {
+          "number": 5,
+          "name": "Time Wave",
+          "duration": "4:50"
+        },
+        {
+          "number": 6,
+          "name": "Believing",
+          "duration": "3:46"
+        },
+        {
+          "number": 7,
+          "name": "METALIZM",
+          "duration": "3:34"
+        },
+        {
+          "number": 8,
+          "name": "Monochrome",
+          "duration": "3:57"
+        },
+        {
+          "number": 9,
+          "name": "Light and Darkness",
+          "duration": "4:04"
+        },
+        {
+          "number": 10,
+          "name": "THE LEGEND",
+          "duration": "4:18"
         }
       ]
     },
@@ -613,6 +613,89 @@
           "duration": "12:19"
         }
       ]
+    },
+    {
+      "name": "METAL FORTH (Deluxe)",
+      "year": "2026",
+      "release_date": "2026-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/2e/66/b12e66cf-c55b-650e-5e2e-6d5efedd078a/26UMGIM40619.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "from me to u",
+          "duration": "3:24"
+        },
+        {
+          "number": 2,
+          "name": "RATATATA",
+          "duration": "3:37"
+        },
+        {
+          "number": 3,
+          "name": "Song 3",
+          "duration": "3:34"
+        },
+        {
+          "number": 4,
+          "name": "Kon! Kon!",
+          "duration": "3:55"
+        },
+        {
+          "number": 5,
+          "name": "KxAxWxAxIxI",
+          "duration": "2:35"
+        },
+        {
+          "number": 6,
+          "name": "Sunset Kiss",
+          "duration": "3:33"
+        },
+        {
+          "number": 7,
+          "name": "My Queen",
+          "duration": "3:20"
+        },
+        {
+          "number": 8,
+          "name": "Algorism",
+          "duration": "3:37"
+        },
+        {
+          "number": 9,
+          "name": "METALI!!",
+          "duration": "3:28"
+        },
+        {
+          "number": 10,
+          "name": "White Flame ー白炎ー",
+          "duration": "4:25"
+        },
+        {
+          "number": 11,
+          "name": "from me to u (feat. Poppy) [Major Lazer Remix]",
+          "duration": "2:06"
+        },
+        {
+          "number": 12,
+          "name": "from me to u (feat. Poppy) [Jordan Fish Remix]",
+          "duration": "3:29"
+        },
+        {
+          "number": 13,
+          "name": "from me to u (feat. Poppy) [LIVE FROM THE O2]",
+          "duration": "4:31"
+        },
+        {
+          "number": 14,
+          "name": "My Queen (LIVE FROM INTUIT DOME)",
+          "duration": "4:07"
+        },
+        {
+          "number": 15,
+          "name": "Algorism (LIVE FROM SAITAMA SUPER ARENA)",
+          "duration": "3:56"
+        }
+      ]
     }
   ],
   "singles": [
@@ -643,6 +726,19 @@
       ]
     },
     {
+      "name": "Bekhauf (feat. BABYMETAL)",
+      "year": "2024",
+      "release_date": "2024-12-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/9a/ad/fa9aadc3-75c8-3881-738f-9fa4cd91fc64/24CRGIM46496.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bekhauf (feat. BABYMETAL)",
+          "duration": "3:48"
+        }
+      ]
+    },
+    {
       "name": "Leave It All Behind",
       "year": "2024",
       "release_date": "2024-03-14",
@@ -665,45 +761,6 @@
           "number": 1,
           "name": "Kasuka na Hana (OP Theme to Hell's Paradise: Jigokuraku Season 2) [feat. BABYMETAL]",
           "duration": "3:07"
-        }
-      ]
-    },
-    {
-      "name": "Bekhauf (feat. BABYMETAL)",
-      "year": "2024",
-      "release_date": "2024-12-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/9a/ad/fa9aadc3-75c8-3881-738f-9fa4cd91fc64/24CRGIM46496.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bekhauf (feat. BABYMETAL)",
-          "duration": "3:48"
-        }
-      ]
-    },
-    {
-      "name": "from me to u (Major Lazer Remix) [feat. Poppy]",
-      "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/97/69/8e976995-c68f-03dd-ba87-1174d798cca1/26UMGIM41216.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "from me to u (feat. Poppy) [Major Lazer Remix]",
-          "duration": "2:06"
-        }
-      ]
-    },
-    {
-      "name": "from me to u (LIVE FROM THE O2) [feat. Poppy]",
-      "year": "2025",
-      "release_date": "2025-10-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/e6/5e/6ee65e45-e4d6-a53c-659a-0cb4e0a7f399/25UM1IM48542.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "from me to u (feat. Poppy) [LIVE FROM THE O2]",
-          "duration": "3:46"
         }
       ]
     },
@@ -734,19 +791,6 @@
       ]
     },
     {
-      "name": "from me to u (Jordan Fish Remix) [feat. Poppy]",
-      "year": "2026",
-      "release_date": "2026-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/c3/c4/e7c3c4f6-5df6-14b5-d0e1-d6cd09d461b7/26UMGIM40619.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "from me to u (feat. Poppy) [Jordan Fish Remix]",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "Get No Satisfied ! (feat. BABYMETAL)",
       "year": "2025",
       "release_date": "2025-10-13",
@@ -760,6 +804,19 @@
       ]
     },
     {
+      "name": "from me to u (LIVE FROM THE O2) [feat. Poppy]",
+      "year": "2025",
+      "release_date": "2025-10-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/e6/5e/6ee65e45-e4d6-a53c-659a-0cb4e0a7f399/25UM1IM48542.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "from me to u (feat. Poppy) [LIVE FROM THE O2]",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
       "name": "Monochrome (Piano Version - From THE FIRST TAKE)",
       "year": "2023",
       "release_date": "2023-05-12",
@@ -769,19 +826,6 @@
           "number": 1,
           "name": "Monochrome (Piano Version - From THE FIRST TAKE)",
           "duration": "3:56"
-        }
-      ]
-    },
-    {
-      "name": "METALI!! (feat. Tom Morello)",
-      "year": "2023",
-      "release_date": "2023-08-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/4d/dd/a84ddd0f-15c4-75bc-3211-7fb4464e1b32/116524.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "METALI!! (feat. Tom Morello)",
-          "duration": "3:28"
         }
       ]
     },
@@ -807,6 +851,45 @@
         {
           "number": 1,
           "name": "METALI!!",
+          "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "from me to u (Major Lazer Remix) [feat. Poppy]",
+      "year": "2026",
+      "release_date": "2026-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/97/69/8e976995-c68f-03dd-ba87-1174d798cca1/26UMGIM41216.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "from me to u (feat. Poppy) [Major Lazer Remix]",
+          "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "name": "from me to u (Jordan Fish Remix) [feat. Poppy]",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/c3/c4/e7c3c4f6-5df6-14b5-d0e1-d6cd09d461b7/26UMGIM40619.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "from me to u (feat. Poppy) [Jordan Fish Remix]",
+          "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "METALI!! (feat. Tom Morello)",
+      "year": "2023",
+      "release_date": "2023-08-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/4d/dd/a84ddd0f-15c4-75bc-3211-7fb4464e1b32/116524.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "METALI!! (feat. Tom Morello)",
           "duration": "3:28"
         }
       ]
@@ -838,19 +921,6 @@
       ]
     },
     {
-      "name": "Monochrome",
-      "year": "2022",
-      "release_date": "2022-11-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/33/f0/e833f0ae-2ac0-24d8-88fa-aae6224831eb/119405.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Monochrome",
-          "duration": "3:57"
-        }
-      ]
-    },
-    {
       "name": "Divine Attack - Shingeki -",
       "year": "2022",
       "release_date": "2022-10-20",
@@ -860,6 +930,19 @@
           "number": 1,
           "name": "Divine Attack - Shingeki -",
           "duration": "3:38"
+        }
+      ]
+    },
+    {
+      "name": "Monochrome",
+      "year": "2022",
+      "release_date": "2022-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/33/f0/e833f0ae-2ac0-24d8-88fa-aae6224831eb/119405.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Monochrome",
+          "duration": "3:57"
         }
       ]
     },

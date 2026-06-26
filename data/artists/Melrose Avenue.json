@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "Cemetery Friend",
+      "year": "2026",
+      "release_date": "2026-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/f0/bf/92f0bf7a-2c63-03cf-fbbe-108a096153fe/3421.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cemetery Friend",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
       "name": "Reflections",
       "year": "2025",
       "release_date": "2025-04-24",
@@ -13,19 +26,6 @@
           "number": 1,
           "name": "Reflections",
           "duration": "3:32"
-        }
-      ]
-    },
-    {
-      "name": "Suffering",
-      "year": "2023",
-      "release_date": "2023-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/90/eb/a490eb7e-ffdc-82d9-379e-fd4420987ef4/2261.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Suffering",
-          "duration": "4:01"
         }
       ]
     },
@@ -143,6 +143,19 @@
           "number": 1,
           "name": "Fool and The Beggar",
           "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Suffering",
+      "year": "2023",
+      "release_date": "2023-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/90/eb/a490eb7e-ffdc-82d9-379e-fd4420987ef4/2261.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Suffering",
+          "duration": "4:01"
         }
       ]
     },

@@ -435,84 +435,6 @@
       ]
     },
     {
-      "name": "Encore",
-      "year": "2016",
-      "release_date": "2016-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/63/ac/63/63ac638b-3de9-9e57-46e7-8e39de90e767/16UMGIM48348.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro (A86)",
-          "duration": "1:23"
-        },
-        {
-          "number": 2,
-          "name": "Middle (feat. Bipolar Sunshine)",
-          "duration": "3:40"
-        },
-        {
-          "number": 3,
-          "name": "Sahara (feat. Skrillex)",
-          "duration": "4:18"
-        },
-        {
-          "number": 4,
-          "name": "Sober (feat. JRY)",
-          "duration": "3:26"
-        },
-        {
-          "number": 5,
-          "name": "Pigalle (feat. Moksi)",
-          "duration": "4:22"
-        },
-        {
-          "number": 6,
-          "name": "Talk",
-          "duration": "3:57"
-        },
-        {
-          "number": 7,
-          "name": "Ocho Cinco (feat. Yellow Claw)",
-          "duration": "3:41"
-        },
-        {
-          "number": 8,
-          "name": "The Half (feat. Jeremih, Young Thug & Swizz Beatz)",
-          "duration": "3:37"
-        },
-        {
-          "number": 9,
-          "name": "Oh Me Oh My (feat. Travis Scott, Migos & GASHI)",
-          "duration": "4:16"
-        },
-        {
-          "number": 10,
-          "name": "Propaganda",
-          "duration": "4:09"
-        },
-        {
-          "number": 11,
-          "name": "4 Life (feat. GASHI)",
-          "duration": "3:32"
-        },
-        {
-          "number": 12,
-          "name": "Future, Pt. 2",
-          "duration": "3:42"
-        },
-        {
-          "number": 13,
-          "name": "Let Me Love You (feat. Justin Bieber)",
-          "duration": "3:25"
-        },
-        {
-          "number": 14,
-          "name": "Here Comes the Night (feat. Mr Hudson)",
-          "duration": "4:46"
-        }
-      ]
-    },
-    {
       "name": "Nomad",
       "year": "2025",
       "release_date": "2025-11-07",
@@ -602,6 +524,84 @@
           "number": 17,
           "name": "Final Fantasy",
           "duration": "7:04"
+        }
+      ]
+    },
+    {
+      "name": "Encore",
+      "year": "2016",
+      "release_date": "2016-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/63/ac/63/63ac638b-3de9-9e57-46e7-8e39de90e767/16UMGIM48348.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro (A86)",
+          "duration": "1:23"
+        },
+        {
+          "number": 2,
+          "name": "Middle (feat. Bipolar Sunshine)",
+          "duration": "3:40"
+        },
+        {
+          "number": 3,
+          "name": "Sahara (feat. Skrillex)",
+          "duration": "4:18"
+        },
+        {
+          "number": 4,
+          "name": "Sober (feat. JRY)",
+          "duration": "3:26"
+        },
+        {
+          "number": 5,
+          "name": "Pigalle (feat. Moksi)",
+          "duration": "4:22"
+        },
+        {
+          "number": 6,
+          "name": "Talk",
+          "duration": "3:57"
+        },
+        {
+          "number": 7,
+          "name": "Ocho Cinco (feat. Yellow Claw)",
+          "duration": "3:41"
+        },
+        {
+          "number": 8,
+          "name": "The Half (feat. Jeremih, Young Thug & Swizz Beatz)",
+          "duration": "3:37"
+        },
+        {
+          "number": 9,
+          "name": "Oh Me Oh My (feat. Travis Scott, Migos & GASHI)",
+          "duration": "4:16"
+        },
+        {
+          "number": 10,
+          "name": "Propaganda",
+          "duration": "4:09"
+        },
+        {
+          "number": 11,
+          "name": "4 Life (feat. GASHI)",
+          "duration": "3:32"
+        },
+        {
+          "number": 12,
+          "name": "Future, Pt. 2",
+          "duration": "3:42"
+        },
+        {
+          "number": 13,
+          "name": "Let Me Love You (feat. Justin Bieber)",
+          "duration": "3:25"
+        },
+        {
+          "number": 14,
+          "name": "Here Comes the Night (feat. Mr Hudson)",
+          "duration": "4:46"
         }
       ]
     },
@@ -881,6 +881,19 @@
       ]
     },
     {
+      "name": "In The Dark",
+      "year": "2025",
+      "release_date": "2025-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/25/0b/d5250b59-2579-d2de-85df-ec5c69eb8968/25UM1IM70958.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In The Dark",
+          "duration": "2:59"
+        }
+      ]
+    },
+    {
       "name": "You Are My High",
       "year": "2021",
       "release_date": "2021-07-28",
@@ -889,6 +902,19 @@
         {
           "number": 1,
           "name": "You Are My High",
+          "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Let Me Love You (feat. Justin Bieber) [Marshmello Remix]",
+      "year": "2016",
+      "release_date": "2016-12-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/85/a4/a3/85a4a36a-7f1a-f167-3a7d-8cec6543741b/00602557325423.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Let Me Love You (feat. Justin Bieber) [Marshmello Remix]",
           "duration": "3:00"
         }
       ]
@@ -940,19 +966,6 @@
       "tracks": []
     },
     {
-      "name": "U Are My High",
-      "year": "2021",
-      "release_date": "2021-12-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/2b/24/312b2426-b2ba-9bdf-8cae-36f4dfff95b0/21UM1IM22398.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "U Are My High",
-          "duration": "3:31"
-        }
-      ]
-    },
-    {
       "name": "Loco Contigo (feat. Tyga)",
       "year": "2019",
       "release_date": "2019-06-14",
@@ -960,15 +973,15 @@
       "tracks": []
     },
     {
-      "name": "In The Dark",
-      "year": "2025",
-      "release_date": "2025-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/25/0b/d5250b59-2579-d2de-85df-ec5c69eb8968/25UM1IM70958.rgb.jpg/600x600bb.jpg",
+      "name": "Let Me Love You (feat. Justin Bieber) [R3hab Remix]",
+      "year": "2017",
+      "release_date": "2017-02-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/32/54/3c/32543c86-f2e5-2a4b-b7b6-cbac89cbfd56/00602557459463.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "In The Dark",
-          "duration": "2:59"
+          "name": "Let Me Love You (feat. Justin Bieber) [R3hab Remix]",
+          "duration": "2:55"
         }
       ]
     },
@@ -1058,19 +1071,6 @@
       ]
     },
     {
-      "name": "Lean On (feat. MØ & DJ Snake)",
-      "year": "2015",
-      "release_date": "2015-03-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/cf/30/e7cf304c-a00e-085b-215c-994cc9839e45/653738275129_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lean On (feat. MØ & DJ Snake)",
-          "duration": "2:56"
-        }
-      ]
-    },
-    {
       "name": "Run It",
       "year": "2021",
       "release_date": "2021-08-13",
@@ -1078,28 +1078,28 @@
       "tracks": []
     },
     {
-      "name": "Tonto",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/2c/e4/212ce45f-19d4-4121-0563-03c479a90f13/26UMGIM17424.rgb.jpg/600x600bb.jpg",
+      "name": "Bring The House Down",
+      "year": "2025",
+      "release_date": "2025-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/1b/84/441b84a3-7e9a-0edf-bdd6-881ce46ceac0/25UM1IM52884.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Tonto",
-          "duration": "2:20"
+          "name": "Bring The House Down",
+          "duration": "3:42"
         }
       ]
     },
     {
-      "name": "Let Me Love You (feat. Justin Bieber) [Tiësto's AFTR:HRS Mix]",
-      "year": "2016",
-      "release_date": "2016-11-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/ce/b8/20ceb85d-5222-cf9a-bd56-acad918863c5/00602557294958.rgb.jpg/600x600bb.jpg",
+      "name": "U Are My High",
+      "year": "2021",
+      "release_date": "2021-12-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/31/2b/24/312b2426-b2ba-9bdf-8cae-36f4dfff95b0/21UM1IM22398.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Let Me Love You (feat. Justin Bieber) [Tiësto's AFTR:HRS Mix]",
-          "duration": "2:35"
+          "name": "U Are My High",
+          "duration": "3:31"
         }
       ]
     },
@@ -1117,19 +1117,6 @@
       ]
     },
     {
-      "name": "Let Me Love You (feat. Justin Bieber) [Marshmello Remix]",
-      "year": "2016",
-      "release_date": "2016-12-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/85/a4/a3/85a4a36a-7f1a-f167-3a7d-8cec6543741b/00602557325423.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Let Me Love You (feat. Justin Bieber) [Marshmello Remix]",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
       "name": "Safety 2020 (feat. DJ Snake, Chris Brown & Afro B)",
       "year": "2020",
       "release_date": "2020-01-24",
@@ -1139,6 +1126,24 @@
           "number": 1,
           "name": "Safety 2020 (feat. DJ Snake, Chris Brown & Afro B)",
           "duration": "3:59"
+        }
+      ]
+    },
+    {
+      "name": "Lean On (feat. MØ & DJ Snake) [Remixes, Vol. 2]",
+      "year": "2015",
+      "release_date": "2015-09-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/a7/3f/29a73f03-a1b5-c8f0-0df7-8dfe107bf929/653738300326_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lean On (feat. MØ & DJ Snake) [Tiësto & MOTi Remix]",
+          "duration": "4:56"
+        },
+        {
+          "number": 2,
+          "name": "Lean On (feat. MØ & DJ Snake) [J Balvin & Farruko Remix]",
+          "duration": "3:50"
         }
       ]
     },
@@ -1254,6 +1259,19 @@
       ]
     },
     {
+      "name": "Goodbyes (Myrrh)",
+      "year": "2024",
+      "release_date": "2024-09-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/27/df/1f27dfbb-2e9a-62b2-1c71-869000bde60a/44228.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Goodbyes (Myrrh)",
+          "duration": "3:30"
+        }
+      ]
+    },
+    {
       "name": "Guddi Riddim (feat. Nooran Sisters)",
       "year": "2022",
       "release_date": "2022-12-20",
@@ -1263,6 +1281,19 @@
           "number": 1,
           "name": "Guddi Riddim (feat. Nooran Sisters)",
           "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "Lean On (feat. MØ & DJ Snake)",
+      "year": "2015",
+      "release_date": "2015-03-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/cf/30/e7cf304c-a00e-085b-215c-994cc9839e45/653738275129_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lean On (feat. MØ & DJ Snake)",
+          "duration": "2:56"
         }
       ]
     },
@@ -1302,6 +1333,32 @@
           "number": 1,
           "name": "Let Me Love You (feat. Justin Bieber) [Andrew Watt Acoustic Remix]",
           "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "Let Me Love You (feat. Justin Bieber) [Tiësto's AFTR:HRS Mix]",
+      "year": "2016",
+      "release_date": "2016-11-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/ce/b8/20ceb85d-5222-cf9a-bd56-acad918863c5/00602557294958.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Let Me Love You (feat. Justin Bieber) [Tiësto's AFTR:HRS Mix]",
+          "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Tonto",
+      "year": "2026",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/2c/e4/212ce45f-19d4-4121-0563-03c479a90f13/26UMGIM17424.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tonto",
+          "duration": "2:20"
         }
       ]
     },
@@ -1354,6 +1411,24 @@
           "number": 1,
           "name": "Let Me Love You (feat. Justin Bieber) [Zedd Remix]",
           "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "Lean On (Alfa Remix)",
+      "year": "2026",
+      "release_date": "2026-02-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/ad/5b/68ad5b37-1f44-e160-6da2-19aa5d4474bf/ticket.fhojzvgd.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lean On (Alfa Remix)",
+          "duration": "2:56"
+        },
+        {
+          "number": 2,
+          "name": "Lean On",
+          "duration": "2:56"
         }
       ]
     },
@@ -1456,19 +1531,6 @@
       ]
     },
     {
-      "name": "Let Me Love You (feat. Justin Bieber) [R3hab Remix]",
-      "year": "2017",
-      "release_date": "2017-02-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/32/54/3c/32543c86-f2e5-2a4b-b7b6-cbac89cbfd56/00602557459463.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Let Me Love You (feat. Justin Bieber) [R3hab Remix]",
-          "duration": "2:55"
-        }
-      ]
-    },
-    {
       "name": "Ring the Alarm",
       "year": "2021",
       "release_date": "2021-07-23",
@@ -1534,19 +1596,6 @@
       ]
     },
     {
-      "name": "WORSHIP",
-      "year": "2026",
-      "release_date": "2026-03-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/ad/7f/f7ad7fcf-a976-2930-bc08-496f82a247b0/199316516678_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "WORSHIP",
-          "duration": "2:43"
-        }
-      ]
-    },
-    {
       "name": "SouthSide (Ship Wrek Remix)",
       "year": "2020",
       "release_date": "2020-01-17",
@@ -1573,24 +1622,6 @@
       ]
     },
     {
-      "name": "Lean On (feat. MØ & DJ Snake) [Remixes, Vol. 2]",
-      "year": "2015",
-      "release_date": "2015-09-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/a7/3f/29a73f03-a1b5-c8f0-0df7-8dfe107bf929/653738300326_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lean On (feat. MØ & DJ Snake) [Tiësto & MOTi Remix]",
-          "duration": "4:56"
-        },
-        {
-          "number": 2,
-          "name": "Lean On (feat. MØ & DJ Snake) [J Balvin & Farruko Remix]",
-          "duration": "3:50"
-        }
-      ]
-    },
-    {
       "name": "Made In France (Wax Motif Remix) [feat. Mercer]",
       "year": "2020",
       "release_date": "2020-01-31",
@@ -1600,24 +1631,6 @@
           "number": 1,
           "name": "Made In France (feat. Mercer) [Wax Motif Remix]",
           "duration": "3:25"
-        }
-      ]
-    },
-    {
-      "name": "Paradise (Remix Pack) [feat. Bipolar Sunshine]",
-      "year": "2025",
-      "release_date": "2025-08-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/0a/ba/320aba3e-7431-efc6-0e7d-36c22614cb82/25UM1IM24825.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Paradise (feat. Bipolar Sunshine) [VIP House Edit]",
-          "duration": "3:18"
-        },
-        {
-          "number": 2,
-          "name": "Paradise (feat. Bipolar Sunshine) [Teez Remix]",
-          "duration": "3:39"
         }
       ]
     },
@@ -1710,6 +1723,19 @@
       ]
     },
     {
+      "name": "WORSHIP",
+      "year": "2026",
+      "release_date": "2026-03-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/ad/7f/f7ad7fcf-a976-2930-bc08-496f82a247b0/199316516678_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "WORSHIP",
+          "duration": "2:43"
+        }
+      ]
+    },
+    {
       "name": "Complicated",
       "year": "2024",
       "release_date": "2024-08-16",
@@ -1732,37 +1758,6 @@
           "number": 1,
           "name": "Deep",
           "duration": "3:33"
-        }
-      ]
-    },
-    {
-      "name": "Lean On (Alfa Remix)",
-      "year": "2026",
-      "release_date": "2026-02-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/ad/5b/68ad5b37-1f44-e160-6da2-19aa5d4474bf/ticket.fhojzvgd.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lean On (Alfa Remix)",
-          "duration": "2:56"
-        },
-        {
-          "number": 2,
-          "name": "Lean On",
-          "duration": "2:56"
-        }
-      ]
-    },
-    {
-      "name": "Bring The House Down",
-      "year": "2025",
-      "release_date": "2025-10-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/1b/84/441b84a3-7e9a-0edf-bdd6-881ce46ceac0/25UM1IM52884.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bring The House Down",
-          "duration": "3:42"
         }
       ]
     },
@@ -1904,19 +1899,6 @@
       "tracks": []
     },
     {
-      "name": "Goodbyes (Myrrh)",
-      "year": "2024",
-      "release_date": "2024-09-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/27/df/1f27dfbb-2e9a-62b2-1c71-869000bde60a/44228.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Goodbyes (Myrrh)",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "Oh Me Oh My (feat. Travis Scott, Migos & G4shi) [Malaa Remix]",
       "year": "2017",
       "release_date": "2017-03-20",
@@ -1939,6 +1921,19 @@
           "number": 1,
           "name": "The Half (feat. Young Thug, Jeremih & Swizz Beatz) [TWRK x GRAVES Remix]",
           "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "Paradise (&friends Remix)",
+      "year": "2026",
+      "release_date": "2026-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/be/03/e2be0358-11c1-9732-3607-7ac7e6129ed0/26UMGIM70739.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Paradise (&friends Remix)",
+          "duration": "3:50"
         }
       ]
     },
@@ -2030,6 +2025,24 @@
           "number": 1,
           "name": "A Different Way (feat. Lauv) [Bro Safari & ETC!ETC! Remix]",
           "duration": "4:39"
+        }
+      ]
+    },
+    {
+      "name": "Paradise (Remix Pack) [feat. Bipolar Sunshine]",
+      "year": "2025",
+      "release_date": "2025-08-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/0a/ba/320aba3e-7431-efc6-0e7d-36c22614cb82/25UM1IM24825.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Paradise (feat. Bipolar Sunshine) [VIP House Edit]",
+          "duration": "3:18"
+        },
+        {
+          "number": 2,
+          "name": "Paradise (feat. Bipolar Sunshine) [Teez Remix]",
+          "duration": "3:39"
         }
       ]
     },
@@ -2251,19 +2264,6 @@
           "number": 1,
           "name": "Get Low (Neo Fresco Remix)",
           "duration": "4:42"
-        }
-      ]
-    },
-    {
-      "name": "Paradise (&friends Remix)",
-      "year": "2026",
-      "release_date": "2026-06-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/be/03/e2be0358-11c1-9732-3607-7ac7e6129ed0/26UMGIM70739.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Paradise (&friends Remix)",
-          "duration": "3:50"
         }
       ]
     },

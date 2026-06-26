@@ -539,29 +539,6 @@
   ],
   "singles": [
     {
-      "name": "Two",
-      "year": "2017",
-      "release_date": "2017-07-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/91/23/369123d0-3814-baa0-765d-25f0f8d0d394/5065002129130_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Calcutta",
-          "duration": "6:53"
-        },
-        {
-          "number": 2,
-          "name": "Nazareth",
-          "duration": "5:36"
-        },
-        {
-          "number": 3,
-          "name": "Jericho",
-          "duration": "5:17"
-        }
-      ]
-    },
-    {
       "name": "One",
       "year": "2016",
       "release_date": "2016-12-02",
@@ -585,6 +562,29 @@
       ]
     },
     {
+      "name": "Two",
+      "year": "2017",
+      "release_date": "2017-07-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/91/23/369123d0-3814-baa0-765d-25f0f8d0d394/5065002129130_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Calcutta",
+          "duration": "6:53"
+        },
+        {
+          "number": 2,
+          "name": "Nazareth",
+          "duration": "5:36"
+        },
+        {
+          "number": 3,
+          "name": "Jericho",
+          "duration": "5:17"
+        }
+      ]
+    },
+    {
       "name": "Jaws",
       "year": "2018",
       "release_date": "2018-06-04",
@@ -594,19 +594,6 @@
           "number": 1,
           "name": "Jaws",
           "duration": "5:55"
-        }
-      ]
-    },
-    {
-      "name": "Is It Really You?",
-      "year": "2022",
-      "release_date": "2022-01-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/71/51/677151b8-140e-04db-fa7f-ed12c0afb26b/5400863107260_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Is It Really You?",
-          "duration": "4:39"
         }
       ]
     },
@@ -637,15 +624,15 @@
       ]
     },
     {
-      "name": "Vore",
-      "year": "2023",
-      "release_date": "2023-02-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/a9/1b/55a91bd9-2c8b-6bc9-daf7-9adec23cb097/5401148000924_cover.jpg/600x600bb.jpg",
+      "name": "Is It Really You?",
+      "year": "2022",
+      "release_date": "2022-01-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/71/51/677151b8-140e-04db-fa7f-ed12c0afb26b/5400863107260_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Vore",
-          "duration": "5:39"
+          "name": "Is It Really You?",
+          "duration": "4:39"
         }
       ]
     },
@@ -695,6 +682,19 @@
           "number": 1,
           "name": "Granite",
           "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "Vore",
+      "year": "2023",
+      "release_date": "2023-02-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/a9/1b/55a91bd9-2c8b-6bc9-daf7-9adec23cb097/5401148000924_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Vore",
+          "duration": "5:39"
         }
       ]
     },

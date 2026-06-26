@@ -3,59 +3,6 @@
   "id": 1000673755,
   "albums": [
     {
-      "name": "Death Hilarious",
-      "year": "2025",
-      "release_date": "2025-04-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/a2/3d/24a23d77-8a82-18fb-4f7c-475ee9461271/199066276389.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blockage",
-          "duration": "2:51"
-        },
-        {
-          "number": 2,
-          "name": "Detroit",
-          "duration": "5:39"
-        },
-        {
-          "number": 3,
-          "name": "Collider",
-          "duration": "3:27"
-        },
-        {
-          "number": 4,
-          "name": "Stitches",
-          "duration": "5:27"
-        },
-        {
-          "number": 5,
-          "name": "Glib Tongued",
-          "duration": "3:43"
-        },
-        {
-          "number": 6,
-          "name": "The Wyrm",
-          "duration": "7:04"
-        },
-        {
-          "number": 7,
-          "name": "Carousel",
-          "duration": "5:03"
-        },
-        {
-          "number": 8,
-          "name": "Coyote Call",
-          "duration": "3:52"
-        },
-        {
-          "number": 9,
-          "name": "Toecurler",
-          "duration": "8:27"
-        }
-      ]
-    },
-    {
       "name": "Land of Sleeper",
       "year": "2023",
       "release_date": "2023-02-17",
@@ -209,6 +156,59 @@
           "number": 3,
           "name": "Icon",
           "duration": "16:59"
+        }
+      ]
+    },
+    {
+      "name": "Death Hilarious",
+      "year": "2025",
+      "release_date": "2025-04-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/a2/3d/24a23d77-8a82-18fb-4f7c-475ee9461271/199066276389.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blockage",
+          "duration": "2:51"
+        },
+        {
+          "number": 2,
+          "name": "Detroit",
+          "duration": "5:39"
+        },
+        {
+          "number": 3,
+          "name": "Collider",
+          "duration": "3:27"
+        },
+        {
+          "number": 4,
+          "name": "Stitches",
+          "duration": "5:27"
+        },
+        {
+          "number": 5,
+          "name": "Glib Tongued",
+          "duration": "3:43"
+        },
+        {
+          "number": 6,
+          "name": "The Wyrm",
+          "duration": "7:04"
+        },
+        {
+          "number": 7,
+          "name": "Carousel",
+          "duration": "5:03"
+        },
+        {
+          "number": 8,
+          "name": "Coyote Call",
+          "duration": "3:52"
+        },
+        {
+          "number": 9,
+          "name": "Toecurler",
+          "duration": "8:27"
         }
       ]
     },

@@ -3,99 +3,6 @@
   "id": 1413545983,
   "albums": [
     {
-      "name": "NIGHTS AFTER VAMP",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/9c/c2/2f9cc2fa-7129-2bae-8dee-f83bb24f70f3/0045778817603.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DANGEROUS",
-          "duration": "4:06"
-        },
-        {
-          "number": 2,
-          "name": "ASK FOR IT",
-          "duration": "3:45"
-        },
-        {
-          "number": 3,
-          "name": "HIGH",
-          "duration": "3:23"
-        },
-        {
-          "number": 4,
-          "name": "MINDGAMES",
-          "duration": "3:14"
-        },
-        {
-          "number": 5,
-          "name": "CHASING SHADOWS",
-          "duration": "3:42"
-        },
-        {
-          "number": 6,
-          "name": "SHALLOW (Acoustic)",
-          "duration": "3:42"
-        },
-        {
-          "number": 7,
-          "name": "PAIN",
-          "duration": "3:29"
-        },
-        {
-          "number": 8,
-          "name": "SHADOW TALK",
-          "duration": "2:59"
-        },
-        {
-          "number": 9,
-          "name": "CULT",
-          "duration": "3:07"
-        },
-        {
-          "number": 10,
-          "name": "THE SCREAMS",
-          "duration": "3:14"
-        },
-        {
-          "number": 11,
-          "name": "WORSHIP",
-          "duration": "3:10"
-        },
-        {
-          "number": 12,
-          "name": "SHALLOW",
-          "duration": "3:29"
-        },
-        {
-          "number": 13,
-          "name": "OMEN",
-          "duration": "3:21"
-        },
-        {
-          "number": 14,
-          "name": "WASTED",
-          "duration": "2:42"
-        },
-        {
-          "number": 15,
-          "name": "CRAVE",
-          "duration": "3:13"
-        },
-        {
-          "number": 16,
-          "name": "REASONS",
-          "duration": "3:37"
-        },
-        {
-          "number": 17,
-          "name": "OPHELIA",
-          "duration": "4:20"
-        }
-      ]
-    },
-    {
       "name": "Vamp",
       "year": "2025",
       "release_date": "2025-04-11",
@@ -233,6 +140,99 @@
           "number": 14,
           "name": "Sentry",
           "duration": "4:03"
+        }
+      ]
+    },
+    {
+      "name": "NIGHTS AFTER VAMP",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/9c/c2/2f9cc2fa-7129-2bae-8dee-f83bb24f70f3/0045778817603.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DANGEROUS",
+          "duration": "4:06"
+        },
+        {
+          "number": 2,
+          "name": "ASK FOR IT",
+          "duration": "3:45"
+        },
+        {
+          "number": 3,
+          "name": "HIGH",
+          "duration": "3:23"
+        },
+        {
+          "number": 4,
+          "name": "MINDGAMES",
+          "duration": "3:14"
+        },
+        {
+          "number": 5,
+          "name": "CHASING SHADOWS",
+          "duration": "3:42"
+        },
+        {
+          "number": 6,
+          "name": "SHALLOW (Acoustic)",
+          "duration": "3:42"
+        },
+        {
+          "number": 7,
+          "name": "PAIN",
+          "duration": "3:29"
+        },
+        {
+          "number": 8,
+          "name": "SHADOW TALK",
+          "duration": "2:59"
+        },
+        {
+          "number": 9,
+          "name": "CULT",
+          "duration": "3:07"
+        },
+        {
+          "number": 10,
+          "name": "THE SCREAMS",
+          "duration": "3:14"
+        },
+        {
+          "number": 11,
+          "name": "WORSHIP",
+          "duration": "3:10"
+        },
+        {
+          "number": 12,
+          "name": "SHALLOW",
+          "duration": "3:29"
+        },
+        {
+          "number": 13,
+          "name": "OMEN",
+          "duration": "3:21"
+        },
+        {
+          "number": 14,
+          "name": "WASTED",
+          "duration": "2:42"
+        },
+        {
+          "number": 15,
+          "name": "CRAVE",
+          "duration": "3:13"
+        },
+        {
+          "number": 16,
+          "name": "REASONS",
+          "duration": "3:37"
+        },
+        {
+          "number": 17,
+          "name": "OPHELIA",
+          "duration": "4:20"
         }
       ]
     },
@@ -491,19 +491,6 @@
       ]
     },
     {
-      "name": "CHASING SHADOWS",
-      "year": "2025",
-      "release_date": "2025-11-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/fc/95/4ffc951c-9fcc-7cb3-b309-5c5d4515b143/0045778812387.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CHASING SHADOWS",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
       "name": "Don't Be Racist",
       "year": "2022",
       "release_date": "2022-07-07",
@@ -513,6 +500,19 @@
           "number": 1,
           "name": "Don't Be Racist",
           "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "CHASING SHADOWS",
+      "year": "2025",
+      "release_date": "2025-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/fc/95/4ffc951c-9fcc-7cb3-b309-5c5d4515b143/0045778812387.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CHASING SHADOWS",
+          "duration": "3:42"
         }
       ]
     },
@@ -630,6 +630,19 @@
           "number": 1,
           "name": "Hellstar",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "Murder Scene",
+      "year": "2026",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/ac/bd/6eacbdc0-95d1-55ab-76cb-f18730becb0d/3272.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Murder Scene",
+          "duration": "3:10"
         }
       ]
     },
@@ -760,19 +773,6 @@
           "number": 1,
           "name": "Nice to Meet You",
           "duration": "3:30"
-        }
-      ]
-    },
-    {
-      "name": "Murder Scene",
-      "year": "2026",
-      "release_date": "2026-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/ac/bd/6eacbdc0-95d1-55ab-76cb-f18730becb0d/3272.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Murder Scene",
-          "duration": "3:10"
         }
       ]
     },
@@ -992,6 +992,19 @@
       "release_date": "2021-10-15",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/cf/e5/26cfe535-ee4a-76ed-6fd8-a6a664a55644/0045778790838.png/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "Good Girl (feat. Ari Abdul)",
+      "year": "2026",
+      "release_date": "2026-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/4d/c3/854dc3e4-7803-9c26-0812-dfd70c8ee8f1/823375258704_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Good Girl (feat. Ari Abdul)",
+          "duration": "2:48"
+        }
+      ]
     }
   ],
   "eps": [

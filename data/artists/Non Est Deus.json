@@ -3,69 +3,6 @@
   "id": 1598304436,
   "albums": [
     {
-      "name": "Blessings and Curses",
-      "year": "2026",
-      "release_date": "2026-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/f6/bc/abf6bcb6-7385-980f-65a0-38bd2f5d118c/196874006634.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Prayer I",
-          "duration": "1:07"
-        },
-        {
-          "number": 2,
-          "name": "Show Mercy",
-          "duration": "4:38"
-        },
-        {
-          "number": 3,
-          "name": "Forgive Me",
-          "duration": "3:51"
-        },
-        {
-          "number": 4,
-          "name": "My Lord",
-          "duration": "5:23"
-        },
-        {
-          "number": 5,
-          "name": "The Forsaken",
-          "duration": "5:40"
-        },
-        {
-          "number": 6,
-          "name": "Prayer II",
-          "duration": "0:34"
-        },
-        {
-          "number": 7,
-          "name": "Transgression",
-          "duration": "5:34"
-        },
-        {
-          "number": 8,
-          "name": "Kora",
-          "duration": "5:13"
-        },
-        {
-          "number": 9,
-          "name": "The Sacrifice",
-          "duration": "4:33"
-        },
-        {
-          "number": 10,
-          "name": "The Indulgence",
-          "duration": "4:10"
-        },
-        {
-          "number": 11,
-          "name": "Prayer III",
-          "duration": "0:58"
-        }
-      ]
-    },
-    {
       "name": "Legacy",
       "year": "2023",
       "release_date": "2023-05-12",
@@ -163,6 +100,69 @@
           "number": 8,
           "name": "The Ascension",
           "duration": "6:12"
+        }
+      ]
+    },
+    {
+      "name": "Blessings and Curses",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/f6/bc/abf6bcb6-7385-980f-65a0-38bd2f5d118c/196874006634.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Prayer I",
+          "duration": "1:07"
+        },
+        {
+          "number": 2,
+          "name": "Show Mercy",
+          "duration": "4:38"
+        },
+        {
+          "number": 3,
+          "name": "Forgive Me",
+          "duration": "3:51"
+        },
+        {
+          "number": 4,
+          "name": "My Lord",
+          "duration": "5:23"
+        },
+        {
+          "number": 5,
+          "name": "The Forsaken",
+          "duration": "5:40"
+        },
+        {
+          "number": 6,
+          "name": "Prayer II",
+          "duration": "0:34"
+        },
+        {
+          "number": 7,
+          "name": "Transgression",
+          "duration": "5:34"
+        },
+        {
+          "number": 8,
+          "name": "Kora",
+          "duration": "5:13"
+        },
+        {
+          "number": 9,
+          "name": "The Sacrifice",
+          "duration": "4:33"
+        },
+        {
+          "number": 10,
+          "name": "The Indulgence",
+          "duration": "4:10"
+        },
+        {
+          "number": 11,
+          "name": "Prayer III",
+          "duration": "0:58"
         }
       ]
     },

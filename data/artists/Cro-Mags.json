@@ -139,6 +139,54 @@
       ]
     },
     {
+      "name": "Best Wishes",
+      "year": "1989",
+      "release_date": "1989-04-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3c/e6/72/3ce672d9-4d2f-d8b7-521c-325836ebaf23/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Death Camps",
+          "duration": "5:22"
+        },
+        {
+          "number": 2,
+          "name": "Days of Confusion",
+          "duration": "2:19"
+        },
+        {
+          "number": 3,
+          "name": "The Only One",
+          "duration": "4:55"
+        },
+        {
+          "number": 4,
+          "name": "Down but Not Out",
+          "duration": "3:59"
+        },
+        {
+          "number": 5,
+          "name": "Crush the Demoniac",
+          "duration": "3:56"
+        },
+        {
+          "number": 6,
+          "name": "Fugitive",
+          "duration": "4:40"
+        },
+        {
+          "number": 7,
+          "name": "Then and Now",
+          "duration": "3:12"
+        },
+        {
+          "number": 8,
+          "name": "Age of Quarrel",
+          "duration": "4:45"
+        }
+      ]
+    },
+    {
       "name": "In the Beginning",
       "year": "2020",
       "release_date": "2020-06-19",
@@ -208,54 +256,6 @@
           "number": 13,
           "name": "There Was a Time",
           "duration": "2:25"
-        }
-      ]
-    },
-    {
-      "name": "Best Wishes",
-      "year": "1989",
-      "release_date": "1989-04-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3c/e6/72/3ce672d9-4d2f-d8b7-521c-325836ebaf23/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Death Camps",
-          "duration": "5:22"
-        },
-        {
-          "number": 2,
-          "name": "Days of Confusion",
-          "duration": "2:19"
-        },
-        {
-          "number": 3,
-          "name": "The Only One",
-          "duration": "4:55"
-        },
-        {
-          "number": 4,
-          "name": "Down but Not Out",
-          "duration": "3:59"
-        },
-        {
-          "number": 5,
-          "name": "Crush the Demoniac",
-          "duration": "3:56"
-        },
-        {
-          "number": 6,
-          "name": "Fugitive",
-          "duration": "4:40"
-        },
-        {
-          "number": 7,
-          "name": "Then and Now",
-          "duration": "3:12"
-        },
-        {
-          "number": 8,
-          "name": "Age of Quarrel",
-          "duration": "4:45"
         }
       ]
     },
@@ -1028,19 +1028,6 @@
   ],
   "singles": [
     {
-      "name": "Wired For Chaos",
-      "year": "2026",
-      "release_date": "2026-06-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/70/9b/83709b26-f7f0-30af-c422-c6a1e39651c1/820233424783.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wired For Chaos",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "It's the Limit",
       "year": "2008",
       "release_date": "2008-04-18",
@@ -1054,15 +1041,15 @@
       ]
     },
     {
-      "name": "Hard Times (The Wired For Chaos Sessions)",
+      "name": "Wired For Chaos",
       "year": "2026",
-      "release_date": "2026-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/7b/fe/c27bfe99-7004-36b2-9273-a31bc9952ce3/artwork.jpg/600x600bb.jpg",
+      "release_date": "2026-06-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/70/9b/83709b26-f7f0-30af-c422-c6a1e39651c1/820233424783.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Hard Times (The Wired For Chaos Sessions)",
-          "duration": "1:35"
+          "name": "Wired For Chaos",
+          "duration": "3:06"
         }
       ]
     },
@@ -1135,6 +1122,19 @@
           "number": 1,
           "name": "Pull Me Push Me",
           "duration": "4:34"
+        }
+      ]
+    },
+    {
+      "name": "Hard Times (The Wired For Chaos Sessions)",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/7b/fe/c27bfe99-7004-36b2-9273-a31bc9952ce3/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hard Times (The Wired For Chaos Sessions)",
+          "duration": "1:35"
         }
       ]
     },

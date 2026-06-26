@@ -4,24 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "MONTAGEM ELECTRONICA",
-      "year": "2026",
-      "release_date": "2026-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/0d/e9/fa0de9cd-f214-d1ce-c7e1-13c99db62f23/3178974.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM ELECTRONICA",
-          "duration": "1:29"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM ELECTRONICA (Slowed)",
-          "duration": "1:47"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM QUERSENTANO! (Versions)",
       "year": "2026",
       "release_date": "2026-05-05",
@@ -43,37 +25,27 @@
           "duration": "1:52"
         }
       ]
-    }
-  ],
-  "eps": [
+    },
     {
-      "name": "MONTAGEM ECTRON",
-      "year": "2025",
-      "release_date": "2025-10-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/c0/e0/1ac0e076-ef32-cf13-eb5c-69bcb7ef3808/199806055281.jpg/600x600bb.jpg",
+      "name": "MONTAGEM ELECTRONICA",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/0d/e9/fa0de9cd-f214-d1ce-c7e1-13c99db62f23/3178974.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "MONTAGEM ECTRON",
-          "duration": "1:27"
+          "name": "MONTAGEM ELECTRONICA",
+          "duration": "1:29"
         },
         {
           "number": 2,
-          "name": "MONTAGEM ECTRON (SPEED)",
-          "duration": "1:17"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM ECTRON (SLOWED)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM ECTRON (SUPER SLOWED)",
-          "duration": "1:50"
+          "name": "MONTAGEM ELECTRONICA (Slowed)",
+          "duration": "1:47"
         }
       ]
-    },
+    }
+  ],
+  "eps": [
     {
       "name": "NOPE ALREADY HIGH FUNK",
       "year": "2025",
@@ -99,118 +71,6 @@
           "number": 4,
           "name": "NOPE ALREADY HIGH FUNK (SUPER SLOWED)",
           "duration": "1:39"
-        }
-      ]
-    },
-    {
-      "name": "ECLETICA MORTAL",
-      "year": "2025",
-      "release_date": "2025-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/36/81/ba36817b-7fdc-b613-bdbb-29de566aa170/663918569146.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ECLETICA MORTAL",
-          "duration": "2:02"
-        },
-        {
-          "number": 2,
-          "name": "ECLETICA MORTAL (SLOWED)",
-          "duration": "2:26"
-        },
-        {
-          "number": 3,
-          "name": "ECLETICA MORTAL (SUPER SLOWED)",
-          "duration": "2:34"
-        },
-        {
-          "number": 4,
-          "name": "ECLETICA MORTAL (SPEED)",
-          "duration": "1:43"
-        }
-      ]
-    },
-    {
-      "name": "VAI SAFADA",
-      "year": "2026",
-      "release_date": "2026-03-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/6f/07/686f075b-d46e-f2c8-71c4-06d730517d68/820200664860.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "VAI SAFADA",
-          "duration": "1:36"
-        },
-        {
-          "number": 2,
-          "name": "VAI SAFADA (SPEED)",
-          "duration": "1:29"
-        },
-        {
-          "number": 3,
-          "name": "VAI SAFADA (SLOWED)",
-          "duration": "1:43"
-        },
-        {
-          "number": 4,
-          "name": "VAI SAFADA (SUPER SLOWED)",
-          "duration": "1:53"
-        }
-      ]
-    },
-    {
-      "name": "VANIDO",
-      "year": "2026",
-      "release_date": "2026-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/54/b6/d054b681-37fc-1795-d6bd-a66caa0efb9d/820233518192.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "VANIDO",
-          "duration": "1:54"
-        },
-        {
-          "number": 2,
-          "name": "VANIDO (SPEED)",
-          "duration": "1:41"
-        },
-        {
-          "number": 3,
-          "name": "VANIDO (SLOWED)",
-          "duration": "2:08"
-        },
-        {
-          "number": 4,
-          "name": "VANIDO (SUPER SLOWED)",
-          "duration": "2:15"
-        }
-      ]
-    },
-    {
-      "name": "EPINOSE PULSÍVA",
-      "year": "2025",
-      "release_date": "2025-08-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/ee/57/1aee5723-be93-a5c8-4c51-d45d680a2247/199538593631.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "EPINOSE PULSÍVA",
-          "duration": "1:59"
-        },
-        {
-          "number": 2,
-          "name": "EPINOSE PULSÍVA (SPEED)",
-          "duration": "1:47"
-        },
-        {
-          "number": 3,
-          "name": "EPINOSE PULSÍVA (SLOWED)",
-          "duration": "2:08"
-        },
-        {
-          "number": 4,
-          "name": "EPINOSE PULSÍVA (SUPER SLOWED)",
-          "duration": "2:21"
         }
       ]
     },
@@ -465,6 +325,153 @@
           "number": 5,
           "name": "MONTAGEM KNIGHT (Sped Up)",
           "duration": "1:15"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM ECTRON",
+      "year": "2025",
+      "release_date": "2025-10-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/c0/e0/1ac0e076-ef32-cf13-eb5c-69bcb7ef3808/199806055281.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM ECTRON",
+          "duration": "1:27"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM ECTRON (SPEED)",
+          "duration": "1:17"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM ECTRON (SLOWED)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM ECTRON (SUPER SLOWED)",
+          "duration": "1:50"
+        }
+      ]
+    },
+    {
+      "name": "ECLETICA MORTAL",
+      "year": "2025",
+      "release_date": "2025-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/36/81/ba36817b-7fdc-b613-bdbb-29de566aa170/663918569146.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ECLETICA MORTAL",
+          "duration": "2:02"
+        },
+        {
+          "number": 2,
+          "name": "ECLETICA MORTAL (SLOWED)",
+          "duration": "2:26"
+        },
+        {
+          "number": 3,
+          "name": "ECLETICA MORTAL (SUPER SLOWED)",
+          "duration": "2:34"
+        },
+        {
+          "number": 4,
+          "name": "ECLETICA MORTAL (SPEED)",
+          "duration": "1:43"
+        }
+      ]
+    },
+    {
+      "name": "VAI SAFADA",
+      "year": "2026",
+      "release_date": "2026-03-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/6f/07/686f075b-d46e-f2c8-71c4-06d730517d68/820200664860.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "VAI SAFADA",
+          "duration": "1:36"
+        },
+        {
+          "number": 2,
+          "name": "VAI SAFADA (SPEED)",
+          "duration": "1:29"
+        },
+        {
+          "number": 3,
+          "name": "VAI SAFADA (SLOWED)",
+          "duration": "1:43"
+        },
+        {
+          "number": 4,
+          "name": "VAI SAFADA (SUPER SLOWED)",
+          "duration": "1:53"
+        }
+      ]
+    },
+    {
+      "name": "VANIDO",
+      "year": "2026",
+      "release_date": "2026-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/54/b6/d054b681-37fc-1795-d6bd-a66caa0efb9d/820233518192.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "VANIDO",
+          "duration": "1:54"
+        },
+        {
+          "number": 2,
+          "name": "VANIDO (SPEED)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "VANIDO (SLOWED)",
+          "duration": "2:08"
+        },
+        {
+          "number": 4,
+          "name": "VANIDO (SUPER SLOWED)",
+          "duration": "2:15"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM MJ",
+      "year": "2026",
+      "release_date": "2026-06-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/49/b9/4d49b99c-dbd2-62fc-8666-f8110907f99c/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "EPINOSE PULSÍVA",
+      "year": "2025",
+      "release_date": "2025-08-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/ee/57/1aee5723-be93-a5c8-4c51-d45d680a2247/199538593631.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "EPINOSE PULSÍVA",
+          "duration": "1:59"
+        },
+        {
+          "number": 2,
+          "name": "EPINOSE PULSÍVA (SPEED)",
+          "duration": "1:47"
+        },
+        {
+          "number": 3,
+          "name": "EPINOSE PULSÍVA (SLOWED)",
+          "duration": "2:08"
+        },
+        {
+          "number": 4,
+          "name": "EPINOSE PULSÍVA (SUPER SLOWED)",
+          "duration": "2:21"
         }
       ]
     }

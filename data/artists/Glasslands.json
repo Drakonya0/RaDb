@@ -3,64 +3,6 @@
   "id": 657725369,
   "albums": [
     {
-      "name": "The Deep",
-      "year": "2022",
-      "release_date": "2022-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/95/d2/ac/95d2acc7-0002-513e-d4f8-29853ca3b2b4/794558904568.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Beggar",
-          "duration": "4:10"
-        },
-        {
-          "number": 2,
-          "name": "Mr. Creeps",
-          "duration": "3:07"
-        },
-        {
-          "number": 3,
-          "name": "Mad",
-          "duration": "3:28"
-        },
-        {
-          "number": 4,
-          "name": "Secret",
-          "duration": "3:40"
-        },
-        {
-          "number": 5,
-          "name": "Ghosts",
-          "duration": "4:45"
-        },
-        {
-          "number": 6,
-          "name": "Silent Prey",
-          "duration": "4:42"
-        },
-        {
-          "number": 7,
-          "name": "Bury My Flame",
-          "duration": "3:40"
-        },
-        {
-          "number": 8,
-          "name": "Liar",
-          "duration": "4:07"
-        },
-        {
-          "number": 9,
-          "name": "I Can't Bend",
-          "duration": "3:46"
-        },
-        {
-          "number": 10,
-          "name": "Let Go",
-          "duration": "7:05"
-        }
-      ]
-    },
-    {
       "name": "Pariah",
       "year": "2016",
       "release_date": "2016-09-23",
@@ -115,6 +57,64 @@
           "number": 10,
           "name": "Go for Broke",
           "duration": "4:11"
+        }
+      ]
+    },
+    {
+      "name": "The Deep",
+      "year": "2022",
+      "release_date": "2022-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/95/d2/ac/95d2acc7-0002-513e-d4f8-29853ca3b2b4/794558904568.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Beggar",
+          "duration": "4:10"
+        },
+        {
+          "number": 2,
+          "name": "Mr. Creeps",
+          "duration": "3:07"
+        },
+        {
+          "number": 3,
+          "name": "Mad",
+          "duration": "3:28"
+        },
+        {
+          "number": 4,
+          "name": "Secret",
+          "duration": "3:40"
+        },
+        {
+          "number": 5,
+          "name": "Ghosts",
+          "duration": "4:45"
+        },
+        {
+          "number": 6,
+          "name": "Silent Prey",
+          "duration": "4:42"
+        },
+        {
+          "number": 7,
+          "name": "Bury My Flame",
+          "duration": "3:40"
+        },
+        {
+          "number": 8,
+          "name": "Liar",
+          "duration": "4:07"
+        },
+        {
+          "number": 9,
+          "name": "I Can't Bend",
+          "duration": "3:46"
+        },
+        {
+          "number": 10,
+          "name": "Let Go",
+          "duration": "7:05"
         }
       ]
     }

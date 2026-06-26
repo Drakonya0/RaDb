@@ -3,150 +3,6 @@
   "id": 1227770048,
   "albums": [
     {
-      "name": "Levitation Sessions (Live)",
-      "year": "2021",
-      "release_date": "2021-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/24/bb/6c/24bb6c86-324a-2eec-ae33-88dbe5463c99/196006859756.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ummon (Live)",
-          "duration": "6:33"
-        },
-        {
-          "number": 2,
-          "name": "It's Coming... (Live)",
-          "duration": "10:58"
-        },
-        {
-          "number": 3,
-          "name": "Thousand Helmets of Gold (Live)",
-          "duration": "6:12"
-        },
-        {
-          "number": 4,
-          "name": "Citadel on a Satellite (Live)",
-          "duration": "15:02"
-        },
-        {
-          "number": 5,
-          "name": "Hyperion (Live)",
-          "duration": "4:38"
-        },
-        {
-          "number": 6,
-          "name": "Heavy Road (Live)",
-          "duration": "8:11"
-        },
-        {
-          "number": 7,
-          "name": "Altitude Lake (Live)",
-          "duration": "6:04"
-        },
-        {
-          "number": 8,
-          "name": "Lions, Tigers and Bears (Live)",
-          "duration": "18:03"
-        }
-      ]
-    },
-    {
-      "name": "Fantasia",
-      "year": "2026",
-      "release_date": "2026-06-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/a2/c7/3fa2c7bb-07c4-3c6c-366c-78ccf3981db1/098787172560.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fantasia",
-          "duration": "8:57"
-        },
-        {
-          "number": 2,
-          "name": "Corrupted Sky",
-          "duration": "6:13"
-        },
-        {
-          "number": 3,
-          "name": "The Village",
-          "duration": "5:24"
-        },
-        {
-          "number": 4,
-          "name": "A Storm of Wings",
-          "duration": "6:25"
-        },
-        {
-          "number": 5,
-          "name": "Orbis Tertius",
-          "duration": "6:17"
-        },
-        {
-          "number": 6,
-          "name": "Waiting Man",
-          "duration": "4:53"
-        },
-        {
-          "number": 7,
-          "name": "The Day of Execution",
-          "duration": "5:12"
-        },
-        {
-          "number": 8,
-          "name": "Secret Mirror",
-          "duration": "5:34"
-        }
-      ]
-    },
-    {
-      "name": "ILION",
-      "year": "2024",
-      "release_date": "2024-01-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4d/7a/f0/4d7af0c1-57e9-be4c-d7c5-42947cde4a6b/098787162660.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ilion",
-          "duration": "11:08"
-        },
-        {
-          "number": 2,
-          "name": "Nimh",
-          "duration": "9:38"
-        },
-        {
-          "number": 3,
-          "name": "The Words That Have Never Been Heard",
-          "duration": "12:31"
-        },
-        {
-          "number": 4,
-          "name": "Confluence",
-          "duration": "8:36"
-        },
-        {
-          "number": 5,
-          "name": "Weavers' Weft",
-          "duration": "9:41"
-        },
-        {
-          "number": 6,
-          "name": "Uruk",
-          "duration": "9:54"
-        },
-        {
-          "number": 7,
-          "name": "The Story That Has Never Been Told",
-          "duration": "12:34"
-        },
-        {
-          "number": 8,
-          "name": "Enter the Loop",
-          "duration": "5:02"
-        }
-      ]
-    },
-    {
       "name": "UMMON",
       "year": "2020",
       "release_date": "2020-02-28",
@@ -243,6 +99,54 @@
       ]
     },
     {
+      "name": "Levitation Sessions (Live)",
+      "year": "2021",
+      "release_date": "2021-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/24/bb/6c/24bb6c86-324a-2eec-ae33-88dbe5463c99/196006859756.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ummon (Live)",
+          "duration": "6:33"
+        },
+        {
+          "number": 2,
+          "name": "It's Coming... (Live)",
+          "duration": "10:58"
+        },
+        {
+          "number": 3,
+          "name": "Thousand Helmets of Gold (Live)",
+          "duration": "6:12"
+        },
+        {
+          "number": 4,
+          "name": "Citadel on a Satellite (Live)",
+          "duration": "15:02"
+        },
+        {
+          "number": 5,
+          "name": "Hyperion (Live)",
+          "duration": "4:38"
+        },
+        {
+          "number": 6,
+          "name": "Heavy Road (Live)",
+          "duration": "8:11"
+        },
+        {
+          "number": 7,
+          "name": "Altitude Lake (Live)",
+          "duration": "6:04"
+        },
+        {
+          "number": 8,
+          "name": "Lions, Tigers and Bears (Live)",
+          "duration": "18:03"
+        }
+      ]
+    },
+    {
       "name": "La Planète Inexplorée",
       "year": "2018",
       "release_date": "2018-09-28",
@@ -292,6 +196,102 @@
           "number": 9,
           "name": "Silent Giant",
           "duration": "6:23"
+        }
+      ]
+    },
+    {
+      "name": "ILION",
+      "year": "2024",
+      "release_date": "2024-01-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4d/7a/f0/4d7af0c1-57e9-be4c-d7c5-42947cde4a6b/098787162660.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ilion",
+          "duration": "11:08"
+        },
+        {
+          "number": 2,
+          "name": "Nimh",
+          "duration": "9:38"
+        },
+        {
+          "number": 3,
+          "name": "The Words That Have Never Been Heard",
+          "duration": "12:31"
+        },
+        {
+          "number": 4,
+          "name": "Confluence",
+          "duration": "8:36"
+        },
+        {
+          "number": 5,
+          "name": "Weavers' Weft",
+          "duration": "9:41"
+        },
+        {
+          "number": 6,
+          "name": "Uruk",
+          "duration": "9:54"
+        },
+        {
+          "number": 7,
+          "name": "The Story That Has Never Been Told",
+          "duration": "12:34"
+        },
+        {
+          "number": 8,
+          "name": "Enter the Loop",
+          "duration": "5:02"
+        }
+      ]
+    },
+    {
+      "name": "Fantasia",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/a2/c7/3fa2c7bb-07c4-3c6c-366c-78ccf3981db1/098787172560.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fantasia",
+          "duration": "8:57"
+        },
+        {
+          "number": 2,
+          "name": "Corrupted Sky",
+          "duration": "6:13"
+        },
+        {
+          "number": 3,
+          "name": "The Village",
+          "duration": "5:24"
+        },
+        {
+          "number": 4,
+          "name": "A Storm of Wings",
+          "duration": "6:25"
+        },
+        {
+          "number": 5,
+          "name": "Orbis Tertius",
+          "duration": "6:17"
+        },
+        {
+          "number": 6,
+          "name": "Waiting Man",
+          "duration": "4:53"
+        },
+        {
+          "number": 7,
+          "name": "The Day of Execution",
+          "duration": "5:12"
+        },
+        {
+          "number": 8,
+          "name": "Secret Mirror",
+          "duration": "5:34"
         }
       ]
     },

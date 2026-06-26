@@ -149,94 +149,6 @@
       ]
     },
     {
-      "name": "Nur das Beste: Ricchi e Poveri",
-      "year": "2004",
-      "release_date": "2004-03-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/c6/df/9d/mzi.ngbmjcuk.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mamma Maria",
-          "duration": "2:53"
-        },
-        {
-          "number": 2,
-          "name": "Made In Italy",
-          "duration": "3:19"
-        },
-        {
-          "number": 3,
-          "name": "Sarà Perché Ti Amo",
-          "duration": "3:09"
-        },
-        {
-          "number": 4,
-          "name": "Dimmi Quando",
-          "duration": "3:26"
-        },
-        {
-          "number": 5,
-          "name": "Piccolo Amore",
-          "duration": "3:18"
-        },
-        {
-          "number": 6,
-          "name": "Ciao Italy, ciao amore",
-          "duration": "3:00"
-        },
-        {
-          "number": 7,
-          "name": "E Penso a Te",
-          "duration": "3:07"
-        },
-        {
-          "number": 8,
-          "name": "Hasta La Vista",
-          "duration": "5:40"
-        },
-        {
-          "number": 9,
-          "name": "Amarsi Un Po'",
-          "duration": "3:21"
-        },
-        {
-          "number": 10,
-          "name": "Canzone D'amore",
-          "duration": "3:59"
-        },
-        {
-          "number": 11,
-          "name": "Come Vorrei",
-          "duration": "2:55"
-        },
-        {
-          "number": 12,
-          "name": "M'innamoro Di Te",
-          "duration": "3:16"
-        },
-        {
-          "number": 13,
-          "name": "Cosa Sei (Que Sere)",
-          "duration": "3:15"
-        },
-        {
-          "number": 14,
-          "name": "Buonanotte Fiorellino",
-          "duration": "3:01"
-        },
-        {
-          "number": 15,
-          "name": "Se M' Innamoro",
-          "duration": "3:25"
-        },
-        {
-          "number": 16,
-          "name": "Voulez-Vous Danser",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
       "name": "Greatest Hits",
       "year": "2005",
       "release_date": "2005-07-05",
@@ -359,6 +271,94 @@
           "number": 10,
           "name": "Che sarà (Versione acustica)",
           "duration": "3:08"
+        }
+      ]
+    },
+    {
+      "name": "Nur das Beste: Ricchi e Poveri",
+      "year": "2004",
+      "release_date": "2004-03-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/c6/df/9d/mzi.ngbmjcuk.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mamma Maria",
+          "duration": "2:53"
+        },
+        {
+          "number": 2,
+          "name": "Made In Italy",
+          "duration": "3:19"
+        },
+        {
+          "number": 3,
+          "name": "Sarà Perché Ti Amo",
+          "duration": "3:09"
+        },
+        {
+          "number": 4,
+          "name": "Dimmi Quando",
+          "duration": "3:26"
+        },
+        {
+          "number": 5,
+          "name": "Piccolo Amore",
+          "duration": "3:18"
+        },
+        {
+          "number": 6,
+          "name": "Ciao Italy, ciao amore",
+          "duration": "3:00"
+        },
+        {
+          "number": 7,
+          "name": "E Penso a Te",
+          "duration": "3:07"
+        },
+        {
+          "number": 8,
+          "name": "Hasta La Vista",
+          "duration": "5:40"
+        },
+        {
+          "number": 9,
+          "name": "Amarsi Un Po'",
+          "duration": "3:21"
+        },
+        {
+          "number": 10,
+          "name": "Canzone D'amore",
+          "duration": "3:59"
+        },
+        {
+          "number": 11,
+          "name": "Come Vorrei",
+          "duration": "2:55"
+        },
+        {
+          "number": 12,
+          "name": "M'innamoro Di Te",
+          "duration": "3:16"
+        },
+        {
+          "number": 13,
+          "name": "Cosa Sei (Que Sere)",
+          "duration": "3:15"
+        },
+        {
+          "number": 14,
+          "name": "Buonanotte Fiorellino",
+          "duration": "3:01"
+        },
+        {
+          "number": 15,
+          "name": "Se M' Innamoro",
+          "duration": "3:25"
+        },
+        {
+          "number": 16,
+          "name": "Voulez-Vous Danser",
+          "duration": "3:44"
         }
       ]
     },
@@ -1908,19 +1908,6 @@
   ],
   "singles": [
     {
-      "name": "Ma non tutta la vita",
-      "year": "2024",
-      "release_date": "2024-02-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a5/f0/9f/a5f09f94-bbf6-78a7-d711-65c17b85fa8a/8053307093840.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ma non tutta la vita",
-          "duration": "3:10"
-        }
-      ]
-    },
-    {
       "name": "Será Porque Te Amo",
       "year": "1980",
       "release_date": "1980-07-06",
@@ -1929,6 +1916,19 @@
         {
           "number": 1,
           "name": "Será Porque Te Amo",
+          "duration": "3:10"
+        }
+      ]
+    },
+    {
+      "name": "Ma non tutta la vita",
+      "year": "2024",
+      "release_date": "2024-02-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a5/f0/9f/a5f09f94-bbf6-78a7-d711-65c17b85fa8a/8053307093840.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ma non tutta la vita",
           "duration": "3:10"
         }
       ]

@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "MONTAGEM - PR FUNK",
+      "year": "2023",
+      "release_date": "2023-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/5a/f0/bc5af06d-9fa4-8cef-8f94-f3f8e7f668ed/197802442401.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM - PR FUNK",
+          "duration": "1:01"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM CORAL (feat. Mc Cyclope)",
       "year": "2023",
       "release_date": "2023-08-16",
@@ -13,19 +26,6 @@
           "number": 1,
           "name": "MONTAGEM CORAL (feat. Mc Cyclope)",
           "duration": "2:25"
-        }
-      ]
-    },
-    {
-      "name": "Ritmada Hawaiana",
-      "year": "2024",
-      "release_date": "2024-09-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/3e/27/0a3e2735-10fb-7cd8-9c91-ac918695f737/713913262396.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ritmada Hawaiana",
-          "duration": "2:27"
         }
       ]
     },
@@ -190,6 +190,19 @@
       ]
     },
     {
+      "name": "Ritmada Hawaiana",
+      "year": "2024",
+      "release_date": "2024-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/3e/27/0a3e2735-10fb-7cd8-9c91-ac918695f737/713913262396.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ritmada Hawaiana",
+          "duration": "2:27"
+        }
+      ]
+    },
+    {
       "name": "SEQUÊNCIA C**T (feat. Clementaum)",
       "year": "2025",
       "release_date": "2025-11-17",
@@ -349,19 +362,6 @@
           "number": 1,
           "name": "Saliente",
           "duration": "2:35"
-        }
-      ]
-    },
-    {
-      "name": "ZN DA SEDUÇÃO",
-      "year": "2025",
-      "release_date": "2025-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/03/be/0903beac-6128-5e24-aef1-282a0bed9abe/5034644434216.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ZN DA SEDUÇÃO",
-          "duration": "2:18"
         }
       ]
     },
@@ -878,19 +878,6 @@
       ]
     },
     {
-      "name": "Ritmo do Afro Beat - Trepação",
-      "year": "2025",
-      "release_date": "2025-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/c2/2e/28c22e8e-f51d-f790-8483-b11076d952de/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ritmo do Afro Beat - Trepação",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
       "name": "Mulher do Inimigo",
       "year": "2025",
       "release_date": "2025-08-26",
@@ -913,6 +900,19 @@
           "number": 1,
           "name": "Ritmação Mequetrefe",
           "duration": "2:07"
+        }
+      ]
+    },
+    {
+      "name": "TEARS OF FLUXO",
+      "year": "2026",
+      "release_date": "2026-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/f9/00/64f90046-9d84-97e2-ff4f-b30f446a452f/3543998.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TEARS OF FLUXO",
+          "duration": "1:53"
         }
       ]
     },
@@ -1125,19 +1125,6 @@
       ]
     },
     {
-      "name": "ELA É TREPADEIRA (feat. FUNK ATIVO 031)",
-      "year": "2026",
-      "release_date": "2026-05-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/fd/8f/3efd8fdc-29a2-139a-9f15-17ab6a63a8d8/3118596.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ELA É TREPADEIRA (feat. FUNK ATIVO 031)",
-          "duration": "1:16"
-        }
-      ]
-    },
-    {
       "name": "BERIMBAU SAVAGE (feat. MC MEDUZA & Mc Gw)",
       "year": "2026",
       "release_date": "2026-02-28",
@@ -1238,6 +1225,19 @@
           "number": 1,
           "name": "Novinha Aventureira",
           "duration": "2:00"
+        }
+      ]
+    },
+    {
+      "name": "Vem pro Meu Cafofo Vs 360",
+      "year": "2026",
+      "release_date": "2026-06-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/9b/0a/7f9b0a17-a726-dbc9-40b0-6678042fc6c8/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Vem pro Meu Cafofo Vs 360",
+          "duration": "2:05"
         }
       ]
     },
@@ -1381,6 +1381,19 @@
           "number": 1,
           "name": "Modo Solteira",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Fruta Prohibida",
+      "year": "2026",
+      "release_date": "2026-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/be/a0/10bea033-780a-752e-c367-c20312fe7f3f/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fruta Prohibida",
+          "duration": "2:06"
         }
       ]
     },
@@ -1850,6 +1863,19 @@
       ]
     },
     {
+      "name": "Me Catuca",
+      "year": "2026",
+      "release_date": "2026-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/5a/1f/c45a1f62-ac91-44ce-3cf5-ef64f6f9b716/3506255.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Me Catuca",
+          "duration": "2:44"
+        }
+      ]
+    },
+    {
       "name": "DJ VEM ME SOCA",
       "year": "2026",
       "release_date": "2026-06-07",
@@ -1859,6 +1885,19 @@
           "number": 1,
           "name": "DJ VEM ME SOCA",
           "duration": "2:46"
+        }
+      ]
+    },
+    {
+      "name": "Balança o Tetê",
+      "year": "2025",
+      "release_date": "2025-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/98/ad/a298ada3-44c0-7994-0f4d-2278520fa957/052599751283.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Balança o Tetê",
+          "duration": "2:23"
         }
       ]
     },
@@ -2113,19 +2152,6 @@
           "number": 1,
           "name": "Montagem Forgot About Dre",
           "duration": "1:58"
-        }
-      ]
-    },
-    {
-      "name": "Sin Parar",
-      "year": "2026",
-      "release_date": "2026-05-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/68/26/37682689-3b98-0ad7-179f-ad88fc980ef0/3072506.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sin Parar",
-          "duration": "2:46"
         }
       ]
     },
@@ -2403,19 +2429,6 @@
       ]
     },
     {
-      "name": "Sit on the 140",
-      "year": "2025",
-      "release_date": "2025-06-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/d4/c4/44d4c4de-5c33-d246-c87d-a091e33e1070/009392556935.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sit on the 140",
-          "duration": "1:58"
-        }
-      ]
-    },
-    {
       "name": "FUNK DO TATA VOU NADA (feat. mc carlos de sumare & Mc Gw)",
       "year": "2024",
       "release_date": "2024-06-07",
@@ -2442,15 +2455,15 @@
       ]
     },
     {
-      "name": "AUTOMOTIVO PEGA DESAPEGA",
-      "year": "2026",
-      "release_date": "2026-02-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/43/09/8e43090b-316c-ee40-1cce-059d6ff26ad7/217106.jpg/600x600bb.jpg",
+      "name": "Olha o Barulho",
+      "year": "2025",
+      "release_date": "2025-08-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/c7/a9/8fc7a9d7-9fa4-bc02-b5f6-909c7f6e3baf/0.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "AUTOMOTIVO PEGA DESAPEGA",
-          "duration": "2:31"
+          "name": "Olha o Barulho",
+          "duration": "3:05"
         }
       ]
     },
@@ -2681,34 +2694,6 @@
           "number": 5,
           "name": "Ritmo Sub Letal (Sped Up)",
           "duration": "1:09"
-        }
-      ]
-    },
-    {
-      "name": "PERFECTO EMPARO (feat. MC GW)",
-      "year": "2024",
-      "release_date": "2024-08-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/86/ec/2286ec3e-01c1-a7d8-9d9a-c84e7a62ecb6/198846043845.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PERFECTO EMPARO (feat. MC GW)",
-          "duration": "1:54"
-        },
-        {
-          "number": 2,
-          "name": "PERFECTO EMPARO (feat. MC GW) [SPEED]",
-          "duration": "1:44"
-        },
-        {
-          "number": 3,
-          "name": "PERFECTO EMPARO (feat. MC GW) [SLOWED]",
-          "duration": "2:44"
-        },
-        {
-          "number": 4,
-          "name": "PERFECTO EMPARO (feat. MC GW) [SUPER SLOWED]",
-          "duration": "2:23"
         }
       ]
     },

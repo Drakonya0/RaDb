@@ -3,49 +3,6 @@
   "id": 1667389591,
   "albums": [
     {
-      "name": "Dive",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/34/d8/4034d8d2-d015-7695-5da7-513ee5fb8cfb/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "did U Want This?",
-          "duration": "3:11"
-        },
-        {
-          "number": 2,
-          "name": "Solo",
-          "duration": "3:41"
-        },
-        {
-          "number": 3,
-          "name": "Dive",
-          "duration": "2:58"
-        },
-        {
-          "number": 4,
-          "name": "Glow",
-          "duration": "3:25"
-        },
-        {
-          "number": 5,
-          "name": "Emptyocean",
-          "duration": "2:58"
-        },
-        {
-          "number": 6,
-          "name": "Happy Tragedy",
-          "duration": "4:08"
-        },
-        {
-          "number": 7,
-          "name": "Dissolve",
-          "duration": "4:16"
-        }
-      ]
-    },
-    {
       "name": "LOVE IS GOD",
       "year": "2025",
       "release_date": "2025-04-11",
@@ -107,9 +64,65 @@
           "duration": "4:32"
         }
       ]
+    },
+    {
+      "name": "Dive",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/34/d8/4034d8d2-d015-7695-5da7-513ee5fb8cfb/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "did U Want This?",
+          "duration": "3:11"
+        },
+        {
+          "number": 2,
+          "name": "Solo",
+          "duration": "3:41"
+        },
+        {
+          "number": 3,
+          "name": "Dive",
+          "duration": "2:58"
+        },
+        {
+          "number": 4,
+          "name": "Glow",
+          "duration": "3:25"
+        },
+        {
+          "number": 5,
+          "name": "Emptyocean",
+          "duration": "2:58"
+        },
+        {
+          "number": 6,
+          "name": "Happy Tragedy",
+          "duration": "4:08"
+        },
+        {
+          "number": 7,
+          "name": "Dissolve",
+          "duration": "4:16"
+        }
+      ]
     }
   ],
   "singles": [
+    {
+      "name": "Glacier",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/a3/7d/68a37ded-7349-aea4-c61e-e31b8a8c2158/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Glacier",
+          "duration": "4:56"
+        }
+      ]
+    },
     {
       "name": "Infinity Pool",
       "year": "2026",
@@ -130,19 +143,6 @@
           "number": 3,
           "name": "Nebula",
           "duration": "4:24"
-        }
-      ]
-    },
-    {
-      "name": "Glacier",
-      "year": "2026",
-      "release_date": "2026-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/a3/7d/68a37ded-7349-aea4-c61e-e31b8a8c2158/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Glacier",
-          "duration": "4:56"
         }
       ]
     },

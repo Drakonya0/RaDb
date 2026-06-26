@@ -272,24 +272,6 @@
   ],
   "singles": [
     {
-      "name": "Way down We Go (Alternate Versions)",
-      "year": "2016",
-      "release_date": "2016-06-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/1c/6c/e41c6c38-761c-8b41-0690-8d697485eaab/075679658647.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Way down We Go (Sped Up Version)",
-          "duration": "2:55"
-        },
-        {
-          "number": 2,
-          "name": "Way down We Go (Slowed Down Version)",
-          "duration": "4:03"
-        }
-      ]
-    },
-    {
       "name": "Backbone (Live at Breiðarmerkurjökull)",
       "year": "2022",
       "release_date": "2022-03-11",
@@ -304,6 +286,24 @@
           "number": 2,
           "name": "Backbone",
           "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "Way down We Go (Alternate Versions)",
+      "year": "2016",
+      "release_date": "2016-06-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e4/1c/6c/e41c6c38-761c-8b41-0690-8d697485eaab/075679658647.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Way down We Go (Sped Up Version)",
+          "duration": "2:55"
+        },
+        {
+          "number": 2,
+          "name": "Way down We Go (Slowed Down Version)",
+          "duration": "4:03"
         }
       ]
     },
@@ -335,42 +335,6 @@
           "number": 2,
           "name": "I Want More",
           "duration": "3:32"
-        }
-      ]
-    },
-    {
-      "name": "I Can't Go on Without You (Alternate Versions)",
-      "year": "2016",
-      "release_date": "2016-06-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/e5/fe/68e5fef0-db13-198f-0066-981002537edc/075679658630.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Can't Go on Without You (Sped Up Version)",
-          "duration": "4:39"
-        },
-        {
-          "number": 2,
-          "name": "I Can't Go on Without You (Slowed Down Version)",
-          "duration": "7:20"
-        }
-      ]
-    },
-    {
-      "name": "No Good (Alternate Versions)",
-      "year": "2016",
-      "release_date": "2016-06-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/1c/9b/701c9bbf-3401-8fe3-217c-95c73095d652/075679658623.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "No Good (Sped Up Version)",
-          "duration": "3:07"
-        },
-        {
-          "number": 2,
-          "name": "No Good (Slowed Down Version)",
-          "duration": "4:36"
         }
       ]
     },
@@ -427,6 +391,42 @@
           "number": 2,
           "name": "I Want More (Slowed Down Version)",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "I Can't Go on Without You (Alternate Versions)",
+      "year": "2016",
+      "release_date": "2016-06-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/e5/fe/68e5fef0-db13-198f-0066-981002537edc/075679658630.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Can't Go on Without You (Sped Up Version)",
+          "duration": "4:39"
+        },
+        {
+          "number": 2,
+          "name": "I Can't Go on Without You (Slowed Down Version)",
+          "duration": "7:20"
+        }
+      ]
+    },
+    {
+      "name": "No Good (Alternate Versions)",
+      "year": "2016",
+      "release_date": "2016-06-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/1c/9b/701c9bbf-3401-8fe3-217c-95c73095d652/075679658623.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "No Good (Sped Up Version)",
+          "duration": "3:07"
+        },
+        {
+          "number": 2,
+          "name": "No Good (Slowed Down Version)",
+          "duration": "4:36"
         }
       ]
     },

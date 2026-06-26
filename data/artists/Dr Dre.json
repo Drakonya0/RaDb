@@ -302,6 +302,89 @@
       ]
     },
     {
+      "name": "Missionary",
+      "year": "2024",
+      "release_date": "2024-12-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/87/20/908720cf-38fd-e837-2d77-580e9445e559/24UM1IM09526.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fore Play",
+          "duration": "1:15"
+        },
+        {
+          "number": 2,
+          "name": "Shangri-La",
+          "duration": "1:37"
+        },
+        {
+          "number": 3,
+          "name": "Outta Da Blue",
+          "duration": "2:39"
+        },
+        {
+          "number": 4,
+          "name": "Hard Knocks",
+          "duration": "4:13"
+        },
+        {
+          "number": 5,
+          "name": "Gorgeous",
+          "duration": "2:56"
+        },
+        {
+          "number": 6,
+          "name": "Last Dance With Mary Jane",
+          "duration": "3:05"
+        },
+        {
+          "number": 7,
+          "name": "Pressure",
+          "duration": "2:22"
+        },
+        {
+          "number": 8,
+          "name": "Another Part Of Me",
+          "duration": "3:26"
+        },
+        {
+          "number": 9,
+          "name": "Skyscrapers",
+          "duration": "3:00"
+        },
+        {
+          "number": 10,
+          "name": "Fire",
+          "duration": "3:42"
+        },
+        {
+          "number": 11,
+          "name": "Gunz N Smoke",
+          "duration": "3:33"
+        },
+        {
+          "number": 12,
+          "name": "Sticcy Situation",
+          "duration": "3:08"
+        },
+        {
+          "number": 13,
+          "name": "Now Or Never",
+          "duration": "3:18"
+        },
+        {
+          "number": 14,
+          "name": "Gangsta Pose",
+          "duration": "2:56"
+        },
+        {
+          "number": 15,
+          "name": "The Negotiator",
+          "duration": "2:22"
+        }
+      ]
+    },
+    {
       "name": "Compton",
       "year": "2015",
       "release_date": "2015-08-07",
@@ -494,89 +577,6 @@
           "number": 20,
           "name": "The Message (Instrumental)",
           "duration": "5:07"
-        }
-      ]
-    },
-    {
-      "name": "Missionary",
-      "year": "2024",
-      "release_date": "2024-12-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/87/20/908720cf-38fd-e837-2d77-580e9445e559/24UM1IM09526.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fore Play",
-          "duration": "1:15"
-        },
-        {
-          "number": 2,
-          "name": "Shangri-La",
-          "duration": "1:37"
-        },
-        {
-          "number": 3,
-          "name": "Outta Da Blue",
-          "duration": "2:39"
-        },
-        {
-          "number": 4,
-          "name": "Hard Knocks",
-          "duration": "4:13"
-        },
-        {
-          "number": 5,
-          "name": "Gorgeous",
-          "duration": "2:56"
-        },
-        {
-          "number": 6,
-          "name": "Last Dance With Mary Jane",
-          "duration": "3:05"
-        },
-        {
-          "number": 7,
-          "name": "Pressure",
-          "duration": "2:22"
-        },
-        {
-          "number": 8,
-          "name": "Another Part Of Me",
-          "duration": "3:26"
-        },
-        {
-          "number": 9,
-          "name": "Skyscrapers",
-          "duration": "3:00"
-        },
-        {
-          "number": 10,
-          "name": "Fire",
-          "duration": "3:42"
-        },
-        {
-          "number": 11,
-          "name": "Gunz N Smoke",
-          "duration": "3:33"
-        },
-        {
-          "number": 12,
-          "name": "Sticcy Situation",
-          "duration": "3:08"
-        },
-        {
-          "number": 13,
-          "name": "Now Or Never",
-          "duration": "3:18"
-        },
-        {
-          "number": 14,
-          "name": "Gangsta Pose",
-          "duration": "2:56"
-        },
-        {
-          "number": 15,
-          "name": "The Negotiator",
-          "duration": "2:22"
         }
       ]
     },
@@ -1231,6 +1231,19 @@
       ]
     },
     {
+      "name": "Kush (feat. Snoop Dogg & Akon)",
+      "year": "2010",
+      "release_date": "2010-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/64/b7/4364b7f5-c024-c6d9-4e0c-af262bf20f0f/00602527593630.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Kush (feat. Snoop Dogg & Akon)",
+          "duration": "3:55"
+        }
+      ]
+    },
+    {
       "name": "ETA",
       "year": "2022",
       "release_date": "2022-02-04",
@@ -1240,6 +1253,19 @@
           "number": 1,
           "name": "ETA",
           "duration": "3:57"
+        }
+      ]
+    },
+    {
+      "name": "Gospel",
+      "year": "2022",
+      "release_date": "2022-02-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/3f/58/cf3f58c6-f0b5-e459-6bee-82a9bb666926/22UMGIM02684.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gospel",
+          "duration": "3:30"
         }
       ]
     },
@@ -1270,19 +1296,6 @@
       ]
     },
     {
-      "name": "Gospel",
-      "year": "2022",
-      "release_date": "2022-02-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/3f/58/cf3f58c6-f0b5-e459-6bee-82a9bb666926/22UMGIM02684.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Gospel",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "Black Privilege",
       "year": "2022",
       "release_date": "2022-02-04",
@@ -1305,19 +1318,6 @@
           "number": 1,
           "name": "Diamond Mind",
           "duration": "4:53"
-        }
-      ]
-    },
-    {
-      "name": "Kush (feat. Snoop Dogg & Akon)",
-      "year": "2010",
-      "release_date": "2010-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/43/64/b7/4364b7f5-c024-c6d9-4e0c-af262bf20f0f/00602527593630.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kush (feat. Snoop Dogg & Akon)",
-          "duration": "3:55"
         }
       ]
     },
@@ -1348,19 +1348,6 @@
       ]
     },
     {
-      "name": "Gin & Juice (Another Shot From Dr. Dre)",
-      "year": "2024",
-      "release_date": "2024-05-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/06/84/e5068488-2272-76e2-0774-b1b3ae7d7320/24UMGIM52106.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Gin & Juice (Another Shot From Dr. Dre)",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
       "name": "Gunz N Smoke",
       "year": "2024",
       "release_date": "2024-12-12",
@@ -1374,28 +1361,28 @@
       ]
     },
     {
-      "name": "Gorgeous",
+      "name": "Gin & Juice (Another Shot From Dr. Dre)",
       "year": "2024",
-      "release_date": "2024-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/4f/98/8a4f984d-db0e-342c-fb46-a3a36b5b53f8/24UM1IM07850.rgb.jpg/600x600bb.jpg",
+      "release_date": "2024-05-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/06/84/e5068488-2272-76e2-0774-b1b3ae7d7320/24UMGIM52106.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Gorgeous",
-          "duration": "2:56"
+          "name": "Gin & Juice (Another Shot From Dr. Dre)",
+          "duration": "3:00"
         }
       ]
     },
     {
-      "name": "Last Dance With Mary Jane",
-      "year": "2024",
-      "release_date": "2024-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/62/6e/f8626e16-4911-9490-3e41-afbf9c8bb9f7/24UM1IM09526.rgb.jpg/600x600bb.jpg",
+      "name": "New Day (feat. Dr. Dre & Alicia Keys)",
+      "year": "2012",
+      "release_date": "2012-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ef/4d/bd/ef4dbdf0-5dea-722c-15c8-a7f778518d6f/00602527807508.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Last Dance With Mary Jane",
-          "duration": "3:05"
+          "name": "New Day (feat. Dr. Dre & Alicia Keys)",
+          "duration": "4:24"
         }
       ]
     },
@@ -1426,6 +1413,19 @@
       ]
     },
     {
+      "name": "Last Dance With Mary Jane",
+      "year": "2024",
+      "release_date": "2024-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/62/6e/f8626e16-4911-9490-3e41-afbf9c8bb9f7/24UM1IM09526.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Last Dance With Mary Jane",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
       "name": "Another Part Of Me",
       "year": "2024",
       "release_date": "2024-11-29",
@@ -1435,6 +1435,19 @@
           "number": 1,
           "name": "Another Part Of Me",
           "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Gorgeous",
+      "year": "2024",
+      "release_date": "2024-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/4f/98/8a4f984d-db0e-342c-fb46-a3a36b5b53f8/24UM1IM07850.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gorgeous",
+          "duration": "2:56"
         }
       ]
     },
@@ -1461,19 +1474,6 @@
           "number": 1,
           "name": "Outta Da Blue",
           "duration": "2:39"
-        }
-      ]
-    },
-    {
-      "name": "New Day (feat. Dr. Dre & Alicia Keys)",
-      "year": "2012",
-      "release_date": "2012-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ef/4d/bd/ef4dbdf0-5dea-722c-15c8-a7f778518d6f/00602527807508.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "New Day (feat. Dr. Dre & Alicia Keys)",
-          "duration": "4:24"
         }
       ]
     },

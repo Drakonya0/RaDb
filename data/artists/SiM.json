@@ -149,79 +149,6 @@
       ]
     },
     {
-      "name": "PLAYDEAD",
-      "year": "2023",
-      "release_date": "2023-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/85/3e/9c853e0e-ad24-5156-c3e2-f36e06df311e/197189236648.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PLAYDEAD",
-          "duration": "2:00"
-        },
-        {
-          "number": 2,
-          "name": "RED",
-          "duration": "3:54"
-        },
-        {
-          "number": 3,
-          "name": "HiDE and SEEK",
-          "duration": "3:37"
-        },
-        {
-          "number": 4,
-          "name": "SWEET DREAMS",
-          "duration": "3:30"
-        },
-        {
-          "number": 5,
-          "name": "Die Alone",
-          "duration": "2:17"
-        },
-        {
-          "number": 6,
-          "name": "TOO LATE",
-          "duration": "2:41"
-        },
-        {
-          "number": 7,
-          "name": "KiSS OF DEATH",
-          "duration": "3:52"
-        },
-        {
-          "number": 8,
-          "name": "Sad Song",
-          "duration": "3:23"
-        },
-        {
-          "number": 9,
-          "name": "BBT",
-          "duration": "3:30"
-        },
-        {
-          "number": 10,
-          "name": "DO THE DANCE",
-          "duration": "3:16"
-        },
-        {
-          "number": 11,
-          "name": "Not so Weak",
-          "duration": "2:41"
-        },
-        {
-          "number": 12,
-          "name": "UNDER THE TREE",
-          "duration": "4:31"
-        },
-        {
-          "number": 13,
-          "name": "The Rumbling (Orchestra Version)",
-          "duration": "4:14"
-        }
-      ]
-    },
-    {
       "name": "Silence iz Mine",
       "year": "2008",
       "release_date": "2008-06-25",
@@ -337,7 +264,7 @@
         },
         {
           "number": 9,
-          "name": "ZiON (feat. coldrain)",
+          "name": "ZiON (feat. Masato)",
           "duration": "2:40"
         },
         {
@@ -354,6 +281,79 @@
           "number": 12,
           "name": "Sailing On",
           "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "PLAYDEAD",
+      "year": "2023",
+      "release_date": "2023-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/85/3e/9c853e0e-ad24-5156-c3e2-f36e06df311e/197189236648.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PLAYDEAD",
+          "duration": "2:00"
+        },
+        {
+          "number": 2,
+          "name": "RED",
+          "duration": "3:54"
+        },
+        {
+          "number": 3,
+          "name": "HiDE and SEEK",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "SWEET DREAMS",
+          "duration": "3:30"
+        },
+        {
+          "number": 5,
+          "name": "Die Alone",
+          "duration": "2:17"
+        },
+        {
+          "number": 6,
+          "name": "TOO LATE",
+          "duration": "2:41"
+        },
+        {
+          "number": 7,
+          "name": "KiSS OF DEATH",
+          "duration": "3:52"
+        },
+        {
+          "number": 8,
+          "name": "Sad Song",
+          "duration": "3:23"
+        },
+        {
+          "number": 9,
+          "name": "BBT",
+          "duration": "3:30"
+        },
+        {
+          "number": 10,
+          "name": "DO THE DANCE",
+          "duration": "3:16"
+        },
+        {
+          "number": 11,
+          "name": "Not so Weak",
+          "duration": "2:41"
+        },
+        {
+          "number": 12,
+          "name": "UNDER THE TREE",
+          "duration": "4:31"
+        },
+        {
+          "number": 13,
+          "name": "The Rumbling (Orchestra Version)",
+          "duration": "4:14"
         }
       ]
     },
@@ -638,19 +638,6 @@
       ]
     },
     {
-      "name": "BLiNDEYES (feat. 花冷え。)",
-      "year": "2026",
-      "release_date": "2026-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/bd/28/c5bd28c3-e227-f2b1-55df-2c23b964e9e7/8721466986487.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "BLiNDEYES (feat. 花冷え。)",
-          "duration": "3:17"
-        }
-      ]
-    },
-    {
       "name": "DANZO · lying ghost",
       "year": "2026",
       "release_date": "2026-03-24",
@@ -709,6 +696,19 @@
           "number": 2,
           "name": "Psycho",
           "duration": "4:50"
+        }
+      ]
+    },
+    {
+      "name": "BLiNDEYES (feat. 花冷え。)",
+      "year": "2026",
+      "release_date": "2026-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/bd/28/c5bd28c3-e227-f2b1-55df-2c23b964e9e7/8721466986487.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BLiNDEYES (feat. 花冷え。)",
+          "duration": "3:17"
         }
       ]
     },

@@ -3,64 +3,6 @@
   "id": 884412455,
   "albums": [
     {
-      "name": "This Bright and Beautiful World",
-      "year": "2022",
-      "release_date": "2022-04-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/5b/2b/9b5b2b63-8be8-f252-89bf-e10704f4a108/794558044868.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "In a Room Where Everything Dies",
-          "duration": "3:03"
-        },
-        {
-          "number": 2,
-          "name": "All Candy",
-          "duration": "2:56"
-        },
-        {
-          "number": 3,
-          "name": "A Painful and Necessary Action",
-          "duration": "4:04"
-        },
-        {
-          "number": 4,
-          "name": "More and More Hands",
-          "duration": "3:17"
-        },
-        {
-          "number": 5,
-          "name": "Of Snakes and Swans",
-          "duration": "2:29"
-        },
-        {
-          "number": 6,
-          "name": "Foreign Anchor",
-          "duration": "2:48"
-        },
-        {
-          "number": 7,
-          "name": "Fed to the Lights",
-          "duration": "3:44"
-        },
-        {
-          "number": 8,
-          "name": "The Quiet Shakes",
-          "duration": "3:48"
-        },
-        {
-          "number": 9,
-          "name": "And It's Still Too Loud",
-          "duration": "3:26"
-        },
-        {
-          "number": 10,
-          "name": "Ornaments from the Well",
-          "duration": "4:08"
-        }
-      ]
-    },
-    {
       "name": "Empty Black",
       "year": "2018",
       "release_date": "2018-03-16",
@@ -115,6 +57,64 @@
           "number": 10,
           "name": "Echo and Dust, Pt. II",
           "duration": "5:27"
+        }
+      ]
+    },
+    {
+      "name": "This Bright and Beautiful World",
+      "year": "2022",
+      "release_date": "2022-04-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9b/5b/2b/9b5b2b63-8be8-f252-89bf-e10704f4a108/794558044868.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In a Room Where Everything Dies",
+          "duration": "3:03"
+        },
+        {
+          "number": 2,
+          "name": "All Candy",
+          "duration": "2:56"
+        },
+        {
+          "number": 3,
+          "name": "A Painful and Necessary Action",
+          "duration": "4:04"
+        },
+        {
+          "number": 4,
+          "name": "More and More Hands",
+          "duration": "3:17"
+        },
+        {
+          "number": 5,
+          "name": "Of Snakes and Swans",
+          "duration": "2:29"
+        },
+        {
+          "number": 6,
+          "name": "Foreign Anchor",
+          "duration": "2:48"
+        },
+        {
+          "number": 7,
+          "name": "Fed to the Lights",
+          "duration": "3:44"
+        },
+        {
+          "number": 8,
+          "name": "The Quiet Shakes",
+          "duration": "3:48"
+        },
+        {
+          "number": 9,
+          "name": "And It's Still Too Loud",
+          "duration": "3:26"
+        },
+        {
+          "number": 10,
+          "name": "Ornaments from the Well",
+          "duration": "4:08"
         }
       ]
     },

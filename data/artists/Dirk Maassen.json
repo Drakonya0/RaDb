@@ -3,84 +3,6 @@
   "id": 595797008,
   "albums": [
     {
-      "name": "Time",
-      "year": "2022",
-      "release_date": "2022-05-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/32/7b/4b327bf8-653c-c20e-f52d-f2db9a184ae6/886449756667.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Thru Landscapes (Arrival)",
-          "duration": "4:32"
-        },
-        {
-          "number": 2,
-          "name": "Mountains",
-          "duration": "3:44"
-        },
-        {
-          "number": 3,
-          "name": "Ascending",
-          "duration": "5:20"
-        },
-        {
-          "number": 4,
-          "name": "Untamed",
-          "duration": "3:15"
-        },
-        {
-          "number": 5,
-          "name": "Time",
-          "duration": "3:30"
-        },
-        {
-          "number": 6,
-          "name": "Shelter",
-          "duration": "3:17"
-        },
-        {
-          "number": 7,
-          "name": "Morning Comes",
-          "duration": "4:14"
-        },
-        {
-          "number": 8,
-          "name": "Ethereal",
-          "duration": "3:23"
-        },
-        {
-          "number": 9,
-          "name": "Golden Hour",
-          "duration": "4:09"
-        },
-        {
-          "number": 10,
-          "name": "Top",
-          "duration": "3:40"
-        },
-        {
-          "number": 11,
-          "name": "Golden Memories",
-          "duration": "3:41"
-        },
-        {
-          "number": 12,
-          "name": "Herbstregen",
-          "duration": "4:45"
-        },
-        {
-          "number": 13,
-          "name": "Thru Landscapes (Departure)",
-          "duration": "4:00"
-        },
-        {
-          "number": 14,
-          "name": "Time (Solo Piano)",
-          "duration": "4:09"
-        }
-      ]
-    },
-    {
       "name": "Silence : Musique calme et apaisante",
       "year": "2020",
       "release_date": "2020-04-17",
@@ -843,6 +765,84 @@
           "number": 9,
           "name": "Eagle Crystal Mix",
           "duration": "4:43"
+        }
+      ]
+    },
+    {
+      "name": "Time",
+      "year": "2022",
+      "release_date": "2022-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4b/32/7b/4b327bf8-653c-c20e-f52d-f2db9a184ae6/886449756667.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Thru Landscapes (Arrival)",
+          "duration": "4:32"
+        },
+        {
+          "number": 2,
+          "name": "Mountains",
+          "duration": "3:44"
+        },
+        {
+          "number": 3,
+          "name": "Ascending",
+          "duration": "5:20"
+        },
+        {
+          "number": 4,
+          "name": "Untamed",
+          "duration": "3:15"
+        },
+        {
+          "number": 5,
+          "name": "Time",
+          "duration": "3:30"
+        },
+        {
+          "number": 6,
+          "name": "Shelter",
+          "duration": "3:17"
+        },
+        {
+          "number": 7,
+          "name": "Morning Comes",
+          "duration": "4:14"
+        },
+        {
+          "number": 8,
+          "name": "Ethereal",
+          "duration": "3:23"
+        },
+        {
+          "number": 9,
+          "name": "Golden Hour",
+          "duration": "4:09"
+        },
+        {
+          "number": 10,
+          "name": "Top",
+          "duration": "3:40"
+        },
+        {
+          "number": 11,
+          "name": "Golden Memories",
+          "duration": "3:41"
+        },
+        {
+          "number": 12,
+          "name": "Herbstregen",
+          "duration": "4:45"
+        },
+        {
+          "number": 13,
+          "name": "Thru Landscapes (Departure)",
+          "duration": "4:00"
+        },
+        {
+          "number": 14,
+          "name": "Time (Solo Piano)",
+          "duration": "4:09"
         }
       ]
     },
@@ -3151,6 +3151,19 @@
           "number": 1,
           "name": "Gravity",
           "duration": "4:10"
+        }
+      ]
+    },
+    {
+      "name": "Lueur",
+      "year": "2026",
+      "release_date": "2026-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/af/8c/e3af8ce0-185f-b1ed-336d-15a0b1a34ee4/21679.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lueur",
+          "duration": "3:42"
         }
       ]
     },

@@ -154,157 +154,6 @@
       ]
     },
     {
-      "name": "Que ta tête fleurisse toujours",
-      "year": "2023",
-      "release_date": "2023-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/66/f4/8466f4d7-8e16-f586-9c84-1ed43569e951/23UM1IM07424.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bougez",
-          "duration": "3:17"
-        },
-        {
-          "number": 2,
-          "name": "Jane Birkin",
-          "duration": "3:16"
-        },
-        {
-          "number": 3,
-          "name": "Sweetie banana",
-          "duration": "2:56"
-        },
-        {
-          "number": 4,
-          "name": "Apocalypse Calypso",
-          "duration": "3:16"
-        },
-        {
-          "number": 5,
-          "name": "30 secondes",
-          "duration": "3:09"
-        },
-        {
-          "number": 6,
-          "name": "C’est la Vie",
-          "duration": "3:28"
-        },
-        {
-          "number": 7,
-          "name": "Moi, Andy et Paris",
-          "duration": "3:35"
-        },
-        {
-          "number": 8,
-          "name": "Je sais que je t’aime",
-          "duration": "2:51"
-        },
-        {
-          "number": 9,
-          "name": "Doucement",
-          "duration": "3:11"
-        },
-        {
-          "number": 10,
-          "name": "Touche Touche",
-          "duration": "2:25"
-        },
-        {
-          "number": 11,
-          "name": "Amour pirate",
-          "duration": "2:59"
-        },
-        {
-          "number": 12,
-          "name": "Passager",
-          "duration": "2:50"
-        }
-      ]
-    },
-    {
-      "name": "Hyperlove",
-      "year": "2026",
-      "release_date": "2026-01-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/05/53/3105532e-eccb-5a95-c16b-a85dd8648027/25UM1IM86335.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hyperlove",
-          "duration": "3:00"
-        },
-        {
-          "number": 2,
-          "name": "Modern Times",
-          "duration": "4:27"
-        },
-        {
-          "number": 3,
-          "name": "Spinning Out",
-          "duration": "3:22"
-        },
-        {
-          "number": 4,
-          "name": "Excuses For Love",
-          "duration": "3:04"
-        },
-        {
-          "number": 5,
-          "name": "Interlude Everything’s Beautiful",
-          "duration": "1:48"
-        },
-        {
-          "number": 6,
-          "name": "All The Same",
-          "duration": "3:23"
-        },
-        {
-          "number": 7,
-          "name": "Dreams",
-          "duration": "2:49"
-        },
-        {
-          "number": 8,
-          "name": "Science Fiction Lover",
-          "duration": "3:43"
-        },
-        {
-          "number": 9,
-          "name": "Take Your Problems With You",
-          "duration": "2:52"
-        },
-        {
-          "number": 10,
-          "name": "Interlude Please Take Your Problems With You",
-          "duration": "1:17"
-        },
-        {
-          "number": 11,
-          "name": "Nicotine",
-          "duration": "4:06"
-        },
-        {
-          "number": 12,
-          "name": "Eleven",
-          "duration": "3:18"
-        },
-        {
-          "number": 13,
-          "name": "Bells",
-          "duration": "2:56"
-        },
-        {
-          "number": 14,
-          "name": "Interlude Immortal Dream",
-          "duration": "1:29"
-        },
-        {
-          "number": 15,
-          "name": "Immortal Love",
-          "duration": "2:56"
-        }
-      ]
-    },
-    {
       "name": "The Boy Who Knew Too Much (Deluxe Version)",
       "year": "2009",
       "release_date": "2009-09-21",
@@ -605,6 +454,89 @@
           "number": 14,
           "name": "Good Guys, Night Time Mix (Bonus Track)",
           "duration": "3:37"
+        }
+      ]
+    },
+    {
+      "name": "Hyperlove",
+      "year": "2026",
+      "release_date": "2026-01-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/05/53/3105532e-eccb-5a95-c16b-a85dd8648027/25UM1IM86335.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hyperlove",
+          "duration": "3:00"
+        },
+        {
+          "number": 2,
+          "name": "Modern Times",
+          "duration": "4:27"
+        },
+        {
+          "number": 3,
+          "name": "Spinning Out",
+          "duration": "3:22"
+        },
+        {
+          "number": 4,
+          "name": "Excuses For Love",
+          "duration": "3:04"
+        },
+        {
+          "number": 5,
+          "name": "Interlude Everything’s Beautiful",
+          "duration": "1:48"
+        },
+        {
+          "number": 6,
+          "name": "All The Same",
+          "duration": "3:23"
+        },
+        {
+          "number": 7,
+          "name": "Dreams",
+          "duration": "2:49"
+        },
+        {
+          "number": 8,
+          "name": "Science Fiction Lover",
+          "duration": "3:43"
+        },
+        {
+          "number": 9,
+          "name": "Take Your Problems With You",
+          "duration": "2:52"
+        },
+        {
+          "number": 10,
+          "name": "Interlude Please Take Your Problems With You",
+          "duration": "1:17"
+        },
+        {
+          "number": 11,
+          "name": "Nicotine",
+          "duration": "4:06"
+        },
+        {
+          "number": 12,
+          "name": "Eleven",
+          "duration": "3:18"
+        },
+        {
+          "number": 13,
+          "name": "Bells",
+          "duration": "2:56"
+        },
+        {
+          "number": 14,
+          "name": "Interlude Immortal Dream",
+          "duration": "1:29"
+        },
+        {
+          "number": 15,
+          "name": "Immortal Love",
+          "duration": "2:56"
         }
       ]
     },
@@ -934,6 +866,74 @@
           "number": 16,
           "name": "Grace Kelly (Live)",
           "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Que ta tête fleurisse toujours",
+      "year": "2023",
+      "release_date": "2023-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/66/f4/8466f4d7-8e16-f586-9c84-1ed43569e951/23UM1IM07424.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bougez",
+          "duration": "3:17"
+        },
+        {
+          "number": 2,
+          "name": "Jane Birkin",
+          "duration": "3:16"
+        },
+        {
+          "number": 3,
+          "name": "Sweetie banana",
+          "duration": "2:56"
+        },
+        {
+          "number": 4,
+          "name": "Apocalypse Calypso",
+          "duration": "3:16"
+        },
+        {
+          "number": 5,
+          "name": "30 secondes",
+          "duration": "3:09"
+        },
+        {
+          "number": 6,
+          "name": "C’est la Vie",
+          "duration": "3:28"
+        },
+        {
+          "number": 7,
+          "name": "Moi, Andy et Paris",
+          "duration": "3:35"
+        },
+        {
+          "number": 8,
+          "name": "Je sais que je t’aime",
+          "duration": "2:51"
+        },
+        {
+          "number": 9,
+          "name": "Doucement",
+          "duration": "3:11"
+        },
+        {
+          "number": 10,
+          "name": "Touche Touche",
+          "duration": "2:25"
+        },
+        {
+          "number": 11,
+          "name": "Amour pirate",
+          "duration": "2:59"
+        },
+        {
+          "number": 12,
+          "name": "Passager",
+          "duration": "2:50"
         }
       ]
     },
@@ -1471,19 +1471,6 @@
   ],
   "singles": [
     {
-      "name": "Popular Song (feat. Ariana Grande)",
-      "year": "2012",
-      "release_date": "2012-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/92/22/8d9222b8-87ca-8cbf-2ca0-324001a6af2c/00602537286423.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Popular Song (feat. Ariana Grande)",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
       "name": "Sound of an Orchestra",
       "year": "2019",
       "release_date": "2019-01-04",
@@ -1493,6 +1480,19 @@
           "number": 1,
           "name": "Sound of an Orchestra",
           "duration": "2:58"
+        }
+      ]
+    },
+    {
+      "name": "Popular Song (feat. Ariana Grande)",
+      "year": "2012",
+      "release_date": "2012-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/92/22/8d9222b8-87ca-8cbf-2ca0-324001a6af2c/00602537286423.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Popular Song (feat. Ariana Grande)",
+          "duration": "3:20"
         }
       ]
     },

@@ -253,19 +253,6 @@
       ]
     },
     {
-      "name": "Blue Angel",
-      "year": "2017",
-      "release_date": "2017-11-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fe/b0/aa/feb0aad0-a8d3-2892-fbb0-5f0c88a45cc0/11687.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blue Angel",
-          "duration": "3:34"
-        }
-      ]
-    },
-    {
       "name": "Malaise (feat. Plini)",
       "year": "2016",
       "release_date": "2016-03-12",
@@ -343,6 +330,19 @@
       ]
     },
     {
+      "name": "Blue Angel",
+      "year": "2017",
+      "release_date": "2017-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/fe/b0/aa/feb0aad0-a8d3-2892-fbb0-5f0c88a45cc0/11687.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blue Angel",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
       "name": "11 Nights",
       "year": "2023",
       "release_date": "2023-10-19",
@@ -387,6 +387,19 @@
       ]
     },
     {
+      "name": "Sugarfish",
+      "year": "2024",
+      "release_date": "2024-06-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/24/7b/f0247b4e-0de0-1cab-01e7-eae4e4ae4210/231295.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sugarfish",
+          "duration": "2:40"
+        }
+      ]
+    },
+    {
       "name": "Dog Days",
       "year": "2024",
       "release_date": "2024-10-10",
@@ -409,19 +422,6 @@
           "number": 1,
           "name": "Out of the Void",
           "duration": "3:53"
-        }
-      ]
-    },
-    {
-      "name": "Sugarfish",
-      "year": "2024",
-      "release_date": "2024-06-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/24/7b/f0247b4e-0de0-1cab-01e7-eae4e4ae4210/231295.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sugarfish",
-          "duration": "2:40"
         }
       ]
     },
@@ -649,6 +649,39 @@
   ],
   "eps": [
     {
+      "name": "Mirage",
+      "year": "2023",
+      "release_date": "2023-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/78/d4/4978d4b3-c3d2-faa3-5fcb-880200ef491e/160973.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Red Fox",
+          "duration": "6:37"
+        },
+        {
+          "number": 2,
+          "name": "Five Days of Rain",
+          "duration": "3:30"
+        },
+        {
+          "number": 3,
+          "name": "Still Life (feat. Tosin Abasi)",
+          "duration": "4:08"
+        },
+        {
+          "number": 4,
+          "name": "Aqua Vista",
+          "duration": "2:48"
+        },
+        {
+          "number": 5,
+          "name": "Ember",
+          "duration": "5:59"
+        }
+      ]
+    },
+    {
       "name": "Sweet Nothings",
       "year": "2013",
       "release_date": "2013-10-14",
@@ -734,39 +767,6 @@
           "number": 5,
           "name": "Ko Ki (feat. Luke Martin)",
           "duration": "3:20"
-        }
-      ]
-    },
-    {
-      "name": "Mirage",
-      "year": "2023",
-      "release_date": "2023-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/49/78/d4/4978d4b3-c3d2-faa3-5fcb-880200ef491e/160973.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Red Fox",
-          "duration": "6:37"
-        },
-        {
-          "number": 2,
-          "name": "Five Days of Rain",
-          "duration": "3:30"
-        },
-        {
-          "number": 3,
-          "name": "Still Life (feat. Tosin Abasi)",
-          "duration": "4:08"
-        },
-        {
-          "number": 4,
-          "name": "Aqua Vista",
-          "duration": "2:48"
-        },
-        {
-          "number": 5,
-          "name": "Ember",
-          "duration": "5:59"
         }
       ]
     }

@@ -3,69 +3,6 @@
   "id": 211261102,
   "albums": [
     {
-      "name": "Fegefeuer",
-      "year": "2023",
-      "release_date": "2023-07-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/de/cd/11decd14-aa3e-e278-462f-7132676ae849/840588181407.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SGFRD Dragonslayer",
-          "duration": "3:26"
-        },
-        {
-          "number": 2,
-          "name": "Bastard von Asgard (feat. Fabienne Erni)",
-          "duration": "3:54"
-        },
-        {
-          "number": 3,
-          "name": "Berzerkermode",
-          "duration": "3:09"
-        },
-        {
-          "number": 4,
-          "name": "Knochenkarussell",
-          "duration": "3:49"
-        },
-        {
-          "number": 5,
-          "name": "Fegefeuer",
-          "duration": "3:33"
-        },
-        {
-          "number": 6,
-          "name": "Die Horde",
-          "duration": "3:09"
-        },
-        {
-          "number": 7,
-          "name": "Uruk-Hai",
-          "duration": "4:21"
-        },
-        {
-          "number": 8,
-          "name": "Highlander",
-          "duration": "3:19"
-        },
-        {
-          "number": 9,
-          "name": "Morrigan",
-          "duration": "2:50"
-        },
-        {
-          "number": 10,
-          "name": "Eis & Feuer",
-          "duration": "3:32"
-        },
-        {
-          "number": 11,
-          "name": "Valkyren",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
       "name": "Todsünden",
       "year": "2022",
       "release_date": "2022-12-30",
@@ -307,74 +244,6 @@
       ]
     },
     {
-      "name": "Warriors",
-      "year": "2024",
-      "release_date": "2024-05-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/85/35/1d/85351d42-3d90-4a6a-ad5d-0611e857191a/840588185993.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Highlander (English Version)",
-          "duration": "3:19"
-        },
-        {
-          "number": 2,
-          "name": "The Unholy Grail (feat. Dominum & Orden Ogan)",
-          "duration": "3:51"
-        },
-        {
-          "number": 3,
-          "name": "The Forgotten Commandment",
-          "duration": "3:35"
-        },
-        {
-          "number": 4,
-          "name": "Memento Mori (feat. Lord of the Lost & Chris Harms) [English Version]",
-          "duration": "3:31"
-        },
-        {
-          "number": 5,
-          "name": "Death on the Dragonship",
-          "duration": "3:32"
-        },
-        {
-          "number": 6,
-          "name": "Wardwarf (feat. Francesco Cavalieri)",
-          "duration": "3:36"
-        },
-        {
-          "number": 7,
-          "name": "Circlepit of Hell",
-          "duration": "3:49"
-        },
-        {
-          "number": 8,
-          "name": "Song of Ice and Fire (feat. Patty Gurdy)",
-          "duration": "3:32"
-        },
-        {
-          "number": 9,
-          "name": "Purgatory",
-          "duration": "3:33"
-        },
-        {
-          "number": 10,
-          "name": "Bastard of Asgard",
-          "duration": "3:54"
-        },
-        {
-          "number": 11,
-          "name": "SGFRD Dragonslayer (English Version)",
-          "duration": "3:26"
-        },
-        {
-          "number": 12,
-          "name": "Valhalla Calling",
-          "duration": "3:48"
-        }
-      ]
-    },
-    {
       "name": "Fegefeuer (Deluxe Album)",
       "year": "2023",
       "release_date": "2023-07-21",
@@ -554,6 +423,137 @@
           "number": 13,
           "name": "Extro (Live in Wacken 2022)",
           "duration": "2:27"
+        }
+      ]
+    },
+    {
+      "name": "Warriors",
+      "year": "2024",
+      "release_date": "2024-05-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/85/35/1d/85351d42-3d90-4a6a-ad5d-0611e857191a/840588185993.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Highlander (English Version)",
+          "duration": "3:19"
+        },
+        {
+          "number": 2,
+          "name": "The Unholy Grail (feat. Dominum & Orden Ogan)",
+          "duration": "3:51"
+        },
+        {
+          "number": 3,
+          "name": "The Forgotten Commandment",
+          "duration": "3:35"
+        },
+        {
+          "number": 4,
+          "name": "Memento Mori (feat. Lord of the Lost & Chris Harms) [English Version]",
+          "duration": "3:31"
+        },
+        {
+          "number": 5,
+          "name": "Death on the Dragonship",
+          "duration": "3:32"
+        },
+        {
+          "number": 6,
+          "name": "Wardwarf (feat. Francesco Cavalieri)",
+          "duration": "3:36"
+        },
+        {
+          "number": 7,
+          "name": "Circlepit of Hell",
+          "duration": "3:49"
+        },
+        {
+          "number": 8,
+          "name": "Song of Ice and Fire (feat. Patty Gurdy)",
+          "duration": "3:32"
+        },
+        {
+          "number": 9,
+          "name": "Purgatory",
+          "duration": "3:33"
+        },
+        {
+          "number": 10,
+          "name": "Bastard of Asgard",
+          "duration": "3:54"
+        },
+        {
+          "number": 11,
+          "name": "SGFRD Dragonslayer (English Version)",
+          "duration": "3:26"
+        },
+        {
+          "number": 12,
+          "name": "Valhalla Calling",
+          "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Fegefeuer",
+      "year": "2023",
+      "release_date": "2023-07-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/de/cd/11decd14-aa3e-e278-462f-7132676ae849/840588181407.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SGFRD Dragonslayer",
+          "duration": "3:26"
+        },
+        {
+          "number": 2,
+          "name": "Bastard von Asgard (feat. Fabienne Erni)",
+          "duration": "3:54"
+        },
+        {
+          "number": 3,
+          "name": "Berzerkermode",
+          "duration": "3:09"
+        },
+        {
+          "number": 4,
+          "name": "Knochenkarussell",
+          "duration": "3:49"
+        },
+        {
+          "number": 5,
+          "name": "Fegefeuer",
+          "duration": "3:33"
+        },
+        {
+          "number": 6,
+          "name": "Die Horde",
+          "duration": "3:09"
+        },
+        {
+          "number": 7,
+          "name": "Uruk-Hai",
+          "duration": "4:21"
+        },
+        {
+          "number": 8,
+          "name": "Highlander",
+          "duration": "3:19"
+        },
+        {
+          "number": 9,
+          "name": "Morrigan",
+          "duration": "2:50"
+        },
+        {
+          "number": 10,
+          "name": "Eis & Feuer",
+          "duration": "3:32"
+        },
+        {
+          "number": 11,
+          "name": "Valkyren",
+          "duration": "3:26"
         }
       ]
     },
@@ -1940,19 +1940,6 @@
   ],
   "singles": [
     {
-      "name": "The Dead Don't Die (feat. Feuerschwanz)",
-      "year": "2024",
-      "release_date": "2024-10-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/d7/0e/ebd70e54-8d67-4b06-5765-feb433b44ce9/810157920911.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Dead Don't Die (feat. Feuerschwanz)",
-          "duration": "3:31"
-        }
-      ]
-    },
-    {
       "name": "Gangnam Style",
       "year": "2025",
       "release_date": "2025-04-17",
@@ -1993,6 +1980,19 @@
           "number": 1,
           "name": "Lords Of Fyre",
           "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "The Dead Don't Die (feat. Feuerschwanz)",
+      "year": "2024",
+      "release_date": "2024-10-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/d7/0e/ebd70e54-8d67-4b06-5765-feb433b44ce9/810157920911.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Dead Don't Die (feat. Feuerschwanz)",
+          "duration": "3:31"
         }
       ]
     },

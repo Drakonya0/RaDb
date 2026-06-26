@@ -3,59 +3,6 @@
   "id": 14900503,
   "albums": [
     {
-      "name": "Les lacs du Connemara",
-      "year": "1981",
-      "release_date": "1981-09-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/4c/cc/a04ccc86-34e3-c589-85f8-a0c6e79a34f8/06UMGIM27154.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Les lacs du Connemara",
-          "duration": "6:03"
-        },
-        {
-          "number": 2,
-          "name": "L'autre femme",
-          "duration": "2:52"
-        },
-        {
-          "number": 3,
-          "name": "Le mauvais homme",
-          "duration": "4:46"
-        },
-        {
-          "number": 4,
-          "name": "Préservation",
-          "duration": "4:04"
-        },
-        {
-          "number": 5,
-          "name": "Les mamans qui s'en vont",
-          "duration": "3:35"
-        },
-        {
-          "number": 6,
-          "name": "Musica",
-          "duration": "4:06"
-        },
-        {
-          "number": 7,
-          "name": "Être une femme",
-          "duration": "4:15"
-        },
-        {
-          "number": 8,
-          "name": "Je viens du sud",
-          "duration": "4:03"
-        },
-        {
-          "number": 9,
-          "name": "Les noces de mon père",
-          "duration": "2:06"
-        }
-      ]
-    },
-    {
       "name": "Les grands moments : Best of Sardou",
       "year": "2012",
       "release_date": "2012-10-22",
@@ -318,6 +265,59 @@
           "number": 17,
           "name": "Requin chagrin (feat. Mireille Darc)",
           "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "Les lacs du Connemara",
+      "year": "1981",
+      "release_date": "1981-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/4c/cc/a04ccc86-34e3-c589-85f8-a0c6e79a34f8/06UMGIM27154.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Les lacs du Connemara",
+          "duration": "6:03"
+        },
+        {
+          "number": 2,
+          "name": "L'autre femme",
+          "duration": "2:52"
+        },
+        {
+          "number": 3,
+          "name": "Le mauvais homme",
+          "duration": "4:46"
+        },
+        {
+          "number": 4,
+          "name": "Préservation",
+          "duration": "4:04"
+        },
+        {
+          "number": 5,
+          "name": "Les mamans qui s'en vont",
+          "duration": "3:35"
+        },
+        {
+          "number": 6,
+          "name": "Musica",
+          "duration": "4:06"
+        },
+        {
+          "number": 7,
+          "name": "Être une femme",
+          "duration": "4:15"
+        },
+        {
+          "number": 8,
+          "name": "Je viens du sud",
+          "duration": "4:03"
+        },
+        {
+          "number": 9,
+          "name": "Les noces de mon père",
+          "duration": "2:06"
         }
       ]
     },
@@ -943,69 +943,6 @@
           "number": 14,
           "name": "Dis-moi",
           "duration": "5:35"
-        }
-      ]
-    },
-    {
-      "name": "La Java de Broadway",
-      "year": "1977",
-      "release_date": "1977-05-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/a2/a5/e7a2a592-02a7-f8da-8b5c-39717db653af/00602498198483.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Comme d'habitude",
-          "duration": "4:06"
-        },
-        {
-          "number": 2,
-          "name": "La java de Broadway",
-          "duration": "4:06"
-        },
-        {
-          "number": 3,
-          "name": "Dix ans plus tôt",
-          "duration": "4:56"
-        },
-        {
-          "number": 4,
-          "name": "Une drôle de danse",
-          "duration": "4:22"
-        },
-        {
-          "number": 5,
-          "name": "Seulement l'amour",
-          "duration": "4:05"
-        },
-        {
-          "number": 6,
-          "name": "Mon fils",
-          "duration": "3:47"
-        },
-        {
-          "number": 7,
-          "name": "Dixit virgile (ad libitum)",
-          "duration": "3:36"
-        },
-        {
-          "number": 8,
-          "name": "Je suis l'homme d'un seul amour",
-          "duration": "3:12"
-        },
-        {
-          "number": 9,
-          "name": "C'est ma vie",
-          "duration": "4:29"
-        },
-        {
-          "number": 10,
-          "name": "Qu'est-ce qu'il a dit",
-          "duration": "2:54"
-        },
-        {
-          "number": 11,
-          "name": "Manie manie",
-          "duration": "3:45"
         }
       ]
     },
@@ -1676,6 +1613,69 @@
           "number": 12,
           "name": "Si j'avais un frère",
           "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "La Java de Broadway",
+      "year": "1977",
+      "release_date": "1977-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e7/a2/a5/e7a2a592-02a7-f8da-8b5c-39717db653af/00602498198483.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Comme d'habitude",
+          "duration": "4:06"
+        },
+        {
+          "number": 2,
+          "name": "La java de Broadway",
+          "duration": "4:06"
+        },
+        {
+          "number": 3,
+          "name": "Dix ans plus tôt",
+          "duration": "4:56"
+        },
+        {
+          "number": 4,
+          "name": "Une drôle de danse",
+          "duration": "4:22"
+        },
+        {
+          "number": 5,
+          "name": "Seulement l'amour",
+          "duration": "4:05"
+        },
+        {
+          "number": 6,
+          "name": "Mon fils",
+          "duration": "3:47"
+        },
+        {
+          "number": 7,
+          "name": "Dixit virgile (ad libitum)",
+          "duration": "3:36"
+        },
+        {
+          "number": 8,
+          "name": "Je suis l'homme d'un seul amour",
+          "duration": "3:12"
+        },
+        {
+          "number": 9,
+          "name": "C'est ma vie",
+          "duration": "4:29"
+        },
+        {
+          "number": 10,
+          "name": "Qu'est-ce qu'il a dit",
+          "duration": "2:54"
+        },
+        {
+          "number": 11,
+          "name": "Manie manie",
+          "duration": "3:45"
         }
       ]
     },

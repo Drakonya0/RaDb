@@ -3,69 +3,6 @@
   "id": 329938300,
   "albums": [
     {
-      "name": "Where Do We Go from Here?",
-      "year": "2023",
-      "release_date": "2023-08-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/16/cb/a216cbe0-2ba8-072e-c3d9-b762229f3a92/846070053801.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bad Blood",
-          "duration": "3:30"
-        },
-        {
-          "number": 2,
-          "name": "Things Could Be Different",
-          "duration": "3:35"
-        },
-        {
-          "number": 3,
-          "name": "Let Go",
-          "duration": "4:13"
-        },
-        {
-          "number": 4,
-          "name": "Psycho",
-          "duration": "3:56"
-        },
-        {
-          "number": 5,
-          "name": "Dark Void",
-          "duration": "3:52"
-        },
-        {
-          "number": 6,
-          "name": "Nothing Left",
-          "duration": "4:27"
-        },
-        {
-          "number": 7,
-          "name": "Feel",
-          "duration": "3:32"
-        },
-        {
-          "number": 8,
-          "name": "Let the Dead Take Me",
-          "duration": "3:44"
-        },
-        {
-          "number": 9,
-          "name": "Kill It with Fire",
-          "duration": "1:06"
-        },
-        {
-          "number": 10,
-          "name": "Holding on to Something More",
-          "duration": "3:24"
-        },
-        {
-          "number": 11,
-          "name": "Where Do We Go from Here",
-          "duration": "4:09"
-        }
-      ]
-    },
-    {
       "name": "See What’s on the Inside",
       "year": "2021",
       "release_date": "2021-10-01",
@@ -125,79 +62,6 @@
           "number": 11,
           "name": "The Grey",
           "duration": "3:46"
-        }
-      ]
-    },
-    {
-      "name": "Stand Up And Scream",
-      "year": "2009",
-      "release_date": "2009-09-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/96/d1/4f96d14e-b2be-a18d-bc8a-447da5023f24/00817424012072_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Alerion",
-          "duration": "2:14"
-        },
-        {
-          "number": 2,
-          "name": "The Final Episode (Let's Change the Channel)",
-          "duration": "4:02"
-        },
-        {
-          "number": 3,
-          "name": "A Candlelit Dinner With Inamorta",
-          "duration": "4:03"
-        },
-        {
-          "number": 4,
-          "name": "Nobody Don't Dance No More",
-          "duration": "3:59"
-        },
-        {
-          "number": 5,
-          "name": "Hey There Mr. Brooks",
-          "duration": "4:09"
-        },
-        {
-          "number": 6,
-          "name": "Hiatus",
-          "duration": "1:45"
-        },
-        {
-          "number": 7,
-          "name": "If You Can't Ride Two Horses At Once...You Should Get Out Of The Circus",
-          "duration": "3:45"
-        },
-        {
-          "number": 8,
-          "name": "A Single Moment Of Sincerity",
-          "duration": "3:50"
-        },
-        {
-          "number": 9,
-          "name": "Not The American Average",
-          "duration": "4:39"
-        },
-        {
-          "number": 10,
-          "name": "I Used To Have A Best Friend (But Then He Gave Me An STD)",
-          "duration": "4:05"
-        },
-        {
-          "number": 11,
-          "name": "A Prophecy",
-          "duration": "3:33"
-        },
-        {
-          "number": 12,
-          "name": "I Was Once, Possibly, Maybe, Perhaps A Cowboy King",
-          "duration": "3:41"
-        },
-        {
-          "number": 13,
-          "name": "When Everyday's The Weekend",
-          "duration": "4:23"
         }
       ]
     },
@@ -301,6 +165,142 @@
           "number": 19,
           "name": "Alone Again (Acoustic)",
           "duration": "2:19"
+        }
+      ]
+    },
+    {
+      "name": "Where Do We Go from Here?",
+      "year": "2023",
+      "release_date": "2023-08-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/16/cb/a216cbe0-2ba8-072e-c3d9-b762229f3a92/846070053801.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bad Blood",
+          "duration": "3:30"
+        },
+        {
+          "number": 2,
+          "name": "Things Could Be Different",
+          "duration": "3:35"
+        },
+        {
+          "number": 3,
+          "name": "Let Go",
+          "duration": "4:13"
+        },
+        {
+          "number": 4,
+          "name": "Psycho",
+          "duration": "3:56"
+        },
+        {
+          "number": 5,
+          "name": "Dark Void",
+          "duration": "3:52"
+        },
+        {
+          "number": 6,
+          "name": "Nothing Left",
+          "duration": "4:27"
+        },
+        {
+          "number": 7,
+          "name": "Feel",
+          "duration": "3:32"
+        },
+        {
+          "number": 8,
+          "name": "Let the Dead Take Me",
+          "duration": "3:44"
+        },
+        {
+          "number": 9,
+          "name": "Kill It with Fire",
+          "duration": "1:06"
+        },
+        {
+          "number": 10,
+          "name": "Holding on to Something More",
+          "duration": "3:24"
+        },
+        {
+          "number": 11,
+          "name": "Where Do We Go from Here",
+          "duration": "4:09"
+        }
+      ]
+    },
+    {
+      "name": "Stand Up And Scream",
+      "year": "2009",
+      "release_date": "2009-09-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/96/d1/4f96d14e-b2be-a18d-bc8a-447da5023f24/00817424012072_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Alerion",
+          "duration": "2:14"
+        },
+        {
+          "number": 2,
+          "name": "The Final Episode (Let's Change the Channel)",
+          "duration": "4:02"
+        },
+        {
+          "number": 3,
+          "name": "A Candlelit Dinner With Inamorta",
+          "duration": "4:03"
+        },
+        {
+          "number": 4,
+          "name": "Nobody Don't Dance No More",
+          "duration": "3:59"
+        },
+        {
+          "number": 5,
+          "name": "Hey There Mr. Brooks",
+          "duration": "4:09"
+        },
+        {
+          "number": 6,
+          "name": "Hiatus",
+          "duration": "1:45"
+        },
+        {
+          "number": 7,
+          "name": "If You Can't Ride Two Horses At Once...You Should Get Out Of The Circus",
+          "duration": "3:45"
+        },
+        {
+          "number": 8,
+          "name": "A Single Moment Of Sincerity",
+          "duration": "3:50"
+        },
+        {
+          "number": 9,
+          "name": "Not The American Average",
+          "duration": "4:39"
+        },
+        {
+          "number": 10,
+          "name": "I Used To Have A Best Friend (But Then He Gave Me An STD)",
+          "duration": "4:05"
+        },
+        {
+          "number": 11,
+          "name": "A Prophecy",
+          "duration": "3:33"
+        },
+        {
+          "number": 12,
+          "name": "I Was Once, Possibly, Maybe, Perhaps A Cowboy King",
+          "duration": "3:41"
+        },
+        {
+          "number": 13,
+          "name": "When Everyday's The Weekend",
+          "duration": "4:23"
         }
       ]
     },
@@ -446,74 +446,6 @@
       ]
     },
     {
-      "name": "The Black",
-      "year": "2016",
-      "release_date": "2016-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/39/69/df3969f0-9c2f-f204-2fb9-77bb0c69e810/198704633300_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Let It Sleep",
-          "duration": "4:00"
-        },
-        {
-          "number": 2,
-          "name": "The Black",
-          "duration": "4:41"
-        },
-        {
-          "number": 3,
-          "name": "I Won't Give In",
-          "duration": "3:49"
-        },
-        {
-          "number": 4,
-          "name": "Sometimes It Ends",
-          "duration": "4:45"
-        },
-        {
-          "number": 5,
-          "name": "The Lost Souls",
-          "duration": "4:05"
-        },
-        {
-          "number": 6,
-          "name": "Just A Slave To Rock n' Roll",
-          "duration": "3:25"
-        },
-        {
-          "number": 7,
-          "name": "Send Me Home",
-          "duration": "4:18"
-        },
-        {
-          "number": 8,
-          "name": "We'll Be OK",
-          "duration": "3:57"
-        },
-        {
-          "number": 9,
-          "name": "Here I Am",
-          "duration": "4:19"
-        },
-        {
-          "number": 10,
-          "name": "Gone",
-          "duration": "3:17"
-        },
-        {
-          "number": 11,
-          "name": "Undivided",
-          "duration": "3:35"
-        },
-        {
-          "number": 12,
-          "name": "Circled By The Wolves",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "Asking Alexandria",
       "year": "2017",
       "release_date": "2017-12-15",
@@ -583,6 +515,74 @@
           "number": 13,
           "name": "Into The Fire (Radio Edit)",
           "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "The Black",
+      "year": "2016",
+      "release_date": "2016-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/39/69/df3969f0-9c2f-f204-2fb9-77bb0c69e810/198704633300_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Let It Sleep",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "The Black",
+          "duration": "4:41"
+        },
+        {
+          "number": 3,
+          "name": "I Won't Give In",
+          "duration": "3:49"
+        },
+        {
+          "number": 4,
+          "name": "Sometimes It Ends",
+          "duration": "4:45"
+        },
+        {
+          "number": 5,
+          "name": "The Lost Souls",
+          "duration": "4:05"
+        },
+        {
+          "number": 6,
+          "name": "Just A Slave To Rock n' Roll",
+          "duration": "3:25"
+        },
+        {
+          "number": 7,
+          "name": "Send Me Home",
+          "duration": "4:18"
+        },
+        {
+          "number": 8,
+          "name": "We'll Be OK",
+          "duration": "3:57"
+        },
+        {
+          "number": 9,
+          "name": "Here I Am",
+          "duration": "4:19"
+        },
+        {
+          "number": 10,
+          "name": "Gone",
+          "duration": "3:17"
+        },
+        {
+          "number": 11,
+          "name": "Undivided",
+          "duration": "3:35"
+        },
+        {
+          "number": 12,
+          "name": "Circled By The Wolves",
+          "duration": "3:29"
         }
       ]
     },
@@ -951,6 +951,19 @@
       ]
     },
     {
+      "name": "Dead",
+      "year": "2013",
+      "release_date": "2013-08-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/28/d7/3628d765-ae22-dc3f-3703-90598e96909c/00810016762058_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dead",
+          "duration": "4:00"
+        }
+      ]
+    },
+    {
       "name": "The Retaliators Theme (21 Bullets) (Feat. Mötley Crüe, Ice Nine Kills, Asking Alexandria, from Ashes to New) [Acoustic]",
       "year": "2023",
       "release_date": "2023-10-20",
@@ -1118,19 +1131,6 @@
           "number": 1,
           "name": "Break Down The Walls",
           "duration": "3:31"
-        }
-      ]
-    },
-    {
-      "name": "Dead",
-      "year": "2013",
-      "release_date": "2013-08-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/28/d7/3628d765-ae22-dc3f-3703-90598e96909c/00810016762058_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dead",
-          "duration": "4:00"
         }
       ]
     },

@@ -3,74 +3,6 @@
   "id": 294914748,
   "albums": [
     {
-      "name": "The Side Effects",
-      "year": "2019",
-      "release_date": "2019-08-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2e/0c/25/2e0c255a-5dd9-ca62-b366-58d8cb4322bd/190295370220.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MAYDAY (feat. Ryo)",
-          "duration": "3:47"
-        },
-        {
-          "number": 2,
-          "name": "Coexist",
-          "duration": "3:41"
-        },
-        {
-          "number": 3,
-          "name": "See You",
-          "duration": "3:49"
-        },
-        {
-          "number": 4,
-          "name": "Speak",
-          "duration": "3:13"
-        },
-        {
-          "number": 5,
-          "name": "The Side Effects",
-          "duration": "3:44"
-        },
-        {
-          "number": 6,
-          "name": "January 1st",
-          "duration": "4:39"
-        },
-        {
-          "number": 7,
-          "name": "Insomnia",
-          "duration": "4:22"
-        },
-        {
-          "number": 8,
-          "name": "Answer / Sickness",
-          "duration": "3:44"
-        },
-        {
-          "number": 9,
-          "name": "Breathe",
-          "duration": "4:13"
-        },
-        {
-          "number": 10,
-          "name": "Stay the Course",
-          "duration": "4:09"
-        },
-        {
-          "number": 11,
-          "name": "Revolution",
-          "duration": "3:45"
-        },
-        {
-          "number": 12,
-          "name": "LI(E)Fe",
-          "duration": "3:18"
-        }
-      ]
-    },
-    {
       "name": "FATELESS",
       "year": "2017",
       "release_date": "2017-10-11",
@@ -135,6 +67,74 @@
           "number": 12,
           "name": "A DECADE IN THE RAIN",
           "duration": "4:08"
+        }
+      ]
+    },
+    {
+      "name": "The Side Effects",
+      "year": "2019",
+      "release_date": "2019-08-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2e/0c/25/2e0c255a-5dd9-ca62-b366-58d8cb4322bd/190295370220.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MAYDAY (feat. Ryo)",
+          "duration": "3:47"
+        },
+        {
+          "number": 2,
+          "name": "Coexist",
+          "duration": "3:41"
+        },
+        {
+          "number": 3,
+          "name": "See You",
+          "duration": "3:49"
+        },
+        {
+          "number": 4,
+          "name": "Speak",
+          "duration": "3:13"
+        },
+        {
+          "number": 5,
+          "name": "The Side Effects",
+          "duration": "3:44"
+        },
+        {
+          "number": 6,
+          "name": "January 1st",
+          "duration": "4:39"
+        },
+        {
+          "number": 7,
+          "name": "Insomnia",
+          "duration": "4:22"
+        },
+        {
+          "number": 8,
+          "name": "Answer / Sickness",
+          "duration": "3:44"
+        },
+        {
+          "number": 9,
+          "name": "Breathe",
+          "duration": "4:13"
+        },
+        {
+          "number": 10,
+          "name": "Stay the Course",
+          "duration": "4:09"
+        },
+        {
+          "number": 11,
+          "name": "Revolution",
+          "duration": "3:45"
+        },
+        {
+          "number": 12,
+          "name": "LI(E)Fe",
+          "duration": "3:18"
         }
       ]
     },
@@ -409,19 +409,6 @@
   ],
   "singles": [
     {
-      "name": "Speak of the Devil (feat. coldrain)",
-      "year": "2026",
-      "release_date": "2026-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/af/3d/ceaf3d6e-26a9-39d9-8205-1ea9c37cb2d8/4573623373135.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Speak of the Devil (feat. coldrain)",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
       "name": "FEED THE FIRE",
       "year": "2017",
       "release_date": "2017-09-22",
@@ -431,6 +418,19 @@
           "number": 1,
           "name": "FEED THE FIRE",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "Speak of the Devil (feat. coldrain)",
+      "year": "2026",
+      "release_date": "2026-01-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/af/3d/ceaf3d6e-26a9-39d9-8205-1ea9c37cb2d8/4573623373135.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Speak of the Devil (feat. coldrain)",
+          "duration": "3:42"
         }
       ]
     },

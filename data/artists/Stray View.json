@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Come Down",
-      "year": "2025",
-      "release_date": "2025-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/54/c7/3b54c717-108f-9966-c476-7feb803a7183/2367.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Come Down",
-          "duration": "3:16"
-        }
-      ]
-    },
-    {
       "name": "Escape",
       "year": "2024",
       "release_date": "2024-05-10",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "Escape",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "Come Down",
+      "year": "2025",
+      "release_date": "2025-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/54/c7/3b54c717-108f-9966-c476-7feb803a7183/2367.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Come Down",
+          "duration": "3:16"
         }
       ]
     },
@@ -82,19 +82,6 @@
       ]
     },
     {
-      "name": "Mariposa",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/05/a3/b505a35a-af50-814c-5c44-ccd530c180f3/3359.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mariposa",
-          "duration": "3:37"
-        }
-      ]
-    },
-    {
       "name": "The Riddle",
       "year": "2024",
       "release_date": "2024-07-19",
@@ -104,6 +91,19 @@
           "number": 1,
           "name": "The Riddle",
           "duration": "3:43"
+        }
+      ]
+    },
+    {
+      "name": "Mariposa",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/05/a3/b505a35a-af50-814c-5c44-ccd530c180f3/3359.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mariposa",
+          "duration": "3:37"
         }
       ]
     },
