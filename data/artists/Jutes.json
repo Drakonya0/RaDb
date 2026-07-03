@@ -3,79 +3,6 @@
   "id": 603222293,
   "albums": [
     {
-      "name": "Chin Up, Beautiful",
-      "year": "2026",
-      "release_date": "2026-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/a4/20/dda420b8-46c6-5612-08d1-4d27784c88be/823375191711_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Icarus",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Smile, You're on Camera",
-          "duration": "3:13"
-        },
-        {
-          "number": 3,
-          "name": "The Catalyst",
-          "duration": "3:25"
-        },
-        {
-          "number": 4,
-          "name": "Disassociate",
-          "duration": "4:34"
-        },
-        {
-          "number": 5,
-          "name": "Crawl (Caleb's Song)",
-          "duration": "3:54"
-        },
-        {
-          "number": 6,
-          "name": "Mannequin",
-          "duration": "2:53"
-        },
-        {
-          "number": 7,
-          "name": "Goodnight (Interlude) <3",
-          "duration": "2:12"
-        },
-        {
-          "number": 8,
-          "name": "White Butterflies",
-          "duration": "3:02"
-        },
-        {
-          "number": 9,
-          "name": "Take Care of Her",
-          "duration": "4:17"
-        },
-        {
-          "number": 10,
-          "name": "Cry Wolf",
-          "duration": "3:31"
-        },
-        {
-          "number": 11,
-          "name": "Pitiful",
-          "duration": "3:26"
-        },
-        {
-          "number": 12,
-          "name": "Blink Twice",
-          "duration": "3:53"
-        },
-        {
-          "number": 13,
-          "name": "Chin Up, Beautiful",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
       "name": "Sleepyhead",
       "year": "2024",
       "release_date": "2024-12-16",
@@ -261,6 +188,79 @@
           "number": 8,
           "name": "The End",
           "duration": "2:52"
+        }
+      ]
+    },
+    {
+      "name": "Chin Up, Beautiful",
+      "year": "2026",
+      "release_date": "2026-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/a4/20/dda420b8-46c6-5612-08d1-4d27784c88be/823375191711_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Icarus",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Smile, You're on Camera",
+          "duration": "3:13"
+        },
+        {
+          "number": 3,
+          "name": "The Catalyst",
+          "duration": "3:25"
+        },
+        {
+          "number": 4,
+          "name": "Disassociate",
+          "duration": "4:34"
+        },
+        {
+          "number": 5,
+          "name": "Crawl (Caleb's Song)",
+          "duration": "3:54"
+        },
+        {
+          "number": 6,
+          "name": "Mannequin",
+          "duration": "2:53"
+        },
+        {
+          "number": 7,
+          "name": "Goodnight (Interlude) <3",
+          "duration": "2:12"
+        },
+        {
+          "number": 8,
+          "name": "White Butterflies",
+          "duration": "3:02"
+        },
+        {
+          "number": 9,
+          "name": "Take Care of Her",
+          "duration": "4:17"
+        },
+        {
+          "number": 10,
+          "name": "Cry Wolf",
+          "duration": "3:31"
+        },
+        {
+          "number": 11,
+          "name": "Pitiful",
+          "duration": "3:26"
+        },
+        {
+          "number": 12,
+          "name": "Blink Twice",
+          "duration": "3:53"
+        },
+        {
+          "number": 13,
+          "name": "Chin Up, Beautiful",
+          "duration": "3:40"
         }
       ]
     },
@@ -1024,19 +1024,6 @@
   ],
   "singles": [
     {
-      "name": "Disassociate",
-      "year": "2026",
-      "release_date": "2026-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/21/6c/a8216c71-8fb7-0450-64d2-5ad97f7c082e/1021675.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Disassociate",
-          "duration": "4:34"
-        }
-      ]
-    },
-    {
       "name": "Red Velvet (with Ari Abdul)",
       "year": "2025",
       "release_date": "2025-01-24",
@@ -1046,6 +1033,19 @@
           "number": 1,
           "name": "Red Velvet (with Ari Abdul)",
           "duration": "3:06"
+        }
+      ]
+    },
+    {
+      "name": "Disassociate",
+      "year": "2026",
+      "release_date": "2026-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/21/6c/a8216c71-8fb7-0450-64d2-5ad97f7c082e/1021675.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Disassociate",
+          "duration": "4:34"
         }
       ]
     },
@@ -1063,19 +1063,6 @@
       ]
     },
     {
-      "name": "Sleepyhead",
-      "year": "2024",
-      "release_date": "2024-03-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/ae/c2/ddaec232-0764-0b65-7455-3d90ce07b149/247925.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sleepyhead",
-          "duration": "3:12"
-        }
-      ]
-    },
-    {
       "name": "Parasite",
       "year": "2025",
       "release_date": "2025-09-24",
@@ -1085,6 +1072,19 @@
           "number": 1,
           "name": "Parasite",
           "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "name": "Sleepyhead",
+      "year": "2024",
+      "release_date": "2024-03-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/ae/c2/ddaec232-0764-0b65-7455-3d90ce07b149/247925.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sleepyhead",
+          "duration": "3:12"
         }
       ]
     },
@@ -1165,6 +1165,24 @@
           "number": 1,
           "name": "I Can Fix You",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Mannequin / Goodnight (Interlude) <3",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/12/97/d9129710-5b2c-d1ef-7a78-6dc9adfedfc6/823375149583_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mannequin",
+          "duration": "2:53"
+        },
+        {
+          "number": 2,
+          "name": "Goodnight (Interlude) <3",
+          "duration": "2:12"
         }
       ]
     },
@@ -1284,24 +1302,6 @@
           "number": 1,
           "name": "Walk on Me",
           "duration": "2:31"
-        }
-      ]
-    },
-    {
-      "name": "Mannequin / Goodnight (Interlude) <3",
-      "year": "2026",
-      "release_date": "2026-05-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/12/97/d9129710-5b2c-d1ef-7a78-6dc9adfedfc6/823375149583_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mannequin",
-          "duration": "2:53"
-        },
-        {
-          "number": 2,
-          "name": "Goodnight (Interlude) <3",
-          "duration": "2:12"
         }
       ]
     },

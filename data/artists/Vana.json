@@ -56,24 +56,6 @@
       ]
     },
     {
-      "name": "In Your Name",
-      "year": "2026",
-      "release_date": "2026-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/e9/73/55e9734c-f1b9-6fe8-d510-ebdb9d3aedbc/823375069652_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "In Your Name",
-          "duration": "4:42"
-        },
-        {
-          "number": 2,
-          "name": "Pray",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "PLAYBOi",
       "year": "2024",
       "release_date": "2024-06-07",
@@ -96,6 +78,24 @@
           "number": 1,
           "name": "Foggy Windows",
           "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "In Your Name",
+      "year": "2026",
+      "release_date": "2026-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/e9/73/55e9734c-f1b9-6fe8-d510-ebdb9d3aedbc/823375069652_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In Your Name",
+          "duration": "4:42"
+        },
+        {
+          "number": 2,
+          "name": "Pray",
+          "duration": "3:29"
         }
       ]
     },
@@ -139,19 +139,6 @@
       ]
     },
     {
-      "name": "Black Sheep",
-      "year": "2022",
-      "release_date": "2022-01-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/79/a1/01/79a1016a-b5a6-35bb-8529-d45135ceb745/752470157868_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Black Sheep",
-          "duration": "3:22"
-        }
-      ]
-    },
-    {
       "name": "Crawling",
       "year": "2023",
       "release_date": "2023-03-31",
@@ -161,6 +148,19 @@
           "number": 1,
           "name": "Crawling",
           "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "name": "Black Sheep",
+      "year": "2022",
+      "release_date": "2022-01-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/79/a1/01/79a1016a-b5a6-35bb-8529-d45135ceb745/752470157868_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Black Sheep",
+          "duration": "3:22"
         }
       ]
     },

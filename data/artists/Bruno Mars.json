@@ -172,6 +172,64 @@
       ]
     },
     {
+      "name": "Unorthodox Jukebox",
+      "year": "2012",
+      "release_date": "2012-12-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/63/53/156353b8-d45b-a17d-f553-2d125aeb3cb3/075679957474.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Young Girls",
+          "duration": "3:49"
+        },
+        {
+          "number": 2,
+          "name": "Locked Out of Heaven",
+          "duration": "3:53"
+        },
+        {
+          "number": 3,
+          "name": "Gorilla",
+          "duration": "4:04"
+        },
+        {
+          "number": 4,
+          "name": "Treasure",
+          "duration": "2:56"
+        },
+        {
+          "number": 5,
+          "name": "Moonshine",
+          "duration": "3:48"
+        },
+        {
+          "number": 6,
+          "name": "When I Was Your Man",
+          "duration": "3:33"
+        },
+        {
+          "number": 7,
+          "name": "Natalie",
+          "duration": "3:45"
+        },
+        {
+          "number": 8,
+          "name": "Show Me",
+          "duration": "3:27"
+        },
+        {
+          "number": 9,
+          "name": "Money Make Her Smile",
+          "duration": "3:23"
+        },
+        {
+          "number": 10,
+          "name": "If I Knew",
+          "duration": "2:12"
+        }
+      ]
+    },
+    {
       "name": "Doo-Wops & Hooligans (Deluxe)",
       "year": "2010",
       "release_date": "2010-10-04",
@@ -246,64 +304,6 @@
           "number": 14,
           "name": "The Other Side (feat. Cee Lo Green & B.o.B)",
           "duration": "3:46"
-        }
-      ]
-    },
-    {
-      "name": "Unorthodox Jukebox",
-      "year": "2012",
-      "release_date": "2012-12-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/63/53/156353b8-d45b-a17d-f553-2d125aeb3cb3/075679957474.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Young Girls",
-          "duration": "3:49"
-        },
-        {
-          "number": 2,
-          "name": "Locked Out of Heaven",
-          "duration": "3:53"
-        },
-        {
-          "number": 3,
-          "name": "Gorilla",
-          "duration": "4:04"
-        },
-        {
-          "number": 4,
-          "name": "Treasure",
-          "duration": "2:56"
-        },
-        {
-          "number": 5,
-          "name": "Moonshine",
-          "duration": "3:48"
-        },
-        {
-          "number": 6,
-          "name": "When I Was Your Man",
-          "duration": "3:33"
-        },
-        {
-          "number": 7,
-          "name": "Natalie",
-          "duration": "3:45"
-        },
-        {
-          "number": 8,
-          "name": "Show Me",
-          "duration": "3:27"
-        },
-        {
-          "number": 9,
-          "name": "Money Make Her Smile",
-          "duration": "3:23"
-        },
-        {
-          "number": 10,
-          "name": "If I Knew",
-          "duration": "2:12"
         }
       ]
     },
@@ -666,37 +666,11 @@
   ],
   "singles": [
     {
-      "name": "Die With A Smile",
-      "year": "2024",
-      "release_date": "2024-08-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Die With A Smile",
-          "duration": "4:11"
-        }
-      ]
-    },
-    {
       "name": "Uptown Funk (feat. Bruno Mars)",
       "year": "2014",
       "release_date": "2014-11-10",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/96/24/d4/9624d446-3b95-af38-4b8c-d3087e6f962c/886444933049.jpg/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "APT.",
-      "year": "2024",
-      "release_date": "2024-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "APT.",
-          "duration": "2:49"
-        }
-      ]
     },
     {
       "name": "Finesse (Remix) [feat. Cardi B]",
@@ -708,6 +682,19 @@
           "number": 1,
           "name": "Finesse (Remix) [feat. Cardi B]",
           "duration": "3:37"
+        }
+      ]
+    },
+    {
+      "name": "Die With A Smile",
+      "year": "2024",
+      "release_date": "2024-08-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Die With A Smile",
+          "duration": "4:11"
         }
       ]
     },
@@ -725,41 +712,15 @@
       ]
     },
     {
-      "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
-      "year": "2017",
-      "release_date": "2017-06-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/1b/89/2d/1b892d31-17b2-61bf-a05f-98d6ace004d2/075679891778.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
-          "duration": "3:48"
-        }
-      ]
-    },
-    {
-      "name": "Die With A Smile (Acoustic)",
+      "name": "APT.",
       "year": "2024",
-      "release_date": "2024-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/a8/78/30a87869-f9fb-bf53-e0ba-91ffe8c03f31/24UM1IM23004.rgb.jpg/600x600bb.jpg",
+      "release_date": "2024-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/1a/7d/2d1a7d91-587e-0ceb-d434-327bd66d9e86/075679628312.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Die With A Smile (Acoustic)",
-          "duration": "4:11"
-        }
-      ]
-    },
-    {
-      "name": "Love's Train",
-      "year": "2022",
-      "release_date": "2022-02-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/89/2c/3e892c0f-58eb-e949-0ece-ac71d27cfb79/075679756794.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Love's Train",
-          "duration": "5:07"
+          "name": "APT.",
+          "duration": "2:49"
         }
       ]
     },
@@ -773,58 +734,6 @@
           "number": 1,
           "name": "Uptown Funk (feat. Bruno Mars) [Trinidad James Remix]",
           "duration": "4:22"
-        }
-      ]
-    },
-    {
-      "name": "Leave The Door Open (Live)",
-      "year": "2021",
-      "release_date": "2021-04-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/52/6b/d5526b9a-f979-3c08-6832-00505a3e7207/075679786043.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Leave The Door Open (Live)",
-          "duration": "4:20"
-        }
-      ]
-    },
-    {
-      "name": "Fat Juicy & Wet",
-      "year": "2025",
-      "release_date": "2025-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/5f/70/b45f70a8-b4d4-133e-b01b-3be8ff8b899b/075679623485.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fat Juicy & Wet",
-          "duration": "2:21"
-        }
-      ]
-    },
-    {
-      "name": "Please Me",
-      "year": "2019",
-      "release_date": "2019-02-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/81/f8/1b/81f81b47-6068-3fdb-29ae-ae032c519ef7/075679852168.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Please Me",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
-      "name": "Die With A Smile (Live in Las Vegas)",
-      "year": "2024",
-      "release_date": "2024-10-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/43/66/244366f4-6098-a1f2-a4a1-59f31668de2e/24UM1IM22514.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Die With A Smile (Live in Las Vegas)",
-          "duration": "4:40"
         }
       ]
     },
@@ -855,15 +764,41 @@
       ]
     },
     {
-      "name": "24K Magic (R3hab Remix)",
+      "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
       "year": "2017",
-      "release_date": "2017-05-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/33/2f/8a332f0c-503f-08ca-b3e6-06550cf973c1/075679894229.jpg/600x600bb.jpg",
+      "release_date": "2017-06-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/1b/89/2d/1b892d31-17b2-61bf-a05f-98d6ace004d2/075679891778.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "24K Magic (R3hab Remix)",
-          "duration": "2:38"
+          "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
+          "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Please Me",
+      "year": "2019",
+      "release_date": "2019-02-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/81/f8/1b/81f81b47-6068-3fdb-29ae-ae032c519ef7/075679852168.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Please Me",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "Leave The Door Open (Live)",
+      "year": "2021",
+      "release_date": "2021-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/52/6b/d5526b9a-f979-3c08-6832-00505a3e7207/075679786043.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Leave The Door Open (Live)",
+          "duration": "4:20"
         }
       ]
     },
@@ -881,15 +816,54 @@
       ]
     },
     {
-      "name": "Lo Arriesgo Todo",
-      "year": "2026",
-      "release_date": "2026-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/d0/0f/27d00f10-12bf-9ac8-9042-43f0783ede67/075679583659.jpg/600x600bb.jpg",
+      "name": "Love's Train",
+      "year": "2022",
+      "release_date": "2022-02-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/89/2c/3e892c0f-58eb-e949-0ece-ac71d27cfb79/075679756794.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Lo Arriesgo Todo",
-          "duration": "3:24"
+          "name": "Love's Train",
+          "duration": "5:07"
+        }
+      ]
+    },
+    {
+      "name": "Die With A Smile (Acoustic)",
+      "year": "2024",
+      "release_date": "2024-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/a8/78/30a87869-f9fb-bf53-e0ba-91ffe8c03f31/24UM1IM23004.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Die With A Smile (Acoustic)",
+          "duration": "4:11"
+        }
+      ]
+    },
+    {
+      "name": "Die With A Smile (Live in Las Vegas)",
+      "year": "2024",
+      "release_date": "2024-10-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/43/66/244366f4-6098-a1f2-a4a1-59f31668de2e/24UM1IM22514.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Die With A Smile (Live in Las Vegas)",
+          "duration": "4:40"
+        }
+      ]
+    },
+    {
+      "name": "Fat Juicy & Wet",
+      "year": "2025",
+      "release_date": "2025-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/5f/70/b45f70a8-b4d4-133e-b01b-3be8ff8b899b/075679623485.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fat Juicy & Wet",
+          "duration": "2:21"
         }
       ]
     },
@@ -938,6 +912,19 @@
       ]
     },
     {
+      "name": "24K Magic (R3hab Remix)",
+      "year": "2017",
+      "release_date": "2017-05-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8a/33/2f/8a332f0c-503f-08ca-b3e6-06550cf973c1/075679894229.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "24K Magic (R3hab Remix)",
+          "duration": "2:38"
+        }
+      ]
+    },
+    {
       "name": "That's What I Like (BLVK JVCK Remix)",
       "year": "2017",
       "release_date": "2017-04-21",
@@ -964,32 +951,6 @@
       ]
     },
     {
-      "name": "Bonde Do Brunão",
-      "year": "2024",
-      "release_date": "2024-10-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/9e/ae/e89eaef2-a1b0-e299-9c02-2aedfe09a8c6/075678595493.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bonde Do Brunão",
-          "duration": "0:57"
-        }
-      ]
-    },
-    {
-      "name": "I Just Might (Austin Millz Remix)",
-      "year": "2026",
-      "release_date": "2026-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/8e/62/e58e626b-001a-ffcf-8a31-ca8d1be6a3be/075679589095.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Just Might (Austin Millz Remix)",
-          "duration": "3:16"
-        }
-      ]
-    },
-    {
       "name": "Die With A Smile (Sped Up)",
       "year": "2024",
       "release_date": "2024-11-20",
@@ -999,6 +960,19 @@
           "number": 1,
           "name": "Die With A Smile (Sped Up)",
           "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Lo Arriesgo Todo",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/d0/0f/27d00f10-12bf-9ac8-9042-43f0783ede67/075679583659.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lo Arriesgo Todo",
+          "duration": "3:24"
         }
       ]
     },
@@ -1029,6 +1003,19 @@
       ]
     },
     {
+      "name": "I Just Might (Austin Millz Remix)",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/8e/62/e58e626b-001a-ffcf-8a31-ca8d1be6a3be/075679589095.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Just Might (Austin Millz Remix)",
+          "duration": "3:16"
+        }
+      ]
+    },
+    {
       "name": "I Just Might",
       "year": "2026",
       "release_date": "2026-01-14",
@@ -1042,15 +1029,28 @@
       ]
     },
     {
-      "name": "Bubble Butt (Remix) [feat. Bruno Mars, 2 Chainz, Tyga & Mystic]",
-      "year": "2013",
-      "release_date": "2013-05-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/d1/44/17d144c6-c019-d3d0-ebf3-bcbf4fc3f1fb/653738399429_Cover.jpg/600x600bb.jpg",
+      "name": "Bonde Do Brunão",
+      "year": "2024",
+      "release_date": "2024-10-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/9e/ae/e89eaef2-a1b0-e299-9c02-2aedfe09a8c6/075678595493.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Bubble Butt (Remix) [feat. Bruno Mars, 2 Chainz, Tyga & Mystic]",
-          "duration": "3:27"
+          "name": "Bonde Do Brunão",
+          "duration": "0:57"
+        }
+      ]
+    },
+    {
+      "name": "777",
+      "year": "2021",
+      "release_date": "2021-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/03/07/590307c9-6ec5-8719-4a32-d6c95d18e9ed/075679762047.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "777",
+          "duration": "2:45"
         }
       ]
     },
@@ -1068,15 +1068,15 @@
       ]
     },
     {
-      "name": "777",
-      "year": "2021",
-      "release_date": "2021-11-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/03/07/590307c9-6ec5-8719-4a32-d6c95d18e9ed/075679762047.jpg/600x600bb.jpg",
+      "name": "Bubble Butt (Remix) [feat. Bruno Mars, 2 Chainz, Tyga & Mystic]",
+      "year": "2013",
+      "release_date": "2013-05-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/17/d1/44/17d144c6-c019-d3d0-ebf3-bcbf4fc3f1fb/653738399429_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "777",
-          "duration": "2:45"
+          "name": "Bubble Butt (Remix) [feat. Bruno Mars, 2 Chainz, Tyga & Mystic]",
+          "duration": "3:27"
         }
       ]
     },
@@ -1184,34 +1184,6 @@
   ],
   "eps": [
     {
-      "name": "Uptown Funk (feat. Bruno Mars) [Remixes]",
-      "year": "2015",
-      "release_date": "2015-04-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/5c/eb/9d/5ceb9d47-c80d-a70a-1842-a8ca347bcc8e/886445222081.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Uptown Funk (feat. Bruno Mars)",
-          "duration": "4:29"
-        },
-        {
-          "number": 2,
-          "name": "Uptown Funk (feat. Bruno Mars) [Dave Audé Remix]",
-          "duration": "3:57"
-        },
-        {
-          "number": 3,
-          "name": "Uptown Funk (feat. Bruno Mars) [Wideboys VIP Remix]",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "Uptown Funk (feat. Bruno Mars) [Will Sparks Remix]",
-          "duration": "4:37"
-        }
-      ]
-    },
-    {
       "name": "The Grenade Sessions",
       "year": "2011",
       "release_date": "2011-02-08",
@@ -1241,6 +1213,34 @@
           "number": 5,
           "name": "Grenade",
           "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "name": "Uptown Funk (feat. Bruno Mars) [Remixes]",
+      "year": "2015",
+      "release_date": "2015-04-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/5c/eb/9d/5ceb9d47-c80d-a70a-1842-a8ca347bcc8e/886445222081.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Uptown Funk (feat. Bruno Mars)",
+          "duration": "4:29"
+        },
+        {
+          "number": 2,
+          "name": "Uptown Funk (feat. Bruno Mars) [Dave Audé Remix]",
+          "duration": "3:57"
+        },
+        {
+          "number": 3,
+          "name": "Uptown Funk (feat. Bruno Mars) [Wideboys VIP Remix]",
+          "duration": "3:16"
+        },
+        {
+          "number": 4,
+          "name": "Uptown Funk (feat. Bruno Mars) [Will Sparks Remix]",
+          "duration": "4:37"
         }
       ]
     },

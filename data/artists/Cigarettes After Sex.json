@@ -174,24 +174,6 @@
   ],
   "singles": [
     {
-      "name": "Anna Karenina",
-      "year": "2025",
-      "release_date": "2025-10-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/6e/46/936e46ae-faa4-cc68-7db9-fc80a14b2d3f/0720841157748_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Crystal Ship",
-          "duration": "3:00"
-        },
-        {
-          "number": 2,
-          "name": "Anna Karenina",
-          "duration": "5:15"
-        }
-      ]
-    },
-    {
       "name": "Affection",
       "year": "2015",
       "release_date": "2015-10-05",
@@ -206,6 +188,24 @@
           "number": 2,
           "name": "Keep on Loving You",
           "duration": "3:53"
+        }
+      ]
+    },
+    {
+      "name": "Anna Karenina",
+      "year": "2025",
+      "release_date": "2025-10-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/6e/46/936e46ae-faa4-cc68-7db9-fc80a14b2d3f/0720841157748_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Crystal Ship",
+          "duration": "3:00"
+        },
+        {
+          "number": 2,
+          "name": "Anna Karenina",
+          "duration": "5:15"
         }
       ]
     },
@@ -311,19 +311,6 @@
       ]
     },
     {
-      "name": "Apocalypse",
-      "year": "2017",
-      "release_date": "2017-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ae/25/cfae25c6-5f9b-b3f2-a883-56506b004858/720841229407_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Apocalypse",
-          "duration": "4:50"
-        }
-      ]
-    },
-    {
       "name": "K.",
       "year": "2016",
       "release_date": "2016-11-14",
@@ -333,6 +320,19 @@
           "number": 1,
           "name": "K.",
           "duration": "5:19"
+        }
+      ]
+    },
+    {
+      "name": "Apocalypse",
+      "year": "2017",
+      "release_date": "2017-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ae/25/cfae25c6-5f9b-b3f2-a883-56506b004858/720841229407_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Apocalypse",
+          "duration": "4:50"
         }
       ]
     },

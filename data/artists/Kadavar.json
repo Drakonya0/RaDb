@@ -3,64 +3,6 @@
   "id": 534423387,
   "albums": [
     {
-      "name": "Abra Kadavar",
-      "year": "2013",
-      "release_date": "2013-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b0/57/22/b05722a3-9cfb-d357-a029-e3263fd64b6c/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Come Back Life",
-          "duration": "5:02"
-        },
-        {
-          "number": 2,
-          "name": "Doomsday Machine",
-          "duration": "4:47"
-        },
-        {
-          "number": 3,
-          "name": "Eye of the Storm",
-          "duration": "6:04"
-        },
-        {
-          "number": 4,
-          "name": "Black Snake",
-          "duration": "4:24"
-        },
-        {
-          "number": 5,
-          "name": "Dust",
-          "duration": "4:12"
-        },
-        {
-          "number": 6,
-          "name": "Fire",
-          "duration": "5:18"
-        },
-        {
-          "number": 7,
-          "name": "Liquid Dream",
-          "duration": "4:12"
-        },
-        {
-          "number": 8,
-          "name": "Rythm for Endless Minds",
-          "duration": "4:16"
-        },
-        {
-          "number": 9,
-          "name": "Abra Kadabra",
-          "duration": "3:02"
-        },
-        {
-          "number": 10,
-          "name": "The Man I Shot",
-          "duration": "7:04"
-        }
-      ]
-    },
-    {
       "name": "Berlin",
       "year": "2015",
       "release_date": "2015-08-21",
@@ -125,6 +67,64 @@
           "number": 12,
           "name": "Reich Der Träume",
           "duration": "6:39"
+        }
+      ]
+    },
+    {
+      "name": "Abra Kadavar",
+      "year": "2013",
+      "release_date": "2013-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b0/57/22/b05722a3-9cfb-d357-a029-e3263fd64b6c/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Come Back Life",
+          "duration": "5:02"
+        },
+        {
+          "number": 2,
+          "name": "Doomsday Machine",
+          "duration": "4:47"
+        },
+        {
+          "number": 3,
+          "name": "Eye of the Storm",
+          "duration": "6:04"
+        },
+        {
+          "number": 4,
+          "name": "Black Snake",
+          "duration": "4:24"
+        },
+        {
+          "number": 5,
+          "name": "Dust",
+          "duration": "4:12"
+        },
+        {
+          "number": 6,
+          "name": "Fire",
+          "duration": "5:18"
+        },
+        {
+          "number": 7,
+          "name": "Liquid Dream",
+          "duration": "4:12"
+        },
+        {
+          "number": 8,
+          "name": "Rythm for Endless Minds",
+          "duration": "4:16"
+        },
+        {
+          "number": 9,
+          "name": "Abra Kadabra",
+          "duration": "3:02"
+        },
+        {
+          "number": 10,
+          "name": "The Man I Shot",
+          "duration": "7:04"
         }
       ]
     },
@@ -240,49 +240,6 @@
       ]
     },
     {
-      "name": "ELDOVAR - A Story of Darkness & Light",
-      "year": "2021",
-      "release_date": "2021-12-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/bb/69/8bbb695a-e9ae-f568-7f06-ea38f527db45/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "From Deep Within",
-          "duration": "9:33"
-        },
-        {
-          "number": 2,
-          "name": "In the Way",
-          "duration": "5:38"
-        },
-        {
-          "number": 3,
-          "name": "El Matador",
-          "duration": "6:42"
-        },
-        {
-          "number": 4,
-          "name": "Rebirth of the Twins",
-          "duration": "2:59"
-        },
-        {
-          "number": 5,
-          "name": "Raspletin",
-          "duration": "4:59"
-        },
-        {
-          "number": 6,
-          "name": "Blood Moon Night",
-          "duration": "11:04"
-        },
-        {
-          "number": 7,
-          "name": "Cherry Trees",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
       "name": "Rough Times",
       "year": "2017",
       "release_date": "2017-09-29",
@@ -337,6 +294,49 @@
           "number": 10,
           "name": "A L'ombre Du Temps",
           "duration": "3:57"
+        }
+      ]
+    },
+    {
+      "name": "ELDOVAR - A Story of Darkness & Light",
+      "year": "2021",
+      "release_date": "2021-12-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/bb/69/8bbb695a-e9ae-f568-7f06-ea38f527db45/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "From Deep Within",
+          "duration": "9:33"
+        },
+        {
+          "number": 2,
+          "name": "In the Way",
+          "duration": "5:38"
+        },
+        {
+          "number": 3,
+          "name": "El Matador",
+          "duration": "6:42"
+        },
+        {
+          "number": 4,
+          "name": "Rebirth of the Twins",
+          "duration": "2:59"
+        },
+        {
+          "number": 5,
+          "name": "Raspletin",
+          "duration": "4:59"
+        },
+        {
+          "number": 6,
+          "name": "Blood Moon Night",
+          "duration": "11:04"
+        },
+        {
+          "number": 7,
+          "name": "Cherry Trees",
+          "duration": "3:44"
         }
       ]
     },

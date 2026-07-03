@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "Moonshiner",
+      "year": "2023",
+      "release_date": "2023-03-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/61/33/5b613301-f4df-b021-a28b-501e5764d3ec/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Moonshiner",
+          "duration": "3:06"
+        }
+      ]
+    },
+    {
       "name": "In Memory of Solitude",
       "year": "2026",
       "release_date": "2026-02-27",
@@ -18,19 +31,6 @@
           "number": 2,
           "name": "Withering",
           "duration": "4:46"
-        }
-      ]
-    },
-    {
-      "name": "Moonshiner",
-      "year": "2023",
-      "release_date": "2023-03-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5b/61/33/5b613301-f4df-b021-a28b-501e5764d3ec/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Moonshiner",
-          "duration": "3:06"
         }
       ]
     },

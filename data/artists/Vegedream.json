@@ -17,17 +17,17 @@
       "tracks": []
     },
     {
-      "name": "Marchand de sable 2",
-      "year": "2018",
-      "release_date": "2018-11-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/0f/f6/300ff6ef-ec66-3095-a454-e902f795dc57/00602577277603.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Marchand de sable",
       "year": "2018",
       "release_date": "2018-06-01",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/8b/f4/b68bf471-eb95-72ba-4678-60ca239d2ba9/00602567674993.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Marchand de sable 2",
+      "year": "2018",
+      "release_date": "2018-11-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/0f/f6/300ff6ef-ec66-3095-a454-e902f795dc57/00602577277603.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -172,13 +172,6 @@
       ]
     },
     {
-      "name": "C'est mon année",
-      "year": "2018",
-      "release_date": "2018-11-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d0/d7/66/d0d76695-38ea-83c5-3ae0-2ffeb319248f/00602577277665.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Ramenez la coupe à la maison (Techno Mix 2024)",
       "year": "2024",
       "release_date": "2024-07-09",
@@ -197,6 +190,13 @@
           "duration": "2:52"
         }
       ]
+    },
+    {
+      "name": "C'est mon année",
+      "year": "2018",
+      "release_date": "2018-11-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d0/d7/66/d0d76695-38ea-83c5-3ae0-2ffeb319248f/00602577277665.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Au suivant (feat. Vegedream)",
@@ -272,17 +272,17 @@
       "tracks": []
     },
     {
-      "name": "Elle est bonne sa mère (feat. Ninho)",
-      "year": "2019",
-      "release_date": "2019-05-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/73/67/df736797-c1b1-8f63-74a2-6261bab92113/19UMGIM40294.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Paiement refusé",
       "year": "2024",
       "release_date": "2024-07-25",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/9d/01/739d0129-63e9-b95d-c5f8-98901fbfba80/24SYMIM13896.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Elle est bonne sa mère (feat. Ninho)",
+      "year": "2019",
+      "release_date": "2019-05-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/73/67/df736797-c1b1-8f63-74a2-6261bab92113/19UMGIM40294.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -306,13 +306,6 @@
       "tracks": []
     },
     {
-      "name": "MDS 7 – Blessé (feat. Bill Clinton)",
-      "year": "2021",
-      "release_date": "2021-08-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/1d/6a/e81d6ab0-e4d9-0912-ec7c-0e09e941cd00/21UMGIM74862.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "L'hiver dernier",
       "year": "2022",
       "release_date": "2022-06-30",
@@ -326,6 +319,13 @@
       ]
     },
     {
+      "name": "MDS 7 – Blessé (feat. Bill Clinton)",
+      "year": "2021",
+      "release_date": "2021-08-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/1d/6a/e81d6ab0-e4d9-0912-ec7c-0e09e941cd00/21UMGIM74862.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Ghenda (feat. Vegedream & Bolémvn)",
       "year": "2021",
       "release_date": "2021-06-23",
@@ -335,6 +335,19 @@
           "number": 1,
           "name": "Ghenda (feat. Vegedream & Bolémvn)",
           "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "name": "Supernova",
+      "year": "2026",
+      "release_date": "2026-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/84/ed/1684ed91-c25e-efc0-3b59-e0111ca1dd5a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Supernova",
+          "duration": "2:58"
         }
       ]
     },

@@ -428,6 +428,79 @@
       ]
     },
     {
+      "name": "Player, Piano",
+      "year": "2022",
+      "release_date": "2022-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/af/92/0a/af920aa4-0f1d-1ef3-f453-537284a63ad7/4050538840575.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "My All",
+          "duration": "2:23"
+        },
+        {
+          "number": 2,
+          "name": "Lighthouse",
+          "duration": "3:09"
+        },
+        {
+          "number": 3,
+          "name": "Inverness",
+          "duration": "2:49"
+        },
+        {
+          "number": 4,
+          "name": "Parade",
+          "duration": "1:26"
+        },
+        {
+          "number": 5,
+          "name": "Twilight",
+          "duration": "3:25"
+        },
+        {
+          "number": 6,
+          "name": "Puebla",
+          "duration": "2:05"
+        },
+        {
+          "number": 7,
+          "name": "Eau",
+          "duration": "2:23"
+        },
+        {
+          "number": 8,
+          "name": "Zsa Zsa",
+          "duration": "2:54"
+        },
+        {
+          "number": 9,
+          "name": "Clinch",
+          "duration": "2:57"
+        },
+        {
+          "number": 10,
+          "name": "Sweet Imagination",
+          "duration": "1:37"
+        },
+        {
+          "number": 11,
+          "name": "Wild Child",
+          "duration": "2:20"
+        },
+        {
+          "number": 12,
+          "name": "Cascade",
+          "duration": "3:40"
+        },
+        {
+          "number": 13,
+          "name": "Sunday Asylum",
+          "duration": "3:01"
+        }
+      ]
+    },
+    {
       "name": "Belladonna Nocturne",
       "year": "2026",
       "release_date": "2026-06-19",
@@ -502,79 +575,6 @@
           "number": 14,
           "name": "Early Days",
           "duration": "1:33"
-        }
-      ]
-    },
-    {
-      "name": "Player, Piano",
-      "year": "2022",
-      "release_date": "2022-09-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/af/92/0a/af920aa4-0f1d-1ef3-f453-537284a63ad7/4050538840575.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "My All",
-          "duration": "2:23"
-        },
-        {
-          "number": 2,
-          "name": "Lighthouse",
-          "duration": "3:09"
-        },
-        {
-          "number": 3,
-          "name": "Inverness",
-          "duration": "2:49"
-        },
-        {
-          "number": 4,
-          "name": "Parade",
-          "duration": "1:26"
-        },
-        {
-          "number": 5,
-          "name": "Twilight",
-          "duration": "3:25"
-        },
-        {
-          "number": 6,
-          "name": "Puebla",
-          "duration": "2:05"
-        },
-        {
-          "number": 7,
-          "name": "Eau",
-          "duration": "2:23"
-        },
-        {
-          "number": 8,
-          "name": "Zsa Zsa",
-          "duration": "2:54"
-        },
-        {
-          "number": 9,
-          "name": "Clinch",
-          "duration": "2:57"
-        },
-        {
-          "number": 10,
-          "name": "Sweet Imagination",
-          "duration": "1:37"
-        },
-        {
-          "number": 11,
-          "name": "Wild Child",
-          "duration": "2:20"
-        },
-        {
-          "number": 12,
-          "name": "Cascade",
-          "duration": "3:40"
-        },
-        {
-          "number": 13,
-          "name": "Sunday Asylum",
-          "duration": "3:01"
         }
       ]
     },
@@ -1322,19 +1322,6 @@
       ]
     },
     {
-      "name": "Grace (feat. Aaron Neville and Brian Blade)",
-      "year": "2026",
-      "release_date": "2026-02-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/bb/c5/82bbc556-110f-311d-e52d-7990309bef58/603497805051.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Grace (feat. Aaron Neville and Brian Blade)",
-          "duration": "2:27"
-        }
-      ]
-    },
-    {
       "name": "(Under the) Heavy Sun",
       "year": "2020",
       "release_date": "2020-10-30",
@@ -1344,6 +1331,19 @@
           "number": 1,
           "name": "(Under the) Heavy Sun",
           "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Grace (feat. Aaron Neville and Brian Blade)",
+      "year": "2026",
+      "release_date": "2026-02-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/bb/c5/82bbc556-110f-311d-e52d-7990309bef58/603497805051.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Grace (feat. Aaron Neville and Brian Blade)",
+          "duration": "2:27"
         }
       ]
     },

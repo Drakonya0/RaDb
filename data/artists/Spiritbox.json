@@ -179,29 +179,6 @@
   ],
   "singles": [
     {
-      "name": "Rotoscope",
-      "year": "2022",
-      "release_date": "2022-06-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/ae/3e/07ae3e99-6e46-ba10-d686-8705c06b61c3/4050538830187.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rotoscope",
-          "duration": "3:35"
-        },
-        {
-          "number": 2,
-          "name": "Sew Me Up",
-          "duration": "3:31"
-        },
-        {
-          "number": 3,
-          "name": "Hysteria",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
       "name": "Shivering",
       "year": "2022",
       "release_date": "2022-05-13",
@@ -224,6 +201,29 @@
           "number": 1,
           "name": "Cobra (Rock Remix) [feat. Spiritbox]",
           "duration": "3:06"
+        }
+      ]
+    },
+    {
+      "name": "Rotoscope",
+      "year": "2022",
+      "release_date": "2022-06-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/ae/3e/07ae3e99-6e46-ba10-d686-8705c06b61c3/4050538830187.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rotoscope",
+          "duration": "3:35"
+        },
+        {
+          "number": 2,
+          "name": "Sew Me Up",
+          "duration": "3:31"
+        },
+        {
+          "number": 3,
+          "name": "Hysteria",
+          "duration": "3:44"
         }
       ]
     },
@@ -293,19 +293,6 @@
       ]
     },
     {
-      "name": "Holy Roller (feat. Ryo Kinoshita)",
-      "year": "2020",
-      "release_date": "2020-10-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/67/25/976725ea-061c-0b66-b553-e06d548fa736/4050538647129.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Holy Roller (feat. Ryo Kinoshita)",
-          "duration": "2:53"
-        }
-      ]
-    },
-    {
       "name": "Ties That Bind (feat. Courtney LaPlante & Joe Ford)",
       "year": "2025",
       "release_date": "2025-10-06",
@@ -332,15 +319,15 @@
       ]
     },
     {
-      "name": "The Void",
-      "year": "2023",
-      "release_date": "2023-04-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/d8/16/59d8160a-d572-45ad-d06f-2171bbf234d6/4050538920062.jpg/600x600bb.jpg",
+      "name": "Holy Roller (feat. Ryo Kinoshita)",
+      "year": "2020",
+      "release_date": "2020-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/67/25/976725ea-061c-0b66-b553-e06d548fa736/4050538647129.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Void",
-          "duration": "3:40"
+          "name": "Holy Roller (feat. Ryo Kinoshita)",
+          "duration": "2:53"
         }
       ]
     },
@@ -354,6 +341,19 @@
           "number": 1,
           "name": "Constance (Acoustic)",
           "duration": "4:25"
+        }
+      ]
+    },
+    {
+      "name": "The Void",
+      "year": "2023",
+      "release_date": "2023-04-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/d8/16/59d8160a-d572-45ad-d06f-2171bbf234d6/4050538920062.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Void",
+          "duration": "3:40"
         }
       ]
     },

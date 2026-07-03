@@ -3,64 +3,6 @@
   "id": 270116272,
   "albums": [
     {
-      "name": "Polarize",
-      "year": "2017",
-      "release_date": "2017-01-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/1d/94/55/1d94552d-fccc-2aab-ae04-c5cf44d9bab9/886446186689.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ominous",
-          "duration": "3:54"
-        },
-        {
-          "number": 2,
-          "name": "Reach",
-          "duration": "3:47"
-        },
-        {
-          "number": 3,
-          "name": "Solar",
-          "duration": "3:14"
-        },
-        {
-          "number": 4,
-          "name": "Canvas",
-          "duration": "3:36"
-        },
-        {
-          "number": 5,
-          "name": "Ares",
-          "duration": "3:11"
-        },
-        {
-          "number": 6,
-          "name": "Pulsar",
-          "duration": "2:25"
-        },
-        {
-          "number": 7,
-          "name": "In Time",
-          "duration": "3:44"
-        },
-        {
-          "number": 8,
-          "name": "Zephyr",
-          "duration": "3:19"
-        },
-        {
-          "number": 9,
-          "name": "The Affliction",
-          "duration": "3:28"
-        },
-        {
-          "number": 10,
-          "name": "The Remedy",
-          "duration": "3:35"
-        }
-      ]
-    },
-    {
       "name": "Corporation",
       "year": "2022",
       "release_date": "2022-09-30",
@@ -120,6 +62,64 @@
           "number": 11,
           "name": "Negligence",
           "duration": "2:07"
+        }
+      ]
+    },
+    {
+      "name": "Polarize",
+      "year": "2017",
+      "release_date": "2017-01-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/1d/94/55/1d94552d-fccc-2aab-ae04-c5cf44d9bab9/886446186689.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ominous",
+          "duration": "3:54"
+        },
+        {
+          "number": 2,
+          "name": "Reach",
+          "duration": "3:47"
+        },
+        {
+          "number": 3,
+          "name": "Solar",
+          "duration": "3:14"
+        },
+        {
+          "number": 4,
+          "name": "Canvas",
+          "duration": "3:36"
+        },
+        {
+          "number": 5,
+          "name": "Ares",
+          "duration": "3:11"
+        },
+        {
+          "number": 6,
+          "name": "Pulsar",
+          "duration": "2:25"
+        },
+        {
+          "number": 7,
+          "name": "In Time",
+          "duration": "3:44"
+        },
+        {
+          "number": 8,
+          "name": "Zephyr",
+          "duration": "3:19"
+        },
+        {
+          "number": 9,
+          "name": "The Affliction",
+          "duration": "3:28"
+        },
+        {
+          "number": 10,
+          "name": "The Remedy",
+          "duration": "3:35"
         }
       ]
     },
@@ -192,49 +192,6 @@
       ]
     },
     {
-      "name": "Anomaly",
-      "year": "2022",
-      "release_date": "2022-05-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/24/6e/a9/246ea917-b4d1-5d23-ed1f-63c0c76a82d0/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Anomaly",
-          "duration": "3:43"
-        },
-        {
-          "number": 2,
-          "name": "Transcendent",
-          "duration": "3:37"
-        },
-        {
-          "number": 3,
-          "name": "Obsession",
-          "duration": "3:30"
-        },
-        {
-          "number": 4,
-          "name": "Overcome",
-          "duration": "3:46"
-        },
-        {
-          "number": 5,
-          "name": "Rage",
-          "duration": "3:36"
-        },
-        {
-          "number": 6,
-          "name": "Oblivion",
-          "duration": "4:08"
-        },
-        {
-          "number": 7,
-          "name": "Retaliation",
-          "duration": "2:30"
-        }
-      ]
-    },
-    {
       "name": "VOID",
       "year": "2025",
       "release_date": "2025-10-31",
@@ -289,6 +246,49 @@
           "number": 10,
           "name": "WORLDS PULSE (feat. Eddie Berg)",
           "duration": "4:56"
+        }
+      ]
+    },
+    {
+      "name": "Anomaly",
+      "year": "2022",
+      "release_date": "2022-05-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/24/6e/a9/246ea917-b4d1-5d23-ed1f-63c0c76a82d0/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Anomaly",
+          "duration": "3:43"
+        },
+        {
+          "number": 2,
+          "name": "Transcendent",
+          "duration": "3:37"
+        },
+        {
+          "number": 3,
+          "name": "Obsession",
+          "duration": "3:30"
+        },
+        {
+          "number": 4,
+          "name": "Overcome",
+          "duration": "3:46"
+        },
+        {
+          "number": 5,
+          "name": "Rage",
+          "duration": "3:36"
+        },
+        {
+          "number": 6,
+          "name": "Oblivion",
+          "duration": "4:08"
+        },
+        {
+          "number": 7,
+          "name": "Retaliation",
+          "duration": "2:30"
         }
       ]
     },

@@ -214,6 +214,44 @@
       ]
     },
     {
+      "name": "MONTAGEM DOMADORA",
+      "year": "2026",
+      "release_date": "2026-07-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/26/e5/e526e51f-128b-6801-c96b-ff8e3327a80f/4099964279474.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM DOMADORA",
+          "duration": "1:06"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM DOMADORA (Sped Up)",
+          "duration": "1:01"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM DOMADORA (Slowed)",
+          "duration": "1:13"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM DOMADORA (Super Slowed)",
+          "duration": "1:18"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM DOMADORA (Ultra Slowed)",
+          "duration": "1:26"
+        },
+        {
+          "number": 6,
+          "name": "MONTAGEM DOMADORA (Mega Slowed)",
+          "duration": "1:32"
+        }
+      ]
+    },
+    {
       "name": "DON'T PLAY",
       "year": "2025",
       "release_date": "2025-10-17",
@@ -412,39 +450,6 @@
       ]
     },
     {
-      "name": "JOGA LENTO",
-      "year": "2026",
-      "release_date": "2026-05-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/91/0d/c1910d23-3c5a-8cd6-5ee3-4aedf7ab9321/820233150781.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "JOGA LENTO",
-          "duration": "1:47"
-        },
-        {
-          "number": 2,
-          "name": "JOGA LENTO (SLOWED)",
-          "duration": "1:56"
-        },
-        {
-          "number": 3,
-          "name": "JOGA LENTO (SUPER SLOWED)",
-          "duration": "2:02"
-        },
-        {
-          "number": 4,
-          "name": "JOGA LENTO (ULTRA SLOWED)",
-          "duration": "2:07"
-        },
-        {
-          "number": 5,
-          "name": "JOGA LENTO (SPED UP)",
-          "duration": "1:39"
-        }
-      ]
-    },
-    {
       "name": "ME LLEVA",
       "year": "2026",
       "release_date": "2026-06-19",
@@ -474,6 +479,39 @@
           "number": 5,
           "name": "ME LLEVA (Ultra Slowed)",
           "duration": "2:05"
+        }
+      ]
+    },
+    {
+      "name": "JOGA LENTO",
+      "year": "2026",
+      "release_date": "2026-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/91/0d/c1910d23-3c5a-8cd6-5ee3-4aedf7ab9321/820233150781.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "JOGA LENTO",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "JOGA LENTO (SLOWED)",
+          "duration": "1:56"
+        },
+        {
+          "number": 3,
+          "name": "JOGA LENTO (SUPER SLOWED)",
+          "duration": "2:02"
+        },
+        {
+          "number": 4,
+          "name": "JOGA LENTO (ULTRA SLOWED)",
+          "duration": "2:07"
+        },
+        {
+          "number": 5,
+          "name": "JOGA LENTO (SPED UP)",
+          "duration": "1:39"
         }
       ]
     }

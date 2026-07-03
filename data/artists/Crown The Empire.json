@@ -396,69 +396,6 @@
       ]
     },
     {
-      "name": "The Fallout",
-      "year": "2012",
-      "release_date": "2012-11-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/7f/8e/ea7f8ee9-2103-5957-402e-72844aeda51e/0858721002946.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Oh, Catastrophe",
-          "duration": "1:59"
-        },
-        {
-          "number": 2,
-          "name": "The Fallout",
-          "duration": "3:56"
-        },
-        {
-          "number": 3,
-          "name": "Memories of a Broken Heart",
-          "duration": "4:13"
-        },
-        {
-          "number": 4,
-          "name": "Makeshift Chemistry",
-          "duration": "4:11"
-        },
-        {
-          "number": 5,
-          "name": "The One You Feed",
-          "duration": "3:53"
-        },
-        {
-          "number": 6,
-          "name": "Menace",
-          "duration": "4:28"
-        },
-        {
-          "number": 7,
-          "name": "Graveyard Souls",
-          "duration": "3:22"
-        },
-        {
-          "number": 8,
-          "name": "Two's Too Many",
-          "duration": "3:05"
-        },
-        {
-          "number": 9,
-          "name": "Evidence",
-          "duration": "3:26"
-        },
-        {
-          "number": 10,
-          "name": "Children of Love",
-          "duration": "3:04"
-        },
-        {
-          "number": 11,
-          "name": "Johnny's Revenge",
-          "duration": "4:15"
-        }
-      ]
-    },
-    {
       "name": "The Resistance (Deluxe Edition)",
       "year": "2015",
       "release_date": "2015-10-30",
@@ -552,6 +489,69 @@
       ]
     },
     {
+      "name": "The Fallout",
+      "year": "2012",
+      "release_date": "2012-11-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ea/7f/8e/ea7f8ee9-2103-5957-402e-72844aeda51e/0858721002946.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Oh, Catastrophe",
+          "duration": "1:59"
+        },
+        {
+          "number": 2,
+          "name": "The Fallout",
+          "duration": "3:56"
+        },
+        {
+          "number": 3,
+          "name": "Memories of a Broken Heart",
+          "duration": "4:13"
+        },
+        {
+          "number": 4,
+          "name": "Makeshift Chemistry",
+          "duration": "4:11"
+        },
+        {
+          "number": 5,
+          "name": "The One You Feed",
+          "duration": "3:53"
+        },
+        {
+          "number": 6,
+          "name": "Menace",
+          "duration": "4:28"
+        },
+        {
+          "number": 7,
+          "name": "Graveyard Souls",
+          "duration": "3:22"
+        },
+        {
+          "number": 8,
+          "name": "Two's Too Many",
+          "duration": "3:05"
+        },
+        {
+          "number": 9,
+          "name": "Evidence",
+          "duration": "3:26"
+        },
+        {
+          "number": 10,
+          "name": "Children of Love",
+          "duration": "3:04"
+        },
+        {
+          "number": 11,
+          "name": "Johnny's Revenge",
+          "duration": "4:15"
+        }
+      ]
+    },
+    {
       "name": "07102010",
       "year": "2020",
       "release_date": "2020-01-01",
@@ -617,19 +617,6 @@
   ],
   "singles": [
     {
-      "name": "Johnny's Revenge (feat. Spencer Charnas, Dave Stephens & Craig Owens)",
-      "year": "2022",
-      "release_date": "2022-06-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/0f/39/aa0f391a-4e3d-2a45-9dea-5b42dcdf8497/4050538829631.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Johnny's Revenge (feat. Spencer Charnas, Dave Stephens & Craig Owens)",
-          "duration": "4:15"
-        }
-      ]
-    },
-    {
       "name": "raw",
       "year": "2026",
       "release_date": "2026-06-26",
@@ -639,6 +626,19 @@
           "number": 1,
           "name": "raw",
           "duration": "3:46"
+        }
+      ]
+    },
+    {
+      "name": "Johnny's Revenge (feat. Spencer Charnas, Dave Stephens & Craig Owens)",
+      "year": "2022",
+      "release_date": "2022-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/0f/39/aa0f391a-4e3d-2a45-9dea-5b42dcdf8497/4050538829631.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Johnny's Revenge (feat. Spencer Charnas, Dave Stephens & Craig Owens)",
+          "duration": "4:15"
         }
       ]
     }

@@ -963,19 +963,6 @@
       "tracks": []
     },
     {
-      "name": "Envie",
-      "year": "2016",
-      "release_date": "2016-07-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/12/e5/e5/12e5e512-a396-cc63-e75f-be6021c0cf6f/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Envie",
-          "duration": "2:38"
-        }
-      ]
-    },
-    {
       "name": "Guccissima x Matrixé",
       "year": "2020",
       "release_date": "2020-12-03",
@@ -990,6 +977,19 @@
           "number": 2,
           "name": "Matrixé",
           "duration": "2:16"
+        }
+      ]
+    },
+    {
+      "name": "Envie",
+      "year": "2016",
+      "release_date": "2016-07-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/12/e5/e5/12e5e512-a396-cc63-e75f-be6021c0cf6f/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Envie",
+          "duration": "2:38"
         }
       ]
     },
@@ -1139,13 +1139,6 @@
       ]
     },
     {
-      "name": "Trophée",
-      "year": "2017",
-      "release_date": "2017-09-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3c/2a/ee/3c2aeea6-7418-c883-8932-d61e1553f2d7/00602567041887.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Pentacles et bougies (feat. Vald)",
       "year": "2021",
       "release_date": "2021-01-22",
@@ -1157,6 +1150,13 @@
           "duration": "3:30"
         }
       ]
+    },
+    {
+      "name": "Trophée",
+      "year": "2017",
+      "release_date": "2017-09-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3c/2a/ee/3c2aeea6-7418-c883-8932-d61e1553f2d7/00602567041887.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Semi-Auto",

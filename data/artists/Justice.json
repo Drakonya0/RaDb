@@ -3,6 +3,64 @@
   "id": 145072812,
   "albums": [
     {
+      "name": "Woman",
+      "year": "2016",
+      "release_date": "2016-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/ed/e3/26ede311-5273-5927-3e41-deabd08f720f/5060421566818_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Safe and Sound",
+          "duration": "5:45"
+        },
+        {
+          "number": 2,
+          "name": "Pleasure",
+          "duration": "4:15"
+        },
+        {
+          "number": 3,
+          "name": "Alakazam !",
+          "duration": "5:11"
+        },
+        {
+          "number": 4,
+          "name": "Fire",
+          "duration": "5:34"
+        },
+        {
+          "number": 5,
+          "name": "Stop",
+          "duration": "4:57"
+        },
+        {
+          "number": 6,
+          "name": "Chorus",
+          "duration": "7:09"
+        },
+        {
+          "number": 7,
+          "name": "Randy",
+          "duration": "6:38"
+        },
+        {
+          "number": 8,
+          "name": "Heavy Metal",
+          "duration": "4:30"
+        },
+        {
+          "number": 9,
+          "name": "Love S.O.S",
+          "duration": "5:03"
+        },
+        {
+          "number": 10,
+          "name": "Close Call",
+          "duration": "5:08"
+        }
+      ]
+    },
+    {
       "name": "Justice",
       "year": "2007",
       "release_date": "2007-06-11",
@@ -67,137 +125,6 @@
           "number": 12,
           "name": "One Minute to Midnight",
           "duration": "3:40"
-        }
-      ]
-    },
-    {
-      "name": "Hyperdrama",
-      "year": "2024",
-      "release_date": "2024-04-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/6c/30/d16c300f-c26c-89f1-9207-23b71c5e6584/5056556135845_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Neverender",
-          "duration": "4:26"
-        },
-        {
-          "number": 2,
-          "name": "Generator",
-          "duration": "4:42"
-        },
-        {
-          "number": 3,
-          "name": "Afterimage",
-          "duration": "4:05"
-        },
-        {
-          "number": 4,
-          "name": "One Night/All Night",
-          "duration": "4:36"
-        },
-        {
-          "number": 5,
-          "name": "Dear Alan",
-          "duration": "5:33"
-        },
-        {
-          "number": 6,
-          "name": "Incognito",
-          "duration": "4:01"
-        },
-        {
-          "number": 7,
-          "name": "Mannequin Love",
-          "duration": "3:27"
-        },
-        {
-          "number": 8,
-          "name": "Moonlight Rendez-vous",
-          "duration": "2:00"
-        },
-        {
-          "number": 9,
-          "name": "Explorer",
-          "duration": "4:09"
-        },
-        {
-          "number": 10,
-          "name": "Muscle Memory",
-          "duration": "4:10"
-        },
-        {
-          "number": 11,
-          "name": "Harpy dream",
-          "duration": "0:28"
-        },
-        {
-          "number": 12,
-          "name": "Saturnine",
-          "duration": "3:21"
-        },
-        {
-          "number": 13,
-          "name": "The End",
-          "duration": "4:14"
-        }
-      ]
-    },
-    {
-      "name": "Woman",
-      "year": "2016",
-      "release_date": "2016-11-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/ed/e3/26ede311-5273-5927-3e41-deabd08f720f/5060421566818_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Safe and Sound",
-          "duration": "5:45"
-        },
-        {
-          "number": 2,
-          "name": "Pleasure",
-          "duration": "4:15"
-        },
-        {
-          "number": 3,
-          "name": "Alakazam !",
-          "duration": "5:11"
-        },
-        {
-          "number": 4,
-          "name": "Fire",
-          "duration": "5:34"
-        },
-        {
-          "number": 5,
-          "name": "Stop",
-          "duration": "4:57"
-        },
-        {
-          "number": 6,
-          "name": "Chorus",
-          "duration": "7:09"
-        },
-        {
-          "number": 7,
-          "name": "Randy",
-          "duration": "6:38"
-        },
-        {
-          "number": 8,
-          "name": "Heavy Metal",
-          "duration": "4:30"
-        },
-        {
-          "number": 9,
-          "name": "Love S.O.S",
-          "duration": "5:03"
-        },
-        {
-          "number": 10,
-          "name": "Close Call",
-          "duration": "5:08"
         }
       ]
     },
@@ -281,6 +208,79 @@
           "number": 15,
           "name": "D.A.N.C.E. x Fire x Safe and Sound (WWW)",
           "duration": "6:17"
+        }
+      ]
+    },
+    {
+      "name": "Hyperdrama",
+      "year": "2024",
+      "release_date": "2024-04-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/6c/30/d16c300f-c26c-89f1-9207-23b71c5e6584/5056556135845_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Neverender",
+          "duration": "4:26"
+        },
+        {
+          "number": 2,
+          "name": "Generator",
+          "duration": "4:42"
+        },
+        {
+          "number": 3,
+          "name": "Afterimage",
+          "duration": "4:05"
+        },
+        {
+          "number": 4,
+          "name": "One Night/All Night",
+          "duration": "4:36"
+        },
+        {
+          "number": 5,
+          "name": "Dear Alan",
+          "duration": "5:33"
+        },
+        {
+          "number": 6,
+          "name": "Incognito",
+          "duration": "4:01"
+        },
+        {
+          "number": 7,
+          "name": "Mannequin Love",
+          "duration": "3:27"
+        },
+        {
+          "number": 8,
+          "name": "Moonlight Rendez-vous",
+          "duration": "2:00"
+        },
+        {
+          "number": 9,
+          "name": "Explorer",
+          "duration": "4:09"
+        },
+        {
+          "number": 10,
+          "name": "Muscle Memory",
+          "duration": "4:10"
+        },
+        {
+          "number": 11,
+          "name": "Harpy dream",
+          "duration": "0:28"
+        },
+        {
+          "number": 12,
+          "name": "Saturnine",
+          "duration": "3:21"
+        },
+        {
+          "number": 13,
+          "name": "The End",
+          "duration": "4:14"
         }
       ]
     },
@@ -790,37 +790,6 @@
       ]
     },
     {
-      "name": "What You Want",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/29/a1/e729a1f0-eaaf-80eb-3c31-91e9601e2944/5056556175278_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "What You Want",
-          "duration": "3:08"
-        }
-      ]
-    },
-    {
-      "name": "What You Want (Fcukers Remix) [feat. Justice]",
-      "year": "2026",
-      "release_date": "2026-05-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/37/38/e73738d3-c0fe-aa48-6e43-03573f52818f/5056556181774_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "What You Want (feat. Justice) [Fcukers Remix]",
-          "duration": "3:22"
-        },
-        {
-          "number": 2,
-          "name": "What You Want",
-          "duration": "3:08"
-        }
-      ]
-    },
-    {
       "name": "Pleasure (Live)",
       "year": "2017",
       "release_date": "2017-07-21",
@@ -878,18 +847,13 @@
       ]
     },
     {
-      "name": "What You Want (SG Lewis Remix) [feat. Justice]",
+      "name": "What You Want",
       "year": "2026",
-      "release_date": "2026-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/db/c0/70dbc0b0-6b05-d201-23dc-65a560c9204c/5056556181767_cover.jpg/600x600bb.jpg",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/29/a1/e729a1f0-eaaf-80eb-3c31-91e9601e2944/5056556175278_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "What You Want (feat. Justice) [SG Lewis Remix]",
-          "duration": "3:18"
-        },
-        {
-          "number": 2,
           "name": "What You Want",
           "duration": "3:08"
         }
@@ -905,6 +869,24 @@
           "number": 1,
           "name": "Stop (WWW) [Radio Edit]",
           "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "What You Want (Fcukers Remix) [feat. Justice]",
+      "year": "2026",
+      "release_date": "2026-05-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/37/38/e73738d3-c0fe-aa48-6e43-03573f52818f/5056556181774_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "What You Want (feat. Justice) [Fcukers Remix]",
+          "duration": "3:22"
+        },
+        {
+          "number": 2,
+          "name": "What You Want",
+          "duration": "3:08"
         }
       ]
     },
@@ -987,6 +969,24 @@
       ]
     },
     {
+      "name": "What You Want (SG Lewis Remix) [feat. Justice]",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/db/c0/70dbc0b0-6b05-d201-23dc-65a560c9204c/5056556181767_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "What You Want (feat. Justice) [SG Lewis Remix]",
+          "duration": "3:18"
+        },
+        {
+          "number": 2,
+          "name": "What You Want",
+          "duration": "3:08"
+        }
+      ]
+    },
+    {
       "name": "Randy (Mixed)",
       "year": "2016",
       "release_date": "2016-09-15",
@@ -1052,6 +1052,34 @@
   ],
   "eps": [
     {
+      "name": "Phantom",
+      "year": "2007",
+      "release_date": "2007-11-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/a1/69/0e/mzi.wfdmzmvu.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Phantom",
+          "duration": "4:24"
+        },
+        {
+          "number": 2,
+          "name": "Phantom Pt. II",
+          "duration": "3:22"
+        },
+        {
+          "number": 3,
+          "name": "Phantom Pt. II (Soulwax Remix)",
+          "duration": "7:24"
+        },
+        {
+          "number": 4,
+          "name": "Phantom Pt. II (Boys Noize Remix)",
+          "duration": "5:24"
+        }
+      ]
+    },
+    {
       "name": "Neverender (Remixes)",
       "year": "2024",
       "release_date": "2024-09-26",
@@ -1081,34 +1109,6 @@
           "number": 5,
           "name": "Neverender (Rampa Remix)",
           "duration": "6:24"
-        }
-      ]
-    },
-    {
-      "name": "Phantom",
-      "year": "2007",
-      "release_date": "2007-11-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/a1/69/0e/mzi.wfdmzmvu.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Phantom",
-          "duration": "4:24"
-        },
-        {
-          "number": 2,
-          "name": "Phantom Pt. II",
-          "duration": "3:22"
-        },
-        {
-          "number": 3,
-          "name": "Phantom Pt. II (Soulwax Remix)",
-          "duration": "7:24"
-        },
-        {
-          "number": 4,
-          "name": "Phantom Pt. II (Boys Noize Remix)",
-          "duration": "5:24"
         }
       ]
     },

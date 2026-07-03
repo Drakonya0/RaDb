@@ -754,6 +754,39 @@
       ]
     },
     {
+      "name": "MTG PAIXÃO",
+      "year": "2026",
+      "release_date": "2026-07-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/34/db/9134dbb3-edf2-9726-d21c-46ecbdd455ae/820233904988.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MTG PAIXÃO",
+          "duration": "1:15"
+        },
+        {
+          "number": 2,
+          "name": "MTG PAIXÃO (Slowed)",
+          "duration": "1:22"
+        },
+        {
+          "number": 3,
+          "name": "MTG PAIXÃO (Super Slowed)",
+          "duration": "1:29"
+        },
+        {
+          "number": 4,
+          "name": "MTG PAIXÃO (Ultra Slowed)",
+          "duration": "1:38"
+        },
+        {
+          "number": 5,
+          "name": "MTG PAIXÃO (Extreme Slowed)",
+          "duration": "1:49"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM OUVIDO",
       "year": "2024",
       "release_date": "2024-12-09",
@@ -1102,34 +1135,6 @@
       ]
     },
     {
-      "name": "MONARCH",
-      "year": "2025",
-      "release_date": "2025-08-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/90/8d/0b908d6f-d280-4a44-1d2a-a105eb5689da/199538572308.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONARCH",
-          "duration": "1:53"
-        },
-        {
-          "number": 2,
-          "name": "MONARCH (Slowed)",
-          "duration": "2:07"
-        },
-        {
-          "number": 3,
-          "name": "MONARCH (Sped Up)",
-          "duration": "1:42"
-        },
-        {
-          "number": 4,
-          "name": "MONARCH (Super Slowed)",
-          "duration": "2:24"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM FRIO",
       "year": "2025",
       "release_date": "2025-03-13",
@@ -1159,6 +1164,34 @@
           "number": 5,
           "name": "MONTAGEM FRIO (Speed Up)",
           "duration": "1:12"
+        }
+      ]
+    },
+    {
+      "name": "MONARCH",
+      "year": "2025",
+      "release_date": "2025-08-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/90/8d/0b908d6f-d280-4a44-1d2a-a105eb5689da/199538572308.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONARCH",
+          "duration": "1:53"
+        },
+        {
+          "number": 2,
+          "name": "MONARCH (Slowed)",
+          "duration": "2:07"
+        },
+        {
+          "number": 3,
+          "name": "MONARCH (Sped Up)",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "MONARCH (Super Slowed)",
+          "duration": "2:24"
         }
       ]
     },

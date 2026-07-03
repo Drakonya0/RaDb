@@ -363,69 +363,6 @@
       ]
     },
     {
-      "name": "Legends",
-      "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/c3/74/10c3741a-856b-c314-9ec4-0788d062c6ad/846070098604.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Templars",
-          "duration": "4:54"
-        },
-        {
-          "number": 2,
-          "name": "Hordes of Khan",
-          "duration": "3:43"
-        },
-        {
-          "number": 3,
-          "name": "A Tiger Among Dragons",
-          "duration": "4:06"
-        },
-        {
-          "number": 4,
-          "name": "Crossing the Rubicon",
-          "duration": "3:29"
-        },
-        {
-          "number": 5,
-          "name": "I, Emperor",
-          "duration": "4:15"
-        },
-        {
-          "number": 6,
-          "name": "Maid of Steel",
-          "duration": "3:17"
-        },
-        {
-          "number": 7,
-          "name": "Impaler",
-          "duration": "4:44"
-        },
-        {
-          "number": 8,
-          "name": "Lightning at the Gates",
-          "duration": "4:12"
-        },
-        {
-          "number": 9,
-          "name": "The Duelist",
-          "duration": "3:55"
-        },
-        {
-          "number": 10,
-          "name": "The Cycle of Songs",
-          "duration": "5:39"
-        },
-        {
-          "number": 11,
-          "name": "Till Seger",
-          "duration": "3:27"
-        }
-      ]
-    },
-    {
       "name": "Coat of Arms",
       "year": "2010",
       "release_date": "2010-05-21",
@@ -495,6 +432,69 @@
           "number": 13,
           "name": "White Death (Instrumental)",
           "duration": "4:10"
+        }
+      ]
+    },
+    {
+      "name": "Legends",
+      "year": "2025",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/c3/74/10c3741a-856b-c314-9ec4-0788d062c6ad/846070098604.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Templars",
+          "duration": "4:54"
+        },
+        {
+          "number": 2,
+          "name": "Hordes of Khan",
+          "duration": "3:43"
+        },
+        {
+          "number": 3,
+          "name": "A Tiger Among Dragons",
+          "duration": "4:06"
+        },
+        {
+          "number": 4,
+          "name": "Crossing the Rubicon",
+          "duration": "3:29"
+        },
+        {
+          "number": 5,
+          "name": "I, Emperor",
+          "duration": "4:15"
+        },
+        {
+          "number": 6,
+          "name": "Maid of Steel",
+          "duration": "3:17"
+        },
+        {
+          "number": 7,
+          "name": "Impaler",
+          "duration": "4:44"
+        },
+        {
+          "number": 8,
+          "name": "Lightning at the Gates",
+          "duration": "4:12"
+        },
+        {
+          "number": 9,
+          "name": "The Duelist",
+          "duration": "3:55"
+        },
+        {
+          "number": 10,
+          "name": "The Cycle of Songs",
+          "duration": "5:39"
+        },
+        {
+          "number": 11,
+          "name": "Till Seger",
+          "duration": "3:27"
         }
       ]
     },
@@ -1515,74 +1515,6 @@
       ]
     },
     {
-      "name": "Carolus Rex (Swedish)",
-      "year": "2012",
-      "release_date": "2012-05-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/71/0a/99/710a99a5-50bd-1791-1aed-8d0321826008/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dominium Maris Baltici",
-          "duration": "0:29"
-        },
-        {
-          "number": 2,
-          "name": "Lejonet Från Norden",
-          "duration": "4:42"
-        },
-        {
-          "number": 3,
-          "name": "Gott Mit Uns",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "En Livstid I Krig",
-          "duration": "5:44"
-        },
-        {
-          "number": 5,
-          "name": "1 6 4 8",
-          "duration": "3:55"
-        },
-        {
-          "number": 6,
-          "name": "Karolinens Bön",
-          "duration": "6:14"
-        },
-        {
-          "number": 7,
-          "name": "Carolus Rex",
-          "duration": "4:54"
-        },
-        {
-          "number": 8,
-          "name": "Ett Slag Färgat Rött",
-          "duration": "4:24"
-        },
-        {
-          "number": 9,
-          "name": "Poltava",
-          "duration": "4:03"
-        },
-        {
-          "number": 10,
-          "name": "Livgardet",
-          "duration": "4:35"
-        },
-        {
-          "number": 11,
-          "name": "Konungens Likfärd",
-          "duration": "4:09"
-        },
-        {
-          "number": 12,
-          "name": "Ruina Imperii",
-          "duration": "3:21"
-        }
-      ]
-    },
-    {
       "name": "World War Live - Battle of the Baltic Sea",
       "year": "2011",
       "release_date": "2011-08-19",
@@ -1722,6 +1654,74 @@
           "number": 27,
           "name": "40:1 (World War Tour 2010)",
           "duration": "4:33"
+        }
+      ]
+    },
+    {
+      "name": "Carolus Rex (Swedish)",
+      "year": "2012",
+      "release_date": "2012-05-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/71/0a/99/710a99a5-50bd-1791-1aed-8d0321826008/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dominium Maris Baltici",
+          "duration": "0:29"
+        },
+        {
+          "number": 2,
+          "name": "Lejonet Från Norden",
+          "duration": "4:42"
+        },
+        {
+          "number": 3,
+          "name": "Gott Mit Uns",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "En Livstid I Krig",
+          "duration": "5:44"
+        },
+        {
+          "number": 5,
+          "name": "1 6 4 8",
+          "duration": "3:55"
+        },
+        {
+          "number": 6,
+          "name": "Karolinens Bön",
+          "duration": "6:14"
+        },
+        {
+          "number": 7,
+          "name": "Carolus Rex",
+          "duration": "4:54"
+        },
+        {
+          "number": 8,
+          "name": "Ett Slag Färgat Rött",
+          "duration": "4:24"
+        },
+        {
+          "number": 9,
+          "name": "Poltava",
+          "duration": "4:03"
+        },
+        {
+          "number": 10,
+          "name": "Livgardet",
+          "duration": "4:35"
+        },
+        {
+          "number": 11,
+          "name": "Konungens Likfärd",
+          "duration": "4:09"
+        },
+        {
+          "number": 12,
+          "name": "Ruina Imperii",
+          "duration": "3:21"
         }
       ]
     },

@@ -56,107 +56,6 @@
       ]
     },
     {
-      "name": "Dig Deep",
-      "year": "2016",
-      "release_date": "2016-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/8a/4e/028a4e0a-4dd9-9fbb-0abc-d0108e54ec8e/198704633317_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Collapse",
-          "duration": "4:12"
-        },
-        {
-          "number": 2,
-          "name": "Lost In The Static",
-          "duration": "4:33"
-        },
-        {
-          "number": 3,
-          "name": "Mire",
-          "duration": "4:25"
-        },
-        {
-          "number": 4,
-          "name": "Deluge",
-          "duration": "4:25"
-        },
-        {
-          "number": 5,
-          "name": "Laurentian Ghosts",
-          "duration": "5:02"
-        },
-        {
-          "number": 6,
-          "name": "Heavy Lies The Ground",
-          "duration": "4:46"
-        },
-        {
-          "number": 7,
-          "name": "Catacombs",
-          "duration": "4:24"
-        },
-        {
-          "number": 8,
-          "name": "The Endless March",
-          "duration": "3:38"
-        },
-        {
-          "number": 9,
-          "name": "Sway Of The Break",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
-      "name": "Rareform",
-      "year": "2009",
-      "release_date": "2009-09-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/da/61/76da615b-48a8-beeb-2693-55e150d9153b/00817424012065_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Berzerker",
-          "duration": "5:40"
-        },
-        {
-          "number": 2,
-          "name": "Drifts",
-          "duration": "4:09"
-        },
-        {
-          "number": 3,
-          "name": "Cursing Akhenaten",
-          "duration": "4:03"
-        },
-        {
-          "number": 4,
-          "name": "Rareform",
-          "duration": "3:03"
-        },
-        {
-          "number": 5,
-          "name": "Aspiration",
-          "duration": "4:40"
-        },
-        {
-          "number": 6,
-          "name": "The Fractal Effect",
-          "duration": "3:50"
-        },
-        {
-          "number": 7,
-          "name": "Ometh",
-          "duration": "4:15"
-        },
-        {
-          "number": 8,
-          "name": "A Vicious Reforming Of Features",
-          "duration": "5:51"
-        }
-      ]
-    },
-    {
       "name": "Evergreen",
       "year": "2019",
       "release_date": "2019-04-19",
@@ -210,6 +109,54 @@
       ]
     },
     {
+      "name": "Rareform",
+      "year": "2009",
+      "release_date": "2009-09-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/da/61/76da615b-48a8-beeb-2693-55e150d9153b/00817424012065_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Berzerker",
+          "duration": "5:40"
+        },
+        {
+          "number": 2,
+          "name": "Drifts",
+          "duration": "4:09"
+        },
+        {
+          "number": 3,
+          "name": "Cursing Akhenaten",
+          "duration": "4:03"
+        },
+        {
+          "number": 4,
+          "name": "Rareform",
+          "duration": "3:03"
+        },
+        {
+          "number": 5,
+          "name": "Aspiration",
+          "duration": "4:40"
+        },
+        {
+          "number": 6,
+          "name": "The Fractal Effect",
+          "duration": "3:50"
+        },
+        {
+          "number": 7,
+          "name": "Ometh",
+          "duration": "4:15"
+        },
+        {
+          "number": 8,
+          "name": "A Vicious Reforming Of Features",
+          "duration": "5:51"
+        }
+      ]
+    },
+    {
       "name": "Wolves Within",
       "year": "2013",
       "release_date": "2013-01-01",
@@ -259,6 +206,59 @@
           "number": 9,
           "name": "A Wolf Amongst Ravens",
           "duration": "5:08"
+        }
+      ]
+    },
+    {
+      "name": "Dig Deep",
+      "year": "2016",
+      "release_date": "2016-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/8a/4e/028a4e0a-4dd9-9fbb-0abc-d0108e54ec8e/198704633317_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Collapse",
+          "duration": "4:12"
+        },
+        {
+          "number": 2,
+          "name": "Lost In The Static",
+          "duration": "4:33"
+        },
+        {
+          "number": 3,
+          "name": "Mire",
+          "duration": "4:25"
+        },
+        {
+          "number": 4,
+          "name": "Deluge",
+          "duration": "4:25"
+        },
+        {
+          "number": 5,
+          "name": "Laurentian Ghosts",
+          "duration": "5:02"
+        },
+        {
+          "number": 6,
+          "name": "Heavy Lies The Ground",
+          "duration": "4:46"
+        },
+        {
+          "number": 7,
+          "name": "Catacombs",
+          "duration": "4:24"
+        },
+        {
+          "number": 8,
+          "name": "The Endless March",
+          "duration": "3:38"
+        },
+        {
+          "number": 9,
+          "name": "Sway Of The Break",
+          "duration": "3:26"
         }
       ]
     },
