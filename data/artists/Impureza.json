@@ -3,69 +3,6 @@
   "id": 422671948,
   "albums": [
     {
-      "name": "Alcázares",
-      "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/2e/84/cd2e84e9-6c9d-24e5-028a-0770e5084ab1/822603004632.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Verdiales",
-          "duration": "1:17"
-        },
-        {
-          "number": 2,
-          "name": "Bajo Las Tizonas De Toledo",
-          "duration": "6:27"
-        },
-        {
-          "number": 3,
-          "name": "Covadonga",
-          "duration": "4:02"
-        },
-        {
-          "number": 4,
-          "name": "Pestilencia",
-          "duration": "4:46"
-        },
-        {
-          "number": 5,
-          "name": "Reconquistar Al-Ándalus",
-          "duration": "5:26"
-        },
-        {
-          "number": 6,
-          "name": "Murallas",
-          "duration": "2:26"
-        },
-        {
-          "number": 7,
-          "name": "La Orden Del Yelmo Negro",
-          "duration": "4:58"
-        },
-        {
-          "number": 8,
-          "name": "Castigos Eclesiásticos",
-          "duration": "6:08"
-        },
-        {
-          "number": 9,
-          "name": "El Ejército De Los Fallecidos De Alarcos",
-          "duration": "5:20"
-        },
-        {
-          "number": 10,
-          "name": "Ruina Del Alcázar",
-          "duration": "1:38"
-        },
-        {
-          "number": 11,
-          "name": "Santa Inquisición",
-          "duration": "6:26"
-        }
-      ]
-    },
-    {
       "name": "La Caída De Tonatiuh",
       "year": "2017",
       "release_date": "2017-11-10",
@@ -130,6 +67,69 @@
           "number": 12,
           "name": "La Llegada De Los Teules",
           "duration": "3:43"
+        }
+      ]
+    },
+    {
+      "name": "Alcázares",
+      "year": "2025",
+      "release_date": "2025-07-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/2e/84/cd2e84e9-6c9d-24e5-028a-0770e5084ab1/822603004632.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Verdiales",
+          "duration": "1:17"
+        },
+        {
+          "number": 2,
+          "name": "Bajo Las Tizonas De Toledo",
+          "duration": "6:27"
+        },
+        {
+          "number": 3,
+          "name": "Covadonga",
+          "duration": "4:02"
+        },
+        {
+          "number": 4,
+          "name": "Pestilencia",
+          "duration": "4:46"
+        },
+        {
+          "number": 5,
+          "name": "Reconquistar Al-Ándalus",
+          "duration": "5:26"
+        },
+        {
+          "number": 6,
+          "name": "Murallas",
+          "duration": "2:26"
+        },
+        {
+          "number": 7,
+          "name": "La Orden Del Yelmo Negro",
+          "duration": "4:58"
+        },
+        {
+          "number": 8,
+          "name": "Castigos Eclesiásticos",
+          "duration": "6:08"
+        },
+        {
+          "number": 9,
+          "name": "El Ejército De Los Fallecidos De Alarcos",
+          "duration": "5:20"
+        },
+        {
+          "number": 10,
+          "name": "Ruina Del Alcázar",
+          "duration": "1:38"
+        },
+        {
+          "number": 11,
+          "name": "Santa Inquisición",
+          "duration": "6:26"
         }
       ]
     }

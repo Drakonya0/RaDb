@@ -107,29 +107,6 @@
       ]
     },
     {
-      "name": "Devour",
-      "year": "2026",
-      "release_date": "2026-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/84/1d/33841d32-3c89-339e-fc17-331a8ce9c110/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Devour",
-          "duration": "3:05"
-        },
-        {
-          "number": 2,
-          "name": "Am I Enough?",
-          "duration": "3:36"
-        },
-        {
-          "number": 3,
-          "name": "Endlessly",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "Give Me Your Pain",
       "year": "2024",
       "release_date": "2024-06-14",
@@ -161,19 +138,6 @@
       ]
     },
     {
-      "name": "In The dark",
-      "year": "2024",
-      "release_date": "2024-07-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/f3/c6/f3f3c6e6-7fbe-1f7e-e895-3fe9a8780280/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "In The dark",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "Black Lace",
       "year": "2025",
       "release_date": "2025-03-28",
@@ -197,18 +161,23 @@
       ]
     },
     {
-      "name": "Am I Enough?",
+      "name": "Devour",
       "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/58/4e/30584e6b-ccdd-90ca-a5f1-b3b989d04a32/artwork.jpg/600x600bb.jpg",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/84/1d/33841d32-3c89-339e-fc17-331a8ce9c110/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
+          "name": "Devour",
+          "duration": "3:05"
+        },
+        {
+          "number": 2,
           "name": "Am I Enough?",
           "duration": "3:36"
         },
         {
-          "number": 2,
+          "number": 3,
           "name": "Endlessly",
           "duration": "3:15"
         }
@@ -234,6 +203,37 @@
           "number": 3,
           "name": "I'm Yours Now",
           "duration": "2:40"
+        }
+      ]
+    },
+    {
+      "name": "In The dark",
+      "year": "2024",
+      "release_date": "2024-07-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/f3/c6/f3f3c6e6-7fbe-1f7e-e895-3fe9a8780280/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In The dark",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "Am I Enough?",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/58/4e/30584e6b-ccdd-90ca-a5f1-b3b989d04a32/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Am I Enough?",
+          "duration": "3:36"
+        },
+        {
+          "number": 2,
+          "name": "Endlessly",
+          "duration": "3:15"
         }
       ]
     },
@@ -414,6 +414,34 @@
           "number": 4,
           "name": "Medusa",
           "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "name": "JSFS",
+      "year": "2026",
+      "release_date": "2026-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/b3/8a/58b38a31-1ab5-ff85-7fb9-0e851134cc6b/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "JSFS",
+          "duration": "2:30"
+        },
+        {
+          "number": 2,
+          "name": "Devour",
+          "duration": "3:05"
+        },
+        {
+          "number": 3,
+          "name": "Am I Enough?",
+          "duration": "3:36"
+        },
+        {
+          "number": 4,
+          "name": "Endlessly",
+          "duration": "3:15"
         }
       ]
     }

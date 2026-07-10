@@ -2723,20 +2723,25 @@
       ]
     },
     {
-      "name": "Round Here",
-      "year": "2004",
-      "release_date": "2004-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/19/d1/30/mzi.owkfmuvh.jpg/600x600bb.jpg",
+      "name": "Faith",
+      "year": "2026",
+      "release_date": "2026-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/b7/80/2eb7807d-9eda-e204-fb16-bb5564291e67/196874117477.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Round Here",
-          "duration": "5:56"
+          "name": "Faith",
+          "duration": "3:18"
         },
         {
           "number": 2,
-          "name": "Patience",
-          "duration": "2:55"
+          "name": "Faith (Instrumental)",
+          "duration": "3:04"
+        },
+        {
+          "number": 3,
+          "name": "Hand to Mouth",
+          "duration": "4:37"
         }
       ]
     },
@@ -2764,25 +2769,38 @@
       ]
     },
     {
-      "name": "Faith",
-      "year": "2026",
-      "release_date": "2026-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/b7/80/2eb7807d-9eda-e204-fb16-bb5564291e67/196874117477.jpg/600x600bb.jpg",
+      "name": "Round Here",
+      "year": "2004",
+      "release_date": "2004-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/19/d1/30/mzi.owkfmuvh.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Faith",
-          "duration": "3:18"
+          "name": "Round Here",
+          "duration": "5:56"
         },
         {
           "number": 2,
-          "name": "Faith (Instrumental)",
-          "duration": "3:04"
+          "name": "Patience",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "One More Try",
+      "year": "2026",
+      "release_date": "2026-05-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/4a/0f/944a0f0a-5430-d3b0-57cb-52d1617a1d99/196874117347.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One More Try",
+          "duration": "5:50"
         },
         {
-          "number": 3,
-          "name": "Hand to Mouth",
-          "duration": "4:37"
+          "number": 2,
+          "name": "Look at Your Hands",
+          "duration": "4:39"
         }
       ]
     },
@@ -2818,24 +2836,6 @@
       ]
     },
     {
-      "name": "One More Try",
-      "year": "2026",
-      "release_date": "2026-05-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/4a/0f/944a0f0a-5430-d3b0-57cb-52d1617a1d99/196874117347.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "One More Try",
-          "duration": "5:50"
-        },
-        {
-          "number": 2,
-          "name": "Look at Your Hands",
-          "duration": "4:39"
-        }
-      ]
-    },
-    {
       "name": "Amazing (Full Intention Club Mix)",
       "year": "2004",
       "release_date": "2004-03-01",
@@ -2858,6 +2858,32 @@
           "number": 1,
           "name": "Amazing (Jack'n'Rory 7\" Vocal Mix)",
           "duration": "5:56"
+        }
+      ]
+    },
+    {
+      "name": "I Want Your Sex (Mosimann Remix - Edit)",
+      "year": "2026",
+      "release_date": "2026-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/d3/8a/c1d38a6f-f333-c4db-e21f-8ea7590021cd/196874555880.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Want Your Sex (Mosimann Remix - Edit)",
+          "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "I Want Your Sex (Mosimann Remix)",
+      "year": "2026",
+      "release_date": "2026-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/0e/f0/3a0ef0bf-322d-9dc7-5daa-c03df8962708/196874555866.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Want Your Sex (Mosimann Remix)",
+          "duration": "5:59"
         }
       ]
     }

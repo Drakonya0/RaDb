@@ -71,64 +71,6 @@
       ]
     },
     {
-      "name": "Narrative",
-      "year": "2016",
-      "release_date": "2016-08-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/57/61/fb57611d-97f5-c2fb-e5d5-6abe763698cf/4050538227413.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Public Enemy",
-          "duration": "3:37"
-        },
-        {
-          "number": 2,
-          "name": "End Transmission",
-          "duration": "3:39"
-        },
-        {
-          "number": 3,
-          "name": "Excuse Me",
-          "duration": "4:04"
-        },
-        {
-          "number": 4,
-          "name": "Composition",
-          "duration": "3:57"
-        },
-        {
-          "number": 5,
-          "name": "Evolve",
-          "duration": "3:31"
-        },
-        {
-          "number": 6,
-          "name": "Pretenders",
-          "duration": "4:47"
-        },
-        {
-          "number": 7,
-          "name": "Diversion",
-          "duration": "3:05"
-        },
-        {
-          "number": 8,
-          "name": "In Spite of Doubt",
-          "duration": "3:50"
-        },
-        {
-          "number": 9,
-          "name": "Lifeline",
-          "duration": "4:18"
-        },
-        {
-          "number": 10,
-          "name": "Into the Blue",
-          "duration": "4:04"
-        }
-      ]
-    },
-    {
       "name": "American Sun",
       "year": "2019",
       "release_date": "2019-11-01",
@@ -198,6 +140,64 @@
           "number": 13,
           "name": "Break the Cycle",
           "duration": "3:41"
+        }
+      ]
+    },
+    {
+      "name": "Narrative",
+      "year": "2016",
+      "release_date": "2016-08-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/57/61/fb57611d-97f5-c2fb-e5d5-6abe763698cf/4050538227413.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Public Enemy",
+          "duration": "3:37"
+        },
+        {
+          "number": 2,
+          "name": "End Transmission",
+          "duration": "3:39"
+        },
+        {
+          "number": 3,
+          "name": "Excuse Me",
+          "duration": "4:04"
+        },
+        {
+          "number": 4,
+          "name": "Composition",
+          "duration": "3:57"
+        },
+        {
+          "number": 5,
+          "name": "Evolve",
+          "duration": "3:31"
+        },
+        {
+          "number": 6,
+          "name": "Pretenders",
+          "duration": "4:47"
+        },
+        {
+          "number": 7,
+          "name": "Diversion",
+          "duration": "3:05"
+        },
+        {
+          "number": 8,
+          "name": "In Spite of Doubt",
+          "duration": "3:50"
+        },
+        {
+          "number": 9,
+          "name": "Lifeline",
+          "duration": "4:18"
+        },
+        {
+          "number": 10,
+          "name": "Into the Blue",
+          "duration": "4:04"
         }
       ]
     },
@@ -376,19 +376,6 @@
       ]
     },
     {
-      "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
-      "year": "2023",
-      "release_date": "2023-02-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/68/2f/81/682f8104-7b0c-eb2d-45a6-bb32bd9004d1/846070049101.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
-          "duration": "3:10"
-        }
-      ]
-    },
-    {
       "name": "SOS",
       "year": "2022",
       "release_date": "2022-06-03",
@@ -398,6 +385,19 @@
           "number": 1,
           "name": "SOS",
           "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
+      "year": "2023",
+      "release_date": "2023-02-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/68/2f/81/682f8104-7b0c-eb2d-45a6-bb32bd9004d1/846070049101.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
+          "duration": "3:10"
         }
       ]
     },

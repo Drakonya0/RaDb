@@ -814,7 +814,7 @@
       "name": "Tales from The Script: Greatest Hits",
       "year": "2021",
       "release_date": "2021-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/b4/26/bab426f5-daed-0b5e-12a3-953fd3a9864d/886449488841.jpg/600x600bb.jpg",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/09/bd/b309bd0e-2752-6fa9-a90d-cd7ca6053087/ticket.qsibdosd.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
@@ -1530,6 +1530,19 @@
       ]
     },
     {
+      "name": "Man in the Arena",
+      "year": "2026",
+      "release_date": "2026-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/55/e5/b055e53c-b365-2508-bdf0-9209f6b14fda/4099964251470.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Man in the Arena",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
       "name": "The Last Time (Acoustic)",
       "year": "2019",
       "release_date": "2019-10-04",
@@ -1591,19 +1604,6 @@
           "number": 1,
           "name": "Superheroes (Acoustic)",
           "duration": "4:08"
-        }
-      ]
-    },
-    {
-      "name": "Man in the Arena",
-      "year": "2026",
-      "release_date": "2026-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/55/e5/b055e53c-b365-2508-bdf0-9209f6b14fda/4099964251470.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Man in the Arena",
-          "duration": "3:34"
         }
       ]
     },
@@ -1714,6 +1714,24 @@
           "number": 1,
           "name": "We Cry (Live at Nokia Green Room)",
           "duration": "3:16"
+        }
+      ]
+    },
+    {
+      "name": "The Crowd Was Singing Wonderwall",
+      "year": "2026",
+      "release_date": "2026-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/39/a3/f239a3af-6ec2-53ea-6b7b-1626e4121cec/4099964267297.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Crowd Was Singing Wonderwall",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "Man in the Arena",
+          "duration": "3:34"
         }
       ]
     }

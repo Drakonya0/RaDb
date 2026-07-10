@@ -3,6 +3,64 @@
   "id": 437770018,
   "albums": [
     {
+      "name": "REBORN",
+      "year": "2023",
+      "release_date": "2023-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/6f/fe/bf6ffe92-ba92-58c4-91d0-49475f16fe6c/8720923395930.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ECLIPSE",
+          "duration": "3:40"
+        },
+        {
+          "number": 2,
+          "name": "THE FORBIDDEN DOOR",
+          "duration": "5:11"
+        },
+        {
+          "number": 3,
+          "name": "NIHIL",
+          "duration": "3:39"
+        },
+        {
+          "number": 4,
+          "name": "ANGEL DUST",
+          "duration": "3:22"
+        },
+        {
+          "number": 5,
+          "name": "CRIME",
+          "duration": "4:49"
+        },
+        {
+          "number": 6,
+          "name": "BLEU",
+          "duration": "4:03"
+        },
+        {
+          "number": 7,
+          "name": "PRAGMA",
+          "duration": "5:42"
+        },
+        {
+          "number": 8,
+          "name": "CANDY",
+          "duration": "3:47"
+        },
+        {
+          "number": 9,
+          "name": "CALLING ME",
+          "duration": "2:16"
+        },
+        {
+          "number": 10,
+          "name": "SINK",
+          "duration": "4:19"
+        }
+      ]
+    },
+    {
       "name": "CLIMAX",
       "year": "2026",
       "release_date": "2026-07-01",
@@ -120,64 +178,6 @@
           "number": 11,
           "name": "From the End",
           "duration": "4:16"
-        }
-      ]
-    },
-    {
-      "name": "REBORN",
-      "year": "2023",
-      "release_date": "2023-03-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bf/6f/fe/bf6ffe92-ba92-58c4-91d0-49475f16fe6c/8720923395930.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ECLIPSE",
-          "duration": "3:40"
-        },
-        {
-          "number": 2,
-          "name": "THE FORBIDDEN DOOR",
-          "duration": "5:11"
-        },
-        {
-          "number": 3,
-          "name": "NIHIL",
-          "duration": "3:39"
-        },
-        {
-          "number": 4,
-          "name": "ANGEL DUST",
-          "duration": "3:22"
-        },
-        {
-          "number": 5,
-          "name": "CRIME",
-          "duration": "4:49"
-        },
-        {
-          "number": 6,
-          "name": "BLEU",
-          "duration": "4:03"
-        },
-        {
-          "number": 7,
-          "name": "PRAGMA",
-          "duration": "5:42"
-        },
-        {
-          "number": 8,
-          "name": "CANDY",
-          "duration": "3:47"
-        },
-        {
-          "number": 9,
-          "name": "CALLING ME",
-          "duration": "2:16"
-        },
-        {
-          "number": 10,
-          "name": "SINK",
-          "duration": "4:19"
         }
       ]
     },

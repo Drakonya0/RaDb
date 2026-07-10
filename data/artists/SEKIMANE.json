@@ -865,72 +865,6 @@
   ],
   "eps": [
     {
-      "name": "TAKA LA DENTRO",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/3e/3c/f83e3ce6-ea7b-6d5b-e0c0-30bee4a74793/1037938.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TAKA LA DENTRO",
-          "duration": "1:29"
-        },
-        {
-          "number": 2,
-          "name": "TAKA LA DENTRO (ULTRA SLOWED)",
-          "duration": "1:49"
-        },
-        {
-          "number": 3,
-          "name": "TAKA LA DENTRO (SUPER SLOWED)",
-          "duration": "1:43"
-        },
-        {
-          "number": 4,
-          "name": "TAKA LA DENTRO (SPED UP)",
-          "duration": "1:22"
-        },
-        {
-          "number": 5,
-          "name": "TAKA LA DENTRO (SLOWED)",
-          "duration": "1:37"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM PERIGOSA",
-      "year": "2025",
-      "release_date": "2025-09-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/93/70/5d9370c6-d031-89a9-e210-5613ecdd3965/61611.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM PERIGOSA",
-          "duration": "1:22"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM PERIGOSA (Slowed)",
-          "duration": "1:32"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM PERIGOSA (Sped Up)",
-          "duration": "1:13"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM PERIGOSA (Super Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM PERIGOSA (Ultra Slowed)",
-          "duration": "1:49"
-        }
-      ]
-    },
-    {
       "name": "SAD FUNK",
       "year": "2025",
       "release_date": "2025-12-29",
@@ -992,6 +926,72 @@
         {
           "number": 5,
           "name": "Dark Red (Funk Nightcore)",
+          "duration": "1:37"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM PERIGOSA",
+      "year": "2025",
+      "release_date": "2025-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/93/70/5d9370c6-d031-89a9-e210-5613ecdd3965/61611.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM PERIGOSA",
+          "duration": "1:22"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM PERIGOSA (Slowed)",
+          "duration": "1:32"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM PERIGOSA (Sped Up)",
+          "duration": "1:13"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM PERIGOSA (Super Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM PERIGOSA (Ultra Slowed)",
+          "duration": "1:49"
+        }
+      ]
+    },
+    {
+      "name": "TAKA LA DENTRO",
+      "year": "2026",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/3e/3c/f83e3ce6-ea7b-6d5b-e0c0-30bee4a74793/1037938.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TAKA LA DENTRO",
+          "duration": "1:29"
+        },
+        {
+          "number": 2,
+          "name": "TAKA LA DENTRO (ULTRA SLOWED)",
+          "duration": "1:49"
+        },
+        {
+          "number": 3,
+          "name": "TAKA LA DENTRO (SUPER SLOWED)",
+          "duration": "1:43"
+        },
+        {
+          "number": 4,
+          "name": "TAKA LA DENTRO (SPED UP)",
+          "duration": "1:22"
+        },
+        {
+          "number": 5,
+          "name": "TAKA LA DENTRO (SLOWED)",
           "duration": "1:37"
         }
       ]
@@ -3028,6 +3028,34 @@
       ]
     },
     {
+      "name": "A TU LADO",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/eb/a0/09eba037-a33b-d427-2398-1ccc3c8010a5/1963623584830_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A TU LADO",
+          "duration": "1:56"
+        },
+        {
+          "number": 2,
+          "name": "A TU LADO - SLOWED",
+          "duration": "2:10"
+        },
+        {
+          "number": 3,
+          "name": "A TU LADO - SUPER SLOWED",
+          "duration": "2:26"
+        },
+        {
+          "number": 4,
+          "name": "A TU LADO - SPED UP",
+          "duration": "1:43"
+        }
+      ]
+    },
+    {
       "name": "Brisa da Noite",
       "year": "2025",
       "release_date": "2025-12-04",
@@ -3057,34 +3085,6 @@
           "number": 5,
           "name": "Brisa da Noite (Ultra Slowed)",
           "duration": "2:18"
-        }
-      ]
-    },
-    {
-      "name": "A TU LADO",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/eb/a0/09eba037-a33b-d427-2398-1ccc3c8010a5/1963623584830_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A TU LADO",
-          "duration": "1:56"
-        },
-        {
-          "number": 2,
-          "name": "A TU LADO - SLOWED",
-          "duration": "2:10"
-        },
-        {
-          "number": 3,
-          "name": "A TU LADO - SUPER SLOWED",
-          "duration": "2:26"
-        },
-        {
-          "number": 4,
-          "name": "A TU LADO - SPED UP",
-          "duration": "1:43"
         }
       ]
     },

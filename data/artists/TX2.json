@@ -127,24 +127,6 @@
       ]
     },
     {
-      "name": "Confession",
-      "year": "2026",
-      "release_date": "2026-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/70/b9/3170b967-fe4e-50cc-86ae-3bf58db4f15d/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Confession",
-          "duration": "3:00"
-        },
-        {
-          "number": 2,
-          "name": "Pickup Truck",
-          "duration": "2:37"
-        }
-      ]
-    },
-    {
       "name": "HOSTAGE (they will not erase us)",
       "year": "2025",
       "release_date": "2025-04-17",
@@ -154,19 +136,6 @@
           "number": 1,
           "name": "HOSTAGE (they will not erase us)",
           "duration": "3:26"
-        }
-      ]
-    },
-    {
-      "name": "Loaded Guns",
-      "year": "2023",
-      "release_date": "2023-06-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/2d/1b/dd2d1b3e-4afb-bfa8-aa82-c8b545814889/1729.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Loaded Guns",
-          "duration": "2:36"
         }
       ]
     },
@@ -185,6 +154,37 @@
           "number": 2,
           "name": "A Choice...",
           "duration": "3:02"
+        }
+      ]
+    },
+    {
+      "name": "Loaded Guns",
+      "year": "2023",
+      "release_date": "2023-06-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/2d/1b/dd2d1b3e-4afb-bfa8-aa82-c8b545814889/1729.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Loaded Guns",
+          "duration": "2:36"
+        }
+      ]
+    },
+    {
+      "name": "Confession",
+      "year": "2026",
+      "release_date": "2026-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/70/b9/3170b967-fe4e-50cc-86ae-3bf58db4f15d/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Confession",
+          "duration": "3:00"
+        },
+        {
+          "number": 2,
+          "name": "Pickup Truck",
+          "duration": "2:37"
         }
       ]
     },
@@ -215,15 +215,28 @@
       ]
     },
     {
-      "name": "Feed",
-      "year": "2025",
-      "release_date": "2025-08-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/cc/52/54cc52da-3d56-f8a8-d9c8-8818f04aea1a/3140.jpg/600x600bb.jpg",
+      "name": "Pickup Truck",
+      "year": "2026",
+      "release_date": "2026-04-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/cd/57/8fcd5783-85c4-7018-c798-5787c7fbd686/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Feed",
-          "duration": "3:35"
+          "name": "Pickup Truck",
+          "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "Nice Guy",
+      "year": "2025",
+      "release_date": "2025-09-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/49/8e/03498e4a-b180-9421-5712-e17e01a12622/3199.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nice Guy",
+          "duration": "3:05"
         }
       ]
     },
@@ -241,15 +254,15 @@
       ]
     },
     {
-      "name": "Pickup Truck",
-      "year": "2026",
-      "release_date": "2026-04-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/cd/57/8fcd5783-85c4-7018-c798-5787c7fbd686/artwork.jpg/600x600bb.jpg",
+      "name": "Feed",
+      "year": "2025",
+      "release_date": "2025-08-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/cc/52/54cc52da-3d56-f8a8-d9c8-8818f04aea1a/3140.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Pickup Truck",
-          "duration": "2:37"
+          "name": "Feed",
+          "duration": "3:35"
         }
       ]
     },
@@ -374,19 +387,6 @@
           "number": 1,
           "name": "Vendetta (feat. Johnny 3 Tears)",
           "duration": "2:20"
-        }
-      ]
-    },
-    {
-      "name": "Nice Guy",
-      "year": "2025",
-      "release_date": "2025-09-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/49/8e/03498e4a-b180-9421-5712-e17e01a12622/3199.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nice Guy",
-          "duration": "3:05"
         }
       ]
     },
@@ -551,6 +551,29 @@
       ]
     },
     {
+      "name": "Evil Is Contagious",
+      "year": "2026",
+      "release_date": "2026-07-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/6b/c2/ee6bc24d-6b9d-c260-69db-f49c76bcf1d8/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Evil Is Contagious",
+          "duration": "3:16"
+        },
+        {
+          "number": 2,
+          "name": "Confession",
+          "duration": "3:00"
+        },
+        {
+          "number": 3,
+          "name": "Pickup Truck",
+          "duration": "2:37"
+        }
+      ]
+    },
+    {
       "name": "Cry",
       "year": "2024",
       "release_date": "2024-11-15",
@@ -573,29 +596,6 @@
           "number": 1,
           "name": "Here's Your Love Song (feat. Chase Elliot & Mantra Beats)",
           "duration": "3:21"
-        }
-      ]
-    },
-    {
-      "name": "Evil Is Contagious",
-      "year": "2026",
-      "release_date": "2026-07-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/6b/c2/ee6bc24d-6b9d-c260-69db-f49c76bcf1d8/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Evil Is Contagious",
-          "duration": "3:16"
-        },
-        {
-          "number": 2,
-          "name": "Confession",
-          "duration": "3:00"
-        },
-        {
-          "number": 3,
-          "name": "Pickup Truck",
-          "duration": "2:37"
         }
       ]
     }
@@ -706,6 +706,39 @@
       ]
     },
     {
+      "name": "Say You're Insecure (Without Saying It)",
+      "year": "2023",
+      "release_date": "2023-05-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7f/eb/cf/7febcfcc-60c7-8c08-9f6a-48027f50368f/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Say You're Insecure (Without Saying It)",
+          "duration": "2:37"
+        },
+        {
+          "number": 2,
+          "name": "Randy McNally (No Love Like Christian Hate)",
+          "duration": "3:15"
+        },
+        {
+          "number": 3,
+          "name": "I Would Hate Me Too",
+          "duration": "3:27"
+        },
+        {
+          "number": 4,
+          "name": "Two Pills",
+          "duration": "2:43"
+        },
+        {
+          "number": 5,
+          "name": "Heaven Was Full (I'm Headed Straight to Hell)",
+          "duration": "2:36"
+        }
+      ]
+    },
+    {
       "name": "Cruel World",
       "year": "2024",
       "release_date": "2024-10-30",
@@ -744,35 +777,35 @@
       ]
     },
     {
-      "name": "Say You're Insecure (Without Saying It)",
-      "year": "2023",
-      "release_date": "2023-05-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7f/eb/cf/7febcfcc-60c7-8c08-9f6a-48027f50368f/artwork.jpg/600x600bb.jpg",
+      "name": "We're Going To Hell For This...",
+      "year": "2026",
+      "release_date": "2026-07-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/b4/05/9eb40589-0c7e-387d-baa3-007208f00f2c/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Say You're Insecure (Without Saying It)",
-          "duration": "2:37"
+          "name": "THE HUMAN DISEASE",
+          "duration": "4:22"
         },
         {
           "number": 2,
-          "name": "Randy McNally (No Love Like Christian Hate)",
-          "duration": "3:15"
+          "name": "Confession",
+          "duration": "3:00"
         },
         {
           "number": 3,
-          "name": "I Would Hate Me Too",
-          "duration": "3:27"
+          "name": "Evil Is Contagious (feat. Reel Big Fish)",
+          "duration": "3:16"
         },
         {
           "number": 4,
-          "name": "Two Pills",
-          "duration": "2:43"
+          "name": "I Know What You Did...",
+          "duration": "2:41"
         },
         {
           "number": 5,
-          "name": "Heaven Was Full (I'm Headed Straight to Hell)",
-          "duration": "2:36"
+          "name": "Pickup Truck",
+          "duration": "2:37"
         }
       ]
     }

@@ -1323,54 +1323,6 @@
       ]
     },
     {
-      "name": "Chansons Parisiennes",
-      "year": "1949",
-      "release_date": "1949-08-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/f4/18/03/mzi.elszejxw.tif/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La Vie En Rose",
-          "duration": "3:01"
-        },
-        {
-          "number": 2,
-          "name": "C'est Merveilleux",
-          "duration": "2:56"
-        },
-        {
-          "number": 3,
-          "name": "Monsieur Lenoble",
-          "duration": "3:17"
-        },
-        {
-          "number": 4,
-          "name": "Les Amants De Paris",
-          "duration": "3:02"
-        },
-        {
-          "number": 5,
-          "name": "Adieu Mon Coeur",
-          "duration": "2:57"
-        },
-        {
-          "number": 6,
-          "name": "Le Chant Du Pirate",
-          "duration": "2:03"
-        },
-        {
-          "number": 7,
-          "name": "Il Pleut",
-          "duration": "2:54"
-        },
-        {
-          "number": 8,
-          "name": "Un Refrain Courait Dans La Rue",
-          "duration": "2:55"
-        }
-      ]
-    },
-    {
       "name": "Vol. 2: 1937-1938",
       "year": "1988",
       "release_date": "1988-01-01",
@@ -1490,6 +1442,54 @@
           "number": 23,
           "name": "Le mauvais matelot",
           "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "Chansons Parisiennes",
+      "year": "1949",
+      "release_date": "1949-08-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/f4/18/03/mzi.elszejxw.tif/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La Vie En Rose",
+          "duration": "3:01"
+        },
+        {
+          "number": 2,
+          "name": "C'est Merveilleux",
+          "duration": "2:56"
+        },
+        {
+          "number": 3,
+          "name": "Monsieur Lenoble",
+          "duration": "3:17"
+        },
+        {
+          "number": 4,
+          "name": "Les Amants De Paris",
+          "duration": "3:02"
+        },
+        {
+          "number": 5,
+          "name": "Adieu Mon Coeur",
+          "duration": "2:57"
+        },
+        {
+          "number": 6,
+          "name": "Le Chant Du Pirate",
+          "duration": "2:03"
+        },
+        {
+          "number": 7,
+          "name": "Il Pleut",
+          "duration": "2:54"
+        },
+        {
+          "number": 8,
+          "name": "Un Refrain Courait Dans La Rue",
+          "duration": "2:55"
         }
       ]
     },
@@ -2165,13 +2165,6 @@
       "tracks": []
     },
     {
-      "name": "Hymne à la môme (2012 Remaster)",
-      "year": "2012",
-      "release_date": "2012-09-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/93/6c/e6/936ce6b7-30fb-7636-4b3d-b46914be4fd0/5099972188552.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Une légende (Remastered 2022)",
       "year": "2023",
       "release_date": "2023-12-08",
@@ -2243,6 +2236,13 @@
           "duration": "3:45"
         }
       ]
+    },
+    {
+      "name": "Hymne à la môme (2012 Remaster)",
+      "year": "2012",
+      "release_date": "2012-09-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/93/6c/e6/936ce6b7-30fb-7636-4b3d-b46914be4fd0/5099972188552.jpg/600x600bb.jpg",
+      "tracks": []
     }
   ],
   "singles": [

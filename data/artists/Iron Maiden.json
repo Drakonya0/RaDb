@@ -3,54 +3,6 @@
   "id": 546381,
   "albums": [
     {
-      "name": "The Number of the Beast (2015 Remaster)",
-      "year": "1982",
-      "release_date": "1982-03-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/cb/ac/1dcbac1b-737d-b7c8-8bed-b5a98ae9df77/0881034134448.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Invaders (2015 Remaster)",
-          "duration": "3:23"
-        },
-        {
-          "number": 2,
-          "name": "Children of the Damned (2015 Remaster)",
-          "duration": "4:35"
-        },
-        {
-          "number": 3,
-          "name": "The Prisoner (2015 Remaster)",
-          "duration": "6:02"
-        },
-        {
-          "number": 4,
-          "name": "22 Acacia Avenue (2015 Remaster)",
-          "duration": "6:36"
-        },
-        {
-          "number": 5,
-          "name": "The Number of the Beast (2015 Remaster)",
-          "duration": "4:50"
-        },
-        {
-          "number": 6,
-          "name": "Run to the Hills (2015 Remaster)",
-          "duration": "3:53"
-        },
-        {
-          "number": 7,
-          "name": "Gangland (2015 Remaster)",
-          "duration": "3:49"
-        },
-        {
-          "number": 8,
-          "name": "Hallowed Be Thy Name (1982 Remaster)",
-          "duration": "7:11"
-        }
-      ]
-    },
-    {
       "name": "Powerslave (2015 Remaster)",
       "year": "1984",
       "release_date": "1984-09-03",
@@ -95,6 +47,54 @@
           "number": 8,
           "name": "Rime of the Ancient Mariner (2015 Remaster)",
           "duration": "13:38"
+        }
+      ]
+    },
+    {
+      "name": "The Number of the Beast (2015 Remaster)",
+      "year": "1982",
+      "release_date": "1982-03-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/cb/ac/1dcbac1b-737d-b7c8-8bed-b5a98ae9df77/0881034134448.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Invaders (2015 Remaster)",
+          "duration": "3:23"
+        },
+        {
+          "number": 2,
+          "name": "Children of the Damned (2015 Remaster)",
+          "duration": "4:35"
+        },
+        {
+          "number": 3,
+          "name": "The Prisoner (2015 Remaster)",
+          "duration": "6:02"
+        },
+        {
+          "number": 4,
+          "name": "22 Acacia Avenue (2015 Remaster)",
+          "duration": "6:36"
+        },
+        {
+          "number": 5,
+          "name": "The Number of the Beast (2015 Remaster)",
+          "duration": "4:50"
+        },
+        {
+          "number": 6,
+          "name": "Run to the Hills (2015 Remaster)",
+          "duration": "3:53"
+        },
+        {
+          "number": 7,
+          "name": "Gangland (2015 Remaster)",
+          "duration": "3:49"
+        },
+        {
+          "number": 8,
+          "name": "Hallowed Be Thy Name (1982 Remaster)",
+          "duration": "7:11"
         }
       ]
     },
@@ -746,69 +746,6 @@
       ]
     },
     {
-      "name": "The Book of Souls",
-      "year": "2015",
-      "release_date": "2015-09-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/e6/ee/0fe6eefa-50f1-e0e5-c213-fb0ff9d46583/4099964010312.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "If Eternity Should Fail",
-          "duration": "8:28"
-        },
-        {
-          "number": 1,
-          "name": "Death or Glory",
-          "duration": "5:12"
-        },
-        {
-          "number": 2,
-          "name": "Speed of Light",
-          "duration": "5:01"
-        },
-        {
-          "number": 2,
-          "name": "Shadows of the Valley",
-          "duration": "7:32"
-        },
-        {
-          "number": 3,
-          "name": "The Great Unknown",
-          "duration": "6:37"
-        },
-        {
-          "number": 3,
-          "name": "Tears of a Clown",
-          "duration": "4:58"
-        },
-        {
-          "number": 4,
-          "name": "The Red and the Black",
-          "duration": "13:33"
-        },
-        {
-          "number": 4,
-          "name": "The Man of Sorrows",
-          "duration": "6:27"
-        },
-        {
-          "number": 5,
-          "name": "When the River Runs Deep",
-          "duration": "5:52"
-        },
-        {
-          "number": 5,
-          "name": "Empire of the Clouds",
-          "duration": "18:01"
-        },
-        {
-          "number": 6,
-          "name": "The Book of Souls",
-          "duration": "10:27"
-        }
-      ]
-    },
-    {
       "name": "Somewhere Back in Time - The Best of 1980-1989",
       "year": "2008",
       "release_date": "2008-05-12",
@@ -950,6 +887,69 @@
       ]
     },
     {
+      "name": "The Book of Souls",
+      "year": "2015",
+      "release_date": "2015-09-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/e6/ee/0fe6eefa-50f1-e0e5-c213-fb0ff9d46583/4099964010312.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "If Eternity Should Fail",
+          "duration": "8:28"
+        },
+        {
+          "number": 1,
+          "name": "Death or Glory",
+          "duration": "5:12"
+        },
+        {
+          "number": 2,
+          "name": "Speed of Light",
+          "duration": "5:01"
+        },
+        {
+          "number": 2,
+          "name": "Shadows of the Valley",
+          "duration": "7:32"
+        },
+        {
+          "number": 3,
+          "name": "The Great Unknown",
+          "duration": "6:37"
+        },
+        {
+          "number": 3,
+          "name": "Tears of a Clown",
+          "duration": "4:58"
+        },
+        {
+          "number": 4,
+          "name": "The Red and the Black",
+          "duration": "13:33"
+        },
+        {
+          "number": 4,
+          "name": "The Man of Sorrows",
+          "duration": "6:27"
+        },
+        {
+          "number": 5,
+          "name": "When the River Runs Deep",
+          "duration": "5:52"
+        },
+        {
+          "number": 5,
+          "name": "Empire of the Clouds",
+          "duration": "18:01"
+        },
+        {
+          "number": 6,
+          "name": "The Book of Souls",
+          "duration": "10:27"
+        }
+      ]
+    },
+    {
       "name": "No Prayer for the Dying (2015 Remaster)",
       "year": "1990",
       "release_date": "1990-10-01",
@@ -1004,69 +1004,6 @@
           "number": 10,
           "name": "Mother Russia",
           "duration": "5:31"
-        }
-      ]
-    },
-    {
-      "name": "Dance of Death (2015 Remaster)",
-      "year": "2003",
-      "release_date": "2003-09-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e3/67/d8/e367d8cf-fdb2-3edc-605f-55bf9d31d0ed/4050538293203.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wildest Dreams",
-          "duration": "3:52"
-        },
-        {
-          "number": 2,
-          "name": "Rainmaker",
-          "duration": "3:48"
-        },
-        {
-          "number": 3,
-          "name": "No More Lies",
-          "duration": "7:21"
-        },
-        {
-          "number": 4,
-          "name": "Montségur",
-          "duration": "5:50"
-        },
-        {
-          "number": 5,
-          "name": "Dance of Death",
-          "duration": "8:36"
-        },
-        {
-          "number": 6,
-          "name": "Gates of Tomorrow",
-          "duration": "5:12"
-        },
-        {
-          "number": 7,
-          "name": "New Frontier",
-          "duration": "5:04"
-        },
-        {
-          "number": 8,
-          "name": "Paschendale",
-          "duration": "8:28"
-        },
-        {
-          "number": 9,
-          "name": "Face in the Sand",
-          "duration": "6:30"
-        },
-        {
-          "number": 10,
-          "name": "Age of Innocence",
-          "duration": "6:10"
-        },
-        {
-          "number": 11,
-          "name": "Journeyman",
-          "duration": "7:06"
         }
       ]
     },
@@ -1169,6 +1106,162 @@
       ]
     },
     {
+      "name": "Flight 666 - The Original Soundtrack (Live)",
+      "year": "2009",
+      "release_date": "2009-06-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/10/39/77/10397730-8242-67e1-153a-e54a34c2e71d/0602527779140.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro: Churchill's Speech (Live in Mumbai 01 February 2008)",
+          "duration": "0:43"
+        },
+        {
+          "number": 1,
+          "name": "Powerslave (Live in San José 26 February 2008)",
+          "duration": "7:28"
+        },
+        {
+          "number": 2,
+          "name": "Aces High (Live in Mumbai 01 February 2008)",
+          "duration": "4:49"
+        },
+        {
+          "number": 2,
+          "name": "Heaven Can Wait (Live in Sao Paulo 02 March 2008)",
+          "duration": "7:35"
+        },
+        {
+          "number": 3,
+          "name": "2 Minutes to Midnight (Live in Melbourne 07 February 2008)",
+          "duration": "5:57"
+        },
+        {
+          "number": 3,
+          "name": "Run to the Hills (Live in Bogota 28 February 2008)",
+          "duration": "3:59"
+        },
+        {
+          "number": 4,
+          "name": "Revelations (Live in Sydney 09 February 2008)",
+          "duration": "6:28"
+        },
+        {
+          "number": 4,
+          "name": "Fear of the Dark (Live in Buenos Aires 07 March 2008)",
+          "duration": "7:32"
+        },
+        {
+          "number": 5,
+          "name": "The Trooper (Live in Tokyo 16 February 2008)",
+          "duration": "4:01"
+        },
+        {
+          "number": 5,
+          "name": "Iron Maiden (Live in Santiago 09 March 2008)",
+          "duration": "5:26"
+        },
+        {
+          "number": 6,
+          "name": "Wasted Years (Live in Monterrey 22 February 2008)",
+          "duration": "5:07"
+        },
+        {
+          "number": 6,
+          "name": "Moonchild (Live in San Juan 12 March 2008)",
+          "duration": "7:29"
+        },
+        {
+          "number": 7,
+          "name": "The Number of the Beast (Live in Los Angeles 19 February 2008)",
+          "duration": "5:07"
+        },
+        {
+          "number": 7,
+          "name": "The Clairvoyant (Live in Curitiba 04 March 2008)",
+          "duration": "4:38"
+        },
+        {
+          "number": 8,
+          "name": "Can I Play with Madness (Live in Mexico City 24 February 2008)",
+          "duration": "3:36"
+        },
+        {
+          "number": 8,
+          "name": "Hallowed Be Thy Name (Live in Toronto 16 March 2008)",
+          "duration": "7:52"
+        },
+        {
+          "number": 9,
+          "name": "Rime of the Ancient Mariner (Live in New Jersey 14 March 2008)",
+          "duration": "13:41"
+        }
+      ]
+    },
+    {
+      "name": "Dance of Death (2015 Remaster)",
+      "year": "2003",
+      "release_date": "2003-09-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e3/67/d8/e367d8cf-fdb2-3edc-605f-55bf9d31d0ed/4050538293203.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wildest Dreams",
+          "duration": "3:52"
+        },
+        {
+          "number": 2,
+          "name": "Rainmaker",
+          "duration": "3:48"
+        },
+        {
+          "number": 3,
+          "name": "No More Lies",
+          "duration": "7:21"
+        },
+        {
+          "number": 4,
+          "name": "Montségur",
+          "duration": "5:50"
+        },
+        {
+          "number": 5,
+          "name": "Dance of Death",
+          "duration": "8:36"
+        },
+        {
+          "number": 6,
+          "name": "Gates of Tomorrow",
+          "duration": "5:12"
+        },
+        {
+          "number": 7,
+          "name": "New Frontier",
+          "duration": "5:04"
+        },
+        {
+          "number": 8,
+          "name": "Paschendale",
+          "duration": "8:28"
+        },
+        {
+          "number": 9,
+          "name": "Face in the Sand",
+          "duration": "6:30"
+        },
+        {
+          "number": 10,
+          "name": "Age of Innocence",
+          "duration": "6:10"
+        },
+        {
+          "number": 11,
+          "name": "Journeyman",
+          "duration": "7:06"
+        }
+      ]
+    },
+    {
       "name": "A Matter of Life and Death (2015 Remaster)",
       "year": "2006",
       "release_date": "2006-08-28",
@@ -1223,6 +1316,117 @@
           "number": 10,
           "name": "The Legacy (2015 Remaster)",
           "duration": "9:22"
+        }
+      ]
+    },
+    {
+      "name": "Virtual XI (2015 Remaster)",
+      "year": "1998",
+      "release_date": "1998-03-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/86/e5/d686e5ae-6c90-6bc9-5bda-31edfa248ffb/0881034134530.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Futureal (2015 Remaster)",
+          "duration": "2:55"
+        },
+        {
+          "number": 2,
+          "name": "The Angel and the Gambler (2015 Remaster)",
+          "duration": "9:52"
+        },
+        {
+          "number": 3,
+          "name": "Lightning Strikes Twice (2015 Remaster)",
+          "duration": "4:50"
+        },
+        {
+          "number": 4,
+          "name": "The Clansman (2015 Remaster)",
+          "duration": "8:59"
+        },
+        {
+          "number": 5,
+          "name": "When Two Worlds Collide (2015 Remaster)",
+          "duration": "6:17"
+        },
+        {
+          "number": 6,
+          "name": "The Educated Fool (2015 Remaster)",
+          "duration": "6:44"
+        },
+        {
+          "number": 7,
+          "name": "Don't Look to the Eyes of a Stranger (2015 Remaster)",
+          "duration": "8:03"
+        },
+        {
+          "number": 8,
+          "name": "Como Estais Amigos (2015 Remaster)",
+          "duration": "5:30"
+        }
+      ]
+    },
+    {
+      "name": "Senjutsu",
+      "year": "2021",
+      "release_date": "2021-09-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/4c/47/eb4c474a-581c-8525-a07b-51e84e159170/4050538710779.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Senjutsu",
+          "duration": "8:20"
+        },
+        {
+          "number": 2,
+          "name": "Stratego",
+          "duration": "4:59"
+        },
+        {
+          "number": 3,
+          "name": "The Writing on the Wall",
+          "duration": "6:13"
+        },
+        {
+          "number": 4,
+          "name": "Lost in a Lost World",
+          "duration": "9:31"
+        },
+        {
+          "number": 5,
+          "name": "Days of Future Past",
+          "duration": "4:03"
+        },
+        {
+          "number": 6,
+          "name": "The Time Machine",
+          "duration": "7:09"
+        },
+        {
+          "number": 7,
+          "name": "Darkest Hour",
+          "duration": "7:20"
+        },
+        {
+          "number": 8,
+          "name": "Death of the Celts",
+          "duration": "10:20"
+        },
+        {
+          "number": 9,
+          "name": "The Parchment",
+          "duration": "12:38"
+        },
+        {
+          "number": 10,
+          "name": "Hell on Earth",
+          "duration": "11:19"
+        },
+        {
+          "number": 11,
+          "name": "The Writing on the Wall",
+          "duration": "6:15"
         }
       ]
     },
@@ -1325,268 +1529,6 @@
       ]
     },
     {
-      "name": "Senjutsu",
-      "year": "2021",
-      "release_date": "2021-09-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/4c/47/eb4c474a-581c-8525-a07b-51e84e159170/4050538710779.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Senjutsu",
-          "duration": "8:20"
-        },
-        {
-          "number": 2,
-          "name": "Stratego",
-          "duration": "4:59"
-        },
-        {
-          "number": 3,
-          "name": "The Writing on the Wall",
-          "duration": "6:13"
-        },
-        {
-          "number": 4,
-          "name": "Lost in a Lost World",
-          "duration": "9:31"
-        },
-        {
-          "number": 5,
-          "name": "Days of Future Past",
-          "duration": "4:03"
-        },
-        {
-          "number": 6,
-          "name": "The Time Machine",
-          "duration": "7:09"
-        },
-        {
-          "number": 7,
-          "name": "Darkest Hour",
-          "duration": "7:20"
-        },
-        {
-          "number": 8,
-          "name": "Death of the Celts",
-          "duration": "10:20"
-        },
-        {
-          "number": 9,
-          "name": "The Parchment",
-          "duration": "12:38"
-        },
-        {
-          "number": 10,
-          "name": "Hell on Earth",
-          "duration": "11:19"
-        },
-        {
-          "number": 11,
-          "name": "The Writing on the Wall",
-          "duration": "6:15"
-        }
-      ]
-    },
-    {
-      "name": "The Final Frontier (2015 Remaster)",
-      "year": "2010",
-      "release_date": "2010-08-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/ed/18/c1ed1899-cf8c-ffbc-a189-c6070e099d12/0881034134554.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Satellite 15...The Final Frontier (2015 Remaster)",
-          "duration": "8:40"
-        },
-        {
-          "number": 2,
-          "name": "El Dorado (2015 Remaster)",
-          "duration": "6:48"
-        },
-        {
-          "number": 3,
-          "name": "Mother of Mercy",
-          "duration": "5:20"
-        },
-        {
-          "number": 4,
-          "name": "Coming Home (2015 Remaster)",
-          "duration": "5:53"
-        },
-        {
-          "number": 5,
-          "name": "The Alchemist (2015 Remaster)",
-          "duration": "4:28"
-        },
-        {
-          "number": 6,
-          "name": "Isle of Avalon",
-          "duration": "9:06"
-        },
-        {
-          "number": 7,
-          "name": "Starblind",
-          "duration": "7:48"
-        },
-        {
-          "number": 8,
-          "name": "The Talisman",
-          "duration": "9:03"
-        },
-        {
-          "number": 9,
-          "name": "The Man Who Would Be King",
-          "duration": "8:27"
-        },
-        {
-          "number": 10,
-          "name": "When the Wild Wind Blows (2015 Remaster)",
-          "duration": "11:00"
-        }
-      ]
-    },
-    {
-      "name": "Virtual XI (2015 Remaster)",
-      "year": "1998",
-      "release_date": "1998-03-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/86/e5/d686e5ae-6c90-6bc9-5bda-31edfa248ffb/0881034134530.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Futureal (2015 Remaster)",
-          "duration": "2:55"
-        },
-        {
-          "number": 2,
-          "name": "The Angel and the Gambler (2015 Remaster)",
-          "duration": "9:52"
-        },
-        {
-          "number": 3,
-          "name": "Lightning Strikes Twice (2015 Remaster)",
-          "duration": "4:50"
-        },
-        {
-          "number": 4,
-          "name": "The Clansman (2015 Remaster)",
-          "duration": "8:59"
-        },
-        {
-          "number": 5,
-          "name": "When Two Worlds Collide (2015 Remaster)",
-          "duration": "6:17"
-        },
-        {
-          "number": 6,
-          "name": "The Educated Fool (2015 Remaster)",
-          "duration": "6:44"
-        },
-        {
-          "number": 7,
-          "name": "Don't Look to the Eyes of a Stranger (2015 Remaster)",
-          "duration": "8:03"
-        },
-        {
-          "number": 8,
-          "name": "Como Estais Amigos (2015 Remaster)",
-          "duration": "5:30"
-        }
-      ]
-    },
-    {
-      "name": "Flight 666 - The Original Soundtrack (Live)",
-      "year": "2009",
-      "release_date": "2009-06-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/10/39/77/10397730-8242-67e1-153a-e54a34c2e71d/0602527779140.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro: Churchill's Speech (Live in Mumbai 01 February 2008)",
-          "duration": "0:43"
-        },
-        {
-          "number": 1,
-          "name": "Powerslave (Live in San José 26 February 2008)",
-          "duration": "7:28"
-        },
-        {
-          "number": 2,
-          "name": "Aces High (Live in Mumbai 01 February 2008)",
-          "duration": "4:49"
-        },
-        {
-          "number": 2,
-          "name": "Heaven Can Wait (Live in Sao Paulo 02 March 2008)",
-          "duration": "7:35"
-        },
-        {
-          "number": 3,
-          "name": "2 Minutes to Midnight (Live in Melbourne 07 February 2008)",
-          "duration": "5:57"
-        },
-        {
-          "number": 3,
-          "name": "Run to the Hills (Live in Bogota 28 February 2008)",
-          "duration": "3:59"
-        },
-        {
-          "number": 4,
-          "name": "Revelations (Live in Sydney 09 February 2008)",
-          "duration": "6:28"
-        },
-        {
-          "number": 4,
-          "name": "Fear of the Dark (Live in Buenos Aires 07 March 2008)",
-          "duration": "7:32"
-        },
-        {
-          "number": 5,
-          "name": "The Trooper (Live in Tokyo 16 February 2008)",
-          "duration": "4:01"
-        },
-        {
-          "number": 5,
-          "name": "Iron Maiden (Live in Santiago 09 March 2008)",
-          "duration": "5:26"
-        },
-        {
-          "number": 6,
-          "name": "Wasted Years (Live in Monterrey 22 February 2008)",
-          "duration": "5:07"
-        },
-        {
-          "number": 6,
-          "name": "Moonchild (Live in San Juan 12 March 2008)",
-          "duration": "7:29"
-        },
-        {
-          "number": 7,
-          "name": "The Number of the Beast (Live in Los Angeles 19 February 2008)",
-          "duration": "5:07"
-        },
-        {
-          "number": 7,
-          "name": "The Clairvoyant (Live in Curitiba 04 March 2008)",
-          "duration": "4:38"
-        },
-        {
-          "number": 8,
-          "name": "Can I Play with Madness (Live in Mexico City 24 February 2008)",
-          "duration": "3:36"
-        },
-        {
-          "number": 8,
-          "name": "Hallowed Be Thy Name (Live in Toronto 16 March 2008)",
-          "duration": "7:52"
-        },
-        {
-          "number": 9,
-          "name": "Rime of the Ancient Mariner (Live in New Jersey 14 March 2008)",
-          "duration": "13:41"
-        }
-      ]
-    },
-    {
       "name": "The X Factor (2015 Remaster)",
       "year": "1995",
       "release_date": "1995-10-02",
@@ -1646,6 +1588,64 @@
           "number": 11,
           "name": "The Unbeliever (2015 Remaster)",
           "duration": "8:10"
+        }
+      ]
+    },
+    {
+      "name": "The Final Frontier (2015 Remaster)",
+      "year": "2010",
+      "release_date": "2010-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/ed/18/c1ed1899-cf8c-ffbc-a189-c6070e099d12/0881034134554.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Satellite 15...The Final Frontier (2015 Remaster)",
+          "duration": "8:40"
+        },
+        {
+          "number": 2,
+          "name": "El Dorado (2015 Remaster)",
+          "duration": "6:48"
+        },
+        {
+          "number": 3,
+          "name": "Mother of Mercy",
+          "duration": "5:20"
+        },
+        {
+          "number": 4,
+          "name": "Coming Home (2015 Remaster)",
+          "duration": "5:53"
+        },
+        {
+          "number": 5,
+          "name": "The Alchemist (2015 Remaster)",
+          "duration": "4:28"
+        },
+        {
+          "number": 6,
+          "name": "Isle of Avalon",
+          "duration": "9:06"
+        },
+        {
+          "number": 7,
+          "name": "Starblind",
+          "duration": "7:48"
+        },
+        {
+          "number": 8,
+          "name": "The Talisman",
+          "duration": "9:03"
+        },
+        {
+          "number": 9,
+          "name": "The Man Who Would Be King",
+          "duration": "8:27"
+        },
+        {
+          "number": 10,
+          "name": "When the Wild Wind Blows (2015 Remaster)",
+          "duration": "11:00"
         }
       ]
     },
@@ -1773,105 +1773,125 @@
       ]
     },
     {
-      "name": "Rock in Rio (Live)",
-      "year": "2002",
-      "release_date": "2002-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/30/25/b730254e-3541-1cb1-7280-71586cc11657/0889326575382.jpg/600x600bb.jpg",
+      "name": "A Real Live Dead One",
+      "year": "1993",
+      "release_date": "1993-03-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/97/25/b9/9725b999-f938-fae7-106d-32658c5a7d3c/0602527782621.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Intro (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "1:55"
+          "name": "The Number of the Beast (Live In Denmark 1992)",
+          "duration": "4:54"
+        },
+        {
+          "number": 1,
+          "name": "Be Quick or Be Dead (Live In Germany 1992)",
+          "duration": "3:16"
         },
         {
           "number": 2,
-          "name": "The Wicker Man (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "4:41"
+          "name": "The Trooper (Live In Finland 1992)",
+          "duration": "3:55"
+        },
+        {
+          "number": 2,
+          "name": "From Here to Eternity (Live In Denmark 1992)",
+          "duration": "4:19"
         },
         {
           "number": 3,
-          "name": "Ghost of the Navigator (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "6:48"
+          "name": "Prowler (Live In Italy 1993)",
+          "duration": "4:15"
         },
         {
-          "number": 4,
-          "name": "Brave New World (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "6:06"
-        },
-        {
-          "number": 5,
-          "name": "Wrathchild (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "3:05"
-        },
-        {
-          "number": 6,
-          "name": "2 Minutes to Midnight (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "6:26"
-        },
-        {
-          "number": 7,
-          "name": "Blood Brothers (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "7:15"
-        },
-        {
-          "number": 8,
-          "name": "Sign of the Cross (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "10:49"
-        },
-        {
-          "number": 9,
-          "name": "The Mercenary (Live at Rock in Rio) [2015 Remaster]",
+          "number": 3,
+          "name": "Can I Play with Madness (Live In the Holland 1992)",
           "duration": "4:42"
         },
         {
-          "number": 10,
-          "name": "The Trooper (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "4:33"
+          "number": 4,
+          "name": "Transylvania (Live In Germany 1993)",
+          "duration": "4:25"
         },
         {
-          "number": 11,
-          "name": "Dream of Mirrors (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "9:38"
+          "number": 4,
+          "name": "Wasting Love (Live in France 1992)",
+          "duration": "5:47"
         },
         {
-          "number": 12,
-          "name": "The Clansman (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "9:19"
+          "number": 5,
+          "name": "Remember Tomorrow (Live In Germany 1993)",
+          "duration": "5:52"
         },
         {
-          "number": 13,
-          "name": "The Evil That Men Do (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "4:40"
+          "number": 5,
+          "name": "Tailgunner (Live In Switzerland 1992)",
+          "duration": "4:09"
         },
         {
-          "number": 14,
-          "name": "Fear of the Dark (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "7:40"
+          "number": 6,
+          "name": "Where Eagles Dare (Live in Holland 1993)",
+          "duration": "4:49"
         },
         {
-          "number": 15,
-          "name": "Iron Maiden (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "5:51"
+          "number": 6,
+          "name": "The Evil That Men Do (Live in Belgium 1992)",
+          "duration": "5:25"
         },
         {
-          "number": 16,
-          "name": "The Number of the Beast (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "5:00"
+          "number": 7,
+          "name": "Sanctuary (Live In Switzerland 1993)",
+          "duration": "4:53"
         },
         {
-          "number": 17,
-          "name": "Hallowed Be Thy Name (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "7:23"
+          "number": 7,
+          "name": "Afraid to Shoot Strangers (Live In Sweden 1992)",
+          "duration": "6:47"
         },
         {
-          "number": 18,
-          "name": "Sanctuary (Live at Rock in Rio) [2015 Remaster]",
+          "number": 8,
+          "name": "Running Free (Live In Switzerland 1993)",
+          "duration": "3:48"
+        },
+        {
+          "number": 8,
+          "name": "Bring Your Daughter...To the Slaughter (Live In Finland 1992)",
           "duration": "5:17"
         },
         {
-          "number": 19,
-          "name": "Run to the Hills (Live at Rock in Rio) [2015 Remaster]",
-          "duration": "4:52"
+          "number": 9,
+          "name": "Run to the Hills (Live in Czech Republic 1993)",
+          "duration": "3:57"
+        },
+        {
+          "number": 9,
+          "name": "Heaven Can Wait (Live In Italy 1992)",
+          "duration": "7:28"
+        },
+        {
+          "number": 10,
+          "name": "2 Minutes to Midnight (Live in France 1993)",
+          "duration": "5:37"
+        },
+        {
+          "number": 10,
+          "name": "The Clairvoyant (Live In Finland 1992)",
+          "duration": "4:29"
+        },
+        {
+          "number": 11,
+          "name": "Iron Maiden (Live in Finland 1993)",
+          "duration": "5:24"
+        },
+        {
+          "number": 11,
+          "name": "Fear of the Dark (Live In Finland 1992)",
+          "duration": "7:11"
+        },
+        {
+          "number": 12,
+          "name": "Hallowed Be Thy Name (Live In Moscow 1993)",
+          "duration": "7:51"
         }
       ]
     },
@@ -2024,125 +2044,193 @@
       ]
     },
     {
-      "name": "A Real Live Dead One",
-      "year": "1993",
-      "release_date": "1993-03-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/97/25/b9/9725b999-f938-fae7-106d-32658c5a7d3c/0602527782621.jpg/600x600bb.jpg",
+      "name": "Rock in Rio (Live)",
+      "year": "2002",
+      "release_date": "2002-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/30/25/b730254e-3541-1cb1-7280-71586cc11657/0889326575382.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Number of the Beast (Live In Denmark 1992)",
-          "duration": "4:54"
-        },
-        {
-          "number": 1,
-          "name": "Be Quick or Be Dead (Live In Germany 1992)",
-          "duration": "3:16"
+          "name": "Intro (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "1:55"
         },
         {
           "number": 2,
-          "name": "The Trooper (Live In Finland 1992)",
-          "duration": "3:55"
-        },
-        {
-          "number": 2,
-          "name": "From Here to Eternity (Live In Denmark 1992)",
-          "duration": "4:19"
+          "name": "The Wicker Man (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "4:41"
         },
         {
           "number": 3,
-          "name": "Prowler (Live In Italy 1993)",
-          "duration": "4:15"
+          "name": "Ghost of the Navigator (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "6:48"
         },
         {
-          "number": 3,
-          "name": "Can I Play with Madness (Live In the Holland 1992)",
+          "number": 4,
+          "name": "Brave New World (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "6:06"
+        },
+        {
+          "number": 5,
+          "name": "Wrathchild (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "3:05"
+        },
+        {
+          "number": 6,
+          "name": "2 Minutes to Midnight (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "6:26"
+        },
+        {
+          "number": 7,
+          "name": "Blood Brothers (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "7:15"
+        },
+        {
+          "number": 8,
+          "name": "Sign of the Cross (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "10:49"
+        },
+        {
+          "number": 9,
+          "name": "The Mercenary (Live at Rock in Rio) [2015 Remaster]",
           "duration": "4:42"
         },
         {
-          "number": 4,
-          "name": "Transylvania (Live In Germany 1993)",
-          "duration": "4:25"
-        },
-        {
-          "number": 4,
-          "name": "Wasting Love (Live in France 1992)",
-          "duration": "5:47"
-        },
-        {
-          "number": 5,
-          "name": "Remember Tomorrow (Live In Germany 1993)",
-          "duration": "5:52"
-        },
-        {
-          "number": 5,
-          "name": "Tailgunner (Live In Switzerland 1992)",
-          "duration": "4:09"
-        },
-        {
-          "number": 6,
-          "name": "Where Eagles Dare (Live in Holland 1993)",
-          "duration": "4:49"
-        },
-        {
-          "number": 6,
-          "name": "The Evil That Men Do (Live in Belgium 1992)",
-          "duration": "5:25"
-        },
-        {
-          "number": 7,
-          "name": "Sanctuary (Live In Switzerland 1993)",
-          "duration": "4:53"
-        },
-        {
-          "number": 7,
-          "name": "Afraid to Shoot Strangers (Live In Sweden 1992)",
-          "duration": "6:47"
-        },
-        {
-          "number": 8,
-          "name": "Running Free (Live In Switzerland 1993)",
-          "duration": "3:48"
-        },
-        {
-          "number": 8,
-          "name": "Bring Your Daughter...To the Slaughter (Live In Finland 1992)",
-          "duration": "5:17"
-        },
-        {
-          "number": 9,
-          "name": "Run to the Hills (Live in Czech Republic 1993)",
-          "duration": "3:57"
-        },
-        {
-          "number": 9,
-          "name": "Heaven Can Wait (Live In Italy 1992)",
-          "duration": "7:28"
-        },
-        {
           "number": 10,
-          "name": "2 Minutes to Midnight (Live in France 1993)",
-          "duration": "5:37"
-        },
-        {
-          "number": 10,
-          "name": "The Clairvoyant (Live In Finland 1992)",
-          "duration": "4:29"
+          "name": "The Trooper (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "4:33"
         },
         {
           "number": 11,
-          "name": "Iron Maiden (Live in Finland 1993)",
-          "duration": "5:24"
-        },
-        {
-          "number": 11,
-          "name": "Fear of the Dark (Live In Finland 1992)",
-          "duration": "7:11"
+          "name": "Dream of Mirrors (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "9:38"
         },
         {
           "number": 12,
-          "name": "Hallowed Be Thy Name (Live In Moscow 1993)",
-          "duration": "7:51"
+          "name": "The Clansman (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "9:19"
+        },
+        {
+          "number": 13,
+          "name": "The Evil That Men Do (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "4:40"
+        },
+        {
+          "number": 14,
+          "name": "Fear of the Dark (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "7:40"
+        },
+        {
+          "number": 15,
+          "name": "Iron Maiden (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "5:51"
+        },
+        {
+          "number": 16,
+          "name": "The Number of the Beast (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "5:00"
+        },
+        {
+          "number": 17,
+          "name": "Hallowed Be Thy Name (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "7:23"
+        },
+        {
+          "number": 18,
+          "name": "Sanctuary (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "5:17"
+        },
+        {
+          "number": 19,
+          "name": "Run to the Hills (Live at Rock in Rio) [2015 Remaster]",
+          "duration": "4:52"
+        }
+      ]
+    },
+    {
+      "name": "Death On the Road",
+      "year": "2005",
+      "release_date": "2005-08-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6a/f2/01/6af20110-3a0e-4137-fb68-4a67ae787945/0602527778006.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wildest Dreams (Live Dortmund, Germany)",
+          "duration": "4:51"
+        },
+        {
+          "number": 1,
+          "name": "No More Lies (Live Dortmund, Germany)",
+          "duration": "7:49"
+        },
+        {
+          "number": 2,
+          "name": "Wrathchild (Live Dortmund, Germany)",
+          "duration": "2:49"
+        },
+        {
+          "number": 2,
+          "name": "Hallowed Be Thy Name (Live Dortmund, Germany)",
+          "duration": "7:31"
+        },
+        {
+          "number": 3,
+          "name": "Can I Play with Madness (Live Dortmund, Germany)",
+          "duration": "3:30"
+        },
+        {
+          "number": 3,
+          "name": "Fear of the Dark (Live Dortmund, Germany)",
+          "duration": "7:28"
+        },
+        {
+          "number": 4,
+          "name": "The Trooper (Live Dortmund, Germany)",
+          "duration": "4:12"
+        },
+        {
+          "number": 4,
+          "name": "Iron Maiden (Live Dortmund, Germany)",
+          "duration": "4:50"
+        },
+        {
+          "number": 5,
+          "name": "Dance of Death (Live Dortmund, Germany)",
+          "duration": "9:23"
+        },
+        {
+          "number": 5,
+          "name": "Journeyman (Live Dortmund, Germany)",
+          "duration": "7:02"
+        },
+        {
+          "number": 6,
+          "name": "Rainmaker (Live Dortmund, Germany)",
+          "duration": "4:01"
+        },
+        {
+          "number": 6,
+          "name": "The Number of the Beast (Live Dortmund, Germany)",
+          "duration": "4:57"
+        },
+        {
+          "number": 7,
+          "name": "Brave New World (Live Dortmund, Germany)",
+          "duration": "6:09"
+        },
+        {
+          "number": 7,
+          "name": "Run to the Hills (Live Dortmund, Germany)",
+          "duration": "4:24"
+        },
+        {
+          "number": 8,
+          "name": "Paschendale (Live Dortmund, Germany)",
+          "duration": "10:17"
+        },
+        {
+          "number": 9,
+          "name": "Lord of the Flies (Live Dortmund, Germany)",
+          "duration": "5:04"
         }
       ]
     },
@@ -2339,94 +2427,6 @@
           "number": 17,
           "name": "Run to the Hills (Live in Mexico City, Palacio de los Deportes, Mexico, September 2019)",
           "duration": "5:07"
-        }
-      ]
-    },
-    {
-      "name": "Death On the Road",
-      "year": "2005",
-      "release_date": "2005-08-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6a/f2/01/6af20110-3a0e-4137-fb68-4a67ae787945/0602527778006.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wildest Dreams (Live Dortmund, Germany)",
-          "duration": "4:51"
-        },
-        {
-          "number": 1,
-          "name": "No More Lies (Live Dortmund, Germany)",
-          "duration": "7:49"
-        },
-        {
-          "number": 2,
-          "name": "Wrathchild (Live Dortmund, Germany)",
-          "duration": "2:49"
-        },
-        {
-          "number": 2,
-          "name": "Hallowed Be Thy Name (Live Dortmund, Germany)",
-          "duration": "7:31"
-        },
-        {
-          "number": 3,
-          "name": "Can I Play with Madness (Live Dortmund, Germany)",
-          "duration": "3:30"
-        },
-        {
-          "number": 3,
-          "name": "Fear of the Dark (Live Dortmund, Germany)",
-          "duration": "7:28"
-        },
-        {
-          "number": 4,
-          "name": "The Trooper (Live Dortmund, Germany)",
-          "duration": "4:12"
-        },
-        {
-          "number": 4,
-          "name": "Iron Maiden (Live Dortmund, Germany)",
-          "duration": "4:50"
-        },
-        {
-          "number": 5,
-          "name": "Dance of Death (Live Dortmund, Germany)",
-          "duration": "9:23"
-        },
-        {
-          "number": 5,
-          "name": "Journeyman (Live Dortmund, Germany)",
-          "duration": "7:02"
-        },
-        {
-          "number": 6,
-          "name": "Rainmaker (Live Dortmund, Germany)",
-          "duration": "4:01"
-        },
-        {
-          "number": 6,
-          "name": "The Number of the Beast (Live Dortmund, Germany)",
-          "duration": "4:57"
-        },
-        {
-          "number": 7,
-          "name": "Brave New World (Live Dortmund, Germany)",
-          "duration": "6:09"
-        },
-        {
-          "number": 7,
-          "name": "Run to the Hills (Live Dortmund, Germany)",
-          "duration": "4:24"
-        },
-        {
-          "number": 8,
-          "name": "Paschendale (Live Dortmund, Germany)",
-          "duration": "10:17"
-        },
-        {
-          "number": 9,
-          "name": "Lord of the Flies (Live Dortmund, Germany)",
-          "duration": "5:04"
         }
       ]
     },

@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "doomed:2:DIE",
-      "year": "2026",
-      "release_date": "2026-06-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/2f/b4/4a2fb45d-be7c-62f9-fa08-c4d8096451b3/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "doomed:2:DIE",
-          "duration": "2:24"
-        }
-      ]
-    },
-    {
       "name": "T.H.Y.M.",
       "year": "2023",
       "release_date": "2023-12-21",
@@ -71,19 +58,6 @@
       ]
     },
     {
-      "name": "Downpour",
-      "year": "2024",
-      "release_date": "2024-11-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/da/1f/52da1f7c-5fe6-2c28-607a-edb1201d050c/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Downpour",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "fvck.me.up",
       "year": "2026",
       "release_date": "2026-04-21",
@@ -106,6 +80,32 @@
           "number": 1,
           "name": "Monarch",
           "duration": "3:23"
+        }
+      ]
+    },
+    {
+      "name": "Downpour",
+      "year": "2024",
+      "release_date": "2024-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/da/1f/52da1f7c-5fe6-2c28-607a-edb1201d050c/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Downpour",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "doomed:2:DIE",
+      "year": "2026",
+      "release_date": "2026-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/2f/b4/4a2fb45d-be7c-62f9-fa08-c4d8096451b3/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "doomed:2:DIE",
+          "duration": "2:24"
         }
       ]
     },

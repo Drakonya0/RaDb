@@ -749,39 +749,6 @@
       ]
     },
     {
-      "name": "TALK IT OUT",
-      "year": "2026",
-      "release_date": "2026-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/a0/ad/dca0adf1-04cc-c2e7-2837-69a65a72f9b7/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TALK IT OUT",
-          "duration": "1:31"
-        },
-        {
-          "number": 2,
-          "name": "TALK IT OUT (Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 3,
-          "name": "TALK IT OUT (Super Slowed)",
-          "duration": "1:55"
-        },
-        {
-          "number": 4,
-          "name": "TALK IT OUT (Ultra Slowed)",
-          "duration": "2:09"
-        },
-        {
-          "number": 5,
-          "name": "TALK IT OUT (Sped Up)",
-          "duration": "1:37"
-        }
-      ]
-    },
-    {
       "name": "Montagem Atmosfera",
       "year": "2025",
       "release_date": "2025-11-28",
@@ -811,6 +778,39 @@
           "number": 5,
           "name": "Montagem Atmosfera (Sped Up)",
           "duration": "1:43"
+        }
+      ]
+    },
+    {
+      "name": "TALK IT OUT",
+      "year": "2026",
+      "release_date": "2026-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/a0/ad/dca0adf1-04cc-c2e7-2837-69a65a72f9b7/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TALK IT OUT",
+          "duration": "1:31"
+        },
+        {
+          "number": 2,
+          "name": "TALK IT OUT (Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 3,
+          "name": "TALK IT OUT (Super Slowed)",
+          "duration": "1:55"
+        },
+        {
+          "number": 4,
+          "name": "TALK IT OUT (Ultra Slowed)",
+          "duration": "2:09"
+        },
+        {
+          "number": 5,
+          "name": "TALK IT OUT (Sped Up)",
+          "duration": "1:37"
         }
       ]
     },
@@ -2600,34 +2600,6 @@
       ]
     },
     {
-      "name": "NO TERMINA",
-      "year": "2025",
-      "release_date": "2025-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/70/3a/e9703a60-7ee8-15bb-9d43-186df7cd1b26/19250.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NO TERMINA",
-          "duration": "1:46"
-        },
-        {
-          "number": 2,
-          "name": "NO TERMINA (Slowed)",
-          "duration": "1:58"
-        },
-        {
-          "number": 3,
-          "name": "NO TERMINA (Super Slowed)",
-          "duration": "2:13"
-        },
-        {
-          "number": 4,
-          "name": "NO TERMINA (Sped Up)",
-          "duration": "1:41"
-        }
-      ]
-    },
-    {
       "name": "Danxa Peligrosa",
       "year": "2025",
       "release_date": "2025-06-06",
@@ -2652,6 +2624,34 @@
           "number": 4,
           "name": "Danxa Peligrosa (Super Slowed)",
           "duration": "1:39"
+        }
+      ]
+    },
+    {
+      "name": "NO TERMINA",
+      "year": "2025",
+      "release_date": "2025-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/70/3a/e9703a60-7ee8-15bb-9d43-186df7cd1b26/19250.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NO TERMINA",
+          "duration": "1:46"
+        },
+        {
+          "number": 2,
+          "name": "NO TERMINA (Slowed)",
+          "duration": "1:58"
+        },
+        {
+          "number": 3,
+          "name": "NO TERMINA (Super Slowed)",
+          "duration": "2:13"
+        },
+        {
+          "number": 4,
+          "name": "NO TERMINA (Sped Up)",
+          "duration": "1:41"
         }
       ]
     },

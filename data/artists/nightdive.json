@@ -60,34 +60,6 @@
   ],
   "eps": [
     {
-      "name": "This Will End",
-      "year": "2026",
-      "release_date": "2026-07-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/cc/db/b4ccdb29-3a19-2499-3be5-f2c6ba8908fe/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Placate (feat. st.sinner)",
-          "duration": "3:56"
-        },
-        {
-          "number": 2,
-          "name": "Strange Apparition",
-          "duration": "3:35"
-        },
-        {
-          "number": 3,
-          "name": "Burial",
-          "duration": "3:58"
-        },
-        {
-          "number": 4,
-          "name": "Lonely Eyes",
-          "duration": "4:29"
-        }
-      ]
-    },
-    {
       "name": "In Quiet Rooms",
       "year": "2025",
       "release_date": "2025-12-05",
@@ -112,6 +84,34 @@
           "number": 4,
           "name": "Chemical Lullaby",
           "duration": "4:34"
+        }
+      ]
+    },
+    {
+      "name": "This Will End",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/cc/db/b4ccdb29-3a19-2499-3be5-f2c6ba8908fe/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Placate (feat. st.sinner)",
+          "duration": "3:56"
+        },
+        {
+          "number": 2,
+          "name": "Strange Apparition",
+          "duration": "3:35"
+        },
+        {
+          "number": 3,
+          "name": "Burial",
+          "duration": "3:58"
+        },
+        {
+          "number": 4,
+          "name": "Lonely Eyes",
+          "duration": "4:29"
         }
       ]
     }

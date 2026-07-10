@@ -399,19 +399,6 @@
       ]
     },
     {
-      "name": "Whisper of a Dream",
-      "year": "2026",
-      "release_date": "2026-04-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/ef/d3/7aefd391-bb32-8de6-92b3-0b58c6200b37/823375080619_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Whisper of a Dream",
-          "duration": "4:24"
-        }
-      ]
-    },
-    {
       "name": "Penance",
       "year": "2017",
       "release_date": "2017-06-16",
@@ -421,6 +408,19 @@
           "number": 1,
           "name": "Penance",
           "duration": "6:41"
+        }
+      ]
+    },
+    {
+      "name": "Whisper of a Dream",
+      "year": "2026",
+      "release_date": "2026-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/ef/d3/7aefd391-bb32-8de6-92b3-0b58c6200b37/823375080619_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Whisper of a Dream",
+          "duration": "4:24"
         }
       ]
     },
@@ -451,15 +451,20 @@
       ]
     },
     {
-      "name": "Bite My Tongue",
-      "year": "2025",
-      "release_date": "2025-06-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/9f/13/619f13f4-7260-d814-a248-13ccab05a054/199999278535.png/600x600bb.jpg",
+      "name": "White Hot / Saint Cecilia",
+      "year": "2017",
+      "release_date": "2017-12-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2f/0f/10/2f0f10ed-0517-5f59-eac4-d0a8883f251e/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Bite My Tongue",
-          "duration": "3:29"
+          "name": "White Hot",
+          "duration": "3:30"
+        },
+        {
+          "number": 2,
+          "name": "Saint Cecilia",
+          "duration": "4:49"
         }
       ]
     },
@@ -477,20 +482,15 @@
       ]
     },
     {
-      "name": "White Hot / Saint Cecilia",
-      "year": "2017",
-      "release_date": "2017-12-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2f/0f/10/2f0f10ed-0517-5f59-eac4-d0a8883f251e/cover.jpg/600x600bb.jpg",
+      "name": "Bite My Tongue",
+      "year": "2025",
+      "release_date": "2025-06-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/9f/13/619f13f4-7260-d814-a248-13ccab05a054/199999278535.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "White Hot",
-          "duration": "3:30"
-        },
-        {
-          "number": 2,
-          "name": "Saint Cecilia",
-          "duration": "4:49"
+          "name": "Bite My Tongue",
+          "duration": "3:29"
         }
       ]
     },

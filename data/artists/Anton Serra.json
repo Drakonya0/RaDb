@@ -66,6 +66,64 @@
       ]
     },
     {
+      "name": "Pardon madame",
+      "year": "2022",
+      "release_date": "2022-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/1d/49/b61d49ba-ac81-722b-412c-656a527bd990/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Juré craché (feat. DJ Fly)",
+          "duration": "3:07"
+        },
+        {
+          "number": 2,
+          "name": "Mama mia",
+          "duration": "2:40"
+        },
+        {
+          "number": 3,
+          "name": "Bloody Sun",
+          "duration": "2:37"
+        },
+        {
+          "number": 4,
+          "name": "Don't Go in the House",
+          "duration": "3:15"
+        },
+        {
+          "number": 5,
+          "name": "La hshouma (feat. Eddy Woogy)",
+          "duration": "4:50"
+        },
+        {
+          "number": 6,
+          "name": "Miammiam Glouglou (feat. DJ Fly)",
+          "duration": "3:37"
+        },
+        {
+          "number": 7,
+          "name": "Dirty dent d'scie",
+          "duration": "3:32"
+        },
+        {
+          "number": 8,
+          "name": "Slip de bain (feat. I.N.C.H.)",
+          "duration": "2:56"
+        },
+        {
+          "number": 9,
+          "name": "Pendez moi pandemie",
+          "duration": "2:37"
+        },
+        {
+          "number": 10,
+          "name": "Sans visage",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
       "name": "C'est grave Docteur ?",
       "year": "2024",
       "release_date": "2024-12-08",
@@ -257,64 +315,6 @@
       ]
     },
     {
-      "name": "Pardon madame",
-      "year": "2022",
-      "release_date": "2022-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b6/1d/49/b61d49ba-ac81-722b-412c-656a527bd990/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Juré craché (feat. DJ Fly)",
-          "duration": "3:07"
-        },
-        {
-          "number": 2,
-          "name": "Mama mia",
-          "duration": "2:40"
-        },
-        {
-          "number": 3,
-          "name": "Bloody Sun",
-          "duration": "2:37"
-        },
-        {
-          "number": 4,
-          "name": "Don't Go in the House",
-          "duration": "3:15"
-        },
-        {
-          "number": 5,
-          "name": "La hshouma (feat. Eddy Woogy)",
-          "duration": "4:50"
-        },
-        {
-          "number": 6,
-          "name": "Miammiam Glouglou (feat. DJ Fly)",
-          "duration": "3:37"
-        },
-        {
-          "number": 7,
-          "name": "Dirty dent d'scie",
-          "duration": "3:32"
-        },
-        {
-          "number": 8,
-          "name": "Slip de bain (feat. I.N.C.H.)",
-          "duration": "2:56"
-        },
-        {
-          "number": 9,
-          "name": "Pendez moi pandemie",
-          "duration": "2:37"
-        },
-        {
-          "number": 10,
-          "name": "Sans visage",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
       "name": "La plume et le brise glace",
       "year": "2015",
       "release_date": "2015-04-06",
@@ -400,19 +400,6 @@
   ],
   "singles": [
     {
-      "name": "Dimanche 31",
-      "year": "2024",
-      "release_date": "2024-12-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/a1/a0/63a1a016-ab4a-2f1e-16b8-5b49a42aca1f/859799351851_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dimanche 31",
-          "duration": "5:55"
-        }
-      ]
-    },
-    {
       "name": "Syndromes",
       "year": "2025",
       "release_date": "2025-03-03",
@@ -444,19 +431,6 @@
       ]
     },
     {
-      "name": "Sous le Charme",
-      "year": "2024",
-      "release_date": "2024-04-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/4a/2e/fa4a2e9b-fe73-984c-b67c-94dfb6abc6a1/859783013512_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sous le Charme",
-          "duration": "3:48"
-        }
-      ]
-    },
-    {
       "name": "Mi-parapluie mi-parasol",
       "year": "2025",
       "release_date": "2025-01-22",
@@ -470,19 +444,6 @@
       ]
     },
     {
-      "name": "Marche ou grève",
-      "year": "2024",
-      "release_date": "2024-03-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/d7/58/4ed75809-8aa7-347e-61b3-ba0505245b78/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Marche ou grève",
-          "duration": "2:31"
-        }
-      ]
-    },
-    {
       "name": "Ecriture automatique",
       "year": "2024",
       "release_date": "2024-07-13",
@@ -492,24 +453,6 @@
           "number": 1,
           "name": "Ecriture automatique",
           "duration": "4:14"
-        }
-      ]
-    },
-    {
-      "name": "Nom d'une pipe en bois (Keizan Remix)",
-      "year": "2026",
-      "release_date": "2026-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/c8/b3/a1c8b3ab-567d-078c-2031-47c4f38f2dee/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nom d'une pipe en bois (Keizan Remix)",
-          "duration": "2:15"
-        },
-        {
-          "number": 2,
-          "name": "Nom d'une pipe en bois (Keizan Remix - Instrumental)",
-          "duration": "2:15"
         }
       ]
     },
@@ -528,19 +471,6 @@
           "number": 2,
           "name": "Une tronçonneuse dans un sac ...",
           "duration": "3:39"
-        }
-      ]
-    },
-    {
-      "name": "Dimanche 31 (Remix)",
-      "year": "2025",
-      "release_date": "2025-12-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/a6/f0/17a6f0bc-ba97-a744-57a5-d8097635bfcb/859728002175_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dimanche 31 (Remix)",
-          "duration": "4:19"
         }
       ]
     },
@@ -584,6 +514,102 @@
       ]
     },
     {
+      "name": "Et cetera (feat. Matox)",
+      "year": "2025",
+      "release_date": "2025-06-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/2c/de/bb2cded4-b372-5e43-10df-2a4124258373/859708221220_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Et cetera (feat. Matox)",
+          "duration": "3:44"
+        }
+      ]
+    },
+    {
+      "name": "Dimanche 31",
+      "year": "2024",
+      "release_date": "2024-12-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/a1/a0/63a1a016-ab4a-2f1e-16b8-5b49a42aca1f/859799351851_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dimanche 31",
+          "duration": "5:55"
+        }
+      ]
+    },
+    {
+      "name": "Sous le Charme",
+      "year": "2024",
+      "release_date": "2024-04-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/4a/2e/fa4a2e9b-fe73-984c-b67c-94dfb6abc6a1/859783013512_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sous le Charme",
+          "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "Marche ou grève",
+      "year": "2024",
+      "release_date": "2024-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4e/d7/58/4ed75809-8aa7-347e-61b3-ba0505245b78/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Marche ou grève",
+          "duration": "2:31"
+        }
+      ]
+    },
+    {
+      "name": "Nom d'une pipe en bois (Keizan Remix)",
+      "year": "2026",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/c8/b3/a1c8b3ab-567d-078c-2031-47c4f38f2dee/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nom d'une pipe en bois (Keizan Remix)",
+          "duration": "2:15"
+        },
+        {
+          "number": 2,
+          "name": "Nom d'une pipe en bois (Keizan Remix - Instrumental)",
+          "duration": "2:15"
+        }
+      ]
+    },
+    {
+      "name": "Commérages",
+      "year": "2026",
+      "release_date": "2026-07-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/ee/d1/ddeed17b-2186-45f0-146b-a8376f6659ca/859742108709_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Commérages",
+          "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "Dimanche 31 (Remix)",
+      "year": "2025",
+      "release_date": "2025-12-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/a6/f0/17a6f0bc-ba97-a744-57a5-d8097635bfcb/859728002175_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dimanche 31 (Remix)",
+          "duration": "4:19"
+        }
+      ]
+    },
+    {
       "name": "Voix publique",
       "year": "2020",
       "release_date": "2020-04-08",
@@ -611,19 +637,6 @@
           "number": 2,
           "name": "On s'abade (instrumental)",
           "duration": "3:43"
-        }
-      ]
-    },
-    {
-      "name": "Et cetera (feat. Matox)",
-      "year": "2025",
-      "release_date": "2025-06-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/2c/de/bb2cded4-b372-5e43-10df-2a4124258373/859708221220_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Et cetera (feat. Matox)",
-          "duration": "3:44"
         }
       ]
     },

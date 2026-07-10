@@ -98,19 +98,6 @@
       ]
     },
     {
-      "name": "S1ke",
-      "year": "2022",
-      "release_date": "2022-10-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6e/04/a6/6e04a672-a679-f3d6-635b-25a3bae4d383/197273939523_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "S1ke",
-          "duration": "1:54"
-        }
-      ]
-    },
-    {
       "name": "LUNA BALA (Slowed To Perfection)",
       "year": "2025",
       "release_date": "2025-05-12",
@@ -120,6 +107,19 @@
           "number": 1,
           "name": "LUNA BALA (Slowed To Perfection)",
           "duration": "1:04"
+        }
+      ]
+    },
+    {
+      "name": "S1ke",
+      "year": "2022",
+      "release_date": "2022-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6e/04/a6/6e04a672-a679-f3d6-635b-25a3bae4d383/197273939523_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "S1ke",
+          "duration": "1:54"
         }
       ]
     },
@@ -1033,14 +1033,14 @@
       ]
     },
     {
-      "name": "GOZALO (Ultra Slowed)",
+      "name": "GÓZALO (Ultra Slowed)",
       "year": "2025",
       "release_date": "2025-11-17",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/77/e8/5677e8d8-a61e-4ebd-6f61-3e12ab4df2ca/313488.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "GOZALO (Ultra Slowed)",
+          "name": "GÓZALO (Ultra Slowed)",
           "duration": "2:25"
         }
       ]
@@ -1570,34 +1570,6 @@
       ]
     },
     {
-      "name": "GOZALO",
-      "year": "2025",
-      "release_date": "2025-09-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/e5/08/9fe5087e-3fee-dfbe-d7a2-b56e2472ab72/212244.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "GOZALO",
-          "duration": "1:53"
-        },
-        {
-          "number": 2,
-          "name": "GOZALO (Slowed)",
-          "duration": "2:00"
-        },
-        {
-          "number": 3,
-          "name": "GOZALO (Super Slowed)",
-          "duration": "2:07"
-        },
-        {
-          "number": 4,
-          "name": "GOZALO (Sped Up)",
-          "duration": "1:47"
-        }
-      ]
-    },
-    {
       "name": "LOS VOLTAJE",
       "year": "2025",
       "release_date": "2025-04-11",
@@ -1627,6 +1599,34 @@
           "number": 5,
           "name": "LOS VOLTAJE (Sped Up)",
           "duration": "1:28"
+        }
+      ]
+    },
+    {
+      "name": "GOZALO",
+      "year": "2025",
+      "release_date": "2025-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/e5/08/9fe5087e-3fee-dfbe-d7a2-b56e2472ab72/212244.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "GOZALO",
+          "duration": "1:53"
+        },
+        {
+          "number": 2,
+          "name": "GOZALO (Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 3,
+          "name": "GOZALO (Super Slowed)",
+          "duration": "2:07"
+        },
+        {
+          "number": 4,
+          "name": "GOZALO (Sped Up)",
+          "duration": "1:47"
         }
       ]
     },
@@ -2604,6 +2604,44 @@
           "number": 4,
           "name": "Montagem Solar Atmosfera (Sped Up)",
           "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM REBOLADO",
+      "year": "2026",
+      "release_date": "2026-07-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/b2/99/76b2990d-fe76-4811-37fb-7e7dd98bc9a6/3582127.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM REBOLADO",
+          "duration": "1:29"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM REBOLADO (SLOWED)",
+          "duration": "1:51"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM REBOLADO (SUPER SLOWED)",
+          "duration": "1:52"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM REBOLADO (Ultra Slowed)",
+          "duration": "1:29"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM REBOLADO (SUPER ULTRA SLOWED)",
+          "duration": "1:29"
+        },
+        {
+          "number": 6,
+          "name": "MONTAGEM REBOLADO (SPEED UP)",
+          "duration": "1:24"
         }
       ]
     },

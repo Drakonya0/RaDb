@@ -352,7 +352,63 @@
       "year": "2026",
       "release_date": "2026-10-02",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/6e/f3/9c6ef3d0-c343-94bb-86c1-e4d585d1f4f4/cover.jpg/600x600bb.jpg",
-      "tracks": []
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Death Of The Altar",
+          "duration": "3:20"
+        },
+        {
+          "number": 2,
+          "name": "Divinity",
+          "duration": "2:57"
+        },
+        {
+          "number": 3,
+          "name": "THE END",
+          "duration": "3:20"
+        },
+        {
+          "number": 4,
+          "name": "Enemy State",
+          "duration": "2:07"
+        },
+        {
+          "number": 5,
+          "name": "What's It Like to Be Happy?",
+          "duration": "2:51"
+        },
+        {
+          "number": 6,
+          "name": "Too Late",
+          "duration": "3:41"
+        },
+        {
+          "number": 7,
+          "name": "Welcome To Hell",
+          "duration": "2:50"
+        },
+        {
+          "number": 8,
+          "name": "The Art of Love",
+          "duration": "2:46"
+        },
+        {
+          "number": 9,
+          "name": "Flatline",
+          "duration": "2:48"
+        },
+        {
+          "number": 10,
+          "name": "Devotion",
+          "duration": "3:45"
+        },
+        {
+          "number": 11,
+          "name": "Can't Keep Knockin' Me Down",
+          "duration": "2:48"
+        }
+      ]
     }
   ],
   "singles": [
@@ -445,6 +501,24 @@
       ]
     },
     {
+      "name": "The Art of Love",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/e8/b9/cee8b9b1-23d7-7b05-76cc-ba4a00f97e33/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Art of Love",
+          "duration": "2:46"
+        },
+        {
+          "number": 2,
+          "name": "Death of the Altar",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
       "name": "What's It Like to Be Happy?",
       "year": "2026",
       "release_date": "2026-05-22",
@@ -462,24 +536,6 @@
         },
         {
           "number": 3,
-          "name": "Death of the Altar",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
-      "name": "The Art of Love",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/e8/b9/cee8b9b1-23d7-7b05-76cc-ba4a00f97e33/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Art of Love",
-          "duration": "2:46"
-        },
-        {
-          "number": 2,
           "name": "Death of the Altar",
           "duration": "3:20"
         }
@@ -633,6 +689,34 @@
           "number": 5,
           "name": "Chasing Dreams",
           "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "THE END",
+      "year": "2026",
+      "release_date": "2026-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/12/e6/aa12e6a5-8f55-dc90-a95d-9a2f68bc2e66/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "THE END",
+          "duration": "3:20"
+        },
+        {
+          "number": 2,
+          "name": "What's It Like to Be Happy?",
+          "duration": "2:51"
+        },
+        {
+          "number": 3,
+          "name": "The Art of Love",
+          "duration": "2:46"
+        },
+        {
+          "number": 4,
+          "name": "Death of the Altar",
+          "duration": "3:20"
         }
       ]
     }
