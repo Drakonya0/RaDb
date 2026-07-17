@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Walking Away (Infinity)",
-      "year": "2025",
-      "release_date": "2025-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/d0/f1/fdd0f15a-051b-99be-9f2e-ec339f18c8e4/196872827613.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Walking Away (Infinity)",
-          "duration": "2:23"
-        }
-      ]
-    },
-    {
       "name": "Fire",
       "year": "2026",
       "release_date": "2026-01-02",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "Fire",
           "duration": "1:55"
+        }
+      ]
+    },
+    {
+      "name": "Walking Away (Infinity)",
+      "year": "2025",
+      "release_date": "2025-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/d0/f1/fdd0f15a-051b-99be-9f2e-ec339f18c8e4/196872827613.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Walking Away (Infinity)",
+          "duration": "2:23"
         }
       ]
     },

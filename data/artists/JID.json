@@ -732,74 +732,6 @@
       ]
     },
     {
-      "name": "Spilligion",
-      "year": "2020",
-      "release_date": "2020-09-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5c/ea/3d5cea60-1349-3063-f534-d4c69993523d/20UMGIM76382.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Spill Vill (feat. Kountry Wayne)",
-          "duration": "2:08"
-        },
-        {
-          "number": 2,
-          "name": "Baptize (feat. Ant Clemons)",
-          "duration": "4:53"
-        },
-        {
-          "number": 3,
-          "name": "PsalmSing",
-          "duration": "3:54"
-        },
-        {
-          "number": 4,
-          "name": "Ea'alah (Family) [feat. Hollywood JB]",
-          "duration": "4:00"
-        },
-        {
-          "number": 5,
-          "name": "Mecca",
-          "duration": "4:50"
-        },
-        {
-          "number": 6,
-          "name": "Judas (feat. Chance the Rapper, Buddy & Masego)",
-          "duration": "3:09"
-        },
-        {
-          "number": 7,
-          "name": "Oshun (feat. Jurdan Bryant)",
-          "duration": "4:02"
-        },
-        {
-          "number": 8,
-          "name": "Cupid (feat. Lucky Daye)",
-          "duration": "4:02"
-        },
-        {
-          "number": 9,
-          "name": "Shiva (feat. Benji. & Jurdan Bryant)",
-          "duration": "4:20"
-        },
-        {
-          "number": 10,
-          "name": "End of Daze (feat. Jurdan Bryant, Mereba & Hollywood JB)",
-          "duration": "5:33"
-        },
-        {
-          "number": 11,
-          "name": "Hapi (feat. Mereba & Big Rube)",
-          "duration": "6:23"
-        },
-        {
-          "number": 12,
-          "name": "Jupiter (feat. EARTHGANG, Jurdan Bryant, Hollywood JB & Benji.)",
-          "duration": "2:26"
-        }
-      ]
-    },
-    {
       "name": "One Night Only (Live)",
       "year": "2025",
       "release_date": "2025-12-15",
@@ -884,6 +816,74 @@
           "number": 16,
           "name": "Sk8",
           "duration": "2:21"
+        }
+      ]
+    },
+    {
+      "name": "Spilligion",
+      "year": "2020",
+      "release_date": "2020-09-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5c/ea/3d5cea60-1349-3063-f534-d4c69993523d/20UMGIM76382.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Spill Vill (feat. Kountry Wayne)",
+          "duration": "2:08"
+        },
+        {
+          "number": 2,
+          "name": "Baptize (feat. Ant Clemons)",
+          "duration": "4:53"
+        },
+        {
+          "number": 3,
+          "name": "PsalmSing",
+          "duration": "3:54"
+        },
+        {
+          "number": 4,
+          "name": "Ea'alah (Family) [feat. Hollywood JB]",
+          "duration": "4:00"
+        },
+        {
+          "number": 5,
+          "name": "Mecca",
+          "duration": "4:50"
+        },
+        {
+          "number": 6,
+          "name": "Judas (feat. Chance the Rapper, Buddy & Masego)",
+          "duration": "3:09"
+        },
+        {
+          "number": 7,
+          "name": "Oshun (feat. Jurdan Bryant)",
+          "duration": "4:02"
+        },
+        {
+          "number": 8,
+          "name": "Cupid (feat. Lucky Daye)",
+          "duration": "4:02"
+        },
+        {
+          "number": 9,
+          "name": "Shiva (feat. Benji. & Jurdan Bryant)",
+          "duration": "4:20"
+        },
+        {
+          "number": 10,
+          "name": "End of Daze (feat. Jurdan Bryant, Mereba & Hollywood JB)",
+          "duration": "5:33"
+        },
+        {
+          "number": 11,
+          "name": "Hapi (feat. Mereba & Big Rube)",
+          "duration": "6:23"
+        },
+        {
+          "number": 12,
+          "name": "Jupiter (feat. EARTHGANG, Jurdan Bryant, Hollywood JB & Benji.)",
+          "duration": "2:26"
         }
       ]
     },
@@ -1465,19 +1465,6 @@
       ]
     },
     {
-      "name": "No Boo",
-      "year": "2025",
-      "release_date": "2025-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/d3/2d/a7d32da8-7b68-07ac-ea58-ca49e8393d6a/25UMGIM55109.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "No Boo",
-          "duration": "3:35"
-        }
-      ]
-    },
-    {
       "name": "Reaper (feat. JID)",
       "year": "2021",
       "release_date": "2021-05-07",
@@ -1614,6 +1601,19 @@
           "number": 1,
           "name": "HEY TONY!",
           "duration": "1:27"
+        }
+      ]
+    },
+    {
+      "name": "No Boo",
+      "year": "2025",
+      "release_date": "2025-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/d3/2d/a7d32da8-7b68-07ac-ea58-ca49e8393d6a/25UMGIM55109.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "No Boo",
+          "duration": "3:35"
         }
       ]
     },

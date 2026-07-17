@@ -223,6 +223,74 @@
           "duration": "3:55"
         }
       ]
+    },
+    {
+      "name": "Bite Reality",
+      "year": "2025",
+      "release_date": "2025-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/7b/c3/197bc3d6-1ab3-2b8d-33a0-ef1273d22122/3593297.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Moment",
+          "duration": "2:17"
+        },
+        {
+          "number": 2,
+          "name": "Attack + Release",
+          "duration": "4:02"
+        },
+        {
+          "number": 3,
+          "name": "e-Asphyxiation",
+          "duration": "3:38"
+        },
+        {
+          "number": 4,
+          "name": "Sore Spot",
+          "duration": "3:34"
+        },
+        {
+          "number": 5,
+          "name": "Stupid Justice",
+          "duration": "2:45"
+        },
+        {
+          "number": 6,
+          "name": "A Clean Heart",
+          "duration": "3:53"
+        },
+        {
+          "number": 7,
+          "name": "In My Pocket",
+          "duration": "3:58"
+        },
+        {
+          "number": 8,
+          "name": "Can't Help It",
+          "duration": "2:51"
+        },
+        {
+          "number": 9,
+          "name": "Avid Athlete",
+          "duration": "3:38"
+        },
+        {
+          "number": 10,
+          "name": "justwhenuthought",
+          "duration": "2:34"
+        },
+        {
+          "number": 11,
+          "name": "Temporary Lover (feat. Riovaz)",
+          "duration": "3:06"
+        },
+        {
+          "number": 12,
+          "name": "Old Issues",
+          "duration": "3:54"
+        }
+      ]
     }
   ],
   "singles": [
@@ -374,19 +442,6 @@
       ]
     },
     {
-      "name": "e-Asphyxiation",
-      "year": "2025",
-      "release_date": "2025-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/d4/07/7dd407a0-09dd-3261-bc93-76b09647178a/751238041159.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "e-Asphyxiation",
-          "duration": "3:38"
-        }
-      ]
-    },
-    {
       "name": "Ok on My Own",
       "year": "2017",
       "release_date": "2017-07-24",
@@ -441,29 +496,6 @@
       ]
     },
     {
-      "name": "Temporary Lover",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/3e/a9/5e3ea95a-b9c3-2abe-5cd5-e48b3a6f4348/751238091369.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Temporary Lover (feat. Riovaz)",
-          "duration": "3:06"
-        },
-        {
-          "number": 2,
-          "name": "Attack + Release",
-          "duration": "4:02"
-        },
-        {
-          "number": 3,
-          "name": "e-Asphyxiation",
-          "duration": "3:38"
-        }
-      ]
-    },
-    {
       "name": "Attack + Release",
       "year": "2025",
       "release_date": "2025-07-11",
@@ -503,37 +535,40 @@
           "duration": "3:38"
         }
       ]
-    }
-  ],
-  "eps": [
+    },
     {
-      "name": "Tek It (wev Remix)",
-      "year": "2019",
-      "release_date": "2019-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/68/f5/f4/68f5f496-5659-a5d4-c6b7-f5b2248db0b1/075679744876.jpg/600x600bb.jpg",
+      "name": "e-Asphyxiation",
+      "year": "2025",
+      "release_date": "2025-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/59/25/fa5925e3-cbd1-c021-b04a-425ff3817483/3593290.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Tek It (wev Remix)",
-          "duration": "3:50"
-        },
-        {
-          "number": 2,
-          "name": "Tek It",
-          "duration": "3:11"
-        },
-        {
-          "number": 3,
-          "name": "Tek It (Sped Up)",
-          "duration": "2:46"
-        },
-        {
-          "number": 4,
-          "name": "Tek It (Slowed)",
-          "duration": "3:59"
+          "name": "e-Asphyxiation",
+          "duration": "3:38"
         }
       ]
     },
+    {
+      "name": "Attack + Release",
+      "year": "2025",
+      "release_date": "2025-07-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/ba/7d/92ba7d7e-eef6-708e-84c5-1a4809db8f27/3593292.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Attack + Release",
+          "duration": "4:02"
+        },
+        {
+          "number": 2,
+          "name": "e-Asphyxiation",
+          "duration": "3:38"
+        }
+      ]
+    }
+  ],
+  "eps": [
     {
       "name": "Love Songs for Other People",
       "year": "2015",
@@ -564,6 +599,62 @@
           "number": 5,
           "name": "Lay Low (Reprise)",
           "duration": "2:25"
+        }
+      ]
+    },
+    {
+      "name": "Tek It (wev Remix)",
+      "year": "2019",
+      "release_date": "2019-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/68/f5/f4/68f5f496-5659-a5d4-c6b7-f5b2248db0b1/075679744876.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tek It (wev Remix)",
+          "duration": "3:50"
+        },
+        {
+          "number": 2,
+          "name": "Tek It",
+          "duration": "3:11"
+        },
+        {
+          "number": 3,
+          "name": "Tek It (Sped Up)",
+          "duration": "2:46"
+        },
+        {
+          "number": 4,
+          "name": "Tek It (Slowed)",
+          "duration": "3:59"
+        }
+      ]
+    },
+    {
+      "name": "In My Pocket",
+      "year": "2025",
+      "release_date": "2025-08-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/25/23/3f252374-aa81-de5f-45f1-9f325c2cc912/3593424.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In My Pocket",
+          "duration": "3:58"
+        },
+        {
+          "number": 2,
+          "name": "Temporary Lover (feat. Riovaz)",
+          "duration": "3:06"
+        },
+        {
+          "number": 3,
+          "name": "Attack + Release",
+          "duration": "4:02"
+        },
+        {
+          "number": 4,
+          "name": "e-Asphyxiation",
+          "duration": "3:38"
         }
       ]
     },

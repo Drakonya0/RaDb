@@ -3,6 +3,79 @@
   "id": 1470478845,
   "albums": [
     {
+      "name": "BAD BOY LOVESTORY",
+      "year": "2024",
+      "release_date": "2024-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/e4/68/83e4685a-b77d-bef6-5bc3-cc0aed080ff0/24UM1IM19799.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FNG",
+          "duration": "2:09"
+        },
+        {
+          "number": 2,
+          "name": "FASHION DESIGNA",
+          "duration": "3:04"
+        },
+        {
+          "number": 3,
+          "name": "243 km/h",
+          "duration": "3:17"
+        },
+        {
+          "number": 4,
+          "name": "KONGOLESE SOUS BBL",
+          "duration": "2:44"
+        },
+        {
+          "number": 5,
+          "name": "BAD BOY LOVESTORY",
+          "duration": "2:59"
+        },
+        {
+          "number": 6,
+          "name": "SORRY SORRY SO",
+          "duration": "2:25"
+        },
+        {
+          "number": 7,
+          "name": "Entracte : Histoire d’amour, Commerarges et Chardonney",
+          "duration": "2:33"
+        },
+        {
+          "number": 8,
+          "name": "ILS ME RIENT TOUS AU NEZ",
+          "duration": "2:27"
+        },
+        {
+          "number": 9,
+          "name": "#IL",
+          "duration": "2:01"
+        },
+        {
+          "number": 10,
+          "name": "BIG BOSS LADY",
+          "duration": "2:09"
+        },
+        {
+          "number": 11,
+          "name": "UN MEILLEUR NOUS",
+          "duration": "2:59"
+        },
+        {
+          "number": 12,
+          "name": "MON CASQUE",
+          "duration": "2:49"
+        },
+        {
+          "number": 13,
+          "name": "Doutes en boucle",
+          "duration": "1:58"
+        }
+      ]
+    },
+    {
       "name": "MEGA BBL",
       "year": "2025",
       "release_date": "2025-05-30",
@@ -132,79 +205,6 @@
           "number": 25,
           "name": "Ils me rient tous au nez (live version)",
           "duration": "2:59"
-        }
-      ]
-    },
-    {
-      "name": "BAD BOY LOVESTORY",
-      "year": "2024",
-      "release_date": "2024-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/e4/68/83e4685a-b77d-bef6-5bc3-cc0aed080ff0/24UM1IM19799.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FNG",
-          "duration": "2:09"
-        },
-        {
-          "number": 2,
-          "name": "FASHION DESIGNA",
-          "duration": "3:04"
-        },
-        {
-          "number": 3,
-          "name": "243 km/h",
-          "duration": "3:17"
-        },
-        {
-          "number": 4,
-          "name": "KONGOLESE SOUS BBL",
-          "duration": "2:44"
-        },
-        {
-          "number": 5,
-          "name": "BAD BOY LOVESTORY",
-          "duration": "2:59"
-        },
-        {
-          "number": 6,
-          "name": "SORRY SORRY SO",
-          "duration": "2:25"
-        },
-        {
-          "number": 7,
-          "name": "Entracte : Histoire d’amour, Commerarges et Chardonney",
-          "duration": "2:33"
-        },
-        {
-          "number": 8,
-          "name": "ILS ME RIENT TOUS AU NEZ",
-          "duration": "2:27"
-        },
-        {
-          "number": 9,
-          "name": "#IL",
-          "duration": "2:01"
-        },
-        {
-          "number": 10,
-          "name": "BIG BOSS LADY",
-          "duration": "2:09"
-        },
-        {
-          "number": 11,
-          "name": "UN MEILLEUR NOUS",
-          "duration": "2:59"
-        },
-        {
-          "number": 12,
-          "name": "MON CASQUE",
-          "duration": "2:49"
-        },
-        {
-          "number": 13,
-          "name": "Doutes en boucle",
-          "duration": "1:58"
         }
       ]
     },
@@ -553,19 +553,6 @@
   ],
   "singles": [
     {
-      "name": "KONGOLESE SOUS BBL",
-      "year": "2024",
-      "release_date": "2024-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/72/23/6e72239a-a2d5-8e30-3cbd-2eaae9fcc2fc/24UM1IM03894.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "KONGOLESE SOUS BBL",
-          "duration": "2:44"
-        }
-      ]
-    },
-    {
       "name": "melodrama",
       "year": "2025",
       "release_date": "2025-09-26",
@@ -575,6 +562,19 @@
           "number": 1,
           "name": "melodrama",
           "duration": "2:56"
+        }
+      ]
+    },
+    {
+      "name": "KONGOLESE SOUS BBL",
+      "year": "2024",
+      "release_date": "2024-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/72/23/6e72239a-a2d5-8e30-3cbd-2eaae9fcc2fc/24UM1IM03894.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "KONGOLESE SOUS BBL",
+          "duration": "2:44"
         }
       ]
     },

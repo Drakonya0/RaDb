@@ -161,6 +161,19 @@
       ]
     },
     {
+      "name": "In The dark",
+      "year": "2024",
+      "release_date": "2024-07-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/f3/c6/f3f3c6e6-7fbe-1f7e-e895-3fe9a8780280/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In The dark",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
       "name": "Devour",
       "year": "2026",
       "release_date": "2026-05-08",
@@ -178,6 +191,24 @@
         },
         {
           "number": 3,
+          "name": "Endlessly",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Am I Enough?",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/58/4e/30584e6b-ccdd-90ca-a5f1-b3b989d04a32/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Am I Enough?",
+          "duration": "3:36"
+        },
+        {
+          "number": 2,
           "name": "Endlessly",
           "duration": "3:15"
         }
@@ -203,37 +234,6 @@
           "number": 3,
           "name": "I'm Yours Now",
           "duration": "2:40"
-        }
-      ]
-    },
-    {
-      "name": "In The dark",
-      "year": "2024",
-      "release_date": "2024-07-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/f3/c6/f3f3c6e6-7fbe-1f7e-e895-3fe9a8780280/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "In The dark",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "Am I Enough?",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/58/4e/30584e6b-ccdd-90ca-a5f1-b3b989d04a32/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Am I Enough?",
-          "duration": "3:36"
-        },
-        {
-          "number": 2,
-          "name": "Endlessly",
-          "duration": "3:15"
         }
       ]
     },
@@ -414,6 +414,39 @@
           "number": 4,
           "name": "Medusa",
           "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "name": "Want You Back",
+      "year": "2026",
+      "release_date": "2026-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/76/7f/79767fc9-09cf-8f17-061d-4bbfe5dc79f2/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Want You Back",
+          "duration": "3:25"
+        },
+        {
+          "number": 2,
+          "name": "JSFS",
+          "duration": "2:30"
+        },
+        {
+          "number": 3,
+          "name": "Devour",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "Am I Enough?",
+          "duration": "3:36"
+        },
+        {
+          "number": 5,
+          "name": "Endlessly",
+          "duration": "3:15"
         }
       ]
     },

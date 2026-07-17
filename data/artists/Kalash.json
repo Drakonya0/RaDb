@@ -1065,13 +1065,6 @@
       ]
     },
     {
-      "name": "Mi lov dem",
-      "year": "2011",
-      "release_date": "2011-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/a1/85/a6/mzi.eaudgxjh.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "LA MEILLEURE",
       "year": "2025",
       "release_date": "2025-05-21",
@@ -1083,6 +1076,13 @@
           "duration": "2:09"
         }
       ]
+    },
+    {
+      "name": "Mi lov dem",
+      "year": "2011",
+      "release_date": "2011-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/a1/85/a6/mzi.eaudgxjh.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Don Dada (Produced by Rvssian)",
@@ -1137,6 +1137,13 @@
       ]
     },
     {
+      "name": "L'oiseau",
+      "year": "2018",
+      "release_date": "2018-03-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6e/9a/cc/6e9accc5-2566-3a68-c732-f6b9cf8d3672/00602567583851.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Lambis",
       "year": "2019",
       "release_date": "2019-05-05",
@@ -1148,13 +1155,6 @@
           "duration": "2:57"
         }
       ]
-    },
-    {
-      "name": "L'oiseau",
-      "year": "2018",
-      "release_date": "2018-03-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6e/9a/cc/6e9accc5-2566-3a68-c732-f6b9cf8d3672/00602567583851.rgb.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "Malpolis",
@@ -1209,6 +1209,13 @@
       ]
     },
     {
+      "name": "Le klash",
+      "year": "2015",
+      "release_date": "2015-07-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/16/ab/21/16ab2111-de61-a796-fc68-05b59a0edb7c/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Donner",
       "year": "2021",
       "release_date": "2021-03-19",
@@ -1220,13 +1227,6 @@
           "duration": "3:33"
         }
       ]
-    },
-    {
-      "name": "Le klash",
-      "year": "2015",
-      "release_date": "2015-07-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/16/ab/21/16ab2111-de61-a796-fc68-05b59a0edb7c/cover.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "I Don't Wanna Know (feat. Ce'Cile & Kalash)",
@@ -1289,19 +1289,6 @@
       "tracks": []
     },
     {
-      "name": "17 (feat. Kalash)",
-      "year": "2021",
-      "release_date": "2021-05-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/4f/76/614f76b4-7554-fc4d-8300-5f45e4a073a8/21UMGIM45865.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "17 (feat. Kalash)",
-          "duration": "3:23"
-        }
-      ]
-    },
-    {
       "name": "Tombolo (Live)",
       "year": "2023",
       "release_date": "2023-11-16",
@@ -1311,6 +1298,19 @@
           "number": 1,
           "name": "Tombolo (Live)",
           "duration": "3:37"
+        }
+      ]
+    },
+    {
+      "name": "17 (feat. Kalash)",
+      "year": "2021",
+      "release_date": "2021-05-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/61/4f/76/614f76b4-7554-fc4d-8300-5f45e4a073a8/21UMGIM45865.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "17 (feat. Kalash)",
+          "duration": "3:23"
         }
       ]
     },
@@ -1427,19 +1427,6 @@
       ]
     },
     {
-      "name": "Alpha",
-      "year": "2024",
-      "release_date": "2024-11-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/33/a6/3e33a6e3-6eab-ede5-b8bd-8b425bca0875/5034644220963.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Alpha",
-          "duration": "2:48"
-        }
-      ]
-    },
-    {
       "name": "Allô",
       "year": "2018",
       "release_date": "2018-09-05",
@@ -1449,6 +1436,19 @@
           "number": 1,
           "name": "Allô",
           "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Alpha",
+      "year": "2024",
+      "release_date": "2024-11-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/33/a6/3e33a6e3-6eab-ede5-b8bd-8b425bca0875/5034644220963.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Alpha",
+          "duration": "2:48"
         }
       ]
     },
@@ -1537,19 +1537,6 @@
       "release_date": "2011-11-08",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/d0/94/b3/mzi.oybjmxhc.jpg/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "Goli Chale",
-      "year": "2026",
-      "release_date": "2026-07-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/f3/65/fbf36524-6868-8f70-2f4c-aab8aa6eecde/8902358424830_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Goli Chale",
-          "duration": "4:30"
-        }
-      ]
     },
     {
       "name": "RCDDAB",
@@ -1709,6 +1696,13 @@
       "tracks": []
     },
     {
+      "name": "Praliné",
+      "year": "2019",
+      "release_date": "2019-07-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a6/f1/f1/a6f1f181-81b3-706a-e741-b03d7b0af085/19UMGIM67696.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Manigances (Freestyle)",
       "year": "2020",
       "release_date": "2020-12-18",
@@ -1720,13 +1714,6 @@
           "duration": "2:23"
         }
       ]
-    },
-    {
-      "name": "Praliné",
-      "year": "2019",
-      "release_date": "2019-07-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a6/f1/f1/a6f1f181-81b3-706a-e741-b03d7b0af085/19UMGIM67696.rgb.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "Quel sont tes priorités? (92100 hip-hop series)",
@@ -1769,19 +1756,6 @@
       "tracks": []
     },
     {
-      "name": "TESTAROSSA",
-      "year": "2026",
-      "release_date": "2026-06-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/04/a2/0e04a2f9-80c4-66cd-9ae6-884149d4e75c/820233675451.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TESTAROSSA",
-          "duration": "2:43"
-        }
-      ]
-    },
-    {
       "name": "Gun Man",
       "year": "2018",
       "release_date": "2018-04-10",
@@ -1791,6 +1765,19 @@
           "number": 1,
           "name": "Gun Man",
           "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "TESTAROSSA",
+      "year": "2026",
+      "release_date": "2026-06-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/04/a2/0e04a2f9-80c4-66cd-9ae6-884149d4e75c/820233675451.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TESTAROSSA",
+          "duration": "2:43"
         }
       ]
     },
@@ -2070,6 +2057,13 @@
       ]
     },
     {
+      "name": "I'm So Fresh (feat. Sizzla, Kalash, Daly, Maylan, Prof A & Blakkayo) [Next Level]",
+      "year": "2013",
+      "release_date": "2013-01-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/9e/ae/f4/9eaef4a0-dac8-35fd-a45c-d645fa42216d/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Bwa Chèn",
       "year": "2026",
       "release_date": "2026-06-11",
@@ -2081,13 +2075,6 @@
           "duration": "3:29"
         }
       ]
-    },
-    {
-      "name": "I'm So Fresh (feat. Sizzla, Kalash, Daly, Maylan, Prof A & Blakkayo) [Next Level]",
-      "year": "2013",
-      "release_date": "2013-01-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/9e/ae/f4/9eaef4a0-dac8-35fd-a45c-d645fa42216d/cover.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "Bonda Manmanw",
@@ -2157,6 +2144,13 @@
       ]
     },
     {
+      "name": "Red Net #509",
+      "year": "2018",
+      "release_date": "2018-04-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c2/8a/bb/c28abb00-9fe3-478a-92ef-0f2f112996d6/00602567623885.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Can't Live Without You (Live Acoustic)",
       "year": "2022",
       "release_date": "2022-01-30",
@@ -2181,13 +2175,6 @@
           "duration": "2:50"
         }
       ]
-    },
-    {
-      "name": "Red Net #509",
-      "year": "2018",
-      "release_date": "2018-04-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c2/8a/bb/c28abb00-9fe3-478a-92ef-0f2f112996d6/00602567623885.rgb.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "Rien à célébrer",

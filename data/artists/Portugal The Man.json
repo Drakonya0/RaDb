@@ -1238,7 +1238,73 @@
       "year": "2013",
       "release_date": "2013-05-29",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/ff/79/18ff790a-4d6f-4316-008a-af7be8e7b169/075679951564.jpg/600x600bb.jpg",
-      "tracks": []
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Plastic Soldiers",
+          "duration": "5:04"
+        },
+        {
+          "number": 2,
+          "name": "Creep in a T-Shirt",
+          "duration": "3:53"
+        },
+        {
+          "number": 3,
+          "name": "Evil Friends",
+          "duration": "3:37"
+        },
+        {
+          "number": 4,
+          "name": "Modern Jesus",
+          "duration": "3:14"
+        },
+        {
+          "number": 5,
+          "name": "Hip Hop Kids",
+          "duration": "3:27"
+        },
+        {
+          "number": 6,
+          "name": "Atomic Man",
+          "duration": "3:47"
+        },
+        {
+          "number": 7,
+          "name": "Sea of Air",
+          "duration": "4:22"
+        },
+        {
+          "number": 8,
+          "name": "Waves",
+          "duration": "4:51"
+        },
+        {
+          "number": 9,
+          "name": "Holy Roller (Hallelujah)",
+          "duration": "3:21"
+        },
+        {
+          "number": 10,
+          "name": "Someday Believers",
+          "duration": "3:53"
+        },
+        {
+          "number": 11,
+          "name": "Purple Yellow Red and Blue",
+          "duration": "4:09"
+        },
+        {
+          "number": 12,
+          "name": "Smile",
+          "duration": "4:51"
+        },
+        {
+          "number": 13,
+          "name": "Evil Friends (Acoustic Live at Irwin Studio, Paris)",
+          "duration": "3:52"
+        }
+      ]
     }
   ],
   "singles": [
@@ -1336,19 +1402,6 @@
       ]
     },
     {
-      "name": "Wind of Change (feat. Portugal. The Man & Brandon Boyd)",
-      "year": "2022",
-      "release_date": "2022-01-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/17/ec/f017ec73-6565-2f72-fc7e-ac8959423461/846070006401.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wind of Change (feat. Portugal. The Man & Brandon Boyd)",
-          "duration": "5:09"
-        }
-      ]
-    },
-    {
       "name": "Live in the Moment (\"Weird Al\" Yankovic Remix)",
       "year": "2018",
       "release_date": "2018-03-16",
@@ -1362,15 +1415,15 @@
       ]
     },
     {
-      "name": "Phoenix",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/ac/98/a5ac9830-05e9-a9d3-e854-8242b2678359/1280598.jpg/600x600bb.jpg",
+      "name": "Wind of Change (feat. Portugal. The Man & Brandon Boyd)",
+      "year": "2022",
+      "release_date": "2022-01-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/17/ec/f017ec73-6565-2f72-fc7e-ac8959423461/846070006401.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Phoenix",
-          "duration": "2:24"
+          "name": "Wind of Change (feat. Portugal. The Man & Brandon Boyd)",
+          "duration": "5:09"
         }
       ]
     },
@@ -1389,6 +1442,19 @@
           "number": 2,
           "name": "Live in the Moment ('Weird Al' Yankovic Remix)",
           "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/ac/98/a5ac9830-05e9-a9d3-e854-8242b2678359/1280598.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Phoenix",
+          "duration": "2:24"
         }
       ]
     },
@@ -1614,19 +1680,6 @@
       ]
     },
     {
-      "name": "Phoenix",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/c3/d2/19c3d2b5-c609-afb0-e414-8132314746d5/2011818.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Phoenix",
-          "duration": "2:24"
-        }
-      ]
-    },
-    {
       "name": "Caravan",
       "year": "2022",
       "release_date": "2022-05-19",
@@ -1636,19 +1689,6 @@
           "number": 1,
           "name": "Caravan",
           "duration": "3:00"
-        }
-      ]
-    },
-    {
-      "name": "Dive into the Ocean",
-      "year": "2025",
-      "release_date": "2025-12-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/6b/db/9a6bdbef-e644-f890-e57e-9407909b3070/601294252672.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dive into the Ocean",
-          "duration": "3:38"
         }
       ]
     },
@@ -1688,6 +1728,19 @@
           "number": 1,
           "name": "Backup (feat. Portugal. The Man)",
           "duration": "3:41"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/c3/d2/19c3d2b5-c609-afb0-e414-8132314746d5/2011818.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Phoenix",
+          "duration": "2:24"
         }
       ]
     },

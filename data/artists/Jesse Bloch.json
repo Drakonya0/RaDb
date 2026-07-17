@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Egyptian",
-      "year": "2015",
-      "release_date": "2015-10-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/66/d5/e1/66d5e1a6-a917-ed0c-a4fe-08efebb78648/mzm.yarroqnw.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Egyptian",
-          "duration": "4:45"
-        }
-      ]
-    },
-    {
       "name": "Don't Wake Me Up (Jesse Bloch Remix)",
       "year": "2025",
       "release_date": "2025-04-18",
@@ -39,6 +26,19 @@
           "number": 1,
           "name": "Hawaiian Roller Coaster Ride",
           "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Egyptian",
+      "year": "2015",
+      "release_date": "2015-10-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/66/d5/e1/66d5e1a6-a917-ed0c-a4fe-08efebb78648/mzm.yarroqnw.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Egyptian",
+          "duration": "4:45"
         }
       ]
     },
