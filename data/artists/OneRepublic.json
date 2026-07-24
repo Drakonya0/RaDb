@@ -939,69 +939,6 @@
       ]
     },
     {
-      "name": "Oh My My",
-      "year": "2016",
-      "release_date": "2016-12-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/bc/f3/0cbcf348-4903-889e-823d-efc089bdee37/16UMGIM79287.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Let's Hurt Tonight",
-          "duration": "3:14"
-        },
-        {
-          "number": 2,
-          "name": "Future Looks Good",
-          "duration": "3:30"
-        },
-        {
-          "number": 3,
-          "name": "Wherever I Go",
-          "duration": "2:49"
-        },
-        {
-          "number": 4,
-          "name": "Kids",
-          "duration": "3:58"
-        },
-        {
-          "number": 5,
-          "name": "Choke",
-          "duration": "3:46"
-        },
-        {
-          "number": 6,
-          "name": "Oh My My (feat. Cassius)",
-          "duration": "3:38"
-        },
-        {
-          "number": 7,
-          "name": "Born",
-          "duration": "4:25"
-        },
-        {
-          "number": 8,
-          "name": "A.I. (feat. Peter Gabriel)",
-          "duration": "5:09"
-        },
-        {
-          "number": 9,
-          "name": "Better",
-          "duration": "3:24"
-        },
-        {
-          "number": 10,
-          "name": "Fingertips",
-          "duration": "4:15"
-        },
-        {
-          "number": 11,
-          "name": "Heaven",
-          "duration": "4:18"
-        }
-      ]
-    },
-    {
       "name": "The Collection",
       "year": "2025",
       "release_date": "2025-08-15",
@@ -1136,6 +1073,69 @@
           "number": 26,
           "name": "Distance",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Oh My My",
+      "year": "2016",
+      "release_date": "2016-12-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/bc/f3/0cbcf348-4903-889e-823d-efc089bdee37/16UMGIM79287.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Let's Hurt Tonight",
+          "duration": "3:14"
+        },
+        {
+          "number": 2,
+          "name": "Future Looks Good",
+          "duration": "3:30"
+        },
+        {
+          "number": 3,
+          "name": "Wherever I Go",
+          "duration": "2:49"
+        },
+        {
+          "number": 4,
+          "name": "Kids",
+          "duration": "3:58"
+        },
+        {
+          "number": 5,
+          "name": "Choke",
+          "duration": "3:46"
+        },
+        {
+          "number": 6,
+          "name": "Oh My My (feat. Cassius)",
+          "duration": "3:38"
+        },
+        {
+          "number": 7,
+          "name": "Born",
+          "duration": "4:25"
+        },
+        {
+          "number": 8,
+          "name": "A.I. (feat. Peter Gabriel)",
+          "duration": "5:09"
+        },
+        {
+          "number": 9,
+          "name": "Better",
+          "duration": "3:24"
+        },
+        {
+          "number": 10,
+          "name": "Fingertips",
+          "duration": "4:15"
+        },
+        {
+          "number": 11,
+          "name": "Heaven",
+          "duration": "4:18"
         }
       ]
     },
@@ -2225,19 +2225,6 @@
       ]
     },
     {
-      "name": "Invincible (from Kaiju No. 8)",
-      "year": "2025",
-      "release_date": "2025-04-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/02/36/2a023664-365c-acbd-62e5-f03d85befc5d/25UMGIM50573.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Invincible (from Kaiju No. 8)",
-          "duration": "2:35"
-        }
-      ]
-    },
-    {
       "name": "Good Life (Remix) [feat. B.O.B.]",
       "year": "2011",
       "release_date": "2011-01-01",
@@ -2247,6 +2234,19 @@
           "number": 1,
           "name": "Good Life (Remix) [feat. B.O.B.]",
           "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "name": "Invincible (from Kaiju No. 8)",
+      "year": "2025",
+      "release_date": "2025-04-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/02/36/2a023664-365c-acbd-62e5-f03d85befc5d/25UMGIM50573.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Invincible (from Kaiju No. 8)",
+          "duration": "2:35"
         }
       ]
     },
@@ -2303,6 +2303,19 @@
       ]
     },
     {
+      "name": "In Your Eyes",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/25/aa/be25aa7a-ebe3-25ea-cb93-31c4e8cc2fe6/26UMGIM56989.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In Your Eyes",
+          "duration": "3:36"
+        }
+      ]
+    },
+    {
       "name": "Hurt",
       "year": "2024",
       "release_date": "2024-11-22",
@@ -2325,6 +2338,24 @@
           "number": 1,
           "name": "Fire (Official UEFA EURO 2024 Song)",
           "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "name": "Need Your Love (Emilio Piano Version)",
+      "year": "2026",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/57/93/6d5793ef-f09f-cc44-7bc8-644e53548316/4099964281552.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Need Your Love (Emilio Piano Version)",
+          "duration": "3:09"
+        },
+        {
+          "number": 2,
+          "name": "Need Your Love",
+          "duration": "3:58"
         }
       ]
     },
@@ -2400,19 +2431,6 @@
           "number": 1,
           "name": "Better Days (Live Quarantine Recording)",
           "duration": "2:27"
-        }
-      ]
-    },
-    {
-      "name": "In Your Eyes",
-      "year": "2026",
-      "release_date": "2026-06-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/25/aa/be25aa7a-ebe3-25ea-cb93-31c4e8cc2fe6/26UMGIM56989.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "In Your Eyes",
-          "duration": "3:36"
         }
       ]
     },
@@ -2729,29 +2747,6 @@
       ]
     },
     {
-      "name": "Need Your Love (Alternates)",
-      "year": "2026",
-      "release_date": "2026-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/16/96/921696c4-3ec6-53a4-9684-95a7df56f309/4099964267914.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Need Your Love",
-          "duration": "3:58"
-        },
-        {
-          "number": 2,
-          "name": "Need Your Love (Sped Up Version)",
-          "duration": "3:18"
-        },
-        {
-          "number": 3,
-          "name": "Need Your Love (Slowed + Reverb Version)",
-          "duration": "4:37"
-        }
-      ]
-    },
-    {
       "name": "Let's Hurt Tonight (BUNT. Remix)",
       "year": "2017",
       "release_date": "2017-04-27",
@@ -2797,6 +2792,29 @@
           "number": 1,
           "name": "I Don't Wanna Wait (Acoustic)",
           "duration": "2:32"
+        }
+      ]
+    },
+    {
+      "name": "Need Your Love (Alternates)",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/16/96/921696c4-3ec6-53a4-9684-95a7df56f309/4099964267914.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Need Your Love",
+          "duration": "3:58"
+        },
+        {
+          "number": 2,
+          "name": "Need Your Love (Sped Up Version)",
+          "duration": "3:18"
+        },
+        {
+          "number": 3,
+          "name": "Need Your Love (Slowed + Reverb Version)",
+          "duration": "4:37"
         }
       ]
     },
@@ -3004,24 +3022,6 @@
       "release_date": "2025-08-29",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/68/51/106851c0-e7ee-037b-7ca9-4963635f077e/25UM1IM23982.rgb.jpg/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "Need Your Love (Emilio Piano Version)",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/57/93/6d5793ef-f09f-cc44-7bc8-644e53548316/4099964281552.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Need Your Love (Emilio Piano Version)",
-          "duration": "3:09"
-        },
-        {
-          "number": 2,
-          "name": "Need Your Love",
-          "duration": "3:58"
-        }
-      ]
     },
     {
       "name": "Bones (feat. OneRepublic) [B-Sights Extended Mix]",

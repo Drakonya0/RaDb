@@ -53,19 +53,6 @@
   ],
   "singles": [
     {
-      "name": "IMMACULATE",
-      "year": "2022",
-      "release_date": "2022-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/d9/5e/fed95e87-fb3e-999f-1dfa-afbfb3af6c59/196864081108.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "IMMACULATE",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
       "name": "DNA",
       "year": "2023",
       "release_date": "2023-12-21",
@@ -85,6 +72,19 @@
           "number": 3,
           "name": "DNA (Sped Up)",
           "duration": "1:19"
+        }
+      ]
+    },
+    {
+      "name": "IMMACULATE",
+      "year": "2022",
+      "release_date": "2022-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/d9/5e/fed95e87-fb3e-999f-1dfa-afbfb3af6c59/196864081108.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "IMMACULATE",
+          "duration": "2:20"
         }
       ]
     },
@@ -1068,6 +1068,34 @@
           "number": 4,
           "name": "VAGABONDA (Sped Up)",
           "duration": "1:19"
+        }
+      ]
+    },
+    {
+      "name": "SEQUENCIA EMULADA",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/f4/7e/eef47e7c-ef68-25ba-8fc2-87c4b3e15ce6/1200214652494.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SEQUENCIA EMULADA",
+          "duration": "1:16"
+        },
+        {
+          "number": 2,
+          "name": "SEQUENCIA EMULADA (Slowed)",
+          "duration": "1:25"
+        },
+        {
+          "number": 3,
+          "name": "SEQUENCIA EMULADA (Super Slowed)",
+          "duration": "1:35"
+        },
+        {
+          "number": 4,
+          "name": "SEQUENCIA EMULADA (Sped Up)",
+          "duration": "1:07"
         }
       ]
     },

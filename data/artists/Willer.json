@@ -4,6 +4,29 @@
   "albums": [],
   "singles": [
     {
+      "name": "Collapse",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/aa/f4/63aaf4bd-d0d2-7e81-f949-e8a047ea1332/12445.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Collapse",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "Collapse (Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 3,
+          "name": "Collapse (Super Slowed)",
+          "duration": "1:45"
+        }
+      ]
+    },
+    {
       "name": "NULL",
       "year": "2026",
       "release_date": "2026-01-30",

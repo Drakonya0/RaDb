@@ -696,7 +696,7 @@
         {
           "number": 4,
           "name": "Uninstall",
-          "duration": "2:25"
+          "duration": "2:35"
         },
         {
           "number": 5,
@@ -711,7 +711,7 @@
         {
           "number": 7,
           "name": "Empires Fall",
-          "duration": "3:15"
+          "duration": "3:41"
         },
         {
           "number": 8,
@@ -721,12 +721,12 @@
         {
           "number": 9,
           "name": "Uninstall (Acoustic)",
-          "duration": "2:35"
+          "duration": "2:25"
         },
         {
           "number": 10,
           "name": "Empires Fall (Acoustic)",
-          "duration": "3:41"
+          "duration": "3:15"
         }
       ]
     },
@@ -991,19 +991,6 @@
       ]
     },
     {
-      "name": "Come Clean",
-      "year": "2026",
-      "release_date": "2026-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/0c/f7/410cf711-1c41-af94-1afb-aedd4669b886/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Come Clean",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "Golden (Cover)",
       "year": "2025",
       "release_date": "2025-09-19",
@@ -1022,15 +1009,28 @@
       ]
     },
     {
-      "name": "Unwritten",
+      "name": "Leave (Get Out)",
       "year": "2026",
-      "release_date": "2026-07-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/57/e4/e757e42a-132c-56e8-e114-33fa8b33d61c/artwork.jpg/600x600bb.jpg",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/14/00/0d1400e4-3357-3470-603c-4720e51ef48c/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Unwritten",
-          "duration": "3:42"
+          "name": "Leave (Get Out)",
+          "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "Come Clean",
+      "year": "2026",
+      "release_date": "2026-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/0c/f7/410cf711-1c41-af94-1afb-aedd4669b886/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Come Clean",
+          "duration": "3:30"
         }
       ]
     },
@@ -1048,19 +1048,6 @@
       ]
     },
     {
-      "name": "WHERE IS MY HUSBAND!",
-      "year": "2026",
-      "release_date": "2026-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/5b/64/d95b64d2-bb99-9281-06c1-77873eae6690/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "WHERE IS MY HUSBAND!",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "Behind These Hazel Eyes",
       "year": "2026",
       "release_date": "2026-06-12",
@@ -1074,15 +1061,15 @@
       ]
     },
     {
-      "name": "Beauty And A Beat",
+      "name": "WHERE IS MY HUSBAND!",
       "year": "2026",
-      "release_date": "2026-06-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/87/19/59871937-1681-3acb-e0ef-810a90a5c242/artwork.jpg/600x600bb.jpg",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/5b/64/d95b64d2-bb99-9281-06c1-77873eae6690/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Beauty And A Beat",
-          "duration": "3:47"
+          "name": "WHERE IS MY HUSBAND!",
+          "duration": "3:15"
         }
       ]
     },
@@ -1100,6 +1087,19 @@
       ]
     },
     {
+      "name": "Opalite",
+      "year": "2026",
+      "release_date": "2026-03-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/d3/71/21d37152-19e2-2013-b7c8-e4936e1e6396/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Opalite",
+          "duration": "3:53"
+        }
+      ]
+    },
+    {
       "name": "Ordinary",
       "year": "2025",
       "release_date": "2025-05-30",
@@ -1113,15 +1113,41 @@
       ]
     },
     {
-      "name": "Opalite",
+      "name": "Beauty And A Beat",
       "year": "2026",
-      "release_date": "2026-03-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/d3/71/21d37152-19e2-2013-b7c8-e4936e1e6396/artwork.jpg/600x600bb.jpg",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/87/19/59871937-1681-3acb-e0ef-810a90a5c242/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Opalite",
-          "duration": "3:53"
+          "name": "Beauty And A Beat",
+          "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "name": "Unwritten",
+      "year": "2026",
+      "release_date": "2026-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/57/e4/e757e42a-132c-56e8-e114-33fa8b33d61c/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Unwritten",
+          "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "Everywhere",
+      "year": "2026",
+      "release_date": "2026-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/47/5d/03475def-e423-a5d2-f021-1c5015cf558c/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Everywhere",
+          "duration": "3:33"
         }
       ]
     },
@@ -1152,6 +1178,19 @@
       ]
     },
     {
+      "name": "Astronaut In The Ocean",
+      "year": "2021",
+      "release_date": "2021-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/46/83/d6468320-2e53-936a-17e1-b88271067c98/196054469228.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Astronaut In The Ocean",
+          "duration": "2:14"
+        }
+      ]
+    },
+    {
       "name": "Darkness Turns to Light (Opening Theme Song) [From \"Beyblade Burst QuadStrike\"]",
       "year": "2023",
       "release_date": "2023-02-10",
@@ -1161,6 +1200,19 @@
           "number": 1,
           "name": "Darkness Turns to Light (Opening Theme Song) [From \"Beyblade Burst QuadStrike\"]",
           "duration": "2:03"
+        }
+      ]
+    },
+    {
+      "name": "Man I Need",
+      "year": "2026",
+      "release_date": "2026-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/ed/89/bced8926-871b-d010-cac9-24fa01962594/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Man I Need",
+          "duration": "2:56"
         }
       ]
     },
@@ -1183,28 +1235,72 @@
       ]
     },
     {
-      "name": "Everywhere",
-      "year": "2026",
-      "release_date": "2026-06-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/47/5d/03475def-e423-a5d2-f021-1c5015cf558c/artwork.jpg/600x600bb.jpg",
+      "name": "I Had Some Help",
+      "year": "2024",
+      "release_date": "2024-06-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/d5/1d/42d51d22-0986-975a-7de2-32cb5f198993/989534.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Everywhere",
-          "duration": "3:33"
+          "name": "I Had Some Help",
+          "duration": "2:55"
         }
       ]
     },
     {
-      "name": "Astronaut In The Ocean",
-      "year": "2021",
-      "release_date": "2021-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/46/83/d6468320-2e53-936a-17e1-b88271067c98/196054469228.jpg/600x600bb.jpg",
+      "name": "Scared To Die",
+      "year": "2025",
+      "release_date": "2025-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/9d/ba/d29dbac8-1650-42b2-1ac9-4e78d07188a5/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Astronaut In The Ocean",
-          "duration": "2:14"
+          "name": "Scared To Die",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "OLN Goes 2000's",
+      "year": "2022",
+      "release_date": "2022-08-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/f3/f0/eaf3f087-13f6-e9d0-9631-cd77ef253ca4/197085283708.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Numb",
+          "duration": "3:04"
+        },
+        {
+          "number": 2,
+          "name": "A Thousand Miles",
+          "duration": "3:58"
+        }
+      ]
+    },
+    {
+      "name": "Blank Space (Rock)",
+      "year": "2015",
+      "release_date": "2015-01-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/c8/00/cac80021-930a-d0c9-99d6-a9f697e32dc9/5052917017614.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blank Space (Rock)",
+          "duration": "3:53"
+        }
+      ]
+    },
+    {
+      "name": "Lose Control",
+      "year": "2025",
+      "release_date": "2025-07-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/62/e7/5a62e7d1-c10c-5212-b23d-1673730ce60d/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lose Control",
+          "duration": "3:35"
         }
       ]
     },
@@ -1231,58 +1327,6 @@
           "number": 1,
           "name": "Version of Me",
           "duration": "3:26"
-        }
-      ]
-    },
-    {
-      "name": "Scared To Die",
-      "year": "2025",
-      "release_date": "2025-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/9d/ba/d29dbac8-1650-42b2-1ac9-4e78d07188a5/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Scared To Die",
-          "duration": "2:57"
-        }
-      ]
-    },
-    {
-      "name": "Lose Control",
-      "year": "2025",
-      "release_date": "2025-07-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/62/e7/5a62e7d1-c10c-5212-b23d-1673730ce60d/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lose Control",
-          "duration": "3:35"
-        }
-      ]
-    },
-    {
-      "name": "Beautiful Things",
-      "year": "2024",
-      "release_date": "2024-03-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/55/f7/a355f793-792a-0531-9ed0-114b4033fdea/988986.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Beautiful Things",
-          "duration": "2:59"
-        }
-      ]
-    },
-    {
-      "name": "Man I Need",
-      "year": "2026",
-      "release_date": "2026-05-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/ed/89/bced8926-871b-d010-cac9-24fa01962594/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Man I Need",
-          "duration": "2:56"
         }
       ]
     },
@@ -1365,6 +1409,19 @@
       ]
     },
     {
+      "name": "Look What You Made Me Do",
+      "year": "2017",
+      "release_date": "2017-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/40/ba/8440ba6c-3277-b64d-4dc8-8093caedc4b7/5052917026074.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Look What You Made Me Do",
+          "duration": "3:27"
+        }
+      ]
+    },
+    {
       "name": "Alone (Sullivan King Remix)",
       "year": "2020",
       "release_date": "2020-01-10",
@@ -1404,15 +1461,41 @@
       ]
     },
     {
-      "name": "Blank Space (Rock)",
-      "year": "2015",
-      "release_date": "2015-01-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/c8/00/cac80021-930a-d0c9-99d6-a9f697e32dc9/5052917017614.jpg/600x600bb.jpg",
+      "name": "Someone You Loved (feat. I See Stars, The Word Alive & Ashland)",
+      "year": "2019",
+      "release_date": "2019-11-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/bb/a1/b8bba1e1-f4b0-be0a-5fab-f9ff38081c93/5052917031795.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Blank Space (Rock)",
-          "duration": "3:53"
+          "name": "Someone You Loved (feat. I See Stars, The Word Alive & Ashland)",
+          "duration": "3:01"
+        }
+      ]
+    },
+    {
+      "name": "abcdefu",
+      "year": "2022",
+      "release_date": "2022-02-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/5c/d1/595cd183-a304-bd77-2425-3b7de160192c/196697363785.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "abcdefu",
+          "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "Stressed Out (Rock)",
+      "year": "2016",
+      "release_date": "2016-02-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/a8/e8/91a8e895-9ee6-5366-4831-1d62c827cc87/5052917021444.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stressed Out (Rock)",
+          "duration": "3:23"
         }
       ]
     },
@@ -1513,6 +1596,37 @@
       ]
     },
     {
+      "name": "Bye Bye Bye (Rock) [feat. Cody Carson]",
+      "year": "2014",
+      "release_date": "2014-07-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/65/65/a4656509-d831-6282-76e9-8507e674a1cd/5052917015528.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bye Bye Bye (feat. Cody Carson) [Rock]",
+          "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "OLN Goes 70's",
+      "year": "2022",
+      "release_date": "2022-07-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/57/b9/ab57b966-960f-95a3-143b-8e56449148b8/197046722291.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Landslide",
+          "duration": "2:57"
+        },
+        {
+          "number": 2,
+          "name": "Dancing Queen",
+          "duration": "3:33"
+        }
+      ]
+    },
+    {
       "name": "The Great Divide",
       "year": "2026",
       "release_date": "2026-03-13",
@@ -1535,19 +1649,6 @@
           "number": 1,
           "name": "Shape of You (Rock)",
           "duration": "4:01"
-        }
-      ]
-    },
-    {
-      "name": "Look What You Made Me Do",
-      "year": "2017",
-      "release_date": "2017-09-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/40/ba/8440ba6c-3277-b64d-4dc8-8093caedc4b7/5052917026074.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Look What You Made Me Do",
-          "duration": "3:27"
         }
       ]
     },
@@ -1578,19 +1679,6 @@
       ]
     },
     {
-      "name": "abcdefu",
-      "year": "2022",
-      "release_date": "2022-02-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/5c/d1/595cd183-a304-bd77-2425-3b7de160192c/196697363785.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "abcdefu",
-          "duration": "2:37"
-        }
-      ]
-    },
-    {
       "name": "Spiral",
       "year": "2025",
       "release_date": "2025-01-17",
@@ -1600,19 +1688,6 @@
           "number": 1,
           "name": "Spiral",
           "duration": "3:05"
-        }
-      ]
-    },
-    {
-      "name": "Toxic (Rock)",
-      "year": "2016",
-      "release_date": "2016-07-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/01/08/730108b5-775f-d3c3-ab58-1dbb5c83f9b3/5052917022625.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Toxic (Rock)",
-          "duration": "3:21"
         }
       ]
     },
@@ -1630,32 +1705,6 @@
       ]
     },
     {
-      "name": "Someone You Loved (feat. I See Stars, The Word Alive & Ashland)",
-      "year": "2019",
-      "release_date": "2019-11-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/bb/a1/b8bba1e1-f4b0-be0a-5fab-f9ff38081c93/5052917031795.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Someone You Loved (feat. I See Stars, The Word Alive & Ashland)",
-          "duration": "3:01"
-        }
-      ]
-    },
-    {
-      "name": "This is Halloween",
-      "year": "2022",
-      "release_date": "2022-10-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/e5/85/4ce58555-b6c7-7d45-bb53-278373ca332f/197207148533.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "This is Halloween",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "Strange Animals",
       "year": "2025",
       "release_date": "2025-03-07",
@@ -1665,19 +1714,6 @@
           "number": 1,
           "name": "Strange Animals",
           "duration": "3:40"
-        }
-      ]
-    },
-    {
-      "name": "Bye Bye Bye (Rock) [feat. Cody Carson]",
-      "year": "2014",
-      "release_date": "2014-07-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/65/65/a4656509-d831-6282-76e9-8507e674a1cd/5052917015528.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bye Bye Bye (feat. Cody Carson) [Rock]",
-          "duration": "3:24"
         }
       ]
     },
@@ -1708,56 +1744,15 @@
       ]
     },
     {
-      "name": "Numb Little Bug",
-      "year": "2022",
-      "release_date": "2022-06-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/2c/00/ac2c0019-dc68-7d58-d3ad-5cf8d833b942/196862084040.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Numb Little Bug",
-          "duration": "2:47"
-        },
-        {
-          "number": 2,
-          "name": "As It Was",
-          "duration": "2:38"
-        },
-        {
-          "number": 3,
-          "name": "MIDDLE OF THE NIGHT",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
-      "name": "OLN Goes 2000's",
-      "year": "2022",
-      "release_date": "2022-08-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/f3/f0/eaf3f087-13f6-e9d0-9631-cd77ef253ca4/197085283708.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Numb",
-          "duration": "3:04"
-        },
-        {
-          "number": 2,
-          "name": "A Thousand Miles",
-          "duration": "3:58"
-        }
-      ]
-    },
-    {
-      "name": "I Had Some Help",
+      "name": "Beautiful Things",
       "year": "2024",
-      "release_date": "2024-06-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/d5/1d/42d51d22-0986-975a-7de2-32cb5f198993/989534.jpg/600x600bb.jpg",
+      "release_date": "2024-03-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/55/f7/a355f793-792a-0531-9ed0-114b4033fdea/988986.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "I Had Some Help",
-          "duration": "2:55"
+          "name": "Beautiful Things",
+          "duration": "2:59"
         }
       ]
     },
@@ -1806,20 +1801,15 @@
       ]
     },
     {
-      "name": "OLN Goes 70's",
-      "year": "2022",
-      "release_date": "2022-07-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/57/b9/ab57b966-960f-95a3-143b-8e56449148b8/197046722291.jpg/600x600bb.jpg",
+      "name": "Stick Season",
+      "year": "2024",
+      "release_date": "2024-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/9d/f3/029df358-cced-0d3c-ba67-f6812ea06604/989531.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Landslide",
-          "duration": "2:57"
-        },
-        {
-          "number": 2,
-          "name": "Dancing Queen",
-          "duration": "3:33"
+          "name": "Stick Season",
+          "duration": "3:04"
         }
       ]
     },
@@ -1833,19 +1823,6 @@
           "number": 1,
           "name": "Heathens",
           "duration": "3:13"
-        }
-      ]
-    },
-    {
-      "name": "Stressed Out (Rock)",
-      "year": "2016",
-      "release_date": "2016-02-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/a8/e8/91a8e895-9ee6-5366-4831-1d62c827cc87/5052917021444.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stressed Out (Rock)",
-          "duration": "3:23"
         }
       ]
     },
@@ -1903,6 +1880,32 @@
           "number": 1,
           "name": "Anti-Hero",
           "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "MIDDLE OF THE NIGHT",
+      "year": "2022",
+      "release_date": "2022-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/75/80/96758018-0ea5-7f79-5269-261022aa46ac/196832933248.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MIDDLE OF THE NIGHT",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Toxic (Rock)",
+      "year": "2016",
+      "release_date": "2016-07-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/01/08/730108b5-775f-d3c3-ab58-1dbb5c83f9b3/5052917022625.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Toxic (Rock)",
+          "duration": "3:21"
         }
       ]
     },
@@ -2037,6 +2040,19 @@
       ]
     },
     {
+      "name": "This is Halloween",
+      "year": "2022",
+      "release_date": "2022-10-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/e5/85/4ce58555-b6c7-7d45-bb53-278373ca332f/197207148533.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "This is Halloween",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
       "name": "Please Please Please",
       "year": "2024",
       "release_date": "2024-07-12",
@@ -2046,32 +2062,6 @@
           "number": 1,
           "name": "Please Please Please",
           "duration": "3:05"
-        }
-      ]
-    },
-    {
-      "name": "WITHOUT YOU",
-      "year": "2021",
-      "release_date": "2021-03-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/2b/c1/392bc179-3cd9-471d-3faf-a5dfa14f98a4/196051133023.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "WITHOUT YOU",
-          "duration": "2:42"
-        }
-      ]
-    },
-    {
-      "name": "My Ex's Best Friend",
-      "year": "2020",
-      "release_date": "2020-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/31/70/d53170fc-aa66-d84d-c2f8-c2f1a977ad31/195598857799.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "My Ex's Best Friend",
-          "duration": "2:22"
         }
       ]
     },
@@ -2243,6 +2233,29 @@
           "number": 1,
           "name": "God's Plan",
           "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Numb Little Bug",
+      "year": "2022",
+      "release_date": "2022-06-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/2c/00/ac2c0019-dc68-7d58-d3ad-5cf8d833b942/196862084040.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Numb Little Bug",
+          "duration": "2:47"
+        },
+        {
+          "number": 2,
+          "name": "As It Was",
+          "duration": "2:38"
+        },
+        {
+          "number": 3,
+          "name": "MIDDLE OF THE NIGHT",
+          "duration": "3:05"
         }
       ]
     },
@@ -2455,6 +2468,19 @@
       ]
     },
     {
+      "name": "WITHOUT YOU",
+      "year": "2021",
+      "release_date": "2021-03-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/2b/c1/392bc179-3cd9-471d-3faf-a5dfa14f98a4/196051133023.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "WITHOUT YOU",
+          "duration": "2:42"
+        }
+      ]
+    },
+    {
       "name": "willow",
       "year": "2021",
       "release_date": "2021-03-11",
@@ -2464,6 +2490,19 @@
           "number": 1,
           "name": "willow",
           "duration": "2:53"
+        }
+      ]
+    },
+    {
+      "name": "My Ex's Best Friend",
+      "year": "2020",
+      "release_date": "2020-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/31/70/d53170fc-aa66-d84d-c2f8-c2f1a977ad31/195598857799.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "My Ex's Best Friend",
+          "duration": "2:22"
         }
       ]
     },
@@ -2689,19 +2728,6 @@
           "number": 1,
           "name": "Kill Bill",
           "duration": "2:36"
-        }
-      ]
-    },
-    {
-      "name": "Stick Season",
-      "year": "2024",
-      "release_date": "2024-03-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/9d/f3/029df358-cced-0d3c-ba67-f6812ea06604/989531.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stick Season",
-          "duration": "3:04"
         }
       ]
     },
@@ -3059,19 +3085,6 @@
       ]
     },
     {
-      "name": "Leave (Get Out)",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/14/00/0d1400e4-3357-3470-603c-4720e51ef48c/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Leave (Get Out)",
-          "duration": "3:21"
-        }
-      ]
-    },
-    {
       "name": "winter",
       "year": "2021",
       "release_date": "2021-04-23",
@@ -3166,19 +3179,6 @@
           "number": 3,
           "name": "F.E.A.R.",
           "duration": "3:13"
-        }
-      ]
-    },
-    {
-      "name": "MIDDLE OF THE NIGHT",
-      "year": "2022",
-      "release_date": "2022-05-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/75/80/96758018-0ea5-7f79-5269-261022aa46ac/196832933248.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MIDDLE OF THE NIGHT",
-          "duration": "3:05"
         }
       ]
     },

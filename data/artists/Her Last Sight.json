@@ -301,19 +301,6 @@
       ]
     },
     {
-      "name": "Dead End",
-      "year": "2025",
-      "release_date": "2025-05-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/85/ca/3785ca73-a7af-7adb-a526-e69904c141cd/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dead End",
-          "duration": "4:30"
-        }
-      ]
-    },
-    {
       "name": "HOPE",
       "year": "2024",
       "release_date": "2024-10-18",
@@ -333,6 +320,19 @@
           "number": 3,
           "name": "SCARLET (Memories Reimagined)",
           "duration": "3:59"
+        }
+      ]
+    },
+    {
+      "name": "Dead End",
+      "year": "2025",
+      "release_date": "2025-05-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/85/ca/3785ca73-a7af-7adb-a526-e69904c141cd/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dead End",
+          "duration": "4:30"
         }
       ]
     },
@@ -363,19 +363,6 @@
       ]
     },
     {
-      "name": "ZERO",
-      "year": "2024",
-      "release_date": "2024-07-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/49/39/c449394b-ff02-af0c-d6e1-ac777647dbdc/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ZERO",
-          "duration": "3:58"
-        }
-      ]
-    },
-    {
       "name": "Scary Monsters and Nice Sprites",
       "year": "2026",
       "release_date": "2026-04-24",
@@ -395,6 +382,19 @@
           "number": 3,
           "name": "The Fall",
           "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "ZERO",
+      "year": "2024",
+      "release_date": "2024-07-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/49/39/c449394b-ff02-af0c-d6e1-ac777647dbdc/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ZERO",
+          "duration": "3:58"
         }
       ]
     },
@@ -674,6 +674,34 @@
           "number": 4,
           "name": "Scary Monsters and Nice Sprites",
           "duration": "2:53"
+        }
+      ]
+    },
+    {
+      "name": "My Mirage",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/0e/5b/880e5b62-2f57-84f7-4b5c-bb525a8dd5c8/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "My Mirage",
+          "duration": "4:31"
+        },
+        {
+          "number": 2,
+          "name": "Hit Me Like a Piñata (...One More Time)",
+          "duration": "4:24"
+        },
+        {
+          "number": 3,
+          "name": "Danny Called Me A Cowboy King",
+          "duration": "4:32"
+        },
+        {
+          "number": 4,
+          "name": "The Fall",
+          "duration": "3:45"
         }
       ]
     }

@@ -531,6 +531,34 @@
   ],
   "eps": [
     {
+      "name": "NO FEAR! 2",
+      "year": "2025",
+      "release_date": "2025-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/ce/4d/53ce4d7c-d258-2c89-3865-54167b91ffc4/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NO FEAR! 2",
+          "duration": "1:29"
+        },
+        {
+          "number": 2,
+          "name": "NO FEAR! 2 (SLOWED)",
+          "duration": "1:46"
+        },
+        {
+          "number": 3,
+          "name": "NO FEAR! 2 (SUPER SLOWED)",
+          "duration": "2:06"
+        },
+        {
+          "number": 4,
+          "name": "NO FEAR! 2 (SPED UP)",
+          "duration": "1:15"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM PERIGOSA",
       "year": "2025",
       "release_date": "2025-09-23",
@@ -560,34 +588,6 @@
           "number": 5,
           "name": "MONTAGEM PERIGOSA (Ultra Slowed)",
           "duration": "1:49"
-        }
-      ]
-    },
-    {
-      "name": "NO FEAR! 2",
-      "year": "2025",
-      "release_date": "2025-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/ce/4d/53ce4d7c-d258-2c89-3865-54167b91ffc4/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NO FEAR! 2",
-          "duration": "1:29"
-        },
-        {
-          "number": 2,
-          "name": "NO FEAR! 2 (SLOWED)",
-          "duration": "1:46"
-        },
-        {
-          "number": 3,
-          "name": "NO FEAR! 2 (SUPER SLOWED)",
-          "duration": "2:06"
-        },
-        {
-          "number": 4,
-          "name": "NO FEAR! 2 (SPED UP)",
-          "duration": "1:15"
         }
       ]
     },
@@ -2622,6 +2622,39 @@
       ]
     },
     {
+      "name": "MONTAGEM DOURADA",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/7c/c4/b07cc4ef-5055-3b68-c113-1b333e865d29/3691768.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM DOURADA",
+          "duration": "1:32"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM DOURADA (Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM DOURADA (Super Slowed)",
+          "duration": "1:56"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM DOURADA (Ultra Slowed)",
+          "duration": "2:10"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM DOURADA (Sped Up)",
+          "duration": "1:22"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM HECHIZO",
       "year": "2025",
       "release_date": "2025-07-18",
@@ -3036,34 +3069,6 @@
       ]
     },
     {
-      "name": "HEADACHE",
-      "year": "2025",
-      "release_date": "2025-02-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/71/56/8271566f-91e1-dcbf-564a-3014fd3674e9/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HEADACHE",
-          "duration": "1:16"
-        },
-        {
-          "number": 2,
-          "name": "HEADACHE (Slowed)",
-          "duration": "1:26"
-        },
-        {
-          "number": 3,
-          "name": "HEADACHE (Super Slowed)",
-          "duration": "1:36"
-        },
-        {
-          "number": 4,
-          "name": "HEADACHE (Sped Up)",
-          "duration": "1:08"
-        }
-      ]
-    },
-    {
       "name": "ME DA AMORE",
       "year": "2026",
       "release_date": "2026-05-15",
@@ -3093,6 +3098,34 @@
           "number": 5,
           "name": "ME DA AMORE (Sped Up)",
           "duration": "1:35"
+        }
+      ]
+    },
+    {
+      "name": "HEADACHE",
+      "year": "2025",
+      "release_date": "2025-02-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/71/56/8271566f-91e1-dcbf-564a-3014fd3674e9/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HEADACHE",
+          "duration": "1:16"
+        },
+        {
+          "number": 2,
+          "name": "HEADACHE (Slowed)",
+          "duration": "1:26"
+        },
+        {
+          "number": 3,
+          "name": "HEADACHE (Super Slowed)",
+          "duration": "1:36"
+        },
+        {
+          "number": 4,
+          "name": "HEADACHE (Sped Up)",
+          "duration": "1:08"
         }
       ]
     },

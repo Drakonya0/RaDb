@@ -624,6 +624,19 @@
       ]
     },
     {
+      "name": "Jester",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/a2/0c/76a20cfc-1214-e581-a262-14ccdb754e3a/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Jester",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
       "name": "Kingdom Of Dust",
       "year": "2026",
       "release_date": "2026-05-28",
@@ -739,34 +752,6 @@
       ]
     },
     {
-      "name": "SFYE: The Third Damnation",
-      "year": "2022",
-      "release_date": "2022-10-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/04/6a/04/046a0474-4aa3-5870-974a-6ca43c656962/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lord of the Pumpkin Patch (feat. Kill Dyll)",
-          "duration": "2:45"
-        },
-        {
-          "number": 2,
-          "name": "DUE DATE (Rotted Meat)",
-          "duration": "2:10"
-        },
-        {
-          "number": 3,
-          "name": "BRACEFACE: Die-Rectors Cut",
-          "duration": "2:01"
-        },
-        {
-          "number": 4,
-          "name": "Bedeviled",
-          "duration": "2:50"
-        }
-      ]
-    },
-    {
       "name": "The Wicked We're Capable Of",
       "year": "2025",
       "release_date": "2025-05-15",
@@ -801,6 +786,34 @@
           "number": 6,
           "name": "Scorched Earth",
           "duration": "3:51"
+        }
+      ]
+    },
+    {
+      "name": "SFYE: The Third Damnation",
+      "year": "2022",
+      "release_date": "2022-10-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/04/6a/04/046a0474-4aa3-5870-974a-6ca43c656962/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lord of the Pumpkin Patch (feat. Kill Dyll)",
+          "duration": "2:45"
+        },
+        {
+          "number": 2,
+          "name": "DUE DATE (Rotted Meat)",
+          "duration": "2:10"
+        },
+        {
+          "number": 3,
+          "name": "BRACEFACE: Die-Rectors Cut",
+          "duration": "2:01"
+        },
+        {
+          "number": 4,
+          "name": "Bedeviled",
+          "duration": "2:50"
         }
       ]
     }

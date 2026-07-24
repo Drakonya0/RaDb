@@ -3,49 +3,6 @@
   "id": 1289607378,
   "albums": [
     {
-      "name": "DEMAGOG",
-      "year": "2020",
-      "release_date": "2020-08-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/01/dd/26/01dd26fd-7489-c743-0f27-8d19163b8f83/4547366466904.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HIDE AND SEEK",
-          "duration": "3:40"
-        },
-        {
-          "number": 2,
-          "name": "PANOPTICON",
-          "duration": "3:45"
-        },
-        {
-          "number": 3,
-          "name": "DEAD WEIGHT",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
-          "name": "HUMANLIKE",
-          "duration": "4:00"
-        },
-        {
-          "number": 5,
-          "name": "BAD DREAM",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "DEMAGOG",
-          "duration": "4:39"
-        },
-        {
-          "number": 7,
-          "name": "LOTUSES",
-          "duration": "3:19"
-        }
-      ]
-    },
-    {
       "name": "ROUNDABOUT",
       "year": "2024",
       "release_date": "2024-01-10",
@@ -100,6 +57,49 @@
           "number": 10,
           "name": "Even as an Adult",
           "duration": "3:01"
+        }
+      ]
+    },
+    {
+      "name": "DEMAGOG",
+      "year": "2020",
+      "release_date": "2020-08-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/01/dd/26/01dd26fd-7489-c743-0f27-8d19163b8f83/4547366466904.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HIDE AND SEEK",
+          "duration": "3:40"
+        },
+        {
+          "number": 2,
+          "name": "PANOPTICON",
+          "duration": "3:45"
+        },
+        {
+          "number": 3,
+          "name": "DEAD WEIGHT",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "HUMANLIKE",
+          "duration": "4:00"
+        },
+        {
+          "number": 5,
+          "name": "BAD DREAM",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "DEMAGOG",
+          "duration": "4:39"
+        },
+        {
+          "number": 7,
+          "name": "LOTUSES",
+          "duration": "3:19"
         }
       ]
     },
@@ -384,32 +384,6 @@
       ]
     },
     {
-      "name": "青のすみか - From THE FIRST TAKE",
-      "year": "2023",
-      "release_date": "2023-09-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/63/d5/b563d5fe-51f0-00e1-d944-fe159eb8dbb4/4547366643657.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Where Our Blue Is - From THE FIRST TAKE",
-          "duration": "3:17"
-        }
-      ]
-    },
-    {
-      "name": "いらないもの",
-      "year": "2024",
-      "release_date": "2024-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/ca/e9/eccae920-1f04-709c-a3dc-183643ce2112/4547366709650.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chained",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "聖者の行進",
       "year": "2021",
       "release_date": "2021-08-18",
@@ -429,6 +403,32 @@
           "number": 3,
           "name": "HUMANLIKE (Acoustic version)",
           "duration": "4:39"
+        }
+      ]
+    },
+    {
+      "name": "いらないもの",
+      "year": "2024",
+      "release_date": "2024-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/ca/e9/eccae920-1f04-709c-a3dc-183643ce2112/4547366709650.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chained",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "青のすみか - From THE FIRST TAKE",
+      "year": "2023",
+      "release_date": "2023-09-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/63/d5/b563d5fe-51f0-00e1-d944-fe159eb8dbb4/4547366643657.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Where Our Blue Is - From THE FIRST TAKE",
+          "duration": "3:17"
         }
       ]
     },
@@ -485,19 +485,6 @@
       ]
     },
     {
-      "name": "Club Unreality",
-      "year": "2019",
-      "release_date": "2019-08-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/30/81/1a/30811a8c-4b7f-72cc-512d-b958d32f7af3/4538182835364_cov.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Club Unreality",
-          "duration": "3:59"
-        }
-      ]
-    },
-    {
       "name": "火種",
       "year": "2026",
       "release_date": "2026-04-05",
@@ -525,6 +512,19 @@
           "number": 2,
           "name": "Night Routine (cover)",
           "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "F.A.C.E.",
+      "year": "2026",
+      "release_date": "2026-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/04/57/c9045710-f9fa-2de0-e337-46434248681b/4547366836530.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "F.A.C.E.",
+          "duration": "2:29"
         }
       ]
     },
@@ -696,6 +696,19 @@
           "number": 1,
           "name": "Slush",
           "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "Club Unreality",
+      "year": "2019",
+      "release_date": "2019-08-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/30/81/1a/30811a8c-4b7f-72cc-512d-b958d32f7af3/4538182835364_cov.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Club Unreality",
+          "duration": "3:59"
         }
       ]
     },

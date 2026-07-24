@@ -3,79 +3,6 @@
   "id": 603222293,
   "albums": [
     {
-      "name": "Chin Up, Beautiful",
-      "year": "2026",
-      "release_date": "2026-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/a4/20/dda420b8-46c6-5612-08d1-4d27784c88be/823375191711_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Icarus",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Smile, You're on Camera",
-          "duration": "3:13"
-        },
-        {
-          "number": 3,
-          "name": "The Catalyst",
-          "duration": "3:25"
-        },
-        {
-          "number": 4,
-          "name": "Disassociate",
-          "duration": "4:34"
-        },
-        {
-          "number": 5,
-          "name": "Crawl (Caleb's Song)",
-          "duration": "3:54"
-        },
-        {
-          "number": 6,
-          "name": "Mannequin",
-          "duration": "2:53"
-        },
-        {
-          "number": 7,
-          "name": "Goodnight (Interlude) <3",
-          "duration": "2:12"
-        },
-        {
-          "number": 8,
-          "name": "White Butterflies",
-          "duration": "3:02"
-        },
-        {
-          "number": 9,
-          "name": "Take Care of Her",
-          "duration": "4:17"
-        },
-        {
-          "number": 10,
-          "name": "Cry Wolf",
-          "duration": "3:31"
-        },
-        {
-          "number": 11,
-          "name": "Pitiful",
-          "duration": "3:26"
-        },
-        {
-          "number": 12,
-          "name": "Blink Twice",
-          "duration": "3:53"
-        },
-        {
-          "number": 13,
-          "name": "Chin Up, Beautiful",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
       "name": "Sleepyhead",
       "year": "2024",
       "release_date": "2024-12-16",
@@ -213,6 +140,79 @@
           "number": 12,
           "name": "Sleepyhead (Live)",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Chin Up, Beautiful",
+      "year": "2026",
+      "release_date": "2026-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/a4/20/dda420b8-46c6-5612-08d1-4d27784c88be/823375191711_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Icarus",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Smile, You're on Camera",
+          "duration": "3:13"
+        },
+        {
+          "number": 3,
+          "name": "The Catalyst",
+          "duration": "3:25"
+        },
+        {
+          "number": 4,
+          "name": "Disassociate",
+          "duration": "4:34"
+        },
+        {
+          "number": 5,
+          "name": "Crawl (Caleb's Song)",
+          "duration": "3:54"
+        },
+        {
+          "number": 6,
+          "name": "Mannequin",
+          "duration": "2:53"
+        },
+        {
+          "number": 7,
+          "name": "Goodnight (Interlude) <3",
+          "duration": "2:12"
+        },
+        {
+          "number": 8,
+          "name": "White Butterflies",
+          "duration": "3:02"
+        },
+        {
+          "number": 9,
+          "name": "Take Care of Her",
+          "duration": "4:17"
+        },
+        {
+          "number": 10,
+          "name": "Cry Wolf",
+          "duration": "3:31"
+        },
+        {
+          "number": 11,
+          "name": "Pitiful",
+          "duration": "3:26"
+        },
+        {
+          "number": 12,
+          "name": "Blink Twice",
+          "duration": "3:53"
+        },
+        {
+          "number": 13,
+          "name": "Chin Up, Beautiful",
+          "duration": "3:40"
         }
       ]
     },
@@ -1130,19 +1130,6 @@
       ]
     },
     {
-      "name": "Blink Twice",
-      "year": "2026",
-      "release_date": "2026-07-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/30/b2/9a30b28b-5204-ab0e-995e-bc0bfc8766bc/823375222231_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blink Twice",
-          "duration": "3:53"
-        }
-      ]
-    },
-    {
       "name": "Too Easy",
       "year": "2019",
       "release_date": "2019-03-29",
@@ -1403,6 +1390,19 @@
           "number": 2,
           "name": "Born To Lose",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Blink Twice",
+      "year": "2026",
+      "release_date": "2026-07-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/30/b2/9a30b28b-5204-ab0e-995e-bc0bfc8766bc/823375222231_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blink Twice",
+          "duration": "3:53"
         }
       ]
     },

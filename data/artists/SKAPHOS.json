@@ -3,6 +3,54 @@
   "id": 1562762424,
   "albums": [
     {
+      "name": "The Descent",
+      "year": "2026",
+      "release_date": "2026-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/29/26/56292650-467c-68b3-5b4d-743b03f7120f/3770041373025.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nese Ende",
+          "duration": "4:31"
+        },
+        {
+          "number": 2,
+          "name": "Okean",
+          "duration": "5:52"
+        },
+        {
+          "number": 3,
+          "name": "Mireborn",
+          "duration": "3:38"
+        },
+        {
+          "number": 4,
+          "name": "Ube",
+          "duration": "3:23"
+        },
+        {
+          "number": 5,
+          "name": "The Descent",
+          "duration": "3:53"
+        },
+        {
+          "number": 6,
+          "name": "Horror Squid",
+          "duration": "4:57"
+        },
+        {
+          "number": 7,
+          "name": "The Brine Seal",
+          "duration": "3:39"
+        },
+        {
+          "number": 8,
+          "name": "Mariana Tomb",
+          "duration": "3:21"
+        }
+      ]
+    },
+    {
       "name": "Cult of Uzura",
       "year": "2025",
       "release_date": "2025-05-09",
@@ -72,54 +120,6 @@
           "number": 13,
           "name": "All Shall Be Now Itself the Sea",
           "duration": "4:33"
-        }
-      ]
-    },
-    {
-      "name": "The Descent",
-      "year": "2026",
-      "release_date": "2026-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/29/26/56292650-467c-68b3-5b4d-743b03f7120f/3770041373025.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nese Ende",
-          "duration": "4:31"
-        },
-        {
-          "number": 2,
-          "name": "Okean",
-          "duration": "5:52"
-        },
-        {
-          "number": 3,
-          "name": "Mireborn",
-          "duration": "3:38"
-        },
-        {
-          "number": 4,
-          "name": "Ube",
-          "duration": "3:23"
-        },
-        {
-          "number": 5,
-          "name": "The Descent",
-          "duration": "3:53"
-        },
-        {
-          "number": 6,
-          "name": "Horror Squid",
-          "duration": "4:57"
-        },
-        {
-          "number": 7,
-          "name": "The Brine Seal",
-          "duration": "3:39"
-        },
-        {
-          "number": 8,
-          "name": "Mariana Tomb",
-          "duration": "3:21"
         }
       ]
     },

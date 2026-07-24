@@ -847,6 +847,39 @@
       ]
     },
     {
+      "name": "TEMA VAI",
+      "year": "2026",
+      "release_date": "2026-07-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/41/73/dd41738d-059d-2181-6fe7-4ec5a8b72722/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TEMA VAI",
+          "duration": "1:07"
+        },
+        {
+          "number": 2,
+          "name": "TEMA VAI (Slowed)",
+          "duration": "1:15"
+        },
+        {
+          "number": 3,
+          "name": "TEMA VAI (Super Slowed)",
+          "duration": "1:24"
+        },
+        {
+          "number": 4,
+          "name": "TEMA VAI (Ultra Slowed)",
+          "duration": "1:35"
+        },
+        {
+          "number": 5,
+          "name": "TEMA VAI (Sped Up)",
+          "duration": "1:01"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM FAVOR",
       "year": "2025",
       "release_date": "2025-05-02",
@@ -876,6 +909,39 @@
           "number": 5,
           "name": "MONTAGEM FAVOR (Sped Up)",
           "duration": "1:17"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM NOTURNA",
+      "year": "2026",
+      "release_date": "2026-05-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/6e/2c/826e2c09-e69a-bb3c-e009-1bb987c86a3b/3226736.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM NOTURNA",
+          "duration": "1:20"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM NOTURNA (Slowed)",
+          "duration": "1:30"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM NOTURNA (Super Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM NOTURNA (Ultra Slowed)",
+          "duration": "1:53"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM NOTURNA (Speed Up)",
+          "duration": "1:11"
         }
       ]
     },
@@ -937,39 +1003,6 @@
           "number": 4,
           "name": "PICO (Ultra Slowed)",
           "duration": "1:32"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM NOTURNA",
-      "year": "2026",
-      "release_date": "2026-05-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/6e/2c/826e2c09-e69a-bb3c-e009-1bb987c86a3b/3226736.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM NOTURNA",
-          "duration": "1:20"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM NOTURNA (Slowed)",
-          "duration": "1:30"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM NOTURNA (Super Slowed)",
-          "duration": "1:41"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM NOTURNA (Ultra Slowed)",
-          "duration": "1:53"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM NOTURNA (Speed Up)",
-          "duration": "1:11"
         }
       ]
     },
@@ -1673,39 +1706,6 @@
       ]
     },
     {
-      "name": "I Run",
-      "year": "2025",
-      "release_date": "2025-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/64/c4/9964c401-26b7-f571-9bc2-1e60006fa1f9/4229.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Run",
-          "duration": "1:31"
-        },
-        {
-          "number": 2,
-          "name": "I Run (Slowed)",
-          "duration": "1:42"
-        },
-        {
-          "number": 3,
-          "name": "I Run (Super Slowed)",
-          "duration": "1:48"
-        },
-        {
-          "number": 4,
-          "name": "I Run (Ultra Slowed)",
-          "duration": "2:02"
-        },
-        {
-          "number": 5,
-          "name": "I Run (Nightcore)",
-          "duration": "1:24"
-        }
-      ]
-    },
-    {
       "name": "RITMO DE FERRO",
       "year": "2026",
       "release_date": "2026-07-17",
@@ -1735,6 +1735,39 @@
           "number": 5,
           "name": "RITMO DE FERRO (Sped Up)",
           "duration": "1:17"
+        }
+      ]
+    },
+    {
+      "name": "I Run",
+      "year": "2025",
+      "release_date": "2025-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/64/c4/9964c401-26b7-f571-9bc2-1e60006fa1f9/4229.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Run",
+          "duration": "1:31"
+        },
+        {
+          "number": 2,
+          "name": "I Run (Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 3,
+          "name": "I Run (Super Slowed)",
+          "duration": "1:48"
+        },
+        {
+          "number": 4,
+          "name": "I Run (Ultra Slowed)",
+          "duration": "2:02"
+        },
+        {
+          "number": 5,
+          "name": "I Run (Nightcore)",
+          "duration": "1:24"
         }
       ]
     },
@@ -1927,7 +1960,7 @@
       ]
     },
     {
-      "name": "SIN CENSURA (feat. Regyn & Sasha Wrist)",
+      "name": "SIN CENSURA (feat. Sasha Wrist & Regyn)",
       "year": "2026",
       "release_date": "2026-05-18",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/ce/70/d9ce70e6-31cf-0ba0-50e3-f80b69f32a54/3267360.jpg/600x600bb.jpg",

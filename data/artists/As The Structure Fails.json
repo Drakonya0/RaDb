@@ -255,6 +255,29 @@
       ]
     },
     {
+      "name": "Forgotten",
+      "year": "2023",
+      "release_date": "2023-07-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/72/8c/d5728ccb-3f96-2efb-da79-788838143ebd/859775113954_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Forgotten",
+          "duration": "3:34"
+        },
+        {
+          "number": 2,
+          "name": "The Promise",
+          "duration": "3:19"
+        },
+        {
+          "number": 3,
+          "name": "Final Mistake",
+          "duration": "3:54"
+        }
+      ]
+    },
+    {
       "name": "Heartless",
       "year": "2022",
       "release_date": "2022-06-24",
@@ -277,29 +300,6 @@
           "number": 1,
           "name": "On the Edge",
           "duration": "3:53"
-        }
-      ]
-    },
-    {
-      "name": "Forgotten",
-      "year": "2023",
-      "release_date": "2023-07-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d5/72/8c/d5728ccb-3f96-2efb-da79-788838143ebd/859775113954_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Forgotten",
-          "duration": "3:34"
-        },
-        {
-          "number": 2,
-          "name": "The Promise",
-          "duration": "3:19"
-        },
-        {
-          "number": 3,
-          "name": "Final Mistake",
-          "duration": "3:54"
         }
       ]
     },
@@ -454,19 +454,6 @@
       ]
     },
     {
-      "name": "Take My Life",
-      "year": "2025",
-      "release_date": "2025-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/76/2b/b0762bdc-a375-52fa-f088-6d1fa581f1a5/859703824549_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Take My Life",
-          "duration": "2:48"
-        }
-      ]
-    },
-    {
       "name": "Hell or High Water",
       "year": "2025",
       "release_date": "2025-06-20",
@@ -476,6 +463,19 @@
           "number": 1,
           "name": "Hell or High Water",
           "duration": "3:10"
+        }
+      ]
+    },
+    {
+      "name": "Take My Life",
+      "year": "2025",
+      "release_date": "2025-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/76/2b/b0762bdc-a375-52fa-f088-6d1fa581f1a5/859703824549_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Take My Life",
+          "duration": "2:48"
         }
       ]
     },

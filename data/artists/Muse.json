@@ -2099,6 +2099,13 @@
       ]
     },
     {
+      "name": "Anubis Reborn Horizon",
+      "year": "2026",
+      "release_date": "2026-07-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/16/5e/7d165e4b-eed7-3725-80d5-10165db62e3c/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "The Dark Side",
       "year": "2018",
       "release_date": "2018-09-01",
@@ -2117,6 +2124,13 @@
           "duration": "3:52"
         }
       ]
+    },
+    {
+      "name": "Devil",
+      "year": "2026",
+      "release_date": "2026-07-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/10/a2/f810a27a-b2c7-5814-447b-303b1e302c8c/cover.jpg/600x600bb.jpg",
+      "tracks": []
     }
   ],
   "eps": [
@@ -2317,39 +2331,6 @@
       ]
     },
     {
-      "name": "Uno",
-      "year": "1999",
-      "release_date": "1999-06-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/51/b1/c7/mzi.horpvwxd.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Uno",
-          "duration": "3:38"
-        },
-        {
-          "number": 2,
-          "name": "Uno (Alternative Version)",
-          "duration": "3:43"
-        },
-        {
-          "number": 3,
-          "name": "Jimmy Kane",
-          "duration": "3:27"
-        },
-        {
-          "number": 4,
-          "name": "Forced In",
-          "duration": "4:17"
-        },
-        {
-          "number": 5,
-          "name": "Agitated",
-          "duration": "2:22"
-        }
-      ]
-    },
-    {
       "name": "Cave",
       "year": "1999",
       "release_date": "1999-09-06",
@@ -2384,6 +2365,39 @@
           "number": 6,
           "name": "Coma",
           "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "Uno",
+      "year": "1999",
+      "release_date": "1999-06-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/51/b1/c7/mzi.horpvwxd.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Uno",
+          "duration": "3:38"
+        },
+        {
+          "number": 2,
+          "name": "Uno (Alternative Version)",
+          "duration": "3:43"
+        },
+        {
+          "number": 3,
+          "name": "Jimmy Kane",
+          "duration": "3:27"
+        },
+        {
+          "number": 4,
+          "name": "Forced In",
+          "duration": "4:17"
+        },
+        {
+          "number": 5,
+          "name": "Agitated",
+          "duration": "2:22"
         }
       ]
     },
