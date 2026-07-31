@@ -53,6 +53,19 @@
   ],
   "singles": [
     {
+      "name": "IMMACULATE",
+      "year": "2022",
+      "release_date": "2022-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/d9/5e/fed95e87-fb3e-999f-1dfa-afbfb3af6c59/196864081108.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "IMMACULATE",
+          "duration": "2:20"
+        }
+      ]
+    },
+    {
       "name": "DNA",
       "year": "2023",
       "release_date": "2023-12-21",
@@ -72,19 +85,6 @@
           "number": 3,
           "name": "DNA (Sped Up)",
           "duration": "1:19"
-        }
-      ]
-    },
-    {
-      "name": "IMMACULATE",
-      "year": "2022",
-      "release_date": "2022-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fe/d9/5e/fed95e87-fb3e-999f-1dfa-afbfb3af6c59/196864081108.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "IMMACULATE",
-          "duration": "2:20"
         }
       ]
     },
@@ -1320,6 +1320,34 @@
           "number": 4,
           "name": "Relampago - Ultra Slowed",
           "duration": "1:35"
+        }
+      ]
+    },
+    {
+      "name": "Melodia Natureza",
+      "year": "2026",
+      "release_date": "2026-07-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/c5/03/e5c5037f-8421-a0f8-5cea-4777d3181824/3822528.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Melodia Natureza",
+          "duration": "1:32"
+        },
+        {
+          "number": 2,
+          "name": "Melodia Natureza (Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 3,
+          "name": "Melodia Natureza (Super Slowed)",
+          "duration": "1:56"
+        },
+        {
+          "number": 4,
+          "name": "Melodia Natureza (Sped Up)",
+          "duration": "1:22"
         }
       ]
     }

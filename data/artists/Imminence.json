@@ -217,69 +217,6 @@
       ]
     },
     {
-      "name": "Axis Mundi",
-      "year": "2026",
-      "release_date": "2026-10-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/34/5a/ee345a8f-5f63-8462-c4da-02c9b95e4f33/823375264293_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Twisting In The Wind",
-          "duration": "4:13"
-        },
-        {
-          "number": 2,
-          "name": "The Sword That Never Bends",
-          "duration": "3:46"
-        },
-        {
-          "number": 3,
-          "name": "Devil May Try",
-          "duration": "4:11"
-        },
-        {
-          "number": 4,
-          "name": "Crestfallen",
-          "duration": "4:04"
-        },
-        {
-          "number": 5,
-          "name": "False Light",
-          "duration": "3:24"
-        },
-        {
-          "number": 6,
-          "name": "If Not Now, When",
-          "duration": "3:57"
-        },
-        {
-          "number": 7,
-          "name": "Didn’t Think About You (Lately)",
-          "duration": "3:48"
-        },
-        {
-          "number": 8,
-          "name": "Leviathan",
-          "duration": "5:07"
-        },
-        {
-          "number": 9,
-          "name": "Shed Your Skin",
-          "duration": "4:53"
-        },
-        {
-          "number": 10,
-          "name": "Power Divine",
-          "duration": "3:54"
-        },
-        {
-          "number": 11,
-          "name": "Exodus",
-          "duration": "4:57"
-        }
-      ]
-    },
-    {
       "name": "The Return of The Black",
       "year": "2025",
       "release_date": "2025-03-07",
@@ -575,6 +512,69 @@
           "number": 14,
           "name": "This Is Goodbye (Acoustic)",
           "duration": "4:23"
+        }
+      ]
+    },
+    {
+      "name": "Axis Mundi",
+      "year": "2026",
+      "release_date": "2026-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/34/5a/ee345a8f-5f63-8462-c4da-02c9b95e4f33/823375264293_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Twisting In The Wind",
+          "duration": "4:13"
+        },
+        {
+          "number": 2,
+          "name": "The Sword That Never Bends",
+          "duration": "3:46"
+        },
+        {
+          "number": 3,
+          "name": "Devil May Try",
+          "duration": "4:11"
+        },
+        {
+          "number": 4,
+          "name": "Crestfallen",
+          "duration": "4:04"
+        },
+        {
+          "number": 5,
+          "name": "False Light",
+          "duration": "3:24"
+        },
+        {
+          "number": 6,
+          "name": "If Not Now, When",
+          "duration": "3:57"
+        },
+        {
+          "number": 7,
+          "name": "Didn’t Think About You (Lately)",
+          "duration": "3:48"
+        },
+        {
+          "number": 8,
+          "name": "Leviathan",
+          "duration": "5:07"
+        },
+        {
+          "number": 9,
+          "name": "Shed Your Skin",
+          "duration": "4:53"
+        },
+        {
+          "number": 10,
+          "name": "Power Divine",
+          "duration": "3:54"
+        },
+        {
+          "number": 11,
+          "name": "Exodus",
+          "duration": "4:57"
         }
       ]
     },
@@ -930,24 +930,6 @@
       ]
     },
     {
-      "name": "False Light",
-      "year": "2026",
-      "release_date": "2026-07-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/41/15/cb41153a-2072-88bc-b63d-b374ae564f0f/823375295259_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "False Light",
-          "duration": "3:24"
-        },
-        {
-          "number": 2,
-          "name": "The Sword That Never Bends",
-          "duration": "3:46"
-        }
-      ]
-    },
-    {
       "name": "Desolation",
       "year": "2023",
       "release_date": "2023-06-23",
@@ -1059,6 +1041,24 @@
       ]
     },
     {
+      "name": "False Light",
+      "year": "2026",
+      "release_date": "2026-07-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/41/15/cb41153a-2072-88bc-b63d-b374ae564f0f/823375295259_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "False Light",
+          "duration": "3:24"
+        },
+        {
+          "number": 2,
+          "name": "The Sword That Never Bends",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
       "name": "A Mark on My Soul",
       "year": "2015",
       "release_date": "2015-05-04",
@@ -1116,15 +1116,25 @@
       ]
     },
     {
-      "name": "The Black (Live at Ystads Teater)",
-      "year": "2024",
-      "release_date": "2024-08-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/6f/a6/0b6fa667-8ac4-fe48-2cd4-0eef532e98e2/cover.jpg/600x600bb.jpg",
+      "name": "Crestfallen",
+      "year": "2026",
+      "release_date": "2026-07-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/d8/52/1fd852b4-75ce-b6d1-b5f1-61530842ff64/823375295242_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Black (Live at Ystads Teater)",
-          "duration": "6:21"
+          "name": "Crestfallen",
+          "duration": "4:04"
+        },
+        {
+          "number": 2,
+          "name": "False Light",
+          "duration": "3:24"
+        },
+        {
+          "number": 3,
+          "name": "The Sword That Never Bends",
+          "duration": "3:46"
         }
       ]
     },
@@ -1219,6 +1229,19 @@
       ]
     },
     {
+      "name": "The Black (Live at Ystads Teater)",
+      "year": "2024",
+      "release_date": "2024-08-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/6f/a6/0b6fa667-8ac4-fe48-2cd4-0eef532e98e2/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Black (Live at Ystads Teater)",
+          "duration": "6:21"
+        }
+      ]
+    },
+    {
       "name": "The Seventh Seal",
       "year": "2014",
       "release_date": "2014-08-12",
@@ -1241,29 +1264,6 @@
           "number": 1,
           "name": "86",
           "duration": "4:11"
-        }
-      ]
-    },
-    {
-      "name": "Crestfallen",
-      "year": "2026",
-      "release_date": "2026-07-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/d8/52/1fd852b4-75ce-b6d1-b5f1-61530842ff64/823375295242_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Crestfallen",
-          "duration": "4:04"
-        },
-        {
-          "number": 2,
-          "name": "False Light",
-          "duration": "3:24"
-        },
-        {
-          "number": 3,
-          "name": "The Sword That Never Bends",
-          "duration": "3:46"
         }
       ]
     }

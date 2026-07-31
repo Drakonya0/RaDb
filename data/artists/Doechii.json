@@ -903,19 +903,6 @@
       ]
     },
     {
-      "name": "Pacer",
-      "year": "2023",
-      "release_date": "2023-09-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/cf/b0/69cfb037-809e-38bc-3add-fed185173a91/23UMGIM87489.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pacer",
-          "duration": "2:56"
-        }
-      ]
-    },
-    {
       "name": "Stressed",
       "year": "2022",
       "release_date": "2022-10-14",
@@ -951,6 +938,19 @@
           "number": 1,
           "name": "ROCKET",
           "duration": "2:46"
+        }
+      ]
+    },
+    {
+      "name": "Pacer",
+      "year": "2023",
+      "release_date": "2023-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/69/cf/b0/69cfb037-809e-38bc-3add-fed185173a91/23UMGIM87489.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pacer",
+          "duration": "2:56"
         }
       ]
     },
@@ -1124,29 +1124,6 @@
       ]
     },
     {
-      "name": "Timeless (Remix) [feat. Playboi Carti]",
-      "year": "2024",
-      "release_date": "2024-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/dd/f7/2dddf721-a46d-439d-65df-b7ec60d9de7b/25UMGIM63126.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Timeless (feat. Playboi Carti) [Remix]",
-          "duration": "3:48"
-        },
-        {
-          "number": 2,
-          "name": "Timeless",
-          "duration": "4:16"
-        },
-        {
-          "number": 3,
-          "name": "Timeless (Instrumental)",
-          "duration": "4:16"
-        }
-      ]
-    },
-    {
       "name": "Persuasive",
       "year": "2022",
       "release_date": "2022-03-18",
@@ -1169,6 +1146,29 @@
           "number": 1,
           "name": "What It Is (Solo Version)",
           "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Timeless (Remix) [feat. Playboi Carti]",
+      "year": "2024",
+      "release_date": "2024-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/dd/f7/2dddf721-a46d-439d-65df-b7ec60d9de7b/25UMGIM63126.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Timeless (feat. Playboi Carti) [Remix]",
+          "duration": "3:48"
+        },
+        {
+          "number": 2,
+          "name": "Timeless",
+          "duration": "4:16"
+        },
+        {
+          "number": 3,
+          "name": "Timeless (Instrumental)",
+          "duration": "4:16"
         }
       ]
     },

@@ -2099,19 +2099,6 @@
       ]
     },
     {
-      "name": "El Jefe",
-      "year": "2023",
-      "release_date": "2023-09-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/08/7c/ce087c35-8ef6-a958-bf97-09b03e60c26e/196871452229.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "El Jefe",
-          "duration": "2:50"
-        }
-      ]
-    },
-    {
       "name": "Don't Wait Up",
       "year": "2021",
       "release_date": "2021-07-16",
@@ -2121,6 +2108,19 @@
           "number": 1,
           "name": "Don't Wait Up",
           "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "El Jefe",
+      "year": "2023",
+      "release_date": "2023-09-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ce/08/7c/ce087c35-8ef6-a958-bf97-09b03e60c26e/196871452229.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "El Jefe",
+          "duration": "2:50"
         }
       ]
     },
@@ -2252,13 +2252,6 @@
       ]
     },
     {
-      "name": "Dai Dai",
-      "year": "2026",
-      "release_date": "2026-06-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/0d/ba/2d0dba76-f798-b4fb-600a-a59b85f3440e/196874505526.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Ay Haití",
       "year": "2010",
       "release_date": "2010-03-30",
@@ -2270,6 +2263,13 @@
           "duration": "5:11"
         }
       ]
+    },
+    {
+      "name": "Dai Dai",
+      "year": "2026",
+      "release_date": "2026-06-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/0d/ba/2d0dba76-f798-b4fb-600a-a59b85f3440e/196874505526.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "ALGO TÚ",
@@ -2290,32 +2290,6 @@
       "release_date": "2017-05-19",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/75/82/70758224-6508-3046-a8ac-63452d4e6ad5/00602557588330.rgb.jpg/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "Dai Dai (A Cappella)",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/ad/1f/a4ad1f07-85d8-ead0-4a07-a004e3f861f9/196874608197.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dai Dai (A Cappella)",
-          "duration": "3:43"
-        }
-      ]
-    },
-    {
-      "name": "Dai Dai (Instrumental)",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/b7/7d/2bb77dc3-1198-a9fd-8404-711576227254/196874608289.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dai Dai (Instrumental)",
-          "duration": "3:43"
-        }
-      ]
     },
     {
       "name": "Choka Choka",
@@ -2383,6 +2357,19 @@
       ]
     },
     {
+      "name": "Dai Dai (A Cappella)",
+      "year": "2026",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/ad/1f/a4ad1f07-85d8-ead0-4a07-a004e3f861f9/196874608197.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dai Dai (A Cappella)",
+          "duration": "3:43"
+        }
+      ]
+    },
+    {
       "name": "Don't Wait Up (Riton Mix)",
       "year": "2021",
       "release_date": "2021-09-27",
@@ -2409,6 +2396,42 @@
       ]
     },
     {
+      "name": "Dai Dai (Instrumental)",
+      "year": "2026",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/b7/7d/2bb77dc3-1198-a9fd-8404-711576227254/196874608289.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dai Dai (Instrumental)",
+          "duration": "3:43"
+        }
+      ]
+    },
+    {
+      "name": "ALGO TÚ (Remixes)",
+      "year": "2026",
+      "release_date": "2026-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/a3/58/05a3582d-d52a-2339-146d-015a32e2de00/196874313855.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ALGO TÚ",
+          "duration": "3:33"
+        },
+        {
+          "number": 2,
+          "name": "ALGO TÚ (Shimza Remix)",
+          "duration": "3:34"
+        },
+        {
+          "number": 3,
+          "name": "ALGO TÚ (Indira Paganotto Remix)",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
       "name": "Dai Dai",
       "year": "2026",
       "release_date": "2026-06-25",
@@ -2425,19 +2448,6 @@
           "number": 1,
           "name": "DON'T YOU WORRY (feat. Shakira & Mark Ursa) [Dubdogz & Mark Ursa Remix]",
           "duration": "3:05"
-        }
-      ]
-    },
-    {
-      "name": "Dai Dai (Clean Bandit Remix)",
-      "year": "2026",
-      "release_date": "2026-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/b8/70/23b87033-7378-08a6-bb0e-453e7c47ccfb/196874505496.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dai Dai (Clean Bandit Remix)",
-          "duration": "3:01"
         }
       ]
     },
@@ -2473,25 +2483,15 @@
       ]
     },
     {
-      "name": "ALGO TÚ (Remixes)",
+      "name": "Dai Dai (Clean Bandit Remix)",
       "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/a3/58/05a3582d-d52a-2339-146d-015a32e2de00/196874313855.jpg/600x600bb.jpg",
+      "release_date": "2026-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/b8/70/23b87033-7378-08a6-bb0e-453e7c47ccfb/196874505496.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "ALGO TÚ",
-          "duration": "3:33"
-        },
-        {
-          "number": 2,
-          "name": "ALGO TÚ (Shimza Remix)",
-          "duration": "3:34"
-        },
-        {
-          "number": 3,
-          "name": "ALGO TÚ (Indira Paganotto Remix)",
-          "duration": "3:20"
+          "name": "Dai Dai (Clean Bandit Remix)",
+          "duration": "3:01"
         }
       ]
     },

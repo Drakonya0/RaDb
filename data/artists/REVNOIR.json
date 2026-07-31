@@ -158,6 +158,39 @@
   ],
   "eps": [
     {
+      "name": "Coma",
+      "year": "2025",
+      "release_date": "2025-09-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/87/e9/d487e975-aea6-ba20-1828-59482db98a57/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Into Quiet",
+          "duration": "3:22"
+        },
+        {
+          "number": 2,
+          "name": "Crève",
+          "duration": "3:48"
+        },
+        {
+          "number": 3,
+          "name": "Revenge",
+          "duration": "3:58"
+        },
+        {
+          "number": 4,
+          "name": "New World",
+          "duration": "3:06"
+        },
+        {
+          "number": 5,
+          "name": "Night Terror",
+          "duration": "2:32"
+        }
+      ]
+    },
+    {
       "name": "Revenant",
       "year": "2024",
       "release_date": "2024-06-28",
@@ -192,39 +225,6 @@
           "number": 6,
           "name": "My Old Me",
           "duration": "4:12"
-        }
-      ]
-    },
-    {
-      "name": "Coma",
-      "year": "2025",
-      "release_date": "2025-09-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/87/e9/d487e975-aea6-ba20-1828-59482db98a57/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Into Quiet",
-          "duration": "3:22"
-        },
-        {
-          "number": 2,
-          "name": "Crève",
-          "duration": "3:48"
-        },
-        {
-          "number": 3,
-          "name": "Revenge",
-          "duration": "3:58"
-        },
-        {
-          "number": 4,
-          "name": "New World",
-          "duration": "3:06"
-        },
-        {
-          "number": 5,
-          "name": "Night Terror",
-          "duration": "2:32"
         }
       ]
     },

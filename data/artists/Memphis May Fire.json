@@ -737,15 +737,25 @@
       ]
     },
     {
-      "name": "Misery (feat. Atreyu)",
-      "year": "2023",
-      "release_date": "2023-09-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/2b/fe/1d2bfe5f-2819-c492-ff1c-e16aebb152ee/4050538974768.jpg/600x600bb.jpg",
+      "name": "The Other Side",
+      "year": "2025",
+      "release_date": "2025-02-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/06/0e/f1060ea3-8bca-55b4-8e81-98258f1f62c8/4099964152562.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Misery (feat. Atreyu)",
-          "duration": "3:12"
+          "name": "The Other Side",
+          "duration": "3:45"
+        },
+        {
+          "number": 2,
+          "name": "The Other Side (Instrumental)",
+          "duration": "3:45"
+        },
+        {
+          "number": 3,
+          "name": "The Other Side (Acappella)",
+          "duration": "3:33"
         }
       ]
     },
@@ -773,38 +783,15 @@
       ]
     },
     {
-      "name": "The Other Side",
-      "year": "2025",
-      "release_date": "2025-02-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/06/0e/f1060ea3-8bca-55b4-8e81-98258f1f62c8/4099964152562.jpg/600x600bb.jpg",
+      "name": "Misery (feat. Atreyu)",
+      "year": "2023",
+      "release_date": "2023-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/2b/fe/1d2bfe5f-2819-c492-ff1c-e16aebb152ee/4050538974768.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Other Side",
-          "duration": "3:45"
-        },
-        {
-          "number": 2,
-          "name": "The Other Side (Instrumental)",
-          "duration": "3:45"
-        },
-        {
-          "number": 3,
-          "name": "The Other Side (Acappella)",
-          "duration": "3:33"
-        }
-      ]
-    },
-    {
-      "name": "Virus",
-      "year": "2017",
-      "release_date": "2017-06-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/48/2a/00/482a0006-0bac-4b51-46b1-36703d4a1e9c/4050538312027.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Virus",
-          "duration": "3:02"
+          "name": "Misery (feat. Atreyu)",
+          "duration": "3:12"
         }
       ]
     },
@@ -828,6 +815,19 @@
           "number": 3,
           "name": "Shapeshifter (Acappella)",
           "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Virus",
+      "year": "2017",
+      "release_date": "2017-06-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/48/2a/00/482a0006-0bac-4b51-46b1-36703d4a1e9c/4050538312027.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Virus",
+          "duration": "3:02"
         }
       ]
     },

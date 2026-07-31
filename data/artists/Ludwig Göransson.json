@@ -184,129 +184,6 @@
       ]
     },
     {
-      "name": "The Odyssey (Original Motion Picture Soundtrack)",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/28/de/8528de5e-6fbb-012a-0c8b-b75562b426e0/961.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Zeus’s Law",
-          "duration": "3:35"
-        },
-        {
-          "number": 2,
-          "name": "Ithaca",
-          "duration": "5:41"
-        },
-        {
-          "number": 3,
-          "name": "Penelope",
-          "duration": "4:16"
-        },
-        {
-          "number": 4,
-          "name": "Telemachus",
-          "duration": "3:59"
-        },
-        {
-          "number": 5,
-          "name": "Calypso / Agamemnon",
-          "duration": "3:59"
-        },
-        {
-          "number": 6,
-          "name": "Let’s Go Home",
-          "duration": "3:11"
-        },
-        {
-          "number": 7,
-          "name": "Cyclops",
-          "duration": "6:00"
-        },
-        {
-          "number": 8,
-          "name": "Menelaus, Husband of Helen",
-          "duration": "3:49"
-        },
-        {
-          "number": 9,
-          "name": "Troy",
-          "duration": "6:13"
-        },
-        {
-          "number": 10,
-          "name": "Laestrygonians",
-          "duration": "5:02"
-        },
-        {
-          "number": 11,
-          "name": "Circe (feat. Samantha Morton)",
-          "duration": "7:35"
-        },
-        {
-          "number": 12,
-          "name": "Hades",
-          "duration": "10:32"
-        },
-        {
-          "number": 13,
-          "name": "Loyal to the Future",
-          "duration": "5:21"
-        },
-        {
-          "number": 14,
-          "name": "Sirens",
-          "duration": "2:39"
-        },
-        {
-          "number": 15,
-          "name": "Apollo’s Island",
-          "duration": "4:32"
-        },
-        {
-          "number": 16,
-          "name": "7 Years",
-          "duration": "2:16"
-        },
-        {
-          "number": 17,
-          "name": "Another Name",
-          "duration": "1:51"
-        },
-        {
-          "number": 18,
-          "name": "Bringing It All",
-          "duration": "8:00"
-        },
-        {
-          "number": 19,
-          "name": "Welcome Home Stranger",
-          "duration": "5:51"
-        },
-        {
-          "number": 20,
-          "name": "Odysseus",
-          "duration": "8:41"
-        },
-        {
-          "number": 21,
-          "name": "The Trial of the Bow / Vengeance",
-          "duration": "6:13"
-        },
-        {
-          "number": 22,
-          "name": "Chasing the Escaping Sun",
-          "duration": "3:20"
-        },
-        {
-          "number": 23,
-          "name": "When I’m Home",
-          "duration": "5:26"
-        }
-      ]
-    },
-    {
       "name": "Turning Red (Original Motion Picture Soundtrack)",
       "year": "2022",
       "release_date": "2022-03-11",
@@ -319,12 +196,12 @@
         },
         {
           "number": 2,
-          "name": "1 True Love",
+          "name": "1 True Love (feat. Josh Levi)",
           "duration": "3:19"
         },
         {
           "number": 3,
-          "name": "U Know What's Up",
+          "name": "U Know What's Up (feat. Josh Levi)",
           "duration": "3:08"
         },
         {
@@ -384,7 +261,7 @@
         },
         {
           "number": 15,
-          "name": "U Know What's Up (The Panda Hustle Version)",
+          "name": "U Know What's Up (feat. Josh Levi) [The Panda Hustle Version]",
           "duration": "2:49"
         },
         {
@@ -439,7 +316,7 @@
         },
         {
           "number": 26,
-          "name": "Pandas Unite / Nobody Like U (Reprise)",
+          "name": "Pandas Unite / Nobody Like U (Reprise) [feat. Josh Levi]",
           "duration": "3:05"
         },
         {
@@ -559,6 +436,129 @@
           "number": 16,
           "name": "Come with Me",
           "duration": "2:45"
+        }
+      ]
+    },
+    {
+      "name": "The Odyssey (Original Motion Picture Soundtrack)",
+      "year": "2026",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/28/de/8528de5e-6fbb-012a-0c8b-b75562b426e0/961.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Zeus’s Law",
+          "duration": "3:35"
+        },
+        {
+          "number": 2,
+          "name": "Ithaca",
+          "duration": "5:41"
+        },
+        {
+          "number": 3,
+          "name": "Penelope",
+          "duration": "4:16"
+        },
+        {
+          "number": 4,
+          "name": "Telemachus",
+          "duration": "3:59"
+        },
+        {
+          "number": 5,
+          "name": "Calypso / Agamemnon",
+          "duration": "3:59"
+        },
+        {
+          "number": 6,
+          "name": "Let’s Go Home",
+          "duration": "3:11"
+        },
+        {
+          "number": 7,
+          "name": "Cyclops",
+          "duration": "6:00"
+        },
+        {
+          "number": 8,
+          "name": "Menelaus, Husband of Helen",
+          "duration": "3:49"
+        },
+        {
+          "number": 9,
+          "name": "Troy",
+          "duration": "6:13"
+        },
+        {
+          "number": 10,
+          "name": "Laestrygonians",
+          "duration": "5:02"
+        },
+        {
+          "number": 11,
+          "name": "Circe (feat. Samantha Morton)",
+          "duration": "7:35"
+        },
+        {
+          "number": 12,
+          "name": "Hades",
+          "duration": "10:32"
+        },
+        {
+          "number": 13,
+          "name": "Loyal to the Future",
+          "duration": "5:21"
+        },
+        {
+          "number": 14,
+          "name": "Sirens",
+          "duration": "2:39"
+        },
+        {
+          "number": 15,
+          "name": "Apollo’s Island",
+          "duration": "4:32"
+        },
+        {
+          "number": 16,
+          "name": "7 Years",
+          "duration": "2:16"
+        },
+        {
+          "number": 17,
+          "name": "Another Name",
+          "duration": "1:51"
+        },
+        {
+          "number": 18,
+          "name": "Bringing It All",
+          "duration": "8:00"
+        },
+        {
+          "number": 19,
+          "name": "Welcome Home Stranger",
+          "duration": "5:51"
+        },
+        {
+          "number": 20,
+          "name": "Odysseus",
+          "duration": "8:41"
+        },
+        {
+          "number": 21,
+          "name": "The Trial of the Bow / Vengeance",
+          "duration": "6:13"
+        },
+        {
+          "number": 22,
+          "name": "Chasing the Escaping Sun",
+          "duration": "3:20"
+        },
+        {
+          "number": 23,
+          "name": "When I’m Home",
+          "duration": "5:26"
         }
       ]
     },
@@ -1629,6 +1629,54 @@
       ]
     },
     {
+      "name": "The Mandalorian: Chapter 4 (Original Score)",
+      "year": "2019",
+      "release_date": "2019-11-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/10/b5/2610b511-9b72-346f-7753-8abfc9ed277d/19UM1IM01056.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Ponds of Sorgan",
+          "duration": "3:09"
+        },
+        {
+          "number": 2,
+          "name": "Off the Grid",
+          "duration": "1:47"
+        },
+        {
+          "number": 3,
+          "name": "Can I Feed Him?",
+          "duration": "3:34"
+        },
+        {
+          "number": 4,
+          "name": "Training the Plebs",
+          "duration": "3:10"
+        },
+        {
+          "number": 5,
+          "name": "Camp Attack",
+          "duration": "2:22"
+        },
+        {
+          "number": 6,
+          "name": "Spirit of the Woods",
+          "duration": "5:10"
+        },
+        {
+          "number": 7,
+          "name": "Stay",
+          "duration": "2:21"
+        },
+        {
+          "number": 8,
+          "name": "Mando Says Goodbye",
+          "duration": "1:20"
+        }
+      ]
+    },
+    {
       "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
       "year": "2026",
       "release_date": "2026-05-15",
@@ -1738,54 +1786,6 @@
           "number": 21,
           "name": "Your Turn, Grogu",
           "duration": "1:44"
-        }
-      ]
-    },
-    {
-      "name": "The Mandalorian: Chapter 4 (Original Score)",
-      "year": "2019",
-      "release_date": "2019-11-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/26/10/b5/2610b511-9b72-346f-7753-8abfc9ed277d/19UM1IM01056.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Ponds of Sorgan",
-          "duration": "3:09"
-        },
-        {
-          "number": 2,
-          "name": "Off the Grid",
-          "duration": "1:47"
-        },
-        {
-          "number": 3,
-          "name": "Can I Feed Him?",
-          "duration": "3:34"
-        },
-        {
-          "number": 4,
-          "name": "Training the Plebs",
-          "duration": "3:10"
-        },
-        {
-          "number": 5,
-          "name": "Camp Attack",
-          "duration": "2:22"
-        },
-        {
-          "number": 6,
-          "name": "Spirit of the Woods",
-          "duration": "5:10"
-        },
-        {
-          "number": 7,
-          "name": "Stay",
-          "duration": "2:21"
-        },
-        {
-          "number": 8,
-          "name": "Mando Says Goodbye",
-          "duration": "1:20"
         }
       ]
     },
@@ -3021,14 +3021,14 @@
       ]
     },
     {
-      "name": "Turning Red (Original Motion Picture Soundtrack) [Chinese Bonus Track Edition]",
+      "name": "Turning Red (Original Motion Picture Soundtrack)",
       "year": "2022",
       "release_date": "2022-03-11",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/de/08/11de08cb-adc3-afb5-5362-4ff7af256e41/22UMGIM21718.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
-      "name": "Turning Red (Original Motion Picture Soundtrack) [Japanese Bonus Track Edition]",
+      "name": "Turning Red (Original Motion Picture Soundtrack)",
       "year": "2022",
       "release_date": "2022-03-11",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/fc/49/54fc492a-2040-8998-d275-e1bb8128f53d/22UMGIM21625.rgb.jpg/600x600bb.jpg",

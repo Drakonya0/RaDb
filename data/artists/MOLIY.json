@@ -3,6 +3,74 @@
   "id": 1493122482,
   "albums": [
     {
+      "name": "BADDIES <3 MOLIY",
+      "year": "2026",
+      "release_date": "2026-07-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/8d/e0/848de01d-d8d4-287a-9474-c8eaf9ff26b3/712132096805_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TOMETO",
+          "duration": "3:28"
+        },
+        {
+          "number": 2,
+          "name": "JETSKI (FRIKI)",
+          "duration": "2:50"
+        },
+        {
+          "number": 3,
+          "name": "POPSTAR xoxo",
+          "duration": "2:22"
+        },
+        {
+          "number": 4,
+          "name": "BUKSHOT",
+          "duration": "2:56"
+        },
+        {
+          "number": 5,
+          "name": "PARTYGYAL",
+          "duration": "2:47"
+        },
+        {
+          "number": 6,
+          "name": "BODY GO",
+          "duration": "2:45"
+        },
+        {
+          "number": 7,
+          "name": "911 (CALL THE LAW)",
+          "duration": "2:21"
+        },
+        {
+          "number": 8,
+          "name": "BOUNCE",
+          "duration": "2:27"
+        },
+        {
+          "number": 9,
+          "name": "ACCRA GIRLS",
+          "duration": "2:50"
+        },
+        {
+          "number": 10,
+          "name": "PRETTY MAMI",
+          "duration": "2:57"
+        },
+        {
+          "number": 11,
+          "name": "BACKIE",
+          "duration": "2:08"
+        },
+        {
+          "number": 12,
+          "name": "SHAKE IT TO THE MAX (FLY) [REMIX]",
+          "duration": "2:58"
+        }
+      ]
+    },
+    {
       "name": "Honey Doom",
       "year": "2022",
       "release_date": "2022-10-19",
@@ -47,74 +115,6 @@
           "number": 8,
           "name": "Human (feat. Mellissa & DJ Radix)",
           "duration": "3:17"
-        }
-      ]
-    },
-    {
-      "name": "BADDIES <3 MOLIY",
-      "year": "2026",
-      "release_date": "2026-07-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/8d/e0/848de01d-d8d4-287a-9474-c8eaf9ff26b3/712132096805_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Track 1",
-          "duration": "3:28"
-        },
-        {
-          "number": 2,
-          "name": "JETSKI (FRIKI)",
-          "duration": "2:50"
-        },
-        {
-          "number": 3,
-          "name": "Track 3",
-          "duration": "2:22"
-        },
-        {
-          "number": 4,
-          "name": "Track 4",
-          "duration": "2:56"
-        },
-        {
-          "number": 5,
-          "name": "PARTYGYAL",
-          "duration": "2:47"
-        },
-        {
-          "number": 6,
-          "name": "BODY GO",
-          "duration": "2:45"
-        },
-        {
-          "number": 7,
-          "name": "Track 7",
-          "duration": "2:21"
-        },
-        {
-          "number": 8,
-          "name": "Track 8",
-          "duration": "2:27"
-        },
-        {
-          "number": 9,
-          "name": "Track 9",
-          "duration": "2:50"
-        },
-        {
-          "number": 10,
-          "name": "Track 10",
-          "duration": "2:57"
-        },
-        {
-          "number": 11,
-          "name": "BACKIE",
-          "duration": "2:08"
-        },
-        {
-          "number": 12,
-          "name": "SHAKE IT TO THE MAX (FLY) [REMIX]",
-          "duration": "2:58"
         }
       ]
     }
@@ -204,19 +204,6 @@
       ]
     },
     {
-      "name": "What I Like",
-      "year": "2026",
-      "release_date": "2026-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/3c/d9/923cd90c-8b53-156f-69ad-5f9e6120a5f7/199806675458.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "What I Like",
-          "duration": "2:36"
-        }
-      ]
-    },
-    {
       "name": "BODY GO",
       "year": "2025",
       "release_date": "2025-10-17",
@@ -226,6 +213,19 @@
           "number": 1,
           "name": "BODY GO",
           "duration": "2:45"
+        }
+      ]
+    },
+    {
+      "name": "What I Like",
+      "year": "2026",
+      "release_date": "2026-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/3c/d9/923cd90c-8b53-156f-69ad-5f9e6120a5f7/199806675458.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "What I Like",
+          "duration": "2:36"
         }
       ]
     },
@@ -256,6 +256,19 @@
       ]
     },
     {
+      "name": "Shake It To The Max (Done With Ya Ex)",
+      "year": "2025",
+      "release_date": "2025-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/fc/f4/53fcf46e-213b-529e-6fe7-a75886391503/764656353551_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shake It To The Max (Done With Ya Ex)",
+          "duration": "1:33"
+        }
+      ]
+    },
+    {
       "name": "Shake It To The Max (FLY) [Major Lazer Remix]",
       "year": "2025",
       "release_date": "2025-05-16",
@@ -278,19 +291,6 @@
           "number": 1,
           "name": "SAD GIRLZ LUV MONEY (feat. Moliy) [Vigro Deep Amapiano Remix]",
           "duration": "5:36"
-        }
-      ]
-    },
-    {
-      "name": "Shake It To The Max (Done With Ya Ex)",
-      "year": "2025",
-      "release_date": "2025-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/fc/f4/53fcf46e-213b-529e-6fe7-a75886391503/764656353551_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shake It To The Max (Done With Ya Ex)",
-          "duration": "1:33"
         }
       ]
     },
@@ -344,19 +344,6 @@
       ]
     },
     {
-      "name": "PARTYGYAL",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/e6/62/48e662e1-15e7-b8bd-7970-e4decaf3573d/1014575.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PARTYGYAL",
-          "duration": "2:47"
-        }
-      ]
-    },
-    {
       "name": "No Fear (feat. VIC MENSA & Moliy)",
       "year": "2021",
       "release_date": "2021-03-19",
@@ -366,6 +353,19 @@
           "number": 1,
           "name": "No Fear (feat. Moliy & VIC MENSA)",
           "duration": "3:23"
+        }
+      ]
+    },
+    {
+      "name": "PARTYGYAL",
+      "year": "2026",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/48/e6/62/48e662e1-15e7-b8bd-7970-e4decaf3573d/1014575.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PARTYGYAL",
+          "duration": "2:47"
         }
       ]
     },

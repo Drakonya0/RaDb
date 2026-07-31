@@ -219,54 +219,6 @@
     {
       "name": "Dilworth",
       "year": "2025",
-      "release_date": "2025-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/ce/e9/03cee9af-8559-0c93-ba58-90e831938b6e/809891.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Left on Dilworth",
-          "duration": "3:09"
-        },
-        {
-          "number": 2,
-          "name": "SMUT",
-          "duration": "2:47"
-        },
-        {
-          "number": 3,
-          "name": "Red Velvet (feat. Ari Abdul)",
-          "duration": "3:06"
-        },
-        {
-          "number": 4,
-          "name": "Limerence",
-          "duration": "2:43"
-        },
-        {
-          "number": 5,
-          "name": "One of Us",
-          "duration": "2:42"
-        },
-        {
-          "number": 6,
-          "name": "Crucifixxx",
-          "duration": "2:53"
-        },
-        {
-          "number": 7,
-          "name": "House of Cards",
-          "duration": "3:05"
-        },
-        {
-          "number": 8,
-          "name": "The End",
-          "duration": "2:52"
-        }
-      ]
-    },
-    {
-      "name": "Dilworth",
-      "year": "2025",
       "release_date": "2025-12-03",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/19/3b/8c193b11-4f3c-dc7a-df9d-e2a10ac579f4/899564.jpg/600x600bb.jpg",
       "tracks": [
@@ -342,6 +294,54 @@
         },
         {
           "number": 15,
+          "name": "The End",
+          "duration": "2:52"
+        }
+      ]
+    },
+    {
+      "name": "Dilworth",
+      "year": "2025",
+      "release_date": "2025-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/ce/e9/03cee9af-8559-0c93-ba58-90e831938b6e/809891.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Left on Dilworth",
+          "duration": "3:09"
+        },
+        {
+          "number": 2,
+          "name": "SMUT",
+          "duration": "2:47"
+        },
+        {
+          "number": 3,
+          "name": "Red Velvet (feat. Ari Abdul)",
+          "duration": "3:06"
+        },
+        {
+          "number": 4,
+          "name": "Limerence",
+          "duration": "2:43"
+        },
+        {
+          "number": 5,
+          "name": "One of Us",
+          "duration": "2:42"
+        },
+        {
+          "number": 6,
+          "name": "Crucifixxx",
+          "duration": "2:53"
+        },
+        {
+          "number": 7,
+          "name": "House of Cards",
+          "duration": "3:05"
+        },
+        {
+          "number": 8,
           "name": "The End",
           "duration": "2:52"
         }
@@ -1024,19 +1024,6 @@
   ],
   "singles": [
     {
-      "name": "Red Velvet (with Ari Abdul)",
-      "year": "2025",
-      "release_date": "2025-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/45/c6/2b45c6b5-72bf-8faf-86da-8755667d755c/565792.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Red Velvet (with Ari Abdul)",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "Disassociate",
       "year": "2026",
       "release_date": "2026-03-25",
@@ -1046,6 +1033,19 @@
           "number": 1,
           "name": "Disassociate",
           "duration": "4:34"
+        }
+      ]
+    },
+    {
+      "name": "Red Velvet (with Ari Abdul)",
+      "year": "2025",
+      "release_date": "2025-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/45/c6/2b45c6b5-72bf-8faf-86da-8755667d755c/565792.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Red Velvet (with Ari Abdul)",
+          "duration": "3:06"
         }
       ]
     },
@@ -1394,19 +1394,6 @@
       ]
     },
     {
-      "name": "Blink Twice",
-      "year": "2026",
-      "release_date": "2026-07-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/30/b2/9a30b28b-5204-ab0e-995e-bc0bfc8766bc/823375222231_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blink Twice",
-          "duration": "3:53"
-        }
-      ]
-    },
-    {
       "name": "Danny Phantom",
       "year": "2021",
       "release_date": "2021-09-29",
@@ -1572,6 +1559,19 @@
           "number": 1,
           "name": "you and me together is a problem",
           "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "Blink Twice",
+      "year": "2026",
+      "release_date": "2026-07-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/30/b2/9a30b28b-5204-ab0e-995e-bc0bfc8766bc/823375222231_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blink Twice",
+          "duration": "3:53"
         }
       ]
     },

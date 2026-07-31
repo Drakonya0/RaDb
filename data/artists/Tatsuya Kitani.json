@@ -3,6 +3,49 @@
   "id": 1289607378,
   "albums": [
     {
+      "name": "DEMAGOG",
+      "year": "2020",
+      "release_date": "2020-08-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/01/dd/26/01dd26fd-7489-c743-0f27-8d19163b8f83/4547366466904.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HIDE AND SEEK",
+          "duration": "3:40"
+        },
+        {
+          "number": 2,
+          "name": "PANOPTICON",
+          "duration": "3:45"
+        },
+        {
+          "number": 3,
+          "name": "DEAD WEIGHT",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "HUMANLIKE",
+          "duration": "4:00"
+        },
+        {
+          "number": 5,
+          "name": "BAD DREAM",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "DEMAGOG",
+          "duration": "4:39"
+        },
+        {
+          "number": 7,
+          "name": "LOTUSES",
+          "duration": "3:19"
+        }
+      ]
+    },
+    {
       "name": "ROUNDABOUT",
       "year": "2024",
       "release_date": "2024-01-10",
@@ -57,49 +100,6 @@
           "number": 10,
           "name": "Even as an Adult",
           "duration": "3:01"
-        }
-      ]
-    },
-    {
-      "name": "DEMAGOG",
-      "year": "2020",
-      "release_date": "2020-08-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/01/dd/26/01dd26fd-7489-c743-0f27-8d19163b8f83/4547366466904.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HIDE AND SEEK",
-          "duration": "3:40"
-        },
-        {
-          "number": 2,
-          "name": "PANOPTICON",
-          "duration": "3:45"
-        },
-        {
-          "number": 3,
-          "name": "DEAD WEIGHT",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
-          "name": "HUMANLIKE",
-          "duration": "4:00"
-        },
-        {
-          "number": 5,
-          "name": "BAD DREAM",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "DEMAGOG",
-          "duration": "4:39"
-        },
-        {
-          "number": 7,
-          "name": "LOTUSES",
-          "duration": "3:19"
         }
       ]
     },
@@ -384,6 +384,19 @@
       ]
     },
     {
+      "name": "Cinnamon",
+      "year": "2021",
+      "release_date": "2021-01-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9c/81/08/9c810806-1d0a-a117-f66c-daf7e70067ed/4547366495270.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cinnamon",
+          "duration": "4:05"
+        }
+      ]
+    },
+    {
       "name": "聖者の行進",
       "year": "2021",
       "release_date": "2021-08-18",
@@ -420,6 +433,19 @@
       ]
     },
     {
+      "name": "れびてーしょん",
+      "year": "2026",
+      "release_date": "2026-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/44/99/24449966-6f8f-b1db-7a16-b85830e1f593/4547366818260.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LEVITATION",
+          "duration": "4:02"
+        }
+      ]
+    },
+    {
       "name": "青のすみか - From THE FIRST TAKE",
       "year": "2023",
       "release_date": "2023-09-13",
@@ -446,15 +472,15 @@
       ]
     },
     {
-      "name": "Cinnamon",
-      "year": "2021",
-      "release_date": "2021-01-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9c/81/08/9c810806-1d0a-a117-f66c-daf7e70067ed/4547366495270.jpg/600x600bb.jpg",
+      "name": "火種",
+      "year": "2026",
+      "release_date": "2026-04-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/bf/c5/e3bfc50a-d2a7-4f41-eb52-5868bb643772/4547366814552.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Cinnamon",
-          "duration": "4:05"
+          "name": "HIDANE",
+          "duration": "3:24"
         }
       ]
     },
@@ -485,19 +511,6 @@
       ]
     },
     {
-      "name": "火種",
-      "year": "2026",
-      "release_date": "2026-04-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/bf/c5/e3bfc50a-d2a7-4f41-eb52-5868bb643772/4547366814552.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HIDANE",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
       "name": "ナイトルーティーン",
       "year": "2023",
       "release_date": "2023-12-15",
@@ -512,19 +525,6 @@
           "number": 2,
           "name": "Night Routine (cover)",
           "duration": "3:42"
-        }
-      ]
-    },
-    {
-      "name": "F.A.C.E.",
-      "year": "2026",
-      "release_date": "2026-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/04/57/c9045710-f9fa-2de0-e337-46434248681b/4547366836530.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "F.A.C.E.",
-          "duration": "2:29"
         }
       ]
     },
@@ -590,19 +590,6 @@
           "number": 1,
           "name": "Thanatophobia",
           "duration": "3:35"
-        }
-      ]
-    },
-    {
-      "name": "れびてーしょん",
-      "year": "2026",
-      "release_date": "2026-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/44/99/24449966-6f8f-b1db-7a16-b85830e1f593/4547366818260.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LEVITATION",
-          "duration": "4:02"
         }
       ]
     },
@@ -696,19 +683,6 @@
           "number": 1,
           "name": "Slush",
           "duration": "3:26"
-        }
-      ]
-    },
-    {
-      "name": "Club Unreality",
-      "year": "2019",
-      "release_date": "2019-08-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/30/81/1a/30811a8c-4b7f-72cc-512d-b958d32f7af3/4538182835364_cov.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Club Unreality",
-          "duration": "3:59"
         }
       ]
     },
@@ -849,6 +823,32 @@
           "number": 1,
           "name": "cute aggression (Leaks From His Laptop)",
           "duration": "0:52"
+        }
+      ]
+    },
+    {
+      "name": "Club Unreality",
+      "year": "2019",
+      "release_date": "2019-08-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/30/81/1a/30811a8c-4b7f-72cc-512d-b958d32f7af3/4538182835364_cov.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Club Unreality",
+          "duration": "3:59"
+        }
+      ]
+    },
+    {
+      "name": "F.A.C.E.",
+      "year": "2026",
+      "release_date": "2026-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/04/57/c9045710-f9fa-2de0-e337-46434248681b/4547366836530.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "F.A.C.E.",
+          "duration": "2:29"
         }
       ]
     },

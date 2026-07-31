@@ -3,59 +3,6 @@
   "id": 1507875488,
   "albums": [
     {
-      "name": "Histoire de Nuit 2",
-      "year": "2022",
-      "release_date": "2022-09-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/aa/74/1eaa74ea-07f9-adeb-355c-d5d7a5a6b922/3596974260696_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "L'emprise",
-          "duration": "0:20"
-        },
-        {
-          "number": 2,
-          "name": "Ep. 6 : Crush",
-          "duration": "3:12"
-        },
-        {
-          "number": 3,
-          "name": "Le désaveu",
-          "duration": "0:15"
-        },
-        {
-          "number": 4,
-          "name": "Ep. 7 : Je me déteste",
-          "duration": "3:31"
-        },
-        {
-          "number": 5,
-          "name": "Ep. 8 : Dans mon cœur",
-          "duration": "2:31"
-        },
-        {
-          "number": 6,
-          "name": "Le temps s'échappe",
-          "duration": "0:27"
-        },
-        {
-          "number": 7,
-          "name": "Ep. 9 : Icare",
-          "duration": "3:20"
-        },
-        {
-          "number": 8,
-          "name": "Ep. 10 : Près de moi",
-          "duration": "3:06"
-        },
-        {
-          "number": 9,
-          "name": "Les démons ne marchent pas seuls...",
-          "duration": "0:25"
-        }
-      ]
-    },
-    {
       "name": "La loi du papillon",
       "year": "2023",
       "release_date": "2023-11-10",
@@ -140,6 +87,59 @@
           "number": 16,
           "name": "À l'inverse",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Histoire de Nuit 2",
+      "year": "2022",
+      "release_date": "2022-09-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1e/aa/74/1eaa74ea-07f9-adeb-355c-d5d7a5a6b922/3596974260696_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "L'emprise",
+          "duration": "0:20"
+        },
+        {
+          "number": 2,
+          "name": "Ep. 6 : Crush",
+          "duration": "3:12"
+        },
+        {
+          "number": 3,
+          "name": "Le désaveu",
+          "duration": "0:15"
+        },
+        {
+          "number": 4,
+          "name": "Ep. 7 : Je me déteste",
+          "duration": "3:31"
+        },
+        {
+          "number": 5,
+          "name": "Ep. 8 : Dans mon cœur",
+          "duration": "2:31"
+        },
+        {
+          "number": 6,
+          "name": "Le temps s'échappe",
+          "duration": "0:27"
+        },
+        {
+          "number": 7,
+          "name": "Ep. 9 : Icare",
+          "duration": "3:20"
+        },
+        {
+          "number": 8,
+          "name": "Ep. 10 : Près de moi",
+          "duration": "3:06"
+        },
+        {
+          "number": 9,
+          "name": "Les démons ne marchent pas seuls...",
+          "duration": "0:25"
         }
       ]
     },
