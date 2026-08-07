@@ -1337,6 +1337,34 @@
   ],
   "eps": [
     {
+      "name": "FUNK SERENO",
+      "year": "2026",
+      "release_date": "2026-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/45/e9/0845e93a-bc4a-7e7d-d8cf-6ec4c317f4ff/820200425317.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FUNK SERENO",
+          "duration": "2:10"
+        },
+        {
+          "number": 2,
+          "name": "FUNK SERENO (SLOWED)",
+          "duration": "2:25"
+        },
+        {
+          "number": 3,
+          "name": "FUNK SERENO (SUPER SLOWED)",
+          "duration": "2:43"
+        },
+        {
+          "number": 4,
+          "name": "FUNK SERENO (SPED UP)",
+          "duration": "1:58"
+        }
+      ]
+    },
+    {
       "name": "FUNK OSCURO",
       "year": "2024",
       "release_date": "2024-10-24",
@@ -1366,34 +1394,6 @@
           "number": 5,
           "name": "FUNK OSCURO (Sped Up)",
           "duration": "1:17"
-        }
-      ]
-    },
-    {
-      "name": "FUNK SERENO",
-      "year": "2026",
-      "release_date": "2026-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/45/e9/0845e93a-bc4a-7e7d-d8cf-6ec4c317f4ff/820200425317.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FUNK SERENO",
-          "duration": "2:10"
-        },
-        {
-          "number": 2,
-          "name": "FUNK SERENO (SLOWED)",
-          "duration": "2:25"
-        },
-        {
-          "number": 3,
-          "name": "FUNK SERENO (SUPER SLOWED)",
-          "duration": "2:43"
-        },
-        {
-          "number": 4,
-          "name": "FUNK SERENO (SPED UP)",
-          "duration": "1:58"
         }
       ]
     },
@@ -2064,39 +2064,6 @@
       ]
     },
     {
-      "name": "Ecos Do Melodia",
-      "year": "2025",
-      "release_date": "2025-04-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/6a/01/ac6a0165-7b87-4363-333c-a817223caddc/337116.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ecos Do Melodia",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "Ecos Do Melodia (Slowed)",
-          "duration": "1:39"
-        },
-        {
-          "number": 3,
-          "name": "Ecos Do Melodia (Super Slowed)",
-          "duration": "1:46"
-        },
-        {
-          "number": 4,
-          "name": "Ecos Do Melodia (Ultra Slowed)",
-          "duration": "1:57"
-        },
-        {
-          "number": 5,
-          "name": "Ecos Do Melodia (Sped Up)",
-          "duration": "1:27"
-        }
-      ]
-    },
-    {
       "name": "LLAMAME",
       "year": "2025",
       "release_date": "2025-07-25",
@@ -2131,6 +2098,39 @@
           "number": 6,
           "name": "LLAMAME (SPED UP)",
           "duration": "1:08"
+        }
+      ]
+    },
+    {
+      "name": "Ecos Do Melodia",
+      "year": "2025",
+      "release_date": "2025-04-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/6a/01/ac6a0165-7b87-4363-333c-a817223caddc/337116.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ecos Do Melodia",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "Ecos Do Melodia (Slowed)",
+          "duration": "1:39"
+        },
+        {
+          "number": 3,
+          "name": "Ecos Do Melodia (Super Slowed)",
+          "duration": "1:46"
+        },
+        {
+          "number": 4,
+          "name": "Ecos Do Melodia (Ultra Slowed)",
+          "duration": "1:57"
+        },
+        {
+          "number": 5,
+          "name": "Ecos Do Melodia (Sped Up)",
+          "duration": "1:27"
         }
       ]
     },

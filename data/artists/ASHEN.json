@@ -186,6 +186,44 @@
   ],
   "eps": [
     {
+      "name": "Singles Collection",
+      "year": "2023",
+      "release_date": "2023-08-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/e9/67/e3e96712-0fe9-55b0-285a-9a208a0c8593/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Angel",
+          "duration": "3:46"
+        },
+        {
+          "number": 2,
+          "name": "Outlier",
+          "duration": "4:22"
+        },
+        {
+          "number": 3,
+          "name": "Hidden",
+          "duration": "4:14"
+        },
+        {
+          "number": 4,
+          "name": "Sapiens",
+          "duration": "3:43"
+        },
+        {
+          "number": 5,
+          "name": "Nowhere",
+          "duration": "5:02"
+        },
+        {
+          "number": 6,
+          "name": "Smells Like Teen Spirit",
+          "duration": "4:46"
+        }
+      ]
+    },
+    {
       "name": "Crystal Tears",
       "year": "2025",
       "release_date": "2025-03-13",
@@ -243,44 +281,6 @@
           "number": 5,
           "name": "Hidden",
           "duration": "4:14"
-        }
-      ]
-    },
-    {
-      "name": "Singles Collection",
-      "year": "2023",
-      "release_date": "2023-08-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/e9/67/e3e96712-0fe9-55b0-285a-9a208a0c8593/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Angel",
-          "duration": "3:46"
-        },
-        {
-          "number": 2,
-          "name": "Outlier",
-          "duration": "4:22"
-        },
-        {
-          "number": 3,
-          "name": "Hidden",
-          "duration": "4:14"
-        },
-        {
-          "number": 4,
-          "name": "Sapiens",
-          "duration": "3:43"
-        },
-        {
-          "number": 5,
-          "name": "Nowhere",
-          "duration": "5:02"
-        },
-        {
-          "number": 6,
-          "name": "Smells Like Teen Spirit",
-          "duration": "4:46"
         }
       ]
     },

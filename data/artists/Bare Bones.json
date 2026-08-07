@@ -131,32 +131,6 @@
   ],
   "singles": [
     {
-      "name": "House Of Static",
-      "year": "2022",
-      "release_date": "2022-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/a3/b2/e3a3b256-d632-a9e4-51db-59d35e97fbb4/196626671028.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "House Of Static",
-          "duration": "4:14"
-        }
-      ]
-    },
-    {
-      "name": "Dead Man Walking",
-      "year": "2016",
-      "release_date": "2016-06-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/5b/e4/f1/5be4f177-dba1-6d8b-9d5b-11c0ca8e9327/859717598498_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dead Man Walking",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
       "name": "White Knuckles Black Tar",
       "year": "2015",
       "release_date": "2015-08-20",
@@ -209,6 +183,32 @@
       ]
     },
     {
+      "name": "House Of Static",
+      "year": "2022",
+      "release_date": "2022-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/a3/b2/e3a3b256-d632-a9e4-51db-59d35e97fbb4/196626671028.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "House Of Static",
+          "duration": "4:14"
+        }
+      ]
+    },
+    {
+      "name": "Lost",
+      "year": "2026",
+      "release_date": "2026-07-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/4f/88/ee4f8829-cdf2-c9a6-4280-8129d5ef9441/5063959121177_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lost",
+          "duration": "3:37"
+        }
+      ]
+    },
+    {
       "name": "Ivory Dusk",
       "year": "2021",
       "release_date": "2021-12-17",
@@ -223,44 +223,6 @@
     }
   ],
   "eps": [
-    {
-      "name": "Bare Bones",
-      "year": "2023",
-      "release_date": "2023-10-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/2e/72/842e7271-646f-8b18-30b1-447cfd5a0190/332889.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cross Complex",
-          "duration": "3:37"
-        },
-        {
-          "number": 2,
-          "name": "King Death",
-          "duration": "3:17"
-        },
-        {
-          "number": 3,
-          "name": "Phantom Redeemer",
-          "duration": "3:26"
-        },
-        {
-          "number": 4,
-          "name": "Low Light Reel",
-          "duration": "3:39"
-        },
-        {
-          "number": 5,
-          "name": "Power Animal",
-          "duration": "2:55"
-        },
-        {
-          "number": 6,
-          "name": "2000 Days",
-          "duration": "3:29"
-        }
-      ]
-    },
     {
       "name": "Cut Throat Living",
       "year": "2015",
@@ -324,6 +286,44 @@
           "number": 4,
           "name": "Space Guns (Remaster)",
           "duration": "4:15"
+        }
+      ]
+    },
+    {
+      "name": "Bare Bones",
+      "year": "2023",
+      "release_date": "2023-10-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/2e/72/842e7271-646f-8b18-30b1-447cfd5a0190/332889.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cross Complex",
+          "duration": "3:37"
+        },
+        {
+          "number": 2,
+          "name": "King Death",
+          "duration": "3:17"
+        },
+        {
+          "number": 3,
+          "name": "Phantom Redeemer",
+          "duration": "3:26"
+        },
+        {
+          "number": 4,
+          "name": "Low Light Reel",
+          "duration": "3:39"
+        },
+        {
+          "number": 5,
+          "name": "Power Animal",
+          "duration": "2:55"
+        },
+        {
+          "number": 6,
+          "name": "2000 Days",
+          "duration": "3:29"
         }
       ]
     },

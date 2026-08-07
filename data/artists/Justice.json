@@ -829,19 +829,6 @@
       ]
     },
     {
-      "name": "What You Want",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/29/a1/e729a1f0-eaaf-80eb-3c31-91e9601e2944/5056556175278_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "What You Want",
-          "duration": "3:08"
-        }
-      ]
-    },
-    {
       "name": "D.A.N.C.E. (Logic Reprise)",
       "year": "2022",
       "release_date": "2022-12-08",
@@ -856,6 +843,19 @@
           "number": 2,
           "name": "D.A.N.C.E.",
           "duration": "4:02"
+        }
+      ]
+    },
+    {
+      "name": "What You Want",
+      "year": "2026",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/29/a1/e729a1f0-eaaf-80eb-3c31-91e9601e2944/5056556175278_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "What You Want",
+          "duration": "3:08"
         }
       ]
     },
@@ -930,6 +930,19 @@
       ]
     },
     {
+      "name": "The End",
+      "year": "2024",
+      "release_date": "2024-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a8/d0/eea8d0e6-94cd-0a6b-5232-7fc90747d42d/5056556135890_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The End",
+          "duration": "4:14"
+        }
+      ]
+    },
+    {
       "name": "What You Want (SG Lewis Remix) [feat. Justice]",
       "year": "2026",
       "release_date": "2026-05-29",
@@ -944,19 +957,6 @@
           "number": 2,
           "name": "What You Want",
           "duration": "3:08"
-        }
-      ]
-    },
-    {
-      "name": "The End",
-      "year": "2024",
-      "release_date": "2024-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/a8/d0/eea8d0e6-94cd-0a6b-5232-7fc90747d42d/5056556135890_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The End",
-          "duration": "4:14"
         }
       ]
     },
@@ -1245,6 +1245,62 @@
       ]
     },
     {
+      "name": "D.A.N.C.E.",
+      "year": "2007",
+      "release_date": "2007-04-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/db/91/e8/db91e87f-2d3e-be0b-eb22-b43051a57dc0/5060107720718_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "D.A.N.C.E (Radio Edit)",
+          "duration": "3:31"
+        },
+        {
+          "number": 2,
+          "name": "B.E.A.T (Extended Mix)",
+          "duration": "4:52"
+        },
+        {
+          "number": 3,
+          "name": "Phantom",
+          "duration": "4:59"
+        },
+        {
+          "number": 4,
+          "name": "D.A.N.C.E (Extended Mix)",
+          "duration": "4:34"
+        }
+      ]
+    },
+    {
+      "name": "Mannequin Love (Remixes)",
+      "year": "2025",
+      "release_date": "2025-07-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/b8/32/36b83270-adf1-7318-b66a-7a0ffafe1b63/5056556162551_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mannequin Love",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Mannequin Love (The Dare Remix)",
+          "duration": "4:17"
+        },
+        {
+          "number": 3,
+          "name": "Mannequin Love (Braxe + Falcon Remix)",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Mannequin Love (Hudson Mohawke Remix)",
+          "duration": "4:19"
+        }
+      ]
+    },
+    {
       "name": "Afterimage (Remixes)",
       "year": "2025",
       "release_date": "2025-04-30",
@@ -1274,34 +1330,6 @@
           "number": 5,
           "name": "Afterimage (Paranoid London Remix)",
           "duration": "5:55"
-        }
-      ]
-    },
-    {
-      "name": "Mannequin Love (Remixes)",
-      "year": "2025",
-      "release_date": "2025-07-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/b8/32/36b83270-adf1-7318-b66a-7a0ffafe1b63/5056556162551_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mannequin Love",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Mannequin Love (The Dare Remix)",
-          "duration": "4:17"
-        },
-        {
-          "number": 3,
-          "name": "Mannequin Love (Braxe + Falcon Remix)",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "Mannequin Love (Hudson Mohawke Remix)",
-          "duration": "4:19"
         }
       ]
     },
@@ -1360,34 +1388,6 @@
           "number": 10,
           "name": "D.A.N.C.E. (Alan Braxe & Fred Falke Remix)",
           "duration": "5:05"
-        }
-      ]
-    },
-    {
-      "name": "D.A.N.C.E.",
-      "year": "2007",
-      "release_date": "2007-04-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/db/91/e8/db91e87f-2d3e-be0b-eb22-b43051a57dc0/5060107720718_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "D.A.N.C.E (Radio Edit)",
-          "duration": "3:31"
-        },
-        {
-          "number": 2,
-          "name": "B.E.A.T (Extended Mix)",
-          "duration": "4:52"
-        },
-        {
-          "number": 3,
-          "name": "Phantom",
-          "duration": "4:59"
-        },
-        {
-          "number": 4,
-          "name": "D.A.N.C.E (Extended Mix)",
-          "duration": "4:34"
         }
       ]
     },

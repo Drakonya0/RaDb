@@ -752,13 +752,6 @@
       ]
     },
     {
-      "name": "Seven Days Walking: Day 5",
-      "year": "2019",
-      "release_date": "2019-07-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/eb/50/1f/eb501f90-0bc4-4aec-80fb-e4dcbe5df762/00028948181476.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Seven Days Walking: Day 7",
       "year": "2019",
       "release_date": "2019-09-20",
@@ -823,6 +816,91 @@
           "number": 12,
           "name": "Day 7: Campfire Var. 2",
           "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "Seven Days Walking: Day 5",
+      "year": "2019",
+      "release_date": "2019-07-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/eb/50/1f/eb501f90-0bc4-4aec-80fb-e4dcbe5df762/00028948181476.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "I Giorni",
+      "year": "2001",
+      "release_date": "2001-11-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/2f/57/152f5799-ce9f-a0be-b969-3aadcf56f476/20UMGIM59829.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Melodia Africana I",
+          "duration": "2:17"
+        },
+        {
+          "number": 2,
+          "name": "I Due Fiumi",
+          "duration": "4:21"
+        },
+        {
+          "number": 3,
+          "name": "In Un'Altra Vita",
+          "duration": "5:20"
+        },
+        {
+          "number": 4,
+          "name": "Melodia Africana II",
+          "duration": "2:07"
+        },
+        {
+          "number": 5,
+          "name": "Stella Del Mattino",
+          "duration": "2:13"
+        },
+        {
+          "number": 6,
+          "name": "I Giorni",
+          "duration": "5:59"
+        },
+        {
+          "number": 7,
+          "name": "Samba",
+          "duration": "4:14"
+        },
+        {
+          "number": 8,
+          "name": "Melodia Africana III",
+          "duration": "4:19"
+        },
+        {
+          "number": 9,
+          "name": "La Nascita Delle Cose Segrete",
+          "duration": "4:23"
+        },
+        {
+          "number": 10,
+          "name": "Quel Che Resta",
+          "duration": "4:22"
+        },
+        {
+          "number": 11,
+          "name": "Inizio",
+          "duration": "3:27"
+        },
+        {
+          "number": 12,
+          "name": "Limbo",
+          "duration": "4:28"
+        },
+        {
+          "number": 13,
+          "name": "Bella Notte",
+          "duration": "5:14"
+        },
+        {
+          "number": 14,
+          "name": "Canzone Africana IV",
+          "duration": "7:34"
         }
       ]
     },
@@ -901,84 +979,6 @@
           "number": 14,
           "name": "Berlin Song",
           "duration": "4:26"
-        }
-      ]
-    },
-    {
-      "name": "I Giorni",
-      "year": "2001",
-      "release_date": "2001-11-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/2f/57/152f5799-ce9f-a0be-b969-3aadcf56f476/20UMGIM59829.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Melodia Africana I",
-          "duration": "2:17"
-        },
-        {
-          "number": 2,
-          "name": "I Due Fiumi",
-          "duration": "4:21"
-        },
-        {
-          "number": 3,
-          "name": "In Un'Altra Vita",
-          "duration": "5:20"
-        },
-        {
-          "number": 4,
-          "name": "Melodia Africana II",
-          "duration": "2:07"
-        },
-        {
-          "number": 5,
-          "name": "Stella Del Mattino",
-          "duration": "2:13"
-        },
-        {
-          "number": 6,
-          "name": "I Giorni",
-          "duration": "5:59"
-        },
-        {
-          "number": 7,
-          "name": "Samba",
-          "duration": "4:14"
-        },
-        {
-          "number": 8,
-          "name": "Melodia Africana III",
-          "duration": "4:19"
-        },
-        {
-          "number": 9,
-          "name": "La Nascita Delle Cose Segrete",
-          "duration": "4:23"
-        },
-        {
-          "number": 10,
-          "name": "Quel Che Resta",
-          "duration": "4:22"
-        },
-        {
-          "number": 11,
-          "name": "Inizio",
-          "duration": "3:27"
-        },
-        {
-          "number": 12,
-          "name": "Limbo",
-          "duration": "4:28"
-        },
-        {
-          "number": 13,
-          "name": "Bella Notte",
-          "duration": "5:14"
-        },
-        {
-          "number": 14,
-          "name": "Canzone Africana IV",
-          "duration": "7:34"
         }
       ]
     },
@@ -1418,11 +1418,97 @@
       ]
     },
     {
-      "name": "Seven Days Walking: Day 3",
-      "year": "2019",
-      "release_date": "2019-05-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/05/0e/4b050ef2-f330-0e0d-fa59-d220c2709cce/19UMGIM12432.rgb.jpg/600x600bb.jpg",
-      "tracks": []
+      "name": "Solo Piano",
+      "year": "2026",
+      "release_date": "2026-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/ea/23/82ea23d5-371d-71db-8c1c-bf44e9c8ef62/25UM2IM01199.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Le Onde",
+          "duration": "5:23"
+        },
+        {
+          "number": 2,
+          "name": "Nefeli",
+          "duration": "4:11"
+        },
+        {
+          "number": 3,
+          "name": "Melodia Africana III",
+          "duration": "4:18"
+        },
+        {
+          "number": 4,
+          "name": "Memory One",
+          "duration": "4:23"
+        },
+        {
+          "number": 5,
+          "name": "I Giorni",
+          "duration": "5:59"
+        },
+        {
+          "number": 6,
+          "name": "In Un'Altra Vita",
+          "duration": "5:20"
+        },
+        {
+          "number": 7,
+          "name": "Una Mattina",
+          "duration": "3:24"
+        },
+        {
+          "number": 8,
+          "name": "Nuvole Bianche",
+          "duration": "5:56"
+        },
+        {
+          "number": 9,
+          "name": "Monday",
+          "duration": "5:55"
+        },
+        {
+          "number": 10,
+          "name": "Jay",
+          "duration": "3:09"
+        },
+        {
+          "number": 11,
+          "name": "Seven Days Walking / Day 2: Birdsong",
+          "duration": "5:24"
+        },
+        {
+          "number": 12,
+          "name": "Adieux",
+          "duration": "2:53"
+        },
+        {
+          "number": 13,
+          "name": "Berlin Song",
+          "duration": "4:23"
+        },
+        {
+          "number": 14,
+          "name": "Experience (Solo Piano)",
+          "duration": "5:06"
+        },
+        {
+          "number": 15,
+          "name": "Luminous",
+          "duration": "4:41"
+        },
+        {
+          "number": 16,
+          "name": "Elegy For The Arctic",
+          "duration": "2:38"
+        },
+        {
+          "number": 17,
+          "name": "The Snow Prelude No. 2",
+          "duration": "4:15"
+        }
+      ]
     },
     {
       "name": "Divenire (Bonus Track Version)",
@@ -1496,6 +1582,13 @@
           "duration": "7:07"
         }
       ]
+    },
+    {
+      "name": "Seven Days Walking: Day 3",
+      "year": "2019",
+      "release_date": "2019-05-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/05/0e/4b050ef2-f330-0e0d-fa59-d220c2709cce/19UMGIM12432.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Eden Roc",
@@ -1620,99 +1713,6 @@
           "number": 7,
           "name": "Walk (Phaeleh Remix)",
           "duration": "5:08"
-        }
-      ]
-    },
-    {
-      "name": "Solo Piano",
-      "year": "2026",
-      "release_date": "2026-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/ea/23/82ea23d5-371d-71db-8c1c-bf44e9c8ef62/25UM2IM01199.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Le Onde",
-          "duration": "5:23"
-        },
-        {
-          "number": 2,
-          "name": "Nefeli",
-          "duration": "4:11"
-        },
-        {
-          "number": 3,
-          "name": "Melodia Africana III",
-          "duration": "4:18"
-        },
-        {
-          "number": 4,
-          "name": "Memory One",
-          "duration": "4:23"
-        },
-        {
-          "number": 5,
-          "name": "I Giorni",
-          "duration": "5:59"
-        },
-        {
-          "number": 6,
-          "name": "In Un'Altra Vita",
-          "duration": "5:20"
-        },
-        {
-          "number": 7,
-          "name": "Una Mattina",
-          "duration": "3:24"
-        },
-        {
-          "number": 8,
-          "name": "Nuvole Bianche",
-          "duration": "5:56"
-        },
-        {
-          "number": 9,
-          "name": "Monday",
-          "duration": "5:55"
-        },
-        {
-          "number": 10,
-          "name": "Jay",
-          "duration": "3:09"
-        },
-        {
-          "number": 11,
-          "name": "Seven Days Walking / Day 2: Birdsong",
-          "duration": "5:24"
-        },
-        {
-          "number": 12,
-          "name": "Adieux",
-          "duration": "2:53"
-        },
-        {
-          "number": 13,
-          "name": "Berlin Song",
-          "duration": "4:23"
-        },
-        {
-          "number": 14,
-          "name": "Experience (Solo Piano)",
-          "duration": "5:06"
-        },
-        {
-          "number": 15,
-          "name": "Luminous",
-          "duration": "4:41"
-        },
-        {
-          "number": 16,
-          "name": "Elegy For The Arctic",
-          "duration": "2:38"
-        },
-        {
-          "number": 17,
-          "name": "The Snow Prelude No. 2",
-          "duration": "4:15"
         }
       ]
     },
@@ -4098,6 +4098,19 @@
       ]
     },
     {
+      "name": "Rose Bay",
+      "year": "2024",
+      "release_date": "2024-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/96/83/ef968309-f463-8027-ecb0-f30138966c3a/24UMGIM93778.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rose Bay",
+          "duration": "4:19"
+        }
+      ]
+    },
+    {
       "name": "Waterways (Reimagined)",
       "year": "2024",
       "release_date": "2024-05-17",
@@ -4133,19 +4146,6 @@
           "number": 1,
           "name": "Walk (Reimagined)",
           "duration": "5:05"
-        }
-      ]
-    },
-    {
-      "name": "Rose Bay",
-      "year": "2024",
-      "release_date": "2024-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/96/83/ef968309-f463-8027-ecb0-f30138966c3a/24UMGIM93778.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rose Bay",
-          "duration": "4:19"
         }
       ]
     },
@@ -4342,6 +4342,13 @@
       "year": "2022",
       "release_date": "2022-06-21",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3b/b9/72/3bb9729d-fc3f-9425-4aaa-7d28df8e0671/22UMGIM67490.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Endless Summer",
+      "year": "2026",
+      "release_date": "2026-08-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/bf/e1/ecbfe14d-36aa-21d2-7da3-e9fc417cb4f0/26UM1IM00786.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {

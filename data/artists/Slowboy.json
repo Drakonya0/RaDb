@@ -117,6 +117,29 @@
   ],
   "singles": [
     {
+      "name": "ASTRO",
+      "year": "2023",
+      "release_date": "2023-09-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/77/6d/9d776d67-c0a9-7a8c-d805-3b049c8ef083/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ASTRO",
+          "duration": "2:24"
+        },
+        {
+          "number": 2,
+          "name": "ASTRO (Sped Up)",
+          "duration": "2:08"
+        },
+        {
+          "number": 3,
+          "name": "ASTRO (Slowed)",
+          "duration": "2:41"
+        }
+      ]
+    },
+    {
       "name": "Brazilian Phonk Mano (Super Slowed)",
       "year": "2023",
       "release_date": "2023-01-20",
@@ -165,29 +188,6 @@
           "number": 1,
           "name": "Life in Rio (feat. TOLCHONOV) [Super Slowed]",
           "duration": "1:58"
-        }
-      ]
-    },
-    {
-      "name": "ASTRO",
-      "year": "2023",
-      "release_date": "2023-09-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9d/77/6d/9d776d67-c0a9-7a8c-d805-3b049c8ef083/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ASTRO",
-          "duration": "2:24"
-        },
-        {
-          "number": 2,
-          "name": "ASTRO (Sped Up)",
-          "duration": "2:08"
-        },
-        {
-          "number": 3,
-          "name": "ASTRO (Slowed)",
-          "duration": "2:41"
         }
       ]
     },

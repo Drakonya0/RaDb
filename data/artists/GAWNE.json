@@ -252,6 +252,49 @@
       ]
     },
     {
+      "name": "Seven",
+      "year": "2023",
+      "release_date": "2023-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/74/fe/5f74fe90-a63a-7618-a926-d065c309aaea/c8baef58-146a-4084-9eba-62902e199fea.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Invincible",
+          "duration": "3:11"
+        },
+        {
+          "number": 2,
+          "name": "Red",
+          "duration": "2:59"
+        },
+        {
+          "number": 3,
+          "name": "Rescue Me",
+          "duration": "3:18"
+        },
+        {
+          "number": 4,
+          "name": "War With Myself",
+          "duration": "3:05"
+        },
+        {
+          "number": 5,
+          "name": "Alive",
+          "duration": "4:32"
+        },
+        {
+          "number": 6,
+          "name": "Outlaw",
+          "duration": "2:53"
+        },
+        {
+          "number": 7,
+          "name": "Horns",
+          "duration": "2:49"
+        }
+      ]
+    },
+    {
       "name": "Rainy Days",
       "year": "2024",
       "release_date": "2024-09-20",
@@ -366,49 +409,6 @@
           "number": 22,
           "name": "Apocalypse",
           "duration": "2:11"
-        }
-      ]
-    },
-    {
-      "name": "Seven",
-      "year": "2023",
-      "release_date": "2023-03-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/74/fe/5f74fe90-a63a-7618-a926-d065c309aaea/c8baef58-146a-4084-9eba-62902e199fea.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Invincible",
-          "duration": "3:11"
-        },
-        {
-          "number": 2,
-          "name": "Red",
-          "duration": "2:59"
-        },
-        {
-          "number": 3,
-          "name": "Rescue Me",
-          "duration": "3:18"
-        },
-        {
-          "number": 4,
-          "name": "War With Myself",
-          "duration": "3:05"
-        },
-        {
-          "number": 5,
-          "name": "Alive",
-          "duration": "4:32"
-        },
-        {
-          "number": 6,
-          "name": "Outlaw",
-          "duration": "2:53"
-        },
-        {
-          "number": 7,
-          "name": "Horns",
-          "duration": "2:49"
         }
       ]
     },
@@ -814,19 +814,6 @@
       ]
     },
     {
-      "name": "Lights Out",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/de/24/0dde2414-3837-a88b-ae76-d3d328af4b70/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lights Out",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "Rich Men North of Richmond (Remix)",
       "year": "2023",
       "release_date": "2023-09-22",
@@ -836,19 +823,6 @@
           "number": 1,
           "name": "Rich Men North of Richmond (Remix)",
           "duration": "2:41"
-        }
-      ]
-    },
-    {
-      "name": "Chopper",
-      "year": "2024",
-      "release_date": "2024-03-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/20/b1/9020b1b7-b7bb-b4ad-4bbe-e0bbe6d7c847/7300340463125.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chopper",
-          "duration": "3:04"
         }
       ]
     },
@@ -866,15 +840,28 @@
       ]
     },
     {
-      "name": "Invincible",
-      "year": "2022",
-      "release_date": "2022-12-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fe/b0/fc/feb0fc7c-1d99-254e-6197-0c15665a3616/2736862f-0ff1-4a1f-90dc-a827b555a92f.jpg/600x600bb.jpg",
+      "name": "Lights Out",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/de/24/0dde2414-3837-a88b-ae76-d3d328af4b70/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Invincible",
-          "duration": "3:11"
+          "name": "Lights Out",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "Chopper",
+      "year": "2024",
+      "release_date": "2024-03-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/20/b1/9020b1b7-b7bb-b4ad-4bbe-e0bbe6d7c847/7300340463125.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chopper",
+          "duration": "3:04"
         }
       ]
     },
@@ -888,6 +875,19 @@
           "number": 1,
           "name": "In My Bones",
           "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "Invincible",
+      "year": "2022",
+      "release_date": "2022-12-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fe/b0/fc/feb0fc7c-1d99-254e-6197-0c15665a3616/2736862f-0ff1-4a1f-90dc-a827b555a92f.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Invincible",
+          "duration": "3:11"
         }
       ]
     },
@@ -957,32 +957,6 @@
       ]
     },
     {
-      "name": "King Kong",
-      "year": "2026",
-      "release_date": "2026-07-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/7a/be/f17abe39-7585-f095-ada6-43b391c86c37/859741619817_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "King Kong",
-          "duration": "2:35"
-        }
-      ]
-    },
-    {
-      "name": "Nightmares",
-      "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/1b/86/2c1b8641-ee7e-279a-865d-30a56af309d1/074417071755.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nightmares",
-          "duration": "2:49"
-        }
-      ]
-    },
-    {
       "name": "Born Different",
       "year": "2023",
       "release_date": "2023-03-24",
@@ -1022,15 +996,15 @@
       ]
     },
     {
-      "name": "I Hate You",
-      "year": "2020",
-      "release_date": "2020-09-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/70/64/98/7064980e-eab9-8a26-b863-0ef8f0574bd5/3134219f-a64c-4ee3-97cb-d259e46eb226.jpg/600x600bb.jpg",
+      "name": "Look At Me Now",
+      "year": "2024",
+      "release_date": "2024-07-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/1d/67/7d1d67c1-90d8-dd62-d5d3-75088e69aa1a/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "I Hate You",
-          "duration": "3:03"
+          "name": "Look At Me Now",
+          "duration": "3:20"
         }
       ]
     },
@@ -1149,15 +1123,15 @@
       ]
     },
     {
-      "name": "Look At Me Now",
-      "year": "2024",
-      "release_date": "2024-07-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/1d/67/7d1d67c1-90d8-dd62-d5d3-75088e69aa1a/artwork.jpg/600x600bb.jpg",
+      "name": "Nightmares",
+      "year": "2025",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/1b/86/2c1b8641-ee7e-279a-865d-30a56af309d1/074417071755.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Look At Me Now",
-          "duration": "3:20"
+          "name": "Nightmares",
+          "duration": "2:49"
         }
       ]
     },
@@ -1328,6 +1302,19 @@
       ]
     },
     {
+      "name": "I Hate You",
+      "year": "2020",
+      "release_date": "2020-09-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/70/64/98/7064980e-eab9-8a26-b863-0ef8f0574bd5/3134219f-a64c-4ee3-97cb-d259e46eb226.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Hate You",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
       "name": "Reflections",
       "year": "2025",
       "release_date": "2025-03-28",
@@ -1441,6 +1428,19 @@
           "number": 1,
           "name": "The Little Things (feat. Gawne)",
           "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "name": "King Kong",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/7a/be/f17abe39-7585-f095-ada6-43b391c86c37/859741619817_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "King Kong",
+          "duration": "2:35"
         }
       ]
     },
@@ -2377,6 +2377,19 @@
           "number": 1,
           "name": "Forgive Me",
           "duration": "2:54"
+        }
+      ]
+    },
+    {
+      "name": "Work That",
+      "year": "2026",
+      "release_date": "2026-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/75/c1/fe75c1c8-fa06-d061-8384-4208278e8ff8/859742714788_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Work That",
+          "duration": "2:01"
         }
       ]
     },

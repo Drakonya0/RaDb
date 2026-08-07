@@ -120,6 +120,29 @@
       ]
     },
     {
+      "name": "Devour",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/84/1d/33841d32-3c89-339e-fc17-331a8ce9c110/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Devour",
+          "duration": "3:05"
+        },
+        {
+          "number": 2,
+          "name": "Am I Enough?",
+          "duration": "3:36"
+        },
+        {
+          "number": 3,
+          "name": "Endlessly",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
       "name": "Haunting",
       "year": "2025",
       "release_date": "2025-10-28",
@@ -170,29 +193,6 @@
           "number": 1,
           "name": "In The dark",
           "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "Devour",
-      "year": "2026",
-      "release_date": "2026-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/84/1d/33841d32-3c89-339e-fc17-331a8ce9c110/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Devour",
-          "duration": "3:05"
-        },
-        {
-          "number": 2,
-          "name": "Am I Enough?",
-          "duration": "3:36"
-        },
-        {
-          "number": 3,
-          "name": "Endlessly",
-          "duration": "3:15"
         }
       ]
     },
@@ -390,34 +390,6 @@
   ],
   "eps": [
     {
-      "name": "Come Down",
-      "year": "2025",
-      "release_date": "2025-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/c9/97/20c99731-12b0-bf4d-f3e3-0791a5428bcc/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Come Down",
-          "duration": "4:26"
-        },
-        {
-          "number": 2,
-          "name": "Rip Me Apart",
-          "duration": "3:49"
-        },
-        {
-          "number": 3,
-          "name": "Roots",
-          "duration": "2:27"
-        },
-        {
-          "number": 4,
-          "name": "Medusa",
-          "duration": "4:05"
-        }
-      ]
-    },
-    {
       "name": "Want You Back",
       "year": "2026",
       "release_date": "2026-08-07",
@@ -447,6 +419,34 @@
           "number": 5,
           "name": "Endlessly",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Come Down",
+      "year": "2025",
+      "release_date": "2025-01-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/c9/97/20c99731-12b0-bf4d-f3e3-0791a5428bcc/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Come Down",
+          "duration": "4:26"
+        },
+        {
+          "number": 2,
+          "name": "Rip Me Apart",
+          "duration": "3:49"
+        },
+        {
+          "number": 3,
+          "name": "Roots",
+          "duration": "2:27"
+        },
+        {
+          "number": 4,
+          "name": "Medusa",
+          "duration": "4:05"
         }
       ]
     },

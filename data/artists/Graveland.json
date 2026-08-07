@@ -1,36 +1,116 @@
 {
-  "name": "Muziekvereniging BMOL s' Graveland",
-  "id": 1755220673,
-  "albums": [],
-  "singles": [],
-  "eps": [
+  "name": "Gravel & Grace",
+  "id": 1854531438,
+  "albums": [
     {
-      "name": "Joop de Winter in concert",
-      "year": "2024",
-      "release_date": "2024-07-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/01/98/08019841-591a-f025-6c74-a9278a3cc9f6/145125.jpg/600x600bb.jpg",
+      "name": "Home Again",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/55/ad/3b55adf4-a124-a0a7-8913-48170b9c1575/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Freedom Suite",
-          "duration": "7:19"
+          "name": "River of Grace",
+          "duration": "3:16"
         },
         {
           "number": 2,
-          "name": "Sport & Music",
-          "duration": "1:29"
+          "name": "Back to Church",
+          "duration": "3:20"
         },
         {
           "number": 3,
-          "name": "Midnight Love",
-          "duration": "4:15"
+          "name": "Quiet in the Chaos",
+          "duration": "4:00"
         },
         {
           "number": 4,
-          "name": "Maxi Mars",
-          "duration": "4:53"
+          "name": "Home Again",
+          "duration": "4:15"
+        },
+        {
+          "number": 5,
+          "name": "Name Above the Noise",
+          "duration": "4:10"
+        },
+        {
+          "number": 6,
+          "name": "Raised on the Rock",
+          "duration": "3:54"
+        },
+        {
+          "number": 7,
+          "name": "Light the Way",
+          "duration": "2:58"
+        },
+        {
+          "number": 8,
+          "name": "Better with the Light On",
+          "duration": "2:46"
+        },
+        {
+          "number": 9,
+          "name": "Freedom Road",
+          "duration": "3:22"
+        },
+        {
+          "number": 10,
+          "name": "More Than Enough",
+          "duration": "3:28"
+        },
+        {
+          "number": 11,
+          "name": "By Your Wounds",
+          "duration": "3:44"
+        },
+        {
+          "number": 12,
+          "name": "See You Again",
+          "duration": "3:12"
         }
       ]
     }
-  ]
+  ],
+  "singles": [
+    {
+      "name": "I Got Joy (Right Here)",
+      "year": "2026",
+      "release_date": "2026-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/ab/9f/00ab9fad-42b8-0468-48cf-af54238c0648/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Got Joy (Right Here)",
+          "duration": "3:11"
+        }
+      ]
+    },
+    {
+      "name": "The Night Grace Broke Through",
+      "year": "2025",
+      "release_date": "2025-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/17/0d/d4170d79-5db8-4600-f9f4-e7504193067d/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Night Grace Broke Through",
+          "duration": "3:06"
+        }
+      ]
+    },
+    {
+      "name": "If Not for Momma's Prayers",
+      "year": "2026",
+      "release_date": "2026-01-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/8b/df/c98bdff1-21cf-1973-41fe-ba933e3c6089/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "If Not for Momma's Prayers",
+          "duration": "3:47"
+        }
+      ]
+    }
+  ],
+  "eps": []
 }

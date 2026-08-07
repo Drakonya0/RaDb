@@ -238,19 +238,6 @@
       ]
     },
     {
-      "name": "SHADOW",
-      "year": "2022",
-      "release_date": "2022-07-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/76/95/fe/7695fe7e-623f-9a44-1e7a-b7a6d417561b/730530223883_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SHADOW",
-          "duration": "2:42"
-        }
-      ]
-    },
-    {
       "name": "SIN",
       "year": "2023",
       "release_date": "2023-06-09",
@@ -1733,34 +1720,6 @@
       ]
     },
     {
-      "name": "GOOD TIME",
-      "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/02/cb/5502cbbd-a786-7e7c-b12d-772b9a59ced3/1963624487550_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "GOOD TIME",
-          "duration": "1:48"
-        },
-        {
-          "number": 2,
-          "name": "GOOD TIME (SPEED UP)",
-          "duration": "1:41"
-        },
-        {
-          "number": 3,
-          "name": "GOOD TIME (SLOWED)",
-          "duration": "2:00"
-        },
-        {
-          "number": 4,
-          "name": "GOOD TIME (SUPER SLOWED)",
-          "duration": "2:08"
-        }
-      ]
-    },
-    {
       "name": "MIST",
       "year": "2026",
       "release_date": "2026-02-20",
@@ -1785,6 +1744,34 @@
           "number": 4,
           "name": "MIST (Ultra Slowed)",
           "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "GOOD TIME",
+      "year": "2026",
+      "release_date": "2026-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/02/cb/5502cbbd-a786-7e7c-b12d-772b9a59ced3/1963624487550_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "GOOD TIME",
+          "duration": "1:48"
+        },
+        {
+          "number": 2,
+          "name": "GOOD TIME (SPEED UP)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "GOOD TIME (SLOWED)",
+          "duration": "2:00"
+        },
+        {
+          "number": 4,
+          "name": "GOOD TIME (SUPER SLOWED)",
+          "duration": "2:08"
         }
       ]
     },

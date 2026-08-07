@@ -268,6 +268,24 @@
       ]
     },
     {
+      "name": "Escaping Gravity",
+      "year": "2023",
+      "release_date": "2023-08-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/b6/6c/08b66c75-1977-2427-8d4c-03df28a121e4/cover_4062851400510.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Escaping Gravity",
+          "duration": "3:25"
+        },
+        {
+          "number": 2,
+          "name": "Escaping Gravity (Instrumental)",
+          "duration": "3:23"
+        }
+      ]
+    },
+    {
       "name": "Unity",
       "year": "2015",
       "release_date": "2015-03-06",
@@ -290,24 +308,6 @@
           "number": 1,
           "name": "Pokémon Theme (TheFatRat Remix) [feat. Jason Paige]",
           "duration": "2:42"
-        }
-      ]
-    },
-    {
-      "name": "Escaping Gravity",
-      "year": "2023",
-      "release_date": "2023-08-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/08/b6/6c/08b66c75-1977-2427-8d4c-03df28a121e4/cover_4062851400510.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Escaping Gravity",
-          "duration": "3:25"
-        },
-        {
-          "number": 2,
-          "name": "Escaping Gravity (Instrumental)",
-          "duration": "3:23"
         }
       ]
     },
@@ -361,6 +361,24 @@
       ]
     },
     {
+      "name": "Sail Away",
+      "year": "2024",
+      "release_date": "2024-01-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/91/d7/78/91d77836-c544-941d-b699-02f15bdb0b68/cover_4062851454209.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sail Away",
+          "duration": "2:36"
+        },
+        {
+          "number": 2,
+          "name": "Sail Away (Instrumental)",
+          "duration": "2:36"
+        }
+      ]
+    },
+    {
       "name": "Monkeys",
       "year": "2023",
       "release_date": "2023-03-01",
@@ -388,37 +406,6 @@
           "number": 1,
           "name": "Xenogenesis",
           "duration": "3:53"
-        }
-      ]
-    },
-    {
-      "name": "Sail Away",
-      "year": "2024",
-      "release_date": "2024-01-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/91/d7/78/91d77836-c544-941d-b699-02f15bdb0b68/cover_4062851454209.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sail Away",
-          "duration": "2:36"
-        },
-        {
-          "number": 2,
-          "name": "Sail Away (Instrumental)",
-          "duration": "2:36"
-        }
-      ]
-    },
-    {
-      "name": "Myself & I",
-      "year": "2024",
-      "release_date": "2024-04-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/07/e0/9f07e0da-b1b5-9144-f49e-8d664dd039d0/cover_4062851483520.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Myself & I",
-          "duration": "3:23"
         }
       ]
     },
@@ -459,19 +446,6 @@
       ]
     },
     {
-      "name": "Warbringer (feat. Lindsey Stirling)",
-      "year": "2021",
-      "release_date": "2021-08-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/e4/43/51e44380-a07c-1fd8-c865-b30a2a7def01/cover_4064832635249.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Warbringer (feat. Lindsey Stirling)",
-          "duration": "3:39"
-        }
-      ]
-    },
-    {
       "name": "Time Lapse",
       "year": "2015",
       "release_date": "2015-04-16",
@@ -481,6 +455,19 @@
           "number": 1,
           "name": "Time Lapse",
           "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Myself & I",
+      "year": "2024",
+      "release_date": "2024-04-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/07/e0/9f07e0da-b1b5-9144-f49e-8d664dd039d0/cover_4062851483520.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Myself & I",
+          "duration": "3:23"
         }
       ]
     },
@@ -499,6 +486,19 @@
           "number": 2,
           "name": "Myself & I",
           "duration": "3:23"
+        }
+      ]
+    },
+    {
+      "name": "Warbringer (feat. Lindsey Stirling)",
+      "year": "2021",
+      "release_date": "2021-08-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/e4/43/51e44380-a07c-1fd8-c865-b30a2a7def01/cover_4064832635249.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Warbringer (feat. Lindsey Stirling)",
+          "duration": "3:39"
         }
       ]
     },
@@ -627,19 +627,6 @@
       ]
     },
     {
-      "name": "Fly Away (feat. Anjulie)",
-      "year": "2017",
-      "release_date": "2017-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/7a/54/227a5458-3bbf-e69c-11df-9f5e39bb384a/cover_602557718584.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fly Away (feat. Anjulie)",
-          "duration": "3:14"
-        }
-      ]
-    },
-    {
       "name": "Killing Me",
       "year": "2025",
       "release_date": "2025-04-04",
@@ -671,6 +658,24 @@
       ]
     },
     {
+      "name": "We'll Meet Again",
+      "year": "2020",
+      "release_date": "2020-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/c0/b7/1fc0b7f4-bc42-1254-bacf-7e4d2ef8550d/cover_4064832044812.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "We'll Meet Again",
+          "duration": "3:15"
+        },
+        {
+          "number": 2,
+          "name": "We'll Meet Again (Instrumental)",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
       "name": "Give Myself To You",
       "year": "2025",
       "release_date": "2025-09-12",
@@ -698,24 +703,6 @@
           "number": 1,
           "name": "Sunlight",
           "duration": "2:49"
-        }
-      ]
-    },
-    {
-      "name": "We'll Meet Again",
-      "year": "2020",
-      "release_date": "2020-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/c0/b7/1fc0b7f4-bc42-1254-bacf-7e4d2ef8550d/cover_4064832044812.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "We'll Meet Again",
-          "duration": "3:15"
-        },
-        {
-          "number": 2,
-          "name": "We'll Meet Again (Instrumental)",
-          "duration": "3:15"
         }
       ]
     },
@@ -760,6 +747,19 @@
           "number": 1,
           "name": "No No No",
           "duration": "3:01"
+        }
+      ]
+    },
+    {
+      "name": "Fly Away (feat. Anjulie)",
+      "year": "2017",
+      "release_date": "2017-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/7a/54/227a5458-3bbf-e69c-11df-9f5e39bb384a/cover_602557718584.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fly Away (feat. Anjulie)",
+          "duration": "3:14"
         }
       ]
     },
@@ -818,24 +818,6 @@
       ]
     },
     {
-      "name": "Let Love Win",
-      "year": "2021",
-      "release_date": "2021-09-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/e6/ea/e5e6ea0e-0669-9de4-e771-7afd194c0c86/cover_4064832635225.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Let Love Win",
-          "duration": "3:18"
-        },
-        {
-          "number": 2,
-          "name": "Let Love Win (Instrumental)",
-          "duration": "3:18"
-        }
-      ]
-    },
-    {
       "name": "Splinter",
       "year": "2013",
       "release_date": "2013-02-08",
@@ -862,19 +844,6 @@
       ]
     },
     {
-      "name": "MAYDAY",
-      "year": "2018",
-      "release_date": "2018-03-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/4e/ab/e64eab0e-a5e0-8788-8dbe-ba3d9b6ac1e9/cover_602567485001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MAYDAY",
-          "duration": "4:07"
-        }
-      ]
-    },
-    {
       "name": "Rule the World",
       "year": "2020",
       "release_date": "2020-09-04",
@@ -893,15 +862,15 @@
       ]
     },
     {
-      "name": "Oblivion (feat. Lola Blanc)",
-      "year": "2017",
-      "release_date": "2017-10-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/9f/e9/229fe967-24cb-bff4-a632-3c4bc577c5a0/cover_602567132127.jpg/600x600bb.jpg",
+      "name": "MAYDAY",
+      "year": "2018",
+      "release_date": "2018-03-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/4e/ab/e64eab0e-a5e0-8788-8dbe-ba3d9b6ac1e9/cover_602567485001.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Oblivion (feat. Lola Blanc)",
-          "duration": "3:31"
+          "name": "MAYDAY",
+          "duration": "4:07"
         }
       ]
     },
@@ -986,6 +955,19 @@
       ]
     },
     {
+      "name": "Oblivion (feat. Lola Blanc)",
+      "year": "2017",
+      "release_date": "2017-10-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/9f/e9/229fe967-24cb-bff4-a632-3c4bc577c5a0/cover_602567132127.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Oblivion (feat. Lola Blanc)",
+          "duration": "3:31"
+        }
+      ]
+    },
+    {
       "name": "HONK",
       "year": "2025",
       "release_date": "2025-06-27",
@@ -1049,6 +1031,24 @@
           "number": 1,
           "name": "Upwind",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "Let Love Win",
+      "year": "2021",
+      "release_date": "2021-09-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/e6/ea/e5e6ea0e-0669-9de4-e771-7afd194c0c86/cover_4064832635225.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Let Love Win",
+          "duration": "3:18"
+        },
+        {
+          "number": 2,
+          "name": "Let Love Win (Instrumental)",
+          "duration": "3:18"
         }
       ]
     },

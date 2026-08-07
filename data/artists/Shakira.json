@@ -2099,19 +2099,6 @@
       ]
     },
     {
-      "name": "Don't Wait Up",
-      "year": "2021",
-      "release_date": "2021-07-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/94/8d/b9/948db92a-5120-b65a-c628-52986ab6bd67/886449413904.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Don't Wait Up",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
       "name": "El Jefe",
       "year": "2023",
       "release_date": "2023-09-20",
@@ -2121,6 +2108,19 @@
           "number": 1,
           "name": "El Jefe",
           "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "name": "Don't Wait Up",
+      "year": "2021",
+      "release_date": "2021-07-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/94/8d/b9/948db92a-5120-b65a-c628-52986ab6bd67/886449413904.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Don't Wait Up",
+          "duration": "3:24"
         }
       ]
     },
@@ -2272,6 +2272,13 @@
       "tracks": []
     },
     {
+      "name": "Y, ¿Si Fuera Ella? (+ Es +) [feat. Manuel Carrasco & Pablo López]",
+      "year": "2017",
+      "release_date": "2017-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/75/82/70758224-6508-3046-a8ac-63452d4e6ad5/00602557588330.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "ALGO TÚ",
       "year": "2026",
       "release_date": "2026-03-04",
@@ -2283,13 +2290,6 @@
           "duration": "3:33"
         }
       ]
-    },
-    {
-      "name": "Y, ¿Si Fuera Ella? (+ Es +) [feat. Manuel Carrasco & Pablo López]",
-      "year": "2017",
-      "release_date": "2017-05-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/70/75/82/70758224-6508-3046-a8ac-63452d4e6ad5/00602557588330.rgb.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "Choka Choka",
@@ -2357,19 +2357,6 @@
       ]
     },
     {
-      "name": "Dai Dai (A Cappella)",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/ad/1f/a4ad1f07-85d8-ead0-4a07-a004e3f861f9/196874608197.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dai Dai (A Cappella)",
-          "duration": "3:43"
-        }
-      ]
-    },
-    {
       "name": "Don't Wait Up (Riton Mix)",
       "year": "2021",
       "release_date": "2021-09-27",
@@ -2392,42 +2379,6 @@
           "number": 1,
           "name": "Estoy Aquí (Remix)",
           "duration": "2:39"
-        }
-      ]
-    },
-    {
-      "name": "Dai Dai (Instrumental)",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/b7/7d/2bb77dc3-1198-a9fd-8404-711576227254/196874608289.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dai Dai (Instrumental)",
-          "duration": "3:43"
-        }
-      ]
-    },
-    {
-      "name": "ALGO TÚ (Remixes)",
-      "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/a3/58/05a3582d-d52a-2339-146d-015a32e2de00/196874313855.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ALGO TÚ",
-          "duration": "3:33"
-        },
-        {
-          "number": 2,
-          "name": "ALGO TÚ (Shimza Remix)",
-          "duration": "3:34"
-        },
-        {
-          "number": 3,
-          "name": "ALGO TÚ (Indira Paganotto Remix)",
-          "duration": "3:20"
         }
       ]
     },
@@ -2483,15 +2434,38 @@
       ]
     },
     {
-      "name": "Dai Dai (Clean Bandit Remix)",
+      "name": "ALGO TÚ (Remixes)",
       "year": "2026",
-      "release_date": "2026-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/b8/70/23b87033-7378-08a6-bb0e-453e7c47ccfb/196874505496.jpg/600x600bb.jpg",
+      "release_date": "2026-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/a3/58/05a3582d-d52a-2339-146d-015a32e2de00/196874313855.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Dai Dai (Clean Bandit Remix)",
-          "duration": "3:01"
+          "name": "ALGO TÚ",
+          "duration": "3:33"
+        },
+        {
+          "number": 2,
+          "name": "ALGO TÚ (Shimza Remix)",
+          "duration": "3:34"
+        },
+        {
+          "number": 3,
+          "name": "ALGO TÚ (Indira Paganotto Remix)",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "Dai Dai (A Cappella)",
+      "year": "2026",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/ad/1f/a4ad1f07-85d8-ead0-4a07-a004e3f861f9/196874608197.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dai Dai (A Cappella)",
+          "duration": "3:43"
         }
       ]
     },
@@ -2518,6 +2492,32 @@
           "number": 1,
           "name": "Dai Dai (SPINALL Remix)",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "Dai Dai (Instrumental)",
+      "year": "2026",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/b7/7d/2bb77dc3-1198-a9fd-8404-711576227254/196874608289.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dai Dai (Instrumental)",
+          "duration": "3:43"
+        }
+      ]
+    },
+    {
+      "name": "Dai Dai (Clean Bandit Remix)",
+      "year": "2026",
+      "release_date": "2026-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/b8/70/23b87033-7378-08a6-bb0e-453e7c47ccfb/196874505496.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dai Dai (Clean Bandit Remix)",
+          "duration": "3:01"
         }
       ]
     },

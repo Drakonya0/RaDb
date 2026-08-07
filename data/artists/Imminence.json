@@ -1041,18 +1041,36 @@
       ]
     },
     {
-      "name": "False Light",
-      "year": "2026",
-      "release_date": "2026-07-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/41/15/cb41153a-2072-88bc-b63d-b374ae564f0f/823375295259_Cover.jpg/600x600bb.jpg",
+      "name": "Continuum (feat. Niklas Karlsson)",
+      "year": "2024",
+      "release_date": "2024-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/7a/aa/e57aaa67-4b3a-5bb0-2d25-9a1a4e61df6c/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
+          "name": "Continuum (feat. Niklas Karlsson)",
+          "duration": "4:17"
+        }
+      ]
+    },
+    {
+      "name": "Crestfallen",
+      "year": "2026",
+      "release_date": "2026-07-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/d8/52/1fd852b4-75ce-b6d1-b5f1-61530842ff64/823375295242_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Crestfallen",
+          "duration": "4:04"
+        },
+        {
+          "number": 2,
           "name": "False Light",
           "duration": "3:24"
         },
         {
-          "number": 2,
+          "number": 3,
           "name": "The Sword That Never Bends",
           "duration": "3:46"
         }
@@ -1073,19 +1091,6 @@
           "number": 2,
           "name": "Wine & Water (Acoustic Version)",
           "duration": "3:26"
-        }
-      ]
-    },
-    {
-      "name": "Continuum (feat. Niklas Karlsson)",
-      "year": "2024",
-      "release_date": "2024-09-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/7a/aa/e57aaa67-4b3a-5bb0-2d25-9a1a4e61df6c/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Continuum (feat. Niklas Karlsson)",
-          "duration": "4:17"
         }
       ]
     },
@@ -1116,23 +1121,18 @@
       ]
     },
     {
-      "name": "Crestfallen",
+      "name": "False Light",
       "year": "2026",
-      "release_date": "2026-07-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/d8/52/1fd852b4-75ce-b6d1-b5f1-61530842ff64/823375295242_Cover.jpg/600x600bb.jpg",
+      "release_date": "2026-07-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/41/15/cb41153a-2072-88bc-b63d-b374ae564f0f/823375295259_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Crestfallen",
-          "duration": "4:04"
-        },
-        {
-          "number": 2,
           "name": "False Light",
           "duration": "3:24"
         },
         {
-          "number": 3,
+          "number": 2,
           "name": "The Sword That Never Bends",
           "duration": "3:46"
         }
