@@ -894,54 +894,6 @@
       ]
     },
     {
-      "name": "The Last Dance (Part 1)",
-      "year": "2026",
-      "release_date": "2026-01-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/64/ed/b364edab-0029-99c5-756c-ea5a3f3c9705/663918799628.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sexy For Me",
-          "duration": "2:08"
-        },
-        {
-          "number": 2,
-          "name": "Complicated",
-          "duration": "2:48"
-        },
-        {
-          "number": 3,
-          "name": "Deep Love",
-          "duration": "2:26"
-        },
-        {
-          "number": 4,
-          "name": "Pineapple",
-          "duration": "2:51"
-        },
-        {
-          "number": 5,
-          "name": "Who Hurt You",
-          "duration": "2:35"
-        },
-        {
-          "number": 6,
-          "name": "You DJ, I'll Drive",
-          "duration": "3:03"
-        },
-        {
-          "number": 7,
-          "name": "Dial Tones",
-          "duration": "3:17"
-        },
-        {
-          "number": 8,
-          "name": "DELETE",
-          "duration": "2:31"
-        }
-      ]
-    },
-    {
       "name": "Jason Derulo (10th Anniversary Deluxe)",
       "year": "2020",
       "release_date": "2020-08-07",
@@ -1016,6 +968,54 @@
           "number": 14,
           "name": "Ridin' Solo (Justin Michael and Kemal Remix)",
           "duration": "6:17"
+        }
+      ]
+    },
+    {
+      "name": "The Last Dance (Part 1)",
+      "year": "2026",
+      "release_date": "2026-01-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/64/ed/b364edab-0029-99c5-756c-ea5a3f3c9705/663918799628.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sexy For Me",
+          "duration": "2:08"
+        },
+        {
+          "number": 2,
+          "name": "Complicated",
+          "duration": "2:48"
+        },
+        {
+          "number": 3,
+          "name": "Deep Love",
+          "duration": "2:26"
+        },
+        {
+          "number": 4,
+          "name": "Pineapple",
+          "duration": "2:51"
+        },
+        {
+          "number": 5,
+          "name": "Who Hurt You",
+          "duration": "2:35"
+        },
+        {
+          "number": 6,
+          "name": "You DJ, I'll Drive",
+          "duration": "3:03"
+        },
+        {
+          "number": 7,
+          "name": "Dial Tones",
+          "duration": "3:17"
+        },
+        {
+          "number": 8,
+          "name": "DELETE",
+          "duration": "2:31"
         }
       ]
     },
@@ -1949,6 +1949,19 @@
       ]
     },
     {
+      "name": "Slow Low",
+      "year": "2023",
+      "release_date": "2023-06-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/ef/30/d0ef30ac-9c8f-3946-1e17-6641cc3466d6/075679682130.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Slow Low",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
       "name": "Cyberlove (feat. Mims)",
       "year": "2013",
       "release_date": "2013-11-20",
@@ -2010,19 +2023,6 @@
           "number": 1,
           "name": "Tonight (D.I.Y.A)",
           "duration": "3:01"
-        }
-      ]
-    },
-    {
-      "name": "Slow Low",
-      "year": "2023",
-      "release_date": "2023-06-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d0/ef/30/d0ef30ac-9c8f-3946-1e17-6641cc3466d6/075679682130.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Slow Low",
-          "duration": "3:04"
         }
       ]
     },
@@ -2258,19 +2258,6 @@
       ]
     },
     {
-      "name": "Slidin'",
-      "year": "2022",
-      "release_date": "2022-05-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/26/53/3b/26533b22-b155-5517-e8d5-dbdf8b13a9e2/075679743718.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Slidin'",
-          "duration": "2:36"
-        }
-      ]
-    },
-    {
       "name": "Privacy",
       "year": "2026",
       "release_date": "2026-07-24",
@@ -2280,6 +2267,19 @@
           "number": 1,
           "name": "Privacy",
           "duration": "3:14"
+        }
+      ]
+    },
+    {
+      "name": "Slidin'",
+      "year": "2022",
+      "release_date": "2022-05-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/26/53/3b/26533b22-b155-5517-e8d5-dbdf8b13a9e2/075679743718.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Slidin'",
+          "duration": "2:36"
         }
       ]
     },
@@ -3532,39 +3532,6 @@
       ]
     },
     {
-      "name": "Don't Wanna Go Home",
-      "year": "2011",
-      "release_date": "2011-06-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/0f/8c/53/mzi.dgtbbvoh.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Don't Wanna Go Home",
-          "duration": "3:26"
-        },
-        {
-          "number": 2,
-          "name": "Don't Wanna Go Home (Club Junkies Club Mix)",
-          "duration": "7:07"
-        },
-        {
-          "number": 3,
-          "name": "Don't Wanna Go Home (Club Junkies Radio Mix)",
-          "duration": "3:42"
-        },
-        {
-          "number": 4,
-          "name": "Don't Wanna Go Home (7th Heaven Club Mix)",
-          "duration": "7:54"
-        },
-        {
-          "number": 5,
-          "name": "Don't Wanna Go Home (7th Heaven Radio Edit)",
-          "duration": "4:04"
-        }
-      ]
-    },
-    {
       "name": "It Girl (Remixes)",
       "year": "2011",
       "release_date": "2011-09-16",
@@ -3599,6 +3566,39 @@
           "number": 6,
           "name": "It Girl (Ed Case Dub Mix)",
           "duration": "5:08"
+        }
+      ]
+    },
+    {
+      "name": "Don't Wanna Go Home",
+      "year": "2011",
+      "release_date": "2011-06-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/0f/8c/53/mzi.dgtbbvoh.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Don't Wanna Go Home",
+          "duration": "3:26"
+        },
+        {
+          "number": 2,
+          "name": "Don't Wanna Go Home (Club Junkies Club Mix)",
+          "duration": "7:07"
+        },
+        {
+          "number": 3,
+          "name": "Don't Wanna Go Home (Club Junkies Radio Mix)",
+          "duration": "3:42"
+        },
+        {
+          "number": 4,
+          "name": "Don't Wanna Go Home (7th Heaven Club Mix)",
+          "duration": "7:54"
+        },
+        {
+          "number": 5,
+          "name": "Don't Wanna Go Home (7th Heaven Radio Edit)",
+          "duration": "4:04"
         }
       ]
     },

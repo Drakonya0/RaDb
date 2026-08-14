@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "We Don't Stop",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/ef/86/14ef8600-d210-894d-0be4-db5d16d60d23/612891153996.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "We Don't Stop",
+          "duration": "2:10"
+        }
+      ]
+    },
+    {
       "name": "Fire",
       "year": "2026",
       "release_date": "2026-01-02",
@@ -26,19 +39,6 @@
           "number": 1,
           "name": "Turn It Up",
           "duration": "2:05"
-        }
-      ]
-    },
-    {
-      "name": "We Don't Stop",
-      "year": "2026",
-      "release_date": "2026-07-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/ef/86/14ef8600-d210-894d-0be4-db5d16d60d23/612891153996.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "We Don't Stop",
-          "duration": "2:10"
         }
       ]
     },

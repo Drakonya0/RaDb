@@ -1,7 +1,60 @@
 {
-  "name": "raniers",
-  "id": 1678199159,
+  "name": "Rainier's Online Music",
+  "id": 764186870,
   "albums": [],
-  "singles": [],
+  "singles": [
+    {
+      "name": "Fantasy Flight",
+      "year": "2015",
+      "release_date": "2015-06-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/de/d1/9c/ded19c6b-5fd6-9c32-1610-5639ee3cff49/889211643844.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fantasy Flight",
+          "duration": "3:31"
+        }
+      ]
+    },
+    {
+      "name": "Love's Own Jazzed Up Sweet Song",
+      "year": "2015",
+      "release_date": "2015-10-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/20/b5/a8/20b5a86d-2dcc-333a-b472-805abb72cf82/889211962815.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Love's Own Jazzed Up Sweet Song",
+          "duration": "2:46"
+        }
+      ]
+    },
+    {
+      "name": "Modern Technology",
+      "year": "2014",
+      "release_date": "2014-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/20/c7/a7/20c7a79c-d759-9897-a191-62dba3ca3dd2/888174704999.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Modern Technology",
+          "duration": "2:34"
+        }
+      ]
+    },
+    {
+      "name": "One Horse Open Sleigh",
+      "year": "2013",
+      "release_date": "2013-11-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/00/f6/92/00f69245-9c00-f068-86f2-beb80b504699/888174408774.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One Horse Open Sleigh",
+          "duration": "2:05"
+        }
+      ]
+    }
+  ],
   "eps": []
 }

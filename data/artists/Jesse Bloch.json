@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "LIFE IS A HIGHWAY",
+      "year": "2024",
+      "release_date": "2024-12-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/87/9b/cb879b3d-ff4d-d84b-07ef-eb742974ba9e/198937125030_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LIFE IS A HIGHWAY",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
       "name": "Hawaiian Roller Coaster Ride",
       "year": "2023",
       "release_date": "2023-05-03",
@@ -39,19 +52,6 @@
           "number": 1,
           "name": "Egyptian",
           "duration": "4:45"
-        }
-      ]
-    },
-    {
-      "name": "LIFE IS A HIGHWAY",
-      "year": "2024",
-      "release_date": "2024-12-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/87/9b/cb879b3d-ff4d-d84b-07ef-eb742974ba9e/198937125030_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LIFE IS A HIGHWAY",
-          "duration": "2:51"
         }
       ]
     },
@@ -291,6 +291,19 @@
           "number": 1,
           "name": "Puzzles",
           "duration": "2:44"
+        }
+      ]
+    },
+    {
+      "name": "The Dealer",
+      "year": "2026",
+      "release_date": "2026-08-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/32/07/7c320779-b2ca-1c2d-a8ff-9149a0429d43/0196762027994.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Dealer",
+          "duration": "3:17"
         }
       ]
     },

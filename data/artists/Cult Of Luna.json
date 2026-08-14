@@ -450,6 +450,39 @@
       ]
     },
     {
+      "name": "Mariner",
+      "year": "2016",
+      "release_date": "2016-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/e2/b9/c9e2b972-2c53-c616-c580-de087cd9bad7/7072805003763_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A Greater Call",
+          "duration": "8:19"
+        },
+        {
+          "number": 2,
+          "name": "Chevron",
+          "duration": "8:53"
+        },
+        {
+          "number": 3,
+          "name": "The Wreck of S.S. Needle",
+          "duration": "9:33"
+        },
+        {
+          "number": 4,
+          "name": "Approaching Transition",
+          "duration": "12:59"
+        },
+        {
+          "number": 5,
+          "name": "Cygnus",
+          "duration": "14:50"
+        }
+      ]
+    },
+    {
       "name": "Vertikal I & II",
       "year": "2023",
       "release_date": "2023-01-25",
@@ -524,39 +557,6 @@
           "number": 14,
           "name": "Vicarious Redemption (Justin K. Broadrick Remix)",
           "duration": "9:38"
-        }
-      ]
-    },
-    {
-      "name": "Mariner",
-      "year": "2016",
-      "release_date": "2016-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/e2/b9/c9e2b972-2c53-c616-c580-de087cd9bad7/7072805003763_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A Greater Call",
-          "duration": "8:19"
-        },
-        {
-          "number": 2,
-          "name": "Chevron",
-          "duration": "8:53"
-        },
-        {
-          "number": 3,
-          "name": "The Wreck of S.S. Needle",
-          "duration": "9:33"
-        },
-        {
-          "number": 4,
-          "name": "Approaching Transition",
-          "duration": "12:59"
-        },
-        {
-          "number": 5,
-          "name": "Cygnus",
-          "duration": "14:50"
         }
       ]
     },
@@ -940,19 +940,6 @@
       ]
     },
     {
-      "name": "Three Bridges",
-      "year": "2020",
-      "release_date": "2020-12-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/75/83/29/75832976-6aa9-e770-a5e0-7ebb9da628e5/5054526786776_1.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Three Bridges",
-          "duration": "8:45"
-        }
-      ]
-    },
-    {
       "name": "Beyond IV",
       "year": "2025",
       "release_date": "2025-08-06",
@@ -962,6 +949,19 @@
           "number": 1,
           "name": "Beyond IV",
           "duration": "2:46"
+        }
+      ]
+    },
+    {
+      "name": "Three Bridges",
+      "year": "2020",
+      "release_date": "2020-12-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/75/83/29/75832976-6aa9-e770-a5e0-7ebb9da628e5/5054526786776_1.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Three Bridges",
+          "duration": "8:45"
         }
       ]
     },

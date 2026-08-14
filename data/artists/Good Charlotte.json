@@ -840,54 +840,6 @@
       ]
     },
     {
-      "name": "iTunes Live from Montreal",
-      "year": "2009",
-      "release_date": "2009-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/83/8b/ef/dj.emwiccrr.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Misery (Live)",
-          "duration": "5:30"
-        },
-        {
-          "number": 2,
-          "name": "I Just Wanna Live (Live)",
-          "duration": "3:49"
-        },
-        {
-          "number": 3,
-          "name": "Love Song (Live)",
-          "duration": "4:44"
-        },
-        {
-          "number": 4,
-          "name": "Emotionless (Live)",
-          "duration": "6:04"
-        },
-        {
-          "number": 5,
-          "name": "March On (Live)",
-          "duration": "3:30"
-        },
-        {
-          "number": 6,
-          "name": "I Don't Wanna Be In Love (Dance Floor Anthem) [Live]",
-          "duration": "6:49"
-        },
-        {
-          "number": 7,
-          "name": "Hold On (Live)",
-          "duration": "3:53"
-        },
-        {
-          "number": 8,
-          "name": "Lifestyles of the Rich & Famous (Live)",
-          "duration": "3:55"
-        }
-      ]
-    },
-    {
       "name": "Motel Du Cap",
       "year": "2025",
       "release_date": "2025-08-08",
@@ -957,6 +909,54 @@
           "number": 13,
           "name": "GC FOREVER",
           "duration": "5:36"
+        }
+      ]
+    },
+    {
+      "name": "iTunes Live from Montreal",
+      "year": "2009",
+      "release_date": "2009-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/83/8b/ef/dj.emwiccrr.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Misery (Live)",
+          "duration": "5:30"
+        },
+        {
+          "number": 2,
+          "name": "I Just Wanna Live (Live)",
+          "duration": "3:49"
+        },
+        {
+          "number": 3,
+          "name": "Love Song (Live)",
+          "duration": "4:44"
+        },
+        {
+          "number": 4,
+          "name": "Emotionless (Live)",
+          "duration": "6:04"
+        },
+        {
+          "number": 5,
+          "name": "March On (Live)",
+          "duration": "3:30"
+        },
+        {
+          "number": 6,
+          "name": "I Don't Wanna Be In Love (Dance Floor Anthem) [Live]",
+          "duration": "6:49"
+        },
+        {
+          "number": 7,
+          "name": "Hold On (Live)",
+          "duration": "3:53"
+        },
+        {
+          "number": 8,
+          "name": "Lifestyles of the Rich & Famous (Live)",
+          "duration": "3:55"
         }
       ]
     },
@@ -1280,19 +1280,6 @@
       ]
     },
     {
-      "name": "We Are Done - Live From the Motel Du Cap Tour",
-      "year": "2026",
-      "release_date": "2026-07-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/84/0f/ab840f20-a5c0-40c4-ad84-abbfdae740aa/075679571441.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "We Are Done - Live From the Motel Du Cap Tour",
-          "duration": "4:23"
-        }
-      ]
-    },
-    {
       "name": "Stepper",
       "year": "2025",
       "release_date": "2025-07-18",
@@ -1302,6 +1289,19 @@
           "number": 1,
           "name": "Stepper",
           "duration": "3:16"
+        }
+      ]
+    },
+    {
+      "name": "We Are Done - Live From the Motel Du Cap Tour",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/84/0f/ab840f20-a5c0-40c4-ad84-abbfdae740aa/075679571441.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "We Are Done - Live From the Motel Du Cap Tour",
+          "duration": "4:23"
         }
       ]
     },

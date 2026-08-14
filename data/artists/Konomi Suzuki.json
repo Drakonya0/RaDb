@@ -91,79 +91,6 @@
       ]
     },
     {
-      "name": "lead",
-      "year": "2017",
-      "release_date": "2017-03-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/91/4b/82/914b8237-fc47-045c-6255-e12a76e9f8c2/JK_ZMCZ-10979.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Love is MY RAIL",
-          "duration": "4:48"
-        },
-        {
-          "number": 2,
-          "name": "「わたし」をくれたみんなへ",
-          "duration": "3:59"
-        },
-        {
-          "number": 3,
-          "name": "yell! ~くちびるから始まる魔法~",
-          "duration": "4:09"
-        },
-        {
-          "number": 4,
-          "name": "one day sky",
-          "duration": "4:42"
-        },
-        {
-          "number": 5,
-          "name": "Tears BREAKER with piano(instrumental)",
-          "duration": "5:05"
-        },
-        {
-          "number": 6,
-          "name": "MY SHINING RAY",
-          "duration": "4:45"
-        },
-        {
-          "number": 7,
-          "name": "BE THE ONE",
-          "duration": "3:56"
-        },
-        {
-          "number": 8,
-          "name": "Absolute Soul",
-          "duration": "4:43"
-        },
-        {
-          "number": 9,
-          "name": "東のシンドバッド",
-          "duration": "4:13"
-        },
-        {
-          "number": 10,
-          "name": "Beat your Heart",
-          "duration": "4:05"
-        },
-        {
-          "number": 11,
-          "name": "Redo",
-          "duration": "4:20"
-        },
-        {
-          "number": 12,
-          "name": "Moment",
-          "duration": "4:15"
-        },
-        {
-          "number": 13,
-          "name": "全部君がいたから知ったんだ",
-          "duration": "4:20"
-        }
-      ]
-    },
-    {
       "name": "Shake Up!",
       "year": "2019",
       "release_date": "2019-11-06",
@@ -233,6 +160,79 @@
           "number": 13,
           "name": "Anataga Waraeba",
           "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "lead",
+      "year": "2017",
+      "release_date": "2017-03-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/91/4b/82/914b8237-fc47-045c-6255-e12a76e9f8c2/JK_ZMCZ-10979.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Love is MY RAIL",
+          "duration": "4:48"
+        },
+        {
+          "number": 2,
+          "name": "「わたし」をくれたみんなへ",
+          "duration": "3:59"
+        },
+        {
+          "number": 3,
+          "name": "yell! ~くちびるから始まる魔法~",
+          "duration": "4:09"
+        },
+        {
+          "number": 4,
+          "name": "one day sky",
+          "duration": "4:42"
+        },
+        {
+          "number": 5,
+          "name": "Tears BREAKER with piano(instrumental)",
+          "duration": "5:05"
+        },
+        {
+          "number": 6,
+          "name": "MY SHINING RAY",
+          "duration": "4:45"
+        },
+        {
+          "number": 7,
+          "name": "BE THE ONE",
+          "duration": "3:56"
+        },
+        {
+          "number": 8,
+          "name": "Absolute Soul",
+          "duration": "4:43"
+        },
+        {
+          "number": 9,
+          "name": "東のシンドバッド",
+          "duration": "4:13"
+        },
+        {
+          "number": 10,
+          "name": "Beat your Heart",
+          "duration": "4:05"
+        },
+        {
+          "number": 11,
+          "name": "Redo",
+          "duration": "4:20"
+        },
+        {
+          "number": 12,
+          "name": "Moment",
+          "duration": "4:15"
+        },
+        {
+          "number": 13,
+          "name": "全部君がいたから知ったんだ",
+          "duration": "4:20"
         }
       ]
     },
@@ -577,19 +577,6 @@
       ]
     },
     {
-      "name": "Reweave(English Version)",
-      "year": "2024",
-      "release_date": "2024-12-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/7f/4e/687f4e68-61d5-bf41-2b5d-03c9fcd15a1b/JKT_ZMCZ-17524.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Reweave(English Version)",
-          "duration": "3:56"
-        }
-      ]
-    },
-    {
       "name": "TV Animation \"Konoyo No Hate De Koi Wo Utau Shojo Yu_No\" OP & ED",
       "year": "2019",
       "release_date": "2019-04-02",
@@ -604,6 +591,19 @@
           "number": 2,
           "name": "Shinri No Kagami, Tsurugi No Youni",
           "duration": "1:32"
+        }
+      ]
+    },
+    {
+      "name": "Reweave(English Version)",
+      "year": "2024",
+      "release_date": "2024-12-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/7f/4e/687f4e68-61d5-bf41-2b5d-03c9fcd15a1b/JKT_ZMCZ-17524.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Reweave(English Version)",
+          "duration": "3:56"
         }
       ]
     },
@@ -1109,34 +1109,6 @@
       ]
     },
     {
-      "name": "Shinri No Kagami, Tsurugi No Youni (TV Animation \"Konoyo No Hate De Koi Wo Utau Shojo YU-NO\" Ending Theme)",
-      "year": "2019",
-      "release_date": "2019-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/27/01/f6/2701f6aa-71fb-f677-6dfb-6c128662b64c/USSW0166.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shinri No Kagami, Tsurugi No Youni",
-          "duration": "4:29"
-        },
-        {
-          "number": 2,
-          "name": "Curiosity",
-          "duration": "4:57"
-        },
-        {
-          "number": 3,
-          "name": "Shinri No Kagami, Tsurugi No Youni (Off Vocal)",
-          "duration": "4:29"
-        },
-        {
-          "number": 4,
-          "name": "Curiosity (Off Vocal)",
-          "duration": "4:57"
-        }
-      ]
-    },
-    {
       "name": "TVアニメ「Re:ゼロから始める異世界生活」オープニングテーマ「Redo」",
       "year": "2016",
       "release_date": "2016-05-11",
@@ -1166,6 +1138,34 @@
           "number": 5,
           "name": "メビウス (insturmental)",
           "duration": "4:16"
+        }
+      ]
+    },
+    {
+      "name": "Shinri No Kagami, Tsurugi No Youni (TV Animation \"Konoyo No Hate De Koi Wo Utau Shojo YU-NO\" Ending Theme)",
+      "year": "2019",
+      "release_date": "2019-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/27/01/f6/2701f6aa-71fb-f677-6dfb-6c128662b64c/USSW0166.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shinri No Kagami, Tsurugi No Youni",
+          "duration": "4:29"
+        },
+        {
+          "number": 2,
+          "name": "Curiosity",
+          "duration": "4:57"
+        },
+        {
+          "number": 3,
+          "name": "Shinri No Kagami, Tsurugi No Youni (Off Vocal)",
+          "duration": "4:29"
+        },
+        {
+          "number": 4,
+          "name": "Curiosity (Off Vocal)",
+          "duration": "4:57"
         }
       ]
     },

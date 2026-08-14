@@ -1209,6 +1209,49 @@
       ]
     },
     {
+      "name": "CiCi",
+      "year": "2023",
+      "release_date": "2023-08-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/61/9c/9b619c23-26ed-7160-fc4d-15f0a8d539ee/617513743791.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "How We Roll",
+          "duration": "3:19"
+        },
+        {
+          "number": 2,
+          "name": "BRB",
+          "duration": "2:27"
+        },
+        {
+          "number": 3,
+          "name": "Low Key",
+          "duration": "3:29"
+        },
+        {
+          "number": 4,
+          "name": "Type A Party",
+          "duration": "3:45"
+        },
+        {
+          "number": 5,
+          "name": "Forever (feat. Lil Baby)",
+          "duration": "2:55"
+        },
+        {
+          "number": 6,
+          "name": "2 in Luv",
+          "duration": "2:58"
+        },
+        {
+          "number": 7,
+          "name": "Winning (feat. Big Freedia)",
+          "duration": "2:30"
+        }
+      ]
+    },
+    {
       "name": "Goodies (20th Anniversary)",
       "year": "2024",
       "release_date": "2024-09-27",
@@ -1434,49 +1477,6 @@
           "number": 19,
           "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
           "duration": "3:30"
-        }
-      ]
-    },
-    {
-      "name": "CiCi",
-      "year": "2023",
-      "release_date": "2023-08-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/61/9c/9b619c23-26ed-7160-fc4d-15f0a8d539ee/617513743791.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "How We Roll",
-          "duration": "3:19"
-        },
-        {
-          "number": 2,
-          "name": "BRB",
-          "duration": "2:27"
-        },
-        {
-          "number": 3,
-          "name": "Low Key",
-          "duration": "3:29"
-        },
-        {
-          "number": 4,
-          "name": "Type A Party",
-          "duration": "3:45"
-        },
-        {
-          "number": 5,
-          "name": "Forever (feat. Lil Baby)",
-          "duration": "2:55"
-        },
-        {
-          "number": 6,
-          "name": "2 in Luv",
-          "duration": "2:58"
-        },
-        {
-          "number": 7,
-          "name": "Winning (feat. Big Freedia)",
-          "duration": "2:30"
         }
       ]
     },
@@ -1828,19 +1828,6 @@
       ]
     },
     {
-      "name": "Promise",
-      "year": "2016",
-      "release_date": "2016-10-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/98/65/1c/mzi.qcohvcey.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Promise",
-          "duration": "4:29"
-        }
-      ]
-    },
-    {
       "name": "Work (feat. Missy Elliott)",
       "year": "2009",
       "release_date": "2009-12-08",
@@ -1850,6 +1837,19 @@
           "number": 1,
           "name": "Work (feat. Missy Elliott)",
           "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "name": "Promise",
+      "year": "2016",
+      "release_date": "2016-10-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/98/65/1c/mzi.qcohvcey.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Promise",
+          "duration": "4:29"
         }
       ]
     },
@@ -2101,19 +2101,6 @@
       ]
     },
     {
-      "name": "Yes",
-      "year": "2026",
-      "release_date": "2026-07-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/51/fa/4251fa06-fa77-0d51-333d-b44606198fd9/1200214424534.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Yes",
-          "duration": "3:08"
-        }
-      ]
-    },
-    {
       "name": "Stepped On My J'z (feat. Ciara & JD)",
       "year": "2008",
       "release_date": "2008-01-01",
@@ -2179,6 +2166,19 @@
       ]
     },
     {
+      "name": "My Girl (Remix) [feat. Ciara, Tyga & Lil Twist]",
+      "year": "2011",
+      "release_date": "2011-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ea/e9/45/eae9453d-163e-c8fc-cb3f-9a0c4d2888cf/00602527692524.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "My Girl (Remix) [feat. Ciara, Tyga & Lil Twist]",
+          "duration": "3:33"
+        }
+      ]
+    },
+    {
       "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
       "year": "2025",
       "release_date": "2025-06-06",
@@ -2188,6 +2188,19 @@
           "number": 1,
           "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
           "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "Yes",
+      "year": "2026",
+      "release_date": "2026-07-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/51/fa/4251fa06-fa77-0d51-333d-b44606198fd9/1200214424534.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Yes",
+          "duration": "3:08"
         }
       ]
     },
@@ -2205,15 +2218,15 @@
       ]
     },
     {
-      "name": "My Girl (Remix) [feat. Ciara, Tyga & Lil Twist]",
-      "year": "2011",
-      "release_date": "2011-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ea/e9/45/eae9453d-163e-c8fc-cb3f-9a0c4d2888cf/00602527692524.rgb.jpg/600x600bb.jpg",
+      "name": "How We Roll (Remix)",
+      "year": "2023",
+      "release_date": "2023-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/9e/78/6c9e783d-2667-b083-7d1c-f9c21aff5aa5/617513865455.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "My Girl (Remix) [feat. Ciara, Tyga & Lil Twist]",
-          "duration": "3:33"
+          "name": "How We Roll (Remix)",
+          "duration": "3:41"
         }
       ]
     },
@@ -2245,19 +2258,6 @@
           "number": 1,
           "name": "Run It Up (Solo Version)",
           "duration": "2:34"
-        }
-      ]
-    },
-    {
-      "name": "Da Girls (Girls Mix) [feat. Lola Brooke & Lady London]",
-      "year": "2023",
-      "release_date": "2023-04-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/52/d8/0f52d86c-1393-c0fe-d189-706b1b8236f1/617513533613.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Da Girls (Girls Mix) [feat. Lola Brooke & Lady London]",
-          "duration": "3:04"
         }
       ]
     },
@@ -2324,15 +2324,15 @@
       ]
     },
     {
-      "name": "How We Roll (Remix)",
+      "name": "Da Girls (Girls Mix) [feat. Lola Brooke & Lady London]",
       "year": "2023",
-      "release_date": "2023-11-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/9e/78/6c9e783d-2667-b083-7d1c-f9c21aff5aa5/617513865455.jpg/600x600bb.jpg",
+      "release_date": "2023-04-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/52/d8/0f52d86c-1393-c0fe-d189-706b1b8236f1/617513533613.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "How We Roll (Remix)",
-          "duration": "3:41"
+          "name": "Da Girls (Girls Mix) [feat. Lola Brooke & Lady London]",
+          "duration": "3:04"
         }
       ]
     },
@@ -2433,29 +2433,6 @@
       ]
     },
     {
-      "name": "Da Girls (Versions)",
-      "year": "2023",
-      "release_date": "2023-03-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/2a/11/c12a111a-dc84-8ead-9e27-f41566311f90/617513580310.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Da Girls (Dance Mix)",
-          "duration": "2:26"
-        },
-        {
-          "number": 2,
-          "name": "Da Girls (R&B Slow Mix)",
-          "duration": "3:09"
-        },
-        {
-          "number": 3,
-          "name": "Da Girls",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
       "name": "Better Thangs",
       "year": "2022",
       "release_date": "2022-09-28",
@@ -2530,6 +2507,29 @@
           "number": 1,
           "name": "Level Up (feat. Missy Elliott & Fatman Scoop) [Remix]",
           "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "Da Girls (Versions)",
+      "year": "2023",
+      "release_date": "2023-03-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/2a/11/c12a111a-dc84-8ead-9e27-f41566311f90/617513580310.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Da Girls (Dance Mix)",
+          "duration": "2:26"
+        },
+        {
+          "number": 2,
+          "name": "Da Girls (R&B Slow Mix)",
+          "duration": "3:09"
+        },
+        {
+          "number": 3,
+          "name": "Da Girls",
+          "duration": "3:44"
         }
       ]
     },

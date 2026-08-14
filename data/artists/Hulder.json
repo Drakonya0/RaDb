@@ -3,6 +3,59 @@
   "id": 1476065947,
   "albums": [
     {
+      "name": "Verbolgen",
+      "year": "2026",
+      "release_date": "2026-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/5c/d3/5f5cd303-4ccb-fb94-8cbe-55ec453631fe/810079502400.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Drie Raven (Intro)",
+          "duration": "2:18"
+        },
+        {
+          "number": 2,
+          "name": "The Crowning",
+          "duration": "6:28"
+        },
+        {
+          "number": 3,
+          "name": "Thy Binding Oath",
+          "duration": "5:38"
+        },
+        {
+          "number": 4,
+          "name": "Verbolgen",
+          "duration": "4:00"
+        },
+        {
+          "number": 5,
+          "name": "…And We Shall Sing",
+          "duration": "6:00"
+        },
+        {
+          "number": 6,
+          "name": "In Blood And In Earth",
+          "duration": "7:09"
+        },
+        {
+          "number": 7,
+          "name": "Den Nacht Zijn Lied",
+          "duration": "6:44"
+        },
+        {
+          "number": 8,
+          "name": "View From Nemeton",
+          "duration": "5:23"
+        },
+        {
+          "number": 9,
+          "name": "The Glow Of Dawn",
+          "duration": "4:48"
+        }
+      ]
+    },
+    {
       "name": "Godslastering: Hymns of a Forlorn Peasantry",
       "year": "2021",
       "release_date": "2021-01-22",
@@ -155,59 +208,6 @@
           "duration": "7:44"
         }
       ]
-    },
-    {
-      "name": "Verbolgen",
-      "year": "2026",
-      "release_date": "2026-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/5c/d3/5f5cd303-4ccb-fb94-8cbe-55ec453631fe/810079502400.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Drie Raven (Intro)",
-          "duration": "2:18"
-        },
-        {
-          "number": 2,
-          "name": "The Crowning",
-          "duration": "6:28"
-        },
-        {
-          "number": 3,
-          "name": "Thy Binding Oath",
-          "duration": "5:38"
-        },
-        {
-          "number": 4,
-          "name": "Verbolgen",
-          "duration": "4:00"
-        },
-        {
-          "number": 5,
-          "name": "…And We Shall Sing",
-          "duration": "6:00"
-        },
-        {
-          "number": 6,
-          "name": "In Blood And In Earth",
-          "duration": "7:09"
-        },
-        {
-          "number": 7,
-          "name": "Den Nacht Zijn Lied",
-          "duration": "6:44"
-        },
-        {
-          "number": 8,
-          "name": "View From Nemeton",
-          "duration": "5:23"
-        },
-        {
-          "number": 9,
-          "name": "The Glow Of Dawn",
-          "duration": "4:48"
-        }
-      ]
     }
   ],
   "singles": [
@@ -230,24 +230,6 @@
       ]
     },
     {
-      "name": "A Beacon from Darkened Skies",
-      "year": "2025",
-      "release_date": "2025-09-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/68/5b/01685b45-6125-2715-ffff-a95ede0df0ac/199800450013.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A Beacon from Darkened Skies",
-          "duration": "4:54"
-        },
-        {
-          "number": 2,
-          "name": "Zonnesteen",
-          "duration": "4:38"
-        }
-      ]
-    },
-    {
       "name": "Purgations of Bodily Corruptions",
       "year": "2020",
       "release_date": "2020-03-20",
@@ -262,6 +244,24 @@
           "number": 2,
           "name": "Een Miasma Van Oud Kwaad",
           "duration": "6:01"
+        }
+      ]
+    },
+    {
+      "name": "A Beacon from Darkened Skies",
+      "year": "2025",
+      "release_date": "2025-09-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/68/5b/01685b45-6125-2715-ffff-a95ede0df0ac/199800450013.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A Beacon from Darkened Skies",
+          "duration": "4:54"
+        },
+        {
+          "number": 2,
+          "name": "Zonnesteen",
+          "duration": "4:38"
         }
       ]
     },

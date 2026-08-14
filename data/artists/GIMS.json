@@ -1519,59 +1519,6 @@
       ]
     },
     {
-      "name": "LE NORD SE SOUVIENT",
-      "year": "2024",
-      "release_date": "2024-09-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/c0/81/32c081d5-f3b3-2fb1-75e8-905426812332/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CIEL",
-          "duration": "3:06"
-        },
-        {
-          "number": 2,
-          "name": "OHMA TOKITA",
-          "duration": "2:15"
-        },
-        {
-          "number": 3,
-          "name": "VENT DU NORD",
-          "duration": "2:25"
-        },
-        {
-          "number": 4,
-          "name": "SPIDER",
-          "duration": "3:08"
-        },
-        {
-          "number": 5,
-          "name": "SOIS PAS TIMIDE",
-          "duration": "2:45"
-        },
-        {
-          "number": 6,
-          "name": "Terminal 2F",
-          "duration": "3:07"
-        },
-        {
-          "number": 7,
-          "name": "CARBO",
-          "duration": "2:09"
-        },
-        {
-          "number": 8,
-          "name": "AVEC TES MAINS",
-          "duration": "2:40"
-        },
-        {
-          "number": 9,
-          "name": "SAN GOKU",
-          "duration": "2:52"
-        }
-      ]
-    },
-    {
       "name": "LE NORD SE SOUVIENT : L'ODYSSÉE",
       "year": "2024",
       "release_date": "2024-12-13",
@@ -1649,6 +1596,59 @@
         },
         {
           "number": 15,
+          "name": "SAN GOKU",
+          "duration": "2:52"
+        }
+      ]
+    },
+    {
+      "name": "LE NORD SE SOUVIENT",
+      "year": "2024",
+      "release_date": "2024-09-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/c0/81/32c081d5-f3b3-2fb1-75e8-905426812332/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CIEL",
+          "duration": "3:06"
+        },
+        {
+          "number": 2,
+          "name": "OHMA TOKITA",
+          "duration": "2:15"
+        },
+        {
+          "number": 3,
+          "name": "VENT DU NORD",
+          "duration": "2:25"
+        },
+        {
+          "number": 4,
+          "name": "SPIDER",
+          "duration": "3:08"
+        },
+        {
+          "number": 5,
+          "name": "SOIS PAS TIMIDE",
+          "duration": "2:45"
+        },
+        {
+          "number": 6,
+          "name": "Terminal 2F",
+          "duration": "3:07"
+        },
+        {
+          "number": 7,
+          "name": "CARBO",
+          "duration": "2:09"
+        },
+        {
+          "number": 8,
+          "name": "AVEC TES MAINS",
+          "duration": "2:40"
+        },
+        {
+          "number": 9,
           "name": "SAN GOKU",
           "duration": "2:52"
         }
@@ -5448,19 +5448,6 @@
       "tracks": []
     },
     {
-      "name": "Soleil",
-      "year": "2026",
-      "release_date": "2026-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/1b/29/761b2990-5c9e-e19a-9326-0d8720c95ee5/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Soleil",
-          "duration": "2:11"
-        }
-      ]
-    },
-    {
       "name": "Terminal 2F",
       "year": "2024",
       "release_date": "2024-08-16",
@@ -5509,6 +5496,19 @@
           "number": 1,
           "name": "MAINTENANT",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "Soleil",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/1b/29/761b2990-5c9e-e19a-9326-0d8720c95ee5/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Soleil",
+          "duration": "2:11"
         }
       ]
     },
