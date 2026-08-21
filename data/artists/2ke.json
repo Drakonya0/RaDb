@@ -776,29 +776,6 @@
       ]
     },
     {
-      "name": "WOAH!",
-      "year": "2025",
-      "release_date": "2025-06-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/dd/63/b2dd63a6-2105-d8f4-dbd8-103086f835d8/295744.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "WOAH!",
-          "duration": "1:50"
-        },
-        {
-          "number": 2,
-          "name": "BRING IT",
-          "duration": "1:30"
-        },
-        {
-          "number": 3,
-          "name": "BONECAS",
-          "duration": "1:58"
-        }
-      ]
-    },
-    {
       "name": "CATASTROPHE",
       "year": "2024",
       "release_date": "2024-06-21",
@@ -818,6 +795,29 @@
           "number": 3,
           "name": "CATASTROPHE (SPED UP)",
           "duration": "1:06"
+        }
+      ]
+    },
+    {
+      "name": "WOAH!",
+      "year": "2025",
+      "release_date": "2025-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/dd/63/b2dd63a6-2105-d8f4-dbd8-103086f835d8/295744.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "WOAH!",
+          "duration": "1:50"
+        },
+        {
+          "number": 2,
+          "name": "BRING IT",
+          "duration": "1:30"
+        },
+        {
+          "number": 3,
+          "name": "BONECAS",
+          "duration": "1:58"
         }
       ]
     },
@@ -1491,19 +1491,6 @@
       ]
     },
     {
-      "name": "Staring Noot Noot",
-      "year": "2022",
-      "release_date": "2022-06-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/61/58/7a615801-1e2a-6dbe-4552-57c8f0116658/8f46f422-b9ab-43be-afae-8842582fc331.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Staring Noot Noot",
-          "duration": "2:11"
-        }
-      ]
-    },
-    {
       "name": "Funk Do Hipnotica 2",
       "year": "2024",
       "release_date": "2024-04-19",
@@ -1523,6 +1510,19 @@
           "number": 3,
           "name": "Funk Do Hipnotica 2 (Slowed)",
           "duration": "2:01"
+        }
+      ]
+    },
+    {
+      "name": "Staring Noot Noot",
+      "year": "2022",
+      "release_date": "2022-06-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7a/61/58/7a615801-1e2a-6dbe-4552-57c8f0116658/8f46f422-b9ab-43be-afae-8842582fc331.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Staring Noot Noot",
+          "duration": "2:11"
         }
       ]
     },
@@ -2219,34 +2219,6 @@
       ]
     },
     {
-      "name": "Desce no Beat",
-      "year": "2026",
-      "release_date": "2026-03-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/8d/46/e48d4655-22a6-e2ae-92c2-f8afc567dfd6/2962163.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Desce no Beat",
-          "duration": "1:28"
-        },
-        {
-          "number": 2,
-          "name": "Desce no Beat (Slowed)",
-          "duration": "1:36"
-        },
-        {
-          "number": 3,
-          "name": "Desce no Beat (Super Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 4,
-          "name": "Desce no Beat (Sped Up)",
-          "duration": "1:21"
-        }
-      ]
-    },
-    {
       "name": "Phonk Viciante",
       "year": "2025",
       "release_date": "2025-10-20",
@@ -2271,6 +2243,34 @@
           "number": 4,
           "name": "Phonk Viciante (Sped Up)",
           "duration": "1:17"
+        }
+      ]
+    },
+    {
+      "name": "Desce no Beat",
+      "year": "2026",
+      "release_date": "2026-03-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/8d/46/e48d4655-22a6-e2ae-92c2-f8afc567dfd6/2962163.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Desce no Beat",
+          "duration": "1:28"
+        },
+        {
+          "number": 2,
+          "name": "Desce no Beat (Slowed)",
+          "duration": "1:36"
+        },
+        {
+          "number": 3,
+          "name": "Desce no Beat (Super Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 4,
+          "name": "Desce no Beat (Sped Up)",
+          "duration": "1:21"
         }
       ]
     },

@@ -3,79 +3,6 @@
   "id": 603222293,
   "albums": [
     {
-      "name": "Chin Up, Beautiful",
-      "year": "2026",
-      "release_date": "2026-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/a4/20/dda420b8-46c6-5612-08d1-4d27784c88be/823375191711_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Icarus",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Smile, You're on Camera",
-          "duration": "3:13"
-        },
-        {
-          "number": 3,
-          "name": "The Catalyst",
-          "duration": "3:25"
-        },
-        {
-          "number": 4,
-          "name": "Disassociate",
-          "duration": "4:34"
-        },
-        {
-          "number": 5,
-          "name": "Crawl (Caleb's Song)",
-          "duration": "3:54"
-        },
-        {
-          "number": 6,
-          "name": "Mannequin",
-          "duration": "2:53"
-        },
-        {
-          "number": 7,
-          "name": "Goodnight (Interlude) <3",
-          "duration": "2:12"
-        },
-        {
-          "number": 8,
-          "name": "White Butterflies",
-          "duration": "3:02"
-        },
-        {
-          "number": 9,
-          "name": "Take Care of Her",
-          "duration": "4:17"
-        },
-        {
-          "number": 10,
-          "name": "Cry Wolf",
-          "duration": "3:31"
-        },
-        {
-          "number": 11,
-          "name": "Pitiful",
-          "duration": "3:26"
-        },
-        {
-          "number": 12,
-          "name": "Blink Twice",
-          "duration": "3:53"
-        },
-        {
-          "number": 13,
-          "name": "Chin Up, Beautiful",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
       "name": "Sleepyhead",
       "year": "2024",
       "release_date": "2024-12-16",
@@ -213,6 +140,79 @@
           "number": 12,
           "name": "Sleepyhead (Live)",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Chin Up, Beautiful",
+      "year": "2026",
+      "release_date": "2026-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/a4/20/dda420b8-46c6-5612-08d1-4d27784c88be/823375191711_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Icarus",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Smile, You're on Camera",
+          "duration": "3:13"
+        },
+        {
+          "number": 3,
+          "name": "The Catalyst",
+          "duration": "3:25"
+        },
+        {
+          "number": 4,
+          "name": "Disassociate",
+          "duration": "4:34"
+        },
+        {
+          "number": 5,
+          "name": "Crawl (Caleb's Song)",
+          "duration": "3:54"
+        },
+        {
+          "number": 6,
+          "name": "Mannequin",
+          "duration": "2:53"
+        },
+        {
+          "number": 7,
+          "name": "Goodnight (Interlude) <3",
+          "duration": "2:12"
+        },
+        {
+          "number": 8,
+          "name": "White Butterflies",
+          "duration": "3:02"
+        },
+        {
+          "number": 9,
+          "name": "Take Care of Her",
+          "duration": "4:17"
+        },
+        {
+          "number": 10,
+          "name": "Cry Wolf",
+          "duration": "3:31"
+        },
+        {
+          "number": 11,
+          "name": "Pitiful",
+          "duration": "3:26"
+        },
+        {
+          "number": 12,
+          "name": "Blink Twice",
+          "duration": "3:53"
+        },
+        {
+          "number": 13,
+          "name": "Chin Up, Beautiful",
+          "duration": "3:40"
         }
       ]
     },
@@ -391,49 +391,6 @@
       ]
     },
     {
-      "name": "Overrated",
-      "year": "2020",
-      "release_date": "2020-03-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/b8/ae/3cb8aed7-e214-0e2f-931a-af8929232b47/20UMGIM04531.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Where Are You Going?",
-          "duration": "2:21"
-        },
-        {
-          "number": 2,
-          "name": "Overrated",
-          "duration": "2:32"
-        },
-        {
-          "number": 3,
-          "name": "Everyone Knows",
-          "duration": "2:21"
-        },
-        {
-          "number": 4,
-          "name": "Sideshow",
-          "duration": "2:19"
-        },
-        {
-          "number": 5,
-          "name": "I'm Not Ready",
-          "duration": "3:01"
-        },
-        {
-          "number": 6,
-          "name": "Back to You",
-          "duration": "2:57"
-        },
-        {
-          "number": 7,
-          "name": "Start Over",
-          "duration": "2:53"
-        }
-      ]
-    },
-    {
       "name": "Sleepyhead",
       "year": "2024",
       "release_date": "2024-08-23",
@@ -483,6 +440,49 @@
           "number": 9,
           "name": "Sleepyhead (Live)",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Overrated",
+      "year": "2020",
+      "release_date": "2020-03-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/b8/ae/3cb8aed7-e214-0e2f-931a-af8929232b47/20UMGIM04531.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Where Are You Going?",
+          "duration": "2:21"
+        },
+        {
+          "number": 2,
+          "name": "Overrated",
+          "duration": "2:32"
+        },
+        {
+          "number": 3,
+          "name": "Everyone Knows",
+          "duration": "2:21"
+        },
+        {
+          "number": 4,
+          "name": "Sideshow",
+          "duration": "2:19"
+        },
+        {
+          "number": 5,
+          "name": "I'm Not Ready",
+          "duration": "3:01"
+        },
+        {
+          "number": 6,
+          "name": "Back to You",
+          "duration": "2:57"
+        },
+        {
+          "number": 7,
+          "name": "Start Over",
+          "duration": "2:53"
         }
       ]
     },
@@ -621,60 +621,65 @@
       ]
     },
     {
-      "name": "Careful What You Wish For",
-      "year": "2021",
-      "release_date": "2021-07-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/71/32/987132c0-f8c9-2130-9031-01293d6fa688/193436265706_01_img001.jpg/600x600bb.jpg",
+      "name": "Ladybug",
+      "year": "2023",
+      "release_date": "2023-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/7c/d6/707cd6f9-c8fd-4b46-d5b7-c0a626b0f255/333358.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Give u a Call",
-          "duration": "2:23"
-        },
-        {
-          "number": 2,
-          "name": "Fvck Your Boyfriend",
-          "duration": "2:55"
-        },
-        {
-          "number": 3,
-          "name": "Ballerina",
-          "duration": "2:07"
-        },
-        {
-          "number": 4,
-          "name": "Riptide",
+          "name": "Send My Love",
           "duration": "2:46"
         },
         {
+          "number": 2,
+          "name": "Punkstar (feat. Royal & the Serpent)",
+          "duration": "2:20"
+        },
+        {
+          "number": 3,
+          "name": "Ladybug",
+          "duration": "2:45"
+        },
+        {
+          "number": 4,
+          "name": "Do It To Myself",
+          "duration": "2:27"
+        },
+        {
           "number": 5,
-          "name": "Day Dreaming",
-          "duration": "2:55"
+          "name": "Muscle Memory",
+          "duration": "2:53"
         },
         {
           "number": 6,
-          "name": "Couch Surfin",
-          "duration": "2:44"
+          "name": "Rawdog",
+          "duration": "2:21"
         },
         {
           "number": 7,
-          "name": "Wiped Out",
-          "duration": "2:16"
+          "name": "Quitter",
+          "duration": "2:29"
         },
         {
           "number": 8,
-          "name": "California",
-          "duration": "2:05"
+          "name": "Fingers",
+          "duration": "2:28"
         },
         {
           "number": 9,
-          "name": "Here We Go Again",
-          "duration": "2:36"
+          "name": "Wicked Game",
+          "duration": "2:46"
         },
         {
           "number": 10,
-          "name": "Careful What You Wish For",
-          "duration": "3:01"
+          "name": "Static",
+          "duration": "2:19"
+        },
+        {
+          "number": 11,
+          "name": "Spit",
+          "duration": "3:11"
         }
       ]
     },
@@ -873,65 +878,60 @@
       ]
     },
     {
-      "name": "Ladybug",
-      "year": "2023",
-      "release_date": "2023-05-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/7c/d6/707cd6f9-c8fd-4b46-d5b7-c0a626b0f255/333358.jpg/600x600bb.jpg",
+      "name": "Careful What You Wish For",
+      "year": "2021",
+      "release_date": "2021-07-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/71/32/987132c0-f8c9-2130-9031-01293d6fa688/193436265706_01_img001.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Send My Love",
-          "duration": "2:46"
+          "name": "Give u a Call",
+          "duration": "2:23"
         },
         {
           "number": 2,
-          "name": "Punkstar (feat. Royal & the Serpent)",
-          "duration": "2:20"
+          "name": "Fvck Your Boyfriend",
+          "duration": "2:55"
         },
         {
           "number": 3,
-          "name": "Ladybug",
-          "duration": "2:45"
+          "name": "Ballerina",
+          "duration": "2:07"
         },
         {
           "number": 4,
-          "name": "Do It To Myself",
-          "duration": "2:27"
-        },
-        {
-          "number": 5,
-          "name": "Muscle Memory",
-          "duration": "2:53"
-        },
-        {
-          "number": 6,
-          "name": "Rawdog",
-          "duration": "2:21"
-        },
-        {
-          "number": 7,
-          "name": "Quitter",
-          "duration": "2:29"
-        },
-        {
-          "number": 8,
-          "name": "Fingers",
-          "duration": "2:28"
-        },
-        {
-          "number": 9,
-          "name": "Wicked Game",
+          "name": "Riptide",
           "duration": "2:46"
         },
         {
-          "number": 10,
-          "name": "Static",
-          "duration": "2:19"
+          "number": 5,
+          "name": "Day Dreaming",
+          "duration": "2:55"
         },
         {
-          "number": 11,
-          "name": "Spit",
-          "duration": "3:11"
+          "number": 6,
+          "name": "Couch Surfin",
+          "duration": "2:44"
+        },
+        {
+          "number": 7,
+          "name": "Wiped Out",
+          "duration": "2:16"
+        },
+        {
+          "number": 8,
+          "name": "California",
+          "duration": "2:05"
+        },
+        {
+          "number": 9,
+          "name": "Here We Go Again",
+          "duration": "2:36"
+        },
+        {
+          "number": 10,
+          "name": "Careful What You Wish For",
+          "duration": "3:01"
         }
       ]
     },
@@ -1024,19 +1024,6 @@
   ],
   "singles": [
     {
-      "name": "Disassociate",
-      "year": "2026",
-      "release_date": "2026-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/21/6c/a8216c71-8fb7-0450-64d2-5ad97f7c082e/1021675.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Disassociate",
-          "duration": "4:34"
-        }
-      ]
-    },
-    {
       "name": "Red Velvet (with Ari Abdul)",
       "year": "2025",
       "release_date": "2025-01-24",
@@ -1046,6 +1033,19 @@
           "number": 1,
           "name": "Red Velvet (with Ari Abdul)",
           "duration": "3:06"
+        }
+      ]
+    },
+    {
+      "name": "Disassociate",
+      "year": "2026",
+      "release_date": "2026-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/21/6c/a8216c71-8fb7-0450-64d2-5ad97f7c082e/1021675.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Disassociate",
+          "duration": "4:34"
         }
       ]
     },
@@ -1143,19 +1143,6 @@
       ]
     },
     {
-      "name": "Devil",
-      "year": "2019",
-      "release_date": "2019-02-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/f8/e5/4af8e586-d946-5cda-f32a-037c16cabe3e/10310.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Devil",
-          "duration": "2:58"
-        }
-      ]
-    },
-    {
       "name": "Too Easy",
       "year": "2019",
       "release_date": "2019-03-29",
@@ -1169,6 +1156,19 @@
       ]
     },
     {
+      "name": "ROT",
+      "year": "2024",
+      "release_date": "2024-12-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/e2/81/7be28185-2fca-60fd-0ef3-6c8adbc67b6d/776.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ROT",
+          "duration": "2:39"
+        }
+      ]
+    },
+    {
       "name": "I Can Fix You",
       "year": "2025",
       "release_date": "2025-10-15",
@@ -1178,6 +1178,19 @@
           "number": 1,
           "name": "I Can Fix You",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Devil",
+      "year": "2019",
+      "release_date": "2019-02-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/f8/e5/4af8e586-d946-5cda-f32a-037c16cabe3e/10310.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Devil",
+          "duration": "2:58"
         }
       ]
     },
@@ -1226,58 +1239,6 @@
       ]
     },
     {
-      "name": "Born To Lose",
-      "year": "2023",
-      "release_date": "2023-12-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/aa/94/caaa94ff-ecf3-b14a-4976-c43b45757d23/177353.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Born To Lose",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
-      "name": "Mirror Mirror",
-      "year": "2021",
-      "release_date": "2021-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/db/8c/07/db8c0726-74a9-4190-2f37-257d38fd97b4/193436259781_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mirror Mirror",
-          "duration": "2:41"
-        }
-      ]
-    },
-    {
-      "name": "Hummingbird",
-      "year": "2021",
-      "release_date": "2021-04-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/09/4f/59/094f5963-a1ea-b483-f9ea-008e0165b3cd/193436256483_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hummingbird",
-          "duration": "2:44"
-        }
-      ]
-    },
-    {
-      "name": "For You",
-      "year": "2021",
-      "release_date": "2021-03-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/60/90/726090bd-87f7-1126-2825-44b5561b626d/193436253871_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "For You",
-          "duration": "2:32"
-        }
-      ]
-    },
-    {
       "name": "Alone (feat. Jutes & Noey)",
       "year": "2018",
       "release_date": "2018-02-23",
@@ -1291,15 +1252,15 @@
       ]
     },
     {
-      "name": "Painkiller",
+      "name": "California",
       "year": "2021",
-      "release_date": "2021-05-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2e/6e/2c/2e6e2c19-d62d-01b9-986f-f50abec2419c/QRWd3rCMT3Wj0LQ2pOmK_output-onlinejpgtools_14.jpg/600x600bb.jpg",
+      "release_date": "2021-04-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7c/b0/31/7cb031ae-d79e-490c-7597-1172b57b2caa/193436257824_01_img001.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Painkiller",
-          "duration": "2:18"
+          "name": "California",
+          "duration": "2:05"
         }
       ]
     },
@@ -1323,45 +1284,6 @@
           "number": 3,
           "name": "Fingers",
           "duration": "2:26"
-        }
-      ]
-    },
-    {
-      "name": "Chariot",
-      "year": "2021",
-      "release_date": "2021-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/09/8d/df098ded-f150-d8dd-6712-065329f685fc/193436263962_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chariot",
-          "duration": "2:06"
-        }
-      ]
-    },
-    {
-      "name": "Delete My Number",
-      "year": "2021",
-      "release_date": "2021-04-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/88/6f/78/886f78c7-f7a1-eb76-8984-6759059c4027/193436255622_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Delete My Number",
-          "duration": "2:25"
-        }
-      ]
-    },
-    {
-      "name": "Sober Up",
-      "year": "2021",
-      "release_date": "2021-02-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/2e/18/6d2e1822-b261-811e-8c0e-91e9787519e2/193436251617_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sober Up",
-          "duration": "2:12"
         }
       ]
     },
@@ -1406,19 +1328,6 @@
           "number": 1,
           "name": "Walk on Me",
           "duration": "2:31"
-        }
-      ]
-    },
-    {
-      "name": "ROT",
-      "year": "2024",
-      "release_date": "2024-12-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/e2/81/7be28185-2fca-60fd-0ef3-6c8adbc67b6d/776.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ROT",
-          "duration": "2:39"
         }
       ]
     },
@@ -1576,6 +1485,58 @@
       ]
     },
     {
+      "name": "Born To Lose",
+      "year": "2023",
+      "release_date": "2023-12-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/aa/94/caaa94ff-ecf3-b14a-4976-c43b45757d23/177353.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Born To Lose",
+          "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Mirror Mirror",
+      "year": "2021",
+      "release_date": "2021-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/db/8c/07/db8c0726-74a9-4190-2f37-257d38fd97b4/193436259781_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mirror Mirror",
+          "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "Hummingbird",
+      "year": "2021",
+      "release_date": "2021-04-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/09/4f/59/094f5963-a1ea-b483-f9ea-008e0165b3cd/193436256483_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hummingbird",
+          "duration": "2:44"
+        }
+      ]
+    },
+    {
+      "name": "For You",
+      "year": "2021",
+      "release_date": "2021-03-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/60/90/726090bd-87f7-1126-2825-44b5561b626d/193436253871_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "For You",
+          "duration": "2:32"
+        }
+      ]
+    },
+    {
       "name": "Backseat (Kiss Me)",
       "year": "2020",
       "release_date": "2020-10-08",
@@ -1624,6 +1585,19 @@
           "number": 1,
           "name": "Notice Me",
           "duration": "3:57"
+        }
+      ]
+    },
+    {
+      "name": "Painkiller",
+      "year": "2021",
+      "release_date": "2021-05-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2e/6e/2c/2e6e2c19-d62d-01b9-986f-f50abec2419c/QRWd3rCMT3Wj0LQ2pOmK_output-onlinejpgtools_14.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Painkiller",
+          "duration": "2:18"
         }
       ]
     },
@@ -1693,6 +1667,19 @@
       ]
     },
     {
+      "name": "Chariot",
+      "year": "2021",
+      "release_date": "2021-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/09/8d/df098ded-f150-d8dd-6712-065329f685fc/193436263962_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chariot",
+          "duration": "2:06"
+        }
+      ]
+    },
+    {
       "name": "Day Dreaming",
       "year": "2021",
       "release_date": "2021-05-28",
@@ -1728,6 +1715,32 @@
           "number": 1,
           "name": "Careful What You Wish For",
           "duration": "3:01"
+        }
+      ]
+    },
+    {
+      "name": "Delete My Number",
+      "year": "2021",
+      "release_date": "2021-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/88/6f/78/886f78c7-f7a1-eb76-8984-6759059c4027/193436255622_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Delete My Number",
+          "duration": "2:25"
+        }
+      ]
+    },
+    {
+      "name": "Sober Up",
+      "year": "2021",
+      "release_date": "2021-02-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/2e/18/6d2e1822-b261-811e-8c0e-91e9787519e2/193436251617_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sober Up",
+          "duration": "2:12"
         }
       ]
     },
@@ -1793,19 +1806,6 @@
           "number": 1,
           "name": "Those Were the Days",
           "duration": "2:14"
-        }
-      ]
-    },
-    {
-      "name": "California",
-      "year": "2021",
-      "release_date": "2021-04-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7c/b0/31/7cb031ae-d79e-490c-7597-1172b57b2caa/193436257824_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "California",
-          "duration": "2:05"
         }
       ]
     },

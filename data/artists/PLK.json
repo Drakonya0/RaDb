@@ -96,99 +96,6 @@
       ]
     },
     {
-      "name": "Grand Garçon",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/16/d8/2e16d80e-bcc5-8990-74a2-d1768ee23330/3596975053396_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tu crois j'suis con ou quoi",
-          "duration": "2:14"
-        },
-        {
-          "number": 2,
-          "name": "Pocahontas",
-          "duration": "2:48"
-        },
-        {
-          "number": 3,
-          "name": "Business class",
-          "duration": "2:17"
-        },
-        {
-          "number": 4,
-          "name": "Jamie Bynoe-Gittens",
-          "duration": "2:20"
-        },
-        {
-          "number": 5,
-          "name": "Sacré quotidien",
-          "duration": "2:45"
-        },
-        {
-          "number": 6,
-          "name": "Façon d'penser",
-          "duration": "2:57"
-        },
-        {
-          "number": 7,
-          "name": "Sex Model",
-          "duration": "2:46"
-        },
-        {
-          "number": 8,
-          "name": "Henri cimer",
-          "duration": "3:31"
-        },
-        {
-          "number": 9,
-          "name": "Le cœur des hommes",
-          "duration": "2:42"
-        },
-        {
-          "number": 10,
-          "name": "Porte d'Orléans",
-          "duration": "3:08"
-        },
-        {
-          "number": 11,
-          "name": "Toi",
-          "duration": "2:57"
-        },
-        {
-          "number": 12,
-          "name": "Tu dors ?",
-          "duration": "2:08"
-        },
-        {
-          "number": 13,
-          "name": "Sac à dos",
-          "duration": "2:54"
-        },
-        {
-          "number": 14,
-          "name": "Plus j'avance",
-          "duration": "2:17"
-        },
-        {
-          "number": 15,
-          "name": "Wemby",
-          "duration": "3:16"
-        },
-        {
-          "number": 16,
-          "name": "Bleu & rouge",
-          "duration": "2:53"
-        },
-        {
-          "number": 17,
-          "name": "Pas comme eux",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
       "name": "Mental",
       "year": "2019",
       "release_date": "2019-09-13",
@@ -449,6 +356,99 @@
           "number": 18,
           "name": "Émotif (Booska 1H)",
           "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "Grand Garçon",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/16/d8/2e16d80e-bcc5-8990-74a2-d1768ee23330/3596975053396_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tu crois j'suis con ou quoi",
+          "duration": "2:14"
+        },
+        {
+          "number": 2,
+          "name": "Pocahontas",
+          "duration": "2:48"
+        },
+        {
+          "number": 3,
+          "name": "Business class",
+          "duration": "2:17"
+        },
+        {
+          "number": 4,
+          "name": "Jamie Bynoe-Gittens",
+          "duration": "2:20"
+        },
+        {
+          "number": 5,
+          "name": "Sacré quotidien",
+          "duration": "2:45"
+        },
+        {
+          "number": 6,
+          "name": "Façon d'penser",
+          "duration": "2:57"
+        },
+        {
+          "number": 7,
+          "name": "Sex Model",
+          "duration": "2:46"
+        },
+        {
+          "number": 8,
+          "name": "Henri cimer",
+          "duration": "3:31"
+        },
+        {
+          "number": 9,
+          "name": "Le cœur des hommes",
+          "duration": "2:42"
+        },
+        {
+          "number": 10,
+          "name": "Porte d'Orléans",
+          "duration": "3:08"
+        },
+        {
+          "number": 11,
+          "name": "Toi",
+          "duration": "2:57"
+        },
+        {
+          "number": 12,
+          "name": "Tu dors ?",
+          "duration": "2:08"
+        },
+        {
+          "number": 13,
+          "name": "Sac à dos",
+          "duration": "2:54"
+        },
+        {
+          "number": 14,
+          "name": "Plus j'avance",
+          "duration": "2:17"
+        },
+        {
+          "number": 15,
+          "name": "Wemby",
+          "duration": "3:16"
+        },
+        {
+          "number": 16,
+          "name": "Bleu & rouge",
+          "duration": "2:53"
+        },
+        {
+          "number": 17,
+          "name": "Pas comme eux",
+          "duration": "2:51"
         }
       ]
     },
@@ -1287,13 +1287,6 @@
       "tracks": []
     },
     {
-      "name": "Les jolies filles",
-      "year": "2025",
-      "release_date": "2025-05-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/b6/b9/43b6b90c-c195-f31d-bbd7-c5ca4b1a6d91/25SYMIM19524.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Sex Model",
       "year": "2026",
       "release_date": "2026-02-20",
@@ -1305,6 +1298,13 @@
           "duration": "2:46"
         }
       ]
+    },
+    {
+      "name": "Les jolies filles",
+      "year": "2025",
+      "release_date": "2025-05-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/b6/b9/43b6b90c-c195-f31d-bbd7-c5ca4b1a6d91/25SYMIM19524.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Jamie Bynoe-Gittens",

@@ -96,84 +96,6 @@
       ]
     },
     {
-      "name": "NO ME ARREPIENTO DE SENTIR TANTO",
-      "year": "2026",
-      "release_date": "2026-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Te llevas To",
-          "duration": "2:32"
-        },
-        {
-          "number": 2,
-          "name": "Maybe",
-          "duration": "2:24"
-        },
-        {
-          "number": 3,
-          "name": "Bebiendo Lágrimas",
-          "duration": "3:00"
-        },
-        {
-          "number": 4,
-          "name": "Ahí",
-          "duration": "2:56"
-        },
-        {
-          "number": 5,
-          "name": "Final feliz",
-          "duration": "3:06"
-        },
-        {
-          "number": 6,
-          "name": "Still",
-          "duration": "3:40"
-        },
-        {
-          "number": 7,
-          "name": "Alguien que te amaba",
-          "duration": "3:14"
-        },
-        {
-          "number": 8,
-          "name": "MATADORA",
-          "duration": "2:24"
-        },
-        {
-          "number": 9,
-          "name": "For u My lova",
-          "duration": "3:30"
-        },
-        {
-          "number": 10,
-          "name": "Si lo ven",
-          "duration": "2:42"
-        },
-        {
-          "number": 11,
-          "name": "BbY WOW",
-          "duration": "3:45"
-        },
-        {
-          "number": 12,
-          "name": "Con quién andará?",
-          "duration": "3:01"
-        },
-        {
-          "number": 13,
-          "name": "Eclipse",
-          "duration": "2:09"
-        },
-        {
-          "number": 14,
-          "name": "Después de ti",
-          "duration": "4:28"
-        }
-      ]
-    },
-    {
       "name": "KG0516 (Apple Music Edition)",
       "year": "2021",
       "release_date": "2021-03-26",
@@ -459,6 +381,84 @@
           "number": 20,
           "name": "Tropicoqueta",
           "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "year": "2026",
+      "release_date": "2026-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Te llevas To",
+          "duration": "2:32"
+        },
+        {
+          "number": 2,
+          "name": "Maybe",
+          "duration": "2:24"
+        },
+        {
+          "number": 3,
+          "name": "Bebiendo Lágrimas",
+          "duration": "3:00"
+        },
+        {
+          "number": 4,
+          "name": "Ahí",
+          "duration": "2:56"
+        },
+        {
+          "number": 5,
+          "name": "Final feliz",
+          "duration": "3:06"
+        },
+        {
+          "number": 6,
+          "name": "Still",
+          "duration": "3:40"
+        },
+        {
+          "number": 7,
+          "name": "Alguien que te amaba",
+          "duration": "3:14"
+        },
+        {
+          "number": 8,
+          "name": "MATADORA",
+          "duration": "2:24"
+        },
+        {
+          "number": 9,
+          "name": "For u My lova",
+          "duration": "3:30"
+        },
+        {
+          "number": 10,
+          "name": "Si lo ven",
+          "duration": "2:42"
+        },
+        {
+          "number": 11,
+          "name": "BbY WOW",
+          "duration": "3:45"
+        },
+        {
+          "number": 12,
+          "name": "Con quién andará?",
+          "duration": "3:01"
+        },
+        {
+          "number": 13,
+          "name": "Eclipse",
+          "duration": "2:09"
+        },
+        {
+          "number": 14,
+          "name": "Después de ti",
+          "duration": "4:28"
         }
       ]
     },
@@ -792,19 +792,6 @@
       ]
     },
     {
-      "name": "Poblado (Remix) [feat. Crissin, Totoy El Frio & Natan & Shander]",
-      "year": "2021",
-      "release_date": "2021-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/52/36/83523674-d974-9baa-9f5d-66fbed5b5184/21UMGIM56246.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Poblado (feat. Crissin, Totoy El Frio & Natan & Shander) [Remix]",
-          "duration": "6:32"
-        }
-      ]
-    },
-    {
       "name": "Milagros",
       "year": "2025",
       "release_date": "2025-05-08",
@@ -814,6 +801,19 @@
           "number": 1,
           "name": "Milagros",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "Poblado (Remix) [feat. Crissin, Totoy El Frio & Natan & Shander]",
+      "year": "2021",
+      "release_date": "2021-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/52/36/83523674-d974-9baa-9f5d-66fbed5b5184/21UMGIM56246.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Poblado (feat. Crissin, Totoy El Frio & Natan & Shander) [Remix]",
+          "duration": "6:32"
         }
       ]
     },
@@ -896,15 +896,15 @@
       ]
     },
     {
-      "name": "Después de ti",
-      "year": "2026",
-      "release_date": "2026-04-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/3d/ff/883dff72-2bf3-0400-3811-1555d2937fb7/26UMGIM50105.rgb.jpg/600x600bb.jpg",
+      "name": "Hijoepu*#",
+      "year": "2019",
+      "release_date": "2019-03-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d4/f2/3b/d4f23b5b-ebc7-ab75-2bfc-89f0c713a753/00602577587467.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Después de ti",
-          "duration": "4:28"
+          "name": "Hijoepu*#",
+          "duration": "3:08"
         }
       ]
     },
@@ -922,15 +922,15 @@
       ]
     },
     {
-      "name": "Hijoepu*#",
-      "year": "2019",
-      "release_date": "2019-03-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d4/f2/3b/d4f23b5b-ebc7-ab75-2bfc-89f0c713a753/00602577587467.rgb.jpg/600x600bb.jpg",
+      "name": "Después de ti",
+      "year": "2026",
+      "release_date": "2026-04-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/3d/ff/883dff72-2bf3-0400-3811-1555d2937fb7/26UMGIM50105.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Hijoepu*#",
-          "duration": "3:08"
+          "name": "Después de ti",
+          "duration": "4:28"
         }
       ]
     },
@@ -948,19 +948,6 @@
       ]
     },
     {
-      "name": "S91",
-      "year": "2023",
-      "release_date": "2023-07-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/45/2d/d6452dd0-a111-f44d-c308-c274ce707faa/23UMGIM73834.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "S91",
-          "duration": "2:53"
-        }
-      ]
-    },
-    {
       "name": "LATINA FOREVA",
       "year": "2025",
       "release_date": "2025-05-22",
@@ -970,6 +957,19 @@
           "number": 1,
           "name": "LATINA FOREVA",
           "duration": "2:39"
+        }
+      ]
+    },
+    {
+      "name": "S91",
+      "year": "2023",
+      "release_date": "2023-07-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/45/2d/d6452dd0-a111-f44d-c308-c274ce707faa/23UMGIM73834.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "S91",
+          "duration": "2:53"
         }
       ]
     },
@@ -1265,19 +1265,6 @@
       ]
     },
     {
-      "name": "Casi Nada",
-      "year": "2016",
-      "release_date": "2016-03-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2b/11/31/2b11319c-5d32-1673-0927-16314f25a786/16UMGIM10190.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Casi Nada",
-          "duration": "3:38"
-        }
-      ]
-    },
-    {
       "name": "Dicen",
       "year": "2018",
       "release_date": "2018-06-29",
@@ -1291,6 +1278,19 @@
       ]
     },
     {
+      "name": "Casi Nada",
+      "year": "2016",
+      "release_date": "2016-03-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2b/11/31/2b11319c-5d32-1673-0927-16314f25a786/16UMGIM10190.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Casi Nada",
+          "duration": "3:38"
+        }
+      ]
+    },
+    {
       "name": "MAMIII (kryptogram Remix)",
       "year": "2022",
       "release_date": "2022-05-12",
@@ -1300,6 +1300,19 @@
           "number": 1,
           "name": "MAMIII (kryptogram Remix)",
           "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Vivo Por Ella (feat. KAROL G)",
+      "year": "2024",
+      "release_date": "2024-08-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/7a/e3/947ae3c4-8271-2535-08b6-0138dcd2304d/24UMGIM82514.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Vivo Por Ella (feat. KAROL G)",
+          "duration": "4:24"
         }
       ]
     },
@@ -1356,19 +1369,6 @@
       ]
     },
     {
-      "name": "Vivo Por Ella (feat. KAROL G)",
-      "year": "2024",
-      "release_date": "2024-08-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/7a/e3/947ae3c4-8271-2535-08b6-0138dcd2304d/24UMGIM82514.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Vivo Por Ella (feat. KAROL G)",
-          "duration": "4:24"
-        }
-      ]
-    },
-    {
       "name": "Como Tú Ninguna",
       "year": "2017",
       "release_date": "2017-10-13",
@@ -1421,19 +1421,6 @@
       ]
     },
     {
-      "name": "Dame Tu Cosita (Radio Version)",
-      "year": "2018",
-      "release_date": "2018-08-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/d3/e2/0ad3e21d-2fec-e5e4-5d17-8e046791b64e/0617465963858.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dame Tu Cosita (feat. Cutty Ranks) [Radio Version]",
-          "duration": "2:58"
-        }
-      ]
-    },
-    {
       "name": "Muñeco De Lego",
       "year": "2016",
       "release_date": "2016-08-26",
@@ -1443,6 +1430,19 @@
           "number": 1,
           "name": "Muñeco De Lego",
           "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "Dame Tu Cosita (Radio Version)",
+      "year": "2018",
+      "release_date": "2018-08-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/d3/e2/0ad3e21d-2fec-e5e4-5d17-8e046791b64e/0617465963858.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dame Tu Cosita (feat. Cutty Ranks) [Radio Version]",
+          "duration": "2:58"
         }
       ]
     },
@@ -1618,6 +1618,19 @@
       "release_date": "2025-06-17",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/22/65/6a2265fd-7327-5a5a-d635-dadfaf1b48dd/25UMGIM85687.rgb.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "Still",
+      "year": "2026",
+      "release_date": "2026-08-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/2a/83/9a2a83a0-6730-74d4-4b50-ae66d67bbb64/26UM1IM08066.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Still",
+          "duration": "3:40"
+        }
+      ]
     },
     {
       "name": "Enjoy Yourself",

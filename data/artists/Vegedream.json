@@ -17,17 +17,17 @@
       "tracks": []
     },
     {
-      "name": "Marchand de sable",
-      "year": "2018",
-      "release_date": "2018-06-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/8b/f4/b68bf471-eb95-72ba-4678-60ca239d2ba9/00602567674993.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Marchand de sable 2",
       "year": "2018",
       "release_date": "2018-11-30",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/30/0f/f6/300ff6ef-ec66-3095-a454-e902f795dc57/00602577277603.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Marchand de sable",
+      "year": "2018",
+      "release_date": "2018-06-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b6/8b/f4/b68bf471-eb95-72ba-4678-60ca239d2ba9/00602567674993.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -172,10 +172,10 @@
       ]
     },
     {
-      "name": "Ramenez la coupe à la maison (Techno Mix 2024)",
-      "year": "2024",
-      "release_date": "2024-07-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/cd/74/58cd7477-15ca-3803-7b44-98c7af707859/24UMGIM74005.rgb.jpg/600x600bb.jpg",
+      "name": "C'est mon année",
+      "year": "2018",
+      "release_date": "2018-11-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d0/d7/66/d0d76695-38ea-83c5-3ae0-2ffeb319248f/00602577277665.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -192,10 +192,10 @@
       ]
     },
     {
-      "name": "C'est mon année",
-      "year": "2018",
-      "release_date": "2018-11-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/d0/d7/66/d0d76695-38ea-83c5-3ae0-2ffeb319248f/00602577277665.rgb.jpg/600x600bb.jpg",
+      "name": "Ramenez la coupe à la maison (Techno Mix 2024)",
+      "year": "2024",
+      "release_date": "2024-07-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/cd/74/58cd7477-15ca-3803-7b44-98c7af707859/24UMGIM74005.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -306,6 +306,13 @@
       "tracks": []
     },
     {
+      "name": "MDS 7 – Blessé (feat. Bill Clinton)",
+      "year": "2021",
+      "release_date": "2021-08-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/1d/6a/e81d6ab0-e4d9-0912-ec7c-0e09e941cd00/21UMGIM74862.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "L'hiver dernier",
       "year": "2022",
       "release_date": "2022-06-30",
@@ -317,13 +324,6 @@
           "duration": "3:05"
         }
       ]
-    },
-    {
-      "name": "MDS 7 – Blessé (feat. Bill Clinton)",
-      "year": "2021",
-      "release_date": "2021-08-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/1d/6a/e81d6ab0-e4d9-0912-ec7c-0e09e941cd00/21UMGIM74862.rgb.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "Ghenda (feat. Vegedream & Bolémvn)",
@@ -553,6 +553,19 @@
       ]
     },
     {
+      "name": "Dompé",
+      "year": "2024",
+      "release_date": "2024-02-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/d5/f3/38d5f362-2496-2ffe-aa57-13dfe73df0b9/0602465527421.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dompé",
+          "duration": "3:16"
+        }
+      ]
+    },
+    {
       "name": "Paralice",
       "year": "2025",
       "release_date": "2025-06-19",
@@ -652,19 +665,6 @@
       ]
     },
     {
-      "name": "Tika (feat. Vegedream)",
-      "year": "2021",
-      "release_date": "2021-10-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/b4/52/71b452ac-e00b-0bf1-6bb4-fee94237c499/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tika (feat. Vegedream)",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
       "name": "Self-Control (feat. Vegedream)",
       "year": "2025",
       "release_date": "2025-08-22",
@@ -674,6 +674,19 @@
           "number": 1,
           "name": "Self-Control (feat. Vegedream)",
           "duration": "1:38"
+        }
+      ]
+    },
+    {
+      "name": "Tika (feat. Vegedream)",
+      "year": "2021",
+      "release_date": "2021-10-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/71/b4/52/71b452ac-e00b-0bf1-6bb4-fee94237c499/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tika (feat. Vegedream)",
+          "duration": "3:09"
         }
       ]
     }

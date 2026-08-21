@@ -17,19 +17,6 @@
       ]
     },
     {
-      "name": "Enemy",
-      "year": "2022",
-      "release_date": "2022-10-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/36/30/a1/3630a13c-3594-2b40-da35-72531be52db2/TI118239_cover.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Enemy",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "Cemetery Friend",
       "year": "2026",
       "release_date": "2026-06-25",
@@ -39,6 +26,19 @@
           "number": 1,
           "name": "Cemetery Friend",
           "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "Enemy",
+      "year": "2022",
+      "release_date": "2022-10-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/36/30/a1/3630a13c-3594-2b40-da35-72531be52db2/TI118239_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Enemy",
+          "duration": "3:04"
         }
       ]
     },
@@ -56,19 +56,6 @@
       ]
     },
     {
-      "name": "Body Bag",
-      "year": "2025",
-      "release_date": "2025-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/47/e7/0847e75f-36f9-c753-9af6-f4d63a9c9f17/2348.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Body Bag",
-          "duration": "2:56"
-        }
-      ]
-    },
-    {
       "name": "Black Heart",
       "year": "2025",
       "release_date": "2025-07-31",
@@ -82,6 +69,32 @@
       ]
     },
     {
+      "name": "Body Bag",
+      "year": "2025",
+      "release_date": "2025-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/47/e7/0847e75f-36f9-c753-9af6-f4d63a9c9f17/2348.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Body Bag",
+          "duration": "2:56"
+        }
+      ]
+    },
+    {
+      "name": "Taste",
+      "year": "2026",
+      "release_date": "2026-02-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3b/f8/5c3bf8b2-0a20-3710-2c21-6b0679c3a03c/3301.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Taste",
+          "duration": "3:12"
+        }
+      ]
+    },
+    {
       "name": "Photograph",
       "year": "2022",
       "release_date": "2022-08-17",
@@ -91,6 +104,32 @@
           "number": 1,
           "name": "Photograph",
           "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "All I Want for Christmas Is You",
+      "year": "2022",
+      "release_date": "2022-12-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/90/9f/d3/909fd3ff-098b-d4fd-8bcb-4cdb8ec533e2/859768655928_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "All I Want for Christmas Is You",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "Falling Apart",
+      "year": "2023",
+      "release_date": "2023-03-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/78/48/787848b5-ec12-655b-8776-d422b601a946/2262.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Falling Apart",
+          "duration": "3:29"
         }
       ]
     },
@@ -134,32 +173,6 @@
       ]
     },
     {
-      "name": "This Is The End",
-      "year": "2025",
-      "release_date": "2025-11-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/10/a3/9810a3f1-e39c-8fc9-3175-2f8b27d7e86c/3240.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "This Is The End",
-          "duration": "3:28"
-        }
-      ]
-    },
-    {
-      "name": "Taste",
-      "year": "2026",
-      "release_date": "2026-02-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3b/f8/5c3bf8b2-0a20-3710-2c21-6b0679c3a03c/3301.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Taste",
-          "duration": "3:12"
-        }
-      ]
-    },
-    {
       "name": "Fool and The Beggar",
       "year": "2023",
       "release_date": "2023-12-08",
@@ -186,41 +199,15 @@
       ]
     },
     {
-      "name": "Falling Apart",
-      "year": "2023",
-      "release_date": "2023-03-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/78/48/787848b5-ec12-655b-8776-d422b601a946/2262.jpg/600x600bb.jpg",
+      "name": "This Is The End",
+      "year": "2025",
+      "release_date": "2025-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/10/a3/9810a3f1-e39c-8fc9-3175-2f8b27d7e86c/3240.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Falling Apart",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
-      "name": "All I Want for Christmas Is You",
-      "year": "2022",
-      "release_date": "2022-12-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/90/9f/d3/909fd3ff-098b-d4fd-8bcb-4cdb8ec533e2/859768655928_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "All I Want for Christmas Is You",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
-      "name": "Fool and The Beggar (Acoustic)",
-      "year": "2024",
-      "release_date": "2024-11-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/09/4e/26094ef8-0b18-0c25-8d02-0b8294f0ddf0/2275.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fool and The Beggar (Acoustic)",
-          "duration": "3:31"
+          "name": "This Is The End",
+          "duration": "3:28"
         }
       ]
     },
@@ -234,6 +221,19 @@
           "number": 1,
           "name": "24Seven (feat. Melrose Avenue)",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Fool and The Beggar (Acoustic)",
+      "year": "2024",
+      "release_date": "2024-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/09/4e/26094ef8-0b18-0c25-8d02-0b8294f0ddf0/2275.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fool and The Beggar (Acoustic)",
+          "duration": "3:31"
         }
       ]
     },

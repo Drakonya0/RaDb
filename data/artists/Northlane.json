@@ -1351,24 +1351,6 @@
       ]
     },
     {
-      "name": "CUT_it",
-      "year": "2026",
-      "release_date": "2026-08-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/45/fa/1845fa27-b2ca-815c-bef7-1c9a73ac36b9/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CUT_it",
-          "duration": "3:14"
-        },
-        {
-          "number": 2,
-          "name": "Evian",
-          "duration": "5:02"
-        }
-      ]
-    },
-    {
       "name": "Dante",
       "year": "2023",
       "release_date": "2023-11-21",
@@ -1404,6 +1386,24 @@
           "number": 1,
           "name": "Crash & Burn (Feat. Northlane)",
           "duration": "4:06"
+        }
+      ]
+    },
+    {
+      "name": "CUT_it",
+      "year": "2026",
+      "release_date": "2026-08-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/45/fa/1845fa27-b2ca-815c-bef7-1c9a73ac36b9/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CUT_it",
+          "duration": "3:14"
+        },
+        {
+          "number": 2,
+          "name": "Evian",
+          "duration": "5:02"
         }
       ]
     },
@@ -1453,6 +1453,19 @@
           "number": 2,
           "name": "Welcome to the Industry (From Fretless - The Wrath of Riffson) [Instrumental]",
           "duration": "4:38"
+        }
+      ]
+    },
+    {
+      "name": "Solar (Acoustic)",
+      "year": "2017",
+      "release_date": "2017-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/25/8e/b0258e5e-8b7e-c8e5-5877-9eef5a80e325/190295714994.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Solar (Acoustic)",
+          "duration": "3:21"
         }
       ]
     },
@@ -1561,19 +1574,6 @@
       ]
     },
     {
-      "name": "Solar (Acoustic)",
-      "year": "2017",
-      "release_date": "2017-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/25/8e/b0258e5e-8b7e-c8e5-5877-9eef5a80e325/190295714994.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Solar (Acoustic)",
-          "duration": "3:21"
-        }
-      ]
-    },
-    {
       "name": "Intuition",
       "year": "2017",
       "release_date": "2017-01-18",
@@ -1640,44 +1640,6 @@
       ]
     },
     {
-      "name": "Hollow Existence",
-      "year": "2010",
-      "release_date": "2010-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/59/50/34595041-53a6-02ca-a30f-d4a72703caac/825646353415.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hollow",
-          "duration": "3:55"
-        },
-        {
-          "number": 2,
-          "name": "Keymaker",
-          "duration": "3:53"
-        },
-        {
-          "number": 3,
-          "name": "Set in Stone",
-          "duration": "3:58"
-        },
-        {
-          "number": 4,
-          "name": "All Seeing Eye",
-          "duration": "3:26"
-        },
-        {
-          "number": 5,
-          "name": "Metamorphosis",
-          "duration": "4:57"
-        },
-        {
-          "number": 6,
-          "name": "The Deadmines",
-          "duration": "3:49"
-        }
-      ]
-    },
-    {
       "name": "Northlane | Audiotree from Nothing (Audiotree Version)",
       "year": "2025",
       "release_date": "2025-12-02",
@@ -1735,6 +1697,44 @@
           "number": 5,
           "name": "Sleepless (Acoustic)",
           "duration": "6:19"
+        }
+      ]
+    },
+    {
+      "name": "Hollow Existence",
+      "year": "2010",
+      "release_date": "2010-01-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/59/50/34595041-53a6-02ca-a30f-d4a72703caac/825646353415.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hollow",
+          "duration": "3:55"
+        },
+        {
+          "number": 2,
+          "name": "Keymaker",
+          "duration": "3:53"
+        },
+        {
+          "number": 3,
+          "name": "Set in Stone",
+          "duration": "3:58"
+        },
+        {
+          "number": 4,
+          "name": "All Seeing Eye",
+          "duration": "3:26"
+        },
+        {
+          "number": 5,
+          "name": "Metamorphosis",
+          "duration": "4:57"
+        },
+        {
+          "number": 6,
+          "name": "The Deadmines",
+          "duration": "3:49"
         }
       ]
     },

@@ -3,6 +3,69 @@
   "id": 1457877216,
   "albums": [
     {
+      "name": "Cathartic",
+      "year": "2023",
+      "release_date": "2023-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/a7/89/31a789eb-6e71-aaa2-e01a-b6f1de49ed1d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tired",
+          "duration": "2:23"
+        },
+        {
+          "number": 2,
+          "name": "Burn Notice",
+          "duration": "3:23"
+        },
+        {
+          "number": 3,
+          "name": "Winterlight",
+          "duration": "3:40"
+        },
+        {
+          "number": 4,
+          "name": "Moon Chaser",
+          "duration": "2:46"
+        },
+        {
+          "number": 5,
+          "name": "Visionary",
+          "duration": "4:16"
+        },
+        {
+          "number": 6,
+          "name": "The End (feat. Baby Gos)",
+          "duration": "3:20"
+        },
+        {
+          "number": 7,
+          "name": "Calcify",
+          "duration": "3:49"
+        },
+        {
+          "number": 8,
+          "name": "Sunbathe",
+          "duration": "2:40"
+        },
+        {
+          "number": 9,
+          "name": "Cobalt",
+          "duration": "2:24"
+        },
+        {
+          "number": 10,
+          "name": "Hard (feat. Paradoxx)",
+          "duration": "2:35"
+        },
+        {
+          "number": 11,
+          "name": "The Crash",
+          "duration": "2:06"
+        }
+      ]
+    },
+    {
       "name": "The one who changed was me, and so I left.",
       "year": "2025",
       "release_date": "2025-11-14",
@@ -72,69 +135,6 @@
           "number": 13,
           "name": "Going Under",
           "duration": "3:37"
-        }
-      ]
-    },
-    {
-      "name": "Cathartic",
-      "year": "2023",
-      "release_date": "2023-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/31/a7/89/31a789eb-6e71-aaa2-e01a-b6f1de49ed1d/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tired",
-          "duration": "2:23"
-        },
-        {
-          "number": 2,
-          "name": "Burn Notice",
-          "duration": "3:23"
-        },
-        {
-          "number": 3,
-          "name": "Winterlight",
-          "duration": "3:40"
-        },
-        {
-          "number": 4,
-          "name": "Moon Chaser",
-          "duration": "2:46"
-        },
-        {
-          "number": 5,
-          "name": "Visionary",
-          "duration": "4:16"
-        },
-        {
-          "number": 6,
-          "name": "The End (feat. Baby Gos)",
-          "duration": "3:20"
-        },
-        {
-          "number": 7,
-          "name": "Calcify",
-          "duration": "3:49"
-        },
-        {
-          "number": 8,
-          "name": "Sunbathe",
-          "duration": "2:40"
-        },
-        {
-          "number": 9,
-          "name": "Cobalt",
-          "duration": "2:24"
-        },
-        {
-          "number": 10,
-          "name": "Hard (feat. Paradoxx)",
-          "duration": "2:35"
-        },
-        {
-          "number": 11,
-          "name": "The Crash",
-          "duration": "2:06"
         }
       ]
     },

@@ -383,19 +383,6 @@
       ]
     },
     {
-      "name": "VAPO! (Sped Up)",
-      "year": "2023",
-      "release_date": "2023-10-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/ac/70/42ac70d4-1754-b6ab-1bf2-fb44d151aa9b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Vapo! (Sped Up)",
-          "duration": "1:09"
-        }
-      ]
-    },
-    {
       "name": "Meguru Bachira",
       "year": "2023",
       "release_date": "2023-06-30",
@@ -405,6 +392,19 @@
           "number": 1,
           "name": "Meguru Bachira",
           "duration": "2:25"
+        }
+      ]
+    },
+    {
+      "name": "VAPO! (Sped Up)",
+      "year": "2023",
+      "release_date": "2023-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/ac/70/42ac70d4-1754-b6ab-1bf2-fb44d151aa9b/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Vapo! (Sped Up)",
+          "duration": "1:09"
         }
       ]
     },
@@ -556,19 +556,6 @@
       ]
     },
     {
-      "name": "DIDE SECHI",
-      "year": "2025",
-      "release_date": "2025-03-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/09/85/1b0985cd-fb71-958f-e874-61227f039ed1/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DIDE SECHI",
-          "duration": "1:24"
-        }
-      ]
-    },
-    {
       "name": "VAPO TAKU",
       "year": "2026",
       "release_date": "2026-05-18",
@@ -588,6 +575,19 @@
           "number": 3,
           "name": "VAPO TAKU (Super Slowed)",
           "duration": "1:50"
+        }
+      ]
+    },
+    {
+      "name": "DIDE SECHI",
+      "year": "2025",
+      "release_date": "2025-03-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/09/85/1b0985cd-fb71-958f-e874-61227f039ed1/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DIDE SECHI",
+          "duration": "1:24"
         }
       ]
     },
@@ -811,34 +811,6 @@
   ],
   "eps": [
     {
-      "name": "TOM VAI TADO",
-      "year": "2025",
-      "release_date": "2025-05-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/fa/a0/51faa088-e755-158b-7a28-e84a758e5d5e/1043958.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TOM VAI TADO",
-          "duration": "1:16"
-        },
-        {
-          "number": 2,
-          "name": "TOM VAI TADO (Slowed)",
-          "duration": "1:29"
-        },
-        {
-          "number": 3,
-          "name": "TOM VAI TADO (Ultra Slowed)",
-          "duration": "1:35"
-        },
-        {
-          "number": 4,
-          "name": "TOM VAI TADO (Sped Up)",
-          "duration": "1:08"
-        }
-      ]
-    },
-    {
       "name": "DES DES SEM PARAR",
       "year": "2025",
       "release_date": "2025-09-05",
@@ -863,6 +835,34 @@
           "number": 4,
           "name": "DES DES SEM PARAR (Super Slowed)",
           "duration": "1:50"
+        }
+      ]
+    },
+    {
+      "name": "TOM VAI TADO",
+      "year": "2025",
+      "release_date": "2025-05-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/fa/a0/51faa088-e755-158b-7a28-e84a758e5d5e/1043958.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TOM VAI TADO",
+          "duration": "1:16"
+        },
+        {
+          "number": 2,
+          "name": "TOM VAI TADO (Slowed)",
+          "duration": "1:29"
+        },
+        {
+          "number": 3,
+          "name": "TOM VAI TADO (Ultra Slowed)",
+          "duration": "1:35"
+        },
+        {
+          "number": 4,
+          "name": "TOM VAI TADO (Sped Up)",
+          "duration": "1:08"
         }
       ]
     },
@@ -1793,6 +1793,34 @@
       ]
     },
     {
+      "name": "FALLEN FUNK",
+      "year": "2025",
+      "release_date": "2025-11-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/d8/10/2bd81070-efbc-a13d-16a7-42857c0ff9e0/199806505564.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FALLEN FUNK",
+          "duration": "1:14"
+        },
+        {
+          "number": 2,
+          "name": "FALLEN FUNK (SLOWED)",
+          "duration": "1:23"
+        },
+        {
+          "number": 3,
+          "name": "FALLEN FUNK (SPED UP)",
+          "duration": "1:05"
+        },
+        {
+          "number": 4,
+          "name": "FALLEN FUNK (ULTRA SLOWED)",
+          "duration": "1:33"
+        }
+      ]
+    },
+    {
       "name": "DE LA LUNA",
       "year": "2025",
       "release_date": "2025-05-13",
@@ -1822,34 +1850,6 @@
           "number": 5,
           "name": "DE LA LUNA (Sped Up)",
           "duration": "1:26"
-        }
-      ]
-    },
-    {
-      "name": "FALLEN FUNK",
-      "year": "2025",
-      "release_date": "2025-11-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/d8/10/2bd81070-efbc-a13d-16a7-42857c0ff9e0/199806505564.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FALLEN FUNK",
-          "duration": "1:14"
-        },
-        {
-          "number": 2,
-          "name": "FALLEN FUNK (SLOWED)",
-          "duration": "1:23"
-        },
-        {
-          "number": 3,
-          "name": "FALLEN FUNK (SPED UP)",
-          "duration": "1:05"
-        },
-        {
-          "number": 4,
-          "name": "FALLEN FUNK (ULTRA SLOWED)",
-          "duration": "1:33"
         }
       ]
     },
@@ -1951,7 +1951,7 @@
       "name": "Ela Joga",
       "year": "2025",
       "release_date": "2025-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/5c/a5/f65ca548-f329-2927-c54b-20b471c3353c/105774.jpg/600x600bb.jpg",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/ad/ad/80adadd2-0885-aeb5-79ea-fd1679f5b727/4160689.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,

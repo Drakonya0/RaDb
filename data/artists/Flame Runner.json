@@ -791,39 +791,6 @@
       ]
     },
     {
-      "name": "Deseo Ardiente",
-      "year": "2025",
-      "release_date": "2025-05-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/2f/36/ce2f3691-8a85-6027-c6ed-254f84ecfc04/1044008.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Deseo Ardiente",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "Deseo Ardiente (Slowed)",
-          "duration": "1:29"
-        },
-        {
-          "number": 3,
-          "name": "Deseo Ardiente (Super Slowed)",
-          "duration": "1:36"
-        },
-        {
-          "number": 4,
-          "name": "Deseo Ardiente (Ultra Slowed)",
-          "duration": "1:42"
-        },
-        {
-          "number": 5,
-          "name": "Deseo Ardiente (Sped Up)",
-          "duration": "1:18"
-        }
-      ]
-    },
-    {
       "name": "Espirito Eterna",
       "year": "2025",
       "release_date": "2025-06-13",
@@ -853,6 +820,39 @@
           "number": 5,
           "name": "Espirito Eterna (Sped Up)",
           "duration": "1:20"
+        }
+      ]
+    },
+    {
+      "name": "Deseo Ardiente",
+      "year": "2025",
+      "release_date": "2025-05-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/2f/36/ce2f3691-8a85-6027-c6ed-254f84ecfc04/1044008.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Deseo Ardiente",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "Deseo Ardiente (Slowed)",
+          "duration": "1:29"
+        },
+        {
+          "number": 3,
+          "name": "Deseo Ardiente (Super Slowed)",
+          "duration": "1:36"
+        },
+        {
+          "number": 4,
+          "name": "Deseo Ardiente (Ultra Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 5,
+          "name": "Deseo Ardiente (Sped Up)",
+          "duration": "1:18"
         }
       ]
     },
@@ -1851,8 +1851,8 @@
     {
       "name": "Dulce Caricia",
       "year": "2025",
-      "release_date": "2025-08-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/25/47/22254709-4f7b-2899-6b19-a852804fe620/61328.jpg/600x600bb.jpg",
+      "release_date": "2025-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/66/b2/f266b21e-43fb-3478-254d-c63c5f1d3943/4167492.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
@@ -2854,6 +2854,44 @@
       ]
     },
     {
+      "name": "ALMA ESCURA",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/08/36/74083654-cde5-7f32-779b-a68299cbd4f2/4139907.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ALMA ESCURA",
+          "duration": "1:28"
+        },
+        {
+          "number": 2,
+          "name": "ALMA ESCURA (Slowed)",
+          "duration": "1:36"
+        },
+        {
+          "number": 3,
+          "name": "ALMA ESCURA (Super Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 4,
+          "name": "ALMA ESCURA (Ultra Slowed)",
+          "duration": "1:54"
+        },
+        {
+          "number": 5,
+          "name": "ALMA ESCURA (Extremely Slowed)",
+          "duration": "2:05"
+        },
+        {
+          "number": 6,
+          "name": "ALMA ESCURA (Sped Up)",
+          "duration": "1:23"
+        }
+      ]
+    },
+    {
       "name": "Dulce Caricia",
       "year": "2025",
       "release_date": "2025-08-06",
@@ -3625,39 +3663,6 @@
       ]
     },
     {
-      "name": "Espirito Eterna",
-      "year": "2025",
-      "release_date": "2025-06-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/1c/1b/1b1c1b30-805d-479e-b688-1d143d6f7ca7/1043366.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Espirito Eterna",
-          "duration": "1:27"
-        },
-        {
-          "number": 2,
-          "name": "Espirito Eterna (Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 3,
-          "name": "Espirito Eterna (Super Slowed)",
-          "duration": "1:42"
-        },
-        {
-          "number": 4,
-          "name": "Espirito Eterna (Ultra Slowed)",
-          "duration": "1:48"
-        },
-        {
-          "number": 5,
-          "name": "Espirito Eterna (Sped Up)",
-          "duration": "1:20"
-        }
-      ]
-    },
-    {
       "name": "Nao Para",
       "year": "2025",
       "release_date": "2025-09-12",
@@ -3687,6 +3692,39 @@
           "number": 5,
           "name": "Nao Para (Sped Up)",
           "duration": "1:12"
+        }
+      ]
+    },
+    {
+      "name": "Espirito Eterna",
+      "year": "2025",
+      "release_date": "2025-06-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/1c/1b/1b1c1b30-805d-479e-b688-1d143d6f7ca7/1043366.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Espirito Eterna",
+          "duration": "1:27"
+        },
+        {
+          "number": 2,
+          "name": "Espirito Eterna (Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 3,
+          "name": "Espirito Eterna (Super Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "Espirito Eterna (Ultra Slowed)",
+          "duration": "1:48"
+        },
+        {
+          "number": 5,
+          "name": "Espirito Eterna (Sped Up)",
+          "duration": "1:20"
         }
       ]
     },
@@ -4182,6 +4220,39 @@
           "number": 5,
           "name": "LOCKED IN! (Sped Up)",
           "duration": "1:27"
+        }
+      ]
+    },
+    {
+      "name": "TOCA PESADO",
+      "year": "2025",
+      "release_date": "2025-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/06/db/e906db5f-266e-953f-105c-09cc5549c88f/4133369.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TOCA PESADO",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "TOCA PESADO (Slowed)",
+          "duration": "1:32"
+        },
+        {
+          "number": 3,
+          "name": "TOCA PESADO (Super Slowed)",
+          "duration": "1:39"
+        },
+        {
+          "number": 4,
+          "name": "TOCA PESADO (Ultra Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 5,
+          "name": "TOCA PESADO (Sped Up)",
+          "duration": "1:19"
         }
       ]
     }

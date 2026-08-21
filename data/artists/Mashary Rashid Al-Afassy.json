@@ -3,49 +3,6 @@
   "id": 1799201860,
   "albums": [
     {
-      "name": "Zikir Istighfar",
-      "year": "2026",
-      "release_date": "2026-07-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/39/6b/62396b8e-8d34-392c-04c9-8b690337915c/8721555797642.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "دعاء السفر",
-          "duration": "2:02"
-        },
-        {
-          "number": 2,
-          "name": "التشھد",
-          "duration": "1:59"
-        },
-        {
-          "number": 3,
-          "name": "Dua Al - Nasr Wal - Huda",
-          "duration": "2:01"
-        },
-        {
-          "number": 4,
-          "name": "Dua Qada' Al - Dayn",
-          "duration": "2:00"
-        },
-        {
-          "number": 5,
-          "name": "Al - Isti'athah Al - Shamila",
-          "duration": "2:02"
-        },
-        {
-          "number": 6,
-          "name": "Zikir Istighfar",
-          "duration": "2:08"
-        },
-        {
-          "number": 7,
-          "name": "Dua Jawami' Al - Khayr",
-          "duration": "2:24"
-        }
-      ]
-    },
-    {
       "name": "The Holy Quran",
       "year": "2025",
       "release_date": "2025-09-01",
@@ -249,50 +206,45 @@
       ]
     },
     {
-      "name": "Surah Al - Ikhlas",
-      "year": "2025",
-      "release_date": "2025-03-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/e5/e4/36e5e4c4-fdd7-a7fd-e566-68ba5a25551b/8721215090403.png/600x600bb.jpg",
+      "name": "Zikir Istighfar",
+      "year": "2026",
+      "release_date": "2026-07-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/39/6b/62396b8e-8d34-392c-04c9-8b690337915c/8721555797642.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Surah Al - Kauthar",
-          "duration": "1:02"
+          "name": "دعاء السفر",
+          "duration": "2:02"
         },
         {
           "number": 2,
-          "name": "Surah Al - Ikhlas",
-          "duration": "0:46"
+          "name": "التشھد",
+          "duration": "1:59"
         },
         {
           "number": 3,
-          "name": "Surah an - Nas",
-          "duration": "0:46"
+          "name": "Dua Al - Nasr Wal - Huda",
+          "duration": "2:01"
         },
         {
           "number": 4,
-          "name": "Surah Quraish",
-          "duration": "0:33"
+          "name": "Dua Qada' Al - Dayn",
+          "duration": "2:00"
         },
         {
           "number": 5,
-          "name": "Surah Fatiha",
-          "duration": "1:02"
+          "name": "Al - Isti'athah Al - Shamila",
+          "duration": "2:02"
         },
         {
           "number": 6,
-          "name": "Surah Al - Kafirun",
-          "duration": "0:49"
+          "name": "Zikir Istighfar",
+          "duration": "2:08"
         },
         {
           "number": 7,
-          "name": "Surah Al - Falaq",
-          "duration": "1:03"
-        },
-        {
-          "number": 8,
-          "name": "Surah an - Nasr",
-          "duration": "1:04"
+          "name": "Dua Jawami' Al - Khayr",
+          "duration": "2:24"
         }
       ]
     },
@@ -488,6 +440,54 @@
           "duration": "0:49"
         }
       ]
+    },
+    {
+      "name": "Surah Al - Ikhlas",
+      "year": "2025",
+      "release_date": "2025-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/e5/e4/36e5e4c4-fdd7-a7fd-e566-68ba5a25551b/8721215090403.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Surah Al - Kauthar",
+          "duration": "1:02"
+        },
+        {
+          "number": 2,
+          "name": "Surah Al - Ikhlas",
+          "duration": "0:46"
+        },
+        {
+          "number": 3,
+          "name": "Surah an - Nas",
+          "duration": "0:46"
+        },
+        {
+          "number": 4,
+          "name": "Surah Quraish",
+          "duration": "0:33"
+        },
+        {
+          "number": 5,
+          "name": "Surah Fatiha",
+          "duration": "1:02"
+        },
+        {
+          "number": 6,
+          "name": "Surah Al - Kafirun",
+          "duration": "0:49"
+        },
+        {
+          "number": 7,
+          "name": "Surah Al - Falaq",
+          "duration": "1:03"
+        },
+        {
+          "number": 8,
+          "name": "Surah an - Nasr",
+          "duration": "1:04"
+        }
+      ]
     }
   ],
   "singles": [
@@ -516,6 +516,29 @@
     }
   ],
   "eps": [
+    {
+      "name": "Alwaqiah",
+      "year": "2016",
+      "release_date": "2016-08-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/f9/e0/37f9e08c-0f55-6d75-208d-6befb3570327/8721554251510.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Alrahman",
+          "duration": "11:32"
+        },
+        {
+          "number": 2,
+          "name": "Alwaqiah",
+          "duration": "9:07"
+        },
+        {
+          "number": 3,
+          "name": "Al Nabaa",
+          "duration": "4:50"
+        }
+      ]
+    },
     {
       "name": "سورة الرحمن",
       "year": "2025",

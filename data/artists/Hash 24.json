@@ -454,64 +454,6 @@
       ]
     },
     {
-      "name": "0,24",
-      "year": "2022",
-      "release_date": "2022-11-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/c5/c9/10c5c9a7-6f0f-1eef-564e-996daf262499/25UM1IM97136.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro",
-          "duration": "2:20"
-        },
-        {
-          "number": 2,
-          "name": "Comment faire",
-          "duration": "2:38"
-        },
-        {
-          "number": 3,
-          "name": "0,24",
-          "duration": "3:09"
-        },
-        {
-          "number": 4,
-          "name": "Hors de moi",
-          "duration": "2:58"
-        },
-        {
-          "number": 5,
-          "name": "E-19",
-          "duration": "2:39"
-        },
-        {
-          "number": 6,
-          "name": "C'est grave",
-          "duration": "3:25"
-        },
-        {
-          "number": 7,
-          "name": "Grillé",
-          "duration": "3:07"
-        },
-        {
-          "number": 8,
-          "name": "Emoji",
-          "duration": "1:25"
-        },
-        {
-          "number": 9,
-          "name": "Marche ou crève",
-          "duration": "2:48"
-        },
-        {
-          "number": 10,
-          "name": "Outro",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
       "name": "Trafic 2",
       "year": "2025",
       "release_date": "2025-06-27",
@@ -575,6 +517,64 @@
         {
           "number": 12,
           "name": "Gyrophares",
+          "duration": "2:20"
+        }
+      ]
+    },
+    {
+      "name": "0,24",
+      "year": "2022",
+      "release_date": "2022-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/c5/c9/10c5c9a7-6f0f-1eef-564e-996daf262499/25UM1IM97136.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro",
+          "duration": "2:20"
+        },
+        {
+          "number": 2,
+          "name": "Comment faire",
+          "duration": "2:38"
+        },
+        {
+          "number": 3,
+          "name": "0,24",
+          "duration": "3:09"
+        },
+        {
+          "number": 4,
+          "name": "Hors de moi",
+          "duration": "2:58"
+        },
+        {
+          "number": 5,
+          "name": "E-19",
+          "duration": "2:39"
+        },
+        {
+          "number": 6,
+          "name": "C'est grave",
+          "duration": "3:25"
+        },
+        {
+          "number": 7,
+          "name": "Grillé",
+          "duration": "3:07"
+        },
+        {
+          "number": 8,
+          "name": "Emoji",
+          "duration": "1:25"
+        },
+        {
+          "number": 9,
+          "name": "Marche ou crève",
+          "duration": "2:48"
+        },
+        {
+          "number": 10,
+          "name": "Outro",
           "duration": "2:20"
         }
       ]
@@ -937,19 +937,6 @@
       ]
     },
     {
-      "name": "Outro",
-      "year": "2022",
-      "release_date": "2022-11-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/5b/73/515b7336-ab56-2045-3790-60a49800833b/25UM1IM97139.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Outro",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
       "name": "Comme un homme",
       "year": "2024",
       "release_date": "2024-07-12",
@@ -959,6 +946,19 @@
           "number": 1,
           "name": "Comme un homme",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "year": "2022",
+      "release_date": "2022-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/5b/73/515b7336-ab56-2045-3790-60a49800833b/25UM1IM97139.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Outro",
+          "duration": "2:20"
         }
       ]
     },

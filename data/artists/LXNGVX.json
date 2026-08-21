@@ -367,19 +367,6 @@
       ]
     },
     {
-      "name": "Lock N Load",
-      "year": "2022",
-      "release_date": "2022-11-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/f3/fc/1bf3fc6c-515d-622f-fc59-f95d4df43007/52bd7d79-0251-467c-9b7e-c2bccca2431c.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lock N Load",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
       "name": "Plus Vibe",
       "year": "2024",
       "release_date": "2024-01-11",
@@ -399,6 +386,19 @@
           "number": 3,
           "name": "PLUS VIBE (Sped Up)",
           "duration": "1:30"
+        }
+      ]
+    },
+    {
+      "name": "Lock N Load",
+      "year": "2022",
+      "release_date": "2022-11-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/f3/fc/1bf3fc6c-515d-622f-fc59-f95d4df43007/52bd7d79-0251-467c-9b7e-c2bccca2431c.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lock N Load",
+          "duration": "2:20"
         }
       ]
     },
@@ -1231,6 +1231,34 @@
       ]
     },
     {
+      "name": "RELAXADO",
+      "year": "2024",
+      "release_date": "2024-12-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/44/e7/bf44e7c4-5426-c93e-afe7-6753df190d6a/199066368831.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "RELAXADO",
+          "duration": "1:46"
+        },
+        {
+          "number": 2,
+          "name": "RELAXADO (Slowed + Reverb)",
+          "duration": "1:59"
+        },
+        {
+          "number": 3,
+          "name": "RELAXADO (Sped Up)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "RELAXADO (Ultra Slowed + Reverb)",
+          "duration": "2:14"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM BACANAL",
       "year": "2026",
       "release_date": "2026-01-16",
@@ -1260,34 +1288,6 @@
           "number": 5,
           "name": "MONTAGEM BACANAL (Sped Up)",
           "duration": "1:35"
-        }
-      ]
-    },
-    {
-      "name": "RELAXADO",
-      "year": "2024",
-      "release_date": "2024-12-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/44/e7/bf44e7c4-5426-c93e-afe7-6753df190d6a/199066368831.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "RELAXADO",
-          "duration": "1:46"
-        },
-        {
-          "number": 2,
-          "name": "RELAXADO (Slowed + Reverb)",
-          "duration": "1:59"
-        },
-        {
-          "number": 3,
-          "name": "RELAXADO (Sped Up)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "RELAXADO (Ultra Slowed + Reverb)",
-          "duration": "2:14"
         }
       ]
     },
@@ -1391,34 +1391,6 @@
       ]
     },
     {
-      "name": "DIZZY",
-      "year": "2024",
-      "release_date": "2024-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/f5/50/c0f5506a-1a10-24b9-27d6-fc8930ac7277/198846331201.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DIZZY",
-          "duration": "1:43"
-        },
-        {
-          "number": 2,
-          "name": "DIZZY (SLOWED)",
-          "duration": "1:57"
-        },
-        {
-          "number": 3,
-          "name": "DIZZY (SPED UP)",
-          "duration": "1:32"
-        },
-        {
-          "number": 4,
-          "name": "DIZZY (SUPER SLOWED)",
-          "duration": "2:11"
-        }
-      ]
-    },
-    {
       "name": "SOLTE DEVAGAR",
       "year": "2026",
       "release_date": "2026-02-13",
@@ -1448,6 +1420,34 @@
           "number": 5,
           "name": "SOLTE DEVAGAR (Sped Up)",
           "duration": "1:16"
+        }
+      ]
+    },
+    {
+      "name": "DIZZY",
+      "year": "2024",
+      "release_date": "2024-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/f5/50/c0f5506a-1a10-24b9-27d6-fc8930ac7277/198846331201.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DIZZY",
+          "duration": "1:43"
+        },
+        {
+          "number": 2,
+          "name": "DIZZY (SLOWED)",
+          "duration": "1:57"
+        },
+        {
+          "number": 3,
+          "name": "DIZZY (SPED UP)",
+          "duration": "1:32"
+        },
+        {
+          "number": 4,
+          "name": "DIZZY (SUPER SLOWED)",
+          "duration": "2:11"
         }
       ]
     },

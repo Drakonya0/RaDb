@@ -202,69 +202,6 @@
       ]
     },
     {
-      "name": "Cursum Perficio",
-      "year": "2026",
-      "release_date": "2026-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/80/f9/8b80f9fa-84b5-d50b-56c8-38c626d23c6c/199806771266.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Persistence of Memory",
-          "duration": "1:07"
-        },
-        {
-          "number": 2,
-          "name": "The Long Goodbye",
-          "duration": "5:34"
-        },
-        {
-          "number": 3,
-          "name": "It's For the Kids",
-          "duration": "4:20"
-        },
-        {
-          "number": 4,
-          "name": "Everybody's Got A Plan",
-          "duration": "4:36"
-        },
-        {
-          "number": 5,
-          "name": "The Edge of Perfection",
-          "duration": "6:46"
-        },
-        {
-          "number": 6,
-          "name": "Infectious",
-          "duration": "5:16"
-        },
-        {
-          "number": 7,
-          "name": "NYC 93",
-          "duration": "4:48"
-        },
-        {
-          "number": 8,
-          "name": "Cursum Perficio",
-          "duration": "6:08"
-        },
-        {
-          "number": 9,
-          "name": "T.O.M.B.",
-          "duration": "4:31"
-        },
-        {
-          "number": 10,
-          "name": "Watch It Go",
-          "duration": "5:43"
-        },
-        {
-          "number": 11,
-          "name": "My Victory",
-          "duration": "4:54"
-        }
-      ]
-    },
-    {
       "name": "Speak English or Die (30th Anniversary Edition)",
       "year": "1985",
       "release_date": "1985-08-30",
@@ -560,6 +497,69 @@
           "number": 10,
           "name": "Finale",
           "duration": "5:50"
+        }
+      ]
+    },
+    {
+      "name": "Cursum Perficio",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/80/f9/8b80f9fa-84b5-d50b-56c8-38c626d23c6c/199806771266.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Persistence of Memory",
+          "duration": "1:07"
+        },
+        {
+          "number": 2,
+          "name": "The Long Goodbye",
+          "duration": "5:34"
+        },
+        {
+          "number": 3,
+          "name": "It's For the Kids",
+          "duration": "4:20"
+        },
+        {
+          "number": 4,
+          "name": "Everybody's Got A Plan",
+          "duration": "4:36"
+        },
+        {
+          "number": 5,
+          "name": "The Edge of Perfection",
+          "duration": "6:46"
+        },
+        {
+          "number": 6,
+          "name": "Infectious",
+          "duration": "5:16"
+        },
+        {
+          "number": 7,
+          "name": "NYC 93",
+          "duration": "4:48"
+        },
+        {
+          "number": 8,
+          "name": "Cursum Perficio",
+          "duration": "6:08"
+        },
+        {
+          "number": 9,
+          "name": "T.O.M.B.",
+          "duration": "4:31"
+        },
+        {
+          "number": 10,
+          "name": "Watch It Go",
+          "duration": "5:43"
+        },
+        {
+          "number": 11,
+          "name": "My Victory",
+          "duration": "4:54"
         }
       ]
     },
@@ -2810,13 +2810,6 @@
       "release_date": "2016-01-22",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/fe/b3/d7/feb3d722-cb6b-d8a8-9dbc-6c494dff9108/886445716863.jpg/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "The Story of Grim",
-      "year": "2026",
-      "release_date": "2026-08-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/ff/a6/19ffa6c7-b4d3-9fec-1442-0cb8f6a27e76/885288106602.jpg/600x600bb.jpg",
-      "tracks": []
     }
   ],
   "eps": [
@@ -2948,6 +2941,13 @@
           "duration": "4:05"
         }
       ]
+    },
+    {
+      "name": "The Story of Chron",
+      "year": "2026",
+      "release_date": "2026-08-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/3a/e2/803ae28a-579b-7b0f-44aa-76db74067d0e/885288124996.jpg/600x600bb.jpg",
+      "tracks": []
     }
   ]
 }

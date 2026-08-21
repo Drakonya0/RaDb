@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "LIFE IS A HIGHWAY",
-      "year": "2024",
-      "release_date": "2024-12-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/87/9b/cb879b3d-ff4d-d84b-07ef-eb742974ba9e/198937125030_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LIFE IS A HIGHWAY",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
       "name": "Hawaiian Roller Coaster Ride",
       "year": "2023",
       "release_date": "2023-05-03",
@@ -52,6 +39,19 @@
           "number": 1,
           "name": "Egyptian",
           "duration": "4:45"
+        }
+      ]
+    },
+    {
+      "name": "LIFE IS A HIGHWAY",
+      "year": "2024",
+      "release_date": "2024-12-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/87/9b/cb879b3d-ff4d-d84b-07ef-eb742974ba9e/198937125030_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LIFE IS A HIGHWAY",
+          "duration": "2:51"
         }
       ]
     },

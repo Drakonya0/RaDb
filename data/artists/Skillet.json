@@ -1750,6 +1750,24 @@
       ]
     },
     {
+      "name": "Lift Me Up",
+      "year": "2026",
+      "release_date": "2026-08-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/71/62/ac716251-7b45-c7eb-87ba-528d39594ad0/712132039970_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lift Me Up",
+          "duration": "3:24"
+        },
+        {
+          "number": 2,
+          "name": "Scream",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
       "name": "Psycho In My Head (Live)",
       "year": "2023",
       "release_date": "2023-06-30",
@@ -1846,24 +1864,6 @@
           "duration": "3:52"
         }
       ]
-    },
-    {
-      "name": "Lift Me Up",
-      "year": "2026",
-      "release_date": "2026-08-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/71/62/ac716251-7b45-c7eb-87ba-528d39594ad0/712132039970_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lift Me Up",
-          "duration": "3:24"
-        },
-        {
-          "number": 2,
-          "name": "Scream",
-          "duration": "3:26"
-        }
-      ]
     }
   ],
   "eps": [
@@ -1892,39 +1892,6 @@
           "number": 4,
           "name": "Monster (Unleash the Beast)",
           "duration": "4:40"
-        }
-      ]
-    },
-    {
-      "name": "Feel Invincible Remix",
-      "year": "2017",
-      "release_date": "2017-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f7/1d/ba/f71dba2e-ea42-3875-6818-1cb779cd11a0/075679885968.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Feel Invincible (KELLR Remix)",
-          "duration": "3:11"
-        },
-        {
-          "number": 2,
-          "name": "Feel Invincible (Doug Weier Remix)",
-          "duration": "3:32"
-        },
-        {
-          "number": 3,
-          "name": "Feel Invincible (81Neutronz Remix)",
-          "duration": "4:01"
-        },
-        {
-          "number": 4,
-          "name": "Feel Invincible (blastforever Remix)",
-          "duration": "3:48"
-        },
-        {
-          "number": 5,
-          "name": "Feel Invincible (Noise Revolution Remix)",
-          "duration": "3:59"
         }
       ]
     },
@@ -1963,6 +1930,39 @@
           "number": 6,
           "name": "Come and Find Me",
           "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "Feel Invincible Remix",
+      "year": "2017",
+      "release_date": "2017-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f7/1d/ba/f71dba2e-ea42-3875-6818-1cb779cd11a0/075679885968.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Feel Invincible (KELLR Remix)",
+          "duration": "3:11"
+        },
+        {
+          "number": 2,
+          "name": "Feel Invincible (Doug Weier Remix)",
+          "duration": "3:32"
+        },
+        {
+          "number": 3,
+          "name": "Feel Invincible (81Neutronz Remix)",
+          "duration": "4:01"
+        },
+        {
+          "number": 4,
+          "name": "Feel Invincible (blastforever Remix)",
+          "duration": "3:48"
+        },
+        {
+          "number": 5,
+          "name": "Feel Invincible (Noise Revolution Remix)",
+          "duration": "3:59"
         }
       ]
     },

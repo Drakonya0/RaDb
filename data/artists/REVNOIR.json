@@ -4,24 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Alchemised",
-      "year": "2026",
-      "release_date": "2026-06-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/c4/18/dbc418f3-548f-2c11-996c-c6f9862fddfa/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Alchemised",
-          "duration": "3:56"
-        },
-        {
-          "number": 2,
-          "name": "Red Ice",
-          "duration": "3:46"
-        }
-      ]
-    },
-    {
       "name": "In Limbo",
       "year": "2023",
       "release_date": "2023-10-13",
@@ -36,6 +18,24 @@
           "number": 2,
           "name": "Bang Bang",
           "duration": "4:03"
+        }
+      ]
+    },
+    {
+      "name": "Alchemised",
+      "year": "2026",
+      "release_date": "2026-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/c4/18/dbc418f3-548f-2c11-996c-c6f9862fddfa/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Alchemised",
+          "duration": "3:56"
+        },
+        {
+          "number": 2,
+          "name": "Red Ice",
+          "duration": "3:46"
         }
       ]
     },

@@ -1,116 +1,2511 @@
 {
-  "name": "Gravel & Grace",
-  "id": 1854531438,
+  "name": "Paul Simon",
+  "id": 152016,
   "albums": [
     {
-      "name": "Home Again",
-      "year": "2025",
-      "release_date": "2025-11-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/55/ad/3b55adf4-a124-a0a7-8913-48170b9c1575/artwork.jpg/600x600bb.jpg",
+      "name": "The Essential Paul Simon",
+      "year": "2007",
+      "release_date": "2007-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/c9/a5/5ec9a59c-13b6-3a55-5511-9e3da438551a/dj.ojewaxgt.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "River of Grace",
-          "duration": "3:16"
+          "name": "Mother and Child Reunion",
+          "duration": "3:09"
+        },
+        {
+          "number": 1,
+          "name": "Graceland",
+          "duration": "4:51"
         },
         {
           "number": 2,
-          "name": "Back to Church",
-          "duration": "3:20"
+          "name": "Loves Me Like a Rock",
+          "duration": "3:40"
+        },
+        {
+          "number": 2,
+          "name": "Diamonds On the Soles of Her Shoes",
+          "duration": "5:51"
         },
         {
           "number": 3,
-          "name": "Quiet in the Chaos",
-          "duration": "4:00"
+          "name": "Me and Julio Down By the Schoolyard",
+          "duration": "2:44"
+        },
+        {
+          "number": 3,
+          "name": "The Boy In the Bubble",
+          "duration": "3:59"
         },
         {
           "number": 4,
-          "name": "Home Again",
-          "duration": "4:15"
+          "name": "Duncan",
+          "duration": "4:43"
+        },
+        {
+          "number": 4,
+          "name": "You Can Call Me Al",
+          "duration": "4:40"
         },
         {
           "number": 5,
-          "name": "Name Above the Noise",
-          "duration": "4:10"
+          "name": "Kodachrome",
+          "duration": "3:35"
+        },
+        {
+          "number": 5,
+          "name": "Under African Skies",
+          "duration": "3:37"
         },
         {
           "number": 6,
-          "name": "Raised on the Rock",
+          "name": "50 Ways to Leave Your Lover",
+          "duration": "3:37"
+        },
+        {
+          "number": 6,
+          "name": "The Obvious Child",
+          "duration": "4:10"
+        },
+        {
+          "number": 7,
+          "name": "Slip Slidin' Away",
+          "duration": "4:45"
+        },
+        {
+          "number": 7,
+          "name": "Born At the Right Time",
+          "duration": "3:48"
+        },
+        {
+          "number": 8,
+          "name": "Gone At Last (with Phoebe Snow & The Jessy Dixon Singers)",
+          "duration": "3:40"
+        },
+        {
+          "number": 8,
+          "name": "The Cool, Cool River",
+          "duration": "4:33"
+        },
+        {
+          "number": 9,
+          "name": "Something So Right",
+          "duration": "4:36"
+        },
+        {
+          "number": 9,
+          "name": "Spirit Voices",
+          "duration": "3:56"
+        },
+        {
+          "number": 10,
+          "name": "Late In the Evening",
+          "duration": "4:02"
+        },
+        {
+          "number": 10,
+          "name": "Adiós Hermanos",
+          "duration": "4:42"
+        },
+        {
+          "number": 11,
+          "name": "Hearts and Bones",
+          "duration": "5:39"
+        },
+        {
+          "number": 11,
+          "name": "Born In Puerto Rico",
+          "duration": "4:54"
+        },
+        {
+          "number": 12,
+          "name": "Take Me to the Mardi Gras",
+          "duration": "3:30"
+        },
+        {
+          "number": 12,
+          "name": "Quality",
+          "duration": "4:19"
+        },
+        {
+          "number": 13,
+          "name": "That Was Your Mother (with Good Rockin' Dopsie & The Twisters)",
+          "duration": "2:52"
+        },
+        {
+          "number": 13,
+          "name": "Darling Lorraine",
+          "duration": "6:38"
+        },
+        {
+          "number": 14,
+          "name": "American Tune",
+          "duration": "3:47"
+        },
+        {
+          "number": 14,
+          "name": "Hurricane Eye",
+          "duration": "4:11"
+        },
+        {
+          "number": 15,
+          "name": "Peace Like a River",
+          "duration": "3:23"
+        },
+        {
+          "number": 15,
+          "name": "Father and Daughter",
+          "duration": "4:10"
+        },
+        {
+          "number": 16,
+          "name": "Stranded In a Limousine",
+          "duration": "3:10"
+        },
+        {
+          "number": 16,
+          "name": "Outrageous",
+          "duration": "3:24"
+        },
+        {
+          "number": 17,
+          "name": "Train In the Distance",
+          "duration": "5:12"
+        },
+        {
+          "number": 17,
+          "name": "Wartime Prayers",
+          "duration": "4:49"
+        },
+        {
+          "number": 18,
+          "name": "The Late Great Johnny Ace",
+          "duration": "4:53"
+        },
+        {
+          "number": 19,
+          "name": "Still Crazy After All These Years",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "Graceland",
+      "year": "1986",
+      "release_date": "1986-08-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a7/73/c1/a773c1f0-281c-324c-204f-540444080ea8/886443445697.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Boy In the Bubble",
+          "duration": "3:59"
+        },
+        {
+          "number": 2,
+          "name": "Graceland",
+          "duration": "4:51"
+        },
+        {
+          "number": 3,
+          "name": "I Know What I Know (with General M.D. Shirinda & the Gaza Sisters)",
+          "duration": "3:13"
+        },
+        {
+          "number": 4,
+          "name": "Gumboots (with the Boyoyo Boys)",
+          "duration": "2:44"
+        },
+        {
+          "number": 5,
+          "name": "Diamonds On the Soles of Her Shoes",
+          "duration": "5:50"
+        },
+        {
+          "number": 6,
+          "name": "You Can Call Me Al",
+          "duration": "4:40"
+        },
+        {
+          "number": 7,
+          "name": "Under African Skies",
+          "duration": "3:37"
+        },
+        {
+          "number": 8,
+          "name": "Homeless (with Ladysmith Black Mambazo)",
+          "duration": "3:48"
+        },
+        {
+          "number": 9,
+          "name": "Crazy Love, Vol. II",
+          "duration": "4:19"
+        },
+        {
+          "number": 10,
+          "name": "That Was Your Mother (with Good Rockin' Dopsie and the Twisters)",
+          "duration": "2:52"
+        },
+        {
+          "number": 11,
+          "name": "All Around the World or the Myth of Fingerprints (with Los Lobos)",
+          "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "The Rhythm of the Saints (Bonus Tracks Edition)",
+      "year": "1990",
+      "release_date": "1990-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/5c/22/ae/5c22aefc-b83a-e328-9b35-58e481d23567/dj.wqoiotbf.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Obvious Child",
+          "duration": "4:10"
+        },
+        {
+          "number": 2,
+          "name": "Can't Run But",
+          "duration": "3:36"
+        },
+        {
+          "number": 3,
+          "name": "The Coast",
+          "duration": "5:04"
+        },
+        {
+          "number": 4,
+          "name": "Proof",
+          "duration": "4:39"
+        },
+        {
+          "number": 5,
+          "name": "Further to Fly",
+          "duration": "5:36"
+        },
+        {
+          "number": 6,
+          "name": "She Moves On",
+          "duration": "5:03"
+        },
+        {
+          "number": 7,
+          "name": "Born At the Right Time",
+          "duration": "3:48"
+        },
+        {
+          "number": 8,
+          "name": "The Cool, Cool River",
+          "duration": "4:33"
+        },
+        {
+          "number": 9,
+          "name": "Spirit Voices",
+          "duration": "3:56"
+        },
+        {
+          "number": 10,
+          "name": "The Rhythm of the Saints",
+          "duration": "4:20"
+        },
+        {
+          "number": 11,
+          "name": "Born At the Right Time (Acoustic Demo) [Bonus Track]",
+          "duration": "3:50"
+        },
+        {
+          "number": 12,
+          "name": "Thelma (Bonus Track)",
+          "duration": "4:14"
+        },
+        {
+          "number": 13,
+          "name": "The Coast (Work-In-Progress) [Bonus Track]",
+          "duration": "5:13"
+        },
+        {
+          "number": 14,
+          "name": "Spirit Voices (Work-In-Progress) [Bonus Track]",
+          "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "Graceland (25th Anniversary Deluxe Edition)",
+      "year": "1986",
+      "release_date": "1986-08-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/92/0c/8c/920c8c14-cf08-a973-e4c1-8792f1e9183c/886443445680.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Boy In the Bubble",
+          "duration": "3:59"
+        },
+        {
+          "number": 2,
+          "name": "Graceland",
+          "duration": "4:51"
+        },
+        {
+          "number": 3,
+          "name": "I Know What I Know",
+          "duration": "3:13"
+        },
+        {
+          "number": 4,
+          "name": "Gumboots (with The Boyoyo Boys)",
+          "duration": "2:44"
+        },
+        {
+          "number": 5,
+          "name": "Diamonds On the Soles of Her Shoes",
+          "duration": "5:50"
+        },
+        {
+          "number": 6,
+          "name": "You Can Call Me Al",
+          "duration": "4:40"
+        },
+        {
+          "number": 7,
+          "name": "Under African Skies",
+          "duration": "3:37"
+        },
+        {
+          "number": 8,
+          "name": "Homeless (with Ladysmith Black Mambazo)",
+          "duration": "3:48"
+        },
+        {
+          "number": 9,
+          "name": "Crazy Love, Vol. II",
+          "duration": "4:19"
+        },
+        {
+          "number": 10,
+          "name": "That Was Your Mother",
+          "duration": "2:52"
+        },
+        {
+          "number": 11,
+          "name": "All Around the World Or the Myth of Fingerprints (with Los Lobos)",
+          "duration": "3:18"
+        },
+        {
+          "number": 12,
+          "name": "Homeless (Demo)",
+          "duration": "2:30"
+        },
+        {
+          "number": 13,
+          "name": "Diamonds On the Soles of Her Shoes (Unreleased Version) [Alternate Version]",
+          "duration": "4:41"
+        },
+        {
+          "number": 14,
+          "name": "All Around the World Or the Myth of Fingerprints (Early Version)",
+          "duration": "3:17"
+        },
+        {
+          "number": 15,
+          "name": "You Can Call Me Al (Demo)",
+          "duration": "2:04"
+        },
+        {
+          "number": 16,
+          "name": "Crazy Love (Demo)",
+          "duration": "2:32"
+        },
+        {
+          "number": 17,
+          "name": "The Story of \"Graceland\" As Told By Paul Simon",
+          "duration": "9:37"
+        }
+      ]
+    },
+    {
+      "name": "Paul Simon (Bonus Tracks Edition)",
+      "year": "1972",
+      "release_date": "1972-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/f1/e8/7af1e8d1-1fa6-4e18-0359-2f412a1fd352/ticket.gjprexdn.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mother and Child Reunion",
+          "duration": "3:09"
+        },
+        {
+          "number": 2,
+          "name": "Duncan",
+          "duration": "4:43"
+        },
+        {
+          "number": 3,
+          "name": "Everything Put Together Falls Apart",
+          "duration": "2:01"
+        },
+        {
+          "number": 4,
+          "name": "Run That Body Down",
+          "duration": "3:54"
+        },
+        {
+          "number": 5,
+          "name": "Armistice Day",
+          "duration": "3:57"
+        },
+        {
+          "number": 6,
+          "name": "Me and Julio Down by the Schoolyard",
+          "duration": "2:44"
+        },
+        {
+          "number": 7,
+          "name": "Peace Like a River",
+          "duration": "3:23"
+        },
+        {
+          "number": 8,
+          "name": "Papa Hobo",
+          "duration": "2:35"
+        },
+        {
+          "number": 9,
+          "name": "Hobo's Blues",
+          "duration": "1:20"
+        },
+        {
+          "number": 10,
+          "name": "Paranoia Blues",
+          "duration": "2:58"
+        },
+        {
+          "number": 11,
+          "name": "Congratulations",
+          "duration": "3:51"
+        },
+        {
+          "number": 12,
+          "name": "Me and Julio Down by the Schoolyard (Demo - San Francisco 2/71)",
+          "duration": "2:29"
+        },
+        {
+          "number": 13,
+          "name": "Duncan (Demo - San Francisco 2/71)",
+          "duration": "2:48"
+        },
+        {
+          "number": 14,
+          "name": "Paranoia Blues (Unreleased Version)",
+          "duration": "3:14"
+        }
+      ]
+    },
+    {
+      "name": "There Goes Rhymin' Simon (Bonus Tracks Edition)",
+      "year": "1973",
+      "release_date": "1973-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/84/c2/26/84c226c7-d880-132d-6537-480b2f46c8be/884977674491.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Kodachrome",
+          "duration": "3:35"
+        },
+        {
+          "number": 2,
+          "name": "Tenderness",
+          "duration": "2:55"
+        },
+        {
+          "number": 3,
+          "name": "Take Me to the Mardi Gras",
+          "duration": "3:30"
+        },
+        {
+          "number": 4,
+          "name": "Something So Right",
+          "duration": "4:36"
+        },
+        {
+          "number": 5,
+          "name": "One Man's Ceiling Is Another Man's Floor",
+          "duration": "3:48"
+        },
+        {
+          "number": 6,
+          "name": "American Tune",
+          "duration": "3:47"
+        },
+        {
+          "number": 7,
+          "name": "Was a Sunny Day",
+          "duration": "3:44"
+        },
+        {
+          "number": 8,
+          "name": "Learn How to Fall",
+          "duration": "2:47"
+        },
+        {
+          "number": 9,
+          "name": "St. Judy's Comet",
+          "duration": "3:21"
+        },
+        {
+          "number": 10,
+          "name": "Loves Me Like a Rock",
+          "duration": "3:40"
+        },
+        {
+          "number": 11,
+          "name": "Let Me Live In Your City (Work In Progress)",
+          "duration": "4:21"
+        },
+        {
+          "number": 12,
+          "name": "Take Me to the Mardi Gras (Acoustic Demo)",
+          "duration": "2:31"
+        },
+        {
+          "number": 13,
+          "name": "American Tune (Unfinished Demo)",
+          "duration": "4:03"
+        },
+        {
+          "number": 14,
+          "name": "Loves Me Like a Rock (Acoustic Demo)",
+          "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "Seven Psalms",
+      "year": "2023",
+      "release_date": "2023-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/89/6c/d2896c57-5367-f471-6b06-42e6c16a20c5/196589795717.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Seven Psalms: The Lord / Love Is Like a Braid / My Professional Opinion / Your Forgiveness / Trail of Volcanoes / The Sacred Harp / Wait",
+          "duration": "33:02"
+        }
+      ]
+    },
+    {
+      "name": "Paul Simon's Concert In the Park August 15th, 1991",
+      "year": "1991",
+      "release_date": "1991-11-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/69/cb/89/69cb8982-3225-2d3e-f736-f429aa0ac7a3/dj.hcijopnh.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Obvious Child (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "4:38"
+        },
+        {
+          "number": 1,
+          "name": "The Coast (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "7:06"
+        },
+        {
+          "number": 2,
+          "name": "The Boy In the Bubble (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "5:59"
+        },
+        {
+          "number": 2,
+          "name": "Graceland (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "5:31"
+        },
+        {
+          "number": 3,
+          "name": "She Moves On (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "6:26"
+        },
+        {
+          "number": 3,
+          "name": "You Can Call Me Al (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "5:10"
+        },
+        {
+          "number": 4,
+          "name": "Kodachrome (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "4:13"
+        },
+        {
+          "number": 4,
+          "name": "Still Crazy After All These Years (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "3:42"
+        },
+        {
+          "number": 5,
+          "name": "Born At the Right Time (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "5:11"
+        },
+        {
+          "number": 5,
+          "name": "Loves Me Like a Rock (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "2:54"
+        },
+        {
+          "number": 6,
+          "name": "Train In the Distance (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "4:45"
+        },
+        {
+          "number": 6,
+          "name": "Diamonds On the Soles of Her Shoes (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "9:31"
+        },
+        {
+          "number": 7,
+          "name": "Me and Julio Down By the Schoolyard (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "3:14"
+        },
+        {
+          "number": 7,
+          "name": "Hearts and Bones (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "6:18"
+        },
+        {
+          "number": 8,
+          "name": "I Know What I Know (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "4:45"
+        },
+        {
+          "number": 8,
+          "name": "Late In the Evening (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "4:45"
+        },
+        {
+          "number": 9,
+          "name": "The Cool, Cool River (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "5:41"
+        },
+        {
+          "number": 9,
+          "name": "America (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "3:23"
+        },
+        {
+          "number": 10,
+          "name": "Bridge Over Troubled Water (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "5:16"
+        },
+        {
+          "number": 10,
+          "name": "The Boxer (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "4:18"
+        },
+        {
+          "number": 11,
+          "name": "Proof (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "5:40"
+        },
+        {
+          "number": 11,
+          "name": "Cecilia (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "3:24"
+        },
+        {
+          "number": 12,
+          "name": "The Sound of Silence (Live at Central Park, New York, NY - August 15, 1991)",
+          "duration": "5:46"
+        }
+      ]
+    },
+    {
+      "name": "Still Crazy After All These Years (Bonus Tracks Edition)",
+      "year": "1975",
+      "release_date": "1975-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bc/19/3f/bc193fef-9467-956f-9fe0-2b4be6770ed3/dj.dljuqezh.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Still Crazy After All These Years",
+          "duration": "3:26"
+        },
+        {
+          "number": 2,
+          "name": "My Little Town (with Art Garfunkel)",
+          "duration": "3:51"
+        },
+        {
+          "number": 3,
+          "name": "I'd Do It for Your Love",
+          "duration": "3:34"
+        },
+        {
+          "number": 4,
+          "name": "50 Ways to Leave Your Lover",
+          "duration": "3:37"
+        },
+        {
+          "number": 5,
+          "name": "Night Game",
+          "duration": "2:57"
+        },
+        {
+          "number": 6,
+          "name": "Gone At Last (with Phoebe Snow & the Jessy Dixon Singers)",
+          "duration": "3:40"
+        },
+        {
+          "number": 7,
+          "name": "Some Folks' Lives Roll Easy",
+          "duration": "3:13"
+        },
+        {
+          "number": 8,
+          "name": "Have a Good Time",
+          "duration": "3:26"
+        },
+        {
+          "number": 9,
+          "name": "You're Kind",
+          "duration": "3:19"
+        },
+        {
+          "number": 10,
+          "name": "Silent Eyes",
+          "duration": "4:05"
+        },
+        {
+          "number": 11,
+          "name": "Slip Slidin' Away (Demo)",
+          "duration": "5:28"
+        },
+        {
+          "number": 12,
+          "name": "Gone At Last (Demo) [with the Jessy Dixon Singers]",
+          "duration": "4:38"
+        }
+      ]
+    },
+    {
+      "name": "In the Blue Light",
+      "year": "2018",
+      "release_date": "2018-09-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/af/b6/66/afb66677-746e-6664-c4ff-b15c2eb38465/886447065020.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One Man's Ceiling Is Another Man's Floor",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "Love",
+          "duration": "4:10"
+        },
+        {
+          "number": 3,
+          "name": "Can't Run But",
+          "duration": "3:29"
+        },
+        {
+          "number": 4,
+          "name": "How the Heart Approaches What It Yearns",
+          "duration": "4:30"
+        },
+        {
+          "number": 5,
+          "name": "Pigs, Sheep and Wolves",
+          "duration": "4:00"
+        },
+        {
+          "number": 6,
+          "name": "René and Georgette Magritte with Their Dog After the War",
+          "duration": "4:43"
+        },
+        {
+          "number": 7,
+          "name": "The Teacher",
+          "duration": "3:44"
+        },
+        {
+          "number": 8,
+          "name": "Darling Lorraine",
+          "duration": "7:13"
+        },
+        {
+          "number": 9,
+          "name": "Some Folks' Lives Roll Easy",
+          "duration": "3:59"
+        },
+        {
+          "number": 10,
+          "name": "Questions for the Angels",
+          "duration": "4:01"
+        }
+      ]
+    },
+    {
+      "name": "Over the Bridge of Time: A Paul Simon Retrospective (1964-2011)",
+      "year": "2013",
+      "release_date": "2013-10-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/45/bc/5a/45bc5a74-1a20-b2fc-b9eb-0df82fa480bc/mzm.ctebugts.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Sound of Silence",
+          "duration": "3:05"
+        },
+        {
+          "number": 2,
+          "name": "America",
+          "duration": "3:34"
+        },
+        {
+          "number": 3,
+          "name": "The Boxer",
+          "duration": "5:08"
+        },
+        {
+          "number": 4,
+          "name": "Cecilia",
+          "duration": "2:56"
+        },
+        {
+          "number": 5,
+          "name": "The Only Living Boy in New York",
+          "duration": "3:58"
+        },
+        {
+          "number": 6,
+          "name": "Bridge over Troubled Water",
+          "duration": "4:53"
+        },
+        {
+          "number": 7,
+          "name": "Me and Julio Down by the Schoolyard",
+          "duration": "2:44"
+        },
+        {
+          "number": 8,
+          "name": "Mother and Child Reunion",
+          "duration": "3:06"
+        },
+        {
+          "number": 9,
+          "name": "American Tune",
+          "duration": "3:45"
+        },
+        {
+          "number": 10,
+          "name": "50 Ways to Leave Your Lover",
+          "duration": "3:38"
+        },
+        {
+          "number": 11,
+          "name": "Still Crazy After All These Years",
+          "duration": "3:26"
+        },
+        {
+          "number": 12,
+          "name": "Slip Slidin' Away",
+          "duration": "4:45"
+        },
+        {
+          "number": 13,
+          "name": "Late in the Evening",
+          "duration": "4:02"
+        },
+        {
+          "number": 14,
+          "name": "Hearts and Bones",
+          "duration": "5:40"
+        },
+        {
+          "number": 15,
+          "name": "Diamonds on the Soles of Her Shoes",
+          "duration": "5:48"
+        },
+        {
+          "number": 16,
+          "name": "You Can Call Me Al",
+          "duration": "4:40"
+        },
+        {
+          "number": 17,
+          "name": "Spirit Voices",
+          "duration": "3:56"
+        },
+        {
+          "number": 18,
+          "name": "That's Where I Belong",
+          "duration": "3:12"
+        },
+        {
+          "number": 19,
+          "name": "Everything About It Is a Love Song",
+          "duration": "3:56"
+        },
+        {
+          "number": 20,
+          "name": "Love and Hard Times",
+          "duration": "4:08"
+        }
+      ]
+    },
+    {
+      "name": "Hearts and Bones (Bonus Tracks Edition)",
+      "year": "1983",
+      "release_date": "1983-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/bc/53/f0bc5343-290f-0f43-047e-4ab0c9309104/dj.dfebnvko.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Allergies",
+          "duration": "4:39"
+        },
+        {
+          "number": 2,
+          "name": "Hearts and Bones",
+          "duration": "5:39"
+        },
+        {
+          "number": 3,
+          "name": "When Numbers Get Serious",
+          "duration": "3:26"
+        },
+        {
+          "number": 4,
+          "name": "Think Too Much (b)",
+          "duration": "2:45"
+        },
+        {
+          "number": 5,
+          "name": "Song About the Moon",
+          "duration": "4:11"
+        },
+        {
+          "number": 6,
+          "name": "Think Too Much (A)",
+          "duration": "3:05"
+        },
+        {
+          "number": 7,
+          "name": "Train In the Distance",
+          "duration": "5:12"
+        },
+        {
+          "number": 8,
+          "name": "Rene and Georgette Magritte with Their Dog After the War",
+          "duration": "3:45"
+        },
+        {
+          "number": 9,
+          "name": "Cars Are Cars",
+          "duration": "3:15"
+        },
+        {
+          "number": 10,
+          "name": "The Late Great Johnny Ace",
+          "duration": "4:53"
+        },
+        {
+          "number": 11,
+          "name": "Shelter of Your Arms (Work-In-Progress) [Bonus Track]",
+          "duration": "3:11"
+        },
+        {
+          "number": 12,
+          "name": "Train In the Distance (Acoustic Demo) [Bonus Track]",
+          "duration": "3:13"
+        },
+        {
+          "number": 13,
+          "name": "Rene and Georgette Magritte with Their Dog After the War (Original Acoustic Demo)",
+          "duration": "3:47"
+        },
+        {
+          "number": 14,
+          "name": "The Late Great Johnny Ace (Acoustic Demo) [Bonus Track]",
+          "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "One-Trick Pony (Original Motion Picture Companion Album)",
+      "year": "1980",
+      "release_date": "1980-08-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c9/0f/07/c90f0706-6fae-c886-7354-40fbb3171aac/dj.ccouxvni.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Late In the Evening",
+          "duration": "4:02"
+        },
+        {
+          "number": 2,
+          "name": "That's Why God Made the Movies",
+          "duration": "3:37"
+        },
+        {
+          "number": 3,
+          "name": "One-Trick Pony (Live at the Agora Theatre, Cleveland, OH - September 1979)",
+          "duration": "3:53"
+        },
+        {
+          "number": 4,
+          "name": "How the Heart Approaches What It Yearns",
+          "duration": "2:49"
+        },
+        {
+          "number": 5,
+          "name": "Oh, Marion",
+          "duration": "4:00"
+        },
+        {
+          "number": 6,
+          "name": "Ace In the Hole (Live at the Agora Theatre, Cleveland, OH - September 1979)",
+          "duration": "5:43"
+        },
+        {
+          "number": 7,
+          "name": "Nobody",
+          "duration": "3:32"
+        },
+        {
+          "number": 8,
+          "name": "Jonah",
+          "duration": "3:30"
+        },
+        {
+          "number": 9,
+          "name": "God Bless the Absentee",
+          "duration": "3:17"
+        },
+        {
+          "number": 10,
+          "name": "Long, Long Day",
+          "duration": "3:57"
+        },
+        {
+          "number": 11,
+          "name": "Soft Parachutes (Soundtrack Recording)",
+          "duration": "1:53"
+        },
+        {
+          "number": 12,
+          "name": "All Because of You (Outtake)",
+          "duration": "4:06"
+        },
+        {
+          "number": 13,
+          "name": "Spiral Highway (Soundtrack Recording)",
+          "duration": "2:56"
+        },
+        {
+          "number": 14,
+          "name": "Stranded In a Limousine",
+          "duration": "3:10"
+        }
+      ]
+    },
+    {
+      "name": "The Paul Simon Songbook",
+      "year": "1965",
+      "release_date": "1965-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/02/01/7c/02017c4d-4d9b-a71d-87ec-43d68042c57f/dj.orctoeuk.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Am a Rock",
+          "duration": "2:45"
+        },
+        {
+          "number": 2,
+          "name": "Leaves That Are Green",
+          "duration": "2:33"
+        },
+        {
+          "number": 3,
+          "name": "A Church Is Burning",
+          "duration": "3:26"
+        },
+        {
+          "number": 4,
+          "name": "April Come She Will",
+          "duration": "1:51"
+        },
+        {
+          "number": 5,
+          "name": "The Sound of Silence",
+          "duration": "3:09"
+        },
+        {
+          "number": 6,
+          "name": "A Most Peculiar Man",
+          "duration": "2:26"
+        },
+        {
+          "number": 7,
+          "name": "He Was My Brother",
+          "duration": "2:49"
+        },
+        {
+          "number": 8,
+          "name": "Kathy's Song",
+          "duration": "3:31"
+        },
+        {
+          "number": 9,
+          "name": "The Side of a Hill",
+          "duration": "2:20"
+        },
+        {
+          "number": 10,
+          "name": "A Simple Desultory Philippic (Or How I Was Robert McNamara'd Into Submission)",
+          "duration": "2:21"
+        },
+        {
+          "number": 11,
+          "name": "Flowers Never Bend With the Rainfall",
+          "duration": "2:20"
+        },
+        {
+          "number": 12,
+          "name": "Patterns",
+          "duration": "3:05"
+        },
+        {
+          "number": 13,
+          "name": "I Am a Rock (Alternate Version)",
+          "duration": "2:47"
+        },
+        {
+          "number": 14,
+          "name": "A Church Is Burning (Alternate Version)",
+          "duration": "3:10"
+        }
+      ]
+    },
+    {
+      "name": "Surprise",
+      "year": "2006",
+      "release_date": "2006-05-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/cc/8c/a9/cc8ca9de-6497-2faf-ca59-f18b5d65a3bc/dj.brgvcfgh.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "How Can You Live In the Northeast?",
+          "duration": "3:41"
+        },
+        {
+          "number": 2,
+          "name": "Everything About It Is a Love Song",
+          "duration": "3:57"
+        },
+        {
+          "number": 3,
+          "name": "Outrageous",
+          "duration": "3:24"
+        },
+        {
+          "number": 4,
+          "name": "Sure Don't Feel Like Love",
+          "duration": "3:57"
+        },
+        {
+          "number": 5,
+          "name": "Wartime Prayers",
+          "duration": "4:49"
+        },
+        {
+          "number": 6,
+          "name": "Beautiful",
+          "duration": "3:07"
+        },
+        {
+          "number": 7,
+          "name": "I Don't Believe",
+          "duration": "4:09"
+        },
+        {
+          "number": 8,
+          "name": "Another Galaxy",
+          "duration": "5:22"
+        },
+        {
+          "number": 9,
+          "name": "Once Upon a Time There Was an Ocean",
+          "duration": "3:55"
+        },
+        {
+          "number": 10,
+          "name": "That's Me",
+          "duration": "4:43"
+        },
+        {
+          "number": 11,
+          "name": "Father and Daughter",
+          "duration": "4:10"
+        }
+      ]
+    },
+    {
+      "name": "The Concert in Hyde Park",
+      "year": "2017",
+      "release_date": "2017-06-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/38/5f/c0/385fc0da-3153-36b8-b77b-83a36af58ec0/886446503981.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Kodachrome (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "3:20"
+        },
+        {
+          "number": 1,
+          "name": "Introduction (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "0:47"
+        },
+        {
+          "number": 2,
+          "name": "Gone at Last (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "3:37"
+        },
+        {
+          "number": 2,
+          "name": "Homeless (with Ladysmith Black Mambazo) [Live at Hyde Park, London, UK - July 2012]",
+          "duration": "4:15"
+        },
+        {
+          "number": 3,
+          "name": "Dazzling Blue (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "4:55"
+        },
+        {
+          "number": 3,
+          "name": "Paul Introduces Graceland Band (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "1:32"
+        },
+        {
+          "number": 4,
+          "name": "50 Ways to Leave Your Lover (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "4:31"
+        },
+        {
+          "number": 4,
+          "name": "Diamonds on the Soles of Her Shoes (with Ladysmith Black Mambazo) [Live at Hyde Park, London, UK - July 2012]",
+          "duration": "6:29"
+        },
+        {
+          "number": 5,
+          "name": "Vietnam (with Jimmy Cliff) [Live at Hyde Park, London, UK - July 2012]",
+          "duration": "3:47"
+        },
+        {
+          "number": 5,
+          "name": "I Know What I Know (with Ladysmith Black Mambazo) [Live at Hyde Park, London, UK - July 2012]",
+          "duration": "4:32"
+        },
+        {
+          "number": 6,
+          "name": "Mother and Child Reunion (with Jimmy Cliff) [Live at Hyde Park, London, UK - July 2012]",
+          "duration": "3:43"
+        },
+        {
+          "number": 6,
+          "name": "The Boy in the Bubble (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "4:52"
+        },
+        {
+          "number": 7,
+          "name": "That Was Your Mother (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "3:57"
+        },
+        {
+          "number": 7,
+          "name": "Crazy Love, Vol. II (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "6:11"
+        },
+        {
+          "number": 8,
+          "name": "Hearts and Bones / Mystery Train / Wheels (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "10:02"
+        },
+        {
+          "number": 8,
+          "name": "Gumboots (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "3:58"
+        },
+        {
+          "number": 9,
+          "name": "Me and Julio Down By the Schoolyard (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "2:48"
+        },
+        {
+          "number": 9,
+          "name": "Under African Skies (with Thandiswa Mazwai) [Live at Hyde Park, London, UK - July 2012]",
+          "duration": "4:55"
+        },
+        {
+          "number": 10,
+          "name": "Slip Slidin' Away (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "5:28"
+        },
+        {
+          "number": 10,
+          "name": "Graceland (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "5:31"
+        },
+        {
+          "number": 11,
+          "name": "The Obvious Child (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "4:33"
+        },
+        {
+          "number": 11,
+          "name": "You Can Call Me Al (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "4:55"
+        },
+        {
+          "number": 12,
+          "name": "The Sound of Silence (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "4:24"
+        },
+        {
+          "number": 13,
+          "name": "The Boxer (with Jerry Douglas) [Live at Hyde Park, London, UK - July 2012]",
+          "duration": "6:10"
+        },
+        {
+          "number": 14,
+          "name": "Late in the Evening (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "4:27"
+        },
+        {
+          "number": 15,
+          "name": "Paul Introduces Band & Thank You (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "0:55"
+        },
+        {
+          "number": 16,
+          "name": "Still Crazy After All These Years (Live at Hyde Park, London, UK - July 2012)",
+          "duration": "4:11"
+        }
+      ]
+    },
+    {
+      "name": "You're the One (Bonus Tracks Edition)",
+      "year": "2000",
+      "release_date": "2000-10-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/c3/07/8f/c3078f79-dd0e-9766-ebad-cd2658d3d0b8/dj.owbjicnd.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "That's Where I Belong",
+          "duration": "3:12"
+        },
+        {
+          "number": 2,
+          "name": "Darling Lorraine",
+          "duration": "6:38"
+        },
+        {
+          "number": 3,
+          "name": "Old",
+          "duration": "2:20"
+        },
+        {
+          "number": 4,
+          "name": "You're the One",
+          "duration": "4:27"
+        },
+        {
+          "number": 5,
+          "name": "The Teacher",
+          "duration": "3:36"
+        },
+        {
+          "number": 6,
+          "name": "Look At That",
           "duration": "3:54"
         },
         {
           "number": 7,
-          "name": "Light the Way",
-          "duration": "2:58"
+          "name": "Señorita With a Necklace of Tears",
+          "duration": "3:41"
         },
         {
           "number": 8,
-          "name": "Better with the Light On",
-          "duration": "2:46"
+          "name": "Love",
+          "duration": "3:50"
         },
         {
           "number": 9,
-          "name": "Freedom Road",
-          "duration": "3:22"
+          "name": "Pigs, Sheep and Wolves",
+          "duration": "3:58"
         },
         {
           "number": 10,
-          "name": "More Than Enough",
-          "duration": "3:28"
+          "name": "Hurricane Eye",
+          "duration": "4:11"
         },
         {
           "number": 11,
-          "name": "By Your Wounds",
-          "duration": "3:44"
+          "name": "Quiet",
+          "duration": "4:25"
         },
         {
           "number": 12,
-          "name": "See You Again",
-          "duration": "3:12"
+          "name": "That's Where I Belong (Live) [Bonus Track]",
+          "duration": "3:42"
+        },
+        {
+          "number": 13,
+          "name": "Old (Live) [Bonus Track]",
+          "duration": "2:40"
+        },
+        {
+          "number": 14,
+          "name": "Hurricane Eye (Live) [Bonus Track]",
+          "duration": "5:59"
         }
       ]
+    },
+    {
+      "name": "Songs from The Capeman (Bonus Tracks Edition)",
+      "year": "1997",
+      "release_date": "1997-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/de/5e/c0/de5ec0ad-c969-ceca-1922-87e13a147d75/dj.aqwxohlp.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Adiós Hermanos",
+          "duration": "4:42"
+        },
+        {
+          "number": 2,
+          "name": "Born In Puerto Rico",
+          "duration": "4:54"
+        },
+        {
+          "number": 3,
+          "name": "Satin Summer Nights",
+          "duration": "5:54"
+        },
+        {
+          "number": 4,
+          "name": "Bernadette",
+          "duration": "3:28"
+        },
+        {
+          "number": 5,
+          "name": "The Vampires",
+          "duration": "5:11"
+        },
+        {
+          "number": 6,
+          "name": "Quality",
+          "duration": "4:19"
+        },
+        {
+          "number": 7,
+          "name": "Can I Forgive Him",
+          "duration": "6:10"
+        },
+        {
+          "number": 8,
+          "name": "Sunday Afternoon",
+          "duration": "3:25"
+        },
+        {
+          "number": 9,
+          "name": "Killer Wants to Go to College",
+          "duration": "1:51"
+        },
+        {
+          "number": 10,
+          "name": "Time Is an Ocean",
+          "duration": "5:23"
+        },
+        {
+          "number": 11,
+          "name": "Virgil",
+          "duration": "2:49"
+        },
+        {
+          "number": 12,
+          "name": "Killer Wants to Go to College II",
+          "duration": "2:09"
+        },
+        {
+          "number": 13,
+          "name": "Trailways Bus",
+          "duration": "5:23"
+        },
+        {
+          "number": 14,
+          "name": "Shoplifting Clothes (Bonus Track)",
+          "duration": "3:38"
+        },
+        {
+          "number": 15,
+          "name": "Born In Puerto Rico (Demo) [with Jose Feliciano] {Bonus Track}",
+          "duration": "5:02"
+        },
+        {
+          "number": 16,
+          "name": "Can I Forgive Him (Demo) [Bonus Track]",
+          "duration": "1:56"
+        }
+      ]
+    },
+    {
+      "name": "Paul Simon In Concert: Live Rhymin'",
+      "year": "1974",
+      "release_date": "1974-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/a5/b2/03/a5b20356-6882-4e66-f8f9-85eb9b32e248/dj.kovafppw.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Me and Julio Down By the Schoolyard (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "2:47"
+        },
+        {
+          "number": 2,
+          "name": "Homeward Bound (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "2:44"
+        },
+        {
+          "number": 3,
+          "name": "American Tune (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "4:01"
+        },
+        {
+          "number": 4,
+          "name": "El Condor Pasa (If I Could) [with The Jessy Dixon Singers & Urubamba] [Live 1973]",
+          "duration": "4:05"
+        },
+        {
+          "number": 5,
+          "name": "Duncan (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "5:07"
+        },
+        {
+          "number": 6,
+          "name": "The Boxer (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "6:07"
+        },
+        {
+          "number": 7,
+          "name": "Mother and Child Reunion (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "4:02"
+        },
+        {
+          "number": 8,
+          "name": "The Sound of Silence (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "4:24"
+        },
+        {
+          "number": 9,
+          "name": "Jesus Is the Answer (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "3:26"
+        },
+        {
+          "number": 10,
+          "name": "Bridge Over Troubled Water (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "7:28"
+        },
+        {
+          "number": 11,
+          "name": "Loves Me Like a Rock (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "3:01"
+        },
+        {
+          "number": 12,
+          "name": "America (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "4:37"
+        },
+        {
+          "number": 13,
+          "name": "Kodachrome (Live 1973)",
+          "duration": "2:55"
+        },
+        {
+          "number": 14,
+          "name": "Something So Right (Live 1973)",
+          "duration": "4:34"
+        }
+      ]
+    },
+    {
+      "name": "So Beautiful or So What",
+      "year": "2011",
+      "release_date": "2011-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3d/80/e2/3d80e2b4-5c98-26a7-48b7-5e90214265fa/886444203876.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Getting Ready for Christmas Day",
+          "duration": "4:06"
+        },
+        {
+          "number": 2,
+          "name": "The Afterlife",
+          "duration": "3:39"
+        },
+        {
+          "number": 3,
+          "name": "Dazzling Blue",
+          "duration": "4:32"
+        },
+        {
+          "number": 4,
+          "name": "Rewrite",
+          "duration": "3:49"
+        },
+        {
+          "number": 5,
+          "name": "Love and Hard Times",
+          "duration": "4:09"
+        },
+        {
+          "number": 6,
+          "name": "Love Is Eternal Sacred Light",
+          "duration": "4:02"
+        },
+        {
+          "number": 7,
+          "name": "Amulet",
+          "duration": "1:36"
+        },
+        {
+          "number": 8,
+          "name": "Question for the Angels",
+          "duration": "3:50"
+        },
+        {
+          "number": 9,
+          "name": "Love & Blessings",
+          "duration": "4:18"
+        },
+        {
+          "number": 10,
+          "name": "So Beautiful or so What",
+          "duration": "4:06"
+        }
+      ]
+    },
+    {
+      "name": "Graceland - The Remixes",
+      "year": "2018",
+      "release_date": "2018-06-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f7/af/1a/f7af1a68-d6d1-bdc4-5541-c76862b21ffd/886447007907.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Homeless (Joris Voorn Remix)",
+          "duration": "6:01"
+        },
+        {
+          "number": 2,
+          "name": "Gumboots (Joyce Muniz Remix)",
+          "duration": "6:48"
+        },
+        {
+          "number": 3,
+          "name": "I Know What I Know (Sharam's Motherland Mix)",
+          "duration": "7:28"
+        },
+        {
+          "number": 4,
+          "name": "Crazy Love, Vol. II (Paul Oakenfold Extended Remix)",
+          "duration": "3:55"
+        },
+        {
+          "number": 5,
+          "name": "The Boy In the Bubble (Richy Ahmed Remix)",
+          "duration": "8:34"
+        },
+        {
+          "number": 6,
+          "name": "You Can Call Me Al (Groove Armada Dub Redemption)",
+          "duration": "7:24"
+        },
+        {
+          "number": 7,
+          "name": "Under African Skies (Rich Pinder/Djoko Vocal Mix)",
+          "duration": "6:36"
+        },
+        {
+          "number": 8,
+          "name": "Graceland (MK's KC Lights Remix)",
+          "duration": "4:46"
+        },
+        {
+          "number": 9,
+          "name": "That Was Your Mother (Gui Boratto Remix)",
+          "duration": "6:18"
+        },
+        {
+          "number": 10,
+          "name": "Diamonds On the Soles of Her Shoes (Thievery Corporation Remix)",
+          "duration": "6:01"
+        },
+        {
+          "number": 11,
+          "name": "All Around the World or the Myth of Fingerprints (Photek Remix)",
+          "duration": "4:34"
+        },
+        {
+          "number": 12,
+          "name": "Homeless (Joris Voorn Kitchen Table Mix / The Duke of New York's Edit)",
+          "duration": "1:13"
+        }
+      ]
+    },
+    {
+      "name": "The Complete Albums Collection",
+      "year": "2013",
+      "release_date": "2013-10-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/2f/0e/c5/2f0ec565-9562-8983-0fa1-4029d1a5917d/886444203852.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Am a Rock",
+          "duration": "2:41"
+        },
+        {
+          "number": 1,
+          "name": "Mother and Child Reunion",
+          "duration": "3:07"
+        },
+        {
+          "number": 1,
+          "name": "Kodachrome",
+          "duration": "3:35"
+        },
+        {
+          "number": 1,
+          "name": "Me and Julio Down by the Schoolyard (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "2:47"
+        },
+        {
+          "number": 2,
+          "name": "Leaves That Are Green",
+          "duration": "2:30"
+        },
+        {
+          "number": 2,
+          "name": "Duncan",
+          "duration": "4:43"
+        },
+        {
+          "number": 2,
+          "name": "Tenderness",
+          "duration": "2:55"
+        },
+        {
+          "number": 2,
+          "name": "Homeward Bound (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "2:44"
+        },
+        {
+          "number": 3,
+          "name": "A Church Is Burning",
+          "duration": "3:23"
+        },
+        {
+          "number": 3,
+          "name": "Everything Put Together Falls Apart",
+          "duration": "2:01"
+        },
+        {
+          "number": 3,
+          "name": "Take Me to the Mardi Gras",
+          "duration": "3:30"
+        },
+        {
+          "number": 3,
+          "name": "American Tune (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "4:01"
+        },
+        {
+          "number": 4,
+          "name": "April Come She Will",
+          "duration": "1:47"
+        },
+        {
+          "number": 4,
+          "name": "Run That Body Down",
+          "duration": "3:52"
+        },
+        {
+          "number": 4,
+          "name": "Something so Right",
+          "duration": "4:36"
+        },
+        {
+          "number": 4,
+          "name": "El Condor Pasa (If I Could) [with The Jessy Dixon Singers & Urubamba] [Live 1973]",
+          "duration": "4:05"
+        },
+        {
+          "number": 5,
+          "name": "The Sound of Silence",
+          "duration": "3:06"
+        },
+        {
+          "number": 5,
+          "name": "Armistice Day",
+          "duration": "3:55"
+        },
+        {
+          "number": 5,
+          "name": "One Man's Ceiling Is Another Man's Floor",
+          "duration": "3:47"
+        },
+        {
+          "number": 5,
+          "name": "Duncan (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "5:07"
+        },
+        {
+          "number": 6,
+          "name": "A Most Peculiar Man",
+          "duration": "2:23"
+        },
+        {
+          "number": 6,
+          "name": "Me and Julio Down by the Schoolyard",
+          "duration": "2:44"
+        },
+        {
+          "number": 6,
+          "name": "American Tune",
+          "duration": "3:45"
+        },
+        {
+          "number": 6,
+          "name": "The Boxer (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "6:07"
+        },
+        {
+          "number": 7,
+          "name": "He Was My Brother",
+          "duration": "2:46"
+        },
+        {
+          "number": 7,
+          "name": "Peace Like a River",
+          "duration": "3:23"
+        },
+        {
+          "number": 7,
+          "name": "Was a Sunny Day",
+          "duration": "3:44"
+        },
+        {
+          "number": 7,
+          "name": "Mother and Child Reunion (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "4:02"
+        },
+        {
+          "number": 8,
+          "name": "Kathy's Song",
+          "duration": "3:28"
+        },
+        {
+          "number": 8,
+          "name": "Papa Hobo",
+          "duration": "2:35"
+        },
+        {
+          "number": 8,
+          "name": "Learn How to Fall",
+          "duration": "2:47"
+        },
+        {
+          "number": 8,
+          "name": "The Sound of Silence (with The Jessy Dixon Singers & Urubamba) [Live 1973]",
+          "duration": "4:24"
+        },
+        {
+          "number": 9,
+          "name": "The Side of a Hill",
+          "duration": "2:17"
+        },
+        {
+          "number": 9,
+          "name": "Hobo's Blues",
+          "duration": "1:20"
+        },
+        {
+          "number": 9,
+          "name": "St. Judy's Comet",
+          "duration": "3:21"
+        },
+        {
+          "number": 10,
+          "name": "A Simple Desultory Philippic (Or How I Was Robert McNamara'd Into Submission)",
+          "duration": "2:17"
+        },
+        {
+          "number": 10,
+          "name": "Paranoia Blues",
+          "duration": "2:56"
+        },
+        {
+          "number": 10,
+          "name": "Loves Me Like a Rock",
+          "duration": "3:33"
+        },
+        {
+          "number": 11,
+          "name": "Flowers Never Bend with the Rainfall",
+          "duration": "2:17"
+        },
+        {
+          "number": 11,
+          "name": "Congratulations",
+          "duration": "3:43"
+        },
+        {
+          "number": 11,
+          "name": "Let Me Live In Your City (Work In Progress)",
+          "duration": "4:20"
+        },
+        {
+          "number": 12,
+          "name": "Patterns",
+          "duration": "3:03"
+        },
+        {
+          "number": 12,
+          "name": "Me and Julio Down by the Schoolyard (Demo - San Francisco 2/71)",
+          "duration": "2:27"
+        },
+        {
+          "number": 12,
+          "name": "Take Me to the Mardi Gras (Acoustic Demo)",
+          "duration": "2:29"
+        },
+        {
+          "number": 13,
+          "name": "I Am a Rock (Alternate Version)",
+          "duration": "2:44"
+        },
+        {
+          "number": 13,
+          "name": "Duncan (Demo - San Francisco 2/71)",
+          "duration": "2:46"
+        },
+        {
+          "number": 13,
+          "name": "American Tune (Unfinished Demo)",
+          "duration": "4:01"
+        },
+        {
+          "number": 14,
+          "name": "A Church Is Burning (Alternate Version)",
+          "duration": "3:10"
+        },
+        {
+          "number": 14,
+          "name": "Paranoia Blues (Unreleased Version)",
+          "duration": "3:14"
+        },
+        {
+          "number": 14,
+          "name": "Loves Me Like a Rock (Acoustic Demo)",
+          "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "Live In New York City",
+      "year": "2012",
+      "release_date": "2012-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f9/8d/ae/f98dae78-b1ff-b7a1-ba99-6c04462a9711/886447176276.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Obvious Child (Live at Webster Hall, New York City - June 2011)",
+          "duration": "4:21"
+        },
+        {
+          "number": 1,
+          "name": "The Boy In the Bubble (Live at Webster Hall, New York City - June 2011)",
+          "duration": "5:00"
+        },
+        {
+          "number": 2,
+          "name": "Dazzling Blue (Live at Webster Hall, New York City - June 2011)",
+          "duration": "4:54"
+        },
+        {
+          "number": 2,
+          "name": "The Only Living Boy in New York (Live at Webster Hall, New York City - June 2011)",
+          "duration": "4:03"
+        },
+        {
+          "number": 3,
+          "name": "50 Ways To Leave Your Lover (Live at Webster Hall, New York City - June 2011)",
+          "duration": "4:11"
+        },
+        {
+          "number": 3,
+          "name": "The Afterlife (Live at Webster Hall, New York City - June 2011)",
+          "duration": "4:25"
+        },
+        {
+          "number": 4,
+          "name": "So Beautiful or So What (Live at Webster Hall, New York City - June 2011)",
+          "duration": "5:12"
+        },
+        {
+          "number": 4,
+          "name": "Diamonds on the Soles of Her Shoes (Live at Webster Hall, New York City - June 2011)",
+          "duration": "7:25"
+        },
+        {
+          "number": 5,
+          "name": "Mother and Child Reunion (Live at Webster Hall, New York City - June 2011)",
+          "duration": "3:35"
+        },
+        {
+          "number": 5,
+          "name": "Gumboots (Live at Webster Hall, New York City - June 2011)",
+          "duration": "4:22"
+        },
+        {
+          "number": 6,
+          "name": "That Was Your Mother (Live at Webster Hall, New York City - June 2011)",
+          "duration": "4:03"
+        },
+        {
+          "number": 6,
+          "name": "The Sound of Silence (Live at Webster Hall, New York City - June 2011)",
+          "duration": "4:34"
+        },
+        {
+          "number": 7,
+          "name": "Hearts and Bones (Live at Webster Hall, New York City - June 2011)",
+          "duration": "6:00"
+        },
+        {
+          "number": 7,
+          "name": "Kodachrome (Live at Webster Hall, New York City - June 2011)",
+          "duration": "3:06"
+        },
+        {
+          "number": 8,
+          "name": "Crazy Love, Vol. II (Live at Webster Hall, New York City - June 2011)",
+          "duration": "5:56"
+        },
+        {
+          "number": 8,
+          "name": "Gone at Last (Live at Webster Hall, New York City - June 2011)",
+          "duration": "3:37"
+        },
+        {
+          "number": 9,
+          "name": "Slip Slidin' Away (Live at Webster Hall, New York City - June 2011)",
+          "duration": "5:22"
+        },
+        {
+          "number": 9,
+          "name": "Late in the Evening (Live at Webster Hall, New York City - June 2011)",
+          "duration": "4:30"
+        },
+        {
+          "number": 10,
+          "name": "Rewrite (Live at Webster Hall, New York City - June 2011)",
+          "duration": "4:37"
+        },
+        {
+          "number": 10,
+          "name": "Still Crazy After All These Years (Live at Webster Hall, New York City - June 2011)",
+          "duration": "4:03"
+        }
+      ]
+    },
+    {
+      "name": "Stranger To Stranger (Deluxe Edition)",
+      "year": "2016",
+      "release_date": "2016-06-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/6b/c9/1c6bc941-aaba-6f24-103e-7feb2e4f77da/196871604123.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Werewolf",
+          "duration": "3:25"
+        },
+        {
+          "number": 2,
+          "name": "Wristband",
+          "duration": "3:17"
+        },
+        {
+          "number": 3,
+          "name": "The Clock",
+          "duration": "1:02"
+        },
+        {
+          "number": 4,
+          "name": "Street Angel",
+          "duration": "2:11"
+        },
+        {
+          "number": 5,
+          "name": "Stranger To Stranger",
+          "duration": "4:35"
+        },
+        {
+          "number": 6,
+          "name": "In A Parade",
+          "duration": "2:21"
+        },
+        {
+          "number": 7,
+          "name": "Proof Of Love",
+          "duration": "5:44"
+        },
+        {
+          "number": 8,
+          "name": "In The Garden Of Edie",
+          "duration": "1:48"
+        },
+        {
+          "number": 9,
+          "name": "The Riverbank",
+          "duration": "4:11"
+        },
+        {
+          "number": 10,
+          "name": "Cool Papa Bell",
+          "duration": "4:02"
+        },
+        {
+          "number": 11,
+          "name": "Insomniac's Lullaby",
+          "duration": "4:33"
+        },
+        {
+          "number": 12,
+          "name": "Horace And Pete",
+          "duration": "2:30"
+        },
+        {
+          "number": 13,
+          "name": "Duncan (Live From 'A Prairie Home Companion' Radio Show, Fitzgerald Theater, St. Paul, MN, February 6, 2016)",
+          "duration": "4:43"
+        },
+        {
+          "number": 14,
+          "name": "Wristband (Live From 'A Prairie Home Companion' Radio Show, Fitzgerald Theater, St. Paul, MN, February 6, 2016)",
+          "duration": "3:28"
+        },
+        {
+          "number": 15,
+          "name": "Guitar Piece 3",
+          "duration": "1:10"
+        }
+      ]
+    },
+    {
+      "name": "Stranger To Stranger",
+      "year": "2016",
+      "release_date": "2016-06-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/ca/91/dfca915b-efee-46ad-223c-bb20d2e6f571/196871597494.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Werewolf",
+          "duration": "3:25"
+        },
+        {
+          "number": 2,
+          "name": "Wristband",
+          "duration": "3:17"
+        },
+        {
+          "number": 3,
+          "name": "The Clock",
+          "duration": "1:02"
+        },
+        {
+          "number": 4,
+          "name": "Street Angel",
+          "duration": "2:11"
+        },
+        {
+          "number": 5,
+          "name": "Stranger To Stranger",
+          "duration": "4:35"
+        },
+        {
+          "number": 6,
+          "name": "In A Parade",
+          "duration": "2:21"
+        },
+        {
+          "number": 7,
+          "name": "Proof Of Love",
+          "duration": "5:44"
+        },
+        {
+          "number": 8,
+          "name": "In The Garden Of Edie",
+          "duration": "1:48"
+        },
+        {
+          "number": 9,
+          "name": "The Riverbank",
+          "duration": "4:11"
+        },
+        {
+          "number": 10,
+          "name": "Cool Papa Bell",
+          "duration": "4:02"
+        },
+        {
+          "number": 11,
+          "name": "Insomniac's Lullaby",
+          "duration": "4:33"
+        }
+      ]
+    },
+    {
+      "name": "The Quiet Celebration Concert",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/0a/fe/b70afe45-72b6-9ad0-15fe-845482df737a/196874548479.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Introduction (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "1:17"
+        },
+        {
+          "number": 1,
+          "name": "Graceland (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "5:27"
+        },
+        {
+          "number": 2,
+          "name": "Seven Psalms: The Lord / Love Is Like a Braid / My Professional Opinion / Your Forgiveness / Trail of Volcanoes / The Sacred Harp / Wait (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "35:24"
+        },
+        {
+          "number": 2,
+          "name": "Slip Slidin' Away (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "5:13"
+        },
+        {
+          "number": 3,
+          "name": "Homeward Bound (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "4:03"
+        },
+        {
+          "number": 4,
+          "name": "The Late Great Johnny Ace (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "6:13"
+        },
+        {
+          "number": 5,
+          "name": "St. Judy's Comet (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "3:20"
+        },
+        {
+          "number": 6,
+          "name": "Under African Skies (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "4:59"
+        },
+        {
+          "number": 7,
+          "name": "René and Georgette Magritte with Their Dog After the War (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "5:44"
+        },
+        {
+          "number": 8,
+          "name": "Rewrite (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "4:41"
+        },
+        {
+          "number": 9,
+          "name": "Spirit Voices (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "5:31"
+        },
+        {
+          "number": 10,
+          "name": "The Cool, Cool River (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "7:32"
+        },
+        {
+          "number": 11,
+          "name": "Me and Julio Down by the Schoolyard (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "3:21"
+        },
+        {
+          "number": 12,
+          "name": "Father and Daughter (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "4:15"
+        },
+        {
+          "number": 13,
+          "name": "50 Ways to Leave Your Lover (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "4:56"
+        },
+        {
+          "number": 14,
+          "name": "The Boxer (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "6:20"
+        },
+        {
+          "number": 15,
+          "name": "The Sound of Silence (Live at McCaw Hall, Seattle, 2025)",
+          "duration": "5:00"
+        }
+      ]
+    },
+    {
+      "name": "Seven Psalms",
+      "year": "2023",
+      "release_date": "2023-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/ff/17/76ff1705-8ee8-ff18-edc1-16f76cf17c64/196872982923.jpg/600x600bb.jpg",
+      "tracks": []
     }
   ],
   "singles": [
     {
-      "name": "I Got Joy (Right Here)",
-      "year": "2026",
-      "release_date": "2026-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/ab/9f/00ab9fad-42b8-0468-48cf-af54238c0648/artwork.jpg/600x600bb.jpg",
+      "name": "Biko",
+      "year": "2010",
+      "release_date": "2010-02-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/db/6b/9f/mzi.wcrkuftx.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "I Got Joy (Right Here)",
-          "duration": "3:11"
+          "name": "Biko",
+          "duration": "4:18"
         }
       ]
     },
     {
-      "name": "The Night Grace Broke Through",
+      "name": "We Are The World (Remastered) [feat. Al Jarreau, Anita Pointer, B. Midler, Billy Joel, Bob Dylan, Bob Geldof, Bruce Springsteen, Cyndi Lauper, Dan Aykroyd, Daryl Hall, Diana Ross, Dionne Warwick, Harry Belafonte, Huey Lewis and the News, Jackie Jackson, James Ingram, Jeffrey Osborne, John Oates, June Pointer, Kenny Loggins, Kenny Rogers, Kim Carnes, La Toya Jackson, Lindsey Buckingham, Lionel Richie, Marlon Jackson, Michael Jackson, Paul Simon, Randy Jackson, Ray Charles, Ruth Pointer, Sheila E., Smokey Robinson, Steve Perry, Stevie Wonder, Tito Jackson, Tina Turner, Waylon Jennings & Willie Nelson]",
       "year": "2025",
-      "release_date": "2025-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/17/0d/d4170d79-5db8-4600-f9f4-e7504193067d/artwork.jpg/600x600bb.jpg",
+      "release_date": "2025-11-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/a9/2b/1aa92bb3-f2ee-4f25-1bc9-ba252bd75be8/199806087862.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Night Grace Broke Through",
-          "duration": "3:06"
+          "name": "We Are The World (feat. Al Jarreau, Anita Pointer, B. Midler, Billy Joel, Bob Dylan, Bob Geldof, Bruce Springsteen, Cyndi Lauper, Dan Aykroyd, Daryl Hall, Diana Ross, Dionne Warwick, Harry Belafonte, Huey Lewis and the News, Jackie Jackson, James Ingram, Jeffrey Osborne, John Oates, June Pointer, Kenny Loggins, Kenny Rogers, Kim Carnes, La Toya Jackson, Lindsey Buckingham, Lionel Richie, Marlon Jackson, Michael Jackson, Paul Simon, Randy Jackson, Ray Charles, Ruth Pointer, Sheila E., Smokey Robinson, Steve Perry, Stevie Wonder, Tito Jackson, Tina Turner, Waylon Jennings & Willie Nelson) [Remastered]",
+          "duration": "7:07"
         }
       ]
     },
     {
-      "name": "If Not for Momma's Prayers",
-      "year": "2026",
-      "release_date": "2026-01-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/8b/df/c98bdff1-21cf-1973-41fe-ba933e3c6089/artwork.jpg/600x600bb.jpg",
+      "name": "Bad Dream",
+      "year": "2024",
+      "release_date": "2024-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/70/68/82706816-0ac1-a6fb-60bf-883381902691/196872583915.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "If Not for Momma's Prayers",
-          "duration": "3:47"
+          "name": "Bad Dream",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "Song For Sam Cooke (Here In America) [feat. Paul Simon]",
+      "year": "2020",
+      "release_date": "2020-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/4e/b7/ec/4eb7ec88-24d0-7aa3-1b05-58716f2391e0/192641495335_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Song For Sam Cooke (Here In America) [feat. Paul Simon]",
+          "duration": "4:24"
+        }
+      ]
+    },
+    {
+      "name": "Morse Code (Remastered) [with Paul Simon]",
+      "year": "2015",
+      "release_date": "2015-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/10/71/c0/1071c01f-53c3-9386-d28e-c132d3783f89/The_Lonely_Ones_with_Paul_Simon_-_Morse_Code.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Morse Code (Remastered) [with Paul Simon]",
+          "duration": "1:59"
         }
       ]
     }
   ],
-  "eps": []
+  "eps": [
+    {
+      "name": "iTunes Festival (Live at the Roundhouse, London, UK, July 2011)",
+      "year": "2011",
+      "release_date": "2011-06-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/99/2f/6d/992f6d53-833f-b8ee-f1cb-f00be36da17d/886447176269.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Afterlife (Live)",
+          "duration": "4:20"
+        },
+        {
+          "number": 2,
+          "name": "Hearts and Bones / Mystery Train / Wheels (Live)",
+          "duration": "9:54"
+        },
+        {
+          "number": 3,
+          "name": "The Obvious Child (Live)",
+          "duration": "4:39"
+        },
+        {
+          "number": 4,
+          "name": "Slip Slidin' Away (Live)",
+          "duration": "5:19"
+        },
+        {
+          "number": 5,
+          "name": "Late in the Evening (Live)",
+          "duration": "5:02"
+        }
+      ]
+    },
+    {
+      "name": "Humility OnUs Pt. 1",
+      "year": "2013",
+      "release_date": "2013-02-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/dd/31/35/dd313552-0bc7-330f-7494-9bb979ad948e/859709591155_cover.tif/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Welcome",
+          "duration": "4:05"
+        },
+        {
+          "number": 2,
+          "name": "Sunrise (feat. Catie Simon)",
+          "duration": "2:46"
+        },
+        {
+          "number": 3,
+          "name": "Waking Life",
+          "duration": "3:32"
+        },
+        {
+          "number": 4,
+          "name": "Stuck (feat. Catie Simon)",
+          "duration": "4:00"
+        },
+        {
+          "number": 5,
+          "name": "Just Distance (feat. Catie Simon)",
+          "duration": "3:50"
+        }
+      ]
+    }
+  ]
 }

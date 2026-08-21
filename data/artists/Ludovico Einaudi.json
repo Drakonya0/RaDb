@@ -1418,6 +1418,13 @@
       ]
     },
     {
+      "name": "Seven Days Walking: Day 3",
+      "year": "2019",
+      "release_date": "2019-05-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/05/0e/4b050ef2-f330-0e0d-fa59-d220c2709cce/19UMGIM12432.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Divenire (Bonus Track Version)",
       "year": "2006",
       "release_date": "2006-01-01",
@@ -1491,11 +1498,87 @@
       ]
     },
     {
-      "name": "Seven Days Walking: Day 3",
-      "year": "2019",
-      "release_date": "2019-05-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/05/0e/4b050ef2-f330-0e0d-fa59-d220c2709cce/19UMGIM12432.rgb.jpg/600x600bb.jpg",
-      "tracks": []
+      "name": "Eden Roc",
+      "year": "1999",
+      "release_date": "1999-10-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/48/18/b5/4818b5de-6d50-5a2d-ad63-aa337814d78b/20UMGIM59828.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Yerevan",
+          "duration": "2:24"
+        },
+        {
+          "number": 2,
+          "name": "Eden Roc",
+          "duration": "3:21"
+        },
+        {
+          "number": 3,
+          "name": "Fuori Dalla Notte",
+          "duration": "4:57"
+        },
+        {
+          "number": 4,
+          "name": "Due Tramonti",
+          "duration": "4:52"
+        },
+        {
+          "number": 5,
+          "name": "Nefeli",
+          "duration": "4:11"
+        },
+        {
+          "number": 6,
+          "name": "Odessa",
+          "duration": "5:47"
+        },
+        {
+          "number": 7,
+          "name": "Ultimi Fuochi",
+          "duration": "4:04"
+        },
+        {
+          "number": 8,
+          "name": "Giorni Dispari",
+          "duration": "5:13"
+        },
+        {
+          "number": 9,
+          "name": "Julia",
+          "duration": "4:49"
+        },
+        {
+          "number": 10,
+          "name": "Fuori Dal Mondo",
+          "duration": "4:57"
+        },
+        {
+          "number": 11,
+          "name": "Ultimi Fuochi II",
+          "duration": "1:29"
+        },
+        {
+          "number": 12,
+          "name": "Un Mondo A Parte",
+          "duration": "4:07"
+        },
+        {
+          "number": 13,
+          "name": "Password",
+          "duration": "4:31"
+        },
+        {
+          "number": 14,
+          "name": "Yerevan II",
+          "duration": "1:46"
+        },
+        {
+          "number": 15,
+          "name": "Exit",
+          "duration": "8:00"
+        }
+      ]
     },
     {
       "name": "Solo Piano",
@@ -1587,89 +1670,6 @@
           "number": 17,
           "name": "The Snow Prelude No. 2",
           "duration": "4:15"
-        }
-      ]
-    },
-    {
-      "name": "Eden Roc",
-      "year": "1999",
-      "release_date": "1999-10-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/48/18/b5/4818b5de-6d50-5a2d-ad63-aa337814d78b/20UMGIM59828.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Yerevan",
-          "duration": "2:24"
-        },
-        {
-          "number": 2,
-          "name": "Eden Roc",
-          "duration": "3:21"
-        },
-        {
-          "number": 3,
-          "name": "Fuori Dalla Notte",
-          "duration": "4:57"
-        },
-        {
-          "number": 4,
-          "name": "Due Tramonti",
-          "duration": "4:52"
-        },
-        {
-          "number": 5,
-          "name": "Nefeli",
-          "duration": "4:11"
-        },
-        {
-          "number": 6,
-          "name": "Odessa",
-          "duration": "5:47"
-        },
-        {
-          "number": 7,
-          "name": "Ultimi Fuochi",
-          "duration": "4:04"
-        },
-        {
-          "number": 8,
-          "name": "Giorni Dispari",
-          "duration": "5:13"
-        },
-        {
-          "number": 9,
-          "name": "Julia",
-          "duration": "4:49"
-        },
-        {
-          "number": 10,
-          "name": "Fuori Dal Mondo",
-          "duration": "4:57"
-        },
-        {
-          "number": 11,
-          "name": "Ultimi Fuochi II",
-          "duration": "1:29"
-        },
-        {
-          "number": 12,
-          "name": "Un Mondo A Parte",
-          "duration": "4:07"
-        },
-        {
-          "number": 13,
-          "name": "Password",
-          "duration": "4:31"
-        },
-        {
-          "number": 14,
-          "name": "Yerevan II",
-          "duration": "1:46"
-        },
-        {
-          "number": 15,
-          "name": "Exit",
-          "duration": "8:00"
         }
       ]
     },
@@ -2735,74 +2735,6 @@
       ]
     },
     {
-      "name": "The Summer Portraits Live",
-      "year": "2026",
-      "release_date": "2026-06-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/67/4d/00674de6-920b-3315-c49b-8ee957d4b56f/26UMGIM50707.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rose Bay",
-          "duration": "4:33"
-        },
-        {
-          "number": 2,
-          "name": "To Be Sun",
-          "duration": "9:34"
-        },
-        {
-          "number": 3,
-          "name": "Punta Bianca",
-          "duration": "4:19"
-        },
-        {
-          "number": 4,
-          "name": "Episode One",
-          "duration": "4:59"
-        },
-        {
-          "number": 5,
-          "name": "Santiago",
-          "duration": "4:32"
-        },
-        {
-          "number": 6,
-          "name": "Jay",
-          "duration": "3:32"
-        },
-        {
-          "number": 7,
-          "name": "I Giorni",
-          "duration": "5:57"
-        },
-        {
-          "number": 8,
-          "name": "Pathos",
-          "duration": "8:16"
-        },
-        {
-          "number": 9,
-          "name": "Maria Callas",
-          "duration": "4:19"
-        },
-        {
-          "number": 10,
-          "name": "Experience",
-          "duration": "6:51"
-        },
-        {
-          "number": 11,
-          "name": "Nuvole Bianche",
-          "duration": "8:49"
-        },
-        {
-          "number": 12,
-          "name": "The Tower",
-          "duration": "10:13"
-        }
-      ]
-    },
-    {
       "name": "Sotto Falso Nome (Original Motion Picture Soundtrack)",
       "year": "2004",
       "release_date": "2004-02-20",
@@ -2892,6 +2824,74 @@
           "number": 17,
           "name": "Nell'incanto",
           "duration": "2:09"
+        }
+      ]
+    },
+    {
+      "name": "The Summer Portraits Live",
+      "year": "2026",
+      "release_date": "2026-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/67/4d/00674de6-920b-3315-c49b-8ee957d4b56f/26UMGIM50707.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rose Bay",
+          "duration": "4:33"
+        },
+        {
+          "number": 2,
+          "name": "To Be Sun",
+          "duration": "9:34"
+        },
+        {
+          "number": 3,
+          "name": "Punta Bianca",
+          "duration": "4:19"
+        },
+        {
+          "number": 4,
+          "name": "Episode One",
+          "duration": "4:59"
+        },
+        {
+          "number": 5,
+          "name": "Santiago",
+          "duration": "4:32"
+        },
+        {
+          "number": 6,
+          "name": "Jay",
+          "duration": "3:32"
+        },
+        {
+          "number": 7,
+          "name": "I Giorni",
+          "duration": "5:57"
+        },
+        {
+          "number": 8,
+          "name": "Pathos",
+          "duration": "8:16"
+        },
+        {
+          "number": 9,
+          "name": "Maria Callas",
+          "duration": "4:19"
+        },
+        {
+          "number": 10,
+          "name": "Experience",
+          "duration": "6:51"
+        },
+        {
+          "number": 11,
+          "name": "Nuvole Bianche",
+          "duration": "8:49"
+        },
+        {
+          "number": 12,
+          "name": "The Tower",
+          "duration": "10:13"
         }
       ]
     },
@@ -3882,6 +3882,144 @@
           "duration": "6:21"
         }
       ]
+    },
+    {
+      "name": "A Cielo Abierto (Original Motion Picture Soundtrack)",
+      "year": "2024",
+      "release_date": "2024-03-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2d/15/6c/2d156c6f-0f25-57b8-c45f-f0375ef483bc/24UMGIM02566.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A Cielo Abierto (El Viaje I)",
+          "duration": "1:09"
+        },
+        {
+          "number": 2,
+          "name": "El Padre",
+          "duration": "1:45"
+        },
+        {
+          "number": 3,
+          "name": "Deshuesadero",
+          "duration": "0:47"
+        },
+        {
+          "number": 4,
+          "name": "A Cielo Abierto (El Viaje II)",
+          "duration": "0:55"
+        },
+        {
+          "number": 5,
+          "name": "Cicatriz",
+          "duration": "0:39"
+        },
+        {
+          "number": 6,
+          "name": "Retén",
+          "duration": "2:37"
+        },
+        {
+          "number": 7,
+          "name": "A Cielo Abierto (El Viaje III)",
+          "duration": "1:00"
+        },
+        {
+          "number": 8,
+          "name": "Recuerdos del padre",
+          "duration": "2:13"
+        },
+        {
+          "number": 9,
+          "name": "Accidente",
+          "duration": "2:17"
+        },
+        {
+          "number": 10,
+          "name": "Salvador y Paula",
+          "duration": "1:51"
+        },
+        {
+          "number": 11,
+          "name": "Regreso a la Fonda",
+          "duration": "2:50"
+        },
+        {
+          "number": 12,
+          "name": "Confesión",
+          "duration": "1:34"
+        },
+        {
+          "number": 13,
+          "name": "La Cruz",
+          "duration": "3:32"
+        },
+        {
+          "number": 14,
+          "name": "A Cielo Abierto (El Viaje IV)",
+          "duration": "1:56"
+        },
+        {
+          "number": 15,
+          "name": "Encontrando la casa",
+          "duration": "1:13"
+        },
+        {
+          "number": 16,
+          "name": "La Casa de Lucio Estrada",
+          "duration": "3:52"
+        },
+        {
+          "number": 17,
+          "name": "La llamada - Intento",
+          "duration": "1:58"
+        },
+        {
+          "number": 18,
+          "name": "Secuestro",
+          "duration": "2:48"
+        },
+        {
+          "number": 19,
+          "name": "Todas las noches desde entonces",
+          "duration": "1:05"
+        },
+        {
+          "number": 20,
+          "name": "Sed",
+          "duration": "1:46"
+        },
+        {
+          "number": 21,
+          "name": "Nos dejó morir",
+          "duration": "3:32"
+        },
+        {
+          "number": 22,
+          "name": "Coyote",
+          "duration": "1:20"
+        },
+        {
+          "number": 23,
+          "name": "La Tormenta",
+          "duration": "1:47"
+        },
+        {
+          "number": 24,
+          "name": "Redención",
+          "duration": "3:02"
+        },
+        {
+          "number": 25,
+          "name": "De regreso a casa",
+          "duration": "1:29"
+        },
+        {
+          "number": 26,
+          "name": "A Cielo Abierto (Viaje V)",
+          "duration": "3:51"
+        }
+      ]
     }
   ],
   "singles": [
@@ -4002,19 +4140,6 @@
       ]
     },
     {
-      "name": "Adieux",
-      "year": "2024",
-      "release_date": "2024-01-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/16/cc/59/16cc5938-00cf-7eb1-52dc-29a47a00c178/22UM1IM30564.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Adieux",
-          "duration": "2:55"
-        }
-      ]
-    },
-    {
       "name": "Reimagined. Volume 2, Chapter 3",
       "year": "2022",
       "release_date": "2022-09-02",
@@ -4033,6 +4158,19 @@
       ]
     },
     {
+      "name": "Adieux",
+      "year": "2024",
+      "release_date": "2024-01-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/16/cc/59/16cc5938-00cf-7eb1-52dc-29a47a00c178/22UM1IM30564.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Adieux",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
       "name": "The Tree",
       "year": "2023",
       "release_date": "2023-01-06",
@@ -4046,19 +4184,6 @@
       ]
     },
     {
-      "name": "Pathos (Theme)",
-      "year": "2024",
-      "release_date": "2024-11-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/f7/b7/0ef7b7a8-f7d1-34f8-f436-fa02e145b9f8/24UM1IM25362.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pathos (Theme)",
-          "duration": "4:18"
-        }
-      ]
-    },
-    {
       "name": "Fossils",
       "year": "2020",
       "release_date": "2020-10-02",
@@ -4068,6 +4193,19 @@
           "number": 1,
           "name": "Fossils",
           "duration": "8:04"
+        }
+      ]
+    },
+    {
+      "name": "Pathos (Theme)",
+      "year": "2024",
+      "release_date": "2024-11-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/f7/b7/0ef7b7a8-f7d1-34f8-f436-fa02e145b9f8/24UM1IM25362.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pathos (Theme)",
+          "duration": "4:18"
         }
       ]
     },

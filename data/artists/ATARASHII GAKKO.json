@@ -3,6 +3,49 @@
   "id": 1231338664,
   "albums": [
     {
+      "name": "Ichijikikoku",
+      "year": "2023",
+      "release_date": "2023-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/74/dd/8e74dd69-749e-e074-03cb-ca61427f0177/ichijikikoku_jkt.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Janaindayo",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Seishun Wo Kirisaku Hado",
+          "duration": "3:33"
+        },
+        {
+          "number": 3,
+          "name": "Giri Giri",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "Suki Lie",
+          "duration": "3:15"
+        },
+        {
+          "number": 5,
+          "name": "Otonablue",
+          "duration": "3:04"
+        },
+        {
+          "number": 6,
+          "name": "Otome No Bigaku",
+          "duration": "4:16"
+        },
+        {
+          "number": 7,
+          "name": "Odoru Honno 001",
+          "duration": "3:17"
+        }
+      ]
+    },
+    {
       "name": "AG! Calling",
       "year": "2024",
       "release_date": "2024-06-07",
@@ -62,49 +105,6 @@
           "number": 11,
           "name": "Tokyo Calling",
           "duration": "3:11"
-        }
-      ]
-    },
-    {
-      "name": "Ichijikikoku",
-      "year": "2023",
-      "release_date": "2023-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/74/dd/8e74dd69-749e-e074-03cb-ca61427f0177/ichijikikoku_jkt.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Janaindayo",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Seishun Wo Kirisaku Hado",
-          "duration": "3:33"
-        },
-        {
-          "number": 3,
-          "name": "Giri Giri",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
-          "name": "Suki Lie",
-          "duration": "3:15"
-        },
-        {
-          "number": 5,
-          "name": "Otonablue",
-          "duration": "3:04"
-        },
-        {
-          "number": 6,
-          "name": "Otome No Bigaku",
-          "duration": "4:16"
-        },
-        {
-          "number": 7,
-          "name": "Odoru Honno 001",
-          "duration": "3:17"
         }
       ]
     },

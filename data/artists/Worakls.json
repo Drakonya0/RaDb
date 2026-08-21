@@ -200,42 +200,11 @@
       "tracks": []
     },
     {
-      "name": "Pipeline",
-      "year": "2022",
-      "release_date": "2022-08-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/f7/70/bdf77038-87d1-897d-5472-6f5253c658b5/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pipeline",
-          "duration": "7:40"
-        }
-      ]
-    },
-    {
       "name": "Red Dressed (feat. Eivør) [Ben Böhmer Remix]",
       "year": "2020",
       "release_date": "2020-12-11",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b0/f6/95/b0f6954f-592b-9fa6-2c46-90868d3e5abd/cover.jpg/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "Hortari & Detached Motion Remixes",
-      "year": "2021",
-      "release_date": "2021-01-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/65/b2/e465b2c5-fe2c-0189-b03f-466ce9ce9f85/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hortari (Mark Hoffen Remix)",
-          "duration": "7:04"
-        },
-        {
-          "number": 2,
-          "name": "Detached Motion (Patrice Bäumel Remix)",
-          "duration": "6:33"
-        }
-      ]
     },
     {
       "name": "Nikki & Entrudo Remixes",
@@ -252,6 +221,19 @@
           "number": 2,
           "name": "Entrudo (Booka Shade Remix)",
           "duration": "6:52"
+        }
+      ]
+    },
+    {
+      "name": "Pipeline",
+      "year": "2022",
+      "release_date": "2022-08-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/f7/70/bdf77038-87d1-897d-5472-6f5253c658b5/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pipeline",
+          "duration": "7:40"
         }
       ]
     },
@@ -274,6 +256,24 @@
       "release_date": "2017-09-15",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e2/18/c5/e218c5bb-1b61-ac1b-fe72-fb93a47e0a7d/cover.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "Hortari & Detached Motion Remixes",
+      "year": "2021",
+      "release_date": "2021-01-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/65/b2/e465b2c5-fe2c-0189-b03f-466ce9ce9f85/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hortari (Mark Hoffen Remix)",
+          "duration": "7:04"
+        },
+        {
+          "number": 2,
+          "name": "Detached Motion (Patrice Bäumel Remix)",
+          "duration": "6:33"
+        }
+      ]
     },
     {
       "name": "Storm",
@@ -558,34 +558,6 @@
       "tracks": []
     },
     {
-      "name": "By the Brook (Piano Remixes)",
-      "year": "2021",
-      "release_date": "2021-10-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/13/63/951363cf-24c4-ae25-a79f-2941e05877ae/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "By the Brook",
-          "duration": "6:53"
-        },
-        {
-          "number": 2,
-          "name": "By the Brook (Sofiane Pamart Remix)",
-          "duration": "5:25"
-        },
-        {
-          "number": 3,
-          "name": "By the Brook (Francesco Tristano Remix)",
-          "duration": "7:52"
-        },
-        {
-          "number": 4,
-          "name": "By the Brook (Antoine Decrop Remix)",
-          "duration": "4:20"
-        }
-      ]
-    },
-    {
       "name": "Shazam",
       "year": "2009",
       "release_date": "2009-07-29",
@@ -610,6 +582,34 @@
           "number": 4,
           "name": "Couch (Original Mix)",
           "duration": "7:07"
+        }
+      ]
+    },
+    {
+      "name": "By the Brook (Piano Remixes)",
+      "year": "2021",
+      "release_date": "2021-10-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/13/63/951363cf-24c4-ae25-a79f-2941e05877ae/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "By the Brook",
+          "duration": "6:53"
+        },
+        {
+          "number": 2,
+          "name": "By the Brook (Sofiane Pamart Remix)",
+          "duration": "5:25"
+        },
+        {
+          "number": 3,
+          "name": "By the Brook (Francesco Tristano Remix)",
+          "duration": "7:52"
+        },
+        {
+          "number": 4,
+          "name": "By the Brook (Antoine Decrop Remix)",
+          "duration": "4:20"
         }
       ]
     },

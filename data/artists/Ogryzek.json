@@ -968,6 +968,19 @@
       ]
     },
     {
+      "name": "GYM BRO",
+      "year": "2026",
+      "release_date": "2026-08-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/4c/5d/154c5d6c-551b-d7e6-a027-79687b4da2e1/5907983311367.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "GYM BRO",
+          "duration": "2:17"
+        }
+      ]
+    },
+    {
       "name": "FORMIDABLE",
       "year": "2024",
       "release_date": "2024-02-12",
@@ -2016,34 +2029,6 @@
       ]
     },
     {
-      "name": "PARADOX",
-      "year": "2025",
-      "release_date": "2025-07-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/d0/6c/9fd06cd4-bfdd-5056-2b99-382129782b67/125205.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PARADOX",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "PARADOX (Slowed)",
-          "duration": "1:48"
-        },
-        {
-          "number": 3,
-          "name": "PARADOX (Super Slowed)",
-          "duration": "2:11"
-        },
-        {
-          "number": 4,
-          "name": "PARADOX (Speed Up)",
-          "duration": "1:23"
-        }
-      ]
-    },
-    {
       "name": "IF YOU GO AWAY",
       "year": "2026",
       "release_date": "2026-03-13",
@@ -2072,30 +2057,30 @@
       ]
     },
     {
-      "name": "BANDIDA",
+      "name": "PARADOX",
       "year": "2025",
-      "release_date": "2025-12-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/aa/d9/16aad920-54e2-cbfb-2620-a95cbb9fac04/107491.jpg/600x600bb.jpg",
+      "release_date": "2025-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/d0/6c/9fd06cd4-bfdd-5056-2b99-382129782b67/125205.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "BANDIDA",
-          "duration": "1:21"
+          "name": "PARADOX",
+          "duration": "1:33"
         },
         {
           "number": 2,
-          "name": "BANDIDA (Slowed)",
-          "duration": "1:31"
+          "name": "PARADOX (Slowed)",
+          "duration": "1:48"
         },
         {
           "number": 3,
-          "name": "BANDIDA (Super Slowed)",
-          "duration": "1:42"
+          "name": "PARADOX (Super Slowed)",
+          "duration": "2:11"
         },
         {
           "number": 4,
-          "name": "BANDIDA (Sped Up)",
-          "duration": "1:12"
+          "name": "PARADOX (Speed Up)",
+          "duration": "1:23"
         }
       ]
     },
@@ -2124,6 +2109,34 @@
           "number": 4,
           "name": "SOMBRA (Instrumental)",
           "duration": "1:47"
+        }
+      ]
+    },
+    {
+      "name": "BANDIDA",
+      "year": "2025",
+      "release_date": "2025-12-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/aa/d9/16aad920-54e2-cbfb-2620-a95cbb9fac04/107491.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BANDIDA",
+          "duration": "1:21"
+        },
+        {
+          "number": 2,
+          "name": "BANDIDA (Slowed)",
+          "duration": "1:31"
+        },
+        {
+          "number": 3,
+          "name": "BANDIDA (Super Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "BANDIDA (Sped Up)",
+          "duration": "1:12"
         }
       ]
     },

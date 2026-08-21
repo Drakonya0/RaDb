@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "Void",
+      "year": "2026",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/72/aa/8c72aa95-9fa6-c339-dfc8-84f77eba9461/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Void",
+          "duration": "3:31"
+        }
+      ]
+    },
+    {
       "name": "bloom",
       "year": "2024",
       "release_date": "2024-09-05",
@@ -238,19 +251,6 @@
           "number": 1,
           "name": "Something To Do (feat. IMPVLSE)",
           "duration": "3:32"
-        }
-      ]
-    },
-    {
-      "name": "Void",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/72/aa/8c72aa95-9fa6-c339-dfc8-84f77eba9461/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Void",
-          "duration": "3:31"
         }
       ]
     },
