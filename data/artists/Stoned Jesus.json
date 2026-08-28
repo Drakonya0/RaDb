@@ -3,6 +3,34 @@
   "id": 396799004,
   "albums": [
     {
+      "name": "First Communion",
+      "year": "2019",
+      "release_date": "2019-01-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/b7/38/12b7383c-1dfe-f7de-6335-c89444ed9a25/840588121434.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Occult",
+          "duration": "10:00"
+        },
+        {
+          "number": 2,
+          "name": "Red Wine",
+          "duration": "5:04"
+        },
+        {
+          "number": 3,
+          "name": "Black Woods",
+          "duration": "11:45"
+        },
+        {
+          "number": 4,
+          "name": "Falling Apart",
+          "duration": "13:25"
+        }
+      ]
+    },
+    {
       "name": "Seven Thunders Roar",
       "year": "2012",
       "release_date": "2012-03-12",
@@ -32,34 +60,6 @@
           "number": 5,
           "name": "Stormy Monday",
           "duration": "8:42"
-        }
-      ]
-    },
-    {
-      "name": "First Communion",
-      "year": "2019",
-      "release_date": "2019-01-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/b7/38/12b7383c-1dfe-f7de-6335-c89444ed9a25/840588121434.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Occult",
-          "duration": "10:00"
-        },
-        {
-          "number": 2,
-          "name": "Red Wine",
-          "duration": "5:04"
-        },
-        {
-          "number": 3,
-          "name": "Black Woods",
-          "duration": "11:45"
-        },
-        {
-          "number": 4,
-          "name": "Falling Apart",
-          "duration": "13:25"
         }
       ]
     },

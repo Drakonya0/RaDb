@@ -614,13 +614,6 @@
       ]
     },
     {
-      "name": "Elevación",
-      "year": "2001",
-      "release_date": "2001-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/4e/64/d04e6462-997a-4ad3-1ba0-c597aeaf3f21/22UMGIM34701.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Amour Suprême",
       "year": "2003",
       "release_date": "2003-01-01",
@@ -697,6 +690,13 @@
           "duration": "5:01"
         }
       ]
+    },
+    {
+      "name": "Elevación",
+      "year": "2001",
+      "release_date": "2001-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d0/4e/64/d04e6462-997a-4ad3-1ba0-c597aeaf3f21/22UMGIM34701.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     }
   ],
   "singles": [
@@ -1215,24 +1215,6 @@
       ]
     },
     {
-      "name": "General",
-      "year": "2012",
-      "release_date": "2012-05-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/62/e6/6162e698-f640-1d34-5ea9-57265eb613e8/5400863082055_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "General (French)",
-          "duration": "3:53"
-        },
-        {
-          "number": 2,
-          "name": "General (Spanish)",
-          "duration": "3:53"
-        }
-      ]
-    },
-    {
       "name": "Paranoia",
       "year": "2021",
       "release_date": "2021-02-26",
@@ -1247,6 +1229,24 @@
           "number": 2,
           "name": "Paranoia (Extended)",
           "duration": "6:27"
+        }
+      ]
+    },
+    {
+      "name": "General",
+      "year": "2012",
+      "release_date": "2012-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/62/e6/6162e698-f640-1d34-5ea9-57265eb613e8/5400863082055_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "General (French)",
+          "duration": "3:53"
+        },
+        {
+          "number": 2,
+          "name": "General (Spanish)",
+          "duration": "3:53"
         }
       ]
     },

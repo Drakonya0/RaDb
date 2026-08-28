@@ -1390,24 +1390,6 @@
       ]
     },
     {
-      "name": "CUT_it",
-      "year": "2026",
-      "release_date": "2026-08-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/45/fa/1845fa27-b2ca-815c-bef7-1c9a73ac36b9/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CUT_it",
-          "duration": "3:14"
-        },
-        {
-          "number": 2,
-          "name": "Evian",
-          "duration": "5:02"
-        }
-      ]
-    },
-    {
       "name": "Clockwork",
       "year": "2021",
       "release_date": "2021-03-19",
@@ -1422,6 +1404,24 @@
           "number": 2,
           "name": "Clockwork (Instrumental)",
           "duration": "3:58"
+        }
+      ]
+    },
+    {
+      "name": "CUT_it",
+      "year": "2026",
+      "release_date": "2026-08-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/45/fa/1845fa27-b2ca-815c-bef7-1c9a73ac36b9/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CUT_it",
+          "duration": "3:14"
+        },
+        {
+          "number": 2,
+          "name": "Evian",
+          "duration": "5:02"
         }
       ]
     },
@@ -1457,19 +1457,6 @@
       ]
     },
     {
-      "name": "Solar (Acoustic)",
-      "year": "2017",
-      "release_date": "2017-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/25/8e/b0258e5e-8b7e-c8e5-5877-9eef5a80e325/190295714994.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Solar (Acoustic)",
-          "duration": "3:21"
-        }
-      ]
-    },
-    {
       "name": "Miasma (feat. Winston McCall)",
       "year": "2024",
       "release_date": "2024-01-24",
@@ -1492,6 +1479,19 @@
           "number": 1,
           "name": "Get Free (triple j Like A Version)",
           "duration": "2:31"
+        }
+      ]
+    },
+    {
+      "name": "Solar (Acoustic)",
+      "year": "2017",
+      "release_date": "2017-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/25/8e/b0258e5e-8b7e-c8e5-5877-9eef5a80e325/190295714994.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Solar (Acoustic)",
+          "duration": "3:21"
         }
       ]
     },

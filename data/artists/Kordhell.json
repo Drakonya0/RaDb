@@ -222,69 +222,6 @@
       ]
     },
     {
-      "name": "Beat Tape 1",
-      "year": "2021",
-      "release_date": "2021-04-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/47/2a/f7/472af76b-33b1-f2c3-26f7-28fdc820bb17/196165984078.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Birth",
-          "duration": "1:10"
-        },
-        {
-          "number": 2,
-          "name": "Annexation",
-          "duration": "2:08"
-        },
-        {
-          "number": 3,
-          "name": "Destroyer (feat. Hexekute)",
-          "duration": "2:52"
-        },
-        {
-          "number": 4,
-          "name": "The Tragic Sense of Life",
-          "duration": "2:52"
-        },
-        {
-          "number": 5,
-          "name": "Dawn of Truth",
-          "duration": "3:06"
-        },
-        {
-          "number": 6,
-          "name": "Dionysian",
-          "duration": "3:00"
-        },
-        {
-          "number": 7,
-          "name": "Beyond Good and Evil",
-          "duration": "3:29"
-        },
-        {
-          "number": 8,
-          "name": "Infinity",
-          "duration": "3:05"
-        },
-        {
-          "number": 9,
-          "name": "Dead Ahead",
-          "duration": "3:34"
-        },
-        {
-          "number": 10,
-          "name": "Murder and Heresy (feat. Hexekute)",
-          "duration": "2:19"
-        },
-        {
-          "number": 11,
-          "name": "One Final Goodbye",
-          "duration": "2:26"
-        }
-      ]
-    },
-    {
       "name": "MUSIC FOR THE FUNERAL",
       "year": "2024",
       "release_date": "2024-10-31",
@@ -373,60 +310,65 @@
       ]
     },
     {
-      "name": "Sped Up, Vol. 1",
-      "year": "2023",
-      "release_date": "2023-02-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/43/fb/d943fb18-85a4-1806-bebd-7c580de0e4ae/197188051921.jpg/600x600bb.jpg",
+      "name": "Beat Tape 1",
+      "year": "2021",
+      "release_date": "2021-04-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/47/2a/f7/472af76b-33b1-f2c3-26f7-28fdc820bb17/196165984078.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Murder In My Mind (Sped Up)",
-          "duration": "1:55"
+          "name": "Birth",
+          "duration": "1:10"
         },
         {
           "number": 2,
-          "name": "FATALITY (Sped Up)",
-          "duration": "1:49"
-        },
-        {
-          "number": 3,
-          "name": "Killers From The Northside (Sped Up)",
-          "duration": "2:45"
-        },
-        {
-          "number": 4,
-          "name": "Live Another Day (Sped Up)",
-          "duration": "1:46"
-        },
-        {
-          "number": 5,
-          "name": "LAND OF FIRE (Sped Up)",
+          "name": "Annexation",
           "duration": "2:08"
         },
         {
+          "number": 3,
+          "name": "Destroyer (feat. Hexekute)",
+          "duration": "2:52"
+        },
+        {
+          "number": 4,
+          "name": "The Tragic Sense of Life",
+          "duration": "2:52"
+        },
+        {
+          "number": 5,
+          "name": "Dawn of Truth",
+          "duration": "3:06"
+        },
+        {
           "number": 6,
-          "name": "ZEP TEPI (Sped Up)",
-          "duration": "1:56"
+          "name": "Dionysian",
+          "duration": "3:00"
         },
         {
           "number": 7,
-          "name": "MURDER PLOT (Sped Up)",
-          "duration": "1:53"
+          "name": "Beyond Good and Evil",
+          "duration": "3:29"
         },
         {
           "number": 8,
-          "name": "Scopin (Sped Up)",
-          "duration": "1:24"
+          "name": "Infinity",
+          "duration": "3:05"
         },
         {
           "number": 9,
-          "name": "Fate is Against Me (Sped Up)",
-          "duration": "3:12"
+          "name": "Dead Ahead",
+          "duration": "3:34"
         },
         {
           "number": 10,
-          "name": "Memphis Doom (Sped Up)",
-          "duration": "2:10"
+          "name": "Murder and Heresy (feat. Hexekute)",
+          "duration": "2:19"
+        },
+        {
+          "number": 11,
+          "name": "One Final Goodbye",
+          "duration": "2:26"
         }
       ]
     },
@@ -510,6 +452,64 @@
           "number": 15,
           "name": "MURDER WAS THE CASE THAT THEY GAVE ME",
           "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "Sped Up, Vol. 1",
+      "year": "2023",
+      "release_date": "2023-02-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/43/fb/d943fb18-85a4-1806-bebd-7c580de0e4ae/197188051921.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Murder In My Mind (Sped Up)",
+          "duration": "1:55"
+        },
+        {
+          "number": 2,
+          "name": "FATALITY (Sped Up)",
+          "duration": "1:49"
+        },
+        {
+          "number": 3,
+          "name": "Killers From The Northside (Sped Up)",
+          "duration": "2:45"
+        },
+        {
+          "number": 4,
+          "name": "Live Another Day (Sped Up)",
+          "duration": "1:46"
+        },
+        {
+          "number": 5,
+          "name": "LAND OF FIRE (Sped Up)",
+          "duration": "2:08"
+        },
+        {
+          "number": 6,
+          "name": "ZEP TEPI (Sped Up)",
+          "duration": "1:56"
+        },
+        {
+          "number": 7,
+          "name": "MURDER PLOT (Sped Up)",
+          "duration": "1:53"
+        },
+        {
+          "number": 8,
+          "name": "Scopin (Sped Up)",
+          "duration": "1:24"
+        },
+        {
+          "number": 9,
+          "name": "Fate is Against Me (Sped Up)",
+          "duration": "3:12"
+        },
+        {
+          "number": 10,
+          "name": "Memphis Doom (Sped Up)",
+          "duration": "2:10"
         }
       ]
     },
@@ -1064,6 +1064,19 @@
       ]
     },
     {
+      "name": "Murder In My Mind (Sped Up)",
+      "year": "2022",
+      "release_date": "2022-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/23/90/b4/2390b436-9b44-42d1-9c61-30da136e088e/196925002714.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Murder In My Mind (Sped Up)",
+          "duration": "1:55"
+        }
+      ]
+    },
+    {
       "name": "Come Play (Kordhell Remix) [feat. Young Miko, Arcane & League of Legends Music]",
       "year": "2025",
       "release_date": "2025-04-04",
@@ -1078,19 +1091,6 @@
           "number": 2,
           "name": "Come Play (from the series Arcane League of Legends)",
           "duration": "2:41"
-        }
-      ]
-    },
-    {
-      "name": "Murder In My Mind (Sped Up)",
-      "year": "2022",
-      "release_date": "2022-05-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/23/90/b4/2390b436-9b44-42d1-9c61-30da136e088e/196925002714.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Murder In My Mind (Sped Up)",
-          "duration": "1:55"
         }
       ]
     },

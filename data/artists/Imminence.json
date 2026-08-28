@@ -76,6 +76,69 @@
       ]
     },
     {
+      "name": "Axis Mundi",
+      "year": "2026",
+      "release_date": "2026-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/34/5a/ee345a8f-5f63-8462-c4da-02c9b95e4f33/823375264293_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Twisting In The Wind",
+          "duration": "4:13"
+        },
+        {
+          "number": 2,
+          "name": "The Sword That Never Bends",
+          "duration": "3:46"
+        },
+        {
+          "number": 3,
+          "name": "Devil May Try",
+          "duration": "4:11"
+        },
+        {
+          "number": 4,
+          "name": "Crestfallen",
+          "duration": "4:04"
+        },
+        {
+          "number": 5,
+          "name": "False Light",
+          "duration": "3:24"
+        },
+        {
+          "number": 6,
+          "name": "If Not Now, When",
+          "duration": "3:57"
+        },
+        {
+          "number": 7,
+          "name": "Didn’t Think About You (Lately)",
+          "duration": "3:48"
+        },
+        {
+          "number": 8,
+          "name": "Leviathan",
+          "duration": "5:07"
+        },
+        {
+          "number": 9,
+          "name": "Shed Your Skin",
+          "duration": "4:53"
+        },
+        {
+          "number": 10,
+          "name": "Power Divine",
+          "duration": "3:54"
+        },
+        {
+          "number": 11,
+          "name": "Exodus",
+          "duration": "4:57"
+        }
+      ]
+    },
+    {
       "name": "The Black",
       "year": "2024",
       "release_date": "2024-04-12",
@@ -315,84 +378,6 @@
       ]
     },
     {
-      "name": "This Is Goodbye",
-      "year": "2017",
-      "release_date": "2017-03-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a2/b5/da/a2b5da28-47b3-2794-bb97-327dcecc5701/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "This Is Goodbye",
-          "duration": "3:42"
-        },
-        {
-          "number": 2,
-          "name": "Diamonds",
-          "duration": "4:02"
-        },
-        {
-          "number": 3,
-          "name": "Broken Love",
-          "duration": "4:07"
-        },
-        {
-          "number": 4,
-          "name": "Coming Undone",
-          "duration": "3:57"
-        },
-        {
-          "number": 5,
-          "name": "Up",
-          "duration": "4:34"
-        },
-        {
-          "number": 6,
-          "name": "Daggers",
-          "duration": "3:47"
-        },
-        {
-          "number": 7,
-          "name": "Cold as Stone",
-          "duration": "4:00"
-        },
-        {
-          "number": 8,
-          "name": "Keep Me",
-          "duration": "3:55"
-        },
-        {
-          "number": 9,
-          "name": "Not a Rescue",
-          "duration": "4:00"
-        },
-        {
-          "number": 10,
-          "name": "Ivory Black",
-          "duration": "4:02"
-        },
-        {
-          "number": 11,
-          "name": "Desert Place",
-          "duration": "4:00"
-        },
-        {
-          "number": 12,
-          "name": "Diamonds (Acoustic)",
-          "duration": "3:56"
-        },
-        {
-          "number": 13,
-          "name": "Keep Me (Acoustic)",
-          "duration": "3:54"
-        },
-        {
-          "number": 14,
-          "name": "This Is Goodbye (Acoustic)",
-          "duration": "4:23"
-        }
-      ]
-    },
-    {
       "name": "Turn the Light On (Deluxe Edition)",
       "year": "2020",
       "release_date": "2020-11-06",
@@ -516,6 +501,84 @@
       ]
     },
     {
+      "name": "This Is Goodbye",
+      "year": "2017",
+      "release_date": "2017-03-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a2/b5/da/a2b5da28-47b3-2794-bb97-327dcecc5701/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "This Is Goodbye",
+          "duration": "3:42"
+        },
+        {
+          "number": 2,
+          "name": "Diamonds",
+          "duration": "4:02"
+        },
+        {
+          "number": 3,
+          "name": "Broken Love",
+          "duration": "4:07"
+        },
+        {
+          "number": 4,
+          "name": "Coming Undone",
+          "duration": "3:57"
+        },
+        {
+          "number": 5,
+          "name": "Up",
+          "duration": "4:34"
+        },
+        {
+          "number": 6,
+          "name": "Daggers",
+          "duration": "3:47"
+        },
+        {
+          "number": 7,
+          "name": "Cold as Stone",
+          "duration": "4:00"
+        },
+        {
+          "number": 8,
+          "name": "Keep Me",
+          "duration": "3:55"
+        },
+        {
+          "number": 9,
+          "name": "Not a Rescue",
+          "duration": "4:00"
+        },
+        {
+          "number": 10,
+          "name": "Ivory Black",
+          "duration": "4:02"
+        },
+        {
+          "number": 11,
+          "name": "Desert Place",
+          "duration": "4:00"
+        },
+        {
+          "number": 12,
+          "name": "Diamonds (Acoustic)",
+          "duration": "3:56"
+        },
+        {
+          "number": 13,
+          "name": "Keep Me (Acoustic)",
+          "duration": "3:54"
+        },
+        {
+          "number": 14,
+          "name": "This Is Goodbye (Acoustic)",
+          "duration": "4:23"
+        }
+      ]
+    },
+    {
       "name": "The Reclamation of I",
       "year": "2024",
       "release_date": "2024-12-20",
@@ -570,69 +633,6 @@
           "number": 10,
           "name": "A Sense Of Doubt",
           "duration": "4:40"
-        }
-      ]
-    },
-    {
-      "name": "Axis Mundi",
-      "year": "2026",
-      "release_date": "2026-10-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/34/5a/ee345a8f-5f63-8462-c4da-02c9b95e4f33/823375264293_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Twisting In The Wind",
-          "duration": "4:13"
-        },
-        {
-          "number": 2,
-          "name": "The Sword That Never Bends",
-          "duration": "3:46"
-        },
-        {
-          "number": 3,
-          "name": "Devil May Try",
-          "duration": "4:11"
-        },
-        {
-          "number": 4,
-          "name": "Crestfallen",
-          "duration": "4:04"
-        },
-        {
-          "number": 5,
-          "name": "False Light",
-          "duration": "3:24"
-        },
-        {
-          "number": 6,
-          "name": "If Not Now, When",
-          "duration": "3:57"
-        },
-        {
-          "number": 7,
-          "name": "Didn’t Think About You (Lately)",
-          "duration": "3:48"
-        },
-        {
-          "number": 8,
-          "name": "Leviathan",
-          "duration": "5:07"
-        },
-        {
-          "number": 9,
-          "name": "Shed Your Skin",
-          "duration": "4:53"
-        },
-        {
-          "number": 10,
-          "name": "Power Divine",
-          "duration": "3:54"
-        },
-        {
-          "number": 11,
-          "name": "Exodus",
-          "duration": "4:57"
         }
       ]
     },
@@ -1085,6 +1085,19 @@
       ]
     },
     {
+      "name": "Tentación",
+      "year": "2022",
+      "release_date": "2022-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/f7/5e/94f75ecb-2fbf-a731-aa75-ac5ba7ce7e39/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tentación",
+          "duration": "3:40"
+        }
+      ]
+    },
+    {
       "name": "Crestfallen",
       "year": "2026",
       "release_date": "2026-07-22",
@@ -1104,19 +1117,6 @@
           "number": 3,
           "name": "The Sword That Never Bends",
           "duration": "3:46"
-        }
-      ]
-    },
-    {
-      "name": "Tentación",
-      "year": "2022",
-      "release_date": "2022-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/f7/5e/94f75ecb-2fbf-a731-aa75-ac5ba7ce7e39/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tentación",
-          "duration": "3:40"
         }
       ]
     },
@@ -1269,6 +1269,34 @@
     }
   ],
   "eps": [
+    {
+      "name": "If Not Now, When",
+      "year": "2026",
+      "release_date": "2026-08-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/ca/b1/cccab180-ee17-d92c-6baf-581761cda621/823375354536_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "If Not Now, When",
+          "duration": "3:57"
+        },
+        {
+          "number": 2,
+          "name": "Crestfallen",
+          "duration": "4:04"
+        },
+        {
+          "number": 3,
+          "name": "False Light",
+          "duration": "3:24"
+        },
+        {
+          "number": 4,
+          "name": "The Sword That Never Bends",
+          "duration": "3:46"
+        }
+      ]
+    },
     {
       "name": "Return to Helios",
       "year": "2013",

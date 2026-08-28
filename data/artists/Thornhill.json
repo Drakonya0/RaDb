@@ -192,74 +192,6 @@
       ]
     },
     {
-      "name": "BODIES Definitive",
-      "year": "2026",
-      "release_date": "2026-05-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/cb/96/50cb965e-151e-8a74-6a6b-ee85bd005dfe/8721466108971.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DIESEL",
-          "duration": "2:10"
-        },
-        {
-          "number": 2,
-          "name": "Revolver",
-          "duration": "4:14"
-        },
-        {
-          "number": 3,
-          "name": "Silver Swarm",
-          "duration": "4:33"
-        },
-        {
-          "number": 4,
-          "name": "Only Ever You",
-          "duration": "4:14"
-        },
-        {
-          "number": 5,
-          "name": "fall into the wind",
-          "duration": "1:32"
-        },
-        {
-          "number": 6,
-          "name": "TONGUES",
-          "duration": "2:51"
-        },
-        {
-          "number": 7,
-          "name": "nerv",
-          "duration": "3:12"
-        },
-        {
-          "number": 8,
-          "name": "Obsession",
-          "duration": "3:17"
-        },
-        {
-          "number": 9,
-          "name": "CRUSH",
-          "duration": "3:11"
-        },
-        {
-          "number": 10,
-          "name": "under the knife",
-          "duration": "3:58"
-        },
-        {
-          "number": 11,
-          "name": "For Now",
-          "duration": "4:05"
-        },
-        {
-          "number": 12,
-          "name": "Mercia",
-          "duration": "5:34"
-        }
-      ]
-    },
-    {
       "name": "BODIES X",
       "year": "2025",
       "release_date": "2025-11-07",
@@ -324,6 +256,74 @@
           "number": 12,
           "name": "For Now (James Mckendrick Remix)",
           "duration": "4:53"
+        }
+      ]
+    },
+    {
+      "name": "BODIES Definitive",
+      "year": "2026",
+      "release_date": "2026-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/cb/96/50cb965e-151e-8a74-6a6b-ee85bd005dfe/8721466108971.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DIESEL",
+          "duration": "2:10"
+        },
+        {
+          "number": 2,
+          "name": "Revolver",
+          "duration": "4:14"
+        },
+        {
+          "number": 3,
+          "name": "Silver Swarm",
+          "duration": "4:33"
+        },
+        {
+          "number": 4,
+          "name": "Only Ever You",
+          "duration": "4:14"
+        },
+        {
+          "number": 5,
+          "name": "fall into the wind",
+          "duration": "1:32"
+        },
+        {
+          "number": 6,
+          "name": "TONGUES",
+          "duration": "2:51"
+        },
+        {
+          "number": 7,
+          "name": "nerv",
+          "duration": "3:12"
+        },
+        {
+          "number": 8,
+          "name": "Obsession",
+          "duration": "3:17"
+        },
+        {
+          "number": 9,
+          "name": "CRUSH",
+          "duration": "3:11"
+        },
+        {
+          "number": 10,
+          "name": "under the knife",
+          "duration": "3:58"
+        },
+        {
+          "number": 11,
+          "name": "For Now",
+          "duration": "4:05"
+        },
+        {
+          "number": 12,
+          "name": "Mercia",
+          "duration": "5:34"
         }
       ]
     },
@@ -489,19 +489,6 @@
       ]
     },
     {
-      "name": "nerv",
-      "year": "2024",
-      "release_date": "2024-11-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/89/30/b68930bc-4a25-fd54-d331-3b76ace1adb7/8721253172031.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "nerv",
-          "duration": "3:12"
-        }
-      ]
-    },
-    {
       "name": "Obsession",
       "year": "2024",
       "release_date": "2024-02-29",
@@ -511,6 +498,19 @@
           "number": 1,
           "name": "Obsession",
           "duration": "3:17"
+        }
+      ]
+    },
+    {
+      "name": "nerv",
+      "year": "2024",
+      "release_date": "2024-11-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/89/30/b68930bc-4a25-fd54-d331-3b76ace1adb7/8721253172031.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "nerv",
+          "duration": "3:12"
         }
       ]
     },

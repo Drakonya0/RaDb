@@ -476,19 +476,6 @@
       ]
     },
     {
-      "name": "Dracula Funk",
-      "year": "2023",
-      "release_date": "2023-10-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/f9/41/6ff941fd-b882-ca73-7a3e-61db2b750168/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dracula Funk",
-          "duration": "2:03"
-        }
-      ]
-    },
-    {
       "name": "JOGO DEL FUNK",
       "year": "2024",
       "release_date": "2024-11-22",
@@ -508,6 +495,19 @@
           "number": 3,
           "name": "JOGO DEL FUNK (SPED UP)",
           "duration": "1:44"
+        }
+      ]
+    },
+    {
+      "name": "Dracula Funk",
+      "year": "2023",
+      "release_date": "2023-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/f9/41/6ff941fd-b882-ca73-7a3e-61db2b750168/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dracula Funk",
+          "duration": "2:03"
         }
       ]
     },
@@ -1454,6 +1454,34 @@
       ]
     },
     {
+      "name": "Hypertrophy (Pr Funk)",
+      "year": "2024",
+      "release_date": "2024-01-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/31/12/9c31122a-546a-f2a3-f9a4-905369227278/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hypertrophy (Pr Funk)",
+          "duration": "1:27"
+        },
+        {
+          "number": 2,
+          "name": "Hypertrophy (Pr Funk) [Slowed]",
+          "duration": "1:37"
+        },
+        {
+          "number": 3,
+          "name": "Hypertrophy (Pr Funk) [Bass Boosted]",
+          "duration": "1:27"
+        },
+        {
+          "number": 4,
+          "name": "Hypertrophy (Pr Funk) [Sped Up]",
+          "duration": "1:21"
+        }
+      ]
+    },
+    {
       "name": "FUNK CRIMINAL",
       "year": "2025",
       "release_date": "2025-08-22",
@@ -1488,34 +1516,6 @@
           "number": 6,
           "name": "FUNK CRIMINAL (SPED UP)",
           "duration": "1:19"
-        }
-      ]
-    },
-    {
-      "name": "Hypertrophy (Pr Funk)",
-      "year": "2024",
-      "release_date": "2024-01-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/31/12/9c31122a-546a-f2a3-f9a4-905369227278/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hypertrophy (Pr Funk)",
-          "duration": "1:27"
-        },
-        {
-          "number": 2,
-          "name": "Hypertrophy (Pr Funk) [Slowed]",
-          "duration": "1:37"
-        },
-        {
-          "number": 3,
-          "name": "Hypertrophy (Pr Funk) [Bass Boosted]",
-          "duration": "1:27"
-        },
-        {
-          "number": 4,
-          "name": "Hypertrophy (Pr Funk) [Sped Up]",
-          "duration": "1:21"
         }
       ]
     },
@@ -3540,39 +3540,6 @@
       ]
     },
     {
-      "name": "CANTO DE LUNA (INSTRUMENTAL)",
-      "year": "2025",
-      "release_date": "2025-09-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/2c/de/bb2cde5a-32d2-cfe2-fddc-9b2068b130f1/61251.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CANTO DE LUNA (INSTRUMENTAL)",
-          "duration": "1:29"
-        },
-        {
-          "number": 2,
-          "name": "CANTO DE LUNA (INSTRUMENTAL - SLOWED)",
-          "duration": "1:38"
-        },
-        {
-          "number": 3,
-          "name": "CANTO DE LUNA (INSTRUMENTAL - SUPER SLOWED)",
-          "duration": "1:49"
-        },
-        {
-          "number": 4,
-          "name": "CANTO DE LUNA (INSTRUMENTAL - ULTRA SLOWED)",
-          "duration": "2:03"
-        },
-        {
-          "number": 5,
-          "name": "CANTO DE LUNA (INSTRUMENTAL - SPED UP)",
-          "duration": "1:15"
-        }
-      ]
-    },
-    {
       "name": "FUNK ITALIANO",
       "year": "2025",
       "release_date": "2025-01-10",
@@ -3602,6 +3569,39 @@
           "number": 5,
           "name": "FUNK ITALIANO (Sped Up)",
           "duration": "0:57"
+        }
+      ]
+    },
+    {
+      "name": "CANTO DE LUNA (INSTRUMENTAL)",
+      "year": "2025",
+      "release_date": "2025-09-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/2c/de/bb2cde5a-32d2-cfe2-fddc-9b2068b130f1/61251.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CANTO DE LUNA (INSTRUMENTAL)",
+          "duration": "1:29"
+        },
+        {
+          "number": 2,
+          "name": "CANTO DE LUNA (INSTRUMENTAL - SLOWED)",
+          "duration": "1:38"
+        },
+        {
+          "number": 3,
+          "name": "CANTO DE LUNA (INSTRUMENTAL - SUPER SLOWED)",
+          "duration": "1:49"
+        },
+        {
+          "number": 4,
+          "name": "CANTO DE LUNA (INSTRUMENTAL - ULTRA SLOWED)",
+          "duration": "2:03"
+        },
+        {
+          "number": 5,
+          "name": "CANTO DE LUNA (INSTRUMENTAL - SPED UP)",
+          "duration": "1:15"
         }
       ]
     },
@@ -4023,6 +4023,72 @@
       ]
     },
     {
+      "name": "FUNK UNICO",
+      "year": "2026",
+      "release_date": "2026-08-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/dc/c8/42dcc8dd-072b-2466-86da-6a9bb46256a7/1963624940697_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FUNK UNICO",
+          "duration": "1:07"
+        },
+        {
+          "number": 2,
+          "name": "FUNK UNICO (SLOWED) [SLOWED]",
+          "duration": "1:14"
+        },
+        {
+          "number": 3,
+          "name": "FUNK UNICO (SUPER SLOWED) [SUPER SLOWED]",
+          "duration": "1:23"
+        },
+        {
+          "number": 4,
+          "name": "FUNK UNICO (ULTRA SLOWED) [ULTRA SLOWED]",
+          "duration": "1:35"
+        },
+        {
+          "number": 5,
+          "name": "FUNK UNICO (SPED UP) [SPED UP]",
+          "duration": "1:00"
+        }
+      ]
+    },
+    {
+      "name": "X-ANATOMY",
+      "year": "2024",
+      "release_date": "2024-08-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/d6/25/6bd6252d-6b0d-dd44-2fb4-dfb1333b808e/9360932632146_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "X-ANATOMY",
+          "duration": "1:13"
+        },
+        {
+          "number": 2,
+          "name": "X-ANATOMY - SPED UP",
+          "duration": "1:05"
+        },
+        {
+          "number": 3,
+          "name": "X-ANATOMY - SLOWED",
+          "duration": "1:22"
+        },
+        {
+          "number": 4,
+          "name": "X-ANATOMY - SUPER SLOWED",
+          "duration": "1:32"
+        },
+        {
+          "number": 5,
+          "name": "X-ANATOMY - ULTRA SLOWED",
+          "duration": "1:44"
+        }
+      ]
+    },
+    {
       "name": "FUNK CRIMINAL (Remix)",
       "year": "2025",
       "release_date": "2025-08-22",
@@ -4057,39 +4123,6 @@
           "number": 6,
           "name": "FUNK CRIMINAL (SPED UP)",
           "duration": "1:19"
-        }
-      ]
-    },
-    {
-      "name": "X-ANATOMY",
-      "year": "2024",
-      "release_date": "2024-08-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/d6/25/6bd6252d-6b0d-dd44-2fb4-dfb1333b808e/9360932632146_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "X-ANATOMY",
-          "duration": "1:13"
-        },
-        {
-          "number": 2,
-          "name": "X-ANATOMY - SPED UP",
-          "duration": "1:05"
-        },
-        {
-          "number": 3,
-          "name": "X-ANATOMY - SLOWED",
-          "duration": "1:22"
-        },
-        {
-          "number": 4,
-          "name": "X-ANATOMY - SUPER SLOWED",
-          "duration": "1:32"
-        },
-        {
-          "number": 5,
-          "name": "X-ANATOMY - ULTRA SLOWED",
-          "duration": "1:44"
         }
       ]
     }

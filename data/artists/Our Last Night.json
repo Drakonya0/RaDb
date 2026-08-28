@@ -3,49 +3,6 @@
   "id": 274552725,
   "albums": [
     {
-      "name": "Nostalgia EP",
-      "year": "2026",
-      "release_date": "2026-08-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/ad/ea/8cadeaa5-63bb-bf1f-06a5-a834d5961ecb/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "All The Things She Said",
-          "duration": "3:32"
-        },
-        {
-          "number": 2,
-          "name": "Everywhere",
-          "duration": "3:33"
-        },
-        {
-          "number": 3,
-          "name": "Behind These Hazel Eyes",
-          "duration": "3:18"
-        },
-        {
-          "number": 4,
-          "name": "Unwritten",
-          "duration": "3:42"
-        },
-        {
-          "number": 5,
-          "name": "Come Clean",
-          "duration": "3:30"
-        },
-        {
-          "number": 6,
-          "name": "Leave (Get Out)",
-          "duration": "3:21"
-        },
-        {
-          "number": 7,
-          "name": "I'm With You",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "We Will All Evolve",
       "year": "2010",
       "release_date": "2010-05-04",
@@ -163,6 +120,49 @@
           "number": 11,
           "name": "Please Please Please",
           "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Nostalgia EP",
+      "year": "2026",
+      "release_date": "2026-08-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/ad/ea/8cadeaa5-63bb-bf1f-06a5-a834d5961ecb/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "All The Things She Said",
+          "duration": "3:32"
+        },
+        {
+          "number": 2,
+          "name": "Everywhere",
+          "duration": "3:33"
+        },
+        {
+          "number": 3,
+          "name": "Behind These Hazel Eyes",
+          "duration": "3:18"
+        },
+        {
+          "number": 4,
+          "name": "Unwritten",
+          "duration": "3:42"
+        },
+        {
+          "number": 5,
+          "name": "Come Clean",
+          "duration": "3:30"
+        },
+        {
+          "number": 6,
+          "name": "Leave (Get Out)",
+          "duration": "3:21"
+        },
+        {
+          "number": 7,
+          "name": "I'm With You",
+          "duration": "3:30"
         }
       ]
     },
@@ -716,54 +716,6 @@
       ]
     },
     {
-      "name": "Oak Island Acoustic",
-      "year": "2014",
-      "release_date": "2014-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/c6/cb/17c6cb98-c5d4-075d-abd1-1977d73b282d/5052917015382.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dark Storms (Acoustic)",
-          "duration": "3:45"
-        },
-        {
-          "number": 2,
-          "name": "I've Never Felt This Way (Acoustic)",
-          "duration": "3:31"
-        },
-        {
-          "number": 3,
-          "name": "Same Old War (Acoustic)",
-          "duration": "4:32"
-        },
-        {
-          "number": 4,
-          "name": "Reality Without You (Acoustic)",
-          "duration": "3:48"
-        },
-        {
-          "number": 5,
-          "name": "Sunrise (Acoustic)",
-          "duration": "3:38"
-        },
-        {
-          "number": 6,
-          "name": "Scared of Change (Acoustic)",
-          "duration": "3:23"
-        },
-        {
-          "number": 7,
-          "name": "Oak Island (Acoustic)",
-          "duration": "3:38"
-        },
-        {
-          "number": 8,
-          "name": "Falling Away (Acoustic)",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "Empires Fall (Deluxe)",
       "year": "2022",
       "release_date": "2022-09-23",
@@ -818,6 +770,54 @@
           "number": 10,
           "name": "Empires Fall (Acoustic)",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Oak Island Acoustic",
+      "year": "2014",
+      "release_date": "2014-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/c6/cb/17c6cb98-c5d4-075d-abd1-1977d73b282d/5052917015382.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dark Storms (Acoustic)",
+          "duration": "3:45"
+        },
+        {
+          "number": 2,
+          "name": "I've Never Felt This Way (Acoustic)",
+          "duration": "3:31"
+        },
+        {
+          "number": 3,
+          "name": "Same Old War (Acoustic)",
+          "duration": "4:32"
+        },
+        {
+          "number": 4,
+          "name": "Reality Without You (Acoustic)",
+          "duration": "3:48"
+        },
+        {
+          "number": 5,
+          "name": "Sunrise (Acoustic)",
+          "duration": "3:38"
+        },
+        {
+          "number": 6,
+          "name": "Scared of Change (Acoustic)",
+          "duration": "3:23"
+        },
+        {
+          "number": 7,
+          "name": "Oak Island (Acoustic)",
+          "duration": "3:38"
+        },
+        {
+          "number": 8,
+          "name": "Falling Away (Acoustic)",
+          "duration": "3:30"
         }
       ]
     },
@@ -1130,6 +1130,19 @@
       ]
     },
     {
+      "name": "Beauty And A Beat",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/87/19/59871937-1681-3acb-e0ef-810a90a5c242/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Beauty And A Beat",
+          "duration": "3:47"
+        }
+      ]
+    },
+    {
       "name": "Opalite",
       "year": "2026",
       "release_date": "2026-03-20",
@@ -1143,15 +1156,15 @@
       ]
     },
     {
-      "name": "Beauty And A Beat",
-      "year": "2026",
-      "release_date": "2026-06-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/87/19/59871937-1681-3acb-e0ef-810a90a5c242/artwork.jpg/600x600bb.jpg",
+      "name": "Astronaut In The Ocean",
+      "year": "2021",
+      "release_date": "2021-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/46/83/d6468320-2e53-936a-17e1-b88271067c98/196054469228.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Beauty And A Beat",
-          "duration": "3:47"
+          "name": "Astronaut In The Ocean",
+          "duration": "2:14"
         }
       ]
     },
@@ -1195,15 +1208,15 @@
       ]
     },
     {
-      "name": "Astronaut In The Ocean",
-      "year": "2021",
-      "release_date": "2021-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/46/83/d6468320-2e53-936a-17e1-b88271067c98/196054469228.jpg/600x600bb.jpg",
+      "name": "Leave (Get Out)",
+      "year": "2026",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/14/00/0d1400e4-3357-3470-603c-4720e51ef48c/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Astronaut In The Ocean",
-          "duration": "2:14"
+          "name": "Leave (Get Out)",
+          "duration": "3:21"
         }
       ]
     },
@@ -1217,19 +1230,6 @@
           "number": 1,
           "name": "Everywhere",
           "duration": "3:33"
-        }
-      ]
-    },
-    {
-      "name": "Leave (Get Out)",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/14/00/0d1400e4-3357-3470-603c-4720e51ef48c/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Leave (Get Out)",
-          "duration": "3:21"
         }
       ]
     },
@@ -1256,6 +1256,19 @@
           "number": 1,
           "name": "Iris",
           "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "Last Night",
+      "year": "2023",
+      "release_date": "2023-04-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/90/59/5a9059dd-edba-61bc-97f0-5658e34a8317/197745752094.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Last Night",
+          "duration": "2:46"
         }
       ]
     },
@@ -1291,19 +1304,6 @@
       ]
     },
     {
-      "name": "It's the Most Wonderful Time of the Year",
-      "year": "2025",
-      "release_date": "2025-12-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/cd/79/7ccd793c-e14c-5d8a-6d0b-ed13b14cf9de/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "It's the Most Wonderful Time of the Year",
-          "duration": "2:33"
-        }
-      ]
-    },
-    {
       "name": "Man I Need",
       "year": "2026",
       "release_date": "2026-05-01",
@@ -1313,19 +1313,6 @@
           "number": 1,
           "name": "Man I Need",
           "duration": "2:56"
-        }
-      ]
-    },
-    {
-      "name": "Bye Bye Bye (Rock) [feat. Cody Carson]",
-      "year": "2014",
-      "release_date": "2014-07-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/65/65/a4656509-d831-6282-76e9-8507e674a1cd/5052917015528.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bye Bye Bye (feat. Cody Carson) [Rock]",
-          "duration": "3:24"
         }
       ]
     },
@@ -1352,45 +1339,6 @@
           "number": 1,
           "name": "Dark Horse (Rock)",
           "duration": "3:25"
-        }
-      ]
-    },
-    {
-      "name": "Please Please Please",
-      "year": "2024",
-      "release_date": "2024-07-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/24/7d/74247d35-164a-802a-3367-9cdc474d0a6d/989550.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Please Please Please",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
-      "name": "Something in the Orange",
-      "year": "2023",
-      "release_date": "2023-10-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/81/0c/b0810ccb-46df-a311-3a24-27cdcbd6a6a9/853515970869.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Something in the Orange",
-          "duration": "3:22"
-        }
-      ]
-    },
-    {
-      "name": "Last Night",
-      "year": "2023",
-      "release_date": "2023-04-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/90/59/5a9059dd-edba-61bc-97f0-5658e34a8317/197745752094.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Last Night",
-          "duration": "2:46"
         }
       ]
     },
@@ -1460,6 +1408,32 @@
       ]
     },
     {
+      "name": "abcdefu",
+      "year": "2022",
+      "release_date": "2022-02-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/5c/d1/595cd183-a304-bd77-2425-3b7de160192c/196697363785.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "abcdefu",
+          "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "It's the Most Wonderful Time of the Year",
+      "year": "2025",
+      "release_date": "2025-12-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/cd/79/7ccd793c-e14c-5d8a-6d0b-ed13b14cf9de/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "It's the Most Wonderful Time of the Year",
+          "duration": "2:33"
+        }
+      ]
+    },
+    {
       "name": "Blank Space (Rock)",
       "year": "2015",
       "release_date": "2015-01-20",
@@ -1499,15 +1473,15 @@
       ]
     },
     {
-      "name": "Heathens",
-      "year": "2024",
-      "release_date": "2024-11-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/b9/e0/c9b9e084-a911-d558-fe1e-c8d39df9e9b1/989553.jpg/600x600bb.jpg",
+      "name": "Something in the Orange",
+      "year": "2023",
+      "release_date": "2023-10-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/81/0c/b0810ccb-46df-a311-3a24-27cdcbd6a6a9/853515970869.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Heathens",
-          "duration": "3:13"
+          "name": "Something in the Orange",
+          "duration": "3:22"
         }
       ]
     },
@@ -1521,19 +1495,6 @@
           "number": 1,
           "name": "iloveitiloveitiloveit",
           "duration": "3:03"
-        }
-      ]
-    },
-    {
-      "name": "abcdefu",
-      "year": "2022",
-      "release_date": "2022-02-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/5c/d1/595cd183-a304-bd77-2425-3b7de160192c/196697363785.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "abcdefu",
-          "duration": "2:37"
         }
       ]
     },
@@ -1565,6 +1526,19 @@
           "number": 1,
           "name": "Fences",
           "duration": "3:16"
+        }
+      ]
+    },
+    {
+      "name": "I Had Some Help",
+      "year": "2024",
+      "release_date": "2024-06-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/d5/1d/42d51d22-0986-975a-7de2-32cb5f198993/989534.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Had Some Help",
+          "duration": "2:55"
         }
       ]
     },
@@ -1634,15 +1608,28 @@
       ]
     },
     {
-      "name": "Old Town Road",
-      "year": "2019",
-      "release_date": "2019-06-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/b4/2b/50b42b31-8a2e-9011-7c5f-a165117319b0/5052917030835.jpg/600x600bb.jpg",
+      "name": "Bye Bye Bye (Rock) [feat. Cody Carson]",
+      "year": "2014",
+      "release_date": "2014-07-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/65/65/a4656509-d831-6282-76e9-8507e674a1cd/5052917015528.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Old Town Road",
-          "duration": "2:33"
+          "name": "Bye Bye Bye (feat. Cody Carson) [Rock]",
+          "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "Sorry (Rock)",
+      "year": "2016",
+      "release_date": "2016-01-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/13/25/241325a4-54ad-685a-7e05-19b800e3b112/5052917021277.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sorry (Rock)",
+          "duration": "3:25"
         }
       ]
     },
@@ -1712,19 +1699,6 @@
       ]
     },
     {
-      "name": "Lose Yourself",
-      "year": "2021",
-      "release_date": "2021-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/41/51/d1415173-d67c-1816-524f-ce13aee91ea1/196250839016.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lose Yourself",
-          "duration": "3:27"
-        }
-      ]
-    },
-    {
       "name": "back to friends",
       "year": "2025",
       "release_date": "2025-12-05",
@@ -1734,19 +1708,6 @@
           "number": 1,
           "name": "back to friends",
           "duration": "3:02"
-        }
-      ]
-    },
-    {
-      "name": "Toxic (Rock)",
-      "year": "2016",
-      "release_date": "2016-07-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/01/08/730108b5-775f-d3c3-ab58-1dbb5c83f9b3/5052917022625.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Toxic (Rock)",
-          "duration": "3:21"
         }
       ]
     },
@@ -1795,6 +1756,19 @@
       ]
     },
     {
+      "name": "Heathens",
+      "year": "2024",
+      "release_date": "2024-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/b9/e0/c9b9e084-a911-d558-fe1e-c8d39df9e9b1/989553.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Heathens",
+          "duration": "3:13"
+        }
+      ]
+    },
+    {
       "name": "7 Rings (feat. Derek DiScanio)",
       "year": "2019",
       "release_date": "2019-03-26",
@@ -1817,19 +1791,6 @@
           "number": 1,
           "name": "Habits (Stay High) [Rock]",
           "duration": "3:18"
-        }
-      ]
-    },
-    {
-      "name": "I Had Some Help",
-      "year": "2024",
-      "release_date": "2024-06-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/d5/1d/42d51d22-0986-975a-7de2-32cb5f198993/989534.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Had Some Help",
-          "duration": "2:55"
         }
       ]
     },
@@ -1865,15 +1826,28 @@
       ]
     },
     {
-      "name": "The Heart Wants What It Wants (Rock) [feat. Craig Owens]",
-      "year": "2015",
-      "release_date": "2015-02-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/7b/74/277b74b5-d7ee-f39f-a4de-fe61a3dc9a98/5052917017867.jpg/600x600bb.jpg",
+      "name": "Eleanor Rigby (Rock)",
+      "year": "2016",
+      "release_date": "2016-06-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/1e/bd/2e1ebd37-b78a-df24-5284-1374777c7f8a/5052917022427.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Heart Wants What It Wants (feat. Craig Owens) [Rock]",
-          "duration": "3:50"
+          "name": "Eleanor Rigby (Rock)",
+          "duration": "2:13"
+        }
+      ]
+    },
+    {
+      "name": "Please Please Please",
+      "year": "2024",
+      "release_date": "2024-07-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/24/7d/74247d35-164a-802a-3367-9cdc474d0a6d/989550.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Please Please Please",
+          "duration": "3:05"
         }
       ]
     },
@@ -1900,6 +1874,19 @@
           "number": 1,
           "name": "Stressed Out (Rock)",
           "duration": "3:23"
+        }
+      ]
+    },
+    {
+      "name": "Old Town Road",
+      "year": "2019",
+      "release_date": "2019-06-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/b4/2b/50b42b31-8a2e-9011-7c5f-a165117319b0/5052917030835.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Old Town Road",
+          "duration": "2:33"
         }
       ]
     },
@@ -1935,15 +1922,28 @@
       ]
     },
     {
-      "name": "Sucker",
-      "year": "2019",
-      "release_date": "2019-04-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/9c/04/f59c0404-3eef-8d2e-c297-f635a20f3386/5052917030460.jpg/600x600bb.jpg",
+      "name": "Lose Yourself",
+      "year": "2021",
+      "release_date": "2021-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/41/51/d1415173-d67c-1816-524f-ce13aee91ea1/196250839016.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Sucker",
-          "duration": "3:10"
+          "name": "Lose Yourself",
+          "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Toxic (Rock)",
+      "year": "2016",
+      "release_date": "2016-07-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/01/08/730108b5-775f-d3c3-ab58-1dbb5c83f9b3/5052917022625.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Toxic (Rock)",
+          "duration": "3:21"
         }
       ]
     },
@@ -1961,15 +1961,15 @@
       ]
     },
     {
-      "name": "Wrecking Ball (Rock)",
-      "year": "2013",
-      "release_date": "2013-10-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/60/93/0d609393-105f-8577-6977-eaeff9db282a/5052917012244.jpg/600x600bb.jpg",
+      "name": "Who Let the Dogs Out (feat. Baha Men)",
+      "year": "2018",
+      "release_date": "2018-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/8c/0d/9c8c0dbe-d0dd-63d9-d6b6-6e302cb3ecab/5052917029068.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Wrecking Ball (Rock)",
-          "duration": "3:38"
+          "name": "Who Let the Dogs Out (feat. Baha Men)",
+          "duration": "2:30"
         }
       ]
     },
@@ -1983,19 +1983,6 @@
           "number": 1,
           "name": "You Found Me",
           "duration": "3:52"
-        }
-      ]
-    },
-    {
-      "name": "Who Let the Dogs Out (feat. Baha Men)",
-      "year": "2018",
-      "release_date": "2018-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/8c/0d/9c8c0dbe-d0dd-63d9-d6b6-6e302cb3ecab/5052917029068.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Who Let the Dogs Out (feat. Baha Men)",
-          "duration": "2:30"
         }
       ]
     },
@@ -2027,29 +2014,6 @@
           "number": 1,
           "name": "Unholy",
           "duration": "2:35"
-        }
-      ]
-    },
-    {
-      "name": "Numb Little Bug",
-      "year": "2022",
-      "release_date": "2022-06-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/2c/00/ac2c0019-dc68-7d58-d3ad-5cf8d833b942/196862084040.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Numb Little Bug",
-          "duration": "2:47"
-        },
-        {
-          "number": 2,
-          "name": "As It Was",
-          "duration": "2:38"
-        },
-        {
-          "number": 3,
-          "name": "MIDDLE OF THE NIGHT",
-          "duration": "3:05"
         }
       ]
     },
@@ -2132,6 +2096,19 @@
       ]
     },
     {
+      "name": "The Heart Wants What It Wants (Rock) [feat. Craig Owens]",
+      "year": "2015",
+      "release_date": "2015-02-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/7b/74/277b74b5-d7ee-f39f-a4de-fe61a3dc9a98/5052917017867.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Heart Wants What It Wants (feat. Craig Owens) [Rock]",
+          "duration": "3:50"
+        }
+      ]
+    },
+    {
       "name": "You Oughta Know (Rock)",
       "year": "2016",
       "release_date": "2016-07-12",
@@ -2154,19 +2131,6 @@
           "number": 1,
           "name": "Better Now (feat. Fronzilla, Tilian & Luke Holland)",
           "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "Maps (Rock)",
-      "year": "2014",
-      "release_date": "2014-10-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/bc/6e/b7bc6e16-5b90-1fb0-deb2-519ba29ecc93/5052917016457.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Maps (Rock)",
-          "duration": "3:26"
         }
       ]
     },
@@ -2206,6 +2170,19 @@
           "number": 1,
           "name": "Back To You (feat. Halocene, Adam Christopher, Micki Sobral, Henrique Baptista & Tom Verstappen)",
           "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "Wrecking Ball (Rock)",
+      "year": "2013",
+      "release_date": "2013-10-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/60/93/0d609393-105f-8577-6977-eaeff9db282a/5052917012244.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wrecking Ball (Rock)",
+          "duration": "3:38"
         }
       ]
     },
@@ -2286,6 +2263,29 @@
           "number": 2,
           "name": "Dance of the Sugar Plum Fairy",
           "duration": "1:45"
+        }
+      ]
+    },
+    {
+      "name": "Numb Little Bug",
+      "year": "2022",
+      "release_date": "2022-06-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/2c/00/ac2c0019-dc68-7d58-d3ad-5cf8d833b942/196862084040.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Numb Little Bug",
+          "duration": "2:47"
+        },
+        {
+          "number": 2,
+          "name": "As It Was",
+          "duration": "2:38"
+        },
+        {
+          "number": 3,
+          "name": "MIDDLE OF THE NIGHT",
+          "duration": "3:05"
         }
       ]
     },
@@ -2381,15 +2381,15 @@
       ]
     },
     {
-      "name": "Eleanor Rigby (Rock)",
-      "year": "2016",
-      "release_date": "2016-06-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/1e/bd/2e1ebd37-b78a-df24-5284-1374777c7f8a/5052917022427.jpg/600x600bb.jpg",
+      "name": "Sucker",
+      "year": "2019",
+      "release_date": "2019-04-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/9c/04/f59c0404-3eef-8d2e-c297-f635a20f3386/5052917030460.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Eleanor Rigby (Rock)",
-          "duration": "2:13"
+          "name": "Sucker",
+          "duration": "3:10"
         }
       ]
     },
@@ -2446,6 +2446,19 @@
       ]
     },
     {
+      "name": "Maps (Rock)",
+      "year": "2014",
+      "release_date": "2014-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/bc/6e/b7bc6e16-5b90-1fb0-deb2-519ba29ecc93/5052917016457.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Maps (Rock)",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
       "name": "Can't Feel My Face (Rock)",
       "year": "2015",
       "release_date": "2015-08-25",
@@ -2455,19 +2468,6 @@
           "number": 1,
           "name": "Can't Feel My Face (Rock)",
           "duration": "3:15"
-        }
-      ]
-    },
-    {
-      "name": "Sorry (Rock)",
-      "year": "2016",
-      "release_date": "2016-01-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/13/25/241325a4-54ad-685a-7e05-19b800e3b112/5052917021277.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sorry (Rock)",
-          "duration": "3:25"
         }
       ]
     },
@@ -3098,6 +3098,19 @@
           "number": 1,
           "name": "The Dark Side",
           "duration": "2:56"
+        }
+      ]
+    },
+    {
+      "name": "If It Makes You Happy",
+      "year": "2026",
+      "release_date": "2026-08-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/a0/30/33a0304f-bf7a-60a3-8e01-6448c7f94fc6/1303860.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "If It Makes You Happy",
+          "duration": "4:15"
         }
       ]
     },

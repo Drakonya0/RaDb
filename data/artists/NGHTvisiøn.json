@@ -245,6 +245,29 @@
       ]
     },
     {
+      "name": "BEHEMOTH",
+      "year": "2026",
+      "release_date": "2026-08-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/80/49/e2804933-ae15-6669-93d2-3c49b384ff5b/1963624936669_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BEHEMOTH",
+          "duration": "1:37"
+        },
+        {
+          "number": 2,
+          "name": "BEHEMOTH - SLOWED & REVERBED",
+          "duration": "1:49"
+        },
+        {
+          "number": 3,
+          "name": "BEHEMOTH - SUPER SLOWED & REVERBED",
+          "duration": "2:07"
+        }
+      ]
+    },
+    {
       "name": "PSYCHO",
       "year": "2025",
       "release_date": "2025-03-14",
@@ -324,6 +347,34 @@
   ],
   "eps": [
     {
+      "name": "THE VOID",
+      "year": "2025",
+      "release_date": "2025-06-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/5d/a5/b75da53b-5c24-588c-1e61-8a81b0a66e41/62688.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "THE VOID",
+          "duration": "2:01"
+        },
+        {
+          "number": 2,
+          "name": "THE VOID (Slowed)",
+          "duration": "2:10"
+        },
+        {
+          "number": 3,
+          "name": "THE VOID (Super Slowed)",
+          "duration": "2:22"
+        },
+        {
+          "number": 4,
+          "name": "THE VOID (Ultra Slowed)",
+          "duration": "2:32"
+        }
+      ]
+    },
+    {
       "name": "GOTHEX (Remixes)",
       "year": "2024",
       "release_date": "2024-12-26",
@@ -353,34 +404,6 @@
           "number": 5,
           "name": "GOTHEX (extreme slowed)",
           "duration": "3:16"
-        }
-      ]
-    },
-    {
-      "name": "THE VOID",
-      "year": "2025",
-      "release_date": "2025-06-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/5d/a5/b75da53b-5c24-588c-1e61-8a81b0a66e41/62688.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "THE VOID",
-          "duration": "2:01"
-        },
-        {
-          "number": 2,
-          "name": "THE VOID (Slowed)",
-          "duration": "2:10"
-        },
-        {
-          "number": 3,
-          "name": "THE VOID (Super Slowed)",
-          "duration": "2:22"
-        },
-        {
-          "number": 4,
-          "name": "THE VOID (Ultra Slowed)",
-          "duration": "2:32"
         }
       ]
     },

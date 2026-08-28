@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Any Doe",
-      "year": "2021",
-      "release_date": "2021-06-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/2d/26/0b2d2686-c8c8-f645-4f91-818c1d58125c/5059647951126.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Any Doe",
-          "duration": "2:12"
-        }
-      ]
-    },
-    {
       "name": "TOKYO DRIFT",
       "year": "2021",
       "release_date": "2021-09-24",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "TOKYO DRIFT",
           "duration": "2:04"
+        }
+      ]
+    },
+    {
+      "name": "Any Doe",
+      "year": "2021",
+      "release_date": "2021-06-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/2d/26/0b2d2686-c8c8-f645-4f91-818c1d58125c/5059647951126.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Any Doe",
+          "duration": "2:12"
         }
       ]
     },

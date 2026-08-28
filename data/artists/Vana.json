@@ -43,6 +43,24 @@
       ]
     },
     {
+      "name": "In Your Name",
+      "year": "2026",
+      "release_date": "2026-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/e9/73/55e9734c-f1b9-6fe8-d510-ebdb9d3aedbc/823375069652_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In Your Name",
+          "duration": "4:42"
+        },
+        {
+          "number": 2,
+          "name": "Pray",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
       "name": "BITE BACK",
       "year": "2025",
       "release_date": "2025-04-18",
@@ -69,33 +87,15 @@
       ]
     },
     {
-      "name": "In Your Name",
-      "year": "2026",
-      "release_date": "2026-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/e9/73/55e9734c-f1b9-6fe8-d510-ebdb9d3aedbc/823375069652_Cover.jpg/600x600bb.jpg",
+      "name": "SERPENTINE",
+      "year": "2024",
+      "release_date": "2024-10-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/6d/2e/ee6d2e05-11dd-7c43-cbff-7f27f796d5bd/856007f1-4963-478a-9679-adfea734e077.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "In Your Name",
-          "duration": "4:42"
-        },
-        {
-          "number": 2,
-          "name": "Pray",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
-      "name": "PLEASER",
-      "year": "2025",
-      "release_date": "2025-03-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/23/65/9b2365a9-7775-5f99-f100-53328ed421f8/810129981117.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PLEASER",
-          "duration": "2:45"
+          "name": "SERPENTINE",
+          "duration": "3:18"
         }
       ]
     },
@@ -113,28 +113,15 @@
       ]
     },
     {
-      "name": "Crawling",
-      "year": "2023",
-      "release_date": "2023-03-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/63/a3/5463a323-b641-dd46-cd7f-6cd32cd3c332/859770964254_cover.jpg/600x600bb.jpg",
+      "name": "PLEASER",
+      "year": "2025",
+      "release_date": "2025-03-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/23/65/9b2365a9-7775-5f99-f100-53328ed421f8/810129981117.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Crawling",
-          "duration": "3:50"
-        }
-      ]
-    },
-    {
-      "name": "SERPENTINE",
-      "year": "2024",
-      "release_date": "2024-10-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/6d/2e/ee6d2e05-11dd-7c43-cbff-7f27f796d5bd/856007f1-4963-478a-9679-adfea734e077.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SERPENTINE",
-          "duration": "3:18"
+          "name": "PLEASER",
+          "duration": "2:45"
         }
       ]
     },
@@ -148,6 +135,32 @@
           "number": 1,
           "name": "RAGDOLL",
           "duration": "2:10"
+        }
+      ]
+    },
+    {
+      "name": "Crawling",
+      "year": "2023",
+      "release_date": "2023-03-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/54/63/a3/5463a323-b641-dd46-cd7f-6cd32cd3c332/859770964254_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Crawling",
+          "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "name": "You're Not the Only One",
+      "year": "2022",
+      "release_date": "2022-05-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b4/c3/8c/b4c38c84-c05b-5197-57a7-756076eac7da/859761589435_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You're Not the Only One",
+          "duration": "3:07"
         }
       ]
     },
@@ -174,19 +187,6 @@
           "number": 1,
           "name": "Black Sheep",
           "duration": "3:22"
-        }
-      ]
-    },
-    {
-      "name": "You're Not the Only One",
-      "year": "2022",
-      "release_date": "2022-05-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b4/c3/8c/b4c38c84-c05b-5197-57a7-756076eac7da/859761589435_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You're Not the Only One",
-          "duration": "3:07"
         }
       ]
     },
@@ -244,6 +244,19 @@
           "number": 1,
           "name": "Spit!",
           "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "BLACK SHEEP",
+      "year": "2022",
+      "release_date": "2022-01-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/a2/fa/1ea2fa5d-b08e-df29-69a7-f3572821c2dd/cover_752470157868.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BLACK SHEEP",
+          "duration": "3:22"
         }
       ]
     }

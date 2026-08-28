@@ -1544,13 +1544,6 @@
       "tracks": []
     },
     {
-      "name": "Pikassos",
-      "year": "2011",
-      "release_date": "2011-09-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/14/aa/d7/mzi.axqwvfmo.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Intro (Game Over 3)",
       "year": "2022",
       "release_date": "2022-07-06",
@@ -1562,6 +1555,13 @@
           "duration": "2:58"
         }
       ]
+    },
+    {
+      "name": "Pikassos",
+      "year": "2011",
+      "release_date": "2011-09-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/14/aa/d7/mzi.axqwvfmo.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Sale môme",
@@ -1906,19 +1906,6 @@
       ]
     },
     {
-      "name": "Faut les lovés (feat. Niro)",
-      "year": "2017",
-      "release_date": "2017-06-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/81/0f/f6/810ff619-2eb3-1453-f233-8c84e318f2e4/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Faut les lovés (feat. Niro)",
-          "duration": "2:30"
-        }
-      ]
-    },
-    {
       "name": "Papa fait le pitre",
       "year": "2022",
       "release_date": "2022-12-15",
@@ -1928,6 +1915,19 @@
           "number": 1,
           "name": "Papa fait le pitre",
           "duration": "5:17"
+        }
+      ]
+    },
+    {
+      "name": "Faut les lovés (feat. Niro)",
+      "year": "2017",
+      "release_date": "2017-06-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/81/0f/f6/810ff619-2eb3-1453-f233-8c84e318f2e4/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Faut les lovés (feat. Niro)",
+          "duration": "2:30"
         }
       ]
     },

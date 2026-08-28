@@ -404,13 +404,6 @@
       ]
     },
     {
-      "name": "Someone To You (Acoustic)",
-      "year": "2017",
-      "release_date": "2017-06-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0f/5d/a3/0f5da35b-ce41-5d0e-9deb-23a1f6fe2210/00602557762327.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Let Go",
       "year": "2018",
       "release_date": "2018-05-04",
@@ -422,6 +415,13 @@
           "duration": "3:15"
         }
       ]
+    },
+    {
+      "name": "Someone To You (Acoustic)",
+      "year": "2017",
+      "release_date": "2017-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0f/5d/a3/0f5da35b-ce41-5d0e-9deb-23a1f6fe2210/00602557762327.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Where The Shadow Ends (Acoustic)",
@@ -470,6 +470,19 @@
       ]
     },
     {
+      "name": "Shine a Light",
+      "year": "2015",
+      "release_date": "2015-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/98/67/df98675e-e4c6-9eac-02a2-fb105632a011/00602547574374.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shine a Light",
+          "duration": "3:44"
+        }
+      ]
+    },
+    {
       "name": "Start a Riot (Remixes)",
       "year": "2016",
       "release_date": "2016-07-22",
@@ -484,19 +497,6 @@
           "number": 2,
           "name": "Start a Riot (Dave Edwards Remix)",
           "duration": "3:57"
-        }
-      ]
-    },
-    {
-      "name": "Shine a Light",
-      "year": "2015",
-      "release_date": "2015-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/98/67/df98675e-e4c6-9eac-02a2-fb105632a011/00602547574374.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shine a Light",
-          "duration": "3:44"
         }
       ]
     },
@@ -617,6 +617,32 @@
       ]
     },
     {
+      "name": "Easy",
+      "year": "2022",
+      "release_date": "2022-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/46/cb/81/46cb8181-b52b-2284-3cf9-82f3b10f0f56/067003409469.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Easy",
+          "duration": "3:06"
+        }
+      ]
+    },
+    {
+      "name": "Broken Hearted",
+      "year": "2023",
+      "release_date": "2023-09-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e1/5e/3f/e15e3fbc-eada-f269-594b-2ef9cfa714d9/067003575966.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Broken Hearted",
+          "duration": "3:10"
+        }
+      ]
+    },
+    {
       "name": "Name in Lights",
       "year": "2023",
       "release_date": "2023-05-26",
@@ -626,6 +652,19 @@
           "number": 1,
           "name": "Name in Lights",
           "duration": "3:31"
+        }
+      ]
+    },
+    {
+      "name": "Hurts When It's Healing",
+      "year": "2024",
+      "release_date": "2024-12-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/37/ac/af37ac47-a867-9171-0a24-3b1210079e90/067003894661.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hurts When It's Healing",
+          "duration": "3:15"
         }
       ]
     },
@@ -778,32 +817,6 @@
       ]
     },
     {
-      "name": "Easy",
-      "year": "2022",
-      "release_date": "2022-11-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/46/cb/81/46cb8181-b52b-2284-3cf9-82f3b10f0f56/067003409469.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Easy",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
-      "name": "Broken Hearted",
-      "year": "2023",
-      "release_date": "2023-09-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e1/5e/3f/e15e3fbc-eada-f269-594b-2ef9cfa714d9/067003575966.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Broken Hearted",
-          "duration": "3:10"
-        }
-      ]
-    },
-    {
       "name": "Submarine",
       "year": "2023",
       "release_date": "2023-03-10",
@@ -865,19 +878,6 @@
           "number": 1,
           "name": "Fall on Me",
           "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "Hurts When It's Healing",
-      "year": "2024",
-      "release_date": "2024-12-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/37/ac/af37ac47-a867-9171-0a24-3b1210079e90/067003894661.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hurts When It's Healing",
-          "duration": "3:15"
         }
       ]
     },

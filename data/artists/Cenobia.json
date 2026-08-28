@@ -1,21 +1,16 @@
 {
   "name": "Cenobia",
   "id": 1813349123,
-  "albums": [],
-  "singles": [
+  "albums": [
     {
-      "name": "Throne Of Want",
-      "year": "2025",
-      "release_date": "2025-09-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/71/d9/1171d9d6-bb32-f1b8-1ed5-0b3c3f2afaa0/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Throne Of Want",
-          "duration": "5:53"
-        }
-      ]
-    },
+      "name": "Lethal Devotion",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/ff/73/00ff737d-1827-8ada-db91-c6d115345c10/26CRGIM56120.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    }
+  ],
+  "singles": [
     {
       "name": "Make Us Whole Again",
       "year": "2026",
@@ -40,6 +35,19 @@
       ]
     },
     {
+      "name": "Throne Of Want",
+      "year": "2025",
+      "release_date": "2025-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/71/d9/1171d9d6-bb32-f1b8-1ed5-0b3c3f2afaa0/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Throne Of Want",
+          "duration": "5:53"
+        }
+      ]
+    },
+    {
       "name": "Devour Me",
       "year": "2025",
       "release_date": "2025-05-23",
@@ -47,6 +55,29 @@
       "tracks": [
         {
           "number": 1,
+          "name": "Devour Me",
+          "duration": "4:56"
+        }
+      ]
+    },
+    {
+      "name": "Make Us Whole Again",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/f4/66/0bf46619-919b-3fc8-952f-5729759256ad/26CRGIM56189.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Make Us Whole Again",
+          "duration": "3:52"
+        },
+        {
+          "number": 2,
+          "name": "Throne Of Want",
+          "duration": "5:53"
+        },
+        {
+          "number": 3,
           "name": "Devour Me",
           "duration": "4:56"
         }
@@ -75,29 +106,6 @@
           "number": 1,
           "name": "Throne Of Want",
           "duration": "5:53"
-        }
-      ]
-    },
-    {
-      "name": "Make Us Whole Again",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/f4/66/0bf46619-919b-3fc8-952f-5729759256ad/26CRGIM56189.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Make Us Whole Again",
-          "duration": "3:52"
-        },
-        {
-          "number": 2,
-          "name": "Throne Of Want",
-          "duration": "5:53"
-        },
-        {
-          "number": 3,
-          "name": "Devour Me",
-          "duration": "4:56"
         }
       ]
     }

@@ -252,49 +252,6 @@
       ]
     },
     {
-      "name": "Seven",
-      "year": "2023",
-      "release_date": "2023-03-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/74/fe/5f74fe90-a63a-7618-a926-d065c309aaea/c8baef58-146a-4084-9eba-62902e199fea.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Invincible",
-          "duration": "3:11"
-        },
-        {
-          "number": 2,
-          "name": "Red",
-          "duration": "2:59"
-        },
-        {
-          "number": 3,
-          "name": "Rescue Me",
-          "duration": "3:18"
-        },
-        {
-          "number": 4,
-          "name": "War With Myself",
-          "duration": "3:05"
-        },
-        {
-          "number": 5,
-          "name": "Alive",
-          "duration": "4:32"
-        },
-        {
-          "number": 6,
-          "name": "Outlaw",
-          "duration": "2:53"
-        },
-        {
-          "number": 7,
-          "name": "Horns",
-          "duration": "2:49"
-        }
-      ]
-    },
-    {
       "name": "Rainy Days",
       "year": "2024",
       "release_date": "2024-09-20",
@@ -409,6 +366,49 @@
           "number": 22,
           "name": "Apocalypse",
           "duration": "2:11"
+        }
+      ]
+    },
+    {
+      "name": "Seven",
+      "year": "2023",
+      "release_date": "2023-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/74/fe/5f74fe90-a63a-7618-a926-d065c309aaea/c8baef58-146a-4084-9eba-62902e199fea.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Invincible",
+          "duration": "3:11"
+        },
+        {
+          "number": 2,
+          "name": "Red",
+          "duration": "2:59"
+        },
+        {
+          "number": 3,
+          "name": "Rescue Me",
+          "duration": "3:18"
+        },
+        {
+          "number": 4,
+          "name": "War With Myself",
+          "duration": "3:05"
+        },
+        {
+          "number": 5,
+          "name": "Alive",
+          "duration": "4:32"
+        },
+        {
+          "number": 6,
+          "name": "Outlaw",
+          "duration": "2:53"
+        },
+        {
+          "number": 7,
+          "name": "Horns",
+          "duration": "2:49"
         }
       ]
     },
@@ -814,19 +814,6 @@
       ]
     },
     {
-      "name": "Rich Men North of Richmond (Remix)",
-      "year": "2023",
-      "release_date": "2023-09-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/00/f3/b800f3ce-6197-b50f-8c09-76bb4481194a/55198d93-353c-4f5c-b5d3-883b67a8a98b.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rich Men North of Richmond (Remix)",
-          "duration": "2:41"
-        }
-      ]
-    },
-    {
       "name": "Lights Out",
       "year": "2023",
       "release_date": "2023-10-13",
@@ -836,6 +823,19 @@
           "number": 1,
           "name": "Lights Out",
           "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "Rich Men North of Richmond (Remix)",
+      "year": "2023",
+      "release_date": "2023-09-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/00/f3/b800f3ce-6197-b50f-8c09-76bb4481194a/55198d93-353c-4f5c-b5d3-883b67a8a98b.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rich Men North of Richmond (Remix)",
+          "duration": "2:41"
         }
       ]
     },
@@ -866,19 +866,6 @@
       ]
     },
     {
-      "name": "In My Bones",
-      "year": "2020",
-      "release_date": "2020-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/eb/ae/a0/ebaea017-a01e-4b10-2f55-b64816ca5e05/2c2b4f40-7163-437e-87d9-4d212b64da01.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "In My Bones",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
       "name": "Death to Mumble Rap (feat. Mac Lethal, Crypt & Futuristic)",
       "year": "2019",
       "release_date": "2019-12-21",
@@ -888,6 +875,19 @@
           "number": 1,
           "name": "Death to Mumble Rap (feat. Mac Lethal, Crypt & Futuristic)",
           "duration": "4:57"
+        }
+      ]
+    },
+    {
+      "name": "In My Bones",
+      "year": "2020",
+      "release_date": "2020-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/eb/ae/a0/ebaea017-a01e-4b10-2f55-b64816ca5e05/2c2b4f40-7163-437e-87d9-4d212b64da01.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In My Bones",
+          "duration": "3:42"
         }
       ]
     },
@@ -1045,19 +1045,6 @@
       ]
     },
     {
-      "name": "No Sucka MC's",
-      "year": "2019",
-      "release_date": "2019-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/93/ad/47/93ad470d-22ae-246b-4d32-5ded8c2ece39/ad509a04-50fa-4487-9257-ceaf5ad6e667.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "No Sucka MC's",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
       "name": "Mayhem",
       "year": "2023",
       "release_date": "2023-08-04",
@@ -1158,6 +1145,19 @@
           "number": 1,
           "name": "Twenty 23",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "No Sucka MC's",
+      "year": "2019",
+      "release_date": "2019-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/93/ad/47/93ad470d-22ae-246b-4d32-5ded8c2ece39/ad509a04-50fa-4487-9257-ceaf5ad6e667.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "No Sucka MC's",
+          "duration": "2:20"
         }
       ]
     },
@@ -1285,32 +1285,6 @@
           "number": 3,
           "name": "Forgive Me",
           "duration": "2:54"
-        }
-      ]
-    },
-    {
-      "name": "Speed It Up (feat. Gawne)",
-      "year": "2023",
-      "release_date": "2023-02-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9e/c8/56/9ec856dc-aadc-3f85-4218-e9f1fd998449/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Speed It Up (feat. Gawne)",
-          "duration": "3:28"
-        }
-      ]
-    },
-    {
-      "name": "The Beat (feat. Gawne)",
-      "year": "2021",
-      "release_date": "2021-07-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/7b/a8/fe7ba8f6-1f7b-408c-4f6a-fefa35fa270b/697067012772.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Beat (feat. Gawne)",
-          "duration": "3:48"
         }
       ]
     },
@@ -1744,6 +1718,19 @@
       ]
     },
     {
+      "name": "Speed It Up (feat. Gawne)",
+      "year": "2023",
+      "release_date": "2023-02-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9e/c8/56/9ec856dc-aadc-3f85-4218-e9f1fd998449/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Speed It Up (feat. Gawne)",
+          "duration": "3:28"
+        }
+      ]
+    },
+    {
       "name": "Leave Me Alone (feat. Liv)",
       "year": "2022",
       "release_date": "2022-04-28",
@@ -1766,6 +1753,19 @@
           "number": 1,
           "name": "Hollow",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "The Beat (feat. Gawne)",
+      "year": "2021",
+      "release_date": "2021-07-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fe/7b/a8/fe7ba8f6-1f7b-408c-4f6a-fefa35fa270b/697067012772.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Beat (feat. Gawne)",
+          "duration": "3:48"
         }
       ]
     },

@@ -219,54 +219,6 @@
     {
       "name": "Dilworth",
       "year": "2025",
-      "release_date": "2025-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/ce/e9/03cee9af-8559-0c93-ba58-90e831938b6e/809891.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Left on Dilworth",
-          "duration": "3:09"
-        },
-        {
-          "number": 2,
-          "name": "SMUT",
-          "duration": "2:47"
-        },
-        {
-          "number": 3,
-          "name": "Red Velvet (feat. Ari Abdul)",
-          "duration": "3:06"
-        },
-        {
-          "number": 4,
-          "name": "Limerence",
-          "duration": "2:43"
-        },
-        {
-          "number": 5,
-          "name": "One of Us",
-          "duration": "2:42"
-        },
-        {
-          "number": 6,
-          "name": "Crucifixxx",
-          "duration": "2:53"
-        },
-        {
-          "number": 7,
-          "name": "House of Cards",
-          "duration": "3:05"
-        },
-        {
-          "number": 8,
-          "name": "The End",
-          "duration": "2:52"
-        }
-      ]
-    },
-    {
-      "name": "Dilworth",
-      "year": "2025",
       "release_date": "2025-12-03",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/19/3b/8c193b11-4f3c-dc7a-df9d-e2a10ac579f4/899564.jpg/600x600bb.jpg",
       "tracks": [
@@ -351,7 +303,7 @@
       "name": "Dilworth",
       "year": "2025",
       "release_date": "2025-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/84/f0/d784f072-7dde-938e-6ca1-fb0d6f64ef2a/744971.jpg/600x600bb.jpg",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/ce/e9/03cee9af-8559-0c93-ba58-90e831938b6e/809891.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
@@ -365,7 +317,7 @@
         },
         {
           "number": 3,
-          "name": "Red Velvet (with Ari Abdul) [feat. Ari Abdul]",
+          "name": "Red Velvet (feat. Ari Abdul)",
           "duration": "3:06"
         },
         {
@@ -375,16 +327,21 @@
         },
         {
           "number": 5,
+          "name": "One of Us",
+          "duration": "2:42"
+        },
+        {
+          "number": 6,
           "name": "Crucifixxx",
           "duration": "2:53"
         },
         {
-          "number": 6,
+          "number": 7,
           "name": "House of Cards",
           "duration": "3:05"
         },
         {
-          "number": 7,
+          "number": 8,
           "name": "The End",
           "duration": "2:52"
         }
@@ -440,6 +397,49 @@
           "number": 9,
           "name": "Sleepyhead (Live)",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Dilworth",
+      "year": "2025",
+      "release_date": "2025-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/84/f0/d784f072-7dde-938e-6ca1-fb0d6f64ef2a/744971.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Left on Dilworth",
+          "duration": "3:09"
+        },
+        {
+          "number": 2,
+          "name": "SMUT",
+          "duration": "2:47"
+        },
+        {
+          "number": 3,
+          "name": "Red Velvet (with Ari Abdul) [feat. Ari Abdul]",
+          "duration": "3:06"
+        },
+        {
+          "number": 4,
+          "name": "Limerence",
+          "duration": "2:43"
+        },
+        {
+          "number": 5,
+          "name": "Crucifixxx",
+          "duration": "2:53"
+        },
+        {
+          "number": 6,
+          "name": "House of Cards",
+          "duration": "3:05"
+        },
+        {
+          "number": 7,
+          "name": "The End",
+          "duration": "2:52"
         }
       ]
     },
@@ -1063,6 +1063,24 @@
       ]
     },
     {
+      "name": "Kill or be Killed / Fly on the Wall",
+      "year": "2025",
+      "release_date": "2025-08-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/c3/5e/97c35eb3-06dc-90ba-22e9-b486beb6651f/860523.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Kill or be Killed",
+          "duration": "3:23"
+        },
+        {
+          "number": 2,
+          "name": "Fly on the Wall",
+          "duration": "2:47"
+        }
+      ]
+    },
+    {
       "name": "Parasite",
       "year": "2025",
       "release_date": "2025-09-24",
@@ -1112,37 +1130,6 @@
       ]
     },
     {
-      "name": "Kill or be Killed / Fly on the Wall",
-      "year": "2025",
-      "release_date": "2025-08-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/c3/5e/97c35eb3-06dc-90ba-22e9-b486beb6651f/860523.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kill or be Killed",
-          "duration": "3:23"
-        },
-        {
-          "number": 2,
-          "name": "Fly on the Wall",
-          "duration": "2:47"
-        }
-      ]
-    },
-    {
-      "name": "Cocaine Cinderella",
-      "year": "2016",
-      "release_date": "2016-01-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/14/de/ae/14deae2a-8ff6-7d93-2601-848875a67886/9449.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cocaine Cinderella",
-          "duration": "3:25"
-        }
-      ]
-    },
-    {
       "name": "Too Easy",
       "year": "2019",
       "release_date": "2019-03-29",
@@ -1156,15 +1143,15 @@
       ]
     },
     {
-      "name": "ROT",
-      "year": "2024",
-      "release_date": "2024-12-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/e2/81/7be28185-2fca-60fd-0ef3-6c8adbc67b6d/776.jpg/600x600bb.jpg",
+      "name": "Cocaine Cinderella",
+      "year": "2016",
+      "release_date": "2016-01-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/14/de/ae/14deae2a-8ff6-7d93-2601-848875a67886/9449.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "ROT",
-          "duration": "2:39"
+          "name": "Cocaine Cinderella",
+          "duration": "3:25"
         }
       ]
     },
@@ -1239,6 +1226,19 @@
       ]
     },
     {
+      "name": "ROT",
+      "year": "2024",
+      "release_date": "2024-12-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/e2/81/7be28185-2fca-60fd-0ef3-6c8adbc67b6d/776.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ROT",
+          "duration": "2:39"
+        }
+      ]
+    },
+    {
       "name": "Alone (feat. Jutes & Noey)",
       "year": "2018",
       "release_date": "2018-02-23",
@@ -1248,19 +1248,6 @@
           "number": 1,
           "name": "Alone (feat. Jutes & Noey)",
           "duration": "3:15"
-        }
-      ]
-    },
-    {
-      "name": "California",
-      "year": "2021",
-      "release_date": "2021-04-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7c/b0/31/7cb031ae-d79e-490c-7597-1172b57b2caa/193436257824_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "California",
-          "duration": "2:05"
         }
       ]
     },
@@ -1485,58 +1472,6 @@
       ]
     },
     {
-      "name": "Born To Lose",
-      "year": "2023",
-      "release_date": "2023-12-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/aa/94/caaa94ff-ecf3-b14a-4976-c43b45757d23/177353.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Born To Lose",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
-      "name": "Mirror Mirror",
-      "year": "2021",
-      "release_date": "2021-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/db/8c/07/db8c0726-74a9-4190-2f37-257d38fd97b4/193436259781_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mirror Mirror",
-          "duration": "2:41"
-        }
-      ]
-    },
-    {
-      "name": "Hummingbird",
-      "year": "2021",
-      "release_date": "2021-04-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/09/4f/59/094f5963-a1ea-b483-f9ea-008e0165b3cd/193436256483_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hummingbird",
-          "duration": "2:44"
-        }
-      ]
-    },
-    {
-      "name": "For You",
-      "year": "2021",
-      "release_date": "2021-03-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/60/90/726090bd-87f7-1126-2825-44b5561b626d/193436253871_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "For You",
-          "duration": "2:32"
-        }
-      ]
-    },
-    {
       "name": "Backseat (Kiss Me)",
       "year": "2020",
       "release_date": "2020-10-08",
@@ -1589,15 +1524,28 @@
       ]
     },
     {
-      "name": "Painkiller",
+      "name": "California",
       "year": "2021",
-      "release_date": "2021-05-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2e/6e/2c/2e6e2c19-d62d-01b9-986f-f50abec2419c/QRWd3rCMT3Wj0LQ2pOmK_output-onlinejpgtools_14.jpg/600x600bb.jpg",
+      "release_date": "2021-04-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7c/b0/31/7cb031ae-d79e-490c-7597-1172b57b2caa/193436257824_01_img001.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Painkiller",
-          "duration": "2:18"
+          "name": "California",
+          "duration": "2:05"
+        }
+      ]
+    },
+    {
+      "name": "Born To Lose",
+      "year": "2023",
+      "release_date": "2023-12-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/aa/94/caaa94ff-ecf3-b14a-4976-c43b45757d23/177353.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Born To Lose",
+          "duration": "3:00"
         }
       ]
     },
@@ -1641,6 +1589,45 @@
       ]
     },
     {
+      "name": "Mirror Mirror",
+      "year": "2021",
+      "release_date": "2021-05-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/db/8c/07/db8c0726-74a9-4190-2f37-257d38fd97b4/193436259781_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mirror Mirror",
+          "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "Hummingbird",
+      "year": "2021",
+      "release_date": "2021-04-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/09/4f/59/094f5963-a1ea-b483-f9ea-008e0165b3cd/193436256483_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hummingbird",
+          "duration": "2:44"
+        }
+      ]
+    },
+    {
+      "name": "For You",
+      "year": "2021",
+      "release_date": "2021-03-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/60/90/726090bd-87f7-1126-2825-44b5561b626d/193436253871_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "For You",
+          "duration": "2:32"
+        }
+      ]
+    },
+    {
       "name": "Blink Twice",
       "year": "2026",
       "release_date": "2026-07-15",
@@ -1667,19 +1654,6 @@
       ]
     },
     {
-      "name": "Chariot",
-      "year": "2021",
-      "release_date": "2021-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/09/8d/df098ded-f150-d8dd-6712-065329f685fc/193436263962_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chariot",
-          "duration": "2:06"
-        }
-      ]
-    },
-    {
       "name": "Day Dreaming",
       "year": "2021",
       "release_date": "2021-05-28",
@@ -1689,6 +1663,19 @@
           "number": 1,
           "name": "Day Dreaming",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Painkiller",
+      "year": "2021",
+      "release_date": "2021-05-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2e/6e/2c/2e6e2c19-d62d-01b9-986f-f50abec2419c/QRWd3rCMT3Wj0LQ2pOmK_output-onlinejpgtools_14.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Painkiller",
+          "duration": "2:18"
         }
       ]
     },
@@ -1715,32 +1702,6 @@
           "number": 1,
           "name": "Careful What You Wish For",
           "duration": "3:01"
-        }
-      ]
-    },
-    {
-      "name": "Delete My Number",
-      "year": "2021",
-      "release_date": "2021-04-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/88/6f/78/886f78c7-f7a1-eb76-8984-6759059c4027/193436255622_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Delete My Number",
-          "duration": "2:25"
-        }
-      ]
-    },
-    {
-      "name": "Sober Up",
-      "year": "2021",
-      "release_date": "2021-02-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/2e/18/6d2e1822-b261-811e-8c0e-91e9787519e2/193436251617_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sober Up",
-          "duration": "2:12"
         }
       ]
     },
@@ -1797,6 +1758,19 @@
       ]
     },
     {
+      "name": "Chariot",
+      "year": "2021",
+      "release_date": "2021-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/df/09/8d/df098ded-f150-d8dd-6712-065329f685fc/193436263962_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chariot",
+          "duration": "2:06"
+        }
+      ]
+    },
+    {
       "name": "Those Were the Days",
       "year": "2021",
       "release_date": "2021-06-11",
@@ -1810,6 +1784,19 @@
       ]
     },
     {
+      "name": "Delete My Number",
+      "year": "2021",
+      "release_date": "2021-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/88/6f/78/886f78c7-f7a1-eb76-8984-6759059c4027/193436255622_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Delete My Number",
+          "duration": "2:25"
+        }
+      ]
+    },
+    {
       "name": "Give u a Call",
       "year": "2021",
       "release_date": "2021-03-05",
@@ -1819,6 +1806,19 @@
           "number": 1,
           "name": "Give u a Call",
           "duration": "2:23"
+        }
+      ]
+    },
+    {
+      "name": "Sober Up",
+      "year": "2021",
+      "release_date": "2021-02-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/2e/18/6d2e1822-b261-811e-8c0e-91e9787519e2/193436251617_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sober Up",
+          "duration": "2:12"
         }
       ]
     },

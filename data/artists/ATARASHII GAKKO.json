@@ -3,49 +3,6 @@
   "id": 1231338664,
   "albums": [
     {
-      "name": "Ichijikikoku",
-      "year": "2023",
-      "release_date": "2023-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/74/dd/8e74dd69-749e-e074-03cb-ca61427f0177/ichijikikoku_jkt.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Janaindayo",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Seishun Wo Kirisaku Hado",
-          "duration": "3:33"
-        },
-        {
-          "number": 3,
-          "name": "Giri Giri",
-          "duration": "3:05"
-        },
-        {
-          "number": 4,
-          "name": "Suki Lie",
-          "duration": "3:15"
-        },
-        {
-          "number": 5,
-          "name": "Otonablue",
-          "duration": "3:04"
-        },
-        {
-          "number": 6,
-          "name": "Otome No Bigaku",
-          "duration": "4:16"
-        },
-        {
-          "number": 7,
-          "name": "Odoru Honno 001",
-          "duration": "3:17"
-        }
-      ]
-    },
-    {
       "name": "AG! Calling",
       "year": "2024",
       "release_date": "2024-06-07",
@@ -105,6 +62,49 @@
           "number": 11,
           "name": "Tokyo Calling",
           "duration": "3:11"
+        }
+      ]
+    },
+    {
+      "name": "Ichijikikoku",
+      "year": "2023",
+      "release_date": "2023-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/74/dd/8e74dd69-749e-e074-03cb-ca61427f0177/ichijikikoku_jkt.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Janaindayo",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Seishun Wo Kirisaku Hado",
+          "duration": "3:33"
+        },
+        {
+          "number": 3,
+          "name": "Giri Giri",
+          "duration": "3:05"
+        },
+        {
+          "number": 4,
+          "name": "Suki Lie",
+          "duration": "3:15"
+        },
+        {
+          "number": 5,
+          "name": "Otonablue",
+          "duration": "3:04"
+        },
+        {
+          "number": 6,
+          "name": "Otome No Bigaku",
+          "duration": "4:16"
+        },
+        {
+          "number": 7,
+          "name": "Odoru Honno 001",
+          "duration": "3:17"
         }
       ]
     },
@@ -381,6 +381,19 @@
       ]
     },
     {
+      "name": "One Heart",
+      "year": "2025",
+      "release_date": "2025-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/a4/12/ada4120b-e623-cd92-433f-7e1103529f7a/199066976104.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One Heart",
+          "duration": "4:02"
+        }
+      ]
+    },
+    {
       "name": "Otonablue - From the First Take",
       "year": "2023",
       "release_date": "2023-06-16",
@@ -390,19 +403,6 @@
           "number": 1,
           "name": "Otonablue - From the First Take",
           "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "Narani Narani (feat. ATARASHII GAKKO!)",
-      "year": "2025",
-      "release_date": "2025-06-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/58/3b/ff583bf1-aa3d-cdef-1bb6-b19b19c63d11/4571653885291.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Narani Narani (feat. ATARASHII GAKKO!)",
-          "duration": "3:44"
         }
       ]
     },
@@ -420,15 +420,15 @@
       ]
     },
     {
-      "name": "One Heart",
+      "name": "Narani Narani (feat. ATARASHII GAKKO!)",
       "year": "2025",
-      "release_date": "2025-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/a4/12/ada4120b-e623-cd92-433f-7e1103529f7a/199066976104.jpg/600x600bb.jpg",
+      "release_date": "2025-06-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/58/3b/ff583bf1-aa3d-cdef-1bb6-b19b19c63d11/4571653885291.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "One Heart",
-          "duration": "4:02"
+          "name": "Narani Narani (feat. ATARASHII GAKKO!)",
+          "duration": "3:44"
         }
       ]
     },
@@ -442,6 +442,19 @@
           "number": 1,
           "name": "Sailor, Sail On",
           "duration": "4:08"
+        }
+      ]
+    },
+    {
+      "name": "Chanka Chanka",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/c7/34/04c734e4-a6e6-ee95-9bf1-0c8bb49e2417/820233015813.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chanka Chanka",
+          "duration": "2:59"
         }
       ]
     },
@@ -512,19 +525,6 @@
           "number": 1,
           "name": "Janaindayo",
           "duration": "3:00"
-        }
-      ]
-    },
-    {
-      "name": "Chanka Chanka",
-      "year": "2026",
-      "release_date": "2026-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/c7/34/04c734e4-a6e6-ee95-9bf1-0c8bb49e2417/820233015813.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chanka Chanka",
-          "duration": "2:59"
         }
       ]
     },

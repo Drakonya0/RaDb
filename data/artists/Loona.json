@@ -84,6 +84,49 @@
       ]
     },
     {
+      "name": "[&]",
+      "year": "2021",
+      "release_date": "2021-06-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/09/3e/db093eaa-2159-f77e-50cb-ed8528c660a5/8804775165719.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "&",
+          "duration": "1:19"
+        },
+        {
+          "number": 2,
+          "name": "PTT (Paint The Town)",
+          "duration": "3:21"
+        },
+        {
+          "number": 3,
+          "name": "WOW",
+          "duration": "2:58"
+        },
+        {
+          "number": 4,
+          "name": "Be Honest",
+          "duration": "3:16"
+        },
+        {
+          "number": 5,
+          "name": "Dance On My Own",
+          "duration": "2:37"
+        },
+        {
+          "number": 6,
+          "name": "A Different Night",
+          "duration": "3:38"
+        },
+        {
+          "number": 7,
+          "name": "U R",
+          "duration": "3:04"
+        }
+      ]
+    },
+    {
       "name": "[12:00]",
       "year": "2020",
       "release_date": "2020-10-19",
@@ -128,49 +171,6 @@
           "number": 8,
           "name": "Star (Voice English Version)",
           "duration": "3:18"
-        }
-      ]
-    },
-    {
-      "name": "[&]",
-      "year": "2021",
-      "release_date": "2021-06-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/09/3e/db093eaa-2159-f77e-50cb-ed8528c660a5/8804775165719.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "&",
-          "duration": "1:19"
-        },
-        {
-          "number": 2,
-          "name": "PTT (Paint The Town)",
-          "duration": "3:21"
-        },
-        {
-          "number": 3,
-          "name": "WOW",
-          "duration": "2:58"
-        },
-        {
-          "number": 4,
-          "name": "Be Honest",
-          "duration": "3:16"
-        },
-        {
-          "number": 5,
-          "name": "Dance On My Own",
-          "duration": "2:37"
-        },
-        {
-          "number": 6,
-          "name": "A Different Night",
-          "duration": "3:38"
-        },
-        {
-          "number": 7,
-          "name": "U R",
-          "duration": "3:04"
         }
       ]
     }
@@ -280,6 +280,24 @@
       ]
     },
     {
+      "name": "HaSeul",
+      "year": "2016",
+      "release_date": "2016-12-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e3/c8/83/e3c8832b-8a44-ed14-67d3-52cfcb6b22c8/8804775132957.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Carol",
+          "duration": "3:26"
+        },
+        {
+          "number": 2,
+          "name": "소년, 소녀",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
       "name": "LUMINOUS",
       "year": "2022",
       "release_date": "2022-09-28",
@@ -299,24 +317,6 @@
           "number": 3,
           "name": "Hi High (Japanese Version)",
           "duration": "3:17"
-        }
-      ]
-    },
-    {
-      "name": "HaSeul",
-      "year": "2016",
-      "release_date": "2016-12-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e3/c8/83/e3c8832b-8a44-ed14-67d3-52cfcb6b22c8/8804775132957.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Carol",
-          "duration": "3:26"
-        },
-        {
-          "number": 2,
-          "name": "소년, 소녀",
-          "duration": "3:07"
         }
       ]
     },
@@ -393,29 +393,6 @@
       ]
     },
     {
-      "name": "<Queendom2>, Pt. 2-1",
-      "year": "2022",
-      "release_date": "2022-04-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/72/ba/c4/72bac42a-9e63-ddc5-4438-3d8a2d92bb44/888272097733_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NAVILLERA",
-          "duration": "4:07"
-        },
-        {
-          "number": 2,
-          "name": "SHAKE IT",
-          "duration": "4:14"
-        },
-        {
-          "number": 3,
-          "name": "MVSK (Remix)",
-          "duration": "3:41"
-        }
-      ]
-    },
-    {
       "name": "YeoJin",
       "year": "2017",
       "release_date": "2017-01-16",
@@ -453,6 +430,29 @@
           "number": 2,
           "name": "ViViD (Acoustic Mix Version)",
           "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "<Queendom2>, Pt. 2-1",
+      "year": "2022",
+      "release_date": "2022-04-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/72/ba/c4/72bac42a-9e63-ddc5-4438-3d8a2d92bb44/888272097733_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NAVILLERA",
+          "duration": "4:07"
+        },
+        {
+          "number": 2,
+          "name": "SHAKE IT",
+          "duration": "4:14"
+        },
+        {
+          "number": 3,
+          "name": "MVSK (Remix)",
+          "duration": "3:41"
         }
       ]
     },

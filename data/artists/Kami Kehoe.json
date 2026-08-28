@@ -71,59 +71,6 @@
       ]
     },
     {
-      "name": "DRAMA QUEEN",
-      "year": "2023",
-      "release_date": "2023-04-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4a/68/80/4a688056-9e6d-d39f-2f8b-c4aa716ab3d5/659783407355.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "fun house",
-          "duration": "2:33"
-        },
-        {
-          "number": 2,
-          "name": "ily bby",
-          "duration": "3:46"
-        },
-        {
-          "number": 3,
-          "name": "love songs vol.1",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "break my heart",
-          "duration": "3:15"
-        },
-        {
-          "number": 5,
-          "name": "emotionally unavailable",
-          "duration": "2:25"
-        },
-        {
-          "number": 6,
-          "name": "gimme all your love (interlude)",
-          "duration": "2:35"
-        },
-        {
-          "number": 7,
-          "name": "loaded gun",
-          "duration": "3:12"
-        },
-        {
-          "number": 8,
-          "name": "near death",
-          "duration": "3:15"
-        },
-        {
-          "number": 9,
-          "name": "hate ur f**king self",
-          "duration": "3:01"
-        }
-      ]
-    },
-    {
       "name": "LOVE IS A WEAPON",
       "year": "2026",
       "release_date": "2026-08-28",
@@ -205,9 +152,75 @@
           "duration": "4:21"
         }
       ]
+    },
+    {
+      "name": "DRAMA QUEEN",
+      "year": "2023",
+      "release_date": "2023-04-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4a/68/80/4a688056-9e6d-d39f-2f8b-c4aa716ab3d5/659783407355.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "fun house",
+          "duration": "2:33"
+        },
+        {
+          "number": 2,
+          "name": "ily bby",
+          "duration": "3:46"
+        },
+        {
+          "number": 3,
+          "name": "love songs vol.1",
+          "duration": "3:16"
+        },
+        {
+          "number": 4,
+          "name": "break my heart",
+          "duration": "3:15"
+        },
+        {
+          "number": 5,
+          "name": "emotionally unavailable",
+          "duration": "2:25"
+        },
+        {
+          "number": 6,
+          "name": "gimme all your love (interlude)",
+          "duration": "2:35"
+        },
+        {
+          "number": 7,
+          "name": "loaded gun",
+          "duration": "3:12"
+        },
+        {
+          "number": 8,
+          "name": "near death",
+          "duration": "3:15"
+        },
+        {
+          "number": 9,
+          "name": "hate ur f**king self",
+          "duration": "3:01"
+        }
+      ]
     }
   ],
   "singles": [
+    {
+      "name": "FADE OUT",
+      "year": "2025",
+      "release_date": "2025-11-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/0f/1f/770f1f45-0f10-72a2-5f32-aca2f31d2db3/075679592101.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FADE OUT",
+          "duration": "3:03"
+        }
+      ]
+    },
     {
       "name": "DOPAMINE",
       "year": "2025",
@@ -222,15 +235,15 @@
       ]
     },
     {
-      "name": "FADE OUT",
-      "year": "2025",
-      "release_date": "2025-11-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/0f/1f/770f1f45-0f10-72a2-5f32-aca2f31d2db3/075679592101.jpg/600x600bb.jpg",
+      "name": "[Gen]inside",
+      "year": "2026",
+      "release_date": "2026-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/10/18/ba1018fd-951e-2490-a532-cc1b80f738ed/193436466417_CYBGenicide.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "FADE OUT",
-          "duration": "3:03"
+          "name": "[Gen]inside",
+          "duration": "3:11"
         }
       ]
     },
@@ -261,19 +274,6 @@
       ]
     },
     {
-      "name": "[Gen]inside",
-      "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/10/18/ba1018fd-951e-2490-a532-cc1b80f738ed/193436466417_CYBGenicide.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "[Gen]inside",
-          "duration": "3:11"
-        }
-      ]
-    },
-    {
       "name": "Safehouse",
       "year": "2025",
       "release_date": "2025-03-28",
@@ -300,19 +300,6 @@
       ]
     },
     {
-      "name": "PSYCHO",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/2f/3e/cc2f3e72-70ad-630d-8775-909ce2034522/075679582751.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PSYCHO",
-          "duration": "2:18"
-        }
-      ]
-    },
-    {
       "name": "DIRTY",
       "year": "2026",
       "release_date": "2026-06-05",
@@ -322,6 +309,19 @@
           "number": 1,
           "name": "DIRTY",
           "duration": "2:32"
+        }
+      ]
+    },
+    {
+      "name": "PSYCHO",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/2f/3e/cc2f3e72-70ad-630d-8775-909ce2034522/075679582751.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PSYCHO",
+          "duration": "2:18"
         }
       ]
     },
@@ -362,19 +362,6 @@
       ]
     },
     {
-      "name": "break my heart",
-      "year": "2022",
-      "release_date": "2022-11-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/58/85/b3/5885b30b-09f4-f11d-fbd4-ffc294c447f8/790566231122.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "break my heart",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "Test Dummy",
       "year": "2022",
       "release_date": "2022-04-22",
@@ -397,6 +384,19 @@
           "number": 1,
           "name": "loaded gun",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "break my heart",
+      "year": "2022",
+      "release_date": "2022-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/58/85/b3/5885b30b-09f4-f11d-fbd4-ffc294c447f8/790566231122.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "break my heart",
+          "duration": "3:15"
         }
       ]
     },

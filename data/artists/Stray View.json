@@ -1,7 +1,76 @@
 {
   "name": "Stray View",
   "id": 1658469618,
-  "albums": [],
+  "albums": [
+    {
+      "name": "Self Inflicted",
+      "year": "2026",
+      "release_date": "2026-10-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/da/e9/fddae968-e71c-b3ec-9c11-c14b43ad2440/3510.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shadows",
+          "duration": "2:37"
+        },
+        {
+          "number": 2,
+          "name": "Break",
+          "duration": "3:07"
+        },
+        {
+          "number": 3,
+          "name": "Hourglass",
+          "duration": "3:07"
+        },
+        {
+          "number": 4,
+          "name": "For The Best",
+          "duration": "2:52"
+        },
+        {
+          "number": 5,
+          "name": "Vanity",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "Mariposa",
+          "duration": "3:37"
+        },
+        {
+          "number": 7,
+          "name": "Come Down",
+          "duration": "3:16"
+        },
+        {
+          "number": 8,
+          "name": "Vivid",
+          "duration": "3:21"
+        },
+        {
+          "number": 9,
+          "name": "Collide",
+          "duration": "3:19"
+        },
+        {
+          "number": 10,
+          "name": "Fighting Fire With Fire",
+          "duration": "2:47"
+        },
+        {
+          "number": 11,
+          "name": "All Along",
+          "duration": "3:40"
+        },
+        {
+          "number": 12,
+          "name": "Unfair",
+          "duration": "3:53"
+        }
+      ]
+    }
+  ],
   "singles": [
     {
       "name": "Escape",
@@ -143,6 +212,19 @@
           "number": 1,
           "name": "What’s Done Is Done",
           "duration": "3:58"
+        }
+      ]
+    },
+    {
+      "name": "All Along",
+      "year": "2026",
+      "release_date": "2026-08-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/dc/dd/3fdcdd07-80e0-0c08-9b4f-19b784a954ae/3492.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "All Along",
+          "duration": "3:40"
         }
       ]
     }

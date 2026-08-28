@@ -58,19 +58,6 @@
   ],
   "singles": [
     {
-      "name": "Buzzsaw",
-      "year": "2024",
-      "release_date": "2024-08-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/da/d0/21dad044-3e62-e99f-95b5-9911d50710f1/5063549433253_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Buzzsaw",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
       "name": "Raindrops",
       "year": "2026",
       "release_date": "2026-05-08",
@@ -80,6 +67,19 @@
           "number": 1,
           "name": "Raindrops",
           "duration": "2:33"
+        }
+      ]
+    },
+    {
+      "name": "Buzzsaw",
+      "year": "2024",
+      "release_date": "2024-08-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/da/d0/21dad044-3e62-e99f-95b5-9911d50710f1/5063549433253_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Buzzsaw",
+          "duration": "3:42"
         }
       ]
     },
@@ -192,6 +192,34 @@
   ],
   "eps": [
     {
+      "name": "Filet-O-Fish",
+      "year": "2025",
+      "release_date": "2025-04-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/02/d7/bc02d73d-587e-f504-9918-7293e943e538/5063655181642_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Filet-O-Fish",
+          "duration": "2:22"
+        },
+        {
+          "number": 2,
+          "name": "LOW BLOW!",
+          "duration": "2:23"
+        },
+        {
+          "number": 3,
+          "name": "Plan Z",
+          "duration": "3:02"
+        },
+        {
+          "number": 4,
+          "name": "Buzzsaw",
+          "duration": "3:42"
+        }
+      ]
+    },
+    {
       "name": "Reflection Room",
       "year": "2023",
       "release_date": "2023-04-07",
@@ -264,34 +292,6 @@
           "number": 6,
           "name": "Freefall",
           "duration": "3:43"
-        }
-      ]
-    },
-    {
-      "name": "Filet-O-Fish",
-      "year": "2025",
-      "release_date": "2025-04-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/02/d7/bc02d73d-587e-f504-9918-7293e943e538/5063655181642_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Filet-O-Fish",
-          "duration": "2:22"
-        },
-        {
-          "number": 2,
-          "name": "LOW BLOW!",
-          "duration": "2:23"
-        },
-        {
-          "number": 3,
-          "name": "Plan Z",
-          "duration": "3:02"
-        },
-        {
-          "number": 4,
-          "name": "Buzzsaw",
-          "duration": "3:42"
         }
       ]
     },
