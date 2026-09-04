@@ -192,74 +192,6 @@
       ]
     },
     {
-      "name": "BODIES X",
-      "year": "2025",
-      "release_date": "2025-11-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/24/e4/a924e4bb-e739-7046-ed3e-ee6aab164402/8721416498817.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mercia",
-          "duration": "5:34"
-        },
-        {
-          "number": 2,
-          "name": "DIESEL (Vianova Remix)",
-          "duration": "3:25"
-        },
-        {
-          "number": 3,
-          "name": "Revolver (Landon Tewers Remix)",
-          "duration": "3:06"
-        },
-        {
-          "number": 4,
-          "name": "Silver Swarm (Kel Pinchin Remix)",
-          "duration": "3:13"
-        },
-        {
-          "number": 5,
-          "name": "Only Ever You (Vicious Remix)",
-          "duration": "4:33"
-        },
-        {
-          "number": 6,
-          "name": "Fall into the Wind (Mondo Loops Remix)",
-          "duration": "2:18"
-        },
-        {
-          "number": 7,
-          "name": "TONGUES (Daybreak Remix)",
-          "duration": "3:50"
-        },
-        {
-          "number": 8,
-          "name": "nerv (Running Touch Remix)",
-          "duration": "2:48"
-        },
-        {
-          "number": 9,
-          "name": "Obsession (Alejandro Aranda Remix)",
-          "duration": "3:18"
-        },
-        {
-          "number": 10,
-          "name": "CRUSH (Northlane Remix)",
-          "duration": "3:05"
-        },
-        {
-          "number": 11,
-          "name": "under the knife (Zetra Remix)",
-          "duration": "4:53"
-        },
-        {
-          "number": 12,
-          "name": "For Now (James Mckendrick Remix)",
-          "duration": "4:53"
-        }
-      ]
-    },
-    {
       "name": "BODIES Definitive",
       "year": "2026",
       "release_date": "2026-05-01",
@@ -324,6 +256,74 @@
           "number": 12,
           "name": "Mercia",
           "duration": "5:34"
+        }
+      ]
+    },
+    {
+      "name": "BODIES X",
+      "year": "2025",
+      "release_date": "2025-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/24/e4/a924e4bb-e739-7046-ed3e-ee6aab164402/8721416498817.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mercia",
+          "duration": "5:34"
+        },
+        {
+          "number": 2,
+          "name": "DIESEL (Vianova Remix)",
+          "duration": "3:25"
+        },
+        {
+          "number": 3,
+          "name": "Revolver (Landon Tewers Remix)",
+          "duration": "3:06"
+        },
+        {
+          "number": 4,
+          "name": "Silver Swarm (Kel Pinchin Remix)",
+          "duration": "3:13"
+        },
+        {
+          "number": 5,
+          "name": "Only Ever You (Vicious Remix)",
+          "duration": "4:33"
+        },
+        {
+          "number": 6,
+          "name": "Fall into the Wind (Mondo Loops Remix)",
+          "duration": "2:18"
+        },
+        {
+          "number": 7,
+          "name": "TONGUES (Daybreak Remix)",
+          "duration": "3:50"
+        },
+        {
+          "number": 8,
+          "name": "nerv (Running Touch Remix)",
+          "duration": "2:48"
+        },
+        {
+          "number": 9,
+          "name": "Obsession (Alejandro Aranda Remix)",
+          "duration": "3:18"
+        },
+        {
+          "number": 10,
+          "name": "CRUSH (Northlane Remix)",
+          "duration": "3:05"
+        },
+        {
+          "number": 11,
+          "name": "under the knife (Zetra Remix)",
+          "duration": "4:53"
+        },
+        {
+          "number": 12,
+          "name": "For Now (James Mckendrick Remix)",
+          "duration": "4:53"
         }
       ]
     },
@@ -489,19 +489,6 @@
       ]
     },
     {
-      "name": "Obsession",
-      "year": "2024",
-      "release_date": "2024-02-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/96/cd/3496cdd1-0661-6fbf-f8e7-ede0ff9ca01a/198391045523.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Obsession",
-          "duration": "3:17"
-        }
-      ]
-    },
-    {
       "name": "nerv",
       "year": "2024",
       "release_date": "2024-11-21",
@@ -511,6 +498,19 @@
           "number": 1,
           "name": "nerv",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "Obsession",
+      "year": "2024",
+      "release_date": "2024-02-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/96/cd/3496cdd1-0661-6fbf-f8e7-ede0ff9ca01a/198391045523.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Obsession",
+          "duration": "3:17"
         }
       ]
     },

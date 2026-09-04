@@ -503,19 +503,6 @@
       ]
     },
     {
-      "name": "Windfall",
-      "year": "2014",
-      "release_date": "2014-10-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/b8/73/a8b8731f-9505-bea4-431b-da7729a5e507/cover_4050215915213.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Windfall",
-          "duration": "3:48"
-        }
-      ]
-    },
-    {
       "name": "Still Here With You",
       "year": "2024",
       "release_date": "2024-03-15",
@@ -538,6 +525,19 @@
           "number": 1,
           "name": "Close To the Sun",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "Windfall",
+      "year": "2014",
+      "release_date": "2014-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/b8/73/a8b8731f-9505-bea4-431b-da7729a5e507/cover_4050215915213.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Windfall",
+          "duration": "3:48"
         }
       ]
     },
@@ -592,19 +592,6 @@
           "number": 3,
           "name": "Ghost Light",
           "duration": "3:11"
-        }
-      ]
-    },
-    {
-      "name": "Fly Away (feat. Anjulie)",
-      "year": "2017",
-      "release_date": "2017-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/7a/54/227a5458-3bbf-e69c-11df-9f5e39bb384a/cover_602557718584.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fly Away (feat. Anjulie)",
-          "duration": "3:14"
         }
       ]
     },
@@ -667,6 +654,19 @@
           "number": 2,
           "name": "Unity (Slowed Down Edit)",
           "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Fly Away (feat. Anjulie)",
+      "year": "2017",
+      "release_date": "2017-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/7a/54/227a5458-3bbf-e69c-11df-9f5e39bb384a/cover_602557718584.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fly Away (feat. Anjulie)",
+          "duration": "3:14"
         }
       ]
     },
@@ -1255,34 +1255,6 @@
       ]
     },
     {
-      "name": "Genius",
-      "year": "2025",
-      "release_date": "2025-05-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/b8/ae/2ab8ae50-e6b7-6320-e131-b0ee4e739486/cover_4062851141857.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Genius",
-          "duration": "3:11"
-        },
-        {
-          "number": 2,
-          "name": "Genius (Instrumental)",
-          "duration": "3:11"
-        },
-        {
-          "number": 3,
-          "name": "Genius (Slowed Down)",
-          "duration": "3:47"
-        },
-        {
-          "number": 4,
-          "name": "Genius (Sped Up)",
-          "duration": "2:40"
-        }
-      ]
-    },
-    {
       "name": "Jackpot",
       "year": "2016",
       "release_date": "2016-11-18",
@@ -1307,6 +1279,34 @@
           "number": 4,
           "name": "Elegy",
           "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "Genius",
+      "year": "2025",
+      "release_date": "2025-05-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/b8/ae/2ab8ae50-e6b7-6320-e131-b0ee4e739486/cover_4062851141857.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Genius",
+          "duration": "3:11"
+        },
+        {
+          "number": 2,
+          "name": "Genius (Instrumental)",
+          "duration": "3:11"
+        },
+        {
+          "number": 3,
+          "name": "Genius (Slowed Down)",
+          "duration": "3:47"
+        },
+        {
+          "number": 4,
+          "name": "Genius (Sped Up)",
+          "duration": "2:40"
         }
       ]
     },

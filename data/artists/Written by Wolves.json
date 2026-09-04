@@ -386,19 +386,6 @@
       ]
     },
     {
-      "name": "Pretty Lies",
-      "year": "2015",
-      "release_date": "2015-11-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ea/9c/92/ea9c9251-4a98-fd1f-33f3-7ffa52c29909/859715997262_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pretty Lies",
-          "duration": "4:33"
-        }
-      ]
-    },
-    {
       "name": "To Tell You the Truth / Starlight",
       "year": "2017",
       "release_date": "2017-08-25",
@@ -426,6 +413,19 @@
           "number": 1,
           "name": "Any Second",
           "duration": "3:35"
+        }
+      ]
+    },
+    {
+      "name": "Pretty Lies",
+      "year": "2015",
+      "release_date": "2015-11-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ea/9c/92/ea9c9251-4a98-fd1f-33f3-7ffa52c29909/859715997262_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pretty Lies",
+          "duration": "4:33"
         }
       ]
     },
@@ -917,39 +917,6 @@
   ],
   "eps": [
     {
-      "name": "Goddess",
-      "year": "2023",
-      "release_date": "2023-09-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/f8/70/3af870cb-63a9-e260-3472-009ebc6fb315/197773895008_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Goddess",
-          "duration": "4:18"
-        },
-        {
-          "number": 2,
-          "name": "Altar",
-          "duration": "4:42"
-        },
-        {
-          "number": 3,
-          "name": "Take Me Home",
-          "duration": "5:00"
-        },
-        {
-          "number": 4,
-          "name": "Misery",
-          "duration": "4:02"
-        },
-        {
-          "number": 5,
-          "name": "Give 'Em Hell",
-          "duration": "4:07"
-        }
-      ]
-    },
-    {
       "name": "Burn",
       "year": "2023",
       "release_date": "2023-11-01",
@@ -982,6 +949,39 @@
         },
         {
           "number": 6,
+          "name": "Give 'Em Hell",
+          "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Goddess",
+      "year": "2023",
+      "release_date": "2023-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3a/f8/70/3af870cb-63a9-e260-3472-009ebc6fb315/197773895008_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Goddess",
+          "duration": "4:18"
+        },
+        {
+          "number": 2,
+          "name": "Altar",
+          "duration": "4:42"
+        },
+        {
+          "number": 3,
+          "name": "Take Me Home",
+          "duration": "5:00"
+        },
+        {
+          "number": 4,
+          "name": "Misery",
+          "duration": "4:02"
+        },
+        {
+          "number": 5,
           "name": "Give 'Em Hell",
           "duration": "4:07"
         }

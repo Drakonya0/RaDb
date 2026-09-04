@@ -499,24 +499,6 @@
       "tracks": []
     },
     {
-      "name": "Seasons (Remix)",
-      "year": "2022",
-      "release_date": "2022-06-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1e/65/59/1e6559a6-e211-b4a9-8bbb-e4318889c8f5/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Seasons (Joachim Pastor, Joris Delacroix, Romain Garcia, Stereoclip Remix)",
-          "duration": "5:08"
-        },
-        {
-          "number": 2,
-          "name": "Seasons",
-          "duration": "5:51"
-        }
-      ]
-    },
-    {
       "name": "Loving You Like Always (Sainte Vie Remix)",
       "year": "2022",
       "release_date": "2022-03-02",
@@ -587,6 +569,24 @@
           "number": 1,
           "name": "Loving You Like Always (Innellea Remix)",
           "duration": "5:23"
+        }
+      ]
+    },
+    {
+      "name": "Seasons (Remix)",
+      "year": "2022",
+      "release_date": "2022-06-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1e/65/59/1e6559a6-e211-b4a9-8bbb-e4318889c8f5/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Seasons (Joachim Pastor, Joris Delacroix, Romain Garcia, Stereoclip Remix)",
+          "duration": "5:08"
+        },
+        {
+          "number": 2,
+          "name": "Seasons",
+          "duration": "5:51"
         }
       ]
     },
@@ -738,19 +738,6 @@
       ]
     },
     {
-      "name": "Dalla Street",
-      "year": "2022",
-      "release_date": "2022-11-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/19/24/41192486-98bb-d6b7-1dc6-2f0f2e4e5f62/859766868160.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dalla Street",
-          "duration": "2:52"
-        }
-      ]
-    },
-    {
       "name": "Lac de Soi",
       "year": "2020",
       "release_date": "2020-10-08",
@@ -760,6 +747,19 @@
           "number": 1,
           "name": "Lac de Soi",
           "duration": "4:59"
+        }
+      ]
+    },
+    {
+      "name": "Dalla Street",
+      "year": "2022",
+      "release_date": "2022-11-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/19/24/41192486-98bb-d6b7-1dc6-2f0f2e4e5f62/859766868160.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dalla Street",
+          "duration": "2:52"
         }
       ]
     },

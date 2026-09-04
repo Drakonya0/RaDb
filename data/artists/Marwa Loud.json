@@ -373,104 +373,6 @@
           "duration": "3:01"
         }
       ]
-    },
-    {
-      "name": "Again",
-      "year": "2021",
-      "release_date": "2021-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/82/be/b182bef2-9a5d-9c16-cefa-8e1fffa3391c/0602445176137.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Allo (feat. Eva)",
-          "duration": "3:06"
-        },
-        {
-          "number": 2,
-          "name": "Bébé stop",
-          "duration": "2:33"
-        },
-        {
-          "number": 3,
-          "name": "Bimbo",
-          "duration": "2:43"
-        },
-        {
-          "number": 4,
-          "name": "Beau parleur",
-          "duration": "2:51"
-        },
-        {
-          "number": 5,
-          "name": "L'amour c'est tout",
-          "duration": "2:38"
-        },
-        {
-          "number": 6,
-          "name": "Bendo (feat. Lacrim)",
-          "duration": "3:10"
-        },
-        {
-          "number": 7,
-          "name": "Violet",
-          "duration": "2:55"
-        },
-        {
-          "number": 8,
-          "name": "Lalala",
-          "duration": "2:27"
-        },
-        {
-          "number": 9,
-          "name": "Bladi (feat. Maestro & Mister You)",
-          "duration": "2:33"
-        },
-        {
-          "number": 10,
-          "name": "Faut que ça brille",
-          "duration": "2:37"
-        },
-        {
-          "number": 11,
-          "name": "J'ai besoin de",
-          "duration": "2:27"
-        },
-        {
-          "number": 12,
-          "name": "Skydiver (feat. ISK)",
-          "duration": "2:47"
-        },
-        {
-          "number": 13,
-          "name": "Ma jeunesse",
-          "duration": "2:28"
-        },
-        {
-          "number": 14,
-          "name": "On en a déja parlé",
-          "duration": "3:21"
-        },
-        {
-          "number": 15,
-          "name": "Longtime",
-          "duration": "2:50"
-        },
-        {
-          "number": 16,
-          "name": "I Have A Dream",
-          "duration": "2:25"
-        },
-        {
-          "number": 17,
-          "name": "Allez les gros (feat. Naza)",
-          "duration": "3:12"
-        },
-        {
-          "number": 18,
-          "name": "Black-out",
-          "duration": "2:02"
-        }
-      ]
     }
   ],
   "singles": [
@@ -584,13 +486,6 @@
       ]
     },
     {
-      "name": "Moul Taxi",
-      "year": "2024",
-      "release_date": "2024-06-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/a5/7e/7ea57e99-3ae4-23e7-82ad-aeaf7c18927d/24UMGIM58415.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "La rue a ses bandits (feat. Coco93)",
       "year": "2026",
       "release_date": "2026-06-04",
@@ -602,6 +497,13 @@
           "duration": "2:20"
         }
       ]
+    },
+    {
+      "name": "Moul Taxi",
+      "year": "2024",
+      "release_date": "2024-06-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/a5/7e/7ea57e99-3ae4-23e7-82ad-aeaf7c18927d/24UMGIM58415.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Allo",
@@ -626,6 +528,19 @@
           "number": 1,
           "name": "Waiting For You (Akhee Remix)",
           "duration": "2:17"
+        }
+      ]
+    },
+    {
+      "name": "Allo (feat. Eva)",
+      "year": "2021",
+      "release_date": "2021-03-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/49/06/99490608-af1d-792a-422f-f24246b61fb6/0602435970646.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Allo (feat. Eva)",
+          "duration": "3:06"
         }
       ]
     },
@@ -730,6 +645,19 @@
           "number": 1,
           "name": "Dans tous mes états (Extrait de la Bande Originale du film « Les Déguns 2 »)",
           "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Mytho",
+      "year": "2020",
+      "release_date": "2020-09-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/35/81/9835817c-caef-0b6a-a6e8-4d03fe8bb619/0602435029542.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mytho",
+          "duration": "2:28"
         }
       ]
     },
@@ -977,6 +905,19 @@
           "number": 1,
           "name": "T'inquiète pas",
           "duration": "2:44"
+        }
+      ]
+    },
+    {
+      "name": "Moul Taxi",
+      "year": "2024",
+      "release_date": "2024-06-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/38/f3/3038f32f-ccdc-7874-d430-a2c076676c35/0602465864359.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Moul Taxi",
+          "duration": "2:58"
         }
       ]
     }

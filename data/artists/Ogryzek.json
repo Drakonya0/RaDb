@@ -414,19 +414,6 @@
       ]
     },
     {
-      "name": "Destiny",
-      "year": "2024",
-      "release_date": "2024-03-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7f/94/fd/7f94fd6d-74be-63b7-a2ba-a16ff50cdc83/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Destiny",
-          "duration": "1:51"
-        }
-      ]
-    },
-    {
       "name": "AURA 2",
       "year": "2024",
       "release_date": "2024-10-18",
@@ -446,6 +433,19 @@
           "number": 3,
           "name": "AURA 2 (Slowed)",
           "duration": "2:39"
+        }
+      ]
+    },
+    {
+      "name": "Destiny",
+      "year": "2024",
+      "release_date": "2024-03-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7f/94/fd/7f94fd6d-74be-63b7-a2ba-a16ff50cdc83/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Destiny",
+          "duration": "1:51"
         }
       ]
     },
@@ -1017,19 +1017,6 @@
       ]
     },
     {
-      "name": "AURA FUNK (Ultra Slowed) [feat. Ogryzek]",
-      "year": "2025",
-      "release_date": "2025-07-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/44/4f/a2444fa1-e265-4ab8-ee3c-e8267767f01a/5034644826387.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "AURA FUNK (Ultra Slowed) [feat. Ogryzek]",
-          "duration": "2:33"
-        }
-      ]
-    },
-    {
       "name": "KUALA UNIVERSO",
       "year": "2025",
       "release_date": "2025-03-21",
@@ -1039,6 +1026,19 @@
           "number": 1,
           "name": "KUALA UNIVERSO",
           "duration": "1:40"
+        }
+      ]
+    },
+    {
+      "name": "AURA FUNK (Ultra Slowed) [feat. Ogryzek]",
+      "year": "2025",
+      "release_date": "2025-07-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/44/4f/a2444fa1-e265-4ab8-ee3c-e8267767f01a/5034644826387.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "AURA FUNK (Ultra Slowed) [feat. Ogryzek]",
+          "duration": "2:33"
         }
       ]
     },
@@ -1880,6 +1880,34 @@
           "number": 4,
           "name": "TODO CAI (Sped Up)",
           "duration": "1:43"
+        }
+      ]
+    },
+    {
+      "name": "EJO",
+      "year": "2026",
+      "release_date": "2026-08-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/50/b5/1350b5d9-54f2-13d4-0f95-4e35ccb644c9/0001154711736.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "EJO",
+          "duration": "1:46"
+        },
+        {
+          "number": 2,
+          "name": "EJO (Slowed)",
+          "duration": "1:59"
+        },
+        {
+          "number": 3,
+          "name": "EJO (Sped Up)",
+          "duration": "1:35"
+        },
+        {
+          "number": 4,
+          "name": "EJO (Super Sped Up)",
+          "duration": "1:27"
         }
       ]
     },

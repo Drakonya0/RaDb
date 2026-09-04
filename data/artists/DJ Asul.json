@@ -44,44 +44,6 @@
   ],
   "eps": [
     {
-      "name": "MATADORA",
-      "year": "2025",
-      "release_date": "2025-09-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/93/18/979318e5-6314-23fb-5191-ce9366f590d5/212389.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MATADORA",
-          "duration": "1:28"
-        },
-        {
-          "number": 2,
-          "name": "MATADORA (Slowed)",
-          "duration": "1:39"
-        },
-        {
-          "number": 3,
-          "name": "MATADORA (Super Slowed)",
-          "duration": "1:51"
-        },
-        {
-          "number": 4,
-          "name": "MATADORA (Ultra Slowed)",
-          "duration": "2:05"
-        },
-        {
-          "number": 5,
-          "name": "MATADORA (Extremely Slowed)",
-          "duration": "2:20"
-        },
-        {
-          "number": 6,
-          "name": "MATADORA (Sped Up)",
-          "duration": "1:18"
-        }
-      ]
-    },
-    {
       "name": "NO ERA AMOR",
       "year": "2025",
       "release_date": "2025-05-13",
@@ -116,6 +78,44 @@
           "number": 6,
           "name": "NO ERA AMOR (Sped Up)",
           "duration": "1:13"
+        }
+      ]
+    },
+    {
+      "name": "MATADORA",
+      "year": "2025",
+      "release_date": "2025-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/93/18/979318e5-6314-23fb-5191-ce9366f590d5/212389.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MATADORA",
+          "duration": "1:28"
+        },
+        {
+          "number": 2,
+          "name": "MATADORA (Slowed)",
+          "duration": "1:39"
+        },
+        {
+          "number": 3,
+          "name": "MATADORA (Super Slowed)",
+          "duration": "1:51"
+        },
+        {
+          "number": 4,
+          "name": "MATADORA (Ultra Slowed)",
+          "duration": "2:05"
+        },
+        {
+          "number": 5,
+          "name": "MATADORA (Extremely Slowed)",
+          "duration": "2:20"
+        },
+        {
+          "number": 6,
+          "name": "MATADORA (Sped Up)",
+          "duration": "1:18"
         }
       ]
     },

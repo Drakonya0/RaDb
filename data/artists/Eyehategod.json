@@ -383,6 +383,74 @@
       ]
     },
     {
+      "name": "Dopesick",
+      "year": "1996",
+      "release_date": "1996-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/2a/59/5f/2a595f0d-ee80-e6ae-821e-9bd9613ca9ae/886443598904.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "My Name Is God (I Hate You)",
+          "duration": "5:21"
+        },
+        {
+          "number": 2,
+          "name": "Dogs Holy Life",
+          "duration": "1:10"
+        },
+        {
+          "number": 3,
+          "name": "Masters of Legalized Confusion",
+          "duration": "3:57"
+        },
+        {
+          "number": 4,
+          "name": "Dixie Whiskey",
+          "duration": "2:55"
+        },
+        {
+          "number": 5,
+          "name": "Ruptured Heart Theory",
+          "duration": "4:43"
+        },
+        {
+          "number": 6,
+          "name": "Non Conductive Negative Reasoning",
+          "duration": "1:06"
+        },
+        {
+          "number": 7,
+          "name": "Lack of Almost Everything",
+          "duration": "2:48"
+        },
+        {
+          "number": 8,
+          "name": "Zero Nowhere",
+          "duration": "4:23"
+        },
+        {
+          "number": 9,
+          "name": "Methamphetamine",
+          "duration": "1:59"
+        },
+        {
+          "number": 10,
+          "name": "Peace Thru War (Thru Peace and War)",
+          "duration": "1:46"
+        },
+        {
+          "number": 11,
+          "name": "Broken Down But Not Locked Up",
+          "duration": "3:47"
+        },
+        {
+          "number": 12,
+          "name": "Anxiety Hangover",
+          "duration": "4:56"
+        }
+      ]
+    },
+    {
       "name": "Southern Discomfort (Demos & Rarities)",
       "year": "2000",
       "release_date": "2000-01-25",
@@ -490,74 +558,6 @@
           "number": 10,
           "name": "Hit a Girl",
           "duration": "4:20"
-        }
-      ]
-    },
-    {
-      "name": "Dopesick",
-      "year": "1996",
-      "release_date": "1996-04-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/2a/59/5f/2a595f0d-ee80-e6ae-821e-9bd9613ca9ae/886443598904.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "My Name Is God (I Hate You)",
-          "duration": "5:21"
-        },
-        {
-          "number": 2,
-          "name": "Dogs Holy Life",
-          "duration": "1:10"
-        },
-        {
-          "number": 3,
-          "name": "Masters of Legalized Confusion",
-          "duration": "3:57"
-        },
-        {
-          "number": 4,
-          "name": "Dixie Whiskey",
-          "duration": "2:55"
-        },
-        {
-          "number": 5,
-          "name": "Ruptured Heart Theory",
-          "duration": "4:43"
-        },
-        {
-          "number": 6,
-          "name": "Non Conductive Negative Reasoning",
-          "duration": "1:06"
-        },
-        {
-          "number": 7,
-          "name": "Lack of Almost Everything",
-          "duration": "2:48"
-        },
-        {
-          "number": 8,
-          "name": "Zero Nowhere",
-          "duration": "4:23"
-        },
-        {
-          "number": 9,
-          "name": "Methamphetamine",
-          "duration": "1:59"
-        },
-        {
-          "number": 10,
-          "name": "Peace Thru War (Thru Peace and War)",
-          "duration": "1:46"
-        },
-        {
-          "number": 11,
-          "name": "Broken Down But Not Locked Up",
-          "duration": "3:47"
-        },
-        {
-          "number": 12,
-          "name": "Anxiety Hangover",
-          "duration": "4:56"
         }
       ]
     },
@@ -799,19 +799,6 @@
       ]
     },
     {
-      "name": "Gates of Steel",
-      "year": "2020",
-      "release_date": "2020-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7f/9b/be/7f9bbedb-c521-15c3-230e-71d52cba5ba4/859762463475_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Gates of Steel",
-          "duration": "3:43"
-        }
-      ]
-    },
-    {
       "name": "Motörhead",
       "year": "2022",
       "release_date": "2022-05-20",
@@ -821,6 +808,19 @@
           "number": 1,
           "name": "Motörhead",
           "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Gates of Steel",
+      "year": "2020",
+      "release_date": "2020-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7f/9b/be/7f9bbedb-c521-15c3-230e-71d52cba5ba4/859762463475_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gates of Steel",
+          "duration": "3:43"
         }
       ]
     },

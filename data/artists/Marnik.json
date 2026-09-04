@@ -818,13 +818,6 @@
       ]
     },
     {
-      "name": "Out Of Nowhere",
-      "year": "2026",
-      "release_date": "2026-08-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/6c/fa/006cfafa-2a00-2c9b-9d7c-46c01ecb463a/26UM1IM01439.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "A Better Place (feat. Ed Graves)",
       "year": "2026",
       "release_date": "2026-01-30",
@@ -836,6 +829,13 @@
           "duration": "2:45"
         }
       ]
+    },
+    {
+      "name": "Out Of Nowhere",
+      "year": "2026",
+      "release_date": "2026-08-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/6c/fa/006cfafa-2a00-2c9b-9d7c-46c01ecb463a/26UM1IM01439.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Ameno",
@@ -1223,19 +1223,6 @@
       "tracks": []
     },
     {
-      "name": "POWER (Extended Version)",
-      "year": "2024",
-      "release_date": "2024-02-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/05/fa/9d05fa1f-3d7a-0fea-9b53-83366373cdd7/196871780148.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "POWER (Extended Version)",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
       "name": "Bazaar (Official Sunburn Goa 2015 Anthem) [Extended Mix]",
       "year": "2015",
       "release_date": "2015-12-25",
@@ -1245,6 +1232,19 @@
           "number": 1,
           "name": "Bazaar (Official Sunburn Goa 2015 Anthem) [Extended Mix]",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "POWER (Extended Version)",
+      "year": "2024",
+      "release_date": "2024-02-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/05/fa/9d05fa1f-3d7a-0fea-9b53-83366373cdd7/196871780148.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "POWER (Extended Version)",
+          "duration": "3:09"
         }
       ]
     },

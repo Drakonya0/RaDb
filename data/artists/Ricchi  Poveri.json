@@ -217,64 +217,6 @@
       ]
     },
     {
-      "name": "Greatest Hits",
-      "year": "2005",
-      "release_date": "2005-07-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/91/e3/17/91e31725-d069-22f4-724d-73ceb034b8e4/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "M'innamoro di te",
-          "duration": "4:00"
-        },
-        {
-          "number": 2,
-          "name": "La prima cosa bella",
-          "duration": "3:06"
-        },
-        {
-          "number": 3,
-          "name": "Sarà perché ti amo",
-          "duration": "2:56"
-        },
-        {
-          "number": 4,
-          "name": "Se m'innamoro",
-          "duration": "3:24"
-        },
-        {
-          "number": 5,
-          "name": "Come vorrei (Versione acustica)",
-          "duration": "3:21"
-        },
-        {
-          "number": 6,
-          "name": "La prima cosa bella (Versione acustica)",
-          "duration": "3:10"
-        },
-        {
-          "number": 7,
-          "name": "M'innamoro di te (Versione acustica)",
-          "duration": "3:48"
-        },
-        {
-          "number": 8,
-          "name": "Mamma Maria",
-          "duration": "2:56"
-        },
-        {
-          "number": 9,
-          "name": "Come vorrei",
-          "duration": "2:56"
-        },
-        {
-          "number": 10,
-          "name": "Che sarà (Versione acustica)",
-          "duration": "3:08"
-        }
-      ]
-    },
-    {
       "name": "Nur das Beste: Ricchi e Poveri",
       "year": "2004",
       "release_date": "2004-03-08",
@@ -359,6 +301,64 @@
           "number": 16,
           "name": "Voulez-Vous Danser",
           "duration": "3:44"
+        }
+      ]
+    },
+    {
+      "name": "Greatest Hits",
+      "year": "2005",
+      "release_date": "2005-07-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/91/e3/17/91e31725-d069-22f4-724d-73ceb034b8e4/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "M'innamoro di te",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "La prima cosa bella",
+          "duration": "3:06"
+        },
+        {
+          "number": 3,
+          "name": "Sarà perché ti amo",
+          "duration": "2:56"
+        },
+        {
+          "number": 4,
+          "name": "Se m'innamoro",
+          "duration": "3:24"
+        },
+        {
+          "number": 5,
+          "name": "Come vorrei (Versione acustica)",
+          "duration": "3:21"
+        },
+        {
+          "number": 6,
+          "name": "La prima cosa bella (Versione acustica)",
+          "duration": "3:10"
+        },
+        {
+          "number": 7,
+          "name": "M'innamoro di te (Versione acustica)",
+          "duration": "3:48"
+        },
+        {
+          "number": 8,
+          "name": "Mamma Maria",
+          "duration": "2:56"
+        },
+        {
+          "number": 9,
+          "name": "Come vorrei",
+          "duration": "2:56"
+        },
+        {
+          "number": 10,
+          "name": "Che sarà (Versione acustica)",
+          "duration": "3:08"
         }
       ]
     },
@@ -549,6 +549,104 @@
       ]
     },
     {
+      "name": "Ricchi e Poveri: The Collection",
+      "year": "1994",
+      "release_date": "1994-01-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/95/b5/6395b585-7529-f03c-c339-24c14b99363e/mzi.wvymzajv.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mamma Maria",
+          "duration": "2:55"
+        },
+        {
+          "number": 2,
+          "name": "Amarsi Un Po'",
+          "duration": "3:23"
+        },
+        {
+          "number": 3,
+          "name": "Dimmi Quando",
+          "duration": "3:28"
+        },
+        {
+          "number": 4,
+          "name": "Buonanotte Fiorellino",
+          "duration": "3:01"
+        },
+        {
+          "number": 5,
+          "name": "Sei La Sola Che Amo",
+          "duration": "3:04"
+        },
+        {
+          "number": 6,
+          "name": "M'innamoro Di Te",
+          "duration": "3:17"
+        },
+        {
+          "number": 7,
+          "name": "Sarà Perché Ti Amo",
+          "duration": "3:10"
+        },
+        {
+          "number": 8,
+          "name": "Come Vorrei",
+          "duration": "2:56"
+        },
+        {
+          "number": 9,
+          "name": "Canzone D'amore",
+          "duration": "4:02"
+        },
+        {
+          "number": 10,
+          "name": "Piccolo Amore",
+          "duration": "3:18"
+        },
+        {
+          "number": 11,
+          "name": "Ninna Nanna",
+          "duration": "3:31"
+        },
+        {
+          "number": 12,
+          "name": "Cosa sei (Que sere)",
+          "duration": "3:18"
+        },
+        {
+          "number": 13,
+          "name": "E Penso a Te",
+          "duration": "3:09"
+        },
+        {
+          "number": 14,
+          "name": "Ciao Italy, ciao amore",
+          "duration": "3:01"
+        },
+        {
+          "number": 15,
+          "name": "Acapulco",
+          "duration": "3:43"
+        },
+        {
+          "number": 16,
+          "name": "Casa Mia",
+          "duration": "3:28"
+        },
+        {
+          "number": 17,
+          "name": "Voulez-Vous Danser",
+          "duration": "3:44"
+        },
+        {
+          "number": 18,
+          "name": "Hasta la Vista",
+          "duration": "5:42"
+        }
+      ]
+    },
+    {
       "name": "All the Best",
       "year": "2015",
       "release_date": "2015-05-22",
@@ -681,104 +779,6 @@
           "number": 12,
           "name": "Che sarà (Versione acustica)",
           "duration": "3:08"
-        }
-      ]
-    },
-    {
-      "name": "Ricchi e Poveri: The Collection",
-      "year": "1994",
-      "release_date": "1994-01-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/95/b5/6395b585-7529-f03c-c339-24c14b99363e/mzi.wvymzajv.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mamma Maria",
-          "duration": "2:55"
-        },
-        {
-          "number": 2,
-          "name": "Amarsi Un Po'",
-          "duration": "3:23"
-        },
-        {
-          "number": 3,
-          "name": "Dimmi Quando",
-          "duration": "3:28"
-        },
-        {
-          "number": 4,
-          "name": "Buonanotte Fiorellino",
-          "duration": "3:01"
-        },
-        {
-          "number": 5,
-          "name": "Sei La Sola Che Amo",
-          "duration": "3:04"
-        },
-        {
-          "number": 6,
-          "name": "M'innamoro Di Te",
-          "duration": "3:17"
-        },
-        {
-          "number": 7,
-          "name": "Sarà Perché Ti Amo",
-          "duration": "3:10"
-        },
-        {
-          "number": 8,
-          "name": "Come Vorrei",
-          "duration": "2:56"
-        },
-        {
-          "number": 9,
-          "name": "Canzone D'amore",
-          "duration": "4:02"
-        },
-        {
-          "number": 10,
-          "name": "Piccolo Amore",
-          "duration": "3:18"
-        },
-        {
-          "number": 11,
-          "name": "Ninna Nanna",
-          "duration": "3:31"
-        },
-        {
-          "number": 12,
-          "name": "Cosa sei (Que sere)",
-          "duration": "3:18"
-        },
-        {
-          "number": 13,
-          "name": "E Penso a Te",
-          "duration": "3:09"
-        },
-        {
-          "number": 14,
-          "name": "Ciao Italy, ciao amore",
-          "duration": "3:01"
-        },
-        {
-          "number": 15,
-          "name": "Acapulco",
-          "duration": "3:43"
-        },
-        {
-          "number": 16,
-          "name": "Casa Mia",
-          "duration": "3:28"
-        },
-        {
-          "number": 17,
-          "name": "Voulez-Vous Danser",
-          "duration": "3:44"
-        },
-        {
-          "number": 18,
-          "name": "Hasta la Vista",
-          "duration": "5:42"
         }
       ]
     },
@@ -999,74 +999,6 @@
       "tracks": []
     },
     {
-      "name": "Ricchi & Poveri",
-      "year": "2006",
-      "release_date": "2006-07-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/60/9d/d6609dc7-a768-b6c2-63f4-c5d095e90319/886972017921.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La Prima Cosa Bella",
-          "duration": "3:47"
-        },
-        {
-          "number": 2,
-          "name": "Primo Sole, Primo Fiore",
-          "duration": "3:09"
-        },
-        {
-          "number": 3,
-          "name": "M'innamoro Di Te",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "Dimmi Quando",
-          "duration": "3:28"
-        },
-        {
-          "number": 5,
-          "name": "Sarà Perché Ti Amo",
-          "duration": "3:04"
-        },
-        {
-          "number": 6,
-          "name": "Voulez-Vous Danser",
-          "duration": "3:45"
-        },
-        {
-          "number": 7,
-          "name": "Cocco bello Africa",
-          "duration": "3:12"
-        },
-        {
-          "number": 8,
-          "name": "Canzone D'amore",
-          "duration": "4:03"
-        },
-        {
-          "number": 9,
-          "name": "Hasta la Vista",
-          "duration": "3:57"
-        },
-        {
-          "number": 10,
-          "name": "Come Vorrei",
-          "duration": "2:57"
-        },
-        {
-          "number": 11,
-          "name": "Mamma Maria",
-          "duration": "2:55"
-        },
-        {
-          "number": 12,
-          "name": "E Penso a Te",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
       "name": "Ricchi e Poveri",
       "year": "2009",
       "release_date": "2009-01-15",
@@ -1249,6 +1181,74 @@
           "number": 10,
           "name": "Mamma Maria",
           "duration": "2:56"
+        }
+      ]
+    },
+    {
+      "name": "Ricchi & Poveri",
+      "year": "2006",
+      "release_date": "2006-07-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/60/9d/d6609dc7-a768-b6c2-63f4-c5d095e90319/886972017921.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La Prima Cosa Bella",
+          "duration": "3:47"
+        },
+        {
+          "number": 2,
+          "name": "Primo Sole, Primo Fiore",
+          "duration": "3:09"
+        },
+        {
+          "number": 3,
+          "name": "M'innamoro Di Te",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Dimmi Quando",
+          "duration": "3:28"
+        },
+        {
+          "number": 5,
+          "name": "Sarà Perché Ti Amo",
+          "duration": "3:04"
+        },
+        {
+          "number": 6,
+          "name": "Voulez-Vous Danser",
+          "duration": "3:45"
+        },
+        {
+          "number": 7,
+          "name": "Cocco bello Africa",
+          "duration": "3:12"
+        },
+        {
+          "number": 8,
+          "name": "Canzone D'amore",
+          "duration": "4:03"
+        },
+        {
+          "number": 9,
+          "name": "Hasta la Vista",
+          "duration": "3:57"
+        },
+        {
+          "number": 10,
+          "name": "Come Vorrei",
+          "duration": "2:57"
+        },
+        {
+          "number": 11,
+          "name": "Mamma Maria",
+          "duration": "2:55"
+        },
+        {
+          "number": 12,
+          "name": "E Penso a Te",
+          "duration": "3:09"
         }
       ]
     },

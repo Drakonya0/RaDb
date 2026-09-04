@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Army of Dogs",
-      "year": "2026",
-      "release_date": "2026-06-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/8c/03/018c030c-42a3-daca-ddae-437c35778948/859740192014_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Army of Dogs",
-          "duration": "3:10"
-        }
-      ]
-    },
-    {
       "name": "Ultra-Noise Warfare",
       "year": "2026",
       "release_date": "2026-08-21",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "Ultra-Noise Warfare",
           "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "Army of Dogs",
+      "year": "2026",
+      "release_date": "2026-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/8c/03/018c030c-42a3-daca-ddae-437c35778948/859740192014_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Army of Dogs",
+          "duration": "3:10"
         }
       ]
     }

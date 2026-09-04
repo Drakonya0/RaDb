@@ -370,19 +370,6 @@
       ]
     },
     {
-      "name": "No Diggity",
-      "year": "2022",
-      "release_date": "2022-05-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/55/ef/0b/55ef0b24-c008-3292-a112-db0a00569444/886449955831.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "No Diggity",
-          "duration": "2:34"
-        }
-      ]
-    },
-    {
       "name": "Still Better Off (feat. Mosimann)",
       "year": "2020",
       "release_date": "2020-04-10",
@@ -433,6 +420,19 @@
           "number": 2,
           "name": "I'm Leaving (feat. Ilang) [Extended Mix]",
           "duration": "4:46"
+        }
+      ]
+    },
+    {
+      "name": "No Diggity",
+      "year": "2022",
+      "release_date": "2022-05-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/55/ef/0b/55ef0b24-c008-3292-a112-db0a00569444/886449955831.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "No Diggity",
+          "duration": "2:34"
         }
       ]
     },
@@ -667,17 +667,17 @@
       ]
     },
     {
-      "name": "Dad Bod",
-      "year": "2017",
-      "release_date": "2017-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/21/81/2e/21812e8f-009e-7f61-855c-f64017a18647/cover.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Never Let You Go (feat. Joe Cleere) [Chill Remix]",
       "year": "2017",
       "release_date": "2017-04-07",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/09/a6/6c/09a66c20-784d-0a1e-7eb7-c55c632029a9/190295819408.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Dad Bod",
+      "year": "2017",
+      "release_date": "2017-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/21/81/2e/21812e8f-009e-7f61-855c-f64017a18647/cover.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -733,24 +733,6 @@
       ]
     },
     {
-      "name": "TW_SUMMER26_001",
-      "year": "2026",
-      "release_date": "2026-07-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/44/f3/ad44f3b5-8b81-1d04-b6fe-384e9953b911/196874547748.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Das bin ich",
-          "duration": "6:27"
-        },
-        {
-          "number": 2,
-          "name": "Körper",
-          "duration": "4:12"
-        }
-      ]
-    },
-    {
       "name": "Ti89 (Remixes)",
       "year": "2016",
       "release_date": "2016-04-29",
@@ -765,6 +747,24 @@
           "number": 2,
           "name": "Ti89 (Remixes) [Antoine Delvig Remix]",
           "duration": "4:20"
+        }
+      ]
+    },
+    {
+      "name": "TW_SUMMER26_001",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/44/f3/ad44f3b5-8b81-1d04-b6fe-384e9953b911/196874547748.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Das bin ich",
+          "duration": "6:27"
+        },
+        {
+          "number": 2,
+          "name": "Körper",
+          "duration": "4:12"
         }
       ]
     },

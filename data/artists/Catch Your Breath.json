@@ -76,6 +76,69 @@
       ]
     },
     {
+      "name": "Not Broken Enough",
+      "year": "2026",
+      "release_date": "2026-08-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/c8/9c/34c89cb4-6c88-bfca-875f-699eaa18b73f/193436471947_CYBNotBrokenEnoughCover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Contaminated",
+          "duration": "2:50"
+        },
+        {
+          "number": 2,
+          "name": "Red Alert",
+          "duration": "2:53"
+        },
+        {
+          "number": 3,
+          "name": "Blood Money",
+          "duration": "3:23"
+        },
+        {
+          "number": 4,
+          "name": "Carnivore",
+          "duration": "3:31"
+        },
+        {
+          "number": 5,
+          "name": "Control",
+          "duration": "2:41"
+        },
+        {
+          "number": 6,
+          "name": "Rewind",
+          "duration": "3:20"
+        },
+        {
+          "number": 7,
+          "name": "Lost",
+          "duration": "3:40"
+        },
+        {
+          "number": 8,
+          "name": "Dark",
+          "duration": "3:02"
+        },
+        {
+          "number": 9,
+          "name": "The Basement",
+          "duration": "3:13"
+        },
+        {
+          "number": 10,
+          "name": "[Gen]inside",
+          "duration": "3:11"
+        },
+        {
+          "number": 11,
+          "name": "Hollow Dreams",
+          "duration": "3:18"
+        }
+      ]
+    },
+    {
       "name": "Shame On Me (Deluxe Edition)",
       "year": "2024",
       "release_date": "2024-09-27",
@@ -167,69 +230,6 @@
           "duration": "3:38"
         }
       ]
-    },
-    {
-      "name": "Not Broken Enough",
-      "year": "2026",
-      "release_date": "2026-08-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/c8/9c/34c89cb4-6c88-bfca-875f-699eaa18b73f/193436471947_CYBNotBrokenEnoughCover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Contaminated",
-          "duration": "2:50"
-        },
-        {
-          "number": 2,
-          "name": "Red Alert",
-          "duration": "2:53"
-        },
-        {
-          "number": 3,
-          "name": "Blood Money",
-          "duration": "3:23"
-        },
-        {
-          "number": 4,
-          "name": "Carnivore",
-          "duration": "3:31"
-        },
-        {
-          "number": 5,
-          "name": "Control",
-          "duration": "2:41"
-        },
-        {
-          "number": 6,
-          "name": "Rewind",
-          "duration": "3:20"
-        },
-        {
-          "number": 7,
-          "name": "Lost",
-          "duration": "3:40"
-        },
-        {
-          "number": 8,
-          "name": "Dark",
-          "duration": "3:02"
-        },
-        {
-          "number": 9,
-          "name": "The Basement",
-          "duration": "3:13"
-        },
-        {
-          "number": 10,
-          "name": "[Gen]inside",
-          "duration": "3:11"
-        },
-        {
-          "number": 11,
-          "name": "Hollow Dreams",
-          "duration": "3:18"
-        }
-      ]
     }
   ],
   "singles": [
@@ -260,19 +260,6 @@
       ]
     },
     {
-      "name": "Pretty When You Break",
-      "year": "2026",
-      "release_date": "2026-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/81/e8/5c81e8f4-607e-48b5-61ad-5c3ebe61dfd5/193436459525_EkohPrettyWhenYouBreaklowres.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pretty When You Break",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
       "name": "[Gen]inside",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -282,6 +269,19 @@
           "number": 1,
           "name": "[Gen]inside",
           "duration": "3:11"
+        }
+      ]
+    },
+    {
+      "name": "Pretty When You Break",
+      "year": "2026",
+      "release_date": "2026-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/81/e8/5c81e8f4-607e-48b5-61ad-5c3ebe61dfd5/193436459525_EkohPrettyWhenYouBreaklowres.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pretty When You Break",
+          "duration": "3:03"
         }
       ]
     },
@@ -390,6 +390,19 @@
       ]
     },
     {
+      "name": "Frontline",
+      "year": "2018",
+      "release_date": "2018-07-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fa/c1/2d/fac12d4f-9921-ff36-86d0-3064893f8a1a/840094444485.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Frontline",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
       "name": "Fade",
       "year": "2019",
       "release_date": "2019-05-17",
@@ -421,19 +434,6 @@
       ]
     },
     {
-      "name": "Frontline",
-      "year": "2018",
-      "release_date": "2018-07-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fa/c1/2d/fac12d4f-9921-ff36-86d0-3064893f8a1a/840094444485.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Frontline",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "Conquer",
       "year": "2025",
       "release_date": "2025-08-27",
@@ -456,6 +456,19 @@
           "number": 1,
           "name": "Perfect World",
           "duration": "3:14"
+        }
+      ]
+    },
+    {
+      "name": "Shame On Me",
+      "year": "2022",
+      "release_date": "2022-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c5/f7/85/c5f78562-0f96-7be5-2b16-29747672d30b/196620630489_CatchYourBreathShameOnMeArtwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shame On Me",
+          "duration": "3:21"
         }
       ]
     },
@@ -495,19 +508,6 @@
           "number": 1,
           "name": "Ghost Inside The Shell",
           "duration": "3:48"
-        }
-      ]
-    },
-    {
-      "name": "Shame On Me",
-      "year": "2022",
-      "release_date": "2022-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c5/f7/85/c5f78562-0f96-7be5-2b16-29747672d30b/196620630489_CatchYourBreathShameOnMeArtwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shame On Me",
-          "duration": "3:21"
         }
       ]
     },

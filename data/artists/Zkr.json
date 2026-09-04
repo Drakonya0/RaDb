@@ -1309,17 +1309,17 @@
       ]
     },
     {
-      "name": "La rue me rappelle",
-      "year": "2025",
-      "release_date": "2025-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/fa/21/aefa218a-f1fa-6ad0-da12-9a47aa54a146/5026854124803.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Full Up",
       "year": "2025",
       "release_date": "2025-09-24",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/e1/51/d6e15189-9b17-9fdf-4ac3-aca173145897/25SYMIM22761.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "La rue me rappelle",
+      "year": "2025",
+      "release_date": "2025-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/fa/21/aefa218a-f1fa-6ad0-da12-9a47aa54a146/5026854124803.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -1362,19 +1362,6 @@
       ]
     },
     {
-      "name": "Freestyle 5min #8",
-      "year": "2020",
-      "release_date": "2020-06-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1e/66/9f/1e669f46-b66b-d827-60d1-9bf65468fdb9/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Freestyle 5min #8",
-          "duration": "6:05"
-        }
-      ]
-    },
-    {
       "name": "Lion du sol",
       "year": "2021",
       "release_date": "2021-12-16",
@@ -1384,6 +1371,19 @@
           "number": 1,
           "name": "Lion du sol",
           "duration": "4:30"
+        }
+      ]
+    },
+    {
+      "name": "Freestyle 5min #8",
+      "year": "2020",
+      "release_date": "2020-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1e/66/9f/1e669f46-b66b-d827-60d1-9bf65468fdb9/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Freestyle 5min #8",
+          "duration": "6:05"
         }
       ]
     },

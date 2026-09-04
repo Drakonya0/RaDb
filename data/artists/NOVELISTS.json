@@ -3,59 +3,6 @@
   "id": 216107954,
   "albums": [
     {
-      "name": "C'est La Vie",
-      "year": "2020",
-      "release_date": "2020-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d7/f5/ea/d7f5ea0f-82f7-3d28-adaf-6aa51341427b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Somebody Else",
-          "duration": "4:47"
-        },
-        {
-          "number": 2,
-          "name": "Deep Blue",
-          "duration": "4:35"
-        },
-        {
-          "number": 3,
-          "name": "Lilly",
-          "duration": "3:48"
-        },
-        {
-          "number": 4,
-          "name": "Modern Slave",
-          "duration": "4:00"
-        },
-        {
-          "number": 5,
-          "name": "C'est La Vie (feat. Bliss Sigh)",
-          "duration": "3:09"
-        },
-        {
-          "number": 6,
-          "name": "Head Rush",
-          "duration": "5:02"
-        },
-        {
-          "number": 7,
-          "name": "Kings of Ignorance (feat. LANDMVRKS)",
-          "duration": "3:29"
-        },
-        {
-          "number": 8,
-          "name": "Rain (feat. Michael Hirst)",
-          "duration": "4:08"
-        },
-        {
-          "number": 9,
-          "name": "Human Condition",
-          "duration": "4:14"
-        }
-      ]
-    },
-    {
       "name": "CODA",
       "year": "2025",
       "release_date": "2025-05-16",
@@ -110,6 +57,59 @@
           "number": 10,
           "name": "K.O.",
           "duration": "4:30"
+        }
+      ]
+    },
+    {
+      "name": "C'est La Vie",
+      "year": "2020",
+      "release_date": "2020-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/d7/f5/ea/d7f5ea0f-82f7-3d28-adaf-6aa51341427b/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Somebody Else",
+          "duration": "4:47"
+        },
+        {
+          "number": 2,
+          "name": "Deep Blue",
+          "duration": "4:35"
+        },
+        {
+          "number": 3,
+          "name": "Lilly",
+          "duration": "3:48"
+        },
+        {
+          "number": 4,
+          "name": "Modern Slave",
+          "duration": "4:00"
+        },
+        {
+          "number": 5,
+          "name": "C'est La Vie (feat. Bliss Sigh)",
+          "duration": "3:09"
+        },
+        {
+          "number": 6,
+          "name": "Head Rush",
+          "duration": "5:02"
+        },
+        {
+          "number": 7,
+          "name": "Kings of Ignorance (feat. LANDMVRKS)",
+          "duration": "3:29"
+        },
+        {
+          "number": 8,
+          "name": "Rain (feat. Michael Hirst)",
+          "duration": "4:08"
+        },
+        {
+          "number": 9,
+          "name": "Human Condition",
+          "duration": "4:14"
         }
       ]
     },
@@ -386,6 +386,24 @@
       ]
     },
     {
+      "name": "Prisoner",
+      "year": "2023",
+      "release_date": "2023-11-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e5/c6/e5/e5c6e53a-ee3c-7407-bd2c-9bfca8f018e4/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Prisoner",
+          "duration": "4:01"
+        },
+        {
+          "number": 2,
+          "name": "Turn It Up (Keyboard Warriors Social Club)",
+          "duration": "3:58"
+        }
+      ]
+    },
+    {
       "name": "After the Rain",
       "year": "2020",
       "release_date": "2020-06-19",
@@ -461,24 +479,6 @@
       ]
     },
     {
-      "name": "Prisoner",
-      "year": "2023",
-      "release_date": "2023-11-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e5/c6/e5/e5c6e53a-ee3c-7407-bd2c-9bfca8f018e4/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Prisoner",
-          "duration": "4:01"
-        },
-        {
-          "number": 2,
-          "name": "Turn It Up (Keyboard Warriors Social Club)",
-          "duration": "3:58"
-        }
-      ]
-    },
-    {
       "name": "L.L.I.B (feat. Amael Durand)",
       "year": "2021",
       "release_date": "2021-11-26",
@@ -514,6 +514,19 @@
           "number": 1,
           "name": "Lost Cause (Paranormal Attack Remix)",
           "duration": "4:32"
+        }
+      ]
+    },
+    {
+      "name": "Ravage",
+      "year": "2026",
+      "release_date": "2026-09-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/3c/bf/f43cbfed-987e-aab9-dd52-803aa0bb3ec2/885288121612.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ravage",
+          "duration": "4:16"
         }
       ]
     },

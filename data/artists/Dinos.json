@@ -546,17 +546,17 @@
       ]
     },
     {
-      "name": "93 Problèmes",
-      "year": "2025",
-      "release_date": "2025-01-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/98/ca/ae98ca8d-a50d-aba1-0b03-f92ecf145a79/5021732594143.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "3 Lions",
       "year": "2025",
       "release_date": "2025-06-27",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/16/02/9f1602e8-bcd0-73aa-a8e9-be6e386b9a6f/25UMGIM84438.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "93 Problèmes",
+      "year": "2025",
+      "release_date": "2025-01-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/98/ca/ae98ca8d-a50d-aba1-0b03-f92ecf145a79/5021732594143.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -573,6 +573,13 @@
       ]
     },
     {
+      "name": "Snitch",
+      "year": "2021",
+      "release_date": "2021-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/ad/5a/01ad5aa2-f9c7-18dc-1192-86f59affa737/21UMGIM53472.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Le Club",
       "year": "2024",
       "release_date": "2024-03-28",
@@ -586,11 +593,17 @@
       ]
     },
     {
-      "name": "Snitch",
-      "year": "2021",
-      "release_date": "2021-06-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/ad/5a/01ad5aa2-f9c7-18dc-1192-86f59affa737/21UMGIM53472.rgb.jpg/600x600bb.jpg",
-      "tracks": []
+      "name": "Fallout",
+      "year": "2023",
+      "release_date": "2023-07-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/00/4d/1e004d41-e4f5-9ef0-40af-f8f2083c449a/0602458196047.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fallout",
+          "duration": "2:34"
+        }
+      ]
     },
     {
       "name": "IA",
@@ -628,6 +641,24 @@
           "number": 1,
           "name": "DMX",
           "duration": "2:16"
+        }
+      ]
+    },
+    {
+      "name": "Fallout / Ushuaïa",
+      "year": "2023",
+      "release_date": "2023-07-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/27/66/65276685-e551-7c0a-20f1-e77106e9174c/0602458191981.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fallout",
+          "duration": "2:34"
+        },
+        {
+          "number": 2,
+          "name": "Ushuaïa",
+          "duration": "3:26"
         }
       ]
     },
@@ -697,6 +728,19 @@
       ]
     },
     {
+      "name": "Ushuaïa",
+      "year": "2023",
+      "release_date": "2023-07-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/7f/c3/0f7fc35d-9df9-fd27-1594-fd7e272511f5/0602458196054.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ushuaïa",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
       "name": "T'étais pas là",
       "year": "2025",
       "release_date": "2025-10-23",
@@ -724,6 +768,13 @@
       "tracks": []
     },
     {
+      "name": "Sea Dweller",
+      "year": "2022",
+      "release_date": "2022-05-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d7/92/55/d79255f8-7e0c-3742-8ab2-5983490eb1ab/22UMGIM50685.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Cesium",
       "year": "2023",
       "release_date": "2023-12-22",
@@ -745,13 +796,6 @@
           "duration": "5:41"
         }
       ]
-    },
-    {
-      "name": "Sea Dweller",
-      "year": "2022",
-      "release_date": "2022-05-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d7/92/55/d79255f8-7e0c-3742-8ab2-5983490eb1ab/22UMGIM50685.rgb.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "Zèbre",
@@ -901,19 +945,6 @@
       "tracks": []
     },
     {
-      "name": "La Pluie",
-      "year": "2025",
-      "release_date": "2025-02-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/74/10/7e74100d-5160-e676-1a83-ac50bfb73f01/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La Pluie",
-          "duration": "3:55"
-        }
-      ]
-    },
-    {
       "name": "Far Away",
       "year": "2019",
       "release_date": "2019-07-01",
@@ -923,6 +954,19 @@
           "number": 1,
           "name": "Far Away",
           "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "La Pluie",
+      "year": "2025",
+      "release_date": "2025-02-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/74/10/7e74100d-5160-e676-1a83-ac50bfb73f01/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La Pluie",
+          "duration": "3:55"
         }
       ]
     },

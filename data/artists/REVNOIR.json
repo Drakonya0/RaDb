@@ -1,7 +1,66 @@
 {
   "name": "REVNOIR",
   "id": 1699841343,
-  "albums": [],
+  "albums": [
+    {
+      "name": "Sometimes I feel you, sometimes I don't",
+      "year": "2026",
+      "release_date": "2026-11-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/a3/99/fca399f4-ea0e-9667-2e87-d75a8295d890/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Inheritance",
+          "duration": "2:52"
+        },
+        {
+          "number": 2,
+          "name": "Red Ice",
+          "duration": "3:46"
+        },
+        {
+          "number": 3,
+          "name": "Alchemised",
+          "duration": "3:56"
+        },
+        {
+          "number": 4,
+          "name": "Crash Out",
+          "duration": "3:38"
+        },
+        {
+          "number": 5,
+          "name": "Far From Home",
+          "duration": "4:16"
+        },
+        {
+          "number": 6,
+          "name": "Marla",
+          "duration": "1:55"
+        },
+        {
+          "number": 7,
+          "name": "Fracture",
+          "duration": "3:44"
+        },
+        {
+          "number": 8,
+          "name": "Unmake Me",
+          "duration": "3:20"
+        },
+        {
+          "number": 9,
+          "name": "Dad, do you remember?",
+          "duration": "1:28"
+        },
+        {
+          "number": 10,
+          "name": "Half Gone",
+          "duration": "3:54"
+        }
+      ]
+    }
+  ],
   "singles": [
     {
       "name": "In Limbo",
@@ -154,9 +213,65 @@
           "duration": "3:48"
         }
       ]
+    },
+    {
+      "name": "Fracture",
+      "year": "2026",
+      "release_date": "2026-09-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/27/61/a327614d-b22d-a177-54f2-a0b39dfc8418/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fracture",
+          "duration": "3:44"
+        },
+        {
+          "number": 2,
+          "name": "Alchemised",
+          "duration": "3:56"
+        },
+        {
+          "number": 3,
+          "name": "Red Ice",
+          "duration": "3:46"
+        }
+      ]
     }
   ],
   "eps": [
+    {
+      "name": "Coma",
+      "year": "2025",
+      "release_date": "2025-09-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/87/e9/d487e975-aea6-ba20-1828-59482db98a57/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Into Quiet",
+          "duration": "3:22"
+        },
+        {
+          "number": 2,
+          "name": "Crève",
+          "duration": "3:48"
+        },
+        {
+          "number": 3,
+          "name": "Revenge",
+          "duration": "3:58"
+        },
+        {
+          "number": 4,
+          "name": "New World",
+          "duration": "3:06"
+        },
+        {
+          "number": 5,
+          "name": "Night Terror",
+          "duration": "2:32"
+        }
+      ]
+    },
     {
       "name": "Revenant",
       "year": "2024",
@@ -192,39 +307,6 @@
           "number": 6,
           "name": "My Old Me",
           "duration": "4:12"
-        }
-      ]
-    },
-    {
-      "name": "Coma",
-      "year": "2025",
-      "release_date": "2025-09-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/87/e9/d487e975-aea6-ba20-1828-59482db98a57/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Into Quiet",
-          "duration": "3:22"
-        },
-        {
-          "number": 2,
-          "name": "Crève",
-          "duration": "3:48"
-        },
-        {
-          "number": 3,
-          "name": "Revenge",
-          "duration": "3:58"
-        },
-        {
-          "number": 4,
-          "name": "New World",
-          "duration": "3:06"
-        },
-        {
-          "number": 5,
-          "name": "Night Terror",
-          "duration": "2:32"
         }
       ]
     },

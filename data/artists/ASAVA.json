@@ -3,54 +3,6 @@
   "id": 1502315488,
   "albums": [
     {
-      "name": "Mantras",
-      "year": "2025",
-      "release_date": "2025-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/20/97/fc209774-2355-feb5-4b01-046b2f5cbcae/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Warrior",
-          "duration": "4:10"
-        },
-        {
-          "number": 2,
-          "name": "Confidence",
-          "duration": "4:58"
-        },
-        {
-          "number": 3,
-          "name": "No Mail Today",
-          "duration": "1:28"
-        },
-        {
-          "number": 4,
-          "name": "Saveme",
-          "duration": "4:37"
-        },
-        {
-          "number": 5,
-          "name": "Maybe Tomorrow",
-          "duration": "1:15"
-        },
-        {
-          "number": 6,
-          "name": "Acceptance",
-          "duration": "5:03"
-        },
-        {
-          "number": 7,
-          "name": "Rue",
-          "duration": "4:44"
-        },
-        {
-          "number": 8,
-          "name": "Sunshine",
-          "duration": "5:23"
-        }
-      ]
-    },
-    {
       "name": "Mahjong",
       "year": "2026",
       "release_date": "2026-08-28",
@@ -137,6 +89,54 @@
           "duration": "2:04"
         }
       ]
+    },
+    {
+      "name": "Mantras",
+      "year": "2025",
+      "release_date": "2025-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/20/97/fc209774-2355-feb5-4b01-046b2f5cbcae/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Warrior",
+          "duration": "4:10"
+        },
+        {
+          "number": 2,
+          "name": "Confidence",
+          "duration": "4:58"
+        },
+        {
+          "number": 3,
+          "name": "No Mail Today",
+          "duration": "1:28"
+        },
+        {
+          "number": 4,
+          "name": "Saveme",
+          "duration": "4:37"
+        },
+        {
+          "number": 5,
+          "name": "Maybe Tomorrow",
+          "duration": "1:15"
+        },
+        {
+          "number": 6,
+          "name": "Acceptance",
+          "duration": "5:03"
+        },
+        {
+          "number": 7,
+          "name": "Rue",
+          "duration": "4:44"
+        },
+        {
+          "number": 8,
+          "name": "Sunshine",
+          "duration": "5:23"
+        }
+      ]
     }
   ],
   "singles": [
@@ -176,6 +176,19 @@
           "number": 1,
           "name": "Valhalla",
           "duration": "4:32"
+        }
+      ]
+    },
+    {
+      "name": "Running Up That Hill",
+      "year": "2022",
+      "release_date": "2022-07-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/ff/40/ceff40fa-81cc-7667-5ed9-cbf7a6f3f514/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Running Up That Hill",
+          "duration": "3:59"
         }
       ]
     },
@@ -254,19 +267,6 @@
           "number": 1,
           "name": "Canyon",
           "duration": "5:58"
-        }
-      ]
-    },
-    {
-      "name": "Running Up That Hill",
-      "year": "2022",
-      "release_date": "2022-07-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ce/ff/40/ceff40fa-81cc-7667-5ed9-cbf7a6f3f514/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Running Up That Hill",
-          "duration": "3:59"
         }
       ]
     },

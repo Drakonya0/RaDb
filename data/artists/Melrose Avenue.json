@@ -4,15 +4,15 @@
   "albums": [],
   "singles": [
     {
-      "name": "Taste",
+      "name": "Cemetery Friend",
       "year": "2026",
-      "release_date": "2026-02-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3b/f8/5c3bf8b2-0a20-3710-2c21-6b0679c3a03c/3301.jpg/600x600bb.jpg",
+      "release_date": "2026-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/f0/bf/92f0bf7a-2c63-03cf-fbbe-108a096153fe/3421.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Taste",
-          "duration": "3:12"
+          "name": "Cemetery Friend",
+          "duration": "2:57"
         }
       ]
     },
@@ -56,19 +56,6 @@
       ]
     },
     {
-      "name": "Cemetery Friend",
-      "year": "2026",
-      "release_date": "2026-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/f0/bf/92f0bf7a-2c63-03cf-fbbe-108a096153fe/3421.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cemetery Friend",
-          "duration": "2:57"
-        }
-      ]
-    },
-    {
       "name": "Black Heart",
       "year": "2025",
       "release_date": "2025-07-31",
@@ -78,6 +65,19 @@
           "number": 1,
           "name": "Black Heart",
           "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Taste",
+      "year": "2026",
+      "release_date": "2026-02-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/3b/f8/5c3bf8b2-0a20-3710-2c21-6b0679c3a03c/3301.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Taste",
+          "duration": "3:12"
         }
       ]
     },
@@ -104,19 +104,6 @@
           "number": 1,
           "name": "Photograph",
           "duration": "3:24"
-        }
-      ]
-    },
-    {
-      "name": "This Is The End",
-      "year": "2025",
-      "release_date": "2025-11-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/10/a3/9810a3f1-e39c-8fc9-3175-2f8b27d7e86c/3240.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "This Is The End",
-          "duration": "3:28"
         }
       ]
     },
@@ -160,19 +147,6 @@
       ]
     },
     {
-      "name": "All I Want for Christmas Is You",
-      "year": "2022",
-      "release_date": "2022-12-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/90/9f/d3/909fd3ff-098b-d4fd-8bcb-4cdb8ec533e2/859768655928_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "All I Want for Christmas Is You",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
       "name": "Fool and The Beggar",
       "year": "2023",
       "release_date": "2023-12-08",
@@ -186,15 +160,28 @@
       ]
     },
     {
-      "name": "Falling Apart",
-      "year": "2023",
-      "release_date": "2023-03-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/78/48/787848b5-ec12-655b-8776-d422b601a946/2262.jpg/600x600bb.jpg",
+      "name": "This Is The End",
+      "year": "2025",
+      "release_date": "2025-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/10/a3/9810a3f1-e39c-8fc9-3175-2f8b27d7e86c/3240.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Falling Apart",
-          "duration": "3:29"
+          "name": "This Is The End",
+          "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "All I Want for Christmas Is You",
+      "year": "2022",
+      "release_date": "2022-12-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/90/9f/d3/909fd3ff-098b-d4fd-8bcb-4cdb8ec533e2/859768655928_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "All I Want for Christmas Is You",
+          "duration": "3:07"
         }
       ]
     },
@@ -208,6 +195,19 @@
           "number": 1,
           "name": "Bad Guy",
           "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "name": "Falling Apart",
+      "year": "2023",
+      "release_date": "2023-03-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/78/48/787848b5-ec12-655b-8776-d422b601a946/2262.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Falling Apart",
+          "duration": "3:29"
         }
       ]
     },

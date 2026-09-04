@@ -86,54 +86,6 @@
       ]
     },
     {
-      "name": "Best Wishes",
-      "year": "1989",
-      "release_date": "1989-04-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3c/e6/72/3ce672d9-4d2f-d8b7-521c-325836ebaf23/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Death Camps",
-          "duration": "5:22"
-        },
-        {
-          "number": 2,
-          "name": "Days of Confusion",
-          "duration": "2:19"
-        },
-        {
-          "number": 3,
-          "name": "The Only One",
-          "duration": "4:55"
-        },
-        {
-          "number": 4,
-          "name": "Down but Not Out",
-          "duration": "3:59"
-        },
-        {
-          "number": 5,
-          "name": "Crush the Demoniac",
-          "duration": "3:56"
-        },
-        {
-          "number": 6,
-          "name": "Fugitive",
-          "duration": "4:40"
-        },
-        {
-          "number": 7,
-          "name": "Then and Now",
-          "duration": "3:12"
-        },
-        {
-          "number": 8,
-          "name": "Age of Quarrel",
-          "duration": "4:45"
-        }
-      ]
-    },
-    {
       "name": "Alpha Omega",
       "year": "1992",
       "release_date": "1992-01-01",
@@ -183,6 +135,54 @@
           "number": 9,
           "name": "Changes / Cro-Mags Jam",
           "duration": "12:11"
+        }
+      ]
+    },
+    {
+      "name": "Best Wishes",
+      "year": "1989",
+      "release_date": "1989-04-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/3c/e6/72/3ce672d9-4d2f-d8b7-521c-325836ebaf23/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Death Camps",
+          "duration": "5:22"
+        },
+        {
+          "number": 2,
+          "name": "Days of Confusion",
+          "duration": "2:19"
+        },
+        {
+          "number": 3,
+          "name": "The Only One",
+          "duration": "4:55"
+        },
+        {
+          "number": 4,
+          "name": "Down but Not Out",
+          "duration": "3:59"
+        },
+        {
+          "number": 5,
+          "name": "Crush the Demoniac",
+          "duration": "3:56"
+        },
+        {
+          "number": 6,
+          "name": "Fugitive",
+          "duration": "4:40"
+        },
+        {
+          "number": 7,
+          "name": "Then and Now",
+          "duration": "3:12"
+        },
+        {
+          "number": 8,
+          "name": "Age of Quarrel",
+          "duration": "4:45"
         }
       ]
     },
@@ -1165,29 +1165,6 @@
       ]
     },
     {
-      "name": "From the Grave",
-      "year": "2020",
-      "release_date": "2020-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/86/c8/c3/86c8c3e1-bbf5-1d14-fcb2-ef96621f70d9/195081391854.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "From the Grave",
-          "duration": "2:18"
-        },
-        {
-          "number": 2,
-          "name": "PTSD",
-          "duration": "3:30"
-        },
-        {
-          "number": 3,
-          "name": "Between Wars (Instrumental)",
-          "duration": "5:49"
-        }
-      ]
-    },
-    {
       "name": "No Sympathy",
       "year": "2021",
       "release_date": "2021-11-05",
@@ -1210,6 +1187,29 @@
           "number": 1,
           "name": "Pull Me Push Me",
           "duration": "4:34"
+        }
+      ]
+    },
+    {
+      "name": "From the Grave",
+      "year": "2020",
+      "release_date": "2020-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/86/c8/c3/86c8c3e1-bbf5-1d14-fcb2-ef96621f70d9/195081391854.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "From the Grave",
+          "duration": "2:18"
+        },
+        {
+          "number": 2,
+          "name": "PTSD",
+          "duration": "3:30"
+        },
+        {
+          "number": 3,
+          "name": "Between Wars (Instrumental)",
+          "duration": "5:49"
         }
       ]
     },

@@ -22,6 +22,19 @@
       ]
     },
     {
+      "name": "Hotel Room Service",
+      "year": "2023",
+      "release_date": "2023-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/e5/dd/fbe5dd89-45a8-76dd-591a-27a4b53206c5/72345.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hotel Room Service",
+          "duration": "2:15"
+        }
+      ]
+    },
+    {
       "name": "Jenny From the Block",
       "year": "2022",
       "release_date": "2022-06-03",
@@ -1244,19 +1257,6 @@
       ]
     },
     {
-      "name": "Hotel Room Service",
-      "year": "2023",
-      "release_date": "2023-11-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/e5/dd/fbe5dd89-45a8-76dd-591a-27a4b53206c5/72345.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hotel Room Service",
-          "duration": "2:15"
-        }
-      ]
-    },
-    {
       "name": "Desire",
       "year": "2022",
       "release_date": "2022-02-18",
@@ -1397,29 +1397,6 @@
       ]
     },
     {
-      "name": "Montagem Rave Eterno",
-      "year": "2024",
-      "release_date": "2024-05-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/1e/53/091e5316-0a44-8676-9bf8-e41a3f57198f/14786.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Rave Eterno",
-          "duration": "1:40"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Rave Eterno (Slowed)",
-          "duration": "1:58"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Rave Eterno (Speed Up)",
-          "duration": "1:27"
-        }
-      ]
-    },
-    {
       "name": "Liminal",
       "year": "2024",
       "release_date": "2024-04-26",
@@ -1439,6 +1416,29 @@
           "number": 3,
           "name": "Liminal (Slowed)",
           "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Montagem Rave Eterno",
+      "year": "2024",
+      "release_date": "2024-05-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/1e/53/091e5316-0a44-8676-9bf8-e41a3f57198f/14786.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem Rave Eterno",
+          "duration": "1:40"
+        },
+        {
+          "number": 2,
+          "name": "Montagem Rave Eterno (Slowed)",
+          "duration": "1:58"
+        },
+        {
+          "number": 3,
+          "name": "Montagem Rave Eterno (Speed Up)",
+          "duration": "1:27"
         }
       ]
     },
@@ -2508,39 +2508,6 @@
           "number": 5,
           "name": "STEP 2 STEP (Sped Up)",
           "duration": "1:40"
-        }
-      ]
-    },
-    {
-      "name": "CANTA LA",
-      "year": "2025",
-      "release_date": "2025-05-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/0c/af/e80caf8d-bfde-1465-38d5-7a53fb9239b0/3125545.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CANTA LA",
-          "duration": "1:29"
-        },
-        {
-          "number": 2,
-          "name": "CANTA LA (Slowed)",
-          "duration": "1:36"
-        },
-        {
-          "number": 3,
-          "name": "CANTA LA (Super Slowed)",
-          "duration": "1:42"
-        },
-        {
-          "number": 4,
-          "name": "CANTA LA (Ultra Slowed)",
-          "duration": "1:49"
-        },
-        {
-          "number": 5,
-          "name": "CANTA LA (Sped Up)",
-          "duration": "1:25"
         }
       ]
     },
