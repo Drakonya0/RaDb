@@ -335,6 +335,69 @@
       ]
     },
     {
+      "name": "Alien",
+      "year": "2019",
+      "release_date": "2019-08-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/47/e9/0347e9eb-b38a-123c-5c24-b3cc7a7d7c9a/193483695402.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Details Matter",
+          "duration": "4:05"
+        },
+        {
+          "number": 2,
+          "name": "Bloodline",
+          "duration": "3:25"
+        },
+        {
+          "number": 3,
+          "name": "4D",
+          "duration": "4:11"
+        },
+        {
+          "number": 4,
+          "name": "Talking Heads",
+          "duration": "3:50"
+        },
+        {
+          "number": 5,
+          "name": "Freefall",
+          "duration": "4:02"
+        },
+        {
+          "number": 6,
+          "name": "Jinn",
+          "duration": "4:01"
+        },
+        {
+          "number": 7,
+          "name": "Eclipse",
+          "duration": "4:02"
+        },
+        {
+          "number": 8,
+          "name": "Rift",
+          "duration": "3:59"
+        },
+        {
+          "number": 9,
+          "name": "Paradigm",
+          "duration": "3:23"
+        },
+        {
+          "number": 10,
+          "name": "Vultures",
+          "duration": "3:47"
+        },
+        {
+          "number": 11,
+          "name": "Sleepless",
+          "duration": "4:37"
+        }
+      ]
+    },
+    {
       "name": "Alien (Deluxe Edition)",
       "year": "2020",
       "release_date": "2020-07-31",
@@ -459,69 +522,6 @@
           "number": 24,
           "name": "Enemy of the Night (Instrumental)",
           "duration": "3:47"
-        }
-      ]
-    },
-    {
-      "name": "Alien",
-      "year": "2019",
-      "release_date": "2019-08-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/47/e9/0347e9eb-b38a-123c-5c24-b3cc7a7d7c9a/193483695402.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Details Matter",
-          "duration": "4:05"
-        },
-        {
-          "number": 2,
-          "name": "Bloodline",
-          "duration": "3:25"
-        },
-        {
-          "number": 3,
-          "name": "4D",
-          "duration": "4:11"
-        },
-        {
-          "number": 4,
-          "name": "Talking Heads",
-          "duration": "3:50"
-        },
-        {
-          "number": 5,
-          "name": "Freefall",
-          "duration": "4:02"
-        },
-        {
-          "number": 6,
-          "name": "Jinn",
-          "duration": "4:01"
-        },
-        {
-          "number": 7,
-          "name": "Eclipse",
-          "duration": "4:02"
-        },
-        {
-          "number": 8,
-          "name": "Rift",
-          "duration": "3:59"
-        },
-        {
-          "number": 9,
-          "name": "Paradigm",
-          "duration": "3:23"
-        },
-        {
-          "number": 10,
-          "name": "Vultures",
-          "duration": "3:47"
-        },
-        {
-          "number": 11,
-          "name": "Sleepless",
-          "duration": "4:37"
         }
       ]
     },
@@ -1351,19 +1351,6 @@
       ]
     },
     {
-      "name": "Evian",
-      "year": "2026",
-      "release_date": "2026-04-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/d4/37/c9d437ea-5f18-ee2a-cb12-9f064158600c/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Evian",
-          "duration": "5:02"
-        }
-      ]
-    },
-    {
       "name": "Dante",
       "year": "2023",
       "release_date": "2023-11-21",
@@ -1373,6 +1360,19 @@
           "number": 1,
           "name": "Dante",
           "duration": "5:46"
+        }
+      ]
+    },
+    {
+      "name": "Evian",
+      "year": "2026",
+      "release_date": "2026-04-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/d4/37/c9d437ea-5f18-ee2a-cb12-9f064158600c/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Evian",
+          "duration": "5:02"
         }
       ]
     },

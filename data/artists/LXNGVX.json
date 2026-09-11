@@ -213,29 +213,6 @@
       ]
     },
     {
-      "name": "NITRO",
-      "year": "2024",
-      "release_date": "2024-06-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/42/13/094213b1-87fb-83e7-bcf9-4590583f642f/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nitro",
-          "duration": "1:42"
-        },
-        {
-          "number": 2,
-          "name": "Nitro (Slowed)",
-          "duration": "1:52"
-        },
-        {
-          "number": 3,
-          "name": "Nitro (Sped Up)",
-          "duration": "1:33"
-        }
-      ]
-    },
-    {
       "name": "Yummi",
       "year": "2023",
       "release_date": "2023-10-02",
@@ -255,6 +232,29 @@
           "number": 3,
           "name": "Yummi (Slowed)",
           "duration": "1:49"
+        }
+      ]
+    },
+    {
+      "name": "NITRO",
+      "year": "2024",
+      "release_date": "2024-06-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/42/13/094213b1-87fb-83e7-bcf9-4590583f642f/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nitro",
+          "duration": "1:42"
+        },
+        {
+          "number": 2,
+          "name": "Nitro (Slowed)",
+          "duration": "1:52"
+        },
+        {
+          "number": 3,
+          "name": "Nitro (Sped Up)",
+          "duration": "1:33"
         }
       ]
     },
@@ -2428,6 +2428,39 @@
       ]
     },
     {
+      "name": "MONTAGEM JOGAR",
+      "year": "2026",
+      "release_date": "2026-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/c8/11/a5c81134-4652-efee-d9a5-f208075dcd3a/885288486544.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM JOGAR",
+          "duration": "2:07"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM JOGAR (SLOWED)",
+          "duration": "2:23"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM JOGAR (SUPER SLOWED)",
+          "duration": "2:40"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM JOGAR (ULTRA SLOWED)",
+          "duration": "3:00"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM JOGAR (SPED UP)",
+          "duration": "2:00"
+        }
+      ]
+    },
+    {
       "name": "DEIXA CAIR",
       "year": "2026",
       "release_date": "2026-07-03",
@@ -2523,6 +2556,34 @@
           "number": 5,
           "name": "TOMA DE NOVO (SPED UP)",
           "duration": "1:40"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM SEGREDO",
+      "year": "2025",
+      "release_date": "2025-10-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/33/89/48338934-a479-00fc-77aa-35e5df790903/62060.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM SEGREDO",
+          "duration": "1:23"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM SEGREDO (Slowed)",
+          "duration": "1:33"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM SEGREDO (Sped Up)",
+          "duration": "1:14"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM SEGREDO (Super Slowed)",
+          "duration": "1:44"
         }
       ]
     }

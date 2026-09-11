@@ -1074,19 +1074,6 @@
       ]
     },
     {
-      "name": "Fight Til I'm Good Enough (feat. Allanah Fitzgerald, Elsie Lovelock & Michael Kovach)",
-      "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/e6/8e/3ae68e5f-0c39-ff73-e538-6e4e74246799/810129970326.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fight Til I'm Good Enough (feat. Allanah Fitzgerald, Elsie Lovelock & Michael Kovach)",
-          "duration": "3:21"
-        }
-      ]
-    },
-    {
       "name": "Love I Need",
       "year": "2020",
       "release_date": "2020-08-06",
@@ -1096,6 +1083,19 @@
           "number": 1,
           "name": "Love I Need",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "Fight Til I'm Good Enough (feat. Allanah Fitzgerald, Elsie Lovelock & Michael Kovach)",
+      "year": "2025",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/e6/8e/3ae68e5f-0c39-ff73-e538-6e4e74246799/810129970326.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fight Til I'm Good Enough (feat. Allanah Fitzgerald, Elsie Lovelock & Michael Kovach)",
+          "duration": "3:21"
         }
       ]
     },
@@ -1185,6 +1185,19 @@
       ]
     },
     {
+      "name": "It Doesn't Matter",
+      "year": "2026",
+      "release_date": "2026-07-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/f0/43/d3f04333-520f-344c-7195-b28a0c8447cf/075679564474.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "It Doesn't Matter",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
       "name": "Cats",
       "year": "2023",
       "release_date": "2023-01-27",
@@ -1240,19 +1253,6 @@
           "number": 2,
           "name": "Jingle My Bells (feat. Jack Douglass) [Radio Edit]",
           "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "It Doesn't Matter",
-      "year": "2026",
-      "release_date": "2026-07-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/f0/43/d3f04333-520f-344c-7195-b28a0c8447cf/075679564474.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "It Doesn't Matter",
-          "duration": "3:45"
         }
       ]
     },
@@ -1812,24 +1812,6 @@
       ]
     },
     {
-      "name": "Tom's Dog (asdfmovie5 theme)",
-      "year": "2012",
-      "release_date": "2012-05-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5f/62/b7/5f62b712-196b-af41-ff18-e61e635ff67b/845350055399.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tom's Dog (asdfmovie5 theme)",
-          "duration": "2:50"
-        },
-        {
-          "number": 2,
-          "name": "Mineturtle",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
       "name": "Five Nights At Freddy's (10th Anniversary)",
       "year": "2024",
       "release_date": "2024-10-07",
@@ -2170,24 +2152,6 @@
       ]
     },
     {
-      "name": "Cut the Cord",
-      "year": "2017",
-      "release_date": "2017-02-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/21/c1/0a21c1fd-956c-72ce-e1ac-0f34ad5ca3f1/840095605410.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cut the Cord",
-          "duration": "3:46"
-        },
-        {
-          "number": 2,
-          "name": "Cut the Cord (Instrumental)",
-          "duration": "3:46"
-        }
-      ]
-    },
-    {
       "name": "Cats",
       "year": "2020",
       "release_date": "2020-12-11",
@@ -2215,6 +2179,42 @@
           "number": 2,
           "name": "Pikachu's Lament (Red Version) [Instrumental]",
           "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "Cut the Cord",
+      "year": "2017",
+      "release_date": "2017-02-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/21/c1/0a21c1fd-956c-72ce-e1ac-0f34ad5ca3f1/840095605410.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cut the Cord",
+          "duration": "3:46"
+        },
+        {
+          "number": 2,
+          "name": "Cut the Cord (Instrumental)",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
+      "name": "Tom's Dog (asdfmovie5 theme)",
+      "year": "2012",
+      "release_date": "2012-05-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/5f/62/b7/5f62b712-196b-af41-ff18-e61e635ff67b/845350055399.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tom's Dog (asdfmovie5 theme)",
+          "duration": "2:50"
+        },
+        {
+          "number": 2,
+          "name": "Mineturtle",
+          "duration": "3:36"
         }
       ]
     },
@@ -2424,6 +2424,24 @@
           "number": 1,
           "name": "Poison (From Hazbin Hotel) [Official Remix] [feat. Sam Haft & Andrew Underberg]",
           "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "misery. (Remix)",
+      "year": "2026",
+      "release_date": "2026-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/a5/20/a1a520fb-c86d-07c5-0c4a-5a523087c812/075679557414.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "misery. (Remix)",
+          "duration": "2:07"
+        },
+        {
+          "number": 2,
+          "name": "misery.",
+          "duration": "2:46"
         }
       ]
     }

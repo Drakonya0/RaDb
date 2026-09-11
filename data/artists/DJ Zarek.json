@@ -48,19 +48,6 @@
   ],
   "singles": [
     {
-      "name": "TOQUE TOQUE",
-      "year": "2026",
-      "release_date": "2026-05-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ab/45/01ab4539-af00-d68d-92e3-1375d21793f3/1095731.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TOQUE TOQUE",
-          "duration": "1:23"
-        }
-      ]
-    },
-    {
       "name": "EXTINCTIO",
       "year": "2026",
       "release_date": "2026-07-24",
@@ -80,6 +67,19 @@
           "number": 3,
           "name": "EXTINCTIO - SUPER SLOWED & REVERBED",
           "duration": "2:00"
+        }
+      ]
+    },
+    {
+      "name": "TOQUE TOQUE",
+      "year": "2026",
+      "release_date": "2026-05-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/ab/45/01ab4539-af00-d68d-92e3-1375d21793f3/1095731.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TOQUE TOQUE",
+          "duration": "1:23"
         }
       ]
     },
@@ -216,63 +216,35 @@
       ]
     },
     {
-      "name": "BAILE SINISTRO",
+      "name": "MONTAGEM ENCOSTA",
       "year": "2025",
-      "release_date": "2025-04-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/78/69/167869ee-27bd-5f80-d8eb-a002f9f8c442/df22ebf7-71b7-4931-9b42-42e74c91ad6b.jpg/600x600bb.jpg",
+      "release_date": "2025-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/a3/cd/40a3cd7a-d836-7c46-7c72-b6bf2d8a244b/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "BAILE SINISTRO",
-          "duration": "1:27"
+          "name": "MONTAGEM ENCOSTA",
+          "duration": "1:24"
         },
         {
           "number": 2,
-          "name": "BAILE SINISTRO (Sped Up)",
-          "duration": "1:17"
+          "name": "MONTAGEM ENCOSTA (Slowed)",
+          "duration": "1:37"
         },
         {
           "number": 3,
-          "name": "BAILE SINISTRO (Slowed)",
-          "duration": "1:38"
+          "name": "MONTAGEM ENCOSTA (Super Slowed)",
+          "duration": "1:53"
         },
         {
           "number": 4,
-          "name": "BAILE SINISTRO (Ultra Slowed)",
-          "duration": "1:50"
-        }
-      ]
-    },
-    {
-      "name": "SOBE NA ONDA",
-      "year": "2025",
-      "release_date": "2025-12-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/40/3a/cd403a40-6d6b-e19f-69f5-d1f49c89f48b/10961.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SOBE NA ONDA",
-          "duration": "1:40"
-        },
-        {
-          "number": 2,
-          "name": "SOBE NA ONDA (Slowed)",
-          "duration": "1:52"
-        },
-        {
-          "number": 3,
-          "name": "SOBE NA ONDA (Super Slowed)",
-          "duration": "1:58"
-        },
-        {
-          "number": 4,
-          "name": "SOBE NA ONDA (Ultra Slowed)",
-          "duration": "2:05"
+          "name": "MONTAGEM ENCOSTA (Ultra Slowed)",
+          "duration": "2:07"
         },
         {
           "number": 5,
-          "name": "SOBE NA ONDA (Sped Up)",
-          "duration": "1:29"
+          "name": "MONTAGEM ENCOSTA (Sped Up)",
+          "duration": "1:15"
         }
       ]
     },
@@ -306,39 +278,6 @@
           "number": 5,
           "name": "SOMBA SOMBA (Ultra Slowed)",
           "duration": "2:35"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM ENCOSTA",
-      "year": "2025",
-      "release_date": "2025-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/a3/cd/40a3cd7a-d836-7c46-7c72-b6bf2d8a244b/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM ENCOSTA",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM ENCOSTA (Slowed)",
-          "duration": "1:37"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM ENCOSTA (Super Slowed)",
-          "duration": "1:53"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM ENCOSTA (Ultra Slowed)",
-          "duration": "2:07"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM ENCOSTA (Sped Up)",
-          "duration": "1:15"
         }
       ]
     },
@@ -409,72 +348,6 @@
       ]
     },
     {
-      "name": "NA SHIRA",
-      "year": "2026",
-      "release_date": "2026-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/c3/15/e7c315e7-f7d2-2a0c-a6a8-1e11a7e2df2e/3182734.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NA SHIRA",
-          "duration": "1:28"
-        },
-        {
-          "number": 2,
-          "name": "NA SHIRA (Slowed)",
-          "duration": "1:38"
-        },
-        {
-          "number": 3,
-          "name": "NA SHIRA (Super Slowed)",
-          "duration": "1:50"
-        },
-        {
-          "number": 4,
-          "name": "NA SHIRA (Ultra Slowed)",
-          "duration": "2:04"
-        },
-        {
-          "number": 5,
-          "name": "NA SHIRA (Sped Up)",
-          "duration": "1:18"
-        }
-      ]
-    },
-    {
-      "name": "THE PERFECT GIRL FUNK",
-      "year": "2025",
-      "release_date": "2025-11-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/c3/c9/d9c3c92e-e59b-e997-98a9-3f3b16e5fd20/1963624043374_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "THE PERFECT GIRL FUNK",
-          "duration": "1:38"
-        },
-        {
-          "number": 2,
-          "name": "THE PERFECT GIRL FUNK - Slowed",
-          "duration": "1:50"
-        },
-        {
-          "number": 3,
-          "name": "THE PERFECT GIRL FUNK - Super Slowed",
-          "duration": "2:04"
-        },
-        {
-          "number": 4,
-          "name": "THE PERFECT GIRL FUNK - Ultra Slowed",
-          "duration": "2:19"
-        },
-        {
-          "number": 5,
-          "name": "THE PERFECT GIRL FUNK - Sped Up",
-          "duration": "1:27"
-        }
-      ]
-    },
-    {
       "name": "TAP TAP",
       "year": "2025",
       "release_date": "2025-06-13",
@@ -499,72 +372,6 @@
           "number": 4,
           "name": "TAP TAP (Sped Up)",
           "duration": "1:13"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM ÁRDUO",
-      "year": "2026",
-      "release_date": "2026-03-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/e0/ab/ebe0ab9b-6ff3-866f-6dfb-212b48298733/999175.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM ÁRDUO",
-          "duration": "1:15"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM ÁRDUO (Slowed)",
-          "duration": "1:24"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM ÁRDUO (Super Slowed)",
-          "duration": "1:35"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM ÁRDUO (Ultra Slowed)",
-          "duration": "1:46"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM ÁRDUO (Sped Up)",
-          "duration": "1:11"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM BRILHAR",
-      "year": "2026",
-      "release_date": "2026-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/d3/93/1ed393e1-00d8-90ca-99f7-4aa7cc30598e/503813.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM BRILHAR",
-          "duration": "1:17"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM BRILHAR (Slowed)",
-          "duration": "1:27"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM BRILHAR (Super Slowed)",
-          "duration": "1:37"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM BRILHAR (Ultra Slowed)",
-          "duration": "1:49"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM BRILHAR (Sped Up)",
-          "duration": "1:09"
         }
       ]
     },
@@ -663,39 +470,6 @@
       ]
     },
     {
-      "name": "MONTAGEM AMOR",
-      "year": "2026",
-      "release_date": "2026-03-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/52/38/d452388e-e8b7-d855-ba47-00f135f8a440/1050278.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM AMOR",
-          "duration": "1:22"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM AMOR (Slowed)",
-          "duration": "1:28"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM AMOR (Super Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM AMOR (Ultra Slowed)",
-          "duration": "1:38"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM AMOR (Sped Up)",
-          "duration": "1:17"
-        }
-      ]
-    },
-    {
       "name": "LUA ESTRADA",
       "year": "2026",
       "release_date": "2026-03-06",
@@ -725,39 +499,6 @@
           "number": 5,
           "name": "LUA ESTRADA (Sped Up)",
           "duration": "1:29"
-        }
-      ]
-    },
-    {
-      "name": "NOITE LENTA",
-      "year": "2026",
-      "release_date": "2026-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/28/22/872822a3-2e7b-9192-1a35-eca322d8d220/272276.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NOITE LENTA",
-          "duration": "1:29"
-        },
-        {
-          "number": 2,
-          "name": "NOITE LENTA (Slowed)",
-          "duration": "1:41"
-        },
-        {
-          "number": 3,
-          "name": "NOITE LENTA (Sped Up)",
-          "duration": "1:18"
-        },
-        {
-          "number": 4,
-          "name": "NOITE LENTA (Super Slowed)",
-          "duration": "1:51"
-        },
-        {
-          "number": 5,
-          "name": "NOITE LENTA (Ultra Slowed)",
-          "duration": "2:01"
         }
       ]
     },
@@ -823,30 +564,30 @@
       ]
     },
     {
-      "name": "MONTAGEM PESAR",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/3c/1b/303c1bf7-d879-f396-6cee-0cacac83391d/2122321.jpg/600x600bb.jpg",
+      "name": "Omniscient",
+      "year": "2026",
+      "release_date": "2026-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/03/eb/6903eb0f-b108-2ad2-909e-79d2769e889f/5063879053770.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "MONTAGEM PESAR",
-          "duration": "2:10"
+          "name": "Omniscient",
+          "duration": "1:33"
         },
         {
           "number": 2,
-          "name": "MONTAGEM PESAR (Slowed)",
-          "duration": "2:38"
+          "name": "Omniscient (Slowed)",
+          "duration": "1:44"
         },
         {
           "number": 3,
-          "name": "MONTAGEM PESAR (Ultra Slowed)",
-          "duration": "2:50"
+          "name": "Omniscient (Super Slowed)",
+          "duration": "1:57"
         },
         {
           "number": 4,
-          "name": "MONTAGEM PESAR (Sped Up)",
-          "duration": "1:57"
+          "name": "Omniscient (Sped Up)",
+          "duration": "1:27"
         }
       ]
     },
@@ -880,39 +621,6 @@
           "number": 5,
           "name": "KYOUKAI (Sped Up)",
           "duration": "1:34"
-        }
-      ]
-    },
-    {
-      "name": "YALA FUNK",
-      "year": "2026",
-      "release_date": "2026-06-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/3b/fa/243bfa49-43d0-e2e2-1db3-39bf56023556/820233749091.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "YALA FUNK",
-          "duration": "1:48"
-        },
-        {
-          "number": 2,
-          "name": "YALA FUNK (Slowed)",
-          "duration": "2:15"
-        },
-        {
-          "number": 3,
-          "name": "YALA FUNK (Super Slowed)",
-          "duration": "2:35"
-        },
-        {
-          "number": 4,
-          "name": "YALA FUNK (Ultra Slowed)",
-          "duration": "3:01"
-        },
-        {
-          "number": 5,
-          "name": "YALA FUNK (Sped Up)",
-          "duration": "1:38"
         }
       ]
     },
@@ -983,39 +691,6 @@
       ]
     },
     {
-      "name": "ELA KÉ CONTRA",
-      "year": "2026",
-      "release_date": "2026-07-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/55/30/9a553057-0819-e0a1-d4b9-48a7f7edb1cb/1222960.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ELA KÉ CONTRA",
-          "duration": "1:14"
-        },
-        {
-          "number": 2,
-          "name": "ELA KÉ CONTRA - Slowed",
-          "duration": "1:23"
-        },
-        {
-          "number": 3,
-          "name": "ELA KÉ CONTRA - Super Slowed",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "ELA KÉ CONTRA - Ultra Slowed",
-          "duration": "1:45"
-        },
-        {
-          "number": 5,
-          "name": "ELA KÉ CONTRA - Sped Up",
-          "duration": "1:06"
-        }
-      ]
-    },
-    {
       "name": "NULORIA",
       "year": "2026",
       "release_date": "2026-01-23",
@@ -1073,6 +748,946 @@
           "number": 5,
           "name": "SENTA (Sped Up)",
           "duration": "1:22"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM AMOR",
+      "year": "2026",
+      "release_date": "2026-03-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/a1/23/22a12379-fb66-1c29-d3ba-0a494355bfd7/1050278.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM AMOR",
+          "duration": "1:22"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM AMOR (Slowed)",
+          "duration": "1:28"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM AMOR (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM AMOR (Ultra Slowed)",
+          "duration": "1:38"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM AMOR (Sped Up)",
+          "duration": "1:17"
+        }
+      ]
+    },
+    {
+      "name": "RAYELO",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/4f/7e/a24f7ed9-14b7-1bfa-856a-7bc5b65296aa/820233512138.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "RAYELO",
+          "duration": "2:02"
+        },
+        {
+          "number": 2,
+          "name": "RAYELO (Slowed)",
+          "duration": "2:25"
+        },
+        {
+          "number": 3,
+          "name": "RAYELO (Super Slowed)",
+          "duration": "2:43"
+        },
+        {
+          "number": 4,
+          "name": "RAYELO (Ultra Slowed)",
+          "duration": "3:03"
+        },
+        {
+          "number": 5,
+          "name": "RAYELO (Sped Up)",
+          "duration": "1:49"
+        }
+      ]
+    },
+    {
+      "name": "ALMA ENCANTADA",
+      "year": "2025",
+      "release_date": "2025-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/81/1d/2f811d72-8dc3-aa09-579e-afa73a505740/199806191750.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ALMA ENCANTADA",
+          "duration": "1:30"
+        },
+        {
+          "number": 2,
+          "name": "ALMA ENCANTADA (SLOWED)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "ALMA ENCANTADA (SPED UP)",
+          "duration": "1:20"
+        },
+        {
+          "number": 4,
+          "name": "ALMA ENCANTADA (SUPER SLOWED)",
+          "duration": "1:53"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM JORNADA",
+      "year": "2025",
+      "release_date": "2025-10-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/b2/21/b7b221cc-70f2-846b-f065-5be02b3cb1cf/3807006.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM JORNADA",
+          "duration": "1:30"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM JORNADA (Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM JORNADA (Super Slowed)",
+          "duration": "1:54"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM JORNADA (Ultra Slowed)",
+          "duration": "2:08"
+        }
+      ]
+    },
+    {
+      "name": "LADO DA VIDA",
+      "year": "2025",
+      "release_date": "2025-06-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/05/d8/6c05d86c-b742-6693-edba-e524a3c78898/0199316121773.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LADO DA VIDA",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "LADO DA VIDA (Sped Up)",
+          "duration": "1:23"
+        },
+        {
+          "number": 3,
+          "name": "LADO DA VIDA (Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 4,
+          "name": "LADO DA VIDA (Super Slowed)",
+          "duration": "1:57"
+        },
+        {
+          "number": 5,
+          "name": "LADO DA VIDA (Ultra Slowed)",
+          "duration": "2:11"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM BRILHAR",
+      "year": "2026",
+      "release_date": "2026-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/a1/06/f5a1061f-260c-f69d-efcb-9d63d1f1ac57/503813.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM BRILHAR",
+          "duration": "1:17"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM BRILHAR (Slowed)",
+          "duration": "1:27"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM BRILHAR (Super Slowed)",
+          "duration": "1:37"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM BRILHAR (Ultra Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM BRILHAR (Sped Up)",
+          "duration": "1:09"
+        }
+      ]
+    },
+    {
+      "name": "MI MAKASE",
+      "year": "2026",
+      "release_date": "2026-03-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/e0/3d/b2e03d6b-6232-6220-c92d-5c046b3c3944/820200383198.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MI MAKASE",
+          "duration": "1:45"
+        },
+        {
+          "number": 2,
+          "name": "MI MAKASE (Slowed)",
+          "duration": "1:58"
+        },
+        {
+          "number": 3,
+          "name": "MI MAKASE (Super Slowed)",
+          "duration": "2:12"
+        },
+        {
+          "number": 4,
+          "name": "MI MAKASE (Sped Up)",
+          "duration": "1:33"
+        },
+        {
+          "number": 5,
+          "name": "MI MAKASE (Ultra Slowed)",
+          "duration": "2:28"
+        }
+      ]
+    },
+    {
+      "name": "TRABALHO",
+      "year": "2025",
+      "release_date": "2025-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/53/8f/cf538f0b-e13a-95f2-3098-42fa0571035d/132797.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TRABALHO",
+          "duration": "1:14"
+        },
+        {
+          "number": 2,
+          "name": "TRABALHO (Slowed)",
+          "duration": "1:23"
+        },
+        {
+          "number": 3,
+          "name": "TRABALHO (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "TRABALHO (Ultra Slowed)",
+          "duration": "1:45"
+        },
+        {
+          "number": 5,
+          "name": "TRABALHO (Sped Up)",
+          "duration": "1:06"
+        }
+      ]
+    },
+    {
+      "name": "DEIXA LEVAR",
+      "year": "2025",
+      "release_date": "2025-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/b3/b3/c4b3b3d5-358f-918c-3ce4-624700025af6/213188.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DEIXA LEVAR",
+          "duration": "2:12"
+        },
+        {
+          "number": 2,
+          "name": "DEIXA LEVAR (Slowed)",
+          "duration": "2:27"
+        },
+        {
+          "number": 3,
+          "name": "DEIXA LEVAR (Super Slowed)",
+          "duration": "2:55"
+        },
+        {
+          "number": 4,
+          "name": "DEIXA LEVAR (Ultra Slowed)",
+          "duration": "3:17"
+        },
+        {
+          "number": 5,
+          "name": "DEIXA LEVAR (Sped Up)",
+          "duration": "1:50"
+        }
+      ]
+    },
+    {
+      "name": "OMNIUM✶N+3+ФX✶",
+      "year": "2026",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/c9/23/39c923f5-6596-fbd6-eee0-e19843c54e7b/885288073560.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "OMNIUM✶N+3+ФX✶",
+          "duration": "1:46"
+        },
+        {
+          "number": 2,
+          "name": "OMNIUM✶N+3+ФX✶ (Slowed + Reverb)",
+          "duration": "2:07"
+        },
+        {
+          "number": 3,
+          "name": "OMNIUM✶N+3+ФX✶ (Super Slowed + Reverb)",
+          "duration": "2:23"
+        },
+        {
+          "number": 4,
+          "name": "OMNIUM✶N+3+ФX✶ (Nightcore)",
+          "duration": "1:41"
+        }
+      ]
+    },
+    {
+      "name": "LUZ PULSANTE",
+      "year": "2025",
+      "release_date": "2025-11-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/29/f8/7929f871-6bac-f2d1-c603-ebe81732026b/212805.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LUZ PULSANTE",
+          "duration": "1:29"
+        },
+        {
+          "number": 2,
+          "name": "LUZ PULSANTE (Slowed)",
+          "duration": "1:33"
+        },
+        {
+          "number": 3,
+          "name": "LUZ PULSANTE (Super Slowed)",
+          "duration": "1:38"
+        },
+        {
+          "number": 4,
+          "name": "LUZ PULSANTE (Ultra Slowed)",
+          "duration": "1:46"
+        },
+        {
+          "number": 5,
+          "name": "LUZ PULSANTE (Sped Up)",
+          "duration": "1:24"
+        }
+      ]
+    },
+    {
+      "name": "EXITIUM✱7lCJ✱IoO✱T6",
+      "year": "2026",
+      "release_date": "2026-08-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/b7/84/c3b78440-3e02-b6d4-3d60-011d3105ab52/885288337211.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "EXITIUM✱7lCJ✱IoO✱T6",
+          "duration": "1:30"
+        },
+        {
+          "number": 2,
+          "name": "EXITIUM✱7lCJ✱IoO✱T6 (Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 3,
+          "name": "EXITIUM✱7lCJ✱IoO✱T6 (Super Slowed)",
+          "duration": "2:02"
+        },
+        {
+          "number": 4,
+          "name": "EXITIUM✱7lCJ✱IoO✱T6 (Nightcore)",
+          "duration": "1:25"
+        }
+      ]
+    },
+    {
+      "name": "MI CORA",
+      "year": "2025",
+      "release_date": "2025-05-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/dd/1a/9add1a57-fca0-b3b5-1592-f6fc7d4a811f/0199316077681.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MI CORA",
+          "duration": "1:38"
+        },
+        {
+          "number": 2,
+          "name": "MI CORA (Sped Up)",
+          "duration": "1:23"
+        },
+        {
+          "number": 3,
+          "name": "MI CORA (Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 4,
+          "name": "MI CORA (Super Slowed)",
+          "duration": "1:54"
+        }
+      ]
+    },
+    {
+      "name": "TAP TAP",
+      "year": "2025",
+      "release_date": "2025-06-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/c2/5e/2fc25ee5-5590-8560-92b2-5cfe7040c4b6/61269.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TAP TAP",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "TAP TAP (Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 3,
+          "name": "TAP TAP (Super Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 4,
+          "name": "TAP TAP (Sped Up)",
+          "duration": "1:13"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM DINERO",
+      "year": "2026",
+      "release_date": "2026-02-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/55/bd/8e55bd4b-b048-af23-3c8a-1a747394eaa5/189447.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM DINERO",
+          "duration": "1:15"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM DINERO (Slowed)",
+          "duration": "1:25"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM DINERO (Super Slowed)",
+          "duration": "1:35"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM DINERO (Ultra Slowed)",
+          "duration": "1:47"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM DINERO (Sped Up)",
+          "duration": "1:11"
+        }
+      ]
+    },
+    {
+      "name": "NÃO VAI VOLTAR",
+      "year": "2025",
+      "release_date": "2025-11-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/e9/ea/65e9ea55-636b-6e1f-77b2-8a39a6bebfb4/199806431412.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NÃO VAI VOLTAR",
+          "duration": "1:09"
+        },
+        {
+          "number": 2,
+          "name": "NÃO VAI VOLTAR (SLOWED)",
+          "duration": "1:17"
+        },
+        {
+          "number": 3,
+          "name": "NÃO VAI VOLTAR (SUPER SLOWED)",
+          "duration": "1:27"
+        },
+        {
+          "number": 4,
+          "name": "NÃO VAI VOLTAR (ULTRA SLOWED)",
+          "duration": "1:32"
+        }
+      ]
+    },
+    {
+      "name": "SOBE NA ONDA",
+      "year": "2025",
+      "release_date": "2025-12-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/95/9c/5e959c90-23f6-0b08-bfe1-567e271ee6cb/10961.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SOBE NA ONDA",
+          "duration": "1:40"
+        },
+        {
+          "number": 2,
+          "name": "SOBE NA ONDA (Slowed)",
+          "duration": "1:52"
+        },
+        {
+          "number": 3,
+          "name": "SOBE NA ONDA (Super Slowed)",
+          "duration": "1:58"
+        },
+        {
+          "number": 4,
+          "name": "SOBE NA ONDA (Ultra Slowed)",
+          "duration": "2:05"
+        },
+        {
+          "number": 5,
+          "name": "SOBE NA ONDA (Sped Up)",
+          "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "ROSA",
+      "year": "2026",
+      "release_date": "2026-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/f6/56/a9f65635-ba07-6444-1bbf-71cb1d25f202/885288562750.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ROSA",
+          "duration": "2:35"
+        },
+        {
+          "number": 2,
+          "name": "ROSA (Slowed)",
+          "duration": "3:04"
+        },
+        {
+          "number": 3,
+          "name": "ROSA (Super Slowed)",
+          "duration": "3:27"
+        },
+        {
+          "number": 4,
+          "name": "ROSA (Ultra Slowed)",
+          "duration": "3:52"
+        },
+        {
+          "number": 5,
+          "name": "ROSA (Sped Up)",
+          "duration": "2:18"
+        }
+      ]
+    },
+    {
+      "name": "JAZZY FUNK",
+      "year": "2025",
+      "release_date": "2025-03-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/18/77/1c187746-27c3-682f-7c1f-bc42513159fc/0199316006261.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "JAZZY FUNK",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "JAZZY FUNK (Sped Up)",
+          "duration": "1:14"
+        },
+        {
+          "number": 3,
+          "name": "JAZZY FUNK (Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "JAZZY FUNK (Super Slowed)",
+          "duration": "1:45"
+        }
+      ]
+    },
+    {
+      "name": "BAILE SINISTRO",
+      "year": "2025",
+      "release_date": "2025-04-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/78/69/167869ee-27bd-5f80-d8eb-a002f9f8c442/df22ebf7-71b7-4931-9b42-42e74c91ad6b.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BAILE SINISTRO",
+          "duration": "1:27"
+        },
+        {
+          "number": 2,
+          "name": "BAILE SINISTRO (Sped Up)",
+          "duration": "1:17"
+        },
+        {
+          "number": 3,
+          "name": "BAILE SINISTRO (Slowed)",
+          "duration": "1:38"
+        },
+        {
+          "number": 4,
+          "name": "BAILE SINISTRO (Ultra Slowed)",
+          "duration": "1:50"
+        }
+      ]
+    },
+    {
+      "name": "SOBE NA ONDA",
+      "year": "2025",
+      "release_date": "2025-12-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/40/3a/cd403a40-6d6b-e19f-69f5-d1f49c89f48b/10961.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SOBE NA ONDA",
+          "duration": "1:40"
+        },
+        {
+          "number": 2,
+          "name": "SOBE NA ONDA (Slowed)",
+          "duration": "1:52"
+        },
+        {
+          "number": 3,
+          "name": "SOBE NA ONDA (Super Slowed)",
+          "duration": "1:58"
+        },
+        {
+          "number": 4,
+          "name": "SOBE NA ONDA (Ultra Slowed)",
+          "duration": "2:05"
+        },
+        {
+          "number": 5,
+          "name": "SOBE NA ONDA (Sped Up)",
+          "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "NA SHIRA",
+      "year": "2026",
+      "release_date": "2026-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/c3/15/e7c315e7-f7d2-2a0c-a6a8-1e11a7e2df2e/3182734.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NA SHIRA",
+          "duration": "1:28"
+        },
+        {
+          "number": 2,
+          "name": "NA SHIRA (Slowed)",
+          "duration": "1:38"
+        },
+        {
+          "number": 3,
+          "name": "NA SHIRA (Super Slowed)",
+          "duration": "1:50"
+        },
+        {
+          "number": 4,
+          "name": "NA SHIRA (Ultra Slowed)",
+          "duration": "2:04"
+        },
+        {
+          "number": 5,
+          "name": "NA SHIRA (Sped Up)",
+          "duration": "1:18"
+        }
+      ]
+    },
+    {
+      "name": "THE PERFECT GIRL FUNK",
+      "year": "2025",
+      "release_date": "2025-11-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/c3/c9/d9c3c92e-e59b-e997-98a9-3f3b16e5fd20/1963624043374_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "THE PERFECT GIRL FUNK",
+          "duration": "1:38"
+        },
+        {
+          "number": 2,
+          "name": "THE PERFECT GIRL FUNK - Slowed",
+          "duration": "1:50"
+        },
+        {
+          "number": 3,
+          "name": "THE PERFECT GIRL FUNK - Super Slowed",
+          "duration": "2:04"
+        },
+        {
+          "number": 4,
+          "name": "THE PERFECT GIRL FUNK - Ultra Slowed",
+          "duration": "2:19"
+        },
+        {
+          "number": 5,
+          "name": "THE PERFECT GIRL FUNK - Sped Up",
+          "duration": "1:27"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM ÁRDUO",
+      "year": "2026",
+      "release_date": "2026-03-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/e0/ab/ebe0ab9b-6ff3-866f-6dfb-212b48298733/999175.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM ÁRDUO",
+          "duration": "1:15"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM ÁRDUO (Slowed)",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM ÁRDUO (Super Slowed)",
+          "duration": "1:35"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM ÁRDUO (Ultra Slowed)",
+          "duration": "1:46"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM ÁRDUO (Sped Up)",
+          "duration": "1:11"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM BRILHAR",
+      "year": "2026",
+      "release_date": "2026-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/d3/93/1ed393e1-00d8-90ca-99f7-4aa7cc30598e/503813.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM BRILHAR",
+          "duration": "1:17"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM BRILHAR (Slowed)",
+          "duration": "1:27"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM BRILHAR (Super Slowed)",
+          "duration": "1:37"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM BRILHAR (Ultra Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM BRILHAR (Sped Up)",
+          "duration": "1:09"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM AMOR",
+      "year": "2026",
+      "release_date": "2026-03-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/52/38/d452388e-e8b7-d855-ba47-00f135f8a440/1050278.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM AMOR",
+          "duration": "1:22"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM AMOR (Slowed)",
+          "duration": "1:28"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM AMOR (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM AMOR (Ultra Slowed)",
+          "duration": "1:38"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM AMOR (Sped Up)",
+          "duration": "1:17"
+        }
+      ]
+    },
+    {
+      "name": "NOITE LENTA",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/28/22/872822a3-2e7b-9192-1a35-eca322d8d220/272276.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NOITE LENTA",
+          "duration": "1:29"
+        },
+        {
+          "number": 2,
+          "name": "NOITE LENTA (Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "NOITE LENTA (Sped Up)",
+          "duration": "1:18"
+        },
+        {
+          "number": 4,
+          "name": "NOITE LENTA (Super Slowed)",
+          "duration": "1:51"
+        },
+        {
+          "number": 5,
+          "name": "NOITE LENTA (Ultra Slowed)",
+          "duration": "2:01"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM PESAR",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/3c/1b/303c1bf7-d879-f396-6cee-0cacac83391d/2122321.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM PESAR",
+          "duration": "2:10"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM PESAR (Slowed)",
+          "duration": "2:38"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM PESAR (Ultra Slowed)",
+          "duration": "2:50"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM PESAR (Sped Up)",
+          "duration": "1:57"
+        }
+      ]
+    },
+    {
+      "name": "YALA FUNK",
+      "year": "2026",
+      "release_date": "2026-06-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/3b/fa/243bfa49-43d0-e2e2-1db3-39bf56023556/820233749091.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "YALA FUNK",
+          "duration": "1:48"
+        },
+        {
+          "number": 2,
+          "name": "YALA FUNK (Slowed)",
+          "duration": "2:15"
+        },
+        {
+          "number": 3,
+          "name": "YALA FUNK (Super Slowed)",
+          "duration": "2:35"
+        },
+        {
+          "number": 4,
+          "name": "YALA FUNK (Ultra Slowed)",
+          "duration": "3:01"
+        },
+        {
+          "number": 5,
+          "name": "YALA FUNK (Sped Up)",
+          "duration": "1:38"
+        }
+      ]
+    },
+    {
+      "name": "ELA KÉ CONTRA",
+      "year": "2026",
+      "release_date": "2026-07-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/55/30/9a553057-0819-e0a1-d4b9-48a7f7edb1cb/1222960.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ELA KÉ CONTRA",
+          "duration": "1:14"
+        },
+        {
+          "number": 2,
+          "name": "ELA KÉ CONTRA - Slowed",
+          "duration": "1:23"
+        },
+        {
+          "number": 3,
+          "name": "ELA KÉ CONTRA - Super Slowed",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "ELA KÉ CONTRA - Ultra Slowed",
+          "duration": "1:45"
+        },
+        {
+          "number": 5,
+          "name": "ELA KÉ CONTRA - Sped Up",
+          "duration": "1:06"
         }
       ]
     },
@@ -1143,39 +1758,6 @@
       ]
     },
     {
-      "name": "MONTAGEM AMOR",
-      "year": "2026",
-      "release_date": "2026-03-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/a1/23/22a12379-fb66-1c29-d3ba-0a494355bfd7/1050278.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM AMOR",
-          "duration": "1:22"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM AMOR (Slowed)",
-          "duration": "1:28"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM AMOR (Super Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM AMOR (Ultra Slowed)",
-          "duration": "1:38"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM AMOR (Sped Up)",
-          "duration": "1:17"
-        }
-      ]
-    },
-    {
       "name": "COMO TE LLAMAS",
       "year": "2025",
       "release_date": "2025-11-07",
@@ -1209,35 +1791,63 @@
       ]
     },
     {
-      "name": "RAYELO",
+      "name": "RODANDO NO VAPOR",
       "year": "2026",
-      "release_date": "2026-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/4f/7e/a24f7ed9-14b7-1bfa-856a-7bc5b65296aa/820233512138.jpg/600x600bb.jpg",
+      "release_date": "2026-01-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/f5/e4/03f5e4aa-ec8f-82ac-e704-3fc2bb61289e/214240.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "RAYELO",
-          "duration": "2:02"
+          "name": "RODANDO NO VAPOR",
+          "duration": "1:25"
         },
         {
           "number": 2,
-          "name": "RAYELO (Slowed)",
-          "duration": "2:25"
+          "name": "RODANDO NO VAPOR (Slowed)",
+          "duration": "1:35"
         },
         {
           "number": 3,
-          "name": "RAYELO (Super Slowed)",
-          "duration": "2:43"
+          "name": "RODANDO NO VAPOR (Super Slowed)",
+          "duration": "1:47"
         },
         {
           "number": 4,
-          "name": "RAYELO (Ultra Slowed)",
-          "duration": "3:03"
+          "name": "RODANDO NO VAPOR (Ultra Slowed)",
+          "duration": "2:00"
         },
         {
           "number": 5,
-          "name": "RAYELO (Sped Up)",
-          "duration": "1:49"
+          "name": "RODANDO NO VAPOR (Speed Up)",
+          "duration": "1:15"
+        }
+      ]
+    },
+    {
+      "name": "Checkmate",
+      "year": "2025",
+      "release_date": "2025-05-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/74/9e/8a749e2e-8572-f7a0-794b-e4cb31da5304/0199316091977.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Checkmate",
+          "duration": "2:09"
+        },
+        {
+          "number": 2,
+          "name": "Checkmate (Sped Up)",
+          "duration": "1:55"
+        },
+        {
+          "number": 3,
+          "name": "Checkmate (Slowed)",
+          "duration": "2:32"
+        },
+        {
+          "number": 4,
+          "name": "Checkmate (Super Slowed)",
+          "duration": "2:53"
         }
       ]
     },
@@ -1275,62 +1885,6 @@
       ]
     },
     {
-      "name": "Checkmate",
-      "year": "2025",
-      "release_date": "2025-05-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/74/9e/8a749e2e-8572-f7a0-794b-e4cb31da5304/0199316091977.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Checkmate",
-          "duration": "2:09"
-        },
-        {
-          "number": 2,
-          "name": "Checkmate (Sped Up)",
-          "duration": "1:55"
-        },
-        {
-          "number": 3,
-          "name": "Checkmate (Slowed)",
-          "duration": "2:32"
-        },
-        {
-          "number": 4,
-          "name": "Checkmate (Super Slowed)",
-          "duration": "2:53"
-        }
-      ]
-    },
-    {
-      "name": "ALMA ENCANTADA",
-      "year": "2025",
-      "release_date": "2025-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/81/1d/2f811d72-8dc3-aa09-579e-afa73a505740/199806191750.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ALMA ENCANTADA",
-          "duration": "1:30"
-        },
-        {
-          "number": 2,
-          "name": "ALMA ENCANTADA (SLOWED)",
-          "duration": "1:41"
-        },
-        {
-          "number": 3,
-          "name": "ALMA ENCANTADA (SPED UP)",
-          "duration": "1:20"
-        },
-        {
-          "number": 4,
-          "name": "ALMA ENCANTADA (SUPER SLOWED)",
-          "duration": "1:53"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM DECHASO",
       "year": "2026",
       "release_date": "2026-01-16",
@@ -1364,34 +1918,6 @@
       ]
     },
     {
-      "name": "MONTAGEM JORNADA",
-      "year": "2025",
-      "release_date": "2025-10-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/b2/21/b7b221cc-70f2-846b-f065-5be02b3cb1cf/3807006.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM JORNADA",
-          "duration": "1:30"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM JORNADA (Slowed)",
-          "duration": "1:42"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM JORNADA (Super Slowed)",
-          "duration": "1:54"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM JORNADA (Ultra Slowed)",
-          "duration": "2:08"
-        }
-      ]
-    },
-    {
       "name": "VAI LENTO (HARDTEKK Versions)",
       "year": "2026",
       "release_date": "2026-07-30",
@@ -1421,39 +1947,6 @@
           "number": 5,
           "name": "VAI LENTO (HARDTEKK - Sped Up)",
           "duration": "1:14"
-        }
-      ]
-    },
-    {
-      "name": "LADO DA VIDA",
-      "year": "2025",
-      "release_date": "2025-06-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/05/d8/6c05d86c-b742-6693-edba-e524a3c78898/0199316121773.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LADO DA VIDA",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "LADO DA VIDA (Sped Up)",
-          "duration": "1:23"
-        },
-        {
-          "number": 3,
-          "name": "LADO DA VIDA (Slowed)",
-          "duration": "1:44"
-        },
-        {
-          "number": 4,
-          "name": "LADO DA VIDA (Super Slowed)",
-          "duration": "1:57"
-        },
-        {
-          "number": 5,
-          "name": "LADO DA VIDA (Ultra Slowed)",
-          "duration": "2:11"
         }
       ]
     },
@@ -1585,39 +2078,6 @@
       ]
     },
     {
-      "name": "MONTAGEM BRILHAR",
-      "year": "2026",
-      "release_date": "2026-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/a1/06/f5a1061f-260c-f69d-efcb-9d63d1f1ac57/503813.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM BRILHAR",
-          "duration": "1:17"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM BRILHAR (Slowed)",
-          "duration": "1:27"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM BRILHAR (Super Slowed)",
-          "duration": "1:37"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM BRILHAR (Ultra Slowed)",
-          "duration": "1:49"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM BRILHAR (Sped Up)",
-          "duration": "1:09"
-        }
-      ]
-    },
-    {
       "name": "VIBRA SUBE",
       "year": "2026",
       "release_date": "2026-01-23",
@@ -1647,39 +2107,6 @@
           "number": 5,
           "name": "VIBRA SUBE (Ultra Slowed)",
           "duration": "2:16"
-        }
-      ]
-    },
-    {
-      "name": "MI MAKASE",
-      "year": "2026",
-      "release_date": "2026-03-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/e0/3d/b2e03d6b-6232-6220-c92d-5c046b3c3944/820200383198.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MI MAKASE",
-          "duration": "1:45"
-        },
-        {
-          "number": 2,
-          "name": "MI MAKASE (Slowed)",
-          "duration": "1:58"
-        },
-        {
-          "number": 3,
-          "name": "MI MAKASE (Super Slowed)",
-          "duration": "2:12"
-        },
-        {
-          "number": 4,
-          "name": "MI MAKASE (Sped Up)",
-          "duration": "1:33"
-        },
-        {
-          "number": 5,
-          "name": "MI MAKASE (Ultra Slowed)",
-          "duration": "2:28"
         }
       ]
     },
@@ -1806,72 +2233,6 @@
       ]
     },
     {
-      "name": "TRABALHO",
-      "year": "2025",
-      "release_date": "2025-09-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/53/8f/cf538f0b-e13a-95f2-3098-42fa0571035d/132797.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TRABALHO",
-          "duration": "1:14"
-        },
-        {
-          "number": 2,
-          "name": "TRABALHO (Slowed)",
-          "duration": "1:23"
-        },
-        {
-          "number": 3,
-          "name": "TRABALHO (Super Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "TRABALHO (Ultra Slowed)",
-          "duration": "1:45"
-        },
-        {
-          "number": 5,
-          "name": "TRABALHO (Sped Up)",
-          "duration": "1:06"
-        }
-      ]
-    },
-    {
-      "name": "DEIXA LEVAR",
-      "year": "2025",
-      "release_date": "2025-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/b3/b3/c4b3b3d5-358f-918c-3ce4-624700025af6/213188.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DEIXA LEVAR",
-          "duration": "2:12"
-        },
-        {
-          "number": 2,
-          "name": "DEIXA LEVAR (Slowed)",
-          "duration": "2:27"
-        },
-        {
-          "number": 3,
-          "name": "DEIXA LEVAR (Super Slowed)",
-          "duration": "2:55"
-        },
-        {
-          "number": 4,
-          "name": "DEIXA LEVAR (Ultra Slowed)",
-          "duration": "3:17"
-        },
-        {
-          "number": 5,
-          "name": "DEIXA LEVAR (Sped Up)",
-          "duration": "1:50"
-        }
-      ]
-    },
-    {
       "name": "FASCINADA",
       "year": "2025",
       "release_date": "2025-10-24",
@@ -1901,123 +2262,6 @@
           "number": 5,
           "name": "FASCINADA (ULTRA SLOWED)",
           "duration": "1:51"
-        }
-      ]
-    },
-    {
-      "name": "OMNIUM✶N+3+ФX✶",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/c9/23/39c923f5-6596-fbd6-eee0-e19843c54e7b/885288073560.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "OMNIUM✶N+3+ФX✶",
-          "duration": "1:46"
-        },
-        {
-          "number": 2,
-          "name": "OMNIUM✶N+3+ФX✶ (Slowed + Reverb)",
-          "duration": "2:07"
-        },
-        {
-          "number": 3,
-          "name": "OMNIUM✶N+3+ФX✶ (Super Slowed + Reverb)",
-          "duration": "2:23"
-        },
-        {
-          "number": 4,
-          "name": "OMNIUM✶N+3+ФX✶ (Nightcore)",
-          "duration": "1:41"
-        }
-      ]
-    },
-    {
-      "name": "LUZ PULSANTE",
-      "year": "2025",
-      "release_date": "2025-11-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/29/f8/7929f871-6bac-f2d1-c603-ebe81732026b/212805.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LUZ PULSANTE",
-          "duration": "1:29"
-        },
-        {
-          "number": 2,
-          "name": "LUZ PULSANTE (Slowed)",
-          "duration": "1:33"
-        },
-        {
-          "number": 3,
-          "name": "LUZ PULSANTE (Super Slowed)",
-          "duration": "1:38"
-        },
-        {
-          "number": 4,
-          "name": "LUZ PULSANTE (Ultra Slowed)",
-          "duration": "1:46"
-        },
-        {
-          "number": 5,
-          "name": "LUZ PULSANTE (Sped Up)",
-          "duration": "1:24"
-        }
-      ]
-    },
-    {
-      "name": "EXITIUM✱7lCJ✱IoO✱T6",
-      "year": "2026",
-      "release_date": "2026-08-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/b7/84/c3b78440-3e02-b6d4-3d60-011d3105ab52/885288337211.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "EXITIUM✱7lCJ✱IoO✱T6",
-          "duration": "1:30"
-        },
-        {
-          "number": 2,
-          "name": "EXITIUM✱7lCJ✱IoO✱T6 (Slowed)",
-          "duration": "1:49"
-        },
-        {
-          "number": 3,
-          "name": "EXITIUM✱7lCJ✱IoO✱T6 (Super Slowed)",
-          "duration": "2:02"
-        },
-        {
-          "number": 4,
-          "name": "EXITIUM✱7lCJ✱IoO✱T6 (Nightcore)",
-          "duration": "1:25"
-        }
-      ]
-    },
-    {
-      "name": "MI CORA",
-      "year": "2025",
-      "release_date": "2025-05-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/dd/1a/9add1a57-fca0-b3b5-1592-f6fc7d4a811f/0199316077681.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MI CORA",
-          "duration": "1:38"
-        },
-        {
-          "number": 2,
-          "name": "MI CORA (Sped Up)",
-          "duration": "1:23"
-        },
-        {
-          "number": 3,
-          "name": "MI CORA (Slowed)",
-          "duration": "1:44"
-        },
-        {
-          "number": 4,
-          "name": "MI CORA (Super Slowed)",
-          "duration": "1:54"
         }
       ]
     },
@@ -2060,34 +2304,6 @@
       ]
     },
     {
-      "name": "TAP TAP",
-      "year": "2025",
-      "release_date": "2025-06-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/c2/5e/2fc25ee5-5590-8560-92b2-5cfe7040c4b6/61269.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TAP TAP",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "TAP TAP (Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 3,
-          "name": "TAP TAP (Super Slowed)",
-          "duration": "1:44"
-        },
-        {
-          "number": 4,
-          "name": "TAP TAP (Sped Up)",
-          "duration": "1:13"
-        }
-      ]
-    },
-    {
       "name": "FOGUETA",
       "year": "2026",
       "release_date": "2026-07-10",
@@ -2112,39 +2328,6 @@
           "number": 4,
           "name": "FOGUETA (Ultra Slowed)",
           "duration": "1:50"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM DINERO",
-      "year": "2026",
-      "release_date": "2026-02-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/55/bd/8e55bd4b-b048-af23-3c8a-1a747394eaa5/189447.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM DINERO",
-          "duration": "1:15"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM DINERO (Slowed)",
-          "duration": "1:25"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM DINERO (Super Slowed)",
-          "duration": "1:35"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM DINERO (Ultra Slowed)",
-          "duration": "1:47"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM DINERO (Sped Up)",
-          "duration": "1:11"
         }
       ]
     },
@@ -2178,95 +2361,6 @@
           "number": 5,
           "name": "FUEGO (Extreme Slowed)",
           "duration": "2:27"
-        }
-      ]
-    },
-    {
-      "name": "NÃO VAI VOLTAR",
-      "year": "2025",
-      "release_date": "2025-11-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/e9/ea/65e9ea55-636b-6e1f-77b2-8a39a6bebfb4/199806431412.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NÃO VAI VOLTAR",
-          "duration": "1:09"
-        },
-        {
-          "number": 2,
-          "name": "NÃO VAI VOLTAR (SLOWED)",
-          "duration": "1:17"
-        },
-        {
-          "number": 3,
-          "name": "NÃO VAI VOLTAR (SUPER SLOWED)",
-          "duration": "1:27"
-        },
-        {
-          "number": 4,
-          "name": "NÃO VAI VOLTAR (ULTRA SLOWED)",
-          "duration": "1:32"
-        }
-      ]
-    },
-    {
-      "name": "SOBE NA ONDA",
-      "year": "2025",
-      "release_date": "2025-12-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/95/9c/5e959c90-23f6-0b08-bfe1-567e271ee6cb/10961.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SOBE NA ONDA",
-          "duration": "1:40"
-        },
-        {
-          "number": 2,
-          "name": "SOBE NA ONDA (Slowed)",
-          "duration": "1:52"
-        },
-        {
-          "number": 3,
-          "name": "SOBE NA ONDA (Super Slowed)",
-          "duration": "1:58"
-        },
-        {
-          "number": 4,
-          "name": "SOBE NA ONDA (Ultra Slowed)",
-          "duration": "2:05"
-        },
-        {
-          "number": 5,
-          "name": "SOBE NA ONDA (Sped Up)",
-          "duration": "1:29"
-        }
-      ]
-    },
-    {
-      "name": "JAZZY FUNK",
-      "year": "2025",
-      "release_date": "2025-03-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/18/77/1c187746-27c3-682f-7c1f-bc42513159fc/0199316006261.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "JAZZY FUNK",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "JAZZY FUNK (Sped Up)",
-          "duration": "1:14"
-        },
-        {
-          "number": 3,
-          "name": "JAZZY FUNK (Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "JAZZY FUNK (Super Slowed)",
-          "duration": "1:45"
         }
       ]
     }

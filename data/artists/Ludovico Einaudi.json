@@ -827,84 +827,6 @@
       ]
     },
     {
-      "name": "I Giorni",
-      "year": "2001",
-      "release_date": "2001-11-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/2f/57/152f5799-ce9f-a0be-b969-3aadcf56f476/20UMGIM59829.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Melodia Africana I",
-          "duration": "2:17"
-        },
-        {
-          "number": 2,
-          "name": "I Due Fiumi",
-          "duration": "4:21"
-        },
-        {
-          "number": 3,
-          "name": "In Un'Altra Vita",
-          "duration": "5:20"
-        },
-        {
-          "number": 4,
-          "name": "Melodia Africana II",
-          "duration": "2:07"
-        },
-        {
-          "number": 5,
-          "name": "Stella Del Mattino",
-          "duration": "2:13"
-        },
-        {
-          "number": 6,
-          "name": "I Giorni",
-          "duration": "5:59"
-        },
-        {
-          "number": 7,
-          "name": "Samba",
-          "duration": "4:14"
-        },
-        {
-          "number": 8,
-          "name": "Melodia Africana III",
-          "duration": "4:19"
-        },
-        {
-          "number": 9,
-          "name": "La Nascita Delle Cose Segrete",
-          "duration": "4:23"
-        },
-        {
-          "number": 10,
-          "name": "Quel Che Resta",
-          "duration": "4:22"
-        },
-        {
-          "number": 11,
-          "name": "Inizio",
-          "duration": "3:27"
-        },
-        {
-          "number": 12,
-          "name": "Limbo",
-          "duration": "4:28"
-        },
-        {
-          "number": 13,
-          "name": "Bella Notte",
-          "duration": "5:14"
-        },
-        {
-          "number": 14,
-          "name": "Canzone Africana IV",
-          "duration": "7:34"
-        }
-      ]
-    },
-    {
       "name": "Nightbook",
       "year": "2009",
       "release_date": "2009-01-01",
@@ -979,6 +901,84 @@
           "number": 14,
           "name": "Berlin Song",
           "duration": "4:26"
+        }
+      ]
+    },
+    {
+      "name": "I Giorni",
+      "year": "2001",
+      "release_date": "2001-11-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/2f/57/152f5799-ce9f-a0be-b969-3aadcf56f476/20UMGIM59829.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Melodia Africana I",
+          "duration": "2:17"
+        },
+        {
+          "number": 2,
+          "name": "I Due Fiumi",
+          "duration": "4:21"
+        },
+        {
+          "number": 3,
+          "name": "In Un'Altra Vita",
+          "duration": "5:20"
+        },
+        {
+          "number": 4,
+          "name": "Melodia Africana II",
+          "duration": "2:07"
+        },
+        {
+          "number": 5,
+          "name": "Stella Del Mattino",
+          "duration": "2:13"
+        },
+        {
+          "number": 6,
+          "name": "I Giorni",
+          "duration": "5:59"
+        },
+        {
+          "number": 7,
+          "name": "Samba",
+          "duration": "4:14"
+        },
+        {
+          "number": 8,
+          "name": "Melodia Africana III",
+          "duration": "4:19"
+        },
+        {
+          "number": 9,
+          "name": "La Nascita Delle Cose Segrete",
+          "duration": "4:23"
+        },
+        {
+          "number": 10,
+          "name": "Quel Che Resta",
+          "duration": "4:22"
+        },
+        {
+          "number": 11,
+          "name": "Inizio",
+          "duration": "3:27"
+        },
+        {
+          "number": 12,
+          "name": "Limbo",
+          "duration": "4:28"
+        },
+        {
+          "number": 13,
+          "name": "Bella Notte",
+          "duration": "5:14"
+        },
+        {
+          "number": 14,
+          "name": "Canzone Africana IV",
+          "duration": "7:34"
         }
       ]
     },
@@ -1418,13 +1418,6 @@
       ]
     },
     {
-      "name": "Seven Days Walking: Day 3",
-      "year": "2019",
-      "release_date": "2019-05-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/05/0e/4b050ef2-f330-0e0d-fa59-d220c2709cce/19UMGIM12432.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Divenire (Bonus Track Version)",
       "year": "2006",
       "release_date": "2006-01-01",
@@ -1496,6 +1489,13 @@
           "duration": "7:07"
         }
       ]
+    },
+    {
+      "name": "Seven Days Walking: Day 3",
+      "year": "2019",
+      "release_date": "2019-05-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/4b/05/0e/4b050ef2-f330-0e0d-fa59-d220c2709cce/19UMGIM12432.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Solo Piano",
@@ -2398,90 +2398,70 @@
       ]
     },
     {
-      "name": "Stanze",
-      "year": "1992",
-      "release_date": "1992-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a3/fe/fc/a3fefcc8-52c1-c8ab-e300-9bbe9f8296dd/00028948111527.rgb.jpg/600x600bb.jpg",
+      "name": "The Summer Portraits Live",
+      "year": "2026",
+      "release_date": "2026-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/67/4d/00674de6-920b-3315-c49b-8ee957d4b56f/26UMGIM50707.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Notte, Pt. 1",
-          "duration": "4:20"
+          "name": "Rose Bay",
+          "duration": "4:33"
         },
         {
           "number": 2,
-          "name": "Calore",
-          "duration": "3:39"
+          "name": "To Be Sun",
+          "duration": "9:34"
         },
         {
           "number": 3,
-          "name": "Moto",
-          "duration": "2:24"
+          "name": "Punta Bianca",
+          "duration": "4:19"
         },
         {
           "number": 4,
-          "name": "Calmo",
-          "duration": "4:33"
+          "name": "Episode One",
+          "duration": "4:59"
         },
         {
           "number": 5,
-          "name": "Vega",
-          "duration": "4:33"
+          "name": "Santiago",
+          "duration": "4:32"
         },
         {
           "number": 6,
-          "name": "Onda",
-          "duration": "4:02"
+          "name": "Jay",
+          "duration": "3:32"
         },
         {
           "number": 7,
-          "name": "Contatti",
-          "duration": "3:14"
+          "name": "I Giorni",
+          "duration": "5:57"
         },
         {
           "number": 8,
-          "name": "Respiro",
-          "duration": "3:59"
+          "name": "Pathos",
+          "duration": "8:16"
         },
         {
           "number": 9,
-          "name": "Lento",
-          "duration": "3:49"
+          "name": "Maria Callas",
+          "duration": "4:19"
         },
         {
           "number": 10,
-          "name": "Attesa",
-          "duration": "3:29"
+          "name": "Experience",
+          "duration": "6:51"
         },
         {
           "number": 11,
-          "name": "Cadenza",
-          "duration": "3:09"
+          "name": "Nuvole Bianche",
+          "duration": "8:49"
         },
         {
           "number": 12,
-          "name": "Orbite",
-          "duration": "3:20"
-        },
-        {
-          "number": 13,
-          "name": "Moto Perpetuo",
-          "duration": "2:34"
-        },
-        {
-          "number": 14,
-          "name": "Cerchio",
-          "duration": "1:53"
-        },
-        {
-          "number": 15,
-          "name": "Ritorno",
-          "duration": "2:23"
-        },
-        {
-          "number": 16,
-          "name": "Notte, Pt. 2",
-          "duration": "4:17"
+          "name": "The Tower",
+          "duration": "10:13"
         }
       ]
     },
@@ -2673,6 +2653,94 @@
           "number": 21,
           "name": "Le Onde (Live)",
           "duration": "6:39"
+        }
+      ]
+    },
+    {
+      "name": "Stanze",
+      "year": "1992",
+      "release_date": "1992-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a3/fe/fc/a3fefcc8-52c1-c8ab-e300-9bbe9f8296dd/00028948111527.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Notte, Pt. 1",
+          "duration": "4:20"
+        },
+        {
+          "number": 2,
+          "name": "Calore",
+          "duration": "3:39"
+        },
+        {
+          "number": 3,
+          "name": "Moto",
+          "duration": "2:24"
+        },
+        {
+          "number": 4,
+          "name": "Calmo",
+          "duration": "4:33"
+        },
+        {
+          "number": 5,
+          "name": "Vega",
+          "duration": "4:33"
+        },
+        {
+          "number": 6,
+          "name": "Onda",
+          "duration": "4:02"
+        },
+        {
+          "number": 7,
+          "name": "Contatti",
+          "duration": "3:14"
+        },
+        {
+          "number": 8,
+          "name": "Respiro",
+          "duration": "3:59"
+        },
+        {
+          "number": 9,
+          "name": "Lento",
+          "duration": "3:49"
+        },
+        {
+          "number": 10,
+          "name": "Attesa",
+          "duration": "3:29"
+        },
+        {
+          "number": 11,
+          "name": "Cadenza",
+          "duration": "3:09"
+        },
+        {
+          "number": 12,
+          "name": "Orbite",
+          "duration": "3:20"
+        },
+        {
+          "number": 13,
+          "name": "Moto Perpetuo",
+          "duration": "2:34"
+        },
+        {
+          "number": 14,
+          "name": "Cerchio",
+          "duration": "1:53"
+        },
+        {
+          "number": 15,
+          "name": "Ritorno",
+          "duration": "2:23"
+        },
+        {
+          "number": 16,
+          "name": "Notte, Pt. 2",
+          "duration": "4:17"
         }
       ]
     },
@@ -2892,74 +2960,6 @@
           "number": 12,
           "name": "Nuvole Bianche",
           "duration": "5:40"
-        }
-      ]
-    },
-    {
-      "name": "The Summer Portraits Live",
-      "year": "2026",
-      "release_date": "2026-06-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/67/4d/00674de6-920b-3315-c49b-8ee957d4b56f/26UMGIM50707.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rose Bay",
-          "duration": "4:33"
-        },
-        {
-          "number": 2,
-          "name": "To Be Sun",
-          "duration": "9:34"
-        },
-        {
-          "number": 3,
-          "name": "Punta Bianca",
-          "duration": "4:19"
-        },
-        {
-          "number": 4,
-          "name": "Episode One",
-          "duration": "4:59"
-        },
-        {
-          "number": 5,
-          "name": "Santiago",
-          "duration": "4:32"
-        },
-        {
-          "number": 6,
-          "name": "Jay",
-          "duration": "3:32"
-        },
-        {
-          "number": 7,
-          "name": "I Giorni",
-          "duration": "5:57"
-        },
-        {
-          "number": 8,
-          "name": "Pathos",
-          "duration": "8:16"
-        },
-        {
-          "number": 9,
-          "name": "Maria Callas",
-          "duration": "4:19"
-        },
-        {
-          "number": 10,
-          "name": "Experience",
-          "duration": "6:51"
-        },
-        {
-          "number": 11,
-          "name": "Nuvole Bianche",
-          "duration": "8:49"
-        },
-        {
-          "number": 12,
-          "name": "The Tower",
-          "duration": "10:13"
         }
       ]
     },
@@ -4161,6 +4161,19 @@
       ]
     },
     {
+      "name": "Experience (Solo Piano Version)",
+      "year": "2023",
+      "release_date": "2023-02-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/eb/ad/a9/ebada9ff-fc03-fae3-9f98-9640c6a333bf/22UM1IM39349.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Experience (Solo Piano Version)",
+          "duration": "5:07"
+        }
+      ]
+    },
+    {
       "name": "Reimagined. Volume 1, Chapter 3",
       "year": "2021",
       "release_date": "2021-09-03",
@@ -4197,19 +4210,6 @@
       ]
     },
     {
-      "name": "Experience (Solo Piano Version)",
-      "year": "2023",
-      "release_date": "2023-02-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/eb/ad/a9/ebada9ff-fc03-fae3-9f98-9640c6a333bf/22UM1IM39349.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Experience (Solo Piano Version)",
-          "duration": "5:07"
-        }
-      ]
-    },
-    {
       "name": "Reimagined. Volume 2, Chapter 3",
       "year": "2022",
       "release_date": "2022-09-02",
@@ -4241,19 +4241,6 @@
       ]
     },
     {
-      "name": "Pathos (Theme)",
-      "year": "2024",
-      "release_date": "2024-11-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/f7/b7/0ef7b7a8-f7d1-34f8-f436-fa02e145b9f8/24UM1IM25362.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pathos (Theme)",
-          "duration": "4:18"
-        }
-      ]
-    },
-    {
       "name": "The Tree",
       "year": "2023",
       "release_date": "2023-01-06",
@@ -4263,6 +4250,19 @@
           "number": 1,
           "name": "The Tree",
           "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "Pathos (Theme)",
+      "year": "2024",
+      "release_date": "2024-11-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/f7/b7/0ef7b7a8-f7d1-34f8-f436-fa02e145b9f8/24UM1IM25362.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pathos (Theme)",
+          "duration": "4:18"
         }
       ]
     },
@@ -4306,19 +4306,6 @@
       ]
     },
     {
-      "name": "Walk (Reimagined)",
-      "year": "2024",
-      "release_date": "2024-05-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/76/61/1a766139-9440-6614-d6c9-0d87a7437f81/24UMGIM46875.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Walk (Reimagined)",
-          "duration": "5:05"
-        }
-      ]
-    },
-    {
       "name": "Waterways (Reimagined)",
       "year": "2024",
       "release_date": "2024-05-17",
@@ -4328,6 +4315,19 @@
           "number": 1,
           "name": "Waterways (Reimagined)",
           "duration": "6:47"
+        }
+      ]
+    },
+    {
+      "name": "Walk (Reimagined)",
+      "year": "2024",
+      "release_date": "2024-05-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/76/61/1a766139-9440-6614-d6c9-0d87a7437f81/24UMGIM46875.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Walk (Reimagined)",
+          "duration": "5:05"
         }
       ]
     },
@@ -4567,17 +4567,17 @@
       "tracks": []
     },
     {
-      "name": "Winter Nights",
-      "year": "2023",
-      "release_date": "2023-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c9/97/ef/c997ef6b-1d69-d76c-0548-2c79b69eddb2/23UM1IM65186.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Afterglow",
       "year": "2026",
       "release_date": "2026-08-26",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/98/57/949857db-55f7-091e-8017-62c99c85b2aa/26UM1IM08850.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Winter Nights",
+      "year": "2023",
+      "release_date": "2023-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c9/97/ef/c997ef6b-1d69-d76c-0548-2c79b69eddb2/23UM1IM65186.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {

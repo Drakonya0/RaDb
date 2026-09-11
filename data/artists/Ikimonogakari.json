@@ -1027,84 +1027,6 @@
       ]
     },
     {
-      "name": "I",
-      "year": "2013",
-      "release_date": "2013-07-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/89/72/1d8972f3-b7fc-01bf-054f-f4ec6611a85b/jacket_ESCL04091B00Z_550.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Egao",
-          "duration": "4:58"
-        },
-        {
-          "number": 2,
-          "name": "1 2 3 Koi Ga Hajimaru",
-          "duration": "4:57"
-        },
-        {
-          "number": 3,
-          "name": "Papapa-Ya",
-          "duration": "5:08"
-        },
-        {
-          "number": 4,
-          "name": "Koiato",
-          "duration": "4:43"
-        },
-        {
-          "number": 5,
-          "name": "Haruuta",
-          "duration": "4:53"
-        },
-        {
-          "number": 6,
-          "name": "My Sunshine Story",
-          "duration": "5:25"
-        },
-        {
-          "number": 7,
-          "name": "Nande",
-          "duration": "6:04"
-        },
-        {
-          "number": 8,
-          "name": "Ashita No Sora",
-          "duration": "4:46"
-        },
-        {
-          "number": 9,
-          "name": "Kaze Koute Hana Yureru",
-          "duration": "5:55"
-        },
-        {
-          "number": 10,
-          "name": "Monstar",
-          "duration": "3:40"
-        },
-        {
-          "number": 11,
-          "name": "Renai Syousetsu",
-          "duration": "5:03"
-        },
-        {
-          "number": 12,
-          "name": "Tokyo",
-          "duration": "4:23"
-        },
-        {
-          "number": 13,
-          "name": "Kazegafuiteiru",
-          "duration": "7:43"
-        },
-        {
-          "number": 14,
-          "name": "Nukumori",
-          "duration": "5:41"
-        }
-      ]
-    },
-    {
       "name": "あそび",
       "year": "2025",
       "release_date": "2025-04-30",
@@ -1252,6 +1174,84 @@
           "number": 13,
           "name": "Kisetsu",
           "duration": "6:23"
+        }
+      ]
+    },
+    {
+      "name": "I",
+      "year": "2013",
+      "release_date": "2013-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1d/89/72/1d8972f3-b7fc-01bf-054f-f4ec6611a85b/jacket_ESCL04091B00Z_550.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Egao",
+          "duration": "4:58"
+        },
+        {
+          "number": 2,
+          "name": "1 2 3 Koi Ga Hajimaru",
+          "duration": "4:57"
+        },
+        {
+          "number": 3,
+          "name": "Papapa-Ya",
+          "duration": "5:08"
+        },
+        {
+          "number": 4,
+          "name": "Koiato",
+          "duration": "4:43"
+        },
+        {
+          "number": 5,
+          "name": "Haruuta",
+          "duration": "4:53"
+        },
+        {
+          "number": 6,
+          "name": "My Sunshine Story",
+          "duration": "5:25"
+        },
+        {
+          "number": 7,
+          "name": "Nande",
+          "duration": "6:04"
+        },
+        {
+          "number": 8,
+          "name": "Ashita No Sora",
+          "duration": "4:46"
+        },
+        {
+          "number": 9,
+          "name": "Kaze Koute Hana Yureru",
+          "duration": "5:55"
+        },
+        {
+          "number": 10,
+          "name": "Monstar",
+          "duration": "3:40"
+        },
+        {
+          "number": 11,
+          "name": "Renai Syousetsu",
+          "duration": "5:03"
+        },
+        {
+          "number": 12,
+          "name": "Tokyo",
+          "duration": "4:23"
+        },
+        {
+          "number": 13,
+          "name": "Kazegafuiteiru",
+          "duration": "7:43"
+        },
+        {
+          "number": 14,
+          "name": "Nukumori",
+          "duration": "5:41"
         }
       ]
     },
@@ -3305,6 +3305,39 @@
       ]
     },
     {
+      "name": "さよならララ",
+      "year": "2026",
+      "release_date": "2026-08-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/ff/c3/61ffc3df-056d-afc3-de1e-b3b7619d8845/4547366845754.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Goodbye Lara",
+          "duration": "4:55"
+        },
+        {
+          "number": 2,
+          "name": "Goodbye Lara -instrumental-",
+          "duration": "4:55"
+        },
+        {
+          "number": 3,
+          "name": "Goodbye Lara -TV size-",
+          "duration": "1:33"
+        },
+        {
+          "number": 4,
+          "name": "Goodbye Lara -2026 Live Track-",
+          "duration": "5:17"
+        },
+        {
+          "number": 5,
+          "name": "Koisuru Otome -2005 Rec ver.-",
+          "duration": "4:35"
+        }
+      ]
+    },
+    {
       "name": "ラストシーン/ぼくらのゆめ",
       "year": "2016",
       "release_date": "2016-08-24",
@@ -3751,39 +3784,6 @@
           "number": 6,
           "name": "Challenger -instrumental-",
           "duration": "4:41"
-        }
-      ]
-    },
-    {
-      "name": "さよならララ",
-      "year": "2026",
-      "release_date": "2026-08-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/ff/c3/61ffc3df-056d-afc3-de1e-b3b7619d8845/4547366845754.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Goodbye Lara",
-          "duration": "4:55"
-        },
-        {
-          "number": 2,
-          "name": "Goodbye Lara -instrumental-",
-          "duration": "4:55"
-        },
-        {
-          "number": 3,
-          "name": "Goodbye Lara -TV size-",
-          "duration": "1:33"
-        },
-        {
-          "number": 4,
-          "name": "Goodbye Lara -2026 Live Track-",
-          "duration": "5:17"
-        },
-        {
-          "number": 5,
-          "name": "Koisuru Otome -2005 Rec ver.-",
-          "duration": "4:35"
         }
       ]
     },

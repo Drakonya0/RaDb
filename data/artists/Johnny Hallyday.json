@@ -1371,6 +1371,64 @@
       ]
     },
     {
+      "name": "Gang",
+      "year": "1986",
+      "release_date": "1986-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/db/67/7edb671b-002b-c28a-0dff-149e660db510/06UMGIM62302.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "L'envie",
+          "duration": "3:50"
+        },
+        {
+          "number": 2,
+          "name": "Je t'attends",
+          "duration": "3:57"
+        },
+        {
+          "number": 3,
+          "name": "J'oublierai ton nom (feat. Carmel)",
+          "duration": "4:40"
+        },
+        {
+          "number": 4,
+          "name": "Toute seule",
+          "duration": "4:21"
+        },
+        {
+          "number": 5,
+          "name": "Je te promets",
+          "duration": "4:35"
+        },
+        {
+          "number": 6,
+          "name": "Laura",
+          "duration": "4:42"
+        },
+        {
+          "number": 7,
+          "name": "Tu peux chercher",
+          "duration": "4:53"
+        },
+        {
+          "number": 8,
+          "name": "Dans mes nuits...on oublie",
+          "duration": "3:44"
+        },
+        {
+          "number": 9,
+          "name": "Ton fils",
+          "duration": "3:46"
+        },
+        {
+          "number": 10,
+          "name": "Encore",
+          "duration": "3:30"
+        }
+      ]
+    },
+    {
       "name": "Allume le feu (Stade de France 1998) [Live]",
       "year": "1998",
       "release_date": "1998-01-01",
@@ -2592,64 +2650,6 @@
           "number": 50,
           "name": "Non je ne regrette rien (Live à la Tour Eiffel / 2000)",
           "duration": "4:16"
-        }
-      ]
-    },
-    {
-      "name": "Gang",
-      "year": "1986",
-      "release_date": "1986-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/db/67/7edb671b-002b-c28a-0dff-149e660db510/06UMGIM62302.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "L'envie",
-          "duration": "3:50"
-        },
-        {
-          "number": 2,
-          "name": "Je t'attends",
-          "duration": "3:57"
-        },
-        {
-          "number": 3,
-          "name": "J'oublierai ton nom (feat. Carmel)",
-          "duration": "4:40"
-        },
-        {
-          "number": 4,
-          "name": "Toute seule",
-          "duration": "4:21"
-        },
-        {
-          "number": 5,
-          "name": "Je te promets",
-          "duration": "4:35"
-        },
-        {
-          "number": 6,
-          "name": "Laura",
-          "duration": "4:42"
-        },
-        {
-          "number": 7,
-          "name": "Tu peux chercher",
-          "duration": "4:53"
-        },
-        {
-          "number": 8,
-          "name": "Dans mes nuits...on oublie",
-          "duration": "3:44"
-        },
-        {
-          "number": 9,
-          "name": "Ton fils",
-          "duration": "3:46"
-        },
-        {
-          "number": 10,
-          "name": "Encore",
-          "duration": "3:30"
         }
       ]
     },
@@ -6598,17 +6598,17 @@
       ]
     },
     {
-      "name": "Rester vivant",
-      "year": "2014",
-      "release_date": "2014-11-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/41/df/6e/41df6e42-4f2b-b88a-2a63-da41b425b3ad/825646190072.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "C'est la vie",
       "year": "1977",
       "release_date": "1977-10-18",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/01/5f/ba/015fba0d-5e54-f55e-f944-f6d6d2fb6a4e/00731454694629.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Rester vivant",
+      "year": "2014",
+      "release_date": "2014-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/41/df/6e/41df6e42-4f2b-b88a-2a63-da41b425b3ad/825646190072.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -10278,6 +10278,13 @@
       ]
     },
     {
+      "name": "L'Idole Des Jeunes",
+      "year": "2004",
+      "release_date": "2004-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/f4/83/aaf483c9-3b36-a59f-d6a8-ceaa1a5be1af/10UMGIM10261.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "La terre promise",
       "year": "1975",
       "release_date": "1975-09-17",
@@ -10920,54 +10927,6 @@
       "release_date": "2022-11-11",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a4/0d/c7/a40dc711-c0dd-b45b-0a8e-dd2c8f7fa4c3/5054197149115.jpg/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "Johnny Hallyday N° 5",
-      "year": "1963",
-      "release_date": "1963-06-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e3/3f/db/e33fdbd2-2837-435e-3fc2-ad1dc53af693/00044006366722.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Da Dou Ron Ron (Da Doo Ron Ron)",
-          "duration": "2:15"
-        },
-        {
-          "number": 2,
-          "name": "Quitte moi doucement (Break It to Me Gently)",
-          "duration": "2:31"
-        },
-        {
-          "number": 3,
-          "name": "Je ne danserai plus jamais (I Will Never Dance Again)",
-          "duration": "2:17"
-        },
-        {
-          "number": 4,
-          "name": "Dis-moi oui (We Say Yeah)",
-          "duration": "2:09"
-        },
-        {
-          "number": 5,
-          "name": "Les bras en croix",
-          "duration": "2:13"
-        },
-        {
-          "number": 6,
-          "name": "Comme une ombre sur moi (Black Cloud)",
-          "duration": "2:27"
-        },
-        {
-          "number": 7,
-          "name": "Douces filles de seize ans",
-          "duration": "2:37"
-        },
-        {
-          "number": 8,
-          "name": "Quand un air vous possède (When My Little Girl Is Smiling)",
-          "duration": "2:21"
-        }
-      ]
     }
   ],
   "singles": [

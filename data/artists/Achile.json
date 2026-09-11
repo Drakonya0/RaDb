@@ -164,19 +164,6 @@
       ]
     },
     {
-      "name": "Faux sourire",
-      "year": "2023",
-      "release_date": "2023-04-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/bf/e7/47bfe75c-e4ec-146a-e8b8-c8d73ba2eee4/196871018005.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Faux sourire",
-          "duration": "2:40"
-        }
-      ]
-    },
-    {
       "name": "Je te ferai des signes",
       "year": "2025",
       "release_date": "2025-02-21",
@@ -199,19 +186,6 @@
           "number": 1,
           "name": "2h12",
           "duration": "3:10"
-        }
-      ]
-    },
-    {
-      "name": "Oh ma vie",
-      "year": "2023",
-      "release_date": "2023-05-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/28/4c/73284c27-6d1d-1a9c-e4f6-3b346093337b/196871130530.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Oh ma vie",
-          "duration": "3:18"
         }
       ]
     },
@@ -255,19 +229,6 @@
       ]
     },
     {
-      "name": "Le paradis blanc",
-      "year": "2024",
-      "release_date": "2024-04-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/8f/54/cd8f541f-cb44-50cc-e0f1-9963bad39785/196871972673.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Le paradis blanc",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "Encore",
       "year": "2019",
       "release_date": "2019-06-14",
@@ -294,32 +255,6 @@
       ]
     },
     {
-      "name": "Hasard",
-      "year": "2018",
-      "release_date": "2018-02-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6a/13/c9/6a13c977-48a2-5912-250d-d7e99edf6ce2/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hasard",
-          "duration": "2:49"
-        }
-      ]
-    },
-    {
-      "name": "Bien partout",
-      "year": "2025",
-      "release_date": "2025-06-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/de/79/0fde79b5-0155-73cc-df98-0e46ea8496ff/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bien partout",
-          "duration": "2:58"
-        }
-      ]
-    },
-    {
       "name": "Vie normale",
       "year": "2020",
       "release_date": "2020-08-27",
@@ -329,19 +264,6 @@
           "number": 1,
           "name": "Vie normale",
           "duration": "3:47"
-        }
-      ]
-    },
-    {
-      "name": "Où sont passés les jours pluvieux",
-      "year": "2023",
-      "release_date": "2023-10-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/36/35/833635f3-e0f7-ca60-58d8-6b02fd84c2c5/3617229334051_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Où sont passés les jours pluvieux",
-          "duration": "2:49"
         }
       ]
     },
@@ -381,6 +303,84 @@
           "number": 1,
           "name": "Le chemin (feat. Achile)",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Faux sourire",
+      "year": "2023",
+      "release_date": "2023-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/bf/e7/47bfe75c-e4ec-146a-e8b8-c8d73ba2eee4/196871018005.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Faux sourire",
+          "duration": "2:40"
+        }
+      ]
+    },
+    {
+      "name": "Oh ma vie",
+      "year": "2023",
+      "release_date": "2023-05-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/28/4c/73284c27-6d1d-1a9c-e4f6-3b346093337b/196871130530.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Oh ma vie",
+          "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "Le paradis blanc",
+      "year": "2024",
+      "release_date": "2024-04-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/8f/54/cd8f541f-cb44-50cc-e0f1-9963bad39785/196871972673.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Le paradis blanc",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Hasard",
+      "year": "2018",
+      "release_date": "2018-02-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6a/13/c9/6a13c977-48a2-5912-250d-d7e99edf6ce2/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hasard",
+          "duration": "2:49"
+        }
+      ]
+    },
+    {
+      "name": "Bien partout",
+      "year": "2025",
+      "release_date": "2025-06-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/de/79/0fde79b5-0155-73cc-df98-0e46ea8496ff/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bien partout",
+          "duration": "2:58"
+        }
+      ]
+    },
+    {
+      "name": "Où sont passés les jours pluvieux",
+      "year": "2023",
+      "release_date": "2023-10-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/36/35/833635f3-e0f7-ca60-58d8-6b02fd84c2c5/3617229334051_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Où sont passés les jours pluvieux",
+          "duration": "2:49"
         }
       ]
     },

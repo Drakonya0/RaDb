@@ -235,6 +235,69 @@
       ]
     },
     {
+      "name": "POUR 2 VRAI (Version finale)",
+      "year": "2025",
+      "release_date": "2025-01-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/0b/18/260b184c-a80a-776b-b650-6443008e7d22/3663729355102_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PDV",
+          "duration": "2:59"
+        },
+        {
+          "number": 1,
+          "name": "VIVEMENT",
+          "duration": "3:10"
+        },
+        {
+          "number": 2,
+          "name": "N°5 - interlude",
+          "duration": "2:43"
+        },
+        {
+          "number": 2,
+          "name": "ABRUZZES",
+          "duration": "2:29"
+        },
+        {
+          "number": 3,
+          "name": "COSA NOSTRA (feat. Mairo)",
+          "duration": "2:57"
+        },
+        {
+          "number": 3,
+          "name": "VENDREDI À LONDRES",
+          "duration": "2:58"
+        },
+        {
+          "number": 4,
+          "name": "CHEVALIER CITADIN",
+          "duration": "2:29"
+        },
+        {
+          "number": 4,
+          "name": "ALL IN (feat. Prince Waly)",
+          "duration": "3:11"
+        },
+        {
+          "number": 5,
+          "name": "DAVVERO",
+          "duration": "2:56"
+        },
+        {
+          "number": 6,
+          "name": "SAMEDI SOIR À PARIS",
+          "duration": "1:56"
+        },
+        {
+          "number": 7,
+          "name": "C QUE DE L'ÉGO",
+          "duration": "2:35"
+        }
+      ]
+    },
+    {
       "name": "N.E.S vol.1",
       "year": "2021",
       "release_date": "2021-08-27",
@@ -299,69 +362,6 @@
           "number": 12,
           "name": "Cybertimp (Bonus Track)",
           "duration": "2:45"
-        }
-      ]
-    },
-    {
-      "name": "POUR 2 VRAI (Version finale)",
-      "year": "2025",
-      "release_date": "2025-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/0b/18/260b184c-a80a-776b-b650-6443008e7d22/3663729355102_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PDV",
-          "duration": "2:59"
-        },
-        {
-          "number": 1,
-          "name": "VIVEMENT",
-          "duration": "3:10"
-        },
-        {
-          "number": 2,
-          "name": "N°5 - interlude",
-          "duration": "2:43"
-        },
-        {
-          "number": 2,
-          "name": "ABRUZZES",
-          "duration": "2:29"
-        },
-        {
-          "number": 3,
-          "name": "COSA NOSTRA (feat. Mairo)",
-          "duration": "2:57"
-        },
-        {
-          "number": 3,
-          "name": "VENDREDI À LONDRES",
-          "duration": "2:58"
-        },
-        {
-          "number": 4,
-          "name": "CHEVALIER CITADIN",
-          "duration": "2:29"
-        },
-        {
-          "number": 4,
-          "name": "ALL IN (feat. Prince Waly)",
-          "duration": "3:11"
-        },
-        {
-          "number": 5,
-          "name": "DAVVERO",
-          "duration": "2:56"
-        },
-        {
-          "number": 6,
-          "name": "SAMEDI SOIR À PARIS",
-          "duration": "1:56"
-        },
-        {
-          "number": 7,
-          "name": "C QUE DE L'ÉGO",
-          "duration": "2:35"
         }
       ]
     },
@@ -564,19 +564,6 @@
       ]
     },
     {
-      "name": "NOUVELLESVESTES! (feat. NeS)",
-      "year": "2022",
-      "release_date": "2022-05-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/fb/64/9ffb6438-45e6-ab53-da17-a4a900a62aea/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NOUVELLESVESTES! (feat. NeS)",
-          "duration": "2:34"
-        }
-      ]
-    },
-    {
       "name": "Karcher Music",
       "year": "2026",
       "release_date": "2026-07-02",
@@ -586,6 +573,19 @@
           "number": 1,
           "name": "Karcher Music",
           "duration": "2:16"
+        }
+      ]
+    },
+    {
+      "name": "NOUVELLESVESTES! (feat. NeS)",
+      "year": "2022",
+      "release_date": "2022-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/fb/64/9ffb6438-45e6-ab53-da17-a4a900a62aea/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NOUVELLESVESTES! (feat. NeS)",
+          "duration": "2:34"
         }
       ]
     },

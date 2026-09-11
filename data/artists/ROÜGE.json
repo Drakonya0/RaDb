@@ -3,6 +3,49 @@
   "id": 1550943015,
   "albums": [
     {
+      "name": "Legacy",
+      "year": "2024",
+      "release_date": "2024-04-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/7e/ba/0f7eba99-c016-9e45-c74d-c2c7fdfbedba/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Doomed",
+          "duration": "5:12"
+        },
+        {
+          "number": 2,
+          "name": "Until Next Moon",
+          "duration": "4:51"
+        },
+        {
+          "number": 3,
+          "name": "Autodrive",
+          "duration": "5:27"
+        },
+        {
+          "number": 4,
+          "name": "Tsuki",
+          "duration": "6:05"
+        },
+        {
+          "number": 5,
+          "name": "Maniac",
+          "duration": "5:01"
+        },
+        {
+          "number": 6,
+          "name": "Stage 01",
+          "duration": "3:36"
+        },
+        {
+          "number": 7,
+          "name": "Cold Hearts Don't Win",
+          "duration": "3:54"
+        }
+      ]
+    },
+    {
       "name": "Ultimatum",
       "year": "2021",
       "release_date": "2021-01-27",
@@ -47,49 +90,6 @@
           "number": 8,
           "name": "Cosmic Mission",
           "duration": "4:55"
-        }
-      ]
-    },
-    {
-      "name": "Legacy",
-      "year": "2024",
-      "release_date": "2024-04-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/7e/ba/0f7eba99-c016-9e45-c74d-c2c7fdfbedba/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Doomed",
-          "duration": "5:12"
-        },
-        {
-          "number": 2,
-          "name": "Until Next Moon",
-          "duration": "4:51"
-        },
-        {
-          "number": 3,
-          "name": "Autodrive",
-          "duration": "5:27"
-        },
-        {
-          "number": 4,
-          "name": "Tsuki",
-          "duration": "6:05"
-        },
-        {
-          "number": 5,
-          "name": "Maniac",
-          "duration": "5:01"
-        },
-        {
-          "number": 6,
-          "name": "Stage 01",
-          "duration": "3:36"
-        },
-        {
-          "number": 7,
-          "name": "Cold Hearts Don't Win",
-          "duration": "3:54"
         }
       ]
     },

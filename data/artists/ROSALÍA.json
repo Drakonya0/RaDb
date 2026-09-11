@@ -717,19 +717,6 @@
       ]
     },
     {
-      "name": "Linda",
-      "year": "2021",
-      "release_date": "2021-09-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/de/ed/4c/deed4c08-7222-d2b5-814f-8fc51e8c02ce/886449526901.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Linda",
-          "duration": "2:24"
-        }
-      ]
-    },
-    {
       "name": "Juro Que",
       "year": "2020",
       "release_date": "2020-01-27",
@@ -739,6 +726,19 @@
           "number": 1,
           "name": "Juro Que",
           "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "name": "Linda",
+      "year": "2021",
+      "release_date": "2021-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/de/ed/4c/deed4c08-7222-d2b5-814f-8fc51e8c02ce/886449526901.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Linda",
+          "duration": "2:24"
         }
       ]
     },
@@ -800,19 +800,6 @@
       ]
     },
     {
-      "name": "A Palé (Gesaffelstein Remix)",
-      "year": "2019",
-      "release_date": "2019-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9b/f5/34/9bf5347b-47d4-c9bd-2313-18d31629e770/886448222002.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A Palé (Gesaffelstein Remix)",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
       "name": "TUYA",
       "year": "2023",
       "release_date": "2023-06-08",
@@ -835,6 +822,19 @@
           "number": 1,
           "name": "DESPECHÁ RMX",
           "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "name": "A Palé (Gesaffelstein Remix)",
+      "year": "2019",
+      "release_date": "2019-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9b/f5/34/9bf5347b-47d4-c9bd-2313-18d31629e770/886448222002.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A Palé (Gesaffelstein Remix)",
+          "duration": "3:24"
         }
       ]
     },
@@ -878,29 +878,6 @@
       ]
     },
     {
-      "name": "Sauvignon Blanc",
-      "year": "2026",
-      "release_date": "2026-02-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/19/d0/5919d01a-5f44-f0a8-9ee4-6870b591390d/196874104514.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sauvignon Blanc",
-          "duration": "2:42"
-        },
-        {
-          "number": 2,
-          "name": "Sauvignon Blanc (A Cappella)",
-          "duration": "2:48"
-        },
-        {
-          "number": 3,
-          "name": "Sauvignon Blanc (Instrumental)",
-          "duration": "2:42"
-        }
-      ]
-    },
-    {
       "name": "BIZCOCHITO (LEORD Y HARACA KIKO REMIX) [feat. Haraca Kiko]",
       "year": "2022",
       "release_date": "2022-10-20",
@@ -923,6 +900,29 @@
           "number": 1,
           "name": "Linda (Dulce y deliciosa como una cookie) (feat. Rosalia & Tokischa)",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Sauvignon Blanc",
+      "year": "2026",
+      "release_date": "2026-02-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/19/d0/5919d01a-5f44-f0a8-9ee4-6870b591390d/196874104514.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sauvignon Blanc",
+          "duration": "2:42"
+        },
+        {
+          "number": 2,
+          "name": "Sauvignon Blanc (A Cappella)",
+          "duration": "2:48"
+        },
+        {
+          "number": 3,
+          "name": "Sauvignon Blanc (Instrumental)",
+          "duration": "2:42"
         }
       ]
     },

@@ -546,17 +546,17 @@
       ]
     },
     {
-      "name": "3 Lions",
-      "year": "2025",
-      "release_date": "2025-06-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/16/02/9f1602e8-bcd0-73aa-a8e9-be6e386b9a6f/25UMGIM84438.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "93 Problèmes",
       "year": "2025",
       "release_date": "2025-01-22",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/98/ca/ae98ca8d-a50d-aba1-0b03-f92ecf145a79/5021732594143.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "3 Lions",
+      "year": "2025",
+      "release_date": "2025-06-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/16/02/9f1602e8-bcd0-73aa-a8e9-be6e386b9a6f/25UMGIM84438.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -573,13 +573,6 @@
       ]
     },
     {
-      "name": "Snitch",
-      "year": "2021",
-      "release_date": "2021-06-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/ad/5a/01ad5aa2-f9c7-18dc-1192-86f59affa737/21UMGIM53472.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Le Club",
       "year": "2024",
       "release_date": "2024-03-28",
@@ -591,6 +584,13 @@
           "duration": "3:17"
         }
       ]
+    },
+    {
+      "name": "Snitch",
+      "year": "2021",
+      "release_date": "2021-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/ad/5a/01ad5aa2-f9c7-18dc-1192-86f59affa737/21UMGIM53472.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Fallout",
@@ -615,6 +615,19 @@
           "number": 1,
           "name": "IA",
           "duration": "2:49"
+        }
+      ]
+    },
+    {
+      "name": "Con Fuego",
+      "year": "2026",
+      "release_date": "2026-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/dc/df/5ddcdf40-ce2c-f2e0-2697-491c74aee136/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Con Fuego",
+          "duration": "4:50"
         }
       ]
     },
@@ -945,19 +958,6 @@
       "tracks": []
     },
     {
-      "name": "Far Away",
-      "year": "2019",
-      "release_date": "2019-07-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/c0/88/45c08850-420c-d5cf-85af-6ab04eb0e185/194491035662.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Far Away",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "La Pluie",
       "year": "2025",
       "release_date": "2025-02-21",
@@ -967,6 +967,19 @@
           "number": 1,
           "name": "La Pluie",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "Far Away",
+      "year": "2019",
+      "release_date": "2019-07-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/45/c0/88/45c08850-420c-d5cf-85af-6ab04eb0e185/194491035662.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Far Away",
+          "duration": "3:04"
         }
       ]
     },

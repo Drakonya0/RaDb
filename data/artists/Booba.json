@@ -164,64 +164,6 @@
       ]
     },
     {
-      "name": "AD VITAM ÆTERNAM",
-      "year": "2024",
-      "release_date": "2024-02-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/cf/c9/08cfc9e9-fb3c-03cd-c6ef-45a64aba953c/24UMGIM11836.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rebel",
-          "duration": "2:13"
-        },
-        {
-          "number": 2,
-          "name": "Saga",
-          "duration": "3:14"
-        },
-        {
-          "number": 3,
-          "name": "Dolce Camara",
-          "duration": "2:58"
-        },
-        {
-          "number": 4,
-          "name": "Sport Billy",
-          "duration": "2:06"
-        },
-        {
-          "number": 5,
-          "name": "Signé",
-          "duration": "3:00"
-        },
-        {
-          "number": 6,
-          "name": "6G",
-          "duration": "2:51"
-        },
-        {
-          "number": 7,
-          "name": "GM",
-          "duration": "3:28"
-        },
-        {
-          "number": 8,
-          "name": "Abidal",
-          "duration": "2:56"
-        },
-        {
-          "number": 9,
-          "name": "Bénigni",
-          "duration": "2:53"
-        },
-        {
-          "number": 10,
-          "name": "CVBSP",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
       "name": "Nero nemesis",
       "year": "2015",
       "release_date": "2015-12-04",
@@ -291,6 +233,64 @@
           "number": 13,
           "name": "4G",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "AD VITAM ÆTERNAM",
+      "year": "2024",
+      "release_date": "2024-02-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/08/cf/c9/08cfc9e9-fb3c-03cd-c6ef-45a64aba953c/24UMGIM11836.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rebel",
+          "duration": "2:13"
+        },
+        {
+          "number": 2,
+          "name": "Saga",
+          "duration": "3:14"
+        },
+        {
+          "number": 3,
+          "name": "Dolce Camara",
+          "duration": "2:58"
+        },
+        {
+          "number": 4,
+          "name": "Sport Billy",
+          "duration": "2:06"
+        },
+        {
+          "number": 5,
+          "name": "Signé",
+          "duration": "3:00"
+        },
+        {
+          "number": 6,
+          "name": "6G",
+          "duration": "2:51"
+        },
+        {
+          "number": 7,
+          "name": "GM",
+          "duration": "3:28"
+        },
+        {
+          "number": 8,
+          "name": "Abidal",
+          "duration": "2:56"
+        },
+        {
+          "number": 9,
+          "name": "Bénigni",
+          "duration": "2:53"
+        },
+        {
+          "number": 10,
+          "name": "CVBSP",
+          "duration": "2:51"
         }
       ]
     },
@@ -1905,17 +1905,11 @@
       ]
     },
     {
-      "name": "Nautilus (Remix) [feat. Booba & Ghenda]",
-      "year": "2025",
-      "release_date": "2025-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/d5/58/d2d55841-b6cb-7ccc-d1e3-e185232c895f/199350265433.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nautilus (Remix) [feat. Booba & Ghenda]",
-          "duration": "2:46"
-        }
-      ]
+      "name": "Daddy (feat. Booba)",
+      "year": "2021",
+      "release_date": "2021-04-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/10/4f/a0/104fa063-e2ee-9189-6f1e-7d3976be8129/21UMGIM20177.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Seychelles Remix",
@@ -1931,11 +1925,17 @@
       ]
     },
     {
-      "name": "Daddy (feat. Booba)",
-      "year": "2021",
-      "release_date": "2021-04-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/10/4f/a0/104fa063-e2ee-9189-6f1e-7d3976be8129/21UMGIM20177.rgb.jpg/600x600bb.jpg",
-      "tracks": []
+      "name": "Nautilus (Remix) [feat. Booba & Ghenda]",
+      "year": "2025",
+      "release_date": "2025-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/d5/58/d2d55841-b6cb-7ccc-d1e3-e185232c895f/199350265433.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nautilus (Remix) [feat. Booba & Ghenda]",
+          "duration": "2:46"
+        }
+      ]
     },
     {
       "name": "Saga (Remix)",

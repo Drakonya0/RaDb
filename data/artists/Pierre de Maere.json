@@ -3,74 +3,6 @@
   "id": 1467579626,
   "albums": [
     {
-      "name": "Regarde-moi",
-      "year": "2023",
-      "release_date": "2023-01-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0f/a0/c9/0fa0c989-abdf-4628-acf7-7eda5d4e2340/3596974297562_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Les oiseaux",
-          "duration": "3:02"
-        },
-        {
-          "number": 2,
-          "name": "Enfant de",
-          "duration": "2:54"
-        },
-        {
-          "number": 3,
-          "name": "Roméo",
-          "duration": "3:12"
-        },
-        {
-          "number": 4,
-          "name": "Bel-Ami",
-          "duration": "2:37"
-        },
-        {
-          "number": 5,
-          "name": "Regarde-moi",
-          "duration": "3:04"
-        },
-        {
-          "number": 6,
-          "name": "J'aime ta violence",
-          "duration": "2:31"
-        },
-        {
-          "number": 7,
-          "name": "Les animaux",
-          "duration": "3:28"
-        },
-        {
-          "number": 8,
-          "name": "Un jour je marierai un ange",
-          "duration": "2:44"
-        },
-        {
-          "number": 9,
-          "name": "Mercredi",
-          "duration": "2:51"
-        },
-        {
-          "number": 10,
-          "name": "Ta mère est folle",
-          "duration": "2:34"
-        },
-        {
-          "number": 11,
-          "name": "Jour -3",
-          "duration": "2:51"
-        },
-        {
-          "number": 12,
-          "name": "Évidemment",
-          "duration": "2:45"
-        }
-      ]
-    },
-    {
       "name": "Ave de Maere",
       "year": "2026",
       "release_date": "2026-09-25",
@@ -139,6 +71,74 @@
       ]
     },
     {
+      "name": "Regarde-moi",
+      "year": "2023",
+      "release_date": "2023-01-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/0f/a0/c9/0fa0c989-abdf-4628-acf7-7eda5d4e2340/3596974297562_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Les oiseaux",
+          "duration": "3:02"
+        },
+        {
+          "number": 2,
+          "name": "Enfant de",
+          "duration": "2:54"
+        },
+        {
+          "number": 3,
+          "name": "Roméo",
+          "duration": "3:12"
+        },
+        {
+          "number": 4,
+          "name": "Bel-Ami",
+          "duration": "2:37"
+        },
+        {
+          "number": 5,
+          "name": "Regarde-moi",
+          "duration": "3:04"
+        },
+        {
+          "number": 6,
+          "name": "J'aime ta violence",
+          "duration": "2:31"
+        },
+        {
+          "number": 7,
+          "name": "Les animaux",
+          "duration": "3:28"
+        },
+        {
+          "number": 8,
+          "name": "Un jour je marierai un ange",
+          "duration": "2:44"
+        },
+        {
+          "number": 9,
+          "name": "Mercredi",
+          "duration": "2:51"
+        },
+        {
+          "number": 10,
+          "name": "Ta mère est folle",
+          "duration": "2:34"
+        },
+        {
+          "number": 11,
+          "name": "Jour -3",
+          "duration": "2:51"
+        },
+        {
+          "number": 12,
+          "name": "Évidemment",
+          "duration": "2:45"
+        }
+      ]
+    },
+    {
       "name": "Grand Soleil (feat. Adèle Castillon, Amadou & Mariam, Charlotte Gainsbourg, Eddy de Pretto, ElGrandeToto, Eva, Fally Ipupa, Hoshi, Juliette Armanet, Kalash Criminel, Louane, Lous and The Yakuza, LUCKY LOVE, Médine, Pierre de Maere, Pomme & Youssoupha)",
       "year": "2025",
       "release_date": "2025-03-13",
@@ -200,19 +200,6 @@
       ]
     },
     {
-      "name": "Regrets",
-      "year": "2021",
-      "release_date": "2021-04-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2c/e1/3c/2ce13cb4-fae6-b6ab-2c4e-ac2de7555d5e/3596973972699_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Regrets",
-          "duration": "3:16"
-        }
-      ]
-    },
-    {
       "name": "Menteur",
       "year": "2021",
       "release_date": "2021-06-30",
@@ -222,6 +209,19 @@
           "number": 1,
           "name": "Menteur",
           "duration": "2:49"
+        }
+      ]
+    },
+    {
+      "name": "Regrets",
+      "year": "2021",
+      "release_date": "2021-04-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2c/e1/3c/2ce13cb4-fae6-b6ab-2c4e-ac2de7555d5e/3596973972699_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Regrets",
+          "duration": "3:16"
         }
       ]
     }

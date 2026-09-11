@@ -4,6 +4,29 @@
   "albums": [],
   "singles": [
     {
+      "name": "Funk Fuga",
+      "year": "2026",
+      "release_date": "2026-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/aa/b0/f6aab0bc-947f-a2fd-47bd-07b6ccfc3b1d/885288517774.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FUNK FUGA",
+          "duration": "1:38"
+        },
+        {
+          "number": 2,
+          "name": "FUNK FUGA (Slowed)",
+          "duration": "1:50"
+        },
+        {
+          "number": 3,
+          "name": "FUNK FUGA (Sped Up)",
+          "duration": "1:32"
+        }
+      ]
+    },
+    {
       "name": "hipnosis...",
       "year": "2025",
       "release_date": "2025-07-29",

@@ -245,19 +245,6 @@
   ],
   "singles": [
     {
-      "name": "The Balance",
-      "year": "2021",
-      "release_date": "2021-10-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/2b/46/7a2b462f-a580-a4db-92c6-06edbd638892/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Balance",
-          "duration": "5:18"
-        }
-      ]
-    },
-    {
       "name": "Homage",
       "year": "2025",
       "release_date": "2025-01-24",
@@ -277,6 +264,19 @@
           "number": 3,
           "name": "Milk",
           "duration": "6:26"
+        }
+      ]
+    },
+    {
+      "name": "The Balance",
+      "year": "2021",
+      "release_date": "2021-10-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/2b/46/7a2b462f-a580-a4db-92c6-06edbd638892/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Balance",
+          "duration": "5:18"
         }
       ]
     },
@@ -621,19 +621,6 @@
       ]
     },
     {
-      "name": "Dirt Road",
-      "year": "2023",
-      "release_date": "2023-06-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/c6/f5/e7c6f5e0-5bfc-3744-6580-2cf40762ac8b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dirt Road",
-          "duration": "6:34"
-        }
-      ]
-    },
-    {
       "name": "Suicide Silence",
       "year": "2022",
       "release_date": "2022-04-20",
@@ -660,15 +647,15 @@
       ]
     },
     {
-      "name": "Avalanche",
+      "name": "Dirt Road",
       "year": "2023",
-      "release_date": "2023-05-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/ce/b9/30ceb902-9130-b97b-981a-e9f440fb4094/cover.jpg/600x600bb.jpg",
+      "release_date": "2023-06-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/c6/f5/e7c6f5e0-5bfc-3744-6580-2cf40762ac8b/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Avalanche",
-          "duration": "5:48"
+          "name": "Dirt Road",
+          "duration": "6:34"
         }
       ]
     },
@@ -682,6 +669,19 @@
           "number": 1,
           "name": "Animal",
           "duration": "4:25"
+        }
+      ]
+    },
+    {
+      "name": "Avalanche",
+      "year": "2023",
+      "release_date": "2023-05-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/30/ce/b9/30ceb902-9130-b97b-981a-e9f440fb4094/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Avalanche",
+          "duration": "5:48"
         }
       ]
     },

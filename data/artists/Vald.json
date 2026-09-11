@@ -286,64 +286,6 @@
       "tracks": []
     },
     {
-      "name": "Echelon Vol. 2",
-      "year": "2021",
-      "release_date": "2021-04-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ed/72/29/ed7229f6-9567-d149-639c-e7ea695487e3/886449215324.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Echelon 2",
-          "duration": "3:00"
-        },
-        {
-          "number": 2,
-          "name": "HS",
-          "duration": "3:53"
-        },
-        {
-          "number": 3,
-          "name": "Comme prévu",
-          "duration": "2:48"
-        },
-        {
-          "number": 4,
-          "name": "Virus WiFi",
-          "duration": "3:18"
-        },
-        {
-          "number": 5,
-          "name": "Vadala",
-          "duration": "2:53"
-        },
-        {
-          "number": 6,
-          "name": "Mushu",
-          "duration": "2:59"
-        },
-        {
-          "number": 7,
-          "name": "Vibe",
-          "duration": "3:02"
-        },
-        {
-          "number": 8,
-          "name": "Talkie",
-          "duration": "4:04"
-        },
-        {
-          "number": 9,
-          "name": "160",
-          "duration": "2:07"
-        },
-        {
-          "number": 10,
-          "name": "Aventador",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "VV5",
       "year": "2022",
       "release_date": "2022-12-16",
@@ -493,6 +435,64 @@
           "number": 16,
           "name": "Bien sûr (Bonus)",
           "duration": "2:47"
+        }
+      ]
+    },
+    {
+      "name": "Echelon Vol. 2",
+      "year": "2021",
+      "release_date": "2021-04-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ed/72/29/ed7229f6-9567-d149-639c-e7ea695487e3/886449215324.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Echelon 2",
+          "duration": "3:00"
+        },
+        {
+          "number": 2,
+          "name": "HS",
+          "duration": "3:53"
+        },
+        {
+          "number": 3,
+          "name": "Comme prévu",
+          "duration": "2:48"
+        },
+        {
+          "number": 4,
+          "name": "Virus WiFi",
+          "duration": "3:18"
+        },
+        {
+          "number": 5,
+          "name": "Vadala",
+          "duration": "2:53"
+        },
+        {
+          "number": 6,
+          "name": "Mushu",
+          "duration": "2:59"
+        },
+        {
+          "number": 7,
+          "name": "Vibe",
+          "duration": "3:02"
+        },
+        {
+          "number": 8,
+          "name": "Talkie",
+          "duration": "4:04"
+        },
+        {
+          "number": 9,
+          "name": "160",
+          "duration": "2:07"
+        },
+        {
+          "number": 10,
+          "name": "Aventador",
+          "duration": "3:29"
         }
       ]
     },
@@ -930,19 +930,6 @@
   ],
   "singles": [
     {
-      "name": "Bitch (feat. Vald)",
-      "year": "2019",
-      "release_date": "2019-07-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/70/ce/83/70ce83d4-46c9-5bff-fa41-0d1f76986d3d/886447823781.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bitch (feat. Vald)",
-          "duration": "3:55"
-        }
-      ]
-    },
-    {
       "name": "GAUCHE DROITE",
       "year": "2025",
       "release_date": "2025-02-28",
@@ -1080,13 +1067,6 @@
       ]
     },
     {
-      "name": "Désaccordé",
-      "year": "2018",
-      "release_date": "2018-01-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5f/32/0c/5f320c33-8024-e692-88c8-3c1dfcc98df0/00602567379492.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Bitch (feat. Vald)",
       "year": "2019",
       "release_date": "2019-07-10",
@@ -1098,6 +1078,13 @@
           "duration": "3:55"
         }
       ]
+    },
+    {
+      "name": "Désaccordé",
+      "year": "2018",
+      "release_date": "2018-01-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5f/32/0c/5f320c33-8024-e692-88c8-3c1dfcc98df0/00602567379492.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "BLAUWBURGWAL",

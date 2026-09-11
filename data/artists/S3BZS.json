@@ -635,7 +635,7 @@
       "name": "Aurial",
       "year": "2024",
       "release_date": "2024-07-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/d0/6e/1fd06e54-c917-8e21-f2dc-693890a43092/15549.jpg/600x600bb.jpg",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/b1/a0/42b1a0a1-df68-c8b7-333c-2f8f3b3fcfa6/3525714.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
@@ -1336,6 +1336,19 @@
       ]
     },
     {
+      "name": "Ela Gosta",
+      "year": "2026",
+      "release_date": "2026-09-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/4c/a7/5a4ca78d-9224-b5c7-0443-21e6155717b7/4019291.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ela Gosta",
+          "duration": "1:43"
+        }
+      ]
+    },
+    {
       "name": "PR IN RIO",
       "year": "2023",
       "release_date": "2023-08-11",
@@ -1727,6 +1740,34 @@
           "number": 4,
           "name": "CABOCA NO P4U (SPED UP)",
           "duration": "1:13"
+        }
+      ]
+    },
+    {
+      "name": "PVZ FUNK",
+      "year": "2025",
+      "release_date": "2025-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/b1/56/dcb156f9-a0d1-4259-2e31-ea1b6069fbf0/142004.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "PVZ FUNK",
+          "duration": "1:13"
+        },
+        {
+          "number": 2,
+          "name": "PVZ FUNK (Slowed)",
+          "duration": "1:27"
+        },
+        {
+          "number": 3,
+          "name": "PVZ FUNK (Super Slowed)",
+          "duration": "1:38"
+        },
+        {
+          "number": 4,
+          "name": "PVZ FUNK (Speed Up)",
+          "duration": "1:02"
         }
       ]
     },

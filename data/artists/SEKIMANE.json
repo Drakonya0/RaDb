@@ -775,19 +775,6 @@
       ]
     },
     {
-      "name": "Melodia Do Argentino Funk",
-      "year": "2025",
-      "release_date": "2025-06-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/93/04/b1930496-8ad1-748d-fe7e-7b2491e61794/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Melodia Do Argentino Funk",
-          "duration": "1:27"
-        }
-      ]
-    },
-    {
       "name": "OSHO TO PASSE",
       "year": "2025",
       "release_date": "2025-02-05",
@@ -807,6 +794,19 @@
           "number": 3,
           "name": "OSHO TO PASSE (Super Slowed)",
           "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "name": "Melodia Do Argentino Funk",
+      "year": "2025",
+      "release_date": "2025-06-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/93/04/b1930496-8ad1-748d-fe7e-7b2491e61794/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Melodia Do Argentino Funk",
+          "duration": "1:27"
         }
       ]
     },
@@ -1101,6 +1101,39 @@
       ]
     },
     {
+      "name": "lost umbrella funk",
+      "year": "2025",
+      "release_date": "2025-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/a9/96/dda99663-4735-b786-a448-689ff8f69ce5/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "lost umbrella funk",
+          "duration": "1:49"
+        },
+        {
+          "number": 2,
+          "name": "lost umbrella funk (Slowed)",
+          "duration": "2:25"
+        },
+        {
+          "number": 3,
+          "name": "lost umbrella funk (Mega Slowed)",
+          "duration": "2:53"
+        },
+        {
+          "number": 4,
+          "name": "lost umbrella funk (Sped Up)",
+          "duration": "1:37"
+        },
+        {
+          "number": 5,
+          "name": "lost umbrella funk (Edit Version)",
+          "duration": "2:09"
+        }
+      ]
+    },
+    {
       "name": "FASHIONADA",
       "year": "2025",
       "release_date": "2025-06-06",
@@ -1139,39 +1172,6 @@
       ]
     },
     {
-      "name": "lost umbrella funk",
-      "year": "2025",
-      "release_date": "2025-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/a9/96/dda99663-4735-b786-a448-689ff8f69ce5/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "lost umbrella funk",
-          "duration": "1:49"
-        },
-        {
-          "number": 2,
-          "name": "lost umbrella funk (Slowed)",
-          "duration": "2:25"
-        },
-        {
-          "number": 3,
-          "name": "lost umbrella funk (Mega Slowed)",
-          "duration": "2:53"
-        },
-        {
-          "number": 4,
-          "name": "lost umbrella funk (Sped Up)",
-          "duration": "1:37"
-        },
-        {
-          "number": 5,
-          "name": "lost umbrella funk (Edit Version)",
-          "duration": "2:09"
-        }
-      ]
-    },
-    {
       "name": "POR UN MOMENTO (feat. Cape)",
       "year": "2025",
       "release_date": "2025-11-20",
@@ -1200,34 +1200,6 @@
       ]
     },
     {
-      "name": "X-ANDROGEN",
-      "year": "2024",
-      "release_date": "2024-09-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/4a/37/d14a37b1-eca5-5839-24fc-754766743a02/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "X-ANDROGEN",
-          "duration": "1:06"
-        },
-        {
-          "number": 2,
-          "name": "X-ANDROGEN (Slowed)",
-          "duration": "1:20"
-        },
-        {
-          "number": 3,
-          "name": "X-ANDROGEN (Super Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "X-ANDROGEN (Sped Up)",
-          "duration": "0:58"
-        }
-      ]
-    },
-    {
       "name": "FUNK DA HIPNOTICA",
       "year": "2025",
       "release_date": "2025-02-25",
@@ -1252,6 +1224,34 @@
           "number": 4,
           "name": "FUNK DA HIPNOTICA (Ultra Slowed)",
           "duration": "1:26"
+        }
+      ]
+    },
+    {
+      "name": "X-ANDROGEN",
+      "year": "2024",
+      "release_date": "2024-09-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/4a/37/d14a37b1-eca5-5839-24fc-754766743a02/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "X-ANDROGEN",
+          "duration": "1:06"
+        },
+        {
+          "number": 2,
+          "name": "X-ANDROGEN (Slowed)",
+          "duration": "1:20"
+        },
+        {
+          "number": 3,
+          "name": "X-ANDROGEN (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "X-ANDROGEN (Sped Up)",
+          "duration": "0:58"
         }
       ]
     },
@@ -3010,34 +3010,6 @@
       ]
     },
     {
-      "name": "SOM CÓSMICO",
-      "year": "2025",
-      "release_date": "2025-07-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/2e/44/d22e440a-7cd6-0389-12ef-61d0e3b6dab4/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SOM CÓSMICO",
-          "duration": "1:10"
-        },
-        {
-          "number": 2,
-          "name": "SOM CÓSMICO - Slowed",
-          "duration": "1:18"
-        },
-        {
-          "number": 3,
-          "name": "SOM CÓSMICO - Super Slowed",
-          "duration": "1:28"
-        },
-        {
-          "number": 4,
-          "name": "SOM CÓSMICO - Sped Up",
-          "duration": "1:06"
-        }
-      ]
-    },
-    {
       "name": "BURBALONI FUNK",
       "year": "2025",
       "release_date": "2025-04-05",
@@ -3067,6 +3039,34 @@
           "number": 5,
           "name": "BURBALONI FUNK (Sped Up)",
           "duration": "1:21"
+        }
+      ]
+    },
+    {
+      "name": "SOM CÓSMICO",
+      "year": "2025",
+      "release_date": "2025-07-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/2e/44/d22e440a-7cd6-0389-12ef-61d0e3b6dab4/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SOM CÓSMICO",
+          "duration": "1:10"
+        },
+        {
+          "number": 2,
+          "name": "SOM CÓSMICO - Slowed",
+          "duration": "1:18"
+        },
+        {
+          "number": 3,
+          "name": "SOM CÓSMICO - Super Slowed",
+          "duration": "1:28"
+        },
+        {
+          "number": 4,
+          "name": "SOM CÓSMICO - Sped Up",
+          "duration": "1:06"
         }
       ]
     },

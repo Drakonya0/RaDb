@@ -855,19 +855,6 @@
       ]
     },
     {
-      "name": "Move It",
-      "year": "2024",
-      "release_date": "2024-01-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/2c/27/562c2762-5991-eaa5-c132-fbfc7d45ef34/732138361608_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Move It",
-          "duration": "1:32"
-        }
-      ]
-    },
-    {
       "name": "Backstage",
       "year": "2023",
       "release_date": "2023-04-14",
@@ -877,6 +864,19 @@
           "number": 1,
           "name": "Backstage",
           "duration": "1:30"
+        }
+      ]
+    },
+    {
+      "name": "Move It",
+      "year": "2024",
+      "release_date": "2024-01-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/2c/27/562c2762-5991-eaa5-c132-fbfc7d45ef34/732138361608_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Move It",
+          "duration": "1:32"
         }
       ]
     },
@@ -1297,6 +1297,39 @@
           "number": 5,
           "name": "LARP (Sped Up)",
           "duration": "1:19"
+        }
+      ]
+    },
+    {
+      "name": "corrupted",
+      "year": "2026",
+      "release_date": "2026-09-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/15/77/f4157700-9b58-1e7d-3171-2fff12478708/1963624986206_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "corrupted",
+          "duration": "1:40"
+        },
+        {
+          "number": 2,
+          "name": "corrupted - Slowed",
+          "duration": "1:52"
+        },
+        {
+          "number": 3,
+          "name": "corrupted - Super Slowed",
+          "duration": "2:04"
+        },
+        {
+          "number": 4,
+          "name": "corrupted - Ultra Slowed",
+          "duration": "2:21"
+        },
+        {
+          "number": 5,
+          "name": "corrupted - Sped Up",
+          "duration": "1:28"
         }
       ]
     },
@@ -2343,44 +2376,6 @@
       ]
     },
     {
-      "name": "BAILA CONMIGO",
-      "year": "2025",
-      "release_date": "2025-05-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/fc/b8/3dfcb8df-31f2-392b-0150-094e9caf7a34/61372.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "BAILA CONMIGO",
-          "duration": "1:25"
-        },
-        {
-          "number": 2,
-          "name": "BAILA CONMIGO (Slowed)",
-          "duration": "1:35"
-        },
-        {
-          "number": 3,
-          "name": "BAILA CONMIGO (Super Slowed)",
-          "duration": "1:41"
-        },
-        {
-          "number": 4,
-          "name": "BAILA CONMIGO (Ultra Slowed)",
-          "duration": "1:46"
-        },
-        {
-          "number": 5,
-          "name": "BAILA CONMIGO (Extreme Slowed)",
-          "duration": "1:59"
-        },
-        {
-          "number": 6,
-          "name": "BAILA CONMIGO (Sped Up)",
-          "duration": "1:21"
-        }
-      ]
-    },
-    {
       "name": "body!",
       "year": "2024",
       "release_date": "2024-06-21",
@@ -3154,7 +3149,7 @@
       "name": "BAILA CONMIGO",
       "year": "2025",
       "release_date": "2025-05-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/c4/60/a8c460a6-fb1f-e255-d611-5607b328871c/61372.jpg/600x600bb.jpg",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/cd/52/a3cd5295-ac4f-4d30-d3ac-1c0fcd4e854e/4302469.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,

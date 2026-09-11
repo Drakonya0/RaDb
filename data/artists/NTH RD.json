@@ -4,6 +4,24 @@
   "albums": [],
   "singles": [
     {
+      "name": "Heaven",
+      "year": "2026",
+      "release_date": "2026-09-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/20/79/ca207904-5a67-2f64-f5e5-93e1119ab78f/455433.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Heaven",
+          "duration": "3:05"
+        },
+        {
+          "number": 2,
+          "name": "Falling Apart",
+          "duration": "2:59"
+        }
+      ]
+    },
+    {
       "name": "The Death of Us",
       "year": "2026",
       "release_date": "2026-02-12",
@@ -52,24 +70,6 @@
           "number": 1,
           "name": "I Watched You Fade Away",
           "duration": "4:37"
-        }
-      ]
-    },
-    {
-      "name": "Heaven",
-      "year": "2026",
-      "release_date": "2026-09-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/20/79/ca207904-5a67-2f64-f5e5-93e1119ab78f/455433.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Heaven",
-          "duration": "3:05"
-        },
-        {
-          "number": 2,
-          "name": "Falling Apart",
-          "duration": "2:59"
         }
       ]
     }

@@ -542,19 +542,6 @@
       ]
     },
     {
-      "name": "Encounter",
-      "year": "2022",
-      "release_date": "2022-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cc/02/6b/cc026b6f-5c67-a13c-ee2a-69c6c13c4198/be5e2ee3-d295-4518-995b-dd2bbc4e106a.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Encounter",
-          "duration": "2:31"
-        }
-      ]
-    },
-    {
       "name": "Echoes Fade (feat. $werve, 2KE & polaris)",
       "year": "2025",
       "release_date": "2025-08-14",
@@ -564,6 +551,19 @@
           "number": 1,
           "name": "Echoes Fade (feat. $werve, 2KE & polaris)",
           "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Encounter",
+      "year": "2022",
+      "release_date": "2022-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/cc/02/6b/cc026b6f-5c67-a13c-ee2a-69c6c13c4198/be5e2ee3-d295-4518-995b-dd2bbc4e106a.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Encounter",
+          "duration": "2:31"
         }
       ]
     },
@@ -1066,19 +1066,6 @@
       ]
     },
     {
-      "name": "PAPA",
-      "year": "2024",
-      "release_date": "2024-03-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a1/e2/a8/a1e2a881-b2fc-ce3f-b896-172e4e284b6c/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Papa",
-          "duration": "1:38"
-        }
-      ]
-    },
-    {
       "name": "Faraó Do Egito",
       "year": "2023",
       "release_date": "2023-06-15",
@@ -1088,6 +1075,19 @@
           "number": 1,
           "name": "Faraó Do Egito (Sped Up)",
           "duration": "1:55"
+        }
+      ]
+    },
+    {
+      "name": "PAPA",
+      "year": "2024",
+      "release_date": "2024-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a1/e2/a8/a1e2a881-b2fc-ce3f-b896-172e4e284b6c/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Papa",
+          "duration": "1:38"
         }
       ]
     },
@@ -1196,19 +1196,6 @@
       ]
     },
     {
-      "name": "Faraó Do Egito 2",
-      "year": "2023",
-      "release_date": "2023-09-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/07/77/54077795-da15-17f8-633e-cf602e23f952/5056686000471.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Faraó Do Egito 2",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
       "name": "Funk Do Hipnotica",
       "year": "2023",
       "release_date": "2023-10-06",
@@ -1218,6 +1205,19 @@
           "number": 1,
           "name": "Funk Do Hipnotica",
           "duration": "1:38"
+        }
+      ]
+    },
+    {
+      "name": "Faraó Do Egito 2",
+      "year": "2023",
+      "release_date": "2023-09-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/07/77/54077795-da15-17f8-633e-cf602e23f952/5056686000471.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Faraó Do Egito 2",
+          "duration": "2:19"
         }
       ]
     },
@@ -2637,6 +2637,39 @@
           "number": 4,
           "name": "NOITE LINDO (Sped Up)",
           "duration": "1:41"
+        }
+      ]
+    },
+    {
+      "name": "MAHORAGA FUNK",
+      "year": "2026",
+      "release_date": "2026-09-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/3a/58/713a58b5-27a2-7c78-8184-109e2f08021c/4277558.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MAROHAGA FUNK",
+          "duration": "1:51"
+        },
+        {
+          "number": 2,
+          "name": "MAROHAGA FUNK (SLOWED)",
+          "duration": "2:22"
+        },
+        {
+          "number": 3,
+          "name": "MAROHAGA FUNK (SUPER SLOWED)",
+          "duration": "2:36"
+        },
+        {
+          "number": 4,
+          "name": "MAROHAGA FUNK (ULTRA SLOWED)",
+          "duration": "2:49"
+        },
+        {
+          "number": 5,
+          "name": "MAROHAGA FUNK (SPED UP)",
+          "duration": "1:44"
         }
       ]
     },
