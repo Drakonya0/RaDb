@@ -1,34 +1,231 @@
 {
-  "name": "Louisette",
-  "id": 1646003859,
-  "albums": [],
-  "singles": [
+  "name": "Louisette & Amaury",
+  "id": 1682946452,
+  "albums": [
     {
-      "name": "De temps en temps",
-      "year": "2024",
-      "release_date": "2024-08-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/b6/a4/45b6a4d5-eea8-273f-4635-cf11fa35fe8f/cover.jpg/600x600bb.jpg",
+      "name": "INFLUENCES",
+      "year": "2025",
+      "release_date": "2025-10-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/79/f4/0879f49c-2073-b17c-55a6-7bae10243f39/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "De temps en temps",
+          "name": "Les couleurs vives",
+          "duration": "2:26"
+        },
+        {
+          "number": 2,
+          "name": "Allô Maman",
+          "duration": "2:40"
+        },
+        {
+          "number": 3,
+          "name": "Le sweat bleu",
+          "duration": "2:40"
+        },
+        {
+          "number": 4,
+          "name": "Super cool",
+          "duration": "3:04"
+        },
+        {
+          "number": 5,
+          "name": "Mamma mia",
+          "duration": "2:06"
+        },
+        {
+          "number": 6,
+          "name": "Le choix",
+          "duration": "2:20"
+        },
+        {
+          "number": 7,
+          "name": "Jeu de plume (Interlude 70)",
+          "duration": "2:18"
+        },
+        {
+          "number": 8,
+          "name": "Ta fête (la confiture)",
+          "duration": "3:07"
+        },
+        {
+          "number": 9,
+          "name": "Centaines",
+          "duration": "3:05"
+        },
+        {
+          "number": 10,
+          "name": "Les étoiles (outro 80)",
+          "duration": "3:19"
+        }
+      ]
+    }
+  ],
+  "singles": [
+    {
+      "name": "T'es Qui Toi ?",
+      "year": "2025",
+      "release_date": "2025-02-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/e6/30/c3e63074-d9bb-ceda-f500-2b6ee8f3292d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "T'es Qui Toi ?",
+          "duration": "2:44"
+        }
+      ]
+    },
+    {
+      "name": "Amour de vacances",
+      "year": "2023",
+      "release_date": "2023-07-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/2c/82/bd2c82e2-618d-485e-a25b-c229dae5a758/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Amour de vacances",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Le sport",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/0d/4b/d80d4be5-5760-68d8-e66c-67ddbdd55f67/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Le sport",
+          "duration": "3:08"
+        }
+      ]
+    },
+    {
+      "name": "De 5 à 7",
+      "year": "2023",
+      "release_date": "2023-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/f5/d5/dbf5d589-a227-ac35-ee18-eb0a86e18e8d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "De 5 à 7",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Dans un bar à Paris",
+      "year": "2022",
+      "release_date": "2022-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/38/37/1c383733-d2cd-4265-4b4e-17ceab88bf19/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dans un bar à Paris",
+          "duration": "2:27"
+        }
+      ]
+    },
+    {
+      "name": "Dégage",
+      "year": "2022",
+      "release_date": "2022-12-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/64/f2/ac64f28d-1d7f-5ccb-c41c-69bd897eb9e1/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dégage",
+          "duration": "2:33"
+        },
+        {
+          "number": 2,
+          "name": "Joue contre joue",
+          "duration": "1:37"
+        }
+      ]
+    },
+    {
+      "name": "Mistral Gagnant",
+      "year": "2023",
+      "release_date": "2023-12-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/e5/81/cde5814e-2813-fb72-ee4a-a65ecc2daf5d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mistral Gagnant",
           "duration": "2:42"
         }
       ]
     },
     {
-      "name": "Hold Up",
-      "year": "2023",
-      "release_date": "2023-04-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/02/1a/33021ab2-a6e6-1153-bb16-59638892b7c7/cover.jpg/600x600bb.jpg",
+      "name": "Allô Maman",
+      "year": "2024",
+      "release_date": "2024-02-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b5/ad/2a/b5ad2a0c-0802-6c3e-c0bc-f76f0aff4872/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Hold Up",
-          "duration": "2:42"
+          "name": "Allô Maman",
+          "duration": "2:40"
+        }
+      ]
+    },
+    {
+      "name": "Ta fête (la confiture)",
+      "year": "2025",
+      "release_date": "2025-10-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/cc/4e/c3cc4e1a-17ad-7aee-eeba-a7a4c11e6560/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ta fête (la confiture)",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "La Bonne",
+      "year": "2024",
+      "release_date": "2024-09-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/b8/ad/e3b8ad97-44d0-4b6f-dae2-95e51067a671/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La Bonne",
+          "duration": "3:06"
         }
       ]
     }
   ],
-  "eps": []
+  "eps": [
+    {
+      "name": "Mieux (les versions alternatives)",
+      "year": "2023",
+      "release_date": "2023-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/d6/ea/25d6ea91-9431-f23f-7ff3-1f42d75e3246/197188622053.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mieux",
+          "duration": "2:49"
+        },
+        {
+          "number": 2,
+          "name": "Mieux (Version Stan Lord) [feat. Stan Lord]",
+          "duration": "2:12"
+        },
+        {
+          "number": 3,
+          "name": "Mieux (Version Margo) [feat. Margo]",
+          "duration": "3:12"
+        },
+        {
+          "number": 4,
+          "name": "Mieux (Version Solair) [feat. Solair]",
+          "duration": "2:49"
+        }
+      ]
+    }
+  ]
 }

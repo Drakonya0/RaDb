@@ -637,6 +637,19 @@
       ]
     },
     {
+      "name": "Matrix 2",
+      "year": "2023",
+      "release_date": "2023-07-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/d2/2b/e3d22bc3-d384-b931-58ad-1010f3324384/1ae60ccb-46ba-469e-8b3d-40b1c20dbf1e.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Matrix 2",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
       "name": "Fever",
       "year": "2023",
       "release_date": "2023-09-22",
@@ -656,19 +669,6 @@
           "number": 3,
           "name": "Fever (Slowed)",
           "duration": "2:18"
-        }
-      ]
-    },
-    {
-      "name": "Matrix 2",
-      "year": "2023",
-      "release_date": "2023-07-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/d2/2b/e3d22bc3-d384-b931-58ad-1010f3324384/1ae60ccb-46ba-469e-8b3d-40b1c20dbf1e.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Matrix 2",
-          "duration": "2:51"
         }
       ]
     },
@@ -1913,55 +1913,9 @@
           "duration": "2:41"
         }
       ]
-    },
-    {
-      "name": "Here I Come 2",
-      "year": "2022",
-      "release_date": "2022-11-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/0e/ce/7d0eceaf-bbcc-37c7-ff19-43fe8a057d1f/02c4fcb7-8011-4ec0-8fb4-7fe25bac72e3.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Here I Come 2",
-          "duration": "3:12"
-        }
-      ]
     }
   ],
   "eps": [
-    {
-      "name": "From The Start (Funk)",
-      "year": "2025",
-      "release_date": "2025-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/f8/21/2af8214a-328d-e9f6-6fe8-f4c3fd980fac/4148.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "From The Start (Funk)",
-          "duration": "1:18"
-        },
-        {
-          "number": 2,
-          "name": "From The Start (Funk Slowed)",
-          "duration": "1:30"
-        },
-        {
-          "number": 3,
-          "name": "From The Start (Funk Super Slowed)",
-          "duration": "1:44"
-        },
-        {
-          "number": 4,
-          "name": "From The Start (Funk Ultra Slowed)",
-          "duration": "2:01"
-        },
-        {
-          "number": 5,
-          "name": "From The Start (Funk Nightcore)",
-          "duration": "1:12"
-        }
-      ]
-    },
     {
       "name": "CONFESS YOUR LOVE FUNK",
       "year": "2025",
@@ -1991,6 +1945,39 @@
         {
           "number": 5,
           "name": "CONFESS YOUR LOVE FUNK (Nightcore)",
+          "duration": "1:12"
+        }
+      ]
+    },
+    {
+      "name": "From The Start (Funk)",
+      "year": "2025",
+      "release_date": "2025-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/f8/21/2af8214a-328d-e9f6-6fe8-f4c3fd980fac/4148.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "From The Start (Funk)",
+          "duration": "1:18"
+        },
+        {
+          "number": 2,
+          "name": "From The Start (Funk Slowed)",
+          "duration": "1:30"
+        },
+        {
+          "number": 3,
+          "name": "From The Start (Funk Super Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 4,
+          "name": "From The Start (Funk Ultra Slowed)",
+          "duration": "2:01"
+        },
+        {
+          "number": 5,
+          "name": "From The Start (Funk Nightcore)",
           "duration": "1:12"
         }
       ]
@@ -2342,6 +2329,34 @@
           "number": 6,
           "name": "Seu Amor Morto (feat. Nxxkz) [Sped Up]",
           "duration": "1:15"
+        }
+      ]
+    },
+    {
+      "name": "BREGA DO WRONG",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/a6/39/eca63967-3839-34a9-4fe4-90583370ac79/612891252293.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BREGA DO WRONG",
+          "duration": "1:21"
+        },
+        {
+          "number": 2,
+          "name": "BREGA DO WRONG (Slowed)",
+          "duration": "1:31"
+        },
+        {
+          "number": 3,
+          "name": "BREGA DO WRONG (Super Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "BREGA DO WRONG (Ultra Slowed)",
+          "duration": "1:55"
         }
       ]
     },

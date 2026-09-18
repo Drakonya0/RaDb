@@ -446,6 +446,29 @@
       ]
     },
     {
+      "name": "Video Triple Play",
+      "year": "2007",
+      "release_date": "2007-09-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/78/44/64/mzi.btelzevi.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SexyBack",
+          "duration": "4:25"
+        },
+        {
+          "number": 2,
+          "name": "Let Me Talk to You / My Love",
+          "duration": "6:10"
+        },
+        {
+          "number": 3,
+          "name": "LoveStoned / I Think She Knows Interlude",
+          "duration": "5:27"
+        }
+      ]
+    },
+    {
       "name": "FutureSex/LoveSounds",
       "year": "2006",
       "release_date": "2006-09-08",
@@ -510,29 +533,6 @@
           "number": 12,
           "name": "(Another Song) All Over Again",
           "duration": "5:45"
-        }
-      ]
-    },
-    {
-      "name": "Video Triple Play",
-      "year": "2007",
-      "release_date": "2007-09-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/78/44/64/mzi.btelzevi.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SexyBack",
-          "duration": "4:25"
-        },
-        {
-          "number": 2,
-          "name": "Let Me Talk to You / My Love",
-          "duration": "6:10"
-        },
-        {
-          "number": 3,
-          "name": "LoveStoned / I Think She Knows Interlude",
-          "duration": "5:27"
         }
       ]
     },
@@ -1278,19 +1278,6 @@
       ]
     },
     {
-      "name": "Give It To Me (Sped Up Remix) [feat. Justin Timberlake & Nelly Furtado]",
-      "year": "2023",
-      "release_date": "2023-02-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ec/98/3b/ec983b30-073c-5653-758e-eed1a0d2d177/23UMGIM12916.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Give It To Me (feat. Justin Timberlake & Nelly Furtado) [Sped Up Remix]",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "4 Minutes (feat. Justin Timberlake and Timbaland) [Remixes]",
       "year": "2008",
       "release_date": "2008-04-11",
@@ -1345,6 +1332,19 @@
           "number": 10,
           "name": "4 Minutes (feat. Justin Timberlake and Timbaland) [Timbaland's Mobile Underground Remix]",
           "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "Give It To Me (Sped Up Remix) [feat. Justin Timberlake & Nelly Furtado]",
+      "year": "2023",
+      "release_date": "2023-02-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ec/98/3b/ec983b30-073c-5653-758e-eed1a0d2d177/23UMGIM12916.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Give It To Me (feat. Justin Timberlake & Nelly Furtado) [Sped Up Remix]",
+          "duration": "3:06"
         }
       ]
     },

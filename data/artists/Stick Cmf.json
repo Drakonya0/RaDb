@@ -88,6 +88,59 @@
       "tracks": []
     },
     {
+      "name": "CAPITOLIUM",
+      "year": "2024",
+      "release_date": "2024-05-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/5b/50/965b50f7-0692-a2c0-f6a7-fd47f17ee761/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Salle des illustres",
+          "duration": "2:30"
+        },
+        {
+          "number": 2,
+          "name": "TLS Confidential",
+          "duration": "3:15"
+        },
+        {
+          "number": 3,
+          "name": "Chardonnay & Noix de Saint-Jacques",
+          "duration": "2:44"
+        },
+        {
+          "number": 4,
+          "name": "Gandolfini",
+          "duration": "4:13"
+        },
+        {
+          "number": 5,
+          "name": "Templiers",
+          "duration": "3:17"
+        },
+        {
+          "number": 6,
+          "name": "La seule vérité",
+          "duration": "2:13"
+        },
+        {
+          "number": 7,
+          "name": "Coustellous",
+          "duration": "3:40"
+        },
+        {
+          "number": 8,
+          "name": "Petrossian",
+          "duration": "3:15"
+        },
+        {
+          "number": 9,
+          "name": "Menu Capitole",
+          "duration": "5:44"
+        }
+      ]
+    },
+    {
       "name": "Glossolalie",
       "year": "2018",
       "release_date": "2018-01-19",
@@ -167,59 +220,6 @@
           "number": 15,
           "name": "Exorcisme (feat. Marylou & The Mirror)",
           "duration": "9:54"
-        }
-      ]
-    },
-    {
-      "name": "CAPITOLIUM",
-      "year": "2024",
-      "release_date": "2024-05-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/5b/50/965b50f7-0692-a2c0-f6a7-fd47f17ee761/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Salle des illustres",
-          "duration": "2:30"
-        },
-        {
-          "number": 2,
-          "name": "TLS Confidential",
-          "duration": "3:15"
-        },
-        {
-          "number": 3,
-          "name": "Chardonnay & Noix de Saint-Jacques",
-          "duration": "2:44"
-        },
-        {
-          "number": 4,
-          "name": "Gandolfini",
-          "duration": "4:13"
-        },
-        {
-          "number": 5,
-          "name": "Templiers",
-          "duration": "3:17"
-        },
-        {
-          "number": 6,
-          "name": "La seule vérité",
-          "duration": "2:13"
-        },
-        {
-          "number": 7,
-          "name": "Coustellous",
-          "duration": "3:40"
-        },
-        {
-          "number": 8,
-          "name": "Petrossian",
-          "duration": "3:15"
-        },
-        {
-          "number": 9,
-          "name": "Menu Capitole",
-          "duration": "5:44"
         }
       ]
     },

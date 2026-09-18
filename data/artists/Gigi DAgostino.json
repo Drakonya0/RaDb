@@ -1118,6 +1118,29 @@
       ]
     },
     {
+      "name": "L'amour Toujours E.P.",
+      "year": "2009",
+      "release_date": "2009-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/3a/aa/eb/3aaaeb4b-15cf-3b7b-9cb8-423d5a5b1cdc/V4HttpAssetRepositoryClient-ticket.sbspmtal.jpg-6693915825157591412.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "L'Amour Toujours (L'Amour Vision)",
+          "duration": "6:56"
+        },
+        {
+          "number": 2,
+          "name": "Un Giorno Credi Feat. Edoardo Bennato (Gigidagostino.Com)",
+          "duration": "8:07"
+        },
+        {
+          "number": 3,
+          "name": "L'Amour Toujours (Gigidagostino.Com)",
+          "duration": "7:57"
+        }
+      ]
+    },
+    {
       "name": "Tecno Fes",
       "year": "2000",
       "release_date": "2000-11-20",
@@ -1157,47 +1180,6 @@
           "number": 7,
           "name": "Your Love (Elisir) [In F.M. Mix]",
           "duration": "5:35"
-        }
-      ]
-    },
-    {
-      "name": "L'amour Toujours E.P.",
-      "year": "2009",
-      "release_date": "2009-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/3a/aa/eb/3aaaeb4b-15cf-3b7b-9cb8-423d5a5b1cdc/V4HttpAssetRepositoryClient-ticket.sbspmtal.jpg-6693915825157591412.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "L'Amour Toujours (L'Amour Vision)",
-          "duration": "6:56"
-        },
-        {
-          "number": 2,
-          "name": "Un Giorno Credi Feat. Edoardo Bennato (Gigidagostino.Com)",
-          "duration": "8:07"
-        },
-        {
-          "number": 3,
-          "name": "L'Amour Toujours (Gigidagostino.Com)",
-          "duration": "7:57"
-        }
-      ]
-    },
-    {
-      "name": "Tecno Fes vol. 2",
-      "year": "2000",
-      "release_date": "2000-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/fd/42/c2/fd42c243-105a-2a08-9c25-cc499d3c0afe/contsched.fsddozso.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La Passion Medley With Rectangle",
-          "duration": "7:40"
-        },
-        {
-          "number": 2,
-          "name": "La Passion Medley With Rectangle (Tanzen Vision)",
-          "duration": "7:03"
         }
       ]
     },
@@ -1286,6 +1268,24 @@
           "number": 16,
           "name": "La Batteria Della Mente (Molinaro FM Concept)",
           "duration": "3:40"
+        }
+      ]
+    },
+    {
+      "name": "Tecno Fes vol. 2",
+      "year": "2000",
+      "release_date": "2000-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/fd/42/c2/fd42c243-105a-2a08-9c25-cc499d3c0afe/contsched.fsddozso.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La Passion Medley With Rectangle",
+          "duration": "7:40"
+        },
+        {
+          "number": 2,
+          "name": "La Passion Medley With Rectangle (Tanzen Vision)",
+          "duration": "7:03"
         }
       ]
     },
@@ -1666,29 +1666,6 @@
           "number": 4,
           "name": "Super (Riscaldamento)",
           "duration": "3:59"
-        }
-      ]
-    },
-    {
-      "name": "New Year's Day/Guitar/Purezza",
-      "year": "2009",
-      "release_date": "2009-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/57/bc/68/dj.jjeclhnh.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "New Year's Day",
-          "duration": "8:01"
-        },
-        {
-          "number": 2,
-          "name": "Guitar",
-          "duration": "5:49"
-        },
-        {
-          "number": 3,
-          "name": "Purezza (Purezza)",
-          "duration": "9:36"
         }
       ]
     },
@@ -2336,6 +2313,29 @@
           "number": 35,
           "name": "Voyage (Assaggio Mix)",
           "duration": "5:00"
+        }
+      ]
+    },
+    {
+      "name": "New Year's Day/Guitar/Purezza",
+      "year": "2009",
+      "release_date": "2009-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/57/bc/68/dj.jjeclhnh.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "New Year's Day",
+          "duration": "8:01"
+        },
+        {
+          "number": 2,
+          "name": "Guitar",
+          "duration": "5:49"
+        },
+        {
+          "number": 3,
+          "name": "Purezza (Purezza)",
+          "duration": "9:36"
         }
       ]
     },
@@ -3523,34 +3523,6 @@
       ]
     },
     {
-      "name": "La Passion",
-      "year": "2000",
-      "release_date": "2000-10-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/76/fe/0276fece-2492-0a5c-0f13-9b60a2f46ecf/194111029255.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "La Passion (Radio Cut)",
-          "duration": "3:31"
-        },
-        {
-          "number": 2,
-          "name": "La Passion (L'Amour Toujours LP Mix)",
-          "duration": "7:38"
-        },
-        {
-          "number": 3,
-          "name": "La Passion (Techno Fes E.P. II Mix)",
-          "duration": "7:09"
-        },
-        {
-          "number": 4,
-          "name": "La Passion (Tanzen E.P. Mix)",
-          "duration": "5:00"
-        }
-      ]
-    },
-    {
       "name": "Never Be Lonely",
       "year": "2021",
       "release_date": "2021-03-05",
@@ -3596,6 +3568,34 @@
           "number": 1,
           "name": "One More Dance",
           "duration": "3:16"
+        }
+      ]
+    },
+    {
+      "name": "La Passion",
+      "year": "2000",
+      "release_date": "2000-10-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/76/fe/0276fece-2492-0a5c-0f13-9b60a2f46ecf/194111029255.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La Passion (Radio Cut)",
+          "duration": "3:31"
+        },
+        {
+          "number": 2,
+          "name": "La Passion (L'Amour Toujours LP Mix)",
+          "duration": "7:38"
+        },
+        {
+          "number": 3,
+          "name": "La Passion (Techno Fes E.P. II Mix)",
+          "duration": "7:09"
+        },
+        {
+          "number": 4,
+          "name": "La Passion (Tanzen E.P. Mix)",
+          "duration": "5:00"
         }
       ]
     },

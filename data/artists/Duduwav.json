@@ -96,6 +96,13 @@
       ]
     },
     {
+      "name": "Guitare²",
+      "year": "2021",
+      "release_date": "2021-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/8b/20/3e8b2050-e704-842e-de46-f74afd54a34d/artwork.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "PTSMR",
       "year": "2024",
       "release_date": "2024-06-19",
@@ -107,13 +114,6 @@
           "duration": "3:00"
         }
       ]
-    },
-    {
-      "name": "Guitare²",
-      "year": "2021",
-      "release_date": "2021-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/8b/20/3e8b2050-e704-842e-de46-f74afd54a34d/artwork.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "Super nana",
@@ -271,19 +271,6 @@
       ]
     },
     {
-      "name": "BZ L'ETAT",
-      "year": "2026",
-      "release_date": "2026-03-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/9a/5a/8a9a5acd-b4cd-eb1c-23ef-249a66ba7b2a/16736.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "BZ L'ETAT",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
       "name": "Jogado Nesse Bar",
       "year": "2025",
       "release_date": "2025-11-06",
@@ -293,6 +280,19 @@
           "number": 1,
           "name": "Jogado Nesse Bar",
           "duration": "2:12"
+        }
+      ]
+    },
+    {
+      "name": "BZ L'ETAT",
+      "year": "2026",
+      "release_date": "2026-03-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/9a/5a/8a9a5acd-b4cd-eb1c-23ef-249a66ba7b2a/16736.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BZ L'ETAT",
+          "duration": "2:19"
         }
       ]
     },

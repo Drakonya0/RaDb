@@ -470,19 +470,6 @@
       ]
     },
     {
-      "name": "Shine a Light",
-      "year": "2015",
-      "release_date": "2015-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/98/67/df98675e-e4c6-9eac-02a2-fb105632a011/00602547574374.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shine a Light",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
       "name": "Someone To You",
       "year": "2020",
       "release_date": "2020-05-14",
@@ -502,6 +489,19 @@
           "number": 3,
           "name": "Someone To You (The DJ Mike D Mix)",
           "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "Shine a Light",
+      "year": "2015",
+      "release_date": "2015-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/df/98/67/df98675e-e4c6-9eac-02a2-fb105632a011/00602547574374.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shine a Light",
+          "duration": "3:44"
         }
       ]
     },
@@ -976,44 +976,6 @@
       ]
     },
     {
-      "name": "Always Yours",
-      "year": "2020",
-      "release_date": "2020-05-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8b/46/5a/8b465a90-a134-d880-9966-895c4aa278d9/20UMGIM31324.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Always Yours",
-          "duration": "3:06"
-        },
-        {
-          "number": 2,
-          "name": "Got It In You (Acoustic)",
-          "duration": "3:43"
-        },
-        {
-          "number": 3,
-          "name": "Where The Shadow Ends (Acoustic)",
-          "duration": "4:05"
-        },
-        {
-          "number": 4,
-          "name": "Safe (Acoustic)",
-          "duration": "3:14"
-        },
-        {
-          "number": 5,
-          "name": "Heads and Tails (Acoustic)",
-          "duration": "3:44"
-        },
-        {
-          "number": 6,
-          "name": "No One Knows Us (feat. Carly Paige) [Acoustic]",
-          "duration": "3:18"
-        }
-      ]
-    },
-    {
       "name": "I Wish I Was Flawless, I’m Not",
       "year": "2023",
       "release_date": "2023-01-13",
@@ -1048,6 +1010,44 @@
           "number": 6,
           "name": "Miles Away",
           "duration": "3:32"
+        }
+      ]
+    },
+    {
+      "name": "Always Yours",
+      "year": "2020",
+      "release_date": "2020-05-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8b/46/5a/8b465a90-a134-d880-9966-895c4aa278d9/20UMGIM31324.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Always Yours",
+          "duration": "3:06"
+        },
+        {
+          "number": 2,
+          "name": "Got It In You (Acoustic)",
+          "duration": "3:43"
+        },
+        {
+          "number": 3,
+          "name": "Where The Shadow Ends (Acoustic)",
+          "duration": "4:05"
+        },
+        {
+          "number": 4,
+          "name": "Safe (Acoustic)",
+          "duration": "3:14"
+        },
+        {
+          "number": 5,
+          "name": "Heads and Tails (Acoustic)",
+          "duration": "3:44"
+        },
+        {
+          "number": 6,
+          "name": "No One Knows Us (feat. Carly Paige) [Acoustic]",
+          "duration": "3:18"
         }
       ]
     },

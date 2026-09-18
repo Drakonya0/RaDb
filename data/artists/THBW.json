@@ -4,45 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Mayday",
-      "year": "2023",
-      "release_date": "2023-12-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f3/ca/fe/f3cafe3c-cdd0-b4ea-51b5-285d8bd8b989/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mayday",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
-      "name": "Ce soir",
-      "year": "2023",
-      "release_date": "2023-04-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/7b/53/a67b5397-0138-44d1-acb9-cf8cf10740c7/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ce soir",
-          "duration": "3:02"
-        }
-      ]
-    },
-    {
-      "name": "VOIR AILLEURS",
-      "year": "2025",
-      "release_date": "2025-02-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/7b/f1/447bf10f-fe84-c704-2002-3032074ff432/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "VOIR AILLEURS",
-          "duration": "3:42"
-        }
-      ]
-    },
-    {
       "name": "DOUCE NUIT D'HIVER",
       "year": "2024",
       "release_date": "2024-06-30",
@@ -95,19 +56,6 @@
       ]
     },
     {
-      "name": "LE MONSTRE",
-      "year": "2025",
-      "release_date": "2025-11-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/4a/86/bc4a868f-1f3f-0e83-ded1-580df4dcd741/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LE MONSTRE",
-          "duration": "2:36"
-        }
-      ]
-    },
-    {
       "name": "POURQUOI J'ME SENS SI SEUL ?",
       "year": "2026",
       "release_date": "2026-04-10",
@@ -153,6 +101,71 @@
           "number": 1,
           "name": "SOIRÉE ARROSÉE",
           "duration": "2:14"
+        }
+      ]
+    },
+    {
+      "name": "Mayday",
+      "year": "2023",
+      "release_date": "2023-12-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f3/ca/fe/f3cafe3c-cdd0-b4ea-51b5-285d8bd8b989/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mayday",
+          "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Ce soir",
+      "year": "2023",
+      "release_date": "2023-04-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/7b/53/a67b5397-0138-44d1-acb9-cf8cf10740c7/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ce soir",
+          "duration": "3:02"
+        }
+      ]
+    },
+    {
+      "name": "VOIR AILLEURS",
+      "year": "2025",
+      "release_date": "2025-02-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/7b/f1/447bf10f-fe84-c704-2002-3032074ff432/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "VOIR AILLEURS",
+          "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "BALAFRÉS",
+      "year": "2025",
+      "release_date": "2025-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/0a/21/0c0a210f-9cb6-691c-7612-5f14da1af4f7/199741849822.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BALAFRÉS",
+          "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "LE MONSTRE",
+      "year": "2025",
+      "release_date": "2025-11-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/4a/86/bc4a868f-1f3f-0e83-ded1-580df4dcd741/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LE MONSTRE",
+          "duration": "2:36"
         }
       ]
     },

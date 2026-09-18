@@ -1,569 +1,4687 @@
 {
-  "name": "Mashary Rashid Al-Afassy",
-  "id": 1799201860,
+  "name": "مشاري العفاسي",
+  "id": 1385601072,
   "albums": [
     {
-      "name": "The Holy Quran",
-      "year": "2025",
-      "release_date": "2025-09-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/65/0f/35650f2a-ab7b-f33c-962d-25a4e98a318a/8721416189180.png/600x600bb.jpg",
+      "name": "المصحف المرتل (برواية شعبة)",
+      "year": "2006",
+      "release_date": "2006-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/99/c9/9299c90d-a4e7-7df4-5099-7924d027d23b/195497924646.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Al - Fatiha (The Opener)",
-          "duration": "0:52"
-        },
-        {
-          "number": 2,
-          "name": "Al - Baqarah (The Cow)",
-          "duration": "100:51"
-        },
-        {
-          "number": 3,
-          "name": "An - Nisa (The Women)",
-          "duration": "61:40"
-        },
-        {
-          "number": 4,
-          "name": "Al - Ma'idah (The Table Spread)",
-          "duration": "46:33"
-        },
-        {
-          "number": 5,
-          "name": "Al - Anam (The Cattle)",
-          "duration": "49:40"
-        },
-        {
-          "number": 6,
-          "name": "Al - A'raf (The Heights)",
-          "duration": "55:25"
-        },
-        {
-          "number": 7,
-          "name": "Al - Anfal (The Spoils of War)",
-          "duration": "21:05"
-        },
-        {
-          "number": 8,
-          "name": "At - Taubah (The Repentance)",
-          "duration": "43:39"
-        },
-        {
-          "number": 9,
-          "name": "Yunus (Jonah)",
-          "duration": "28:51"
-        },
-        {
-          "number": 10,
-          "name": "Hud (Hud)",
-          "duration": "30:44"
-        },
-        {
-          "number": 11,
-          "name": "Yusuf (Joseph)",
-          "duration": "29:28"
-        },
-        {
-          "number": 12,
-          "name": "Ar - Ra'd (Thunder)",
-          "duration": "14:14"
-        },
-        {
-          "number": 13,
-          "name": "Ibrahim (Abraham)",
-          "duration": "13:45"
-        },
-        {
-          "number": 14,
-          "name": "Al - Hijr (The Stoneland)",
-          "duration": "12:03"
-        },
-        {
-          "number": 15,
-          "name": "An - Nahl (The Bee)",
-          "duration": "30:41"
-        },
-        {
-          "number": 16,
-          "name": "Al - Isra (The Night Journey)",
-          "duration": "25:17"
-        },
-        {
-          "number": 17,
-          "name": "Al - Kahf (The Cave)",
-          "duration": "25:36"
-        },
-        {
-          "number": 18,
-          "name": "Maryam (Mary)",
-          "duration": "15:25"
-        },
-        {
-          "number": 19,
-          "name": "Ta - Ha (Ta - Ha)",
-          "duration": "20:33"
-        },
-        {
-          "number": 20,
-          "name": "Al - Anbiya (The Prophets)",
-          "duration": "18:50"
-        },
-        {
-          "number": 21,
-          "name": "Al - Hajj (The Pilgrimage)",
-          "duration": "19:50"
-        },
-        {
-          "number": 22,
-          "name": "Al - Mu'minun (The Believers)",
-          "duration": "17:09"
-        },
-        {
-          "number": 23,
-          "name": "An - Nur (The Light)",
-          "duration": "21:38"
-        },
-        {
-          "number": 24,
-          "name": "Al - Furqan (The Criterion)",
-          "duration": "14:25"
-        },
-        {
-          "number": 25,
-          "name": "Ash - Shu'ara (The Poets)",
-          "duration": "22:04"
-        },
-        {
-          "number": 26,
-          "name": "An - Naml (The Ants)",
-          "duration": "18:06"
-        },
-        {
-          "number": 27,
-          "name": "Al - Qasas (The Story)",
-          "duration": "22:10"
-        },
-        {
-          "number": 28,
-          "name": "Al - Ankabut (Spider)",
-          "duration": "15:12"
-        },
-        {
-          "number": 29,
-          "name": "Ar - Rum (The Romans)",
-          "duration": "12:15"
-        },
-        {
-          "number": 30,
-          "name": "Luqman (Luqman)",
-          "duration": "7:56"
-        },
-        {
-          "number": 31,
-          "name": "As - Sajdah (Prostration)",
-          "duration": "6:07"
-        },
-        {
-          "number": 32,
-          "name": "Al - Ahzab (The Confederates)",
-          "duration": "19:57"
-        },
-        {
-          "number": 33,
-          "name": "Saba (Sheba)",
-          "duration": "12:33"
-        },
-        {
-          "number": 34,
-          "name": "Fatir (The Originator)",
-          "duration": "11:24"
-        },
-        {
-          "number": 35,
-          "name": "Ya - Sin (Ya Sin)",
-          "duration": "11:26"
-        },
-        {
-          "number": 36,
-          "name": "As - Saffat (Those Who Set the Ranks)",
-          "duration": "14:39"
-        },
-        {
-          "number": 37,
-          "name": "Sad (The Letter Saad)",
-          "duration": "11:05"
-        },
-        {
-          "number": 38,
-          "name": "Az - Zumar (The Troops)",
-          "duration": "17:03"
-        },
-        {
-          "number": 39,
-          "name": "Ghafir (The Forgiver)",
-          "duration": "18:04"
-        }
-      ]
-    },
-    {
-      "name": "Zikir Istighfar",
-      "year": "2026",
-      "release_date": "2026-07-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/39/6b/62396b8e-8d34-392c-04c9-8b690337915c/8721555797642.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "دعاء السفر",
-          "duration": "2:02"
-        },
-        {
-          "number": 2,
-          "name": "التشھد",
-          "duration": "1:59"
-        },
-        {
-          "number": 3,
-          "name": "Dua Al - Nasr Wal - Huda",
-          "duration": "2:01"
-        },
-        {
-          "number": 4,
-          "name": "Dua Qada' Al - Dayn",
-          "duration": "2:00"
-        },
-        {
-          "number": 5,
-          "name": "Al - Isti'athah Al - Shamila",
-          "duration": "2:02"
-        },
-        {
-          "number": 6,
-          "name": "Zikir Istighfar",
-          "duration": "2:08"
-        },
-        {
-          "number": 7,
-          "name": "Dua Jawami' Al - Khayr",
-          "duration": "2:24"
-        }
-      ]
-    },
-    {
-      "name": "Juzz Amma",
-      "year": "2025",
-      "release_date": "2025-07-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/62/62/11626242-718e-b37e-63a4-e22fa36d091e/8721215806530.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Surah an - Naba",
-          "duration": "4:28"
-        },
-        {
-          "number": 2,
-          "name": "Surah an - Naziat",
-          "duration": "4:17"
-        },
-        {
-          "number": 3,
-          "name": "Surah Abas",
-          "duration": "3:30"
-        },
-        {
-          "number": 4,
-          "name": "Surah at - Takweer",
-          "duration": "2:30"
-        },
-        {
-          "number": 5,
-          "name": "Surah Al - Infitaar",
-          "duration": "2:08"
-        },
-        {
-          "number": 6,
-          "name": "Surah Al - Mutaffiffeen",
-          "duration": "4:28"
-        },
-        {
-          "number": 7,
-          "name": "Surah Al - Inshiqaaq",
-          "duration": "2:30"
-        },
-        {
-          "number": 8,
-          "name": "Surah Al - Burooj",
-          "duration": "2:43"
-        },
-        {
-          "number": 9,
-          "name": "Surah at - Tariq",
-          "duration": "1:34"
-        },
-        {
-          "number": 10,
-          "name": "Surah Al - A_alaa",
-          "duration": "1:42"
-        },
-        {
-          "number": 11,
-          "name": "Surah Al - Ghashia",
-          "duration": "2:12"
-        },
-        {
-          "number": 12,
-          "name": "Surah Al - Fajr",
-          "duration": "3:02"
-        },
-        {
-          "number": 13,
-          "name": "Surah Al - Balad",
-          "duration": "1:46"
-        },
-        {
-          "number": 14,
-          "name": "Surah as - Shams",
-          "duration": "1:22"
-        },
-        {
-          "number": 15,
-          "name": "Surah Al - Layl",
-          "duration": "1:46"
-        },
-        {
-          "number": 16,
-          "name": "Surah Ad - Dhuha",
-          "duration": "1:09"
-        },
-        {
-          "number": 17,
-          "name": "Surah Al - Inshiraah",
-          "duration": "0:46"
-        },
-        {
-          "number": 18,
-          "name": "Surah at - Teen",
-          "duration": "1:01"
-        },
-        {
-          "number": 19,
-          "name": "Surah Al - Alaq",
-          "duration": "1:38"
-        },
-        {
-          "number": 20,
-          "name": "Surah Al - Qadr",
-          "duration": "0:47"
-        },
-        {
-          "number": 21,
-          "name": "Surah Al - Bayyinah",
-          "duration": "2:20"
-        },
-        {
-          "number": 22,
-          "name": "Surah Zilzaal",
-          "duration": "1:04"
-        },
-        {
-          "number": 23,
-          "name": "Surah Al - A_adiaat",
-          "duration": "1:14"
-        },
-        {
-          "number": 24,
-          "name": "Surah Al - Qari_ah",
-          "duration": "1:04"
-        },
-        {
-          "number": 25,
-          "name": "Surah at - Takathur",
+          "name": "Al Fateha",
           "duration": "1:00"
         },
         {
+          "number": 2,
+          "name": "Al Baqara",
+          "duration": "131:00"
+        },
+        {
+          "number": 3,
+          "name": "Al Emraan",
+          "duration": "79:46"
+        },
+        {
+          "number": 4,
+          "name": "Al Nesa'a",
+          "duration": "79:32"
+        },
+        {
+          "number": 5,
+          "name": "Al Ma'eda",
+          "duration": "62:52"
+        },
+        {
+          "number": 6,
+          "name": "Al Ana'aam",
+          "duration": "72:28"
+        },
+        {
+          "number": 7,
+          "name": "Al A'araaf",
+          "duration": "83:04"
+        },
+        {
+          "number": 8,
+          "name": "Al Anfaal",
+          "duration": "30:49"
+        },
+        {
+          "number": 9,
+          "name": "Al Tawba",
+          "duration": "60:58"
+        },
+        {
+          "number": 10,
+          "name": "Younis",
+          "duration": "44:54"
+        },
+        {
+          "number": 11,
+          "name": "Houd",
+          "duration": "46:18"
+        },
+        {
+          "number": 12,
+          "name": "Youssef",
+          "duration": "42:01"
+        },
+        {
+          "number": 13,
+          "name": "Al Ra'ad",
+          "duration": "20:31"
+        },
+        {
+          "number": 14,
+          "name": "Ibrahim",
+          "duration": "20:24"
+        },
+        {
+          "number": 15,
+          "name": "Al Hagar",
+          "duration": "15:59"
+        },
+        {
+          "number": 16,
+          "name": "Al Nahl",
+          "duration": "42:42"
+        },
+        {
+          "number": 17,
+          "name": "El Esraa",
+          "duration": "33:17"
+        },
+        {
+          "number": 18,
+          "name": "Al Khahf",
+          "duration": "33:31"
+        },
+        {
+          "number": 19,
+          "name": "Mariam",
+          "duration": "21:30"
+        },
+        {
+          "number": 20,
+          "name": "Taha",
+          "duration": "27:17"
+        },
+        {
+          "number": 21,
+          "name": "Al Anbyaa",
+          "duration": "26:24"
+        },
+        {
+          "number": 22,
+          "name": "Al Hajj",
+          "duration": "29:41"
+        },
+        {
+          "number": 23,
+          "name": "Al Moe'menoon",
+          "duration": "24:56"
+        },
+        {
+          "number": 24,
+          "name": "El Nour",
+          "duration": "33:05"
+        },
+        {
+          "number": 25,
+          "name": "Al Furqaan",
+          "duration": "19:52"
+        },
+        {
           "number": 26,
-          "name": "Surah Al - Asr",
-          "duration": "0:33"
+          "name": "Al Shoa'raa",
+          "duration": "33:15"
         },
         {
           "number": 27,
-          "name": "Surah Humazah",
-          "duration": "0:57"
+          "name": "Al Naml",
+          "duration": "28:25"
         },
         {
           "number": 28,
-          "name": "Surah Al - Feel",
-          "duration": "0:49"
+          "name": "Al Kassas",
+          "duration": "34:06"
         },
         {
           "number": 29,
-          "name": "Surah Quraysh",
-          "duration": "0:40"
+          "name": "Al A'ankabout",
+          "duration": "22:48"
         },
         {
           "number": 30,
-          "name": "Surah Al - Mao_on",
-          "duration": "0:52"
+          "name": "El Roum",
+          "duration": "19:30"
         },
         {
           "number": 31,
-          "name": "Surah Al - Kauthar",
-          "duration": "0:28"
+          "name": "Louqman",
+          "duration": "12:02"
         },
         {
           "number": 32,
-          "name": "Surah Al - Kafiroon",
-          "duration": "0:47"
+          "name": "Al Sajda",
+          "duration": "8:45"
         },
         {
           "number": 33,
-          "name": "Surah an - Nasr",
-          "duration": "0:38"
+          "name": "Al Ahzaab",
+          "duration": "29:14"
         },
         {
           "number": 34,
-          "name": "Surah Lahab",
-          "duration": "0:41"
+          "name": "Saba'aa",
+          "duration": "19:05"
         },
         {
           "number": 35,
-          "name": "Surah Al - Ikhlaas",
-          "duration": "0:28"
+          "name": "Fater",
+          "duration": "17:44"
         },
         {
           "number": 36,
-          "name": "Surah Al - Falaq",
-          "duration": "0:40"
+          "name": "Yassin",
+          "duration": "17:44"
         },
         {
           "number": 37,
-          "name": "Surah an - Naas",
-          "duration": "0:49"
+          "name": "El Safaat",
+          "duration": "24:22"
+        },
+        {
+          "number": 38,
+          "name": "Saad",
+          "duration": "17:59"
+        },
+        {
+          "number": 39,
+          "name": "Al Zomor",
+          "duration": "27:20"
+        },
+        {
+          "number": 40,
+          "name": "Ghaffer",
+          "duration": "26:27"
+        },
+        {
+          "number": 41,
+          "name": "Fasalt",
+          "duration": "19:25"
+        },
+        {
+          "number": 42,
+          "name": "Al Shuraa",
+          "duration": "19:45"
+        },
+        {
+          "number": 43,
+          "name": "Al Zakhraf",
+          "duration": "20:40"
+        },
+        {
+          "number": 44,
+          "name": "Al Dukhaan",
+          "duration": "9:46"
+        },
+        {
+          "number": 45,
+          "name": "Al Gatheya",
+          "duration": "10:50"
+        },
+        {
+          "number": 46,
+          "name": "Al Ahqaaf",
+          "duration": "16:03"
+        },
+        {
+          "number": 47,
+          "name": "Muhammad",
+          "duration": "12:25"
+        },
+        {
+          "number": 48,
+          "name": "Al Fath",
+          "duration": "12:06"
+        },
+        {
+          "number": 49,
+          "name": "Al Hujarrat",
+          "duration": "8:23"
+        },
+        {
+          "number": 50,
+          "name": "Qaaf",
+          "duration": "9:27"
         }
       ]
     },
     {
-      "name": "Surah Al - Ikhlas",
-      "year": "2025",
-      "release_date": "2025-03-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/e5/e4/36e5e4c4-fdd7-a7fd-e566-68ba5a25551b/8721215090403.png/600x600bb.jpg",
+      "name": "أذكار اليوم و الليلة",
+      "year": "2004",
+      "release_date": "2004-09-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a8/0a/21/a80a217d-50c8-beae-3393-32879fa33a7f/191773052041.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Surah Al - Kauthar",
-          "duration": "1:02"
+          "name": "Athkar Al Estiykath Men Al Noum",
+          "duration": "2:21"
         },
         {
           "number": 2,
-          "name": "Surah Al - Ikhlas",
-          "duration": "0:46"
+          "name": "Doaa Al Koroj Men Al Mazel",
+          "duration": "0:27"
         },
         {
           "number": 3,
-          "name": "Surah an - Nas",
-          "duration": "0:46"
+          "name": "Doaa Al Thahab Ela Al Masjed",
+          "duration": "1:33"
         },
         {
           "number": 4,
-          "name": "Surah Quraish",
-          "duration": "0:33"
+          "name": "Doaa Dokool Al Masjed",
+          "duration": "0:25"
         },
         {
           "number": 5,
-          "name": "Surah Fatiha",
-          "duration": "1:02"
+          "name": "Athkar Bad Al Salam Men Al Salaat",
+          "duration": "3:46"
         },
         {
           "number": 6,
-          "name": "Surah Al - Kafirun",
-          "duration": "0:49"
+          "name": "Doaa Al Koroj Men Al Masjed",
+          "duration": "0:21"
         },
         {
           "number": 7,
-          "name": "Surah Al - Falaq",
-          "duration": "1:03"
+          "name": "Athkar Al Sabah",
+          "duration": "23:28"
         },
         {
           "number": 8,
-          "name": "Surah an - Nasr",
-          "duration": "1:04"
+          "name": "Athkar Al Masaa",
+          "duration": "27:42"
+        },
+        {
+          "number": 9,
+          "name": "Athkar Al Noum",
+          "duration": "4:46"
+        }
+      ]
+    },
+    {
+      "name": "القران الكريم - جزء 8",
+      "year": "2012",
+      "release_date": "2012-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/12/19/6a/12196a1f-d795-d5d2-3fca-8baad3104486/886788861572.tif/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Kur'an-ı Kerim Hatim",
+      "year": "2010",
+      "release_date": "2010-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/26/3e/ee/263eeefc-1dfa-4318-f97b-9cbeeaf097ae/888002019967.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fatiha",
+          "duration": "0:52"
+        },
+        {
+          "number": 2,
+          "name": "Bakara",
+          "duration": "117:55"
+        },
+        {
+          "number": 3,
+          "name": "Ali İmran",
+          "duration": "90:31"
+        },
+        {
+          "number": 4,
+          "name": "Nisa",
+          "duration": "84:14"
+        },
+        {
+          "number": 5,
+          "name": "Maide",
+          "duration": "64:24"
+        },
+        {
+          "number": 6,
+          "name": "En'am",
+          "duration": "73:43"
+        },
+        {
+          "number": 7,
+          "name": "A'raf",
+          "duration": "84:15"
+        },
+        {
+          "number": 8,
+          "name": "Enfal",
+          "duration": "30:48"
+        },
+        {
+          "number": 9,
+          "name": "Tevbe",
+          "duration": "61:57"
+        },
+        {
+          "number": 10,
+          "name": "Yunus",
+          "duration": "45:32"
+        },
+        {
+          "number": 11,
+          "name": "Hud",
+          "duration": "46:45"
+        },
+        {
+          "number": 12,
+          "name": "Yusuf",
+          "duration": "42:27"
+        },
+        {
+          "number": 13,
+          "name": "Ra'd",
+          "duration": "20:30"
+        },
+        {
+          "number": 14,
+          "name": "İbrahim",
+          "duration": "20:34"
+        },
+        {
+          "number": 15,
+          "name": "Hicr",
+          "duration": "16:05"
+        },
+        {
+          "number": 16,
+          "name": "Nahl",
+          "duration": "42:40"
+        },
+        {
+          "number": 17,
+          "name": "İsra",
+          "duration": "33:33"
+        },
+        {
+          "number": 18,
+          "name": "Kehf",
+          "duration": "33:42"
+        },
+        {
+          "number": 19,
+          "name": "Meryem",
+          "duration": "21:25"
+        },
+        {
+          "number": 20,
+          "name": "Taha",
+          "duration": "27:23"
+        },
+        {
+          "number": 21,
+          "name": "Enbiya",
+          "duration": "26:25"
+        },
+        {
+          "number": 22,
+          "name": "Hacc",
+          "duration": "29:43"
+        },
+        {
+          "number": 23,
+          "name": "Mü'minun",
+          "duration": "25:00"
+        },
+        {
+          "number": 24,
+          "name": "Nur",
+          "duration": "33:01"
+        },
+        {
+          "number": 25,
+          "name": "Furkan",
+          "duration": "19:51"
+        },
+        {
+          "number": 26,
+          "name": "Şuara",
+          "duration": "33:05"
+        },
+        {
+          "number": 27,
+          "name": "Neml",
+          "duration": "28:14"
+        },
+        {
+          "number": 28,
+          "name": "Kasas",
+          "duration": "34:26"
+        },
+        {
+          "number": 29,
+          "name": "Ankebut",
+          "duration": "22:57"
+        },
+        {
+          "number": 30,
+          "name": "Rum",
+          "duration": "19:40"
+        },
+        {
+          "number": 31,
+          "name": "Lokman",
+          "duration": "12:01"
+        },
+        {
+          "number": 32,
+          "name": "Secde",
+          "duration": "8:48"
+        },
+        {
+          "number": 33,
+          "name": "Ahzap",
+          "duration": "29:23"
+        },
+        {
+          "number": 34,
+          "name": "Sebe",
+          "duration": "4:23"
+        },
+        {
+          "number": 35,
+          "name": "Fatır",
+          "duration": "17:47"
+        },
+        {
+          "number": 36,
+          "name": "Yasin",
+          "duration": "17:50"
+        },
+        {
+          "number": 37,
+          "name": "Saffat",
+          "duration": "24:27"
+        },
+        {
+          "number": 38,
+          "name": "Sad",
+          "duration": "17:52"
+        },
+        {
+          "number": 39,
+          "name": "Zümer",
+          "duration": "27:28"
+        },
+        {
+          "number": 40,
+          "name": "Mü'min",
+          "duration": "26:24"
+        },
+        {
+          "number": 41,
+          "name": "Fussilet",
+          "duration": "19:25"
+        },
+        {
+          "number": 42,
+          "name": "Şura",
+          "duration": "19:41"
+        },
+        {
+          "number": 43,
+          "name": "Zuhruf",
+          "duration": "20:43"
+        },
+        {
+          "number": 44,
+          "name": "Duhan",
+          "duration": "9:46"
+        },
+        {
+          "number": 45,
+          "name": "Casiye",
+          "duration": "10:48"
+        },
+        {
+          "number": 46,
+          "name": "Ahkaf",
+          "duration": "16:05"
+        },
+        {
+          "number": 47,
+          "name": "Muhammed",
+          "duration": "12:23"
+        },
+        {
+          "number": 48,
+          "name": "Fetih",
+          "duration": "12:07"
+        },
+        {
+          "number": 49,
+          "name": "Hucurat",
+          "duration": "8:26"
+        },
+        {
+          "number": 50,
+          "name": "Kaf",
+          "duration": "9:34"
+        }
+      ]
+    },
+    {
+      "name": "(المصحف المرتل (ختمة كاليفورنيا",
+      "year": "2008",
+      "release_date": "2008-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/a8/a9/a1a8a992-6ac2-0584-46d1-9a9023cd2317/8718857790426.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الفاتحة",
+          "duration": "1:23"
+        },
+        {
+          "number": 2,
+          "name": "سورة البقرة",
+          "duration": "130:23"
+        },
+        {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "duration": "77:27"
+        },
+        {
+          "number": 4,
+          "name": "سورة النساء",
+          "duration": "83:22"
+        },
+        {
+          "number": 5,
+          "name": "سورة المائدة",
+          "duration": "63:21"
+        },
+        {
+          "number": 6,
+          "name": "سورة الأنعام",
+          "duration": "69:07"
+        },
+        {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "duration": "76:21"
+        },
+        {
+          "number": 8,
+          "name": "سورة الأنفال",
+          "duration": "28:43"
+        },
+        {
+          "number": 9,
+          "name": "سورة التوبة",
+          "duration": "56:00"
+        },
+        {
+          "number": 10,
+          "name": "سورة يونس",
+          "duration": "40:20"
+        },
+        {
+          "number": 11,
+          "name": "سورة هود",
+          "duration": "44:15"
+        },
+        {
+          "number": 12,
+          "name": "سورة يوسف",
+          "duration": "41:00"
+        },
+        {
+          "number": 13,
+          "name": "سورة الرعد",
+          "duration": "19:58"
+        },
+        {
+          "number": 14,
+          "name": "سورة إبراهيم",
+          "duration": "20:52"
+        },
+        {
+          "number": 15,
+          "name": "سورة الحجر",
+          "duration": "15:48"
+        },
+        {
+          "number": 16,
+          "name": "سورة النحل",
+          "duration": "43:06"
+        },
+        {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "duration": "35:08"
+        },
+        {
+          "number": 18,
+          "name": "سورة الكهف",
+          "duration": "33:17"
+        },
+        {
+          "number": 19,
+          "name": "سورة مريم",
+          "duration": "20:30"
+        },
+        {
+          "number": 20,
+          "name": "سورة طه",
+          "duration": "26:37"
+        },
+        {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "duration": "28:04"
+        },
+        {
+          "number": 22,
+          "name": "سورة الحج",
+          "duration": "28:40"
+        },
+        {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "duration": "24:30"
+        },
+        {
+          "number": 24,
+          "name": "سورة النور",
+          "duration": "30:35"
+        },
+        {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "duration": "19:50"
+        },
+        {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "duration": "32:10"
+        },
+        {
+          "number": 27,
+          "name": "سورة النمل",
+          "duration": "27:48"
+        },
+        {
+          "number": 28,
+          "name": "سورة القصص",
+          "duration": "29:43"
+        },
+        {
+          "number": 29,
+          "name": "سورة العنكبوت",
+          "duration": "22:22"
+        },
+        {
+          "number": 30,
+          "name": "سورة الروم",
+          "duration": "18:14"
+        },
+        {
+          "number": 31,
+          "name": "سورة لقمان",
+          "duration": "11:20"
+        },
+        {
+          "number": 32,
+          "name": "سورة السجدة",
+          "duration": "8:57"
+        },
+        {
+          "number": 33,
+          "name": "سورة الأحزاب",
+          "duration": "29:24"
+        },
+        {
+          "number": 34,
+          "name": "سورة سبأ",
+          "duration": "19:50"
+        },
+        {
+          "number": 35,
+          "name": "سورة فاطر",
+          "duration": "17:37"
+        },
+        {
+          "number": 36,
+          "name": "سورة يس",
+          "duration": "17:56"
+        },
+        {
+          "number": 37,
+          "name": "سورة الصافات",
+          "duration": "22:43"
+        },
+        {
+          "number": 38,
+          "name": "سورة ص",
+          "duration": "17:34"
+        },
+        {
+          "number": 39,
+          "name": "سورة الزمر",
+          "duration": "24:43"
+        },
+        {
+          "number": 40,
+          "name": "سورة غافر",
+          "duration": "25:34"
+        },
+        {
+          "number": 41,
+          "name": "سورة فصلت",
+          "duration": "18:07"
+        },
+        {
+          "number": 42,
+          "name": "سورة الشورى",
+          "duration": "19:49"
+        },
+        {
+          "number": 43,
+          "name": "سورة الزخرف",
+          "duration": "20:22"
+        },
+        {
+          "number": 44,
+          "name": "سورة الدخان",
+          "duration": "9:16"
+        },
+        {
+          "number": 45,
+          "name": "سورة الجاثية",
+          "duration": "12:09"
+        },
+        {
+          "number": 46,
+          "name": "سورة الأحقاف",
+          "duration": "14:22"
+        },
+        {
+          "number": 47,
+          "name": "سورة محمد",
+          "duration": "12:11"
+        },
+        {
+          "number": 48,
+          "name": "سورة الفتح",
+          "duration": "11:22"
+        },
+        {
+          "number": 49,
+          "name": "سورة الحجرات",
+          "duration": "7:48"
+        },
+        {
+          "number": 50,
+          "name": "سورة ق",
+          "duration": "8:51"
+        }
+      ]
+    },
+    {
+      "name": "المصحف المرتل (تلاوة حية من صلاة التراويح)",
+      "year": "2007",
+      "release_date": "2007-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4a/e2/6d/4ae26d5a-9bcf-b8fd-a6ab-e35b9ffe7823/195497923083.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Al Fateha",
+          "duration": "0:50"
+        },
+        {
+          "number": 2,
+          "name": "Al Baqarah",
+          "duration": "147:31"
+        },
+        {
+          "number": 3,
+          "name": "Al Emraan",
+          "duration": "75:59"
+        },
+        {
+          "number": 4,
+          "name": "Al Nes'aa",
+          "duration": "79:23"
+        },
+        {
+          "number": 5,
+          "name": "Al Ma'aeda",
+          "duration": "63:19"
+        },
+        {
+          "number": 6,
+          "name": "Al Ana'am",
+          "duration": "68:56"
+        },
+        {
+          "number": 7,
+          "name": "Al Aa'raaf",
+          "duration": "76:17"
+        },
+        {
+          "number": 8,
+          "name": "Al Anfaal",
+          "duration": "28:43"
+        },
+        {
+          "number": 9,
+          "name": "Al Tawba",
+          "duration": "51:03"
+        },
+        {
+          "number": 10,
+          "name": "Younis",
+          "duration": "38:04"
+        },
+        {
+          "number": 11,
+          "name": "Houd",
+          "duration": "41:21"
+        },
+        {
+          "number": 12,
+          "name": "Youssif",
+          "duration": "42:00"
+        },
+        {
+          "number": 13,
+          "name": "El Ra'ad",
+          "duration": "17:57"
+        },
+        {
+          "number": 14,
+          "name": "Ibrahim",
+          "duration": "22:14"
+        },
+        {
+          "number": 15,
+          "name": "El Hagar",
+          "duration": "14:59"
+        },
+        {
+          "number": 16,
+          "name": "El Nahl",
+          "duration": "42:55"
+        },
+        {
+          "number": 19,
+          "name": "Mariam",
+          "duration": "22:43"
+        },
+        {
+          "number": 20,
+          "name": "Taha",
+          "duration": "22:44"
+        },
+        {
+          "number": 21,
+          "name": "Al Anbya'a",
+          "duration": "35:25"
+        },
+        {
+          "number": 22,
+          "name": "Al Haj",
+          "duration": "28:51"
+        },
+        {
+          "number": 23,
+          "name": "Al Moe'menoon",
+          "duration": "22:30"
+        },
+        {
+          "number": 24,
+          "name": "El Nour",
+          "duration": "29:48"
+        },
+        {
+          "number": 25,
+          "name": "Al Furqaan",
+          "duration": "19:09"
+        },
+        {
+          "number": 26,
+          "name": "Al Shoa'raa",
+          "duration": "29:53"
+        },
+        {
+          "number": 27,
+          "name": "El Naml",
+          "duration": "26:45"
+        },
+        {
+          "number": 28,
+          "name": "El Kassas",
+          "duration": "31:08"
+        },
+        {
+          "number": 29,
+          "name": "El Ankabout",
+          "duration": "21:33"
+        },
+        {
+          "number": 30,
+          "name": "El Room",
+          "duration": "20:00"
+        },
+        {
+          "number": 31,
+          "name": "Louqman",
+          "duration": "14:53"
+        },
+        {
+          "number": 32,
+          "name": "Al Sajda",
+          "duration": "10:56"
+        },
+        {
+          "number": 33,
+          "name": "Al Ahzaab",
+          "duration": "33:07"
+        },
+        {
+          "number": 34,
+          "name": "Saba'a",
+          "duration": "20:13"
+        },
+        {
+          "number": 35,
+          "name": "Fater",
+          "duration": "17:12"
+        },
+        {
+          "number": 36,
+          "name": "Yassin",
+          "duration": "18:04"
+        },
+        {
+          "number": 37,
+          "name": "Al Safaat",
+          "duration": "23:25"
+        },
+        {
+          "number": 38,
+          "name": "Saad",
+          "duration": "18:41"
+        },
+        {
+          "number": 39,
+          "name": "El Zomor",
+          "duration": "28:10"
+        },
+        {
+          "number": 40,
+          "name": "Ghaffer",
+          "duration": "30:09"
+        },
+        {
+          "number": 41,
+          "name": "Faslt",
+          "duration": "21:08"
+        },
+        {
+          "number": 42,
+          "name": "El Shuraa",
+          "duration": "15:43"
+        },
+        {
+          "number": 43,
+          "name": "Al Zakhraf",
+          "duration": "20:37"
+        },
+        {
+          "number": 44,
+          "name": "Al Dukhaan",
+          "duration": "9:22"
+        },
+        {
+          "number": 45,
+          "name": "Al Gatheya",
+          "duration": "12:21"
+        },
+        {
+          "number": 46,
+          "name": "Al Ahkaaf",
+          "duration": "15:52"
+        },
+        {
+          "number": 47,
+          "name": "Mohamed",
+          "duration": "12:11"
+        },
+        {
+          "number": 48,
+          "name": "Al Fath",
+          "duration": "11:23"
+        },
+        {
+          "number": 49,
+          "name": "Al Hujarat",
+          "duration": "7:49"
+        },
+        {
+          "number": 50,
+          "name": "Qaaf",
+          "duration": "9:21"
+        },
+        {
+          "number": 51,
+          "name": "Al Zaryat",
+          "duration": "10:14"
+        },
+        {
+          "number": 52,
+          "name": "Al Toor",
+          "duration": "8:51"
+        }
+      ]
+    },
+    {
+      "name": "شمائل المصطفى صل الله عليه و سلم",
+      "year": "2005",
+      "release_date": "2005-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/d4/8c/fbd48cbf-e271-5eb3-80c3-46a44b688aab/191773297275.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nasheed El Moqadema",
+          "duration": "2:42"
+        },
+        {
+          "number": 2,
+          "name": "Adl Al Naby",
+          "duration": "5:56"
+        },
+        {
+          "number": 3,
+          "name": "Kamal Esmateh",
+          "duration": "6:46"
+        },
+        {
+          "number": 4,
+          "name": "Adab El Naby",
+          "duration": "5:55"
+        },
+        {
+          "number": 5,
+          "name": "Kamal Tawjaheh",
+          "duration": "5:54"
+        },
+        {
+          "number": 6,
+          "name": "Kamal Osloob Daawteh",
+          "duration": "5:41"
+        },
+        {
+          "number": 7,
+          "name": "Kamal Ahwaleh Fe Ebadateh",
+          "duration": "6:24"
+        },
+        {
+          "number": 8,
+          "name": "Nashed El Nehaya",
+          "duration": "2:39"
+        }
+      ]
+    },
+    {
+      "name": "مصحف القراءات العشر برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+      "year": "2024",
+      "release_date": "2024-07-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/cf/43/ebcf4371-0e5c-bbec-d685-3d1da5a17277/6678990162233.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الفاتحة برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "1:13"
+        },
+        {
+          "number": 2,
+          "name": "سورة البقرة برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "148:54"
+        },
+        {
+          "number": 3,
+          "name": "سورة آل عمران برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "87:46"
+        },
+        {
+          "number": 4,
+          "name": "سورة النساء برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "89:51"
+        },
+        {
+          "number": 5,
+          "name": "سورة المائدة برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "68:40"
+        },
+        {
+          "number": 6,
+          "name": "سورة الأنعام برواية حفص عن عاصم 1445هـ - 2024م",
+          "duration": "71:40"
+        },
+        {
+          "number": 7,
+          "name": "سورة الأعراف برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "83:45"
+        },
+        {
+          "number": 8,
+          "name": "سورة الأنفال برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "30:28"
+        },
+        {
+          "number": 9,
+          "name": "سورة التوبة برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "63:29"
+        },
+        {
+          "number": 10,
+          "name": "سورة يونس برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "44:31"
+        },
+        {
+          "number": 11,
+          "name": "سورة هود برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "47:35"
+        },
+        {
+          "number": 12,
+          "name": "سورة يوسف برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "45:30"
+        },
+        {
+          "number": 13,
+          "name": "سورة الرعد برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "20:16"
+        },
+        {
+          "number": 14,
+          "name": "سورة إبراهيم برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "22:00"
+        },
+        {
+          "number": 15,
+          "name": "سورة الحجر برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "15:22"
+        },
+        {
+          "number": 16,
+          "name": "سورة النحل برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "44:11"
+        },
+        {
+          "number": 17,
+          "name": "سورة الإسراء برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "37:20"
+        },
+        {
+          "number": 18,
+          "name": "سورة الكهف برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "37:34"
+        },
+        {
+          "number": 19,
+          "name": "سورة مريم برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "23:24"
+        },
+        {
+          "number": 20,
+          "name": "سورة طه برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "31:58"
+        },
+        {
+          "number": 21,
+          "name": "سورة الأنبياء برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "31:07"
+        },
+        {
+          "number": 22,
+          "name": "سورة الحج برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "29:45"
+        },
+        {
+          "number": 23,
+          "name": "سورة المؤمنون برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "26:59"
+        },
+        {
+          "number": 24,
+          "name": "سورة النور برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "31:35"
+        },
+        {
+          "number": 25,
+          "name": "سورة الفرقان برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "21:05"
+        },
+        {
+          "number": 26,
+          "name": "سورة الشعراء برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "34:30"
+        },
+        {
+          "number": 27,
+          "name": "سورة النمل برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "28:24"
+        },
+        {
+          "number": 28,
+          "name": "سورة القصص برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "35:26"
+        },
+        {
+          "number": 29,
+          "name": "سورة العنكبوت برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "24:15"
+        },
+        {
+          "number": 30,
+          "name": "سورة الرّوم برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "21:03"
+        },
+        {
+          "number": 31,
+          "name": "سورة لقمان برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "12:41"
+        },
+        {
+          "number": 32,
+          "name": "سورة السجدة برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "10:17"
+        },
+        {
+          "number": 33,
+          "name": "سورة الأحزاب برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "33:27"
+        },
+        {
+          "number": 34,
+          "name": "سورة سبأ برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "21:41"
+        },
+        {
+          "number": 35,
+          "name": "سورة فاطر برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "19:45"
+        },
+        {
+          "number": 36,
+          "name": "سورة يس برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "19:26"
+        },
+        {
+          "number": 37,
+          "name": "سورة الصافات برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "25:29"
+        },
+        {
+          "number": 38,
+          "name": "سورة ص برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "19:57"
+        },
+        {
+          "number": 39,
+          "name": "سورة الزمر برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "26:17"
+        },
+        {
+          "number": 40,
+          "name": "سورة غافر برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "28:29"
+        },
+        {
+          "number": 41,
+          "name": "سورة فصّلت برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "20:26"
+        },
+        {
+          "number": 42,
+          "name": "سورة الشورى برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "21:55"
+        },
+        {
+          "number": 43,
+          "name": "سورة الزخرف برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "24:33"
+        },
+        {
+          "number": 44,
+          "name": "سورة الدّخان برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "11:40"
+        },
+        {
+          "number": 45,
+          "name": "سورة الجاثية برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "12:33"
+        },
+        {
+          "number": 46,
+          "name": "سورة الأحقاف برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "16:17"
+        },
+        {
+          "number": 47,
+          "name": "سورة محمد برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "13:55"
+        },
+        {
+          "number": 48,
+          "name": "سورة الفتح برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "13:06"
+        },
+        {
+          "number": 49,
+          "name": "سورة الحجرات برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "9:11"
+        },
+        {
+          "number": 50,
+          "name": "سورة ق برواية ابن ذكوان عن ابن عامر 1445هـ - 2024م",
+          "duration": "10:02"
+        }
+      ]
+    },
+    {
+      "name": "جزء عم (المصحف المعلم)",
+      "year": "2021",
+      "release_date": "2021-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b0/c1/f3/b0c1f374-a4be-804a-6e65-57dcfd75940a/196292506259.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "جزء عم",
+          "duration": "140:49"
+        }
+      ]
+    },
+    {
+      "name": "سورة النمل تراويح 1446هـ - 2025م",
+      "year": "2025",
+      "release_date": "2025-03-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/07/22/e4072288-a76c-4be4-6758-a2a3f1df8a00/6678990173864.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة النمل تراويح 1446هـ - 2025م",
+          "duration": "30:47"
+        }
+      ]
+    },
+    {
+      "name": "سورة الشعراء",
+      "year": "2012",
+      "release_date": "2012-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a6/bf/10/a6bf1075-cb98-9d22-00e7-dfeec69c83bf/196292884579.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الشعراء (Live)",
+          "duration": "34:26"
+        }
+      ]
+    },
+    {
+      "name": "جوامع الدعاء من القرآن الكريم",
+      "year": "2006",
+      "release_date": "2006-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4c/43/38/4c4338e7-0ac3-2db4-953f-31d07291bd58/195497943050.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Duaa Manasek El Haj",
+          "duration": "0:49"
+        },
+        {
+          "number": 2,
+          "name": "Duaa El Farag",
+          "duration": "0:30"
+        },
+        {
+          "number": 3,
+          "name": "Duaa El Aafw",
+          "duration": "1:23"
+        },
+        {
+          "number": 4,
+          "name": "Al Munajah",
+          "duration": "0:54"
+        },
+        {
+          "number": 5,
+          "name": "Duaa El Motaqeen",
+          "duration": "0:54"
+        },
+        {
+          "number": 6,
+          "name": "دعاء المُلك",
+          "duration": "0:33"
+        },
+        {
+          "number": 7,
+          "name": "Duaa Al Hawareyoun",
+          "duration": "0:27"
+        },
+        {
+          "number": 8,
+          "name": "Duaa AL Rebbeyoun",
+          "duration": "0:50"
+        },
+        {
+          "number": 9,
+          "name": "Duaa Oly Al Albab 1",
+          "duration": "0:48"
+        },
+        {
+          "number": 10,
+          "name": "Duaa Oly El Albab 2",
+          "duration": "1:22"
+        },
+        {
+          "number": 11,
+          "name": "Duaa Al Mostdaafeen",
+          "duration": "0:41"
+        },
+        {
+          "number": 12,
+          "name": "Duaa Saharet Fer'aoun",
+          "duration": "0:42"
+        },
+        {
+          "number": 13,
+          "name": "Duaa Al Tawakkol",
+          "duration": "0:39"
+        },
+        {
+          "number": 14,
+          "name": "Duaa Berr El Waldyeen",
+          "duration": "0:30"
+        },
+        {
+          "number": 15,
+          "name": "Duaa El Hak",
+          "duration": "0:37"
+        },
+        {
+          "number": 16,
+          "name": "Duaa Al Rashad",
+          "duration": "0:25"
+        },
+        {
+          "number": 17,
+          "name": "Duaa Enshrah El Sodour",
+          "duration": "0:33"
+        },
+        {
+          "number": 18,
+          "name": "Duaa El Nozool Bemakan",
+          "duration": "0:23"
+        },
+        {
+          "number": 19,
+          "name": "Duaa El Estaaza men Shar El Shaytan",
+          "duration": "0:40"
+        },
+        {
+          "number": 20,
+          "name": "Duaa El Moemneen",
+          "duration": "0:26"
+        },
+        {
+          "number": 21,
+          "name": "Duaa El Maghfera",
+          "duration": "0:19"
+        },
+        {
+          "number": 22,
+          "name": "Duaa Ebad El Rahman 1",
+          "duration": "0:55"
+        },
+        {
+          "number": 23,
+          "name": "Duaa Ebad Al Rahman 2",
+          "duration": "0:34"
+        },
+        {
+          "number": 24,
+          "name": "Duaa El Malaeka Wa Hamalet El Aarsh",
+          "duration": "1:51"
+        },
+        {
+          "number": 25,
+          "name": "Duaa Kashef El Azaab",
+          "duration": "0:21"
+        },
+        {
+          "number": 26,
+          "name": "Duaa Man Yablogh El Arbaeen men Omro",
+          "duration": "1:01"
+        },
+        {
+          "number": 27,
+          "name": "Duaa El Tabeen lel mohagreen wal ansar",
+          "duration": "0:56"
+        },
+        {
+          "number": 28,
+          "name": "Duaa El Moemeneen 2",
+          "duration": "0:58"
+        },
+        {
+          "number": 29,
+          "name": "Duaa El Tawba",
+          "duration": "0:34"
+        },
+        {
+          "number": 30,
+          "name": "Duaa Emraat Fer؛aoun",
+          "duration": "0:30"
+        },
+        {
+          "number": 31,
+          "name": "Duaa Lel Esteghfar",
+          "duration": "1:00"
+        }
+      ]
+    },
+    {
+      "name": "سورة النحل - من صلاة القيام 1420هـ - 1999م",
+      "year": "2025",
+      "release_date": "2025-04-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/6d/be/a96dbed8-6b2a-ee39-b0d4-fccb186c87e7/6678990175585.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة النحل - من صلاة القيام 1420هـ - 1999م",
+          "duration": "32:46"
+        }
+      ]
+    },
+    {
+      "name": "ليس الغريب",
+      "year": "2019",
+      "release_date": "2019-04-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/e4/6e/d7e46e2c-0325-b160-81d2-1ff1eb5f1d4e/8718857790600.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ليس الغريب",
+          "duration": "15:46"
+        },
+        {
+          "number": 2,
+          "name": "قريح القلب",
+          "duration": "5:14"
+        },
+        {
+          "number": 3,
+          "name": "تغيرت المودة",
+          "duration": "4:48"
+        },
+        {
+          "number": 4,
+          "name": "وقفت على القبور - قبر الحبيب",
+          "duration": "3:46"
+        },
+        {
+          "number": 5,
+          "name": "إذا قربت",
+          "duration": "4:04"
+        },
+        {
+          "number": 6,
+          "name": "الطفولة",
+          "duration": "3:58"
+        },
+        {
+          "number": 7,
+          "name": "يمه",
+          "duration": "5:15"
+        },
+        {
+          "number": 8,
+          "name": "إلهى",
+          "duration": "8:55"
+        }
+      ]
+    },
+    {
+      "name": "عناقيد",
+      "year": "2009",
+      "release_date": "2009-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/22/98/4a22981f-3919-8a71-22c4-1b93fa3f2f1b/6678990047127.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الشهيد",
+          "duration": "2:13"
+        },
+        {
+          "number": 2,
+          "name": "مع الحبيب",
+          "duration": "4:05"
+        },
+        {
+          "number": 3,
+          "name": "لا عاد",
+          "duration": "4:40"
+        },
+        {
+          "number": 4,
+          "name": "شكرا يا مصر",
+          "duration": "1:54"
+        },
+        {
+          "number": 5,
+          "name": "قطر",
+          "duration": "3:09"
+        },
+        {
+          "number": 6,
+          "name": "يا صاحبي",
+          "duration": "3:26"
+        },
+        {
+          "number": 7,
+          "name": "دوما لك الحمد",
+          "duration": "4:22"
+        },
+        {
+          "number": 8,
+          "name": "الله على الظالم",
+          "duration": "4:26"
+        },
+        {
+          "number": 9,
+          "name": "ياربي اسالك التقى",
+          "duration": "2:58"
+        },
+        {
+          "number": 10,
+          "name": "هذه زكاتي",
+          "duration": "3:46"
+        },
+        {
+          "number": 11,
+          "name": "جربتها",
+          "duration": "7:31"
+        },
+        {
+          "number": 12,
+          "name": "تذكر",
+          "duration": "3:59"
+        },
+        {
+          "number": 13,
+          "name": "نختلف",
+          "duration": "3:23"
+        },
+        {
+          "number": 14,
+          "name": "أغيب",
+          "duration": "5:40"
+        },
+        {
+          "number": 15,
+          "name": "أجمل وطن",
+          "duration": "5:10"
+        }
+      ]
+    },
+    {
+      "name": "سورة النساء ١٤٣٢هـ - ٢٠١١م",
+      "year": "2021",
+      "release_date": "2021-06-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/7c/d4/447cd4d0-2be8-a26e-d70a-9ded64ab8354/6678990020304.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة النساء ١٤٣٢هـ - ٢٠١١م",
+          "duration": "36:30"
+        }
+      ]
+    },
+    {
+      "name": "سورة الحج لعام 1428هـ - 2007م",
+      "year": "2025",
+      "release_date": "2025-04-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/c1/40/adc1409f-4519-3223-ac64-d495616e9616/6678990175097.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الحج لعام 1428هـ - 2007م",
+          "duration": "32:36"
+        }
+      ]
+    },
+    {
+      "name": "سورة الأنعام 1419هـ 1999م",
+      "year": "2021",
+      "release_date": "2021-11-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/95/cb/52/95cb5238-0b6f-71e9-46ea-df25fb52cbe7/196292878127.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الأنعام 1419هـ 1999م",
+          "duration": "64:24"
+        }
+      ]
+    },
+    {
+      "name": "سورة النمل 1421هـ 2000م",
+      "year": "2000",
+      "release_date": "2000-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/95/6c/db/956cdb74-7ce5-12df-e854-c9cfaad379bb/196292939798.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة النمل 1421هـ 2000م (Live)",
+          "duration": "31:23"
+        }
+      ]
+    },
+    {
+      "name": "سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/8c/de/8a8cde65-5d07-5a33-e6da-5b99e43fd231/885288301120.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "138:14"
+        }
+      ]
+    },
+    {
+      "name": "1997-1418 سورة آل عمران (feat. محمد الدوسري)",
+      "year": "2020",
+      "release_date": "2020-12-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/4a/e2/ac4ae2bd-fb3d-0d29-32fd-41e5563c6e26/6678990015614.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "1997-1418 سورة آل عمران (feat. محمد الدوسري)",
+          "duration": "72:25"
+        }
+      ]
+    },
+    {
+      "name": "سورة غافر 1420هـ",
+      "year": "1999",
+      "release_date": "1999-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/06/ca/b206caa9-b09f-e031-c3ce-072dabd63fb4/196292926460.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة غافر 1420هـ 1999م",
+          "duration": "30:48"
+        }
+      ]
+    },
+    {
+      "name": "ألبوم مشاري العفاسي 2020",
+      "year": "2020",
+      "release_date": "2020-05-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/c5/6e/0dc56e34-6af0-65f4-5d3e-cc4765420d67/6678990010817.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "المصطفى",
+          "duration": "3:20"
+        },
+        {
+          "number": 2,
+          "name": "أنشد لكم",
+          "duration": "4:28"
+        },
+        {
+          "number": 3,
+          "name": "سيمر هذا الوقت",
+          "duration": "4:23"
+        },
+        {
+          "number": 4,
+          "name": "فرصة",
+          "duration": "3:35"
+        },
+        {
+          "number": 5,
+          "name": "كلمة طيبة",
+          "duration": "2:42"
+        },
+        {
+          "number": 6,
+          "name": "فرج همومي",
+          "duration": "4:10"
+        },
+        {
+          "number": 7,
+          "name": "بك نحتفي",
+          "duration": "3:29"
+        },
+        {
+          "number": 8,
+          "name": "قلها",
+          "duration": "3:05"
+        },
+        {
+          "number": 9,
+          "name": "لعله خير",
+          "duration": "2:53"
+        },
+        {
+          "number": 10,
+          "name": "الخليل",
+          "duration": "3:55"
+        },
+        {
+          "number": 11,
+          "name": "للحرف",
+          "duration": "3:16"
+        },
+        {
+          "number": 12,
+          "name": "مالك و رضوان",
+          "duration": "3:38"
+        },
+        {
+          "number": 13,
+          "name": "يكفيك إبتسامه",
+          "duration": "4:27"
+        },
+        {
+          "number": 14,
+          "name": "غردي يا روح",
+          "duration": "2:39"
+        },
+        {
+          "number": 15,
+          "name": "جنة الأرض",
+          "duration": "3:08"
+        },
+        {
+          "number": 16,
+          "name": "الجروح",
+          "duration": "6:03"
+        },
+        {
+          "number": 17,
+          "name": "لا تشغل البال",
+          "duration": "3:49"
+        },
+        {
+          "number": 18,
+          "name": "يا عين لا تحزني",
+          "duration": "4:39"
+        },
+        {
+          "number": 19,
+          "name": "توشك العين",
+          "duration": "4:13"
+        },
+        {
+          "number": 20,
+          "name": "فقدتك (feat. Fadel Chaker)",
+          "duration": "5:34"
+        }
+      ]
+    },
+    {
+      "name": "جزء تبارك",
+      "year": "2021",
+      "release_date": "2021-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cc/dd/63/ccdd631a-1c70-2abc-7713-e711f035e07e/196292856583.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "جزء تبارك",
+          "duration": "58:45"
+        }
+      ]
+    },
+    {
+      "name": "ليس الغريب",
+      "year": "2004",
+      "release_date": "2004-07-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/74/48/917448ab-bd7b-7f54-b03d-dd3bc839942c/199350380426.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Moqadema - Intro.",
+          "duration": "2:28"
+        },
+        {
+          "number": 2,
+          "name": "Qabr EL Habeeb",
+          "duration": "3:51"
+        },
+        {
+          "number": 3,
+          "name": "Laysa AlGharib",
+          "duration": "15:49"
+        },
+        {
+          "number": 4,
+          "name": "Qareeh EL Qalb",
+          "duration": "5:18"
+        },
+        {
+          "number": 5,
+          "name": "Taghyrt EL Mawda",
+          "duration": "4:52"
+        },
+        {
+          "number": 6,
+          "name": "Etha Qarbt",
+          "duration": "4:06"
+        },
+        {
+          "number": 7,
+          "name": "El Tofola",
+          "duration": "4:01"
+        },
+        {
+          "number": 8,
+          "name": "Yomma",
+          "duration": "5:20"
+        },
+        {
+          "number": 9,
+          "name": "Elahy",
+          "duration": "9:00"
+        }
+      ]
+    },
+    {
+      "name": "مصحف القراءات العشر برواية خلف العاشر 1445هـ 2024م",
+      "year": "2025",
+      "release_date": "2025-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/64/90/4a6490d9-4639-aa9b-aab0-69a4d476f4e5/6678990183283.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الفاتحة برواية خلف العاشر 1445هـ 2024م",
+          "duration": "1:13"
+        },
+        {
+          "number": 2,
+          "name": "سورة البقرة برواية خلف العاشر 1445هـ 2024م",
+          "duration": "149:38"
+        },
+        {
+          "number": 3,
+          "name": "سورة آل عمران برواية خلف العاشر 1445هـ 2024م",
+          "duration": "87:29"
+        },
+        {
+          "number": 4,
+          "name": "سورة النساء برواية خلف العاشر 1445هـ 2024م",
+          "duration": "89:51"
+        },
+        {
+          "number": 5,
+          "name": "سورة المائدة برواية خلف العاشر 1445هـ 2024م",
+          "duration": "68:54"
+        },
+        {
+          "number": 6,
+          "name": "سورة الأنعام برواية خلف العاشر 1445هـ 2024م",
+          "duration": "72:04"
+        },
+        {
+          "number": 7,
+          "name": "سورة الأعراف برواية خلف العاشر 1445هـ 2024م",
+          "duration": "83:58"
+        },
+        {
+          "number": 8,
+          "name": "سورة الأنفال برواية خلف العاشر 1445هـ 2024م",
+          "duration": "30:34"
+        },
+        {
+          "number": 9,
+          "name": "سورة التوبة برواية خلف العاشر 1445هـ 2024م",
+          "duration": "63:24"
+        },
+        {
+          "number": 10,
+          "name": "سورة يونس برواية خلف العاشر 1445هـ 2024م",
+          "duration": "44:51"
+        },
+        {
+          "number": 11,
+          "name": "سورة هود برواية خلف العاشر 1445هـ 2024م",
+          "duration": "47:41"
+        },
+        {
+          "number": 12,
+          "name": "سورة يوسف برواية خلف العاشر 1445هـ 2024م",
+          "duration": "45:51"
+        },
+        {
+          "number": 13,
+          "name": "سورة الرعد برواية خلف العاشر 1445هـ 2024م",
+          "duration": "20:22"
+        },
+        {
+          "number": 14,
+          "name": "سورة إبراهيم برواية خلف العاشر 1445هـ 2024م",
+          "duration": "22:00"
+        },
+        {
+          "number": 15,
+          "name": "سورة الحجر برواية خلف العاشر 1445هـ 2024م",
+          "duration": "15:24"
+        },
+        {
+          "number": 16,
+          "name": "سورة النحل برواية خلف العاشر 1445هـ 2024م",
+          "duration": "44:08"
+        },
+        {
+          "number": 17,
+          "name": "سورة الإسراء برواية خلف العاشر 1445هـ 2024م",
+          "duration": "37:33"
+        },
+        {
+          "number": 18,
+          "name": "سورة الكهف برواية خلف العاشر 1445هـ 2024م",
+          "duration": "37:23"
+        },
+        {
+          "number": 19,
+          "name": "سورة مريم برواية خلف العاشر 1445هـ 2024م",
+          "duration": "23:21"
+        },
+        {
+          "number": 20,
+          "name": "سورة طه برواية خلف العاشر 1445هـ 2024م",
+          "duration": "31:56"
+        },
+        {
+          "number": 21,
+          "name": "سورة الأنبياء برواية خلف العاشر 1445هـ 2024م",
+          "duration": "31:06"
+        },
+        {
+          "number": 22,
+          "name": "سورة الحج برواية خلف العاشر 1445هـ 2024م",
+          "duration": "29:50"
+        },
+        {
+          "number": 23,
+          "name": "سورة المؤمنون برواية خلف العاشر 1445هـ 2024م",
+          "duration": "27:03"
+        },
+        {
+          "number": 24,
+          "name": "سورة النور برواية خلف العاشر 1445هـ 2024م",
+          "duration": "31:37"
+        },
+        {
+          "number": 25,
+          "name": "سورة الفرقان برواية خلف العاشر 1445هـ 2024م",
+          "duration": "21:05"
+        },
+        {
+          "number": 26,
+          "name": "سورة الشعراء برواية خلف العاشر 1445هـ 2024م",
+          "duration": "34:44"
+        },
+        {
+          "number": 27,
+          "name": "سورة النمل برواية خلف العاشر 1445هـ 2024م",
+          "duration": "28:28"
+        },
+        {
+          "number": 28,
+          "name": "سورة القصص برواية خلف العاشر 1445هـ 2024م",
+          "duration": "35:28"
+        },
+        {
+          "number": 29,
+          "name": "سورة العنكبوت برواية خلف العاشر 1445هـ 2024م",
+          "duration": "24:18"
+        },
+        {
+          "number": 30,
+          "name": "سورة الروم برواية خلف العاشر 1445هـ 2024م",
+          "duration": "21:04"
+        },
+        {
+          "number": 31,
+          "name": "سورة لقمان برواية خلف العاشر 1445هـ 2024م",
+          "duration": "12:45"
+        },
+        {
+          "number": 32,
+          "name": "سورة السجدة برواية خلف العاشر 1445هـ 2024م",
+          "duration": "10:17"
+        },
+        {
+          "number": 33,
+          "name": "سورة الأحزاب برواية خلف العاشر 1445هـ 2024م",
+          "duration": "33:25"
+        },
+        {
+          "number": 34,
+          "name": "سورة سبإ برواية خلف العاشر 1445هـ 2024م",
+          "duration": "21:50"
+        },
+        {
+          "number": 35,
+          "name": "سورة فاطر برواية خلف العاشر 1445هـ 2024م",
+          "duration": "19:41"
+        },
+        {
+          "number": 36,
+          "name": "سورة يس برواية خلف العاشر 1445هـ 2024م",
+          "duration": "19:28"
+        },
+        {
+          "number": 37,
+          "name": "سورة الصافات برواية خلف العاشر 1445هـ 2024م",
+          "duration": "25:34"
+        },
+        {
+          "number": 38,
+          "name": "سورة ص برواية خلف العاشر 1445هـ 2024م",
+          "duration": "19:56"
+        },
+        {
+          "number": 39,
+          "name": "سورة الزمر برواية خلف العاشر 1445هـ 2024م",
+          "duration": "26:22"
+        },
+        {
+          "number": 40,
+          "name": "سورة غافر برواية خلف العاشر 1445هـ 2024م",
+          "duration": "28:33"
+        },
+        {
+          "number": 41,
+          "name": "سورة فصلت برواية خلف العاشر 1445هـ 2024م",
+          "duration": "20:28"
+        },
+        {
+          "number": 42,
+          "name": "سورة الشورى برواية خلف العاشر 1445هـ 2024م",
+          "duration": "21:55"
+        },
+        {
+          "number": 43,
+          "name": "سورة الزخرف برواية خلف العاشر 1445هـ 2024م",
+          "duration": "24:27"
+        },
+        {
+          "number": 44,
+          "name": "سورة الدخان برواية خلف العاشر 1445هـ 2024م",
+          "duration": "11:37"
+        },
+        {
+          "number": 45,
+          "name": "سورة الجاثية برواية خلف العاشر 1445هـ 2024م",
+          "duration": "12:29"
+        },
+        {
+          "number": 46,
+          "name": "سورة الأحقاف برواية خلف العاشر 1445هـ 2024م",
+          "duration": "16:17"
+        },
+        {
+          "number": 47,
+          "name": "سورة محمد برواية خلف العاشر 1445هـ 2024م",
+          "duration": "13:55"
+        },
+        {
+          "number": 48,
+          "name": "سورة الفتح برواية خلف العاشر 1445هـ 2024م",
+          "duration": "13:08"
+        },
+        {
+          "number": 49,
+          "name": "سورة الحجرات برواية خلف العاشر 1445هـ 2024م",
+          "duration": "9:06"
+        },
+        {
+          "number": 50,
+          "name": "سورة ق برواية خلف العاشر 1445هـ 2024م",
+          "duration": "10:04"
+        }
+      ]
+    },
+    {
+      "name": "قمري",
+      "year": "2015",
+      "release_date": "2015-07-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/08/c5/4208c587-895a-b06b-cf72-91f67f66fa18/6678990047141.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "وطهر بيتي",
+          "duration": "3:57"
+        },
+        {
+          "number": 2,
+          "name": "صفحة جديدة",
+          "duration": "3:33"
+        },
+        {
+          "number": 3,
+          "name": "العارم",
+          "duration": "4:24"
+        },
+        {
+          "number": 4,
+          "name": "الله عطانا",
+          "duration": "2:44"
+        },
+        {
+          "number": 5,
+          "name": "شكرا",
+          "duration": "2:03"
+        },
+        {
+          "number": 6,
+          "name": "أكبر الشدات",
+          "duration": "4:29"
+        },
+        {
+          "number": 7,
+          "name": "قمري",
+          "duration": "5:07"
+        },
+        {
+          "number": 8,
+          "name": "خاطري",
+          "duration": "2:44"
+        },
+        {
+          "number": 9,
+          "name": "استغفر الله",
+          "duration": "4:53"
+        },
+        {
+          "number": 10,
+          "name": "وديعتك الكويت",
+          "duration": "4:16"
+        },
+        {
+          "number": 11,
+          "name": "حب اليتامى",
+          "duration": "4:13"
+        },
+        {
+          "number": 12,
+          "name": "نصر اليمن",
+          "duration": "2:22"
+        },
+        {
+          "number": 13,
+          "name": "فز لأمر العز",
+          "duration": "2:41"
+        },
+        {
+          "number": 14,
+          "name": "نداء الوطن",
+          "duration": "4:39"
+        }
+      ]
+    },
+    {
+      "name": "قلبي محمد",
+      "year": "2016",
+      "release_date": "2016-07-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/fd/38/81fd3854-82f3-0ebc-06b1-bc455c3271f3/6678990047158.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "قلبي محمد",
+          "duration": "3:41"
+        },
+        {
+          "number": 2,
+          "name": "أبو بكر",
+          "duration": "4:08"
+        },
+        {
+          "number": 3,
+          "name": "إلى طيبة",
+          "duration": "4:51"
+        },
+        {
+          "number": 4,
+          "name": "الأمر لله",
+          "duration": "4:47"
+        },
+        {
+          "number": 5,
+          "name": "ليلة بحر",
+          "duration": "4:29"
+        },
+        {
+          "number": 6,
+          "name": "أحببتك",
+          "duration": "3:36"
+        },
+        {
+          "number": 7,
+          "name": "درب الكرم",
+          "duration": "4:18"
+        },
+        {
+          "number": 8,
+          "name": "الحب",
+          "duration": "4:49"
+        },
+        {
+          "number": 9,
+          "name": "طول الأمل",
+          "duration": "4:26"
+        },
+        {
+          "number": 10,
+          "name": "رباه",
+          "duration": "4:20"
+        },
+        {
+          "number": 11,
+          "name": "أقبل",
+          "duration": "4:08"
+        },
+        {
+          "number": 12,
+          "name": "راضيه عني",
+          "duration": "3:08"
+        },
+        {
+          "number": 13,
+          "name": "ربي هو الله",
+          "duration": "4:11"
+        },
+        {
+          "number": 14,
+          "name": "سكة تانية",
+          "duration": "4:25"
+        },
+        {
+          "number": 15,
+          "name": "متى نلتقي",
+          "duration": "4:31"
+        },
+        {
+          "number": 16,
+          "name": "شغلتني الحياة",
+          "duration": "4:02"
+        },
+        {
+          "number": 17,
+          "name": "يا رفيفي",
+          "duration": "3:25"
+        },
+        {
+          "number": 18,
+          "name": "إشتياقي",
+          "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "سورة البقرة تراويح 1420هـ - 1999م",
+      "year": "2025",
+      "release_date": "2025-04-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/73/df/1f73dfcf-c26e-26a8-d14e-fbf83ea11964/6678990175554.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة البقرة تراويح 1420هـ - 1999م",
+          "duration": "94:20"
+        }
+      ]
+    },
+    {
+      "name": "مدلي",
+      "year": "2022",
+      "release_date": "2022-10-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/a5/cb/aba5cbf7-331a-7ce9-8f84-e7a9eb45a7a9/6678990041026.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "مدلي",
+          "duration": "171:27"
         }
       ]
     }
   ],
   "singles": [
     {
-      "name": "سورة الملك",
-      "year": "2025",
-      "release_date": "2025-08-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/5d/c9/a45dc95a-1a44-3ec5-d4ee-7629fee5da2a/8721465009798.png/600x600bb.jpg",
+      "name": "أذان مشاري راشد العفاسي",
+      "year": "2021",
+      "release_date": "2021-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/55/ad/90/55ad903f-e916-718c-71b1-ecf7efc4b7f6/196292814880.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "سورة الملك ، الآيات ١ - ٨",
-          "duration": "1:56"
-        },
+          "name": "أذان مشاري راشد العفاسي",
+          "duration": "2:21"
+        }
+      ]
+    },
+    {
+      "name": "آذان الفجر 2025",
+      "year": "2025",
+      "release_date": "2025-03-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/1f/32/3d1f3260-8a09-c14b-d37f-77384c1db3d9/6678990173598.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 2,
-          "name": "سورة الملك ، الآيات ٩ - ١٧",
-          "duration": "1:40"
-        },
+          "number": 1,
+          "name": "آذان الفجر 2025",
+          "duration": "4:18"
+        }
+      ]
+    },
+    {
+      "name": "آية الكرسي",
+      "year": "2025",
+      "release_date": "2025-12-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/a5/0b/3ca50b31-dd61-8a60-6ac1-683758d92e20/6678990184372.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 3,
-          "name": "سورة الملك ، الآيات ١٨ - ٣٠",
-          "duration": "2:49"
+          "number": 1,
+          "name": "آية الكرسي",
+          "duration": "3:37"
+        }
+      ]
+    },
+    {
+      "name": "ولنبلونكم بشيء من الخوف والجوع - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/48/9f/ef489f9e-8dab-a6de-9d2d-3d0aef00619c/885288315035.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ولنبلونكم بشيء من الخوف والجوع - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "0:53"
+        }
+      ]
+    },
+    {
+      "name": "سورة قريش",
+      "year": "2021",
+      "release_date": "2021-11-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/17/39/d5173993-cc01-df76-6ea9-dccddf48755b/196292915082.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة قريش",
+          "duration": "0:29"
+        }
+      ]
+    },
+    {
+      "name": "ومن يرغب عن ملة إبراهيم - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/52/d1/0f52d1eb-a595-7698-5d78-6e4653203099/885288315264.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ومن يرغب عن ملة إبراهيم - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "1:00"
+        }
+      ]
+    },
+    {
+      "name": "نشيدة أواخر الشهر",
+      "year": "2025",
+      "release_date": "2025-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/0c/51/920c51b6-7c43-1063-8081-d4d3940eb05f/6678990176872.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "نشيدة أواخر الشهر",
+          "duration": "1:02"
+        }
+      ]
+    },
+    {
+      "name": "سورة الأعلى برواية الدوري عن الكسائي تراويح 1446هـ - 2025م",
+      "year": "2025",
+      "release_date": "2025-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/6d/11/876d116a-9bf2-c11d-ea43-947625af17bb/6678990173888.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الأعلى برواية الدوري عن الكسائي تراويح 1446هـ - 2025م",
+          "duration": "1:51"
+        }
+      ]
+    },
+    {
+      "name": "جنة الأرض",
+      "year": "2018",
+      "release_date": "2018-09-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/cd/4c/b2cd4cd5-b454-195e-c21a-6f5ce7da518a/8718857664406.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "جنة الأرض",
+          "duration": "3:08"
+        }
+      ]
+    },
+    {
+      "name": "سورة الدخان 1420-1999",
+      "year": "2020",
+      "release_date": "2020-12-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/37/ce/c837cee8-ce95-4cf2-749f-1422d7cc40e1/6678990015713.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الدخان 1420-1999",
+          "duration": "8:04"
+        }
+      ]
+    },
+    {
+      "name": "ربنا آتنا من لدنك رحمة 1445هـ - 2024م",
+      "year": "2024",
+      "release_date": "2024-03-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/c6/e0/0dc6e086-cb01-9bc1-dc0b-84097c0107d6/6678990096286.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ربنا آتنا من لدنك رحمة 1445هـ - 2024م",
+          "duration": "1:39"
+        }
+      ]
+    },
+    {
+      "name": "الرحمن 1445هـ - 2024م",
+      "year": "2024",
+      "release_date": "2024-03-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/88/3a/a2883aab-fcc3-d5c7-110a-a1b17cab2dad/6678990096347.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الرحمن 1445هـ - 2024م",
+          "duration": "1:53"
+        }
+      ]
+    },
+    {
+      "name": "ليس لها من دون الله كاشفة",
+      "year": "2002",
+      "release_date": "2002-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6f/b8/27/6fb8270c-594f-1cfa-d405-ff4d4a20357e/196292971385.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ليس لها من دون الله كاشفة",
+          "duration": "0:43"
+        }
+      ]
+    },
+    {
+      "name": "الحُسّاد",
+      "year": "2022",
+      "release_date": "2022-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/cf/8d/a2cf8d0c-ad9e-8fc8-2bae-0dea29e341ca/6678990042153.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الحُسّاد",
+          "duration": "2:23"
+        }
+      ]
+    },
+    {
+      "name": "حياك",
+      "year": "2024",
+      "release_date": "2024-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/b9/dd/17b9ddcc-4d39-c736-252f-df7eba754e0f/6678990167061.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "حياك",
+          "duration": "2:26"
+        }
+      ]
+    },
+    {
+      "name": "الإخلاص",
+      "year": "2022",
+      "release_date": "2022-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/7f/fc/497ffc89-9f83-6d7d-649d-6a980cf6a58e/6678990034028.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الإخلاص",
+          "duration": "0:20"
+        }
+      ]
+    },
+    {
+      "name": "من سورة غافر 1444هـ",
+      "year": "2023",
+      "release_date": "2023-01-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/a9/42/b5a942e5-71f0-27a3-99ba-25033072a2bf/6678990044584.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "من سورة غافر 1444هـ",
+          "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "يا من إذا مرت بهم",
+      "year": "2002",
+      "release_date": "2002-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fc/87/0e/fc870e8a-848c-631b-630a-69035accc21e/196292976304.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "يا من إذا مرت بهم",
+          "duration": "0:58"
+        }
+      ]
+    },
+    {
+      "name": "شفيع الخلائق 2019",
+      "year": "2019",
+      "release_date": "2019-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/c0/1c/d7c01ce8-9800-49dd-67b8-324f4463f2ed/6678990090000.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "شفيع الخلائق 2019",
+          "duration": "5:00"
+        }
+      ]
+    },
+    {
+      "name": "عاصمة النور",
+      "year": "2021",
+      "release_date": "2021-05-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/47/9c/cb479c96-ae18-d210-2e48-9c2246c7d22c/6678990019087.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "عاصمة النور",
+          "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "سورة الحشر",
+      "year": "2018",
+      "release_date": "2018-10-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/15/ca/b1/15cab163-87dc-7391-29cf-889814772162/196292880779.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الحشر (Live)",
+          "duration": "8:56"
+        }
+      ]
+    },
+    {
+      "name": "دعاء ليبيا ||| على القذافي ( 2011 )",
+      "year": "2011",
+      "release_date": "2011-03-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/49/50/3d4950e4-64df-b8f3-7c73-bf6ee22127a5/6678990091595.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "دعاء ليبيا ||| على القذافي ( 2011 )",
+          "duration": "2:31"
+        }
+      ]
+    },
+    {
+      "name": "قل يا عبادي ( سورة الزمر )- 1447هـ - 2026م",
+      "year": "2025",
+      "release_date": "2025-11-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/5e/8c/915e8c18-c644-595f-fa10-fbb0e4a3ba3b/6678990183443.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "قل يا عبادي ( سورة الزمر )- 1447هـ - 2026م",
+          "duration": "0:40"
+        }
+      ]
+    },
+    {
+      "name": "من سورة الأحزاب من صلاة العشاء",
+      "year": "2024",
+      "release_date": "2024-01-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/61/2e/ca612e03-ff7c-5abf-8e1c-d6f565e00dfb/6678990095159.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "من سورة الأحزاب من صلاة العشاء",
+          "duration": "8:40"
+        }
+      ]
+    },
+    {
+      "name": "أذان 2005م",
+      "year": "2025",
+      "release_date": "2025-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/b6/be/01b6be56-ff57-75dd-b61c-98c37398de6b/6678990177961.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "أذان 2005م",
+          "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "name": "الأذكار بعد الصلاة",
+      "year": "2021",
+      "release_date": "2021-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3e/d0/99/3ed0992e-0894-5d93-c8e1-f4a63217d6f3/196292560664.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الأذكار بعد الصلاة",
+          "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "name": "ربنا كن لنا",
+      "year": "2020",
+      "release_date": "2020-09-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/d0/5b/b6d05b10-ce57-1af9-7c6e-c5fad0aeee78/6678990027907.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ربنا كن لنا",
+          "duration": "0:58"
+        }
+      ]
+    },
+    {
+      "name": "رجال - من سورة النور 1447هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-02-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/2e/10/c82e10bc-4eed-45fa-092d-fbc335a5b099/820200269799.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "رجال - من سورة النور 1447هـ - 2026م",
+          "duration": "1:10"
+        }
+      ]
+    },
+    {
+      "name": "سورة الفيل",
+      "year": "2021",
+      "release_date": "2021-11-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f9/ef/b4/f9efb4b7-d22f-af0b-d7e7-731962a3a710/196292886658.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الفيل",
+          "duration": "0:35"
+        }
+      ]
+    },
+    {
+      "name": "سورة المعارج 1429هـ - 2008م",
+      "year": "2025",
+      "release_date": "2025-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/a7/e1/5da7e15e-ad06-1cb4-23ce-4b7aef54b83e/6678990175950.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة المعارج 1429هـ - 2008م",
+          "duration": "6:25"
+        }
+      ]
+    },
+    {
+      "name": "وحشيتي",
+      "year": "2026",
+      "release_date": "2026-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/f9/05/6ff9058d-9c0a-1baf-f15f-5b9f6bb2bc0b/885288472554.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "وحشيتي",
+          "duration": "0:44"
+        }
+      ]
+    },
+    {
+      "name": "إن الله وملائكته يصلون على النبي - سورة الأحزاب 1447هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/64/a9/fe64a9a8-b0d6-51c0-f86c-08bf881c546b/820233401944.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "إن الله وملائكته يصلون على النبي - سورة الأحزاب 1447هـ - 2026م",
+          "duration": "0:30"
+        }
+      ]
+    },
+    {
+      "name": "إنا أرسلناك - من سورة الأحزاب - 1446هـ - 2024",
+      "year": "2024",
+      "release_date": "2024-08-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/64/d0/4564d082-feb9-6272-22ec-c2045553c4c7/6678990164657.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "إنا أرسلناك - من سورة الأحزاب - 1446هـ - 2024",
+          "duration": "1:03"
+        }
+      ]
+    },
+    {
+      "name": "(جزء عم (سورة العصر",
+      "year": "2021",
+      "release_date": "2021-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/fd/0b/dbfd0b15-1a3a-43f6-2899-c110c995bc75/196292540888.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "(جزء عم (سورة العصر",
+          "duration": "0:48"
+        }
+      ]
+    },
+    {
+      "name": "سورة عبس 1444هـ - 2022م",
+      "year": "2022",
+      "release_date": "2022-08-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/06/84/1d06842c-b5a0-6bfb-75dd-8a392bce09da/6678990038941.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة عبس 1444هـ - 2022م",
+          "duration": "4:14"
+        }
+      ]
+    },
+    {
+      "name": "ويسألونك عن المحيض - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/6d/90/d36d9060-8ffa-e755-826a-e03a413bab8d/885288315271.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ويسألونك عن المحيض - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "1:06"
+        }
+      ]
+    },
+    {
+      "name": "أرأيت من اتخذ إلهه هواه - سورة الفرقان 1447هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/88/67/81886794-7383-d7cc-11c6-5d133e14445a/820233464222.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "أرأيت من اتخذ إلهه هواه - سورة الفرقان 1447هـ - 2026م",
+          "duration": "0:39"
+        }
+      ]
+    },
+    {
+      "name": "إلا الذين تابوا وأصلحوا - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/dd/80/bfdd804e-e19d-b1cc-4d88-11fe59962883/885288315325.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "إلا الذين تابوا وأصلحوا - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "1:15"
+        }
+      ]
+    },
+    {
+      "name": "سورة النجم 1424هـ 2003م",
+      "year": "2003",
+      "release_date": "2003-11-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a1/16/5b/a1165b40-bda4-7fe2-d88c-5c17a5a081ee/196292939767.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة النجم 1424هـ 2003م (Live)",
+          "duration": "8:42"
+        }
+      ]
+    },
+    {
+      "name": "(سورة الغاشية (المصحف المعلم",
+      "year": "2021",
+      "release_date": "2021-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7a/fe/35/7afe356d-e4bc-0eee-3b0d-d8285789c1ab/196292539868.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "(جزء عم (سورة الغاشيه",
+          "duration": "4:26"
+        }
+      ]
+    },
+    {
+      "name": "كنا زمانا",
+      "year": "2025",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/fc/7a/e8fc7a35-1918-1434-2fd8-ded94aa1d478/6678990182125.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "كنا زمانا",
+          "duration": "6:17"
+        }
+      ]
+    },
+    {
+      "name": "خل ادكار الأربع",
+      "year": "2022",
+      "release_date": "2022-11-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/3f/b0/733fb0ef-47e3-eeb6-a16d-ee7ed3679a87/6678990042092.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "خل ادكار الأربع",
+          "duration": "3:44"
+        }
+      ]
+    },
+    {
+      "name": "سورة المعارج",
+      "year": "2021",
+      "release_date": "2021-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a3/ea/d8/a3ead862-da34-1217-2db5-bd253c5ff3d9/196292917055.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة المعارج",
+          "duration": "6:00"
+        }
+      ]
+    },
+    {
+      "name": "يا رجاء التائبين",
+      "year": "2021",
+      "release_date": "2021-08-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/f6/05/93f605f8-9ab3-7d8e-412d-c99ec1c28df0/820200827494.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "يا رجاء التائبين",
+          "duration": "1:16"
+        }
+      ]
+    },
+    {
+      "name": "دع الصبا",
+      "year": "2014",
+      "release_date": "2014-07-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/3c/0e/f43c0e72-f042-d060-2f76-8c3898b932d9/8718857790372.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "دع الصبا",
+          "duration": "9:06"
+        }
+      ]
+    },
+    {
+      "name": "سورة نوح 1429هـ - 2008م",
+      "year": "2025",
+      "release_date": "2025-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/b2/21/0eb221da-8dca-751d-c1af-7bded843a0a1/6678990176001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة نوح 1429هـ - 2008م",
+          "duration": "6:00"
+        }
+      ]
+    },
+    {
+      "name": "السعودية خط احمر",
+      "year": "2018",
+      "release_date": "2018-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/e5/73/11e5732b-5350-7b39-1d25-b6c304dedf66/8718857664420.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "السعودية خط احمر",
+          "duration": "2:34"
+        }
+      ]
+    },
+    {
+      "name": "ما ينطق عن الهوى 1445هـ - 2024م",
+      "year": "2024",
+      "release_date": "2024-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/c8/43/6fc843e4-1a08-ebae-dbdb-c46c1451d626/6678990097474.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ما ينطق عن الهوى 1445هـ - 2024م",
+          "duration": "1:59"
+        }
+      ]
+    },
+    {
+      "name": "سورة الأعلى - صلاة التراويح 1419م - 1999م",
+      "year": "2025",
+      "release_date": "2025-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/49/81/8649819c-ba59-c286-d834-c98fa4ccd8cf/6678990175561.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الأعلى - صلاة التراويح 1419م - 1999م",
+          "duration": "1:30"
+        }
+      ]
+    },
+    {
+      "name": "الصلاة على النبي - من سورة الأحزاب - 1446هـ - 2024م",
+      "year": "2024",
+      "release_date": "2024-07-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/2e/f2/ed2ef2eb-d428-3177-af0b-05bbfdd05146/6678990162349.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الصلاة على النبي - من سورة الأحزاب - 1446هـ - 2024م",
+          "duration": "0:41"
+        }
+      ]
+    },
+    {
+      "name": "واستفتحوا وخاب كل جبار عنيد 1445هـ - 2024م",
+      "year": "2024",
+      "release_date": "2024-03-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/13/e3/0713e384-567c-0171-71e1-1deeb17964d5/6678990096699.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "واستفتحوا وخاب كل جبار عنيد 1445هـ - 2024م",
+          "duration": "2:17"
+        }
+      ]
+    },
+    {
+      "name": "(سورة الأعلى (المصحف المعلم",
+      "year": "2021",
+      "release_date": "2021-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/31/98/61/3198610c-cdd8-db0d-2924-6b88412efaee/196292540451.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "(جزء عم (سورة الاعلي",
+          "duration": "3:46"
+        }
+      ]
+    },
+    {
+      "name": "سورة لقمان 1422هـ Live",
+      "year": "2001",
+      "release_date": "2001-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ae/ca/59/aeca592b-fbd2-c172-4742-d46d2d21bcd3/196292915747.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة لقمان 1422هـ 2001م (Live)",
+          "duration": "4:00"
+        }
+      ]
+    },
+    {
+      "name": "2022 متفرد تسجيل جديد",
+      "year": "2022",
+      "release_date": "2022-08-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/c3/2c/20c32cc5-027a-f171-fa15-faa8ef41d350/6678990038910.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "2022 متفرد تسجيل جديد",
+          "duration": "0:57"
+        }
+      ]
+    },
+    {
+      "name": "البدء",
+      "year": "2022",
+      "release_date": "2022-05-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/36/68/1a36682c-7728-06f7-f4a0-94ed64c2899f/6678990032765.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "البدء",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "سورة الطور - 1446هـ - 2025م",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/a4/5d/91a45d66-a08e-711c-bf90-530f15234d7d/6678990183467.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الطور - 1446هـ - 2025م",
+          "duration": "1:33"
+        }
+      ]
+    },
+    {
+      "name": "رمضان التوبة",
+      "year": "2005",
+      "release_date": "2005-11-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/56/96/2f/56962f9e-36aa-7e6e-0fc4-606d94290b18/889845977360.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "رمضان التوبة",
+          "duration": "1:04"
+        }
+      ]
+    },
+    {
+      "name": "أبكي على شام الهوى",
+      "year": "2016",
+      "release_date": "2016-02-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/8a/cc/048acc9d-0fe8-212e-49c8-3f04aaaa54a5/8718857901228.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "أبكي على شام الهوى",
+          "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "وهو الحيي",
+      "year": "2013",
+      "release_date": "2013-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/15/60/e215603e-b614-bee1-f1db-28330a2a8691/8718857790358.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "وهو الحيي",
+          "duration": "2:08"
+        }
+      ]
+    },
+    {
+      "name": "العزم محمد بن سلمان",
+      "year": "2018",
+      "release_date": "2018-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/bf/83/bebf83f2-cffd-772c-3e5d-d034f36c1dbe/8718857664437.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "العزم محمد بن سلمان",
+          "duration": "0:41"
+        }
+      ]
+    },
+    {
+      "name": "على قدر اهل العزم",
+      "year": "2020",
+      "release_date": "2020-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/00/b3/cf00b359-d19b-c8b7-6ce0-fe0cba5d6479/6678990014709.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "على قدر اهل العزم",
+          "duration": "0:54"
+        }
+      ]
+    },
+    {
+      "name": "لا توصيني || الغلا لحاله يكفي",
+      "year": "2024",
+      "release_date": "2024-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/7c/e7/437ce73b-507d-90da-6248-f1656473b3be/6678990169140.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "لا توصيني || الغلا لحاله يكفي",
+          "duration": "0:36"
+        }
+      ]
+    },
+    {
+      "name": "متفرد نسخة هادئة",
+      "year": "2022",
+      "release_date": "2022-08-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/b1/6b/08b16b79-2f11-9723-f8cb-3dd30789d0e5/6678990037845.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "متفرد نسخة هادئة",
+          "duration": "0:56"
+        }
+      ]
+    },
+    {
+      "name": "يالامارت",
+      "year": "2010",
+      "release_date": "2010-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/3f/1c/4a/3f1c4a97-cf70-3a64-cb1e-c6c95a3af687/640271.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ya Al Emarat",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "ضادية ابن زيدون",
+      "year": "2017",
+      "release_date": "2017-06-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/1b/20/fb1b2010-14e5-293e-2c6b-e70ca7595f3e/8718857790419.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ضادية ابن زيدون",
+          "duration": "6:31"
+        }
+      ]
+    },
+    {
+      "name": "سورة النجم 1422هـ 2001م",
+      "year": "2001",
+      "release_date": "2001-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/6e/96/276e9649-daa6-01bf-c40c-8406cc030c8c/196292895452.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة النجم 1422هـ 2001م (Live)",
+          "duration": "6:14"
+        }
+      ]
+    },
+    {
+      "name": "ما كل ما يتمنى المرء يدركه",
+      "year": "2021",
+      "release_date": "2021-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/dc/db/65dcdb47-edd1-143c-46c6-16577330ed87/820200779298.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ما كل ما يتمنى المرء يدركه",
+          "duration": "0:28"
+        }
+      ]
+    },
+    {
+      "name": "سورة الحجرات",
+      "year": "2021",
+      "release_date": "2021-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/e1/82/fce18251-f398-0586-4509-8ccc46065d48/196292822540.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الحجرات (Live)",
+          "duration": "8:21"
+        }
+      ]
+    },
+    {
+      "name": "دعاء ليبيا والمغرب",
+      "year": "2023",
+      "release_date": "2023-09-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/d8/40/dfd8406d-a22a-238e-6418-8886f0a69591/6678990078176.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "دعاء ليبيا والمغرب",
+          "duration": "2:26"
+        }
+      ]
+    },
+    {
+      "name": "آذان تليفزيون الكويت 1445هـ - 2024م",
+      "year": "2024",
+      "release_date": "2024-03-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/49/af/9149afa1-9e8a-1e2a-c719-ed84a3f3dc4d/6678990095654.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "آذان تليفزيون الكويت 1445هـ - 2024م",
+          "duration": "2:25"
+        }
+      ]
+    },
+    {
+      "name": "علي قدر اهل العزم",
+      "year": "2020",
+      "release_date": "2020-11-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/5e/31/035e31c5-1455-5759-e80d-a1d0cf2d7cbf/820200827616.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "علي قدر اهل العزم",
+          "duration": "0:54"
+        }
+      ]
+    },
+    {
+      "name": "يا أيها الناس كلوا مما في الأرض - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/5f/35/a25f356b-2be7-b8e7-6e12-e1cef65c0749/885288315516.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "يا أيها الناس كلوا مما في الأرض - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "1:10"
+        }
+      ]
+    },
+    {
+      "name": "يا عين لا تحزني",
+      "year": "2018",
+      "release_date": "2018-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/ea/9f/5eea9f72-5abd-21ba-e03f-14f67f81fd5c/8718857790273.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "يا عين لا تحزني",
+          "duration": "4:39"
+        }
+      ]
+    },
+    {
+      "name": "حيّاك ٢",
+      "year": "2023",
+      "release_date": "2023-03-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/23/67/cf2367ca-d067-2685-35f5-ac52b7f05827/6678990047479.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "حيّاك ٢",
+          "duration": "2:26"
+        }
+      ]
+    },
+    {
+      "name": "واحر قلباه",
+      "year": "2016",
+      "release_date": "2016-12-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/8f/3a/138f3a8c-2b17-f7f5-9bac-a28d5e8d583f/8718857790020.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "واحر قلباه",
+          "duration": "8:08"
+        }
+      ]
+    },
+    {
+      "name": "إذا ما خلوت",
+      "year": "2025",
+      "release_date": "2025-02-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/5a/95/6b5a954d-5fa4-68f6-2557-3ba59c5e9bd6/6678990173222.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "إذا ما خلوت",
+          "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "الفاتحة نهاوند",
+      "year": "2024",
+      "release_date": "2024-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/35/4b/e3354b20-2925-3c7b-2e1d-a0aa0a4701ba/6678990055528.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الفاتحة نهاوند",
+          "duration": "1:10"
+        }
+      ]
+    },
+    {
+      "name": "سورة المجادلة 1422هـ 2001م",
+      "year": "2001",
+      "release_date": "2001-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d8/fe/84/d8fe8446-aef2-491d-9e93-a9f7a30e1e96/196292929492.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "مشاري راشد العفاسي",
+          "duration": "8:17"
+        }
+      ]
+    },
+    {
+      "name": "هل لك سر عند الله",
+      "year": "2021",
+      "release_date": "2021-02-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/24/18/c8241858-1635-24ed-e618-f6e16a2807a2/6678990016628.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "هل لك سر عند الله",
+          "duration": "0:50"
+        }
+      ]
+    },
+    {
+      "name": "هلالنا",
+      "year": "2025",
+      "release_date": "2025-02-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/9b/c5/619bc5b7-1632-6605-435a-a3a823e9aab6/6678990173406.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "هلالنا",
+          "duration": "4:22"
+        }
+      ]
+    },
+    {
+      "name": "رب ارجعون 1445هـ - 2024م",
+      "year": "2024",
+      "release_date": "2024-04-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/f5/b9/1cf5b9ed-4d34-b977-c830-160093175b0e/6678990055023.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "رب ارجعون 1445هـ - 2024م",
+          "duration": "5:42"
+        }
+      ]
+    },
+    {
+      "name": "سورة السجدة 1422هـ 2001م",
+      "year": "2001",
+      "release_date": "2001-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a0/f0/d7/a0f0d74f-6f07-2b23-e4e5-2325e9bbab86/196292870916.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة السجدة تراويح 1421هـ 2000م (Live)",
+          "duration": "7:11"
+        }
+      ]
+    },
+    {
+      "name": "تكبيرات العيد ٣",
+      "year": "2026",
+      "release_date": "2026-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/36/f5/d236f5dc-cd72-9a9e-450e-7e5ca20b1f94/820233433365.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "تكبيرات العيد ٣",
+          "duration": "0:26"
+        }
+      ]
+    },
+    {
+      "name": "من سورة هود 1426هـ - 2005م من صلاة العشاء",
+      "year": "2022",
+      "release_date": "2022-09-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/1c/90/631c9058-fe25-922d-a2d6-714953bfbc1a/6678990039139.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "من سورة هود 1426هـ - 2005م من صلاة العشاء",
+          "duration": "5:02"
+        }
+      ]
+    },
+    {
+      "name": "ما كان محمد أبا أحد من رجالكم - سورة الأحزاب 1447هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/80/d8/9c80d85c-6c5a-0b2a-ee7a-0c9b5802652c/820233402484.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ما كان محمد أبا أحد من رجالكم - سورة الأحزاب 1447هـ - 2026م",
+          "duration": "0:37"
+        }
+      ]
+    },
+    {
+      "name": "(جزء عم (سورة الضحي",
+      "year": "2021",
+      "release_date": "2021-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/51/83/48518306-3c56-2d9a-a2ab-e455e4419322/196292541618.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "(جزء عم (سورة الضحي",
+          "duration": "2:00"
+        }
+      ]
+    },
+    {
+      "name": "يس",
+      "year": "2015",
+      "release_date": "2015-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7d/3c/78/7d3c78f7-e345-144c-d762-92994b6c9a37/196292944549.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "يس (Live)",
+          "duration": "0:28"
+        }
+      ]
+    },
+    {
+      "name": "سورة الإخلاص تلاوة حجازية - تراويح 1446هـ - 2025م",
+      "year": "2025",
+      "release_date": "2025-04-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/fd/7c/0cfd7cb5-d9e0-0205-187b-ccd25bc170ef/6678990174809.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الإخلاص تلاوة حجازية - تراويح 1446هـ - 2025م",
+          "duration": "1:08"
+        }
+      ]
+    },
+    {
+      "name": "سورة الجن",
+      "year": "2021",
+      "release_date": "2021-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/9f/21/1f9f2147-35f1-5bce-7681-6f4c343b54ed/196292871524.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الجن",
+          "duration": "6:37"
+        }
+      ]
+    },
+    {
+      "name": "أيها المعرض عنا",
+      "year": "2021",
+      "release_date": "2021-08-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/af/6b/acaf6b6c-57fd-1017-3377-a453ef57902e/6678990028164.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "أيها المعرض عنا",
+          "duration": "1:44"
+        }
+      ]
+    },
+    {
+      "name": "لا يكلف الله نفسا إلا وسعها - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/bc/ff/90bcffa4-c308-5d35-ae49-068d89c161a2/885288315394.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "لا يكلف الله نفسا إلا وسعها - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "0:59"
+        }
+      ]
+    },
+    {
+      "name": "نشيدة الخير",
+      "year": "2022",
+      "release_date": "2022-09-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/3d/bb/423dbbe5-2fe8-3b40-4f15-2f238feeb243/6678990039122.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "نشيدة الخير",
+          "duration": "4:09"
+        }
+      ]
+    },
+    {
+      "name": "دمعة غزة",
+      "year": "2023",
+      "release_date": "2023-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/04/32/67043238-0d07-929e-fbb1-d72fc768d4b2/6678990090246.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "دمعة غزة",
+          "duration": "1:14"
+        }
+      ]
+    },
+    {
+      "name": "الزلزلة",
+      "year": "2000",
+      "release_date": "2000-11-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/0b/fd/2a0bfde2-1ade-09d7-6164-0830b365e3f1/196292815948.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الزلزلة (Live)",
+          "duration": "1:00"
+        }
+      ]
+    },
+    {
+      "name": "تلاوة شهر رمضان",
+      "year": "2021",
+      "release_date": "2021-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/16/64/1b166400-d7f9-eb51-ebf7-56174c02976b/196292988093.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "شهر رمضان (Live)",
+          "duration": "4:00"
+        }
+      ]
+    },
+    {
+      "name": "لا عاش قاتلهم تسجيل جديد ٢٠٢٢",
+      "year": "2022",
+      "release_date": "2022-02-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/35/f8/4a35f821-d814-6d4b-d979-b7571186e91e/6678990030655.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "لا عاش قاتلهم تسجيل جديد ٢٠٢٢",
+          "duration": "1:36"
+        }
+      ]
+    },
+    {
+      "name": "عاصمة النور بدون مؤثرات",
+      "year": "2023",
+      "release_date": "2023-10-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/d1/a3/23d1a3bd-ed02-65d6-6387-f4dd7a78b374/820200889898.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "عاصمة النور بدون مؤثرات",
+          "duration": "3:42"
+        }
+      ]
+    },
+    {
+      "name": "ما تيسر من سورة سبأ 1421هـ Live",
+      "year": "2000",
+      "release_date": "2000-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bd/ae/c9/bdaec980-e481-8b45-3ced-e39dfc059afd/196292930207.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ما تيسر من سورة سبأ 1421هـ 2000م (Live)",
+          "duration": "9:49"
+        }
+      ]
+    },
+    {
+      "name": "الشيطان يعدكم الفقر - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/f9/e2/f8f9e2c5-918c-ff90-ae4e-770b92ee781b/885288315295.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الشيطان يعدكم الفقر - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "0:46"
+        }
+      ]
+    },
+    {
+      "name": "أهل التوحيد",
+      "year": "2026",
+      "release_date": "2026-04-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/c6/c9/d6c6c92f-b1ca-9d9b-a8e3-3dc779d6a2c0/820233093750.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "أهل التوحيد",
+          "duration": "4:20"
+        }
+      ]
+    },
+    {
+      "name": "دعاء اللهم اجعل لي نصيباً من الخير",
+      "year": "2002",
+      "release_date": "2002-04-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/ed/2a/83ed2a56-fea8-76b0-c994-89160739651a/196292931068.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "دعاء اللهم اجعل لي نصيباً من الخير",
+          "duration": "0:39"
+        }
+      ]
+    },
+    {
+      "name": "وغزة ( هادئة )",
+      "year": "2023",
+      "release_date": "2023-11-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/81/c6/b381c6fe-988d-b9c3-edd0-626954620ed6/6678990091267.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "وغزة ( هادئة )",
+          "duration": "0:41"
+        }
+      ]
+    },
+    {
+      "name": "هو الله 1445هـ - 2024 م",
+      "year": "2024",
+      "release_date": "2024-03-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/f3/72/4ff372aa-fd7c-4ce2-8c2a-e50b69867291/6678990097320.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "هو الله 1445هـ - 2024 م",
+          "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "غزة بعزتك يا ذا الجلال والعزة",
+      "year": "2024",
+      "release_date": "2024-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/ec/58/d0ec5850-b256-0ddf-73fb-84a8bbfb49c6/6678990167023.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "غزة بعزتك يا ذا الجلال والعزة",
+          "duration": "1:09"
+        }
+      ]
+    },
+    {
+      "name": "سورة القارعة 1424 هـ - 2003 م",
+      "year": "2025",
+      "release_date": "2025-05-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/e6/e1/27e6e1c2-134a-9829-7fbb-86fd70f8ea0a/6678990177350.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة القارعة 1424 هـ - 2003 م",
+          "duration": "1:03"
+        }
+      ]
+    },
+    {
+      "name": "الهي سيدي - 1446هـ - 2025م",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/71/4d/7c714de4-646b-3fa3-b235-36aaef0ad61f/6678990183504.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الهي سيدي - 1446هـ - 2025م",
+          "duration": "1:03"
+        }
+      ]
+    },
+    {
+      "name": "ربنا إنك تعلم ما نخفي وما نعلن 1445هـ - 2024م",
+      "year": "2024",
+      "release_date": "2024-03-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/5c/74/d45c7474-74f4-bd55-c247-234e7fb37d06/6678990096309.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ربنا إنك تعلم ما نخفي وما نعلن 1445هـ - 2024م",
+          "duration": "1:45"
+        }
+      ]
+    },
+    {
+      "name": "دعاء الذهاب إلى المسجد",
+      "year": "2021",
+      "release_date": "2021-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/34/60/e6/3460e6f5-776e-9c2d-fdb6-19bc2beae8bc/196292559668.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "دعاء الذهاب إلى المسجد",
+          "duration": "1:32"
+        }
+      ]
+    },
+    {
+      "name": "إلا صلاتي تسجيل جديد 2025م",
+      "year": "2025",
+      "release_date": "2025-07-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/6d/c4/2b6dc43d-8956-c815-0733-8c473e8162b6/6678990179699.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "إلا صلاتي تسجيل جديد 2025م",
+          "duration": "0:53"
+        }
+      ]
+    },
+    {
+      "name": "الف شكرا",
+      "year": "2022",
+      "release_date": "2022-01-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/9c/0c/0a9c0cf9-1449-71bf-bd22-717302270a2a/820200845832.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الف شكرا",
+          "duration": "2:14"
+        }
+      ]
+    },
+    {
+      "name": "صلى الله على محمد",
+      "year": "2021",
+      "release_date": "2021-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6c/4d/e4/6c4de41a-b5d4-5b63-0654-d827e9b797ce/196292882681.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "صلى الله على محمد",
+          "duration": "0:29"
+        }
+      ]
+    },
+    {
+      "name": "المصطفى ﷺ",
+      "year": "2021",
+      "release_date": "2021-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/64/d1/0d64d1cd-0f1f-283c-4a93-46f85ba946dd/196292776065.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "المصطفى ﷺ",
+          "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "دعاء ليلة ٨ رمضان ١٤٤٤هـ - ٢٠٢٣ م - مسجد الراشد",
+      "year": "2023",
+      "release_date": "2023-03-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/53/e1/ba53e16b-cd18-5b32-a02d-a5e4396a3b6c/6678990048377.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "دعاء ليلة ٨ رمضان ١٤٤٤هـ - ٢٠٢٣ م - مسجد الراشد",
+          "duration": "3:43"
+        }
+      ]
+    },
+    {
+      "name": "سورة البلد (المصحف المعلم)",
+      "year": "2021",
+      "release_date": "2021-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/20/9c/0d/209c0d0d-3797-cec3-2271-46506bf21925/196292546200.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "(جزء عم (سورة البلد",
+          "duration": "3:52"
+        }
+      ]
+    },
+    {
+      "name": "لاني كويتي",
+      "year": "2011",
+      "release_date": "2011-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/ee/4f/74ee4f90-5846-5af1-d5d0-f2ddf1904aad/8718857790310.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "لاني كويتي",
+          "duration": "5:17"
+        }
+      ]
+    },
+    {
+      "name": "شهر رمضان الذي أنزل فيه القرآن - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/fd/7c/c4fd7c01-13e9-fb3f-f9ff-082a703cd684/885288315226.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "شهر رمضان الذي أنزل فيه القرآن - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "1:09"
+        }
+      ]
+    },
+    {
+      "name": "وإذا صحوت",
+      "year": "2026",
+      "release_date": "2026-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/f5/03/7ff50309-5787-c78f-c0d4-09bfe5a18038/885288453416.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "وإذا صحوت",
+          "duration": "0:44"
+        }
+      ]
+    },
+    {
+      "name": "وعاد",
+      "year": "2013",
+      "release_date": "2013-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/95/1b/47951b96-d39e-553e-d4af-414cdcae05da/889845977445.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "وعاد",
+          "duration": "0:47"
+        }
+      ]
+    },
+    {
+      "name": "طلع النور المبين",
+      "year": "2021",
+      "release_date": "2021-07-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/7a/a0/b07aa0d1-0303-aa32-795d-1013ac705ca2/6678990027938.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "طلع النور المبين",
+          "duration": "0:51"
+        }
+      ]
+    },
+    {
+      "name": "ما أنزلنا عليك القرآن لتشقى 1445هـ - 2024م",
+      "year": "2024",
+      "release_date": "2024-03-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/ac/06/30ac06d7-5b47-63c4-a84a-c80353c46771/6678990097559.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ما أنزلنا عليك القرآن لتشقى 1445هـ - 2024م",
+          "duration": "1:41"
+        }
+      ]
+    },
+    {
+      "name": "سورة ق 1423هـ Live",
+      "year": "2002",
+      "release_date": "2002-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cb/a3/85/cba38558-6dd6-2954-7e34-8bcba37fecf4/196292928068.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة ق 1423هـ 2002م (Live)",
+          "duration": "8:09"
+        }
+      ]
+    },
+    {
+      "name": "غردي يا روح بدون مؤثرات",
+      "year": "2021",
+      "release_date": "2021-04-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/5e/8d/175e8dfd-b3dc-ce11-1ad9-1e7116d48486/6678990018912.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "غردي يا روح بدون مؤثرات",
+          "duration": "2:32"
+        }
+      ]
+    },
+    {
+      "name": "وقالت اليهود ليست النصارى على شيء - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/2d/25/332d25e5-bde5-e98c-abfa-d3b0de2c49d7/885288315042.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "وقالت اليهود ليست النصارى على شيء - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "0:37"
+        }
+      ]
+    },
+    {
+      "name": "ما كان محمد أبا احد",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/f8/0b/cff80b95-32c4-c017-4cdc-f647bf54e925/6678990183559.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ما كان محمد أبا احد",
+          "duration": "4:42"
+        }
+      ]
+    },
+    {
+      "name": "من سورة الروم 1444هـ -2022م",
+      "year": "2022",
+      "release_date": "2022-10-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/c2/58/44c258d6-3f34-b507-1443-afc55ddb047a/6678990041217.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "من سورة الروم 1444هـ -2022م",
+          "duration": "1:36"
+        }
+      ]
+    },
+    {
+      "name": "الأم - الغالية",
+      "year": "2024",
+      "release_date": "2024-03-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/71/fa/fb71fad8-9d48-cc1d-3d8b-10e4219c2c12/6678990097498.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الأم - الغالية",
+          "duration": "2:16"
+        }
+      ]
+    },
+    {
+      "name": "(جزء عم (سورة الزلزلة",
+      "year": "2021",
+      "release_date": "2021-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/64/83/d2/6483d216-e42a-74a7-91e6-cdbb61354bf2/196292546224.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "(جزء عم (سورة الزلزلة",
+          "duration": "1:50"
+        }
+      ]
+    },
+    {
+      "name": "آيات الصيام - من سورة البقرة 1446هـ - 2025م",
+      "year": "2025",
+      "release_date": "2025-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/01/cb/6801cb61-4ec0-c321-7032-7789c0d224b5/6678990176865.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "آيات الصيام - من سورة البقرة 1446هـ - 2025م",
+          "duration": "1:04"
+        }
+      ]
+    },
+    {
+      "name": "خواتيم سورة يوسف 1445هـ -2024م",
+      "year": "2024",
+      "release_date": "2024-03-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/38/c9/1138c9fe-8bd7-6570-66fa-1bc4d8f4026a/6678990096651.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "خواتيم سورة يوسف 1445هـ -2024م",
+          "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "الأندلس",
+      "year": "2023",
+      "release_date": "2023-02-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/67/b8/e567b8a2-78ff-f0b7-620f-e6e5f7089c8a/6678990044751.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "الأندلس",
+          "duration": "4:09"
+        }
+      ]
+    },
+    {
+      "name": "ولن ترضى عنك اليهود ولا النصارى - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/e1/cb/eae1cba7-2669-7bd4-05c6-31e0569773e1/885288315196.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ولن ترضى عنك اليهود ولا النصارى - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "0:35"
+        }
+      ]
+    },
+    {
+      "name": "ليس عليك هداهم - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ae/df/d5aedf67-e882-1778-f4e2-1ea5849ec4e0/885288315523.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ليس عليك هداهم - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "1:27"
+        }
+      ]
+    },
+    {
+      "name": "(جزء عم (سورة الليل",
+      "year": "2021",
+      "release_date": "2021-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/33/56/37/33563713-42fa-023a-7183-2ac01e6c650c/196292542110.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "(جزء عم (سورة الليل",
+          "duration": "3:48"
+        }
+      ]
+    },
+    {
+      "name": "يا طيبه",
+      "year": "2012",
+      "release_date": "2012-07-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/2e/49/982e49b3-81d3-0c9a-60c9-86b673d47425/8718857904649.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "يا طيبه",
+          "duration": "4:15"
+        }
+      ]
+    },
+    {
+      "name": "سورة ق - من صلاة التراويح 1419هـ",
+      "year": "2025",
+      "release_date": "2025-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/16/ac/c316ac98-846e-d8f2-8fe1-6cf906d5ce47/6678990175592.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة ق - من صلاة التراويح 1419هـ",
+          "duration": "8:01"
+        }
+      ]
+    },
+    {
+      "name": "وما تدري",
+      "year": "2021",
+      "release_date": "2021-01-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/fc/1a/26fc1a6d-07b7-1542-419b-32df35d87da0/820200827845.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "وما تدري",
+          "duration": "0:46"
+        }
+      ]
+    },
+    {
+      "name": "قربا مربط المشهر",
+      "year": "2023",
+      "release_date": "2023-07-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/92/ad/2892ad4f-2280-d3f9-dede-5b160bbbd461/6678990074482.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "قربا مربط المشهر",
+          "duration": "7:56"
+        }
+      ]
+    },
+    {
+      "name": "سورة القمر 1424هـ 2003م",
+      "year": "2003",
+      "release_date": "2003-11-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/90/df/3a/90df3a9f-f8f1-4199-75c2-49a8e7739a4a/196292910995.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة القمر 1424هـ 2003م (Live)",
+          "duration": "8:39"
+        }
+      ]
+    },
+    {
+      "name": "من سورة التوبة ١٤٤٤هـ",
+      "year": "2023",
+      "release_date": "2023-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/2d/73/d22d738a-ba7f-17dc-f433-3cabf6078ed2/6678990045024.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "من سورة التوبة ١٤٤٤هـ",
+          "duration": "0:50"
+        }
+      ]
+    },
+    {
+      "name": "رقية الأمير",
+      "year": "2023",
+      "release_date": "2023-12-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/8d/3e/3c8d3eec-ec8b-96eb-0ba6-101c93c23e3c/6678990092158.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "رقية الأمير",
+          "duration": "1:48"
+        }
+      ]
+    },
+    {
+      "name": "وما التأنيث لاسم الشمس عيب",
+      "year": "2021",
+      "release_date": "2021-09-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/17/62/b9176299-67b8-249b-2af2-1cfa6d7fcea8/820200844835.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "وما التأنيث لاسم الشمس عيب",
+          "duration": "1:57"
+        }
+      ]
+    },
+    {
+      "name": "عطر الكلام",
+      "year": "2022",
+      "release_date": "2022-04-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/d4/2b/64d42b01-42bc-81d2-d99c-b6b52ca3e819/6678990032666.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "عطر الكلام",
+          "duration": "2:31"
+        }
+      ]
+    },
+    {
+      "name": "تحت ظلها",
+      "year": "2023",
+      "release_date": "2023-06-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/00/6f/03006fe9-d5a6-c009-8fba-660a3cad9703/6678990053531.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "تحت ظلها",
+          "duration": "2:32"
+        }
+      ]
+    },
+    {
+      "name": "وبشر الذين آمنوا وعملوا الصالحات - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+      "year": "2026",
+      "release_date": "2026-08-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/9a/ba/f19aba33-145f-8f3c-e9c2-59a137c2f97a/885288315189.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "وبشر الذين آمنوا وعملوا الصالحات - سورة البقرة برواية قنبل عن ابن كثير 1448هـ - 2026م",
+          "duration": "0:51"
+        }
+      ]
+    },
+    {
+      "name": "يا ذا العزة والجبروت",
+      "year": "2021",
+      "release_date": "2021-08-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/5b/3e/215b3e84-2396-6184-4714-85983ecfeafc/6678990027877.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "يا ذا العزة والجبروت",
+          "duration": "1:51"
+        }
+      ]
+    },
+    {
+      "name": "صلي يارب ثم سلم",
+      "year": "2021",
+      "release_date": "2021-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/8c/95/8c8c9533-3db3-37de-4215-a61725c1069f/196292882391.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "صلي يارب ثم سلم",
+          "duration": "1:21"
         }
       ]
     }
   ],
   "eps": [
     {
-      "name": "Alwaqiah",
-      "year": "2016",
-      "release_date": "2016-08-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/f9/e0/37f9e08c-0f55-6d75-208d-6befb3570327/8721554251510.png/600x600bb.jpg",
+      "name": "معلقة الاتحاد",
+      "year": "2011",
+      "release_date": "2011-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/52/ba/7a/52ba7a42-1527-49fb-9f88-8cc901657ad4/16176.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Alrahman",
-          "duration": "11:32"
-        },
-        {
-          "number": 2,
-          "name": "Alwaqiah",
-          "duration": "9:07"
-        },
-        {
-          "number": 3,
-          "name": "Al Nabaa",
-          "duration": "4:50"
+          "name": "Mualaqt Al Etihad",
+          "duration": "29:33"
         }
       ]
     },
     {
-      "name": "سورة الرحمن",
-      "year": "2025",
-      "release_date": "2025-08-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/28/6d/b6286d36-494b-8b9d-4354-45046fd0b689/8721465012392.png/600x600bb.jpg",
+      "name": "أذكار الصباح",
+      "year": "2021",
+      "release_date": "2021-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cf/53/92/cf53924d-8ad1-1310-77b6-53c9bc0f6b5c/196292559699.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "سورة الرحمن ايات. ١ - ٢٣",
-          "duration": "2:16"
-        },
+          "name": "أذكار الصباح",
+          "duration": "21:07"
+        }
+      ]
+    },
+    {
+      "name": "أذكار المساء",
+      "year": "2021",
+      "release_date": "2021-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/eb/bd/09/ebbd09a6-d338-89d8-22f1-9e158666fab3/196292587449.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 2,
-          "name": "سورة الرحمن ايات ٢٤ - ٣٨",
-          "duration": "2:00"
-        },
+          "number": 1,
+          "name": "أذكار المساء",
+          "duration": "27:34"
+        }
+      ]
+    },
+    {
+      "name": "الرقية الشرعية",
+      "year": "2021",
+      "release_date": "2021-09-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/77/09/fb/7709fb9f-bef6-987f-3725-07deb456b6d9/196292545142.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 3,
-          "name": "سورة الرحمن ايات ٣٩ - ٥٥",
-          "duration": "1:54"
-        },
+          "number": 1,
+          "name": "الرقية الشرعية",
+          "duration": "13:12"
+        }
+      ]
+    },
+    {
+      "name": "سورة هود 1423هـ Live",
+      "year": "2002",
+      "release_date": "2002-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/62/ea/25/62ea2526-40af-a87f-6ddb-7016f6fbed74/196292979121.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 4,
-          "name": "سورة الرحمن ايات ٥٦ - ٧٨",
-          "duration": "2:30"
+          "number": 1,
+          "name": "سورة هود 1423هـ 2002م (Live)",
+          "duration": "15:32"
+        }
+      ]
+    },
+    {
+      "name": "سورة الرعد 1422هـ 2001م",
+      "year": "2001",
+      "release_date": "2001-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3b/61/13/3b611395-6848-a662-0c2f-a1230ada30eb/196292855647.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الرعد 1422هـ 2001م",
+          "duration": "18:52"
+        }
+      ]
+    },
+    {
+      "name": "سورة الصافات",
+      "year": "2019",
+      "release_date": "2019-07-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/a8/20/51a8200d-c661-0c7d-ffe9-119d76bd23c9/8718857901006.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الصافات",
+          "duration": "25:03"
+        }
+      ]
+    },
+    {
+      "name": "سورة الرحمن 1444هـ - 2023م",
+      "year": "2023",
+      "release_date": "2023-05-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/b6/27/e1b627cd-0502-8599-a1f9-c4dcf4fab0aa/6678990053159.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الرحمن 1444هـ - 2023م",
+          "duration": "13:12"
+        }
+      ]
+    },
+    {
+      "name": "\"Live\" سورة فصلت 1423هـ",
+      "year": "2002",
+      "release_date": "2002-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ee/91/0e/ee910e47-e4a6-e825-96ca-2c1a7683df31/196292958508.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "\"Live\" سورة فصلت 1423هـم",
+          "duration": "19:30"
+        }
+      ]
+    },
+    {
+      "name": "سورة الحجر",
+      "year": "2021",
+      "release_date": "2021-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/91/34/29913449-18db-1b86-e1b4-a172c75429a9/196292915563.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الحجر (Live)",
+          "duration": "13:43"
+        }
+      ]
+    },
+    {
+      "name": "المجادلة والحشر والممتحنة ليلة 27 رمضان 1420هـ 1999م مشاري راشد العفاسي",
+      "year": "2018",
+      "release_date": "2018-08-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/0e/43/320e433b-7235-a43d-de8c-2b9e246c07b7/6678990049121.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "المجادلة والحشر والممتحنة ليلة 27 رمضان 1420هـ 1999م مشاري راشد العفاسي",
+          "duration": "29:04"
+        }
+      ]
+    },
+    {
+      "name": "سورة طه 1419هـ Live",
+      "year": "1998",
+      "release_date": "1998-11-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e7/f2/f0/e7f2f07f-1ae8-339e-df57-664902bd0485/196292896220.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة طه 1419هـ 1998م (Live)",
+          "duration": "25:09"
+        }
+      ]
+    },
+    {
+      "name": "سورة ابراهيم 1425-2004",
+      "year": "2020",
+      "release_date": "2020-12-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/13/33/c413339b-0ee7-6b6e-ad7e-3cf2e6a18e8e/6678990015522.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة ابراهيم 1425-2004",
+          "duration": "25:24"
+        }
+      ]
+    },
+    {
+      "name": "سورة طه 1423هـ Live",
+      "year": "2002",
+      "release_date": "2002-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f6/d3/a0/f6d3a0c9-9833-1058-ffdc-c363974cf067/196292881004.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة طه 1423هـ 2002م (Live)",
+          "duration": "28:47"
+        }
+      ]
+    },
+    {
+      "name": "سورة الروم 1423هـ 2002م",
+      "year": "2002",
+      "release_date": "2002-11-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ee/01/b4/ee01b42a-6282-1903-1247-ffc591923853/196292900644.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الروم 1423هـ 2002م",
+          "duration": "20:30"
+        }
+      ]
+    },
+    {
+      "name": "سورة فاطر2021م - 1442هـ",
+      "year": "2021",
+      "release_date": "2021-08-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/73/71/7973717c-8b04-2841-a9bb-0eb22f687254/6678990022087.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة فاطر2021م - 1442هـ",
+          "duration": "19:50"
+        }
+      ]
+    },
+    {
+      "name": "ليس الغريب",
+      "year": "2007",
+      "release_date": "2007-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/7f/0c/ba7f0ce8-dc3c-a31b-f01c-8559fca84cc6/8718857790150.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ليس الغريب",
+          "duration": "13:09"
+        }
+      ]
+    },
+    {
+      "name": "دعاء من صلاة التراويح من عجمان - الإمارات لعام ١٤٢٩هـ",
+      "year": "2022",
+      "release_date": "2022-09-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/bf/4f/cebf4f00-d885-14f0-5b2c-dd8bafbdfc93/6678990040623.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "دعاء من صلاة التراويح من عجمان - الإمارات لعام ١٤٢٩هـ",
+          "duration": "11:38"
+        }
+      ]
+    },
+    {
+      "name": "1999-1420 سورة الزخرف",
+      "year": "2020",
+      "release_date": "2020-12-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/79/b6/0679b6d2-fa64-b907-1e6b-c5cb3f5d8799/6678990015515.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "1999-1420 سورة الزخرف",
+          "duration": "18:18"
+        }
+      ]
+    },
+    {
+      "name": "سورة يوسف 1423هـ Live",
+      "year": "2002",
+      "release_date": "2002-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/94/46/33944661-9049-56fb-b731-bc18e23eef86/196292951998.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة يوسف 1423هـ 2002م (Live)",
+          "duration": "21:56"
+        }
+      ]
+    },
+    {
+      "name": "سورة الدخان رمضان ١٤٤٥هـ - ٢٠٢٤م",
+      "year": "2024",
+      "release_date": "2024-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/68/4b/1f684bfc-082d-8769-76f7-2352ad8c70a8/6678990097597.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الدخان رمضان ١٤٤٥هـ - ٢٠٢٤م",
+          "duration": "10:39"
+        }
+      ]
+    },
+    {
+      "name": "ما تيسر من سورة الكهف 1426هـ Live",
+      "year": "2005",
+      "release_date": "2005-11-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b1/f2/84/b1f284cb-3e00-31d7-9dbf-ffc18c344594/889845960706.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ما تيسر من سورة الكهف 1426هـ (Live)",
+          "duration": "23:13"
+        }
+      ]
+    },
+    {
+      "name": "قربا مربط النعامة مني",
+      "year": "2023",
+      "release_date": "2023-07-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fb/d8/36fbd82d-8591-c27a-76e7-df14479f477e/6678990074390.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "قربا مربط النعامة مني",
+          "duration": "17:31"
+        }
+      ]
+    },
+    {
+      "name": "سورة الرحمن - رمضان 1445هـ - 2024م",
+      "year": "2024",
+      "release_date": "2024-04-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/42/25/ca422563-fdbc-c6f1-be5c-2c563b7b71f7/6678990055542.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "سورة الرحمن - رمضان 1445هـ - 2024م",
+          "duration": "12:32"
         }
       ]
     }

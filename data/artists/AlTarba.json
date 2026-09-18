@@ -1222,79 +1222,6 @@
       ]
     },
     {
-      "name": "Irwin's Lands",
-      "year": "2026",
-      "release_date": "2026-03-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/56/87/bc5687b1-67e3-4ddc-e4e2-4d05b15a4821/Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Open the Map",
-          "duration": "0:49"
-        },
-        {
-          "number": 2,
-          "name": "New Borders",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Red Dust (feat. SAILORMO & YffA)",
-          "duration": "3:35"
-        },
-        {
-          "number": 4,
-          "name": "Nightshift",
-          "duration": "4:24"
-        },
-        {
-          "number": 5,
-          "name": "Rugged Soil (feat. Jman, Blackout JA & BVA)",
-          "duration": "3:03"
-        },
-        {
-          "number": 6,
-          "name": "Celesta Roads (feat. SAILORMO)",
-          "duration": "4:17"
-        },
-        {
-          "number": 7,
-          "name": "Limbo's Waters (feat. Yugen Blakrok)",
-          "duration": "3:57"
-        },
-        {
-          "number": 8,
-          "name": "Saturday part I (feat. Ceschi)",
-          "duration": "3:50"
-        },
-        {
-          "number": 9,
-          "name": "Savage Realm",
-          "duration": "3:29"
-        },
-        {
-          "number": 10,
-          "name": "Silent Lands",
-          "duration": "2:50"
-        },
-        {
-          "number": 11,
-          "name": "Saturday part II",
-          "duration": "2:39"
-        },
-        {
-          "number": 12,
-          "name": "Ghosts in the Sands (feat. Grin & Paloma Pradal)",
-          "duration": "5:02"
-        },
-        {
-          "number": 13,
-          "name": "Skylines",
-          "duration": "3:32"
-        }
-      ]
-    },
-    {
       "name": "La Fin des Contes",
       "year": "2022",
       "release_date": "2022-09-30",
@@ -1384,6 +1311,79 @@
           "number": 17,
           "name": "Dead Fairies (Bonus Track)",
           "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "name": "Irwin's Lands",
+      "year": "2026",
+      "release_date": "2026-03-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/56/87/bc5687b1-67e3-4ddc-e4e2-4d05b15a4821/Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Open the Map",
+          "duration": "0:49"
+        },
+        {
+          "number": 2,
+          "name": "New Borders",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Red Dust (feat. SAILORMO & YffA)",
+          "duration": "3:35"
+        },
+        {
+          "number": 4,
+          "name": "Nightshift",
+          "duration": "4:24"
+        },
+        {
+          "number": 5,
+          "name": "Rugged Soil (feat. Jman, Blackout JA & BVA)",
+          "duration": "3:03"
+        },
+        {
+          "number": 6,
+          "name": "Celesta Roads (feat. SAILORMO)",
+          "duration": "4:17"
+        },
+        {
+          "number": 7,
+          "name": "Limbo's Waters (feat. Yugen Blakrok)",
+          "duration": "3:57"
+        },
+        {
+          "number": 8,
+          "name": "Saturday part I (feat. Ceschi)",
+          "duration": "3:50"
+        },
+        {
+          "number": 9,
+          "name": "Savage Realm",
+          "duration": "3:29"
+        },
+        {
+          "number": 10,
+          "name": "Silent Lands",
+          "duration": "2:50"
+        },
+        {
+          "number": 11,
+          "name": "Saturday part II",
+          "duration": "2:39"
+        },
+        {
+          "number": 12,
+          "name": "Ghosts in the Sands (feat. Grin & Paloma Pradal)",
+          "duration": "5:02"
+        },
+        {
+          "number": 13,
+          "name": "Skylines",
+          "duration": "3:32"
         }
       ]
     },
@@ -2255,19 +2255,6 @@
       ]
     },
     {
-      "name": "Saturday Part II",
-      "year": "2026",
-      "release_date": "2026-03-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/a6/25/baa625ac-47e5-5d87-b0fc-202dea4449ec/Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Saturday Part II",
-          "duration": "2:39"
-        }
-      ]
-    },
-    {
       "name": "Frères Perry",
       "year": "2021",
       "release_date": "2021-10-08",
@@ -2277,6 +2264,19 @@
           "number": 1,
           "name": "Frères Perry",
           "duration": "4:05"
+        }
+      ]
+    },
+    {
+      "name": "Saturday Part II",
+      "year": "2026",
+      "release_date": "2026-03-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/a6/25/baa625ac-47e5-5d87-b0fc-202dea4449ec/Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Saturday Part II",
+          "duration": "2:39"
         }
       ]
     },
@@ -2368,6 +2368,19 @@
           "number": 1,
           "name": "Agua Viva",
           "duration": "4:00"
+        }
+      ]
+    },
+    {
+      "name": "Silent World, Pt 2 (Alt Version)",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/88/29/608829ff-d576-4c57-d818-b7b95b91589d/823375343370_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Silent World, Pt 2 (Alt Version)",
+          "duration": "3:21"
         }
       ]
     },

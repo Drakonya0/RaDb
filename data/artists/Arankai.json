@@ -3,69 +3,6 @@
   "id": 1602506871,
   "albums": [
     {
-      "name": "A Portrait of Red",
-      "year": "2025",
-      "release_date": "2025-02-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/84/a4/7284a471-4fca-d3b4-e6b8-1f01cec897e1/2457.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Serpent",
-          "duration": "3:38"
-        },
-        {
-          "number": 2,
-          "name": "Contortionist",
-          "duration": "2:13"
-        },
-        {
-          "number": 3,
-          "name": "Dead Throne",
-          "duration": "3:07"
-        },
-        {
-          "number": 4,
-          "name": "Rome",
-          "duration": "2:08"
-        },
-        {
-          "number": 5,
-          "name": "One For The Money",
-          "duration": "3:34"
-        },
-        {
-          "number": 6,
-          "name": "Conquer",
-          "duration": "2:59"
-        },
-        {
-          "number": 7,
-          "name": "Anodyne",
-          "duration": "3:05"
-        },
-        {
-          "number": 8,
-          "name": "Catalyst",
-          "duration": "3:48"
-        },
-        {
-          "number": 9,
-          "name": "Plagues",
-          "duration": "3:15"
-        },
-        {
-          "number": 10,
-          "name": "Evergreen",
-          "duration": "3:21"
-        },
-        {
-          "number": 11,
-          "name": "Second Sight",
-          "duration": "2:57"
-        }
-      ]
-    },
-    {
       "name": "The Shape of Blue",
       "year": "2026",
       "release_date": "2026-10-30",
@@ -127,6 +64,69 @@
           "duration": "3:06"
         }
       ]
+    },
+    {
+      "name": "A Portrait of Red",
+      "year": "2025",
+      "release_date": "2025-02-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/84/a4/7284a471-4fca-d3b4-e6b8-1f01cec897e1/2457.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Serpent",
+          "duration": "3:38"
+        },
+        {
+          "number": 2,
+          "name": "Contortionist",
+          "duration": "2:13"
+        },
+        {
+          "number": 3,
+          "name": "Dead Throne",
+          "duration": "3:07"
+        },
+        {
+          "number": 4,
+          "name": "Rome",
+          "duration": "2:08"
+        },
+        {
+          "number": 5,
+          "name": "One For The Money",
+          "duration": "3:34"
+        },
+        {
+          "number": 6,
+          "name": "Conquer",
+          "duration": "2:59"
+        },
+        {
+          "number": 7,
+          "name": "Anodyne",
+          "duration": "3:05"
+        },
+        {
+          "number": 8,
+          "name": "Catalyst",
+          "duration": "3:48"
+        },
+        {
+          "number": 9,
+          "name": "Plagues",
+          "duration": "3:15"
+        },
+        {
+          "number": 10,
+          "name": "Evergreen",
+          "duration": "3:21"
+        },
+        {
+          "number": 11,
+          "name": "Second Sight",
+          "duration": "2:57"
+        }
+      ]
     }
   ],
   "singles": [
@@ -144,19 +144,6 @@
       ]
     },
     {
-      "name": "Heavenly Bodies",
-      "year": "2023",
-      "release_date": "2023-09-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f6/1a/45/f61a45e8-b02d-7ae4-f75e-70958c83b71d/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Heavenly Bodies",
-          "duration": "2:52"
-        }
-      ]
-    },
-    {
       "name": "Paranormal",
       "year": "2024",
       "release_date": "2024-04-26",
@@ -170,6 +157,19 @@
       ]
     },
     {
+      "name": "Heavenly Bodies",
+      "year": "2023",
+      "release_date": "2023-09-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f6/1a/45/f61a45e8-b02d-7ae4-f75e-70958c83b71d/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Heavenly Bodies",
+          "duration": "2:52"
+        }
+      ]
+    },
+    {
       "name": "Conquer",
       "year": "2025",
       "release_date": "2025-08-27",
@@ -179,6 +179,19 @@
           "number": 1,
           "name": "Conquer",
           "duration": "2:59"
+        }
+      ]
+    },
+    {
+      "name": "Meant to Live",
+      "year": "2026",
+      "release_date": "2026-07-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/b2/b7/7eb2b796-6583-a70a-2a8e-fa034a68d061/3420.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Meant to Live",
+          "duration": "3:18"
         }
       ]
     },
@@ -248,15 +261,15 @@
       ]
     },
     {
-      "name": "Meant to Live",
-      "year": "2026",
-      "release_date": "2026-07-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/b2/b7/7eb2b796-6583-a70a-2a8e-fa034a68d061/3420.jpg/600x600bb.jpg",
+      "name": "Problematic.",
+      "year": "2023",
+      "release_date": "2023-02-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/c9/4d/d3c94d75-768a-08ea-edb6-5fd1b3271b91/3570.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Meant to Live",
-          "duration": "3:18"
+          "name": "Problematic.",
+          "duration": "2:35"
         }
       ]
     },
@@ -322,19 +335,6 @@
           "number": 1,
           "name": "The Price of Power (Inspired by \"Chainsaw Man\")",
           "duration": "3:57"
-        }
-      ]
-    },
-    {
-      "name": "Problematic.",
-      "year": "2023",
-      "release_date": "2023-02-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/c9/4d/d3c94d75-768a-08ea-edb6-5fd1b3271b91/3570.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Problematic.",
-          "duration": "2:35"
         }
       ]
     },

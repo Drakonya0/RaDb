@@ -56,5 +56,39 @@
       ]
     }
   ],
-  "eps": []
+  "eps": [
+    {
+      "name": "COLD.CAPSULE",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/64/c2/1e64c2e4-9303-a501-1462-fc261f535894/3667007264452_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Love It, Take Care",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "Waiting Room",
+          "duration": "3:12"
+        },
+        {
+          "number": 3,
+          "name": "Your Gaze",
+          "duration": "3:06"
+        },
+        {
+          "number": 4,
+          "name": "We Lost The Thread",
+          "duration": "3:41"
+        },
+        {
+          "number": 5,
+          "name": "Preachers",
+          "duration": "3:28"
+        }
+      ]
+    }
+  ]
 }

@@ -3,74 +3,6 @@
   "id": 1467579626,
   "albums": [
     {
-      "name": "Ave de Maere",
-      "year": "2026",
-      "release_date": "2026-09-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/6f/b0/0c6fb05e-ef19-db48-8f05-357a7f3dc9b8/3596975111522_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mon paradis",
-          "duration": "3:29"
-        },
-        {
-          "number": 2,
-          "name": "Je pense à vous",
-          "duration": "2:52"
-        },
-        {
-          "number": 3,
-          "name": "Quasiment parfait",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "Tout l'univers",
-          "duration": "3:19"
-        },
-        {
-          "number": 5,
-          "name": "J'aurais fini par te plaire",
-          "duration": "3:00"
-        },
-        {
-          "number": 6,
-          "name": "Les jolis talents",
-          "duration": "1:45"
-        },
-        {
-          "number": 7,
-          "name": "Mon amour, f**k",
-          "duration": "3:02"
-        },
-        {
-          "number": 8,
-          "name": "I don't wanna sleep tonight",
-          "duration": "2:56"
-        },
-        {
-          "number": 9,
-          "name": "Opinel",
-          "duration": "3:22"
-        },
-        {
-          "number": 10,
-          "name": "La grande vie",
-          "duration": "2:35"
-        },
-        {
-          "number": 11,
-          "name": "Oh no!",
-          "duration": "3:35"
-        },
-        {
-          "number": 12,
-          "name": "Je m'en souviendrai",
-          "duration": "4:44"
-        }
-      ]
-    },
-    {
       "name": "Regarde-moi",
       "year": "2023",
       "release_date": "2023-01-27",
@@ -135,6 +67,74 @@
           "number": 12,
           "name": "Évidemment",
           "duration": "2:45"
+        }
+      ]
+    },
+    {
+      "name": "Ave de Maere",
+      "year": "2026",
+      "release_date": "2026-09-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/6f/b0/0c6fb05e-ef19-db48-8f05-357a7f3dc9b8/3596975111522_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mon paradis",
+          "duration": "3:29"
+        },
+        {
+          "number": 2,
+          "name": "Je pense à vous",
+          "duration": "2:52"
+        },
+        {
+          "number": 3,
+          "name": "Quasiment parfait",
+          "duration": "3:16"
+        },
+        {
+          "number": 4,
+          "name": "Tout l'univers",
+          "duration": "3:19"
+        },
+        {
+          "number": 5,
+          "name": "J'aurais fini par te plaire",
+          "duration": "3:00"
+        },
+        {
+          "number": 6,
+          "name": "Les jolis talents",
+          "duration": "1:45"
+        },
+        {
+          "number": 7,
+          "name": "Mon amour, f**k",
+          "duration": "3:02"
+        },
+        {
+          "number": 8,
+          "name": "I don't wanna sleep tonight",
+          "duration": "2:56"
+        },
+        {
+          "number": 9,
+          "name": "Opinel",
+          "duration": "3:22"
+        },
+        {
+          "number": 10,
+          "name": "La grande vie",
+          "duration": "2:35"
+        },
+        {
+          "number": 11,
+          "name": "Oh no!",
+          "duration": "3:35"
+        },
+        {
+          "number": 12,
+          "name": "Je m'en souviendrai",
+          "duration": "4:44"
         }
       ]
     },

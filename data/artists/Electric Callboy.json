@@ -61,79 +61,6 @@
       ]
     },
     {
-      "name": "We Are the Mess (Deluxe Edition)",
-      "year": "2014",
-      "release_date": "2014-01-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3a/a3/7c/3aa37c1f-c6e3-c1dc-f607-6d7983a3e61b/888003930445.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cstrp",
-          "duration": "1:17"
-        },
-        {
-          "number": 2,
-          "name": "We Are the Mess",
-          "duration": "3:11"
-        },
-        {
-          "number": 3,
-          "name": "Party at the Horror House",
-          "duration": "3:34"
-        },
-        {
-          "number": 4,
-          "name": "Blood Red Lips",
-          "duration": "3:35"
-        },
-        {
-          "number": 5,
-          "name": "Never Let You Know",
-          "duration": "3:20"
-        },
-        {
-          "number": 6,
-          "name": "#Elchtransformer",
-          "duration": "1:22"
-        },
-        {
-          "number": 7,
-          "name": "Jagger Swagger (feat. BastiBasti [Callejon] & Deuce)",
-          "duration": "3:21"
-        },
-        {
-          "number": 8,
-          "name": "Ghosts of the Night",
-          "duration": "3:28"
-        },
-        {
-          "number": 9,
-          "name": "Final Dance",
-          "duration": "3:25"
-        },
-        {
-          "number": 10,
-          "name": "Voodoo Circus",
-          "duration": "3:14"
-        },
-        {
-          "number": 11,
-          "name": "Broadway's Gonna Kill Us",
-          "duration": "3:45"
-        },
-        {
-          "number": 12,
-          "name": "R X L",
-          "duration": "0:57"
-        },
-        {
-          "number": 13,
-          "name": "Final Dance (Remix)",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
       "name": "TANZNEID",
       "year": "2026",
       "release_date": "2026-08-07",
@@ -208,6 +135,79 @@
           "number": 14,
           "name": "Revery (Sullivan King Remix)",
           "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "We Are the Mess (Deluxe Edition)",
+      "year": "2014",
+      "release_date": "2014-01-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3a/a3/7c/3aa37c1f-c6e3-c1dc-f607-6d7983a3e61b/888003930445.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cstrp",
+          "duration": "1:17"
+        },
+        {
+          "number": 2,
+          "name": "We Are the Mess",
+          "duration": "3:11"
+        },
+        {
+          "number": 3,
+          "name": "Party at the Horror House",
+          "duration": "3:34"
+        },
+        {
+          "number": 4,
+          "name": "Blood Red Lips",
+          "duration": "3:35"
+        },
+        {
+          "number": 5,
+          "name": "Never Let You Know",
+          "duration": "3:20"
+        },
+        {
+          "number": 6,
+          "name": "#Elchtransformer",
+          "duration": "1:22"
+        },
+        {
+          "number": 7,
+          "name": "Jagger Swagger (feat. BastiBasti [Callejon] & Deuce)",
+          "duration": "3:21"
+        },
+        {
+          "number": 8,
+          "name": "Ghosts of the Night",
+          "duration": "3:28"
+        },
+        {
+          "number": 9,
+          "name": "Final Dance",
+          "duration": "3:25"
+        },
+        {
+          "number": 10,
+          "name": "Voodoo Circus",
+          "duration": "3:14"
+        },
+        {
+          "number": 11,
+          "name": "Broadway's Gonna Kill Us",
+          "duration": "3:45"
+        },
+        {
+          "number": 12,
+          "name": "R X L",
+          "duration": "0:57"
+        },
+        {
+          "number": 13,
+          "name": "Final Dance (Remix)",
+          "duration": "3:20"
         }
       ]
     },
@@ -947,32 +947,6 @@
       ]
     },
     {
-      "name": "Hypa Hypa",
-      "year": "2020",
-      "release_date": "2020-06-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/cd/6b/dacd6bcf-c4f3-e0ca-3927-94bb5ec2df5c/886448556541.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hypa Hypa",
-          "duration": "3:33"
-        }
-      ]
-    },
-    {
-      "name": "Hypa Hypa",
-      "year": "2021",
-      "release_date": "2021-05-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/f1/61/7cf161fa-2d0f-58a6-bf4e-61bf88b8a9ac/886449298440.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hypa Hypa",
-          "duration": "3:30"
-        }
-      ]
-    },
-    {
       "name": "Hypa Hypa (Gestört aber GeiL Remix)",
       "year": "2021",
       "release_date": "2021-05-21",
@@ -982,6 +956,19 @@
           "number": 1,
           "name": "Hypa Hypa (Gestört aber GeiL Remix)",
           "duration": "2:29"
+        }
+      ]
+    },
+    {
+      "name": "Hypa Hypa",
+      "year": "2020",
+      "release_date": "2020-06-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/cd/6b/dacd6bcf-c4f3-e0ca-3927-94bb5ec2df5c/886448556541.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hypa Hypa",
+          "duration": "3:33"
         }
       ]
     },
@@ -1013,6 +1000,19 @@
           "number": 2,
           "name": "Best Day (feat. Sido)",
           "duration": "3:58"
+        }
+      ]
+    },
+    {
+      "name": "Hypa Hypa",
+      "year": "2021",
+      "release_date": "2021-05-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/f1/61/7cf161fa-2d0f-58a6-bf4e-61bf88b8a9ac/886449298440.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hypa Hypa",
+          "duration": "3:30"
         }
       ]
     }

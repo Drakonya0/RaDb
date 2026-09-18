@@ -84,17 +84,17 @@
       ]
     },
     {
-      "name": "Ma ruche (Réédition)",
-      "year": "2020",
-      "release_date": "2020-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/dc/57/a8dc5706-89de-9195-a35c-f098ecde7eea/190295186845.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Nous-mêmes",
       "year": "2017",
       "release_date": "2017-09-29",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/af/75/53/af755395-b365-a5d0-f4dd-f25a882e05e1/190295812270.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Ma ruche (Réédition)",
+      "year": "2020",
+      "release_date": "2020-01-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/dc/57/a8dc5706-89de-9195-a35c-f098ecde7eea/190295186845.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -173,13 +173,6 @@
       ]
     },
     {
-      "name": "Allo ? C’est les cités",
-      "year": "2023",
-      "release_date": "2023-07-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/81/61/f28161fd-aa95-30fd-8a14-b20f030645cd/5054197761836.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Calumet [Remix Club] (feat. Hornet La Frappe)",
       "year": "2021",
       "release_date": "2021-07-23",
@@ -191,6 +184,13 @@
           "duration": "2:33"
         }
       ]
+    },
+    {
+      "name": "Allo ? C’est les cités",
+      "year": "2023",
+      "release_date": "2023-07-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/81/61/f28161fd-aa95-30fd-8a14-b20f030645cd/5054197761836.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "J'ai quitté",
@@ -437,19 +437,6 @@
       "tracks": []
     },
     {
-      "name": "Boîte à gants (feat. Hornet La Frappe)",
-      "year": "2022",
-      "release_date": "2022-09-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ae/77/1b/ae771b44-a031-8a48-7772-de4c16964a5f/196589412102.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Boîte à gants (feat. Hornet La Frappe)",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
       "name": "Aliène",
       "year": "2025",
       "release_date": "2025-01-31",
@@ -459,6 +446,19 @@
           "number": 1,
           "name": "Aliène",
           "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Boîte à gants (feat. Hornet La Frappe)",
+      "year": "2022",
+      "release_date": "2022-09-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ae/77/1b/ae771b44-a031-8a48-7772-de4c16964a5f/196589412102.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Boîte à gants (feat. Hornet La Frappe)",
+          "duration": "2:19"
         }
       ]
     },

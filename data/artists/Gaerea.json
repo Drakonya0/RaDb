@@ -3,6 +3,54 @@
   "id": 1383640506,
   "albums": [
     {
+      "name": "Mirage",
+      "year": "2022",
+      "release_date": "2022-09-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/63/b2/ac63b2a8-003a-6265-d832-bdb2ac6bd17a/822603166903.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Memoir",
+          "duration": "8:17"
+        },
+        {
+          "number": 2,
+          "name": "Salve",
+          "duration": "5:25"
+        },
+        {
+          "number": 3,
+          "name": "Deluge",
+          "duration": "6:31"
+        },
+        {
+          "number": 4,
+          "name": "Arson",
+          "duration": "8:54"
+        },
+        {
+          "number": 5,
+          "name": "Ebb",
+          "duration": "5:31"
+        },
+        {
+          "number": 6,
+          "name": "Mirage",
+          "duration": "6:37"
+        },
+        {
+          "number": 7,
+          "name": "Mantle",
+          "duration": "5:16"
+        },
+        {
+          "number": 8,
+          "name": "Laude",
+          "duration": "6:27"
+        }
+      ]
+    },
+    {
       "name": "Loss",
       "year": "2026",
       "release_date": "2026-03-20",
@@ -52,54 +100,6 @@
           "number": 9,
           "name": "Stardust",
           "duration": "7:58"
-        }
-      ]
-    },
-    {
-      "name": "Mirage",
-      "year": "2022",
-      "release_date": "2022-09-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ac/63/b2/ac63b2a8-003a-6265-d832-bdb2ac6bd17a/822603166903.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Memoir",
-          "duration": "8:17"
-        },
-        {
-          "number": 2,
-          "name": "Salve",
-          "duration": "5:25"
-        },
-        {
-          "number": 3,
-          "name": "Deluge",
-          "duration": "6:31"
-        },
-        {
-          "number": 4,
-          "name": "Arson",
-          "duration": "8:54"
-        },
-        {
-          "number": 5,
-          "name": "Ebb",
-          "duration": "5:31"
-        },
-        {
-          "number": 6,
-          "name": "Mirage",
-          "duration": "6:37"
-        },
-        {
-          "number": 7,
-          "name": "Mantle",
-          "duration": "5:16"
-        },
-        {
-          "number": 8,
-          "name": "Laude",
-          "duration": "6:27"
         }
       ]
     },

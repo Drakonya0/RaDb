@@ -144,84 +144,6 @@
       ]
     },
     {
-      "name": "METAL GALAXY",
-      "year": "2019",
-      "release_date": "2019-10-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/f0/cd/d8f0cd7e-bab4-a05f-ceab-159e1da2bb40/116509.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FUTURE METAL",
-          "duration": "2:05"
-        },
-        {
-          "number": 2,
-          "name": "DA DA DANCE (feat. Tak Matsumoto)",
-          "duration": "3:50"
-        },
-        {
-          "number": 3,
-          "name": "Elevator Girl (English Version)",
-          "duration": "2:45"
-        },
-        {
-          "number": 4,
-          "name": "Shanti Shanti Shanti",
-          "duration": "3:10"
-        },
-        {
-          "number": 5,
-          "name": "Oh! MAJINAI (feat. Joakim Brodén)",
-          "duration": "3:12"
-        },
-        {
-          "number": 6,
-          "name": "Brand New Day (feat. Scott Lepage & Tim Henson)",
-          "duration": "4:08"
-        },
-        {
-          "number": 7,
-          "name": "Night Night Burn!",
-          "duration": "3:40"
-        },
-        {
-          "number": 8,
-          "name": "IN THE NAME OF",
-          "duration": "4:30"
-        },
-        {
-          "number": 9,
-          "name": "Distortion (feat. Alissa White-Gluz)",
-          "duration": "3:04"
-        },
-        {
-          "number": 10,
-          "name": "PA PA YA!! (feat. F.HERO)",
-          "duration": "3:55"
-        },
-        {
-          "number": 11,
-          "name": "Kagerou",
-          "duration": "3:30"
-        },
-        {
-          "number": 12,
-          "name": "Starlight",
-          "duration": "3:37"
-        },
-        {
-          "number": 13,
-          "name": "Shine",
-          "duration": "5:52"
-        },
-        {
-          "number": 14,
-          "name": "Arkadia",
-          "duration": "5:18"
-        }
-      ]
-    },
-    {
       "name": "METAL RESISTANCE",
       "year": "2016",
       "release_date": "2016-04-01",
@@ -344,6 +266,84 @@
           "number": 10,
           "name": "THE LEGEND",
           "duration": "4:18"
+        }
+      ]
+    },
+    {
+      "name": "METAL GALAXY",
+      "year": "2019",
+      "release_date": "2019-10-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/f0/cd/d8f0cd7e-bab4-a05f-ceab-159e1da2bb40/116509.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FUTURE METAL",
+          "duration": "2:05"
+        },
+        {
+          "number": 2,
+          "name": "DA DA DANCE (feat. Tak Matsumoto)",
+          "duration": "3:50"
+        },
+        {
+          "number": 3,
+          "name": "Elevator Girl (English Version)",
+          "duration": "2:45"
+        },
+        {
+          "number": 4,
+          "name": "Shanti Shanti Shanti",
+          "duration": "3:10"
+        },
+        {
+          "number": 5,
+          "name": "Oh! MAJINAI (feat. Joakim Brodén)",
+          "duration": "3:12"
+        },
+        {
+          "number": 6,
+          "name": "Brand New Day (feat. Scott Lepage & Tim Henson)",
+          "duration": "4:08"
+        },
+        {
+          "number": 7,
+          "name": "Night Night Burn!",
+          "duration": "3:40"
+        },
+        {
+          "number": 8,
+          "name": "IN THE NAME OF",
+          "duration": "4:30"
+        },
+        {
+          "number": 9,
+          "name": "Distortion (feat. Alissa White-Gluz)",
+          "duration": "3:04"
+        },
+        {
+          "number": 10,
+          "name": "PA PA YA!! (feat. F.HERO)",
+          "duration": "3:55"
+        },
+        {
+          "number": 11,
+          "name": "Kagerou",
+          "duration": "3:30"
+        },
+        {
+          "number": 12,
+          "name": "Starlight",
+          "duration": "3:37"
+        },
+        {
+          "number": 13,
+          "name": "Shine",
+          "duration": "5:52"
+        },
+        {
+          "number": 14,
+          "name": "Arkadia",
+          "duration": "5:18"
         }
       ]
     },
@@ -804,6 +804,19 @@
       ]
     },
     {
+      "name": "Monochrome (Piano Version - From THE FIRST TAKE)",
+      "year": "2023",
+      "release_date": "2023-05-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/95/38/1a9538db-6a0a-04b5-5942-de5acb47a9e4/116522.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Monochrome (Piano Version - From THE FIRST TAKE)",
+          "duration": "3:56"
+        }
+      ]
+    },
+    {
       "name": "from me to u (LIVE FROM THE O2) [feat. Poppy]",
       "year": "2025",
       "release_date": "2025-10-03",
@@ -817,15 +830,28 @@
       ]
     },
     {
-      "name": "Monochrome (Piano Version - From THE FIRST TAKE)",
-      "year": "2023",
-      "release_date": "2023-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/95/38/1a9538db-6a0a-04b5-5942-de5acb47a9e4/116522.jpg/600x600bb.jpg",
+      "name": "Distortion",
+      "year": "2018",
+      "release_date": "2018-05-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/85/e1/c785e1bb-da2d-808b-b528-0b21b7dd5e7c/116525.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Monochrome (Piano Version - From THE FIRST TAKE)",
-          "duration": "3:56"
+          "name": "Distortion",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Starlight",
+      "year": "2018",
+      "release_date": "2018-10-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/6f/50/136f500c-06cb-075d-82aa-093cc6778c3a/120286.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Starlight",
+          "duration": "3:37"
         }
       ]
     },
@@ -869,6 +895,19 @@
       ]
     },
     {
+      "name": "Divine Attack - Shingeki -",
+      "year": "2022",
+      "release_date": "2022-10-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/d3/fa/2dd3fa18-7328-a771-eb1b-5e1a26737153/116508.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Divine Attack - Shingeki -",
+          "duration": "3:38"
+        }
+      ]
+    },
+    {
       "name": "from me to u (Jordan Fish Remix) [feat. Poppy]",
       "year": "2026",
       "release_date": "2026-05-29",
@@ -878,19 +917,6 @@
           "number": 1,
           "name": "from me to u (feat. Poppy) [Jordan Fish Remix]",
           "duration": "3:30"
-        }
-      ]
-    },
-    {
-      "name": "Distortion",
-      "year": "2018",
-      "release_date": "2018-05-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/85/e1/c785e1bb-da2d-808b-b528-0b21b7dd5e7c/116525.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Distortion",
-          "duration": "3:05"
         }
       ]
     },
@@ -930,32 +956,6 @@
           "number": 1,
           "name": "PA PA YA!! (feat. F.HERO)",
           "duration": "3:55"
-        }
-      ]
-    },
-    {
-      "name": "Starlight",
-      "year": "2018",
-      "release_date": "2018-10-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/6f/50/136f500c-06cb-075d-82aa-093cc6778c3a/120286.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Starlight",
-          "duration": "3:37"
-        }
-      ]
-    },
-    {
-      "name": "Divine Attack - Shingeki -",
-      "year": "2022",
-      "release_date": "2022-10-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/d3/fa/2dd3fa18-7328-a771-eb1b-5e1a26737153/116508.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Divine Attack - Shingeki -",
-          "duration": "3:38"
         }
       ]
     },

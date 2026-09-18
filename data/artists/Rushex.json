@@ -4,6 +4,42 @@
   "albums": [],
   "singles": [
     {
+      "name": "Montagem-Fatal Pr",
+      "year": "2023",
+      "release_date": "2023-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/41/11/9041110a-3a0b-3380-b0f8-90f55d1257b0/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem-Fatal Pr",
+          "duration": "1:58"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM GLORIA",
+      "year": "2026",
+      "release_date": "2026-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/9b/10/e09b1096-92ad-dfd6-a9ef-5d4d2000255d/3870037.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM GLORIA",
+          "duration": "1:23"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM GLORIA (Slowed)",
+          "duration": "1:31"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM GLORIA (Ultra Slowed)",
+          "duration": "1:42"
+        }
+      ]
+    },
+    {
       "name": "ZAKHELO",
       "year": "2026",
       "release_date": "2026-03-13",
@@ -28,19 +64,6 @@
           "number": 4,
           "name": "ZAKHELO (Sped Up)",
           "duration": "1:48"
-        }
-      ]
-    },
-    {
-      "name": "Montagem-Fatal Pr",
-      "year": "2023",
-      "release_date": "2023-09-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/41/11/9041110a-3a0b-3380-b0f8-90f55d1257b0/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem-Fatal Pr",
-          "duration": "1:58"
         }
       ]
     },
@@ -147,29 +170,6 @@
           "number": 2,
           "name": "Tell Em Brazil - Slowed",
           "duration": "1:43"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM GLORIA",
-      "year": "2026",
-      "release_date": "2026-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/9b/10/e09b1096-92ad-dfd6-a9ef-5d4d2000255d/3870037.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM GLORIA",
-          "duration": "1:23"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM GLORIA (Slowed)",
-          "duration": "1:31"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM GLORIA (Ultra Slowed)",
-          "duration": "1:42"
         }
       ]
     },
@@ -453,6 +453,24 @@
           "number": 1,
           "name": "Montagem In Wonderland",
           "duration": "1:45"
+        }
+      ]
+    },
+    {
+      "name": "Kienaide Yo",
+      "year": "2026",
+      "release_date": "2026-09-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/2a/34/ba2a34bb-259f-5462-3783-b761d7bf0c1e/5063879057693.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Kienaide Yo",
+          "duration": "1:40"
+        },
+        {
+          "number": 2,
+          "name": "Kienaide Yo - Slowed",
+          "duration": "2:09"
         }
       ]
     },
@@ -1376,6 +1394,29 @@
           "number": 1,
           "name": "Caped Fear",
           "duration": "2:02"
+        }
+      ]
+    },
+    {
+      "name": "ARERO",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/f4/f0/e9f4f0b2-18cf-49aa-7059-541b36c1656e/4309362.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ARERO",
+          "duration": "1:34"
+        },
+        {
+          "number": 2,
+          "name": "ARERO (Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 3,
+          "name": "ARERO (Ultra Slowed)",
+          "duration": "1:57"
         }
       ]
     },

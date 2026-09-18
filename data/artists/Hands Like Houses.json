@@ -124,6 +124,69 @@
       ]
     },
     {
+      "name": "Unimagine",
+      "year": "2013",
+      "release_date": "2013-07-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/7f/f4/8b7ff444-d1f2-2c61-5ed7-81dfd850f462/0081953101396.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Developments",
+          "duration": "3:39"
+        },
+        {
+          "number": 2,
+          "name": "Introduced Species",
+          "duration": "4:04"
+        },
+        {
+          "number": 3,
+          "name": "Weight",
+          "duration": "3:45"
+        },
+        {
+          "number": 4,
+          "name": "Shapeshifters",
+          "duration": "3:04"
+        },
+        {
+          "number": 5,
+          "name": "The House You Built",
+          "duration": "3:13"
+        },
+        {
+          "number": 6,
+          "name": "A Tale of Outer Suburbia",
+          "duration": "4:21"
+        },
+        {
+          "number": 7,
+          "name": "Oceandust",
+          "duration": "3:41"
+        },
+        {
+          "number": 8,
+          "name": "No Parallels",
+          "duration": "3:37"
+        },
+        {
+          "number": 9,
+          "name": "Fountainhead",
+          "duration": "3:46"
+        },
+        {
+          "number": 10,
+          "name": "Wisteria",
+          "duration": "3:52"
+        },
+        {
+          "number": 11,
+          "name": "A Fire On a Hill",
+          "duration": "4:59"
+        }
+      ]
+    },
+    {
       "name": "ATMOSPHERICS",
       "year": "2025",
       "release_date": "2025-02-14",
@@ -208,69 +271,6 @@
           "number": 4,
           "name": "The End",
           "duration": "3:46"
-        }
-      ]
-    },
-    {
-      "name": "Unimagine",
-      "year": "2013",
-      "release_date": "2013-07-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8b/7f/f4/8b7ff444-d1f2-2c61-5ed7-81dfd850f462/0081953101396.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Developments",
-          "duration": "3:39"
-        },
-        {
-          "number": 2,
-          "name": "Introduced Species",
-          "duration": "4:04"
-        },
-        {
-          "number": 3,
-          "name": "Weight",
-          "duration": "3:45"
-        },
-        {
-          "number": 4,
-          "name": "Shapeshifters",
-          "duration": "3:04"
-        },
-        {
-          "number": 5,
-          "name": "The House You Built",
-          "duration": "3:13"
-        },
-        {
-          "number": 6,
-          "name": "A Tale of Outer Suburbia",
-          "duration": "4:21"
-        },
-        {
-          "number": 7,
-          "name": "Oceandust",
-          "duration": "3:41"
-        },
-        {
-          "number": 8,
-          "name": "No Parallels",
-          "duration": "3:37"
-        },
-        {
-          "number": 9,
-          "name": "Fountainhead",
-          "duration": "3:46"
-        },
-        {
-          "number": 10,
-          "name": "Wisteria",
-          "duration": "3:52"
-        },
-        {
-          "number": 11,
-          "name": "A Fire On a Hill",
-          "duration": "4:59"
         }
       ]
     },
@@ -505,32 +505,6 @@
       ]
     },
     {
-      "name": "Shimmer (triple j Like A Version)",
-      "year": "2020",
-      "release_date": "2020-10-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/af/b4/18/afb418f0-46e9-8e4e-8dae-70bd415146c9/602435311050.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shimmer (triple j Like A Version)",
-          "duration": "2:57"
-        }
-      ]
-    },
-    {
-      "name": "Wicked Game",
-      "year": "2026",
-      "release_date": "2026-01-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/0a/f5/410af5b2-3fb8-d100-894b-33613270cd26/820200061836.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wicked Game",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "DEAD",
       "year": "2026",
       "release_date": "2026-04-09",
@@ -579,6 +553,32 @@
           "number": 1,
           "name": "Love & Affection",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "Shimmer (triple j Like A Version)",
+      "year": "2020",
+      "release_date": "2020-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/af/b4/18/afb418f0-46e9-8e4e-8dae-70bd415146c9/602435311050.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shimmer (triple j Like A Version)",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "Wicked Game",
+      "year": "2026",
+      "release_date": "2026-01-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/0a/f5/410af5b2-3fb8-d100-894b-33613270cd26/820200061836.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wicked Game",
+          "duration": "3:06"
         }
       ]
     },
@@ -652,6 +652,34 @@
       ]
     },
     {
+      "name": "STRATO",
+      "year": "2024",
+      "release_date": "2024-06-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/59/f2/c259f264-9d68-30a7-509e-8f8ad7bde874/198391756764.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "24 Hours",
+          "duration": "3:08"
+        },
+        {
+          "number": 2,
+          "name": "Hollow",
+          "duration": "3:31"
+        },
+        {
+          "number": 3,
+          "name": "Panic",
+          "duration": "3:16"
+        },
+        {
+          "number": 4,
+          "name": "Wildfire",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
       "name": "Hands Like Houses",
       "year": "2020",
       "release_date": "2020-10-23",
@@ -681,34 +709,6 @@
           "number": 5,
           "name": "Wired",
           "duration": "3:01"
-        }
-      ]
-    },
-    {
-      "name": "STRATO",
-      "year": "2024",
-      "release_date": "2024-06-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/59/f2/c259f264-9d68-30a7-509e-8f8ad7bde874/198391756764.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "24 Hours",
-          "duration": "3:08"
-        },
-        {
-          "number": 2,
-          "name": "Hollow",
-          "duration": "3:31"
-        },
-        {
-          "number": 3,
-          "name": "Panic",
-          "duration": "3:16"
-        },
-        {
-          "number": 4,
-          "name": "Wildfire",
-          "duration": "3:20"
         }
       ]
     },

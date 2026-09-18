@@ -1039,6 +1039,13 @@
       ]
     },
     {
+      "name": "Sofa",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/43/3e/37433e47-f9b3-a843-b5dc-25b751f4af7e/26UM1IM15239.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "On se comprend (feat. Da Uzi)",
       "year": "2020",
       "release_date": "2020-02-12",
@@ -1323,6 +1330,19 @@
       "tracks": []
     },
     {
+      "name": "Bouche B",
+      "year": "2025",
+      "release_date": "2025-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/2b/1d/a02b1da8-cd13-2b2f-ae4b-abf88aaeb1a7/196873908847.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bouche B",
+          "duration": "3:11"
+        }
+      ]
+    },
+    {
       "name": "cœur lourd (feat. Massine)",
       "year": "2024",
       "release_date": "2024-09-13",
@@ -1336,15 +1356,15 @@
       ]
     },
     {
-      "name": "Bouche B",
-      "year": "2025",
-      "release_date": "2025-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/2b/1d/a02b1da8-cd13-2b2f-ae4b-abf88aaeb1a7/196873908847.jpg/600x600bb.jpg",
+      "name": "Freestyle 5min #8",
+      "year": "2020",
+      "release_date": "2020-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1e/66/9f/1e669f46-b66b-d827-60d1-9bf65468fdb9/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Bouche B",
-          "duration": "3:11"
+          "name": "Freestyle 5min #8",
+          "duration": "6:05"
         }
       ]
     },
@@ -1371,19 +1391,6 @@
           "number": 1,
           "name": "Sur le dos",
           "duration": "3:47"
-        }
-      ]
-    },
-    {
-      "name": "Freestyle 5min #8",
-      "year": "2020",
-      "release_date": "2020-06-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1e/66/9f/1e669f46-b66b-d827-60d1-9bf65468fdb9/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Freestyle 5min #8",
-          "duration": "6:05"
         }
       ]
     },
@@ -1553,19 +1560,6 @@
       "tracks": []
     },
     {
-      "name": "HEAVYWEIGHT",
-      "year": "2023",
-      "release_date": "2023-12-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/05/06/5f050640-749d-9ff6-0154-d17ff42ec3a4/197338148075.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HEAVYWEIGHT",
-          "duration": "3:45"
-        }
-      ]
-    },
-    {
       "name": "Freestyle 5min #7",
       "year": "2019",
       "release_date": "2019-12-23",
@@ -1575,6 +1569,19 @@
           "number": 1,
           "name": "Freestyle 5min #7",
           "duration": "5:18"
+        }
+      ]
+    },
+    {
+      "name": "HEAVYWEIGHT",
+      "year": "2023",
+      "release_date": "2023-12-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5f/05/06/5f050640-749d-9ff6-0154-d17ff42ec3a4/197338148075.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HEAVYWEIGHT",
+          "duration": "3:45"
         }
       ]
     },

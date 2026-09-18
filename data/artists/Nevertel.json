@@ -250,19 +250,6 @@
       ]
     },
     {
-      "name": "LAST BREATH",
-      "year": "2026",
-      "release_date": "2026-09-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/2a/83/f32a83cf-9960-bc72-e114-98f69398b340/0045778819140.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LAST BREATH",
-          "duration": "3:32"
-        }
-      ]
-    },
-    {
       "name": "Losing Faith",
       "year": "2024",
       "release_date": "2024-09-05",
@@ -272,6 +259,19 @@
           "number": 1,
           "name": "Losing Faith",
           "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "LAST BREATH",
+      "year": "2026",
+      "release_date": "2026-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/2a/83/f32a83cf-9960-bc72-e114-98f69398b340/0045778819140.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LAST BREATH",
+          "duration": "3:32"
         }
       ]
     },
@@ -608,44 +608,6 @@
       ]
     },
     {
-      "name": "Deep Down",
-      "year": "2018",
-      "release_date": "2018-07-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/61/0b/96610b92-75a4-305e-5b25-f377388ee053/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Weak",
-          "duration": "3:47"
-        },
-        {
-          "number": 2,
-          "name": "Down",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Love Me Back",
-          "duration": "3:40"
-        },
-        {
-          "number": 4,
-          "name": "Cold",
-          "duration": "4:08"
-        },
-        {
-          "number": 5,
-          "name": "Stuck Inside",
-          "duration": "3:28"
-        },
-        {
-          "number": 6,
-          "name": "Dead and Deceased",
-          "duration": "4:16"
-        }
-      ]
-    },
-    {
       "name": "Live at the Collection (Live at the Collection)",
       "year": "2022",
       "release_date": "2022-03-02",
@@ -680,6 +642,44 @@
           "number": 6,
           "name": "Dark Cloud (Live at The Collection)",
           "duration": "5:28"
+        }
+      ]
+    },
+    {
+      "name": "Deep Down",
+      "year": "2018",
+      "release_date": "2018-07-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/61/0b/96610b92-75a4-305e-5b25-f377388ee053/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Weak",
+          "duration": "3:47"
+        },
+        {
+          "number": 2,
+          "name": "Down",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Love Me Back",
+          "duration": "3:40"
+        },
+        {
+          "number": 4,
+          "name": "Cold",
+          "duration": "4:08"
+        },
+        {
+          "number": 5,
+          "name": "Stuck Inside",
+          "duration": "3:28"
+        },
+        {
+          "number": 6,
+          "name": "Dead and Deceased",
+          "duration": "4:16"
         }
       ]
     }

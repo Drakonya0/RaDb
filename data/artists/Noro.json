@@ -533,6 +533,79 @@
       "tracks": []
     },
     {
+      "name": "Or Game",
+      "year": "2016",
+      "release_date": "2016-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/df/a6/ca/dfa6ca67-179b-6f61-f718-74a790d4a961/00602547972866.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro",
+          "duration": "2:57"
+        },
+        {
+          "number": 2,
+          "name": "J'espère",
+          "duration": "3:47"
+        },
+        {
+          "number": 3,
+          "name": "87",
+          "duration": "4:11"
+        },
+        {
+          "number": 4,
+          "name": "Do It",
+          "duration": "3:01"
+        },
+        {
+          "number": 5,
+          "name": "Le compte y est (feat. Nino B)",
+          "duration": "4:36"
+        },
+        {
+          "number": 6,
+          "name": "On s'aime pas",
+          "duration": "3:35"
+        },
+        {
+          "number": 7,
+          "name": "ComDab",
+          "duration": "3:27"
+        },
+        {
+          "number": 8,
+          "name": "A la tienne",
+          "duration": "3:07"
+        },
+        {
+          "number": 9,
+          "name": "Outro",
+          "duration": "2:15"
+        },
+        {
+          "number": 10,
+          "name": "Jaja",
+          "duration": "5:03"
+        },
+        {
+          "number": 11,
+          "name": "Merco Benz",
+          "duration": "2:45"
+        },
+        {
+          "number": 12,
+          "name": "A la source",
+          "duration": "4:14"
+        },
+        {
+          "number": 13,
+          "name": "On s'en remettra",
+          "duration": "3:33"
+        }
+      ]
+    },
+    {
       "name": "Sale môme (Edition Finale)",
       "year": "2021",
       "release_date": "2021-07-16",
@@ -607,79 +680,6 @@
           "number": 14,
           "name": "À jamais",
           "duration": "4:55"
-        }
-      ]
-    },
-    {
-      "name": "Or Game",
-      "year": "2016",
-      "release_date": "2016-05-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/df/a6/ca/dfa6ca67-179b-6f61-f718-74a790d4a961/00602547972866.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro",
-          "duration": "2:57"
-        },
-        {
-          "number": 2,
-          "name": "J'espère",
-          "duration": "3:47"
-        },
-        {
-          "number": 3,
-          "name": "87",
-          "duration": "4:11"
-        },
-        {
-          "number": 4,
-          "name": "Do It",
-          "duration": "3:01"
-        },
-        {
-          "number": 5,
-          "name": "Le compte y est (feat. Nino B)",
-          "duration": "4:36"
-        },
-        {
-          "number": 6,
-          "name": "On s'aime pas",
-          "duration": "3:35"
-        },
-        {
-          "number": 7,
-          "name": "ComDab",
-          "duration": "3:27"
-        },
-        {
-          "number": 8,
-          "name": "A la tienne",
-          "duration": "3:07"
-        },
-        {
-          "number": 9,
-          "name": "Outro",
-          "duration": "2:15"
-        },
-        {
-          "number": 10,
-          "name": "Jaja",
-          "duration": "5:03"
-        },
-        {
-          "number": 11,
-          "name": "Merco Benz",
-          "duration": "2:45"
-        },
-        {
-          "number": 12,
-          "name": "A la source",
-          "duration": "4:14"
-        },
-        {
-          "number": 13,
-          "name": "On s'en remettra",
-          "duration": "3:33"
         }
       ]
     },
@@ -1906,19 +1906,6 @@
       ]
     },
     {
-      "name": "Faut les lovés (feat. Niro)",
-      "year": "2017",
-      "release_date": "2017-06-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/81/0f/f6/810ff619-2eb3-1453-f233-8c84e318f2e4/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Faut les lovés (feat. Niro)",
-          "duration": "2:30"
-        }
-      ]
-    },
-    {
       "name": "Papa fait le pitre",
       "year": "2022",
       "release_date": "2022-12-15",
@@ -1928,6 +1915,19 @@
           "number": 1,
           "name": "Papa fait le pitre",
           "duration": "5:17"
+        }
+      ]
+    },
+    {
+      "name": "Faut les lovés (feat. Niro)",
+      "year": "2017",
+      "release_date": "2017-06-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/81/0f/f6/810ff619-2eb3-1453-f233-8c84e318f2e4/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Faut les lovés (feat. Niro)",
+          "duration": "2:30"
         }
       ]
     },
