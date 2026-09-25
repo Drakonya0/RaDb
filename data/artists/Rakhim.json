@@ -1,7 +1,56 @@
 {
   "name": "Rakhim",
   "id": 1502988200,
-  "albums": [],
+  "albums": [
+    {
+      "name": "Bota",
+      "year": "2026",
+      "release_date": "2026-09-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/2a/f0/732af040-7315-7432-ff1c-72a69cc6d967/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bota",
+          "duration": "1:39"
+        },
+        {
+          "number": 2,
+          "name": "Bota (Slow)",
+          "duration": "1:47"
+        },
+        {
+          "number": 3,
+          "name": "Bota (Super Slow)",
+          "duration": "1:55"
+        },
+        {
+          "number": 4,
+          "name": "Bota (Slow Reverb)",
+          "duration": "1:47"
+        },
+        {
+          "number": 5,
+          "name": "Bota (Super Slow Reverb)",
+          "duration": "1:55"
+        },
+        {
+          "number": 6,
+          "name": "Bota (Ultra Slow)",
+          "duration": "2:06"
+        },
+        {
+          "number": 7,
+          "name": "Bota (Ultra Slow Reverb)",
+          "duration": "2:06"
+        },
+        {
+          "number": 8,
+          "name": "Bota (Sped Up)",
+          "duration": "1:33"
+        }
+      ]
+    }
+  ],
   "singles": [
     {
       "name": "Look At Me Habibi",

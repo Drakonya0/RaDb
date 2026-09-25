@@ -3,49 +3,6 @@
   "id": 1761074605,
   "albums": [
     {
-      "name": "Angel Wings",
-      "year": "2026",
-      "release_date": "2026-01-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/21/6a/b4216a96-d96f-4763-321b-11c4612d3176/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Angel Wings",
-          "duration": "2:42"
-        },
-        {
-          "number": 2,
-          "name": "THE ETHER",
-          "duration": "4:12"
-        },
-        {
-          "number": 3,
-          "name": "The Unknown",
-          "duration": "4:15"
-        },
-        {
-          "number": 4,
-          "name": "Sweeter Soul",
-          "duration": "4:09"
-        },
-        {
-          "number": 5,
-          "name": "Eternally",
-          "duration": "3:48"
-        },
-        {
-          "number": 6,
-          "name": "Take/Leave",
-          "duration": "2:40"
-        },
-        {
-          "number": 7,
-          "name": "Hold Me Close",
-          "duration": "3:38"
-        }
-      ]
-    },
-    {
       "name": "Fall Into Me",
       "year": "2026",
       "release_date": "2026-08-12",
@@ -93,6 +50,49 @@
         },
         {
           "number": 9,
+          "name": "Hold Me Close",
+          "duration": "3:38"
+        }
+      ]
+    },
+    {
+      "name": "Angel Wings",
+      "year": "2026",
+      "release_date": "2026-01-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/21/6a/b4216a96-d96f-4763-321b-11c4612d3176/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Angel Wings",
+          "duration": "2:42"
+        },
+        {
+          "number": 2,
+          "name": "THE ETHER",
+          "duration": "4:12"
+        },
+        {
+          "number": 3,
+          "name": "The Unknown",
+          "duration": "4:15"
+        },
+        {
+          "number": 4,
+          "name": "Sweeter Soul",
+          "duration": "4:09"
+        },
+        {
+          "number": 5,
+          "name": "Eternally",
+          "duration": "3:48"
+        },
+        {
+          "number": 6,
+          "name": "Take/Leave",
+          "duration": "2:40"
+        },
+        {
+          "number": 7,
           "name": "Hold Me Close",
           "duration": "3:38"
         }

@@ -1,21 +1,62 @@
 {
   "name": "Profanation",
   "id": 1748875555,
-  "albums": [],
-  "singles": [
+  "albums": [
     {
       "name": "Ultra-Noise Warfare",
       "year": "2026",
-      "release_date": "2026-08-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/e7/9d/bee79d9e-82f1-88b3-c4f8-cf58b69dda80/859744626782_cover.jpg/600x600bb.jpg",
+      "release_date": "2026-09-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/95/85/9c95857d-2be6-6ac2-50e1-5001edd72cb0/859747062686_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
+          "name": "Servile Rot",
+          "duration": "2:27"
+        },
+        {
+          "number": 2,
+          "name": "Army of Dogs",
+          "duration": "3:10"
+        },
+        {
+          "number": 3,
+          "name": "Nosebleed Razor",
+          "duration": "2:02"
+        },
+        {
+          "number": 4,
+          "name": "Realm of the Absolute",
+          "duration": "3:11"
+        },
+        {
+          "number": 5,
           "name": "Ultra-Noise Warfare",
           "duration": "3:18"
+        },
+        {
+          "number": 6,
+          "name": "Vermin",
+          "duration": "0:56"
+        },
+        {
+          "number": 7,
+          "name": "Total Stomp",
+          "duration": "3:03"
+        },
+        {
+          "number": 8,
+          "name": "World of Pain",
+          "duration": "2:53"
+        },
+        {
+          "number": 9,
+          "name": "ANTI",
+          "duration": "5:33"
         }
       ]
-    },
+    }
+  ],
+  "singles": [
     {
       "name": "Army of Dogs",
       "year": "2026",
@@ -26,6 +67,19 @@
           "number": 1,
           "name": "Army of Dogs",
           "duration": "3:10"
+        }
+      ]
+    },
+    {
+      "name": "Ultra-Noise Warfare",
+      "year": "2026",
+      "release_date": "2026-08-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/e7/9d/bee79d9e-82f1-88b3-c4f8-cf58b69dda80/859744626782_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ultra-Noise Warfare",
+          "duration": "3:18"
         }
       ]
     }

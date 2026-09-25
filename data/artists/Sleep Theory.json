@@ -122,19 +122,6 @@
       ]
     },
     {
-      "name": "Numb",
-      "year": "2023",
-      "release_date": "2023-03-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/c3/b8/b8c3b85d-b3c7-f511-3da2-42f0a012fa3e/197714057335.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Numb",
-          "duration": "3:35"
-        }
-      ]
-    },
-    {
       "name": "Bye Bye Bye",
       "year": "2026",
       "release_date": "2026-06-18",
@@ -148,15 +135,15 @@
       ]
     },
     {
-      "name": "Fallout (Reimagined)",
-      "year": "2024",
-      "release_date": "2024-02-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c3/7c/2e/c37c2e51-2550-ab70-3345-9093ef09ea1d/0045778803972.png/600x600bb.jpg",
+      "name": "Numb",
+      "year": "2023",
+      "release_date": "2023-03-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/c3/b8/b8c3b85d-b3c7-f511-3da2-42f0a012fa3e/197714057335.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Fallout (Reimagined)",
-          "duration": "4:25"
+          "name": "Numb",
+          "duration": "3:35"
         }
       ]
     },
@@ -174,10 +161,23 @@
       ]
     },
     {
+      "name": "Fallout (Reimagined)",
+      "year": "2024",
+      "release_date": "2024-02-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/5d/d8/ad5dd835-803a-f21f-9adb-62d9635d1d40/0045778803972.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fallout (Reimagined)",
+          "duration": "4:25"
+        }
+      ]
+    },
+    {
       "name": "Another Way (Reimagined)",
       "year": "2023",
       "release_date": "2023-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/46/60/2e4660e5-0429-1888-df96-bcb73797544b/197545179930.png/600x600bb.jpg",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/65/c1/9f65c191-a202-2ad3-d521-0549ac7d482c/197545179930.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
@@ -190,7 +190,7 @@
       "name": "Numb (Reimagined)",
       "year": "2023",
       "release_date": "2023-04-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/99/ff/f6/99fff6df-1ae0-23ef-c835-74e7eb46a79d/197744344870.png/600x600bb.jpg",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/8e/35/428e35f0-6157-ab5f-d42d-b4f5fca209b8/197744344870.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
@@ -249,6 +249,44 @@
           "number": 6,
           "name": "It's Over",
           "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "name": "Paper Hearts (Reimagined)",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/4e/d2/254ed211-b4cd-01b8-e861-805f609bb48e/0045778803965.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fallout (Reimagined)",
+          "duration": "4:25"
+        },
+        {
+          "number": 2,
+          "name": "Enough (Reimagined)",
+          "duration": "3:27"
+        },
+        {
+          "number": 3,
+          "name": "Another Way (Reimagined)",
+          "duration": "3:15"
+        },
+        {
+          "number": 4,
+          "name": "Gone Or Staying (Reimagined)",
+          "duration": "3:39"
+        },
+        {
+          "number": 5,
+          "name": "Numb (Reimagined)",
+          "duration": "3:36"
+        },
+        {
+          "number": 6,
+          "name": "It's Over (Reimagined)",
+          "duration": "3:57"
         }
       ]
     }

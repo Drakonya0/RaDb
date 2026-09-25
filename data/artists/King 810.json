@@ -323,6 +323,54 @@
       ]
     },
     {
+      "name": "K8 rustbelt numetal 3",
+      "year": "2026",
+      "release_date": "2026-03-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/a5/4b/c8a54b09-4743-af10-6e75-f9aeaff4b81a/199891623303_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Goofer dust",
+          "duration": "2:57"
+        },
+        {
+          "number": 2,
+          "name": "Take it on the chin",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Luck runs out",
+          "duration": "2:54"
+        },
+        {
+          "number": 4,
+          "name": "I hurt someones little girl",
+          "duration": "2:34"
+        },
+        {
+          "number": 5,
+          "name": "Blood of the covenant",
+          "duration": "3:10"
+        },
+        {
+          "number": 6,
+          "name": "Mama taught me",
+          "duration": "3:48"
+        },
+        {
+          "number": 7,
+          "name": "Hug me to the right",
+          "duration": "4:04"
+        },
+        {
+          "number": 8,
+          "name": "Wish you were here",
+          "duration": "5:29"
+        }
+      ]
+    },
+    {
       "name": "AK Concerto No. 47, 11th Movement in G Major",
       "year": "2020",
       "release_date": "2020-11-13",
@@ -382,54 +430,6 @@
           "number": 11,
           "name": "2A",
           "duration": "4:07"
-        }
-      ]
-    },
-    {
-      "name": "K8 rustbelt numetal 3",
-      "year": "2026",
-      "release_date": "2026-03-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/a5/4b/c8a54b09-4743-af10-6e75-f9aeaff4b81a/199891623303_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Goofer dust",
-          "duration": "2:57"
-        },
-        {
-          "number": 2,
-          "name": "Take it on the chin",
-          "duration": "3:38"
-        },
-        {
-          "number": 3,
-          "name": "Luck runs out",
-          "duration": "2:54"
-        },
-        {
-          "number": 4,
-          "name": "I hurt someones little girl",
-          "duration": "2:34"
-        },
-        {
-          "number": 5,
-          "name": "Blood of the covenant",
-          "duration": "3:10"
-        },
-        {
-          "number": 6,
-          "name": "Mama taught me",
-          "duration": "3:48"
-        },
-        {
-          "number": 7,
-          "name": "Hug me to the right",
-          "duration": "4:04"
-        },
-        {
-          "number": 8,
-          "name": "Wish you were here",
-          "duration": "5:29"
         }
       ]
     },
@@ -735,6 +735,19 @@
       ]
     },
     {
+      "name": "Blood Rum & Rhythm",
+      "year": "2025",
+      "release_date": "2025-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/2e/9f/432e9fcd-2102-51b4-f4f5-8d850b8882d0/199502174040_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blood Rum & Rhythm",
+          "duration": "3:36"
+        }
+      ]
+    },
+    {
       "name": "Anon (feat. Alejandro Aranda)",
       "year": "2025",
       "release_date": "2025-05-30",
@@ -757,19 +770,6 @@
           "number": 1,
           "name": "Hurry Hurry Ahura Mazda",
           "duration": "4:01"
-        }
-      ]
-    },
-    {
-      "name": "Blood Rum & Rhythm",
-      "year": "2025",
-      "release_date": "2025-08-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/2e/9f/432e9fcd-2102-51b4-f4f5-8d850b8882d0/199502174040_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Blood Rum & Rhythm",
-          "duration": "3:36"
         }
       ]
     },
@@ -826,19 +826,6 @@
       ]
     },
     {
-      "name": "LOVE KILLS",
-      "year": "2026",
-      "release_date": "2026-08-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/bc/9b/8dbc9bdc-b9a1-7c6b-163e-49f80d5ab919/881453504686_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LOVE KILLS",
-          "duration": "4:32"
-        }
-      ]
-    },
-    {
       "name": "The lotus ruin bloomed",
       "year": "2025",
       "release_date": "2025-10-10",
@@ -848,6 +835,19 @@
           "number": 1,
           "name": "The lotus ruin bloomed",
           "duration": "4:01"
+        }
+      ]
+    },
+    {
+      "name": "LOVE KILLS",
+      "year": "2026",
+      "release_date": "2026-08-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/bc/9b/8dbc9bdc-b9a1-7c6b-163e-49f80d5ab919/881453504686_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LOVE KILLS",
+          "duration": "4:32"
         }
       ]
     },

@@ -855,13 +855,6 @@
       ]
     },
     {
-      "name": "Si on te demande",
-      "year": "2018",
-      "release_date": "2018-04-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3e/e4/8d/3ee48dd9-4cda-ad69-e597-4ec0387c4ad7/00602567628002.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Sans toi",
       "year": "2013",
       "release_date": "2013-09-13",
@@ -873,6 +866,13 @@
           "duration": "2:59"
         }
       ]
+    },
+    {
+      "name": "Si on te demande",
+      "year": "2018",
+      "release_date": "2018-04-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3e/e4/8d/3ee48dd9-4cda-ad69-e597-4ec0387c4ad7/00602567628002.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "On pense à vous (feat. Amel Bent)",
@@ -914,19 +914,6 @@
       ]
     },
     {
-      "name": "Triste",
-      "year": "2025",
-      "release_date": "2025-02-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f9/85/41f98522-4b96-2476-3706-4d45e1248512/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Triste",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
       "name": "Quelle époque",
       "year": "2026",
       "release_date": "2026-04-20",
@@ -936,6 +923,19 @@
           "number": 1,
           "name": "Quelle époque",
           "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Triste",
+      "year": "2025",
+      "release_date": "2025-02-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/f9/85/41f98522-4b96-2476-3706-4d45e1248512/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Triste",
+          "duration": "3:09"
         }
       ]
     },

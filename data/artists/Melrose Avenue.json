@@ -4,15 +4,15 @@
   "albums": [],
   "singles": [
     {
-      "name": "Deep End",
-      "year": "2023",
-      "release_date": "2023-11-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/75/ae/c875aeee-246f-523a-6bac-7215e9238f84/artwork.jpg/600x600bb.jpg",
+      "name": "Drown",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/af/86/ecaf86c3-075c-fe94-5264-c0e7d5a1297b/3516.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Deep End",
-          "duration": "3:11"
+          "name": "Drown",
+          "duration": "3:55"
         }
       ]
     },
@@ -30,15 +30,15 @@
       ]
     },
     {
-      "name": "Cemetery Friend",
-      "year": "2026",
-      "release_date": "2026-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/f0/bf/92f0bf7a-2c63-03cf-fbbe-108a096153fe/3421.jpg/600x600bb.jpg",
+      "name": "Deep End",
+      "year": "2023",
+      "release_date": "2023-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/75/ae/c875aeee-246f-523a-6bac-7215e9238f84/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Cemetery Friend",
-          "duration": "2:57"
+          "name": "Deep End",
+          "duration": "3:11"
         }
       ]
     },
@@ -65,6 +65,19 @@
           "number": 1,
           "name": "Black Heart",
           "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Cemetery Friend",
+      "year": "2026",
+      "release_date": "2026-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/f0/bf/92f0bf7a-2c63-03cf-fbbe-108a096153fe/3421.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cemetery Friend",
+          "duration": "2:57"
         }
       ]
     },
@@ -108,15 +121,15 @@
       ]
     },
     {
-      "name": "This Is The End",
+      "name": "Inside Your Mind",
       "year": "2025",
-      "release_date": "2025-11-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/10/a3/9810a3f1-e39c-8fc9-3175-2f8b27d7e86c/3240.jpg/600x600bb.jpg",
+      "release_date": "2025-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/01/8e/2e018e9b-c5c3-25f2-a066-ae2ae2c97540/3193.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "This Is The End",
-          "duration": "3:28"
+          "name": "Inside Your Mind",
+          "duration": "2:59"
         }
       ]
     },
@@ -134,19 +147,6 @@
       ]
     },
     {
-      "name": "Inside Your Mind",
-      "year": "2025",
-      "release_date": "2025-10-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/01/8e/2e018e9b-c5c3-25f2-a066-ae2ae2c97540/3193.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Inside Your Mind",
-          "duration": "2:59"
-        }
-      ]
-    },
-    {
       "name": "Through Hell",
       "year": "2023",
       "release_date": "2023-05-19",
@@ -156,6 +156,19 @@
           "number": 1,
           "name": "Through Hell",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "This Is The End",
+      "year": "2025",
+      "release_date": "2025-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/10/a3/9810a3f1-e39c-8fc9-3175-2f8b27d7e86c/3240.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "This Is The End",
+          "duration": "3:28"
         }
       ]
     },
@@ -243,19 +256,6 @@
       "release_date": "2022-05-13",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1f/76/1f/1f761f37-7e77-62de-6928-dd45448e52e0/50176.jpg/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "Drown",
-      "year": "2026",
-      "release_date": "2026-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/af/86/ecaf86c3-075c-fe94-5264-c0e7d5a1297b/3516.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Drown",
-          "duration": "3:55"
-        }
-      ]
     }
   ],
   "eps": [

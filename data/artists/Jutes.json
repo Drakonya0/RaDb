@@ -444,6 +444,49 @@
       ]
     },
     {
+      "name": "Overrated",
+      "year": "2020",
+      "release_date": "2020-03-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/b8/ae/3cb8aed7-e214-0e2f-931a-af8929232b47/20UMGIM04531.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Where Are You Going?",
+          "duration": "2:21"
+        },
+        {
+          "number": 2,
+          "name": "Overrated",
+          "duration": "2:32"
+        },
+        {
+          "number": 3,
+          "name": "Everyone Knows",
+          "duration": "2:21"
+        },
+        {
+          "number": 4,
+          "name": "Sideshow",
+          "duration": "2:19"
+        },
+        {
+          "number": 5,
+          "name": "I'm Not Ready",
+          "duration": "3:01"
+        },
+        {
+          "number": 6,
+          "name": "Back to You",
+          "duration": "2:57"
+        },
+        {
+          "number": 7,
+          "name": "Start Over",
+          "duration": "2:53"
+        }
+      ]
+    },
+    {
       "name": "Sleepyhead",
       "year": "2024",
       "release_date": "2024-08-01",
@@ -488,49 +531,6 @@
           "number": 8,
           "name": "Sleepyhead (Live)",
           "duration": "3:15"
-        }
-      ]
-    },
-    {
-      "name": "Overrated",
-      "year": "2020",
-      "release_date": "2020-03-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3c/b8/ae/3cb8aed7-e214-0e2f-931a-af8929232b47/20UMGIM04531.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Where Are You Going?",
-          "duration": "2:21"
-        },
-        {
-          "number": 2,
-          "name": "Overrated",
-          "duration": "2:32"
-        },
-        {
-          "number": 3,
-          "name": "Everyone Knows",
-          "duration": "2:21"
-        },
-        {
-          "number": 4,
-          "name": "Sideshow",
-          "duration": "2:19"
-        },
-        {
-          "number": 5,
-          "name": "I'm Not Ready",
-          "duration": "3:01"
-        },
-        {
-          "number": 6,
-          "name": "Back to You",
-          "duration": "2:57"
-        },
-        {
-          "number": 7,
-          "name": "Start Over",
-          "duration": "2:53"
         }
       ]
     },
@@ -694,69 +694,6 @@
       ]
     },
     {
-      "name": "Ladybug",
-      "year": "2023",
-      "release_date": "2023-05-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/7c/d6/707cd6f9-c8fd-4b46-d5b7-c0a626b0f255/333358.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Send My Love",
-          "duration": "2:46"
-        },
-        {
-          "number": 2,
-          "name": "Punkstar (feat. Royal & the Serpent)",
-          "duration": "2:20"
-        },
-        {
-          "number": 3,
-          "name": "Ladybug",
-          "duration": "2:45"
-        },
-        {
-          "number": 4,
-          "name": "Do It To Myself",
-          "duration": "2:27"
-        },
-        {
-          "number": 5,
-          "name": "Muscle Memory",
-          "duration": "2:53"
-        },
-        {
-          "number": 6,
-          "name": "Rawdog",
-          "duration": "2:21"
-        },
-        {
-          "number": 7,
-          "name": "Quitter",
-          "duration": "2:29"
-        },
-        {
-          "number": 8,
-          "name": "Fingers",
-          "duration": "2:28"
-        },
-        {
-          "number": 9,
-          "name": "Wicked Game",
-          "duration": "2:46"
-        },
-        {
-          "number": 10,
-          "name": "Static",
-          "duration": "2:19"
-        },
-        {
-          "number": 11,
-          "name": "Spit",
-          "duration": "3:11"
-        }
-      ]
-    },
-    {
       "name": "Sleepyhead",
       "year": "2024",
       "release_date": "2024-10-18",
@@ -816,6 +753,69 @@
           "number": 11,
           "name": "Sleepyhead (Live)",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Ladybug",
+      "year": "2023",
+      "release_date": "2023-05-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/7c/d6/707cd6f9-c8fd-4b46-d5b7-c0a626b0f255/333358.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Send My Love",
+          "duration": "2:46"
+        },
+        {
+          "number": 2,
+          "name": "Punkstar (feat. Royal & the Serpent)",
+          "duration": "2:20"
+        },
+        {
+          "number": 3,
+          "name": "Ladybug",
+          "duration": "2:45"
+        },
+        {
+          "number": 4,
+          "name": "Do It To Myself",
+          "duration": "2:27"
+        },
+        {
+          "number": 5,
+          "name": "Muscle Memory",
+          "duration": "2:53"
+        },
+        {
+          "number": 6,
+          "name": "Rawdog",
+          "duration": "2:21"
+        },
+        {
+          "number": 7,
+          "name": "Quitter",
+          "duration": "2:29"
+        },
+        {
+          "number": 8,
+          "name": "Fingers",
+          "duration": "2:28"
+        },
+        {
+          "number": 9,
+          "name": "Wicked Game",
+          "duration": "2:46"
+        },
+        {
+          "number": 10,
+          "name": "Static",
+          "duration": "2:19"
+        },
+        {
+          "number": 11,
+          "name": "Spit",
+          "duration": "3:11"
         }
       ]
     },
@@ -1020,19 +1020,62 @@
           "duration": "2:53"
         }
       ]
+    },
+    {
+      "name": "Hot Trash",
+      "year": "2022",
+      "release_date": "2022-10-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/6e/74/d56e743d-2e14-13af-8424-19bb011e25eb/5ee0a64a-d004-453a-b34d-2d4c5c568952.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Out The Door",
+          "duration": "2:45"
+        },
+        {
+          "number": 2,
+          "name": "Hot Trash",
+          "duration": "2:46"
+        },
+        {
+          "number": 3,
+          "name": "Hollywood Hillbilly",
+          "duration": "2:35"
+        },
+        {
+          "number": 4,
+          "name": "Genie",
+          "duration": "2:42"
+        },
+        {
+          "number": 5,
+          "name": "Who Do You Think You Are",
+          "duration": "2:15"
+        },
+        {
+          "number": 6,
+          "name": "Best Kept Secret",
+          "duration": "2:28"
+        },
+        {
+          "number": 7,
+          "name": "Beyond Repair",
+          "duration": "3:21"
+        }
+      ]
     }
   ],
   "singles": [
     {
-      "name": "Disassociate",
+      "name": "Love Psychosis",
       "year": "2026",
-      "release_date": "2026-03-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/21/6c/a8216c71-8fb7-0450-64d2-5ad97f7c082e/1021675.jpg/600x600bb.jpg",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/51/06/9d51068b-d876-6d7f-81bd-689a472e2375/8721554400406.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Disassociate",
-          "duration": "4:34"
+          "name": "Love Psychosis",
+          "duration": "4:09"
         }
       ]
     },
@@ -1050,6 +1093,19 @@
       ]
     },
     {
+      "name": "Disassociate",
+      "year": "2026",
+      "release_date": "2026-03-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/21/6c/a8216c71-8fb7-0450-64d2-5ad97f7c082e/1021675.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Disassociate",
+          "duration": "4:34"
+        }
+      ]
+    },
+    {
       "name": "It Takes Two",
       "year": "2025",
       "release_date": "2025-11-12",
@@ -1059,32 +1115,6 @@
           "number": 1,
           "name": "It Takes Two",
           "duration": "3:09"
-        }
-      ]
-    },
-    {
-      "name": "Sleepyhead",
-      "year": "2024",
-      "release_date": "2024-03-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/ae/c2/ddaec232-0764-0b65-7455-3d90ce07b149/247925.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sleepyhead",
-          "duration": "3:12"
-        }
-      ]
-    },
-    {
-      "name": "Parasite",
-      "year": "2025",
-      "release_date": "2025-09-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/e1/87/72e18787-b3d3-4255-8637-239f9d95a949/890441.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Parasite",
-          "duration": "2:50"
         }
       ]
     },
@@ -1103,6 +1133,32 @@
           "number": 2,
           "name": "Fly on the Wall",
           "duration": "2:47"
+        }
+      ]
+    },
+    {
+      "name": "Parasite",
+      "year": "2025",
+      "release_date": "2025-09-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/e1/87/72e18787-b3d3-4255-8637-239f9d95a949/890441.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Parasite",
+          "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "name": "Sleepyhead",
+      "year": "2024",
+      "release_date": "2024-03-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/ae/c2/ddaec232-0764-0b65-7455-3d90ce07b149/247925.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sleepyhead",
+          "duration": "3:12"
         }
       ]
     },
@@ -1156,6 +1212,19 @@
       ]
     },
     {
+      "name": "ROT",
+      "year": "2024",
+      "release_date": "2024-12-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/e2/81/7be28185-2fca-60fd-0ef3-6c8adbc67b6d/776.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ROT",
+          "duration": "2:39"
+        }
+      ]
+    },
+    {
       "name": "I Can Fix You",
       "year": "2025",
       "release_date": "2025-10-15",
@@ -1182,6 +1251,24 @@
       ]
     },
     {
+      "name": "Mannequin / Goodnight (Interlude) <3",
+      "year": "2026",
+      "release_date": "2026-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/12/97/d9129710-5b2c-d1ef-7a78-6dc9adfedfc6/823375149583_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mannequin",
+          "duration": "2:53"
+        },
+        {
+          "number": 2,
+          "name": "Goodnight (Interlude) <3",
+          "duration": "2:12"
+        }
+      ]
+    },
+    {
       "name": "Punkstar",
       "year": "2023",
       "release_date": "2023-03-02",
@@ -1200,15 +1287,54 @@
       ]
     },
     {
-      "name": "ROT",
-      "year": "2024",
-      "release_date": "2024-12-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/e2/81/7be28185-2fca-60fd-0ef3-6c8adbc67b6d/776.jpg/600x600bb.jpg",
+      "name": "When You're Around",
+      "year": "2020",
+      "release_date": "2020-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/64/e2/13/64e213dc-b3cc-6dd0-af90-faafd8795ded/20UMGIM41394.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "ROT",
-          "duration": "2:39"
+          "name": "When You're Around",
+          "duration": "3:08"
+        }
+      ]
+    },
+    {
+      "name": "Day Dreaming",
+      "year": "2021",
+      "release_date": "2021-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e1/07/8f/e1078fcc-23f6-9412-0cc9-10e15352b9bf/193436261135_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Day Dreaming",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Fvck Your Boyfriend",
+      "year": "2021",
+      "release_date": "2021-04-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/98/2b/6a982beb-eed0-19a6-c920-6e3f9a9a0968/193436258616_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fvck Your Boyfriend",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Frozen",
+      "year": "2022",
+      "release_date": "2022-02-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/a3/23/6da323e7-ebe9-4449-cb2d-689dbd25ad62/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Frozen",
+          "duration": "2:48"
         }
       ]
     },
@@ -1222,6 +1348,32 @@
           "number": 1,
           "name": "Chloe",
           "duration": "3:25"
+        }
+      ]
+    },
+    {
+      "name": "Here We Go Again",
+      "year": "2021",
+      "release_date": "2021-07-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/df/bb/ad/dfbbad27-9e98-c7a5-80d1-91ef54ea27aa/843357196008_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Here We Go Again",
+          "duration": "2:36"
+        }
+      ]
+    },
+    {
+      "name": "Riptide",
+      "year": "2021",
+      "release_date": "2021-07-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6b/4c/eb/6b4ceb08-37ee-cc49-b72b-c4aaacc5aec9/193436264662_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Riptide",
+          "duration": "2:46"
         }
       ]
     },
@@ -1275,20 +1427,54 @@
       ]
     },
     {
-      "name": "Mannequin / Goodnight (Interlude) <3",
+      "name": "White Butterflies",
       "year": "2026",
-      "release_date": "2026-05-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/12/97/d9129710-5b2c-d1ef-7a78-6dc9adfedfc6/823375149583_Cover.jpg/600x600bb.jpg",
+      "release_date": "2026-06-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/0a/c0/4f0ac08b-fbad-1305-a558-4779f40b9acd/823375198444_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Mannequin",
-          "duration": "2:53"
-        },
+          "name": "White Butterflies",
+          "duration": "3:02"
+        }
+      ]
+    },
+    {
+      "name": "Painkiller",
+      "year": "2021",
+      "release_date": "2021-05-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2e/6e/2c/2e6e2c19-d62d-01b9-986f-f50abec2419c/QRWd3rCMT3Wj0LQ2pOmK_output-onlinejpgtools_14.jpg/600x600bb.jpg",
+      "tracks": [
         {
-          "number": 2,
-          "name": "Goodnight (Interlude) <3",
-          "duration": "2:12"
+          "number": 1,
+          "name": "Painkiller",
+          "duration": "2:18"
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "year": "2021",
+      "release_date": "2021-04-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7c/b0/31/7cb031ae-d79e-490c-7597-1172b57b2caa/193436257824_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "California",
+          "duration": "2:05"
+        }
+      ]
+    },
+    {
+      "name": "Careful What You Wish For",
+      "year": "2021",
+      "release_date": "2021-04-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/84/22/ff842289-671f-8680-da42-3827dcaf3591/193436257077_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Careful What You Wish For",
+          "duration": "3:01"
         }
       ]
     },
@@ -1319,15 +1505,41 @@
       ]
     },
     {
-      "name": "When You're Around",
+      "name": "Girls",
       "year": "2020",
-      "release_date": "2020-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/64/e2/13/64e213dc-b3cc-6dd0-af90-faafd8795ded/20UMGIM41394.rgb.jpg/600x600bb.jpg",
+      "release_date": "2020-05-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3f/ef/6a/3fef6adf-1c7b-79fd-e9f0-db79ac70e8e8/20UMGIM30491.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "When You're Around",
-          "duration": "3:08"
+          "name": "Girls",
+          "duration": "2:20"
+        }
+      ]
+    },
+    {
+      "name": "Either Way",
+      "year": "2017",
+      "release_date": "2017-04-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e1/e6/38/e1e63899-cd90-40c4-fb33-7e89566aa7f3/9451.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Either Way",
+          "duration": "2:36"
+        }
+      ]
+    },
+    {
+      "name": "Vixen",
+      "year": "2017",
+      "release_date": "2017-06-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/93/58/c7/9358c70d-fa47-332b-a9cc-f645cdac8e9f/9459.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Vixen",
+          "duration": "2:54"
         }
       ]
     },
@@ -1354,6 +1566,32 @@
           "number": 1,
           "name": "Give You Up",
           "duration": "4:03"
+        }
+      ]
+    },
+    {
+      "name": "See You In Hell",
+      "year": "2021",
+      "release_date": "2021-08-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/a6/23/d5a62389-ef26-f428-6514-e208522fbe0a/843357198965_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "See You In Hell",
+          "duration": "2:18"
+        }
+      ]
+    },
+    {
+      "name": "You Hate What I’ve Become",
+      "year": "2019",
+      "release_date": "2019-03-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/74/0a/60740afb-ea50-a387-547c-4ca6dc08b2b8/10541.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You Hate What I’ve Become",
+          "duration": "2:45"
         }
       ]
     },
@@ -1615,19 +1853,6 @@
       ]
     },
     {
-      "name": "White Butterflies",
-      "year": "2026",
-      "release_date": "2026-06-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/0a/c0/4f0ac08b-fbad-1305-a558-4779f40b9acd/823375198444_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "White Butterflies",
-          "duration": "3:02"
-        }
-      ]
-    },
-    {
       "name": "Blink Twice",
       "year": "2026",
       "release_date": "2026-07-15",
@@ -1654,71 +1879,6 @@
       ]
     },
     {
-      "name": "Day Dreaming",
-      "year": "2021",
-      "release_date": "2021-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e1/07/8f/e1078fcc-23f6-9412-0cc9-10e15352b9bf/193436261135_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Day Dreaming",
-          "duration": "2:55"
-        }
-      ]
-    },
-    {
-      "name": "Painkiller",
-      "year": "2021",
-      "release_date": "2021-05-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2e/6e/2c/2e6e2c19-d62d-01b9-986f-f50abec2419c/QRWd3rCMT3Wj0LQ2pOmK_output-onlinejpgtools_14.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Painkiller",
-          "duration": "2:18"
-        }
-      ]
-    },
-    {
-      "name": "Fvck Your Boyfriend",
-      "year": "2021",
-      "release_date": "2021-04-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/98/2b/6a982beb-eed0-19a6-c920-6e3f9a9a0968/193436258616_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fvck Your Boyfriend",
-          "duration": "2:55"
-        }
-      ]
-    },
-    {
-      "name": "California",
-      "year": "2021",
-      "release_date": "2021-04-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/7c/b0/31/7cb031ae-d79e-490c-7597-1172b57b2caa/193436257824_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "California",
-          "duration": "2:05"
-        }
-      ]
-    },
-    {
-      "name": "Careful What You Wish For",
-      "year": "2021",
-      "release_date": "2021-04-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ff/84/22/ff842289-671f-8680-da42-3827dcaf3591/193436257077_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Careful What You Wish For",
-          "duration": "3:01"
-        }
-      ]
-    },
-    {
       "name": "Smile",
       "year": "2020",
       "release_date": "2020-08-21",
@@ -1728,19 +1888,6 @@
           "number": 1,
           "name": "Smile",
           "duration": "2:29"
-        }
-      ]
-    },
-    {
-      "name": "Frozen",
-      "year": "2022",
-      "release_date": "2022-02-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/a3/23/6da323e7-ebe9-4449-cb2d-689dbd25ad62/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Frozen",
-          "duration": "2:48"
         }
       ]
     },
@@ -1823,19 +1970,6 @@
       ]
     },
     {
-      "name": "Girls",
-      "year": "2020",
-      "release_date": "2020-05-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/3f/ef/6a/3fef6adf-1c7b-79fd-e9f0-db79ac70e8e8/20UMGIM30491.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Girls",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
       "name": "Forget It",
       "year": "2019",
       "release_date": "2019-01-18",
@@ -1849,19 +1983,6 @@
       ]
     },
     {
-      "name": "Either Way",
-      "year": "2017",
-      "release_date": "2017-04-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/e1/e6/38/e1e63899-cd90-40c4-fb33-7e89566aa7f3/9451.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Either Way",
-          "duration": "2:36"
-        }
-      ]
-    },
-    {
       "name": "I Don’t Need Ya",
       "year": "2016",
       "release_date": "2016-07-29",
@@ -1871,32 +1992,6 @@
           "number": 1,
           "name": "I Don’t Need Ya",
           "duration": "3:36"
-        }
-      ]
-    },
-    {
-      "name": "Vixen",
-      "year": "2017",
-      "release_date": "2017-06-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/93/58/c7/9358c70d-fa47-332b-a9cc-f645cdac8e9f/9459.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Vixen",
-          "duration": "2:54"
-        }
-      ]
-    },
-    {
-      "name": "Riptide",
-      "year": "2021",
-      "release_date": "2021-07-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6b/4c/eb/6b4ceb08-37ee-cc49-b72b-c4aaacc5aec9/193436264662_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Riptide",
-          "duration": "2:46"
         }
       ]
     },
@@ -1923,6 +2018,160 @@
           "number": 1,
           "name": "Good Old Days",
           "duration": "3:25"
+        }
+      ]
+    },
+    {
+      "name": "Walk on Me",
+      "year": "2018",
+      "release_date": "2018-08-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dc/f7/8d/dcf78dd5-dcdb-f657-aa01-092596cf9a23/9460.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Walk on Me",
+          "duration": "2:31"
+        }
+      ]
+    },
+    {
+      "name": "Ballerina",
+      "year": "2021",
+      "release_date": "2021-03-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/af/73/afaf73ad-a471-5de9-1d9a-d330cdb36edd/193436254724_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ballerina",
+          "duration": "2:07"
+        }
+      ]
+    },
+    {
+      "name": "BAD",
+      "year": "2021",
+      "release_date": "2021-11-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/14/05/a6140599-1c49-6dc9-f325-ae0bad63ef9e/190296387906.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "In My Dreams (feat. Noey)",
+      "year": "2016",
+      "release_date": "2016-09-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/7f/ad/77/7fad771a-6682-f0ee-06df-9c47ee532704/9455.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "In My Dreams (feat. Noey)",
+          "duration": "3:51"
+        }
+      ]
+    },
+    {
+      "name": "Extra Extra",
+      "year": "2021",
+      "release_date": "2021-05-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/72/bd/2e/72bd2e15-cb68-97bc-5192-c1921309fe34/193436260305_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Extra Extra",
+          "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Wiped Out",
+      "year": "2021",
+      "release_date": "2021-06-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/f6/2d/0ff62d6b-9232-b098-9114-714894e32264/193436263238_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wiped Out",
+          "duration": "2:16"
+        }
+      ]
+    },
+    {
+      "name": "ESCAPE (feat. Jutes)",
+      "year": "2016",
+      "release_date": "2016-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/1d/09/ce1d0969-d697-22ee-3361-f0794bf58a92/1041205.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ESCAPE (feat. Jutes)",
+          "duration": "3:28"
+        }
+      ]
+    },
+    {
+      "name": "Best Kept Secret",
+      "year": "2022",
+      "release_date": "2022-10-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2c/1c/92/2c1c9249-a012-9534-f731-ba297773983f/4902.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Best Kept Secret",
+          "duration": "2:28"
+        },
+        {
+          "number": 2,
+          "name": "Out the Door",
+          "duration": "2:45"
+        },
+        {
+          "number": 3,
+          "name": "Hollywood Hillbilly",
+          "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Fingers",
+      "year": "2023",
+      "release_date": "2023-01-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/8e/a2/8a8ea2b2-57b7-6d4f-6153-bf7a13767fa6/9c15e655-39ee-4795-ad40-e55a7f83f2a8.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fingers",
+          "duration": "2:26"
+        }
+      ]
+    },
+    {
+      "name": "浪費時間",
+      "year": "2021",
+      "release_date": "2021-12-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/62/b7/9d62b784-2d79-f058-8332-2249d7bfec97/190296290855.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Cali",
+      "year": "2016",
+      "release_date": "2016-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/a0/ee/aea0ee84-ed73-23ef-56e6-bcdaa8ca9897/9447.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cali",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "Toyota",
+      "year": "2016",
+      "release_date": "2016-11-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/00/3a/39/003a392a-ac75-a1f9-81f5-111d7d032656/9458.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Toyota",
+          "duration": "3:08"
         }
       ]
     },
@@ -1984,6 +2233,29 @@
       ]
     },
     {
+      "name": "Quitter",
+      "year": "2023",
+      "release_date": "2023-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/e8/37/9ae8371c-c05f-41b4-fbbc-413e409d5526/55a838a2-2ce3-4e97-8bd8-1a69d55b7678.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Quitter",
+          "duration": "2:27"
+        },
+        {
+          "number": 2,
+          "name": "Punkstar (feat. Royal & the Serpent)",
+          "duration": "2:20"
+        },
+        {
+          "number": 3,
+          "name": "Fingers",
+          "duration": "2:26"
+        }
+      ]
+    },
+    {
       "name": "Pari$ (feat. Jutes)",
       "year": "2017",
       "release_date": "2017-11-10",
@@ -1993,19 +2265,6 @@
           "number": 1,
           "name": "Pari$ (feat. Jutes)",
           "duration": "3:24"
-        }
-      ]
-    },
-    {
-      "name": "Here We Go Again",
-      "year": "2021",
-      "release_date": "2021-07-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/df/bb/ad/dfbbad27-9e98-c7a5-80d1-91ef54ea27aa/843357196008_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Here We Go Again",
-          "duration": "2:36"
         }
       ]
     },
@@ -2023,19 +2282,6 @@
       ]
     },
     {
-      "name": "Love Psychosis",
-      "year": "2026",
-      "release_date": "2026-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/51/06/9d51068b-d876-6d7f-81bd-689a472e2375/8721554400406.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Love Psychosis",
-          "duration": "4:09"
-        }
-      ]
-    },
-    {
       "name": "Bad Dream",
       "year": "2020",
       "release_date": "2020-08-13",
@@ -2045,6 +2291,29 @@
           "number": 1,
           "name": "Bad Dream",
           "duration": "2:25"
+        }
+      ]
+    },
+    {
+      "name": "Best Kept Secret",
+      "year": "2022",
+      "release_date": "2022-10-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/e6/97/77e697a7-05d9-96b2-f331-547199a89fb1/a55a6ad9-4445-4f68-847f-055780a07564.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Best Kept Secret",
+          "duration": "2:28"
+        },
+        {
+          "number": 2,
+          "name": "Out The Door",
+          "duration": "2:45"
+        },
+        {
+          "number": 3,
+          "name": "Hollywood Hillbilly",
+          "duration": "2:35"
         }
       ]
     },
@@ -2062,32 +2331,6 @@
       ]
     },
     {
-      "name": "You Hate What I’ve Become",
-      "year": "2019",
-      "release_date": "2019-03-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/74/0a/60740afb-ea50-a387-547c-4ca6dc08b2b8/10541.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You Hate What I’ve Become",
-          "duration": "2:45"
-        }
-      ]
-    },
-    {
-      "name": "Walk on Me",
-      "year": "2018",
-      "release_date": "2018-08-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dc/f7/8d/dcf78dd5-dcdb-f657-aa01-092596cf9a23/9460.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Walk on Me",
-          "duration": "2:31"
-        }
-      ]
-    },
-    {
       "name": "Say It First",
       "year": "2020",
       "release_date": "2020-09-10",
@@ -2097,19 +2340,6 @@
           "number": 1,
           "name": "Say It First",
           "duration": "2:37"
-        }
-      ]
-    },
-    {
-      "name": "Ballerina",
-      "year": "2021",
-      "release_date": "2021-03-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/af/af/73/afaf73ad-a471-5de9-1d9a-d330cdb36edd/193436254724_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ballerina",
-          "duration": "2:07"
         }
       ]
     },
@@ -2127,13 +2357,6 @@
       ]
     },
     {
-      "name": "BAD",
-      "year": "2021",
-      "release_date": "2021-11-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a6/14/05/a6140599-1c49-6dc9-f325-ae0bad63ef9e/190296387906.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Couch Surfin",
       "year": "2021",
       "release_date": "2021-06-04",
@@ -2147,41 +2370,15 @@
       ]
     },
     {
-      "name": "In My Dreams (feat. Noey)",
-      "year": "2016",
-      "release_date": "2016-09-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/7f/ad/77/7fad771a-6682-f0ee-06df-9c47ee532704/9455.jpg/600x600bb.jpg",
+      "name": "Out The Door",
+      "year": "2022",
+      "release_date": "2022-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/db/34/46db3446-fee3-50fc-8155-5f196450c7e6/11c9b858-6670-4f36-9528-1226ab4e9aee.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "In My Dreams (feat. Noey)",
-          "duration": "3:51"
-        }
-      ]
-    },
-    {
-      "name": "Extra Extra",
-      "year": "2021",
-      "release_date": "2021-05-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/72/bd/2e/72bd2e15-cb68-97bc-5192-c1921309fe34/193436260305_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Extra Extra",
-          "duration": "2:35"
-        }
-      ]
-    },
-    {
-      "name": "See You In Hell",
-      "year": "2021",
-      "release_date": "2021-08-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/a6/23/d5a62389-ef26-f428-6514-e208522fbe0a/843357198965_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "See You In Hell",
-          "duration": "2:18"
+          "name": "Out The Door",
+          "duration": "2:45"
         }
       ]
     },
@@ -2212,19 +2409,6 @@
       ]
     },
     {
-      "name": "Wiped Out",
-      "year": "2021",
-      "release_date": "2021-06-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0f/f6/2d/0ff62d6b-9232-b098-9114-714894e32264/193436263238_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wiped Out",
-          "duration": "2:16"
-        }
-      ]
-    },
-    {
       "name": "Funeral (feat. Jutes)",
       "year": "2021",
       "release_date": "2021-10-22",
@@ -2251,47 +2435,22 @@
       ]
     },
     {
-      "name": "ESCAPE (feat. Jutes)",
-      "year": "2016",
-      "release_date": "2016-09-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/1d/09/ce1d0969-d697-22ee-3361-f0794bf58a92/1041205.jpg/600x600bb.jpg",
+      "name": "Punkstar (feat. Royal & the Serpent)",
+      "year": "2023",
+      "release_date": "2023-03-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/2b/98/1d2b9824-d718-1db4-2f24-323c24fc6d50/439bff18-16e4-4d3f-9914-9aecf334120a.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "ESCAPE (feat. Jutes)",
-          "duration": "3:28"
-        }
-      ]
-    },
-    {
-      "name": "Best Kept Secret",
-      "year": "2022",
-      "release_date": "2022-10-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2c/1c/92/2c1c9249-a012-9534-f731-ba297773983f/4902.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Best Kept Secret",
-          "duration": "2:28"
+          "name": "Punkstar (feat. Royal & the Serpent)",
+          "duration": "2:20"
         },
         {
           "number": 2,
-          "name": "Out the Door",
-          "duration": "2:45"
-        },
-        {
-          "number": 3,
-          "name": "Hollywood Hillbilly",
-          "duration": "2:35"
+          "name": "Fingers",
+          "duration": "2:26"
         }
       ]
-    },
-    {
-      "name": "浪費時間",
-      "year": "2021",
-      "release_date": "2021-12-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9d/62/b7/9d62b784-2d79-f058-8332-2249d7bfec97/190296290855.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "REGARDLESS (feat. Jutes)",
@@ -2303,32 +2462,6 @@
           "number": 1,
           "name": "REGARDLESS (feat. Jutes)",
           "duration": "3:13"
-        }
-      ]
-    },
-    {
-      "name": "Cali",
-      "year": "2016",
-      "release_date": "2016-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ae/a0/ee/aea0ee84-ed73-23ef-56e6-bcdaa8ca9897/9447.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cali",
-          "duration": "3:45"
-        }
-      ]
-    },
-    {
-      "name": "Toyota",
-      "year": "2016",
-      "release_date": "2016-11-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/00/3a/39/003a392a-ac75-a1f9-81f5-111d7d032656/9458.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Toyota",
-          "duration": "3:08"
         }
       ]
     }
@@ -2397,6 +2530,34 @@
           "number": 6,
           "name": "The End",
           "duration": "2:52"
+        }
+      ]
+    },
+    {
+      "name": "Hot Trash",
+      "year": "2022",
+      "release_date": "2022-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/d0/e4/ccd0e4a8-3f51-4ad0-4199-8f7551e98936/f0e8d518-bacc-4e34-8b5b-488bb373dea6.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hot Trash",
+          "duration": "2:46"
+        },
+        {
+          "number": 2,
+          "name": "Best Kept Secret",
+          "duration": "2:28"
+        },
+        {
+          "number": 3,
+          "name": "Out The Door",
+          "duration": "2:45"
+        },
+        {
+          "number": 4,
+          "name": "Hollywood Hillbilly",
+          "duration": "2:35"
         }
       ]
     },

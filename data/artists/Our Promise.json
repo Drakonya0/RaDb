@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Panic Waves",
-      "year": "2023",
-      "release_date": "2023-02-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/07/15/93/07159345-28b7-ab75-7524-b27277882ecb/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Panic Waves",
-          "duration": "4:07"
-        }
-      ]
-    },
-    {
       "name": "Spite",
       "year": "2026",
       "release_date": "2026-09-11",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "Spite",
           "duration": "4:03"
+        }
+      ]
+    },
+    {
+      "name": "Panic Waves",
+      "year": "2023",
+      "release_date": "2023-02-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/07/15/93/07159345-28b7-ab75-7524-b27277882ecb/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Panic Waves",
+          "duration": "4:07"
         }
       ]
     },
@@ -160,19 +160,6 @@
       ]
     },
     {
-      "name": "Losing You",
-      "year": "2022",
-      "release_date": "2022-05-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/30/97/6e/30976ec8-5e98-3dae-384c-8a01473d1e52/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Losing You",
-          "duration": "3:18"
-        }
-      ]
-    },
-    {
       "name": "Watch The World Collapse",
       "year": "2022",
       "release_date": "2022-12-02",
@@ -182,6 +169,19 @@
           "number": 1,
           "name": "Watch The World Collapse",
           "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "Losing You",
+      "year": "2022",
+      "release_date": "2022-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/30/97/6e/30976ec8-5e98-3dae-384c-8a01473d1e52/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Losing You",
+          "duration": "3:18"
         }
       ]
     }

@@ -1114,59 +1114,6 @@
       ]
     },
     {
-      "name": "Positif",
-      "year": "1984",
-      "release_date": "1984-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/a9/f0/5da9f08c-fe52-1dbe-2323-65ef6688a799/886447882641.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Envole-moi",
-          "duration": "5:06"
-        },
-        {
-          "number": 2,
-          "name": "Nous ne nous parlerons pas",
-          "duration": "4:24"
-        },
-        {
-          "number": 3,
-          "name": "Plus fort",
-          "duration": "3:51"
-        },
-        {
-          "number": 4,
-          "name": "Petite fille",
-          "duration": "4:30"
-        },
-        {
-          "number": 5,
-          "name": "Dors bébé, dors",
-          "duration": "3:26"
-        },
-        {
-          "number": 6,
-          "name": "Je chante pour ça",
-          "duration": "4:15"
-        },
-        {
-          "number": 7,
-          "name": "Encore un matin",
-          "duration": "4:11"
-        },
-        {
-          "number": 8,
-          "name": "Long Is the Road (Américain)",
-          "duration": "4:46"
-        },
-        {
-          "number": 9,
-          "name": "Ton autre chemin",
-          "duration": "7:22"
-        }
-      ]
-    },
-    {
       "name": "Un tour ensemble (Live)",
       "year": "2003",
       "release_date": "2003-06-02",
@@ -1281,6 +1228,59 @@
           "number": 22,
           "name": "Puisque tu pars (Live Un tour ensemble 2002)",
           "duration": "7:25"
+        }
+      ]
+    },
+    {
+      "name": "Positif",
+      "year": "1984",
+      "release_date": "1984-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/a9/f0/5da9f08c-fe52-1dbe-2323-65ef6688a799/886447882641.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Envole-moi",
+          "duration": "5:06"
+        },
+        {
+          "number": 2,
+          "name": "Nous ne nous parlerons pas",
+          "duration": "4:24"
+        },
+        {
+          "number": 3,
+          "name": "Plus fort",
+          "duration": "3:51"
+        },
+        {
+          "number": 4,
+          "name": "Petite fille",
+          "duration": "4:30"
+        },
+        {
+          "number": 5,
+          "name": "Dors bébé, dors",
+          "duration": "3:26"
+        },
+        {
+          "number": 6,
+          "name": "Je chante pour ça",
+          "duration": "4:15"
+        },
+        {
+          "number": 7,
+          "name": "Encore un matin",
+          "duration": "4:11"
+        },
+        {
+          "number": 8,
+          "name": "Long Is the Road (Américain)",
+          "duration": "4:46"
+        },
+        {
+          "number": 9,
+          "name": "Ton autre chemin",
+          "duration": "7:22"
         }
       ]
     },
@@ -2325,8 +2325,8 @@
     },
     {
       "name": "Des vies",
-      "year": "1993",
-      "release_date": "1993-01-01",
+      "year": "1994",
+      "release_date": "1994-01-01",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/38/ef/0338efa1-b52a-da6c-be86-0d0c0da8e0fd/196874524565.jpg/600x600bb.jpg",
       "tracks": [
         {
@@ -2336,7 +2336,7 @@
         },
         {
           "number": 2,
-          "name": "Des vies (Version intrumentale)",
+          "name": "Des vies (Version instrumentale)",
           "duration": "4:24"
         }
       ]

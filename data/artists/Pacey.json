@@ -4,6 +4,24 @@
   "albums": [],
   "singles": [
     {
+      "name": "say yes to heaven - sped up",
+      "year": "2023",
+      "release_date": "2023-07-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/c0/c9/46c0c90e-da62-5841-51fe-3f6a8e8d2d8a/5063341979515_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "say yes to heaven - sped up",
+          "duration": "2:51"
+        },
+        {
+          "number": 2,
+          "name": "Say Yes To Heaven",
+          "duration": "3:25"
+        }
+      ]
+    },
+    {
       "name": "unholy - sped up",
       "year": "2022",
       "release_date": "2022-10-10",
@@ -95,19 +113,6 @@
       ]
     },
     {
-      "name": "iris (sped up)",
-      "year": "2025",
-      "release_date": "2025-01-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/3f/08/1e3f0800-99a4-30b6-68e6-6c1629f97a10/5063642054799_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "iris (sped up)",
-          "duration": "4:02"
-        }
-      ]
-    },
-    {
       "name": "nights like this (sped up)",
       "year": "2024",
       "release_date": "2024-09-20",
@@ -117,6 +122,19 @@
           "number": 1,
           "name": "nights like this (sped up)",
           "duration": "1:14"
+        }
+      ]
+    },
+    {
+      "name": "iris (sped up)",
+      "year": "2025",
+      "release_date": "2025-01-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/3f/08/1e3f0800-99a4-30b6-68e6-6c1629f97a10/5063642054799_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "iris (sped up)",
+          "duration": "4:02"
         }
       ]
     },
@@ -893,19 +911,6 @@
       ]
     },
     {
-      "name": "my bubble gum (sped up)",
-      "year": "2026",
-      "release_date": "2026-05-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/cc/bc/88ccbc45-abcf-3398-b549-9f98c3fa35f8/5063959335055_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "my bubble gum (sped up)",
-          "duration": "3:21"
-        }
-      ]
-    },
-    {
       "name": "Perfect (Sped Up)",
       "year": "2024",
       "release_date": "2024-05-03",
@@ -1592,14 +1597,14 @@
       ]
     },
     {
-      "name": "dreams (sped up)",
+      "name": "Dreams (Sped Up)",
       "year": "2026",
       "release_date": "2026-09-18",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/20/43/cc2043e1-5099-7a65-3f6b-f124ddc22e07/5064042575488_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "dreams (sped up)",
+          "name": "Dreams (Sped Up)",
           "duration": "2:49"
         }
       ]

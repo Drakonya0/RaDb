@@ -682,6 +682,79 @@
       ]
     },
     {
+      "name": "OPHANIM",
+      "year": "2026",
+      "release_date": "2026-01-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/aa/d6/39aad6c7-596e-7aa6-fa0a-9ab794a81bf4/093624823650.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "THE ONE (FEAT. PHARRELL WILLIAMS)",
+          "duration": "3:06"
+        },
+        {
+          "number": 2,
+          "name": "ANYWHERE (FEAT. TORI KELLY)",
+          "duration": "3:23"
+        },
+        {
+          "number": 3,
+          "name": "BUSINESS (FEAT. JOHN LEGEND)",
+          "duration": "5:03"
+        },
+        {
+          "number": 4,
+          "name": "MIRACLE WORKER",
+          "duration": "3:47"
+        },
+        {
+          "number": 5,
+          "name": "ARMOR (FEAT. ZACARDI CORTEZ)",
+          "duration": "4:19"
+        },
+        {
+          "number": 6,
+          "name": "I FORGIVE YOU (FEAT. CEELO GREEN & QUAVO)",
+          "duration": "3:22"
+        },
+        {
+          "number": 7,
+          "name": "BOUNCE",
+          "duration": "2:37"
+        },
+        {
+          "number": 8,
+          "name": "FAVOR",
+          "duration": "4:32"
+        },
+        {
+          "number": 9,
+          "name": "ARE YOU READY?",
+          "duration": "3:47"
+        },
+        {
+          "number": 10,
+          "name": "ANGELS",
+          "duration": "3:51"
+        },
+        {
+          "number": 11,
+          "name": "WON'T HE DO IT? (FEAT. TEDDY SWIMS)",
+          "duration": "3:17"
+        },
+        {
+          "number": 12,
+          "name": "OK TO FALL (FEAT. ZACARDI CORTEZ)",
+          "duration": "3:56"
+        },
+        {
+          "number": 13,
+          "name": "REBORN",
+          "duration": "3:42"
+        }
+      ]
+    },
+    {
       "name": "In My Mind",
       "year": "2006",
       "release_date": "2006-01-01",
@@ -761,79 +834,6 @@
           "number": 15,
           "name": "Show You How to Hustle",
           "duration": "4:14"
-        }
-      ]
-    },
-    {
-      "name": "OPHANIM",
-      "year": "2026",
-      "release_date": "2026-01-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/aa/d6/39aad6c7-596e-7aa6-fa0a-9ab794a81bf4/093624823650.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "THE ONE (FEAT. PHARRELL WILLIAMS)",
-          "duration": "3:06"
-        },
-        {
-          "number": 2,
-          "name": "ANYWHERE (FEAT. TORI KELLY)",
-          "duration": "3:23"
-        },
-        {
-          "number": 3,
-          "name": "BUSINESS (FEAT. JOHN LEGEND)",
-          "duration": "5:03"
-        },
-        {
-          "number": 4,
-          "name": "MIRACLE WORKER",
-          "duration": "3:47"
-        },
-        {
-          "number": 5,
-          "name": "ARMOR (FEAT. ZACARDI CORTEZ)",
-          "duration": "4:19"
-        },
-        {
-          "number": 6,
-          "name": "I FORGIVE YOU (FEAT. CEELO GREEN & QUAVO)",
-          "duration": "3:22"
-        },
-        {
-          "number": 7,
-          "name": "BOUNCE",
-          "duration": "2:37"
-        },
-        {
-          "number": 8,
-          "name": "FAVOR",
-          "duration": "4:32"
-        },
-        {
-          "number": 9,
-          "name": "ARE YOU READY?",
-          "duration": "3:47"
-        },
-        {
-          "number": 10,
-          "name": "ANGELS",
-          "duration": "3:51"
-        },
-        {
-          "number": 11,
-          "name": "WON'T HE DO IT? (FEAT. TEDDY SWIMS)",
-          "duration": "3:17"
-        },
-        {
-          "number": 12,
-          "name": "OK TO FALL (FEAT. ZACARDI CORTEZ)",
-          "duration": "3:56"
-        },
-        {
-          "number": 13,
-          "name": "REBORN",
-          "duration": "3:42"
         }
       ]
     },
@@ -1207,19 +1207,6 @@
       ]
     },
     {
-      "name": "NO MÁS (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
-      "year": "2022",
-      "release_date": "2022-07-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/f4/4a/3cf44a54-f7bf-c407-c909-0e4d6dc18e8d/5054197203619.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NO MÁS (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
-          "duration": "3:16"
-        }
-      ]
-    },
-    {
       "name": "Doctor (Work It Out)",
       "year": "2024",
       "release_date": "2024-03-01",
@@ -1229,6 +1216,19 @@
           "number": 1,
           "name": "Doctor (Work It Out)",
           "duration": "3:02"
+        }
+      ]
+    },
+    {
+      "name": "NO MÁS (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
+      "year": "2022",
+      "release_date": "2022-07-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3c/f4/4a/3cf44a54-f7bf-c407-c909-0e4d6dc18e8d/5054197203619.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NO MÁS (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
+          "duration": "3:16"
         }
       ]
     },
@@ -1303,19 +1303,6 @@
       ]
     },
     {
-      "name": "I'm Good (feat. Pharrell Williams)",
-      "year": "2009",
-      "release_date": "2009-06-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/43/c0/45/dj.jxfazuvb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I'm Good (feat. Pharrell Williams)",
-          "duration": "4:21"
-        }
-      ]
-    },
-    {
       "name": "Just A Cloud Away",
       "year": "2013",
       "release_date": "2013-06-18",
@@ -1329,15 +1316,15 @@
       ]
     },
     {
-      "name": "LV Bag (feat. Pharrell Williams)",
-      "year": "2025",
-      "release_date": "2025-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/7d/04/6c7d049e-a857-b980-1fb5-ba0d30d6ce5a/075679620385.jpg/600x600bb.jpg",
+      "name": "I'm Good (feat. Pharrell Williams)",
+      "year": "2009",
+      "release_date": "2009-06-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features/43/c0/45/dj.jxfazuvb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "LV Bag (feat. Pharrell Williams)",
-          "duration": "3:02"
+          "name": "I'm Good (feat. Pharrell Williams)",
+          "duration": "4:21"
         }
       ]
     },
@@ -1351,6 +1338,19 @@
           "number": 1,
           "name": "Down In Atlanta",
           "duration": "2:44"
+        }
+      ]
+    },
+    {
+      "name": "LV Bag (feat. Pharrell Williams)",
+      "year": "2025",
+      "release_date": "2025-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/7d/04/6c7d049e-a857-b980-1fb5-ba0d30d6ce5a/075679620385.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LV Bag (feat. Pharrell Williams)",
+          "duration": "3:02"
         }
       ]
     },
@@ -1381,19 +1381,6 @@
       ]
     },
     {
-      "name": "Airplane Tickets",
-      "year": "2023",
-      "release_date": "2023-12-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/cc/72/f2cc7242-1775-c30f-4a5e-e54b2ebf5a11/196871694995.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Airplane Tickets",
-          "duration": "3:18"
-        }
-      ]
-    },
-    {
       "name": "AT THE PARTY (feat. Pharrell Williams & Travis Scott)",
       "year": "2023",
       "release_date": "2023-11-03",
@@ -1403,6 +1390,19 @@
           "number": 1,
           "name": "AT THE PARTY (feat. Pharrell Williams & Travis Scott)",
           "duration": "3:58"
+        }
+      ]
+    },
+    {
+      "name": "Airplane Tickets",
+      "year": "2023",
+      "release_date": "2023-12-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/cc/72/f2cc7242-1775-c30f-4a5e-e54b2ebf5a11/196871694995.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Airplane Tickets",
+          "duration": "3:18"
         }
       ]
     },
@@ -1433,19 +1433,6 @@
       ]
     },
     {
-      "name": "Piece By Piece",
-      "year": "2024",
-      "release_date": "2024-09-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/65/d8/9a65d89d-7ced-b7e6-b64f-127defaf3b83/196872424775.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Piece By Piece",
-          "duration": "2:53"
-        }
-      ]
-    },
-    {
       "name": "Can't Hold Me Down (feat. Pharrell Williams & Kyle Richh)",
       "year": "2024",
       "release_date": "2024-09-06",
@@ -1455,6 +1442,19 @@
           "number": 1,
           "name": "Can't Hold Me Down (feat. Pharrell Williams & Kyle Richh)",
           "duration": "3:17"
+        }
+      ]
+    },
+    {
+      "name": "Piece By Piece",
+      "year": "2024",
+      "release_date": "2024-09-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/65/d8/9a65d89d-7ced-b7e6-b64f-127defaf3b83/196872424775.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Piece By Piece",
+          "duration": "2:53"
         }
       ]
     },
@@ -1630,19 +1630,6 @@
       ]
     },
     {
-      "name": "THE ONE (FEAT. PHARRELL WILLIAMS)",
-      "year": "2026",
-      "release_date": "2026-01-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/3b/bb/c63bbb07-4bc4-afd6-29d4-94f2dd1b3598/054391221834.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "THE ONE (FEAT. PHARRELL WILLIAMS)",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "Celebrate (feat. Pharrell Williams) [Ryan Riback Remix]",
       "year": "2018",
       "release_date": "2018-03-02",
@@ -1682,6 +1669,19 @@
       ]
     },
     {
+      "name": "THE ONE (FEAT. PHARRELL WILLIAMS)",
+      "year": "2026",
+      "release_date": "2026-01-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/3b/bb/c63bbb07-4bc4-afd6-29d4-94f2dd1b3598/054391221834.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "THE ONE (FEAT. PHARRELL WILLIAMS)",
+          "duration": "3:06"
+        }
+      ]
+    },
+    {
       "name": "Wanna Love You Girl (Remix) [feat. Busta Rhymes & Pharrell]",
       "year": "2006",
       "release_date": "2006-01-01",
@@ -1691,6 +1691,19 @@
           "number": 1,
           "name": "Wanna Love You Girl (Remix Dirty) [feat. Busta Rhymes & Pharrell]",
           "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "name": "It Must Be Me (feat. Pharrell)",
+      "year": "2010",
+      "release_date": "2010-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/17/7e/8b/177e8bd0-61b5-bd8a-eb71-606ee3c34d55/00602527407319.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "It Must Be Me (feat. Pharrell)",
+          "duration": "4:00"
         }
       ]
     },
@@ -1743,19 +1756,6 @@
           "number": 1,
           "name": "NO MÁS (feat. Anitta, J Balvin, Pharrell Williams & Quavo) [Instrumental]",
           "duration": "3:16"
-        }
-      ]
-    },
-    {
-      "name": "It Must Be Me (feat. Pharrell)",
-      "year": "2010",
-      "release_date": "2010-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/17/7e/8b/177e8bd0-61b5-bd8a-eb71-606ee3c34d55/00602527407319.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "It Must Be Me (feat. Pharrell)",
-          "duration": "4:00"
         }
       ]
     },
@@ -1921,6 +1921,24 @@
       "release_date": "2026-08-28",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/25/bd/cb25bd81-9b32-77c3-1d4d-50b5380fc2b1/5026854794860.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "MILK (feat. Pharrell Williams)",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/eb/58/c0eb58a5-6e86-4bb4-e7bb-47c9f24bf5d2/cover_4062851352437.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MILK (feat. Pharrell Williams)",
+          "duration": "3:02"
+        },
+        {
+          "number": 2,
+          "name": "MILK (feat. Pharrell Williams) [Instrumental]",
+          "duration": "3:02"
+        }
+      ]
     },
     {
       "name": "Blast Off",

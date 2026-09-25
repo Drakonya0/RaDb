@@ -144,69 +144,6 @@
       ]
     },
     {
-      "name": "InnerSpeaker",
-      "year": "2010",
-      "release_date": "2010-05-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/45/28/e2452872-ff3d-a53b-847e-72361827d428/00602577163883.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "It Is Not Meant to Be",
-          "duration": "5:21"
-        },
-        {
-          "number": 2,
-          "name": "Desire Be Desire Go",
-          "duration": "4:26"
-        },
-        {
-          "number": 3,
-          "name": "Alter Ego",
-          "duration": "4:47"
-        },
-        {
-          "number": 4,
-          "name": "Lucidity",
-          "duration": "4:31"
-        },
-        {
-          "number": 5,
-          "name": "Why Won't You Make Up Your Mind?",
-          "duration": "3:19"
-        },
-        {
-          "number": 6,
-          "name": "Solitude Is Bliss",
-          "duration": "3:55"
-        },
-        {
-          "number": 7,
-          "name": "Jeremy's Storm",
-          "duration": "5:28"
-        },
-        {
-          "number": 8,
-          "name": "Expectation",
-          "duration": "6:02"
-        },
-        {
-          "number": 9,
-          "name": "The Bold Arrow of Time",
-          "duration": "4:25"
-        },
-        {
-          "number": 10,
-          "name": "Runway Houses City Clouds",
-          "duration": "7:15"
-        },
-        {
-          "number": 11,
-          "name": "I Don't Really Mind",
-          "duration": "3:47"
-        }
-      ]
-    },
-    {
       "name": "Deadbeat",
       "year": "2025",
       "release_date": "2025-10-17",
@@ -271,6 +208,69 @@
           "number": 12,
           "name": "End Of Summer",
           "duration": "7:12"
+        }
+      ]
+    },
+    {
+      "name": "InnerSpeaker",
+      "year": "2010",
+      "release_date": "2010-05-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e2/45/28/e2452872-ff3d-a53b-847e-72361827d428/00602577163883.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "It Is Not Meant to Be",
+          "duration": "5:21"
+        },
+        {
+          "number": 2,
+          "name": "Desire Be Desire Go",
+          "duration": "4:26"
+        },
+        {
+          "number": 3,
+          "name": "Alter Ego",
+          "duration": "4:47"
+        },
+        {
+          "number": 4,
+          "name": "Lucidity",
+          "duration": "4:31"
+        },
+        {
+          "number": 5,
+          "name": "Why Won't You Make Up Your Mind?",
+          "duration": "3:19"
+        },
+        {
+          "number": 6,
+          "name": "Solitude Is Bliss",
+          "duration": "3:55"
+        },
+        {
+          "number": 7,
+          "name": "Jeremy's Storm",
+          "duration": "5:28"
+        },
+        {
+          "number": 8,
+          "name": "Expectation",
+          "duration": "6:02"
+        },
+        {
+          "number": 9,
+          "name": "The Bold Arrow of Time",
+          "duration": "4:25"
+        },
+        {
+          "number": 10,
+          "name": "Runway Houses City Clouds",
+          "duration": "7:15"
+        },
+        {
+          "number": 11,
+          "name": "I Don't Really Mind",
+          "duration": "3:47"
         }
       ]
     },
@@ -583,6 +583,19 @@
       ]
     },
     {
+      "name": "Loser",
+      "year": "2025",
+      "release_date": "2025-09-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/6e/6a/5d6e6a13-76a9-1532-3335-050520e795a8/196873531786.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Loser",
+          "duration": "3:43"
+        }
+      ]
+    },
+    {
       "name": "Lonerism (10 Year Anniversary Edition / Unreleased Demos)",
       "year": "2023",
       "release_date": "2023-05-26",
@@ -597,19 +610,6 @@
           "number": 2,
           "name": "Sidetracked Soundtrack (Unreleased Demo)",
           "duration": "4:19"
-        }
-      ]
-    },
-    {
-      "name": "Loser",
-      "year": "2025",
-      "release_date": "2025-09-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/6e/6a/5d6e6a13-76a9-1532-3335-050520e795a8/196873531786.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Loser",
-          "duration": "3:43"
         }
       ]
     },
@@ -681,6 +681,19 @@
       ]
     },
     {
+      "name": "Dracula (Boys Noize Disko Version)",
+      "year": "2026",
+      "release_date": "2026-05-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/1a/4f/281a4fad-57bc-f04a-afa9-5b2f43eea9c7/196874386101.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dracula (Boys Noize Disko Version)",
+          "duration": "4:00"
+        }
+      ]
+    },
+    {
       "name": "My Life (feat. Tame Impala) [Remixes]",
       "year": "2018",
       "release_date": "2018-07-20",
@@ -733,19 +746,6 @@
           "number": 1,
           "name": "Neverender",
           "duration": "4:26"
-        }
-      ]
-    },
-    {
-      "name": "Dracula (Boys Noize Disko Version)",
-      "year": "2026",
-      "release_date": "2026-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/1a/4f/281a4fad-57bc-f04a-afa9-5b2f43eea9c7/196874386101.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dracula (Boys Noize Disko Version)",
-          "duration": "4:00"
         }
       ]
     },
@@ -926,6 +926,19 @@
       "release_date": "2026-05-01",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/9a/b5/c19ab5e3-1a7f-70f6-9ae4-92f7098bc69e/196874353592.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "Loser (Fcukers Remix)",
+      "year": "2026",
+      "release_date": "2026-09-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/de/53/fcde531d-c28c-f9db-8b7d-ea831929bb78/196874792537.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Loser (Fcukers Remix)",
+          "duration": "4:27"
+        }
+      ]
     }
   ],
   "eps": [

@@ -4,6 +4,29 @@
   "albums": [],
   "singles": [
     {
+      "name": "BROTA NO BAILÃO",
+      "year": "2026",
+      "release_date": "2026-09-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/f1/71/13f171a1-4130-9e38-2e4e-626e65bb1bb8/4099964296242.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BROTA NO BAILÃO",
+          "duration": "1:39"
+        },
+        {
+          "number": 2,
+          "name": "BROTA NO BAILÃO (Slowed)",
+          "duration": "1:51"
+        },
+        {
+          "number": 3,
+          "name": "BROTA NO BAILÃO (Super Slowed)",
+          "duration": "1:57"
+        }
+      ]
+    },
+    {
       "name": "Funk Fuga",
       "year": "2026",
       "release_date": "2026-09-11",
@@ -212,6 +235,34 @@
     }
   ],
   "eps": [
+    {
+      "name": "HYMN FOR FREEDOM",
+      "year": "2026",
+      "release_date": "2026-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/cf/bd/f5cfbd70-0a96-8a2f-4129-7a38e3bfc924/4571625733940_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HYMN FOR FREEDOM",
+          "duration": "1:52"
+        },
+        {
+          "number": 2,
+          "name": "HYMN FOR FREEDOM (Sped Up)",
+          "duration": "1:40"
+        },
+        {
+          "number": 3,
+          "name": "HYMN FOR FREEDOM (Slowed)",
+          "duration": "2:06"
+        },
+        {
+          "number": 4,
+          "name": "HYMN FOR FREEDOM (Super Slowed)",
+          "duration": "2:22"
+        }
+      ]
+    },
     {
       "name": "SELO REAL",
       "year": "2026",
@@ -579,6 +630,34 @@
       ]
     },
     {
+      "name": "ITÁLIA",
+      "year": "2026",
+      "release_date": "2026-03-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/de/87/54de87fa-5bba-b988-dc75-04b52bf0fc5b/1225897.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ITÁLIA",
+          "duration": "1:10"
+        },
+        {
+          "number": 2,
+          "name": "ITÁLIA (Slowed)",
+          "duration": "1:14"
+        },
+        {
+          "number": 3,
+          "name": "ITÁLIA (Super Slowed)",
+          "duration": "1:23"
+        },
+        {
+          "number": 4,
+          "name": "ITÁLIA (Ultra Slowed)",
+          "duration": "1:29"
+        }
+      ]
+    },
+    {
       "name": "AURA IMPERIAL",
       "year": "2026",
       "release_date": "2026-02-27",
@@ -608,34 +687,6 @@
           "number": 5,
           "name": "AURA IMPERIAL (Sped Up)",
           "duration": "0:59"
-        }
-      ]
-    },
-    {
-      "name": "ITÁLIA",
-      "year": "2026",
-      "release_date": "2026-03-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/de/87/54de87fa-5bba-b988-dc75-04b52bf0fc5b/1225897.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ITÁLIA",
-          "duration": "1:10"
-        },
-        {
-          "number": 2,
-          "name": "ITÁLIA (Slowed)",
-          "duration": "1:14"
-        },
-        {
-          "number": 3,
-          "name": "ITÁLIA (Super Slowed)",
-          "duration": "1:23"
-        },
-        {
-          "number": 4,
-          "name": "ITÁLIA (Ultra Slowed)",
-          "duration": "1:29"
         }
       ]
     },

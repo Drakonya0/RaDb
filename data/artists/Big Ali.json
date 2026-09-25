@@ -596,6 +596,19 @@
       "tracks": []
     },
     {
+      "name": "Crash Out",
+      "year": "2026",
+      "release_date": "2026-09-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/02/85/4302852b-b51c-361b-496a-2041fd048cb9/605547848506.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Crash Out",
+          "duration": "2:20"
+        }
+      ]
+    },
+    {
       "name": "Atoosa (feat. Makhfi & BiG ALi)",
       "year": "2025",
       "release_date": "2025-06-06",
@@ -657,34 +670,6 @@
   ],
   "eps": [
     {
-      "name": "Rock This Party (feat. Makedah, Dollarman & Big Ali) [Remixes]",
-      "year": "2024",
-      "release_date": "2024-08-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/16/fa/9e16fac3-d9ca-7e20-35e0-fb7943fb0d0c/3596974699090_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rock This Party (feat. Dollarman, Big Ali & Makedah) [Crusy Remix Edit]",
-          "duration": "2:53"
-        },
-        {
-          "number": 2,
-          "name": "Rock This Party (feat. Dollarman, Big Ali & Makedah) [Andrea Govoni Remix Edit]",
-          "duration": "2:47"
-        },
-        {
-          "number": 3,
-          "name": "Rock This Party (feat. Dollarman, Big Ali & Makedah) [Crusy Remix Extended]",
-          "duration": "5:16"
-        },
-        {
-          "number": 4,
-          "name": "Rock This Party (feat. Dollarman, Big Ali & Makedah) [Andrea Govoni Remix Extended]",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
       "name": "Go Crazy (Remixes) [feat. Big Alì]",
       "year": "2011",
       "release_date": "2011-04-26",
@@ -709,6 +694,34 @@
           "number": 4,
           "name": "Go Crazy (Kros Remix)",
           "duration": "5:19"
+        }
+      ]
+    },
+    {
+      "name": "Rock This Party (feat. Makedah, Dollarman & Big Ali) [Remixes]",
+      "year": "2024",
+      "release_date": "2024-08-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/16/fa/9e16fac3-d9ca-7e20-35e0-fb7943fb0d0c/3596974699090_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Rock This Party (feat. Dollarman, Big Ali & Makedah) [Crusy Remix Edit]",
+          "duration": "2:53"
+        },
+        {
+          "number": 2,
+          "name": "Rock This Party (feat. Dollarman, Big Ali & Makedah) [Andrea Govoni Remix Edit]",
+          "duration": "2:47"
+        },
+        {
+          "number": 3,
+          "name": "Rock This Party (feat. Dollarman, Big Ali & Makedah) [Crusy Remix Extended]",
+          "duration": "5:16"
+        },
+        {
+          "number": 4,
+          "name": "Rock This Party (feat. Dollarman, Big Ali & Makedah) [Andrea Govoni Remix Extended]",
+          "duration": "3:44"
         }
       ]
     },
