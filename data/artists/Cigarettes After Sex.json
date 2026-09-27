@@ -192,6 +192,19 @@
       ]
     },
     {
+      "name": "Neon Moon",
+      "year": "2018",
+      "release_date": "2018-12-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/35/c3/d935c3b8-4155-a4ec-fdbc-df8fe22e1d5d/655003842371_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Neon Moon",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
       "name": "Anna Karenina",
       "year": "2025",
       "release_date": "2025-10-21",
@@ -228,15 +241,20 @@
       ]
     },
     {
-      "name": "Neon Moon",
-      "year": "2018",
-      "release_date": "2018-12-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/35/c3/d935c3b8-4155-a4ec-fdbc-df8fe22e1d5d/655003842371_Cover.jpg/600x600bb.jpg",
+      "name": "Bubblegum",
+      "year": "2023",
+      "release_date": "2023-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/6f/99/c16f9979-75c7-aaf3-f0db-7609d44ac9d6/0720841145509_Cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Neon Moon",
-          "duration": "3:45"
+          "name": "Bubblegum",
+          "duration": "4:39"
+        },
+        {
+          "number": 2,
+          "name": "Stop Waiting",
+          "duration": "6:02"
         }
       ]
     },
@@ -267,24 +285,6 @@
       ]
     },
     {
-      "name": "Bubblegum",
-      "year": "2023",
-      "release_date": "2023-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/6f/99/c16f9979-75c7-aaf3-f0db-7609d44ac9d6/0720841145509_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bubblegum",
-          "duration": "4:39"
-        },
-        {
-          "number": 2,
-          "name": "Stop Waiting",
-          "duration": "6:02"
-        }
-      ]
-    },
-    {
       "name": "You're All I Want",
       "year": "2020",
       "release_date": "2020-05-13",
@@ -311,19 +311,6 @@
       ]
     },
     {
-      "name": "Apocalypse",
-      "year": "2017",
-      "release_date": "2017-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ae/25/cfae25c6-5f9b-b3f2-a883-56506b004858/720841229407_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Apocalypse",
-          "duration": "4:50"
-        }
-      ]
-    },
-    {
       "name": "K.",
       "year": "2016",
       "release_date": "2016-11-14",
@@ -333,6 +320,19 @@
           "number": 1,
           "name": "K.",
           "duration": "5:19"
+        }
+      ]
+    },
+    {
+      "name": "Apocalypse",
+      "year": "2017",
+      "release_date": "2017-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ae/25/cfae25c6-5f9b-b3f2-a883-56506b004858/720841229407_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Apocalypse",
+          "duration": "4:50"
         }
       ]
     },

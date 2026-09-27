@@ -3,124 +3,6 @@
   "id": 595797008,
   "albums": [
     {
-      "name": "Classical Piano - Peaceful music to fall asleep",
-      "year": "2019",
-      "release_date": "2019-11-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/07/94/23/07942397-c337-4bc4-89ab-f2b63b2796be/886447959909.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156)",
-          "duration": "1:54"
-        },
-        {
-          "number": 2,
-          "name": "Forces of Attraction",
-          "duration": "1:58"
-        },
-        {
-          "number": 3,
-          "name": "Avril 14th",
-          "duration": "1:42"
-        },
-        {
-          "number": 4,
-          "name": "Comptine d'un autre été, l'après-midi (From \"Amélie\")",
-          "duration": "2:25"
-        },
-        {
-          "number": 5,
-          "name": "Bluebird",
-          "duration": "3:24"
-        },
-        {
-          "number": 6,
-          "name": "To the Sky (Moderate)",
-          "duration": "4:36"
-        },
-        {
-          "number": 7,
-          "name": "Potato Field",
-          "duration": "0:55"
-        },
-        {
-          "number": 8,
-          "name": "On the Nature of Daylight (Piano Version)",
-          "duration": "3:19"
-        },
-        {
-          "number": 9,
-          "name": "Ironic",
-          "duration": "1:52"
-        },
-        {
-          "number": 10,
-          "name": "Doria (Piano Version)",
-          "duration": "3:16"
-        },
-        {
-          "number": 11,
-          "name": "Woke Up Wandering",
-          "duration": "3:09"
-        },
-        {
-          "number": 12,
-          "name": "Connected Colors (Solo Piano Version)",
-          "duration": "2:48"
-        },
-        {
-          "number": 13,
-          "name": "Le onde",
-          "duration": "4:10"
-        },
-        {
-          "number": 14,
-          "name": "Fly",
-          "duration": "3:49"
-        },
-        {
-          "number": 15,
-          "name": "Sunny and George",
-          "duration": "1:32"
-        },
-        {
-          "number": 16,
-          "name": "Vladimir's Blues",
-          "duration": "1:23"
-        },
-        {
-          "number": 17,
-          "name": "Una mattina",
-          "duration": "3:22"
-        },
-        {
-          "number": 18,
-          "name": "River Flows in You",
-          "duration": "2:48"
-        },
-        {
-          "number": 19,
-          "name": "Memories of a Promenade II",
-          "duration": "3:26"
-        },
-        {
-          "number": 20,
-          "name": "Wiegenlied, Op. 49, No. 4 (Arr. for Cello and Piano)",
-          "duration": "1:49"
-        },
-        {
-          "number": 21,
-          "name": "Jeux Interdits",
-          "duration": "2:36"
-        },
-        {
-          "number": 22,
-          "name": "Prisma (Acoustic)",
-          "duration": "4:05"
-        }
-      ]
-    },
-    {
       "name": "Silence : Musique calme et apaisante",
       "year": "2020",
       "release_date": "2020-04-17",
@@ -375,6 +257,124 @@
           "number": 50,
           "name": "Get What U Get (Solo Piano Version)",
           "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "Classical Piano - Peaceful music to fall asleep",
+      "year": "2019",
+      "release_date": "2019-11-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/07/94/23/07942397-c337-4bc4-89ab-f2b63b2796be/886447959909.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156)",
+          "duration": "1:54"
+        },
+        {
+          "number": 2,
+          "name": "Forces of Attraction",
+          "duration": "1:58"
+        },
+        {
+          "number": 3,
+          "name": "Avril 14th",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "Comptine d'un autre été, l'après-midi (From \"Amélie\")",
+          "duration": "2:25"
+        },
+        {
+          "number": 5,
+          "name": "Bluebird",
+          "duration": "3:24"
+        },
+        {
+          "number": 6,
+          "name": "To the Sky (Moderate)",
+          "duration": "4:36"
+        },
+        {
+          "number": 7,
+          "name": "Potato Field",
+          "duration": "0:55"
+        },
+        {
+          "number": 8,
+          "name": "On the Nature of Daylight (Piano Version)",
+          "duration": "3:19"
+        },
+        {
+          "number": 9,
+          "name": "Ironic",
+          "duration": "1:52"
+        },
+        {
+          "number": 10,
+          "name": "Doria (Piano Version)",
+          "duration": "3:16"
+        },
+        {
+          "number": 11,
+          "name": "Woke Up Wandering",
+          "duration": "3:09"
+        },
+        {
+          "number": 12,
+          "name": "Connected Colors (Solo Piano Version)",
+          "duration": "2:48"
+        },
+        {
+          "number": 13,
+          "name": "Le onde",
+          "duration": "4:10"
+        },
+        {
+          "number": 14,
+          "name": "Fly",
+          "duration": "3:49"
+        },
+        {
+          "number": 15,
+          "name": "Sunny and George",
+          "duration": "1:32"
+        },
+        {
+          "number": 16,
+          "name": "Vladimir's Blues",
+          "duration": "1:23"
+        },
+        {
+          "number": 17,
+          "name": "Una mattina",
+          "duration": "3:22"
+        },
+        {
+          "number": 18,
+          "name": "River Flows in You",
+          "duration": "2:48"
+        },
+        {
+          "number": 19,
+          "name": "Memories of a Promenade II",
+          "duration": "3:26"
+        },
+        {
+          "number": 20,
+          "name": "Wiegenlied, Op. 49, No. 4 (Arr. for Cello and Piano)",
+          "duration": "1:49"
+        },
+        {
+          "number": 21,
+          "name": "Jeux Interdits",
+          "duration": "2:36"
+        },
+        {
+          "number": 22,
+          "name": "Prisma (Acoustic)",
+          "duration": "4:05"
         }
       ]
     },

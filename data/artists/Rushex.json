@@ -4,29 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "MONTAGEM GLORIA",
-      "year": "2026",
-      "release_date": "2026-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/9b/10/e09b1096-92ad-dfd6-a9ef-5d4d2000255d/3870037.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM GLORIA",
-          "duration": "1:23"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM GLORIA (Slowed)",
-          "duration": "1:31"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM GLORIA (Ultra Slowed)",
-          "duration": "1:42"
-        }
-      ]
-    },
-    {
       "name": "ZAKHELO",
       "year": "2026",
       "release_date": "2026-03-13",
@@ -51,6 +28,29 @@
           "number": 4,
           "name": "ZAKHELO (Sped Up)",
           "duration": "1:48"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM GLORIA",
+      "year": "2026",
+      "release_date": "2026-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/9b/10/e09b1096-92ad-dfd6-a9ef-5d4d2000255d/3870037.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM GLORIA",
+          "duration": "1:23"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM GLORIA (Slowed)",
+          "duration": "1:31"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM GLORIA (Ultra Slowed)",
+          "duration": "1:42"
         }
       ]
     },
@@ -2832,34 +2832,6 @@
       ]
     },
     {
-      "name": "SOLO ULTIMO",
-      "year": "2025",
-      "release_date": "2025-04-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/3b/fa/2b3bfaae-c9b7-9dad-c61c-7e330862c774/74914.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SOLO ULTIMO",
-          "duration": "1:18"
-        },
-        {
-          "number": 2,
-          "name": "SOLO ULTIMO (SLOWED)",
-          "duration": "1:27"
-        },
-        {
-          "number": 3,
-          "name": "SOLO ULTIMO (ULTRA SLOWED)",
-          "duration": "1:42"
-        },
-        {
-          "number": 4,
-          "name": "SOLO ULTIMO (SPED UP)",
-          "duration": "1:09"
-        }
-      ]
-    },
-    {
       "name": "VALERIA",
       "year": "2026",
       "release_date": "2026-09-04",
@@ -2884,6 +2856,34 @@
           "number": 4,
           "name": "VALERIA (Sped Up)",
           "duration": "1:24"
+        }
+      ]
+    },
+    {
+      "name": "SOLO ULTIMO",
+      "year": "2025",
+      "release_date": "2025-04-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/3b/fa/2b3bfaae-c9b7-9dad-c61c-7e330862c774/74914.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SOLO ULTIMO",
+          "duration": "1:18"
+        },
+        {
+          "number": 2,
+          "name": "SOLO ULTIMO (SLOWED)",
+          "duration": "1:27"
+        },
+        {
+          "number": 3,
+          "name": "SOLO ULTIMO (ULTRA SLOWED)",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "SOLO ULTIMO (SPED UP)",
+          "duration": "1:09"
         }
       ]
     },

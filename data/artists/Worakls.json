@@ -193,11 +193,42 @@
       "tracks": []
     },
     {
+      "name": "Pipeline",
+      "year": "2022",
+      "release_date": "2022-08-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/f7/70/bdf77038-87d1-897d-5472-6f5253c658b5/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pipeline",
+          "duration": "7:40"
+        }
+      ]
+    },
+    {
       "name": "Mellotron",
       "year": "2016",
       "release_date": "2016-07-01",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/61/a4/62/61a462e6-6cbd-b2a9-b137-1f75c34d63f6/cover.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "Hortari & Detached Motion Remixes",
+      "year": "2021",
+      "release_date": "2021-01-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/65/b2/e465b2c5-fe2c-0189-b03f-466ce9ce9f85/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hortari (Mark Hoffen Remix)",
+          "duration": "7:04"
+        },
+        {
+          "number": 2,
+          "name": "Detached Motion (Patrice Bäumel Remix)",
+          "duration": "6:33"
+        }
+      ]
     },
     {
       "name": "Red Dressed (feat. Eivør) [Ben Böhmer Remix]",
@@ -238,42 +269,11 @@
       ]
     },
     {
-      "name": "Pipeline",
-      "year": "2022",
-      "release_date": "2022-08-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/f7/70/bdf77038-87d1-897d-5472-6f5253c658b5/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pipeline",
-          "duration": "7:40"
-        }
-      ]
-    },
-    {
       "name": "Sanctis",
       "year": "2017",
       "release_date": "2017-09-15",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e2/18/c5/e218c5bb-1b61-ac1b-fe72-fb93a47e0a7d/cover.jpg/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "Hortari & Detached Motion Remixes",
-      "year": "2021",
-      "release_date": "2021-01-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/65/b2/e465b2c5-fe2c-0189-b03f-466ce9ce9f85/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hortari (Mark Hoffen Remix)",
-          "duration": "7:04"
-        },
-        {
-          "number": 2,
-          "name": "Detached Motion (Patrice Bäumel Remix)",
-          "duration": "6:33"
-        }
-      ]
     },
     {
       "name": "Storm",

@@ -661,32 +661,6 @@
       ]
     },
     {
-      "name": "Hello",
-      "year": "2015",
-      "release_date": "2015-11-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/8f/d7/6a8fd74b-4067-a879-7c6c-c4e6a4b1ba16/859715934830.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hello",
-          "duration": "5:00"
-        }
-      ]
-    },
-    {
-      "name": "Smells Like Teen Spirit",
-      "year": "2019",
-      "release_date": "2019-04-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/a2/60/60a26030-fc6a-6cf3-d36e-e4fe4aef7055/859731738825.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Smells Like Teen Spirit",
-          "duration": "4:57"
-        }
-      ]
-    },
-    {
       "name": "2024 Covers",
       "year": "2024",
       "release_date": "2024-01-15",
@@ -719,6 +693,19 @@
           "number": 1,
           "name": "Welcome to the Chaos (Acoustic)",
           "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "Hello",
+      "year": "2015",
+      "release_date": "2015-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/8f/d7/6a8fd74b-4067-a879-7c6c-c4e6a4b1ba16/859715934830.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hello",
+          "duration": "5:00"
         }
       ]
     },
@@ -758,6 +745,19 @@
           "number": 1,
           "name": "Euphoria",
           "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "Smells Like Teen Spirit",
+      "year": "2019",
+      "release_date": "2019-04-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/a2/60/60a26030-fc6a-6cf3-d36e-e4fe4aef7055/859731738825.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Smells Like Teen Spirit",
+          "duration": "4:57"
         }
       ]
     },

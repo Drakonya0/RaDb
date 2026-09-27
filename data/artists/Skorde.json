@@ -1497,29 +1497,6 @@
       ]
     },
     {
-      "name": "CELESTIAL",
-      "year": "2023",
-      "release_date": "2023-08-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/82/f3/4882f3ae-7826-a153-8882-eee877773c87/197773464709_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CELESTIAL",
-          "duration": "2:36"
-        },
-        {
-          "number": 2,
-          "name": "CELESTIAL (sped up)",
-          "duration": "2:19"
-        },
-        {
-          "number": 3,
-          "name": "CELESTIAL (slowed + reverb)",
-          "duration": "2:55"
-        }
-      ]
-    },
-    {
       "name": "Warrior",
       "year": "2022",
       "release_date": "2022-08-26",
@@ -1539,6 +1516,29 @@
           "number": 3,
           "name": "Warrior (Slowed+Reverb)",
           "duration": "2:24"
+        }
+      ]
+    },
+    {
+      "name": "CELESTIAL",
+      "year": "2023",
+      "release_date": "2023-08-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/48/82/f3/4882f3ae-7826-a153-8882-eee877773c87/197773464709_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CELESTIAL",
+          "duration": "2:36"
+        },
+        {
+          "number": 2,
+          "name": "CELESTIAL (sped up)",
+          "duration": "2:19"
+        },
+        {
+          "number": 3,
+          "name": "CELESTIAL (slowed + reverb)",
+          "duration": "2:55"
         }
       ]
     },

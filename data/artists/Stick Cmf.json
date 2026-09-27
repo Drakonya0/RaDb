@@ -3,142 +3,89 @@
   "id": 1711372100,
   "albums": [
     {
+      "name": "La mort me va si bien",
+      "year": "2022",
+      "release_date": "2022-11-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/3a/1c/dd3a1ca5-9056-7e1d-b2a4-404478c4b7ad/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Né pour mourir",
+          "duration": "3:38"
+        },
+        {
+          "number": 2,
+          "name": "Maudit",
+          "duration": "3:54"
+        },
+        {
+          "number": 3,
+          "name": "Black Metal",
+          "duration": "2:29"
+        },
+        {
+          "number": 4,
+          "name": "Détours",
+          "duration": "4:56"
+        },
+        {
+          "number": 5,
+          "name": "Suicide-moi",
+          "duration": "3:27"
+        },
+        {
+          "number": 6,
+          "name": "Rap français",
+          "duration": "3:25"
+        },
+        {
+          "number": 7,
+          "name": "Couronne mortuaire (feat. S2edy)",
+          "duration": "2:24"
+        },
+        {
+          "number": 8,
+          "name": "Ma zik II",
+          "duration": "4:05"
+        },
+        {
+          "number": 9,
+          "name": "Buffet froid (feat. Bavaz)",
+          "duration": "2:54"
+        },
+        {
+          "number": 10,
+          "name": "Dépression estivale (feat. Chriki)",
+          "duration": "4:10"
+        },
+        {
+          "number": 11,
+          "name": "Léviathan",
+          "duration": "3:18"
+        },
+        {
+          "number": 12,
+          "name": "Hell Gang (feat. Shaoz, L'Apo, Kostoglotov, Pedro & oZeff)",
+          "duration": "4:36"
+        },
+        {
+          "number": 13,
+          "name": "La ronde autour du monde",
+          "duration": "4:10"
+        },
+        {
+          "number": 14,
+          "name": "Exhumation",
+          "duration": "6:07"
+        }
+      ]
+    },
+    {
       "name": "1 MC 2 plus",
       "year": "2014",
       "release_date": "2014-09-29",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/ad/f4/4dadf442-ecba-532d-0593-fcd28ea5cb2c/cover.jpg/600x600bb.jpg",
       "tracks": []
-    },
-    {
-      "name": "Boulevard des allongés",
-      "year": "2021",
-      "release_date": "2021-03-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/d7/ad/36d7adb2-2dac-b7dd-07e3-465413aaeb01/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Funérarium",
-          "duration": "3:11"
-        },
-        {
-          "number": 2,
-          "name": "Mortel",
-          "duration": "3:15"
-        },
-        {
-          "number": 3,
-          "name": "Putain con !",
-          "duration": "2:33"
-        },
-        {
-          "number": 4,
-          "name": "Despentes & Palahniuk (feat. grin)",
-          "duration": "4:04"
-        },
-        {
-          "number": 5,
-          "name": "Prince des ténèbres",
-          "duration": "2:58"
-        },
-        {
-          "number": 6,
-          "name": "Vorace",
-          "duration": "3:41"
-        },
-        {
-          "number": 7,
-          "name": "Espadrill",
-          "duration": "2:24"
-        },
-        {
-          "number": 8,
-          "name": "OMG",
-          "duration": "2:46"
-        },
-        {
-          "number": 9,
-          "name": "La raie du plombier (feat. Misiek)",
-          "duration": "2:43"
-        },
-        {
-          "number": 10,
-          "name": "Ange déchu",
-          "duration": "2:19"
-        },
-        {
-          "number": 11,
-          "name": "Reset (feat. Seyad)",
-          "duration": "2:45"
-        },
-        {
-          "number": 12,
-          "name": "Cimetière des Fontanelles",
-          "duration": "3:26"
-        },
-        {
-          "number": 13,
-          "name": "Adiable",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
-      "name": "Doom-Bap",
-      "year": "2021",
-      "release_date": "2021-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/34/10/bb3410d6-9b17-bf87-39ec-54a9f623c516/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Roi des ombres",
-          "duration": "3:53"
-        },
-        {
-          "number": 2,
-          "name": "Le bal de l'horreur",
-          "duration": "3:03"
-        },
-        {
-          "number": 3,
-          "name": "Insomnie (feat. Pedro)",
-          "duration": "4:24"
-        },
-        {
-          "number": 4,
-          "name": "Interlude 1",
-          "duration": "1:03"
-        },
-        {
-          "number": 5,
-          "name": "Magnétoscope",
-          "duration": "3:35"
-        },
-        {
-          "number": 6,
-          "name": "Beatmaker",
-          "duration": "4:27"
-        },
-        {
-          "number": 7,
-          "name": "Infinitif (feat. Melan)",
-          "duration": "3:30"
-        },
-        {
-          "number": 8,
-          "name": "Interlude 2",
-          "duration": "1:18"
-        },
-        {
-          "number": 9,
-          "name": "Les ronces",
-          "duration": "4:21"
-        },
-        {
-          "number": 10,
-          "name": "33 Tours",
-          "duration": "3:36"
-        }
-      ]
     },
     {
       "name": "CAPITOLIUM",
@@ -190,132 +137,6 @@
           "number": 9,
           "name": "Menu Capitole",
           "duration": "5:44"
-        }
-      ]
-    },
-    {
-      "name": "Tubes de l'été (pour gothique déprimé)",
-      "year": "2019",
-      "release_date": "2019-08-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/7d/d9/177dd942-3d79-ac6f-2837-f93ae0f9b139/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Insanités",
-          "duration": "2:15"
-        },
-        {
-          "number": 2,
-          "name": "Golmon",
-          "duration": "3:51"
-        },
-        {
-          "number": 3,
-          "name": "Tube de l'été (pour gothique déprimé)",
-          "duration": "2:51"
-        },
-        {
-          "number": 4,
-          "name": "DNDM",
-          "duration": "3:03"
-        },
-        {
-          "number": 5,
-          "name": "La meuf en robe rouge",
-          "duration": "2:29"
-        },
-        {
-          "number": 6,
-          "name": "Kidispliff",
-          "duration": "3:34"
-        },
-        {
-          "number": 7,
-          "name": "Si Diable veut...",
-          "duration": "5:08"
-        }
-      ]
-    },
-    {
-      "name": "TricératoX, Vol. 1",
-      "year": "2013",
-      "release_date": "2013-04-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/16/24/a81624a0-d32e-d910-3523-83f5f50f2c90/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro",
-          "duration": "0:06"
-        },
-        {
-          "number": 2,
-          "name": "De l'art ou du gros son",
-          "duration": "3:40"
-        },
-        {
-          "number": 3,
-          "name": "Les yeux rouges (feat. Rhama Le Singe & Pedro)",
-          "duration": "3:56"
-        },
-        {
-          "number": 4,
-          "name": "Rap-Game (feat. Px Tazi)",
-          "duration": "4:13"
-        },
-        {
-          "number": 5,
-          "name": "Verlaine en verlan",
-          "duration": "3:47"
-        },
-        {
-          "number": 6,
-          "name": "Bête noire (feat. Sekk)",
-          "duration": "4:35"
-        },
-        {
-          "number": 7,
-          "name": "Carpaccio",
-          "duration": "2:08"
-        },
-        {
-          "number": 8,
-          "name": "Galère de flouze (feat. Melan)",
-          "duration": "4:21"
-        },
-        {
-          "number": 9,
-          "name": "Soufflette (feat. Timuxx)",
-          "duration": "3:21"
-        },
-        {
-          "number": 10,
-          "name": "Bad-Trip (feat. Mada)",
-          "duration": "2:41"
-        },
-        {
-          "number": 11,
-          "name": "Hélas freestyle",
-          "duration": "2:23"
-        },
-        {
-          "number": 12,
-          "name": "Par mégarde (feat. Fonka)",
-          "duration": "3:40"
-        },
-        {
-          "number": 13,
-          "name": "Same Weapon (feat. Donnie Quest & Jazzy Jay)",
-          "duration": "3:29"
-        },
-        {
-          "number": 14,
-          "name": "Erreur Divine (feat. Droogz Brigade)",
-          "duration": "3:52"
-        },
-        {
-          "number": 15,
-          "name": "Cage de tise",
-          "duration": "4:26"
         }
       ]
     },
@@ -496,6 +317,147 @@
       ]
     },
     {
+      "name": "Doom-Bap",
+      "year": "2021",
+      "release_date": "2021-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/34/10/bb3410d6-9b17-bf87-39ec-54a9f623c516/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Roi des ombres",
+          "duration": "3:53"
+        },
+        {
+          "number": 2,
+          "name": "Le bal de l'horreur",
+          "duration": "3:03"
+        },
+        {
+          "number": 3,
+          "name": "Insomnie (feat. Pedro)",
+          "duration": "4:24"
+        },
+        {
+          "number": 4,
+          "name": "Interlude 1",
+          "duration": "1:03"
+        },
+        {
+          "number": 5,
+          "name": "Magnétoscope",
+          "duration": "3:35"
+        },
+        {
+          "number": 6,
+          "name": "Beatmaker",
+          "duration": "4:27"
+        },
+        {
+          "number": 7,
+          "name": "Infinitif (feat. Melan)",
+          "duration": "3:30"
+        },
+        {
+          "number": 8,
+          "name": "Interlude 2",
+          "duration": "1:18"
+        },
+        {
+          "number": 9,
+          "name": "Les ronces",
+          "duration": "4:21"
+        },
+        {
+          "number": 10,
+          "name": "33 Tours",
+          "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "TricératoX, Vol. 1",
+      "year": "2013",
+      "release_date": "2013-04-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/16/24/a81624a0-d32e-d910-3523-83f5f50f2c90/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro",
+          "duration": "0:06"
+        },
+        {
+          "number": 2,
+          "name": "De l'art ou du gros son",
+          "duration": "3:40"
+        },
+        {
+          "number": 3,
+          "name": "Les yeux rouges (feat. Rhama Le Singe & Pedro)",
+          "duration": "3:56"
+        },
+        {
+          "number": 4,
+          "name": "Rap-Game (feat. Px Tazi)",
+          "duration": "4:13"
+        },
+        {
+          "number": 5,
+          "name": "Verlaine en verlan",
+          "duration": "3:47"
+        },
+        {
+          "number": 6,
+          "name": "Bête noire (feat. Sekk)",
+          "duration": "4:35"
+        },
+        {
+          "number": 7,
+          "name": "Carpaccio",
+          "duration": "2:08"
+        },
+        {
+          "number": 8,
+          "name": "Galère de flouze (feat. Melan)",
+          "duration": "4:21"
+        },
+        {
+          "number": 9,
+          "name": "Soufflette (feat. Timuxx)",
+          "duration": "3:21"
+        },
+        {
+          "number": 10,
+          "name": "Bad-Trip (feat. Mada)",
+          "duration": "2:41"
+        },
+        {
+          "number": 11,
+          "name": "Hélas freestyle",
+          "duration": "2:23"
+        },
+        {
+          "number": 12,
+          "name": "Par mégarde (feat. Fonka)",
+          "duration": "3:40"
+        },
+        {
+          "number": 13,
+          "name": "Same Weapon (feat. Donnie Quest & Jazzy Jay)",
+          "duration": "3:29"
+        },
+        {
+          "number": 14,
+          "name": "Erreur Divine (feat. Droogz Brigade)",
+          "duration": "3:52"
+        },
+        {
+          "number": 15,
+          "name": "Cage de tise",
+          "duration": "4:26"
+        }
+      ]
+    },
+    {
       "name": "CAPITOLIUM II",
       "year": "2025",
       "release_date": "2025-08-22",
@@ -554,129 +516,123 @@
       ]
     },
     {
-      "name": "La mort me va si bien",
-      "year": "2022",
-      "release_date": "2022-11-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/3a/1c/dd3a1ca5-9056-7e1d-b2a4-404478c4b7ad/cover.jpg/600x600bb.jpg",
+      "name": "Tubes de l'été (pour gothique déprimé)",
+      "year": "2019",
+      "release_date": "2019-08-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/7d/d9/177dd942-3d79-ac6f-2837-f93ae0f9b139/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Né pour mourir",
-          "duration": "3:38"
+          "name": "Insanités",
+          "duration": "2:15"
         },
         {
           "number": 2,
-          "name": "Maudit",
-          "duration": "3:54"
+          "name": "Golmon",
+          "duration": "3:51"
         },
         {
           "number": 3,
-          "name": "Black Metal",
-          "duration": "2:29"
+          "name": "Tube de l'été (pour gothique déprimé)",
+          "duration": "2:51"
         },
         {
           "number": 4,
-          "name": "Détours",
-          "duration": "4:56"
+          "name": "DNDM",
+          "duration": "3:03"
         },
         {
           "number": 5,
-          "name": "Suicide-moi",
-          "duration": "3:27"
+          "name": "La meuf en robe rouge",
+          "duration": "2:29"
         },
         {
           "number": 6,
-          "name": "Rap français",
-          "duration": "3:25"
+          "name": "Kidispliff",
+          "duration": "3:34"
         },
         {
           "number": 7,
-          "name": "Couronne mortuaire (feat. S2edy)",
+          "name": "Si Diable veut...",
+          "duration": "5:08"
+        }
+      ]
+    },
+    {
+      "name": "Boulevard des allongés",
+      "year": "2021",
+      "release_date": "2021-03-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/d7/ad/36d7adb2-2dac-b7dd-07e3-465413aaeb01/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Funérarium",
+          "duration": "3:11"
+        },
+        {
+          "number": 2,
+          "name": "Mortel",
+          "duration": "3:15"
+        },
+        {
+          "number": 3,
+          "name": "Putain con !",
+          "duration": "2:33"
+        },
+        {
+          "number": 4,
+          "name": "Despentes & Palahniuk (feat. grin)",
+          "duration": "4:04"
+        },
+        {
+          "number": 5,
+          "name": "Prince des ténèbres",
+          "duration": "2:58"
+        },
+        {
+          "number": 6,
+          "name": "Vorace",
+          "duration": "3:41"
+        },
+        {
+          "number": 7,
+          "name": "Espadrill",
           "duration": "2:24"
         },
         {
           "number": 8,
-          "name": "Ma zik II",
-          "duration": "4:05"
+          "name": "OMG",
+          "duration": "2:46"
         },
         {
           "number": 9,
-          "name": "Buffet froid (feat. Bavaz)",
-          "duration": "2:54"
+          "name": "La raie du plombier (feat. Misiek)",
+          "duration": "2:43"
         },
         {
           "number": 10,
-          "name": "Dépression estivale (feat. Chriki)",
-          "duration": "4:10"
+          "name": "Ange déchu",
+          "duration": "2:19"
         },
         {
           "number": 11,
-          "name": "Léviathan",
-          "duration": "3:18"
+          "name": "Reset (feat. Seyad)",
+          "duration": "2:45"
         },
         {
           "number": 12,
-          "name": "Hell Gang (feat. Shaoz, L'Apo, Kostoglotov, Pedro & oZeff)",
-          "duration": "4:36"
+          "name": "Cimetière des Fontanelles",
+          "duration": "3:26"
         },
         {
           "number": 13,
-          "name": "La ronde autour du monde",
-          "duration": "4:10"
-        },
-        {
-          "number": 14,
-          "name": "Exhumation",
-          "duration": "6:07"
+          "name": "Adiable",
+          "duration": "3:29"
         }
       ]
     }
   ],
   "singles": [
-    {
-      "name": "Défonce.Découpe (feat. Stick CMF)",
-      "year": "2026",
-      "release_date": "2026-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/e9/46/dfe946c8-94f0-25af-7f38-2c19123ba7a2/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Défonce.Découpe (feat. Stick CMF)",
-          "duration": "3:13"
-        }
-      ]
-    },
-    {
-      "name": "Befa à Taratata",
-      "year": "2024",
-      "release_date": "2024-04-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/03/f3/c603f3dc-2bf3-b1d3-82be-b9e9f4cefe36/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Befa à Taratata",
-          "duration": "3:38"
-        },
-        {
-          "number": 2,
-          "name": "Pain Béni",
-          "duration": "2:54"
-        }
-      ]
-    },
-    {
-      "name": "Bissextile (feat. Rhama Le Singe & Stick Cmf)",
-      "year": "2021",
-      "release_date": "2021-09-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/45/73/c0457385-2f06-4e42-c30c-eb073631f50a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bissextile (feat. Rhama Le Singe & Stick Cmf)",
-          "duration": "5:06"
-        }
-      ]
-    },
     {
       "name": "Morpion (feat. Greenfinch & Lionel Soulchildren)",
       "year": "2026",
@@ -717,15 +673,20 @@
       ]
     },
     {
-      "name": "Le rap est mort",
-      "year": "2021",
-      "release_date": "2021-07-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/99/ce/6499cebe-8fc3-fcbe-1765-f8885e4b7fd8/cover.jpg/600x600bb.jpg",
+      "name": "Befa à Taratata",
+      "year": "2024",
+      "release_date": "2024-04-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/03/f3/c603f3dc-2bf3-b1d3-82be-b9e9f4cefe36/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Le rap est mort",
-          "duration": "2:35"
+          "name": "Befa à Taratata",
+          "duration": "3:38"
+        },
+        {
+          "number": 2,
+          "name": "Pain Béni",
+          "duration": "2:54"
         }
       ]
     },
@@ -743,6 +704,19 @@
       ]
     },
     {
+      "name": "Le rap est mort",
+      "year": "2021",
+      "release_date": "2021-07-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/99/ce/6499cebe-8fc3-fcbe-1765-f8885e4b7fd8/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Le rap est mort",
+          "duration": "2:35"
+        }
+      ]
+    },
+    {
       "name": "QQVFDT",
       "year": "2025",
       "release_date": "2025-05-15",
@@ -756,6 +730,19 @@
       ]
     },
     {
+      "name": "Défonce.Découpe (feat. Stick CMF)",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/e9/46/dfe946c8-94f0-25af-7f38-2c19123ba7a2/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Défonce.Découpe (feat. Stick CMF)",
+          "duration": "3:13"
+        }
+      ]
+    },
+    {
       "name": "Frigo (feat. Stick Cmf)",
       "year": "2021",
       "release_date": "2021-11-12",
@@ -765,6 +752,19 @@
           "number": 1,
           "name": "Frigo (feat. Stick Cmf)",
           "duration": "4:48"
+        }
+      ]
+    },
+    {
+      "name": "Bissextile (feat. Rhama Le Singe & Stick Cmf)",
+      "year": "2021",
+      "release_date": "2021-09-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/45/73/c0457385-2f06-4e42-c30c-eb073631f50a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bissextile (feat. Rhama Le Singe & Stick Cmf)",
+          "duration": "5:06"
         }
       ]
     }

@@ -3,79 +3,6 @@
   "id": 603222293,
   "albums": [
     {
-      "name": "Chin Up, Beautiful",
-      "year": "2026",
-      "release_date": "2026-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/a4/20/dda420b8-46c6-5612-08d1-4d27784c88be/823375191711_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Icarus",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Smile, You're on Camera",
-          "duration": "3:13"
-        },
-        {
-          "number": 3,
-          "name": "The Catalyst",
-          "duration": "3:25"
-        },
-        {
-          "number": 4,
-          "name": "Disassociate",
-          "duration": "4:34"
-        },
-        {
-          "number": 5,
-          "name": "Crawl (Caleb's Song)",
-          "duration": "3:54"
-        },
-        {
-          "number": 6,
-          "name": "Mannequin",
-          "duration": "2:53"
-        },
-        {
-          "number": 7,
-          "name": "Goodnight (Interlude) <3",
-          "duration": "2:12"
-        },
-        {
-          "number": 8,
-          "name": "White Butterflies",
-          "duration": "3:02"
-        },
-        {
-          "number": 9,
-          "name": "Take Care of Her",
-          "duration": "4:17"
-        },
-        {
-          "number": 10,
-          "name": "Cry Wolf",
-          "duration": "3:31"
-        },
-        {
-          "number": 11,
-          "name": "Pitiful",
-          "duration": "3:26"
-        },
-        {
-          "number": 12,
-          "name": "Blink Twice",
-          "duration": "3:53"
-        },
-        {
-          "number": 13,
-          "name": "Chin Up, Beautiful",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
       "name": "Sleepyhead",
       "year": "2024",
       "release_date": "2024-12-16",
@@ -145,6 +72,79 @@
           "number": 13,
           "name": "Vertigo (Live Acoustic)",
           "duration": "3:32"
+        }
+      ]
+    },
+    {
+      "name": "Chin Up, Beautiful",
+      "year": "2026",
+      "release_date": "2026-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/a4/20/dda420b8-46c6-5612-08d1-4d27784c88be/823375191711_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Icarus",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Smile, You're on Camera",
+          "duration": "3:13"
+        },
+        {
+          "number": 3,
+          "name": "The Catalyst",
+          "duration": "3:25"
+        },
+        {
+          "number": 4,
+          "name": "Disassociate",
+          "duration": "4:34"
+        },
+        {
+          "number": 5,
+          "name": "Crawl (Caleb's Song)",
+          "duration": "3:54"
+        },
+        {
+          "number": 6,
+          "name": "Mannequin",
+          "duration": "2:53"
+        },
+        {
+          "number": 7,
+          "name": "Goodnight (Interlude) <3",
+          "duration": "2:12"
+        },
+        {
+          "number": 8,
+          "name": "White Butterflies",
+          "duration": "3:02"
+        },
+        {
+          "number": 9,
+          "name": "Take Care of Her",
+          "duration": "4:17"
+        },
+        {
+          "number": 10,
+          "name": "Cry Wolf",
+          "duration": "3:31"
+        },
+        {
+          "number": 11,
+          "name": "Pitiful",
+          "duration": "3:26"
+        },
+        {
+          "number": 12,
+          "name": "Blink Twice",
+          "duration": "3:53"
+        },
+        {
+          "number": 13,
+          "name": "Chin Up, Beautiful",
+          "duration": "3:40"
         }
       ]
     },
@@ -757,6 +757,64 @@
       ]
     },
     {
+      "name": "Sleepyhead",
+      "year": "2024",
+      "release_date": "2024-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/55/78/cf55780e-2ec6-1e43-e59c-7cbec5e9411f/388152.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sleepyhead",
+          "duration": "3:12"
+        },
+        {
+          "number": 2,
+          "name": "Sex & Palo Santo",
+          "duration": "2:52"
+        },
+        {
+          "number": 3,
+          "name": "Safe Word",
+          "duration": "3:04"
+        },
+        {
+          "number": 4,
+          "name": "Theraflu",
+          "duration": "3:15"
+        },
+        {
+          "number": 5,
+          "name": "Obsessed",
+          "duration": "2:42"
+        },
+        {
+          "number": 6,
+          "name": "It's Me Again",
+          "duration": "2:53"
+        },
+        {
+          "number": 7,
+          "name": "Vertigo",
+          "duration": "3:32"
+        },
+        {
+          "number": 8,
+          "name": "Holy Ghost",
+          "duration": "3:13"
+        },
+        {
+          "number": 9,
+          "name": "Sleepyhead (Acoustic)",
+          "duration": "3:05"
+        },
+        {
+          "number": 10,
+          "name": "Sleepyhead (Live)",
+          "duration": "3:15"
+        }
+      ]
+    },
+    {
       "name": "Ladybug",
       "year": "2023",
       "release_date": "2023-05-19",
@@ -816,64 +874,6 @@
           "number": 11,
           "name": "Spit",
           "duration": "3:11"
-        }
-      ]
-    },
-    {
-      "name": "Sleepyhead",
-      "year": "2024",
-      "release_date": "2024-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/55/78/cf55780e-2ec6-1e43-e59c-7cbec5e9411f/388152.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sleepyhead",
-          "duration": "3:12"
-        },
-        {
-          "number": 2,
-          "name": "Sex & Palo Santo",
-          "duration": "2:52"
-        },
-        {
-          "number": 3,
-          "name": "Safe Word",
-          "duration": "3:04"
-        },
-        {
-          "number": 4,
-          "name": "Theraflu",
-          "duration": "3:15"
-        },
-        {
-          "number": 5,
-          "name": "Obsessed",
-          "duration": "2:42"
-        },
-        {
-          "number": 6,
-          "name": "It's Me Again",
-          "duration": "2:53"
-        },
-        {
-          "number": 7,
-          "name": "Vertigo",
-          "duration": "3:32"
-        },
-        {
-          "number": 8,
-          "name": "Holy Ghost",
-          "duration": "3:13"
-        },
-        {
-          "number": 9,
-          "name": "Sleepyhead (Acoustic)",
-          "duration": "3:05"
-        },
-        {
-          "number": 10,
-          "name": "Sleepyhead (Live)",
-          "duration": "3:15"
         }
       ]
     },
@@ -1119,6 +1119,19 @@
       ]
     },
     {
+      "name": "Parasite",
+      "year": "2025",
+      "release_date": "2025-09-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/e1/87/72e18787-b3d3-4255-8637-239f9d95a949/890441.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Parasite",
+          "duration": "2:50"
+        }
+      ]
+    },
+    {
       "name": "Kill or be Killed / Fly on the Wall",
       "year": "2025",
       "release_date": "2025-08-27",
@@ -1133,19 +1146,6 @@
           "number": 2,
           "name": "Fly on the Wall",
           "duration": "2:47"
-        }
-      ]
-    },
-    {
-      "name": "Parasite",
-      "year": "2025",
-      "release_date": "2025-09-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/e1/87/72e18787-b3d3-4255-8637-239f9d95a949/890441.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Parasite",
-          "duration": "2:50"
         }
       ]
     },
@@ -1212,19 +1212,6 @@
       ]
     },
     {
-      "name": "ROT",
-      "year": "2024",
-      "release_date": "2024-12-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/e2/81/7be28185-2fca-60fd-0ef3-6c8adbc67b6d/776.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ROT",
-          "duration": "2:39"
-        }
-      ]
-    },
-    {
       "name": "I Can Fix You",
       "year": "2025",
       "release_date": "2025-10-15",
@@ -1234,6 +1221,19 @@
           "number": 1,
           "name": "I Can Fix You",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "ROT",
+      "year": "2024",
+      "release_date": "2024-12-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/e2/81/7be28185-2fca-60fd-0ef3-6c8adbc67b6d/776.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ROT",
+          "duration": "2:39"
         }
       ]
     },
@@ -1287,58 +1287,6 @@
       ]
     },
     {
-      "name": "When You're Around",
-      "year": "2020",
-      "release_date": "2020-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/64/e2/13/64e213dc-b3cc-6dd0-af90-faafd8795ded/20UMGIM41394.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "When You're Around",
-          "duration": "3:08"
-        }
-      ]
-    },
-    {
-      "name": "Day Dreaming",
-      "year": "2021",
-      "release_date": "2021-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e1/07/8f/e1078fcc-23f6-9412-0cc9-10e15352b9bf/193436261135_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Day Dreaming",
-          "duration": "2:55"
-        }
-      ]
-    },
-    {
-      "name": "Fvck Your Boyfriend",
-      "year": "2021",
-      "release_date": "2021-04-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/98/2b/6a982beb-eed0-19a6-c920-6e3f9a9a0968/193436258616_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fvck Your Boyfriend",
-          "duration": "2:55"
-        }
-      ]
-    },
-    {
-      "name": "Frozen",
-      "year": "2022",
-      "release_date": "2022-02-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/a3/23/6da323e7-ebe9-4449-cb2d-689dbd25ad62/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Frozen",
-          "duration": "2:48"
-        }
-      ]
-    },
-    {
       "name": "Chloe",
       "year": "2022",
       "release_date": "2022-09-23",
@@ -1352,28 +1300,15 @@
       ]
     },
     {
-      "name": "Here We Go Again",
-      "year": "2021",
-      "release_date": "2021-07-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/df/bb/ad/dfbbad27-9e98-c7a5-80d1-91ef54ea27aa/843357196008_01_img001.jpg/600x600bb.jpg",
+      "name": "When You're Around",
+      "year": "2020",
+      "release_date": "2020-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/64/e2/13/64e213dc-b3cc-6dd0-af90-faafd8795ded/20UMGIM41394.rgb.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Here We Go Again",
-          "duration": "2:36"
-        }
-      ]
-    },
-    {
-      "name": "Riptide",
-      "year": "2021",
-      "release_date": "2021-07-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6b/4c/eb/6b4ceb08-37ee-cc49-b72b-c4aaacc5aec9/193436264662_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Riptide",
-          "duration": "2:46"
+          "name": "When You're Around",
+          "duration": "3:08"
         }
       ]
     },
@@ -1427,6 +1362,123 @@
       ]
     },
     {
+      "name": "Day Dreaming",
+      "year": "2021",
+      "release_date": "2021-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e1/07/8f/e1078fcc-23f6-9412-0cc9-10e15352b9bf/193436261135_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Day Dreaming",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Fvck Your Boyfriend",
+      "year": "2021",
+      "release_date": "2021-04-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/98/2b/6a982beb-eed0-19a6-c920-6e3f9a9a0968/193436258616_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Fvck Your Boyfriend",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "1234",
+      "year": "2018",
+      "release_date": "2018-11-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ff/3a/53/ff3a53e1-33db-638e-7622-d8bd33d00aec/9547.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "1234",
+          "duration": "2:53"
+        }
+      ]
+    },
+    {
+      "name": "Walk on Me",
+      "year": "2018",
+      "release_date": "2018-08-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d8/6a/df/d86adf15-a611-7f07-b82d-e07e3bdba321/843357192178_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Walk on Me",
+          "duration": "2:31"
+        }
+      ]
+    },
+    {
+      "name": "Frozen",
+      "year": "2022",
+      "release_date": "2022-02-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6d/a3/23/6da323e7-ebe9-4449-cb2d-689dbd25ad62/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Frozen",
+          "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "name": "Tired",
+      "year": "2018",
+      "release_date": "2018-12-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ac/b5/d2/acb5d25e-0827-40bf-becc-a33f3036f2f5/9991.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tired",
+          "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Give You Up",
+      "year": "2018",
+      "release_date": "2018-10-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/44/85/70/44857065-9644-e404-3150-9d3f58659552/9347.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Give You Up",
+          "duration": "4:03"
+        }
+      ]
+    },
+    {
+      "name": "Here We Go Again",
+      "year": "2021",
+      "release_date": "2021-07-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/df/bb/ad/dfbbad27-9e98-c7a5-80d1-91ef54ea27aa/843357196008_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Here We Go Again",
+          "duration": "2:36"
+        }
+      ]
+    },
+    {
+      "name": "Riptide",
+      "year": "2021",
+      "release_date": "2021-07-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6b/4c/eb/6b4ceb08-37ee-cc49-b72b-c4aaacc5aec9/193436264662_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Riptide",
+          "duration": "2:46"
+        }
+      ]
+    },
+    {
       "name": "White Butterflies",
       "year": "2026",
       "release_date": "2026-06-24",
@@ -1436,6 +1488,42 @@
           "number": 1,
           "name": "White Butterflies",
           "duration": "3:02"
+        }
+      ]
+    },
+    {
+      "name": "House of Cards",
+      "year": "2025",
+      "release_date": "2025-02-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/23/bd/0823bd16-180d-30a3-45f1-715f26b5aa0d/604569.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Red Velvet (with Ari Abdul)",
+          "duration": "3:06"
+        },
+        {
+          "number": 2,
+          "name": "House of Cards",
+          "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "Carry Me",
+      "year": "2024",
+      "release_date": "2024-03-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/01/06/91/010691cd-5db4-dbb8-f592-bd26efaa1e7c/227099.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Carry Me",
+          "duration": "3:27"
+        },
+        {
+          "number": 2,
+          "name": "Born To Lose",
+          "duration": "3:00"
         }
       ]
     },
@@ -1479,28 +1567,28 @@
       ]
     },
     {
-      "name": "1234",
-      "year": "2018",
-      "release_date": "2018-11-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ff/3a/53/ff3a53e1-33db-638e-7622-d8bd33d00aec/9547.jpg/600x600bb.jpg",
+      "name": "Danny Phantom",
+      "year": "2021",
+      "release_date": "2021-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fb/bb/54/fbbb54cf-e9a4-8efe-f9f0-7b2389ec5ffb/193436268646_01_img001.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "1234",
-          "duration": "2:53"
+          "name": "Danny Phantom",
+          "duration": "2:14"
         }
       ]
     },
     {
-      "name": "Walk on Me",
+      "name": "Everything",
       "year": "2018",
-      "release_date": "2018-08-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d8/6a/df/d86adf15-a611-7f07-b82d-e07e3bdba321/843357192178_01_img001.jpg/600x600bb.jpg",
+      "release_date": "2018-02-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/01/76/81/0176814c-9448-7406-29f0-9c08e4649cca/6342.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Walk on Me",
-          "duration": "2:31"
+          "name": "Everything",
+          "duration": "3:05"
         }
       ]
     },
@@ -1540,120 +1628,6 @@
           "number": 1,
           "name": "Vixen",
           "duration": "2:54"
-        }
-      ]
-    },
-    {
-      "name": "Tired",
-      "year": "2018",
-      "release_date": "2018-12-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ac/b5/d2/acb5d25e-0827-40bf-becc-a33f3036f2f5/9991.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Tired",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
-      "name": "Give You Up",
-      "year": "2018",
-      "release_date": "2018-10-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/44/85/70/44857065-9644-e404-3150-9d3f58659552/9347.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Give You Up",
-          "duration": "4:03"
-        }
-      ]
-    },
-    {
-      "name": "See You In Hell",
-      "year": "2021",
-      "release_date": "2021-08-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/a6/23/d5a62389-ef26-f428-6514-e208522fbe0a/843357198965_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "See You In Hell",
-          "duration": "2:18"
-        }
-      ]
-    },
-    {
-      "name": "You Hate What I’ve Become",
-      "year": "2019",
-      "release_date": "2019-03-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/74/0a/60740afb-ea50-a387-547c-4ca6dc08b2b8/10541.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "You Hate What I’ve Become",
-          "duration": "2:45"
-        }
-      ]
-    },
-    {
-      "name": "House of Cards",
-      "year": "2025",
-      "release_date": "2025-02-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/23/bd/0823bd16-180d-30a3-45f1-715f26b5aa0d/604569.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Red Velvet (with Ari Abdul)",
-          "duration": "3:06"
-        },
-        {
-          "number": 2,
-          "name": "House of Cards",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
-      "name": "Carry Me",
-      "year": "2024",
-      "release_date": "2024-03-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/01/06/91/010691cd-5db4-dbb8-f592-bd26efaa1e7c/227099.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Carry Me",
-          "duration": "3:27"
-        },
-        {
-          "number": 2,
-          "name": "Born To Lose",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
-      "name": "Danny Phantom",
-      "year": "2021",
-      "release_date": "2021-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fb/bb/54/fbbb54cf-e9a4-8efe-f9f0-7b2389ec5ffb/193436268646_01_img001.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Danny Phantom",
-          "duration": "2:14"
-        }
-      ]
-    },
-    {
-      "name": "Everything",
-      "year": "2018",
-      "release_date": "2018-02-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/01/76/81/0176814c-9448-7406-29f0-9c08e4649cca/6342.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Everything",
-          "duration": "3:05"
         }
       ]
     },
@@ -1706,6 +1680,32 @@
           "number": 1,
           "name": "Pretty When U Cry",
           "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "See You In Hell",
+      "year": "2021",
+      "release_date": "2021-08-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d5/a6/23/d5a62389-ef26-f428-6514-e208522fbe0a/843357198965_01_img001.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "See You In Hell",
+          "duration": "2:18"
+        }
+      ]
+    },
+    {
+      "name": "You Hate What I’ve Become",
+      "year": "2019",
+      "release_date": "2019-03-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/74/0a/60740afb-ea50-a387-547c-4ca6dc08b2b8/10541.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "You Hate What I’ve Become",
+          "duration": "2:45"
         }
       ]
     },
@@ -2220,19 +2220,6 @@
       ]
     },
     {
-      "name": "Chlorine (Remix)",
-      "year": "2021",
-      "release_date": "2021-09-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/71/7e/14717e6d-5418-4500-406d-ec59e38c635c/20969.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chlorine (Remix)",
-          "duration": "2:55"
-        }
-      ]
-    },
-    {
       "name": "Quitter",
       "year": "2023",
       "release_date": "2023-04-12",
@@ -2252,6 +2239,19 @@
           "number": 3,
           "name": "Fingers",
           "duration": "2:26"
+        }
+      ]
+    },
+    {
+      "name": "Chlorine (Remix)",
+      "year": "2021",
+      "release_date": "2021-09-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/71/7e/14717e6d-5418-4500-406d-ec59e38c635c/20969.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chlorine (Remix)",
+          "duration": "2:55"
         }
       ]
     },

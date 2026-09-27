@@ -436,6 +436,32 @@
       ]
     },
     {
+      "name": "Plazma",
+      "year": "2025",
+      "release_date": "2025-01-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/c7/15/c4c7150a-c72d-c6ba-f07f-c9c4342ec764/4547366728958.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Plazma",
+          "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "地球儀 - Spinning Globe",
+      "year": "2023",
+      "release_date": "2023-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/5a/c9/455ac9fc-e38b-09c2-7e8f-79beeca04375/4547366634242.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chikyugi - Spinning Globe",
+          "duration": "4:33"
+        }
+      ]
+    },
+    {
       "name": "Lemon",
       "year": "2018",
       "release_date": "2018-03-14",
@@ -455,32 +481,6 @@
           "number": 3,
           "name": "Paper Flower",
           "duration": "4:35"
-        }
-      ]
-    },
-    {
-      "name": "地球儀 - Spinning Globe",
-      "year": "2023",
-      "release_date": "2023-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/5a/c9/455ac9fc-e38b-09c2-7e8f-79beeca04375/4547366634242.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chikyugi - Spinning Globe",
-          "duration": "4:33"
-        }
-      ]
-    },
-    {
-      "name": "Plazma",
-      "year": "2025",
-      "release_date": "2025-01-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/c7/15/c4c7150a-c72d-c6ba-f07f-c9c4342ec764/4547366728958.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Plazma",
-          "duration": "3:00"
         }
       ]
     },
@@ -537,19 +537,6 @@
       ]
     },
     {
-      "name": "毎日 - Every Day",
-      "year": "2024",
-      "release_date": "2024-05-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/30/e1/1330e1c2-be26-b960-8c94-896cbda4e6f4/4547366686784.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mainichi - Every Day",
-          "duration": "3:02"
-        }
-      ]
-    },
-    {
       "name": "烏 - Raven",
       "year": "2026",
       "release_date": "2026-06-15",
@@ -559,6 +546,19 @@
           "number": 1,
           "name": "Karasu - Raven",
           "duration": "4:08"
+        }
+      ]
+    },
+    {
+      "name": "毎日 - Every Day",
+      "year": "2024",
+      "release_date": "2024-05-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/30/e1/1330e1c2-be26-b960-8c94-896cbda4e6f4/4547366686784.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mainichi - Every Day",
+          "duration": "3:02"
         }
       ]
     },
@@ -606,29 +606,6 @@
       ]
     },
     {
-      "name": "LOSER / ナンバーナイン",
-      "year": "2016",
-      "release_date": "2016-09-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/aa/bc/03/aabc0399-bc01-16b5-05cf-199921c04079/jacket_SEXX01946B00Z_550.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Loser",
-          "duration": "4:05"
-        },
-        {
-          "number": 2,
-          "name": "Number Nine",
-          "duration": "4:23"
-        },
-        {
-          "number": 3,
-          "name": "Amen",
-          "duration": "4:34"
-        }
-      ]
-    },
-    {
       "name": "1991",
       "year": "2025",
       "release_date": "2025-10-13",
@@ -651,6 +628,29 @@
           "number": 1,
           "name": "Yodaka",
           "duration": "3:18"
+        }
+      ]
+    },
+    {
+      "name": "LOSER / ナンバーナイン",
+      "year": "2016",
+      "release_date": "2016-09-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/aa/bc/03/aabc0399-bc01-16b5-05cf-199921c04079/jacket_SEXX01946B00Z_550.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Loser",
+          "duration": "4:05"
+        },
+        {
+          "number": 2,
+          "name": "Number Nine",
+          "duration": "4:23"
+        },
+        {
+          "number": 3,
+          "name": "Amen",
+          "duration": "4:34"
         }
       ]
     },

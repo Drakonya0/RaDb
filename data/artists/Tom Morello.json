@@ -71,74 +71,6 @@
       ]
     },
     {
-      "name": "The Atlas Underground Flood",
-      "year": "2021",
-      "release_date": "2021-12-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/a6/59/4fa65916-e3ad-8125-2afd-fb4214cc7902/810090090726.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A Radical in the Family (feat. San Holo)",
-          "duration": "3:44"
-        },
-        {
-          "number": 2,
-          "name": "Human (feat. Barns Courtney)",
-          "duration": "3:04"
-        },
-        {
-          "number": 3,
-          "name": "Hard Times (feat. Nathaniel Rateliff, Jim Jones & Chipotle Joe)",
-          "duration": "2:42"
-        },
-        {
-          "number": 4,
-          "name": "You'll Get Yours (feat. X Ambassadors)",
-          "duration": "3:08"
-        },
-        {
-          "number": 5,
-          "name": "I Have Seen the Way (feat. Alex Lifeson, Kirk Hammett & Dr. Fresch)",
-          "duration": "3:46"
-        },
-        {
-          "number": 6,
-          "name": "The Lost Cause (feat. Manchester Orchestra)",
-          "duration": "4:27"
-        },
-        {
-          "number": 7,
-          "name": "The Maze (feat. Andrew McMahon In the Wilderness)",
-          "duration": "4:09"
-        },
-        {
-          "number": 8,
-          "name": "Ride At Dawn (feat. BreakCode)",
-          "duration": "3:58"
-        },
-        {
-          "number": 9,
-          "name": "Raising Hell (feat. Ben Harper)",
-          "duration": "3:21"
-        },
-        {
-          "number": 10,
-          "name": "The Bachelor (feat. IDLES)",
-          "duration": "2:58"
-        },
-        {
-          "number": 11,
-          "name": "Parallels (feat. Jim James)",
-          "duration": "4:29"
-        },
-        {
-          "number": 12,
-          "name": "Warrior Spirit (feat. Rodrigo y Gabriela)",
-          "duration": "3:17"
-        }
-      ]
-    },
-    {
       "name": "Everyone Gets Everything They Want",
       "year": "2026",
       "release_date": "2026-09-25",
@@ -203,6 +135,74 @@
           "number": 12,
           "name": "They Can't Kill Us All",
           "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "The Atlas Underground Flood",
+      "year": "2021",
+      "release_date": "2021-12-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4f/a6/59/4fa65916-e3ad-8125-2afd-fb4214cc7902/810090090726.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A Radical in the Family (feat. San Holo)",
+          "duration": "3:44"
+        },
+        {
+          "number": 2,
+          "name": "Human (feat. Barns Courtney)",
+          "duration": "3:04"
+        },
+        {
+          "number": 3,
+          "name": "Hard Times (feat. Nathaniel Rateliff, Jim Jones & Chipotle Joe)",
+          "duration": "2:42"
+        },
+        {
+          "number": 4,
+          "name": "You'll Get Yours (feat. X Ambassadors)",
+          "duration": "3:08"
+        },
+        {
+          "number": 5,
+          "name": "I Have Seen the Way (feat. Alex Lifeson, Kirk Hammett & Dr. Fresch)",
+          "duration": "3:46"
+        },
+        {
+          "number": 6,
+          "name": "The Lost Cause (feat. Manchester Orchestra)",
+          "duration": "4:27"
+        },
+        {
+          "number": 7,
+          "name": "The Maze (feat. Andrew McMahon In the Wilderness)",
+          "duration": "4:09"
+        },
+        {
+          "number": 8,
+          "name": "Ride At Dawn (feat. BreakCode)",
+          "duration": "3:58"
+        },
+        {
+          "number": 9,
+          "name": "Raising Hell (feat. Ben Harper)",
+          "duration": "3:21"
+        },
+        {
+          "number": 10,
+          "name": "The Bachelor (feat. IDLES)",
+          "duration": "2:58"
+        },
+        {
+          "number": 11,
+          "name": "Parallels (feat. Jim James)",
+          "duration": "4:29"
+        },
+        {
+          "number": 12,
+          "name": "Warrior Spirit (feat. Rodrigo y Gabriela)",
+          "duration": "3:17"
         }
       ]
     },
@@ -726,19 +726,6 @@
       ]
     },
     {
-      "name": "Just Like 73 (Tom Morello Version) [feat. Tom Morello]",
-      "year": "2024",
-      "release_date": "2024-06-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/65/26/036526e1-94a9-1ae1-79e5-7ec0aa0add5c/24UMGIM46872.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Just Like 73 (feat. Tom Morello) [Tom Morello Version]",
-          "duration": "3:43"
-        }
-      ]
-    },
-    {
       "name": "Everything Burns (feat. Beartooth)",
       "year": "2025",
       "release_date": "2025-12-17",
@@ -748,6 +735,19 @@
           "number": 1,
           "name": "Everything Burns (feat. Beartooth)",
           "duration": "3:01"
+        }
+      ]
+    },
+    {
+      "name": "Just Like 73 (Tom Morello Version) [feat. Tom Morello]",
+      "year": "2024",
+      "release_date": "2024-06-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/65/26/036526e1-94a9-1ae1-79e5-7ec0aa0add5c/24UMGIM46872.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Just Like 73 (feat. Tom Morello) [Tom Morello Version]",
+          "duration": "3:43"
         }
       ]
     },
@@ -1087,6 +1087,24 @@
       ]
     },
     {
+      "name": "The Mexican (feat. Tom Morello & K.I.D.)",
+      "year": "2015",
+      "release_date": "2015-03-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/f7/b8/6ff7b883-a76a-52e6-9136-b39c4a433a8f/889176693045_.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Mexican (feat. Tom Morello & K.I.D.)",
+          "duration": "3:48"
+        },
+        {
+          "number": 2,
+          "name": "The Mexican (Instrumental) [feat. Tom Morello]",
+          "duration": "3:48"
+        }
+      ]
+    },
+    {
       "name": "Consumption Town (feat. Tom Morello)",
       "year": "2019",
       "release_date": "2019-05-17",
@@ -1135,24 +1153,6 @@
           "number": 1,
           "name": "Soldier In the Army of Love",
           "duration": "2:58"
-        }
-      ]
-    },
-    {
-      "name": "The Mexican (feat. Tom Morello & K.I.D.)",
-      "year": "2015",
-      "release_date": "2015-03-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/f7/b8/6ff7b883-a76a-52e6-9136-b39c4a433a8f/889176693045_.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Mexican (feat. Tom Morello & K.I.D.)",
-          "duration": "3:48"
-        },
-        {
-          "number": 2,
-          "name": "The Mexican (Instrumental) [feat. Tom Morello]",
-          "duration": "3:48"
         }
       ]
     },

@@ -1149,74 +1149,6 @@
       ]
     },
     {
-      "name": "Dua Lipa",
-      "year": "2017",
-      "release_date": "2017-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/e7/66/a3e76632-7037-4db3-7711-51e140089a81/190295806637.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Genesis",
-          "duration": "3:25"
-        },
-        {
-          "number": 2,
-          "name": "Lost In Your Light (feat. Miguel)",
-          "duration": "3:23"
-        },
-        {
-          "number": 3,
-          "name": "Hotter Than Hell",
-          "duration": "3:07"
-        },
-        {
-          "number": 4,
-          "name": "Be the One",
-          "duration": "3:22"
-        },
-        {
-          "number": 5,
-          "name": "IDGAF",
-          "duration": "3:35"
-        },
-        {
-          "number": 6,
-          "name": "Blow Your Mind (Mwah)",
-          "duration": "2:58"
-        },
-        {
-          "number": 7,
-          "name": "Garden",
-          "duration": "3:47"
-        },
-        {
-          "number": 8,
-          "name": "No Goodbyes",
-          "duration": "3:36"
-        },
-        {
-          "number": 9,
-          "name": "Thinking 'Bout You",
-          "duration": "2:51"
-        },
-        {
-          "number": 10,
-          "name": "New Rules",
-          "duration": "3:29"
-        },
-        {
-          "number": 11,
-          "name": "Begging",
-          "duration": "3:14"
-        },
-        {
-          "number": 12,
-          "name": "Homesick",
-          "duration": "3:50"
-        }
-      ]
-    },
-    {
       "name": "Club Future Nostalgia",
       "year": "2020",
       "release_date": "2020-09-11",
@@ -1306,6 +1238,74 @@
           "number": 17,
           "name": "Good in Bed (Zach Witness Remix)",
           "duration": "3:53"
+        }
+      ]
+    },
+    {
+      "name": "Dua Lipa",
+      "year": "2017",
+      "release_date": "2017-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a3/e7/66/a3e76632-7037-4db3-7711-51e140089a81/190295806637.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Genesis",
+          "duration": "3:25"
+        },
+        {
+          "number": 2,
+          "name": "Lost In Your Light (feat. Miguel)",
+          "duration": "3:23"
+        },
+        {
+          "number": 3,
+          "name": "Hotter Than Hell",
+          "duration": "3:07"
+        },
+        {
+          "number": 4,
+          "name": "Be the One",
+          "duration": "3:22"
+        },
+        {
+          "number": 5,
+          "name": "IDGAF",
+          "duration": "3:35"
+        },
+        {
+          "number": 6,
+          "name": "Blow Your Mind (Mwah)",
+          "duration": "2:58"
+        },
+        {
+          "number": 7,
+          "name": "Garden",
+          "duration": "3:47"
+        },
+        {
+          "number": 8,
+          "name": "No Goodbyes",
+          "duration": "3:36"
+        },
+        {
+          "number": 9,
+          "name": "Thinking 'Bout You",
+          "duration": "2:51"
+        },
+        {
+          "number": 10,
+          "name": "New Rules",
+          "duration": "3:29"
+        },
+        {
+          "number": 11,
+          "name": "Begging",
+          "duration": "3:14"
+        },
+        {
+          "number": 12,
+          "name": "Homesick",
+          "duration": "3:50"
         }
       ]
     },
@@ -2256,19 +2256,6 @@
       ]
     },
     {
-      "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
-      "year": "2021",
-      "release_date": "2021-02-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/c2/df/62c2df7c-7777-e61f-14d7-60684c7fe4a1/886449066063.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
-          "duration": "3:46"
-        }
-      ]
-    },
-    {
       "name": "New Rules (Acoustic)",
       "year": "2017",
       "release_date": "2017-10-20",
@@ -2278,6 +2265,32 @@
           "number": 1,
           "name": "New Rules (Acoustic)",
           "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "Hotter Than Hell (Matoma Remix)",
+      "year": "2016",
+      "release_date": "2016-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/d6/2e/db/d62edb52-2cba-baba-d061-60c6338950cb/190295921071.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hotter Than Hell (Matoma Remix)",
+          "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
+      "year": "2021",
+      "release_date": "2021-02-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/62/c2/df/62c2df7c-7777-e61f-14d7-60684c7fe4a1/886449066063.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
+          "duration": "3:46"
         }
       ]
     },
@@ -2323,19 +2336,6 @@
       ]
     },
     {
-      "name": "Hotter Than Hell (Matoma Remix)",
-      "year": "2016",
-      "release_date": "2016-06-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/d6/2e/db/d62edb52-2cba-baba-d061-60c6338950cb/190295921071.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hotter Than Hell (Matoma Remix)",
-          "duration": "3:39"
-        }
-      ]
-    },
-    {
       "name": "Electricity (feat. Dua Lipa) [Acoustic]",
       "year": "2018",
       "release_date": "2018-10-19",
@@ -2349,19 +2349,6 @@
       ]
     },
     {
-      "name": "We're Good (Dillon Francis Remix)",
-      "year": "2021",
-      "release_date": "2021-03-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f5/d2/d4/f5d2d4f6-84a8-3228-1d36-2a5d01fe06aa/190296751332.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "We're Good (Dillon Francis Remix)",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "Physical (feat. Troye Sivan)",
       "year": "2025",
       "release_date": "2025-03-28",
@@ -2371,6 +2358,19 @@
           "number": 1,
           "name": "Physical (feat. Troye Sivan)",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "We're Good (Dillon Francis Remix)",
+      "year": "2021",
+      "release_date": "2021-03-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f5/d2/d4/f5d2d4f6-84a8-3228-1d36-2a5d01fe06aa/190296751332.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "We're Good (Dillon Francis Remix)",
+          "duration": "3:06"
         }
       ]
     },
@@ -2491,19 +2491,6 @@
       ]
     },
     {
-      "name": "Break My Heart (Jax Jones Midnight Snack Remix)",
-      "year": "2020",
-      "release_date": "2020-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bf/f1/8c/bff18cbb-43d1-acbb-8c20-d775fdb0867d/190295211769.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Break My Heart (Jax Jones Midnight Snack Remix)",
-          "duration": "3:43"
-        }
-      ]
-    },
-    {
       "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\") [Acoustic]",
       "year": "2019",
       "release_date": "2019-03-22",
@@ -2513,6 +2500,19 @@
           "number": 1,
           "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\") [Acoustic]",
           "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Break My Heart (Jax Jones Midnight Snack Remix)",
+      "year": "2020",
+      "release_date": "2020-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bf/f1/8c/bff18cbb-43d1-acbb-8c20-d775fdb0867d/190295211769.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Break My Heart (Jax Jones Midnight Snack Remix)",
+          "duration": "3:43"
         }
       ]
     },
@@ -2608,19 +2608,6 @@
       ]
     },
     {
-      "name": "Training Season (Chloé Caillet Mix)",
-      "year": "2024",
-      "release_date": "2024-03-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/38/29/dc382948-2723-6ecf-d73e-35aadf18fc3c/5021732269119.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Training Season (Chloé Caillet Mix)",
-          "duration": "4:55"
-        }
-      ]
-    },
-    {
       "name": "Physical (Alok Remix)",
       "year": "2020",
       "release_date": "2020-04-09",
@@ -2630,6 +2617,19 @@
           "number": 1,
           "name": "Physical (Alok Remix)",
           "duration": "3:09"
+        }
+      ]
+    },
+    {
+      "name": "Training Season (Chloé Caillet Mix)",
+      "year": "2024",
+      "release_date": "2024-03-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/38/29/dc382948-2723-6ecf-d73e-35aadf18fc3c/5021732269119.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Training Season (Chloé Caillet Mix)",
+          "duration": "4:55"
         }
       ]
     },
@@ -2647,6 +2647,19 @@
       ]
     },
     {
+      "name": "These Walls (feat. Pierre de Maere)",
+      "year": "2024",
+      "release_date": "2024-11-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/87/8b/f3878b9f-1c74-7ffa-1421-1b3c3b4e10b9/5021732538475.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "These Walls (feat. Pierre de Maere)",
+          "duration": "3:37"
+        }
+      ]
+    },
+    {
       "name": "My Love (feat. Major Lazer, WizKid & Dua Lipa) [Major Lazer VIP Remix]",
       "year": "2017",
       "release_date": "2017-09-08",
@@ -2656,19 +2669,6 @@
           "number": 1,
           "name": "My Love (feat. Major Lazer, WizKid & Dua Lipa) [Major Lazer VIP Remix]",
           "duration": "3:46"
-        }
-      ]
-    },
-    {
-      "name": "Break My Heart (Joris Voorn Remix)",
-      "year": "2020",
-      "release_date": "2020-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c7/02/3e/c7023e2f-7c0f-0605-51de-03db1e51cd47/190295211752.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Break My Heart (Joris Voorn Remix)",
-          "duration": "6:32"
         }
       ]
     },
@@ -2686,15 +2686,15 @@
       ]
     },
     {
-      "name": "These Walls (feat. Pierre de Maere)",
-      "year": "2024",
-      "release_date": "2024-11-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/87/8b/f3878b9f-1c74-7ffa-1421-1b3c3b4e10b9/5021732538475.jpg/600x600bb.jpg",
+      "name": "Break My Heart (Joris Voorn Remix)",
+      "year": "2020",
+      "release_date": "2020-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c7/02/3e/c7023e2f-7c0f-0605-51de-03db1e51cd47/190295211752.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "These Walls (feat. Pierre de Maere)",
-          "duration": "3:37"
+          "name": "Break My Heart (Joris Voorn Remix)",
+          "duration": "6:32"
         }
       ]
     },
@@ -3034,34 +3034,6 @@
       ]
     },
     {
-      "name": "IDGAF",
-      "year": "2018",
-      "release_date": "2018-05-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/7d/e4/107de437-122a-0092-ded7-05143d61aa85/5021732759122.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "IDGAF",
-          "duration": "3:37"
-        },
-        {
-          "number": 2,
-          "name": "IDGAF (Acoustic)",
-          "duration": "3:37"
-        },
-        {
-          "number": 3,
-          "name": "IDGAF (Instrumental)",
-          "duration": "3:38"
-        },
-        {
-          "number": 4,
-          "name": "IDGAF (Acapella)",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
       "name": "Be The One",
       "year": "2016",
       "release_date": "2016-05-02",
@@ -3107,6 +3079,34 @@
           "number": 1,
           "name": "Illusion (Instrumental)",
           "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "IDGAF",
+      "year": "2018",
+      "release_date": "2018-05-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/7d/e4/107de437-122a-0092-ded7-05143d61aa85/5021732759122.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "IDGAF",
+          "duration": "3:37"
+        },
+        {
+          "number": 2,
+          "name": "IDGAF (Acoustic)",
+          "duration": "3:37"
+        },
+        {
+          "number": 3,
+          "name": "IDGAF (Instrumental)",
+          "duration": "3:38"
+        },
+        {
+          "number": 4,
+          "name": "IDGAF (Acapella)",
+          "duration": "3:36"
         }
       ]
     },
@@ -3747,6 +3747,34 @@
       ]
     },
     {
+      "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\") [Remixes]",
+      "year": "2019",
+      "release_date": "2019-04-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/77/9b/3f779b6e-820d-3da2-308c-8e73c0151473/190295447496.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\") [DJ Shadow and NastyNasty Remix]",
+          "duration": "3:55"
+        },
+        {
+          "number": 2,
+          "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\") [Maya Jane Coles Rework]",
+          "duration": "3:07"
+        },
+        {
+          "number": 3,
+          "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\") [aboutagirl Remix]",
+          "duration": "3:24"
+        },
+        {
+          "number": 4,
+          "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\") [Calibre Remix]",
+          "duration": "3:39"
+        }
+      ]
+    },
+    {
       "name": "Scared to Be Lonely (Remixes, Vol. 2)",
       "year": "2017",
       "release_date": "2017-03-24",
@@ -3781,34 +3809,6 @@
           "number": 6,
           "name": "Scared to Be Lonely (Joe Mason Remix)",
           "duration": "3:27"
-        }
-      ]
-    },
-    {
-      "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\") [Remixes]",
-      "year": "2019",
-      "release_date": "2019-04-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/77/9b/3f779b6e-820d-3da2-308c-8e73c0151473/190295447496.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\") [DJ Shadow and NastyNasty Remix]",
-          "duration": "3:55"
-        },
-        {
-          "number": 2,
-          "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\") [Maya Jane Coles Rework]",
-          "duration": "3:07"
-        },
-        {
-          "number": 3,
-          "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\") [aboutagirl Remix]",
-          "duration": "3:24"
-        },
-        {
-          "number": 4,
-          "name": "Swan Song (From the Motion Picture \"Alita: Battle Angel\") [Calibre Remix]",
-          "duration": "3:39"
         }
       ]
     },

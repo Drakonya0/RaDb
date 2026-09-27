@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Paix sur nous",
-      "year": "2024",
-      "release_date": "2024-02-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/c2/35/c7c23552-c612-2bcf-e2d6-6ad42c28fb00/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Paix sur nous",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
       "name": "FFP",
       "year": "2023",
       "release_date": "2023-11-17",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "FFP",
           "duration": "1:55"
+        }
+      ]
+    },
+    {
+      "name": "Paix sur nous",
+      "year": "2024",
+      "release_date": "2024-02-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/c2/35/c7c23552-c612-2bcf-e2d6-6ad42c28fb00/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Paix sur nous",
+          "duration": "2:19"
         }
       ]
     },
@@ -102,15 +102,15 @@
       ]
     },
     {
-      "name": "Alabas",
+      "name": "Chaima",
       "year": "2021",
-      "release_date": "2021-08-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/14/30/0714309e-5fdc-1e49-c96b-e6aaed3ffb23/cover.jpg/600x600bb.jpg",
+      "release_date": "2021-02-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/ab/da/27abda42-a01f-7d1f-0016-9841a5db595a/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Alabas",
-          "duration": "4:35"
+          "name": "Chaima",
+          "duration": "4:05"
         }
       ]
     },
@@ -122,15 +122,15 @@
       "tracks": []
     },
     {
-      "name": "Chaima",
+      "name": "Alabas",
       "year": "2021",
-      "release_date": "2021-02-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/27/ab/da/27abda42-a01f-7d1f-0016-9841a5db595a/cover.jpg/600x600bb.jpg",
+      "release_date": "2021-08-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/14/30/0714309e-5fdc-1e49-c96b-e6aaed3ffb23/cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Chaima",
-          "duration": "4:05"
+          "name": "Alabas",
+          "duration": "4:35"
         }
       ]
     }
