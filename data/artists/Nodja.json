@@ -1,15 +1,401 @@
 {
   "name": "Nodja",
-  "id": 1527293636,
-  "albums": [],
-  "singles": [
+  "id": 367771251,
+  "albums": [
     {
-      "name": "Y'a du monde (Cuts DJ Keshkoon)",
-      "year": "2015",
-      "release_date": "2015-05-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/a5/94/a7/a594a7ef-dffe-e13e-0889-eabbe9ffb9c1/cover.jpg/600x600bb.jpg",
-      "tracks": []
+      "name": "\"N\"",
+      "year": "2017",
+      "release_date": "2017-04-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a4/df/8a/a4df8a35-54af-615c-bbbb-47e16ada5f75/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "De janvier à décembre",
+          "duration": "2:57"
+        },
+        {
+          "number": 2,
+          "name": "Ça s'mérite",
+          "duration": "4:03"
+        },
+        {
+          "number": 3,
+          "name": "Il m'faut rien d'plus",
+          "duration": "5:34"
+        },
+        {
+          "number": 4,
+          "name": "Que dalle",
+          "duration": "3:37"
+        },
+        {
+          "number": 5,
+          "name": "L'heure du rappel (feat. Lexworxx)",
+          "duration": "4:17"
+        },
+        {
+          "number": 6,
+          "name": "En direct de la nuit (feat. DJ Masta)",
+          "duration": "2:45"
+        },
+        {
+          "number": 7,
+          "name": "Sous une pierre sans nom",
+          "duration": "3:19"
+        },
+        {
+          "number": 8,
+          "name": "Insomnia",
+          "duration": "3:36"
+        },
+        {
+          "number": 9,
+          "name": "école Guerrière",
+          "duration": "3:49"
+        },
+        {
+          "number": 10,
+          "name": "Campeones del asfalto",
+          "duration": "3:13"
+        },
+        {
+          "number": 11,
+          "name": "Interlude",
+          "duration": "1:01"
+        },
+        {
+          "number": 12,
+          "name": "Ol'skool Boy (feat. Cenza)",
+          "duration": "5:08"
+        },
+        {
+          "number": 13,
+          "name": "P.m.u.",
+          "duration": "3:07"
+        },
+        {
+          "number": 14,
+          "name": "Flicage (feat. Premiere Ligne)",
+          "duration": "4:12"
+        },
+        {
+          "number": 15,
+          "name": "Maigritude",
+          "duration": "4:38"
+        }
+      ]
+    },
+    {
+      "name": "Mon sal'air",
+      "year": "2014",
+      "release_date": "2014-06-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ac/93/7c/ac937cfc-3b47-c595-2252-028c38fc3f05/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Tout part de là",
+          "duration": "4:17"
+        },
+        {
+          "number": 2,
+          "name": "Mon rap",
+          "duration": "3:58"
+        },
+        {
+          "number": 3,
+          "name": "Putain d'routine",
+          "duration": "4:48"
+        },
+        {
+          "number": 4,
+          "name": "Va chier ailleurs",
+          "duration": "3:47"
+        },
+        {
+          "number": 5,
+          "name": "Time Out",
+          "duration": "2:33"
+        },
+        {
+          "number": 6,
+          "name": "La saleté (feat. DJ Persecut)",
+          "duration": "4:24"
+        },
+        {
+          "number": 7,
+          "name": "Wesh le faf",
+          "duration": "3:50"
+        },
+        {
+          "number": 8,
+          "name": "Laisse nous la scène (feat. L'uzine)",
+          "duration": "3:24"
+        },
+        {
+          "number": 9,
+          "name": "Pour les braves",
+          "duration": "4:04"
+        }
+      ]
+    },
+    {
+      "name": "Artisanerie",
+      "year": "2025",
+      "release_date": "2025-10-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/c4/aa/bec4aacb-64d1-26ea-8a42-03c82bb56d9e/3664216094375.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Artisanat",
+          "duration": "2:58"
+        },
+        {
+          "number": 2,
+          "name": "Mauvaise voie",
+          "duration": "3:25"
+        },
+        {
+          "number": 3,
+          "name": "Artistes vandales",
+          "duration": "3:00"
+        },
+        {
+          "number": 4,
+          "name": "Old timer (feat. L'Uzine)",
+          "duration": "4:28"
+        },
+        {
+          "number": 5,
+          "name": "Première ligne",
+          "duration": "3:00"
+        },
+        {
+          "number": 6,
+          "name": "Free day (feat. Loko)",
+          "duration": "4:00"
+        },
+        {
+          "number": 7,
+          "name": "Sans laisse",
+          "duration": "3:26"
+        },
+        {
+          "number": 8,
+          "name": "Pilule bleue",
+          "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "Anarshit",
+      "year": "2023",
+      "release_date": "2023-06-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/80/7b/ca807bca-a5ab-0c49-7183-69da2ee7b7d9/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "La question (Intro) [feat. DJ Highstyle]",
+          "duration": "1:05"
+        },
+        {
+          "number": 2,
+          "name": "Vise les vitres",
+          "duration": "4:04"
+        },
+        {
+          "number": 3,
+          "name": "Noctambule",
+          "duration": "4:00"
+        },
+        {
+          "number": 4,
+          "name": "Crème de l'under",
+          "duration": "3:21"
+        },
+        {
+          "number": 5,
+          "name": "L'homme de Marie",
+          "duration": "3:52"
+        },
+        {
+          "number": 6,
+          "name": "La dalle (feat. Paco)",
+          "duration": "4:14"
+        },
+        {
+          "number": 7,
+          "name": "Coton (Interlude)",
+          "duration": "1:03"
+        },
+        {
+          "number": 8,
+          "name": "Que d'l'amour",
+          "duration": "3:13"
+        },
+        {
+          "number": 9,
+          "name": "Piqûre de rappel",
+          "duration": "3:14"
+        },
+        {
+          "number": 10,
+          "name": "On vient te remplacer",
+          "duration": "3:53"
+        },
+        {
+          "number": 11,
+          "name": "En noir (feat. FL-How)",
+          "duration": "3:12"
+        },
+        {
+          "number": 12,
+          "name": "Tatpa (feat. Amesty)",
+          "duration": "3:41"
+        },
+        {
+          "number": 13,
+          "name": "Miroir",
+          "duration": "2:36"
+        },
+        {
+          "number": 14,
+          "name": "Dernier verre (Outro)",
+          "duration": "2:10"
+        }
+      ]
+    },
+    {
+      "name": "Madafaka",
+      "year": "2020",
+      "release_date": "2020-06-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/43/70/2c/43702cca-27a5-d295-c6a8-5f300a052839/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Debout (Intro)",
+          "duration": "1:32"
+        },
+        {
+          "number": 2,
+          "name": "Fais chauffer",
+          "duration": "3:28"
+        },
+        {
+          "number": 3,
+          "name": "Il parait qu'le taf libère l'homme",
+          "duration": "2:27"
+        },
+        {
+          "number": 4,
+          "name": "Tchak Tchak (feat. DJ Highstyle)",
+          "duration": "3:49"
+        },
+        {
+          "number": 5,
+          "name": "Avant on était amis",
+          "duration": "4:15"
+        },
+        {
+          "number": 6,
+          "name": "Le bal des kassos",
+          "duration": "3:37"
+        },
+        {
+          "number": 7,
+          "name": "A mon tour de croquer",
+          "duration": "3:00"
+        },
+        {
+          "number": 8,
+          "name": "Survivants des temps modernes",
+          "duration": "3:33"
+        },
+        {
+          "number": 9,
+          "name": "Le bloc est noir (Interlude)",
+          "duration": "1:23"
+        },
+        {
+          "number": 10,
+          "name": "Na Nana Nana (feat. Drugz Trumpet)",
+          "duration": "3:41"
+        },
+        {
+          "number": 11,
+          "name": "Culture (feat. L'uzine)",
+          "duration": "5:37"
+        },
+        {
+          "number": 12,
+          "name": "Viens",
+          "duration": "4:05"
+        },
+        {
+          "number": 13,
+          "name": "Quinze ans d'rap",
+          "duration": "2:50"
+        },
+        {
+          "number": 14,
+          "name": "Ce côté sombre",
+          "duration": "5:05"
+        }
+      ]
     }
   ],
-  "eps": []
+  "singles": [
+    {
+      "name": "Free day (feat. Loko)",
+      "year": "2025",
+      "release_date": "2025-07-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/57/44/3657449c-19c8-08e4-e0ca-f6fdfc10366b/3664216091848.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Free day (feat. Loko)",
+          "duration": "4:00"
+        }
+      ]
+    }
+  ],
+  "eps": [
+    {
+      "name": "Sud crade",
+      "year": "2021",
+      "release_date": "2021-11-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/8e/8f/5d8e8fed-0a6a-85bb-cba8-de7965a3d291/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Allume ta batte (feat. DJ Highstyle)",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "Les bronzés font du street",
+          "duration": "3:51"
+        },
+        {
+          "number": 3,
+          "name": "Nid de coucou",
+          "duration": "3:54"
+        },
+        {
+          "number": 4,
+          "name": "Tour de pise",
+          "duration": "3:28"
+        },
+        {
+          "number": 5,
+          "name": "Adios patron",
+          "duration": "3:42"
+        },
+        {
+          "number": 6,
+          "name": "Everyday (feat. Drugz Trumpet)",
+          "duration": "7:26"
+        }
+      ]
+    }
+  ]
 }

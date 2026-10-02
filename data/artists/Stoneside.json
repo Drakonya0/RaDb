@@ -3,49 +3,6 @@
   "id": 1556654795,
   "albums": [
     {
-      "name": "The Water",
-      "year": "2021",
-      "release_date": "2021-05-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/29/a8/91/29a89145-0a7d-0358-7dab-5c91a7cb2859/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "A History of Violence",
-          "duration": "5:03"
-        },
-        {
-          "number": 2,
-          "name": "God Save the King",
-          "duration": "4:56"
-        },
-        {
-          "number": 3,
-          "name": "Integrity vs. Despair",
-          "duration": "4:31"
-        },
-        {
-          "number": 4,
-          "name": "One Day as a Wolf",
-          "duration": "6:38"
-        },
-        {
-          "number": 5,
-          "name": "No Shelter",
-          "duration": "3:53"
-        },
-        {
-          "number": 6,
-          "name": "When They Took You",
-          "duration": "4:35"
-        },
-        {
-          "number": 7,
-          "name": "Terlingua",
-          "duration": "5:33"
-        }
-      ]
-    },
-    {
       "name": "God of the Mountain",
       "year": "2023",
       "release_date": "2023-06-23",
@@ -90,6 +47,49 @@
           "number": 8,
           "name": "Exonerate",
           "duration": "5:18"
+        }
+      ]
+    },
+    {
+      "name": "The Water",
+      "year": "2021",
+      "release_date": "2021-05-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/29/a8/91/29a89145-0a7d-0358-7dab-5c91a7cb2859/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A History of Violence",
+          "duration": "5:03"
+        },
+        {
+          "number": 2,
+          "name": "God Save the King",
+          "duration": "4:56"
+        },
+        {
+          "number": 3,
+          "name": "Integrity vs. Despair",
+          "duration": "4:31"
+        },
+        {
+          "number": 4,
+          "name": "One Day as a Wolf",
+          "duration": "6:38"
+        },
+        {
+          "number": 5,
+          "name": "No Shelter",
+          "duration": "3:53"
+        },
+        {
+          "number": 6,
+          "name": "When They Took You",
+          "duration": "4:35"
+        },
+        {
+          "number": 7,
+          "name": "Terlingua",
+          "duration": "5:33"
         }
       ]
     },
@@ -533,6 +533,19 @@
       ]
     },
     {
+      "name": "Work on This",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/1b/f6/161bf638-d54b-7db2-e0b4-227d9b8e14e4/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Work on This",
+          "duration": "6:08"
+        }
+      ]
+    },
+    {
       "name": "God Save the King",
       "year": "2021",
       "release_date": "2021-05-24",
@@ -621,19 +634,6 @@
       ]
     },
     {
-      "name": "Suicide Silence",
-      "year": "2022",
-      "release_date": "2022-04-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/6c/ab/476cab7e-3547-c20c-8235-09cb0b288b5f/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Suicide Silence",
-          "duration": "4:44"
-        }
-      ]
-    },
-    {
       "name": "Letters to the Afterlife",
       "year": "2023",
       "release_date": "2023-04-13",
@@ -656,6 +656,19 @@
           "number": 1,
           "name": "Dirt Road",
           "duration": "6:34"
+        }
+      ]
+    },
+    {
+      "name": "Suicide Silence",
+      "year": "2022",
+      "release_date": "2022-04-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/47/6c/ab/476cab7e-3547-c20c-8235-09cb0b288b5f/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Suicide Silence",
+          "duration": "4:44"
         }
       ]
     },

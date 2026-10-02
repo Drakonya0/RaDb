@@ -727,19 +727,6 @@
       ]
     },
     {
-      "name": "MAXIS BY RYAN JHUN Pt. 2",
-      "year": "2021",
-      "release_date": "2021-09-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/1e/75/881e7599-cec1-70bf-dc73-c961872e594d/8809961045424.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Not Friends (Sung by 희진, 김립, 진솔 & 이브)",
-          "duration": "3:16"
-        }
-      ]
-    },
-    {
       "name": "The Carol 2.0 (ViVi, Choerry & Yves)",
       "year": "2017",
       "release_date": "2017-12-13",
@@ -771,6 +758,19 @@
       "release_date": "2021-06-28",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/ef/4f/c7ef4f5f-e510-dd81-7213-17f4d57e15a9/21UMGIM49997.rgb.jpg/600x600bb.jpg",
       "tracks": []
+    },
+    {
+      "name": "MAXIS BY RYAN JHUN Pt. 2",
+      "year": "2021",
+      "release_date": "2021-09-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/d6/63/32d66379-b727-106a-5bc9-372fda9459b0/8809961045424.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Not Friends",
+          "duration": "3:15"
+        }
+      ]
     }
   ],
   "eps": [
@@ -945,39 +945,6 @@
       ]
     },
     {
-      "name": "Not Friends Special Edition",
-      "year": "2021",
-      "release_date": "2021-10-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/ac/b4/b8acb463-de90-c3cc-43a0-0f9a8a8db646/8809961045431.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Not Friends (ALAWN Remix Version)",
-          "duration": "4:32"
-        },
-        {
-          "number": 2,
-          "name": "Not Friends (TIDO Remix Version)",
-          "duration": "3:32"
-        },
-        {
-          "number": 3,
-          "name": "Not Friends (ORBIT Remix Version)",
-          "duration": "3:28"
-        },
-        {
-          "number": 4,
-          "name": "Not Friends",
-          "duration": "3:16"
-        },
-        {
-          "number": 5,
-          "name": "Not Friends (Instrumental)",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "[+ +]",
       "year": "2018",
       "release_date": "2018-08-20",
@@ -1012,6 +979,39 @@
           "number": 6,
           "name": "Stylish",
           "duration": "3:29"
+        }
+      ]
+    },
+    {
+      "name": "Not Friends Special Edition",
+      "year": "2021",
+      "release_date": "2021-10-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/eb/a8/dbeba8bd-9af7-9733-4a6b-f844ff02b54e/8809961045431.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Not Friends (ALAWN REMIX)",
+          "duration": "4:31"
+        },
+        {
+          "number": 2,
+          "name": "Not Friends (TIDO REMIX)",
+          "duration": "3:31"
+        },
+        {
+          "number": 3,
+          "name": "Not Friends (ORBIT REMIX)",
+          "duration": "3:28"
+        },
+        {
+          "number": 4,
+          "name": "Not Friends",
+          "duration": "3:15"
+        },
+        {
+          "number": 5,
+          "name": "Not Friends (INSTRUMENTAL)",
+          "duration": "3:15"
         }
       ]
     }

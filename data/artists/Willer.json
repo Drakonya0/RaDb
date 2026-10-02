@@ -4,6 +4,29 @@
   "albums": [],
   "singles": [
     {
+      "name": "After Hours",
+      "year": "2026",
+      "release_date": "2026-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/74/72/4674724f-1811-8f8d-1c01-cfbadbc7d365/885288749236.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "After Hours",
+          "duration": "1:42"
+        },
+        {
+          "number": 2,
+          "name": "After Hours (Slowed)",
+          "duration": "2:02"
+        },
+        {
+          "number": 3,
+          "name": "After Hours (Edit Version)",
+          "duration": "2:25"
+        }
+      ]
+    },
+    {
       "name": "Collapse",
       "year": "2026",
       "release_date": "2026-07-24",

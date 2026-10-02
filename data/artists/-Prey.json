@@ -140,6 +140,19 @@
   ],
   "singles": [
     {
+      "name": "Show Me Your Way",
+      "year": "2023",
+      "release_date": "2023-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a2/18/a9/a218a9ba-64dd-5a1d-06cb-81c46f3e7e39/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Show Me Your Way",
+          "duration": "2:46"
+        }
+      ]
+    },
+    {
       "name": "Miss You (Phonk Remix)",
       "year": "2023",
       "release_date": "2023-01-09",
@@ -431,29 +444,6 @@
           "number": 1,
           "name": "The Void",
           "duration": "3:12"
-        }
-      ]
-    },
-    {
-      "name": "MELHOR DE SEMPRE (Alt Version)",
-      "year": "2025",
-      "release_date": "2025-07-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/05/68/ca05681b-575b-0f11-2f2c-95d079cb0e29/199316170634_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MELHOR DE SEMPRE (Alt Version)",
-          "duration": "1:43"
-        },
-        {
-          "number": 2,
-          "name": "MELHOR DE SEMPRE (Alt Version, Slowed)",
-          "duration": "1:56"
-        },
-        {
-          "number": 3,
-          "name": "MELHOR DE SEMPRE (Alt Version, Super Slowed)",
-          "duration": "2:10"
         }
       ]
     },
@@ -1877,42 +1867,6 @@
           "duration": "2:13"
         }
       ]
-    },
-    {
-      "name": "No Feelings.",
-      "year": "2023",
-      "release_date": "2023-08-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/a9/b7/d5a9b766-eace-2890-ff18-0b465adc1378/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "No Feelings.",
-          "duration": "2:14"
-        },
-        {
-          "number": 2,
-          "name": "No Feelings. (Sped Up)",
-          "duration": "1:58"
-        },
-        {
-          "number": 3,
-          "name": "No Feelings. (Slowed)",
-          "duration": "2:33"
-        }
-      ]
-    },
-    {
-      "name": "Nobody Move",
-      "year": "2022",
-      "release_date": "2022-11-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/61/46/26/61462696-2c06-9c6c-0343-40e3dfef2aa6/dcfeb1d9-c768-4e59-8a43-7c34a17079f9.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Nobody Move",
-          "duration": "2:41"
-        }
-      ]
     }
   ],
   "eps": [
@@ -2224,39 +2178,6 @@
       ]
     },
     {
-      "name": "MONTAGEM CRIMSON",
-      "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/c8/00/97c8004e-43ca-b76e-d6de-d19193974d4e/820233087742.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM CRIMSON",
-          "duration": "1:16"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM CRIMSON (Slowed)",
-          "duration": "1:26"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM CRIMSON (Sped Up)",
-          "duration": "1:12"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM CRIMSON (Super Slowed)",
-          "duration": "1:40"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM CRIMSON (Ultra Slowed)",
-          "duration": "1:59"
-        }
-      ]
-    },
-    {
       "name": "BAIXO TECLAS 2",
       "year": "2026",
       "release_date": "2026-07-03",
@@ -2291,6 +2212,39 @@
           "number": 6,
           "name": "BAIXO TECLAS 2 (Sped Up)",
           "duration": "1:08"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM CRIMSON",
+      "year": "2026",
+      "release_date": "2026-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/c8/00/97c8004e-43ca-b76e-d6de-d19193974d4e/820233087742.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM CRIMSON",
+          "duration": "1:16"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM CRIMSON (Slowed)",
+          "duration": "1:26"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM CRIMSON (Sped Up)",
+          "duration": "1:12"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM CRIMSON (Super Slowed)",
+          "duration": "1:40"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM CRIMSON (Ultra Slowed)",
+          "duration": "1:59"
         }
       ]
     },
@@ -3004,6 +2958,39 @@
           "number": 6,
           "name": "STAY FOR THE NIGHT (Sped Up)",
           "duration": "1:53"
+        }
+      ]
+    },
+    {
+      "name": "BAIXO SONICO",
+      "year": "2026",
+      "release_date": "2026-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/ea/c9/3deac9e0-09b2-4acb-e149-4cb4bfabc692/4398185.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BAIXO SONICO",
+          "duration": "1:20"
+        },
+        {
+          "number": 2,
+          "name": "BAIXO SONICO (Slowed)",
+          "duration": "1:25"
+        },
+        {
+          "number": 3,
+          "name": "BAIXO SONICO (Ultra Slowed)",
+          "duration": "1:35"
+        },
+        {
+          "number": 4,
+          "name": "BAIXO SONICO (Edit Version)",
+          "duration": "1:41"
+        },
+        {
+          "number": 5,
+          "name": "BAIXO SONICO (Nightcore)",
+          "duration": "1:16"
         }
       ]
     },
@@ -4349,6 +4336,39 @@
           "number": 6,
           "name": "NOOT NOOT FUNK (TiktokVersion)",
           "duration": "2:23"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM RESOLVER",
+      "year": "2026",
+      "release_date": "2026-09-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/b4/e7/54b4e72e-c05e-f264-9716-4acb52cd9d20/885288650723.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM RESOLVER",
+          "duration": "1:30"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM RESOLVER (Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM RESOLVER (Super Slowed)",
+          "duration": "1:53"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM RESOLVER (Ultra Slowed)",
+          "duration": "2:07"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM RESOLVER (Sped Up)",
+          "duration": "1:25"
         }
       ]
     },

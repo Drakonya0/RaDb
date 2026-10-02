@@ -3,6 +3,54 @@
   "id": 1502315488,
   "albums": [
     {
+      "name": "Mantras",
+      "year": "2025",
+      "release_date": "2025-11-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/20/97/fc209774-2355-feb5-4b01-046b2f5cbcae/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Warrior",
+          "duration": "4:10"
+        },
+        {
+          "number": 2,
+          "name": "Confidence",
+          "duration": "4:58"
+        },
+        {
+          "number": 3,
+          "name": "No Mail Today",
+          "duration": "1:28"
+        },
+        {
+          "number": 4,
+          "name": "Saveme",
+          "duration": "4:37"
+        },
+        {
+          "number": 5,
+          "name": "Maybe Tomorrow",
+          "duration": "1:15"
+        },
+        {
+          "number": 6,
+          "name": "Acceptance",
+          "duration": "5:03"
+        },
+        {
+          "number": 7,
+          "name": "Rue",
+          "duration": "4:44"
+        },
+        {
+          "number": 8,
+          "name": "Sunshine",
+          "duration": "5:23"
+        }
+      ]
+    },
+    {
       "name": "Mahjong",
       "year": "2026",
       "release_date": "2026-08-28",
@@ -94,54 +142,6 @@
       "name": "Mantras",
       "year": "2025",
       "release_date": "2025-11-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/20/97/fc209774-2355-feb5-4b01-046b2f5cbcae/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Warrior",
-          "duration": "4:10"
-        },
-        {
-          "number": 2,
-          "name": "Confidence",
-          "duration": "4:58"
-        },
-        {
-          "number": 3,
-          "name": "No Mail Today",
-          "duration": "1:28"
-        },
-        {
-          "number": 4,
-          "name": "Saveme",
-          "duration": "4:37"
-        },
-        {
-          "number": 5,
-          "name": "Maybe Tomorrow",
-          "duration": "1:15"
-        },
-        {
-          "number": 6,
-          "name": "Acceptance",
-          "duration": "5:03"
-        },
-        {
-          "number": 7,
-          "name": "Rue",
-          "duration": "4:44"
-        },
-        {
-          "number": 8,
-          "name": "Sunshine",
-          "duration": "5:23"
-        }
-      ]
-    },
-    {
-      "name": "Mantras",
-      "year": "2025",
-      "release_date": "2025-11-06",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/7e/d1/0e7ed1cf-6d33-492c-7505-0e8404d9621a/199750310641.jpg/600x600bb.jpg",
       "tracks": [
         {
@@ -172,7 +172,7 @@
         {
           "number": 6,
           "name": "Acceptance",
-          "duration": "5:51"
+          "duration": "5:03"
         },
         {
           "number": 7,

@@ -263,19 +263,6 @@
       ]
     },
     {
-      "name": "OTHERSIDE",
-      "year": "2026",
-      "release_date": "2026-04-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/83/0a/7f830a7f-3c91-97e8-0fdb-9d292db0dbba/0045778819102.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "OTHERSIDE",
-          "duration": "3:14"
-        }
-      ]
-    },
-    {
       "name": "Sacrifice",
       "year": "2024",
       "release_date": "2024-03-08",
@@ -285,6 +272,19 @@
           "number": 1,
           "name": "Sacrifice",
           "duration": "2:47"
+        }
+      ]
+    },
+    {
+      "name": "OTHERSIDE",
+      "year": "2026",
+      "release_date": "2026-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/83/0a/7f830a7f-3c91-97e8-0fdb-9d292db0dbba/0045778819102.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "OTHERSIDE",
+          "duration": "3:14"
         }
       ]
     },
@@ -341,19 +341,6 @@
       ]
     },
     {
-      "name": "MODIFIED",
-      "year": "2022",
-      "release_date": "2022-10-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/4d/2b/ff4d2b96-a4c4-e3e8-0e28-276507fcf8f0/197274844451.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MODIFIED",
-          "duration": "3:40"
-        }
-      ]
-    },
-    {
       "name": "Another Lie",
       "year": "2020",
       "release_date": "2020-02-28",
@@ -363,6 +350,19 @@
           "number": 1,
           "name": "Another Lie",
           "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "MODIFIED",
+      "year": "2022",
+      "release_date": "2022-10-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/4d/2b/ff4d2b96-a4c4-e3e8-0e28-276507fcf8f0/197274844451.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MODIFIED",
+          "duration": "3:40"
         }
       ]
     },
@@ -390,19 +390,6 @@
       ]
     },
     {
-      "name": "FEED THE MACHINE",
-      "year": "2023",
-      "release_date": "2023-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/60/63/9560634e-c0cb-2e8b-e6ad-84d47db6274f/197802742648.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FEED THE MACHINE",
-          "duration": "4:00"
-        }
-      ]
-    },
-    {
       "name": "Take What You Want",
       "year": "2019",
       "release_date": "2019-10-04",
@@ -412,6 +399,19 @@
           "number": 1,
           "name": "Take What You Want",
           "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "FEED THE MACHINE",
+      "year": "2023",
+      "release_date": "2023-05-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/60/63/9560634e-c0cb-2e8b-e6ad-84d47db6274f/197802742648.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FEED THE MACHINE",
+          "duration": "4:00"
         }
       ]
     },
@@ -608,44 +608,6 @@
       ]
     },
     {
-      "name": "Live at the Collection (Live at the Collection)",
-      "year": "2022",
-      "release_date": "2022-03-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/92/dd/69/92dd6994-d87b-c1da-0a14-af130d80e8aa/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Holding On (Live at The Collection)",
-          "duration": "1:32"
-        },
-        {
-          "number": 2,
-          "name": "Back On Me (Live at The Collection)",
-          "duration": "3:40"
-        },
-        {
-          "number": 3,
-          "name": "Know My Loneliness (Live at The Collection)",
-          "duration": "4:36"
-        },
-        {
-          "number": 4,
-          "name": "Life Like This (Live at The Collection)",
-          "duration": "2:54"
-        },
-        {
-          "number": 5,
-          "name": "Everything In My Mind (Live at The Collection)",
-          "duration": "3:58"
-        },
-        {
-          "number": 6,
-          "name": "Dark Cloud (Live at The Collection)",
-          "duration": "5:28"
-        }
-      ]
-    },
-    {
       "name": "Deep Down",
       "year": "2018",
       "release_date": "2018-07-27",
@@ -680,6 +642,44 @@
           "number": 6,
           "name": "Dead and Deceased",
           "duration": "4:16"
+        }
+      ]
+    },
+    {
+      "name": "Live at the Collection (Live at the Collection)",
+      "year": "2022",
+      "release_date": "2022-03-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/92/dd/69/92dd6994-d87b-c1da-0a14-af130d80e8aa/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Holding On (Live at The Collection)",
+          "duration": "1:32"
+        },
+        {
+          "number": 2,
+          "name": "Back On Me (Live at The Collection)",
+          "duration": "3:40"
+        },
+        {
+          "number": 3,
+          "name": "Know My Loneliness (Live at The Collection)",
+          "duration": "4:36"
+        },
+        {
+          "number": 4,
+          "name": "Life Like This (Live at The Collection)",
+          "duration": "2:54"
+        },
+        {
+          "number": 5,
+          "name": "Everything In My Mind (Live at The Collection)",
+          "duration": "3:58"
+        },
+        {
+          "number": 6,
+          "name": "Dark Cloud (Live at The Collection)",
+          "duration": "5:28"
         }
       ]
     }

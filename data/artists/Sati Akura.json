@@ -1,7 +1,61 @@
 {
   "name": "Sati Akura",
   "id": 1265343978,
-  "albums": [],
+  "albums": [
+    {
+      "name": "Honkai Memories",
+      "year": "2026",
+      "release_date": "2026-03-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/3a/60/aa3a602d-7312-7c73-2516-c3407cbf90ce/199999575467.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nightglow (Russian Ver.)",
+          "duration": "3:03"
+        },
+        {
+          "number": 2,
+          "name": "Honkai World Diva (Russian Ver.)",
+          "duration": "3:04"
+        },
+        {
+          "number": 3,
+          "name": "Starfall (Solo Ver.)",
+          "duration": "3:08"
+        },
+        {
+          "number": 4,
+          "name": "Rubia (feat. Billy Raven) [Russian Ver.]",
+          "duration": "3:16"
+        },
+        {
+          "number": 5,
+          "name": "Cyberangel (Russian Ver.)",
+          "duration": "2:55"
+        },
+        {
+          "number": 6,
+          "name": "Moon Halo (Russian Ver.)",
+          "duration": "3:17"
+        },
+        {
+          "number": 7,
+          "name": "Oracle (Russian Ver.)",
+          "duration": "3:20"
+        },
+        {
+          "number": 8,
+          "name": "True (Russian Ver.)",
+          "duration": "3:07"
+        },
+        {
+          "number": 9,
+          "name": "Da Capo (Russian Ver.)",
+          "duration": "2:18"
+        }
+      ]
+    }
+  ],
   "singles": [
     {
       "name": "Katyusha (feat. crouka & Sati Akura)",
@@ -100,19 +154,6 @@
       ]
     },
     {
-      "name": "God-ish (Russian ver.)",
-      "year": "2022",
-      "release_date": "2022-07-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f6/6e/fb/f66efb50-90ca-e7f4-f68d-e9d56830be04/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "God-ish (Russian ver.)",
-          "duration": "3:22"
-        }
-      ]
-    },
-    {
       "name": "USSEEWA (Russian ver.)",
       "year": "2021",
       "release_date": "2021-09-17",
@@ -135,19 +176,6 @@
           "number": 1,
           "name": "Four (feat. Sati Akura)",
           "duration": "3:44"
-        }
-      ]
-    },
-    {
-      "name": "Resister (Russian ver.)",
-      "year": "2022",
-      "release_date": "2022-10-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c9/b5/ec/c9b5ec8b-325e-0054-327c-fb39b52c8925/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Resister (Russian ver.)",
-          "duration": "3:50"
         }
       ]
     },
@@ -187,19 +215,6 @@
           "number": 1,
           "name": "Otonoke (Russian Ver.)",
           "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "Shooting Star",
-      "year": "2021",
-      "release_date": "2021-04-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/98/3a/93/983a9314-28c6-3ace-ca6b-d493692c6f1e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shooting Star",
-          "duration": "4:57"
         }
       ]
     },
@@ -409,19 +424,6 @@
       ]
     },
     {
-      "name": "KISS OF DEATH",
-      "year": "2021",
-      "release_date": "2021-03-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2a/b4/fa/2ab4fa68-337a-7766-4ee3-c89ac4a3e6b7/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "KISS OF DEATH",
-          "duration": "4:04"
-        }
-      ]
-    },
-    {
       "name": "Yoidore Shirazu (Russian Ver.)",
       "year": "2022",
       "release_date": "2022-09-30",
@@ -531,32 +533,6 @@
       ]
     },
     {
-      "name": "forget-me-not (Russian ver.)",
-      "year": "2022",
-      "release_date": "2022-12-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0d/72/b2/0d72b2c4-f6e9-03bc-5090-0320816cbf66/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "forget-me-not (Russian ver.)",
-          "duration": "4:27"
-        }
-      ]
-    },
-    {
-      "name": "Melty Land Nightmare",
-      "year": "2020",
-      "release_date": "2020-06-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/56/c0/1c/56c01c9c-8cce-efd0-6af1-bfe8f2ea892f/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Melty Land Nightmare",
-          "duration": "4:26"
-        }
-      ]
-    },
-    {
       "name": "LOSER (Russian ver.)",
       "year": "2022",
       "release_date": "2022-07-15",
@@ -622,19 +598,6 @@
       ]
     },
     {
-      "name": "LOSER (Russian ver.)",
-      "year": "2021",
-      "release_date": "2021-07-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b8/8c/68/b88c6833-ee03-193a-b402-23138e82ef2e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LOSER (Russian ver.)",
-          "duration": "3:54"
-        }
-      ]
-    },
-    {
       "name": "Gimme×Gimme (Russian ver.)",
       "year": "2022",
       "release_date": "2022-06-24",
@@ -683,6 +646,19 @@
           "number": 1,
           "name": "Call of Silence (feat. B-Lion) [From \"Attack on Titan\"]",
           "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "Gimme×Gimme (Russian ver.)",
+      "year": "2022",
+      "release_date": "2022-06-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/e4/68/ede46827-24f6-8bd3-bec4-b61eee2e5ec1/3617052131155.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gimme×Gimme (Russian ver.)",
+          "duration": "3:37"
         }
       ]
     },
@@ -778,19 +754,6 @@
       ]
     },
     {
-      "name": "Raspberry*Monster",
-      "year": "2020",
-      "release_date": "2020-02-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/af/17/b6/af17b6be-0d63-8c1e-9750-37aacd9b2715/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Raspberry*Monster",
-          "duration": "2:55"
-        }
-      ]
-    },
-    {
       "name": "Passing Memories (Russian Ver.)",
       "year": "2025",
       "release_date": "2025-02-28",
@@ -800,19 +763,6 @@
           "number": 1,
           "name": "Passing Memories (Russian Ver.)",
           "duration": "3:34"
-        }
-      ]
-    },
-    {
-      "name": "ADAMAS",
-      "year": "2019",
-      "release_date": "2019-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/12/b1/bd12b141-07b5-54f3-6baa-06e686276c4a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ADAMAS",
-          "duration": "3:43"
         }
       ]
     },
@@ -957,19 +907,6 @@
       ]
     },
     {
-      "name": "Hated by Life Itself (feat. Billy Raven) [Russian ver.]",
-      "year": "2021",
-      "release_date": "2021-07-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/28/b1/a8/28b1a86c-3920-9937-74ae-b2f7eedfa9b9/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hated by Life Itself (feat. Billy Raven) [Russian ver.]",
-          "duration": "4:58"
-        }
-      ]
-    },
-    {
       "name": "Shirushi (Russian ver.)",
       "year": "2022",
       "release_date": "2022-11-03",
@@ -1061,19 +998,6 @@
       ]
     },
     {
-      "name": "I Believe What You Said",
-      "year": "2020",
-      "release_date": "2020-12-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3f/23/b5/3f23b562-ff1c-a4b3-1536-fb4190d1691a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Believe What You Said",
-          "duration": "4:27"
-        }
-      ]
-    },
-    {
       "name": "time",
       "year": "2022",
       "release_date": "2022-07-15",
@@ -1126,19 +1050,6 @@
       ]
     },
     {
-      "name": "Into the Night",
-      "year": "2021",
-      "release_date": "2021-08-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/64/1a/ef/641aef6c-4b91-8d3c-e4b4-be2bf2b790af/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Into the Night",
-          "duration": "4:19"
-        }
-      ]
-    },
-    {
       "name": "White Night (Russian Ver.)",
       "year": "2024",
       "release_date": "2024-05-19",
@@ -1148,19 +1059,6 @@
           "number": 1,
           "name": "White Night (Russian Ver.)",
           "duration": "2:20"
-        }
-      ]
-    },
-    {
-      "name": "Lagtrain (Russian version)",
-      "year": "2021",
-      "release_date": "2021-10-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bc/f5/61/bcf561e7-ba08-cb28-0f85-1d020daefd73/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lagtrain (Russian version)",
-          "duration": "4:13"
         }
       ]
     },
@@ -1374,31 +1272,7 @@
       "year": "2021",
       "release_date": "2021-04-30",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ba/6d/b7/ba6db752-ce10-1f7d-eb0e-4271cc9efbe9/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pray (English Version)",
-          "duration": "4:38"
-        },
-        {
-          "number": 2,
-          "name": "Pray (Russian Version)",
-          "duration": "4:42"
-        }
-      ]
-    },
-    {
-      "name": "Like Flames (Russian ver.)",
-      "year": "2021",
-      "release_date": "2021-09-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/43/d6/2a/43d62a9e-2777-7853-140b-acc497d6aa6c/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Like Flames (Russian ver.)",
-          "duration": "4:08"
-        }
-      ]
+      "tracks": []
     },
     {
       "name": "Whisper Whisper Whisper (Russian Ver.)",
@@ -1414,30 +1288,11 @@
       ]
     },
     {
-      "name": "Chikatto Chika Chika",
-      "year": "2021",
-      "release_date": "2021-02-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/15/f1/41/15f1414e-7fda-563c-0c3e-ac27d55b7547/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chikatto Chika Chika",
-          "duration": "1:37"
-        }
-      ]
-    },
-    {
       "name": "ANIMA",
       "year": "2020",
       "release_date": "2020-08-28",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/23/86/90/238690af-1109-88db-85b3-3622a4cbc0f2/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ANIMA",
-          "duration": "4:28"
-        }
-      ]
+      "tracks": []
     },
     {
       "name": "How You Like That",
@@ -1536,19 +1391,6 @@
       ]
     },
     {
-      "name": "Gurenge",
-      "year": "2019",
-      "release_date": "2019-09-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fd/11/0f/fd110f3e-1cf3-d028-7cb8-3868f9a5a591/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Gurenge",
-          "duration": "3:58"
-        }
-      ]
-    },
-    {
       "name": "Centimeter",
       "year": "2020",
       "release_date": "2020-10-09",
@@ -1619,19 +1461,6 @@
       ]
     },
     {
-      "name": "Believe in you (Russian ver.)",
-      "year": "2021",
-      "release_date": "2021-05-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/37/4e/55/374e55d7-b2f7-7e9c-0681-c9037ae29037/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Believe in you (Russian ver.)",
-          "duration": "4:39"
-        }
-      ]
-    },
-    {
       "name": "Suzume (feat. Billy Raven) [Russian Ver.]",
       "year": "2023",
       "release_date": "2023-08-04",
@@ -1658,19 +1487,6 @@
       ]
     },
     {
-      "name": "Kawaiku Naritai",
-      "year": "2020",
-      "release_date": "2020-01-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/41/a8/66/41a86629-d12d-04f1-503c-0f3c619eb36f/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kawaiku Naritai",
-          "duration": "4:10"
-        }
-      ]
-    },
-    {
       "name": "Your Reality (Russian Version)",
       "year": "2022",
       "release_date": "2022-07-15",
@@ -1684,48 +1500,11 @@
       ]
     },
     {
-      "name": "Shirushi (Russian ver.)",
-      "year": "2022",
-      "release_date": "2022-11-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e6/81/c4/e681c401-d084-2111-42ec-e055ebf73275/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Shirushi (Russian ver.)",
-          "duration": "4:38"
-        }
-      ]
-    },
-    {
-      "name": "Deal with the Devil (feat. Billy Raven)",
-      "year": "2021",
-      "release_date": "2021-01-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/77/0c/c2/770cc2ac-1dba-a5bc-e093-467ee854035e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Deal with the Devil (feat. Billy Raven)",
-          "duration": "4:43"
-        }
-      ]
-    },
-    {
       "name": "Fukurou",
       "year": "2021",
       "release_date": "2021-01-29",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1c/c4/e2/1cc4e26a-5d59-7591-485d-7122579da76b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Fukurou (English Version)",
-          "duration": "4:50"
-        },
-        {
-          "number": 2,
-          "name": "Fukurou (Russian Version)",
-          "duration": "4:50"
-        }
-      ]
+      "tracks": []
     },
     {
       "name": "Shooting Star",
@@ -1737,19 +1516,6 @@
           "number": 1,
           "name": "Shooting Star",
           "duration": "4:57"
-        }
-      ]
-    },
-    {
-      "name": "phony (Russian Version)",
-      "year": "2022",
-      "release_date": "2022-02-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1c/d6/9a/1cd69a06-2d89-ec8b-33e9-53fc3c9e1341/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "phony (Russian Version)",
-          "duration": "3:08"
         }
       ]
     },
@@ -1845,19 +1611,6 @@
       ]
     },
     {
-      "name": "Otome Dissection",
-      "year": "2020",
-      "release_date": "2020-06-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/e4/32/39/e4323961-4b13-576b-8756-aecd44f4adfb/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Otome Dissection",
-          "duration": "3:54"
-        }
-      ]
-    },
-    {
       "name": "Homura",
       "year": "2022",
       "release_date": "2022-07-10",
@@ -1880,32 +1633,6 @@
           "number": 1,
           "name": "Moon Halo (Russian Ver.)",
           "duration": "3:17"
-        }
-      ]
-    },
-    {
-      "name": "Kyoufuu All Back",
-      "year": "2023",
-      "release_date": "2023-11-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/15/49/65154947-2ce8-767e-b3e3-a3cfebb6dba9/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kyoufuu All Back",
-          "duration": "2:13"
-        }
-      ]
-    },
-    {
-      "name": "Torches",
-      "year": "2020",
-      "release_date": "2020-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/34/22/5d/34225d37-6070-b691-d64c-927ba8683cd8/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Torches",
-          "duration": "4:56"
         }
       ]
     },
@@ -1962,19 +1689,6 @@
       ]
     },
     {
-      "name": "NIGHT RUNNING",
-      "year": "2020",
-      "release_date": "2020-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f8/92/b1/f892b1e5-b725-0800-f8ff-e86a6273e226/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NIGHT RUNNING",
-          "duration": "3:53"
-        }
-      ]
-    },
-    {
       "name": "Cyberangel (Russian Ver.)",
       "year": "2025",
       "release_date": "2025-08-01",
@@ -1988,19 +1702,6 @@
       ]
     },
     {
-      "name": "Pseudo-Hope Syndrome (Russian version)",
-      "year": "2022",
-      "release_date": "2022-01-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a0/b4/d8/a0b4d879-ae9c-e490-7a4c-feff5bcaa0bc/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pseudo-Hope Syndrome (Russian version)",
-          "duration": "3:37"
-        }
-      ]
-    },
-    {
       "name": "Chains of Oath, Echoes of Promise (Russian Ver.)",
       "year": "2025",
       "release_date": "2025-06-06",
@@ -2010,19 +1711,6 @@
           "number": 1,
           "name": "Chains of Oath, Echoes of Promise (Russian Ver.)",
           "duration": "3:20"
-        }
-      ]
-    },
-    {
-      "name": "Everlasting Shine",
-      "year": "2020",
-      "release_date": "2020-10-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/1c/2c/1f1c2c4d-7391-5289-a9ec-bac3a4545940/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Everlasting Shine",
-          "duration": "3:14"
         }
       ]
     },
@@ -2079,19 +1767,6 @@
       ]
     },
     {
-      "name": "Heart Forecast",
-      "year": "2021",
-      "release_date": "2021-02-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/0f/5e/79/0f5e79fc-cd00-2c49-87dc-1762716708d2/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Heart Forecast",
-          "duration": "3:24"
-        }
-      ]
-    },
-    {
       "name": "Emberfire (Russian Ver.)",
       "year": "2024",
       "release_date": "2024-09-06",
@@ -2126,19 +1801,6 @@
         {
           "number": 1,
           "name": "Renai Circulation (Russian Ver.)",
-          "duration": "4:12"
-        }
-      ]
-    },
-    {
-      "name": "Again",
-      "year": "2021",
-      "release_date": "2021-07-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7d/68/e5/7d68e501-de51-e403-3df9-72e22b3bbc1b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Again",
           "duration": "4:12"
         }
       ]
@@ -2179,19 +1841,6 @@
           "number": 1,
           "name": "Fatima",
           "duration": "4:05"
-        }
-      ]
-    },
-    {
-      "name": "U (Russian ver.)",
-      "year": "2022",
-      "release_date": "2022-04-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/be/fd/75/befd7501-cd33-80a4-3888-ea04a522da35/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "U (Russian ver.)",
-          "duration": "3:02"
         }
       ]
     },
@@ -2253,32 +1902,6 @@
       ]
     },
     {
-      "name": "The Vampire (Russian Version)",
-      "year": "2021",
-      "release_date": "2021-06-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ed/43/39/ed4339e8-8e3d-4c0a-fb18-3cb1f93e318f/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Vampire (Russian Version)",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
-      "name": "Lend Me Your Voice (feat. Billy Raven) [Russian ver.]",
-      "year": "2022",
-      "release_date": "2022-06-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/ad/57/3cad5701-fcda-d5e0-f849-f5abf20a2f8f/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lend Me Your Voice (feat. Billy Raven) [Russian ver.]",
-          "duration": "5:02"
-        }
-      ]
-    },
-    {
       "name": "Lemon",
       "year": "2022",
       "release_date": "2022-07-13",
@@ -2322,26 +1945,7 @@
       "year": "2021",
       "release_date": "2021-04-23",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ba/7d/2a/ba7d2aee-1e58-8824-8328-a10729608813/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "&Z",
-          "duration": "4:39"
-        }
-      ]
-    },
-    {
-      "name": "time",
-      "year": "2021",
-      "release_date": "2021-04-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/48/6f/09/486f09b4-2f32-ded9-bdd1-f585db232fdc/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "time",
-          "duration": "4:00"
-        }
-      ]
+      "tracks": []
     },
     {
       "name": "Sad Girl Sex (Russian Ver.)",
@@ -2392,6 +1996,19 @@
           "number": 1,
           "name": "ODO (Russian ver.)",
           "duration": "3:31"
+        }
+      ]
+    },
+    {
+      "name": "U (Russian ver.)",
+      "year": "2022",
+      "release_date": "2022-04-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/4e/55/fa4e55ab-f554-170c-c4b5-92d90b72eceb/3617052132060.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "U (Russian ver.)",
+          "duration": "3:02"
         }
       ]
     },
@@ -2611,19 +2228,6 @@
       ]
     },
     {
-      "name": "Memento",
-      "year": "2020",
-      "release_date": "2020-10-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/23/8f/45/238f4539-1f13-ba0e-f47a-9c393bd1a882/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Memento",
-          "duration": "4:49"
-        }
-      ]
-    },
-    {
       "name": "Chikatto Chika Chika",
       "year": "2021",
       "release_date": "2021-02-19",
@@ -2633,6 +2237,389 @@
           "number": 1,
           "name": "Chikatto Chika Chika",
           "duration": "1:37"
+        }
+      ]
+    },
+    {
+      "name": "Burning (Russian Ver.)",
+      "year": "2024",
+      "release_date": "2024-09-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/c5/b5/84c5b5ae-cae3-407b-afca-4a55a66ee4ea/198009881291.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Burning (Russian Ver.)",
+          "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "name": "Goodbye Sengen (Russian ver.)",
+      "year": "2021",
+      "release_date": "2021-10-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/21/a2/e2/21a2e2cd-be8d-d73e-b485-a6ed92515a17/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Akuma no Ko (Emotional Version) [feat. Sati Akura]",
+      "year": "2022",
+      "release_date": "2022-07-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/aa/57/ac/aa57ac50-efd0-0f9c-e69b-5eddeb31d156/93262.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Niji no Kanatani (Russian ver.)",
+      "year": "2022",
+      "release_date": "2022-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/c6/e7/9dc6e7e8-1d24-c462-4daa-47a5f9a64c87/3617052848275.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Niji no Kanatani (Russian ver.)",
+          "duration": "4:55"
+        }
+      ]
+    },
+    {
+      "name": "Ichiban Kagayaku Hoshi (Russian Ver.)",
+      "year": "2024",
+      "release_date": "2024-10-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/5b/b7/bd5bb7b4-a1b2-0d1b-b2c9-325e11b27a08/198009936298.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ichiban Kagayaku Hoshi (Russian Ver.)",
+          "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "name": "Departures (Anata ni Okuru Ai NO Uta)",
+      "year": "2022",
+      "release_date": "2022-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/92/61/dd9261a1-c2b1-1b9e-ba76-99feac4668b8/1941520138899.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Departures (Anata ni Okuru Ai NO Uta)",
+          "duration": "4:16"
+        }
+      ]
+    },
+    {
+      "name": "crossing field (Russian ver.)",
+      "year": "2023",
+      "release_date": "2023-02-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/93/bf/3393bf52-531b-fd0a-e81b-0c36e4e57034/3617056303749.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "crossing field (Russian ver.)",
+          "duration": "4:04"
+        }
+      ]
+    },
+    {
+      "name": "Shadow Shadow (Russian ver.)",
+      "year": "2022",
+      "release_date": "2022-07-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/85/97/6e85978a-e64f-9f96-f9ef-6ea301e0e671/3616849233034.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Shadow Shadow (Russian ver.)",
+          "duration": "2:21"
+        }
+      ]
+    },
+    {
+      "name": "One life",
+      "year": "2022",
+      "release_date": "2022-07-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/9e/c6/729ec63a-6de8-3a30-34a2-24b48f3d71fa/3616849225657.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One life",
+          "duration": "4:56"
+        }
+      ]
+    },
+    {
+      "name": "Blood (Russian Ver.)",
+      "year": "2025",
+      "release_date": "2025-04-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/f3/e9/9ff3e9a2-f5cd-ca6e-0099-e6b8bbaa068b/199999157281.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Blood (Russian Ver.)",
+          "duration": "2:25"
+        }
+      ]
+    },
+    {
+      "name": "Lend Me Your Voice (Russian ver.) [feat. Billy Raven]",
+      "year": "2022",
+      "release_date": "2022-06-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/0f/e2/e10fe21b-6860-beff-b192-7be35c255b2d/3617052132053.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lend Me Your Voice (feat. Billy Raven) [Russian ver.]",
+          "duration": "5:02"
+        }
+      ]
+    },
+    {
+      "name": "asphyxia",
+      "year": "2022",
+      "release_date": "2022-07-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/0f/78/7e0f7814-61e6-0344-22c6-cbb80cdcd77a/3616849189799.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "asphyxia",
+          "duration": "2:59"
+        }
+      ]
+    },
+    {
+      "name": "Мечта (feat. Nekoz, Lalaego, Amaya)",
+      "year": "2019",
+      "release_date": "2019-06-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/05/c1/93/05c193a7-7019-bdc0-c16a-6cfb6d06ae4f/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Мечта (feat. Nekoz, Lalaego, Amaya)",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "VORACITY",
+      "year": "2022",
+      "release_date": "2022-07-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/71/4a/db714a39-efe7-78b7-7e80-817055b35457/1941520267582.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "VORACITY",
+          "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "Marshmallow (Russian Ver.)",
+      "year": "2026",
+      "release_date": "2026-09-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/98/69/cd986998-076f-5a87-07f2-29ce49c6bfbc/199999736028.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Marshmallow (Russian Ver.)",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Ikanaide (Russian Ver.)",
+      "year": "2023",
+      "release_date": "2023-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/f9/39/a5f93908-04da-554d-1f69-a6d4addc864c/198009177516.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ikanaide (Russian Ver.)",
+          "duration": "3:58"
+        }
+      ]
+    },
+    {
+      "name": "i DO what i WANT",
+      "year": "2022",
+      "release_date": "2022-07-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/e4/06/03e40605-cd9d-f361-8198-2b9891c87834/3616849194458.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "i DO what i WANT",
+          "duration": "3:54"
+        }
+      ]
+    },
+    {
+      "name": "Last Stardust (Russian ver.)",
+      "year": "2022",
+      "release_date": "2022-07-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/db/aa/4fdbaaa5-8b46-7a29-d8dd-c52ef5df57e5/3616849224940.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Last Stardust (Russian ver.)",
+          "duration": "5:19"
+        }
+      ]
+    },
+    {
+      "name": "Pray (From \"Angels of Death\")",
+      "year": "2021",
+      "release_date": "2021-04-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/3f/a0/5e3fa01d-9195-e9a9-f325-7f9ea77409e2/3616849233065.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pray (English Version)",
+          "duration": "4:38"
+        },
+        {
+          "number": 2,
+          "name": "Pray (Russian Version)",
+          "duration": "4:42"
+        }
+      ]
+    },
+    {
+      "name": "NIGHT RUNNING",
+      "year": "2022",
+      "release_date": "2022-07-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/ad/36/1fad368a-5fee-bcc3-627e-9a4519f3913b/3616849189690.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NIGHT RUNNING",
+          "duration": "3:53"
+        }
+      ]
+    },
+    {
+      "name": "Kimi NO Sei",
+      "year": "2022",
+      "release_date": "2022-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/7a/f1/207af114-d576-8524-1edc-026e5ec186ce/3616849079717.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Kimi NO Sei",
+          "duration": "4:24"
+        }
+      ]
+    },
+    {
+      "name": "Parallel Lines (English Version) [feat. Sati Akura]",
+      "year": "2017",
+      "release_date": "2017-12-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/46/74/10/4674109c-c037-36f8-048f-6d9d4eff64ab/aacc6394-cbff-4028-9cf8-a1ec31c51771.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Parallel Lines (English Version) [feat. Sati Akura]",
+          "duration": "5:00"
+        }
+      ]
+    },
+    {
+      "name": "Gurenge",
+      "year": "2022",
+      "release_date": "2022-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/bc/86/6bbc86d5-a7a4-b3fd-fb44-85307d19f776/1941520337292.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gurenge",
+          "duration": "3:58"
+        }
+      ]
+    },
+    {
+      "name": "Violet SNOw (Russian ver.)",
+      "year": "2022",
+      "release_date": "2022-07-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/4c/50/104c5046-648f-5781-65f2-bc20257ff367/3616849236745.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Violet SNOw (Russian ver.)",
+          "duration": "2:56"
+        }
+      ]
+    },
+    {
+      "name": "Into the Night",
+      "year": "2022",
+      "release_date": "2022-07-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/40/bc/4140bcd2-26b6-6bbd-eb07-13654fced130/3616849195592.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Into the Night",
+          "duration": "4:19"
+        }
+      ]
+    },
+    {
+      "name": "Queen (Russian Ver.)",
+      "year": "2023",
+      "release_date": "2023-06-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/98/dc/70/98dc700f-47b9-b766-94ea-6322b2ea6768/198009266241.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Queen (Russian Ver.)",
+          "duration": "2:26"
+        }
+      ]
+    },
+    {
+      "name": "Easy (Russian Ver.)",
+      "year": "2026",
+      "release_date": "2026-02-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/27/ee/8b27ee6a-bdd4-cc87-66bc-4607af3721af/199999568926.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Easy (Russian Ver.)",
+          "duration": "1:56"
+        }
+      ]
+    },
+    {
+      "name": "Start (Music from the Original TV Series) [Russian Version]",
+      "year": "2021",
+      "release_date": "2021-02-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/5e/52/a15e5216-688e-30aa-dda8-093a6169c178/192641650574_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Start (Music from the Original TV Series) [Russian Version]",
+          "duration": "3:22"
+        }
+      ]
+    },
+    {
+      "name": "Step into the Dark (Russian Ver.)",
+      "year": "2025",
+      "release_date": "2025-12-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/01/03/8801038d-60ba-79ec-b292-c1a8b56cb6a9/199999512011.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Step into the Dark (Russian Ver.)",
+          "duration": "2:12"
+        }
+      ]
+    },
+    {
+      "name": "God-ish (Russian ver.)",
+      "year": "2022",
+      "release_date": "2022-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/03/82/9103824f-a893-b408-09c8-1ca2850723b6/3617052131186.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "God-ish (Russian ver.)",
+          "duration": "3:22"
         }
       ]
     }
@@ -2676,6 +2663,13 @@
       "year": "2020",
       "release_date": "2020-08-14",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/2f/2f/1f2f2f76-6409-1730-7f9f-cb601bff5278/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Re:Imagined - A Collection of Covers from Re:Zero",
+      "year": "2022",
+      "release_date": "2022-07-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/49/ad/5849ad73-6efd-5130-d899-480e4c583292/3616849218260.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,

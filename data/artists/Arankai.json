@@ -3,69 +3,6 @@
   "id": 1602506871,
   "albums": [
     {
-      "name": "The Shape of Blue",
-      "year": "2026",
-      "release_date": "2026-10-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/c9/fc/24c9fc30-9e4d-d669-6ba8-79521857c18e/3464.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Helter Skelter (feat. buffalo_farm)",
-          "duration": "2:41"
-        },
-        {
-          "number": 2,
-          "name": "I Hope It Hurts",
-          "duration": "3:10"
-        },
-        {
-          "number": 3,
-          "name": "Disobey",
-          "duration": "2:34"
-        },
-        {
-          "number": 4,
-          "name": "Sick & Sweet",
-          "duration": "2:21"
-        },
-        {
-          "number": 5,
-          "name": "Playing God",
-          "duration": "2:57"
-        },
-        {
-          "number": 6,
-          "name": "Letdown",
-          "duration": "2:59"
-        },
-        {
-          "number": 7,
-          "name": "Temper",
-          "duration": "3:13"
-        },
-        {
-          "number": 8,
-          "name": "Choke",
-          "duration": "3:08"
-        },
-        {
-          "number": 9,
-          "name": "Convince Me",
-          "duration": "4:00"
-        },
-        {
-          "number": 10,
-          "name": "Have Faith",
-          "duration": "2:55"
-        },
-        {
-          "number": 11,
-          "name": "The Shape of Blue",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "A Portrait of Red",
       "year": "2025",
       "release_date": "2025-02-12",
@@ -125,6 +62,69 @@
           "number": 11,
           "name": "Second Sight",
           "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "The Shape of Blue",
+      "year": "2026",
+      "release_date": "2026-10-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/c9/fc/24c9fc30-9e4d-d669-6ba8-79521857c18e/3464.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Helter Skelter (feat. buffalo_farm)",
+          "duration": "2:41"
+        },
+        {
+          "number": 2,
+          "name": "I Hope It Hurts",
+          "duration": "3:10"
+        },
+        {
+          "number": 3,
+          "name": "Disobey",
+          "duration": "2:34"
+        },
+        {
+          "number": 4,
+          "name": "Sick & Sweet",
+          "duration": "2:21"
+        },
+        {
+          "number": 5,
+          "name": "Playing God",
+          "duration": "2:57"
+        },
+        {
+          "number": 6,
+          "name": "Letdown",
+          "duration": "2:59"
+        },
+        {
+          "number": 7,
+          "name": "Temper",
+          "duration": "3:13"
+        },
+        {
+          "number": 8,
+          "name": "Choke",
+          "duration": "3:08"
+        },
+        {
+          "number": 9,
+          "name": "Convince Me",
+          "duration": "4:00"
+        },
+        {
+          "number": 10,
+          "name": "Have Faith",
+          "duration": "2:55"
+        },
+        {
+          "number": 11,
+          "name": "The Shape of Blue",
+          "duration": "3:06"
         }
       ]
     }
@@ -390,19 +390,6 @@
       "tracks": []
     },
     {
-      "name": "Bloody Mary (Dance With My Hands)",
-      "year": "2023",
-      "release_date": "2023-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/c8/12/78c8124d-9f50-5086-9400-5bbb0ac75e44/3569.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bloody Mary (Dance With My Hands)",
-          "duration": "3:07"
-        }
-      ]
-    },
-    {
       "name": "Haunted",
       "year": "2023",
       "release_date": "2023-05-05",
@@ -412,6 +399,19 @@
           "number": 1,
           "name": "Haunted",
           "duration": "3:02"
+        }
+      ]
+    },
+    {
+      "name": "Bloody Mary (Dance With My Hands)",
+      "year": "2023",
+      "release_date": "2023-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/c8/12/78c8124d-9f50-5086-9400-5bbb0ac75e44/3569.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bloody Mary (Dance With My Hands)",
+          "duration": "3:07"
         }
       ]
     },

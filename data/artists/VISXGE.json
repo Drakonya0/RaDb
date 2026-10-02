@@ -316,19 +316,6 @@
       ]
     },
     {
-      "name": "Hauntology",
-      "year": "2023",
-      "release_date": "2023-11-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/0b/40/fb0b400a-5cb7-7490-b58a-033c1529aae6/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hauntology",
-          "duration": "2:45"
-        }
-      ]
-    },
-    {
       "name": "World Ender",
       "year": "2022",
       "release_date": "2022-06-04",
@@ -338,6 +325,19 @@
           "number": 1,
           "name": "World Ender",
           "duration": "1:53"
+        }
+      ]
+    },
+    {
+      "name": "Hauntology",
+      "year": "2023",
+      "release_date": "2023-11-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fb/0b/40/fb0b400a-5cb7-7490-b58a-033c1529aae6/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hauntology",
+          "duration": "2:45"
         }
       ]
     },
@@ -1043,6 +1043,34 @@
     }
   ],
   "eps": [
+    {
+      "name": "LOGO EU! (Instrumental)",
+      "year": "2026",
+      "release_date": "2026-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/39/59/28395955-6cca-624d-b42d-bd87aa3dd155/4407641.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LOGO EU! (Instrumental)",
+          "duration": "1:20"
+        },
+        {
+          "number": 2,
+          "name": "LOGO EU! (Slowed Instrumental)",
+          "duration": "1:30"
+        },
+        {
+          "number": 3,
+          "name": "LOGO EU! (Super Slowed Instrumental)",
+          "duration": "1:41"
+        },
+        {
+          "number": 4,
+          "name": "LOGO EU! (Sped Up Instrumental)",
+          "duration": "1:13"
+        }
+      ]
+    },
     {
       "name": "BALADA!",
       "year": "2026",

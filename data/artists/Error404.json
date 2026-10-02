@@ -1,7 +1,51 @@
 {
   "name": "Error404",
   "id": 1748899378,
-  "albums": [],
+  "albums": [
+    {
+      "name": "400WHAT?, Vol. 2",
+      "year": "2026",
+      "release_date": "2026-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/3d/31/c83d3177-a403-d194-3b2b-0ab6b75eff47/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "De Jour en Jour",
+          "duration": "2:11"
+        },
+        {
+          "number": 2,
+          "name": "Diplomate",
+          "duration": "2:31"
+        },
+        {
+          "number": 3,
+          "name": "Médaille",
+          "duration": "2:36"
+        },
+        {
+          "number": 4,
+          "name": "200Degrés",
+          "duration": "2:33"
+        },
+        {
+          "number": 5,
+          "name": "Lambo",
+          "duration": "2:34"
+        },
+        {
+          "number": 6,
+          "name": "Ce que tu sais pas de moi",
+          "duration": "2:48"
+        },
+        {
+          "number": 7,
+          "name": "86",
+          "duration": "2:11"
+        }
+      ]
+    }
+  ],
   "singles": [
     {
       "name": "Cathédrale",

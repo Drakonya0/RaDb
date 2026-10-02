@@ -176,19 +176,6 @@
       ]
     },
     {
-      "name": "Roses",
-      "year": "2023",
-      "release_date": "2023-02-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b9/d3/b4/b9d3b4aa-9bad-2eab-cbb6-86e733551702/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Roses",
-          "duration": "2:57"
-        }
-      ]
-    },
-    {
       "name": "Worked Up",
       "year": "2022",
       "release_date": "2022-12-02",
@@ -198,6 +185,19 @@
           "number": 1,
           "name": "Worked Up",
           "duration": "2:30"
+        }
+      ]
+    },
+    {
+      "name": "Roses",
+      "year": "2023",
+      "release_date": "2023-02-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b9/d3/b4/b9d3b4aa-9bad-2eab-cbb6-86e733551702/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Roses",
+          "duration": "2:57"
         }
       ]
     },
@@ -254,6 +254,19 @@
       ]
     },
     {
+      "name": "Zombie",
+      "year": "2022",
+      "release_date": "2022-02-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/32/24/d23224d3-3c18-ccd0-3379-873ed4a68280/0.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Zombie",
+          "duration": "3:07"
+        }
+      ]
+    },
+    {
       "name": "I Don't Want To Be Here",
       "year": "2023",
       "release_date": "2023-09-08",
@@ -276,19 +289,6 @@
           "number": 1,
           "name": "Voodoo",
           "duration": "3:39"
-        }
-      ]
-    },
-    {
-      "name": "Zombie",
-      "year": "2022",
-      "release_date": "2022-02-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/32/24/d23224d3-3c18-ccd0-3379-873ed4a68280/0.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Zombie",
-          "duration": "3:07"
         }
       ]
     },
@@ -358,19 +358,6 @@
       ]
     },
     {
-      "name": "OVERDOSE",
-      "year": "2025",
-      "release_date": "2025-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/65/c8/ec65c846-ccb8-7ea8-1c64-0151dafbb573/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "OVERDOSE",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
       "name": "Lead You On",
       "year": "2023",
       "release_date": "2023-01-06",
@@ -380,6 +367,19 @@
           "number": 1,
           "name": "Lead You On",
           "duration": "2:45"
+        }
+      ]
+    },
+    {
+      "name": "Do Not Disturb",
+      "year": "2023",
+      "release_date": "2023-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/c3/f3/5dc3f3f0-2aa1-1838-b66c-88a1fcecb15f/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Do Not Disturb",
+          "duration": "2:18"
         }
       ]
     },
@@ -423,15 +423,54 @@
       ]
     },
     {
-      "name": "Do Not Disturb",
-      "year": "2023",
-      "release_date": "2023-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5d/c3/f3/5dc3f3f0-2aa1-1838-b66c-88a1fcecb15f/artwork.jpg/600x600bb.jpg",
+      "name": "Berserk",
+      "year": "2022",
+      "release_date": "2022-11-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f6/06/e4/f606e42f-2209-6db1-cfb5-027797438e1c/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Do Not Disturb",
-          "duration": "2:18"
+          "name": "Berserk",
+          "duration": "1:54"
+        }
+      ]
+    },
+    {
+      "name": "Money",
+      "year": "2022",
+      "release_date": "2022-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/00/37/69/00376963-2841-cc37-4e87-981d4dbee46e/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Money",
+          "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "name": "OVERDOSE",
+      "year": "2025",
+      "release_date": "2025-01-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/65/c8/ec65c846-ccb8-7ea8-1c64-0151dafbb573/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "OVERDOSE",
+          "duration": "2:19"
+        }
+      ]
+    },
+    {
+      "name": "Came From",
+      "year": "2024",
+      "release_date": "2024-03-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/da/eb/e3/daebe331-8390-4128-6503-1a6137b38c91/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Came From",
+          "duration": "2:53"
         }
       ]
     },
@@ -445,19 +484,6 @@
           "number": 1,
           "name": "Till It Kills Me",
           "duration": "2:49"
-        }
-      ]
-    },
-    {
-      "name": "Berserk",
-      "year": "2022",
-      "release_date": "2022-11-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f6/06/e4/f606e42f-2209-6db1-cfb5-027797438e1c/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Berserk",
-          "duration": "1:54"
         }
       ]
     },
@@ -488,28 +514,15 @@
       ]
     },
     {
-      "name": "Money",
-      "year": "2022",
-      "release_date": "2022-11-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/00/37/69/00376963-2841-cc37-4e87-981d4dbee46e/artwork.jpg/600x600bb.jpg",
+      "name": "Lock It Down",
+      "year": "2023",
+      "release_date": "2023-02-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/8f/19/9e8f19aa-51a3-bf83-6af3-addad8b1bdd2/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Money",
-          "duration": "2:06"
-        }
-      ]
-    },
-    {
-      "name": "Came From",
-      "year": "2024",
-      "release_date": "2024-03-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/da/eb/e3/daebe331-8390-4128-6503-1a6137b38c91/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Came From",
-          "duration": "2:53"
+          "name": "Lock It Down",
+          "duration": "2:25"
         }
       ]
     },
@@ -605,6 +618,19 @@
       ]
     },
     {
+      "name": "Pain",
+      "year": "2023",
+      "release_date": "2023-11-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/5f/21/de5f2116-b4e0-3be0-8a76-c39f59820dee/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pain",
+          "duration": "2:34"
+        }
+      ]
+    },
+    {
       "name": "wild horse",
       "year": "2025",
       "release_date": "2025-05-16",
@@ -618,19 +644,6 @@
       ]
     },
     {
-      "name": "Lock It Down",
-      "year": "2023",
-      "release_date": "2023-02-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9e/8f/19/9e8f19aa-51a3-bf83-6af3-addad8b1bdd2/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lock It Down",
-          "duration": "2:25"
-        }
-      ]
-    },
-    {
       "name": "Ghost of Us",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -640,32 +653,6 @@
           "number": 1,
           "name": "Ghost of Us",
           "duration": "3:03"
-        }
-      ]
-    },
-    {
-      "name": "Goodbye to Us (feat. KILLBOY)",
-      "year": "2026",
-      "release_date": "2026-01-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/ad/4f/76ad4f72-b27a-6aea-90d0-8ccae6404bd0/5063904243176_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Goodbye to Us (feat. KILLBOY)",
-          "duration": "2:21"
-        }
-      ]
-    },
-    {
-      "name": "CALL YOU",
-      "year": "2026",
-      "release_date": "2026-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/73/4e/8f734e0a-d612-9e56-487a-5496df677540/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CALL YOU",
-          "duration": "2:37"
         }
       ]
     },
@@ -735,6 +722,19 @@
       ]
     },
     {
+      "name": "Goodbye to Us (feat. KILLBOY)",
+      "year": "2026",
+      "release_date": "2026-01-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/ad/4f/76ad4f72-b27a-6aea-90d0-8ccae6404bd0/5063904243176_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Goodbye to Us (feat. KILLBOY)",
+          "duration": "2:21"
+        }
+      ]
+    },
+    {
       "name": "lonely",
       "year": "2025",
       "release_date": "2025-07-11",
@@ -744,19 +744,6 @@
           "number": 1,
           "name": "lonely",
           "duration": "2:29"
-        }
-      ]
-    },
-    {
-      "name": "Pain",
-      "year": "2023",
-      "release_date": "2023-11-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/de/5f/21/de5f2116-b4e0-3be0-8a76-c39f59820dee/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pain",
-          "duration": "2:34"
         }
       ]
     },
@@ -800,6 +787,19 @@
       ]
     },
     {
+      "name": "WAITING",
+      "year": "2026",
+      "release_date": "2026-07-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/b1/58/04b1587a-1869-13bb-c6e1-dd1dbd5b81bd/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "WAITING",
+          "duration": "2:28"
+        }
+      ]
+    },
+    {
       "name": "ALL THAT",
       "year": "2025",
       "release_date": "2025-08-29",
@@ -809,19 +809,6 @@
           "number": 1,
           "name": "ALL THAT",
           "duration": "2:25"
-        }
-      ]
-    },
-    {
-      "name": "Hostage",
-      "year": "2023",
-      "release_date": "2023-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2d/5c/0b/2d5c0bd8-bf97-fb7b-32ca-4dcdbe108184/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hostage",
-          "duration": "3:49"
         }
       ]
     },
@@ -891,6 +878,19 @@
       ]
     },
     {
+      "name": "CALL YOU",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/73/4e/8f734e0a-d612-9e56-487a-5496df677540/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CALL YOU",
+          "duration": "2:37"
+        }
+      ]
+    },
+    {
       "name": "So Alive (Acoustic)",
       "year": "2023",
       "release_date": "2023-06-16",
@@ -939,19 +939,6 @@
           "number": 1,
           "name": "THUNDER",
           "duration": "2:42"
-        }
-      ]
-    },
-    {
-      "name": "WAITING",
-      "year": "2026",
-      "release_date": "2026-07-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/b1/58/04b1587a-1869-13bb-c6e1-dd1dbd5b81bd/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "WAITING",
-          "duration": "2:28"
         }
       ]
     },

@@ -4,24 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "say yes to heaven - sped up",
-      "year": "2023",
-      "release_date": "2023-07-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/c0/c9/46c0c90e-da62-5841-51fe-3f6a8e8d2d8a/5063341979515_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "say yes to heaven - sped up",
-          "duration": "2:51"
-        },
-        {
-          "number": 2,
-          "name": "Say Yes To Heaven",
-          "duration": "3:25"
-        }
-      ]
-    },
-    {
       "name": "Dandelions - Sped Up",
       "year": "2022",
       "release_date": "2022-12-22",
@@ -44,6 +26,24 @@
           "number": 1,
           "name": "unholy - sped up",
           "duration": "2:17"
+        }
+      ]
+    },
+    {
+      "name": "say yes to heaven - sped up",
+      "year": "2023",
+      "release_date": "2023-07-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/c0/c9/46c0c90e-da62-5841-51fe-3f6a8e8d2d8a/5063341979515_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "say yes to heaven - sped up",
+          "duration": "2:51"
+        },
+        {
+          "number": 2,
+          "name": "Say Yes To Heaven",
+          "duration": "3:25"
         }
       ]
     },
@@ -242,19 +242,6 @@
       ]
     },
     {
-      "name": "midnight city (sped up)",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/7f/77/827f777f-672f-6b47-9bd3-409a4aad2d3b/5063785927356_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "midnight city (sped up)",
-          "duration": "3:41"
-        }
-      ]
-    },
-    {
       "name": "Fallin' - Sped Up",
       "year": "2023",
       "release_date": "2023-04-14",
@@ -269,6 +256,19 @@
           "number": 2,
           "name": "Fallin'",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "midnight city (sped up)",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/7f/77/827f777f-672f-6b47-9bd3-409a4aad2d3b/5063785927356_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "midnight city (sped up)",
+          "duration": "3:41"
         }
       ]
     },
@@ -789,6 +789,24 @@
       ]
     },
     {
+      "name": "Strangers (Sped Up)",
+      "year": "2023",
+      "release_date": "2023-11-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/59/c1/b859c17b-e564-3bdd-cca1-0a8ed52f0b9d/5063341306489_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Strangers (sped up)",
+          "duration": "2:30"
+        },
+        {
+          "number": 2,
+          "name": "Strangers",
+          "duration": "2:53"
+        }
+      ]
+    },
+    {
       "name": "I Like the Way You Kiss Me (Sped Up)",
       "year": "2024",
       "release_date": "2024-06-28",
@@ -811,24 +829,6 @@
           "number": 1,
           "name": "you belong with me (sped up)",
           "duration": "3:16"
-        }
-      ]
-    },
-    {
-      "name": "Strangers (Sped Up)",
-      "year": "2023",
-      "release_date": "2023-11-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b8/59/c1/b859c17b-e564-3bdd-cca1-0a8ed52f0b9d/5063341306489_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Strangers (sped up)",
-          "duration": "2:30"
-        },
-        {
-          "number": 2,
-          "name": "Strangers",
-          "duration": "2:53"
         }
       ]
     },
@@ -869,19 +869,6 @@
       ]
     },
     {
-      "name": "Chihiro (Sped Up)",
-      "year": "2024",
-      "release_date": "2024-05-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/04/62/c60462b5-5a3a-eb9d-339c-11139fc3f91c/5063535054486_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chihiro (sped up)",
-          "duration": "4:12"
-        }
-      ]
-    },
-    {
       "name": "Je Veux (Sped Up)",
       "year": "2024",
       "release_date": "2024-03-29",
@@ -896,6 +883,19 @@
           "number": 2,
           "name": "Je Veux",
           "duration": "3:41"
+        }
+      ]
+    },
+    {
+      "name": "Chihiro (Sped Up)",
+      "year": "2024",
+      "release_date": "2024-05-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/04/62/c60462b5-5a3a-eb9d-339c-11139fc3f91c/5063535054486_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chihiro (sped up)",
+          "duration": "4:12"
         }
       ]
     },
@@ -1009,24 +1009,6 @@
       ]
     },
     {
-      "name": "Treat You Better (Sped Up)",
-      "year": "2024",
-      "release_date": "2024-01-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/39/12/353912c0-d0f8-acae-9581-96b95636f11b/5063440820367_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Treat You Better (sped up)",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Treat You Better",
-          "duration": "3:26"
-        }
-      ]
-    },
-    {
       "name": "Around the World (La La La La La) [Sped Up]",
       "year": "2023",
       "release_date": "2023-10-06",
@@ -1041,6 +1023,24 @@
           "number": 2,
           "name": "Around the World (La La La La La)",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Treat You Better (Sped Up)",
+      "year": "2024",
+      "release_date": "2024-01-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/35/39/12/353912c0-d0f8-acae-9581-96b95636f11b/5063440820367_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Treat You Better (sped up)",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Treat You Better",
+          "duration": "3:26"
         }
       ]
     },
@@ -1271,19 +1271,6 @@
       ]
     },
     {
-      "name": "dance monkey (sped up)",
-      "year": "2025",
-      "release_date": "2025-07-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/46/ac/7246ac6e-dc4a-67eb-693b-7a438ce2a67e/5063687804335_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "dance monkey (sped up)",
-          "duration": "3:27"
-        }
-      ]
-    },
-    {
       "name": "Evergreen (You Didn’t Deserve Me At All) - Sped Up",
       "year": "2022",
       "release_date": "2022-12-23",
@@ -1293,6 +1280,19 @@
           "number": 1,
           "name": "Evergreen (You Didn’t Deserve Me At All) - Sped Up (sped up)",
           "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "dance monkey (sped up)",
+      "year": "2025",
+      "release_date": "2025-07-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/46/ac/7246ac6e-dc4a-67eb-693b-7a438ce2a67e/5063687804335_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "dance monkey (sped up)",
+          "duration": "3:27"
         }
       ]
     },
@@ -1323,19 +1323,6 @@
       ]
     },
     {
-      "name": "ocean eyes (but you're alone in a ballroom, sped up)",
-      "year": "2025",
-      "release_date": "2025-10-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/af/b6/d5afb69b-baee-e248-5a9c-725d8d5b478c/5063859964751_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ocean eyes (but you're alone in a ballroom, sped up)",
-          "duration": "2:57"
-        }
-      ]
-    },
-    {
       "name": "Heartbreak Anniversary - Sped Up",
       "year": "2022",
       "release_date": "2022-12-08",
@@ -1345,6 +1332,19 @@
           "number": 1,
           "name": "Heartbreak Anniversary - Sped Up",
           "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "name": "ocean eyes (but you're alone in a ballroom, sped up)",
+      "year": "2025",
+      "release_date": "2025-10-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/af/b6/d5afb69b-baee-e248-5a9c-725d8d5b478c/5063859964751_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ocean eyes (but you're alone in a ballroom, sped up)",
+          "duration": "2:57"
         }
       ]
     },
@@ -1533,19 +1533,6 @@
       ]
     },
     {
-      "name": "ma meilleure ennemie (sped up)",
-      "year": "2025",
-      "release_date": "2025-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/53/1e/dd531e0d-5b61-226e-762e-ab8e27c8571f/5063710038232_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ma meilleure ennemie (sped up)",
-          "duration": "2:10"
-        }
-      ]
-    },
-    {
       "name": "La Vie En Rose - Sped Up",
       "year": "2023",
       "release_date": "2023-06-23",
@@ -1560,6 +1547,19 @@
           "number": 2,
           "name": "La Vie En Rose",
           "duration": "3:06"
+        }
+      ]
+    },
+    {
+      "name": "ma meilleure ennemie (sped up)",
+      "year": "2025",
+      "release_date": "2025-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/53/1e/dd531e0d-5b61-226e-762e-ab8e27c8571f/5063710038232_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ma meilleure ennemie (sped up)",
+          "duration": "2:10"
         }
       ]
     },
@@ -1660,19 +1660,6 @@
       ]
     },
     {
-      "name": "all the stars (sped up)",
-      "year": "2025",
-      "release_date": "2025-04-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/62/c1/df62c143-4dcf-a896-bb7f-6397fa927fc6/5063710531061_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "all the stars (sped up)",
-          "duration": "3:41"
-        }
-      ]
-    },
-    {
       "name": "Bad Habits - Sped Up",
       "year": "2023",
       "release_date": "2023-09-15",
@@ -1687,6 +1674,19 @@
           "number": 2,
           "name": "Bad Habits",
           "duration": "2:54"
+        }
+      ]
+    },
+    {
+      "name": "all the stars (sped up)",
+      "year": "2025",
+      "release_date": "2025-04-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/62/c1/df62c143-4dcf-a896-bb7f-6397fa927fc6/5063710531061_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "all the stars (sped up)",
+          "duration": "3:41"
         }
       ]
     },
@@ -1997,19 +1997,6 @@
       ]
     },
     {
-      "name": "Sparks (Sped Up)",
-      "year": "2024",
-      "release_date": "2024-07-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/12/b0/e212b084-c4ed-320c-f85e-ea407d4480a5/5063535391086_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sparks (sped up)",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "Gangsta's Paradise - Sped Up",
       "year": "2023",
       "release_date": "2023-08-18",
@@ -2024,6 +2011,19 @@
           "number": 2,
           "name": "Gangsta's Paradise",
           "duration": "3:06"
+        }
+      ]
+    },
+    {
+      "name": "Sparks (Sped Up)",
+      "year": "2024",
+      "release_date": "2024-07-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/12/b0/e212b084-c4ed-320c-f85e-ea407d4480a5/5063535391086_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sparks (sped up)",
+          "duration": "3:05"
         }
       ]
     },
@@ -2072,6 +2072,24 @@
       ]
     },
     {
+      "name": "Love of My Life (Sped Up)",
+      "year": "2024",
+      "release_date": "2024-01-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/db/e7/96dbe7ef-fbc7-befa-9851-4c6806db1044/5063440030568_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Love of My Life (sped up)",
+          "duration": "2:56"
+        },
+        {
+          "number": 2,
+          "name": "Love of My Life",
+          "duration": "3:31"
+        }
+      ]
+    },
+    {
       "name": "die with a smile x glimpse of us (sped up)",
       "year": "2024",
       "release_date": "2024-10-03",
@@ -2099,24 +2117,6 @@
           "number": 2,
           "name": "Revenge",
           "duration": "2:00"
-        }
-      ]
-    },
-    {
-      "name": "Love of My Life (Sped Up)",
-      "year": "2024",
-      "release_date": "2024-01-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/96/db/e7/96dbe7ef-fbc7-befa-9851-4c6806db1044/5063440030568_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Love of My Life (sped up)",
-          "duration": "2:56"
-        },
-        {
-          "number": 2,
-          "name": "Love of My Life",
-          "duration": "3:31"
         }
       ]
     },
@@ -2238,19 +2238,6 @@
       ]
     },
     {
-      "name": "Easy On Me (Sped Up Amapiano)",
-      "year": "2026",
-      "release_date": "2026-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/7d/5f/377d5f78-ec3b-b045-7ea5-f67a1313af9f/5064041723675_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Easy On Me (Sped Up Amapiano)",
-          "duration": "4:06"
-        }
-      ]
-    },
-    {
       "name": "Happier Than Ever - Sped Up",
       "year": "2023",
       "release_date": "2023-04-27",
@@ -2269,15 +2256,15 @@
       ]
     },
     {
-      "name": "big jet plane (sped up)",
-      "year": "2023",
-      "release_date": "2023-02-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/6a/ea/2e6aeae6-b830-deb3-fe4f-c6ca30a6e1ea/5063248602295_cover.jpg/600x600bb.jpg",
+      "name": "Easy On Me (Sped Up Amapiano)",
+      "year": "2026",
+      "release_date": "2026-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/7d/5f/377d5f78-ec3b-b045-7ea5-f67a1313af9f/5064041723675_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "big jet plane (sped up)",
-          "duration": "3:21"
+          "name": "Easy On Me (Sped Up Amapiano)",
+          "duration": "4:06"
         }
       ]
     },
@@ -2291,6 +2278,19 @@
           "number": 1,
           "name": "Apocalypse - Sped Up (Sped up)",
           "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "name": "big jet plane (sped up)",
+      "year": "2023",
+      "release_date": "2023-02-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2e/6a/ea/2e6aeae6-b830-deb3-fe4f-c6ca30a6e1ea/5063248602295_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "big jet plane (sped up)",
+          "duration": "3:21"
         }
       ]
     },
@@ -2339,19 +2339,6 @@
       ]
     },
     {
-      "name": "kiss me (sped up)",
-      "year": "2024",
-      "release_date": "2024-09-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/f0/b5/76f0b536-56b9-9c69-ccbc-17e59293a9c1/5063561362036_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "kiss me (sped up)",
-          "duration": "2:43"
-        }
-      ]
-    },
-    {
       "name": "Make It Rain - Sped Up",
       "year": "2023",
       "release_date": "2023-06-30",
@@ -2366,6 +2353,19 @@
           "number": 2,
           "name": "Make It Rain",
           "duration": "5:25"
+        }
+      ]
+    },
+    {
+      "name": "kiss me (sped up)",
+      "year": "2024",
+      "release_date": "2024-09-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/f0/b5/76f0b536-56b9-9c69-ccbc-17e59293a9c1/5063561362036_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "kiss me (sped up)",
+          "duration": "2:43"
         }
       ]
     },

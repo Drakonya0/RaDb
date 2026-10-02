@@ -4,6 +4,34 @@
   "albums": [],
   "singles": [
     {
+      "name": "RED AURA FUNK",
+      "year": "2026",
+      "release_date": "2026-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/aa/b8/1eaab872-a343-7905-6336-752fc52ae272/1014138.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "RED AURA FUNK",
+          "duration": "1:37"
+        },
+        {
+          "number": 2,
+          "name": "RED AURA FUNK (Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 3,
+          "name": "RED AURA FUNK (Super Slowed)",
+          "duration": "2:03"
+        },
+        {
+          "number": 4,
+          "name": "RED AURA FUNK (Ultra Slowed)",
+          "duration": "2:18"
+        }
+      ]
+    },
+    {
       "name": "BROKE",
       "year": "2026",
       "release_date": "2026-08-28",
@@ -133,34 +161,6 @@
           "number": 3,
           "name": "QUE DELICIA (Ultra Slowed)",
           "duration": "1:45"
-        }
-      ]
-    },
-    {
-      "name": "RED AURA FUNK",
-      "year": "2026",
-      "release_date": "2026-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/aa/b8/1eaab872-a343-7905-6336-752fc52ae272/1014138.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "RED AURA FUNK",
-          "duration": "1:37"
-        },
-        {
-          "number": 2,
-          "name": "RED AURA FUNK (Slowed)",
-          "duration": "1:49"
-        },
-        {
-          "number": 3,
-          "name": "RED AURA FUNK (Super Slowed)",
-          "duration": "2:03"
-        },
-        {
-          "number": 4,
-          "name": "RED AURA FUNK (Ultra Slowed)",
-          "duration": "2:18"
         }
       ]
     }
@@ -363,34 +363,6 @@
       ]
     },
     {
-      "name": "BLUE AURA FUNK",
-      "year": "2026",
-      "release_date": "2026-03-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/47/48/d7474845-9444-4861-a9c4-c3db8927e95e/1028365.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "BLUE AURA FUNK",
-          "duration": "1:15"
-        },
-        {
-          "number": 2,
-          "name": "BLUE AURA FUNK (Slowed)",
-          "duration": "1:24"
-        },
-        {
-          "number": 3,
-          "name": "BLUE AURA FUNK (Super Slowed)",
-          "duration": "1:35"
-        },
-        {
-          "number": 4,
-          "name": "BLUE AURA FUNK (Ultra Slowed)",
-          "duration": "1:46"
-        }
-      ]
-    },
-    {
       "name": "MELODIA VOLUME ABSURDO",
       "year": "2025",
       "release_date": "2025-09-19",
@@ -420,6 +392,34 @@
           "number": 5,
           "name": "MELODIA VOLUME ABSURDO (Extreme Slowed)",
           "duration": "1:59"
+        }
+      ]
+    },
+    {
+      "name": "BLUE AURA FUNK",
+      "year": "2026",
+      "release_date": "2026-03-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/47/48/d7474845-9444-4861-a9c4-c3db8927e95e/1028365.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BLUE AURA FUNK",
+          "duration": "1:15"
+        },
+        {
+          "number": 2,
+          "name": "BLUE AURA FUNK (Slowed)",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "BLUE AURA FUNK (Super Slowed)",
+          "duration": "1:35"
+        },
+        {
+          "number": 4,
+          "name": "BLUE AURA FUNK (Ultra Slowed)",
+          "duration": "1:46"
         }
       ]
     },
@@ -508,34 +508,6 @@
       ]
     },
     {
-      "name": "MTG NA CONTA",
-      "year": "2025",
-      "release_date": "2025-07-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/2c/d2/a02cd208-6695-31ad-b667-94f5b31cecc9/135070.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MTG NA CONTA",
-          "duration": "1:35"
-        },
-        {
-          "number": 2,
-          "name": "MTG NA CONTA (Slowed)",
-          "duration": "1:47"
-        },
-        {
-          "number": 3,
-          "name": "MTG NA CONTA (Super Slowed)",
-          "duration": "2:00"
-        },
-        {
-          "number": 4,
-          "name": "MTG NA CONTA (Ultra Slowed)",
-          "duration": "2:15"
-        }
-      ]
-    },
-    {
       "name": "ULTIMATE AURA FUNK",
       "year": "2026",
       "release_date": "2026-03-14",
@@ -560,6 +532,34 @@
           "number": 4,
           "name": "ULTIMATE AURA FUNK (Ultra Slowed)",
           "duration": "2:28"
+        }
+      ]
+    },
+    {
+      "name": "MTG NA CONTA",
+      "year": "2025",
+      "release_date": "2025-07-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/2c/d2/a02cd208-6695-31ad-b667-94f5b31cecc9/135070.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MTG NA CONTA",
+          "duration": "1:35"
+        },
+        {
+          "number": 2,
+          "name": "MTG NA CONTA (Slowed)",
+          "duration": "1:47"
+        },
+        {
+          "number": 3,
+          "name": "MTG NA CONTA (Super Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 4,
+          "name": "MTG NA CONTA (Ultra Slowed)",
+          "duration": "2:15"
         }
       ]
     },
@@ -928,34 +928,6 @@
       ]
     },
     {
-      "name": "DESCE ATE O CHAO",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/8c/ed/6f8ced97-db41-05e5-fc31-d0811c846195/2950195.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DESCE ATE O CHAO",
-          "duration": "1:13"
-        },
-        {
-          "number": 2,
-          "name": "DESCE ATE O CHAO (Slowed)",
-          "duration": "1:22"
-        },
-        {
-          "number": 3,
-          "name": "DESCE ATE O CHAO (Super Slowed)",
-          "duration": "1:33"
-        },
-        {
-          "number": 4,
-          "name": "DESCE ATE O CHAO (Ultra Slowed)",
-          "duration": "1:44"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM KILLA",
       "year": "2026",
       "release_date": "2026-05-22",
@@ -980,6 +952,34 @@
           "number": 4,
           "name": "MONTAGEM KILLA (Ultra Slowed)",
           "duration": "2:04"
+        }
+      ]
+    },
+    {
+      "name": "DESCE ATE O CHAO",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/8c/ed/6f8ced97-db41-05e5-fc31-d0811c846195/2950195.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DESCE ATE O CHAO",
+          "duration": "1:13"
+        },
+        {
+          "number": 2,
+          "name": "DESCE ATE O CHAO (Slowed)",
+          "duration": "1:22"
+        },
+        {
+          "number": 3,
+          "name": "DESCE ATE O CHAO (Super Slowed)",
+          "duration": "1:33"
+        },
+        {
+          "number": 4,
+          "name": "DESCE ATE O CHAO (Ultra Slowed)",
+          "duration": "1:44"
         }
       ]
     },
@@ -1185,34 +1185,6 @@
       ]
     },
     {
-      "name": "RITMO MALDADE",
-      "year": "2025",
-      "release_date": "2025-07-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/da/67/deda6766-ef89-479e-6a2d-2349ef80211f/79405.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "RITMO MALDADE",
-          "duration": "1:07"
-        },
-        {
-          "number": 2,
-          "name": "RITMO MALDADE (Slowed)",
-          "duration": "1:15"
-        },
-        {
-          "number": 3,
-          "name": "RITMO MALDADE (Super Slowed)",
-          "duration": "1:24"
-        },
-        {
-          "number": 4,
-          "name": "RITMO MALDADE (Ultra Slowed)",
-          "duration": "1:35"
-        }
-      ]
-    },
-    {
       "name": "DO PAREDÃO",
       "year": "2025",
       "release_date": "2025-12-05",
@@ -1246,6 +1218,34 @@
       ]
     },
     {
+      "name": "DARK AURA FUNK",
+      "year": "2025",
+      "release_date": "2025-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/33/05/663305ae-5ac3-5677-f6de-a42b315ea954/4345970.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DARK AURA FUNK",
+          "duration": "1:09"
+        },
+        {
+          "number": 2,
+          "name": "DARK AURA FUNK (Slowed)",
+          "duration": "1:18"
+        },
+        {
+          "number": 3,
+          "name": "DARK AURA FUNK (Super Slowed)",
+          "duration": "1:27"
+        },
+        {
+          "number": 4,
+          "name": "DARK AURA FUNK (Ultra Slowed)",
+          "duration": "1:38"
+        }
+      ]
+    },
+    {
       "name": "ESTRELAS",
       "year": "2026",
       "release_date": "2026-04-24",
@@ -1274,30 +1274,30 @@
       ]
     },
     {
-      "name": "DARK AURA FUNK",
+      "name": "RITMO MALDADE",
       "year": "2025",
-      "release_date": "2025-11-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/33/05/663305ae-5ac3-5677-f6de-a42b315ea954/4345970.jpg/600x600bb.jpg",
+      "release_date": "2025-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/da/67/deda6766-ef89-479e-6a2d-2349ef80211f/79405.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "DARK AURA FUNK",
-          "duration": "1:09"
+          "name": "RITMO MALDADE",
+          "duration": "1:07"
         },
         {
           "number": 2,
-          "name": "DARK AURA FUNK (Slowed)",
-          "duration": "1:18"
+          "name": "RITMO MALDADE (Slowed)",
+          "duration": "1:15"
         },
         {
           "number": 3,
-          "name": "DARK AURA FUNK (Super Slowed)",
-          "duration": "1:27"
+          "name": "RITMO MALDADE (Super Slowed)",
+          "duration": "1:24"
         },
         {
           "number": 4,
-          "name": "DARK AURA FUNK (Ultra Slowed)",
-          "duration": "1:38"
+          "name": "RITMO MALDADE (Ultra Slowed)",
+          "duration": "1:35"
         }
       ]
     },
@@ -1531,6 +1531,34 @@
       ]
     },
     {
+      "name": "MONTAGEM SYBAU",
+      "year": "2026",
+      "release_date": "2026-04-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/60/59/ee6059bf-2e25-29dc-d243-658a78818f51/2950252.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM SYBAU",
+          "duration": "1:08"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM SYBAU (Slowed)",
+          "duration": "1:17"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM SYBAU (Super Slowed)",
+          "duration": "1:26"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM SYBAU (Ultra Slowed)",
+          "duration": "1:37"
+        }
+      ]
+    },
+    {
       "name": "MELODIA VOLUME ABSURDO",
       "year": "2025",
       "release_date": "2025-09-20",
@@ -1560,34 +1588,6 @@
           "number": 5,
           "name": "MELODIA VOLUME ABSURDO (Extreme Slowed)",
           "duration": "1:59"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM SYBAU",
-      "year": "2026",
-      "release_date": "2026-04-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/60/59/ee6059bf-2e25-29dc-d243-658a78818f51/2950252.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM SYBAU",
-          "duration": "1:08"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM SYBAU (Slowed)",
-          "duration": "1:17"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM SYBAU (Super Slowed)",
-          "duration": "1:26"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM SYBAU (Ultra Slowed)",
-          "duration": "1:37"
         }
       ]
     },
@@ -1849,34 +1849,6 @@
       ]
     },
     {
-      "name": "IMPACTO (Funk)",
-      "year": "2026",
-      "release_date": "2026-02-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/8b/5b/c58b5b63-03ef-265f-b6ce-16a37e292491/504020.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "IMPACTO (Funk)",
-          "duration": "1:20"
-        },
-        {
-          "number": 2,
-          "name": "IMPACTO (Funk Slowed)",
-          "duration": "1:29"
-        },
-        {
-          "number": 3,
-          "name": "IMPACTO (Funk Super Slowed)",
-          "duration": "1:40"
-        },
-        {
-          "number": 4,
-          "name": "IMPACTO (Funk Ultra Slowed)",
-          "duration": "1:53"
-        }
-      ]
-    },
-    {
       "name": "BETA BETA",
       "year": "2026",
       "release_date": "2026-05-15",
@@ -1901,6 +1873,34 @@
           "number": 4,
           "name": "BETA BETA (Ultra Slowed)",
           "duration": "1:45"
+        }
+      ]
+    },
+    {
+      "name": "IMPACTO (Funk)",
+      "year": "2026",
+      "release_date": "2026-02-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/8b/5b/c58b5b63-03ef-265f-b6ce-16a37e292491/504020.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "IMPACTO (Funk)",
+          "duration": "1:20"
+        },
+        {
+          "number": 2,
+          "name": "IMPACTO (Funk Slowed)",
+          "duration": "1:29"
+        },
+        {
+          "number": 3,
+          "name": "IMPACTO (Funk Super Slowed)",
+          "duration": "1:40"
+        },
+        {
+          "number": 4,
+          "name": "IMPACTO (Funk Ultra Slowed)",
+          "duration": "1:53"
         }
       ]
     },
@@ -1989,34 +1989,6 @@
       ]
     },
     {
-      "name": "ULTIMATE AURA FUNK",
-      "year": "2026",
-      "release_date": "2026-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/93/c2/a093c291-26fc-2608-13c9-37455cb78cf5/1095012.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ULTIMATE AURA FUNK",
-          "duration": "1:44"
-        },
-        {
-          "number": 2,
-          "name": "ULTIMATE AURA FUNK (Slowed)",
-          "duration": "1:57"
-        },
-        {
-          "number": 3,
-          "name": "ULTIMATE AURA FUNK (Super Slowed)",
-          "duration": "2:12"
-        },
-        {
-          "number": 4,
-          "name": "ULTIMATE AURA FUNK (Ultra Slowed)",
-          "duration": "2:28"
-        }
-      ]
-    },
-    {
       "name": "SEM FREAR",
       "year": "2025",
       "release_date": "2025-12-19",
@@ -2041,6 +2013,34 @@
           "number": 4,
           "name": "SEM FREAR (Ultra Slowed)",
           "duration": "2:06"
+        }
+      ]
+    },
+    {
+      "name": "ULTIMATE AURA FUNK",
+      "year": "2026",
+      "release_date": "2026-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/93/c2/a093c291-26fc-2608-13c9-37455cb78cf5/1095012.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ULTIMATE AURA FUNK",
+          "duration": "1:44"
+        },
+        {
+          "number": 2,
+          "name": "ULTIMATE AURA FUNK (Slowed)",
+          "duration": "1:57"
+        },
+        {
+          "number": 3,
+          "name": "ULTIMATE AURA FUNK (Super Slowed)",
+          "duration": "2:12"
+        },
+        {
+          "number": 4,
+          "name": "ULTIMATE AURA FUNK (Ultra Slowed)",
+          "duration": "2:28"
         }
       ]
     },
@@ -2101,34 +2101,6 @@
       ]
     },
     {
-      "name": "TEU CALOR",
-      "year": "2025",
-      "release_date": "2025-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/e3/19/65e3196f-9b7b-f92b-c67b-52b533adae6a/4085.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TEU CALOR",
-          "duration": "1:13"
-        },
-        {
-          "number": 2,
-          "name": "TEU CALOR (Slowed)",
-          "duration": "1:22"
-        },
-        {
-          "number": 3,
-          "name": "TEU CALOR (Super Slowed)",
-          "duration": "1:33"
-        },
-        {
-          "number": 4,
-          "name": "TEU CALOR (Ultra Slowed)",
-          "duration": "1:44"
-        }
-      ]
-    },
-    {
       "name": "VAMOS LENTO",
       "year": "2026",
       "release_date": "2026-05-15",
@@ -2153,6 +2125,34 @@
           "number": 4,
           "name": "VAMOS LENTO (Ultra Slowed)",
           "duration": "2:31"
+        }
+      ]
+    },
+    {
+      "name": "TEU CALOR",
+      "year": "2025",
+      "release_date": "2025-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/e3/19/65e3196f-9b7b-f92b-c67b-52b533adae6a/4085.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TEU CALOR",
+          "duration": "1:13"
+        },
+        {
+          "number": 2,
+          "name": "TEU CALOR (Slowed)",
+          "duration": "1:22"
+        },
+        {
+          "number": 3,
+          "name": "TEU CALOR (Super Slowed)",
+          "duration": "1:33"
+        },
+        {
+          "number": 4,
+          "name": "TEU CALOR (Ultra Slowed)",
+          "duration": "1:44"
         }
       ]
     },

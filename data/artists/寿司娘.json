@@ -288,79 +288,6 @@
           "duration": "2:51"
         }
       ]
-    },
-    {
-      "name": "最高にエモい恋愛ソング",
-      "year": "2025",
-      "release_date": "2025-06-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/87/12/cc871289-f1ca-f9c3-aeb7-5bddd56103bd/61028.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Magic of a Date",
-          "duration": "3:55"
-        },
-        {
-          "number": 2,
-          "name": "My Hero",
-          "duration": "2:50"
-        },
-        {
-          "number": 3,
-          "name": "Silent Pages",
-          "duration": "3:42"
-        },
-        {
-          "number": 4,
-          "name": "Your Afterimage",
-          "duration": "3:34"
-        },
-        {
-          "number": 5,
-          "name": "Bye-bye, Yesterday Me",
-          "duration": "3:39"
-        },
-        {
-          "number": 6,
-          "name": "The Love Spell Has Broken",
-          "duration": "2:51"
-        },
-        {
-          "number": 7,
-          "name": "Beyond the Misunderstandings",
-          "duration": "3:31"
-        },
-        {
-          "number": 8,
-          "name": "Gift of Love",
-          "duration": "2:56"
-        },
-        {
-          "number": 9,
-          "name": "What the Sunset Taught Me",
-          "duration": "2:55"
-        },
-        {
-          "number": 10,
-          "name": "Goodbye, Hello",
-          "duration": "2:48"
-        },
-        {
-          "number": 11,
-          "name": "Together, Always",
-          "duration": "3:28"
-        },
-        {
-          "number": 12,
-          "name": "The day being just childhood friends wasn’t enough anymore",
-          "duration": "3:18"
-        },
-        {
-          "number": 13,
-          "name": "In the Final Moment",
-          "duration": "3:08"
-        }
-      ]
     }
   ],
   "singles": [
@@ -2107,6 +2034,19 @@
       ]
     },
     {
+      "name": "A Little Kindness",
+      "year": "2026",
+      "release_date": "2026-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/e6/17/04e61773-a85c-c94d-328d-2b725c5cead9/4550795156902_cover.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A Little Kindness",
+          "duration": "4:13"
+        }
+      ]
+    },
+    {
       "name": "映画どころじゃない",
       "year": "2025",
       "release_date": "2025-03-24",
@@ -2885,20 +2825,46 @@
           "duration": "3:31"
         }
       ]
-    },
+    }
+  ],
+  "eps": [
     {
-      "name": "SUSHI RAMEN EDM",
-      "year": "2024",
-      "release_date": "2024-12-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/e3/6c/1de36cd4-38c2-03da-a870-5d267983b003/2265590.jpg/600x600bb.jpg",
+      "name": "Last Emotion",
+      "year": "2026",
+      "release_date": "2026-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/73/8e/5c738ead-cf0b-7b98-095d-43af4c85dc5c/4550795081716_cover.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "SUSHI RAMEN EDM",
-          "duration": "2:18"
+          "name": "What Remains",
+          "duration": "2:41"
+        },
+        {
+          "number": 2,
+          "name": "Memory",
+          "duration": "0:59"
+        },
+        {
+          "number": 3,
+          "name": "Wandering Heart",
+          "duration": "3:07"
+        },
+        {
+          "number": 4,
+          "name": "The Town I Remember",
+          "duration": "2:24"
+        },
+        {
+          "number": 5,
+          "name": "Battle",
+          "duration": "1:32"
+        },
+        {
+          "number": 6,
+          "name": "In a Dream",
+          "duration": "1:14"
         }
       ]
     }
-  ],
-  "eps": []
+  ]
 }

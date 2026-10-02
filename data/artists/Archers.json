@@ -48,19 +48,6 @@
   ],
   "singles": [
     {
-      "name": "Bitter",
-      "year": "2022",
-      "release_date": "2022-07-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/ff/40/51ff400a-6eb4-b4ea-a22b-4a518e33e7bc/198004068611.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bitter",
-          "duration": "3:23"
-        }
-      ]
-    },
-    {
       "name": "The Hills",
       "year": "2015",
       "release_date": "2015-11-30",
@@ -70,6 +57,19 @@
           "number": 1,
           "name": "The Hills",
           "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "Bitter",
+      "year": "2022",
+      "release_date": "2022-07-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/51/ff/40/51ff400a-6eb4-b4ea-a22b-4a518e33e7bc/198004068611.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bitter",
+          "duration": "3:23"
         }
       ]
     },
@@ -100,37 +100,6 @@
       ]
     },
     {
-      "name": "Levitating",
-      "year": "2021",
-      "release_date": "2021-04-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/32/30/72/323072b7-bc51-a79b-e125-ccd426d86c00/198000003180.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Levitating",
-          "duration": "3:22"
-        }
-      ]
-    },
-    {
-      "name": "Say This Sober",
-      "year": "2023",
-      "release_date": "2023-05-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4b/b8/73/4bb8739e-fc3e-b4fb-d9b6-91de364898cf/198025046506.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Say This Sober",
-          "duration": "3:22"
-        },
-        {
-          "number": 2,
-          "name": "Bitter",
-          "duration": "3:23"
-        }
-      ]
-    },
-    {
       "name": "The Dirt",
       "year": "2026",
       "release_date": "2026-01-30",
@@ -140,6 +109,19 @@
           "number": 1,
           "name": "The Dirt",
           "duration": "3:39"
+        }
+      ]
+    },
+    {
+      "name": "Levitating",
+      "year": "2021",
+      "release_date": "2021-04-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/32/30/72/323072b7-bc51-a79b-e125-ccd426d86c00/198000003180.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Levitating",
+          "duration": "3:22"
         }
       ]
     },
@@ -162,15 +144,20 @@
       ]
     },
     {
-      "name": "Made For Love",
-      "year": "2024",
-      "release_date": "2024-09-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/fb/f0/86fbf0e4-77ab-2245-f6c2-8882eea45ddc/198595696668.jpg/600x600bb.jpg",
+      "name": "Say This Sober",
+      "year": "2023",
+      "release_date": "2023-05-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4b/b8/73/4bb8739e-fc3e-b4fb-d9b6-91de364898cf/198025046506.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Made For Love",
-          "duration": "3:34"
+          "name": "Say This Sober",
+          "duration": "3:22"
+        },
+        {
+          "number": 2,
+          "name": "Bitter",
+          "duration": "3:23"
         }
       ]
     },
@@ -211,15 +198,15 @@
       ]
     },
     {
-      "name": "Bag of Bones",
-      "year": "2015",
-      "release_date": "2015-02-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/b6/54/4a/b6544a16-67eb-ae1c-f822-4f40dade63ab/889211338078.jpg/600x600bb.jpg",
+      "name": "Made For Love",
+      "year": "2024",
+      "release_date": "2024-09-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/fb/f0/86fbf0e4-77ab-2245-f6c2-8882eea45ddc/198595696668.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Bag of Bones",
-          "duration": "3:17"
+          "name": "Made For Love",
+          "duration": "3:34"
         }
       ]
     },
@@ -233,6 +220,19 @@
           "number": 1,
           "name": "Get Paid",
           "duration": "2:58"
+        }
+      ]
+    },
+    {
+      "name": "Bag of Bones",
+      "year": "2015",
+      "release_date": "2015-02-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/b6/54/4a/b6544a16-67eb-ae1c-f822-4f40dade63ab/889211338078.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bag of Bones",
+          "duration": "3:17"
         }
       ]
     },

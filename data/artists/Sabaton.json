@@ -2003,6 +2003,74 @@
       ]
     },
     {
+      "name": "Heroes (Track Commentary Version)",
+      "year": "2014",
+      "release_date": "2014-05-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/59/71/e0/5971e0f4-4d47-3333-fbf2-9e6fae7e3d1c/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Intro - Heroes (Track Commentary)",
+          "duration": "0:30"
+        },
+        {
+          "number": 2,
+          "name": "Night Witches (Track Commentary)",
+          "duration": "0:34"
+        },
+        {
+          "number": 3,
+          "name": "No Bullets Fly (Track Commentary)",
+          "duration": "0:44"
+        },
+        {
+          "number": 4,
+          "name": "Smoking Snakes (Track Commentary)",
+          "duration": "0:39"
+        },
+        {
+          "number": 5,
+          "name": "Inmate 4859 (Track Commentary)",
+          "duration": "0:50"
+        },
+        {
+          "number": 6,
+          "name": "To Hell and Back (Track Commentary)",
+          "duration": "0:50"
+        },
+        {
+          "number": 7,
+          "name": "The Ballad of Bull (Track Commentary)",
+          "duration": "0:34"
+        },
+        {
+          "number": 8,
+          "name": "Resist and Bite (Track Commentary)",
+          "duration": "0:50"
+        },
+        {
+          "number": 9,
+          "name": "Soldier of 3 Armies (Track Commentary)",
+          "duration": "0:39"
+        },
+        {
+          "number": 10,
+          "name": "Far from the Fame (Track Commentary)",
+          "duration": "0:34"
+        },
+        {
+          "number": 11,
+          "name": "Hearts of Iron (Track Commentary)",
+          "duration": "0:39"
+        },
+        {
+          "number": 12,
+          "name": "Outro - Heroes (Track Commentary)",
+          "duration": "0:16"
+        }
+      ]
+    },
+    {
       "name": "The Last Stand (10th Anniversary Edition)",
       "year": "2026",
       "release_date": "2026-09-11",
@@ -2082,74 +2150,6 @@
           "number": 15,
           "name": "Burn in Hell",
           "duration": "4:18"
-        }
-      ]
-    },
-    {
-      "name": "Heroes (Track Commentary Version)",
-      "year": "2014",
-      "release_date": "2014-05-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/59/71/e0/5971e0f4-4d47-3333-fbf2-9e6fae7e3d1c/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Intro - Heroes (Track Commentary)",
-          "duration": "0:30"
-        },
-        {
-          "number": 2,
-          "name": "Night Witches (Track Commentary)",
-          "duration": "0:34"
-        },
-        {
-          "number": 3,
-          "name": "No Bullets Fly (Track Commentary)",
-          "duration": "0:44"
-        },
-        {
-          "number": 4,
-          "name": "Smoking Snakes (Track Commentary)",
-          "duration": "0:39"
-        },
-        {
-          "number": 5,
-          "name": "Inmate 4859 (Track Commentary)",
-          "duration": "0:50"
-        },
-        {
-          "number": 6,
-          "name": "To Hell and Back (Track Commentary)",
-          "duration": "0:50"
-        },
-        {
-          "number": 7,
-          "name": "The Ballad of Bull (Track Commentary)",
-          "duration": "0:34"
-        },
-        {
-          "number": 8,
-          "name": "Resist and Bite (Track Commentary)",
-          "duration": "0:50"
-        },
-        {
-          "number": 9,
-          "name": "Soldier of 3 Armies (Track Commentary)",
-          "duration": "0:39"
-        },
-        {
-          "number": 10,
-          "name": "Far from the Fame (Track Commentary)",
-          "duration": "0:34"
-        },
-        {
-          "number": 11,
-          "name": "Hearts of Iron (Track Commentary)",
-          "duration": "0:39"
-        },
-        {
-          "number": 12,
-          "name": "Outro - Heroes (Track Commentary)",
-          "duration": "0:16"
         }
       ]
     },
@@ -2316,24 +2316,6 @@
       ]
     },
     {
-      "name": "Templars (feat. Pop Evil)",
-      "year": "2026",
-      "release_date": "2026-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/fa/17/87fa1776-7d7d-eb11-61ef-e2bc7b89294b/810202538207.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Templars (feat. Pop Evil)",
-          "duration": "3:23"
-        },
-        {
-          "number": 2,
-          "name": "Templars",
-          "duration": "4:54"
-        }
-      ]
-    },
-    {
       "name": "In the Army Now",
       "year": "2012",
       "release_date": "2012-01-01",
@@ -2361,6 +2343,24 @@
           "number": 2,
           "name": "The Attack of the Dead Men",
           "duration": "3:55"
+        }
+      ]
+    },
+    {
+      "name": "Templars (feat. Pop Evil)",
+      "year": "2026",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/fa/17/87fa1776-7d7d-eb11-61ef-e2bc7b89294b/810202538207.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Templars (feat. Pop Evil)",
+          "duration": "3:23"
+        },
+        {
+          "number": 2,
+          "name": "Templars",
+          "duration": "4:54"
         }
       ]
     },
@@ -2401,19 +2401,6 @@
       ]
     },
     {
-      "name": "Bismarck",
-      "year": "2019",
-      "release_date": "2019-05-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/dd/b7/9cddb7ca-d58b-c42d-7be9-8a92f4b2385b/3616402647278.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bismarck",
-          "duration": "5:13"
-        }
-      ]
-    },
-    {
       "name": "The Unkillable Soldier",
       "year": "2022",
       "release_date": "2022-02-11",
@@ -2443,7 +2430,7 @@
       "name": "Bismarck",
       "year": "2019",
       "release_date": "2019-05-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/6d/ba/206dba26-5c21-ea25-564f-c8ef35491667/361640264727.jpg/600x600bb.jpg",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/dd/b7/9cddb7ca-d58b-c42d-7be9-8a92f4b2385b/3616402647278.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,

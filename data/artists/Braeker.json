@@ -107,29 +107,6 @@
       ]
     },
     {
-      "name": "Disguise",
-      "year": "2025",
-      "release_date": "2025-05-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/d5/54/7fd554df-6770-00ff-f72d-3deed8b471b5/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Disguise",
-          "duration": "3:34"
-        },
-        {
-          "number": 2,
-          "name": "Deathbed",
-          "duration": "2:39"
-        },
-        {
-          "number": 3,
-          "name": "I'm Yours Now",
-          "duration": "2:40"
-        }
-      ]
-    },
-    {
       "name": "Give Me Your Pain",
       "year": "2024",
       "release_date": "2024-06-14",
@@ -157,6 +134,29 @@
           "number": 2,
           "name": "Die For You",
           "duration": "4:32"
+        }
+      ]
+    },
+    {
+      "name": "Disguise",
+      "year": "2025",
+      "release_date": "2025-05-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/d5/54/7fd554df-6770-00ff-f72d-3deed8b471b5/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Disguise",
+          "duration": "3:34"
+        },
+        {
+          "number": 2,
+          "name": "Deathbed",
+          "duration": "2:39"
+        },
+        {
+          "number": 3,
+          "name": "I'm Yours Now",
+          "duration": "2:40"
         }
       ]
     },
@@ -423,34 +423,6 @@
       ]
     },
     {
-      "name": "Come Down",
-      "year": "2025",
-      "release_date": "2025-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/c9/97/20c99731-12b0-bf4d-f3e3-0791a5428bcc/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Come Down",
-          "duration": "4:26"
-        },
-        {
-          "number": 2,
-          "name": "Rip Me Apart",
-          "duration": "3:49"
-        },
-        {
-          "number": 3,
-          "name": "Roots",
-          "duration": "2:27"
-        },
-        {
-          "number": 4,
-          "name": "Medusa",
-          "duration": "4:05"
-        }
-      ]
-    },
-    {
       "name": "One More Kiss",
       "year": "2026",
       "release_date": "2026-09-18",
@@ -485,6 +457,34 @@
           "number": 6,
           "name": "Endlessly",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "Come Down",
+      "year": "2025",
+      "release_date": "2025-01-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/c9/97/20c99731-12b0-bf4d-f3e3-0791a5428bcc/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Come Down",
+          "duration": "4:26"
+        },
+        {
+          "number": 2,
+          "name": "Rip Me Apart",
+          "duration": "3:49"
+        },
+        {
+          "number": 3,
+          "name": "Roots",
+          "duration": "2:27"
+        },
+        {
+          "number": 4,
+          "name": "Medusa",
+          "duration": "4:05"
         }
       ]
     },
