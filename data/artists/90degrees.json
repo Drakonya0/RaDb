@@ -1,7 +1,104 @@
 {
   "name": "90degrees",
   "id": 1510960836,
-  "albums": [],
+  "albums": [
+    {
+      "name": "Me Gustas Tu (Acoustic)",
+      "year": "2026",
+      "release_date": "2026-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/9f/e5/519fe577-9350-5a51-b9c6-456748d448c2/5064150719576_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Me Gustas Tu (Acoustic)",
+          "duration": "3:23"
+        },
+        {
+          "number": 2,
+          "name": "Me Gustas Tu (Acoustic - Instrumental)",
+          "duration": "3:23"
+        },
+        {
+          "number": 3,
+          "name": "Me Gustas Tu (Acoustic - Slowed)",
+          "duration": "4:13"
+        },
+        {
+          "number": 4,
+          "name": "Me Gustas Tu (Acoustic - Sped Up)",
+          "duration": "2:49"
+        },
+        {
+          "number": 5,
+          "name": "Me Gustas Tu (Acoustic - Audio)",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "Me Gustas Tu (Acoustic - Nightcore)",
+          "duration": "2:35"
+        },
+        {
+          "number": 7,
+          "name": "Me Gustas Tu (Acoustic - but it's slowed and muffled)",
+          "duration": "4:14"
+        },
+        {
+          "number": 8,
+          "name": "Me Gustas Tu (Acoustic - but you're alone in a ballroom)",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "Do I Wanna Know? (Acoustic)",
+      "year": "2026",
+      "release_date": "2026-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/af/2d/b0af2d7f-a7de-9e3b-c3cd-a3ef74249c7d/5064150032378_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Do I Wanna Know? (Acoustic)",
+          "duration": "4:32"
+        },
+        {
+          "number": 2,
+          "name": "Do I Wanna Know? (Acoustic - Instrumental)",
+          "duration": "4:32"
+        },
+        {
+          "number": 3,
+          "name": "Do I Wanna Know? (Acoustic - Slowed)",
+          "duration": "5:40"
+        },
+        {
+          "number": 4,
+          "name": "Do I Wanna Know? (Acoustic - Sped Up)",
+          "duration": "3:57"
+        },
+        {
+          "number": 5,
+          "name": "Do I Wanna Know? (Acoustic - 8D Audio)",
+          "duration": "4:32"
+        },
+        {
+          "number": 6,
+          "name": "Do I Wanna Know? (Acoustic - Nightcore)",
+          "duration": "3:28"
+        },
+        {
+          "number": 7,
+          "name": "Do I Wanna Know? (Acoustic - but it's slowed and muffled)",
+          "duration": "5:40"
+        },
+        {
+          "number": 8,
+          "name": "Do I Wanna Know? (Acoustic - but you're alone in a ballroom)",
+          "duration": "4:47"
+        }
+      ]
+    }
+  ],
   "singles": [
     {
       "name": "Dandelions - Sped Up",
@@ -26,24 +123,6 @@
           "number": 1,
           "name": "unholy - sped up",
           "duration": "2:17"
-        }
-      ]
-    },
-    {
-      "name": "say yes to heaven - sped up",
-      "year": "2023",
-      "release_date": "2023-07-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/c0/c9/46c0c90e-da62-5841-51fe-3f6a8e8d2d8a/5063341979515_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "say yes to heaven - sped up",
-          "duration": "2:51"
-        },
-        {
-          "number": 2,
-          "name": "Say Yes To Heaven",
-          "duration": "3:25"
         }
       ]
     },
@@ -75,6 +154,24 @@
           "number": 2,
           "name": "Tattoo",
           "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "say yes to heaven - sped up",
+      "year": "2023",
+      "release_date": "2023-07-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/46/c0/c9/46c0c90e-da62-5841-51fe-3f6a8e8d2d8a/5063341979515_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "say yes to heaven - sped up",
+          "duration": "2:51"
+        },
+        {
+          "number": 2,
+          "name": "Say Yes To Heaven",
+          "duration": "3:25"
         }
       ]
     },
@@ -1067,6 +1164,19 @@
           "number": 1,
           "name": "Formula - Sped Up",
           "duration": "1:13"
+        }
+      ]
+    },
+    {
+      "name": "Paparazzi (Sped Up)",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/82/25/ba822527-4330-a9d2-14ae-89313acdf75d/5064091660616_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Paparazzi (Sped Up)",
+          "duration": "3:08"
         }
       ]
     },
@@ -2781,55 +2891,6 @@
           "number": 1,
           "name": "dilemma (sped up)",
           "duration": "3:10"
-        }
-      ]
-    },
-    {
-      "name": "in the end (sped up)",
-      "year": "2025",
-      "release_date": "2025-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/ba/82/51ba82d8-6fd1-24a8-8552-7ff36ccfd472/5063621432976_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "in the end (sped up)",
-          "duration": "3:16"
-        }
-      ]
-    },
-    {
-      "name": "Rocketman (Sped Up)",
-      "year": "2023",
-      "release_date": "2023-12-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/3e/5b/763e5b4e-b137-49ce-7a51-6b4ec5f8da99/5063416537251_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Rocketman (sped up)",
-          "duration": "4:06"
-        },
-        {
-          "number": 2,
-          "name": "Rocketman",
-          "duration": "4:55"
-        }
-      ]
-    },
-    {
-      "name": "My Love Mine All Mine (Sped Up)",
-      "year": "2024",
-      "release_date": "2024-02-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/28/05/4e/28054eb7-1686-dba2-e0a0-8cfa8c1081ee/5063440337520_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "My Love Mine All Mine (sped up)",
-          "duration": "1:52"
-        },
-        {
-          "number": 2,
-          "name": "My Love Mine All Mine",
-          "duration": "2:03"
         }
       ]
     }

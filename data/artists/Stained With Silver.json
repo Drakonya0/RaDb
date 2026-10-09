@@ -3,69 +3,6 @@
   "id": 1584210036,
   "albums": [
     {
-      "name": "ERROR: 925",
-      "year": "2024",
-      "release_date": "2024-10-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/55/a3/6c55a301-4569-e84f-632b-bd3cb5f9b6a8/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "925",
-          "duration": "1:21"
-        },
-        {
-          "number": 2,
-          "name": "Hollow",
-          "duration": "3:30"
-        },
-        {
-          "number": 3,
-          "name": "Kingdom",
-          "duration": "3:49"
-        },
-        {
-          "number": 4,
-          "name": "Spineless",
-          "duration": "3:10"
-        },
-        {
-          "number": 5,
-          "name": "Confrontation",
-          "duration": "1:43"
-        },
-        {
-          "number": 6,
-          "name": "Thorns",
-          "duration": "4:42"
-        },
-        {
-          "number": 7,
-          "name": "Guilt",
-          "duration": "4:57"
-        },
-        {
-          "number": 8,
-          "name": "Opaque",
-          "duration": "3:24"
-        },
-        {
-          "number": 9,
-          "name": "Amaterasu",
-          "duration": "4:18"
-        },
-        {
-          "number": 10,
-          "name": "Thanatos",
-          "duration": "3:21"
-        },
-        {
-          "number": 11,
-          "name": "Reset",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
       "name": "ERROR: 925 (Deluxe Edition)",
       "year": "2025",
       "release_date": "2025-04-11",
@@ -149,6 +86,69 @@
       ]
     },
     {
+      "name": "ERROR: 925",
+      "year": "2024",
+      "release_date": "2024-10-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/55/a3/6c55a301-4569-e84f-632b-bd3cb5f9b6a8/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "925",
+          "duration": "1:21"
+        },
+        {
+          "number": 2,
+          "name": "Hollow",
+          "duration": "3:30"
+        },
+        {
+          "number": 3,
+          "name": "Kingdom",
+          "duration": "3:49"
+        },
+        {
+          "number": 4,
+          "name": "Spineless",
+          "duration": "3:10"
+        },
+        {
+          "number": 5,
+          "name": "Confrontation",
+          "duration": "1:43"
+        },
+        {
+          "number": 6,
+          "name": "Thorns",
+          "duration": "4:42"
+        },
+        {
+          "number": 7,
+          "name": "Guilt",
+          "duration": "4:57"
+        },
+        {
+          "number": 8,
+          "name": "Opaque",
+          "duration": "3:24"
+        },
+        {
+          "number": 9,
+          "name": "Amaterasu",
+          "duration": "4:18"
+        },
+        {
+          "number": 10,
+          "name": "Thanatos",
+          "duration": "3:21"
+        },
+        {
+          "number": 11,
+          "name": "Reset",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
       "name": "ERROR: 925 (Instrumental)",
       "year": "2025",
       "release_date": "2025-10-17",
@@ -214,6 +214,24 @@
   ],
   "singles": [
     {
+      "name": "Guilt",
+      "year": "2023",
+      "release_date": "2023-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9e/d0/b1/9ed0b136-ac82-0238-849e-9789ea1986bf/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Guilt",
+          "duration": "4:57"
+        },
+        {
+          "number": 2,
+          "name": "Kingdom",
+          "duration": "3:49"
+        }
+      ]
+    },
+    {
       "name": "Beast",
       "year": "2025",
       "release_date": "2025-09-26",
@@ -246,24 +264,6 @@
           "number": 1,
           "name": "Bass Face",
           "duration": "3:00"
-        }
-      ]
-    },
-    {
-      "name": "Guilt",
-      "year": "2023",
-      "release_date": "2023-11-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9e/d0/b1/9ed0b136-ac82-0238-849e-9789ea1986bf/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Guilt",
-          "duration": "4:57"
-        },
-        {
-          "number": 2,
-          "name": "Kingdom",
-          "duration": "3:49"
         }
       ]
     },
@@ -453,6 +453,34 @@
           "number": 5,
           "name": "Kingdom",
           "duration": "3:57"
+        }
+      ]
+    },
+    {
+      "name": "A Bad Worksman Blames His Tools",
+      "year": "2026",
+      "release_date": "2026-10-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/0c/83/6c0c8309-1dbb-cb87-082e-00b8dbd02239/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "A Bad Worksman Blames His Tools",
+          "duration": "1:59"
+        },
+        {
+          "number": 2,
+          "name": "Beast",
+          "duration": "3:47"
+        },
+        {
+          "number": 3,
+          "name": "Catalyst",
+          "duration": "3:14"
+        },
+        {
+          "number": 4,
+          "name": "LAMENT (feat. Aaron Matts)",
+          "duration": "3:05"
         }
       ]
     }

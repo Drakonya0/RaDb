@@ -507,19 +507,6 @@
       ]
     },
     {
-      "name": "群青",
-      "year": "2020",
-      "release_date": "2020-09-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/7e/4a/ae7e4a28-fd46-9617-1066-fcbd124303d6/195497105656.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Gunjou",
-          "duration": "4:08"
-        }
-      ]
-    },
-    {
       "name": "たぶん",
       "year": "2020",
       "release_date": "2020-07-20",
@@ -529,6 +516,19 @@
           "number": 1,
           "name": "Probably",
           "duration": "4:18"
+        }
+      ]
+    },
+    {
+      "name": "群青",
+      "year": "2020",
+      "release_date": "2020-09-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/7e/4a/ae7e4a28-fd46-9617-1066-fcbd124303d6/195497105656.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gunjou",
+          "duration": "4:08"
         }
       ]
     },
@@ -590,19 +590,6 @@
       ]
     },
     {
-      "name": "UNDEAD",
-      "year": "2024",
-      "release_date": "2024-07-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/b3/fb/4fb3fb99-7c8b-f028-8683-6128f3e20caf/198588375464.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "UNDEAD",
-          "duration": "3:02"
-        }
-      ]
-    },
-    {
       "name": "三原色",
       "year": "2021",
       "release_date": "2021-07-02",
@@ -616,15 +603,15 @@
       ]
     },
     {
-      "name": "Watch me!",
-      "year": "2025",
-      "release_date": "2025-05-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/e1/ef/5fe1ef35-2ee9-f6cf-6eb6-97eab00e53a2/199350611605.jpg/600x600bb.jpg",
+      "name": "UNDEAD",
+      "year": "2024",
+      "release_date": "2024-07-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/b3/fb/4fb3fb99-7c8b-f028-8683-6128f3e20caf/198588375464.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Watch me!",
-          "duration": "3:06"
+          "name": "UNDEAD",
+          "duration": "3:02"
         }
       ]
     },
@@ -655,15 +642,15 @@
       ]
     },
     {
-      "name": "The Brave",
-      "year": "2023",
-      "release_date": "2023-11-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/32/1d/c7/321dc739-5312-6f70-f631-a6ae90aa7d53/197190470703.jpg/600x600bb.jpg",
+      "name": "Watch me!",
+      "year": "2025",
+      "release_date": "2025-05-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/e1/ef/5fe1ef35-2ee9-f6cf-6eb6-97eab00e53a2/199350611605.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Brave",
-          "duration": "3:14"
+          "name": "Watch me!",
+          "duration": "3:06"
         }
       ]
     },
@@ -681,6 +668,19 @@
       ]
     },
     {
+      "name": "ハルカ",
+      "year": "2020",
+      "release_date": "2020-12-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/92/2d/6f922d2d-735d-59bd-00a0-d845371bb99c/195497666263.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Haruka",
+          "duration": "4:03"
+        }
+      ]
+    },
+    {
       "name": "Romance",
       "year": "2021",
       "release_date": "2021-09-15",
@@ -694,15 +694,28 @@
       ]
     },
     {
-      "name": "ハルカ",
-      "year": "2020",
-      "release_date": "2020-12-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/92/2d/6f922d2d-735d-59bd-00a0-d845371bb99c/195497666263.jpg/600x600bb.jpg",
+      "name": "The Brave",
+      "year": "2023",
+      "release_date": "2023-11-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/32/1d/c7/321dc739-5312-6f70-f631-a6ae90aa7d53/197190470703.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Haruka",
-          "duration": "4:03"
+          "name": "The Brave",
+          "duration": "3:14"
+        }
+      ]
+    },
+    {
+      "name": "The Blessing",
+      "year": "2022",
+      "release_date": "2022-11-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/a1/d8/78a1d8d0-dee7-6fe5-28a7-f0c14ca064b2/197187316342.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Blessing",
+          "duration": "3:12"
         }
       ]
     },
@@ -720,15 +733,15 @@
       ]
     },
     {
-      "name": "The Blessing",
-      "year": "2022",
-      "release_date": "2022-11-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/78/a1/d8/78a1d8d0-dee7-6fe5-28a7-f0c14ca064b2/197187316342.jpg/600x600bb.jpg",
+      "name": "HEART BEAT",
+      "year": "2023",
+      "release_date": "2023-12-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/db/11/9cdb11a0-2542-e1a1-cd45-252ed19ecef1/197190657173.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The Blessing",
-          "duration": "3:12"
+          "name": "HEART BEAT",
+          "duration": "5:35"
         }
       ]
     },
@@ -759,19 +772,6 @@
       ]
     },
     {
-      "name": "HEART BEAT",
-      "year": "2023",
-      "release_date": "2023-12-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9c/db/11/9cdb11a0-2542-e1a1-cd45-252ed19ecef1/197190657173.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HEART BEAT",
-          "duration": "5:35"
-        }
-      ]
-    },
-    {
       "name": "ツバメ (feat. ミドリーズ)",
       "year": "2021",
       "release_date": "2021-10-25",
@@ -781,6 +781,19 @@
           "number": 1,
           "name": "Tsubame (feat. midories)",
           "duration": "3:37"
+        }
+      ]
+    },
+    {
+      "name": "the NOISE (Contains a Samples of Into The Night)",
+      "year": "2025",
+      "release_date": "2025-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/5d/98/8e5d9852-546d-1d02-aa9f-e47ca359f5a6/25UM1IM49064.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "the NOISE (Contains a Samples of Into The Night)",
+          "duration": "3:44"
         }
       ]
     },
@@ -876,19 +889,6 @@
       ]
     },
     {
-      "name": "the NOISE (Contains a Samples of Into The Night)",
-      "year": "2025",
-      "release_date": "2025-09-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/5d/98/8e5d9852-546d-1d02-aa9f-e47ca359f5a6/25UM1IM49064.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "the NOISE (Contains a Samples of Into The Night)",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
       "name": "モノトーン",
       "year": "2024",
       "release_date": "2024-10-01",
@@ -967,6 +967,19 @@
       ]
     },
     {
+      "name": "会心の一撃",
+      "year": "2025",
+      "release_date": "2025-11-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/74/12/7b741277-744a-e758-7ca5-67fd3adf6566/199806415856.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Kaishin No Ichigeki",
+          "duration": "3:59"
+        }
+      ]
+    },
+    {
       "name": "Watch me! (English Version)",
       "year": "2025",
       "release_date": "2025-05-30",
@@ -1006,19 +1019,6 @@
       ]
     },
     {
-      "name": "会心の一撃",
-      "year": "2025",
-      "release_date": "2025-11-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/74/12/7b741277-744a-e758-7ca5-67fd3adf6566/199806415856.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kaishin No Ichigeki",
-          "duration": "3:59"
-        }
-      ]
-    },
-    {
       "name": "UNDEAD (English Version)",
       "year": "2025",
       "release_date": "2025-02-28",
@@ -1028,19 +1028,6 @@
           "number": 1,
           "name": "UNDEAD (English Version)",
           "duration": "3:02"
-        }
-      ]
-    },
-    {
-      "name": "オリオン (PSYQUI Remix)",
-      "year": "2026",
-      "release_date": "2026-09-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/d2/85/9bd285cc-7742-0e68-f8e2-88dd39d383e6/885288480979.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Orion (PSYQUI Remix)",
-          "duration": "3:25"
         }
       ]
     },
@@ -1145,6 +1132,19 @@
           "number": 1,
           "name": "On the Stage",
           "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "オリオン (PSYQUI Remix)",
+      "year": "2026",
+      "release_date": "2026-09-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/d2/85/9bd285cc-7742-0e68-f8e2-88dd39d383e6/885288480979.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Orion (PSYQUI Remix)",
+          "duration": "3:25"
         }
       ]
     }

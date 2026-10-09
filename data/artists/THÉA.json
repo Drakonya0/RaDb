@@ -3,69 +3,6 @@
   "id": 1492514944,
   "albums": [
     {
-      "name": "MEMENTO",
-      "year": "2023",
-      "release_date": "2023-02-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/08/5c/c6085c91-ad76-9a55-2b7a-3fadb452f40c/3701421560988.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "AAAAAAAH",
-          "duration": "1:44"
-        },
-        {
-          "number": 2,
-          "name": "Guillotine",
-          "duration": "4:31"
-        },
-        {
-          "number": 3,
-          "name": "À la mort",
-          "duration": "4:13"
-        },
-        {
-          "number": 4,
-          "name": "Enfant doué.e",
-          "duration": "4:52"
-        },
-        {
-          "number": 5,
-          "name": "Derniers mots",
-          "duration": "3:49"
-        },
-        {
-          "number": 6,
-          "name": "Entropie",
-          "duration": "4:39"
-        },
-        {
-          "number": 7,
-          "name": "Bal de chair",
-          "duration": "3:16"
-        },
-        {
-          "number": 8,
-          "name": "Sous la Lune",
-          "duration": "4:41"
-        },
-        {
-          "number": 9,
-          "name": "Ça ira",
-          "duration": "3:11"
-        },
-        {
-          "number": 10,
-          "name": "De Salem et d'ailleurs",
-          "duration": "5:10"
-        },
-        {
-          "number": 11,
-          "name": "Grisaille (Bonus Track)",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
       "name": "POPSTAR SPEEDRUN",
       "year": "2026",
       "release_date": "2026-10-02",
@@ -130,6 +67,69 @@
           "number": 12,
           "name": "Scott&Ramona",
           "duration": "2:29"
+        }
+      ]
+    },
+    {
+      "name": "MEMENTO",
+      "year": "2023",
+      "release_date": "2023-02-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/08/5c/c6085c91-ad76-9a55-2b7a-3fadb452f40c/3701421560988.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "AAAAAAAH",
+          "duration": "1:44"
+        },
+        {
+          "number": 2,
+          "name": "Guillotine",
+          "duration": "4:31"
+        },
+        {
+          "number": 3,
+          "name": "À la mort",
+          "duration": "4:13"
+        },
+        {
+          "number": 4,
+          "name": "Enfant doué.e",
+          "duration": "4:52"
+        },
+        {
+          "number": 5,
+          "name": "Derniers mots",
+          "duration": "3:49"
+        },
+        {
+          "number": 6,
+          "name": "Entropie",
+          "duration": "4:39"
+        },
+        {
+          "number": 7,
+          "name": "Bal de chair",
+          "duration": "3:16"
+        },
+        {
+          "number": 8,
+          "name": "Sous la Lune",
+          "duration": "4:41"
+        },
+        {
+          "number": 9,
+          "name": "Ça ira",
+          "duration": "3:11"
+        },
+        {
+          "number": 10,
+          "name": "De Salem et d'ailleurs",
+          "duration": "5:10"
+        },
+        {
+          "number": 11,
+          "name": "Grisaille (Bonus Track)",
+          "duration": "3:00"
         }
       ]
     }

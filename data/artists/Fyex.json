@@ -312,19 +312,6 @@
       ]
     },
     {
-      "name": "Places",
-      "year": "2022",
-      "release_date": "2022-04-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/90/0a/45/900a4581-4e65-e93c-2411-cdb6702760be/709401124949_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Places",
-          "duration": "2:10"
-        }
-      ]
-    },
-    {
       "name": "São Paulo",
       "year": "2024",
       "release_date": "2024-06-07",
@@ -334,6 +321,19 @@
           "number": 1,
           "name": "São Paulo",
           "duration": "1:37"
+        }
+      ]
+    },
+    {
+      "name": "Places",
+      "year": "2022",
+      "release_date": "2022-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/90/0a/45/900a4581-4e65-e93c-2411-cdb6702760be/709401124949_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Places",
+          "duration": "2:10"
         }
       ]
     },
@@ -1340,6 +1340,19 @@
       ]
     },
     {
+      "name": "Diamondz n Roses (Hypertechno Remix)",
+      "year": "2024",
+      "release_date": "2024-03-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/e8/d0/92e8d036-6988-b08f-b354-0f7de0d7461a/810134795969.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Diamondz n Roses (Hypertechno Remix)",
+          "duration": "2:08"
+        }
+      ]
+    },
+    {
       "name": "Tuca Tuca",
       "year": "2023",
       "release_date": "2023-06-16",
@@ -1669,39 +1682,6 @@
       ]
     },
     {
-      "name": "NAO DESISTA",
-      "year": "2025",
-      "release_date": "2025-02-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/ba/0a/57ba0a27-2d40-3d13-b1a0-81eddfe82512/9638.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "NAO DESISTA",
-          "duration": "1:27"
-        },
-        {
-          "number": 2,
-          "name": "NAO DESISTA (Slowed)",
-          "duration": "1:44"
-        },
-        {
-          "number": 3,
-          "name": "NAO DESISTA (Super Slowed)",
-          "duration": "2:05"
-        },
-        {
-          "number": 4,
-          "name": "NAO DESISTA (Ultra Slowed)",
-          "duration": "2:13"
-        },
-        {
-          "number": 5,
-          "name": "NAO DESISTA (Sped Up)",
-          "duration": "1:24"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM LIMINAL NEBULOSA",
       "year": "2025",
       "release_date": "2025-07-11",
@@ -1731,6 +1711,39 @@
           "number": 5,
           "name": "MONTAGEM LIMINAL NEBULOSA (Sped Up)",
           "duration": "2:16"
+        }
+      ]
+    },
+    {
+      "name": "NAO DESISTA",
+      "year": "2025",
+      "release_date": "2025-02-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/ba/0a/57ba0a27-2d40-3d13-b1a0-81eddfe82512/9638.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NAO DESISTA",
+          "duration": "1:27"
+        },
+        {
+          "number": 2,
+          "name": "NAO DESISTA (Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 3,
+          "name": "NAO DESISTA (Super Slowed)",
+          "duration": "2:05"
+        },
+        {
+          "number": 4,
+          "name": "NAO DESISTA (Ultra Slowed)",
+          "duration": "2:13"
+        },
+        {
+          "number": 5,
+          "name": "NAO DESISTA (Sped Up)",
+          "duration": "1:24"
         }
       ]
     },

@@ -3,6 +3,44 @@
   "id": 1481068676,
   "albums": [
     {
+      "name": "WORKS",
+      "year": "2007",
+      "release_date": "2007-06-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/a5/8e/7aa58e65-4be5-221c-a7e2-cd0965b47968/via0060_Jo.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "QUIET DAWN",
+          "duration": "6:36"
+        },
+        {
+          "number": 2,
+          "name": "WIND (feat. Yukimi Nagano)",
+          "duration": "5:55"
+        },
+        {
+          "number": 3,
+          "name": "RIVER OF LOVE (feat. Bembe Segue)",
+          "duration": "9:45"
+        },
+        {
+          "number": 4,
+          "name": "BIG ESCAPE",
+          "duration": "5:51"
+        },
+        {
+          "number": 5,
+          "name": "ECLIPSE",
+          "duration": "8:59"
+        },
+        {
+          "number": 6,
+          "name": "WALTZ FOR MOE (NEW TAKE)",
+          "duration": "7:06"
+        }
+      ]
+    },
+    {
       "name": "The Voyage",
       "year": "2006",
       "release_date": "2006-07-19",
@@ -47,44 +85,6 @@
           "number": 8,
           "name": "THE VOYAGE Feat.Pharoah Sanders",
           "duration": "12:41"
-        }
-      ]
-    },
-    {
-      "name": "WORKS",
-      "year": "2007",
-      "release_date": "2007-06-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/a5/8e/7aa58e65-4be5-221c-a7e2-cd0965b47968/via0060_Jo.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "QUIET DAWN",
-          "duration": "6:36"
-        },
-        {
-          "number": 2,
-          "name": "WIND (feat. Yukimi Nagano)",
-          "duration": "5:55"
-        },
-        {
-          "number": 3,
-          "name": "RIVER OF LOVE (feat. Bembe Segue)",
-          "duration": "9:45"
-        },
-        {
-          "number": 4,
-          "name": "BIG ESCAPE",
-          "duration": "5:51"
-        },
-        {
-          "number": 5,
-          "name": "ECLIPSE",
-          "duration": "8:59"
-        },
-        {
-          "number": 6,
-          "name": "WALTZ FOR MOE (NEW TAKE)",
-          "duration": "7:06"
         }
       ]
     },

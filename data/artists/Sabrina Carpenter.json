@@ -499,6 +499,64 @@
       ]
     },
     {
+      "name": "EVOLution",
+      "year": "2016",
+      "release_date": "2016-10-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/f1/5a/19f15a1d-90f6-94a4-bc89-0f11f646f787/00050087351335.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "On Purpose",
+          "duration": "3:58"
+        },
+        {
+          "number": 2,
+          "name": "Feels Like Loneliness",
+          "duration": "3:20"
+        },
+        {
+          "number": 3,
+          "name": "Thumbs",
+          "duration": "3:36"
+        },
+        {
+          "number": 4,
+          "name": "No Words",
+          "duration": "3:32"
+        },
+        {
+          "number": 5,
+          "name": "Run and Hide",
+          "duration": "3:29"
+        },
+        {
+          "number": 6,
+          "name": "Mirage",
+          "duration": "3:25"
+        },
+        {
+          "number": 7,
+          "name": "Don't Want It Back",
+          "duration": "3:01"
+        },
+        {
+          "number": 8,
+          "name": "Shadows",
+          "duration": "2:52"
+        },
+        {
+          "number": 9,
+          "name": "Space",
+          "duration": "3:06"
+        },
+        {
+          "number": 10,
+          "name": "All We Have Is Love",
+          "duration": "3:02"
+        }
+      ]
+    },
+    {
       "name": "Short n' Sweet",
       "year": "2024",
       "release_date": "2024-08-23",
@@ -563,64 +621,6 @@
           "number": 12,
           "name": "Don’t Smile",
           "duration": "3:26"
-        }
-      ]
-    },
-    {
-      "name": "EVOLution",
-      "year": "2016",
-      "release_date": "2016-10-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/19/f1/5a/19f15a1d-90f6-94a4-bc89-0f11f646f787/00050087351335.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "On Purpose",
-          "duration": "3:58"
-        },
-        {
-          "number": 2,
-          "name": "Feels Like Loneliness",
-          "duration": "3:20"
-        },
-        {
-          "number": 3,
-          "name": "Thumbs",
-          "duration": "3:36"
-        },
-        {
-          "number": 4,
-          "name": "No Words",
-          "duration": "3:32"
-        },
-        {
-          "number": 5,
-          "name": "Run and Hide",
-          "duration": "3:29"
-        },
-        {
-          "number": 6,
-          "name": "Mirage",
-          "duration": "3:25"
-        },
-        {
-          "number": 7,
-          "name": "Don't Want It Back",
-          "duration": "3:01"
-        },
-        {
-          "number": 8,
-          "name": "Shadows",
-          "duration": "2:52"
-        },
-        {
-          "number": 9,
-          "name": "Space",
-          "duration": "3:06"
-        },
-        {
-          "number": 10,
-          "name": "All We Have Is Love",
-          "duration": "3:02"
         }
       ]
     },
@@ -1308,19 +1308,6 @@
       ]
     },
     {
-      "name": "Sign of the Times",
-      "year": "2017",
-      "release_date": "2017-06-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/05/19/f7051901-ceec-0d55-18c2-263d7c22e893/075679893598.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sign of the Times",
-          "duration": "4:13"
-        }
-      ]
-    },
-    {
       "name": "Take on the World (Theme Song from \"Girl Meets World\")",
       "year": "2014",
       "release_date": "2014-01-01",
@@ -1330,6 +1317,19 @@
           "number": 1,
           "name": "Take On the World (Theme Song from \"Girl Meets World\")",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "Sign of the Times",
+      "year": "2017",
+      "release_date": "2017-06-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f7/05/19/f7051901-ceec-0d55-18c2-263d7c22e893/075679893598.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sign of the Times",
+          "duration": "4:13"
         }
       ]
     },
@@ -1422,6 +1422,29 @@
       ]
     },
     {
+      "name": "Espresso (Working Late Remixes)",
+      "year": "2024",
+      "release_date": "2024-05-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/8c/f2/678cf293-e1a7-2d47-aea7-b6d412e739f8/24UMGIM60819.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Espresso (Mark Ronson x FNZ Working Late Remix)",
+          "duration": "3:04"
+        },
+        {
+          "number": 2,
+          "name": "Espresso (Mark Ronson x FNZ Working Later Remix)",
+          "duration": "5:38"
+        },
+        {
+          "number": 3,
+          "name": "Espresso",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
       "name": "skinny dipping",
       "year": "2021",
       "release_date": "2021-09-09",
@@ -1444,29 +1467,6 @@
           "number": 1,
           "name": "Smoke and Fire",
           "duration": "3:45"
-        }
-      ]
-    },
-    {
-      "name": "Espresso (Working Late Remixes)",
-      "year": "2024",
-      "release_date": "2024-05-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/8c/f2/678cf293-e1a7-2d47-aea7-b6d412e739f8/24UMGIM60819.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Espresso (Mark Ronson x FNZ Working Late Remix)",
-          "duration": "3:04"
-        },
-        {
-          "number": 2,
-          "name": "Espresso (Mark Ronson x FNZ Working Later Remix)",
-          "duration": "5:38"
-        },
-        {
-          "number": 3,
-          "name": "Espresso",
-          "duration": "2:55"
         }
       ]
     },
@@ -1585,19 +1585,6 @@
       ]
     },
     {
-      "name": "Bring Your Love",
-      "year": "2026",
-      "release_date": "2026-04-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/f5/6d/d7f56db7-4185-861b-4645-e2dade848e0a/054391212719.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bring Your Love",
-          "duration": "3:36"
-        }
-      ]
-    },
-    {
       "name": "Almost Love (R3HAB Remix)",
       "year": "2018",
       "release_date": "2018-07-13",
@@ -1669,6 +1656,19 @@
           "number": 3,
           "name": "Almost Love (Acoustic)",
           "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "name": "Bring Your Love",
+      "year": "2026",
+      "release_date": "2026-04-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/f5/6d/d7f56db7-4185-861b-4645-e2dade848e0a/054391212719.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bring Your Love",
+          "duration": "3:36"
         }
       ]
     },
@@ -1768,19 +1768,6 @@
       ]
     },
     {
-      "name": "Alien (Dark Heart Remix)",
-      "year": "2018",
-      "release_date": "2018-04-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/63/0d/75/630d7531-d54c-58d0-978f-2e12f165cdba/00050087394615.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Alien (Dark Heart Remix)",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "Skinny Dipping (Acoustic)",
       "year": "2021",
       "release_date": "2021-10-22",
@@ -1790,6 +1777,19 @@
           "number": 1,
           "name": "Skinny Dipping (Acoustic)",
           "duration": "3:12"
+        }
+      ]
+    },
+    {
+      "name": "Alien (Dark Heart Remix)",
+      "year": "2018",
+      "release_date": "2018-04-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/63/0d/75/630d7531-d54c-58d0-978f-2e12f165cdba/00050087394615.rgb.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Alien (Dark Heart Remix)",
+          "duration": "3:29"
         }
       ]
     },

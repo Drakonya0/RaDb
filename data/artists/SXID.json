@@ -357,19 +357,6 @@
       ]
     },
     {
-      "name": "Sakai Steel",
-      "year": "2023",
-      "release_date": "2023-06-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/f3/ce/29f3ceb1-2e0c-41cd-a552-43f029243561/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sakai Steel",
-          "duration": "1:30"
-        }
-      ]
-    },
-    {
       "name": "DESCE ATE CHAO",
       "year": "2024",
       "release_date": "2024-12-06",
@@ -389,6 +376,19 @@
           "number": 3,
           "name": "DESCE ATE CHAO (SUPER SLOWED)",
           "duration": "2:26"
+        }
+      ]
+    },
+    {
+      "name": "Sakai Steel",
+      "year": "2023",
+      "release_date": "2023-06-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/29/f3/ce/29f3ceb1-2e0c-41cd-a552-43f029243561/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sakai Steel",
+          "duration": "1:30"
         }
       ]
     },
@@ -709,19 +709,6 @@
       ]
     },
     {
-      "name": "Frente Frente (Extreme Slowed)",
-      "year": "2023",
-      "release_date": "2023-08-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/09/27/c109270c-7de4-62e3-1f00-a1199403badc/197189586736.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Frente Frente (Extreme Slowed)",
-          "duration": "1:58"
-        }
-      ]
-    },
-    {
       "name": "RAIVA NO ESCURO",
       "year": "2023",
       "release_date": "2023-10-13",
@@ -741,6 +728,19 @@
           "number": 3,
           "name": "RAIVA NO ESCURO (Sped Up)",
           "duration": "1:37"
+        }
+      ]
+    },
+    {
+      "name": "Frente Frente (Extreme Slowed)",
+      "year": "2023",
+      "release_date": "2023-08-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c1/09/27/c109270c-7de4-62e3-1f00-a1199403badc/197189586736.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Frente Frente (Extreme Slowed)",
+          "duration": "1:58"
         }
       ]
     },
@@ -2070,19 +2070,6 @@
       ]
     },
     {
-      "name": "Funk da Perdição (Super Slowed)",
-      "year": "2023",
-      "release_date": "2023-08-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/c1/3e/18c13e0a-0ec0-3cf3-8c2c-e8d054b1ab1f/1963621577971_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Funk da Perdição (Super Slowed)",
-          "duration": "2:37"
-        }
-      ]
-    },
-    {
       "name": "Automotivo Striker",
       "year": "2023",
       "release_date": "2023-11-24",
@@ -2102,6 +2089,19 @@
           "number": 3,
           "name": "Automotivo Striker (Super Slowed)",
           "duration": "2:05"
+        }
+      ]
+    },
+    {
+      "name": "Funk da Perdição (Super Slowed)",
+      "year": "2023",
+      "release_date": "2023-08-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/18/c1/3e/18c13e0a-0ec0-3cf3-8c2c-e8d054b1ab1f/1963621577971_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Funk da Perdição (Super Slowed)",
+          "duration": "2:37"
         }
       ]
     },
@@ -2142,6 +2142,19 @@
       ]
     },
     {
+      "name": "Ruína Sinistra (Sped Up)",
+      "year": "2023",
+      "release_date": "2023-08-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/52/f5/0e52f54f-2407-4c42-45e9-7df69905e74f/197189518980.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ruína Sinistra (Sped Up)",
+          "duration": "1:38"
+        }
+      ]
+    },
+    {
       "name": "Brado",
       "year": "2024",
       "release_date": "2024-04-12",
@@ -2161,19 +2174,6 @@
           "number": 3,
           "name": "Brado (Sped Up)",
           "duration": "1:12"
-        }
-      ]
-    },
-    {
-      "name": "Ruína Sinistra (Sped Up)",
-      "year": "2023",
-      "release_date": "2023-08-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0e/52/f5/0e52f54f-2407-4c42-45e9-7df69905e74f/197189518980.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ruína Sinistra (Sped Up)",
-          "duration": "1:38"
         }
       ]
     },
@@ -2295,6 +2295,34 @@
         {
           "number": 4,
           "name": "FUNK DEVIANT (ULTRA SLOWED)",
+          "duration": "2:08"
+        }
+      ]
+    },
+    {
+      "name": "BAILE GOSTOSA",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/0c/00/8c0c003b-0019-d4a1-1d69-3abf2c1e7e39/885288769494.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BAILE GOSTOSA",
+          "duration": "1:30"
+        },
+        {
+          "number": 2,
+          "name": "BAILE GOSTOSA (Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "BAILE GOSTOSA (Super Slowed)",
+          "duration": "1:54"
+        },
+        {
+          "number": 4,
+          "name": "BAILE GOSTOSA (Ultra Slowed)",
           "duration": "2:08"
         }
       ]
@@ -2809,6 +2837,34 @@
       ]
     },
     {
+      "name": "BREGA MODESTO",
+      "year": "2026",
+      "release_date": "2026-10-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/99/5a/ff995a73-05bd-7bd3-e3b1-6b8ed27db26b/885288746730.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BREGA MODESTO",
+          "duration": "1:36"
+        },
+        {
+          "number": 2,
+          "name": "BREGA MODESTO (SLOWED)",
+          "duration": "1:48"
+        },
+        {
+          "number": 3,
+          "name": "BREGA MODESTO (SUPER SLOWED)",
+          "duration": "2:01"
+        },
+        {
+          "number": 4,
+          "name": "BREGA MODESTO (ULTRA SLOWED)",
+          "duration": "2:16"
+        }
+      ]
+    },
+    {
       "name": "Deixa Respirar",
       "year": "2025",
       "release_date": "2025-08-08",
@@ -2865,6 +2921,34 @@
       ]
     },
     {
+      "name": "Montagem Bailando",
+      "year": "2025",
+      "release_date": "2025-04-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/be/cd/6ebecde2-5d64-ab71-c06c-5b121c6f47a7/199350342011.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem Bailando",
+          "duration": "1:21"
+        },
+        {
+          "number": 2,
+          "name": "Montagem Bailando (Slowed)",
+          "duration": "1:31"
+        },
+        {
+          "number": 3,
+          "name": "Montagem Bailando (Super Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "Montagem Bailando (Extreme Slowed)",
+          "duration": "1:54"
+        }
+      ]
+    },
+    {
       "name": "FUNK IRRACIONAL",
       "year": "2026",
       "release_date": "2026-06-19",
@@ -2894,34 +2978,6 @@
           "number": 5,
           "name": "FUNK IRRACIONAL (Nightcore)",
           "duration": "1:35"
-        }
-      ]
-    },
-    {
-      "name": "Montagem Bailando",
-      "year": "2025",
-      "release_date": "2025-04-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/be/cd/6ebecde2-5d64-ab71-c06c-5b121c6f47a7/199350342011.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem Bailando",
-          "duration": "1:21"
-        },
-        {
-          "number": 2,
-          "name": "Montagem Bailando (Slowed)",
-          "duration": "1:31"
-        },
-        {
-          "number": 3,
-          "name": "Montagem Bailando (Super Slowed)",
-          "duration": "1:42"
-        },
-        {
-          "number": 4,
-          "name": "Montagem Bailando (Extreme Slowed)",
-          "duration": "1:54"
         }
       ]
     },

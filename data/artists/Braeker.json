@@ -138,29 +138,6 @@
       ]
     },
     {
-      "name": "Disguise",
-      "year": "2025",
-      "release_date": "2025-05-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/d5/54/7fd554df-6770-00ff-f72d-3deed8b471b5/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Disguise",
-          "duration": "3:34"
-        },
-        {
-          "number": 2,
-          "name": "Deathbed",
-          "duration": "2:39"
-        },
-        {
-          "number": 3,
-          "name": "I'm Yours Now",
-          "duration": "2:40"
-        }
-      ]
-    },
-    {
       "name": "In The dark",
       "year": "2024",
       "release_date": "2024-07-26",
@@ -216,6 +193,29 @@
           "number": 3,
           "name": "Darker",
           "duration": "3:35"
+        }
+      ]
+    },
+    {
+      "name": "Disguise",
+      "year": "2025",
+      "release_date": "2025-05-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/d5/54/7fd554df-6770-00ff-f72d-3deed8b471b5/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Disguise",
+          "duration": "3:34"
+        },
+        {
+          "number": 2,
+          "name": "Deathbed",
+          "duration": "2:39"
+        },
+        {
+          "number": 3,
+          "name": "I'm Yours Now",
+          "duration": "2:40"
         }
       ]
     },
@@ -344,6 +344,19 @@
       ]
     },
     {
+      "name": "UNSEEN",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8c/3f/cf/8c3fcf65-9ea5-202d-279d-4950b5c8db68/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "UNSEEN",
+          "duration": "2:44"
+        }
+      ]
+    },
+    {
       "name": "Teeth Marks",
       "year": "2025",
       "release_date": "2025-07-18",
@@ -423,38 +436,28 @@
       ]
     },
     {
-      "name": "One More Kiss",
+      "name": "JSFS",
       "year": "2026",
-      "release_date": "2026-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/6e/04/996e044c-19d2-2f07-57c7-df220b2eff05/artwork.jpg/600x600bb.jpg",
+      "release_date": "2026-07-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/b3/8a/58b38a31-1ab5-ff85-7fb9-0e851134cc6b/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "One More Kiss",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Want You Back",
-          "duration": "3:25"
-        },
-        {
-          "number": 3,
           "name": "JSFS",
           "duration": "2:30"
         },
         {
-          "number": 4,
+          "number": 2,
           "name": "Devour",
           "duration": "3:05"
         },
         {
-          "number": 5,
+          "number": 3,
           "name": "Am I Enough?",
           "duration": "3:36"
         },
         {
-          "number": 6,
+          "number": 4,
           "name": "Endlessly",
           "duration": "3:15"
         }
@@ -489,28 +492,38 @@
       ]
     },
     {
-      "name": "JSFS",
+      "name": "One More Kiss",
       "year": "2026",
-      "release_date": "2026-07-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/b3/8a/58b38a31-1ab5-ff85-7fb9-0e851134cc6b/artwork.jpg/600x600bb.jpg",
+      "release_date": "2026-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/6e/04/996e044c-19d2-2f07-57c7-df220b2eff05/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
+          "name": "One More Kiss",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Want You Back",
+          "duration": "3:25"
+        },
+        {
+          "number": 3,
           "name": "JSFS",
           "duration": "2:30"
         },
         {
-          "number": 2,
+          "number": 4,
           "name": "Devour",
           "duration": "3:05"
         },
         {
-          "number": 3,
+          "number": 5,
           "name": "Am I Enough?",
           "duration": "3:36"
         },
         {
-          "number": 4,
+          "number": 6,
           "name": "Endlessly",
           "duration": "3:15"
         }

@@ -721,13 +721,6 @@
       ]
     },
     {
-      "name": "MINHA MAE",
-      "year": "2025",
-      "release_date": "2025-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/98/8f/87988f07-e0b5-0089-819b-ed54a535b0b9/cover.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Energia Cósmica",
       "year": "2024",
       "release_date": "2024-10-25",
@@ -754,6 +747,13 @@
           "duration": "2:00"
         }
       ]
+    },
+    {
+      "name": "MINHA MAE",
+      "year": "2025",
+      "release_date": "2025-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/98/8f/87988f07-e0b5-0089-819b-ed54a535b0b9/cover.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "SLIDE MELÓDICA MORTAL",
@@ -935,6 +935,44 @@
           "number": 5,
           "name": "0utofsync (Sped Up)",
           "duration": "0:57"
+        }
+      ]
+    },
+    {
+      "name": "JOLT",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/94/dd/ff94dd67-41e0-c144-60c8-e3a822943975/885288756128.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "JOLT",
+          "duration": "1:25"
+        },
+        {
+          "number": 2,
+          "name": "JOLT (Slowed)",
+          "duration": "1:35"
+        },
+        {
+          "number": 3,
+          "name": "JOLT (Super Slowed)",
+          "duration": "1:47"
+        },
+        {
+          "number": 4,
+          "name": "JOLT (Ultra Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 5,
+          "name": "JOLT (Extreme Slowed)",
+          "duration": "2:15"
+        },
+        {
+          "number": 6,
+          "name": "JOLT (Sped Up)",
+          "duration": "1:16"
         }
       ]
     },

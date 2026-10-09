@@ -329,19 +329,6 @@
       ]
     },
     {
-      "name": "Barricade",
-      "year": "2025",
-      "release_date": "2025-08-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/5c/98/d75c98b4-d112-8cd2-4b4c-e02a8b5fc06b/8721215715320.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Barricade",
-          "duration": "3:10"
-        }
-      ]
-    },
-    {
       "name": "Bad Habit (feat. VRSTY)",
       "year": "2023",
       "release_date": "2023-06-23",
@@ -420,23 +407,13 @@
       ]
     },
     {
-      "name": "The End",
+      "name": "Barricade",
       "year": "2025",
-      "release_date": "2025-10-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fe/24/36fe246a-a137-6376-8c5a-06390a813c0e/8721215871330.png/600x600bb.jpg",
+      "release_date": "2025-08-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/5c/98/d75c98b4-d112-8cd2-4b4c-e02a8b5fc06b/8721215715320.png/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "The End",
-          "duration": "3:33"
-        },
-        {
-          "number": 2,
-          "name": "Feel Alive II (Autumn Winds)",
-          "duration": "3:52"
-        },
-        {
-          "number": 3,
           "name": "Barricade",
           "duration": "3:10"
         }
@@ -519,6 +496,29 @@
           "number": 3,
           "name": "Hibbertia (Reduxe) [feat. Hollow Front]",
           "duration": "3:24"
+        }
+      ]
+    },
+    {
+      "name": "The End",
+      "year": "2025",
+      "release_date": "2025-10-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/fe/24/36fe246a-a137-6376-8c5a-06390a813c0e/8721215871330.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The End",
+          "duration": "3:33"
+        },
+        {
+          "number": 2,
+          "name": "Feel Alive II (Autumn Winds)",
+          "duration": "3:52"
+        },
+        {
+          "number": 3,
+          "name": "Barricade",
+          "duration": "3:10"
         }
       ]
     },
@@ -764,19 +764,6 @@
       ]
     },
     {
-      "name": "Breathe For Me (feat. Patient Sixty-Seven)",
-      "year": "2023",
-      "release_date": "2023-08-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/df/76/10df76ec-dfee-b6cd-f199-33f4a022cee2/197189411694_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Breathe For Me (feat. Patient Sixty-Seven)",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
       "name": "Feel Alive II (Autumn Winds)",
       "year": "2025",
       "release_date": "2025-09-19",
@@ -861,6 +848,19 @@
           "number": 1,
           "name": "Callous",
           "duration": "3:54"
+        }
+      ]
+    },
+    {
+      "name": "Breathe For Me",
+      "year": "2023",
+      "release_date": "2023-08-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/a4/f9/36a4f9af-e4e7-6dce-1be0-0b922282fca1/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Breathe For Me",
+          "duration": "3:20"
         }
       ]
     },
@@ -991,6 +991,24 @@
           "number": 1,
           "name": "Jacob (feat. Patient Sixty-Seven)",
           "duration": "4:35"
+        }
+      ]
+    },
+    {
+      "name": "Catch 22",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/3e/19/b43e198d-fbec-48e3-b7d5-79310a500d5d/193436487344_PC.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Catch 22 (Feat. 360)",
+          "duration": "3:47"
+        },
+        {
+          "number": 2,
+          "name": "A Stitch In Time Saves None",
+          "duration": "2:58"
         }
       ]
     },

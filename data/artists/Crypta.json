@@ -3,6 +3,64 @@
   "id": 1562339110,
   "albums": [
     {
+      "name": "Echoes of the Soul",
+      "year": "2021",
+      "release_date": "2021-06-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/1a/8f/4d1a8f3e-2393-311b-8e4a-5b9aebcf90bd/840588145669.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Awakening",
+          "duration": "0:55"
+        },
+        {
+          "number": 2,
+          "name": "Starvation",
+          "duration": "4:16"
+        },
+        {
+          "number": 3,
+          "name": "Possessed",
+          "duration": "3:45"
+        },
+        {
+          "number": 4,
+          "name": "Death Arcana",
+          "duration": "4:43"
+        },
+        {
+          "number": 5,
+          "name": "Shadow Within",
+          "duration": "4:47"
+        },
+        {
+          "number": 6,
+          "name": "Under the Black Wings",
+          "duration": "3:42"
+        },
+        {
+          "number": 7,
+          "name": "Kali",
+          "duration": "4:33"
+        },
+        {
+          "number": 8,
+          "name": "Blood Stained Heritage",
+          "duration": "4:36"
+        },
+        {
+          "number": 9,
+          "name": "Dark Night of the Soul",
+          "duration": "5:12"
+        },
+        {
+          "number": 10,
+          "name": "From the Ashes",
+          "duration": "5:11"
+        }
+      ]
+    },
+    {
       "name": "Shades of Sorrow",
       "year": "2023",
       "release_date": "2023-08-04",
@@ -72,64 +130,6 @@
           "number": 13,
           "name": "The Closure",
           "duration": "0:40"
-        }
-      ]
-    },
-    {
-      "name": "Echoes of the Soul",
-      "year": "2021",
-      "release_date": "2021-06-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/1a/8f/4d1a8f3e-2393-311b-8e4a-5b9aebcf90bd/840588145669.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Awakening",
-          "duration": "0:55"
-        },
-        {
-          "number": 2,
-          "name": "Starvation",
-          "duration": "4:16"
-        },
-        {
-          "number": 3,
-          "name": "Possessed",
-          "duration": "3:45"
-        },
-        {
-          "number": 4,
-          "name": "Death Arcana",
-          "duration": "4:43"
-        },
-        {
-          "number": 5,
-          "name": "Shadow Within",
-          "duration": "4:47"
-        },
-        {
-          "number": 6,
-          "name": "Under the Black Wings",
-          "duration": "3:42"
-        },
-        {
-          "number": 7,
-          "name": "Kali",
-          "duration": "4:33"
-        },
-        {
-          "number": 8,
-          "name": "Blood Stained Heritage",
-          "duration": "4:36"
-        },
-        {
-          "number": 9,
-          "name": "Dark Night of the Soul",
-          "duration": "5:12"
-        },
-        {
-          "number": 10,
-          "name": "From the Ashes",
-          "duration": "5:11"
         }
       ]
     }

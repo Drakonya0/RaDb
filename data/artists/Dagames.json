@@ -3,6 +3,64 @@
   "id": 983930482,
   "albums": [
     {
+      "name": "FlashDrive: SSD",
+      "year": "2025",
+      "release_date": "2025-08-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/e7/0f/15e70f11-8aee-ac1d-d16e-643af8830fdf/199502273538_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Black: SSD",
+          "duration": "4:42"
+        },
+        {
+          "number": 2,
+          "name": "Purple: SSD",
+          "duration": "4:41"
+        },
+        {
+          "number": 3,
+          "name": "Red: SSD",
+          "duration": "4:18"
+        },
+        {
+          "number": 4,
+          "name": "Yellow: SSD",
+          "duration": "4:49"
+        },
+        {
+          "number": 5,
+          "name": "Green: SSD",
+          "duration": "4:39"
+        },
+        {
+          "number": 6,
+          "name": "Blue: SSD",
+          "duration": "4:38"
+        },
+        {
+          "number": 7,
+          "name": "White: SSD",
+          "duration": "4:10"
+        },
+        {
+          "number": 8,
+          "name": "Bronze: SSD",
+          "duration": "4:58"
+        },
+        {
+          "number": 9,
+          "name": "Silver: SSD",
+          "duration": "4:14"
+        },
+        {
+          "number": 10,
+          "name": "Gold: SSD",
+          "duration": "4:37"
+        }
+      ]
+    },
+    {
       "name": "Open Infinitum",
       "year": "2026",
       "release_date": "2026-09-25",
@@ -67,64 +125,6 @@
           "number": 12,
           "name": "Finis Infinitatis",
           "duration": "2:30"
-        }
-      ]
-    },
-    {
-      "name": "FlashDrive: SSD",
-      "year": "2025",
-      "release_date": "2025-08-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/e7/0f/15e70f11-8aee-ac1d-d16e-643af8830fdf/199502273538_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Black: SSD",
-          "duration": "4:42"
-        },
-        {
-          "number": 2,
-          "name": "Purple: SSD",
-          "duration": "4:41"
-        },
-        {
-          "number": 3,
-          "name": "Red: SSD",
-          "duration": "4:18"
-        },
-        {
-          "number": 4,
-          "name": "Yellow: SSD",
-          "duration": "4:49"
-        },
-        {
-          "number": 5,
-          "name": "Green: SSD",
-          "duration": "4:39"
-        },
-        {
-          "number": 6,
-          "name": "Blue: SSD",
-          "duration": "4:38"
-        },
-        {
-          "number": 7,
-          "name": "White: SSD",
-          "duration": "4:10"
-        },
-        {
-          "number": 8,
-          "name": "Bronze: SSD",
-          "duration": "4:58"
-        },
-        {
-          "number": 9,
-          "name": "Silver: SSD",
-          "duration": "4:14"
-        },
-        {
-          "number": 10,
-          "name": "Gold: SSD",
-          "duration": "4:37"
         }
       ]
     },
@@ -477,19 +477,6 @@
       ]
     },
     {
-      "name": "Get Out",
-      "year": "2017",
-      "release_date": "2017-02-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/b4/c8/dbb4c87e-8681-197a-a349-e30192e0c3bb/305347.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Get Out",
-          "duration": "4:03"
-        }
-      ]
-    },
-    {
       "name": "Build Our Machine",
       "year": "2017",
       "release_date": "2017-02-25",
@@ -516,15 +503,15 @@
       ]
     },
     {
-      "name": "Get Out (feat. Dagames)",
+      "name": "Get Out",
       "year": "2017",
-      "release_date": "2017-05-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/6b/fd/2a/6bfd2aa0-773d-60ac-3d3f-41e45590dd37/artwork.jpg/600x600bb.jpg",
+      "release_date": "2017-02-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/b4/c8/dbb4c87e-8681-197a-a349-e30192e0c3bb/305347.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Get Out (feat. Dagames)",
-          "duration": "4:01"
+          "name": "Get Out",
+          "duration": "4:03"
         }
       ]
     },
@@ -542,19 +529,6 @@
       ]
     },
     {
-      "name": "Instruments of Cyanide",
-      "year": "2018",
-      "release_date": "2018-06-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/f7/ea/05f7eaf2-4a79-e229-1229-c9b032ba5398/303828.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Instruments of Cyanide",
-          "duration": "5:33"
-        }
-      ]
-    },
-    {
       "name": "Gospel of Dismay",
       "year": "2017",
       "release_date": "2017-06-24",
@@ -564,19 +538,6 @@
           "number": 1,
           "name": "Gospel of Dismay",
           "duration": "4:10"
-        }
-      ]
-    },
-    {
-      "name": "Brothers in Arms",
-      "year": "2018",
-      "release_date": "2018-02-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/6c/db/eb6cdbe8-a7e8-bb4e-8ae6-022fa2e703e6/303829.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Brothers in Arms",
-          "duration": "3:34"
         }
       ]
     },
@@ -607,6 +568,19 @@
       ]
     },
     {
+      "name": "Brothers in Arms",
+      "year": "2018",
+      "release_date": "2018-02-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/6c/db/eb6cdbe8-a7e8-bb4e-8ae6-022fa2e703e6/303829.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Brothers in Arms",
+          "duration": "3:34"
+        }
+      ]
+    },
+    {
       "name": "Stranger in the Basement (feat. TryHardNinja, Dagames, Daddyphatsnaps & Sharm)",
       "year": "2017",
       "release_date": "2017-02-22",
@@ -616,6 +590,19 @@
           "number": 1,
           "name": "Stranger in the Basement (feat. TryHardNinja, Dagames, Daddyphatsnaps & Sharm)",
           "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "Instruments of Cyanide",
+      "year": "2018",
+      "release_date": "2018-06-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/f7/ea/05f7eaf2-4a79-e229-1229-c9b032ba5398/303828.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Instruments of Cyanide",
+          "duration": "5:33"
         }
       ]
     },
@@ -677,19 +664,6 @@
       ]
     },
     {
-      "name": "We Want Out (feat. Inutrash, Dan Bull, Bslick & J.T. Machinima)",
-      "year": "2019",
-      "release_date": "2019-06-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/61/17/c06117e8-e5ac-9d25-a089-986d9818e286/303672.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "We Want Out (feat. Inutrash, Dan Bull, Bslick & J.T. Machinima)",
-          "duration": "5:09"
-        }
-      ]
-    },
-    {
       "name": "Dying To Find A Home (feat. Cami-Cat)",
       "year": "2025",
       "release_date": "2025-11-21",
@@ -699,6 +673,19 @@
           "number": 1,
           "name": "Dying To Find A Home (feat. Cami-Cat)",
           "duration": "4:26"
+        }
+      ]
+    },
+    {
+      "name": "We Want Out (feat. Inutrash, Dan Bull, Bslick & J.T. Machinima)",
+      "year": "2019",
+      "release_date": "2019-06-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/61/17/c06117e8-e5ac-9d25-a089-986d9818e286/303672.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "We Want Out (feat. Inutrash, Dan Bull, Bslick & J.T. Machinima)",
+          "duration": "5:09"
         }
       ]
     },
@@ -794,19 +781,6 @@
       ]
     },
     {
-      "name": "It's Time to Die",
-      "year": "2015",
-      "release_date": "2015-04-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/3f/5c/c83f5c62-50e3-55a4-3b2f-90b929a6ad23/305399.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "It's Time to Die",
-          "duration": "3:25"
-        }
-      ]
-    },
-    {
       "name": "Yellow: SSD",
       "year": "2025",
       "release_date": "2025-07-19",
@@ -842,6 +816,19 @@
           "number": 1,
           "name": "Build Our Machine (Rock Version)",
           "duration": "4:48"
+        }
+      ]
+    },
+    {
+      "name": "It's Time to Die",
+      "year": "2015",
+      "release_date": "2015-04-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/3f/5c/c83f5c62-50e3-55a4-3b2f-90b929a6ad23/305399.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "It's Time to Die",
+          "duration": "3:25"
         }
       ]
     },

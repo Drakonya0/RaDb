@@ -1392,13 +1392,6 @@
       ]
     },
     {
-      "name": "Le haut du tableau",
-      "year": "2026",
-      "release_date": "2026-02-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/05/60/fb0560db-b2e6-7642-89ee-1735652c9db1/26SYMIM25795.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Célébration (feat. Alkpote)",
       "year": "2019",
       "release_date": "2019-06-21",
@@ -1410,6 +1403,13 @@
           "duration": "3:06"
         }
       ]
+    },
+    {
+      "name": "Le haut du tableau",
+      "year": "2026",
+      "release_date": "2026-02-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/05/60/fb0560db-b2e6-7642-89ee-1735652c9db1/26SYMIM25795.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Salut les putes (feat. Alkpote)",
@@ -1810,17 +1810,17 @@
       "tracks": []
     },
     {
-      "name": "Purification (Les marches de l'empereur Saison 3 / Episode 9) [feat. Freeze corleone]",
-      "year": "2019",
-      "release_date": "2019-01-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/50/4a/0d504ac1-ff20-d7df-d1db-6d71375e8f3d/03701216801791.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Trapézistes",
       "year": "2018",
       "release_date": "2018-02-23",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5c/9b/a6/5c9ba65b-0b28-101d-5d86-6a79ec25f8fd/03701216800060.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Purification (Les marches de l'empereur Saison 3 / Episode 9) [feat. Freeze corleone]",
+      "year": "2019",
+      "release_date": "2019-01-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0d/50/4a/0d504ac1-ff20-d7df-d1db-6d71375e8f3d/03701216801791.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -1990,17 +1990,17 @@
       "tracks": []
     },
     {
-      "name": "Cercle fermé",
-      "year": "2019",
-      "release_date": "2019-01-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/f5/ad/e4f5adbd-afdc-f4d7-1878-c87f6cc5ac40/cover.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "La reine du bal (Les marches de l’empereur Saison 3 / épisode 4) [feat. Jok'air & Chich]",
       "year": "2018",
       "release_date": "2018-03-23",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5b/61/69/5b616962-db8f-910d-446c-6d85b8b1933f/03701216800176.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Cercle fermé",
+      "year": "2019",
+      "release_date": "2019-01-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/f5/ad/e4f5adbd-afdc-f4d7-1878-c87f6cc5ac40/cover.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -2070,19 +2070,6 @@
       ]
     },
     {
-      "name": "Papillon (feat. Alkpote)",
-      "year": "2021",
-      "release_date": "2021-02-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3b/6a/f9/3b6af9f6-1df9-6ba4-d0f9-a53819f1dc3a/886449053865.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Papillon (feat. Alkpote)",
-          "duration": "2:44"
-        }
-      ]
-    },
-    {
       "name": "Réglement Baltimore Freestyle",
       "year": "2020",
       "release_date": "2020-10-08",
@@ -2092,6 +2079,19 @@
           "number": 1,
           "name": "Réglement Baltimore Freestyle",
           "duration": "2:10"
+        }
+      ]
+    },
+    {
+      "name": "Papillon (feat. Alkpote)",
+      "year": "2021",
+      "release_date": "2021-02-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3b/6a/f9/3b6af9f6-1df9-6ba4-d0f9-a53819f1dc3a/886449053865.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Papillon (feat. Alkpote)",
+          "duration": "2:44"
         }
       ]
     },

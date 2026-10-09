@@ -48,6 +48,19 @@
   ],
   "singles": [
     {
+      "name": "Internet",
+      "year": "2025",
+      "release_date": "2025-04-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/1d/0d/561d0d10-897b-ef5d-73f1-c1f1d3ec3579/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Internet",
+          "duration": "3:10"
+        }
+      ]
+    },
+    {
       "name": "Rien à carrer",
       "year": "2026",
       "release_date": "2026-04-24",
@@ -57,6 +70,19 @@
           "number": 1,
           "name": "Rien à carrer",
           "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "name": "Plus rien à offrir",
+      "year": "2026",
+      "release_date": "2026-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/f6/ba/3cf6ba0a-78a5-b28b-ebb6-6a5ea26f5a87/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Plus rien à offrir",
+          "duration": "3:03"
         }
       ]
     },
@@ -75,32 +101,6 @@
           "number": 2,
           "name": "Je ne pense qu'à ça (Acoustique)",
           "duration": "2:56"
-        }
-      ]
-    },
-    {
-      "name": "Plus rien à offrir",
-      "year": "2026",
-      "release_date": "2026-10-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/f6/ba/3cf6ba0a-78a5-b28b-ebb6-6a5ea26f5a87/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Plus rien à offrir",
-          "duration": "3:03"
-        }
-      ]
-    },
-    {
-      "name": "Internet",
-      "year": "2025",
-      "release_date": "2025-04-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/1d/0d/561d0d10-897b-ef5d-73f1-c1f1d3ec3579/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Internet",
-          "duration": "3:10"
         }
       ]
     },

@@ -346,6 +346,19 @@
       ]
     },
     {
+      "name": "DON'T STOP GET IT GET IT",
+      "year": "2023",
+      "release_date": "2023-12-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/f4/a3/d0f4a3b7-44cd-0292-c9d2-84eec7b05e50/197190532340.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DON'T STOP GET IT GET IT",
+          "duration": "1:57"
+        }
+      ]
+    },
+    {
       "name": "ANGELFUNK",
       "year": "2025",
       "release_date": "2025-06-20",
@@ -365,19 +378,6 @@
           "number": 3,
           "name": "ANGELFUNK (SUPER SLOWED)",
           "duration": "2:56"
-        }
-      ]
-    },
-    {
-      "name": "DON'T STOP GET IT GET IT",
-      "year": "2023",
-      "release_date": "2023-12-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/f4/a3/d0f4a3b7-44cd-0292-c9d2-84eec7b05e50/197190532340.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DON'T STOP GET IT GET IT",
-          "duration": "1:57"
         }
       ]
     },
@@ -467,19 +467,6 @@
       ]
     },
     {
-      "name": "F**K REAL",
-      "year": "2024",
-      "release_date": "2024-03-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/5e/67/695e67a6-a2ff-895a-9b80-4fde674376ba/198391489129.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "F**K REAL",
-          "duration": "2:02"
-        }
-      ]
-    },
-    {
       "name": "IFEELSOALIVE",
       "year": "2025",
       "release_date": "2025-04-11",
@@ -499,6 +486,19 @@
           "number": 3,
           "name": "IFEELSOALIVE (SPED UP)",
           "duration": "1:51"
+        }
+      ]
+    },
+    {
+      "name": "F**K REAL",
+      "year": "2024",
+      "release_date": "2024-03-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/5e/67/695e67a6-a2ff-895a-9b80-4fde674376ba/198391489129.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "F**K REAL",
+          "duration": "2:02"
         }
       ]
     },
@@ -1201,34 +1201,6 @@
       ]
     },
     {
-      "name": "CLOUDY FUNK",
-      "year": "2025",
-      "release_date": "2025-09-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/8d/31/3b8d3149-d53d-ffc5-c1f0-08041663b309/199538776140.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CLOUDY FUNK",
-          "duration": "1:43"
-        },
-        {
-          "number": 2,
-          "name": "CLOUDY FUNK (SLOWED)",
-          "duration": "1:51"
-        },
-        {
-          "number": 3,
-          "name": "CLOUDY FUNK (SPED UP)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "CLOUDY FUNK (SUPER SLOWED)",
-          "duration": "2:00"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM ME TOCA",
       "year": "2025",
       "release_date": "2025-12-19",
@@ -1258,6 +1230,34 @@
           "number": 5,
           "name": "MONTAGEM ME TOCA (Sped Up)",
           "duration": "1:28"
+        }
+      ]
+    },
+    {
+      "name": "CLOUDY FUNK",
+      "year": "2025",
+      "release_date": "2025-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/8d/31/3b8d3149-d53d-ffc5-c1f0-08041663b309/199538776140.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CLOUDY FUNK",
+          "duration": "1:43"
+        },
+        {
+          "number": 2,
+          "name": "CLOUDY FUNK (SLOWED)",
+          "duration": "1:51"
+        },
+        {
+          "number": 3,
+          "name": "CLOUDY FUNK (SPED UP)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "CLOUDY FUNK (SUPER SLOWED)",
+          "duration": "2:00"
         }
       ]
     },
@@ -2207,6 +2207,34 @@
           "number": 4,
           "name": "KAMO KAMO (ULTRA SLOWED)",
           "duration": "1:45"
+        }
+      ]
+    },
+    {
+      "name": "ALLURE",
+      "year": "2026",
+      "release_date": "2026-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/75/50/8575503e-6070-a86b-c299-6c258a1a0497/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ALLURE",
+          "duration": "2:12"
+        },
+        {
+          "number": 2,
+          "name": "ALLURE (Slowed)",
+          "duration": "2:20"
+        },
+        {
+          "number": 3,
+          "name": "ALLURE (Super Slowed)",
+          "duration": "2:29"
+        },
+        {
+          "number": 4,
+          "name": "ALLURE (Sped Up)",
+          "duration": "2:04"
         }
       ]
     },

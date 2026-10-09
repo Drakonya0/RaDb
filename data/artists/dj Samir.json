@@ -448,6 +448,19 @@
       ]
     },
     {
+      "name": "MOVE IT",
+      "year": "2026",
+      "release_date": "2026-09-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/bf/02/edbf0298-d70e-9c9e-da9b-b264bd9c486a/5064091546354.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MOVE IT",
+          "duration": "1:24"
+        }
+      ]
+    },
+    {
       "name": "Mtg Coração",
       "year": "2023",
       "release_date": "2023-09-25",
@@ -805,29 +818,6 @@
       ]
     },
     {
-      "name": "i'm not gonna hide",
-      "year": "2024",
-      "release_date": "2024-04-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/a1/77/1ba1773f-03a1-3226-48f6-42bf4076eae2/286303.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "i'm not gonna hide",
-          "duration": "1:30"
-        },
-        {
-          "number": 2,
-          "name": "i'm not gonna hide (Speed Up)",
-          "duration": "1:12"
-        },
-        {
-          "number": 3,
-          "name": "i'm not gonna hide (Slowed)",
-          "duration": "2:01"
-        }
-      ]
-    },
-    {
       "name": "Montagem Rave Eterno",
       "year": "2024",
       "release_date": "2024-05-03",
@@ -847,6 +837,29 @@
           "number": 3,
           "name": "Montagem Rave Eterno (Speed Up)",
           "duration": "1:27"
+        }
+      ]
+    },
+    {
+      "name": "i'm not gonna hide",
+      "year": "2024",
+      "release_date": "2024-04-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/a1/77/1ba1773f-03a1-3226-48f6-42bf4076eae2/286303.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "i'm not gonna hide",
+          "duration": "1:30"
+        },
+        {
+          "number": 2,
+          "name": "i'm not gonna hide (Speed Up)",
+          "duration": "1:12"
+        },
+        {
+          "number": 3,
+          "name": "i'm not gonna hide (Slowed)",
+          "duration": "2:01"
         }
       ]
     },
@@ -1911,39 +1924,6 @@
       ]
     },
     {
-      "name": "MONTAGEM MADNESS",
-      "year": "2026",
-      "release_date": "2026-08-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f5/40/d4f540df-3373-b783-c853-d8da8e18fb10/1330616.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM MADNESS",
-          "duration": "1:04"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM MADNESS (Super Slowed)",
-          "duration": "1:23"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM MADNESS (Ultra Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM MADNESS (Sped Up)",
-          "duration": "0:59"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM MADNESS (Slowed)",
-          "duration": "1:12"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM FUJIN",
       "year": "2026",
       "release_date": "2026-10-02",
@@ -2127,39 +2107,6 @@
       ]
     },
     {
-      "name": "ULTRA SLIDE FUNK",
-      "year": "2024",
-      "release_date": "2024-07-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/cf/a0/aacfa0eb-5a7f-ac01-2725-e2236e823ec5/5063561442066.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ULTRA SLIDE FUNK",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "ULTRA SLIDE FUNK (Slowed)",
-          "duration": "1:38"
-        },
-        {
-          "number": 3,
-          "name": "ULTRA SLIDE FUNK (Sped Up)",
-          "duration": "1:18"
-        },
-        {
-          "number": 4,
-          "name": "ULTRA SLIDE FUNK (Super Slowed)",
-          "duration": "1:52"
-        },
-        {
-          "number": 5,
-          "name": "ULTRA SLIDE FUNK (Ultra Slowed)",
-          "duration": "2:08"
-        }
-      ]
-    },
-    {
       "name": "ENSA BARA",
       "year": "2025",
       "release_date": "2025-03-14",
@@ -2189,6 +2136,39 @@
           "number": 5,
           "name": "ENSA BARA (Ultra slowed)",
           "duration": "2:30"
+        }
+      ]
+    },
+    {
+      "name": "ULTRA SLIDE FUNK",
+      "year": "2024",
+      "release_date": "2024-07-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/cf/a0/aacfa0eb-5a7f-ac01-2725-e2236e823ec5/5063561442066.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ULTRA SLIDE FUNK",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "ULTRA SLIDE FUNK (Slowed)",
+          "duration": "1:38"
+        },
+        {
+          "number": 3,
+          "name": "ULTRA SLIDE FUNK (Sped Up)",
+          "duration": "1:18"
+        },
+        {
+          "number": 4,
+          "name": "ULTRA SLIDE FUNK (Super Slowed)",
+          "duration": "1:52"
+        },
+        {
+          "number": 5,
+          "name": "ULTRA SLIDE FUNK (Ultra Slowed)",
+          "duration": "2:08"
         }
       ]
     },
@@ -3181,34 +3161,6 @@
       ]
     },
     {
-      "name": "DANÇA INTERSTELLAR",
-      "year": "2024",
-      "release_date": "2024-09-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/26/ae/3526aee0-fe9b-2bc2-5927-f9764e5b3fc8/3865125.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DANÇA INTERSTELLAR",
-          "duration": "1:32"
-        },
-        {
-          "number": 2,
-          "name": "DANÇA INTERSTELLAR (Slowed)",
-          "duration": "1:43"
-        },
-        {
-          "number": 3,
-          "name": "DANÇA INTERSTELLAR (Sped Up)",
-          "duration": "1:22"
-        },
-        {
-          "number": 4,
-          "name": "DANÇA INTERSTELLAR (Super Slowed)",
-          "duration": "1:56"
-        }
-      ]
-    },
-    {
       "name": "QUE PASA",
       "year": "2025",
       "release_date": "2025-05-16",
@@ -3238,6 +3190,34 @@
           "number": 5,
           "name": "QUE PASA (Sped Up)",
           "duration": "1:27"
+        }
+      ]
+    },
+    {
+      "name": "DANÇA INTERSTELLAR",
+      "year": "2024",
+      "release_date": "2024-09-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/26/ae/3526aee0-fe9b-2bc2-5927-f9764e5b3fc8/3865125.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DANÇA INTERSTELLAR",
+          "duration": "1:32"
+        },
+        {
+          "number": 2,
+          "name": "DANÇA INTERSTELLAR (Slowed)",
+          "duration": "1:43"
+        },
+        {
+          "number": 3,
+          "name": "DANÇA INTERSTELLAR (Sped Up)",
+          "duration": "1:22"
+        },
+        {
+          "number": 4,
+          "name": "DANÇA INTERSTELLAR (Super Slowed)",
+          "duration": "1:56"
         }
       ]
     },

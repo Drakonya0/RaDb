@@ -84,17 +84,17 @@
       ]
     },
     {
-      "name": "Nous-mêmes",
-      "year": "2017",
-      "release_date": "2017-09-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/af/75/53/af755395-b365-a5d0-f4dd-f25a882e05e1/190295812270.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Ma ruche (Réédition)",
       "year": "2020",
       "release_date": "2020-01-31",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/dc/57/a8dc5706-89de-9195-a35c-f098ecde7eea/190295186845.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Nous-mêmes",
+      "year": "2017",
+      "release_date": "2017-09-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/af/75/53/af755395-b365-a5d0-f4dd-f25a882e05e1/190295812270.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -437,19 +437,6 @@
       "tracks": []
     },
     {
-      "name": "Aliène",
-      "year": "2025",
-      "release_date": "2025-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/f5/46/55f54681-2014-e236-d62a-071133a71b37/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Aliène",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "Boîte à gants (feat. Hornet La Frappe)",
       "year": "2022",
       "release_date": "2022-09-16",
@@ -459,6 +446,19 @@
           "number": 1,
           "name": "Boîte à gants (feat. Hornet La Frappe)",
           "duration": "2:19"
+        }
+      ]
+    },
+    {
+      "name": "Aliène",
+      "year": "2025",
+      "release_date": "2025-01-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/f5/46/55f54681-2014-e236-d62a-071133a71b37/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Aliène",
+          "duration": "3:05"
         }
       ]
     },
@@ -476,19 +476,6 @@
       ]
     },
     {
-      "name": "Khalele",
-      "year": "2026",
-      "release_date": "2026-07-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/a8/97/13a8977d-86af-8d22-1161-c4d63c8d2b49/885288013283.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Khalele",
-          "duration": "2:56"
-        }
-      ]
-    },
-    {
       "name": "Calumet (Afro remix) [feat. Hornet La Frappe]",
       "year": "2020",
       "release_date": "2020-05-26",
@@ -498,6 +485,19 @@
           "number": 1,
           "name": "Calumet (feat. Hornet La Frappe) [Afro remix]",
           "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "Khalele",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/a8/97/13a8977d-86af-8d22-1161-c4d63c8d2b49/885288013283.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Khalele",
+          "duration": "2:56"
         }
       ]
     },

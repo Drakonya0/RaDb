@@ -776,29 +776,6 @@
       ]
     },
     {
-      "name": "CATASTROPHE",
-      "year": "2024",
-      "release_date": "2024-06-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/a6/b5/f5a6b5cc-2fa9-5adf-b4df-4ff8765d9086/198588447789.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "CATASTROPHE",
-          "duration": "1:13"
-        },
-        {
-          "number": 2,
-          "name": "CATASTROPHE (SLOWED)",
-          "duration": "1:32"
-        },
-        {
-          "number": 3,
-          "name": "CATASTROPHE (SPED UP)",
-          "duration": "1:06"
-        }
-      ]
-    },
-    {
       "name": "WOAH!",
       "year": "2025",
       "release_date": "2025-06-23",
@@ -818,6 +795,29 @@
           "number": 3,
           "name": "BONECAS",
           "duration": "1:58"
+        }
+      ]
+    },
+    {
+      "name": "CATASTROPHE",
+      "year": "2024",
+      "release_date": "2024-06-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/a6/b5/f5a6b5cc-2fa9-5adf-b4df-4ff8765d9086/198588447789.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "CATASTROPHE",
+          "duration": "1:13"
+        },
+        {
+          "number": 2,
+          "name": "CATASTROPHE (SLOWED)",
+          "duration": "1:32"
+        },
+        {
+          "number": 3,
+          "name": "CATASTROPHE (SPED UP)",
+          "duration": "1:06"
         }
       ]
     },
@@ -2796,34 +2796,6 @@
       ]
     },
     {
-      "name": "TA NA VEIA",
-      "year": "2025",
-      "release_date": "2025-09-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/e1/07/78e10765-0b26-b75b-e95d-2d3f124166c8/65253.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TA NA VEIA",
-          "duration": "1:36"
-        },
-        {
-          "number": 2,
-          "name": "TA NA VEIA (Slowed)",
-          "duration": "1:48"
-        },
-        {
-          "number": 3,
-          "name": "TA NA VEIA (Super Slowed)",
-          "duration": "2:02"
-        },
-        {
-          "number": 4,
-          "name": "TA NA VEIA (Sped Up)",
-          "duration": "1:26"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM PALHAÇO",
       "year": "2026",
       "release_date": "2026-05-01",
@@ -2853,6 +2825,34 @@
           "number": 5,
           "name": "MONTAGEM PALHAÇO - SPED UP",
           "duration": "1:44"
+        }
+      ]
+    },
+    {
+      "name": "TA NA VEIA",
+      "year": "2025",
+      "release_date": "2025-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/e1/07/78e10765-0b26-b75b-e95d-2d3f124166c8/65253.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TA NA VEIA",
+          "duration": "1:36"
+        },
+        {
+          "number": 2,
+          "name": "TA NA VEIA (Slowed)",
+          "duration": "1:48"
+        },
+        {
+          "number": 3,
+          "name": "TA NA VEIA (Super Slowed)",
+          "duration": "2:02"
+        },
+        {
+          "number": 4,
+          "name": "TA NA VEIA (Sped Up)",
+          "duration": "1:26"
         }
       ]
     },

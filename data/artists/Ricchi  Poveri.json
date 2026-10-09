@@ -217,64 +217,6 @@
       ]
     },
     {
-      "name": "Greatest Hits",
-      "year": "2005",
-      "release_date": "2005-07-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/91/e3/17/91e31725-d069-22f4-724d-73ceb034b8e4/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "M'innamoro di te",
-          "duration": "4:00"
-        },
-        {
-          "number": 2,
-          "name": "La prima cosa bella",
-          "duration": "3:06"
-        },
-        {
-          "number": 3,
-          "name": "Sarà perché ti amo",
-          "duration": "2:56"
-        },
-        {
-          "number": 4,
-          "name": "Se m'innamoro",
-          "duration": "3:24"
-        },
-        {
-          "number": 5,
-          "name": "Come vorrei (Versione acustica)",
-          "duration": "3:21"
-        },
-        {
-          "number": 6,
-          "name": "La prima cosa bella (Versione acustica)",
-          "duration": "3:10"
-        },
-        {
-          "number": 7,
-          "name": "M'innamoro di te (Versione acustica)",
-          "duration": "3:48"
-        },
-        {
-          "number": 8,
-          "name": "Mamma Maria",
-          "duration": "2:56"
-        },
-        {
-          "number": 9,
-          "name": "Come vorrei",
-          "duration": "2:56"
-        },
-        {
-          "number": 10,
-          "name": "Che sarà (Versione acustica)",
-          "duration": "3:08"
-        }
-      ]
-    },
-    {
       "name": "Nur das Beste: Ricchi e Poveri",
       "year": "2004",
       "release_date": "2004-03-08",
@@ -359,6 +301,64 @@
           "number": 16,
           "name": "Voulez-Vous Danser",
           "duration": "3:44"
+        }
+      ]
+    },
+    {
+      "name": "Greatest Hits",
+      "year": "2005",
+      "release_date": "2005-07-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/91/e3/17/91e31725-d069-22f4-724d-73ceb034b8e4/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "M'innamoro di te",
+          "duration": "4:00"
+        },
+        {
+          "number": 2,
+          "name": "La prima cosa bella",
+          "duration": "3:06"
+        },
+        {
+          "number": 3,
+          "name": "Sarà perché ti amo",
+          "duration": "2:56"
+        },
+        {
+          "number": 4,
+          "name": "Se m'innamoro",
+          "duration": "3:24"
+        },
+        {
+          "number": 5,
+          "name": "Come vorrei (Versione acustica)",
+          "duration": "3:21"
+        },
+        {
+          "number": 6,
+          "name": "La prima cosa bella (Versione acustica)",
+          "duration": "3:10"
+        },
+        {
+          "number": 7,
+          "name": "M'innamoro di te (Versione acustica)",
+          "duration": "3:48"
+        },
+        {
+          "number": 8,
+          "name": "Mamma Maria",
+          "duration": "2:56"
+        },
+        {
+          "number": 9,
+          "name": "Come vorrei",
+          "duration": "2:56"
+        },
+        {
+          "number": 10,
+          "name": "Che sarà (Versione acustica)",
+          "duration": "3:08"
         }
       ]
     },
@@ -613,6 +613,84 @@
           "number": 12,
           "name": "Che sarà (Versione acustica)",
           "duration": "3:08"
+        }
+      ]
+    },
+    {
+      "name": "Parla col Cuore",
+      "year": "1998",
+      "release_date": "1998-09-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/95/6d/8a956d2d-92b6-98ef-0a39-50322d791397/5054960019430_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ciao Ciao",
+          "duration": "3:58"
+        },
+        {
+          "number": 2,
+          "name": "Se Mi Innamoro",
+          "duration": "4:41"
+        },
+        {
+          "number": 3,
+          "name": "Il Meglio Di Noi",
+          "duration": "3:49"
+        },
+        {
+          "number": 4,
+          "name": "Come Vorrei",
+          "duration": "4:30"
+        },
+        {
+          "number": 5,
+          "name": "Mamma Maria",
+          "duration": "3:05"
+        },
+        {
+          "number": 6,
+          "name": "Parla Col Cuore",
+          "duration": "4:20"
+        },
+        {
+          "number": 7,
+          "name": "La Prima Cosa Bella",
+          "duration": "3:31"
+        },
+        {
+          "number": 8,
+          "name": "Se Mi Ami",
+          "duration": "4:34"
+        },
+        {
+          "number": 9,
+          "name": "Che Sarà",
+          "duration": "3:15"
+        },
+        {
+          "number": 10,
+          "name": "Sarà Perché Ti Amo",
+          "duration": "4:02"
+        },
+        {
+          "number": 11,
+          "name": "Mi Innamoro Di Te",
+          "duration": "4:43"
+        },
+        {
+          "number": 12,
+          "name": "Mai Dire Mai",
+          "duration": "4:07"
+        },
+        {
+          "number": 13,
+          "name": "Made In Italy",
+          "duration": "3:52"
+        },
+        {
+          "number": 14,
+          "name": "La Stella Che Vuoi",
+          "duration": "4:03"
         }
       ]
     },
@@ -910,84 +988,6 @@
           "number": 11,
           "name": "Così lontani",
           "duration": "4:39"
-        }
-      ]
-    },
-    {
-      "name": "Parla col Cuore",
-      "year": "1998",
-      "release_date": "1998-09-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/95/6d/8a956d2d-92b6-98ef-0a39-50322d791397/5054960019430_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ciao Ciao",
-          "duration": "3:58"
-        },
-        {
-          "number": 2,
-          "name": "Se Mi Innamoro",
-          "duration": "4:41"
-        },
-        {
-          "number": 3,
-          "name": "Il Meglio Di Noi",
-          "duration": "3:49"
-        },
-        {
-          "number": 4,
-          "name": "Come Vorrei",
-          "duration": "4:30"
-        },
-        {
-          "number": 5,
-          "name": "Mamma Maria",
-          "duration": "3:05"
-        },
-        {
-          "number": 6,
-          "name": "Parla Col Cuore",
-          "duration": "4:20"
-        },
-        {
-          "number": 7,
-          "name": "La Prima Cosa Bella",
-          "duration": "3:31"
-        },
-        {
-          "number": 8,
-          "name": "Se Mi Ami",
-          "duration": "4:34"
-        },
-        {
-          "number": 9,
-          "name": "Che Sarà",
-          "duration": "3:15"
-        },
-        {
-          "number": 10,
-          "name": "Sarà Perché Ti Amo",
-          "duration": "4:02"
-        },
-        {
-          "number": 11,
-          "name": "Mi Innamoro Di Te",
-          "duration": "4:43"
-        },
-        {
-          "number": 12,
-          "name": "Mai Dire Mai",
-          "duration": "4:07"
-        },
-        {
-          "number": 13,
-          "name": "Made In Italy",
-          "duration": "3:52"
-        },
-        {
-          "number": 14,
-          "name": "La Stella Che Vuoi",
-          "duration": "4:03"
         }
       ]
     },
@@ -1959,19 +1959,6 @@
       ]
     },
     {
-      "name": "Sarà perchè ti amo (House Version) [Remix]",
-      "year": "2017",
-      "release_date": "2017-12-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/59/0a/3f/590a3fbc-a946-739e-d16d-9a5d3ab3b69b/85c9d0ad-1c79-4d01-a3f0-b4e76aa4b4d9.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Sarà perchè ti amo (House Version) [Remix]",
-          "duration": "3:22"
-        }
-      ]
-    },
-    {
       "name": "Sarà perché ti amo (Anthem Mix) [feat. Ricchi & Poveri]",
       "year": "2023",
       "release_date": "2023-06-16",
@@ -1981,6 +1968,19 @@
           "number": 1,
           "name": "Sarà perché ti amo (feat. Ricchi & Poveri) [Anthem Mix]",
           "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "Sarà perchè ti amo (House Version) [Remix]",
+      "year": "2017",
+      "release_date": "2017-12-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/59/0a/3f/590a3fbc-a946-739e-d16d-9a5d3ab3b69b/85c9d0ad-1c79-4d01-a3f0-b4e76aa4b4d9.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Sarà perchè ti amo (House Version) [Remix]",
+          "duration": "3:22"
         }
       ]
     },
@@ -2126,19 +2126,6 @@
       ]
     },
     {
-      "name": "Il Natale degli Angeli",
-      "year": "2024",
-      "release_date": "2024-11-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/92/7a/1e927a80-f67b-d9be-8cf6-4ebc18807955/8053307095226.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Il Natale degli Angeli",
-          "duration": "3:09"
-        }
-      ]
-    },
-    {
       "name": "L'ultimo Amore",
       "year": "2020",
       "release_date": "2020-02-06",
@@ -2148,6 +2135,19 @@
           "number": 1,
           "name": "L'ultimo Amore",
           "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "name": "Il Natale degli Angeli",
+      "year": "2024",
+      "release_date": "2024-11-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/92/7a/1e927a80-f67b-d9be-8cf6-4ebc18807955/8053307095226.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Il Natale degli Angeli",
+          "duration": "3:09"
         }
       ]
     },

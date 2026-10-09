@@ -436,19 +436,6 @@
       ]
     },
     {
-      "name": "Spirits of the Sea",
-      "year": "2019",
-      "release_date": "2019-06-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/ba/7b/0cba7b97-403f-b719-859a-d2c7f77da293/886447769348.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Spirits of the Sea",
-          "duration": "3:57"
-        }
-      ]
-    },
-    {
       "name": "Lemon",
       "year": "2018",
       "release_date": "2018-03-14",
@@ -468,6 +455,19 @@
           "number": 3,
           "name": "Paper Flower",
           "duration": "4:35"
+        }
+      ]
+    },
+    {
+      "name": "Spirits of the Sea",
+      "year": "2019",
+      "release_date": "2019-06-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0c/ba/7b/0cba7b97-403f-b719-859a-d2c7f77da293/886447769348.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Spirits of the Sea",
+          "duration": "3:57"
         }
       ]
     },
@@ -537,6 +537,29 @@
       ]
     },
     {
+      "name": "LOSER / ナンバーナイン",
+      "year": "2016",
+      "release_date": "2016-09-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/aa/bc/03/aabc0399-bc01-16b5-05cf-199921c04079/jacket_SEXX01946B00Z_550.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Loser",
+          "duration": "4:05"
+        },
+        {
+          "number": 2,
+          "name": "Number Nine",
+          "duration": "4:23"
+        },
+        {
+          "number": 3,
+          "name": "Amen",
+          "duration": "4:34"
+        }
+      ]
+    },
+    {
       "name": "Azalea",
       "year": "2024",
       "release_date": "2024-11-18",
@@ -546,19 +569,6 @@
           "number": 1,
           "name": "Azalea",
           "duration": "3:28"
-        }
-      ]
-    },
-    {
-      "name": "烏 - Raven",
-      "year": "2026",
-      "release_date": "2026-06-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/89/10/668910f4-2f09-12c7-200a-104eee77cb48/4547366827767.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Karasu - Raven",
-          "duration": "4:08"
         }
       ]
     },
@@ -619,25 +629,15 @@
       ]
     },
     {
-      "name": "LOSER / ナンバーナイン",
-      "year": "2016",
-      "release_date": "2016-09-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/aa/bc/03/aabc0399-bc01-16b5-05cf-199921c04079/jacket_SEXX01946B00Z_550.jpg/600x600bb.jpg",
+      "name": "烏 - Raven",
+      "year": "2026",
+      "release_date": "2026-06-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/89/10/668910f4-2f09-12c7-200a-104eee77cb48/4547366827767.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Loser",
-          "duration": "4:05"
-        },
-        {
-          "number": 2,
-          "name": "Number Nine",
-          "duration": "4:23"
-        },
-        {
-          "number": 3,
-          "name": "Amen",
-          "duration": "4:34"
+          "name": "Karasu - Raven",
+          "duration": "4:08"
         }
       ]
     },

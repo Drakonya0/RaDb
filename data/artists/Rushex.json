@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "Montagem-Fatal Pr",
+      "year": "2023",
+      "release_date": "2023-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/41/11/9041110a-3a0b-3380-b0f8-90f55d1257b0/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem-Fatal Pr",
+          "duration": "1:58"
+        }
+      ]
+    },
+    {
       "name": "ZAKHELO",
       "year": "2026",
       "release_date": "2026-03-13",
@@ -51,19 +64,6 @@
           "number": 3,
           "name": "MONTAGEM GLORIA (Ultra Slowed)",
           "duration": "1:42"
-        }
-      ]
-    },
-    {
-      "name": "Montagem-Fatal Pr",
-      "year": "2023",
-      "release_date": "2023-09-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/90/41/11/9041110a-3a0b-3380-b0f8-90f55d1257b0/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Montagem-Fatal Pr",
-          "duration": "1:58"
         }
       ]
     },
@@ -1151,19 +1151,6 @@
       ]
     },
     {
-      "name": "Murder Angel",
-      "year": "2023",
-      "release_date": "2023-12-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/3b/f7/823bf7c3-2b35-ea77-42bc-189459160c6a/197190586633.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Murder Angel",
-          "duration": "1:47"
-        }
-      ]
-    },
-    {
       "name": "Demons In Brazil",
       "year": "2023",
       "release_date": "2023-08-07",
@@ -1173,6 +1160,19 @@
           "number": 1,
           "name": "Demons In Brazil",
           "duration": "1:51"
+        }
+      ]
+    },
+    {
+      "name": "Murder Angel",
+      "year": "2023",
+      "release_date": "2023-12-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/82/3b/f7/823bf7c3-2b35-ea77-42bc-189459160c6a/197190586633.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Murder Angel",
+          "duration": "1:47"
         }
       ]
     },
@@ -2659,6 +2659,39 @@
       ]
     },
     {
+      "name": "KARVENORA",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/41/81/dc4181ff-7827-08be-de51-5dcc1614c9dd/4413050.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "KARVENORA",
+          "duration": "2:23"
+        },
+        {
+          "number": 2,
+          "name": "KARVENORA (Slowed)",
+          "duration": "2:31"
+        },
+        {
+          "number": 3,
+          "name": "KARVENORA (Super Slowed)",
+          "duration": "2:40"
+        },
+        {
+          "number": 4,
+          "name": "KARVENORA (Ultra Slowed)",
+          "duration": "2:50"
+        },
+        {
+          "number": 5,
+          "name": "KARVENORA (Sped Up)",
+          "duration": "2:11"
+        }
+      ]
+    },
+    {
       "name": "LOONEY FUNK",
       "year": "2025",
       "release_date": "2025-04-04",
@@ -3486,34 +3519,6 @@
       ]
     },
     {
-      "name": "FAVELA CHAMA",
-      "year": "2025",
-      "release_date": "2025-09-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/c7/ef/14c7efa8-5f83-d0b4-2681-f2d3f1a69b99/4131564.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FAVELA CHAMA",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "FAVELA CHAMA (Slowed)",
-          "duration": "1:41"
-        },
-        {
-          "number": 3,
-          "name": "FAVELA CHAMA (Ultra Slowed)",
-          "duration": "1:56"
-        },
-        {
-          "number": 4,
-          "name": "FAVELA CHAMA (Sped Up)",
-          "duration": "1:26"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM SONATA",
       "year": "2026",
       "release_date": "2026-02-20",
@@ -3543,6 +3548,34 @@
           "number": 5,
           "name": "MONTAGEM SONATA (Sped Up)",
           "duration": "1:37"
+        }
+      ]
+    },
+    {
+      "name": "FAVELA CHAMA",
+      "year": "2025",
+      "release_date": "2025-09-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/c7/ef/14c7efa8-5f83-d0b4-2681-f2d3f1a69b99/4131564.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FAVELA CHAMA",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "FAVELA CHAMA (Slowed)",
+          "duration": "1:41"
+        },
+        {
+          "number": 3,
+          "name": "FAVELA CHAMA (Ultra Slowed)",
+          "duration": "1:56"
+        },
+        {
+          "number": 4,
+          "name": "FAVELA CHAMA (Sped Up)",
+          "duration": "1:26"
         }
       ]
     },
@@ -3771,6 +3804,34 @@
       ]
     },
     {
+      "name": "TOMANADA",
+      "year": "2026",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/63/4e/e2634edc-e51a-e3bb-fb1d-24dd12f4643c/3592530.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TOMANADA",
+          "duration": "1:46"
+        },
+        {
+          "number": 2,
+          "name": "TOMANADA (Slowed)",
+          "duration": "1:53"
+        },
+        {
+          "number": 3,
+          "name": "TOMANADA (Ultra Slowed)",
+          "duration": "2:01"
+        },
+        {
+          "number": 4,
+          "name": "TOMANADA (Sped Up)",
+          "duration": "1:40"
+        }
+      ]
+    },
+    {
       "name": "PAKISE",
       "year": "2025",
       "release_date": "2025-07-02",
@@ -3800,34 +3861,6 @@
           "number": 5,
           "name": "PAKISE (Sped Up)",
           "duration": "1:24"
-        }
-      ]
-    },
-    {
-      "name": "TOMANADA",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/63/4e/e2634edc-e51a-e3bb-fb1d-24dd12f4643c/3592530.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "TOMANADA",
-          "duration": "1:46"
-        },
-        {
-          "number": 2,
-          "name": "TOMANADA (Slowed)",
-          "duration": "1:53"
-        },
-        {
-          "number": 3,
-          "name": "TOMANADA (Ultra Slowed)",
-          "duration": "2:01"
-        },
-        {
-          "number": 4,
-          "name": "TOMANADA (Sped Up)",
-          "duration": "1:40"
         }
       ]
     }

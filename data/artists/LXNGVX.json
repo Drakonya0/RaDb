@@ -172,29 +172,6 @@
       ]
     },
     {
-      "name": "Yummi",
-      "year": "2023",
-      "release_date": "2023-10-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/58/72/bf587253-b02e-a51a-343a-ab805aca58c4/723277095448.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Yummi",
-          "duration": "1:35"
-        },
-        {
-          "number": 2,
-          "name": "Yummi (Sped Up)",
-          "duration": "1:20"
-        },
-        {
-          "number": 3,
-          "name": "Yummi (Slowed)",
-          "duration": "1:49"
-        }
-      ]
-    },
-    {
       "name": "BRUXO FANTASMA",
       "year": "2024",
       "release_date": "2024-08-16",
@@ -236,25 +213,25 @@
       ]
     },
     {
-      "name": "Montagem Mysterious Game (Piano Version)",
-      "year": "2024",
-      "release_date": "2024-03-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8e/46/4e/8e464e3f-ec7d-fe8a-8f5a-077a963fa2d7/cover.jpg/600x600bb.jpg",
+      "name": "Yummi",
+      "year": "2023",
+      "release_date": "2023-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/58/72/bf587253-b02e-a51a-343a-ab805aca58c4/723277095448.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Montagem Mysterious Game (Piano Version)",
-          "duration": "1:57"
+          "name": "Yummi",
+          "duration": "1:35"
         },
         {
           "number": 2,
-          "name": "Montagem Mysterious Game (Piano Version) [Slowed]",
-          "duration": "2:12"
+          "name": "Yummi (Sped Up)",
+          "duration": "1:20"
         },
         {
           "number": 3,
-          "name": "Montagem Mysterious Game (Piano Version) [Sped Up]",
-          "duration": "1:44"
+          "name": "Yummi (Slowed)",
+          "duration": "1:49"
         }
       ]
     },
@@ -322,6 +299,29 @@
           "number": 1,
           "name": "Scarlet Blade",
           "duration": "3:06"
+        }
+      ]
+    },
+    {
+      "name": "Montagem Mysterious Game (Piano Version)",
+      "year": "2024",
+      "release_date": "2024-03-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/8e/46/4e/8e464e3f-ec7d-fe8a-8f5a-077a963fa2d7/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Montagem Mysterious Game (Piano Version)",
+          "duration": "1:57"
+        },
+        {
+          "number": 2,
+          "name": "Montagem Mysterious Game (Piano Version) [Slowed]",
+          "duration": "2:12"
+        },
+        {
+          "number": 3,
+          "name": "Montagem Mysterious Game (Piano Version) [Sped Up]",
+          "duration": "1:44"
         }
       ]
     },
@@ -1165,39 +1165,6 @@
       ]
     },
     {
-      "name": "Habibi Ta'a (Bila Hamm)",
-      "year": "2026",
-      "release_date": "2026-01-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/78/2e/ec782e89-8c65-214f-d18a-b9933182b7d9/821526757854.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Habibi Ta’a (Bila Hamm)",
-          "duration": "2:59"
-        },
-        {
-          "number": 2,
-          "name": "Habibi Ta’a (Bila Hamm) [SLOWED]",
-          "duration": "3:15"
-        },
-        {
-          "number": 3,
-          "name": "Habibi Ta’a (Bila Hamm) [SUPER SLOWED]",
-          "duration": "3:33"
-        },
-        {
-          "number": 4,
-          "name": "Habibi Ta’a (Bila Hamm) [ULTRA SLOWED]",
-          "duration": "3:53"
-        },
-        {
-          "number": 5,
-          "name": "Habibi Ta’a (Bila Hamm) [SPED UP]",
-          "duration": "2:44"
-        }
-      ]
-    },
-    {
       "name": "SAXOFUNK",
       "year": "2025",
       "release_date": "2025-04-25",
@@ -1227,6 +1194,39 @@
           "number": 5,
           "name": "SAXOFUNK (ULTRA SLOWED)",
           "duration": "1:44"
+        }
+      ]
+    },
+    {
+      "name": "Habibi Ta'a (Bila Hamm)",
+      "year": "2026",
+      "release_date": "2026-01-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/78/2e/ec782e89-8c65-214f-d18a-b9933182b7d9/821526757854.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Habibi Ta’a (Bila Hamm)",
+          "duration": "2:59"
+        },
+        {
+          "number": 2,
+          "name": "Habibi Ta’a (Bila Hamm) [SLOWED]",
+          "duration": "3:15"
+        },
+        {
+          "number": 3,
+          "name": "Habibi Ta’a (Bila Hamm) [SUPER SLOWED]",
+          "duration": "3:33"
+        },
+        {
+          "number": 4,
+          "name": "Habibi Ta’a (Bila Hamm) [ULTRA SLOWED]",
+          "duration": "3:53"
+        },
+        {
+          "number": 5,
+          "name": "Habibi Ta’a (Bila Hamm) [SPED UP]",
+          "duration": "2:44"
         }
       ]
     },
@@ -1485,6 +1485,34 @@
       ]
     },
     {
+      "name": "JUMP FUNK",
+      "year": "2025",
+      "release_date": "2025-02-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/e2/2c/bce22c57-ee09-cf7d-bb50-bc7c174ae2eb/199066748169.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "JUMP FUNK",
+          "duration": "1:57"
+        },
+        {
+          "number": 2,
+          "name": "JUMP FUNK (SLOWED)",
+          "duration": "2:12"
+        },
+        {
+          "number": 3,
+          "name": "JUMP FUNK (SPED UP)",
+          "duration": "1:45"
+        },
+        {
+          "number": 4,
+          "name": "JUMP FUNK (SUPER SLOWED)",
+          "duration": "2:28"
+        }
+      ]
+    },
+    {
       "name": "MONTAGEM VERÃO",
       "year": "2025",
       "release_date": "2025-04-11",
@@ -1514,34 +1542,6 @@
           "number": 5,
           "name": "MONTAGEM VERÃO (Ultra Slowed)",
           "duration": "2:40"
-        }
-      ]
-    },
-    {
-      "name": "JUMP FUNK",
-      "year": "2025",
-      "release_date": "2025-02-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/e2/2c/bce22c57-ee09-cf7d-bb50-bc7c174ae2eb/199066748169.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "JUMP FUNK",
-          "duration": "1:57"
-        },
-        {
-          "number": 2,
-          "name": "JUMP FUNK (SLOWED)",
-          "duration": "2:12"
-        },
-        {
-          "number": 3,
-          "name": "JUMP FUNK (SPED UP)",
-          "duration": "1:45"
-        },
-        {
-          "number": 4,
-          "name": "JUMP FUNK (SUPER SLOWED)",
-          "duration": "2:28"
         }
       ]
     },
@@ -1607,39 +1607,6 @@
       ]
     },
     {
-      "name": "MONTAGEM ACCORDION",
-      "year": "2026",
-      "release_date": "2026-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/6f/c6/e26fc648-f22a-9aad-35e5-f8fa47b682d6/1375118.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM ACCORDION",
-          "duration": "1:51"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM ACCORDION (Slowed)",
-          "duration": "2:04"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM ACCORDION (Super Slowed)",
-          "duration": "2:20"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM ACCORDION (Ultra Slowed)",
-          "duration": "2:37"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM ACCORDION (Sped Up)",
-          "duration": "1:41"
-        }
-      ]
-    },
-    {
       "name": "FUZILADA",
       "year": "2025",
       "release_date": "2025-08-01",
@@ -1669,6 +1636,39 @@
           "number": 5,
           "name": "FUZILADA (SPED UP)",
           "duration": "1:24"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM ACCORDION",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/6f/c6/e26fc648-f22a-9aad-35e5-f8fa47b682d6/1375118.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM ACCORDION",
+          "duration": "1:51"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM ACCORDION (Slowed)",
+          "duration": "2:04"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM ACCORDION (Super Slowed)",
+          "duration": "2:20"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM ACCORDION (Ultra Slowed)",
+          "duration": "2:37"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM ACCORDION (Sped Up)",
+          "duration": "1:41"
         }
       ]
     },
@@ -1734,34 +1734,6 @@
       ]
     },
     {
-      "name": "OQO",
-      "year": "2025",
-      "release_date": "2025-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/0e/f3/ff0ef385-1383-b327-46bd-0031f97f008e/199350041884.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "OQO",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "OQO (SLOWED)",
-          "duration": "1:45"
-        },
-        {
-          "number": 3,
-          "name": "OQO (SPED UP)",
-          "duration": "1:23"
-        },
-        {
-          "number": 4,
-          "name": "OQO (SUPER SLOWED)",
-          "duration": "1:57"
-        }
-      ]
-    },
-    {
       "name": "SUSSURRO",
       "year": "2025",
       "release_date": "2025-11-21",
@@ -1795,6 +1767,34 @@
       ]
     },
     {
+      "name": "OQO",
+      "year": "2025",
+      "release_date": "2025-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/0e/f3/ff0ef385-1383-b327-46bd-0031f97f008e/199350041884.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "OQO",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "OQO (SLOWED)",
+          "duration": "1:45"
+        },
+        {
+          "number": 3,
+          "name": "OQO (SPED UP)",
+          "duration": "1:23"
+        },
+        {
+          "number": 4,
+          "name": "OQO (SUPER SLOWED)",
+          "duration": "1:57"
+        }
+      ]
+    },
+    {
       "name": "DESCE NO VENENO",
       "year": "2025",
       "release_date": "2025-09-26",
@@ -1819,34 +1819,6 @@
           "number": 4,
           "name": "Desce No Veneno (Ultra Slowed)",
           "duration": "2:20"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM ASTRALIS",
-      "year": "2025",
-      "release_date": "2025-06-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/45/ba/a045bad0-a125-f226-57ce-04215462769b/199350902581.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM ASTRALIS",
-          "duration": "2:12"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM ASTRALIS (SLOWED)",
-          "duration": "2:28"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM ASTRALIS (SUPER SLOWED)",
-          "duration": "2:46"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM ASTRALIS (SPED UP)",
-          "duration": "2:01"
         }
       ]
     },
@@ -1880,6 +1852,34 @@
           "number": 5,
           "name": "RASPA TRAVA (SPED UP)",
           "duration": "1:24"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM ASTRALIS",
+      "year": "2025",
+      "release_date": "2025-06-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/45/ba/a045bad0-a125-f226-57ce-04215462769b/199350902581.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM ASTRALIS",
+          "duration": "2:12"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM ASTRALIS (SLOWED)",
+          "duration": "2:28"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM ASTRALIS (SUPER SLOWED)",
+          "duration": "2:46"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM ASTRALIS (SPED UP)",
+          "duration": "2:01"
         }
       ]
     },
@@ -2523,6 +2523,39 @@
           "number": 5,
           "name": "DEIXA CAIR (SPED UP)",
           "duration": "1:24"
+        }
+      ]
+    },
+    {
+      "name": "FARAO",
+      "year": "2026",
+      "release_date": "2026-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/87/69/71876950-ec1e-20f0-7f6b-0dd5586da50a/885288809763.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FARAO",
+          "duration": "1:05"
+        },
+        {
+          "number": 2,
+          "name": "FARAO (SLOWED)",
+          "duration": "1:13"
+        },
+        {
+          "number": 3,
+          "name": "FARAO (SUPER SLOWED)",
+          "duration": "1:20"
+        },
+        {
+          "number": 4,
+          "name": "FARAO (ULTRA SLOWED)",
+          "duration": "1:28"
+        },
+        {
+          "number": 5,
+          "name": "FARAO (SPED UP)",
+          "duration": "1:00"
         }
       ]
     },
