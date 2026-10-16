@@ -242,19 +242,6 @@
       ]
     },
     {
-      "name": "Brazilian Riddim (Slowed)",
-      "year": "2023",
-      "release_date": "2023-08-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/87/b1/20/87b12009-0de4-8086-4ee9-21d475287a31/197189660283.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Brazilian Riddim (Slowed)",
-          "duration": "2:44"
-        }
-      ]
-    },
-    {
       "name": "Blah Blah Blah",
       "year": "2025",
       "release_date": "2025-10-31",
@@ -264,6 +251,19 @@
           "number": 1,
           "name": "Blah Blah Blah",
           "duration": "2:17"
+        }
+      ]
+    },
+    {
+      "name": "Brazilian Riddim (Slowed)",
+      "year": "2023",
+      "release_date": "2023-08-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/87/b1/20/87b12009-0de4-8086-4ee9-21d475287a31/197189660283.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Brazilian Riddim (Slowed)",
+          "duration": "2:44"
         }
       ]
     },
@@ -507,13 +507,6 @@
       ]
     },
     {
-      "name": "GigaPump",
-      "year": "2025",
-      "release_date": "2025-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/a1/cf/eda1cf46-dce7-66ea-bb43-2effaeaa1e92/cover.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Funk de Macarena",
       "year": "2024",
       "release_date": "2024-08-30",
@@ -525,6 +518,13 @@
           "duration": "1:53"
         }
       ]
+    },
+    {
+      "name": "GigaPump",
+      "year": "2025",
+      "release_date": "2025-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/a1/cf/eda1cf46-dce7-66ea-bb43-2effaeaa1e92/cover.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "FAKE STORY (feat. CeeLo Green & Big Pun)",
@@ -671,6 +671,34 @@
     }
   ],
   "eps": [
+    {
+      "name": "THE DEVIL'S HOUR",
+      "year": "2026",
+      "release_date": "2026-10-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/ce/ca/c0ceca57-2ed8-b625-8da2-a41afc93e3f0/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DEVIL'S DANCE",
+          "duration": "1:39"
+        },
+        {
+          "number": 2,
+          "name": "RED ROOM",
+          "duration": "2:01"
+        },
+        {
+          "number": 3,
+          "name": "LULLABY (3AM)",
+          "duration": "2:05"
+        },
+        {
+          "number": 4,
+          "name": "TRICK OR TEKK",
+          "duration": "2:26"
+        }
+      ]
+    },
     {
       "name": "wither",
       "year": "2026",

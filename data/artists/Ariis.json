@@ -49,19 +49,6 @@
       ]
     },
     {
-      "name": "MANDA BALA",
-      "year": "2023",
-      "release_date": "2023-12-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/b1/89/d2b189ca-1a9d-a4fc-fef8-8deb3fbe835c/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Manda Bala",
-          "duration": "1:40"
-        }
-      ]
-    },
-    {
       "name": "Chamber of Reflection (Ariis Remix)",
       "year": "2023",
       "release_date": "2023-01-27",
@@ -76,6 +63,19 @@
           "number": 2,
           "name": "Chamber of Reflection",
           "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "name": "MANDA BALA",
+      "year": "2023",
+      "release_date": "2023-12-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/b1/89/d2b189ca-1a9d-a4fc-fef8-8deb3fbe835c/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Manda Bala",
+          "duration": "1:40"
         }
       ]
     },
@@ -288,19 +288,6 @@
       ]
     },
     {
-      "name": "SULCO DO MAL",
-      "year": "2024",
-      "release_date": "2024-11-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/d1/14/03d11432-9478-4a8c-9222-d1d79cf75c77/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SULCO DO MAL",
-          "duration": "1:30"
-        }
-      ]
-    },
-    {
       "name": "Fallen Star",
       "year": "2023",
       "release_date": "2023-03-10",
@@ -310,6 +297,19 @@
           "number": 1,
           "name": "Fallen Star",
           "duration": "2:03"
+        }
+      ]
+    },
+    {
+      "name": "SULCO DO MAL",
+      "year": "2024",
+      "release_date": "2024-11-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/d1/14/03d11432-9478-4a8c-9222-d1d79cf75c77/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SULCO DO MAL",
+          "duration": "1:30"
         }
       ]
     },
@@ -1090,19 +1090,6 @@
       ]
     },
     {
-      "name": "MERDA",
-      "year": "2024",
-      "release_date": "2024-03-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4d/7d/2a/4d7d2a6f-09bb-411b-5f24-e416563d7554/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MERDA",
-          "duration": "1:38"
-        }
-      ]
-    },
-    {
       "name": "ESTANHO (Super Slowed)",
       "year": "2024",
       "release_date": "2024-01-22",
@@ -1112,6 +1099,19 @@
           "number": 1,
           "name": "ESTANHO (Super Slowed)",
           "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "MERDA",
+      "year": "2024",
+      "release_date": "2024-03-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4d/7d/2a/4d7d2a6f-09bb-411b-5f24-e416563d7554/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MERDA",
+          "duration": "1:38"
         }
       ]
     },
@@ -1557,6 +1557,34 @@
       ]
     },
     {
+      "name": "GOZALO",
+      "year": "2025",
+      "release_date": "2025-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/e5/08/9fe5087e-3fee-dfbe-d7a2-b56e2472ab72/212244.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "GOZALO",
+          "duration": "1:53"
+        },
+        {
+          "number": 2,
+          "name": "GOZALO (Slowed)",
+          "duration": "2:00"
+        },
+        {
+          "number": 3,
+          "name": "GOZALO (Super Slowed)",
+          "duration": "2:07"
+        },
+        {
+          "number": 4,
+          "name": "GOZALO (Sped Up)",
+          "duration": "1:47"
+        }
+      ]
+    },
+    {
       "name": "LOS VOLTAJE",
       "year": "2025",
       "release_date": "2025-04-11",
@@ -1586,34 +1614,6 @@
           "number": 5,
           "name": "LOS VOLTAJE (Sped Up)",
           "duration": "1:28"
-        }
-      ]
-    },
-    {
-      "name": "GOZALO",
-      "year": "2025",
-      "release_date": "2025-09-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/e5/08/9fe5087e-3fee-dfbe-d7a2-b56e2472ab72/212244.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "GOZALO",
-          "duration": "1:53"
-        },
-        {
-          "number": 2,
-          "name": "GOZALO (Slowed)",
-          "duration": "2:00"
-        },
-        {
-          "number": 3,
-          "name": "GOZALO (Super Slowed)",
-          "duration": "2:07"
-        },
-        {
-          "number": 4,
-          "name": "GOZALO (Sped Up)",
-          "duration": "1:47"
         }
       ]
     },
@@ -1736,6 +1736,34 @@
           "number": 5,
           "name": "LUNA LA (Nightcore)",
           "duration": "1:52"
+        }
+      ]
+    },
+    {
+      "name": "SAMARO",
+      "year": "2026",
+      "release_date": "2026-10-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/b8/64/a1b864a9-0fa1-677a-841d-822b01d3b51a/4479069.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SAMARO",
+          "duration": "2:30"
+        },
+        {
+          "number": 2,
+          "name": "SAMARO (Slowed)",
+          "duration": "2:38"
+        },
+        {
+          "number": 3,
+          "name": "SAMARO (Super Slowed)",
+          "duration": "2:48"
+        },
+        {
+          "number": 4,
+          "name": "SAMARO (Sped Up)",
+          "duration": "2:21"
         }
       ]
     },

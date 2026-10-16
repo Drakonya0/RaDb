@@ -3,17 +3,17 @@
   "id": 1510901519,
   "albums": [
     {
-      "name": "Pichichi / Piccolo",
-      "year": "2025",
-      "release_date": "2025-09-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/a3/49/76a349e0-bc88-555a-ac90-53dadaa4b3c8/25UMGIM04816.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Pichichi",
       "year": "2025",
       "release_date": "2025-01-31",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/c4/ba/42c4ba20-0fe3-9ad9-3b7f-6c7f066a9f33/25UMGIM04816.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Pichichi / Piccolo",
+      "year": "2025",
+      "release_date": "2025-09-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/a3/49/76a349e0-bc88-555a-ac90-53dadaa4b3c8/25UMGIM04816.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -74,6 +74,13 @@
       "tracks": []
     },
     {
+      "name": "Hollandaise",
+      "year": "2025",
+      "release_date": "2025-12-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/bd/da/a1bdda42-441a-2f0b-7ded-4a1fd83e54ac/25UM1IM98320.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Ainsi font",
       "year": "2020",
       "release_date": "2020-12-31",
@@ -85,13 +92,6 @@
           "duration": "3:27"
         }
       ]
-    },
-    {
-      "name": "Hollandaise",
-      "year": "2025",
-      "release_date": "2025-12-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/bd/da/a1bdda42-441a-2f0b-7ded-4a1fd83e54ac/25UM1IM98320.rgb.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "Rentre dans le Cercle",
@@ -153,17 +153,17 @@
       ]
     },
     {
-      "name": "Pichichi",
-      "year": "2025",
-      "release_date": "2025-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/97/db/5897db7d-3d41-0f35-14ca-beac5970a550/25UMGIM04058.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Comme ça !",
       "year": "2024",
       "release_date": "2024-07-19",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/45/4e/81454e5f-cead-f8a2-c403-42a9c7ad79d7/24UMGIM72630.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Pichichi",
+      "year": "2025",
+      "release_date": "2025-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/97/db/5897db7d-3d41-0f35-14ca-beac5970a550/25UMGIM04058.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -240,19 +240,6 @@
       ]
     },
     {
-      "name": "J'entends Bien",
-      "year": "2023",
-      "release_date": "2023-11-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/85/3f/6f853f88-8154-5c3e-e69c-083c7956ce22/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "J'entends Bien",
-          "duration": "3:16"
-        }
-      ]
-    },
-    {
       "name": "Khamsa",
       "year": "2022",
       "release_date": "2022-01-14",
@@ -262,6 +249,19 @@
           "number": 1,
           "name": "Khamsa",
           "duration": "3:03"
+        }
+      ]
+    },
+    {
+      "name": "J'entends Bien",
+      "year": "2023",
+      "release_date": "2023-11-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6f/85/3f/6f853f88-8154-5c3e-e69c-083c7956ce22/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "J'entends Bien",
+          "duration": "3:16"
         }
       ]
     },
@@ -279,13 +279,6 @@
       ]
     },
     {
-      "name": "Collade",
-      "year": "2026",
-      "release_date": "2026-07-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/a9/85/9aa9856e-54a3-0e24-a4b6-6460b8513932/26UMGIM79749.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Eh Oh",
       "year": "2023",
       "release_date": "2023-01-25",
@@ -297,6 +290,13 @@
           "duration": "3:00"
         }
       ]
+    },
+    {
+      "name": "Collade",
+      "year": "2026",
+      "release_date": "2026-07-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/a9/85/9aa9856e-54a3-0e24-a4b6-6460b8513932/26UMGIM79749.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Mi Bandida",
@@ -338,17 +338,17 @@
       ]
     },
     {
-      "name": "Paquetà",
-      "year": "2025",
-      "release_date": "2025-09-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/0c/d1/880cd112-a73f-2ea8-9855-5310605f9603/25UM1IM17419.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Deliciosa",
       "year": "2026",
       "release_date": "2026-09-04",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/06/c8/8f06c852-d1b5-d214-9031-b07687e07555/26UM1IM10221.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Paquetà",
+      "year": "2025",
+      "release_date": "2025-09-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/0c/d1/880cd112-a73f-2ea8-9855-5310605f9603/25UM1IM17419.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -365,6 +365,13 @@
       ]
     },
     {
+      "name": "Si tu pars",
+      "year": "2025",
+      "release_date": "2025-08-08",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/40/ae/ad40aec0-3ee7-593e-d300-28dae67ffd20/25UM1IM07241.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Confettis (feat. Josas)",
       "year": "2026",
       "release_date": "2026-06-19",
@@ -378,10 +385,17 @@
       ]
     },
     {
-      "name": "Si tu pars",
-      "year": "2025",
-      "release_date": "2025-08-08",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/40/ae/ad40aec0-3ee7-593e-d300-28dae67ffd20/25UM1IM07241.rgb.jpg/600x600bb.jpg",
+      "name": "Emilio",
+      "year": "2026",
+      "release_date": "2026-01-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/2b/e2/a42be2ce-9ced-961a-7aaa-0a9178d3a691/26UMGIM01106.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "Moi aussi",
+      "year": "2024",
+      "release_date": "2024-11-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/b9/c6/96b9c605-344d-7963-6e3d-f72733d50aa5/24UM1IM30448.rgb.jpg/600x600bb.jpg",
       "tracks": []
     },
     {
@@ -396,20 +410,6 @@
           "duration": "2:50"
         }
       ]
-    },
-    {
-      "name": "Moi aussi",
-      "year": "2024",
-      "release_date": "2024-11-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/b9/c6/96b9c605-344d-7963-6e3d-f72733d50aa5/24UM1IM30448.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
-      "name": "Emilio",
-      "year": "2026",
-      "release_date": "2026-01-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/2b/e2/a42be2ce-9ced-961a-7aaa-0a9178d3a691/26UMGIM01106.rgb.jpg/600x600bb.jpg",
-      "tracks": []
     }
   ],
   "eps": []

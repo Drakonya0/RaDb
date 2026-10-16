@@ -71,6 +71,79 @@
       ]
     },
     {
+      "name": "Obsidian",
+      "year": "2020",
+      "release_date": "2020-02-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/b9/7f/c4b97f8e-ce0d-af12-813b-5d1558a94520/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Greek Gods",
+          "duration": "3:20"
+        },
+        {
+          "number": 2,
+          "name": "Glimmer of Hope",
+          "duration": "2:56"
+        },
+        {
+          "number": 3,
+          "name": "Neutron Star",
+          "duration": "3:48"
+        },
+        {
+          "number": 4,
+          "name": "Void",
+          "duration": "3:29"
+        },
+        {
+          "number": 5,
+          "name": "Parallel Universe",
+          "duration": "3:25"
+        },
+        {
+          "number": 6,
+          "name": "Entrails",
+          "duration": "3:01"
+        },
+        {
+          "number": 7,
+          "name": "Spectre",
+          "duration": "3:16"
+        },
+        {
+          "number": 8,
+          "name": "Cursed Voices",
+          "duration": "3:17"
+        },
+        {
+          "number": 9,
+          "name": "Endless",
+          "duration": "3:14"
+        },
+        {
+          "number": 10,
+          "name": "Altered Dna",
+          "duration": "2:57"
+        },
+        {
+          "number": 11,
+          "name": "Night Elf",
+          "duration": "2:22"
+        },
+        {
+          "number": 12,
+          "name": "Lord",
+          "duration": "2:35"
+        },
+        {
+          "number": 13,
+          "name": "Invincible",
+          "duration": "3:02"
+        }
+      ]
+    },
+    {
       "name": "Aesthetic Dream",
       "year": "2018",
       "release_date": "2018-08-30",
@@ -190,79 +263,6 @@
           "number": 23,
           "name": "Sangri",
           "duration": "2:59"
-        }
-      ]
-    },
-    {
-      "name": "Obsidian",
-      "year": "2020",
-      "release_date": "2020-02-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c4/b9/7f/c4b97f8e-ce0d-af12-813b-5d1558a94520/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Greek Gods",
-          "duration": "3:20"
-        },
-        {
-          "number": 2,
-          "name": "Glimmer of Hope",
-          "duration": "2:56"
-        },
-        {
-          "number": 3,
-          "name": "Neutron Star",
-          "duration": "3:48"
-        },
-        {
-          "number": 4,
-          "name": "Void",
-          "duration": "3:29"
-        },
-        {
-          "number": 5,
-          "name": "Parallel Universe",
-          "duration": "3:25"
-        },
-        {
-          "number": 6,
-          "name": "Entrails",
-          "duration": "3:01"
-        },
-        {
-          "number": 7,
-          "name": "Spectre",
-          "duration": "3:16"
-        },
-        {
-          "number": 8,
-          "name": "Cursed Voices",
-          "duration": "3:17"
-        },
-        {
-          "number": 9,
-          "name": "Endless",
-          "duration": "3:14"
-        },
-        {
-          "number": 10,
-          "name": "Altered Dna",
-          "duration": "2:57"
-        },
-        {
-          "number": 11,
-          "name": "Night Elf",
-          "duration": "2:22"
-        },
-        {
-          "number": 12,
-          "name": "Lord",
-          "duration": "2:35"
-        },
-        {
-          "number": 13,
-          "name": "Invincible",
-          "duration": "3:02"
         }
       ]
     },
@@ -1161,6 +1161,19 @@
       ]
     },
     {
+      "name": "Legend (Drill Remix) [feat. Tevvez]",
+      "year": "2022",
+      "release_date": "2022-08-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/d0/a9/abd0a988-85f7-2fec-f347-144b098f24df/90622.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Legend (feat. Tevvez) [Drill Remix]",
+          "duration": "1:55"
+        }
+      ]
+    },
+    {
       "name": "Castle Path",
       "year": "2025",
       "release_date": "2025-05-08",
@@ -1180,19 +1193,6 @@
           "number": 3,
           "name": "Castle Path (Slowed)",
           "duration": "3:28"
-        }
-      ]
-    },
-    {
-      "name": "Legend (Drill Remix) [feat. Tevvez]",
-      "year": "2022",
-      "release_date": "2022-08-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ab/d0/a9/abd0a988-85f7-2fec-f347-144b098f24df/90622.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Legend (feat. Tevvez) [Drill Remix]",
-          "duration": "1:55"
         }
       ]
     },
@@ -1344,19 +1344,6 @@
       ]
     },
     {
-      "name": "Galaxy",
-      "year": "2023",
-      "release_date": "2023-12-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/09/49/f50949d6-b6f5-cf51-3d60-b989776ed8ae/3d0fba8f-b83e-421f-886e-e25a614dd17e.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Galaxy",
-          "duration": "3:14"
-        }
-      ]
-    },
-    {
       "name": "Legendary Tales",
       "year": "2023",
       "release_date": "2023-02-15",
@@ -1371,6 +1358,19 @@
           "number": 2,
           "name": "The Battle of the Ages",
           "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "Galaxy",
+      "year": "2023",
+      "release_date": "2023-12-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/09/49/f50949d6-b6f5-cf51-3d60-b989776ed8ae/3d0fba8f-b83e-421f-886e-e25a614dd17e.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Galaxy",
+          "duration": "3:14"
         }
       ]
     },

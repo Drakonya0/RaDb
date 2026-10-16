@@ -565,6 +565,44 @@
   ],
   "eps": [
     {
+      "name": "NOTORIOUS",
+      "year": "2026",
+      "release_date": "2026-10-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/d9/33/10d93334-b274-0925-90d7-66ab15312106/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NOTORIOUS",
+          "duration": "1:39"
+        },
+        {
+          "number": 2,
+          "name": "NOTORIOUS (Sped Up)",
+          "duration": "1:30"
+        },
+        {
+          "number": 3,
+          "name": "NOTORIOUS (Nightcore)",
+          "duration": "1:23"
+        },
+        {
+          "number": 4,
+          "name": "NOTORIOUS (Slowed & Reverb)",
+          "duration": "2:04"
+        },
+        {
+          "number": 5,
+          "name": "NOTORIOUS (Super Slowed)",
+          "duration": "2:22"
+        },
+        {
+          "number": 6,
+          "name": "NOTORIOUS (Ultra Slowed)",
+          "duration": "2:46"
+        }
+      ]
+    },
+    {
       "name": "E MEC COM AS PIRANHA",
       "year": "2024",
       "release_date": "2024-10-25",
@@ -1156,39 +1194,6 @@
       ]
     },
     {
-      "name": "MONTAGEM MELODIA SANGRENTA 1.0",
-      "year": "2025",
-      "release_date": "2025-02-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/45/c4/2a45c409-5707-bd73-eb92-7ac4f7a52fc0/199066923115.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM MELODIA SANGRENTA 1.0",
-          "duration": "1:32"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM MELODIA SANGRENTA 1.0 (SLOWED)",
-          "duration": "1:43"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM MELODIA SANGRENTA 1.0 (SUPER SLOWED)",
-          "duration": "1:56"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM MELODIA SANGRENTA 1.0 (ULTRA SLOWED)",
-          "duration": "2:10"
-        },
-        {
-          "number": 5,
-          "name": "MONTAGEM MELODIA SANGRENTA 1.0 (SPED UP)",
-          "duration": "1:22"
-        }
-      ]
-    },
-    {
       "name": "ESTRELA",
       "year": "2024",
       "release_date": "2024-12-20",
@@ -1250,40 +1255,35 @@
       ]
     },
     {
-      "name": "NOBODY FUNK",
+      "name": "MONTAGEM MELODIA SANGRENTA 1.0",
       "year": "2025",
-      "release_date": "2025-10-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/34/67/7b346797-a66c-ea1c-b66c-a29d079a7a89/artwork.jpg/600x600bb.jpg",
+      "release_date": "2025-02-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/45/c4/2a45c409-5707-bd73-eb92-7ac4f7a52fc0/199066923115.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "NOBODY FUNK",
-          "duration": "1:10"
+          "name": "MONTAGEM MELODIA SANGRENTA 1.0",
+          "duration": "1:32"
         },
         {
           "number": 2,
-          "name": "NOBODY FUNK (SPED UP)",
-          "duration": "1:00"
+          "name": "MONTAGEM MELODIA SANGRENTA 1.0 (SLOWED)",
+          "duration": "1:43"
         },
         {
           "number": 3,
-          "name": "NOBODY FUNK (SLOWED)",
-          "duration": "1:15"
+          "name": "MONTAGEM MELODIA SANGRENTA 1.0 (SUPER SLOWED)",
+          "duration": "1:56"
         },
         {
           "number": 4,
-          "name": "NOBODY FUNK (SLOWED & REVERB)",
-          "duration": "1:20"
+          "name": "MONTAGEM MELODIA SANGRENTA 1.0 (ULTRA SLOWED)",
+          "duration": "2:10"
         },
         {
           "number": 5,
-          "name": "NOBODY FUNK (SUPER SLOWED)",
-          "duration": "1:25"
-        },
-        {
-          "number": 6,
-          "name": "NOBODY FUNK (ULTRA SLOWED)",
-          "duration": "1:32"
+          "name": "MONTAGEM MELODIA SANGRENTA 1.0 (SPED UP)",
+          "duration": "1:22"
         }
       ]
     },
@@ -1322,6 +1322,44 @@
           "number": 6,
           "name": "FURY FUNK (ULTRA SLOWED)",
           "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "NOBODY FUNK",
+      "year": "2025",
+      "release_date": "2025-10-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/34/67/7b346797-a66c-ea1c-b66c-a29d079a7a89/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NOBODY FUNK",
+          "duration": "1:10"
+        },
+        {
+          "number": 2,
+          "name": "NOBODY FUNK (SPED UP)",
+          "duration": "1:00"
+        },
+        {
+          "number": 3,
+          "name": "NOBODY FUNK (SLOWED)",
+          "duration": "1:15"
+        },
+        {
+          "number": 4,
+          "name": "NOBODY FUNK (SLOWED & REVERB)",
+          "duration": "1:20"
+        },
+        {
+          "number": 5,
+          "name": "NOBODY FUNK (SUPER SLOWED)",
+          "duration": "1:25"
+        },
+        {
+          "number": 6,
+          "name": "NOBODY FUNK (ULTRA SLOWED)",
+          "duration": "1:32"
         }
       ]
     },

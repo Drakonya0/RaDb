@@ -1,7 +1,51 @@
 {
   "name": "breakkaway",
   "id": 1884967650,
-  "albums": [],
+  "albums": [
+    {
+      "name": "It all feels the same from afar",
+      "year": "2026",
+      "release_date": "2026-11-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/34/ea/f234ea14-fd51-6b94-fddc-5a8d29ce8a43/0045778814299.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Portrait set on fire",
+          "duration": "3:49"
+        },
+        {
+          "number": 2,
+          "name": "Backseat",
+          "duration": "2:14"
+        },
+        {
+          "number": 3,
+          "name": "I know",
+          "duration": "3:21"
+        },
+        {
+          "number": 4,
+          "name": "Montauk",
+          "duration": "3:42"
+        },
+        {
+          "number": 5,
+          "name": "Immortal",
+          "duration": "3:08"
+        },
+        {
+          "number": 6,
+          "name": "Run away with me",
+          "duration": "3:58"
+        },
+        {
+          "number": 7,
+          "name": "Older",
+          "duration": "5:31"
+        }
+      ]
+    }
+  ],
   "singles": [
     {
       "name": "Secret",
@@ -40,6 +84,19 @@
       ]
     },
     {
+      "name": "Run away with me",
+      "year": "2026",
+      "release_date": "2026-05-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/0f/b0/840fb096-71d8-29b6-1f53-a70365308c6a/0045778814244.png/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Run away with me",
+          "duration": "3:58"
+        }
+      ]
+    },
+    {
       "name": "Outside",
       "year": "2023",
       "release_date": "2023-10-20",
@@ -54,19 +111,6 @@
           "number": 2,
           "name": "I’ll See You When the Night Comes",
           "duration": "3:43"
-        }
-      ]
-    },
-    {
-      "name": "Run away with me",
-      "year": "2026",
-      "release_date": "2026-05-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/0f/b0/840fb096-71d8-29b6-1f53-a70365308c6a/0045778814244.png/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Run away with me",
-          "duration": "3:58"
         }
       ]
     },

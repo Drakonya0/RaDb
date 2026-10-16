@@ -91,6 +91,79 @@
       ]
     },
     {
+      "name": "Eau de source",
+      "year": "2023",
+      "release_date": "2023-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/6f/5c/d46f5c3a-ca0c-abca-2260-0d43c2cee241/5400863148102_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Eau de source",
+          "duration": "2:49"
+        },
+        {
+          "number": 2,
+          "name": "Authentique",
+          "duration": "4:14"
+        },
+        {
+          "number": 3,
+          "name": "Khalass",
+          "duration": "3:13"
+        },
+        {
+          "number": 4,
+          "name": "Appuie-tête",
+          "duration": "5:00"
+        },
+        {
+          "number": 5,
+          "name": "Score",
+          "duration": "3:36"
+        },
+        {
+          "number": 6,
+          "name": "Tempête",
+          "duration": "3:20"
+        },
+        {
+          "number": 7,
+          "name": "Be water (Interlude) [feat. Soul Intellect]",
+          "duration": "1:32"
+        },
+        {
+          "number": 8,
+          "name": "Rats des villes",
+          "duration": "2:54"
+        },
+        {
+          "number": 9,
+          "name": "Louvre",
+          "duration": "3:05"
+        },
+        {
+          "number": 10,
+          "name": "Métro",
+          "duration": "2:46"
+        },
+        {
+          "number": 11,
+          "name": "Voraces",
+          "duration": "3:39"
+        },
+        {
+          "number": 12,
+          "name": "Ciel gris kebab grill",
+          "duration": "2:58"
+        },
+        {
+          "number": 13,
+          "name": "Pendu",
+          "duration": "2:53"
+        }
+      ]
+    },
+    {
       "name": "Tranche de vie",
       "year": "2021",
       "release_date": "2021-05-21",
@@ -195,79 +268,6 @@
           "number": 20,
           "name": "Outro",
           "duration": "2:29"
-        }
-      ]
-    },
-    {
-      "name": "Eau de source",
-      "year": "2023",
-      "release_date": "2023-11-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/6f/5c/d46f5c3a-ca0c-abca-2260-0d43c2cee241/5400863148102_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Eau de source",
-          "duration": "2:49"
-        },
-        {
-          "number": 2,
-          "name": "Authentique",
-          "duration": "4:14"
-        },
-        {
-          "number": 3,
-          "name": "Khalass",
-          "duration": "3:13"
-        },
-        {
-          "number": 4,
-          "name": "Appuie-tête",
-          "duration": "5:00"
-        },
-        {
-          "number": 5,
-          "name": "Score",
-          "duration": "3:36"
-        },
-        {
-          "number": 6,
-          "name": "Tempête",
-          "duration": "3:20"
-        },
-        {
-          "number": 7,
-          "name": "Be water (Interlude) [feat. Soul Intellect]",
-          "duration": "1:32"
-        },
-        {
-          "number": 8,
-          "name": "Rats des villes",
-          "duration": "2:54"
-        },
-        {
-          "number": 9,
-          "name": "Louvre",
-          "duration": "3:05"
-        },
-        {
-          "number": 10,
-          "name": "Métro",
-          "duration": "2:46"
-        },
-        {
-          "number": 11,
-          "name": "Voraces",
-          "duration": "3:39"
-        },
-        {
-          "number": 12,
-          "name": "Ciel gris kebab grill",
-          "duration": "2:58"
-        },
-        {
-          "number": 13,
-          "name": "Pendu",
-          "duration": "2:53"
         }
       ]
     },
@@ -680,19 +680,6 @@
       ]
     },
     {
-      "name": "Vers quotidiens (feat. Jungle Jack)",
-      "year": "2020",
-      "release_date": "2020-09-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/f9/c5/8cf9c581-1f9a-62f8-3071-6580bb92745e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Vers quotidiens (feat. Jungle Jack)",
-          "duration": "3:32"
-        }
-      ]
-    },
-    {
       "name": "Khalass",
       "year": "2023",
       "release_date": "2023-09-20",
@@ -702,6 +689,19 @@
           "number": 1,
           "name": "Khalass",
           "duration": "3:13"
+        }
+      ]
+    },
+    {
+      "name": "Vers quotidiens (feat. Jungle Jack)",
+      "year": "2020",
+      "release_date": "2020-09-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/f9/c5/8cf9c581-1f9a-62f8-3071-6580bb92745e/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Vers quotidiens (feat. Jungle Jack)",
+          "duration": "3:32"
         }
       ]
     },
@@ -1028,19 +1028,6 @@
       ]
     },
     {
-      "name": "Hall 26",
-      "year": "2022",
-      "release_date": "2022-08-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/59/2a/28/592a285c-0df4-412a-21a2-cbdc79a2ceff/5400863094386_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hall 26",
-          "duration": "2:51"
-        }
-      ]
-    },
-    {
       "name": "BIZON",
       "year": "2025",
       "release_date": "2025-01-08",
@@ -1050,6 +1037,19 @@
           "number": 1,
           "name": "BIZON",
           "duration": "3:10"
+        }
+      ]
+    },
+    {
+      "name": "Hall 26",
+      "year": "2022",
+      "release_date": "2022-08-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/59/2a/28/592a285c-0df4-412a-21a2-cbdc79a2ceff/5400863094386_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Hall 26",
+          "duration": "2:51"
         }
       ]
     },

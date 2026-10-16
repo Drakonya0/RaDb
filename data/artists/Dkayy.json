@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Treinamento De Força 2.0",
-      "year": "2024",
-      "release_date": "2024-04-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/33/70/6a3370e2-a628-c72d-e64a-10443691b92d/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Treinamento De Força 2.0",
-          "duration": "2:00"
-        }
-      ]
-    },
-    {
       "name": "BURNOUT",
       "year": "2025",
       "release_date": "2025-05-02",
@@ -36,6 +23,19 @@
           "number": 3,
           "name": "BURNOUT (Super Slowed)",
           "duration": "2:19"
+        }
+      ]
+    },
+    {
+      "name": "Treinamento De Força 2.0",
+      "year": "2024",
+      "release_date": "2024-04-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/33/70/6a3370e2-a628-c72d-e64a-10443691b92d/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Treinamento De Força 2.0",
+          "duration": "2:00"
         }
       ]
     },
@@ -552,34 +552,6 @@
       ]
     },
     {
-      "name": "HOME",
-      "year": "2025",
-      "release_date": "2025-02-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/e6/13/36e613c7-c14d-1a76-d179-ee980b39813a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HOME",
-          "duration": "2:03"
-        },
-        {
-          "number": 2,
-          "name": "HOME (SLOWED)",
-          "duration": "2:18"
-        },
-        {
-          "number": 3,
-          "name": "HOME (SUPER SLOWED)",
-          "duration": "2:27"
-        },
-        {
-          "number": 4,
-          "name": "HOME (SPED UP)",
-          "duration": "1:56"
-        }
-      ]
-    },
-    {
       "name": "PAQUI PAQUI",
       "year": "2026",
       "release_date": "2026-09-18",
@@ -613,6 +585,34 @@
       ]
     },
     {
+      "name": "HOME",
+      "year": "2025",
+      "release_date": "2025-02-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/e6/13/36e613c7-c14d-1a76-d179-ee980b39813a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HOME",
+          "duration": "2:03"
+        },
+        {
+          "number": 2,
+          "name": "HOME (SLOWED)",
+          "duration": "2:18"
+        },
+        {
+          "number": 3,
+          "name": "HOME (SUPER SLOWED)",
+          "duration": "2:27"
+        },
+        {
+          "number": 4,
+          "name": "HOME (SPED UP)",
+          "duration": "1:56"
+        }
+      ]
+    },
+    {
       "name": "SLANDER",
       "year": "2025",
       "release_date": "2025-11-14",
@@ -637,34 +637,6 @@
           "number": 4,
           "name": "SLANDER (SUPER SLOWED)",
           "duration": "2:21"
-        }
-      ]
-    },
-    {
-      "name": "MONTAGEM TROVÃO CORE",
-      "year": "2025",
-      "release_date": "2025-01-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/1f/a7/5e1fa763-070a-daf2-5637-e58d426ba85f/3785180.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM TROVÃO CORE",
-          "duration": "1:32"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM TROVÃO CORE (Slowed)",
-          "duration": "1:49"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM TROVÃO CORE (Ultra Slowed)",
-          "duration": "2:03"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM TROVÃO CORE (Speed Up)",
-          "duration": "1:27"
         }
       ]
     },
@@ -697,6 +669,34 @@
       ]
     },
     {
+      "name": "MONTAGEM TROVÃO CORE",
+      "year": "2025",
+      "release_date": "2025-01-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/1f/a7/5e1fa763-070a-daf2-5637-e58d426ba85f/3785180.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM TROVÃO CORE",
+          "duration": "1:32"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM TROVÃO CORE (Slowed)",
+          "duration": "1:49"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM TROVÃO CORE (Ultra Slowed)",
+          "duration": "2:03"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM TROVÃO CORE (Speed Up)",
+          "duration": "1:27"
+        }
+      ]
+    },
+    {
       "name": "ESSA FAVELA",
       "year": "2025",
       "release_date": "2025-06-13",
@@ -721,6 +721,34 @@
           "number": 4,
           "name": "ESSA FAVELA (Sped Up)",
           "duration": "1:11"
+        }
+      ]
+    },
+    {
+      "name": "SENTAR?",
+      "year": "2025",
+      "release_date": "2025-02-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/c6/3e/a4c63ed3-3c40-5d3c-ad5c-8e06ab36c8c2/5424.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SENTAR?",
+          "duration": "1:15"
+        },
+        {
+          "number": 2,
+          "name": "SENTAR? (Slowed)",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "SENTAR? (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "SENTAR? (Sped Up)",
+          "duration": "1:07"
         }
       ]
     },
@@ -754,34 +782,6 @@
           "number": 5,
           "name": "FAREWELL (Ultra Slowed)",
           "duration": "3:37"
-        }
-      ]
-    },
-    {
-      "name": "SENTAR?",
-      "year": "2025",
-      "release_date": "2025-02-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/c6/3e/a4c63ed3-3c40-5d3c-ad5c-8e06ab36c8c2/5424.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SENTAR?",
-          "duration": "1:15"
-        },
-        {
-          "number": 2,
-          "name": "SENTAR? (Slowed)",
-          "duration": "1:24"
-        },
-        {
-          "number": 3,
-          "name": "SENTAR? (Super Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "SENTAR? (Sped Up)",
-          "duration": "1:07"
         }
       ]
     },
@@ -842,34 +842,6 @@
       ]
     },
     {
-      "name": "SENTAR?",
-      "year": "2025",
-      "release_date": "2025-02-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/f8/69/c9f869d8-2b7f-ea73-d7d5-3cc50682a5bf/5424.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SENTAR?",
-          "duration": "1:15"
-        },
-        {
-          "number": 2,
-          "name": "SENTAR? (Slowed)",
-          "duration": "1:24"
-        },
-        {
-          "number": 3,
-          "name": "SENTAR? (Super Slowed)",
-          "duration": "1:34"
-        },
-        {
-          "number": 4,
-          "name": "SENTAR? (Sped Up)",
-          "duration": "1:07"
-        }
-      ]
-    },
-    {
       "name": "RITMO DO PECADO",
       "year": "2025",
       "release_date": "2025-06-30",
@@ -899,6 +871,34 @@
           "number": 5,
           "name": "RITMO DO PECADO (ULTRA SLOWED)",
           "duration": "3:07"
+        }
+      ]
+    },
+    {
+      "name": "SENTAR?",
+      "year": "2025",
+      "release_date": "2025-02-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/f8/69/c9f869d8-2b7f-ea73-d7d5-3cc50682a5bf/5424.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SENTAR?",
+          "duration": "1:15"
+        },
+        {
+          "number": 2,
+          "name": "SENTAR? (Slowed)",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "SENTAR? (Super Slowed)",
+          "duration": "1:34"
+        },
+        {
+          "number": 4,
+          "name": "SENTAR? (Sped Up)",
+          "duration": "1:07"
         }
       ]
     },

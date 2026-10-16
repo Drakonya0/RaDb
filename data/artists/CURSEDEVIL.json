@@ -1281,19 +1281,6 @@
       ]
     },
     {
-      "name": "DON'T STOP (Slowed)",
-      "year": "2022",
-      "release_date": "2022-09-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d9/eb/dd/d9ebddc3-ac0f-d74b-9765-b3bfa239cbd5/197186991601.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DON'T STOP (Slowed)",
-          "duration": "2:29"
-        }
-      ]
-    },
-    {
       "name": "BAILA DANSE FUNK",
       "year": "2024",
       "release_date": "2024-05-24",
@@ -1303,6 +1290,19 @@
           "number": 1,
           "name": "BAILA DANSE FUNK",
           "duration": "2:21"
+        }
+      ]
+    },
+    {
+      "name": "DON'T STOP (Slowed)",
+      "year": "2022",
+      "release_date": "2022-09-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d9/eb/dd/d9ebddc3-ac0f-d74b-9765-b3bfa239cbd5/197186991601.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DON'T STOP (Slowed)",
+          "duration": "2:29"
         }
       ]
     },
@@ -1902,19 +1902,6 @@
       ]
     },
     {
-      "name": "SNOWMARKET",
-      "year": "2023",
-      "release_date": "2023-01-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0c/f3/07/0cf307c1-08eb-349f-34cc-319979e22b9b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SNOWMARKET",
-          "duration": "2:54"
-        }
-      ]
-    },
-    {
       "name": "Hatred",
       "year": "2022",
       "release_date": "2022-04-17",
@@ -1924,6 +1911,19 @@
           "number": 1,
           "name": "Hatred",
           "duration": "1:36"
+        }
+      ]
+    },
+    {
+      "name": "SNOWMARKET",
+      "year": "2023",
+      "release_date": "2023-01-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/0c/f3/07/0cf307c1-08eb-349f-34cc-319979e22b9b/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SNOWMARKET",
+          "duration": "2:54"
         }
       ]
     },
@@ -2211,6 +2211,19 @@
       ]
     },
     {
+      "name": "G6 FUNK (Slowed)",
+      "year": "2024",
+      "release_date": "2024-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/b4/5e/c3b45e9c-7da9-132b-936d-c11c3c96f0aa/198588879832.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "G6 FUNK (Slowed & Reverb)",
+          "duration": "1:55"
+        }
+      ]
+    },
+    {
       "name": "SENTA NO PAU",
       "year": "2024",
       "release_date": "2024-10-25",
@@ -2230,19 +2243,6 @@
           "number": 3,
           "name": "SENTA NO PAU (Ultra Slowed & Reverb)",
           "duration": "2:01"
-        }
-      ]
-    },
-    {
-      "name": "G6 FUNK (Slowed)",
-      "year": "2024",
-      "release_date": "2024-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/b4/5e/c3b45e9c-7da9-132b-936d-c11c3c96f0aa/198588879832.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "G6 FUNK (Slowed & Reverb)",
-          "duration": "1:55"
         }
       ]
     },
@@ -2650,34 +2650,6 @@
       ]
     },
     {
-      "name": "ULTIMO COMBATE",
-      "year": "2024",
-      "release_date": "2024-12-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/16/b7/2916b7e6-242e-9c93-16a6-50e1df211efe/199066191323.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "ULTIMO COMBATE",
-          "duration": "2:11"
-        },
-        {
-          "number": 2,
-          "name": "ULTIMO COMBATE (Sped Up)",
-          "duration": "1:56"
-        },
-        {
-          "number": 3,
-          "name": "ULTIMO COMBATE (Slowed & Reverb)",
-          "duration": "2:36"
-        },
-        {
-          "number": 4,
-          "name": "ULTIMO COMBATE (Ultra Slowed & Reverb)",
-          "duration": "3:05"
-        }
-      ]
-    },
-    {
       "name": "KILL (all ver)",
       "year": "2025",
       "release_date": "2025-05-09",
@@ -2702,6 +2674,34 @@
           "number": 4,
           "name": "KILL (Ultra Slowed)",
           "duration": "1:56"
+        }
+      ]
+    },
+    {
+      "name": "ULTIMO COMBATE",
+      "year": "2024",
+      "release_date": "2024-12-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/16/b7/2916b7e6-242e-9c93-16a6-50e1df211efe/199066191323.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ULTIMO COMBATE",
+          "duration": "2:11"
+        },
+        {
+          "number": 2,
+          "name": "ULTIMO COMBATE (Sped Up)",
+          "duration": "1:56"
+        },
+        {
+          "number": 3,
+          "name": "ULTIMO COMBATE (Slowed & Reverb)",
+          "duration": "2:36"
+        },
+        {
+          "number": 4,
+          "name": "ULTIMO COMBATE (Ultra Slowed & Reverb)",
+          "duration": "3:05"
         }
       ]
     },

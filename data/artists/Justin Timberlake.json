@@ -446,6 +446,29 @@
       ]
     },
     {
+      "name": "Video Triple Play",
+      "year": "2007",
+      "release_date": "2007-09-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/78/44/64/mzi.btelzevi.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SexyBack",
+          "duration": "4:25"
+        },
+        {
+          "number": 2,
+          "name": "Let Me Talk to You / My Love",
+          "duration": "6:10"
+        },
+        {
+          "number": 3,
+          "name": "LoveStoned / I Think She Knows Interlude",
+          "duration": "5:27"
+        }
+      ]
+    },
+    {
       "name": "FutureSex/LoveSounds",
       "year": "2006",
       "release_date": "2006-09-08",
@@ -510,29 +533,6 @@
           "number": 12,
           "name": "(Another Song) All Over Again",
           "duration": "5:45"
-        }
-      ]
-    },
-    {
-      "name": "Video Triple Play",
-      "year": "2007",
-      "release_date": "2007-09-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/78/44/64/mzi.btelzevi.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SexyBack",
-          "duration": "4:25"
-        },
-        {
-          "number": 2,
-          "name": "Let Me Talk to You / My Love",
-          "duration": "6:10"
-        },
-        {
-          "number": 3,
-          "name": "LoveStoned / I Think She Knows Interlude",
-          "duration": "5:27"
         }
       ]
     },
@@ -1216,19 +1216,6 @@
       ]
     },
     {
-      "name": "The Other Side (From \"Trolls World Tour\") [Oliver Heldens Remix]",
-      "year": "2020",
-      "release_date": "2020-04-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9a/df/cd/9adfcd51-93f9-5bdf-2614-dd8dd3d7d6d0/886448389132.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Other Side (From \"Trolls World Tour\") [Oliver Heldens Remix]",
-          "duration": "3:56"
-        }
-      ]
-    },
-    {
       "name": "The Other Side (From \"Trolls World Tour\") [Ovy On the Drums Remix]",
       "year": "2020",
       "release_date": "2020-04-20",
@@ -1238,6 +1225,19 @@
           "number": 1,
           "name": "The Other Side (From \"Trolls World Tour\") [Ovy On the Drums Remix]",
           "duration": "3:17"
+        }
+      ]
+    },
+    {
+      "name": "The Other Side (From \"Trolls World Tour\") [Oliver Heldens Remix]",
+      "year": "2020",
+      "release_date": "2020-04-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9a/df/cd/9adfcd51-93f9-5bdf-2614-dd8dd3d7d6d0/886448389132.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Other Side (From \"Trolls World Tour\") [Oliver Heldens Remix]",
+          "duration": "3:56"
         }
       ]
     },

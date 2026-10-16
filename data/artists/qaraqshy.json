@@ -445,19 +445,6 @@
       ]
     },
     {
-      "name": "RAMPAGE (Slowed)",
-      "year": "2024",
-      "release_date": "2024-05-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/0c/e9/e50ce983-a3ed-ed73-d511-75b4cc8f038b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "RAMPAGE (Slowed)",
-          "duration": "1:41"
-        }
-      ]
-    },
-    {
       "name": "SEQUENCIA DE TOMA",
       "year": "2025",
       "release_date": "2025-12-12",
@@ -477,6 +464,19 @@
           "number": 3,
           "name": "SEQUENCIA DE TOMA (SUPER SLOWED)",
           "duration": "1:55"
+        }
+      ]
+    },
+    {
+      "name": "RAMPAGE (Slowed)",
+      "year": "2024",
+      "release_date": "2024-05-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/0c/e9/e50ce983-a3ed-ed73-d511-75b4cc8f038b/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "RAMPAGE (Slowed)",
+          "duration": "1:41"
         }
       ]
     },
@@ -1691,34 +1691,6 @@
       ]
     },
     {
-      "name": "VAPO ROCA",
-      "year": "2024",
-      "release_date": "2024-10-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/d1/02/f2d102c2-5e90-2ef2-c6a9-d220da007d0f/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "VAPO ROCA",
-          "duration": "1:07"
-        },
-        {
-          "number": 2,
-          "name": "VAPO ROCA (Slowed)",
-          "duration": "1:24"
-        },
-        {
-          "number": 3,
-          "name": "VAPO ROCA (Sped Up)",
-          "duration": "1:02"
-        },
-        {
-          "number": 4,
-          "name": "VAPO ROCA (Super Slowed)",
-          "duration": "1:35"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM BARULHO",
       "year": "2026",
       "release_date": "2026-03-03",
@@ -1743,6 +1715,34 @@
           "number": 4,
           "name": "MONTAGEM BARULHO (Sped Up)",
           "duration": "1:05"
+        }
+      ]
+    },
+    {
+      "name": "VAPO ROCA",
+      "year": "2024",
+      "release_date": "2024-10-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/d1/02/f2d102c2-5e90-2ef2-c6a9-d220da007d0f/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "VAPO ROCA",
+          "duration": "1:07"
+        },
+        {
+          "number": 2,
+          "name": "VAPO ROCA (Slowed)",
+          "duration": "1:24"
+        },
+        {
+          "number": 3,
+          "name": "VAPO ROCA (Sped Up)",
+          "duration": "1:02"
+        },
+        {
+          "number": 4,
+          "name": "VAPO ROCA (Super Slowed)",
+          "duration": "1:35"
         }
       ]
     },
@@ -2252,6 +2252,39 @@
           "number": 4,
           "name": "DAS PIRANHA (Sped Up)",
           "duration": "1:24"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM ALVORADA",
+      "year": "2026",
+      "release_date": "2026-10-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/ea/c7/c2eac794-72da-3c47-5624-87e02833fb72/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM ALVORADA",
+          "duration": "2:16"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM ALVORADA (Slowed)",
+          "duration": "2:02"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM ALVORADA (Super Slowed)",
+          "duration": "2:33"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM ALVORADA (Ultra Slowed)",
+          "duration": "2:55"
+        },
+        {
+          "number": 5,
+          "name": "MONTAGEM ALVORADA (Speed Up)",
+          "duration": "1:51"
         }
       ]
     },
@@ -2907,34 +2940,6 @@
       ]
     },
     {
-      "name": "MONTAGEM PLANTS",
-      "year": "2025",
-      "release_date": "2025-04-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/ef/09/6def098c-5ed4-35e4-7b2e-7c81fe556f82/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM PLANTS",
-          "duration": "1:47"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM PLANTS (Slowed)",
-          "duration": "2:14"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM PLANTS (Sped Up)",
-          "duration": "1:39"
-        },
-        {
-          "number": 4,
-          "name": "MONTAGEM PLANTS (Super Slowed)",
-          "duration": "2:31"
-        }
-      ]
-    },
-    {
       "name": "Z-GALACTICO",
       "year": "2025",
       "release_date": "2025-01-24",
@@ -2959,6 +2964,34 @@
           "number": 4,
           "name": "Z-GALACTICO (SUPER SLOWED)",
           "duration": "1:36"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM PLANTS",
+      "year": "2025",
+      "release_date": "2025-04-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/ef/09/6def098c-5ed4-35e4-7b2e-7c81fe556f82/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM PLANTS",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM PLANTS (Slowed)",
+          "duration": "2:14"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM PLANTS (Sped Up)",
+          "duration": "1:39"
+        },
+        {
+          "number": 4,
+          "name": "MONTAGEM PLANTS (Super Slowed)",
+          "duration": "2:31"
         }
       ]
     },
@@ -3449,6 +3482,34 @@
       ]
     },
     {
+      "name": "R01 (Hardtekk Remix)",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/38/3c/ab383cfd-d0fb-100a-f0dd-a11eca363d1a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "R01 (Hardtekk Remix)",
+          "duration": "1:17"
+        },
+        {
+          "number": 2,
+          "name": "R01 (Slowed, Hardtekk Remix)",
+          "duration": "1:27"
+        },
+        {
+          "number": 3,
+          "name": "R01 (Ultra Slowed, Hardtekk Remix)",
+          "duration": "1:37"
+        },
+        {
+          "number": 4,
+          "name": "R01 (Sped Up, Hardtekk Remix)",
+          "duration": "1:09"
+        }
+      ]
+    },
+    {
       "name": "SENTA NO GAROTO",
       "year": "2025",
       "release_date": "2025-08-15",
@@ -3501,34 +3562,6 @@
           "number": 4,
           "name": "MONTAGEM DESCARGA ELÉTRICA (Sped Up)",
           "duration": "1:07"
-        }
-      ]
-    },
-    {
-      "name": "R01 (Hardtekk Remix)",
-      "year": "2026",
-      "release_date": "2026-07-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/38/3c/ab383cfd-d0fb-100a-f0dd-a11eca363d1a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "R01 (Hardtekk Remix)",
-          "duration": "1:17"
-        },
-        {
-          "number": 2,
-          "name": "R01 (Slowed, Hardtekk Remix)",
-          "duration": "1:27"
-        },
-        {
-          "number": 3,
-          "name": "R01 (Ultra Slowed, Hardtekk Remix)",
-          "duration": "1:37"
-        },
-        {
-          "number": 4,
-          "name": "R01 (Sped Up, Hardtekk Remix)",
-          "duration": "1:09"
         }
       ]
     },

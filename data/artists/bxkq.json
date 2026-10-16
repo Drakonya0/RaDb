@@ -755,19 +755,6 @@
       ]
     },
     {
-      "name": "Another World",
-      "year": "2023",
-      "release_date": "2023-07-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/a9/98/c8a99892-8267-3fa5-516f-ee582b0d5aed/3617224071159.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Another World",
-          "duration": "2:59"
-        }
-      ]
-    },
-    {
       "name": "Nonexistance",
       "year": "2022",
       "release_date": "2022-10-09",
@@ -777,6 +764,19 @@
           "number": 1,
           "name": "Nonexistance",
           "duration": "2:47"
+        }
+      ]
+    },
+    {
+      "name": "Another World",
+      "year": "2023",
+      "release_date": "2023-07-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/a9/98/c8a99892-8267-3fa5-516f-ee582b0d5aed/3617224071159.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Another World",
+          "duration": "2:59"
         }
       ]
     },
@@ -1165,6 +1165,34 @@
       ]
     },
     {
+      "name": "LUZ ROJA (Vocal Version Remix)",
+      "year": "2026",
+      "release_date": "2026-04-03",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/e1/0b/95e10b37-9430-afe2-3ecf-348cc7bb20e5/820200890443.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "LUZ ROJA (Vocal Version Remix)",
+          "duration": "2:02"
+        },
+        {
+          "number": 2,
+          "name": "LUZ ROJA (Vocal Version Remix - Slowed)",
+          "duration": "2:17"
+        },
+        {
+          "number": 3,
+          "name": "LUZ ROJA (Vocal Version Remix - Super Slowed)",
+          "duration": "2:34"
+        },
+        {
+          "number": 4,
+          "name": "LUZ ROJA (Vocal Version Remix - Sped Up)",
+          "duration": "1:48"
+        }
+      ]
+    },
+    {
       "name": "ME LLEVA VOLVER",
       "year": "2026",
       "release_date": "2026-04-17",
@@ -1199,34 +1227,6 @@
           "number": 6,
           "name": "ME LLEVA VOLVER (Sped Up)",
           "duration": "1:51"
-        }
-      ]
-    },
-    {
-      "name": "LUZ ROJA (Vocal Version Remix)",
-      "year": "2026",
-      "release_date": "2026-04-03",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/e1/0b/95e10b37-9430-afe2-3ecf-348cc7bb20e5/820200890443.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "LUZ ROJA (Vocal Version Remix)",
-          "duration": "2:02"
-        },
-        {
-          "number": 2,
-          "name": "LUZ ROJA (Vocal Version Remix - Slowed)",
-          "duration": "2:17"
-        },
-        {
-          "number": 3,
-          "name": "LUZ ROJA (Vocal Version Remix - Super Slowed)",
-          "duration": "2:34"
-        },
-        {
-          "number": 4,
-          "name": "LUZ ROJA (Vocal Version Remix - Sped Up)",
-          "duration": "1:48"
         }
       ]
     },
@@ -2105,6 +2105,39 @@
           "number": 4,
           "name": "Montagem Adventura Mágica (Super Slowed)",
           "duration": "2:20"
+        }
+      ]
+    },
+    {
+      "name": "NO PUEDO PARAR",
+      "year": "2026",
+      "release_date": "2026-10-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/98/24/4698243e-0ae8-bcc3-5118-721a487d06f6/885288864366.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NO PUEDO PARAR",
+          "duration": "2:02"
+        },
+        {
+          "number": 2,
+          "name": "NO PUEDO PARAR (Slowed)",
+          "duration": "2:17"
+        },
+        {
+          "number": 3,
+          "name": "NO PUEDO PARAR (Super Slowed)",
+          "duration": "2:34"
+        },
+        {
+          "number": 4,
+          "name": "NO PUEDO PARAR (Ultra Slowed)",
+          "duration": "2:53"
+        },
+        {
+          "number": 5,
+          "name": "NO PUEDO PARAR (Sped Up)",
+          "duration": "1:55"
         }
       ]
     },

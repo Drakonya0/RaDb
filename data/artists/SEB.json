@@ -141,19 +141,6 @@
   ],
   "singles": [
     {
-      "name": "Taedium",
-      "year": "2020",
-      "release_date": "2020-01-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7b/72/21/7b72214b-b39b-b715-4e43-75dc6f92eb56/3596973782991_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Taedium",
-          "duration": "4:07"
-        }
-      ]
-    },
-    {
       "name": "Flemme",
       "year": "2020",
       "release_date": "2020-07-08",
@@ -167,6 +154,19 @@
       ]
     },
     {
+      "name": "Taedium",
+      "year": "2020",
+      "release_date": "2020-01-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/7b/72/21/7b72214b-b39b-b715-4e43-75dc6f92eb56/3596973782991_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Taedium",
+          "duration": "4:07"
+        }
+      ]
+    },
+    {
       "name": "WAW",
       "year": "2018",
       "release_date": "2018-07-17",
@@ -176,19 +176,6 @@
           "number": 1,
           "name": "WAW",
           "duration": "2:58"
-        }
-      ]
-    },
-    {
-      "name": "Antistress",
-      "year": "2020",
-      "release_date": "2020-03-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c1/74/f0/c174f0f3-9263-a670-0b66-1730b4e55318/3596973803795_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Antistress",
-          "duration": "3:51"
         }
       ]
     },
@@ -215,6 +202,19 @@
           "number": 1,
           "name": "Pas d'idée",
           "duration": "2:28"
+        }
+      ]
+    },
+    {
+      "name": "Antistress",
+      "year": "2020",
+      "release_date": "2020-03-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c1/74/f0/c174f0f3-9263-a670-0b66-1730b4e55318/3596973803795_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Antistress",
+          "duration": "3:51"
         }
       ]
     }

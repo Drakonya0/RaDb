@@ -390,6 +390,19 @@
       ]
     },
     {
+      "name": "Lock N Load",
+      "year": "2022",
+      "release_date": "2022-11-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/f3/fc/1bf3fc6c-515d-622f-fc59-f95d4df43007/52bd7d79-0251-467c-9b7e-c2bccca2431c.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lock N Load",
+          "duration": "2:20"
+        }
+      ]
+    },
+    {
       "name": "Plus Vibe",
       "year": "2024",
       "release_date": "2024-01-11",
@@ -409,19 +422,6 @@
           "number": 3,
           "name": "PLUS VIBE (Sped Up)",
           "duration": "1:30"
-        }
-      ]
-    },
-    {
-      "name": "Lock N Load",
-      "year": "2022",
-      "release_date": "2022-11-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/f3/fc/1bf3fc6c-515d-622f-fc59-f95d4df43007/52bd7d79-0251-467c-9b7e-c2bccca2431c.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lock N Load",
-          "duration": "2:20"
         }
       ]
     },
@@ -1485,34 +1485,6 @@
       ]
     },
     {
-      "name": "JUMP FUNK",
-      "year": "2025",
-      "release_date": "2025-02-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/e2/2c/bce22c57-ee09-cf7d-bb50-bc7c174ae2eb/199066748169.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "JUMP FUNK",
-          "duration": "1:57"
-        },
-        {
-          "number": 2,
-          "name": "JUMP FUNK (SLOWED)",
-          "duration": "2:12"
-        },
-        {
-          "number": 3,
-          "name": "JUMP FUNK (SPED UP)",
-          "duration": "1:45"
-        },
-        {
-          "number": 4,
-          "name": "JUMP FUNK (SUPER SLOWED)",
-          "duration": "2:28"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM VERÃO",
       "year": "2025",
       "release_date": "2025-04-11",
@@ -1542,6 +1514,34 @@
           "number": 5,
           "name": "MONTAGEM VERÃO (Ultra Slowed)",
           "duration": "2:40"
+        }
+      ]
+    },
+    {
+      "name": "JUMP FUNK",
+      "year": "2025",
+      "release_date": "2025-02-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/e2/2c/bce22c57-ee09-cf7d-bb50-bc7c174ae2eb/199066748169.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "JUMP FUNK",
+          "duration": "1:57"
+        },
+        {
+          "number": 2,
+          "name": "JUMP FUNK (SLOWED)",
+          "duration": "2:12"
+        },
+        {
+          "number": 3,
+          "name": "JUMP FUNK (SPED UP)",
+          "duration": "1:45"
+        },
+        {
+          "number": 4,
+          "name": "JUMP FUNK (SUPER SLOWED)",
+          "duration": "2:28"
         }
       ]
     },
@@ -1607,39 +1607,6 @@
       ]
     },
     {
-      "name": "FUZILADA",
-      "year": "2025",
-      "release_date": "2025-08-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/92/2c/73922c01-1f48-ea51-85f3-c0952dc125c0/199538387919.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FUZILADA",
-          "duration": "1:34"
-        },
-        {
-          "number": 2,
-          "name": "FUZILADA (SLOWED)",
-          "duration": "1:46"
-        },
-        {
-          "number": 3,
-          "name": "FUZILADA (SUPER SLOWED)",
-          "duration": "1:59"
-        },
-        {
-          "number": 4,
-          "name": "FUZILADA (ULTRA SLOWED)",
-          "duration": "2:14"
-        },
-        {
-          "number": 5,
-          "name": "FUZILADA (SPED UP)",
-          "duration": "1:24"
-        }
-      ]
-    },
-    {
       "name": "MONTAGEM ACCORDION",
       "year": "2026",
       "release_date": "2026-04-03",
@@ -1669,6 +1636,39 @@
           "number": 5,
           "name": "MONTAGEM ACCORDION (Sped Up)",
           "duration": "1:41"
+        }
+      ]
+    },
+    {
+      "name": "FUZILADA",
+      "year": "2025",
+      "release_date": "2025-08-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/92/2c/73922c01-1f48-ea51-85f3-c0952dc125c0/199538387919.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FUZILADA",
+          "duration": "1:34"
+        },
+        {
+          "number": 2,
+          "name": "FUZILADA (SLOWED)",
+          "duration": "1:46"
+        },
+        {
+          "number": 3,
+          "name": "FUZILADA (SUPER SLOWED)",
+          "duration": "1:59"
+        },
+        {
+          "number": 4,
+          "name": "FUZILADA (ULTRA SLOWED)",
+          "duration": "2:14"
+        },
+        {
+          "number": 5,
+          "name": "FUZILADA (SPED UP)",
+          "duration": "1:24"
         }
       ]
     },
@@ -1734,6 +1734,34 @@
       ]
     },
     {
+      "name": "OQO",
+      "year": "2025",
+      "release_date": "2025-03-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/0e/f3/ff0ef385-1383-b327-46bd-0031f97f008e/199350041884.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "OQO",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "OQO (SLOWED)",
+          "duration": "1:45"
+        },
+        {
+          "number": 3,
+          "name": "OQO (SPED UP)",
+          "duration": "1:23"
+        },
+        {
+          "number": 4,
+          "name": "OQO (SUPER SLOWED)",
+          "duration": "1:57"
+        }
+      ]
+    },
+    {
       "name": "SUSSURRO",
       "year": "2025",
       "release_date": "2025-11-21",
@@ -1763,34 +1791,6 @@
           "number": 5,
           "name": "SUSSURRO (SPED UP)",
           "duration": "1:34"
-        }
-      ]
-    },
-    {
-      "name": "OQO",
-      "year": "2025",
-      "release_date": "2025-03-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/0e/f3/ff0ef385-1383-b327-46bd-0031f97f008e/199350041884.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "OQO",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "OQO (SLOWED)",
-          "duration": "1:45"
-        },
-        {
-          "number": 3,
-          "name": "OQO (SPED UP)",
-          "duration": "1:23"
-        },
-        {
-          "number": 4,
-          "name": "OQO (SUPER SLOWED)",
-          "duration": "1:57"
         }
       ]
     },

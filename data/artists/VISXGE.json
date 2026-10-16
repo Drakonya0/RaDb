@@ -316,19 +316,6 @@
       ]
     },
     {
-      "name": "World Ender",
-      "year": "2022",
-      "release_date": "2022-06-04",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/16/a0/49/16a049e6-dd4d-cd20-a4cf-40ca15ba20b9/2_001_CURSEDEVIL_VISXGE_-_WORLD_ENDER.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "World Ender",
-          "duration": "1:53"
-        }
-      ]
-    },
-    {
       "name": "Hauntology",
       "year": "2023",
       "release_date": "2023-11-24",
@@ -338,6 +325,19 @@
           "number": 1,
           "name": "Hauntology",
           "duration": "2:45"
+        }
+      ]
+    },
+    {
+      "name": "World Ender",
+      "year": "2022",
+      "release_date": "2022-06-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/16/a0/49/16a049e6-dd4d-cd20-a4cf-40ca15ba20b9/2_001_CURSEDEVIL_VISXGE_-_WORLD_ENDER.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "World Ender",
+          "duration": "1:53"
         }
       ]
     },
@@ -900,19 +900,6 @@
       ]
     },
     {
-      "name": "AKOTUI KUMO (feat. VISXGE)",
-      "year": "2022",
-      "release_date": "2022-03-18",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/45/50/79/4550797e-e2e4-99a0-5da2-cdb94bcedecd/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "AKOTUI KUMO (feat. VISXGE)",
-          "duration": "3:00"
-        }
-      ]
-    },
-    {
       "name": "Moonrise",
       "year": "2022",
       "release_date": "2022-04-14",
@@ -922,6 +909,19 @@
           "number": 1,
           "name": "Moonrise",
           "duration": "2:26"
+        }
+      ]
+    },
+    {
+      "name": "AKOTUI KUMO (feat. VISXGE)",
+      "year": "2022",
+      "release_date": "2022-03-18",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/45/50/79/4550797e-e2e4-99a0-5da2-cdb94bcedecd/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "AKOTUI KUMO (feat. VISXGE)",
+          "duration": "3:00"
         }
       ]
     },
@@ -1292,6 +1292,34 @@
           "number": 4,
           "name": "VEI SENTA (SUPER SLOWED)",
           "duration": "1:27"
+        }
+      ]
+    },
+    {
+      "name": "ELEUTHERIA",
+      "year": "2026",
+      "release_date": "2026-10-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/18/cf/5118cf22-c995-35e2-a7c6-d34a727d8eff/612891289671.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "ELEUTHERIA",
+          "duration": "1:39"
+        },
+        {
+          "number": 2,
+          "name": "ELEUTHERIA (Slowed)",
+          "duration": "1:51"
+        },
+        {
+          "number": 3,
+          "name": "ELEUTHERIA (Super Slowed)",
+          "duration": "2:05"
+        },
+        {
+          "number": 4,
+          "name": "ELEUTHERIA (Sped up)",
+          "duration": "1:32"
         }
       ]
     },

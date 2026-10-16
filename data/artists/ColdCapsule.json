@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Bad Symbols",
-      "year": "2025",
-      "release_date": "2025-09-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/e2/94/55e2942e-a783-16c7-d936-483ae7f46f5b/3667007184361_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bad Symbols",
-          "duration": "3:15"
-        }
-      ]
-    },
-    {
       "name": "The Viewer",
       "year": "2023",
       "release_date": "2023-12-15",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "The Viewer",
           "duration": "4:13"
+        }
+      ]
+    },
+    {
+      "name": "Bad Symbols",
+      "year": "2025",
+      "release_date": "2025-09-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/e2/94/55e2942e-a783-16c7-d936-483ae7f46f5b/3667007184361_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bad Symbols",
+          "duration": "3:15"
         }
       ]
     },

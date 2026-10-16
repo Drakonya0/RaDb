@@ -1665,6 +1665,13 @@
       ]
     },
     {
+      "name": "Far Away",
+      "year": "2022",
+      "release_date": "2022-11-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/61/30/5c/61305cae-9cad-4873-9781-80a9b01065a7/cover.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
       "name": "Корабли",
       "year": "2021",
       "release_date": "2021-06-04",
@@ -1676,13 +1683,6 @@
           "duration": "3:25"
         }
       ]
-    },
-    {
-      "name": "Far Away",
-      "year": "2022",
-      "release_date": "2022-11-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/61/30/5c/61305cae-9cad-4873-9781-80a9b01065a7/cover.jpg/600x600bb.jpg",
-      "tracks": []
     },
     {
       "name": "Reload My Heart",
@@ -2544,19 +2544,6 @@
       "tracks": []
     },
     {
-      "name": "Celestial",
-      "year": "2021",
-      "release_date": "2021-11-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/8b/25/628b25a0-4fdc-4132-5845-044658a55630/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Celestial",
-          "duration": "3:12"
-        }
-      ]
-    },
-    {
       "name": "Good Times",
       "year": "2021",
       "release_date": "2021-03-03",
@@ -2566,6 +2553,19 @@
           "number": 1,
           "name": "Good Times",
           "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Celestial",
+      "year": "2021",
+      "release_date": "2021-11-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/62/8b/25/628b25a0-4fdc-4132-5845-044658a55630/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Celestial",
+          "duration": "3:12"
         }
       ]
     }
@@ -2733,34 +2733,6 @@
       ]
     },
     {
-      "name": "Where I Won't Be Found",
-      "year": "2018",
-      "release_date": "2018-10-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7e/be/75/7ebe75eb-f3d7-04b0-8bd2-17b92ba6caca/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Immersion (Intro)",
-          "duration": "1:24"
-        },
-        {
-          "number": 2,
-          "name": "Road To Truth (feat. SquaereCat)",
-          "duration": "4:01"
-        },
-        {
-          "number": 3,
-          "name": "Out Of Time",
-          "duration": "4:17"
-        },
-        {
-          "number": 4,
-          "name": "Where My Fire Glows",
-          "duration": "3:41"
-        }
-      ]
-    },
-    {
       "name": "Stay",
       "year": "2022",
       "release_date": "2022-08-19",
@@ -2785,6 +2757,34 @@
           "number": 4,
           "name": "Next Step",
           "duration": "2:43"
+        }
+      ]
+    },
+    {
+      "name": "Where I Won't Be Found",
+      "year": "2018",
+      "release_date": "2018-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/7e/be/75/7ebe75eb-f3d7-04b0-8bd2-17b92ba6caca/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Immersion (Intro)",
+          "duration": "1:24"
+        },
+        {
+          "number": 2,
+          "name": "Road To Truth (feat. SquaereCat)",
+          "duration": "4:01"
+        },
+        {
+          "number": 3,
+          "name": "Out Of Time",
+          "duration": "4:17"
+        },
+        {
+          "number": 4,
+          "name": "Where My Fire Glows",
+          "duration": "3:41"
         }
       ]
     },

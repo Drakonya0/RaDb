@@ -219,13 +219,6 @@
       ]
     },
     {
-      "name": "Ailleurs",
-      "year": "2020",
-      "release_date": "2020-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/47/a7/e347a798-d67a-21c6-9bff-2bb8c9f2557e/cover.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "Comment te remplacer",
       "year": "2024",
       "release_date": "2024-12-06",
@@ -237,6 +230,13 @@
           "duration": "2:35"
         }
       ]
+    },
+    {
+      "name": "Ailleurs",
+      "year": "2020",
+      "release_date": "2020-01-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/47/a7/e347a798-d67a-21c6-9bff-2bb8c9f2557e/cover.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Valhalla",
@@ -304,19 +304,6 @@
       ]
     },
     {
-      "name": "0 questions",
-      "year": "2022",
-      "release_date": "2022-03-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a4/c2/45/a4c24559-a48a-e2b7-aba2-13e001791a60/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "0 questions",
-          "duration": "2:13"
-        }
-      ]
-    },
-    {
       "name": "Very Back Kick #1 (feat. Arabian Shima, Monotof, Abdel-K, Carbonne & Demi Portion)",
       "year": "2020",
       "release_date": "2020-06-08",
@@ -326,6 +313,19 @@
           "number": 1,
           "name": "Very Back Kick #1 (feat. Arabian Shima, Monotof, Abdel-K, Carbonne & Demi Portion)",
           "duration": "3:36"
+        }
+      ]
+    },
+    {
+      "name": "0 questions",
+      "year": "2022",
+      "release_date": "2022-03-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a4/c2/45/a4c24559-a48a-e2b7-aba2-13e001791a60/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "0 questions",
+          "duration": "2:13"
         }
       ]
     }

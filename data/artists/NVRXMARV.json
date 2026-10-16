@@ -289,19 +289,6 @@
       ]
     },
     {
-      "name": "I Dont Wanna Die",
-      "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/88/0b/89880b15-048c-3411-2e09-d23718b3c62d/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "I Dont Wanna Die",
-          "duration": "1:15"
-        }
-      ]
-    },
-    {
       "name": "k0shmar.wav",
       "year": "2025",
       "release_date": "2025-03-14",
@@ -316,6 +303,19 @@
           "number": 2,
           "name": "k0shmar.wav (slowed)",
           "duration": "2:59"
+        }
+      ]
+    },
+    {
+      "name": "I Dont Wanna Die",
+      "year": "2026",
+      "release_date": "2026-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/88/0b/89880b15-048c-3411-2e09-d23718b3c62d/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I Dont Wanna Die",
+          "duration": "1:15"
         }
       ]
     },
@@ -1071,34 +1071,6 @@
       ]
     },
     {
-      "name": "KNIGHT 2",
-      "year": "2025",
-      "release_date": "2025-01-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/e3/2e/3fe32ef7-7675-be6c-cc78-a2deffd7ca3c/1963622775369_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "KNIGHT 2",
-          "duration": "2:26"
-        },
-        {
-          "number": 2,
-          "name": "KNIGHT 2 (slowed)",
-          "duration": "2:37"
-        },
-        {
-          "number": 3,
-          "name": "KNIGHT 2 (super slowed)",
-          "duration": "2:48"
-        },
-        {
-          "number": 4,
-          "name": "KNIGHT 2 (sped up)",
-          "duration": "2:21"
-        }
-      ]
-    },
-    {
       "name": "X-VOLKSWAGEN",
       "year": "2025",
       "release_date": "2025-04-11",
@@ -1123,6 +1095,34 @@
           "number": 4,
           "name": "X-VOLKSWAGEN (Sped Up)",
           "duration": "1:29"
+        }
+      ]
+    },
+    {
+      "name": "KNIGHT 2",
+      "year": "2025",
+      "release_date": "2025-01-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/e3/2e/3fe32ef7-7675-be6c-cc78-a2deffd7ca3c/1963622775369_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "KNIGHT 2",
+          "duration": "2:26"
+        },
+        {
+          "number": 2,
+          "name": "KNIGHT 2 (slowed)",
+          "duration": "2:37"
+        },
+        {
+          "number": 3,
+          "name": "KNIGHT 2 (super slowed)",
+          "duration": "2:48"
+        },
+        {
+          "number": 4,
+          "name": "KNIGHT 2 (sped up)",
+          "duration": "2:21"
         }
       ]
     },

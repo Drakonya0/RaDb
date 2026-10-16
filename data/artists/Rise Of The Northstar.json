@@ -139,6 +139,64 @@
       ]
     },
     {
+      "name": "Showdown",
+      "year": "2023",
+      "release_date": "2023-04-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/fa/f7/adfaf773-ba18-8051-72de-8bb3f1a997e2/5054197457791.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Anthem",
+          "duration": "1:00"
+        },
+        {
+          "number": 2,
+          "name": "Showdown",
+          "duration": "4:11"
+        },
+        {
+          "number": 3,
+          "name": "Third Strike",
+          "duration": "3:40"
+        },
+        {
+          "number": 4,
+          "name": "Crank It Up",
+          "duration": "3:38"
+        },
+        {
+          "number": 5,
+          "name": "One Love",
+          "duration": "3:23"
+        },
+        {
+          "number": 6,
+          "name": "Shogun No Shi",
+          "duration": "3:26"
+        },
+        {
+          "number": 7,
+          "name": "Clan",
+          "duration": "5:05"
+        },
+        {
+          "number": 8,
+          "name": "Raijin",
+          "duration": "3:18"
+        },
+        {
+          "number": 9,
+          "name": "Golden Arrow",
+          "duration": "3:52"
+        },
+        {
+          "number": 10,
+          "name": "Rise (ライズ)",
+          "duration": "4:00"
+        }
+      ]
+    },
+    {
       "name": "Welcame",
       "year": "2014",
       "release_date": "2014-11-21",
@@ -202,64 +260,6 @@
       ]
     },
     {
-      "name": "Showdown",
-      "year": "2023",
-      "release_date": "2023-04-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/fa/f7/adfaf773-ba18-8051-72de-8bb3f1a997e2/5054197457791.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "The Anthem",
-          "duration": "1:00"
-        },
-        {
-          "number": 2,
-          "name": "Showdown",
-          "duration": "4:11"
-        },
-        {
-          "number": 3,
-          "name": "Third Strike",
-          "duration": "3:40"
-        },
-        {
-          "number": 4,
-          "name": "Crank It Up",
-          "duration": "3:38"
-        },
-        {
-          "number": 5,
-          "name": "One Love",
-          "duration": "3:23"
-        },
-        {
-          "number": 6,
-          "name": "Shogun No Shi",
-          "duration": "3:26"
-        },
-        {
-          "number": 7,
-          "name": "Clan",
-          "duration": "5:05"
-        },
-        {
-          "number": 8,
-          "name": "Raijin",
-          "duration": "3:18"
-        },
-        {
-          "number": 9,
-          "name": "Golden Arrow",
-          "duration": "3:52"
-        },
-        {
-          "number": 10,
-          "name": "Rise (ライズ)",
-          "duration": "4:00"
-        }
-      ]
-    },
-    {
       "name": "Live in Paris",
       "year": "2020",
       "release_date": "2020-06-19",
@@ -305,19 +305,6 @@
   ],
   "singles": [
     {
-      "name": "Falcon",
-      "year": "2025",
-      "release_date": "2025-10-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/48/66/7948663f-0a9b-b171-b34c-e5bff46daf28/199538946796.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Falcon",
-          "duration": "3:47"
-        }
-      ]
-    },
-    {
       "name": "Back 2 Basics (feat. LANDMVRKS)",
       "year": "2025",
       "release_date": "2025-06-27",
@@ -327,6 +314,19 @@
           "number": 1,
           "name": "Back 2 Basics (feat. LANDMVRKS)",
           "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "name": "Nerv(e)",
+      "year": "2026",
+      "release_date": "2026-09-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/03/ee/5203eea9-ec9d-002e-2367-9d1cfb4e42f2/885288092011.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Nerv(e)",
+          "duration": "2:39"
         }
       ]
     },
@@ -344,15 +344,15 @@
       ]
     },
     {
-      "name": "Nerv(e)",
-      "year": "2026",
-      "release_date": "2026-09-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/03/ee/5203eea9-ec9d-002e-2367-9d1cfb4e42f2/885288092011.jpg/600x600bb.jpg",
+      "name": "Falcon",
+      "year": "2025",
+      "release_date": "2025-10-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/48/66/7948663f-0a9b-b171-b34c-e5bff46daf28/199538946796.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Nerv(e)",
-          "duration": "2:39"
+          "name": "Falcon",
+          "duration": "3:47"
         }
       ]
     },

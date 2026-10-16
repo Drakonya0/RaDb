@@ -295,99 +295,6 @@
       ]
     },
     {
-      "name": "Ghosts",
-      "year": "2022",
-      "release_date": "2022-08-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e2/50/d1/e250d1a8-a313-0b77-e7aa-1a89daec87ec/ebfd5b90-4432-4fae-823b-0a3eb5e74365.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ghosts",
-          "duration": "2:01"
-        },
-        {
-          "number": 2,
-          "name": "Miami",
-          "duration": "2:29"
-        },
-        {
-          "number": 3,
-          "name": "Scars",
-          "duration": "3:24"
-        },
-        {
-          "number": 4,
-          "name": "Drowning",
-          "duration": "2:40"
-        },
-        {
-          "number": 5,
-          "name": "Till the End",
-          "duration": "2:46"
-        },
-        {
-          "number": 6,
-          "name": "Bad Dreams",
-          "duration": "2:21"
-        },
-        {
-          "number": 7,
-          "name": "Lies",
-          "duration": "2:55"
-        },
-        {
-          "number": 8,
-          "name": "Bully",
-          "duration": "2:24"
-        },
-        {
-          "number": 9,
-          "name": "Ghost Town",
-          "duration": "2:33"
-        },
-        {
-          "number": 10,
-          "name": "Hollow",
-          "duration": "3:00"
-        },
-        {
-          "number": 11,
-          "name": "The Last of Us",
-          "duration": "2:39"
-        },
-        {
-          "number": 12,
-          "name": "Leave Me Alone (feat. Liv)",
-          "duration": "2:58"
-        },
-        {
-          "number": 13,
-          "name": "Dark Knight",
-          "duration": "2:41"
-        },
-        {
-          "number": 14,
-          "name": "Die For You",
-          "duration": "2:15"
-        },
-        {
-          "number": 15,
-          "name": "Bad Santa",
-          "duration": "2:54"
-        },
-        {
-          "number": 16,
-          "name": "Lost (feat. Liv)",
-          "duration": "3:02"
-        },
-        {
-          "number": 17,
-          "name": "When I'm Gone",
-          "duration": "1:22"
-        }
-      ]
-    },
-    {
       "name": "Rainy Days",
       "year": "2024",
       "release_date": "2024-09-20",
@@ -502,6 +409,99 @@
           "number": 22,
           "name": "Apocalypse",
           "duration": "2:11"
+        }
+      ]
+    },
+    {
+      "name": "Ghosts",
+      "year": "2022",
+      "release_date": "2022-08-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e2/50/d1/e250d1a8-a313-0b77-e7aa-1a89daec87ec/ebfd5b90-4432-4fae-823b-0a3eb5e74365.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ghosts",
+          "duration": "2:01"
+        },
+        {
+          "number": 2,
+          "name": "Miami",
+          "duration": "2:29"
+        },
+        {
+          "number": 3,
+          "name": "Scars",
+          "duration": "3:24"
+        },
+        {
+          "number": 4,
+          "name": "Drowning",
+          "duration": "2:40"
+        },
+        {
+          "number": 5,
+          "name": "Till the End",
+          "duration": "2:46"
+        },
+        {
+          "number": 6,
+          "name": "Bad Dreams",
+          "duration": "2:21"
+        },
+        {
+          "number": 7,
+          "name": "Lies",
+          "duration": "2:55"
+        },
+        {
+          "number": 8,
+          "name": "Bully",
+          "duration": "2:24"
+        },
+        {
+          "number": 9,
+          "name": "Ghost Town",
+          "duration": "2:33"
+        },
+        {
+          "number": 10,
+          "name": "Hollow",
+          "duration": "3:00"
+        },
+        {
+          "number": 11,
+          "name": "The Last of Us",
+          "duration": "2:39"
+        },
+        {
+          "number": 12,
+          "name": "Leave Me Alone (feat. Liv)",
+          "duration": "2:58"
+        },
+        {
+          "number": 13,
+          "name": "Dark Knight",
+          "duration": "2:41"
+        },
+        {
+          "number": 14,
+          "name": "Die For You",
+          "duration": "2:15"
+        },
+        {
+          "number": 15,
+          "name": "Bad Santa",
+          "duration": "2:54"
+        },
+        {
+          "number": 16,
+          "name": "Lost (feat. Liv)",
+          "duration": "3:02"
+        },
+        {
+          "number": 17,
+          "name": "When I'm Gone",
+          "duration": "1:22"
         }
       ]
     },
@@ -814,19 +814,6 @@
       ]
     },
     {
-      "name": "Lights Out",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/de/24/0dde2414-3837-a88b-ae76-d3d328af4b70/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lights Out",
-          "duration": "3:04"
-        }
-      ]
-    },
-    {
       "name": "Rich Men North of Richmond (Remix)",
       "year": "2023",
       "release_date": "2023-09-22",
@@ -836,6 +823,19 @@
           "number": 1,
           "name": "Rich Men North of Richmond (Remix)",
           "duration": "2:41"
+        }
+      ]
+    },
+    {
+      "name": "Lights Out",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0d/de/24/0dde2414-3837-a88b-ae76-d3d328af4b70/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lights Out",
+          "duration": "3:04"
         }
       ]
     },
@@ -1045,19 +1045,6 @@
       ]
     },
     {
-      "name": "Iceman",
-      "year": "2026",
-      "release_date": "2026-09-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/2e/04/092e04d9-cf64-f481-5f1c-790807b6d3b5/859743470379_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Iceman",
-          "duration": "1:55"
-        }
-      ]
-    },
-    {
       "name": "Mayhem",
       "year": "2023",
       "release_date": "2023-08-04",
@@ -1132,19 +1119,6 @@
           "number": 1,
           "name": "Scars",
           "duration": "3:24"
-        }
-      ]
-    },
-    {
-      "name": "Let 'Em Talk",
-      "year": "2021",
-      "release_date": "2021-04-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/aa/c9/75aac9db-47a3-c870-43e6-836a4d26e6a5/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Let 'Em Talk",
-          "duration": "3:45"
         }
       ]
     },
@@ -1292,32 +1266,6 @@
       ]
     },
     {
-      "name": "King Kong",
-      "year": "2026",
-      "release_date": "2026-07-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/7a/be/f17abe39-7585-f095-ada6-43b391c86c37/859741619817_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "King Kong",
-          "duration": "2:35"
-        }
-      ]
-    },
-    {
-      "name": "Supernova",
-      "year": "2026",
-      "release_date": "2026-06-05",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/91/bd/b191bd3b-404a-a48d-218f-48c846843a50/823375169420_Cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Supernova",
-          "duration": "3:06"
-        }
-      ]
-    },
-    {
       "name": "TITANIC",
       "year": "2025",
       "release_date": "2025-12-05",
@@ -1354,15 +1302,28 @@
       ]
     },
     {
-      "name": "Oh My God!",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/e9/bb/aee9bb3c-6f7a-0c85-768c-206e593609a1/859741620035_cover.jpg/600x600bb.jpg",
+      "name": "Let 'Em Talk",
+      "year": "2021",
+      "release_date": "2021-04-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/75/aa/c9/75aac9db-47a3-c870-43e6-836a4d26e6a5/artwork.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Oh My God!",
-          "duration": "2:15"
+          "name": "Let 'Em Talk",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "name": "Iceman",
+      "year": "2026",
+      "release_date": "2026-09-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/2e/04/092e04d9-cf64-f481-5f1c-790807b6d3b5/859743470379_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Iceman",
+          "duration": "1:55"
         }
       ]
     },
@@ -1467,6 +1428,32 @@
           "number": 1,
           "name": "The Little Things (feat. Gawne)",
           "duration": "3:47"
+        }
+      ]
+    },
+    {
+      "name": "King Kong",
+      "year": "2026",
+      "release_date": "2026-07-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/7a/be/f17abe39-7585-f095-ada6-43b391c86c37/859741619817_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "King Kong",
+          "duration": "2:35"
+        }
+      ]
+    },
+    {
+      "name": "Supernova",
+      "year": "2026",
+      "release_date": "2026-06-05",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/91/bd/b191bd3b-404a-a48d-218f-48c846843a50/823375169420_Cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Supernova",
+          "duration": "3:06"
         }
       ]
     },
@@ -1649,6 +1636,19 @@
           "number": 1,
           "name": "Bad Dreams",
           "duration": "2:21"
+        }
+      ]
+    },
+    {
+      "name": "Oh My God!",
+      "year": "2026",
+      "release_date": "2026-07-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/e9/bb/aee9bb3c-6f7a-0c85-768c-206e593609a1/859741620035_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Oh My God!",
+          "duration": "2:15"
         }
       ]
     },
@@ -1900,6 +1900,19 @@
       ]
     },
     {
+      "name": "TV OFF",
+      "year": "2026",
+      "release_date": "2026-10-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/56/fc/4156fced-a75b-e30d-3e62-6b4cb230131d/859748214107_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "TV OFF",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
       "name": "Conquer Your Dreams (feat. Gawne)",
       "year": "2022",
       "release_date": "2022-08-28",
@@ -2147,19 +2160,6 @@
       ]
     },
     {
-      "name": "Forgive (feat. Gawne)",
-      "year": "2020",
-      "release_date": "2020-06-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/b6/b1/4db6b13a-002b-280a-37c1-e3af973e70d7/29a42556-9926-4704-a33b-71e675af0905.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Forgive (feat. Gawne)",
-          "duration": "3:12"
-        }
-      ]
-    },
-    {
       "name": "Homicide",
       "year": "2019",
       "release_date": "2019-05-07",
@@ -2169,6 +2169,19 @@
           "number": 1,
           "name": "Homicide",
           "duration": "2:54"
+        }
+      ]
+    },
+    {
+      "name": "Forgive (feat. Gawne)",
+      "year": "2020",
+      "release_date": "2020-06-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/b6/b1/4db6b13a-002b-280a-37c1-e3af973e70d7/29a42556-9926-4704-a33b-71e675af0905.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Forgive (feat. Gawne)",
+          "duration": "3:12"
         }
       ]
     },

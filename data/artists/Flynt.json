@@ -408,32 +408,6 @@
       ]
     },
     {
-      "name": "Mon pote (feat. Orelsan)",
-      "year": "2012",
-      "release_date": "2012-10-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/40/44/eb4044fb-bf47-20fc-e115-ab5ddcf09b6e/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Mon pote (feat. Orelsan)",
-          "duration": "3:31"
-        }
-      ]
-    },
-    {
-      "name": "Ça va bien s'passer (feat. Jeanjass)",
-      "year": "2018",
-      "release_date": "2018-09-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8c/a0/9d/8ca09d25-52d0-b8e9-0d66-ac2e1b08b051/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Ça va bien s'passer (feat. Jeanjass)",
-          "duration": "3:38"
-        }
-      ]
-    },
-    {
       "name": "1 pour la plume",
       "year": "2007",
       "release_date": "2007-06-12",
@@ -447,13 +421,6 @@
       ]
     },
     {
-      "name": "Relativise (feat. Flynt)",
-      "year": "2012",
-      "release_date": "2012-02-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/d0/f0/a3/mzi.tubczmvg.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "ENCORE CHAUD",
       "year": "2025",
       "release_date": "2025-01-30",
@@ -463,37 +430,6 @@
           "number": 1,
           "name": "ENCORE CHAUD",
           "duration": "1:41"
-        }
-      ]
-    },
-    {
-      "name": "OEUVRESDART",
-      "year": "2023",
-      "release_date": "2023-02-23",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/ac/eb/44acebf0-4c20-b02f-4c33-54c32647bc50/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "OEUVRESDART",
-          "duration": "2:56"
-        }
-      ]
-    },
-    {
-      "name": "FLYNT / DON CHOA",
-      "year": "2023",
-      "release_date": "2023-07-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/a0/b6/d6a0b65f-4ac1-7a13-65c4-8acc705ca07a/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "DE BONNE HUMEUR",
-          "duration": "3:03"
-        },
-        {
-          "number": 2,
-          "name": "LA PISCINE",
-          "duration": "2:55"
         }
       ]
     },
@@ -527,9 +463,101 @@
           "duration": "3:28"
         }
       ]
+    },
+    {
+      "name": "Mon pote (feat. Orelsan)",
+      "year": "2012",
+      "release_date": "2012-10-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/eb/40/44/eb4044fb-bf47-20fc-e115-ab5ddcf09b6e/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Mon pote (feat. Orelsan)",
+          "duration": "3:31"
+        }
+      ]
+    },
+    {
+      "name": "Ça va bien s'passer (feat. Jeanjass)",
+      "year": "2018",
+      "release_date": "2018-09-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8c/a0/9d/8ca09d25-52d0-b8e9-0d66-ac2e1b08b051/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Ça va bien s'passer (feat. Jeanjass)",
+          "duration": "3:38"
+        }
+      ]
+    },
+    {
+      "name": "Relativise (feat. Flynt)",
+      "year": "2012",
+      "release_date": "2012-02-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/d0/f0/a3/mzi.tubczmvg.jpg/600x600bb.jpg",
+      "tracks": []
+    },
+    {
+      "name": "OEUVRESDART",
+      "year": "2023",
+      "release_date": "2023-02-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/ac/eb/44acebf0-4c20-b02f-4c33-54c32647bc50/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "OEUVRESDART",
+          "duration": "2:56"
+        }
+      ]
+    },
+    {
+      "name": "FLYNT / DON CHOA",
+      "year": "2023",
+      "release_date": "2023-07-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/a0/b6/d6a0b65f-4ac1-7a13-65c4-8acc705ca07a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DE BONNE HUMEUR",
+          "duration": "3:03"
+        },
+        {
+          "number": 2,
+          "name": "LA PISCINE",
+          "duration": "2:55"
+        }
+      ]
     }
   ],
   "eps": [
+    {
+      "name": "Comme sur un playground",
+      "year": "2013",
+      "release_date": "2013-09-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/ee/37/01/ee3701f5-91b0-d9e6-a26e-f349128ce7fe/3700735803002.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Comme sur un playground",
+          "duration": "3:54"
+        },
+        {
+          "number": 2,
+          "name": "Comme sur un playground (Instrumental)",
+          "duration": "3:53"
+        },
+        {
+          "number": 3,
+          "name": "Comme sur un playground (Acapella)",
+          "duration": "3:36"
+        },
+        {
+          "number": 4,
+          "name": "Compte à rebours (feat. Ekoué)",
+          "duration": "3:31"
+        }
+      ]
+    },
     {
       "name": "Fidèle à son contexte",
       "year": "2013",
@@ -560,34 +588,6 @@
           "number": 5,
           "name": "Choc Frontal (Instrumental)",
           "duration": "3:24"
-        }
-      ]
-    },
-    {
-      "name": "Comme sur un playground",
-      "year": "2013",
-      "release_date": "2013-09-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/ee/37/01/ee3701f5-91b0-d9e6-a26e-f349128ce7fe/3700735803002.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Comme sur un playground",
-          "duration": "3:54"
-        },
-        {
-          "number": 2,
-          "name": "Comme sur un playground (Instrumental)",
-          "duration": "3:53"
-        },
-        {
-          "number": 3,
-          "name": "Comme sur un playground (Acapella)",
-          "duration": "3:36"
-        },
-        {
-          "number": 4,
-          "name": "Compte à rebours (feat. Ekoué)",
-          "duration": "3:31"
         }
       ]
     }

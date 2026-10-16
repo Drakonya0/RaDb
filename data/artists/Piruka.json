@@ -988,19 +988,6 @@
       ]
     },
     {
-      "name": "3 ou 4",
-      "year": "2026",
-      "release_date": "2026-06-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/12/ad/7812ad50-f2d6-5c5f-e195-26e3289058d6/820233826952.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "3 ou 4",
-          "duration": "2:19"
-        }
-      ]
-    },
-    {
       "name": "BANGLA",
       "year": "2026",
       "release_date": "2026-08-06",
@@ -1010,6 +997,19 @@
           "number": 1,
           "name": "BANGLA",
           "duration": "2:07"
+        }
+      ]
+    },
+    {
+      "name": "3 ou 4",
+      "year": "2026",
+      "release_date": "2026-06-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/12/ad/7812ad50-f2d6-5c5f-e195-26e3289058d6/820233826952.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "3 ou 4",
+          "duration": "2:19"
         }
       ]
     },
@@ -1118,11 +1118,17 @@
       ]
     },
     {
-      "name": "Encontrar (feat. Piruka)",
+      "name": "M.O.D (feat. Xakal Da Gun & Piruka )",
       "year": "2022",
-      "release_date": "2022-01-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/e9/d5/dce9d506-62b7-7e5c-b641-a4b48fe759ca/21UM1IM56665.rgb.jpg/600x600bb.jpg",
-      "tracks": []
+      "release_date": "2022-07-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b9/b1/0b/b9b10bc8-2621-6227-5345-0fecd67fa5d4/5054197216299.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "M.O.D (feat. Xakal Da Gun & Piruka )",
+          "duration": "4:10"
+        }
+      ]
     },
     {
       "name": "Bom Peixe (feat. Piruka)",
@@ -1138,17 +1144,11 @@
       ]
     },
     {
-      "name": "M.O.D (feat. Xakal Da Gun & Piruka )",
+      "name": "Encontrar (feat. Piruka)",
       "year": "2022",
-      "release_date": "2022-07-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b9/b1/0b/b9b10bc8-2621-6227-5345-0fecd67fa5d4/5054197216299.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "M.O.D (feat. Xakal Da Gun & Piruka )",
-          "duration": "4:10"
-        }
-      ]
+      "release_date": "2022-01-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dc/e9/d5/dce9d506-62b7-7e5c-b641-a4b48fe759ca/21UM1IM56665.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Teu Mundo",
