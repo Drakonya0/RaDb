@@ -214,24 +214,6 @@
   ],
   "singles": [
     {
-      "name": "Guilt",
-      "year": "2023",
-      "release_date": "2023-11-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9e/d0/b1/9ed0b136-ac82-0238-849e-9789ea1986bf/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Guilt",
-          "duration": "4:57"
-        },
-        {
-          "number": 2,
-          "name": "Kingdom",
-          "duration": "3:49"
-        }
-      ]
-    },
-    {
       "name": "Beast",
       "year": "2025",
       "release_date": "2025-09-26",
@@ -264,6 +246,24 @@
           "number": 1,
           "name": "Bass Face",
           "duration": "3:00"
+        }
+      ]
+    },
+    {
+      "name": "Guilt",
+      "year": "2023",
+      "release_date": "2023-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9e/d0/b1/9ed0b136-ac82-0238-849e-9789ea1986bf/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Guilt",
+          "duration": "4:57"
+        },
+        {
+          "number": 2,
+          "name": "Kingdom",
+          "duration": "3:49"
         }
       ]
     },

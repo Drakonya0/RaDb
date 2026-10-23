@@ -215,19 +215,6 @@
       ]
     },
     {
-      "name": "Feed",
-      "year": "2025",
-      "release_date": "2025-08-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/cc/52/54cc52da-3d56-f8a8-d9c8-8818f04aea1a/3140.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Feed",
-          "duration": "3:35"
-        }
-      ]
-    },
-    {
       "name": "Pickup Truck",
       "year": "2026",
       "release_date": "2026-04-30",
@@ -237,6 +224,19 @@
           "number": 1,
           "name": "Pickup Truck",
           "duration": "2:37"
+        }
+      ]
+    },
+    {
+      "name": "Feed",
+      "year": "2025",
+      "release_date": "2025-08-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/cc/52/54cc52da-3d56-f8a8-d9c8-8818f04aea1a/3140.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Feed",
+          "duration": "3:35"
         }
       ]
     },
@@ -609,6 +609,24 @@
           "number": 1,
           "name": "Here's Your Love Song (feat. Chase Elliot & Mantra Beats)",
           "duration": "3:21"
+        }
+      ]
+    },
+    {
+      "name": "I AM THE ENEMY",
+      "year": "2026",
+      "release_date": "2026-11-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/bc/88/0dbc88c7-ff85-84bb-1275-97ee5dbff184/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "I AM THE ENEMY",
+          "duration": "2:38"
+        },
+        {
+          "number": 2,
+          "name": "Witch Hunt",
+          "duration": "3:58"
         }
       ]
     }

@@ -856,7 +856,43 @@
           "duration": "1:35"
         }
       ]
+    },
+    {
+      "name": "Revenge",
+      "year": "2026",
+      "release_date": "2026-10-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/43/1a/18431a2f-edb7-86fc-9f4e-f3ee28c1e796/5053760161554_cover.jpg/600x600bb.jpg",
+      "tracks": []
     }
   ],
-  "eps": []
+  "eps": [
+    {
+      "name": "Revenge Of Nervous Breakdown",
+      "year": "2026",
+      "release_date": "2026-11-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/34/2e/46342e02-b6c6-0804-9aed-bda59dd4a7d6/5053760161547_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Depression",
+          "duration": "2:49"
+        },
+        {
+          "number": 2,
+          "name": "Fix Me",
+          "duration": "0:59"
+        },
+        {
+          "number": 3,
+          "name": "Revenge",
+          "duration": "0:53"
+        },
+        {
+          "number": 4,
+          "name": "Nervous Breakdown",
+          "duration": "2:00"
+        }
+      ]
+    }
+  ]
 }

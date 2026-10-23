@@ -1497,29 +1497,6 @@
       ]
     },
     {
-      "name": "Warrior",
-      "year": "2022",
-      "release_date": "2022-08-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/79/11/5f/79115ff0-c2e5-b454-cd6d-9839580af485/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Warrior",
-          "duration": "2:08"
-        },
-        {
-          "number": 2,
-          "name": "Warrior (Sped Up)",
-          "duration": "1:54"
-        },
-        {
-          "number": 3,
-          "name": "Warrior (Slowed+Reverb)",
-          "duration": "2:24"
-        }
-      ]
-    },
-    {
       "name": "CELESTIAL",
       "year": "2023",
       "release_date": "2023-08-02",
@@ -1539,6 +1516,29 @@
           "number": 3,
           "name": "CELESTIAL (slowed + reverb)",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Warrior",
+      "year": "2022",
+      "release_date": "2022-08-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/79/11/5f/79115ff0-c2e5-b454-cd6d-9839580af485/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Warrior",
+          "duration": "2:08"
+        },
+        {
+          "number": 2,
+          "name": "Warrior (Sped Up)",
+          "duration": "1:54"
+        },
+        {
+          "number": 3,
+          "name": "Warrior (Slowed+Reverb)",
+          "duration": "2:24"
         }
       ]
     },
@@ -2244,19 +2244,6 @@
       ]
     },
     {
-      "name": "D I E !",
-      "year": "2022",
-      "release_date": "2022-09-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/50/b6/3b50b6d3-a735-486d-ea51-3c247c8ece67/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "D I E !",
-          "duration": "1:09"
-        }
-      ]
-    },
-    {
       "name": "Erebus",
       "year": "2023",
       "release_date": "2023-05-09",
@@ -2266,6 +2253,19 @@
           "number": 1,
           "name": "Erebus",
           "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "name": "D I E !",
+      "year": "2022",
+      "release_date": "2022-09-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/50/b6/3b50b6d3-a735-486d-ea51-3c247c8ece67/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "D I E !",
+          "duration": "1:09"
         }
       ]
     },
@@ -2428,19 +2428,6 @@
       ]
     },
     {
-      "name": "Spawn Kill",
-      "year": "2022",
-      "release_date": "2022-11-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/1c/5c/341c5cb4-f1b3-97a2-c430-5f60ee2dd441/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Spawn Kill",
-          "duration": "2:38"
-        }
-      ]
-    },
-    {
       "name": "SIKE!",
       "year": "2023",
       "release_date": "2023-06-16",
@@ -2450,6 +2437,19 @@
           "number": 1,
           "name": "SIKE!",
           "duration": "2:28"
+        }
+      ]
+    },
+    {
+      "name": "Spawn Kill",
+      "year": "2022",
+      "release_date": "2022-11-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/1c/5c/341c5cb4-f1b3-97a2-c430-5f60ee2dd441/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Spawn Kill",
+          "duration": "2:38"
         }
       ]
     },

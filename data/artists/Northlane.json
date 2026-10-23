@@ -76,6 +76,64 @@
       ]
     },
     {
+      "name": "Anemoia",
+      "year": "2026",
+      "release_date": "2026-10-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/4e/af/654eaf41-7681-f03a-0748-9e6868d4348b/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Pierce The Sky",
+          "duration": "1:19"
+        },
+        {
+          "number": 2,
+          "name": "NEED2FEEL",
+          "duration": "4:09"
+        },
+        {
+          "number": 3,
+          "name": "Crucified",
+          "duration": "4:23"
+        },
+        {
+          "number": 4,
+          "name": "Deathwish",
+          "duration": "4:07"
+        },
+        {
+          "number": 5,
+          "name": "Evian",
+          "duration": "5:02"
+        },
+        {
+          "number": 6,
+          "name": "CUT_it",
+          "duration": "3:14"
+        },
+        {
+          "number": 7,
+          "name": "S∈GA (feat. MANON)",
+          "duration": "3:48"
+        },
+        {
+          "number": 8,
+          "name": "The Otherside",
+          "duration": "4:33"
+        },
+        {
+          "number": 9,
+          "name": "Start Again",
+          "duration": "4:01"
+        },
+        {
+          "number": 10,
+          "name": "Anemoia (feat. Dayseeker)",
+          "duration": "4:13"
+        }
+      ]
+    },
+    {
       "name": "Obsidian - Deluxe Edition",
       "year": "2022",
       "release_date": "2022-11-11",
@@ -210,64 +268,6 @@
           "number": 26,
           "name": "Dark Solitaire (Instrumental)",
           "duration": "4:54"
-        }
-      ]
-    },
-    {
-      "name": "Anemoia",
-      "year": "2026",
-      "release_date": "2026-10-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/4e/af/654eaf41-7681-f03a-0748-9e6868d4348b/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Pierce The Sky",
-          "duration": "1:19"
-        },
-        {
-          "number": 2,
-          "name": "NEED2FEEL",
-          "duration": "4:09"
-        },
-        {
-          "number": 3,
-          "name": "Crucified",
-          "duration": "4:23"
-        },
-        {
-          "number": 4,
-          "name": "Deathwish",
-          "duration": "4:07"
-        },
-        {
-          "number": 5,
-          "name": "Evian",
-          "duration": "5:02"
-        },
-        {
-          "number": 6,
-          "name": "CUT_it",
-          "duration": "3:14"
-        },
-        {
-          "number": 7,
-          "name": "S∈GA (feat. MANON)",
-          "duration": "3:48"
-        },
-        {
-          "number": 8,
-          "name": "The Otherside",
-          "duration": "4:33"
-        },
-        {
-          "number": 9,
-          "name": "Start Again",
-          "duration": "4:01"
-        },
-        {
-          "number": 10,
-          "name": "Anemoia (feat. Dayseeker)",
-          "duration": "4:13"
         }
       ]
     },
@@ -1351,19 +1351,6 @@
       ]
     },
     {
-      "name": "Dante",
-      "year": "2023",
-      "release_date": "2023-11-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/12/81/06/12810657-2e78-75c3-f9a7-6a748b0f4c63/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Dante",
-          "duration": "5:46"
-        }
-      ]
-    },
-    {
       "name": "Evian",
       "year": "2026",
       "release_date": "2026-04-28",
@@ -1373,6 +1360,19 @@
           "number": 1,
           "name": "Evian",
           "duration": "5:02"
+        }
+      ]
+    },
+    {
+      "name": "Dante",
+      "year": "2023",
+      "release_date": "2023-11-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/12/81/06/12810657-2e78-75c3-f9a7-6a748b0f4c63/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Dante",
+          "duration": "5:46"
         }
       ]
     },
@@ -1426,19 +1426,6 @@
       ]
     },
     {
-      "name": "Afterimage (feat. Ian Kenny, Karnivool)",
-      "year": "2024",
-      "release_date": "2024-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/28/c2/f128c2ca-4ba7-764a-b951-a3d0f1c1cbb5/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Afterimage (feat. Ian Kenny, Karnivool)",
-          "duration": "4:14"
-        }
-      ]
-    },
-    {
       "name": "Crucified",
       "year": "2026",
       "release_date": "2026-09-22",
@@ -1448,6 +1435,19 @@
           "number": 1,
           "name": "Crucified",
           "duration": "4:23"
+        }
+      ]
+    },
+    {
+      "name": "Afterimage (feat. Ian Kenny, Karnivool)",
+      "year": "2024",
+      "release_date": "2024-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/28/c2/f128c2ca-4ba7-764a-b951-a3d0f1c1cbb5/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Afterimage (feat. Ian Kenny, Karnivool)",
+          "duration": "4:14"
         }
       ]
     },
@@ -1672,6 +1672,34 @@
           "number": 6,
           "name": "Dante",
           "duration": "5:46"
+        }
+      ]
+    },
+    {
+      "name": "Deathwish",
+      "year": "2026",
+      "release_date": "2026-10-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/e5/d8/9be5d816-4a67-0fbc-4157-a76c4b0b8624/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Deathwish",
+          "duration": "4:07"
+        },
+        {
+          "number": 2,
+          "name": "Crucified",
+          "duration": "4:23"
+        },
+        {
+          "number": 3,
+          "name": "CUT_it",
+          "duration": "3:14"
+        },
+        {
+          "number": 4,
+          "name": "Evian",
+          "duration": "5:02"
         }
       ]
     },

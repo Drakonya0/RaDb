@@ -958,19 +958,6 @@
       "tracks": []
     },
     {
-      "name": "One on One",
-      "year": "2026",
-      "release_date": "2026-05-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/67/20/f367202c-efbe-1030-5bcb-36ac03a3c12f/663918993965.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "One on One",
-          "duration": "3:23"
-        }
-      ]
-    },
-    {
       "name": "Jollof Rice (SAY3 Remix)",
       "year": "2020",
       "release_date": "2020-07-29",
@@ -993,6 +980,19 @@
           "number": 1,
           "name": "Don't Front",
           "duration": "3:15"
+        }
+      ]
+    },
+    {
+      "name": "One on One",
+      "year": "2026",
+      "release_date": "2026-05-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/67/20/f367202c-efbe-1030-5bcb-36ac03a3c12f/663918993965.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "One on One",
+          "duration": "3:23"
         }
       ]
     },
@@ -1224,6 +1224,29 @@
           "number": 1,
           "name": "Not What You Think",
           "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "NUTS, YES!",
+      "year": "2026",
+      "release_date": "2026-10-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/de/59/b2de59af-7d6e-268c-b00b-cab7230c41da/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "NUTS, YES!",
+          "duration": "1:28"
+        },
+        {
+          "number": 2,
+          "name": "NUTS, YES! (Slowed)",
+          "duration": "1:48"
+        },
+        {
+          "number": 3,
+          "name": "NUTS, YES! (Speed Up)",
+          "duration": "1:18"
         }
       ]
     },

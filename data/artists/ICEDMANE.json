@@ -309,29 +309,6 @@
       ]
     },
     {
-      "name": "MONTAGEM DE INTERRUPTOR",
-      "year": "2025",
-      "release_date": "2025-05-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/d3/08/7fd30849-078c-dd89-745f-46998ffbdc69/350281.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "MONTAGEM DE INTERRUPTOR",
-          "duration": "1:47"
-        },
-        {
-          "number": 2,
-          "name": "MONTAGEM DE INTERRUPTOR (SLOWED)",
-          "duration": "2:00"
-        },
-        {
-          "number": 3,
-          "name": "MONTAGEM DE INTERRUPTOR (SUPER SLOWED)",
-          "duration": "2:17"
-        }
-      ]
-    },
-    {
       "name": "Pr Or Er (Hardstyle)",
       "year": "2024",
       "release_date": "2024-04-13",
@@ -351,6 +328,29 @@
           "number": 3,
           "name": "Pr Or Er (Slowed)",
           "duration": "2:01"
+        }
+      ]
+    },
+    {
+      "name": "MONTAGEM DE INTERRUPTOR",
+      "year": "2025",
+      "release_date": "2025-05-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/d3/08/7fd30849-078c-dd89-745f-46998ffbdc69/350281.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MONTAGEM DE INTERRUPTOR",
+          "duration": "1:47"
+        },
+        {
+          "number": 2,
+          "name": "MONTAGEM DE INTERRUPTOR (SLOWED)",
+          "duration": "2:00"
+        },
+        {
+          "number": 3,
+          "name": "MONTAGEM DE INTERRUPTOR (SUPER SLOWED)",
+          "duration": "2:17"
         }
       ]
     },
@@ -1695,6 +1695,34 @@
       ]
     },
     {
+      "name": "SEQUÊNCIA NÃO RESGATA",
+      "year": "2024",
+      "release_date": "2024-10-09",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/46/86/c8468637-2538-08c0-fb47-14a79b2e68e9/279279.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "SEQUÊNCIA NÃO RESGATA",
+          "duration": "1:33"
+        },
+        {
+          "number": 2,
+          "name": "SEQUÊNCIA NÃO RESGATA (Slowed)",
+          "duration": "1:44"
+        },
+        {
+          "number": 3,
+          "name": "SEQUÊNCIA NÃO RESGATA (Sped Up)",
+          "duration": "1:25"
+        },
+        {
+          "number": 4,
+          "name": "SEQUÊNCIA NÃO RESGATA (Super Slowed)",
+          "duration": "1:57"
+        }
+      ]
+    },
+    {
       "name": "FUNK ÓPTICA",
       "year": "2025",
       "release_date": "2025-07-18",
@@ -1724,34 +1752,6 @@
           "number": 5,
           "name": "FUNK ÓPTICA (SPED UP)",
           "duration": "1:41"
-        }
-      ]
-    },
-    {
-      "name": "SEQUÊNCIA NÃO RESGATA",
-      "year": "2024",
-      "release_date": "2024-10-09",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/46/86/c8468637-2538-08c0-fb47-14a79b2e68e9/279279.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "SEQUÊNCIA NÃO RESGATA",
-          "duration": "1:33"
-        },
-        {
-          "number": 2,
-          "name": "SEQUÊNCIA NÃO RESGATA (Slowed)",
-          "duration": "1:44"
-        },
-        {
-          "number": 3,
-          "name": "SEQUÊNCIA NÃO RESGATA (Sped Up)",
-          "duration": "1:25"
-        },
-        {
-          "number": 4,
-          "name": "SEQUÊNCIA NÃO RESGATA (Super Slowed)",
-          "duration": "1:57"
         }
       ]
     },
@@ -3222,39 +3222,6 @@
       ]
     },
     {
-      "name": "AWAKENED",
-      "year": "2025",
-      "release_date": "2025-03-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/b2/32/a9b232f4-cdeb-e0d5-b9e5-23266dbe8748/331017.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "AWAKENED",
-          "duration": "1:05"
-        },
-        {
-          "number": 2,
-          "name": "AWAKENED (SLOWED)",
-          "duration": "1:12"
-        },
-        {
-          "number": 3,
-          "name": "AWAKENED (SUPER SLOWED)",
-          "duration": "1:21"
-        },
-        {
-          "number": 4,
-          "name": "AWAKENED (ULTRA SLOWED)",
-          "duration": "1:33"
-        },
-        {
-          "number": 5,
-          "name": "AWAKENED (SPED UP)",
-          "duration": "1:02"
-        }
-      ]
-    },
-    {
       "name": "MTG TEMPO",
       "year": "2025",
       "release_date": "2025-08-29",
@@ -3284,6 +3251,39 @@
           "number": 5,
           "name": "MTG TEMPO (SPED UP)",
           "duration": "1:08"
+        }
+      ]
+    },
+    {
+      "name": "AWAKENED",
+      "year": "2025",
+      "release_date": "2025-03-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/b2/32/a9b232f4-cdeb-e0d5-b9e5-23266dbe8748/331017.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "AWAKENED",
+          "duration": "1:05"
+        },
+        {
+          "number": 2,
+          "name": "AWAKENED (SLOWED)",
+          "duration": "1:12"
+        },
+        {
+          "number": 3,
+          "name": "AWAKENED (SUPER SLOWED)",
+          "duration": "1:21"
+        },
+        {
+          "number": 4,
+          "name": "AWAKENED (ULTRA SLOWED)",
+          "duration": "1:33"
+        },
+        {
+          "number": 5,
+          "name": "AWAKENED (SPED UP)",
+          "duration": "1:02"
         }
       ]
     },
@@ -3555,39 +3555,6 @@
       ]
     },
     {
-      "name": "FUNK ITALIANO",
-      "year": "2025",
-      "release_date": "2025-01-10",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/ae/28/efae2852-f514-610c-dc1e-761c228f3d3a/307440.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "FUNK ITALIANO",
-          "duration": "1:01"
-        },
-        {
-          "number": 2,
-          "name": "FUNK ITALIANO (Slowed)",
-          "duration": "1:06"
-        },
-        {
-          "number": 3,
-          "name": "FUNK ITALIANO (Super Slowed)",
-          "duration": "1:14"
-        },
-        {
-          "number": 4,
-          "name": "FUNK ITALIANO (Ultra Slowed)",
-          "duration": "1:27"
-        },
-        {
-          "number": 5,
-          "name": "FUNK ITALIANO (Sped Up)",
-          "duration": "0:57"
-        }
-      ]
-    },
-    {
       "name": "CANTO DE LUNA (INSTRUMENTAL)",
       "year": "2025",
       "release_date": "2025-09-05",
@@ -3617,6 +3584,39 @@
           "number": 5,
           "name": "CANTO DE LUNA (INSTRUMENTAL - SPED UP)",
           "duration": "1:15"
+        }
+      ]
+    },
+    {
+      "name": "FUNK ITALIANO",
+      "year": "2025",
+      "release_date": "2025-01-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/ae/28/efae2852-f514-610c-dc1e-761c228f3d3a/307440.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "FUNK ITALIANO",
+          "duration": "1:01"
+        },
+        {
+          "number": 2,
+          "name": "FUNK ITALIANO (Slowed)",
+          "duration": "1:06"
+        },
+        {
+          "number": 3,
+          "name": "FUNK ITALIANO (Super Slowed)",
+          "duration": "1:14"
+        },
+        {
+          "number": 4,
+          "name": "FUNK ITALIANO (Ultra Slowed)",
+          "duration": "1:27"
+        },
+        {
+          "number": 5,
+          "name": "FUNK ITALIANO (Sped Up)",
+          "duration": "0:57"
         }
       ]
     },

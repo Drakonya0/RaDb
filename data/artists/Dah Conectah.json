@@ -4,19 +4,6 @@
   "albums": [],
   "singles": [
     {
-      "name": "Témoin d'une époque",
-      "year": "2020",
-      "release_date": "2020-02-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/1a/9f/8d1a9f21-c885-9d38-94a9-f523e52b1258/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Témoin d'une époque",
-          "duration": "2:28"
-        }
-      ]
-    },
-    {
       "name": "La mémoire des jours, Vol.2 (feat. Furax, Abrazif, Lucio Bukowski, Swift Guad, Tupan, Euphonik, Fanny Polly, Dah Conectah, Billie Brelok, Boss One, L'Hexaler, Will is chillin, Grant flows & Saligo)",
       "year": "2022",
       "release_date": "2022-06-09",
@@ -26,6 +13,19 @@
           "number": 1,
           "name": "La mémoire des jours, Vol.2 (feat. Furax, Abrazif, Lucio Bukowski, Swift Guad, Tupan, Euphonik, Fanny Polly, Dah Conectah, Billie Brelok, Boss One, L'Hexaler, Will is chillin, Grant flows & Saligo)",
           "duration": "6:35"
+        }
+      ]
+    },
+    {
+      "name": "Témoin d'une époque",
+      "year": "2020",
+      "release_date": "2020-02-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/1a/9f/8d1a9f21-c885-9d38-94a9-f523e52b1258/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Témoin d'une époque",
+          "duration": "2:28"
         }
       ]
     },

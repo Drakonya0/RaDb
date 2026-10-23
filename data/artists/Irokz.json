@@ -681,6 +681,39 @@
   ],
   "eps": [
     {
+      "name": "YALA",
+      "year": "2026",
+      "release_date": "2026-04-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/41/77/57417761-7204-d480-4f37-3211934c4418/820200947345.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "YALA",
+          "duration": "2:14"
+        },
+        {
+          "number": 2,
+          "name": "YALA (Slowed)",
+          "duration": "2:39"
+        },
+        {
+          "number": 3,
+          "name": "YALA (Super Slowed)",
+          "duration": "2:57"
+        },
+        {
+          "number": 4,
+          "name": "YALA (Ultra Slowed)",
+          "duration": "3:20"
+        },
+        {
+          "number": 5,
+          "name": "YALA (Sped Up)",
+          "duration": "1:58"
+        }
+      ]
+    },
+    {
       "name": "EEYUH! x Fluxxwave",
       "year": "2024",
       "release_date": "2024-05-24",
@@ -705,39 +738,6 @@
           "number": 4,
           "name": "EEYUH! x Fluxxwave (Super Slowed)",
           "duration": "2:13"
-        }
-      ]
-    },
-    {
-      "name": "RAYELO",
-      "year": "2026",
-      "release_date": "2026-05-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/4f/7e/a24f7ed9-14b7-1bfa-856a-7bc5b65296aa/820233512138.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "RAYELO",
-          "duration": "2:02"
-        },
-        {
-          "number": 2,
-          "name": "RAYELO (Slowed)",
-          "duration": "2:25"
-        },
-        {
-          "number": 3,
-          "name": "RAYELO (Super Slowed)",
-          "duration": "2:43"
-        },
-        {
-          "number": 4,
-          "name": "RAYELO (Ultra Slowed)",
-          "duration": "3:03"
-        },
-        {
-          "number": 5,
-          "name": "RAYELO (Sped Up)",
-          "duration": "1:49"
         }
       ]
     },
@@ -775,39 +775,6 @@
       ]
     },
     {
-      "name": "YALA",
-      "year": "2026",
-      "release_date": "2026-04-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/41/77/57417761-7204-d480-4f37-3211934c4418/820200947345.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "YALA",
-          "duration": "2:14"
-        },
-        {
-          "number": 2,
-          "name": "YALA (Slowed)",
-          "duration": "2:39"
-        },
-        {
-          "number": 3,
-          "name": "YALA (Super Slowed)",
-          "duration": "2:57"
-        },
-        {
-          "number": 4,
-          "name": "YALA (Ultra Slowed)",
-          "duration": "3:20"
-        },
-        {
-          "number": 5,
-          "name": "YALA (Sped Up)",
-          "duration": "1:58"
-        }
-      ]
-    },
-    {
       "name": "FUNK UNIVERSO (Instrumental Version)",
       "year": "2024",
       "release_date": "2024-10-04",
@@ -832,6 +799,39 @@
           "number": 4,
           "name": "FUNK UNIVERSO (Instrumental - Sped Up)",
           "duration": "1:56"
+        }
+      ]
+    },
+    {
+      "name": "RAYELO",
+      "year": "2026",
+      "release_date": "2026-05-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/4f/7e/a24f7ed9-14b7-1bfa-856a-7bc5b65296aa/820233512138.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "RAYELO",
+          "duration": "2:02"
+        },
+        {
+          "number": 2,
+          "name": "RAYELO (Slowed)",
+          "duration": "2:25"
+        },
+        {
+          "number": 3,
+          "name": "RAYELO (Super Slowed)",
+          "duration": "2:43"
+        },
+        {
+          "number": 4,
+          "name": "RAYELO (Ultra Slowed)",
+          "duration": "3:03"
+        },
+        {
+          "number": 5,
+          "name": "RAYELO (Sped Up)",
+          "duration": "1:49"
         }
       ]
     },

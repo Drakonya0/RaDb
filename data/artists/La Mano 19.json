@@ -79,13 +79,6 @@
       "tracks": []
     },
     {
-      "name": "Jump",
-      "year": "2025",
-      "release_date": "2025-05-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/f1/32/75f1328b-a89d-dd5e-1bf5-a5ca415b5faf/25UMGIM72631.rgb.jpg/600x600bb.jpg",
-      "tracks": []
-    },
-    {
       "name": "FAKE - A COLORS SHOW",
       "year": "2025",
       "release_date": "2025-04-03",
@@ -97,6 +90,13 @@
           "duration": "2:01"
         }
       ]
+    },
+    {
+      "name": "Jump",
+      "year": "2025",
+      "release_date": "2025-05-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/f1/32/75f1328b-a89d-dd5e-1bf5-a5ca415b5faf/25UMGIM72631.rgb.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "Chanel",
@@ -374,19 +374,6 @@
       "tracks": []
     },
     {
-      "name": "Hors la loi",
-      "year": "2024",
-      "release_date": "2024-01-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/43/4d/37/434d3771-942a-2aea-9a9b-7b33c38812ce/24UMGIM05581.rgb.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Hors la loi",
-          "duration": "2:43"
-        }
-      ]
-    },
-    {
       "name": "Block 51",
       "year": "2024",
       "release_date": "2024-06-05",
@@ -519,6 +506,19 @@
       "tracks": []
     },
     {
+      "name": "M.D",
+      "year": "2026",
+      "release_date": "2026-10-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/4c/e6/314ce685-4fbd-f46d-821a-a4df19dcbc9a/cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "M.D",
+          "duration": "2:55"
+        }
+      ]
+    },
+    {
       "name": "La Mano dans la mallette",
       "year": "2024",
       "release_date": "2024-03-18",
@@ -550,13 +550,7 @@
       "year": "2025",
       "release_date": "2025-04-11",
       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/ee/1e/8dee1e95-a7b9-4dc3-0726-e483c9187702/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kat Sa N'Dey",
-          "duration": "2:56"
-        }
-      ]
+      "tracks": []
     },
     {
       "name": "Fourmi",
@@ -632,5 +626,13 @@
       "tracks": []
     }
   ],
-  "eps": []
+  "eps": [
+    {
+      "name": "FREESTYLE BLESSED",
+      "year": "2026",
+      "release_date": "2026-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/46/cf/df46cf55-1cb1-ed0b-fe6b-3d9cc8353174/26UM1IM32787.rgb.jpg/600x600bb.jpg",
+      "tracks": []
+    }
+  ]
 }

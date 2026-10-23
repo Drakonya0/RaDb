@@ -129,6 +129,49 @@
       ]
     },
     {
+      "name": "FlashDrive",
+      "year": "2020",
+      "release_date": "2020-02-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/72/c8/a572c821-29cd-f30c-8dec-23960f34dd44/305157.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Black",
+          "duration": "2:36"
+        },
+        {
+          "number": 2,
+          "name": "Purple",
+          "duration": "2:48"
+        },
+        {
+          "number": 3,
+          "name": "Red",
+          "duration": "2:27"
+        },
+        {
+          "number": 4,
+          "name": "Yellow",
+          "duration": "2:46"
+        },
+        {
+          "number": 5,
+          "name": "Green",
+          "duration": "2:43"
+        },
+        {
+          "number": 6,
+          "name": "Blue",
+          "duration": "2:59"
+        },
+        {
+          "number": 7,
+          "name": "White",
+          "duration": "2:34"
+        }
+      ]
+    },
+    {
       "name": "Press Start to Begin Vol 1",
       "year": "2016",
       "release_date": "2016-08-26",
@@ -228,49 +271,6 @@
           "number": 19,
           "name": "Another Date Remastered",
           "duration": "3:59"
-        }
-      ]
-    },
-    {
-      "name": "FlashDrive",
-      "year": "2020",
-      "release_date": "2020-02-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/72/c8/a572c821-29cd-f30c-8dec-23960f34dd44/305157.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Black",
-          "duration": "2:36"
-        },
-        {
-          "number": 2,
-          "name": "Purple",
-          "duration": "2:48"
-        },
-        {
-          "number": 3,
-          "name": "Red",
-          "duration": "2:27"
-        },
-        {
-          "number": 4,
-          "name": "Yellow",
-          "duration": "2:46"
-        },
-        {
-          "number": 5,
-          "name": "Green",
-          "duration": "2:43"
-        },
-        {
-          "number": 6,
-          "name": "Blue",
-          "duration": "2:59"
-        },
-        {
-          "number": 7,
-          "name": "White",
-          "duration": "2:34"
         }
       ]
     },
@@ -516,19 +516,6 @@
       ]
     },
     {
-      "name": "Gospel of Dismay",
-      "year": "2017",
-      "release_date": "2017-06-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/9f/d7/c29fd721-ca17-a67a-3381-3d2b24cc733f/305344.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Gospel of Dismay",
-          "duration": "4:10"
-        }
-      ]
-    },
-    {
       "name": "With You (feat. Dagames)",
       "year": "2022",
       "release_date": "2022-06-20",
@@ -542,15 +529,15 @@
       ]
     },
     {
-      "name": "Instruments of Cyanide",
-      "year": "2018",
-      "release_date": "2018-06-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/f7/ea/05f7eaf2-4a79-e229-1229-c9b032ba5398/303828.jpg/600x600bb.jpg",
+      "name": "Gospel of Dismay",
+      "year": "2017",
+      "release_date": "2017-06-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/9f/d7/c29fd721-ca17-a67a-3381-3d2b24cc733f/305344.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Instruments of Cyanide",
-          "duration": "5:33"
+          "name": "Gospel of Dismay",
+          "duration": "4:10"
         }
       ]
     },
@@ -594,6 +581,19 @@
       ]
     },
     {
+      "name": "Instruments of Cyanide",
+      "year": "2018",
+      "release_date": "2018-06-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/f7/ea/05f7eaf2-4a79-e229-1229-c9b032ba5398/303828.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Instruments of Cyanide",
+          "duration": "5:33"
+        }
+      ]
+    },
+    {
       "name": "Stranger in the Basement (feat. TryHardNinja, Dagames, Daddyphatsnaps & Sharm)",
       "year": "2017",
       "release_date": "2017-02-22",
@@ -616,19 +616,6 @@
           "number": 1,
           "name": "You're Mine",
           "duration": "2:50"
-        }
-      ]
-    },
-    {
-      "name": "Meet Thy Maker",
-      "year": "2019",
-      "release_date": "2019-02-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/de/d5/3bded561-d7d7-5ca9-ee86-18800f0a7632/303669.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Meet Thy Maker",
-          "duration": "4:23"
         }
       ]
     },
@@ -816,6 +803,19 @@
           "number": 1,
           "name": "Glitches All Around Me (feat. SquigglyDigg & Dagames)",
           "duration": "2:54"
+        }
+      ]
+    },
+    {
+      "name": "Meet Thy Maker",
+      "year": "2019",
+      "release_date": "2019-02-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/de/d5/3bded561-d7d7-5ca9-ee86-18800f0a7632/303669.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Meet Thy Maker",
+          "duration": "4:23"
         }
       ]
     },

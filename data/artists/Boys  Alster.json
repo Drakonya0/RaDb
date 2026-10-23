@@ -1095,6 +1095,19 @@
       ]
     },
     {
+      "name": "Stuck Inside (feat. Kevin Foster)",
+      "year": "2023",
+      "release_date": "2023-10-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b1/8d/5c/b18d5ccd-95b5-2ad6-52b3-92dc8b4edec2/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Stuck Inside (feat. Kevin Foster)",
+          "duration": "2:52"
+        }
+      ]
+    },
+    {
       "name": "1000 Doors (Spooky's Jumpscare Mansion Song)",
       "year": "2017",
       "release_date": "2017-05-13",
@@ -1109,19 +1122,6 @@
           "number": 2,
           "name": "1000 Doors (Spooky's Jumpscare Mansion Song) [Instrumental]",
           "duration": "3:24"
-        }
-      ]
-    },
-    {
-      "name": "Stuck Inside (feat. Kevin Foster)",
-      "year": "2023",
-      "release_date": "2023-10-30",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b1/8d/5c/b18d5ccd-95b5-2ad6-52b3-92dc8b4edec2/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Stuck Inside (feat. Kevin Foster)",
-          "duration": "2:52"
         }
       ]
     },
@@ -1197,19 +1197,6 @@
           "number": 2,
           "name": "Cut the Cord (Instrumental)",
           "duration": "3:46"
-        }
-      ]
-    },
-    {
-      "name": "It Doesn't Matter",
-      "year": "2026",
-      "release_date": "2026-07-31",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/f0/43/d3f04333-520f-344c-7195-b28a0c8447cf/075679564474.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "It Doesn't Matter",
-          "duration": "3:45"
         }
       ]
     },
@@ -1309,6 +1296,19 @@
       ]
     },
     {
+      "name": "It Doesn't Matter",
+      "year": "2026",
+      "release_date": "2026-07-31",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/f0/43/d3f04333-520f-344c-7195-b28a0c8447cf/075679564474.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "It Doesn't Matter",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
       "name": "Jingle My Bells",
       "year": "2017",
       "release_date": "2017-12-18",
@@ -1323,19 +1323,6 @@
           "number": 2,
           "name": "Jingle My Bells (feat. Jack Douglass) [Radio Edit]",
           "duration": "3:04"
-        }
-      ]
-    },
-    {
-      "name": "Step On Up (feat. McGwire)",
-      "year": "2025",
-      "release_date": "2025-08-29",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/45/4b/1e454b37-9536-17a0-bc5c-f0a3155f12eb/810129972528.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Step On Up (feat. McGwire)",
-          "duration": "2:16"
         }
       ]
     },
@@ -1375,6 +1362,19 @@
           "number": 1,
           "name": "Floral Fury",
           "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "name": "Step On Up (feat. McGwire)",
+      "year": "2025",
+      "release_date": "2025-08-29",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/45/4b/1e454b37-9536-17a0-bc5c-f0a3155f12eb/810129972528.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Step On Up (feat. McGwire)",
+          "duration": "2:16"
         }
       ]
     },
@@ -1503,24 +1503,6 @@
       ]
     },
     {
-      "name": "Basics in Behavior (Red Version)",
-      "year": "2018",
-      "release_date": "2018-09-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/4e/b0/ad/4eb0ada0-64fd-bda3-d489-d7e281107a7b/artwork.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Basics in Behavior (feat. Or3o) [Red Version]",
-          "duration": "5:16"
-        },
-        {
-          "number": 2,
-          "name": "Basics in Behavior (feat. Or3o Instrumental) [Instrumental] [Red Version]",
-          "duration": "5:16"
-        }
-      ]
-    },
-    {
       "name": "Memory",
       "year": "2019",
       "release_date": "2019-01-24",
@@ -1548,6 +1530,24 @@
           "number": 1,
           "name": "Squid Melody (Red Version) [Instrumental]",
           "duration": "3:04"
+        }
+      ]
+    },
+    {
+      "name": "Basics in Behavior (Red Version)",
+      "year": "2018",
+      "release_date": "2018-09-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/4e/b0/ad/4eb0ada0-64fd-bda3-d489-d7e281107a7b/artwork.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Basics in Behavior (feat. Or3o) [Red Version]",
+          "duration": "5:16"
+        },
+        {
+          "number": 2,
+          "name": "Basics in Behavior (feat. Or3o Instrumental) [Instrumental] [Red Version]",
+          "duration": "5:16"
         }
       ]
     },
@@ -1722,6 +1722,19 @@
       ]
     },
     {
+      "name": "Everything Is Fine (Remix) [feat. Qbomb]",
+      "year": "2025",
+      "release_date": "2025-09-26",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/15/27/d5152787-e55b-e0bc-70b0-998b259afe03/810129970425.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Everything Is Fine (Remix) [feat. Qbomb]",
+          "duration": "3:58"
+        }
+      ]
+    },
+    {
       "name": "No Mercy (feat. Black Gryph0n, Jayn & Dan Bull) [Overwatch 2 Remix]",
       "year": "2022",
       "release_date": "2022-09-30",
@@ -1762,19 +1775,6 @@
           "number": 1,
           "name": "Jump Up, Super Star! (feat. The Living Tombstone)",
           "duration": "4:15"
-        }
-      ]
-    },
-    {
-      "name": "Be Alone",
-      "year": "2025",
-      "release_date": "2025-02-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/78/4b/d5784bb5-0114-c122-3c57-2e1767d08f80/810129983579.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Be Alone",
-          "duration": "2:29"
         }
       ]
     },
@@ -1838,19 +1838,6 @@
       ]
     },
     {
-      "name": "Everything Is Fine (Remix) [feat. Qbomb]",
-      "year": "2025",
-      "release_date": "2025-09-26",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/15/27/d5152787-e55b-e0bc-70b0-998b259afe03/810129970425.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Everything Is Fine (Remix) [feat. Qbomb]",
-          "duration": "3:58"
-        }
-      ]
-    },
-    {
       "name": "Here Comes A Savior (\"In Sound Mind\" Theme)",
       "year": "2021",
       "release_date": "2021-07-08",
@@ -1877,6 +1864,19 @@
       ]
     },
     {
+      "name": "Be Alone",
+      "year": "2025",
+      "release_date": "2025-02-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/78/4b/d5784bb5-0114-c122-3c57-2e1767d08f80/810129983579.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Be Alone",
+          "duration": "2:29"
+        }
+      ]
+    },
+    {
       "name": "It's Raining Men",
       "year": "2016",
       "release_date": "2016-11-16",
@@ -1891,6 +1891,24 @@
           "number": 2,
           "name": "It's Raining Men (Instrumental)",
           "duration": "3:30"
+        }
+      ]
+    },
+    {
+      "name": "Jump Up, Super Star!",
+      "year": "2017",
+      "release_date": "2017-10-11",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/e7/39/d9e73995-2e40-5a47-b1c1-ae2edeec33f1/192378598156.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Jump Up, Super Star!",
+          "duration": "4:15"
+        },
+        {
+          "number": 2,
+          "name": "Jump Up, Super Star! (Instrumental)",
+          "duration": "4:15"
         }
       ]
     },
@@ -1945,19 +1963,6 @@
           "number": 2,
           "name": "Last Christmas (Instrumental)",
           "duration": "3:45"
-        }
-      ]
-    },
-    {
-      "name": "Don't Hang Up The Call",
-      "year": "2026",
-      "release_date": "2026-10-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/cb/f1/d7cbf191-084f-e9be-2f9b-99ad858f2119/075679552891.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Don't Hang Up The Call",
-          "duration": "2:43"
         }
       ]
     },
@@ -2055,24 +2060,6 @@
       ]
     },
     {
-      "name": "Jump Up, Super Star!",
-      "year": "2017",
-      "release_date": "2017-10-11",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d9/e7/39/d9e73995-2e40-5a47-b1c1-ae2edeec33f1/192378598156.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Jump Up, Super Star!",
-          "duration": "4:15"
-        },
-        {
-          "number": 2,
-          "name": "Jump Up, Super Star! (Instrumental)",
-          "duration": "4:15"
-        }
-      ]
-    },
-    {
       "name": "Basics in Behavior (Red Version)",
       "year": "2018",
       "release_date": "2018-09-13",
@@ -2105,24 +2092,6 @@
           "number": 2,
           "name": "Dog of Wisdom (feat. Joe Gran) [Instrumental] [Blue Version]",
           "duration": "2:52"
-        }
-      ]
-    },
-    {
-      "name": "Cut the Cord",
-      "year": "2017",
-      "release_date": "2017-02-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/21/c1/0a21c1fd-956c-72ce-e1ac-0f34ad5ca3f1/840095605410.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Cut the Cord",
-          "duration": "3:46"
-        },
-        {
-          "number": 2,
-          "name": "Cut the Cord (Instrumental)",
-          "duration": "3:46"
         }
       ]
     },
@@ -2195,6 +2164,24 @@
           "number": 3,
           "name": "Be Alone",
           "duration": "2:29"
+        }
+      ]
+    },
+    {
+      "name": "Cut the Cord",
+      "year": "2017",
+      "release_date": "2017-02-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0a/21/c1/0a21c1fd-956c-72ce-e1ac-0f34ad5ca3f1/840095605410.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Cut the Cord",
+          "duration": "3:46"
+        },
+        {
+          "number": 2,
+          "name": "Cut the Cord (Instrumental)",
+          "duration": "3:46"
         }
       ]
     },
@@ -2396,6 +2383,19 @@
           "number": 2,
           "name": "Pikachu's Lament (Blue Version) [Instrumental]",
           "duration": "2:55"
+        }
+      ]
+    },
+    {
+      "name": "Don't Hang Up The Call",
+      "year": "2026",
+      "release_date": "2026-10-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/cb/f1/d7cbf191-084f-e9be-2f9b-99ad858f2119/075679552891.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Don't Hang Up The Call",
+          "duration": "2:43"
         }
       ]
     },

@@ -224,19 +224,6 @@
       ]
     },
     {
-      "name": "Wine",
-      "year": "2026",
-      "release_date": "2026-02-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/a4/d3/ffa4d38b-8b1e-63d0-400c-b97c51cd962b/859732152064_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Wine",
-          "duration": "2:20"
-        }
-      ]
-    },
-    {
       "name": "Belle Carte",
       "year": "2023",
       "release_date": "2023-07-28",
@@ -246,6 +233,19 @@
           "number": 1,
           "name": "Belle Carte",
           "duration": "2:48"
+        }
+      ]
+    },
+    {
+      "name": "Wine",
+      "year": "2026",
+      "release_date": "2026-02-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/a4/d3/ffa4d38b-8b1e-63d0-400c-b97c51cd962b/859732152064_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Wine",
+          "duration": "2:20"
         }
       ]
     }

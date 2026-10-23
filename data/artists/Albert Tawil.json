@@ -4,6 +4,19 @@
   "albums": [],
   "singles": [
     {
+      "name": "Monte le son / 3ALLE EL SOT",
+      "year": "2026",
+      "release_date": "2026-08-07",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/f6/4f/49f64f19-3b78-a23a-9fd8-0faf48c27570/885288153668.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Monte le son / 3ALLE EL SOT",
+          "duration": "3:01"
+        }
+      ]
+    },
+    {
       "name": "Sabry Aalil - Cover",
       "year": "2025",
       "release_date": "2025-09-10",
@@ -225,19 +238,6 @@
       ]
     },
     {
-      "name": "Monte le son / 3ALLE EL SOT",
-      "year": "2026",
-      "release_date": "2026-08-07",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/f6/4f/49f64f19-3b78-a23a-9fd8-0faf48c27570/885288153668.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Monte le son / 3ALLE EL SOT",
-          "duration": "3:01"
-        }
-      ]
-    },
-    {
       "name": "Femme en rouge",
       "year": "2024",
       "release_date": "2024-11-29",
@@ -290,19 +290,6 @@
       ]
     },
     {
-      "name": "Matuvu",
-      "year": "2021",
-      "release_date": "2021-04-16",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/5f/5c/405f5c68-de13-b677-210d-63f96b320621/820233084208.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Matuvu",
-          "duration": "2:50"
-        }
-      ]
-    },
-    {
       "name": "Parce que je t'aime",
       "year": "2024",
       "release_date": "2024-06-28",
@@ -312,6 +299,19 @@
           "number": 1,
           "name": "Parce que je t'aime",
           "duration": "2:39"
+        }
+      ]
+    },
+    {
+      "name": "Matuvu",
+      "year": "2021",
+      "release_date": "2021-04-16",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/5f/5c/405f5c68-de13-b677-210d-63f96b320621/820233084208.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Matuvu",
+          "duration": "2:50"
         }
       ]
     },

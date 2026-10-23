@@ -1351,34 +1351,6 @@
       ]
     },
     {
-      "name": "PARALYZED",
-      "year": "2026",
-      "release_date": "2026-07-17",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/0a/1d/220a1d90-8f03-fecd-9217-81e10283f454/cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "PARALYZED",
-          "duration": "1:37"
-        },
-        {
-          "number": 2,
-          "name": "PARALYZED (Slowed)",
-          "duration": "1:48"
-        },
-        {
-          "number": 3,
-          "name": "PARALYZED (Super Slowed)",
-          "duration": "2:02"
-        },
-        {
-          "number": 4,
-          "name": "PARALYZED (Speed Up)",
-          "duration": "1:28"
-        }
-      ]
-    },
-    {
       "name": "TAL DA BALINA",
       "year": "2025",
       "release_date": "2025-05-23",
@@ -1461,6 +1433,13 @@
           "duration": "1:07"
         }
       ]
+    },
+    {
+      "name": "NOWHERE",
+      "year": "2026",
+      "release_date": "2026-10-23",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/b3/ab/d1b3ab85-20c1-4cf9-822b-3f120a79b4ec/cover.jpg/600x600bb.jpg",
+      "tracks": []
     },
     {
       "name": "MUNDO VIRADO",
@@ -3259,6 +3238,39 @@
           "number": 4,
           "name": "Automotivo Talarica (ultra slowed+reverb)",
           "duration": "2:00"
+        }
+      ]
+    },
+    {
+      "name": "DEAD NIGHT FUNK",
+      "year": "2026",
+      "release_date": "2026-10-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/8f/76/048f76b6-30ab-23e7-86ab-87452aed1656/4480471.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "DEAD NIGHT FUNK",
+          "duration": "1:21"
+        },
+        {
+          "number": 2,
+          "name": "DEAD NIGHT FUNK (Slowed)",
+          "duration": "1:31"
+        },
+        {
+          "number": 3,
+          "name": "DEAD NIGHT FUNK (Super Slowed)",
+          "duration": "1:42"
+        },
+        {
+          "number": 4,
+          "name": "DEAD NIGHT FUNK (Ultra Slowed)",
+          "duration": "1:55"
+        },
+        {
+          "number": 5,
+          "name": "DEAD NIGHT FUNK (Sped Up)",
+          "duration": "1:12"
         }
       ]
     },

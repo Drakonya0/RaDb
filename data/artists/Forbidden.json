@@ -3,107 +3,6 @@
   "id": 4276504,
   "albums": [
     {
-      "name": "Forbidden Evil",
-      "year": "1988",
-      "release_date": "1988-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b7/f7/03/b7f703c3-d98e-26b9-fb54-5144b3be303f/886445162318.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Chalice of Blood",
-          "duration": "4:32"
-        },
-        {
-          "number": 2,
-          "name": "Off the Edge",
-          "duration": "4:17"
-        },
-        {
-          "number": 3,
-          "name": "Through Eyes of Glass",
-          "duration": "6:24"
-        },
-        {
-          "number": 4,
-          "name": "Forbidden Evil",
-          "duration": "5:40"
-        },
-        {
-          "number": 5,
-          "name": "March Into Fire",
-          "duration": "5:08"
-        },
-        {
-          "number": 6,
-          "name": "Feel No Pain",
-          "duration": "5:14"
-        },
-        {
-          "number": 7,
-          "name": "As Good as Dead",
-          "duration": "4:15"
-        },
-        {
-          "number": 8,
-          "name": "Follow Me",
-          "duration": "7:00"
-        }
-      ]
-    },
-    {
-      "name": "Twisted Into Form",
-      "year": "1990",
-      "release_date": "1990-01-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/05/e8/45/05e84501-033e-29ec-0f95-3d0d599f6c5a/886445162554.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Parting of the Ways (Instrumental)",
-          "duration": "1:05"
-        },
-        {
-          "number": 2,
-          "name": "Infinite",
-          "duration": "5:55"
-        },
-        {
-          "number": 3,
-          "name": "Out of Body (Out of Mind)",
-          "duration": "4:29"
-        },
-        {
-          "number": 4,
-          "name": "Step by Step",
-          "duration": "4:52"
-        },
-        {
-          "number": 5,
-          "name": "Twisted Into Form",
-          "duration": "4:24"
-        },
-        {
-          "number": 6,
-          "name": "R.I.P.",
-          "duration": "7:35"
-        },
-        {
-          "number": 7,
-          "name": "Spiral Depression (Instrumental)",
-          "duration": "1:49"
-        },
-        {
-          "number": 8,
-          "name": "Tossed Away",
-          "duration": "4:35"
-        },
-        {
-          "number": 9,
-          "name": "One Foot in Hell",
-          "duration": "6:11"
-        }
-      ]
-    },
-    {
       "name": "Forbidden",
       "year": "2026",
       "release_date": "2026-10-23",
@@ -163,6 +62,107 @@
           "number": 11,
           "name": "Flower of Life",
           "duration": "9:24"
+        }
+      ]
+    },
+    {
+      "name": "Twisted Into Form",
+      "year": "1990",
+      "release_date": "1990-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/05/e8/45/05e84501-033e-29ec-0f95-3d0d599f6c5a/886445162554.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Parting of the Ways (Instrumental)",
+          "duration": "1:05"
+        },
+        {
+          "number": 2,
+          "name": "Infinite",
+          "duration": "5:55"
+        },
+        {
+          "number": 3,
+          "name": "Out of Body (Out of Mind)",
+          "duration": "4:29"
+        },
+        {
+          "number": 4,
+          "name": "Step by Step",
+          "duration": "4:52"
+        },
+        {
+          "number": 5,
+          "name": "Twisted Into Form",
+          "duration": "4:24"
+        },
+        {
+          "number": 6,
+          "name": "R.I.P.",
+          "duration": "7:35"
+        },
+        {
+          "number": 7,
+          "name": "Spiral Depression (Instrumental)",
+          "duration": "1:49"
+        },
+        {
+          "number": 8,
+          "name": "Tossed Away",
+          "duration": "4:35"
+        },
+        {
+          "number": 9,
+          "name": "One Foot in Hell",
+          "duration": "6:11"
+        }
+      ]
+    },
+    {
+      "name": "Forbidden Evil",
+      "year": "1988",
+      "release_date": "1988-01-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b7/f7/03/b7f703c3-d98e-26b9-fb54-5144b3be303f/886445162318.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Chalice of Blood",
+          "duration": "4:32"
+        },
+        {
+          "number": 2,
+          "name": "Off the Edge",
+          "duration": "4:17"
+        },
+        {
+          "number": 3,
+          "name": "Through Eyes of Glass",
+          "duration": "6:24"
+        },
+        {
+          "number": 4,
+          "name": "Forbidden Evil",
+          "duration": "5:40"
+        },
+        {
+          "number": 5,
+          "name": "March Into Fire",
+          "duration": "5:08"
+        },
+        {
+          "number": 6,
+          "name": "Feel No Pain",
+          "duration": "5:14"
+        },
+        {
+          "number": 7,
+          "name": "As Good as Dead",
+          "duration": "4:15"
+        },
+        {
+          "number": 8,
+          "name": "Follow Me",
+          "duration": "7:00"
         }
       ]
     },

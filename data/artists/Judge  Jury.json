@@ -3,64 +3,6 @@
   "id": 1568567701,
   "albums": [
     {
-      "name": "NIGHTBLOOM",
-      "year": "2026",
-      "release_date": "2026-10-02",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/9e/b7/749eb769-543b-6ba3-177a-c431ff59d5a7/881453429590_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Lost In Your Touch",
-          "duration": "3:43"
-        },
-        {
-          "number": 2,
-          "name": "Sincerity",
-          "duration": "3:33"
-        },
-        {
-          "number": 3,
-          "name": "Blame It On The Wind",
-          "duration": "3:13"
-        },
-        {
-          "number": 4,
-          "name": "Broken & Beautiful",
-          "duration": "3:16"
-        },
-        {
-          "number": 5,
-          "name": "Are You Waiting Up?",
-          "duration": "3:47"
-        },
-        {
-          "number": 6,
-          "name": "Black Clouds Over Georgia",
-          "duration": "4:00"
-        },
-        {
-          "number": 7,
-          "name": "Fever In My Neck",
-          "duration": "3:39"
-        },
-        {
-          "number": 8,
-          "name": "Songbird",
-          "duration": "3:12"
-        },
-        {
-          "number": 9,
-          "name": "Leaving California",
-          "duration": "3:38"
-        },
-        {
-          "number": 10,
-          "name": "Black Dove",
-          "duration": "3:23"
-        }
-      ]
-    },
-    {
       "name": "MEDUSA",
       "year": "2026",
       "release_date": "2026-06-12",
@@ -115,6 +57,64 @@
           "number": 10,
           "name": "EX-TERMINATION",
           "duration": "2:58"
+        }
+      ]
+    },
+    {
+      "name": "NIGHTBLOOM",
+      "year": "2026",
+      "release_date": "2026-10-02",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/9e/b7/749eb769-543b-6ba3-177a-c431ff59d5a7/881453429590_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Lost In Your Touch",
+          "duration": "3:43"
+        },
+        {
+          "number": 2,
+          "name": "Sincerity",
+          "duration": "3:33"
+        },
+        {
+          "number": 3,
+          "name": "Blame It On The Wind",
+          "duration": "3:13"
+        },
+        {
+          "number": 4,
+          "name": "Broken & Beautiful",
+          "duration": "3:16"
+        },
+        {
+          "number": 5,
+          "name": "Are You Waiting Up?",
+          "duration": "3:47"
+        },
+        {
+          "number": 6,
+          "name": "Black Clouds Over Georgia",
+          "duration": "4:00"
+        },
+        {
+          "number": 7,
+          "name": "Fever In My Neck",
+          "duration": "3:39"
+        },
+        {
+          "number": 8,
+          "name": "Songbird",
+          "duration": "3:12"
+        },
+        {
+          "number": 9,
+          "name": "Leaving California",
+          "duration": "3:38"
+        },
+        {
+          "number": 10,
+          "name": "Black Dove",
+          "duration": "3:23"
         }
       ]
     },
@@ -250,69 +250,6 @@
       ]
     },
     {
-      "name": "Redefined",
-      "year": "2025",
-      "release_date": "2025-03-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/b6/2f/2ab62f26-c64b-47c8-02aa-dca56c0f94e8/199066399804_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Artificial Gods (feat. HIGHSOCIETY)",
-          "duration": "2:58"
-        },
-        {
-          "number": 2,
-          "name": "T/R/A/P/P/E/D",
-          "duration": "3:18"
-        },
-        {
-          "number": 3,
-          "name": "Oxygen (feat. Fronzilla)",
-          "duration": "3:15"
-        },
-        {
-          "number": 4,
-          "name": "Crowned Clown",
-          "duration": "3:53"
-        },
-        {
-          "number": 5,
-          "name": "Hellscape (feat. Wednesday 13 & Stitched Up Heart)",
-          "duration": "3:43"
-        },
-        {
-          "number": 6,
-          "name": "Mistake",
-          "duration": "3:22"
-        },
-        {
-          "number": 7,
-          "name": "Misleading",
-          "duration": "3:27"
-        },
-        {
-          "number": 8,
-          "name": "Understand",
-          "duration": "3:29"
-        },
-        {
-          "number": 9,
-          "name": "Redefined",
-          "duration": "3:45"
-        },
-        {
-          "number": 10,
-          "name": "Meat HOOK",
-          "duration": "2:42"
-        },
-        {
-          "number": 11,
-          "name": "ConsPIRACY",
-          "duration": "4:13"
-        }
-      ]
-    },
-    {
       "name": "Revelation: Retold",
       "year": "2023",
       "release_date": "2023-09-08",
@@ -396,70 +333,65 @@
       ]
     },
     {
-      "name": "Children of Night",
-      "year": "2023",
-      "release_date": "2023-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/c0/cf/b0c0cf5c-67cb-53fb-33b4-53c589a47e82/197189357855_cover.jpg/600x600bb.jpg",
+      "name": "Redefined",
+      "year": "2025",
+      "release_date": "2025-03-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/b6/2f/2ab62f26-c64b-47c8-02aa-dca56c0f94e8/199066399804_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Eye of the Storm",
-          "duration": "3:34"
+          "name": "Artificial Gods (feat. HIGHSOCIETY)",
+          "duration": "2:58"
         },
         {
           "number": 2,
-          "name": "God of Greed",
-          "duration": "3:38"
+          "name": "T/R/A/P/P/E/D",
+          "duration": "3:18"
         },
         {
           "number": 3,
-          "name": "Oceangrave",
-          "duration": "4:05"
-        },
-        {
-          "number": 4,
-          "name": "Children of Night (feat. Barry Stock & Three Days Grace)",
-          "duration": "3:17"
-        },
-        {
-          "number": 5,
-          "name": "Wolf Within",
-          "duration": "3:27"
-        },
-        {
-          "number": 6,
-          "name": "Witch Hunter",
+          "name": "Oxygen (feat. Fronzilla)",
           "duration": "3:15"
         },
         {
+          "number": 4,
+          "name": "Crowned Clown",
+          "duration": "3:53"
+        },
+        {
+          "number": 5,
+          "name": "Hellscape (feat. Wednesday 13 & Stitched Up Heart)",
+          "duration": "3:43"
+        },
+        {
+          "number": 6,
+          "name": "Mistake",
+          "duration": "3:22"
+        },
+        {
           "number": 7,
-          "name": "Drinking Blood",
-          "duration": "3:41"
+          "name": "Misleading",
+          "duration": "3:27"
         },
         {
           "number": 8,
-          "name": "Fight the Tide",
-          "duration": "3:26"
+          "name": "Understand",
+          "duration": "3:29"
         },
         {
           "number": 9,
-          "name": "Army of the Damned",
-          "duration": "4:02"
+          "name": "Redefined",
+          "duration": "3:45"
         },
         {
           "number": 10,
-          "name": "Why Keep Heaven Waiting",
-          "duration": "4:05"
+          "name": "Meat HOOK",
+          "duration": "2:42"
         },
         {
           "number": 11,
-          "name": "Battlecry",
-          "duration": "2:57"
-        },
-        {
-          "number": 12,
-          "name": "Speak to the Dead",
-          "duration": "4:07"
+          "name": "ConsPIRACY",
+          "duration": "4:13"
         }
       ]
     },
@@ -533,6 +465,137 @@
           "number": 13,
           "name": "If I Fall",
           "duration": "3:56"
+        }
+      ]
+    },
+    {
+      "name": "Children of Night",
+      "year": "2023",
+      "release_date": "2023-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/c0/cf/b0c0cf5c-67cb-53fb-33b4-53c589a47e82/197189357855_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Eye of the Storm",
+          "duration": "3:34"
+        },
+        {
+          "number": 2,
+          "name": "God of Greed",
+          "duration": "3:38"
+        },
+        {
+          "number": 3,
+          "name": "Oceangrave",
+          "duration": "4:05"
+        },
+        {
+          "number": 4,
+          "name": "Children of Night (feat. Barry Stock & Three Days Grace)",
+          "duration": "3:17"
+        },
+        {
+          "number": 5,
+          "name": "Wolf Within",
+          "duration": "3:27"
+        },
+        {
+          "number": 6,
+          "name": "Witch Hunter",
+          "duration": "3:15"
+        },
+        {
+          "number": 7,
+          "name": "Drinking Blood",
+          "duration": "3:41"
+        },
+        {
+          "number": 8,
+          "name": "Fight the Tide",
+          "duration": "3:26"
+        },
+        {
+          "number": 9,
+          "name": "Army of the Damned",
+          "duration": "4:02"
+        },
+        {
+          "number": 10,
+          "name": "Why Keep Heaven Waiting",
+          "duration": "4:05"
+        },
+        {
+          "number": 11,
+          "name": "Battlecry",
+          "duration": "2:57"
+        },
+        {
+          "number": 12,
+          "name": "Speak to the Dead",
+          "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "The Unknown",
+      "year": "2021",
+      "release_date": "2021-09-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/0b/25/370b25fe-8c43-9fe8-c2cd-1cf17e599d2b/196006700072_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Digital Paradise",
+          "duration": "3:59"
+        },
+        {
+          "number": 2,
+          "name": "My Method Your Madness",
+          "duration": "3:34"
+        },
+        {
+          "number": 3,
+          "name": "Tidal Wave",
+          "duration": "4:04"
+        },
+        {
+          "number": 4,
+          "name": "The Unknown",
+          "duration": "4:14"
+        },
+        {
+          "number": 5,
+          "name": "Believe",
+          "duration": "4:01"
+        },
+        {
+          "number": 6,
+          "name": "False Idols",
+          "duration": "4:17"
+        },
+        {
+          "number": 7,
+          "name": "You Touch You Die",
+          "duration": "4:18"
+        },
+        {
+          "number": 8,
+          "name": "One Last Time",
+          "duration": "4:26"
+        },
+        {
+          "number": 9,
+          "name": "Leaving Earth",
+          "duration": "4:05"
+        },
+        {
+          "number": 10,
+          "name": "Bound to the Rhythm",
+          "duration": "3:59"
+        },
+        {
+          "number": 11,
+          "name": "My Method Your Madness (Industrial)",
+          "duration": "5:00"
         }
       ]
     },
@@ -704,58 +767,6 @@
       ]
     },
     {
-      "name": "Golden Child",
-      "year": "2026",
-      "release_date": "2026-01-27",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/6f/9d/d76f9d94-d03a-4847-2f1c-99489c98fec8/199891226580_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Golden Child",
-          "duration": "3:14"
-        }
-      ]
-    },
-    {
-      "name": "Gaslighter",
-      "year": "2026",
-      "release_date": "2026-09-22",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/f1/bd/b9f1bd87-af18-36e1-2956-b05cc0c72295/881453742514_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Gaslighter",
-          "duration": "2:34"
-        }
-      ]
-    },
-    {
-      "name": "World So Cold",
-      "year": "2026",
-      "release_date": "2026-03-24",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/69/b6/0269b6f4-abbe-a3e5-56ed-e87ea1a42a43/199891673018_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "World So Cold",
-          "duration": "4:00"
-        }
-      ]
-    },
-    {
-      "name": "Break Free",
-      "year": "2026",
-      "release_date": "2026-10-13",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/82/3f/2c823f08-9d47-56dc-fb9e-60443c766d16/708208007455_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Break Free",
-          "duration": "3:29"
-        }
-      ]
-    },
-    {
       "name": "GLITCH BITCH",
       "year": "2026",
       "release_date": "2026-01-06",
@@ -769,15 +780,15 @@
       ]
     },
     {
-      "name": "Love Left",
+      "name": "Golden Child",
       "year": "2026",
-      "release_date": "2026-08-25",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/65/a0/6265a0e7-3c9e-184d-93de-9e2a125259fc/881453312427_cover.jpg/600x600bb.jpg",
+      "release_date": "2026-01-27",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/6f/9d/d76f9d94-d03a-4847-2f1c-99489c98fec8/199891226580_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "Love Left",
-          "duration": "3:32"
+          "name": "Golden Child",
+          "duration": "3:14"
         }
       ]
     },
@@ -791,6 +802,19 @@
           "number": 1,
           "name": "Too Broke To Fix",
           "duration": "3:05"
+        }
+      ]
+    },
+    {
+      "name": "World So Cold",
+      "year": "2026",
+      "release_date": "2026-03-24",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/69/b6/0269b6f4-abbe-a3e5-56ed-e87ea1a42a43/199891673018_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "World So Cold",
+          "duration": "4:00"
         }
       ]
     },
@@ -821,6 +845,136 @@
       ]
     },
     {
+      "name": "Love Left",
+      "year": "2026",
+      "release_date": "2026-08-25",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/65/a0/6265a0e7-3c9e-184d-93de-9e2a125259fc/881453312427_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Love Left",
+          "duration": "3:32"
+        }
+      ]
+    },
+    {
+      "name": "Worlds Apart",
+      "year": "2025",
+      "release_date": "2025-11-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/fa/0e/6ffa0eb6-0182-3c5b-7cb0-a921b1da6352/199502617103_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Worlds Apart",
+          "duration": "4:07"
+        }
+      ]
+    },
+    {
+      "name": "Euphoria",
+      "year": "2024",
+      "release_date": "2024-12-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/f4/92/39f4920f-e213-13c6-9dba-26a2dc788603/198846702261_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Euphoria",
+          "duration": "3:44"
+        }
+      ]
+    },
+    {
+      "name": "Gaslighter",
+      "year": "2026",
+      "release_date": "2026-09-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/f1/bd/b9f1bd87-af18-36e1-2956-b05cc0c72295/881453742514_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Gaslighter",
+          "duration": "2:34"
+        }
+      ]
+    },
+    {
+      "name": "BEAST",
+      "year": "2026",
+      "release_date": "2026-04-21",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/30/4a/58304ac9-76a0-d9bf-368b-dcf1666f7415/824296003596_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "BEAST",
+          "duration": "2:42"
+        }
+      ]
+    },
+    {
+      "name": "Reasons",
+      "year": "2026",
+      "release_date": "2026-03-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/1d/d5/fc1dd5ea-9cee-76d7-f548-aee97bc7633e/199891646715_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Reasons",
+          "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "Barely Human",
+      "year": "2025",
+      "release_date": "2025-08-15",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/a3/84/35a3849f-6c6f-d26a-0986-6277a4e89e4a/199502064136_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Barely Human",
+          "duration": "3:20"
+        }
+      ]
+    },
+    {
+      "name": "Bad Attitude",
+      "year": "2025",
+      "release_date": "2025-12-19",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/c5/b8/30c5b89d-243e-7104-333c-8ca89ee370e3/199502912079_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Bad Attitude",
+          "duration": "4:29"
+        }
+      ]
+    },
+    {
+      "name": "Longshot",
+      "year": "2026",
+      "release_date": "2026-07-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/e9/51/dbe9514e-a2bd-500a-1dd7-759b1bcf1e5a/881453048555_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Longshot",
+          "duration": "3:33"
+        }
+      ]
+    },
+    {
+      "name": "Time Bomb",
+      "year": "2024",
+      "release_date": "2024-11-01",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/87/12/d78712aa-bf14-f9f0-2947-c468081a48ed/198846498218_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Time Bomb",
+          "duration": "2:38"
+        }
+      ]
+    },
+    {
       "name": "Lips",
       "year": "2026",
       "release_date": "2026-04-14",
@@ -839,97 +993,6 @@
       ]
     },
     {
-      "name": "Worlds Apart",
-      "year": "2025",
-      "release_date": "2025-11-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/fa/0e/6ffa0eb6-0182-3c5b-7cb0-a921b1da6352/199502617103_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Worlds Apart",
-          "duration": "4:07"
-        }
-      ]
-    },
-    {
-      "name": "Barely Human",
-      "year": "2025",
-      "release_date": "2025-08-15",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/a3/84/35a3849f-6c6f-d26a-0986-6277a4e89e4a/199502064136_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Barely Human",
-          "duration": "3:20"
-        }
-      ]
-    },
-    {
-      "name": "Euphoria",
-      "year": "2024",
-      "release_date": "2024-12-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/f4/92/39f4920f-e213-13c6-9dba-26a2dc788603/198846702261_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Euphoria",
-          "duration": "3:44"
-        }
-      ]
-    },
-    {
-      "name": "Reasons",
-      "year": "2026",
-      "release_date": "2026-03-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/1d/d5/fc1dd5ea-9cee-76d7-f548-aee97bc7633e/199891646715_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Reasons",
-          "duration": "3:33"
-        }
-      ]
-    },
-    {
-      "name": "Bad Attitude",
-      "year": "2025",
-      "release_date": "2025-12-19",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/c5/b8/30c5b89d-243e-7104-333c-8ca89ee370e3/199502912079_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Bad Attitude",
-          "duration": "4:29"
-        }
-      ]
-    },
-    {
-      "name": "Leaving California",
-      "year": "2026",
-      "release_date": "2026-08-28",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/3c/c9/873cc9ed-e272-f0bf-93c2-68fd6a06aa47/824296981993_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Leaving California",
-          "duration": "3:38"
-        }
-      ]
-    },
-    {
-      "name": "Longshot",
-      "year": "2026",
-      "release_date": "2026-07-14",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/e9/51/dbe9514e-a2bd-500a-1dd7-759b1bcf1e5a/881453048555_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Longshot",
-          "duration": "3:33"
-        }
-      ]
-    },
-    {
       "name": "Hit 'Em Where It Hurts",
       "year": "2025",
       "release_date": "2025-08-30",
@@ -939,6 +1002,19 @@
           "number": 1,
           "name": "Hit 'Em Where It Hurts",
           "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "name": "Kill Me With A Kiss",
+      "year": "2026",
+      "release_date": "2026-10-20",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/42/62/0d426248-55a8-cb44-f7bc-32fc5bb84dda/708208021260_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Kill Me With A Kiss",
+          "duration": "2:48"
         }
       ]
     },
@@ -956,19 +1032,6 @@
       ]
     },
     {
-      "name": "BEAST",
-      "year": "2026",
-      "release_date": "2026-04-21",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/30/4a/58304ac9-76a0-d9bf-368b-dcf1666f7415/824296003596_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "BEAST",
-          "duration": "2:42"
-        }
-      ]
-    },
-    {
       "name": "Starless",
       "year": "2026",
       "release_date": "2026-03-10",
@@ -982,15 +1045,28 @@
       ]
     },
     {
-      "name": "MEET ME AFTER LIFE",
+      "name": "Leaving California",
       "year": "2026",
-      "release_date": "2026-05-12",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/d7/4d/6ad74dfc-6a01-f33f-785d-4819e62d1f87/824296328767_cover.jpg/600x600bb.jpg",
+      "release_date": "2026-08-28",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/3c/c9/873cc9ed-e272-f0bf-93c2-68fd6a06aa47/824296981993_cover.jpg/600x600bb.jpg",
       "tracks": [
         {
           "number": 1,
-          "name": "MEET ME AFTER LIFE",
-          "duration": "3:07"
+          "name": "Leaving California",
+          "duration": "3:38"
+        }
+      ]
+    },
+    {
+      "name": "Break Free (feat. Bobby Amaru)",
+      "year": "2026",
+      "release_date": "2026-10-13",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/82/3f/2c823f08-9d47-56dc-fb9e-60443c766d16/708208007455_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Break Free (feat. Bobby Amaru)",
+          "duration": "3:29"
         }
       ]
     },
@@ -1004,6 +1080,19 @@
           "number": 1,
           "name": "Somebody's Watching Me",
           "duration": "3:19"
+        }
+      ]
+    },
+    {
+      "name": "MEET ME AFTER LIFE",
+      "year": "2026",
+      "release_date": "2026-05-12",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/d7/4d/6ad74dfc-6a01-f33f-785d-4819e62d1f87/824296328767_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "MEET ME AFTER LIFE",
+          "duration": "3:07"
         }
       ]
     },
@@ -1034,6 +1123,19 @@
       ]
     },
     {
+      "name": "GLITCH",
+      "year": "2026",
+      "release_date": "2026-01-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/f2/f0/92f2f0aa-ef7a-3a8f-8f49-c0937b85d26d/199891118939_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "GLITCH",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
       "name": "Acid Bloom",
       "year": "2026",
       "release_date": "2026-07-21",
@@ -1043,19 +1145,6 @@
           "number": 1,
           "name": "Acid Bloom",
           "duration": "3:16"
-        }
-      ]
-    },
-    {
-      "name": "HOLLYWOOD TONIC",
-      "year": "2026",
-      "release_date": "2026-10-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/c9/27/f0c92786-9057-8b47-05f4-8a12a96a4381/881453865657_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "HOLLYWOOD TONIC",
-          "duration": "3:20"
         }
       ]
     },
@@ -1239,19 +1328,6 @@
       ]
     },
     {
-      "name": "Time Bomb",
-      "year": "2024",
-      "release_date": "2024-11-01",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/87/12/d78712aa-bf14-f9f0-2947-c468081a48ed/198846498218_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Time Bomb",
-          "duration": "2:38"
-        }
-      ]
-    },
-    {
       "name": "Sincerity",
       "year": "2024",
       "release_date": "2024-11-08",
@@ -1300,6 +1376,19 @@
           "number": 1,
           "name": "Happy When We're Bleeding",
           "duration": "3:34"
+        }
+      ]
+    },
+    {
+      "name": "HOLLYWOOD TONIC",
+      "year": "2026",
+      "release_date": "2026-10-06",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/c9/27/f0c92786-9057-8b47-05f4-8a12a96a4381/881453865657_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "HOLLYWOOD TONIC",
+          "duration": "3:20"
         }
       ]
     },
@@ -1365,19 +1454,6 @@
           "number": 1,
           "name": "Actitud",
           "duration": "4:40"
-        }
-      ]
-    },
-    {
-      "name": "GLITCH",
-      "year": "2026",
-      "release_date": "2026-01-06",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/f2/f0/92f2f0aa-ef7a-3a8f-8f49-c0937b85d26d/199891118939_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "GLITCH",
-          "duration": "2:51"
         }
       ]
     },
@@ -1696,6 +1772,19 @@
       ]
     },
     {
+      "name": "The Unknown",
+      "year": "2021",
+      "release_date": "2021-07-30",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/6a/61/ed6a6135-38ea-778d-2071-d4716665d9f8/196006736651_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Unknown",
+          "duration": "4:14"
+        }
+      ]
+    },
+    {
       "name": "Noah",
       "year": "2023",
       "release_date": "2023-08-04",
@@ -1715,6 +1804,19 @@
           "number": 3,
           "name": "Snake",
           "duration": "3:16"
+        }
+      ]
+    },
+    {
+      "name": "Homicide Stage",
+      "year": "2026",
+      "release_date": "2026-11-10",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/a3/22/01a3226a-a7ce-5648-3f4a-c2900f318d14/708208289295_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Homicide Stage",
+          "duration": "2:44"
         }
       ]
     },
@@ -1785,19 +1887,6 @@
           "number": 1,
           "name": "BL4CK_M0LD (feat. Escape the Fate)",
           "duration": "3:39"
-        }
-      ]
-    },
-    {
-      "name": "Kill Me With A Kiss",
-      "year": "2026",
-      "release_date": "2026-10-20",
-      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/42/62/0d426248-55a8-cb44-f7bc-32fc5bb84dda/708208021260_cover.jpg/600x600bb.jpg",
-      "tracks": [
-        {
-          "number": 1,
-          "name": "Kill Me With A Kiss",
-          "duration": "2:48"
         }
       ]
     },
@@ -1889,6 +1978,19 @@
           "number": 1,
           "name": "Broken Hearted",
           "duration": "3:27"
+        }
+      ]
+    },
+    {
+      "name": "It Comes In III's",
+      "year": "2026",
+      "release_date": "2026-11-17",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/59/d8/8759d837-0e3d-182d-9da3-52087e84ced3/708208288915_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "It Comes In III's",
+          "duration": "3:07"
         }
       ]
     },
@@ -2007,6 +2109,19 @@
       ]
     },
     {
+      "name": "The Unknown II",
+      "year": "2022",
+      "release_date": "2022-02-04",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/d9/dc/39d9dc1d-d5e8-76fd-9119-1a852fd64968/196626241276_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "The Unknown II",
+          "duration": "4:29"
+        }
+      ]
+    },
+    {
       "name": "Given Up",
       "year": "2026",
       "release_date": "2026-11-06",
@@ -2055,6 +2170,32 @@
           "number": 1,
           "name": "Save Tonight",
           "duration": "3:49"
+        }
+      ]
+    },
+    {
+      "name": "Digital Paradise",
+      "year": "2021",
+      "release_date": "2021-06-14",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/9d/9e/bb9d9ee3-79d8-3195-81e7-6260e9d208f8/196006654979_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Digital Paradise",
+          "duration": "3:59"
+        }
+      ]
+    },
+    {
+      "name": "Go Higher",
+      "year": "2022",
+      "release_date": "2022-07-22",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/5a/f3/535af344-3e5b-157e-6f6e-b0cd7b3f8cc6/196925367875_cover.jpg/600x600bb.jpg",
+      "tracks": [
+        {
+          "number": 1,
+          "name": "Go Higher",
+          "duration": "2:59"
         }
       ]
     }
